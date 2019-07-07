@@ -8,35 +8,7 @@
     "description": "Warning message to prevent errors"
   },
   "extension.description.full": {
-    "message": "You can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nTEST",
-    "description": "Full description in extension store"
-  },
-  "extension.description.services": {
-    "message": "Supported services",
-    "description": ""
-  },
-  "extension.description.services.link": {
-    "message": "{0} Have a look at {1}",
-    "description": "{1} will be replaced with a wiki link -> is a variable; {0} wil be a special character (»)"
-  },
-  "extension.description.help": {
-    "message": "Need help?",
-    "description": ""
-  },
-  "extension.description.discord": {
-    "message": "Our Discord server",
-    "description": ""
-  },
-  "extension.description.discord.link": {
-    "message": "{0} Talk to the people behind PreMiD {1}; {0} wil be a special character (»)",
-    "description": "{1} will be replaced with the Discord invite -> is a variable"
-  },
-  "extension.description.opensource": {
-    "message": "We're Open Source!",
-    "description": ""
-  },
-  "extension.description.opensource.link": {
-    "message": "{0} Great stuff should be open to the public {1}; {0} wil be a special character (»)",
-    "description": "{1} will be replaced with github.com/PreMiD/PreMiD -> is a variable"
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {3} Have a look at {4}\n\nNeed help?\n   {5} {6}\n\nOur Discord server\n   {7} Talk to the people behind PreMiD {8}\n\nWe're Open Source!\n   {8} Great stuff should be open to the public {9}",
+    "description": "Full description in extension store; {0} - {9} will be replaced with links and special characters (»)"
   }
 }
