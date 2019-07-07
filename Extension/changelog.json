@@ -1,0 +1,35 @@
+{
+  "'Install them now!' will be a link -> premid.app/store": {
+    "tab.changelog.new.1": "Users can now install presences by themself. Install them now!"
+  },
+  "'see new presences' will be a link -> premid.app/store": {
+    "tab.changelog.new.3": "You can now see new presences in their natural habitat."
+  },
+  "": {
+    "tab.changelog.new.2": "Auto updating is a thing now"
+  },
+  "": {
+    "tab.changelog.new.4": "Streams on YouTube and Twitch are now actually displayed as stream"
+  },
+  "": {
+    "tab.changelog.new.5": "We bumped our Discord bot with new awesome features"
+  },
+  "'docs' will be a link -> docs.premid.app": {
+    "tab.changelog.new.6": "We added docs for these creative developers out there"
+  },
+  "": {
+    "tab.changelog.changed.1": "Completely new Website design"
+  },
+  "": {
+    "tab.changelog.changed.2": "Revamped popup and tabs layout"
+  },
+  "#140 will be a link -> issue": {
+    "tab.changelog.fixed.1": "Fixed #140 so songs over 1h will be displayed correctly"
+  },
+  "": {
+    "tab.changelog.fixed.2": "A lot of (un)known bugs ran away"
+  },
+  "": {
+    "tab.changelog.fixed.3": "Everything is running much faster now"
+  }
+}

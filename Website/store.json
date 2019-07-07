@@ -1,0 +1,17 @@
+{
+  "Error message when the extension wasn't detected": {
+    "store.message.error": "Extension not found, locking functions..."
+  },
+  "Success message when the extension was detected": {
+    "store.message.success": "Extension found, unlocking functions..."
+  },
+  "Creator of a presence": {
+    "store.cards.creator": "Creator"
+  },
+  "Verified badge hover message": {
+    "store.cards.verified": "This presence was approved by a verified developer"
+  },
+  "Search bar text when nothing is stated": {
+    "store.header.search": "Search"
+  }
+}

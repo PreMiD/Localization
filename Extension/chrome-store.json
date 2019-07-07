@@ -1,0 +1,8 @@
+{
+  "Short description in extension store": {
+    "extension.description.short": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services."
+  },
+  "Full description in extension store": {
+    "extension.description.full": "It gives the possibility to use your media keys to control the playback of those services. When you start watching/listening something on one of our supported services, the browser extension sends the meta data of the video/song to our desktop client and PreMiD processes it. PreMiD sends the information with the correct form to Discord and automatically sets your status afterwards."
+  }
+}
