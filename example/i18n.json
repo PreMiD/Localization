@@ -1,0 +1,10 @@
+{
+  "key.description": {
+    "message": "Description",
+    "description": "This is a description"
+  },
+  "key.title": {
+    "message": "Title $1",
+    "description": "This is a title"
+  }
+}

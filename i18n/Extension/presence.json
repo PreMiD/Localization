@@ -1,0 +1,22 @@
+{
+  "presence.playback.playing": {
+    "message": "Playing back",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
+  },
+  "presence.playback.paused": {
+    "message": "Playback paused",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
+  "presence.activity.browsing": {
+    "message": "Browsing...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "Live",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "Episode {0}",
+    "description": "Shows the current episode at your Discord Rich Presence"
+  }
+}

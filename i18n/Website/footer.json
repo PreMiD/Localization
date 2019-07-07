@@ -1,0 +1,90 @@
+{
+  "footer.usercount.heading": {
+    "message": "Ready to try PreMiD?",
+    "description": "Promotional heading"
+  },
+  "footer.usercount.message": {
+    "message": "Join over $1 users today!",
+    "description": "Promotional message; $1 will be replaced with the usercount of Chrome -> is a variable"
+  },
+  "footer.usercount.button": {
+    "message": "Install",
+    "description": "Install button under the promotional message"
+  },
+  "footer.partners.heading": {
+    "message": "Partners",
+    "description": "Partner section"
+  },
+  "footer.developers.heading": {
+    "message": "Developers",
+    "description": "Developer section"
+  },
+  "footer.developers.documentation": {
+    "message": "Documentation",
+    "description": "Documentation -> redirects to docs.premid.app"
+  },
+  "footer.developers.richpresence": {
+    "message": "Rich Presence",
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+  },
+  "footer.supportus.heading": {
+    "message": "Support us",
+    "description": "Support us section"
+  },
+  "footer.supportus.donate": {
+    "message": "Donate",
+    "description": "Donate -> redirects to patreon.com/timeraa"
+  },
+  "footer.supportus.contribute": {
+    "message": "Contribute",
+    "description": "Contribute -> redirects to github.com/premid"
+  },
+  "footer.supportus.design": {
+    "message": "Design",
+    "description": "Design -> redirects to discord.premid.app"
+  },
+  "footer.supportus.translate": {
+    "message": "Translate",
+    "description": "Translate -> redirects to locilazation page"
+  },
+  "footer.help.heading": {
+    "message": "Help",
+    "description": "Help section"
+  },
+  "footer.help.troubleshooting": {
+    "message": "Troubleshooting",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+  },
+  "footer.help.getsupport": {
+    "message": "Get Help",
+    "description": "Get Support -> redirects to Discord invite"
+  },
+  "footer.more.heading": {
+    "message": "More",
+    "description": "More section"
+  },
+  "footer.more.status": {
+    "message": "Status",
+    "description": "Status -> redirects to status.premid.app"
+  },
+  "footer.more.discord": {
+    "message": "Discord",
+    "description": "Discord -> redirects to discord.premid.app"
+  },
+  "footer.more.github": {
+    "message": "GitHub",
+    "description": "GitHub -> redirects to github.com/premid"
+  },
+  "footer.more.wiki": {
+    "message": "Wiki",
+    "description": "Wiki -> redirects to wiki.premid.app"
+  },
+  "footer.copyright.line1": {
+    "message": "2018-2019 PreMiD by Timeraa & Fruxh",
+    "description": "Names shouldn't be translated; Footer copyright text line 1"
+  },
+  "footer.copyright.line2": {
+    "message": "Website maintained by Voknehzyr",
+    "description": "Names shouldn't be translated; Footer copyright text line 2"
+  }
+}

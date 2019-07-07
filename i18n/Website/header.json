@@ -1,0 +1,14 @@
+{
+  "header.store": {
+    "message": "store",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "downloads",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "contributors",
+    "description": "Contributors tab"
+  }
+}
