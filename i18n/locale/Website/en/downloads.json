@@ -12,7 +12,7 @@
     "description": "Heading for installing the extension"
   },
   "downloads.instructions.extension.chromium": {
-    "message": "$1 and etc.",
-    "description": "Special Chromium instructions; $1 will be replaced with Chrome, Edge, Opera -> are variables"
+    "message": "{0} and etc.",
+    "description": "Special Chromium instructions; {0} will be replaced with Chrome, Edge, Opera -> are variables"
   }
 }

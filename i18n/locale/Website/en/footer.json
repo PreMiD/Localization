@@ -4,8 +4,8 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Join over $1 users today!",
-    "description": "Promotional message; $1 will be replaced with the usercount of Chrome -> is a variable"
+    "message": "Join over {0} users today!",
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
     "message": "Install",
