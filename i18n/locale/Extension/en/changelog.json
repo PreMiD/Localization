@@ -1,10 +1,10 @@
 {
   "tab.changelog.new.1": {
-    "message": "Users can now install presences by themself. {{Install them now!}}",
+    "message": "Users can now install presences by themself. [[Install them now!]]",
     "description": "'Install them now!' will be a link -> premid.app/store"
   },
   "tab.changelog.new.2": {
-    "message": "You can now {{see new presences}} in their natural habitat.",
+    "message": "You can now [[see new presences]] in their natural habitat.",
     "description": "'see new presences' will be a link -> premid.app/store"
   },
   "tab.changelog.new.3": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "tab.changelog.new.6": {
-    "message": "We added {{docs}} for these creative developers out there",
+    "message": "We added [[docs]] for these creative developers out there",
     "description": "'docs' will be a link -> docs.premid.app"
   },
   "tab.changelog.changed.1": {
@@ -32,7 +32,7 @@
     "description": ""
   },
   "tab.changelog.fixed.1": {
-    "message": "Fixed {{#140}} so songs over 1h will be displayed correctly",
+    "message": "Fixed [[#140]] so songs over 1h will be displayed correctly",
     "description": "#140 will be a link -> issue"
   },
   "tab.changelog.fixed.2": {
