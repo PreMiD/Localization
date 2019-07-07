@@ -4,8 +4,8 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "Discord server",
-    "description": "Discord server button -> redirects to Discord invite"
+    "message": "{0} server",
+    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
     "message": "Downloads",
@@ -16,16 +16,16 @@
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "$1 left",
-    "description": "Discord Rich Presence -> time left; $1 will be replaced with the current timestamp -> is a variable"
+    "message": "{0} left",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
     "message": "Some of our features",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "These cards will show you our main features to help you understand what PreMiD can do!",
-    "description": "Features section subheading"
+    "message": "These cards will show you our main features to help you understand what {0} can do!",
+    "description": "Features section subheading; {0} will be replaced with 'PreMiD' -> is a variable"
   },
   "home.cards.extensionsystem.heading": {
     "message": "Extension System",
@@ -56,7 +56,7 @@
     "description": "Open Source card heading"
   },
   "home.cards.opensource.description": {
-    "message": "You noticed a bug or just want to improve our code? Then you have the opportunity to contribute to our GitHub project.",
-    "description": "Open Source card description"
+    "message": "You noticed a bug or just want to improve our code? Then you have the opportunity to contribute to our {0} project.",
+    "description": "Open Source card description; {0} will be replaced with 'GitHub' -> is a variable"
   }
 }

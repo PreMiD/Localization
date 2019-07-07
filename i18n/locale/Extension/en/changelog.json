@@ -1,10 +1,10 @@
 {
   "tab.changelog.new.1": {
-    "message": "Users can now install presences by themself. [[Install them now!]]",
+    "message": "Users can now add presences by themself. [[Install them now!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app/store"
   },
   "tab.changelog.new.2": {
-    "message": "You can now [[see new presences]] in their natural habitat.",
+    "message": "You can now [[see new presences]] in their natural habitat",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app/store"
   },
   "tab.changelog.new.3": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "tab.changelog.new.4": {
-    "message": "Streams on YouTube and Twitch are now actually displayed as stream",
+    "message": "Streams on YouTube are now actually displayed as stream",
     "description": ""
   },
   "tab.changelog.new.5": {

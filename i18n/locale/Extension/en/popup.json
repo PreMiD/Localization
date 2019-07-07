@@ -43,6 +43,10 @@
     "message": "Cancel",
     "description": "Cancel button"
   },
+  "popup.presences.load": {
+    "message": "Load Presence",
+    "description": "Load Presence button"
+  },
   "popup.buttons.presenceStore": {
     "message": "Presence Store",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
