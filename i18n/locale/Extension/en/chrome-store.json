@@ -8,7 +8,7 @@
     "description": "Warning message to prevent errors"
   },
   "extension.description.full": {
-    "message": "You can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.",
+    "message": "You can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nTEST",
     "description": "Full description in extension store"
   },
   "extension.description.services": {
