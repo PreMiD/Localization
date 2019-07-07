@@ -3,8 +3,40 @@
     "message": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services.",
     "description": "Short description in extension store"
   },
+  "extension.description.application": {
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING",
+    "description": "Warning message to prevent errors"
+  },
   "extension.description.full": {
-    "message": "It allows to use your media keys to control the playback of those services. When you start watching/listening something on one of our supported services, the browser extension sends the meta data of the video/song to our desktop client and PreMiD processes it. PreMiD sends the information with the correct form to Discord and automatically sets your status afterwards.",
+    "message": "You can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.",
     "description": "Full description in extension store"
+  },
+  "extension.description.services": {
+    "message": "Supported services",
+    "description": ""
+  },
+  "extension.description.services.link": {
+    "message": "{0} Have a look at {1}",
+    "description": "{1} will be replaced with a wiki link -> is a variable; {0} wil be a special character (»)"
+  },
+  "extension.description.help": {
+    "message": "Need help?",
+    "description": ""
+  },
+  "extension.description.discord": {
+    "message": "Our Discord server",
+    "description": ""
+  },
+  "extension.description.discord.link": {
+    "message": "{0} Talk to the people behind PreMiD {1}; {0} wil be a special character (»)",
+    "description": "{1} will be replaced with the Discord invite -> is a variable"
+  },
+  "extension.description.opensource": {
+    "message": "We're Open Source!",
+    "description": ""
+  },
+  "extension.description.opensource.link": {
+    "message": "{0} Great stuff should be open to the public {1}; {0} wil be a special character (»)",
+    "description": "{1} will be replaced with github.com/PreMiD/PreMiD -> is a variable"
   }
 }
