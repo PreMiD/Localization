@@ -15,6 +15,10 @@
     "message": "Streams on YouTube are now actually displayed as stream",
     "description": ""
   },
+  "tab.changelog.new.7": {
+    "message": "Everyone can create presences now",
+    "description": ""
+  },
   "tab.changelog.new.5": {
     "message": "We buffed our Discord bot with new awesome features",
     "description": ""
