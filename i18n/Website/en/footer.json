@@ -71,14 +71,6 @@
     "message": "Status",
     "description": "Status -> redirects to status.premid.app"
   },
-  "footer.more.discord": {
-    "message": "Discord",
-    "description": "Discord -> redirects to discord.premid.app"
-  },
-  "footer.more.github": {
-    "message": "GitHub",
-    "description": "GitHub -> redirects to github.com/premid"
-  },
   "footer.more.wiki": {
     "message": "Wiki",
     "description": "Wiki -> redirects to wiki.premid.app"
