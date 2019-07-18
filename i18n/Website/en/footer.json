@@ -1,4 +1,8 @@
 {
+  "footer.language": {
+    "message": "Language",
+    "description": "You know how to translate that word? I hope you do :D"
+  },
   "footer.usercount.heading": {
     "message": "Ready to try PreMiD?",
     "description": "Promotional heading"

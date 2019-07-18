@@ -1,4 +1,24 @@
 {
+  "header.language": {
+    "message": "English",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "We support your language, wanna switch?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Our website are translated to your language, it might help you in case you don't know English language very well.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "No, thanks",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Switch language",
+    "description": "Button that switches language after click."
+  },
   "header.store": {
     "message": "Store",
     "description": "Store tab"
