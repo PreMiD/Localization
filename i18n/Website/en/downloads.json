@@ -1,13 +1,13 @@
 {
-  "Heading for installing the application": {
+  "downloads.instructions.application.heading": {
     "message": "1. Download the application",
     "description": "Heading for installing the application"
   },
-  "Special Linux instructions; OS = Operating System": {
+  "downloads.instructions.application.alert": {
     "message": "You need to build an application for this OS on your own!",
     "description": "Special Linux instructions; OS = Operating System"
   },
-  "Heading for installing the extension": {
+  "downloads.instructions.extension.heading": {
     "message": "2. Install the browser extension",
     "description": "Heading for installing the extension"
   },
