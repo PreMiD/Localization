@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Engleză",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Avem limbajul tău, dorești să îl schimbi?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Website-ul nostru este tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nu, mulțumesc",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Schimbă limba",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Magazin",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Descărcări",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Contribuitori",
+    "description": "Contributors tab"
+  }
+}
