@@ -4,11 +4,11 @@
     "description": "Name of your language written on your language."
   },
   "header.languageNotification.title": {
-    "message": "Nós suportamos sua língua, quer mudar?",
+    "message": "Nós suportamos seu idioma, quer alterar?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nosso website está traduzido para sua língua, provavelmente pode lhe ajudar se você não sabe Inglês muito bem. ",
+    "message": "Nosso site foi traduzido para sua língua. Isso deve ajuda-lo caso você não fale Inglês muito bem.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
