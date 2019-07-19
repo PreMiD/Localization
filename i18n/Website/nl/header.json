@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Engels",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Wij ondersteunen uw taal, wilt u overschakelen?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Onze website is vertaald in uw taal. Dit kan helpen als u niet goed Engels spreekt.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nee, bedankt",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Verwissel van taal",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Winkel",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Downloads",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Bijdragers",
+    "description": "Contributors tab"
+  }
+}
