@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Deutsch",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Wir unterstützen deine Sprache, möchtest du wechseln?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Unsere Website wurde in deine Sprache übersetzt. Dies könnte helfen, falls du nicht so gut Englisch sprichst.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nein, danke",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Sprache wechseln",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Store",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Download",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Mitwirkende",
+    "description": "Contributors tab"
+  }
+}
