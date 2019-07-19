@@ -63,6 +63,22 @@
     "message": "Get Help",
     "description": "Get Support -> redirects to Discord invite"
   },
+  "footer.help.information.": {
+    "message": "Information",
+    "description": "Information section"
+  },
+  "footer.help.information.cookies": {
+    "message": "Cookies",
+    "description": "meant to be 'Cookie Policy'"
+  },
+  "footer.help.information.privacy": {
+    "message": "Privacy",
+    "description": "meant to be 'Privacy Policy'"
+  },
+  "footer.help.information.terms": {
+    "message": "Terms",
+    "description": "meant to be 'Terms of Service'"
+  },
   "footer.more.heading": {
     "message": "More",
     "description": "More section"
