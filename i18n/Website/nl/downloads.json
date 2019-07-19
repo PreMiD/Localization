@@ -1,0 +1,18 @@
+{
+  "downloads.instructions.application.heading": {
+    "message": "1. Download de applicatie",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.application.alert": {
+    "message": "U moet zelf een applicatie bouwen voor dit besturingssysteem!",
+    "description": "Special Linux instructions; OS = Operating System"
+  },
+  "downloads.instructions.extension.heading": {
+    "message": "2. Installeer de browser extensie",
+    "description": "Heading for installing the extension"
+  },
+  "downloads.instructions.extension.chromium": {
+    "message": "{0} en etc.",
+    "description": "Special Chromium instructions; {0} will be replaced with Chrome, Edge, Opera -> are variables"
+  }
+}
