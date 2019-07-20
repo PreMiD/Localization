@@ -63,6 +63,22 @@
     "message": "Primește ajutor",
     "description": "Get Support -> redirects to Discord invite"
   },
+  "footer.help.information.": {
+    "message": "Informație",
+    "description": "Information section"
+  },
+  "footer.help.information.cookies": {
+    "message": "Fursecuri",
+    "description": "meant to be 'Cookie Policy'"
+  },
+  "footer.help.information.privacy": {
+    "message": "Intimitate",
+    "description": "meant to be 'Privacy Policy'"
+  },
+  "footer.help.information.terms": {
+    "message": "Termeni",
+    "description": "meant to be 'Terms of Service'"
+  },
   "footer.more.heading": {
     "message": "Mai multe",
     "description": "More section"
