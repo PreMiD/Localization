@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website-ul nostru este tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine.",
+    "message": "Website-ul nostru a fost tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
