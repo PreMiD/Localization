@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "ไทย",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "เรารองรับภาษาของคุณนะ อยากเปลี่ยนไหม?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "เว็บไซต์ของเรามีภาษาอื่น ๆ ให้เลือก เผื่อคุณจะอ่านภาษาอังกฤษไม่เก่งนะ",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "ไม่ ขอบคุณ",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "เปลี่ยนภาษา",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "ร้านค้า",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "ดาวน์โหลด",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "ผู้พัฒนา",
+    "description": "Contributors tab"
+  }
+}
