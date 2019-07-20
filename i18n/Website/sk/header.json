@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Slovenčina",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Podporujeme tvoj jazyk, chceš si prepnúť?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Naša stránka bola preložená do tvojho jazyku. Možno by ti to pomohlo v prípade keď nehovoríš Anglicky dobre.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nie, ďakujem",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Zmeniť Jazyk",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Obchod",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Stiahnuť ",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Prispievatelia",
+    "description": "Contributors tab"
+  }
+}
