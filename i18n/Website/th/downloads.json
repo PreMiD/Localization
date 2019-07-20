@@ -1,0 +1,18 @@
+{
+  "downloads.instructions.application.heading": {
+    "message": "1. ดาวน์โหลดแอปพลิเคชัน",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.application.alert": {
+    "message": "คุณต้องสร้างโปรแกรมนี้ในระบบปฏิบัติการของคุณเองนะ!",
+    "description": "Special Linux instructions; OS = Operating System"
+  },
+  "downloads.instructions.extension.heading": {
+    "message": "2. ติดตั้งส่วนเสริมเบราว์เซอร์",
+    "description": "Heading for installing the extension"
+  },
+  "downloads.instructions.extension.chromium": {
+    "message": "และอื่น ๆ",
+    "description": "Special Chromium instructions; {0} will be replaced with Chrome, Edge, Opera -> are variables"
+  }
+}
