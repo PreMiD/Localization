@@ -1,0 +1,18 @@
+{
+  "downloads.instructions.application.heading": {
+    "message": "1. Stiahni si aplikáciu",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.application.alert": {
+    "message": "Musíš si postaviť aplikáciu pre tento OS vo vlastnom!",
+    "description": "Special Linux instructions; OS = Operating System"
+  },
+  "downloads.instructions.extension.heading": {
+    "message": "2. Nainštaluj si rozšírenie",
+    "description": "Heading for installing the extension"
+  },
+  "downloads.instructions.extension.chromium": {
+    "message": "{0} a atď.",
+    "description": "Special Chromium instructions; {0} will be replaced with Chrome, Edge, Opera -> are variables"
+  }
+}
