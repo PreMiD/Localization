@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "الإنجليزية",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "نحن ندعم لغتك، تريد التغيير؟",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "لقد تمت ترجمة موقعنا إلى لغتك. قد يساعدك ذلك إذا كنت لا تتحدث الإنجليزية جيدًا.\n ",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "لا. شكرا",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "تغيير اللغة",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "المتجر",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "التحميلات",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "المساهمون",
+    "description": "Contributors tab"
+  }
+}
