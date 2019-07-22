@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Polski",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Nasza strona została przetłumaczona na twój język, czy chcesz zmienić język strony?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Nasza strona internetowa została przetłumaczona na Twój język. Może ci pomóc, jeśli nie mówisz dobrze po angielsku.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nie, dzięki",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Zmień Język",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Sklep",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Do pobrania",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Współtwórcy",
+    "description": "Contributors tab"
+  }
+}
