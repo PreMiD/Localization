@@ -1,0 +1,30 @@
+{
+  "store.message.error": {
+    "message": "Розширення не знайдено, блокування функцій...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "Розширення знайдено, розблокування функцій...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "Творець",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "Ця присутність була додана верифікованим розроником",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Пошук",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Встановити присутність",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Видалити присутність",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  }
+}
