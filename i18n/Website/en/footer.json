@@ -63,7 +63,7 @@
     "message": "Get Help",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
+  "footer.help.information": {
     "message": "Information",
     "description": "Information section"
   },
