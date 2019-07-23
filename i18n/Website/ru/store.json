@@ -1,0 +1,30 @@
+{
+  "store.message.error": {
+    "message": "Расширение не найдено, блокировка функций...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "Расширение найдено, разблокировка функций...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "Создатель",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "Этот статус был проверен доверенным разработчиком",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Искать",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Установить статус",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Удалить статус",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  }
+}
