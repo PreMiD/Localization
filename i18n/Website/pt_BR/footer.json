@@ -63,8 +63,8 @@
     "message": "Consiga ajuda",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
-    "message": "Informação",
+  "footer.help.information": {
+    "message": "Informações",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
