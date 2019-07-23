@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with presence system that allows you to use presences that was created by other users and manage them via extension!",
+    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip/pause/play tracks while using other applications.",
+    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone good at English. That's why we translating our extension and website into other languages, probably including yours!",
+    "message": "Not everyone is good at English. That's why we translating our extension and website into other languages, probably including yours!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
