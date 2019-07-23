@@ -12,7 +12,7 @@
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "تثبيت",
+    "message": "تحميل",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "ترجم",
+    "message": "ترجمة",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -56,14 +56,14 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "استكشاف الأخطاء وإصلاحها\n \n ",
+    "message": "استكشاف الأخطاء وإصلاحها",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "احصل على مساعدة",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
+  "footer.help.information": {
     "message": "معلومات",
     "description": "Information section"
   },
