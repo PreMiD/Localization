@@ -1,0 +1,18 @@
+{
+    "contributors.headings.coreteam": {
+        "message": "Core Team",
+        "description": "Heading for group of users."
+    },
+    "contributors.headings.supporters": {
+        "message": "Supporters",
+        "description": "Heading for group of users."
+    },
+    "contributors.headings.translators": {
+        "message": "Translators",
+        "description": "Heading for group of users."
+    },
+    "contributors.headings.contributors": {
+        "message": "Contributors",
+        "description": "Heading for group of users."
+    }
+}

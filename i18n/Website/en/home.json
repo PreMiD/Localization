@@ -20,43 +20,43 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Some of our features",
+    "message": "Our primary features",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "These cards will show you our main features to help you understand what {0} can do!",
-    "description": "Features section subheading; {0} will be replaced with 'PreMiD' -> is a variable"
+    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "description": "Features section subheading"
   },
-  "home.cards.extensionsystem.heading": {
-    "message": "Extension System",
-    "description": "Extension system heading"
+  "home.cards.presencesystem.title": {
+    "message": "Presence System",
+    "description": "Title"
   },
-  "home.cards.extensionsystem.description": {
-    "message": "Our extension has its own extensions! Sounds very strange but it allows you to install different presences for your lovely services!",
-    "description": "Extension system description"
+  "home.cards.presencesystem.explanation": {
+    "message": "We have developed our extension with presence system that allows you to use presences that was created by other users and manage them via extension!",
+    "description": "Description for card"
   },
-  "home.cards.mediacontrols.heading": {
+  "home.cards.mediacontrols.title": {
     "message": "Media Controls",
-    "description": "Media Controls card heading"
+    "description": "Title"
   },
-  "home.cards.mediacontrols.desciption": {
-    "message": "Most of our presences provide support for Media Controls. You can skip & pause tracks while using other applications.",
-    "description": "Media Controls card description"
+  "home.cards.mediacontrols.explanation": {
+    "message": "Most of our presences provide support for media controls. You can skip/pause/play tracks while using other applications.",
+    "description": "Description for card"
   },
-  "home.cards.tabpriority.heading": {
-    "message": "Tab Priority",
-    "description": "Tab Priority card heading"
+  "home.cards.multilingual.title": {
+    "message": "Multilingual",
+    "description": "Title"
   },
-  "home.cards.tabpriority.description": {
-    "message": "When changing between tabs, our extensions prioritizes the active one.",
-    "description": "Tab Priority card description"
+  "home.cards.multilingual.explanation": {
+    "message": "Not everyone good at English. That's why we translating our extension and website into other languages, probably including yours!",
+    "description": "Description for card"
   },
-  "home.cards.opensource.heading": {
+  "home.cards.opensource.title": {
     "message": "Open Source",
-    "description": "Open Source card heading"
+    "description": "Title"
   },
-  "home.cards.opensource.description": {
-    "message": "You noticed a bug or just want to improve our code? Then you have the opportunity to contribute to our {0} project.",
-    "description": "Open Source card description; {0} will be replaced with 'GitHub' -> is a variable"
+  "home.cards.opensource.explanation": {
+    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add new feature you can create issue or pull request on our GitHub page!",
+    "description": "Description for card"
   }
 }

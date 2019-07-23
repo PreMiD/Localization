@@ -18,5 +18,13 @@
   "store.header.search": {
     "message": "Search",
     "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Install presence",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Remove presence",
+    "description": "Button that will appear on hover after extension and presence is installed."
   }
 }
