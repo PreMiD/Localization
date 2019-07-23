@@ -63,7 +63,7 @@
     "message": "ขอความช่วยเหลือ",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
+  "footer.help.information": {
     "message": "ข้อมูล",
     "description": "Information section"
   },
