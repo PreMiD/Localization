@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Русский",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Мы поддерживаем ваш язык, использовать его?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Наш веб-сайт был переведён на ваш язык. Это может вам помочь, если вы не очень хорошо знаете английский язык.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Нет, спасибо",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Изменить язык",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Магазин",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Загрузки ",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Внесшие вклад",
+    "description": "Contributors tab"
+  }
+}
