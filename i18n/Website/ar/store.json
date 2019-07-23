@@ -1,0 +1,30 @@
+{
+  "store.message.error": {
+    "message": "الملحق غير موجود ، جاري قفل الوظائف ...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "تم العثور على الملحق ، جاري فتح وظائف ...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "منشئ",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "تمت الموافقة على هذا presence  بواسطة مطور مثبت",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "بحث",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "تثبيت Presence",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "إزالة Presence\n \n ",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  }
+}
