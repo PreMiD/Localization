@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "日本語",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "あなたの言語をサポートしています。切り替えますか？",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "こののウェブサイトはあなたの言語に翻訳されています。 あなたが英語をあまりでない場合は役に立つでしょう。",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "いいえ",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "言語を選択",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "ストア",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "ダウンロード",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "コントリビューター",
+    "description": "Contributors tab"
+  }
+}
