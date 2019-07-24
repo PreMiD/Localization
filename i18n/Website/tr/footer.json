@@ -60,10 +60,10 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Yardım AL‮",
+    "message": "Yardım Al‮",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
+  "footer.help.information": {
     "message": "Bilgi",
     "description": "Information section"
   },
