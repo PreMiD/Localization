@@ -1,0 +1,30 @@
+{
+  "store.message.error": {
+    "message": "Rozšírenie sa nenašlo, zamykám funkcie...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "Rozšírenie sa našlo, odomýkam funkcie...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "Vytvoril",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "Táto prítomnosť bola schválená overeným vývojárom ",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Hľadať",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Nainštalovať prítomnosť",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Odstrániť Prítomnosť",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  }
+}
