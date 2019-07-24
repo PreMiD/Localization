@@ -4,7 +4,7 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Gotowy na PreMiD?",
+    "message": "Gotowy na wypróbowanie PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -20,7 +20,7 @@
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developerzy",
+    "message": "Sekcja deweloperska",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
@@ -63,7 +63,7 @@
     "message": "Wsparcie",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
+  "footer.help.information": {
     "message": "Informacje",
     "description": "Information section"
   },
