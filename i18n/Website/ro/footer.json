@@ -1,10 +1,10 @@
 {
   "footer.language": {
-    "message": "Limbaj",
+    "message": "Limbă",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ești pregătit să incerci PreMiD?",
+    "message": "Ești pregătit să încerci PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -63,8 +63,8 @@
     "message": "Primește ajutor",
     "description": "Get Support -> redirects to Discord invite"
   },
-  "footer.help.information.": {
-    "message": "Informație",
+  "footer.help.information": {
+    "message": "Informații",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
