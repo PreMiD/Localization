@@ -1,0 +1,62 @@
+{
+  "home.introduction.catchphrase": {
+    "message": "Дайте всім знати що ти дивишся і що слухаєш!",
+    "description": "First phrase that a user reads on our website"
+  },
+  "home.introduction.button.discord": {
+    "message": "{0} сервер",
+    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  },
+  "home.introduction.button.downloads": {
+    "message": "Завантаження",
+    "description": "Downloads button -> redirects to /downloads page"
+  },
+  "home.examples.playingagame": {
+    "message": "Грає в гру",
+    "description": "Discord Rich Presence -> Playing a game"
+  },
+  "home.examples.timestamp": {
+    "message": "{0} залишилось",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.cards.heading": {
+    "message": "Наші головні функції",
+    "description": "Features section"
+  },
+  "home.cards.subheading": {
+    "message": "Ми маємо багато функцій, але прямо зараз ми хочемо сказати тобі наші головні функції, які ти можеш знайти тільки у PreMiD.",
+    "description": "Features section subheading"
+  },
+  "home.cards.presencesystem.title": {
+    "message": "Система присутностей",
+    "description": "Title"
+  },
+  "home.cards.presencesystem.explanation": {
+    "message": "Ми розробили наше розширення з системою присутностей, яка дозволяє використовувати присутності, які створили інші користувачі, тай керувати ними через розширення!",
+    "description": "Description for card"
+  },
+  "home.cards.mediacontrols.title": {
+    "message": "Керування медіа",
+    "description": "Title"
+  },
+  "home.cards.mediacontrols.explanation": {
+    "message": "Більшість з наших присутностей забезпечують підтримку для керування медіа. Ви можете пропустити, поставити на паузу і увімкнути треки, поки використовуєте інші застосунки.",
+    "description": "Description for card"
+  },
+  "home.cards.multilingual.title": {
+    "message": "Багатомовність",
+    "description": "Title"
+  },
+  "home.cards.multilingual.explanation": {
+    "message": "Не всі гарно знаю англійську, саме тому ми перекладаємо наше розширення та веб-сайт на інші мови, і, ймовірно, включаючи вашу!",
+    "description": "Description for card"
+  },
+  "home.cards.opensource.title": {
+    "message": "Відкритий вихідний код",
+    "description": "Title"
+  },
+  "home.cards.opensource.explanation": {
+    "message": "Наш вихідний код застосунка, веб-сайту і розширення ",
+    "description": "Description for card"
+  }
+}
