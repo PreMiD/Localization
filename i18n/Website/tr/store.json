@@ -1,0 +1,30 @@
+{
+  "store.message.error": {
+    "message": "Eklenti bulunamadı, fonksiyonlar kilitleniyor...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "Eklenti bulundu, fonksiyonlar aktifleştiriliyor...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "Yapımcı",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "Bu servis bir onaylanmış geliştirici tarafından kabul edilmiş",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Ara",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Servisi yükle",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Servisi kaldı",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  }
+}
