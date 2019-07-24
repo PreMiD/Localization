@@ -1,0 +1,62 @@
+{
+  "home.introduction.catchphrase": {
+    "message": "Ne izlediğinizi ve dinlediğinizi herkese gösterin!",
+    "description": "First phrase that a user reads on our website"
+  },
+  "home.introduction.button.discord": {
+    "message": "{0} sunucusu",
+    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  },
+  "home.introduction.button.downloads": {
+    "message": "İndirmeler",
+    "description": "Downloads button -> redirects to /downloads page"
+  },
+  "home.examples.playingagame": {
+    "message": "Bir oyun oynuyor",
+    "description": "Discord Rich Presence -> Playing a game"
+  },
+  "home.examples.timestamp": {
+    "message": "{0}kaldı",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.cards.heading": {
+    "message": "Öne çıkan özelliklerimiz",
+    "description": "Features section"
+  },
+  "home.cards.subheading": {
+    "message": "Aslında bir çok özelliğe sahibiz, ancak şimdilik sadece, sadece PreMiD'de bulabileceğiniz ana özelliklerden bahsedeceğiz.",
+    "description": "Features section subheading"
+  },
+  "home.cards.presencesystem.title": {
+    "message": "Durum Sistemi",
+    "description": "Title"
+  },
+  "home.cards.presencesystem.explanation": {
+    "message": "Eklentimizi durum sistemi dediğimiz bir şekilde tasarladık. Bu sayede diğer kullanıcılar kendi oluşturdukları, farklı siteler için durumuzu gösteren mağaza sistemi ile kullanmanıza olanak sağlıyoruz.",
+    "description": "Description for card"
+  },
+  "home.cards.mediacontrols.title": {
+    "message": "Medya Kontrolleri",
+    "description": "Title"
+  },
+  "home.cards.mediacontrols.explanation": {
+    "message": "Desteklenen sitelerin büyük çoğunluğu medya kontrollerini destekler. Bu sayede diğer uygulamaları kullanırken sitelerde geçebilir, durdurabilir veya tekrar oynatabilirsiniz.",
+    "description": "Description for card"
+  },
+  "home.cards.multilingual.title": {
+    "message": "Çoklu Dil",
+    "description": "Title"
+  },
+  "home.cards.multilingual.explanation": {
+    "message": "Herkes İngilizce'de iyi değildir. İşte bu yüzden bizde hem eklentimizi, hemde internet sitemizi muhtemelen sizinkini de destekleyen dillere çevirdik!",
+    "description": "Description for card"
+  },
+  "home.cards.opensource.title": {
+    "message": "Açık Kaynak",
+    "description": "Title"
+  },
+  "home.cards.opensource.explanation": {
+    "message": "Uygulamamızın, internet sitemizin ve eklentimizin kodları tamamen açık kaynaktır. Eğer bir hata görür ve yeni bir özellik eklenmesini isterseniz, bir \"issue\" ya da \"pull request\" oluşturarak GitHub'dan bize bildirebilirsiniz!",
+    "description": "Description for card"
+  }
+}
