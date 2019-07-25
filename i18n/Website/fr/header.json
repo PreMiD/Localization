@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Anglais",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Nous utilisons votre langue, voulez-vous changer ?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Notre site a été traduit dans votre langue. Cela peut vous aider si vous ne parlez pas très bien anglais.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Non, merci.",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Changer de langue.",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Boutique",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Téléchargements",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Contributeurs",
+    "description": "Contributors tab"
+  }
+}
