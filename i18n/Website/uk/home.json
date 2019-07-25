@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Ми маємо багато функцій, але прямо зараз ми хочемо сказати тобі наші головні функції, які ти можеш знайти тільки у PreMiD.",
+    "message": "Ми маємо багато функцій, але прямо зараз ми хочемо розказати тобі про наші головні функції, які ти можеш знайти тільки у PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Не всі гарно знаю англійську, саме тому ми перекладаємо наше розширення та веб-сайт на інші мови, і, ймовірно, включаючи вашу!",
+    "message": "Не всі гарно знають англійську мову. Ось чому ми перекладаємо наше розширення та веб-сайт іншими мовами, ймовірно, включаючи вашу!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
