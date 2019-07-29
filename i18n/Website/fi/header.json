@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Englanti",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Me Tuemme sinun kieltäsi haluatko vaihtaa",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Miedän nettisivusto on käännetty Sinun kielellesi. Se voui auttaa sinua koska et puhu englantia tarpeeksi hyvin.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ei, Kiitos",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Vaihda kieltä",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Kauppa",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Lataukset",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Osallistujat",
+    "description": "Contributors tab"
+  }
+}
