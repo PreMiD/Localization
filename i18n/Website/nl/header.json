@@ -1,6 +1,6 @@
 {
   "header.language": {
-    "message": "Engels",
+    "message": "Nederlands",
     "description": "Name of your language written on your language."
   },
   "header.languageNotification.title": {
@@ -18,6 +18,10 @@
   "header.languageNotification.btnAccept": {
     "message": "Verwissel van taal",
     "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Pannenkoeken bakken...;Containers plaatsen...;Uw IP-adres parseren...;UwU;Regels overtreden...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
     "message": "Winkel",
