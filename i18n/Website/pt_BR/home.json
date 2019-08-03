@@ -12,7 +12,7 @@
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Jogando um jogo",
+    "message": "Jogando",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
@@ -44,11 +44,11 @@
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilíngue",
+    "message": "Multilinguagem",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Nem todo mundo é bom em inglês. É por isso que traduzimos nossa extensão e website para outros idiomas, provavelmente incluindo o seu!",
+    "message": "Nem todo mundo é bom em inglês. É por isso que nós estamos traduzindo nossa extensão e nosso site para outras línguas, provavelmente incluindo a sua.",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "O codigo fonte da Nossa aplicação, site e extensão são de codigo aberto. Se você encontrou um bug ou deseja adicionar um novo recurso, você pode criar uma issue ou solicitar um pull request em nossa página do GitHub!",
+    "message": "O codigo fonte do nosso aplicativo, site e extensão são de codigo aberto. Se você encontrou um bug ou deseja adicionar um novo recurso, você pode criar uma issue ou solicitar um pull request na nossa página do GitHub!",
     "description": "Description for card"
   }
 }
