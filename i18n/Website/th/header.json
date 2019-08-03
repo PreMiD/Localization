@@ -19,6 +19,10 @@
     "message": "เปลี่ยนภาษา",
     "description": "Button that switches language after click."
   },
+  "header.loader.phrases": {
+    "message": "กำลังอบแพนเค้ก...;วางแพนเค้ก...;กำลังแยกแพนเค้ก...;UwU;กำลังแหกแพนเค้ก...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
   "header.store": {
     "message": "ร้านค้า",
     "description": "Store tab"
