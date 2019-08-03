@@ -19,6 +19,10 @@
     "message": "Zmień Język",
     "description": "Button that switches language after click."
   },
+  "header.loader.phrases": {
+    "message": "Pieczenie naleśników...;Łamanie zasad...;Jedzenie naleśników...;Przenoszenie pudeł...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
   "header.store": {
     "message": "Sklep",
     "description": "Store tab"
