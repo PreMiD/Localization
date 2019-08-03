@@ -19,6 +19,10 @@
     "message": "Изменить язык",
     "description": "Button that switches language after click."
   },
+  "header.loader.phrases": {
+    "message": "Готовим блинчики...;Устанавливаем контейнеры...;Парсим твой IP адрес...;UwU;Нарушаем правила...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
   "header.store": {
     "message": "Магазин",
     "description": "Store tab"
@@ -28,7 +32,7 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Внесшие вклад",
+    "message": "Участники",
     "description": "Contributors tab"
   }
 }
