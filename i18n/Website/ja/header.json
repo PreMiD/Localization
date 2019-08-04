@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "こののウェブサイトはあなたの言語に翻訳されています。 あなたが英語をあまりでない場合は役に立つでしょう。",
+    "message": "こののウェブサイトはあなたの言語に翻訳されています。 あなたが英語をあまり得意でない場合は役に立つでしょう。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -18,6 +18,10 @@
   "header.languageNotification.btnAccept": {
     "message": "言語を選択",
     "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "パンケーキを焼いています……;荷物を運んでいます……;IPアドレスを解析しています……;UwU;ルールを破壊しています……",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
     "message": "ストア",
