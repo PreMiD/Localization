@@ -19,6 +19,10 @@
     "message": "Changer de langue.",
     "description": "Button that switches language after click."
   },
+  "header.loader.phrases": {
+    "message": "Cuisiner des pancakes...; Placer les containers...;Analyser votre adresse IP; UwU; Briser les règles...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
   "header.store": {
     "message": "Boutique",
     "description": "Store tab"
