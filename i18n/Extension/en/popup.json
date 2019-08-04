@@ -39,9 +39,9 @@
     "message": "No Presences added",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
-  "popup.presences.cancel": {
-    "message": "Cancel",
-    "description": "Cancel button"
+  "popup.presences.done": {
+    "message": "Done",
+    "description": "Done button"
   },
   "popup.presences.load": {
     "message": "Load Presence",
