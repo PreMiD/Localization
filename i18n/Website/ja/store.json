@@ -26,5 +26,9 @@
   "store.card.presence.remove": {
     "message": "プレゼンスを削除",
     "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
+    "description": "The message that appears instead of the buttons."
   }
 }
