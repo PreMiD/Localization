@@ -20,7 +20,7 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Встановити присутність",
+    "message": "Додати присутність",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
