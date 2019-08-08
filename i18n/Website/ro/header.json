@@ -1,6 +1,6 @@
 {
   "header.language": {
-    "message": "Engleză",
+    "message": "Română",
     "description": "Name of your language written on your language."
   },
   "header.languageNotification.title": {
@@ -18,6 +18,10 @@
   "header.languageNotification.btnAccept": {
     "message": "Schimbă limba",
     "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Cocând clătite...;Plasând containere...;Analizând adresa ta IP...;UwU;Încălcând regulile...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
     "message": "Magazin",
