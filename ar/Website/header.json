@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "English",
+    "message": "العربية",
     "description": "Name of your language written on your language."
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "نحن ندعم لغتك، تريد التغيير؟",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
+    "message": "لقد تمت ترجمة موقعنا إلى لغتك. قد يساعدك ذلك إذا كنت لا تتحدث الإنجليزية جيدًا.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "لا. شكرا",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Switch language",
+    "message": "تغيير اللغة",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "طبخ الفطائر ... ؛ وضع حاويات ... ؛ تحليل عنوان IP الخاص بك ... ؛ UwU ؛ كسر القواعد ...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "المتجر",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "التحميلات",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "المساهمون",
     "description": "Contributors tab"
   }
 }
