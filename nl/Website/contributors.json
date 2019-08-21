@@ -1,6 +1,6 @@
 {
   "contributors.headings.staff": {
-    "message": "Staff",
+    "message": "Medewerkers",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
@@ -8,7 +8,7 @@
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Translators",
+    "message": "Vertalers",
     "description": "Heading for group of users."
   }
 }
