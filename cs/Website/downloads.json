@@ -1,50 +1,50 @@
 {
   "downloads.header.title": {
-    "message": "Time to show yourself to everyone.",
+    "message": "Je čas ukázat se všem.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Start using PreMiD now and show other people what you're watching or listening, maybe you will find someone with same interests.",
+    "message": "Začni používat PreMiD nyní a ukaž ostatním lidem co sleduješ nebo posloucháš, možná najdeš někoho kdo má stejné zájmy.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Get Started",
+    "message": "Začít",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Download PreMiD.",
+    "message": "Stáhni si PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Install PreMiD application.",
+    "message": "Nainstaluj si PreMiD aplikaci.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Install extension for your browser.",
+    "message": "Nainstaluj si rozšíření.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visit {0} page and check if the extension has connected.",
+    "message": "Navštiv {0} stránku a zjisti zda se rozšíření připojilo.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "store",
+    "message": "obchodní",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Application downloads",
+    "message": "Stažení aplikací",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extension downloads",
+    "message": "Stažení rozšíření",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "WARNING:",
+    "message": "POZOR:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
+    "message": "{0} Aplikace nemá instalatéra pro tenhle operační systém. Tohle znamená že nebude žádná profesionální podpora.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
