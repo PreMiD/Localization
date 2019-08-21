@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services.",
+    "message": "PreMiD přidá integráciu Bohatej Přítomnosti Discordu, multimediální ovládaní a více věcí ku tvém oblíbeným službám.",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch\/listen to something with one of our supported services, the browser extension sends the video's\/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
+    "message": "MUSÍŠ SI NAINSTALOVAT NAŠÍ OFFICIALNÍ APLIKACI ABY TI TO FUNGOVALO\n {0}{1}\n\n K ovládání přehrávání těchto služeb můžeš použít své multimediální tlačítka. Když sleduješ\/posloucháš něco s některou z našich podporovaných služeb, rozšíření prohlížeče odešle metadata videa\/písně našemu klientovi a program PreMiD to zpracuje. PreMiD odesíla informace do Discordu se správným formulářem a poté automaticky nastaví svůj stav.\nPodporované služby\n {2} Podívej se i na {3}\n\nPotřebuješ pomoc?\n {4} {5}\n\nNáš Discord Server\n {6} Promluv si s lidmi za PreMiD {7}\n\nJsme Otvorený Zdroj!\n {9} Dobře věci by měly být přístupné veřejnosti {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
