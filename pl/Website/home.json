@@ -1,54 +1,54 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Pokaż każdemu, co oglądasz i czego słuchasz!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "{0} server",
+    "message": "{0} serwer",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Do pobrania",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "W grze",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "Pozostało {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Główne funkcje",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "message": "Nasza aplikacja ma wiele funkcji, ale te funkcje znajdziesz tylko w PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "System Statusów",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "Stworzylismy nasze rozszerzenie z myślą o systemie statusów który pozwoli tworzyć  statusy innym użytkownikom oraz zarządzać nimi z poziomu rozszerzenia.",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Sterowanie Multimediami",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
+    "message": "Większość z naszych statusów pozwalają na Sterowanie Mediami. Możesz pomijać i pauzować utwory podczas używania innych aplikacji.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Wielojęzykowość",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Nie każdy dobrze rozumie Angielski, dlatego tłumaczymy nasze rozszerzenie i stronę internetową na inne języki, włączając w to Polski.",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
+    "message": "Kod naszej aplikacji, strony i rozszerzenia jest Open Source. Jeśli znalazłeś błąd lub chcesz dodać nową funkcję możesz otworzyć Pull Request na naszej stronie GitHub.",
     "description": "Description for card"
   }
 }
