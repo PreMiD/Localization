@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Changelog",
+    "message": "Seznam změn",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,31 +8,31 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Thank you",
+    "message": "Děkujeme",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "for installing {0}",
+    "message": "za instalaci {0}u",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "Start using {0}",
+    "message": "Začít používat {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Donate",
+    "message": "Darovat",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh no!** We couldn't connect to the application... Is it already installed?",
+    "message": "**Och ne!** Nemůžeme se připojit ku aplikaci... Je už nainstalovaná?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Řešit Problémy",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Install application",
+    "message": "Nainstalovat aplikaci",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
@@ -40,19 +40,19 @@
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} has been updated!",
+    "message": "{0}byl aktualizován!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "New",
+    "message": "Nové",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Changed",
+    "message": "Změny",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Fixed",
+    "message": "Opravy",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
