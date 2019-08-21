@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Dej všem vědět co sleduješ a posloucháš!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -8,55 +8,55 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Soubory na Stáhnutí ",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Hrá hru",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "zbýva {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Naše hlavní funkce",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "message": "Máme spoustu funkcí, ale právě teď ti chceme sdělit základní funkce které najdeš pouze v PreMiDu.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Systém Rozšíření ",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "Naše rozšíření jsme vyvinuli pomocí systému přítomnosti který ti umožní používat přítomnosti které vytvořili jiní uživatelé a spravovat je prostřednictvím rozšíření!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Multimediálni Ovládaní",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
+    "message": "Většina z našich přítomnosti poskytuje podporu pro multimediální ovládání. Můžeš přeskakovat, zastavovat a přehrávat skladby během používání ostatních aplikaci.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Vícejazyčnost",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Ne každý je v Angličtině dobrý. Z toho důvodu překládáme naše rozšíření a stránku do jiných jazyků, pravděpodobně včetně tvého!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
-    "message": "Open Source",
+    "message": "Otevřený Zdroj",
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
+    "message": "Zdroj kódů naší aplikace, stránky a rozšíření pocházejí z otevřených zdrojů. Pokud si našel chybu nebo chceš jen přidat novou funkci můžeš na naší GitHub stránce vytvořit problém nebo stáhnout požadavku!",
     "description": "Description for card"
   }
 }
