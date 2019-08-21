@@ -28,19 +28,19 @@
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Sistema de presencias",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "¡Hemos desarrollado nuestra extensión con un sistema de presencias que te permite utilizar las que fueron creadas por otros usuarios y gestionarlas a través de la extensión!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Controles multimedia",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
+    "message": "La mayoría de nuestras presencias proveen soporte para controles multimedia. Puedes saltar, pausar y reproducir pistas mientras se utilizan otras aplicaciones.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
