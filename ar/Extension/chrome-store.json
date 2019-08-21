@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services.",
+    "message": "يضيف PreMiD تكامل Discord Rich Presence ، ودمج وسائل الإعلام والمزيد إلى خدماتك.",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch\/listen to something with one of our supported services, the browser extension sends the video's\/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
+    "message": "عليك تحميل تطبيقنا الأصلي لجعلها تشتغل\n{0}{1}\n\nيمكنك استخدام مفاتيح وسائل التواصل الإجتماعي للتحكم في تشغيل هذه الخدمات. عندما تشاهد \/ تستمع إلى شيء مع إحدى خدماتنا المدعومة ، فإن ملحق المتصفح يرسل البيانات الوصفية للفيديو \/ الأغنية إلى عميل سطح المكتب الخاص بنا ويقوم PreMiD بمعالجتها. يرسل PreMiD المعلومات إلى Discord مع النموذج الصحيح ثم يقوم تلقائيًا بتعيين حالته.\nالخدمات المدعومة\n{2}القي نظرة على {3}\n\nتحتاج مساعدة؟\n{4}{5}\n\nسيرفر الديسكورد\n{6} التحدث إلى الناس وراء PreMiD {7}\n\nلدينا المصدر المفتوح!\n{9} الأشياء العظيمة يجب أن تكون مفتوحة للجمهور {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
