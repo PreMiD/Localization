@@ -1,62 +1,62 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Lasă-i pe toți să știe la ce te uiți și ce asculți!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "{0} server",
+    "message": "Server-ul de {0}",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Descărcări",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Jucându-se un joc",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} timp rămas",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Principalele noastre caracteristici",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "message": "Avem o mulțime de caracteristici, dar acum vrem să vă spunem despre caracteristicile noastre principale pe care le puteți găsi numai în PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Sistemul de prezență",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "Am dezvoltat extensia noastră cu un sistem de prezență care vă permite să utilizați prezențe create de alți utilizatori și să le gestionați prin extensie!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Controalele media",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
+    "message": "Majoritatea prezențelor noastre oferă suport pentru controalele media. Puteți săriți, întrerupeți și redați melodii în timp ce utilizați alte aplicații.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Mai multe limbi",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Nu toată lumea este bună la engleză. De aceea traducem extensia și site-ul nostru în alte limbi, probabil inclusiv ale dvs.!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
-    "message": "Open Source",
+    "message": "Sursă deschisă",
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
+    "message": "Codurile sursă de aplicație, site și extensie sunt open source. Dacă ați găsit un bug sau doriți să adăugați o funcție nouă, puteți crea o problemă sau o cerere de tragere pe pagina GitHub!",
     "description": "Description for card"
   }
 }
