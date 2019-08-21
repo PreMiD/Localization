@@ -1,18 +1,18 @@
 {
   "presence.playback.playing": {
-    "message": "A tocar",
+    "message": "Reproduzindo",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Reprodução pausada",
+    "message": "Pausado",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "A procurar...",
+    "message": "Navegando...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "Em direto",
+    "message": "Ao vivo",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
