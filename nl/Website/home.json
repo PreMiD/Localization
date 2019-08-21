@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Laat iedereen weten naar wat u aan het kijken en luisteren bent!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -12,43 +12,43 @@
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Speelt een spel",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} over",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Onze primaire functies",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "message": "We hebben vele functies, maar nu willen we u graag vertellen over onze primaire functies die u alleen in PreMiD kunt vinden.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Presence Systeem",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "We hebben onze extensie ontwikkeld met een presence systeem waarmee u presences kunt gebruiken die door andere gebruikers zijn gemaakt en deze via de extensie kunt beheren!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Mediabediening",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
+    "message": "De meeste van onze presences bieden ondersteuning voor mediabediening. U kunt nummers overslaan, pauzeren en afspelen terwijl u andere applicaties gebruikt.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Meertalig",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Niet iedereen is goed in Engels. Daarom vertalen we onze extensie en website in andere talen, waarschijnlijk ook die van jou!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
+    "message": "Onze applicatie, website en extensiebroncodes zijn open source. Als u een bug hebt gevonden of een nieuwe functie wilt toevoegen, kunt u een probleem of pull aanvraag maken op onze GitHub pagina!",
     "description": "Description for card"
   }
 }
