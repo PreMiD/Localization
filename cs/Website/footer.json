@@ -1,46 +1,46 @@
 {
   "footer.language": {
-    "message": "Language",
+    "message": "Jazyk",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ready to try PreMiD?",
+    "message": "Připravený vyzkoušet PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Join over {0} users today!",
+    "message": "Připoj se přes {0} uživatelů dnes!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Install",
+    "message": "Instalovat",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partners",
+    "message": "Partnery",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developers",
+    "message": "Vývojáři",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Documentation",
+    "message": "Dokumentace",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "Bohatá Přítomnost",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Support us",
+    "message": "Podpoř nás",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Donate",
+    "message": "Darovat",
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribute",
+    "message": "Přispět",
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
@@ -48,23 +48,23 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Translate",
+    "message": "Přeložit",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Help",
+    "message": "Pomoc",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Řešení problémů",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Get Help",
+    "message": "Získej Pomoc",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Information",
+    "message": "Informace",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,15 +72,15 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Privacy",
+    "message": "Soukromí",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Terms",
+    "message": "Podmínky",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "More",
+    "message": "Více",
     "description": "More section"
   },
   "footer.more.status": {
@@ -92,11 +92,11 @@
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
-    "message": "{0} by {1}",
+    "message": "{0} od {1}",
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Website maintained by {0}",
+    "message": "Stránka byla dělaná {0}om ",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
