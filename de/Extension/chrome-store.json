@@ -1,0 +1,10 @@
+{
+  "extension.description.short": {
+    "message": "PreMiD fügt eine völlig neue Art der Discord Rich Presence Integration, Medienkontrolle und noch viel mehr zu deinen Lieblingsservices hinzu.",
+    "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "DU MUSST UNSERE OFFIZIELLE SOFTWARE INSTALLIEREN, DAMIT ES FUNKTIONIERT\n{0}{1}\n\nDu kannst deine Medientasten verwenden um das Wiedergabe dieser Dienste zu steuern. Wenn du etwas auf einem unserer unterstützen Dienste schaust oder hörst, sendet die Erweiterung die Informationen an die Software, welche diese dann verarbeitet. PreMiD sendet dann die Informationen an Discord und setzt automatisch den Status.\nUnterstütze Dienste\n{2}Schaue dir {3} an.\n\nDu brauchst Hilfe?\n{4}{5}\n\nUnser Discord Server\n{6}Spreche mit den Leuten hinter PreMiD{7}\n\nWir sind Open Source!\n{9}Großartige Dinge sollten für die Öffentlichkeit verfügbar sein{10} ",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+  }
+}

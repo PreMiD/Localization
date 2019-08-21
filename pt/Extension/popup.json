@@ -1,0 +1,74 @@
+{
+  "popup.navigation.settings": {
+    "message": "Configurações",
+    "description": "Title of the 'settings' section at the navigation in the popup"
+  },
+  "popup.navigation.credits": {
+    "message": "Créditos",
+    "description": "Title of the 'credits' section at the navigation in the popup"
+  },
+  "popup.headings.general": {
+    "message": "Geral",
+    "description": "Title of the 'general' area of the 'settings' section in the popup"
+  },
+  "popup.setting.enabled": {
+    "message": "Ativado",
+    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.mediaControl": {
+    "message": "Controles de mídia",
+    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.titleMenubar": {
+    "message": "Barra de menu",
+    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.autoLaunch": {
+    "message": "Abrir automaticamente",
+    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.headings.presences": {
+    "message": "Presenças",
+    "description": "Title of the 'presences' area of the 'settings' section in the popup"
+  },
+  "popup.presences.manage": {
+    "message": "Administrar",
+    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.presences.noPresences": {
+    "message": "Nenhuma presença adicionada",
+    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.presences.done": {
+    "message": "Concluído",
+    "description": "Done button"
+  },
+  "popup.presences.load": {
+    "message": "Carregar Presença",
+    "description": "Load Presence button"
+  },
+  "popup.buttons.presenceStore": {
+    "message": "Loja de presenças",
+    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.buttons.help": {
+    "message": "Precisa de ajuda?",
+    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+  },
+  "popup.credits.error.heading": {
+    "message": "Oh não!",
+    "description": "Title of the error message (located at the 'credits' tab in the popup)"
+  },
+  "popup.credits.error.message": {
+    "message": "Ocorreu um erro enquanto carregava os créditos",
+    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+  },
+  "popup.info.connected": {
+    "message": "Conectado",
+    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
+  },
+  "popup.info.disconnected": {
+    "message": "Não conectado",
+    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+  }
+}
