@@ -1,50 +1,50 @@
 {
   "tab.changelog.new.1": {
-    "message": "Users can now add presences by themself. [[Install them now!]]",
+    "message": "משתמשים עכשיו יכולים להוסיף presences לבד. [[Iהורד אותם עכשיו!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
-    "message": "You can now [[see new presences]] in their natural habitat",
+    "message": "עכשיו אפשר  [[צפה בpresences חדשים]] בסביבתם הטבעית",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.3": {
-    "message": "Auto updating is a thing now",
+    "message": "עדכון אוטומטי זה משהו עכשיו",
     "description": ""
   },
   "tab.changelog.new.4": {
-    "message": "Streams on YouTube are now actually displayed as stream",
+    "message": "שידורים ביוטיוב עכשיו מוצגים כשידור חי",
     "description": ""
   },
   "tab.changelog.new.7": {
-    "message": "Everyone can create presences now",
+    "message": "כולם יכולים ליצור presences עכשיו",
     "description": ""
   },
   "tab.changelog.new.5": {
-    "message": "We buffed our Discord bot with new awesome features",
+    "message": "הוספנו לDiscord Bot שלנו המון פיטצרים חדשים",
     "description": ""
   },
   "tab.changelog.new.6": {
-    "message": "We added [[docs]] for these creative developers out there",
+    "message": "הוספנו  [[מסמכים]] בשביל המפתחים המקצועיים בינינו",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'docs' will be a link -> docs.premid.app"
   },
   "tab.changelog.changed.1": {
-    "message": "Completely new website design",
+    "message": "עיצוב אתר חדש לגמרי",
     "description": ""
   },
   "tab.changelog.changed.2": {
-    "message": "Revamped popup and tabs layout",
+    "message": "חידשנו את הצגות הpopup ואת הtabs layout",
     "description": ""
   },
   "tab.changelog.fixed.1": {
-    "message": "Fixed [[#140]] so songs over 1h will be displayed correctly",
+    "message": "תיקנו [[#140]] אז שירים מעל שעה אחת יוצגו בצורה תקינה",
     "description": "please keep the brackets '[[]]' for the specific word(s); #140 will be a link -> issue"
   },
   "tab.changelog.fixed.2": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "הרבה באגים תוקנו עכשיו",
     "description": ""
   },
   "tab.changelog.fixed.3": {
-    "message": "Everything is running much faster now",
+    "message": "הכל רץ הרבה יותר מהר עכשיו",
     "description": ""
   }
 }
