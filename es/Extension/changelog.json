@@ -1,18 +1,18 @@
 {
   "tab.changelog.new.1": {
-    "message": "Los usuarios ahora pueden agregar presencias por sí mismos. [[Instalarlos ahora!]]",
+    "message": "Los usuarios ahora pueden agregar presencias por sí mismos. [[¡Instalarlas ahora!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
-    "message": "Ahora puedes [[ver nuevas presencias]] en su habitat natural",
+    "message": "Ahora puedes [[ver nuevas presencias]] en su hábitat natural",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.3": {
-    "message": "La actualización automática es una cosa ahora",
+    "message": "La actualización automática ahora es algo real",
     "description": ""
   },
   "tab.changelog.new.4": {
-    "message": "Los Streams en YouTube ahora se muestran como Streams",
+    "message": "Los directos en YouTube ahora se muestran como directos",
     "description": ""
   },
   "tab.changelog.new.7": {
@@ -36,15 +36,15 @@
     "description": ""
   },
   "tab.changelog.fixed.1": {
-    "message": "Se corrigió [[# 140]] para que las canciones de más de 1 h se muestren correctamente",
+    "message": "Se corrigió [[#140]] para que las canciones de más de 1h se muestren correctamente",
     "description": "please keep the brackets '[[]]' for the specific word(s); #140 will be a link -> issue"
   },
   "tab.changelog.fixed.2": {
-    "message": "Muchos Bugs (des)conocidos se escaparon",
+    "message": "Muchos bugs (des)conocidos se escaparon",
     "description": ""
   },
   "tab.changelog.fixed.3": {
-    "message": "Todo está funcionando mucho más rápido ahora",
+    "message": "Ahora todo funciona mucho más rápido",
     "description": ""
   }
 }
