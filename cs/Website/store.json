@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Táto přítomnost byla schválena ověřeným vývojarem ",
+    "message": "Tuhle přítomnost schválil ověřený vývojář",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Tato přítomnost je ve výchozím nastavení součástí PreMiD, není třeba jej instalovat.",
+    "message": "Tato přítomnost je ve výchozím nastavení nainstalovaná v PreMiDe, není třeba ji instalovat.",
     "description": "The message that appears instead of the buttons."
   }
 }
