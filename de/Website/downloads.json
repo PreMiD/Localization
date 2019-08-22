@@ -1,6 +1,6 @@
 {
   "downloads.header.title": {
-    "message": "Es wird Zeit, dass du dich jedem zeigst.",
+    "message": "Zeit, sich jedem zu zeigen.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0}Das Programm hat keinen Installer für dieses Betriebssystem. Dies bedeutet, dass es keine offizielle Unterstützung für dieses Betriebssystem gibt.",
+    "message": "{0} Die Anwendung hat für dieses Betriebssystem keinen Installer. Dies bedeutet, dass es keine professionelle Unterstützung dafür gibt.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
