@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "{0} server",
+    "message": "{0}server",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Máme veľa funkcií ale momentálne ti chceme povedať niečo o naších základních funkcií ktoré nájdeš iba v PreMiDe.",
+    "message": "Máme veľa funkcií ale momentálne ti chceme povedať základné funkcie ktoré nájdeš iba v PreMiDe.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Vyvinuli sme naše rozšírenie zo systéma prítomnosti ktorý ti umožňuje používať prítomností ktoré vytvorili iní používatelia a spravovať ich pomocou rozšírenia!",
+    "message": "Vyvinuli sme naše rozšírenie so systémom prítomnosti ktorý ti umožňuje používať prítomností ktoré vytvorili iní používatelia a spravovať ich pomocou rozšírenia!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Zdroj kódov našej aplikácie, stránky a rozšírenia pochádzajú z otvorených zdrojov. Ak si našiel chybu alebo chceš len pridať novú funkciu môžeš na našej GitHub stránke vytvoriť problém alebo stiahnuť požiadavku!",
+    "message": "Zdroj kódov našej aplikácie, stránky a rozšírenia pochádzajú z otvorených zdrojov. Ak si našiel chybu alebo chceš len pridať novú funkciu môžeš na našej stránke GitHub stránke vytvoriť problém alebo stiahnuť požiadavku!",
     "description": "Description for card"
   }
 }
