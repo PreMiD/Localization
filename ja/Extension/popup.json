@@ -28,7 +28,7 @@
     "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Presences",
+    "message": "プレゼンス",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
@@ -40,7 +40,7 @@
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Done",
+    "message": "完了",
     "description": "Done button"
   },
   "popup.presences.load": {
@@ -52,7 +52,7 @@
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "助けが必要？",
+    "message": "お困りですか？",
     "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
