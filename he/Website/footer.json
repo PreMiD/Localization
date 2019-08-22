@@ -36,7 +36,7 @@
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "תרו",
+    "message": "תרום",
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
@@ -44,11 +44,11 @@
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
-    "message": "עיצוב",
+    "message": "עצב",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "תרג",
+    "message": "תרגם",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -56,7 +56,7 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "בעיות",
+    "message": "פתרון תקלות",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
