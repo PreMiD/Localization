@@ -1,10 +1,10 @@
 {
   "header.language": {
-    "message": "אנכלית",
+    "message": "אנגלית",
     "description": "Name of your language written on your language."
   },
   "header.languageNotification.title": {
-    "message": "אנחנו תומכים בשפות שונות, רוצה להחליף שפה?",
+    "message": "אנחנו תומכים בשפה שלך, רוצה להחליף שפה?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "מכין פנקייקים...;שם תיבות...;סורק את האייפי שלך...;UwU;עובר על החוקים...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
