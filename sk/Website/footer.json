@@ -4,7 +4,7 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Pripravený vyskúšať PreMiD?",
+    "message": "Pripravený skúsiť PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -20,7 +20,7 @@
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Vývojari",
+    "message": "Vývojári",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Preložiť",
+    "message": "Prekladať",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -96,7 +96,7 @@
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Stránka bola zhotovená {0}om",
+    "message": "Stránka bola zhotovená {0} om",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
