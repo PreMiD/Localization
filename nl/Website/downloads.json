@@ -12,7 +12,7 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Download PreMiD.",
+    "message": "PreMiD downloaden.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
