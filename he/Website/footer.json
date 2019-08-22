@@ -28,7 +28,7 @@
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "Rich presence",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
@@ -64,19 +64,19 @@
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Information",
+    "message": "מידע",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
-    "message": "Cookies",
+    "message": "עוגיות",
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Privacy",
+    "message": "פרטיות",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Terms",
+    "message": "תנאי שימוש",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
