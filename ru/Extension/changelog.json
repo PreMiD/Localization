@@ -1,6 +1,6 @@
 {
   "tab.changelog.new.1": {
-    "message": "Users can now add presences by themself. [[Install them now!]]",
+    "message": "Теперь пользователи могут добавлять свои presences самостоятельно. [[Установите их сейчас!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "tab.changelog.new.7": {
-    "message": "Everyone can create presences now",
+    "message": "Все могут создавать presences сейчас",
     "description": ""
   },
   "tab.changelog.new.5": {
