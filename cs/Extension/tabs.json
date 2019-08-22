@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Och ne!** Nemůžeme se připojit ku aplikaci... Je už nainstalovaná?",
+    "message": "**Oh ne!** Nemůžeme se připojit k aplikaci... Je již nainstalována?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
@@ -40,7 +40,7 @@
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0}byl aktualizován!",
+    "message": "{0} byl aktualizován!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
@@ -48,11 +48,11 @@
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Změny",
+    "message": "Změněno",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Opravy",
+    "message": "Opraveno",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
