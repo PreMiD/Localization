@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Začni používať PreMiD teraz a ukáž ostatným ľuďom čo sleduješ alebo počúvaš, možno nájdeš niekoho kto má rovnaké záujmy.",
+    "message": "Začni používať PreMiD teraz a ukáž ostatným čo sleduješ alebo počúvaš, možno nájdeš niekoho kto má rovnaké záujmy.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -20,7 +20,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Nainštaluj si rozšírenie pre tvoj prehliadač.",
+    "message": "Nainštaluj si rozšírenie pre tvojho prehliadača.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Aplikácia nemá inštalatéra pre tento operačný systém. Znamená to že nebude žiadna profesionálna podpora pre to.",
+    "message": "{0} Aplikácia nemá inštalační súbor pre tento operačný systém. Znamená to že nebude žiadna profesionálna podpora pre to.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
