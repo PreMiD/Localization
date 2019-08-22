@@ -8,7 +8,7 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Transferências",
+    "message": "Baixar",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
@@ -16,11 +16,11 @@
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} saiu ",
+    "message": "{0} restantes",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "As nossas funções primárias",
+    "message": "Nossos principais recursos",
     "description": "Features section"
   },
   "home.cards.subheading": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Os códigos da nossa aplicação, website e extensão são abertos.  Se tu encontrares algum bug ou quiseres adicionar alguma nova função, tu podes abrir um issue ou pull request na nossa página do GitHub!",
+    "message": "Os códigos de nosso aplicativo, website e extensão são abertos. Se você encontrar algum bug ou quiser adicionar alguma nova função, você pode abrir um \"issue\" ou \"pull request\" na nossa página do GitHub!",
     "description": "Description for card"
   }
 }
