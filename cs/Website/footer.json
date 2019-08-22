@@ -16,7 +16,7 @@
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partnery",
+    "message": "Partneři",
     "description": "Partner section"
   },
   "footer.developers.heading": {
@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Získej Pomoc",
+    "message": "Získat Pomoc",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
@@ -72,7 +72,7 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Soukromí",
+    "message": "Ochrana soukromí",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
@@ -84,7 +84,7 @@
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Status",
+    "message": "Stav",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
