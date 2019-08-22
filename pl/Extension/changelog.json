@@ -1,6 +1,6 @@
 {
   "tab.changelog.new.1": {
-    "message": "Użytkownicy mogą teraz dodawać własne statusy. [[Zainstaluj je teraz]]!",
+    "message": "Użytkownicy mogą teraz dodawać własne statusy. [[Zainstaluj je teraz!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
