@@ -1,30 +1,30 @@
 {
   "downloads.header.title": {
-    "message": "Chegou a hora de se mostrar para todos.",
+    "message": "Hora de te mostrares para todos.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Começe a usar o PreMiD agora e mostre para outras pessoas o que você está assistindo ou escutando, talvez você irá achar alguem com os mesmos gostos.",
+    "message": "Começa a usar o PreMiD agora e mostra ao resto do mundo o que é que estás a ver ou ouvir, talvez encontrarás alguém com os mesmos interesses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Começe com",
+    "message": "Começa já",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Baixe o PreMiD",
+    "message": "Transfere o PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Instale a aplicação do PreMiD.",
+    "message": "Instala a aplicação do PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Instale a extensão pro seu navegador.",
+    "message": "Instala a extensão para o teu navegador.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visita a pagina da {0} e cheque se a extensão foi conectada",
+    "message": "Visita a página da {0} e vê se a extensão já conectou.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -40,11 +40,11 @@
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "ATENÇÃO:",
+    "message": "AVISO:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} A aplicação não tem o instalador para esse sistema operacional. Isto significa que não tem suporte proficional para ele.",
+    "message": "{0} A aplicação não tem um instalador para este sistema operativo. Isto significa que não há suporte oficial para o mesmo.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
