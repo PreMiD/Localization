@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Aplikácia nemá inštalační súbor pre tento operačný systém. Znamená to že nebude žiadna profesionálna podpora pre to.",
+    "message": "{0} Aplikácia nemá inštalačný súbor pre tento operačný systém. Znamená to že nebude žiadna profesionálna podpora pre to.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
