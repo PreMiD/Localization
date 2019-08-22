@@ -1,10 +1,10 @@
 {
   "tab.changelog.new.1": {
-    "message": "משתמשים עכשיו יכולים להוסיף presences לבד. [[Iהורד אותם עכשיו!]]",
+    "message": "משתמשים עכשיו יכולים להוסיף presences לבד. [[הורד אותם עכשיו!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
-    "message": "עכשיו אפשר  [[צפה בpresences חדשים]] בסביבתם הטבעית",
+    "message": "עכשיו אפשר [[להשתמש בpresences חדשים]] בסביבתם הטבעית",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.3": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "tab.changelog.fixed.3": {
-    "message": "הכל רץ הרבה יותר מהר עכשיו",
+    "message": "הכל רץ מהיר יותר",
     "description": ""
   }
 }
