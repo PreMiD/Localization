@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Faz com que todos saibam o que estás a ver ou a ouvir!",
+    "message": "Deixe todo mundo saber o que você está assistindo e ouvindo!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Nós temos muitas funções, mas agora queremos mostrar-te as nossas funções primárias que tu só consegues encontrar no PreMiD.",
+    "message": "Nós temos muitas funções, mas agora queremos mostrá-lo as funções principais que você só consegue encontrar no PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,15 +32,15 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Nós desenvolvemos a nossa extensão com um sistema de presenças que te dá a possibilidade de usar presenças criadas por outros utilizadores e de geri-las através da extensão!",
+    "message": "Nós desenvolvemos a nossa extensão com um sistema de presenças que te dá a possibilidade de usar presenças criadas por outros usuários e de configurá-las através da extensão!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Controlos de Media",
+    "message": "Controles de Mídia",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "A maior parte das nossas presenças suporta controlos de media. Tu podes saltar, pausar e tocar músicas \/ vídeos enquanto usas outras aplicações.",
+    "message": "A maioria de nossas presenças fornece suporte para controles de mídia. Você pode pular, pausar e reproduzir faixas enquanto usa outros aplicativos.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Nem todos são bons a inglês. Por isso é que estamos a traduzir a nossa extensão e website em outras línguas, provavelmente incluindo a tua!",
+    "message": "Nem todos são bons a inglês. É por isso que estamos traduzindo nossa extensão e website em outras línguas, provavelmente incluindo a sua!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
