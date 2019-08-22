@@ -1,6 +1,6 @@
 {
   "presence.playback.playing": {
-    "message": "Playing back",
+    "message": "Reproduciendo",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
@@ -12,7 +12,7 @@
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "Live",
+    "message": "En vivo",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
