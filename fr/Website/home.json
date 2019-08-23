@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Nous avons beaucoup de fonctionnalité, mais actuellement nous voulons vous parler des fonctionnalités principales, que vous ne trouverez que sur PreMid",
+    "message": "Nous avons beaucoup de fonctionnalités, mais nous voulons maintenant vous parler de nos caractéristiques principales que vous trouverez seulement dans PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,15 +32,15 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Nous avons développé notre extension avec un système  qui vous permet d'utiliser \nles statuts de présences qui ont été créés par d'autres utilisateurs et de les gérer via l'extension.\n",
+    "message": "Nous avons développé notre extension avec un système de présence qui vous permet d'utiliser des présences créées par d'autres utilisateurs et de les gérer via l'extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Contrôle de la lecture",
+    "message": "Contrôle des médias",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "La plupart de nos statuts de présence fournissent une aide pour le contrôle des médias vidéos ou audio. Vous pouvez passer, faire pause et jouer des chansons tout en utilisant d'autres applications.",
+    "message": "La plupart de nos présences fournissent un support pour les contrôles de médias. Vous pouvez sauter, mettre en pause et jouer des pistes tout en utilisant d'autres applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Tout le monde n'est pas bon en Anglais. C'est pour cela que nous traduisons notre extension et notre site dans d'autres langues, la votre probablement inclus !",
+    "message": "Tout le monde n'est pas bon en Anglais. C'est pour ça que nous traduisons notre extension et notre site dans d'autres langues, la votre est probablement incluse!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Les codes source de notre application, site et extension sont open source. Si vous trouvez un bug ou que vous voulez ajouter une nouvelle fonctionnalité, vous pouvez créer une solution ou soumettre votre requête sur notre page GitHub !",
+    "message": "Les codes sources de notre application, site web et extension sont open source. Si vous avez trouvé un bug ou souhaitez ajouter une nouvelle fonctionnalité, vous pouvez créer une issue ou pull request sur notre page GitHub!",
     "description": "Description for card"
   }
 }
