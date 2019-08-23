@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Commencez à utiliser PreMid maintenant et montrez aux autres personnes ce que vous regardez ou écoutez ; peut-être trouverez-vous quelqu'un avec les mêmes centres d'intérêts .",
+    "message": "Commencez à utiliser PreMiD maintenant et montrez aux autres personnes ce que vous regardez ou écoutez, vous trouverez peut-être quelqu'un avec les mêmes centres d'intérêts.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -12,11 +12,11 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Télécharger PreMid",
+    "message": "Télécharger PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Installer l'application PreMid.",
+    "message": "Installer l'application PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -24,11 +24,11 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visitez la page {0} et vérifiez si l'extension est connectée.",
+    "message": "Visitez la {0} et vérifiez si l'extension est connectée.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "Boutique",
+    "message": "boutique",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
