@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh ne!** Nemůžeme se připojit k aplikaci... Je již nainstalována?",
+    "message": "**Ale ne!** Nemůžeme se připojit k aplikaci... Je již nainstalována?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
