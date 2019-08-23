@@ -16,7 +16,7 @@
     "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Controles des médias",
+    "message": "Contrôle des médias",
     "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Pas de présences ajoutée",
+    "message": "Aucune présence ajoutée",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -48,7 +48,7 @@
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Magasin de présence",
+    "message": "Magasin de présences",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
