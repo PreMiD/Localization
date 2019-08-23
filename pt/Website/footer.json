@@ -1,14 +1,14 @@
 {
   "footer.language": {
-    "message": "Idioma",
+    "message": "Linguagem",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Pronto para testar o PreMiD?",
+    "message": "Pronto(a) para experimentar o PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Junte-se com mais de {0} usuários hoje!",
+    "message": "Junta-te a {0} usuários hoje!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -32,15 +32,15 @@
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Nos ajude",
+    "message": "Apoia-nos",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Doar",
+    "message": "Doa",
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribua",
+    "message": "Contribui",
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Traduzir",
+    "message": "Traduz",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -56,15 +56,15 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Solução de problemas",
+    "message": "Resolução de problema",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Consiga ajuda",
+    "message": "Obtém ajuda",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Informações",
+    "message": "Informação",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -84,7 +84,7 @@
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Status",
+    "message": "Estado",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
