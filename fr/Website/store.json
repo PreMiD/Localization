@@ -1,10 +1,10 @@
 {
   "store.message.error": {
-    "message": "Extension introuvable, fonctionnalités indisponibles...",
+    "message": "Extension non trouvée, verrouillage des fonctions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension trouvée, activation des fonctionnalités...",
+    "message": "Extension trouvée, activation des fonctions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Cette presence est approuvée par un développeur certifié",
+    "message": "Cette présence est approuvée par un développeur certifié",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -20,7 +20,7 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Ajouter une présence ",
+    "message": "Ajouter une présence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Cette présence est inclue dans PreMid par défaut, pas besoin de l'installer.",
+    "message": "Cette présence est incluse dans PreMiD par défaut, pas besoin de l'installer.",
     "description": "The message that appears instead of the buttons."
   }
 }

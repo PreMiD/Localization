@@ -4,11 +4,11 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Prêt à essayer PreMID ?",
+    "message": "Prêt à essayer PreMiD ?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Rejoins les {0} utilisateurs aujourd'hui !",
+    "message": "Rejoignez les {0} utilisateurs dès aujourd'hui!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -32,7 +32,7 @@
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Aidez nous",
+    "message": "Aidez-nous",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
@@ -40,7 +40,7 @@
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Aider",
+    "message": "Contribuer",
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
@@ -72,7 +72,7 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Confidentialité ",
+    "message": "Confidentialité",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {

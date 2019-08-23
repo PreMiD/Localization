@@ -12,11 +12,11 @@
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "פועל",
+    "message": "אפשר",
     "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Media Controls",
+    "message": "פקדי מדיה",
     "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
@@ -40,7 +40,7 @@
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Done",
+    "message": "בוצע",
     "description": "Done button"
   },
   "popup.presences.load": {

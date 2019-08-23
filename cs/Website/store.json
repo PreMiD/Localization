@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Táto přítomnost byla schválena ověřeným vývojarem ",
+    "message": "Táto přítomnost byla schválena ověřeným vývojářem",
     "description": "Verified badge hover message"
   },
   "store.header.search": {

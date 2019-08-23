@@ -1,18 +1,18 @@
 {
     "presence.sections.description.title": {
-        "message": "Descrição",
+        "message": "Description",
         "description": "The title of the description section."
     },
     "presence.sections.information.title": {
-        "message": "Informações",
+        "message": "Information",
         "description": "The title of the information section."
     },
     "presence.sections.information.author": {
-        "message": "Autor(a)",
+        "message": "Author",
         "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
     },
     "presence.sections.information.version": {
-        "message": "Versão",
+        "message": "Version",
         "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
     },
     "presence.sections.information.tags": {
@@ -20,7 +20,7 @@
         "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
     },
     "presence.sections.information.supportedurls": {
-        "message": "URLs suportadas",
+        "message": "Supported URLs",
         "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
     }
 }

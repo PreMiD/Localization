@@ -4,19 +4,19 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "{0} server",
+    "message": "{0} szerver",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Letöltések",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Játékban",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} van hátra",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {

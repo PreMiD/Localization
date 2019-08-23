@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Staff",
+    "message": "طاقم العمل",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Supporters",
+    "message": "داعمين",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Translators",
+    "message": "المترجمين",
     "description": "Heading for group of users."
   }
 }

@@ -1,62 +1,62 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "תן לכולם לדעת למה אתה מאזין ושומע!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "{0} server",
+    "message": "{0} שרת",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "הורדות",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "משחק משחק",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} עזב",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "תכונות עיקריות",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "message": "יש לנו תכונות רבות, אבל עכשיו אנחנו רוצים לספר לך התכונות העיקריות שלנו שאתה יכול למצוא רק בPreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "מערכת presence",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "הוספנו את התוסף שלנו עם מערכת presence שמאפשרת לך להשתמש בpresences שנוצרו על ידי משתמשים אחרים ותוכל לערוך אותם דרך התוסף!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "פקדי מדיה",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
+    "message": "רוב הpresences שלנו נותנות תמיכה בשבילmedia controls. אתה יכול לדלג, לעצור ולהפעיל רצועות בזמן שימוש בתוכנות אחרות.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "רב לשוני",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "לא כולם טובים באנגלית. זה למה אנחנו מתרגמים את התוסף והאתר שלנו לשפות אחרות, כנראה שלך גם שם!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
-    "message": "Open Source",
+    "message": "קוד פתוח",
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
+    "message": "התוכנה שלנו, האתר והתוסף כולם קוד פתוח. אם מצאת באג או שאתה רוצה להוסיף תכונות חדשות אתה יכול לפתוח issue או pull request בדף GitHub שלנו!",
     "description": "Description for card"
   }
 }

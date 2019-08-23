@@ -8,7 +8,7 @@
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Vytvoril",
+    "message": "Tvorca",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
