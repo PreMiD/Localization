@@ -68,7 +68,7 @@
     "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
   },
   "popup.info.disconnected": {
-    "message": "Nepřipojeno",
+    "message": "Není připojeno",
     "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
   }
 }
