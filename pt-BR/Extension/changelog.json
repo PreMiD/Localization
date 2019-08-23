@@ -1,0 +1,46 @@
+{
+  "tab.changelog.new.1": {
+    "message": "Agora os usuários podem adicionar novas presenças por conta própria. [Adicione alguns agora!]",
+    "description": ""
+  },
+  "tab.changelog.new.2": {
+    "message": "Encontre algumas [novas presenças] em seu habitat natural",
+    "description": ""
+  },
+  "tab.changelog.new.3": {
+    "message": "Atualizações automáticas são uma coisa agora",
+    "description": ""
+  },
+  "tab.changelog.new.4": {
+    "message": "Os usuários podem criar presenças agora",
+    "description": ""
+  },
+  "tab.changelog.new.5": {
+    "message": "[Docs] para esses desenvolvedores criativos lá fora",
+    "description": ""
+  },
+  "tab.changelog.new.6": {
+    "message": "Um design de website completamente novo",
+    "description": ""
+  },
+  "tab.changelog.new.7": {
+    "message": "Mais recursos para nosso Bot do Discord",
+    "description": ""
+  },
+  "tab.changelog.new.8": {
+    "message": "Nossa nova API é uma fera em execução",
+    "description": ""
+  },
+  "tab.changelog.changed.1": {
+    "message": "Pop-up, layout das guias e o estilo foram refeitos",
+    "description": ""
+  },
+  "tab.changelog.fixed.1": {
+    "message": "Muitos bugs (des)conhecidos fugiram",
+    "description": ""
+  },
+  "tab.changelog.fixed.2": {
+    "message": "Tudo está rodando muito mais rápido agora",
+    "description": ""
+  }
+}
