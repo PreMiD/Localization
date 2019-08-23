@@ -4,7 +4,7 @@
     "description": "Name of your language written on your language."
   },
   "header.languageNotification.title": {
-    "message": "Podporujeme tvůj jazyk, chceš si přepnout?",
+    "message": "Podporujeme tvůj jazyk, chceš si ho přepnout?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
