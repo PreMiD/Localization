@@ -1,50 +1,46 @@
 {
   "tab.changelog.new.1": {
-    "message": "Uživatelé mohou nyní přidávat vlastní přítomností. [[Nainstaluj si ich nyní!]]",
-    "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
+    "message": "Users can now add presences by themself. [Add some now!]",
+    "description": ""
   },
   "tab.changelog.new.2": {
-    "message": "Nyní teď můžeš [[vidět nové přítomností]] ve svém přírodním výskytu",
-    "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app\/store"
+    "message": "Find some [new presences] in their natural habitat",
+    "description": ""
   },
   "tab.changelog.new.3": {
     "message": "Automatická aktualizace je nyní věc",
     "description": ""
   },
   "tab.changelog.new.4": {
-    "message": "Streamy na YouTube jsou teď opravdu zobrazeny ako streamy ",
-    "description": ""
-  },
-  "tab.changelog.new.7": {
-    "message": "Každý může nyní vytvářet přítomností",
+    "message": "Users can create presences now",
     "description": ""
   },
   "tab.changelog.new.5": {
-    "message": "Vyleštili jsme náš Bot Discordu s novými funkcemi ",
+    "message": "[Docs] for these creative developers out there",
     "description": ""
   },
   "tab.changelog.new.6": {
-    "message": "Přidali jsme [[dokumenty]] pro kreativních vývojářů",
-    "description": "please keep the brackets '[[]]' for the specific word(s); 'docs' will be a link -> docs.premid.app"
-  },
-  "tab.changelog.changed.1": {
-    "message": "Kompletní nový design webovej stránky",
+    "message": "All new website design",
     "description": ""
   },
-  "tab.changelog.changed.2": {
-    "message": "Upravené rozvržení vyskakovacích oken a záložek",
+  "tab.changelog.new.7": {
+    "message": "More features for our Discord-Bot",
+    "description": ""
+  },
+  "tab.changelog.new.8": {
+    "message": "Our new API is a running beast",
+    "description": ""
+  },
+  "tab.changelog.changed.1": {
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "tab.changelog.fixed.1": {
-    "message": "Opravili jsme [[#140]] tak že písničky nad jako 1h budou ukazovat správně",
-    "description": "please keep the brackets '[[]]' for the specific word(s); #140 will be a link -> issue"
-  },
-  "tab.changelog.fixed.2": {
-    "message": "Spousta (ne)známych chyb odešlo",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
-  "tab.changelog.fixed.3": {
-    "message": "Vše běží teď mnohem rychleji",
+  "tab.changelog.fixed.2": {
+    "message": "Everything is running much faster now",
     "description": ""
   }
 }
