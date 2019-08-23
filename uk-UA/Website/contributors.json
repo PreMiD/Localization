@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "Штат",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Прихильники",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Перекладачі",
+    "description": "Heading for group of users."
+  }
+}
