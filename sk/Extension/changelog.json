@@ -1,6 +1,6 @@
 {
   "tab.changelog.new.1": {
-    "message": "Užívatelia môžu od teraz pridať prítomnosti sami. [[Nainštalujte si ich teraz!]] ",
+    "message": "Užívatelia môžu od teraz pridávať prítomnosti sami. [[Nainštalujte si ich teraz!]]",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "tab.changelog.new.5": {
-    "message": "Vyleštili sme nášho Discord bota s novými funkciami",
+    "message": "Vyleštili sme nášho Discord bota s novými super funkciami",
     "description": ""
   },
   "tab.changelog.new.6": {
