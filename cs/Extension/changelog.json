@@ -4,7 +4,7 @@
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
-    "message": "Teď můžeš [[vidět nové přítomností]] ve svém přírodním habitatu",
+    "message": "Nyní teď můžeš [[vidět nové přítomností]] ve svém přírodním výskytu",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.3": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "tab.changelog.new.6": {
-    "message": "Přidali jsme [[docs]] pro kreativních vývojářů",
+    "message": "Přidali jsme [[dokumenty]] pro kreativních vývojářů",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'docs' will be a link -> docs.premid.app"
   },
   "tab.changelog.changed.1": {
-    "message": "Celej nový design webovej stránky",
+    "message": "Kompletní nový design webovej stránky",
     "description": ""
   },
   "tab.changelog.changed.2": {
