@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Montrez à tout le monde ce que vous regardez ou écoutez !",
+    "message": "Faites savoir à tout le monde ce que vous regardez et écoutez!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -12,7 +12,7 @@
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Joue à un jeu",
+    "message": "Joue à",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
