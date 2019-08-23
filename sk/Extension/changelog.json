@@ -4,7 +4,7 @@
     "description": "please keep the brackets '[[]]' for the specific word(s); 'Install them now!' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.2": {
-    "message": "Od teraz už môžete [[vidieť nové prítomnosti]] v ich prírodnom habitatu",
+    "message": "Od teraz môžeš [[vidieť nové prítomnosti]] v ich prírodnom nálezisku",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'see new presences' will be a link -> premid.app\/store"
   },
   "tab.changelog.new.3": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "tab.changelog.new.4": {
-    "message": "Streamy na YouTube sú teraz zobrazené ako streamy ",
+    "message": "Živé prenosy na YouTube sú teraz zobrazené ako naživo",
     "description": ""
   },
   "tab.changelog.new.7": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "tab.changelog.new.6": {
-    "message": "Pridali sme [[docs]] pre kreatívnych vývojarov ",
+    "message": "Pridali sme [[dokumenty]] pre kreatívnych vývojárov",
     "description": "please keep the brackets '[[]]' for the specific word(s); 'docs' will be a link -> docs.premid.app"
   },
   "tab.changelog.changed.1": {
-    "message": "Úplne nový dizajn webovej stránky.",
+    "message": "Kompletný nový dizajn webovej stránky",
     "description": ""
   },
   "tab.changelog.changed.2": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "tab.changelog.fixed.3": {
-    "message": "Všetko beží oveľa rýchlejšie teraz",
+    "message": "Všetko od teraz beží oveľa plynulo",
     "description": ""
   }
 }
