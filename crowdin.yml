@@ -1,5 +1,5 @@
 files:
   - source: /en/Extension/*.json
-    translation: /%two_letters_code%/Extension/%original_file_name%
+    translation: /%locale%/Extension/%original_file_name%
   - source: /en/Website/*.json
-    translation: /%two_letters_code%/Website/%original_file_name%
+    translation: /%locale%/Website/%original_file_name%
