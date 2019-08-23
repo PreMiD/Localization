@@ -8,7 +8,7 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Súbory na Stiahnutie",
+    "message": "Prevziať",
     "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Máme veľa funkcií ale momentálne ti chceme povedať základné funkcie ktoré nájdeš iba v PreMiDe.",
+    "message": "Máme veľa funkcií, ale momentálne ti chceme povedať základné funkcie ktoré nájdeš iba v PreMiDe.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
