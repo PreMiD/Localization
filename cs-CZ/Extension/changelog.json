@@ -1,6 +1,6 @@
 {
   "tab.changelog.new.1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+    "message": "Uživatelé mohou od nyní přidávat přítomnosti sami. [[Přidej si některé teď!]",
     "description": ""
   },
   "tab.changelog.new.2": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "tab.changelog.new.5": {
-    "message": "[Docs] for these creative developers out there",
+    "message": "[Docs] pro kreativních vývojáře tam venku",
     "description": ""
   },
   "tab.changelog.new.6": {
@@ -28,7 +28,7 @@
     "description": ""
   },
   "tab.changelog.new.8": {
-    "message": "Our new API is a running beast",
+    "message": "Náš nový API běží jak zvíře",
     "description": ""
   },
   "tab.changelog.changed.1": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "tab.changelog.fixed.2": {
-    "message": "Everything is running much faster now",
+    "message": "Vše nyní běží mnohem rychleji",
     "description": ""
   }
 }
