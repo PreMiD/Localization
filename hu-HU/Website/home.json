@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Elsődleges funkciók",
     "description": "Features section"
   },
   "home.cards.subheading": {
@@ -36,7 +36,7 @@
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Média vezérlés",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
@@ -44,7 +44,7 @@
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Többnyelvű",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
@@ -52,7 +52,7 @@
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
-    "message": "Open Source",
+    "message": "Nyílt forrású",
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
