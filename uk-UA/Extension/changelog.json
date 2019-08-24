@@ -28,19 +28,19 @@
     "description": ""
   },
   "tab.changelog.new.8": {
-    "message": "Our new API is a running beast",
+    "message": "Наш новий API — звір, який біжить",
     "description": ""
   },
   "tab.changelog.changed.1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Оновлено макет випливаючих вікон, вкладок і стилю",
     "description": ""
   },
   "tab.changelog.fixed.1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Багато (не)відомих помилок втікли геть",
     "description": ""
   },
   "tab.changelog.fixed.2": {
-    "message": "Everything is running much faster now",
+    "message": "Все працює набагато швидше",
     "description": ""
   }
 }
