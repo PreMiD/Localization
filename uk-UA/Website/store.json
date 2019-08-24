@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Ця присутність була додана верифікованим розроником",
+    "message": "Ця присутність була додана верифікованим розробником",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
