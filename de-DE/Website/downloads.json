@@ -4,11 +4,11 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Beginnen sie jetzt mit PreMid und zeige sie anderen, was sie schauen oder hören, vielleicht wirst du jemand mit den gleichen Interessen finden.",
+    "message": "Beginne mit der Nutzung von PreMiD und zeige anderen, was du schaust oder hörst, vielleicht findest du jemand mit den gleichen Interessen.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Loslegen",
+    "message": "Erste Schritte",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
