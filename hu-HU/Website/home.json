@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Oszd meg másokkal amit nézel és hallgatsz!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,11 +24,11 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+    "message": "Számos funkciónk van, de most a PreMiD saját, egyedi funkcióiról szeretnénk tájékoztatást adni.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Állapotüzeneti rendszer",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
