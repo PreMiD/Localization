@@ -56,11 +56,11 @@
     "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Oh nein!",
+    "message": "Och ne!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Fehler beim Laden der Credits",
+    "message": "Fehler beim Laden der Mitwirkenden",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.connected": {
