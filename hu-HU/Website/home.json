@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "A legtöbb állapotüzenet támogatást nyújt a médiavezérléshez is. Más alkalmazások használatával kihagyhatod, szüneteltetheted és lejátszhatod a műsorszámokat.",
+    "message": "A legtöbb állapotüzenet támogatja a média vezérlést is. Más alkalmazások használata közben bátran kihagyhatod, szüneteltetheted és lejátszhatod a műsorszámokat.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Nem mindenki jó az Angolban. Ezért számos más nyelven is közzétesszük bővítményünket és weboldalunkat, valószínűleg a Te nyelveden is!",
+    "message": "Nem mindenki jó az Angolban. Ezért folyamatosan elérhetővé tesszük bővítményünket és weboldalunkat más nyelveken is, valószínűleg a Te nyelveden is!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
