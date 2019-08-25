@@ -20,7 +20,7 @@
         "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
     },
     "presence.sections.information.supportedurls": {
-        "message": "Támogatási URL címek",
+        "message": "Kapcsolódó URL címek",
         "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
     }
 }
