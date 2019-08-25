@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
+    "message": "Egy olyan állapotüzeneti rendszert fejlesztettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek kezelését és használatát!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
+    "message": "Alkalmazásunk, weboldalunk és bővítményünk nyílt forráskódú. Ha valami hibát találtál vagy további funkciók hozzáadását tervezed, akkor hibajelentést vagy átviteli kérelmet is készíthetsz GitHub oldalunkon!",
     "description": "Description for card"
   }
 }
