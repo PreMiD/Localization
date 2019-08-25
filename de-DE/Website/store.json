@@ -24,7 +24,7 @@
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Entfernen",
+    "message": "Präsenz entfernen",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
