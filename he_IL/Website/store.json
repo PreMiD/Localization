@@ -1,0 +1,34 @@
+{
+  "store.message.error": {
+    "message": "תוסף לא נמצא, נועל פונקציות...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "תוסף נמצא, פותח פונקציות...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "יוצר",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "הpresence הזה אושר על ידי מתכנת מוסמך",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "חפש",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "הוסף presence",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "מחק presence",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "הpresence הזה כלול בPreMiD, אין צורך להוריד אותו.",
+    "description": "The message that appears instead of the buttons."
+  }
+}
