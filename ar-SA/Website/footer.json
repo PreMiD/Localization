@@ -1,0 +1,102 @@
+{
+  "footer.language": {
+    "message": "الغة",
+    "description": "You know how to translate that word? I hope you do :D"
+  },
+  "footer.usercount.heading": {
+    "message": "مستعد لتجربة PreMiD ?",
+    "description": "Promotional heading"
+  },
+  "footer.usercount.message": {
+    "message": "انضم أكثر من 100 مستخدم اليوم!",
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+  },
+  "footer.usercount.button": {
+    "message": "تحميل",
+    "description": "Install button under the promotional message"
+  },
+  "footer.partners.heading": {
+    "message": "الشركاء",
+    "description": "Partner section"
+  },
+  "footer.developers.heading": {
+    "message": "المطورون",
+    "description": "Developer section"
+  },
+  "footer.developers.documentation": {
+    "message": "الوثائق",
+    "description": "Documentation -> redirects to docs.premid.app"
+  },
+  "footer.developers.richpresence": {
+    "message": "Rich Presence",
+    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+  },
+  "footer.supportus.heading": {
+    "message": "ادعمنا",
+    "description": "Support us section"
+  },
+  "footer.supportus.donate": {
+    "message": "تبرع",
+    "description": "Donate -> redirects to patreon.com\/timeraa"
+  },
+  "footer.supportus.contribute": {
+    "message": "ساهم",
+    "description": "Contribute -> redirects to github.com\/premid"
+  },
+  "footer.supportus.design": {
+    "message": "التصميم",
+    "description": "Design -> redirects to discord.premid.app"
+  },
+  "footer.supportus.translate": {
+    "message": "ترجمة",
+    "description": "Translate -> redirects to locilazation page"
+  },
+  "footer.help.heading": {
+    "message": "مساعدة",
+    "description": "Help section"
+  },
+  "footer.help.troubleshooting": {
+    "message": "استكشاف الأخطاء وإصلاحها",
+    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+  },
+  "footer.help.getsupport": {
+    "message": "احصل على مساعدة",
+    "description": "Get Support -> redirects to Discord invite"
+  },
+  "footer.help.information": {
+    "message": "معلومات",
+    "description": "Information section"
+  },
+  "footer.help.information.cookies": {
+    "message": "اتفاقية ملفات تعريف الارتباط",
+    "description": "meant to be 'Cookie Policy'"
+  },
+  "footer.help.information.privacy": {
+    "message": "السياسة خاصة",
+    "description": "meant to be 'Privacy Policy'"
+  },
+  "footer.help.information.terms": {
+    "message": "شروط الخدمة",
+    "description": "meant to be 'Terms of Service'"
+  },
+  "footer.more.heading": {
+    "message": "المزيد",
+    "description": "More section"
+  },
+  "footer.more.status": {
+    "message": "الحالة",
+    "description": "Status -> redirects to status.premid.app"
+  },
+  "footer.more.wiki": {
+    "message": "ويكي",
+    "description": "Wiki -> redirects to wiki.premid.app"
+  },
+  "footer.copyright.line1": {
+    "message": "{0} من طرف {1}",
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+  },
+  "footer.copyright.line2": {
+    "message": "تمت صيانة الموقع بواسطة {0}",
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+  }
+}

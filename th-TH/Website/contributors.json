@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "บุคลากร",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "ผู้สนับสนุน",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "แปลภาษา",
+    "description": "Heading for group of users."
+  }
+}

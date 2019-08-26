@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "Équipe",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Supporteurs",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Traducteurs",
+    "description": "Heading for group of users."
+  }
+}
