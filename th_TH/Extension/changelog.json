@@ -1,0 +1,46 @@
+{
+  "tab.changelog.new.1": {
+    "message": "ผู้ใช้งานสามารถเพิ่ม Presence ของตัวเองได้\n[ติดตั้งเดี๋ยวนี้ !]",
+    "description": ""
+  },
+  "tab.changelog.new.2": {
+    "message": "คุณสามารถ [ดู Presences มาใหม่]  ที่นี่",
+    "description": ""
+  },
+  "tab.changelog.new.3": {
+    "message": "ระบบอัปเดตอัตโนมัติ",
+    "description": ""
+  },
+  "tab.changelog.new.4": {
+    "message": "ตอนนี้ผู้ใช้สามารถสร้าง Presence ได้เองแล้ว",
+    "description": ""
+  },
+  "tab.changelog.new.5": {
+    "message": "[เอกสาร] สำหรับผู้สร้างสรรค์ของเรา",
+    "description": ""
+  },
+  "tab.changelog.new.6": {
+    "message": "การออกแบบเว็บไซต์ใหม่!",
+    "description": ""
+  },
+  "tab.changelog.new.7": {
+    "message": "ฟีเจอร์อีกมากมายของ Discord-Bot",
+    "description": ""
+  },
+  "tab.changelog.new.8": {
+    "message": "API ใหม่ของเราเทพมาก",
+    "description": ""
+  },
+  "tab.changelog.changed.1": {
+    "message": "ปรับปรุงป็อปอัปและหน้าแท็บ",
+    "description": ""
+  },
+  "tab.changelog.fixed.1": {
+    "message": "บัคนับร้อยได้วิ่งหายไปแล้ว",
+    "description": ""
+  },
+  "tab.changelog.fixed.2": {
+    "message": "ทุกอย่างทำงานได้เร็วกว่าเดิมแล้ว",
+    "description": ""
+  }
+}
