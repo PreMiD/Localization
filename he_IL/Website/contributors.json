@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "צוות",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "תומכים",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "מתרגמים",
+    "description": "Heading for group of users."
+  }
+}
