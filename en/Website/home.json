@@ -9,7 +9,7 @@
   },
   "home.introduction.button.downloads": {
     "message": "Downloads",
-    "description": "Downloads button -> redirects to /downloads page"
+    "description": "Downloads button -> redirects to \/downloads page"
   },
   "home.examples.playingagame": {
     "message": "Playing a game",
