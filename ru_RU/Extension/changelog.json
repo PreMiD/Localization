@@ -1,0 +1,46 @@
+{
+  "tab.changelog.new.1": {
+    "message": "Теперь пользователи могут добавлять свои статусы самостоятельно. [[Установите их сейчас!]",
+    "description": ""
+  },
+  "tab.changelog.new.2": {
+    "message": "Теперь вы можете [[увидеть новые статусы]] в их естественной среде обитания",
+    "description": ""
+  },
+  "tab.changelog.new.3": {
+    "message": "Авто обновление идёт сейчас",
+    "description": ""
+  },
+  "tab.changelog.new.4": {
+    "message": "Все могут создавать статусы сейчас",
+    "description": ""
+  },
+  "tab.changelog.new.5": {
+    "message": "Мы добавили [[Docs]] для этих креативных разработчиков",
+    "description": ""
+  },
+  "tab.changelog.new.6": {
+    "message": "Абсолютно новый дизайн сайта",
+    "description": ""
+  },
+  "tab.changelog.new.7": {
+    "message": "Больше возможностей для бота в Discord",
+    "description": ""
+  },
+  "tab.changelog.new.8": {
+    "message": "Наш новый API бегающий зверь",
+    "description": ""
+  },
+  "tab.changelog.changed.1": {
+    "message": "Обновленный макет всплывающих окон и вкладок",
+    "description": ""
+  },
+  "tab.changelog.fixed.1": {
+    "message": "Многие (не) известные ошибки убежали",
+    "description": ""
+  },
+  "tab.changelog.fixed.2": {
+    "message": "Теперь все работает намного быстрее",
+    "description": ""
+  }
+}

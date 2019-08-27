@@ -1,0 +1,74 @@
+{
+  "popup.navigation.settings": {
+    "message": "Ayarlar",
+    "description": "Title of the 'settings' section at the navigation in the popup"
+  },
+  "popup.navigation.credits": {
+    "message": "Katkıda Bulunanlar",
+    "description": "Title of the 'credits' section at the navigation in the popup"
+  },
+  "popup.headings.general": {
+    "message": "Genel",
+    "description": "Title of the 'general' area of the 'settings' section in the popup"
+  },
+  "popup.setting.enabled": {
+    "message": "Etkin",
+    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.mediaControl": {
+    "message": "Medya Kontrolleri",
+    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.titleMenubar": {
+    "message": "Menü Başlığı",
+    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.autoLaunch": {
+    "message": "Otomatik başlat",
+    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.headings.presences": {
+    "message": "Servisler",
+    "description": "Title of the 'presences' area of the 'settings' section in the popup"
+  },
+  "popup.presences.manage": {
+    "message": "Yönet",
+    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.presences.noPresences": {
+    "message": "Hiç servis eklenmemiş",
+    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.presences.done": {
+    "message": "Tamamlandı",
+    "description": "Done button"
+  },
+  "popup.presences.load": {
+    "message": "Servis Yükle",
+    "description": "Load Presence button"
+  },
+  "popup.buttons.presenceStore": {
+    "message": "Mağaza",
+    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.buttons.help": {
+    "message": "Yardıma mı ihtiyacınız var?",
+    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+  },
+  "popup.credits.error.heading": {
+    "message": "Olamaz!",
+    "description": "Title of the error message (located at the 'credits' tab in the popup)"
+  },
+  "popup.credits.error.message": {
+    "message": "Katkıda bulunanlar yüklenemedi",
+    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+  },
+  "popup.info.connected": {
+    "message": "Bağlı",
+    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
+  },
+  "popup.info.disconnected": {
+    "message": "Bağlı değil",
+    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+  }
+}

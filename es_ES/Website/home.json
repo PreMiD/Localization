@@ -1,0 +1,62 @@
+{
+  "home.introduction.catchphrase": {
+    "message": "¡Que todo el mundo sepa qué estás viendo y escuchando!",
+    "description": "First phrase that a user reads on our website"
+  },
+  "home.introduction.button.discord": {
+    "message": "Servidor de {0}",
+    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  },
+  "home.introduction.button.downloads": {
+    "message": "Descargas",
+    "description": "Downloads button -> redirects to \/downloads page"
+  },
+  "home.examples.playingagame": {
+    "message": "Jugando a un juego",
+    "description": "Discord Rich Presence -> Playing a game"
+  },
+  "home.examples.timestamp": {
+    "message": "{0} restante",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.cards.heading": {
+    "message": "Nuestras características principales",
+    "description": "Features section"
+  },
+  "home.cards.subheading": {
+    "message": "Tenemos muchas características, pero ahora queremos informarte sobre nuestras características principales, que sólo puedes encontrar en PreMiD.",
+    "description": "Features section subheading"
+  },
+  "home.cards.presencesystem.title": {
+    "message": "Sistema de presencias",
+    "description": "Title"
+  },
+  "home.cards.presencesystem.explanation": {
+    "message": "¡Hemos desarrollado nuestra extensión con un sistema de presencias que te permite utilizar las que fueron creadas por otros usuarios y gestionarlas a través de la extensión!",
+    "description": "Description for card"
+  },
+  "home.cards.mediacontrols.title": {
+    "message": "Controles multimedia",
+    "description": "Title"
+  },
+  "home.cards.mediacontrols.explanation": {
+    "message": "La mayoría de nuestras presencias proveen soporte para controles multimedia. Puedes saltar, pausar y reproducir pistas mientras se utilizan otras aplicaciones.",
+    "description": "Description for card"
+  },
+  "home.cards.multilingual.title": {
+    "message": "Multiidioma",
+    "description": "Title"
+  },
+  "home.cards.multilingual.explanation": {
+    "message": "No todo el mundo es bueno con el inglés. Es por eso que estamos traduciendo nuestra extensión y sitio web a otros idiomas, ¡probablemente incluyendo el tuyo!",
+    "description": "Description for card"
+  },
+  "home.cards.opensource.title": {
+    "message": "Código abierto",
+    "description": "Title"
+  },
+  "home.cards.opensource.explanation": {
+    "message": "El código de nuestra aplicación, sitio web y extensión es abierto. ¡Si encuentras un error o deseas añadir alguna nueva función puedes crear peticiones en nuestra página de GitHub!",
+    "description": "Description for card"
+  }
+}

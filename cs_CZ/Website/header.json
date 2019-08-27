@@ -1,0 +1,38 @@
+{
+  "header.language": {
+    "message": "Čeština",
+    "description": "Name of your language written on your language."
+  },
+  "header.languageNotification.title": {
+    "message": "Podporujeme tvůj jazyk, chceš si ho přepnout?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Naše stránka byla přeložená do tvého jazyku. V případě ti to může být v pomoci když nemluvíš Anglicky dobře.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ne, děkuji",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Změnit teď  ",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Peču palačinky...;Umísťuji kontejnery...;Analyzuji tvojí IP adresu...;UwU;Porušuji pravidla...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Obchod",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Stáhnout",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Přispěvatelé",
+    "description": "Contributors tab"
+  }
+}
