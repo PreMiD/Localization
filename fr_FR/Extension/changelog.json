@@ -1,46 +1,46 @@
 {
-  "tab.changelog.new.1": {
+  "extension.2.0.new1": {
     "message": "Les utilisateurs peuvent maintenant ajouter des présences par eux-mêmes. [Ajoutez-en maintenant!]",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Trouvez [de nouvelles présences] dans leurs habitat naturel",
+  "extension.2.0.new2": {
+    "message": "Find some [new presences] in their natural habitat",
     "description": ""
   },
-  "tab.changelog.new.3": {
+  "extension.2.0.new3": {
     "message": "La mise à jour automatique est une chose maintenant",
     "description": ""
   },
-  "tab.changelog.new.4": {
+  "extension.2.0.new4": {
     "message": "Les utilisateurs peuvent créer des présences maintenant",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[Docs] pour les développeurs créatifs là-dehors",
+  "extension.2.0.new5": {
+    "message": "[Docs] for these creative developers out there",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Tout nouveau design du site web",
+  "extension.2.0.new6": {
+    "message": "All new website design",
     "description": ""
   },
-  "tab.changelog.new.7": {
+  "extension.2.0.new7": {
     "message": "Plus de fonctionnalités pour notre Bot Discord",
     "description": ""
   },
-  "tab.changelog.new.8": {
-    "message": "Notre nouvelle API est une bête en fuite",
+  "extension.2.0.new8": {
+    "message": "Our new API is a running beast",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Nouvelle mise en page des popups et des onglets",
+  "extension.2.0.change1": {
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "Beaucoup de bugs (in)connus se sont échappés",
+  "extension.2.0.fix1": {
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
-    "message": "Tout fonctionne plus rapidement maintenant",
+  "extension.2.0.fix2": {
+    "message": "Everything is running much faster now",
     "description": ""
   }
 }
