@@ -1,46 +1,46 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+    "message": "Los usuarios ahora pueden agregar presencias por sí mismos. [¡Añade algunas ahora!]",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some [new presences] in their natural habitat",
+    "message": "Encuenta algunas de las [nuevas presencias] en su hábitat natural",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "La actualización automática ahora es algo real",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Los usuarios ahora pueden crear presencias",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] for these creative developers out there",
+    "message": "[Docs] para esos desarrolladores creativos por ahí",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Diseño de sitio web nuevo",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Más características para nuestro Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "Nuestra nueva API es una bestia",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Una renovación de los Popups y cambios de pestañas",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Muchos bugs (des)conocidos se escaparon",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Ahora todo funciona mucho más rápido",
     "description": ""
   }
 }
