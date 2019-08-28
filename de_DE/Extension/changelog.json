@@ -42,5 +42,9 @@
   "extension.2.0.fix2": {
     "message": "Alles läuft jetzt viel schneller",
     "description": ""
+  },
+  "extension.2.0.fix3": {
+    "message": "This is just a test string, no need to translate it.",
+    "description": "If you translate this then idk"
   }
 }
