@@ -1,46 +1,46 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Użytkownicy mogą teraz dodawać własne statusy. [[Zainstaluj je teraz!]",
+  "extension.2.0.new1": {
+    "message": "Users can now add presences by themself. [Add some now!]",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Możesz teraz [[zobaczyć nowe statusy]] w ich naturalnym środowisku",
+  "extension.2.0.new2": {
+    "message": "Find some [new presences] in their natural habitat",
     "description": ""
   },
-  "tab.changelog.new.3": {
-    "message": "Automatyczne aktualizacje już istnieją",
+  "extension.2.0.new3": {
+    "message": "Auto updating is a thing now",
     "description": ""
   },
-  "tab.changelog.new.4": {
-    "message": "Teraz każdy może tworzyć statusy",
+  "extension.2.0.new4": {
+    "message": "Users can create presences now",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "Dodaliśmy [[dokumentację]] dla kreatywnych developerów",
+  "extension.2.0.new5": {
+    "message": "[Docs] for these creative developers out there",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Kompletnie nowy wygląd witryny",
+  "extension.2.0.new6": {
+    "message": "All new website design",
     "description": ""
   },
-  "tab.changelog.new.7": {
-    "message": "Więcej funkcji dla naszego bota Discord",
+  "extension.2.0.new7": {
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
-  "tab.changelog.new.8": {
-    "message": "Nasze nowe API działa jak bestia",
+  "extension.2.0.new8": {
+    "message": "Our new API is a running beast",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Odnowiony układ okienek i zakładek",
+  "extension.2.0.change1": {
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "Mnóstwo (nie)znanych błędów zostało naprawionych",
+  "extension.2.0.fix1": {
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
-    "message": "Wszystko działa teraz o wiele szybciej",
+  "extension.2.0.fix2": {
+    "message": "Everything is running much faster now",
     "description": ""
   }
 }
