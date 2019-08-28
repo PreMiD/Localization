@@ -1,45 +1,45 @@
 {
-  "tab.changelog.new.1": {
+  "extension.2.0.new1": {
     "message": "Benutzer können jetzt Präsenzen hinzufügen. [Jetzt welche hinzufügen!]",
     "description": ""
   },
-  "tab.changelog.new.2": {
+  "extension.2.0.new2": {
     "message": "Finde einige [neue Präsenzen] in ihrem natürlichen Lebensraum",
     "description": ""
   },
-  "tab.changelog.new.3": {
+  "extension.2.0.new3": {
     "message": "Automatische Aktualisierungen sind jetzt ein Ding",
     "description": ""
   },
-  "tab.changelog.new.4": {
+  "extension.2.0.new4": {
     "message": "Benutzer können jetzt Präsenzen erstellen",
     "description": ""
   },
-  "tab.changelog.new.5": {
+  "extension.2.0.new5": {
     "message": "[Docs] für diese kreativen Entwickler da draußen",
     "description": ""
   },
-  "tab.changelog.new.6": {
+  "extension.2.0.new6": {
     "message": "Komplett neues Website design",
     "description": ""
   },
-  "tab.changelog.new.7": {
+  "extension.2.0.new7": {
     "message": "Mehr Funktionen für unseren Discord-Bot",
     "description": ""
   },
-  "tab.changelog.new.8": {
+  "extension.2.0.new8": {
     "message": "Unsere neue API ist ein laufendes Biest",
     "description": ""
   },
-  "tab.changelog.changed.1": {
+  "extension.2.0.change1": {
     "message": "Überarbeitetes Popup- und Tab-Layout",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
+  "extension.2.0.fix1": {
     "message": "Viele (un)bekannte Fehler sind weggelaufen",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
+  "extension.2.0.fix2": {
     "message": "Alles läuft jetzt viel schneller",
     "description": ""
   }
