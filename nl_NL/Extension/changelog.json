@@ -1,26 +1,26 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+    "message": "Gebruikers kunnen nu zelf presences toevoegen. [Voeg nu een paar toe!]",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some [new presences] in their natural habitat",
+    "message": "Vind een paar [nieuwe presences] in hun natuurlijk omgeving",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "Automatisch bijwerken is een ding nu",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Gebruikers kunnen nu presences maken",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] for these creative developers out there",
+    "message": "[Docs] voor de creatieve ontwikkelaars",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Compleet nieuw website design",
     "description": ""
   },
   "extension.2.0.new7": {
@@ -42,9 +42,5 @@
   "extension.2.0.fix2": {
     "message": "Everything is running much faster now",
     "description": ""
-  },
-  "extension.2.0.fix3": {
-    "message": "This is just a test string, no need to translate it.",
-    "description": "If you translate this then idk"
   }
 }
