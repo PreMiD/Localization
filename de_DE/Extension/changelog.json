@@ -1,10 +1,10 @@
 {
   "tab.changelog.new.1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+    "message": "Benutzer können jetzt Präsenzen hinzufügen. [Jetzt welche hinzufügen!]",
     "description": ""
   },
   "tab.changelog.new.2": {
-    "message": "Find some [new presences] in their natural habitat",
+    "message": "Finde einige [neue Präsenzen] in ihrem natürlichen Lebensraum",
     "description": ""
   },
   "tab.changelog.new.3": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "tab.changelog.new.6": {
-    "message": "All new website design",
+    "message": "Komplett neues Website design",
     "description": ""
   },
   "tab.changelog.new.7": {
@@ -32,11 +32,11 @@
     "description": ""
   },
   "tab.changelog.changed.1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Überarbeitetes Popup- und Tab-Layout",
     "description": ""
   },
   "tab.changelog.fixed.1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Viele (un)bekannte Fehler sind weggelaufen",
     "description": ""
   },
   "tab.changelog.fixed.2": {
