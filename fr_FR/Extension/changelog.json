@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] for these creative developers out there",
+    "message": "[Docs] pour les développeurs créatifs là-bas",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -42,9 +42,5 @@
   "extension.2.0.fix2": {
     "message": "Tout fonctionne plus rapidement maintenant",
     "description": ""
-  },
-  "extension.2.0.fix3": {
-    "message": "This is just a test string, no need to translate it.",
-    "description": "If you translate this then idk"
   }
 }
