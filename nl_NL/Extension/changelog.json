@@ -1,46 +1,46 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Gebruikers kunnen nu zelf presences toevoegen. [Installeer ze nu!]",
+  "extension.2.0.new1": {
+    "message": "Users can now add presences by themself. [Add some now!]",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "U kan nu [nieuwe presences zien] in hun natuurlijke omgeving",
+  "extension.2.0.new2": {
+    "message": "Find some [new presences] in their natural habitat",
     "description": ""
   },
-  "tab.changelog.new.3": {
-    "message": "Automatisch updaten is een ding nu",
+  "extension.2.0.new3": {
+    "message": "Auto updating is a thing now",
     "description": ""
   },
-  "tab.changelog.new.4": {
-    "message": "Iedereen kan nu presences maken",
+  "extension.2.0.new4": {
+    "message": "Users can create presences now",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[Docs] voor de creatieve developers",
+  "extension.2.0.new5": {
+    "message": "[Docs] for these creative developers out there",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Compleet nieuw website design",
+  "extension.2.0.new6": {
+    "message": "All new website design",
     "description": ""
   },
-  "tab.changelog.new.7": {
-    "message": "Meer functies voor onze Discord-Bot",
+  "extension.2.0.new7": {
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
-  "tab.changelog.new.8": {
-    "message": "Onze nieuwe API is een actieve beest",
+  "extension.2.0.new8": {
+    "message": "Our new API is a running beast",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Vernieuwd popup, tabs layout en stijl",
+  "extension.2.0.change1": {
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "Veel (on)bekende bugs zijn weg",
+  "extension.2.0.fix1": {
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
-    "message": "Alles is veel sneller nu",
+  "extension.2.0.fix2": {
+    "message": "Everything is running much faster now",
     "description": ""
   }
 }
