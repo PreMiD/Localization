@@ -1,10 +1,10 @@
 {
   "downloads.header.title": {
-    "message": "Itt az idő hogy megmutatsd magad.",
+    "message": "Itt az idő, hogy megmutatsd magad.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű személyt is találsz.",
+    "message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű társakat is találsz.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
