@@ -24,7 +24,7 @@
     "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Автозагрузка",
+    "message": "Автозапуск программы",
     "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
