@@ -16,7 +16,7 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Искать",
+    "message": "Поиск",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
