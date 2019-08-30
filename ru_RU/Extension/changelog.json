@@ -1,6 +1,6 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+    "message": "Пользователи могут добавлять свои статусы сами. [Попробуйте!]",
     "description": ""
   },
   "extension.2.0.new2": {
@@ -8,7 +8,7 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "Теперь у нас есть функция Авто-обновления",
     "description": ""
   },
   "extension.2.0.new4": {
@@ -20,11 +20,11 @@
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Дизаин сайта был полностью переделан",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Добавлено больше возможностей для нашего бота в Discord",
     "description": ""
   },
   "extension.2.0.new8": {
