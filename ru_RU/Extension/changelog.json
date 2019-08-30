@@ -8,7 +8,7 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Теперь у нас есть функция Авто-обновления",
+    "message": "Теперь у нас есть авто-обновление",
     "description": ""
   },
   "extension.2.0.new4": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] были созданы для всех креативных разработчиков",
+    "message": "[Docs] были созданы для всех творческих разработчиков",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -32,11 +32,11 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Всплывающие окна и вкладки были полностью переделаны с нуля",
+    "message": "Переделаны всплывающие окна, вкладки и стили",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Куча известных (или нет) ошибок просто убежала",
+    "message": "Куча (не)известных ошибок убежала",
     "description": ""
   },
   "extension.2.0.fix2": {
