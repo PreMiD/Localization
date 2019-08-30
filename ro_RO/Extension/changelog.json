@@ -4,7 +4,7 @@
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some [new presences] in their natural habitat",
+    "message": "Găsește câteva [prezențe noi] in habitatul lor natural",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Mai multe îmbunătățiri pentru bot-ul nostru de Discord",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "Noul nostru API este o bestie",
     "description": ""
   },
   "extension.2.0.change1": {
@@ -36,11 +36,11 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Multe probleme (ne)cunoscute au fugit",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Totul rulează mai rapid acum",
     "description": ""
   }
 }
