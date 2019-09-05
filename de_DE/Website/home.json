@@ -20,11 +20,11 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Unsere primären Funktionen",
+    "message": "Unsere Hauptfunktionen",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Wir haben viele Funktionen, aber wir möchten dir jetzt unsere primären Funktionen vorstellen, die du nur in PreMiD finden wirst.",
+    "message": "Wir haben viele Funktionen, aber wir möchten dir jetzt unsere wichtigsten Funktionen vorstellen, die du nur in PreMiD finden wirst.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
