@@ -1,10 +1,10 @@
 {
   "downloads.header.title": {
-    "message": "Zeit, sich jedem zu zeigen.",
+    "message": "Es wird Zeit, dass du dich jedem zeigst.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Beginne mit der Nutzung von PreMiD und zeige anderen, was du schaust oder hörst, vielleicht findest du jemand mit den gleichen Interessen.",
+    "message": "Beginne mit der Nutzung von PreMiD und zeige anderen, was du schaust oder hörst, vielleicht findest du jemanden mit den gleichen Interessen.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Die Anwendung hat für dieses Betriebssystem keinen Installer. Dies bedeutet, dass es keine professionelle Unterstützung dafür gibt.",
+    "message": "{0} Die Anwendung hat für dieses Betriebssystem keinen Installer. Dies bedeutet, dass es keine professionelle Unterstützung für dieses gibt.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
