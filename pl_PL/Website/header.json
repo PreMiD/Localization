@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "Polski",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Nasza strona została przetłumaczona na twój język, czy chcesz zmienić język strony?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nasza strona internetowa została przetłumaczona na Twój język. Może ci pomóc, jeśli nie mówisz dobrze po angielsku.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
