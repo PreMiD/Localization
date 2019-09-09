@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Lasse jeden wissen, was du schaust und hörst!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -9,7 +9,7 @@
   },
   "home.introduction.button.downloads": {
     "message": "Downloads",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Spielt ein Spiel",
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Wir haben viele Funktionen, aber wir möchten dir jetzt unsere wichtigsten Funktionen vorstellen, die du nur in PreMiD finden wirst.",
+    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Wir haben in unsere Erweiterung ein Präsenzsystem eingebaut, dass es dir erlaubt Präsenzen, welche von anderen Nutzern entwickelt wurden, zu verwenden und über die Erweiterung zu verwalten!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Die meisten unserer Präsenzen unterstützen Mediensteuerungen. Du kannst Songs überspringen, pausieren und abspielen, während du andere Anwendungen verwenden.",
+    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Unsere Software, Website und Erweiterung sind Open-Source. Falls du einen Fehler findest oder eine neue Funktion möchtest, kannst du auf GitHub ein Issue erstellen oder selber einen Pull Request machen.",
+    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
     "description": "Description for card"
   }
 }
