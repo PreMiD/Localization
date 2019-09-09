@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "たくさんの機能がありますが、PreMiDでしか見られない機能をご紹介しましょう。",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "PreMiDは拡張機能ですが、機能を追加できます。他のユーザーが作ったプレゼンスを自由に追加・削除することが可能です！",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
