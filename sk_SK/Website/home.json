@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Daj všetkým vedieť čo počúvaš a pozeráš!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -9,7 +9,7 @@
   },
   "home.introduction.button.downloads": {
     "message": "Prevziať",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Hrá hru",
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Máme veľa funkcií, ale momentálne ti chceme povedať základné funkcie ktoré nájdeš iba v PreMiDe.",
+    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Vyvinuli sme naše rozšírenie so systémom prítomnosti ktorý ti umožňuje používať prítomností ktoré vytvorili iní používatelia a spravovať ich pomocou rozšírenia!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Väčšina z naších prítomností poskytuje podporu pre multimediálne ovládanie. Môžeš preskakovať, zastavovať a prehrávať skladby počas používania ostatných aplikácii.",
+    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Zdroj kódov našej aplikácie, stránky a rozšírenia pochádzajú z otvorených zdrojov. Ak si našiel chybu alebo chceš len pridať novú funkciu môžeš na našej stránke GitHub stránke vytvoriť problém alebo stiahnuť požiadavku!",
+    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
     "description": "Description for card"
   }
 }
