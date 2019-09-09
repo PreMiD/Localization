@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "אנגלית",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "אנחנו תומכים בשפות שונות, רוצה להחליף שפה?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
