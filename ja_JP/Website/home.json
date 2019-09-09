@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "見ているものを紹介しよう！",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "プレゼンスのほとんどはメディアコントロールをサポートしています。 他のアプリケーションを使用している間でも、トラックをスキップしたり、一時停止や再生することができます。",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "私達の全てはオープンソースです。バグを見つけたり、新しい機能を追加したいときはいつでもGitHubでIssueやPull Requestを送信することができます！",
     "description": "Description for card"
   }
 }
