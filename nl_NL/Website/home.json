@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Laat iedereen weten wat u doet!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "We hebben vele functies, maar we laten je onze primaire functies zien die u alleen kunt vinden in PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presence toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "De meeste van onze presences bieden ondersteuning voor mediabediening. U kunt nummers/videos overslaan, pauzeren en afspelen terwijl u andere applicaties gebruikt.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Alles wat we doen is open source. Als je een bug vindt of een nieuwe functie wilt toevoegen, kun je een probleem of een pull request maken op onze GitHub repository!",
     "description": "Description for card"
   }
 }
