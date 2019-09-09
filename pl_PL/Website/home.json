@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Pokaż każdemu, co oglądasz i czego słuchasz!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -9,7 +9,7 @@
   },
   "home.introduction.button.downloads": {
     "message": "Do pobrania",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "W grze",
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Nasza aplikacja ma wiele funkcji, ale te funkcje znajdziesz tylko w PreMiD.",
+    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Stworzyliśmy nasze rozszerzenie z myślą o systemie statusów który pozwoli tworzyć statusy innym użytkownikom oraz zarządzać nimi z poziomu rozszerzenia.",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Większość z naszych statusów pozwalają na Sterowanie Mediami. Możesz pomijać i pauzować utwory podczas używania innych aplikacji.",
+    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Kod naszej aplikacji, strony i rozszerzenia jest Open Source. Jeśli znalazłeś błąd lub chcesz dodać nową funkcję możesz otworzyć Pull Request na naszej stronie GitHub.",
+    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
     "description": "Description for card"
   }
 }
