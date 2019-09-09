@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "Português (Portugal)",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Nós damos suporte à tua língua, queres trocar?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "O nosso website foi traduzido para a tua língua. Pode vir a ser útil se não perceberes inglês muito bem.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
