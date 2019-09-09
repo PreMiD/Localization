@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "La maggior parte delle nostre presenze fornisce supporto per i controlli multimediali. Puoi saltare, mettere in pausa e riprodurre tracce/video mentre usi altre applicazioni.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Tutto ciò che facciamo è open source. Se trovi un bug o vuoi aggiungere una nuova funzionalità, puoi creare un problema o pull request sulla nostra repository GitHub!",
     "description": "Description for card"
   }
 }
