@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "ไทย",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "เรารองรับภาษาของคุณนะ อยากเปลี่ยนไหม?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "เว็บไซต์ของเรามีภาษาอื่น ๆ ให้เลือก เผื่อคุณจะอ่านภาษาอังกฤษไม่เก่งนะ",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
