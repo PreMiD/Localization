@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Aloita PreMID: n käyttäminen nyt ja näytä muille ihmisille mitä kuuntelet tai katsot ehkä sinä löydät jonkun jolla on samat kiinostukset kuin sinulla.",
+    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Käy{0} tällä sivulla ja tarkista onko laajennus yhdistetty.",
+    "message": "Visit {0} page and check if the extension is connected.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Sovelluksella ei ole asentajaa tälle käyttöjärjestemälle\nSe tarkoittaa sitä että sille ei ole tukea tällä hetkellä.",
+    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
