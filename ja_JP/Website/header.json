@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
+    "message": "このサイトはあなたの言語に翻訳されています。 英語があまり得意でないなら、オススメです。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -24,15 +24,15 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "ストア",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "ダウンロード",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "コントリビューター",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
