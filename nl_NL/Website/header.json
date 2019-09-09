@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "Nederlands",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Wij ondersteunen uw taal, wilt u overschakelen?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Onze website is vertaald in uw taal. Dit kan helpen als u niet goed Engels spreekt.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
