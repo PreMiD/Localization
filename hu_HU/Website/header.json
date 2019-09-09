@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "Magyar",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Ez az oldal elérhető a Te nyelveden is, váltani akarsz?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Az oldal le lett fordítva a nyelvedre. Ez segíthet, ha nem beszéled jól az Angol nyelvet.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
