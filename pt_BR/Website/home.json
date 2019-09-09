@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Nós temos muitos recursos, mas nos deixe mostrá-lo nossos recursos que você só pode encontrar no PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Tudo o que fazemos está em código aberto. Se você encontrar um bug ou quer adicionar um novo recurso você pode criar um tópico nas issues ou um pull request em nosso repositório do GitHub!",
     "description": "Description for card"
   }
 }
