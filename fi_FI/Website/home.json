@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Anna kaikkien tietää mitä katsot ja kuuntelet!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -9,7 +9,7 @@
   },
   "home.introduction.button.downloads": {
     "message": "Lataukset",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Pelaa peliä",
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Meillä on paljon ominaisuuksia, mutta nyt haluamme kertoa sinulle tärkeimmistä ominaisuuksistamme jotka löydät vain PreMiDistä.",
+    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Olemme kehittäneet sovellukseemme presence-järjestelmän, jonka avulla voit käyttää muiden käyttäjien tekemiä presencejä ja hallita niitä laajennuksemme kautta!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Suurin osa presenceistämme lisää tuen medianäppäimille. Voit ohittaa, keskeyttää ja jatkaa toistoa kayttäessäsi muita sovelluksia.",
+    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Sovelluksemme, laajennuksemme ja verkkosivumme lähdekoodit ovat avoimia. Jos löysit bugin tai haluat lisätä uuden ominaisuuden, voit tehdä niin GitHub-sivullamme!",
+    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
     "description": "Description for card"
   }
 }
