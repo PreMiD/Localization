@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Nós desenvolvemos a nossa extensão de uma forma que permite que você adicione e use as presenças criadas por outros usuários e gerenciar elas na extensão!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "A maioria das nossas presenças fornece suporte para controles de mídia. Você pode pular, pausar e reproduzir músicas/vídeos enquanto usa outras aplicações.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
