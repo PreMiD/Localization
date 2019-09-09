@@ -1,6 +1,6 @@
 {
   "extension.description.short": {
-    "message": "PreMiDはDiscord Rich Presenceでの通知やメディアコントロール機能などをあなたの最愛のサービスに追加します。",
+    "message": "PreMiDはDiscord Rich Presenceの統合やメディアコントロールなどの機能を、あなたの最愛のサービスに追加します。",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
