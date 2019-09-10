@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Дайте всім знати, що Ви робите!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "У нас є купа можливостей, але дозвольте показати вам наші головні функції, які ви знайдете ТІЛЬКИ в PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Ми розробили наше розширення з системою присутностей, яка дозволяє використовувати присутності, які створили інші користувачі, та керувати ними через розширення!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "Більшість з наших присутностей забезпечують підтримку для керування медіа. Ви можете пропустити, поставити на паузу і увімкнути треки, поки використовуєте інші застосунки.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Все, що ми робимо, є відкритим кодом. Якщо ви знайшли помилку або хочете додати нову функцію, ви можете створити issue або pull request нашому сховищі на GitHub!",
     "description": "Description for card"
   }
 }
