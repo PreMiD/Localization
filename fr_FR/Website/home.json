@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Faites savoir à tout le monde ce que vous faites!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Nous avons beaucoup de fonctionnalités, mais laissez-nous vous montrez les principales, celles que vous trouverez seulement avec PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Nous avons développé notre extension de manière à vous permettre d'ajouter et d'utiliser des présences créées par d'autres utilisateurs et de les gérer dans l'extension!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "La plupart de nos présences fournissent un support pour les contrôles de médias. Vous pouvez sauter, mettre en pause et lire des pistes/vidéos tout en utilisant d'autres applications.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Tout ce que nous faisons est open source. Si vous trouvez un bug ou souhaitez ajouter une nouvelle fonctionnalité, vous pouvez créer un issue ou alors un pull request sur notre GitHub!",
     "description": "Description for card"
   }
 }
