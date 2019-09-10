@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
+    "message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű társakat is találsz.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visit {0} page and check if the extension is connected.",
+    "message": "A bővítmény telepítését követően, látogatsd meg az {0}.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
+    "message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
