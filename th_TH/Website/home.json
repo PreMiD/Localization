@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "Presence ที่เรารองรับส่วนใหญ่สามารถควบคุมปุ่ม Media Control ได้ คือ คุณสามารถ ข้าม , หยุดและเล่นวิดีโอ/เพลง ในขณะที่ใช้งานแอปพลิเคชันอื่นอยู่ได้",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "ทุกอย่างเป็นโอเพนซอร์ส ถ้าหากคุณเจอบัคหรืออยากให้เราเพิ่มฟีเจอร์ใหม่ๆ คุณสามารถสร้าง Issue หรือ Pull Request ได้ใน GitHub",
     "description": "Description for card"
   }
 }
