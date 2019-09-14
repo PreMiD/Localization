@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
+    "message": "Beginne mit der Nutzung von PreMiD und zeige anderen, was du machst, vielleicht findest du jemanden mit den gleichen Interessen.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visit {0} page and check if the extension is connected.",
+    "message": "Besuche die Seite {0} und überprüfe, ob die Erweiterung verbunden ist.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
+    "message": "{0} Es gibt keinen Installer für dieses Betriebssystem. Das bedeutet, dass es keine professionelle Unterstützung dafür gibt.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
