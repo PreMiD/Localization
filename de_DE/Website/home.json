@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Alles was wir tun ist Open Source. Wenn du einen Fehler findest oder eine neue Funktion hinzufügen möchten, kannst du ein Issue erstellen oder einen Pull Request auf unserem GitHub Repository erstellen!",
+    "message": "Alles was wir tun ist Open Source. Wenn du einen Fehler findest oder eine neue Funktion hinzufügen möchtest, kannst du ein Issue erstellen oder einen Pull Request auf unserem GitHub Repository erstellen!",
     "description": "Description for card"
   }
 }
