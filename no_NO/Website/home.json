@@ -8,7 +8,7 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Nedlastinger",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
