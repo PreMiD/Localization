@@ -8,15 +8,15 @@
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Get Started",
+    "message": "Kom i gang",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Download PreMiD.",
+    "message": "Last ned PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Install PreMiD application.",
+    "message": "Installer PreMiD applikasjonen.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -40,7 +40,7 @@
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "WARNING:",
+    "message": "ADVARSEL:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
