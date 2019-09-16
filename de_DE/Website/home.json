@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Wir haben viele Features, aber lass uns dir die Features zeigen, die du nur in PreMiD finden kannst.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Präsenzen von anderen Benutzern hinzufügen und in der Erweiterung verwalten kannst!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "Die meisten unserer Präsenzen unterstützen Mediensteuerungen. Du kannst Songs überspringen, pausieren und abspielen, während du andere Anwendungen verwenden.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
