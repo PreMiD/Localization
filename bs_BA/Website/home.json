@@ -32,19 +32,19 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Mi smo razvili nasu ekstenziju na način koji vam omogućava da dodate i koristite prisutnosti kreirani od drugih korisnika i upravljati ih u ekstenziji!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Medija Kontrole",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "Većina naših prisustva pruža podršku za Medije Kontrole. Možes Prebaciti, pauzirati i puštati pjesme/videa dok koristite druge aplikacije.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Višejezični",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
