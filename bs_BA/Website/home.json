@@ -8,11 +8,11 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Preuzimanja",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Igrati igru",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
@@ -20,15 +20,15 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Naše Primarne osobine",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Mi imamo mnogo osobina, ali ajmo vam pokazati nasu primarnu osobinu koju možete samo pronaći u.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Sistem prisutnosti",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
