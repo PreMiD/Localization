@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "Mi imamo mnogo osobina, ali ajmo vam pokazati nasu primarnu osobinu koju možete samo pronaći u.",
+    "message": "Mi imamo mnogo osobina, ali ajmo vam pokazati naš u primarnu osobinu koju možete samo pronaći u PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "Mi smo razvili nasu ekstenziju na način koji vam omogućava da dodate i koristite prisutnosti kreirani od drugih korisnika i upravljati ih u ekstenziji!",
+    "message": "Mi smo razvili našu ekstenziju na način koji vam omogućava da dodate i koristite prisutnosti kreirani od drugih korisnika i upravljati ih u ekstenziji!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Većina naših prisustva pruža podršku za Medije Kontrole. Možes Prebaciti, pauzirati i puštati pjesme/videa dok koristite druge aplikacije.",
+    "message": "Većina naših prisustva pruža podršku za Medije Kontrole. Možete Prebaciti, pauzirati i puštati pjesme/videa dok koristite druge aplikacije.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Nije svako dobar u Engleskom. Zato mi prevedemo naše ekstenzije i stranicu na druge jezike, možda uključujući i tvoju!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Sve što mi radimo je Open Source. ako vi nađete kvar ili želite da dodate nove karakteristike možete napraviti problem ili zahtjev za povlačenjem na našoj GitHub spremište!",
     "description": "Description for card"
   }
 }
