@@ -32,15 +32,15 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Kami mengembangkan ekstensi kami sedemikian rupa agar kamu bisa menambah dan menggunakan presence yang dibuat oleh orang lain dan mengaturnya pada ekstensi!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Kontrol Media",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "Sebagian besar dari presence kami memberikan dukungan kontrol media. Kamu bisa skip, jeda, mainkan musik/video selagi menggunakan aplikasi lainnya.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
