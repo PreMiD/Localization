@@ -1,14 +1,14 @@
 {
   "presence.playback.playing": {
-    "message": "Playing back",
+    "message": "Memutar",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Playback paused",
+    "message": "Pemutaran dijeda",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "Browsing...",
+    "message": "Menelusuri...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
