@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "INSTAL APLIKASI RESMI KAMI AGAR BISA BEKERJA\n   {0}{1}\n\nKamu bisa menggunakan tombol media untuk mengontrol tayangan pada layanan berikut. Saat kamu menonton\/mendengarkan sesuatu pada salah satu layanan yang didukung, ekstensi browser akan mengirim metadata video\/musik tersebut ke client desktop kami dan PreMiD akan memprosesnya. PreMiD mengirim informasi tersebut ke Discord dengan urutan yang sesuai kemudian merubah statusnya otomatis\nLayanan yang didukung\n   {2} Silahkan lihat {3}\n\nButuh bantuan?\n   {4}{5}\n\nServer Discord kami\n   {6} Ngobrol dengan orang dibalik PreMiD {7}\n\nKami Open Source!\n   {9} Hal yang bagus harus dibuka untuk umum {10}",
+    "message": "INSTAL APLIKASI RESMI KAMI AGAR BISA BEKERJA\n   {0}{1}\n\nKamu bisa menggunakan tombol media untuk mengontrol pemutaran pada layanan berikut. Saat kamu menonton\/mendengarkan sesuatu pada salah satu layanan yang didukung, ekstensi browser akan mengirim metadata video\/musik tersebut ke client desktop kami dan PreMiD akan memprosesnya. PreMiD mengirim informasi tersebut ke Discord dengan urutan yang sesuai kemudian merubah statusnya otomatis\nLayanan yang didukung\n   {2} Silahkan lihat {3}\n\nButuh bantuan?\n   {4}{5}\n\nServer Discord kami\n   {6} Ngobrol dengan orang dibalik PreMiD {7}\n\nKami Open Source!\n   {9} Hal yang bagus harus dibuka untuk umum {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
