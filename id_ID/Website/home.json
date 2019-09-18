@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Beritahu semua orang apa yang kamu lakukan!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -8,27 +8,27 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Unduh",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Bermain Game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} tersisa",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Fitur utama kami",
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Kami memiliki banyak fitur, tapi mari kami tunjukkan fitur utama kami yang hanya bisa kamu dapat pada PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "Presence System",
+    "message": "Sistem Presence",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Tidak semua orang bisa berbahasa inggris. Itulah kenapa kami menerjemahkan ekstensi dan website ke bahasa lain, mungkin bahasamu juga!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Semua yang kami lakukan adalah open source. Jika kamu menemukan bug atau ingin menambah fitur baru kamu bisa membuat issue atau pull request pada GitHub repository kami!",
     "description": "Description for card"
   }
 }
