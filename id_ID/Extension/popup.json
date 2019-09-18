@@ -64,11 +64,11 @@
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.connected": {
-    "message": "Connected",
+    "message": "Terhubung",
     "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
   },
   "popup.info.disconnected": {
-    "message": "Not connected",
+    "message": "Tidak terhubung",
     "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
   }
 }
