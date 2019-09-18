@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Lasă-i pe toți să știe ce faci!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Avem o mulțime de funcții, dar hai să vă arătăm caracteristicile noastre principale pe care le puteți găsi doar în PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Am dezvoltat extensia noastră cu un sistem de prezență care vă permite să utilizați prezențe create de alți utilizatori și să le gestionați prin extensie!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "Majoritatea prezențelor noastre oferă suport pentru controalele media. Puteți sări, întrerupe și să redați melodii/videoclipuri în timp ce utilizați alte aplicații.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Tot ce facem este open source. Dacă găsiți un bug sau doriți să adăugați o caracteristică nouă, puteți crea un issue sau un pull request pe GitHub!",
     "description": "Description for card"
   }
 }
