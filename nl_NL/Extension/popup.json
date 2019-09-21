@@ -13,19 +13,19 @@
   },
   "popup.setting.enabled": {
     "message": "Ingeschakeld",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
     "message": "Mediabediening",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
     "message": "Titel Menubar",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "Automatisch opstarten",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Presences",
@@ -53,7 +53,7 @@
   },
   "popup.buttons.help": {
     "message": "Hulp Nodig?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "Oh nee!",
@@ -63,12 +63,12 @@
     "message": "Fout bij het laden van credits",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "Vebonden",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
+  "popup.info.notConnected": {
+    "message": "Not connected",
+    "description": "Shown when the extension can't connect to the application"
   },
-  "popup.info.disconnected": {
-    "message": "Niet verbonden",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+  "popup.info.notConnected.message": {
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? [[Troubleshooting]]",
+    "description": "Shown when the extension can't connect to the application"
   }
 }
