@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Changelog",
+    "message": "Popis izmjena",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,31 +8,31 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Thank you",
+    "message": "Hvala vam",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "for installing {0}",
+    "message": "za instaliranje {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "Start using {0}",
+    "message": "Počni koristiti {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Donate",
+    "message": "Doniraj",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh no!** We couldn't connect to the application... Is it already installed?",
+    "message": "nismo mogli konektovati na aplikaciju dali je već instaliran?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Rešavanje problema",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Install application",
+    "message": "Instaliraj aplikaciju",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
