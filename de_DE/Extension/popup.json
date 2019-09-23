@@ -64,15 +64,15 @@
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Not connected",
+    "message": "Nicht verbunden",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? [[Troubleshooting]]",
+    "message": "PreMiD konnte keine Verbindung zu der Applikation aufbauen. Ist sie installiert und läuft sie? [[Troubleshooting]]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -80,11 +80,11 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Soziale Netzwerke",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
@@ -92,7 +92,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Sonstige",
     "description": "Category name shown when you open tags"
   }
 }
