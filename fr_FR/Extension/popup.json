@@ -72,27 +72,27 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Tout",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
-    "message": "Anime",
+    "message": "Animé",
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Musique",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Réseaux Sociaux",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Vidéos et Streams",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Autres",
     "description": "Category name shown when you open tags"
   }
 }
