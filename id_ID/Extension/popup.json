@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Semua",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -80,19 +80,19 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Sosial",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video dan Stream",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Lainnya",
     "description": "Category name shown when you open tags"
   }
 }
