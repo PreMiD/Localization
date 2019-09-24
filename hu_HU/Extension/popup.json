@@ -68,7 +68,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "A PreMiD nem tudott csatlakozni az alkalmazáshoz! Telepítve van és fut? [[Troubleshooting]]",
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? [Troubleshooting]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.category.all": {
