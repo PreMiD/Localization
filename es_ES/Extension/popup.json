@@ -68,11 +68,11 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? [[Troubleshooting]]",
+    "message": "¡PreMid no se pudo conectar a su aplicación! ¿Está instalada y en ejecución? [[Troubleshooting]]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Todas",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -80,19 +80,19 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Música",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Social",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Vídeos y directos",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Otro",
     "description": "Category name shown when you open tags"
   }
 }
