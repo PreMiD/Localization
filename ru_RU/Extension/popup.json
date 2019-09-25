@@ -91,6 +91,10 @@
     "message": "Музыка",
     "description": "Category name shown when you open tags"
   },
+  "popup.category.games": {
+    "message": "Games",
+    "description": "Category name shown when you open tags"
+  },
   "popup.category.socials": {
     "message": "Соц. сети",
     "description": "Category name shown when you open tags"
