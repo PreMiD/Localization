@@ -68,15 +68,15 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? [Troubleshooting]",
+    "message": "PreMiD несмог подключиться к приложению! Вы уверены, что оно установленно и запущено? [Troubleshooting]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Устаревшее Приложение",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Ваш PreMiD - устарел. Пожалуйста, обновите его чтобы продолжить его изпользовать.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
