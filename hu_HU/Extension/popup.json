@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
