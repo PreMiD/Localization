@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Aplicativo desatualizado",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
