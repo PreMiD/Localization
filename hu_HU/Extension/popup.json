@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Elavult alkalmazás",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
@@ -92,7 +92,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "Játék",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
