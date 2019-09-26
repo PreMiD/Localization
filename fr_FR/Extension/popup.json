@@ -72,11 +72,11 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Application obsolète",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
@@ -92,7 +92,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "Jeux",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
