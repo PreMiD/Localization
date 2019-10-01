@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "İnternet sitemiz sizin dilinize çevrildi bile! İngilizceyi iyi bilmiyorsanız bunun yardımı dokunabilir.",
+    "message": "İnternet sitemiz sizin dilinize çevrildi bile! İngilizceyi iyi bilmiyorsanız bu yardımcı olabilir.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Dili Değiştir",
+    "message": "Dili değiştir",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
@@ -28,7 +28,7 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "İndirme",
+    "message": "İndir",
     "description": "Downloads tab"
   },
   "header.contributors": {
