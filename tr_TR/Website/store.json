@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Bu servis bir onaylanmış geliştirici tarafından kabul edilmiştir.",
+    "message": "Bu servis bir onaylanmış geliştirici tarafından kabul edilmiştir",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -20,11 +20,11 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Servisi Yükle",
+    "message": "Servisi ekle",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Servisi Kaldır",
+    "message": "Servisi kaldır",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
