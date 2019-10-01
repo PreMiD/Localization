@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Alles wat we doen is open source. Als je een bug vindt of een nieuwe functie wilt toevoegen, kun je een probleem of een pull request maken op onze GitHub repository!",
+    "message": "Alles wat we doen is open source. Als je een bug vindt of een nieuwe functie wilt toevoegen, kun je het probleem melden of een pull request maken op onze GitHub repository!",
     "description": "Description for card"
   }
 }
