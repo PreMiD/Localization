@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Begin nu PreMiD te gebruiken en laat andere mensen zien wat u aan het doen bent, misschien vindt u iemand met dezelfde interesses.",
+    "message": "Begin nu PreMiD te gebruiken en laat andere mensen zien wat je aan het doen bent, misschien vind je iemand met dezelfde interesses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -20,7 +20,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Installeer de extensie voor uw browser.",
+    "message": "Installeer de extensie voor jouw browser.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
