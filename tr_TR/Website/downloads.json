@@ -1,10 +1,10 @@
 {
   "downloads.header.title": {
-    "message": "Kendini herkese gösterme vakti geldi.",
+    "message": "Kendinizi herkese göstermenizin vakti geldi.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "PreMiD kullanmaya başlayın ve diğerlerine ne yaptığınızı gösterin, belki aynı zevkleri paylaştığınız kişileri bulabilirsiniz bile.",
+    "message": "PreMiD kullanmaya başlayın ve diğerlerine ne yaptığınızı gösterin, belki aynı zevkleri paylaştığınız bir kaç arkadaş edinirsiniz.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -28,7 +28,7 @@
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "Mağaza",
+    "message": "mağaza",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
