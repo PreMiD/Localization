@@ -8,7 +8,7 @@
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "İndirmeler",
+    "message": "İndir",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -16,7 +16,7 @@
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0}kaldı",
+    "message": "{0} kaldı",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
