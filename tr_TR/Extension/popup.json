@@ -40,7 +40,7 @@
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Tamamlandı",
+    "message": "Bitti",
     "description": "Done button"
   },
   "popup.presences.load": {
@@ -48,7 +48,7 @@
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Mağaza",
+    "message": "Servis Mağazası",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
@@ -104,7 +104,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Diğerleri",
+    "message": "Diğer",
     "description": "Category name shown when you open tags"
   }
 }
