@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Uw PreMiD app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
+    "message": "Je PreMiD app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
