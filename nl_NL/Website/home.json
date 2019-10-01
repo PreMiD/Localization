@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presence toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
+    "message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presences toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "De meeste van onze presences bieden ondersteuning voor mediabediening. U kunt nummers/videos overslaan, pauzeren en afspelen terwijl u andere applicaties gebruikt.",
+    "message": "De meeste van onze presences bieden ondersteuning voor mediabediening. U kunt nummers/video's afspelen, pauzeren en overslaan terwijl u andere applicaties gebruikt.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
