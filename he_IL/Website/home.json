@@ -3,6 +3,10 @@
     "message": "תשתף אם כולם מה אתה עושה!",
     "description": "First phrase that a user reads on our website"
   },
+  "home.introduction.button.features": {
+    "message": "Our features",
+    "description": "Introduction button"
+  },
   "home.introduction.button.discord": {
     "message": "{0} שרת",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
