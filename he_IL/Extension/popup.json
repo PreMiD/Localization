@@ -76,35 +76,35 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "האפליקציה של PreMiD ישנה. בבקשה עדכן בשביל המשך שימוש של PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "הכל",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
-    "message": "Anime",
+    "message": "אנימה",
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "מוזיקה",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "משחקי משחב",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "חברתי",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "סירטונים & שידורים",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "אחרת",
     "description": "Category name shown when you open tags"
   }
 }
