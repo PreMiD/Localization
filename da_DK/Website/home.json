@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "Alt vi gør er open source. Hvis du finder en fejl eller ønsker at tilføje en ny funktion, kan du lave en anmodning på vores GitHub repository!",
     "description": "Description for card"
   }
 }
