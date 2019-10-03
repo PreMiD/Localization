@@ -1,34 +1,34 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+    "message": "Man kan nu tilføje Discord Rich Presences selv. [Tilføj nogle nu]",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some [new presences] in their natural habitat",
+    "message": "Find nogle [nye rich presences] i deres naturlige habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "Auto opdatering er nu en ting",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Brugere can nu skabe \"presences\"",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] for these creative developers out there",
+    "message": "[Docs] for kreative udviklere derude",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Helt nyt hjemmeside design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Flere funktionere for vores Discord bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "Vores nye API er et bæst",
     "description": ""
   },
   "extension.2.0.change1": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Alle ting kører hurtigere nu",
     "description": ""
   }
 }
