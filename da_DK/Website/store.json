@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Denne presence er blevet bekræftet af en verificeret udvikler",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Denne presence bliver automatisk brugt, når det er nødvendigt. Ingen grund til at tilføje den.",
     "description": "The message that appears instead of the buttons."
   }
 }
