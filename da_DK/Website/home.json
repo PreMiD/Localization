@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Lad alle vide hvad du laver!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -12,15 +12,15 @@
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Spiller et spil",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} tilbage",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
-    "message": "Our primary features",
+    "message": "Vores primare funktioner",
     "description": "Features section"
   },
   "home.cards.subheading": {
