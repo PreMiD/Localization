@@ -8,7 +8,7 @@
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "צא לדרך",
+    "message": "התחל",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
@@ -32,7 +32,7 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "הורדות התוכנה",
+    "message": "הורדות התכונה",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
