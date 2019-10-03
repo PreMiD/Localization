@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Man kan nu tilføje Discord Rich Presences selv. [Tilføj nogle nu]",
+    "message": "Man kan nu selv tilføje \"Discord Rich Presences\". [Tilføj nogle nu!]",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find nogle [nye rich presences] i deres naturlige habitat",
+    "message": "Find nogle [nye \"presences\"] i deres naturlige habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] for kreative udviklere derude",
+    "message": "[Docs] for de kreative udviklere derude",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Flere funktionere for vores Discord bot",
+    "message": "Flere funktioner for vores Discord bot",
     "description": ""
   },
   "extension.2.0.new8": {
@@ -32,15 +32,15 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Moderniseret hop-op, layout og stil",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "En masse (u)kendte fejl løb væk",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Alle ting kører hurtigere nu",
+    "message": "Alt kører meget hurtigere nu",
     "description": ""
   }
 }
