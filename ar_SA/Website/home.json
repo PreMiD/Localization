@@ -28,7 +28,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "استعمل الإضافة التي تلائم**ك**.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -36,7 +36,7 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "افتح المتجر",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
