@@ -19,44 +19,52 @@
     "message": "{0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "アプリの機能",
+  "home.features.heading": {
+    "message": "You will love these features!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "たくさんの機能がありますが、PreMiDでしか見られない機能をご紹介しましょう。",
+  "home.features.presencesystem.heading": {
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "プレゼンスシステム",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "PreMiDは拡張機能ですが、機能を追加できます。他のユーザーが作ったプレゼンスを自由に追加・削除することが可能です！",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Open store",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "メディアコントロール",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Simple user interface.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "プレゼンスのほとんどはメディアコントロールをサポートしています。 他のアプリケーションを使用している間でも、トラックをスキップしたり、一時停止や再生することができます。",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "多言語対応",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "App and Extension settings.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "（おそらくあなたを含めて）誰もが英語が得意なわけではありません。 それが私達の拡張やウェブサイトを他の言語に翻訳している理由です！",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence management.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "オープンソース",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sorting by category.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "私達の全てはオープンソースです。バグを見つけたり、新しい機能を追加したいときはいつでもGitHubでIssueやPull Requestを送信することができます！",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Quick support.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord sever, we also developed a support system that will make your life easier.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Visit our server",
+    "description": "Features section button"
   }
 }
