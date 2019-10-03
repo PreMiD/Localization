@@ -44,7 +44,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Müde von komplizierten Benutzeroberflächen? Deshalb haben wir eine einfache und hilfreiche Oberfläche mit ausschließlich wichtigen Funktionen eingebaut:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -64,7 +64,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Etwas ist fehlerhaft oder sendet Dir Unmengen von Fehlern? Wir werden Dir helfen, diese auf unserem Discord-Server zu beseitigen. Wir haben auch ein Support-System programmiert, dass dein Leben einfacher machen wird.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
