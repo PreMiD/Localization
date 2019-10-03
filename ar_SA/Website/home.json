@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "دع الجميع يعرفون ماذا تفعل!",
+    "message": "!دع الجميع يعرفون ماذا تشاهد حاليا",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -40,35 +40,35 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": ".واجهة مستخدم بسيطة",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "تعبت من واجهات المستخدم معقدة؟ لهذا السبب أنشأنا واجهة بسيطة ومفيدة مع وظائف مهمة فقط و التي تشمل:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": ".إعدادات التطبيق والملحق",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": ".إدارة الإضافات",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": ".الترتيب حسب الفئة",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": ".دعم سريع",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": ".هل هناك خلل بالتطبيق او الملحق؟ سنساعدك على إصلاح ذلك على سيرفر ديسكورد الخاص بنا، كما قمنا بتطوير نظام دعم يجعل حياتك أسهل",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "تواصل معنا",
     "description": "Features section button"
   }
 }
