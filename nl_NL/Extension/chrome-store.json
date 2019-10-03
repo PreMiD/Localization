@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD voegt Discord Rich Presence integratie, mediabediening en veel meer toe aan jouw favoriete services.",
+    "message": "Your Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "JE MOET ONZE OFFICIËLE APPLICATIE INSTALLEREN OM HET WERKEND TE KRIJGEN\n   {0} {1}\n\nJe kan de mediatoetsen gebruiken om het afspelen van deze services te regelen. Wanneer je kijkt\/luistert naar iets met een van onze ondersteunde services stuurt de extensie de metagegevens van de video of het nummer naar onze desktop app waar PreMiD het verwerkt. PreMiD stuurt de informatie met de correcte vorm naar Discord en zet daarna automatisch jouw status.\nOndersteunde services\n   {2} Kijk eens naar {3}\n\nHulp nodig?\n   {4} {5}\n\nOnze Discord server\n   {6} Praat met de mensen achter PreMiD {7}\n\nWij zijn Open Source!\n   {9} Geweldige dingen horen open te zijn voor iedereen {10}",
+    "message": "JE MOET ONZE OFFICIËLE APPLICATIE INSTALLEREN OM HET WERKEND TE KRIJGEN\n   {0} {1}\n\nJe kan de mediatoetsen gebruiken om het afspelen van deze services te regelen. Wanneer je kijkt/luistert naar iets met een van onze ondersteunde services stuurt de extensie de metagegevens van de video of het nummer naar onze desktop app waar PreMiD het verwerkt. PreMiD stuurt de informatie met de correcte vorm naar Discord en zet daarna automatisch jouw status.\nOndersteunde services\n   {2} Kijk eens naar {3}\n\nHulp nodig?\n   {4} {5}\n\nOnze Discord server\n   {6} Praat met de mensen achter PreMiD {7}\n\nWij zijn Open Source!\n   {9} Geweldige dingen horen open te zijn voor iedereen {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
