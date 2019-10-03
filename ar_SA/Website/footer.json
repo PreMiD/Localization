@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "انضم أكثر من {0} مستخدم اليوم!",
+    "message": "!انضم أكثر من {0} مستخدم اليوم",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -28,7 +28,7 @@
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "واجهة ديسكورد",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
