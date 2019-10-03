@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Deine PreMiD Applikation ist veraltet. Bitte update sie, um PreMiD weiterhin zu verwenden.",
+    "message": "Deine PreMiD Applikation ist veraltet. Bitte aktualisiere sie, um PreMiD weiterhin zu verwenden.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
