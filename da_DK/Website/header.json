@@ -1,10 +1,10 @@
 {
   "header.language": {
-    "message": "English",
+    "message": "Engelsk",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "Vi understytter dit sprog. Vil du skifte?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Bager pandekager...;Kigger på fugle...;Analyserer din IP adresse...;UwU;Varmer op til jul...",
+    "message": "Bager pandekager...;Kigger på fugle...;Analyserer din IP adresse...;UwU;Bryder regler...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
