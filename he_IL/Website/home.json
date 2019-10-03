@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "תשתף אם כולם מה אתה עושה!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "יש לנו הרבה תוכנות, אבל נראה לכה את התוכנות הראשיות שאתה רק יכול למצוא בPreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "הוספנו את התוסף שלנו עם מערכת presence שמאפשרת לך להשתמש בpresences שנוצרו על ידי משתמשים אחרים ותוכל לערוך אותם דרך התוסף!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
@@ -40,7 +40,7 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "רוב הpresences שלנו נותנות תמיכה בשבילmedia controls. אתה יכול לדלג, לעצור ולהפעיל רצועות בזמן שימוש בתוכנות אחרות.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
