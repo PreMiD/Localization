@@ -19,44 +19,52 @@
     "message": "{0} עזב",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "תכונות עיקריות",
+  "home.features.heading": {
+    "message": "You will love these features!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "יש לנו הרבה תכונות, אבל נראה לכה את הוכונות הראשיות שאתה רק יכול למצוא בPreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "מערכת presence",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "הוספנו את התוסף שלנו עם מערכת presence שמאפשרת לך להשתמש בpresences שנוצרו על ידי משתמשים אחרים ותוכל לערוך אותם דרך התוסף!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Open store",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "פקדי מדיה",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Simple user interface.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "רוב הpresences שלנו נותנות תמיכה בשבילmedia controls. אתה יכול לדלג, לעצור ולהפעיל רצועות בזמן שימוש בתוכנות אחרות.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "רב שפות",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "App and Extension settings.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "לא כולם טובים באנגלית. זה למה אנחנו מתרגמים את התוסף והאתר שלנו לשפות אחרות, כנראה שלך גם שם!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence management.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "קוד פתוח",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sorting by category.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "כל מה שאנחנו עושין הוא open source. אם אתה מוצא באג או אתה רוצה להוסיף תכונה חדשה אתה יכול לייצר ביעה או לפתוח בעיה בGitHub!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Quick support.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord sever, we also developed a support system that will make your life easier.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Visit our server",
+    "description": "Features section button"
   }
 }
