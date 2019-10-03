@@ -1,22 +1,22 @@
 {
   "presence.playback.playing": {
-    "message": "Playing back",
+    "message": "播放中",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Playback paused",
+    "message": "播放已暂停",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "Browsing...",
+    "message": "浏览...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "Live",
+    "message": "活",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
-    "message": "Episode {0}",
+    "message": "插曲{0}",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
