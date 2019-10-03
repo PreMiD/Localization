@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
+    "message": "ابدأ في استخدام PreMiD الآن وأظهر للآخرين ما تشاهده أو تستمع إليه ، وربما ستجد شخصًا بنفس الاهتمامات.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -40,7 +40,7 @@
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "تحذير",
+    "message": "تحذير:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
