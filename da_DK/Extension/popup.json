@@ -104,7 +104,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Andet",
     "description": "Category name shown when you open tags"
   }
 }
