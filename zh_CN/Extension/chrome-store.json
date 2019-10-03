@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Your Rich Presence for web services!",
+    "message": "您丰富的呈现为 Web 服务！",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
+    "message": "你必须安装我们的官方应用得到它的工作\n{0}{1}\n您可以使用媒体密钥来控制这些服务的播放。 当您使用我们支持的一项服务观看/收听某物时，浏览器扩展程序会将视频/歌曲的元数据发送到我们的桌面客户端，然后PreMiD对其进行处理。 PreMiD使用正确的格式将信息发送给Discord，然后自动设置其状态。\n支援服务\n\n{2} 看一下{3}\n\n需要帮助吗？\n{4}{5}\n\n我们的 Discord 服务器\n{6} 与PreMiD背后的人交谈{7}\n\n我们是开源!\n{9} 伟大的东西应该向公众开放{10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
