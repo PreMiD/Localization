@@ -8,7 +8,7 @@
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "المؤلف",
+    "message": "المطور",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
@@ -16,11 +16,11 @@
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Tags",
+    "message": "التصنيفات",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "عناوين URL المدعومة",
+    "message": "المواقع المدعمة",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
