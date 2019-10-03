@@ -7,10 +7,6 @@
     "message": "ميزاتنا",
     "description": "Introduction button"
   },
-  "home.introduction.button.discord": {
-    "message": "سيرفر {0}",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
-  },
   "home.introduction.button.downloads": {
     "message": "تحميل",
     "description": "Downloads button -> redirects to /downloads page"
@@ -20,7 +16,7 @@
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} متبقي",
+    "message": "متبقي {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
@@ -32,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "!لقد طورنا ملحقنا بطريقة تسمح لك بإضافة واستخدام الوضعيات التي أنشأها المستخدمون الآخرون وإدارتها في الملحق بنفسه",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
