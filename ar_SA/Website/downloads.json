@@ -1,30 +1,30 @@
 {
   "downloads.header.title": {
-    "message": "الوقت لاظهار نفسك للجميع.\n \n ",
+    "message": "حان الوقت لإظهار نفسك للجميع.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "ابدأ في استخدام PreMiD الآن وأظهر للآخرين ما تشاهده أو تستمع إليه ، وربما ستجد شخصًا بنفس الاهتمامات.",
+    "message": "ابدأ في استخدام PreMiD الآن وأظهر للآخرين ما تشاهده أو تستمع إليه ، ربما ستجد شخصًا بنفس الاهتمامات.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "ابدء الان ",
+    "message": "إبدء الان",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "تحميل PreMiD.",
+    "message": "حمل PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "تثبيت تطبيق PreMiD.\n \n ",
+    "message": "ثبت تطبيق PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "تثبيت الملحق لمتصفحك.",
+    "message": "حمل ملحق المتصفح.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visit {0} page and check if the extension is connected.",
+    "message": "قم بزيارة صفحة {0} للتحقق من عمل الملحق.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -32,11 +32,11 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "تنزيلات التطبيق",
+    "message": "تحميل التطبيق",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "تنزيلات الملحق",
+    "message": "تحميل الملحق",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
+    "message": "{0} هذا النظام ليس مدعما بشكل رسمي، البرنامج قد لا يشتغل بطريقة كاملة.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
