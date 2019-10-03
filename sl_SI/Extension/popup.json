@@ -1,10 +1,10 @@
 {
   "popup.navigation.settings": {
-    "message": "Settings",
+    "message": "Nastavitve",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "Credits",
+    "message": "Pohvaljeni",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
