@@ -1,10 +1,10 @@
 {
   "downloads.header.title": {
-    "message": "حان الوقت لإظهار نفسك للجميع.",
+    "message": ".حان الوقت لإظهار نفسك للجميع",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "ابدأ في استخدام PreMiD الآن وأظهر للآخرين ما تشاهده أو تستمع إليه ، ربما ستجد شخصًا بنفس الاهتمامات.",
+    "message": ".ابدأ في استخدام PreMiD الآن وأظهر للآخرين ما تشاهده أو تستمع إليه، ربما ستجد شخصًا بنفس الاهتمامات",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -12,11 +12,11 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "حمل PreMiD.",
+    "message": ".حمل PreMiD",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "ثبت تطبيق PreMiD.",
+    "message": ".ثبت تطبيق PreMiD",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
