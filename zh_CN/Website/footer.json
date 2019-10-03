@@ -1,102 +1,102 @@
 {
   "footer.language": {
-    "message": "Language",
+    "message": "语言",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ready to try PreMiD?",
+    "message": "准备尝试 PremMiD 吗？",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Join over {0} users today!",
+    "message": "今天加入 {0} 用户！",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Install",
+    "message": "安装",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partners",
+    "message": "合作伙伴",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developers",
+    "message": "开发者",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Documentation",
+    "message": "文档",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "丰富的呈现",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Support us",
+    "message": "支持我们",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Donate",
+    "message": "捐赠",
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribute",
+    "message": "投稿",
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
-    "message": "Design",
+    "message": "设计",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Translate",
+    "message": "平移",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Help",
+    "message": "帮助",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "故障排除（Troubleshooting）",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Get Help",
+    "message": "获得帮助",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Information",
+    "message": "信息",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
-    "message": "Cookies",
+    "message": "Cookies 信息",
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Privacy",
+    "message": "隐私设置",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Terms",
+    "message": "使用条款",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "More",
+    "message": "更多",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Status",
+    "message": "状态",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
-    "message": "Wiki",
+    "message": "的wiki",
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
-    "message": "{0} by {1}",
+    "message": "{0} 作者: {1}",
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Website maintained by {0}",
+    "message": "网站维护{0}",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
