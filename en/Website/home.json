@@ -19,44 +19,52 @@
     "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Our primary features",
+  "home.features.heading": {
+    "message": "You will love these features!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Presence System",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Open store",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Simple user interface.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Multilingual",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "App and Extension settings.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence management.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sorting by category.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Quick support.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord sever, we also developed a support system that will make your life easier.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Visit our server",
+    "description": "Features section button"
   }
 }
