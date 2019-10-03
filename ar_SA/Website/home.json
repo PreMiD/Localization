@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "دع الجميع يعرفون ماذا تفعل!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "لدينا الكثير من الميزات، ولكن دعنا نعرض لك ميزاتنا الأساسية التي يمكنك العثور عليها في PreMiD فقط.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,7 +32,7 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "لقد طورنا ملحقنا بطريقة تسمح لك بإضافة واستخدام الوضعيات التي أنشأها المستخدمون الآخرون وإدارتها في الملحق بنفسه!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
