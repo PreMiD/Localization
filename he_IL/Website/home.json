@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "יש לנו הרבה תוכנות, אבל נראה לכה את התוכנות הראשיות שאתה רק יכול למצוא בPreMiD.",
+    "message": "יש לנו הרבה תכונות, אבל נראה לכה את הוכונות הראשיות שאתה רק יכול למצוא בPreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -44,7 +44,7 @@
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "רב לשוני",
+    "message": "רב שפות",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
@@ -56,7 +56,7 @@
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "כל מה שאנחנו עושין הוא open source. אם אתה מוצא באג או אתה רוצה להוסיף תכונה חדשה אתה יכול לייצר ביעה או לפתוח בעיה בGitHub!",
     "description": "Description for card"
   }
 }
