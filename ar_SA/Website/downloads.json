@@ -20,11 +20,11 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "حمل ملحق المتصفح.",
+    "message": ".حمل ملحق المتصفح",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "قم بزيارة صفحة {0} للتحقق من عمل الملحق.",
+    "message": ".قم بزيارة صفحة {0} للتحقق من عمل الملحق",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} هذا النظام ليس مدعما بشكل رسمي، البرنامج قد لا يشتغل بطريقة كاملة.",
+    "message": ".{0} هذا النظام ليس مدعما بشكل رسمي، البرنامج قد لا يشتغل بطريقة كاملة",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
