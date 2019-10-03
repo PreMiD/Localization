@@ -19,44 +19,52 @@
     "message": "{0} tersisa",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Fitur utama kami",
+  "home.features.heading": {
+    "message": "You will love these features!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Kami memiliki banyak fitur, tapi mari kami tunjukkan fitur utama kami yang hanya bisa kamu dapat pada PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Sistem Presence",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Kami mengembangkan ekstensi kami sedemikian rupa agar kamu bisa menambah dan menggunakan presence yang dibuat oleh orang lain dan mengaturnya pada ekstensi!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Open store",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Kontrol Media",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Simple user interface.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Sebagian besar dari presence kami memberikan dukungan kontrol media. Kamu bisa skip, jeda, mainkan musik/video selagi menggunakan aplikasi lainnya.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Multilingual",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "App and Extension settings.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Tidak semua orang bisa berbahasa inggris. Itulah kenapa kami menerjemahkan ekstensi dan website ke bahasa lain, mungkin bahasamu juga!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence management.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sorting by category.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Semua yang kami lakukan adalah open source. Jika kamu menemukan bug atau ingin menambah fitur baru kamu bisa membuat issue atau pull request pada GitHub repository kami!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Quick support.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord sever, we also developed a support system that will make your life easier.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Visit our server",
+    "description": "Features section button"
   }
 }
