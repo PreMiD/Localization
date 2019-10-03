@@ -1,14 +1,14 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Udivelse ikke fundet. Låser funktioner...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Udviselse fundet. Frigiver funktioner...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "Forfatter",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
@@ -16,15 +16,15 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Søg",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Tilføj \"presence\"",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Fjern \"presence\"",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
