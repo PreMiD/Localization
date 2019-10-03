@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.cards.subheading": {
-    "message": "We have lots of features, but let's show you our primary features which you can only find in PreMiD.",
+    "message": "Vi har en masse funktioner, men lad os vise dig vores primære funktioner som du kun kan finde i PreMiD.",
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
@@ -32,11 +32,11 @@
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in the extension!",
+    "message": "Vi har udviklet vores udvidelse så du kan tilføje og bruge presences lavet af andre brugere og bestyre dem i udvidelsen!",
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
+    "message": "Styring",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
@@ -48,7 +48,7 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
+    "message": "Ikke alle er lige gode til engelsk. Derfor oversætter vi vores udvidelse og hjemmeside til andre sprog. Dit er sikkert inkluderet!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
