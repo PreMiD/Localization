@@ -40,11 +40,11 @@
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "De fleste af vores \"presence\" giver support for styring. Du kan springe over, pause og afspille sange/videoer imens du bruger andre applikationer.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
-    "message": "Multilingual",
+    "message": "Flersproget",
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
