@@ -1,14 +1,14 @@
 {
   "footer.language": {
-    "message": "الغة",
+    "message": "اللغة",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "مستعد لتجربة PreMiD ?",
+    "message": "مستعد لتجربة PreMiD ؟",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "انضم أكثر من 100 مستخدم اليوم!",
+    "message": "انضم أكثر من {0} مستخدم اليوم!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
