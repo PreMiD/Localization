@@ -4,19 +4,19 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.discord": {
-    "message": "سيرفر الديسكورد",
+    "message": "سيرفر {0}",
     "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
   },
   "home.introduction.button.downloads": {
-    "message": "التحميلات",
+    "message": "تحميل",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "يلعب لعبة",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "متبقي {0}",
+    "message": "{0} متبقي",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.cards.heading": {
@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.cards.presencesystem.title": {
-    "message": "نظام Presence",
+    "message": "نظام الوضعيات",
     "description": "Title"
   },
   "home.cards.presencesystem.explanation": {
@@ -36,11 +36,11 @@
     "description": "Description for card"
   },
   "home.cards.mediacontrols.title": {
-    "message": "ضوابط وسائل التواصل",
+    "message": "التحكم بالوسائط",
     "description": "Title"
   },
   "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks/videos while using other applications.",
+    "message": "توفر معظم وضعياتنا دعم عناصر تحكم الوسائط. يمكنك تخطي مقاطع الفيديو / مقاطع الفيديو مؤقتًا وإيقافها مؤقتًا وتشغيلها أثناء استخدام التطبيقات الأخرى.",
     "description": "Description for card"
   },
   "home.cards.multilingual.title": {
@@ -48,15 +48,15 @@
     "description": "Title"
   },
   "home.cards.multilingual.explanation": {
-    "message": "ليس كل شخص جيد في اللغة الإنجليزية. لهذا السبب نقوم بترجمة امتدادنا وموقعنا الإلكتروني إلى لغات أخرى ، بما في ذلك لغتك على الأرجح!",
+    "message": "ليس كل شخص جيد في اللغة الإنجليزية. لهذا السبب نقوم بترجمة ملحقنا وموقعنا الإلكتروني إلى لغات أخرى، بما في ذلك لغتك!",
     "description": "Description for card"
   },
   "home.cards.opensource.title": {
-    "message": "المصدر المفتوح",
+    "message": "مفتوح المصدر",
     "description": "Title"
   },
   "home.cards.opensource.explanation": {
-    "message": "Everything we do is open source. If you find a bug or want to add a new feature you can create an issue or pull request on our GitHub repository!",
+    "message": "كل منتجاتنا مفتوحة المصدر. إذا وجدت خطأ أو تريد إضافة ميزة جديدة، يمكنك التبليغ عنها او مساعدتنا إصلاحها على حساب GitHub الخاص بنا!",
     "description": "Description for card"
   }
 }
