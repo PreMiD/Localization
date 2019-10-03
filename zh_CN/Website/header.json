@@ -4,31 +4,31 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "我们支持你的语言，想换一下吗？",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
+    "message": "我们的网站已翻译成您的语言。 如果您的英语说得不好，这可能会有所帮助。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "不用了，谢谢",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Switch language",
+    "message": "语言选择",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "Baking packakes..;Plaging contrates..;解析您的IP地址..;UwU;断路规则...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "商店",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "下载",
     "description": "Downloads tab"
   },
   "header.contributors": {
