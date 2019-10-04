@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "La tua applicazione PreMiD è obsoleta. Aggiornala per continuare ad utilizzare PreMiD.",
+    "message": "La tua applicazione PreMiD è obsoleta. Per favore aggiornala per continuare ad utilizzare PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
@@ -100,7 +100,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Video & Streams",
+    "message": "Video & Dirette",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
