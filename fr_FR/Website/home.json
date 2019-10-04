@@ -36,11 +36,11 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Interface utilisateur simple.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Fatigué des interfaces utilisateurs compliquées ? C'est pourquoi nous avons créé une interface simple et utile avec seulement des fonctionnalités importantes comme :",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
