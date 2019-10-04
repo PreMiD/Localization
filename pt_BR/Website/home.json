@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Você irá amar esses recursos!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -44,27 +44,27 @@
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Configurações de App e Extensão.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Gerenciamento de presenças.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Ordenar por categoria.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Suporte rápido.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Alguma coisa está falhando ou te enviando toneladas de erros? Nós iremos ajudá-lo a se livrar disso em nosso servidor do Discord, nós também desenvolvemos um sistema de suporte que irá fazer sua vida mais fácil.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Visite nosso servidor",
     "description": "Features section button"
   }
 }
