@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "I nostri servizi",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -20,11 +20,11 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Amerai queste funzioni!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Cerca la **tua** presenza.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -32,31 +32,31 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Apri il negozio",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Semplice interfaccia utente.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Stanco di interfacce complicate? Per questo motivo abbiamo creato un'interfaccia semplice ed utile solo con le funzioni importanti incluse:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Impostazioni dell'Applicazione e dell'Estensione.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Gestore di presenze.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Filtrando per categoria.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Supporto veloce.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
