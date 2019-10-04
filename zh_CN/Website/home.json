@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "我们的特色",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -20,15 +20,15 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "你会爱上这些功能！",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "找到 **您的** 状态",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "我们开发的这个扩展程序会允许您添加和使用其他用户创建的状态，并在扩展中管理它们！",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
