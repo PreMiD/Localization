@@ -72,15 +72,15 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Zastaralá Aplikace",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Tvá PreMiD aplikace je zastaralá. Aktualizuj ji abys mohl pokračovat v používání PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Vše",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,15 +88,15 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Hudba",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "Hry",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Sociální sítě",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
@@ -104,7 +104,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Ostatní",
     "description": "Category name shown when you open tags"
   }
 }
