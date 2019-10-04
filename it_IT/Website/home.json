@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Abbiamo sviluppato la nostra estensione in modo che ti permetta di aggiungere ed utilizzare presenze create da altri utenti e gestirle direttamente in essa!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -60,11 +60,11 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "C'è qualche glitch o stai ricevendo un sacco di errori? Ti aiuteremo a disfartene nel nostro server Discord, abbiamo anche sviluppato un sistema di supporto che ti renderà la vita più facile.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Visita il nostro server",
     "description": "Features section button"
   }
 }
