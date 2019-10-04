@@ -32,7 +32,7 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Otevřít obchod",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
@@ -40,31 +40,31 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Už tě nebaví složitá uživatelská rozhraní? Proto jsme vytvořili jednoduché a užitečné rozhraní s pouze důležitými funkcemi:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Nastavení Aplikace a Rozšíření.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Spravovat Přítomnosti.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Třídění podle kategorie.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Rychlá podpora.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Něco se třpytí nebo ti posílá spoustu chyb? Pomůžeme ti zbavit se jich na našem Discord serveru, a také vyvinuli jsme podpůrný systém který ti usnadní život.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Navštiv náš server",
     "description": "Features section button"
   }
 }
