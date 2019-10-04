@@ -20,11 +20,11 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Tieto funkcie sa ti budú páčiť!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Nájdi **svoju** prítomnosť.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -44,15 +44,15 @@
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Nastavenia Aplikácií a Rozšírení.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Spravovanie prítomnosti.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Zoradenie podľa kategórie.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Niečo ti blýskalo alebo posielalo kopu chýb? Pomôžeme ti sa zbaviť toho na našom Discord serveri, vyvinuli sme tiež podporný systém ktorý ti uľahčí život.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
