@@ -1,10 +1,10 @@
 {
   "store.message.error": {
-    "message": "Estensione non trovata, bloccando funzioni...",
+    "message": "Estensione non trovata, bloccando le funzioni...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Estensione trovata, sbloccando funzioni...",
+    "message": "Estensione trovata, sbloccando le funzioni...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Questa presenza è stata approvata da un developer verificato",
+    "message": "Questa presenza è stata approvata da uno sviluppatore verificato",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
