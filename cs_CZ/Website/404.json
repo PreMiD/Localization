@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Sorry, looks like the page that you want to see has been moved or deleted or maybe it never existed?",
+    "message": "Litujeme, vypadá to že stránka kterou chceš vidět byla přesunuta nebo smazána nebo možná nikdy neexistovala?",
     "description": "Message on 404 page"
   }
 }
