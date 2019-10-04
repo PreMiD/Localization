@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh no!** Non siamo riusciti a collegarci all'applicazione... è stata già installata?",
+    "message": "**Oh no!** Non siamo riusciti a collegarci all'applicazione... È stata già installata?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
@@ -36,7 +36,7 @@
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Level up!",
+    "message": "Aumento di livello!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
