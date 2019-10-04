@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Vous aimerez ces fonctionnalités !",
+    "message": "Vous aimerez ces fonctionnalités!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Nous avons développé notre extension de manière à vous permettre d'ajouter et d'utiliser des présences créées par d'autres utilisateurs et de les gérer dans notre extension !",
+    "message": "Nous avons développé notre extension de manière à vous permettre d'ajouter et d'utiliser des présences créées par d'autres utilisateurs et de les gérer dans notre extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Fatigué des interfaces utilisateurs compliquées ? C'est pourquoi nous avons créé une interface simple et utile avec seulement des fonctionnalités importantes comme :",
+    "message": "Fatigué des interfaces utilisateurs compliquées? C'est pourquoi nous avons créé une interface simple et utile avec seulement des fonctionnalités importantes comme:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -48,7 +48,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Gestion de la présence.",
+    "message": "Gestion de présences.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Quelque chose ne fonctionne pas correctement ou vous affiches des erreurs ? Nous vous aiderons à vous en débarrasser sur notre serveur Discord, nous avons également développé un système de support qui facilitera votre vie.",
+    "message": "Quelque chose ne fonctionne pas correctement ou vous affiche des tonnes d'erreurs? Nous vous aiderons à vous en débarrasser sur notre serveur Discord, nous avons également développé un système de support qui facilitera votre vie.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
