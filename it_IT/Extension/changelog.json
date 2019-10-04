@@ -1,6 +1,6 @@
 {
   "extension.2.0.new1": {
-    "message": "Gli utenti possono ora aggiungere presenze da soli. [Aggiungile ora!]",
+    "message": "Gli utenti possono ora aggiungere presenze da soli. [Aggiungine alcune ora!]",
     "description": ""
   },
   "extension.2.0.new2": {
@@ -8,19 +8,19 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "L'aggiornamento automatico è stato aggiunto",
+    "message": "È stato aggiunto l'aggiornamento automatico",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Gli utenti possono ora creare presenze",
+    "message": "Adesso gli utenti possono creare presenze",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] per i developer creativi là fuori",
+    "message": "[Docs] per gli sviluppatori creativi là fuori",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Design del sito completamente nuovo",
+    "message": "Design del sito completamente rinnovato",
     "description": ""
   },
   "extension.2.0.new7": {
@@ -28,11 +28,11 @@
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Il nostro nuovo API è una bestia in esecuzione",
+    "message": "La nostra nuova API va come un treno a vapore",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Rinnovato il popup e il layout e stile delle tab",
+    "message": "Rinnovata la disposizione dello stile dei popup e delle schede",
     "description": ""
   },
   "extension.2.0.fix1": {
