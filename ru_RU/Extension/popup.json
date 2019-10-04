@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Ваш PreMiD - устарел. Пожалуйста, обновите его чтобы продолжить его изпользовать.",
+    "message": "Ваш PreMiD - устарел. Пожалуйста, обновите его чтобы продолжить его использовать.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
