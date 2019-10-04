@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Güncelliğini Yitirmiş Uygulama",
+    "message": "Uygulamanız Güncelliğini Yitirmiş",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
