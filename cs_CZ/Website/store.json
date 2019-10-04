@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Tato přítomnost se automaticky použije v případě potřeby, není třeba ji přidávat.",
     "description": "The message that appears instead of the buttons."
   }
 }
