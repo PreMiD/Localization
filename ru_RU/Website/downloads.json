@@ -40,7 +40,7 @@
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "ВНИМАНИЕ:",
+    "message": "ПРЕДУПРЕЖДЕНИЕ:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
