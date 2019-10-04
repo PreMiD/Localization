@@ -1,22 +1,22 @@
 {
   "extension.2.0.new1": {
-    "message": "משתמשים עכשיו יכולים להוסיף presences לבד. [[הורד אותם עכשיו!]",
+    "message": "משתמשים עכשיו יכולים להוסיף presences לבד. [הורד אותם עכשיו!]",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "עכשיו אפשר [[להשתמש בpresences חדשים]] בסביבתם הטבעית",
+    "message": "עכשיו אפשר [presences חדשים] בסביבתם הטבעית",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "עדכון אוטומטי קיים עשכיו",
+    "message": "עדכון אוטומטי קיים עכשיו",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "כולם יכולים ליצור presences עכשיו",
+    "message": "משתמשים יכולים ליצור presences עכשיו",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "הוספנו [[מסמכים]] בשביל המפתחים המקצועיים בינינו",
+    "message": "הוספנו [מסמכים] בשביל המפתחים המקצועיים שבינינו",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -24,11 +24,11 @@
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "עוד תוכנות בשביל שבוט של דיסקורד",
+    "message": "עוד חידושים בשביל בוט הדיסקורד שלנו",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "הAPI החדש שלנו חייה",
+    "message": "הAPI החדש שלנו רץ",
     "description": ""
   },
   "extension.2.0.change1": {
@@ -36,7 +36,7 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "הרבה באגים נעלמו",
+    "message": "הרבה באגים (לא) ידועים נעלמו",
     "description": ""
   },
   "extension.2.0.fix2": {
