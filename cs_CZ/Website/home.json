@@ -1,10 +1,10 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Dej vědět všem co děláš!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Naše funkce",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -20,15 +20,15 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Tyto funkce se ti budou líbit!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Najdi **svou** přítomnost.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Naše rozšíření jsme vyvinuli takovým způsobem který ti umožňuje přidávat a používat přítomnosti vytvořené jinými uživateli a spravovat je v našem rozšíření!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -36,7 +36,7 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Jednoduché uživatelské rozhraní.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
