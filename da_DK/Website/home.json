@@ -32,7 +32,7 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Åben butik",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
@@ -56,7 +56,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Hurtig support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Besøg vores server",
     "description": "Features section button"
   }
 }
