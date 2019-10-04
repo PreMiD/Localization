@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Ми розробили наше розширення таким чином, що дозволяє додавати та використовувати присутності, створені іншими користувачами, та керувати ними в нашому розширенні!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -36,19 +36,19 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Простий інтерфейс користувача.",
+    "message": "Простий користувацький інтерфейс.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Втомилися від складних користувацьких інтерфейсів? Ось чому ми створили простий та корисний інтерфейс, у якому увімкнені лише важливі функції:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Налаштування додатку і розширенням.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Управління присутностями.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Щось виблискує або посилає тони помилок? Ми допоможемо вам позбутися цього на нашому сервері Discord. Ми також розробили систему підтримки, яка полегшить ваше життя.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
