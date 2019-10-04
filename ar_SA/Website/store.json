@@ -4,7 +4,7 @@
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "...تم العثور على الملحق، جاري فتح وظائف",
+    "message": "...تم العثور على الملحق، جاري فتح الوظائف",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
