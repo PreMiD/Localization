@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Funcțiile noastre",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -20,11 +20,11 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Vă vor plăcea aceste funcții!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Găsește-ți **prezența** ta.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -60,11 +60,11 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Ceva merge greșit sau îți trimite tone de erori? Vă vom ajuta să scăpați de asta pe serverul nostru de Discord, am creat și un sistem de asistență care vă va ușura viața.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Accesați serverul nostru",
     "description": "Features section button"
   }
 }
