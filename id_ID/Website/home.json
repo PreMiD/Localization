@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Cari presence **anda**.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -36,7 +36,7 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Tampilan pengguna yang sederhana.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -48,15 +48,15 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Manajemen presence.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Urutkan berdasarkan kategori.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Dukungan cepat.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Kunjungi server kami",
     "description": "Features section button"
   }
 }
