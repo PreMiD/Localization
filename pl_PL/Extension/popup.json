@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Twoja aplikacja PreMiD jest przestarzała. Proszę zaktualizuj ją aby kontynuować korzystanie z PreMiD.",
+    "message": "Twoja zainstalowana wersja PreMiD jest przestarzała. Proszę zaktualizuj ją aby kontynuować korzystanie z PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
@@ -96,7 +96,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Społeczność",
+    "message": "Media Społecznościowe",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
