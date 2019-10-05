@@ -64,15 +64,15 @@
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Not connected",
+    "message": "Ni povezave",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? [Troubleshooting]",
+    "message": "PreMiD se ni mogel povezati z aplikacijo! ali ga imate inštaliran in zagnan? [Troubleshooting]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Zastarela Aplikacija",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
