@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Stworzyliśmy dodatek który pozwala ci na używanie stworzonych przez innych użytkowników aktywności i zarządzania ich!",
+    "message": "Stworzyliśmy dodatek który pozwala ci na używanie stworzonych przez innych użytkowników aktywności i zarządzania nimi w aplikacji!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -36,11 +36,11 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Prosty interfejs użytkownika.",
+    "message": "Prosty interfejs.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Zmęczony skomplikowanymi interfejsami? To dlatego my stworzyliśmy prosty i użyteczny interfejs tylko z potrzebnymi funkcjami włączając:",
+    "message": "Zmęczony skomplikowanymi interfejsami? Właśnie dlatego my stworzyliśmy prosty i użyteczny interfejs tylko z potrzebnymi funkcjami takimi jak:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -56,11 +56,11 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Szybka pomoc.",
+    "message": "Szybkie wsparcie.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Coś się glitchuje i wysyła tobie tony błędów? Pomożemy ci wybrnąć z tego na naszym serwerze Discord, również stworzyliśmy system supportu który zrobi twoje życie łatwiejsze.",
+    "message": "Coś się glitchuje i wysyła tobie tony błędów? Pomożemy ci wybrnąć z tego na naszym serwerze Discord, stworzyliśmy również system supportu który ułatwi ci to.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
