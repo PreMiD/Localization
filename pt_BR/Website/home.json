@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Nós desenvolvemos a nossa extensão de uma forma que permite que você adicione e use as presenças criadas por outros usuários e gerenciar elas na extensão!",
+    "message": "Nós desenvolvemos nossa extensão de forma que te permite adicionar e usar as presenças criadas por outros usuários e gerencia-las na extensão!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -36,15 +36,15 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Interface de usuário simples.",
+    "message": "Simples interface de usuário.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Cansado de interfaces complicadas de usuário? É por isso que criamos uma interface simples e útil com apenas funções importantes incluídas:",
+    "message": "Cansado de complicadas interfaces de usuário? É por isso que criamos uma interface simples e útil com apenas funções importantes incluídas:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Configurações de App e Extensão.",
+    "message": "Configurações do App e Extensão.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
