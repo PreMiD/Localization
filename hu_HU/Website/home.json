@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Funkciók",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Imádni fogod ezeket a funkciókat!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -32,11 +32,11 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Áruház megnyitása",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Egyszerű felhasználói felület.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -44,19 +44,19 @@
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Alkalmázás és Bővítmény beállítások.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Állapotüzenet kezelés.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Kategória szerinti rendezés.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Gyors támogatás.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
