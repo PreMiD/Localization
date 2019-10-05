@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Przepraszamy, wygląda na to że strona którą chciałeś znaleźć została przeniesiona, usunięta lub nigdy nie istniała?",
+    "message": "Przepraszamy, lecz wygląda na to, że ta strona została przeniesiona, usunięta lub może i nigdy nie istniała?",
     "description": "Message on 404 page"
   }
 }
