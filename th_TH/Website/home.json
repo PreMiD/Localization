@@ -12,7 +12,7 @@
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "การเล่นเกม",
+    "message": "กำลังเล่นเกม",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "คุณจะต้องรักฟีเจอร์พวกนี้!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -52,7 +52,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "เรียงตามหมวดหมู่",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "ชมเว็บไซต์ของเรา",
+    "message": "เยี่ยมชมเว็บไซต์ของเรา",
     "description": "Features section button"
   }
 }
