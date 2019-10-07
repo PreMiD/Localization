@@ -12,7 +12,7 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Пока наши особые разработчики это ещё не починили, вы можете взглянуть сюда!",
+    "message": "Пока наши разработчики ещё это не починили, вы можете заглянуть сюда!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
