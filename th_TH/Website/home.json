@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "ตามหาพรีเซ้นของ**ผู้ใช้**",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -48,7 +48,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "จัดการพรีเซ้น",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
