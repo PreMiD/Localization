@@ -1,18 +1,18 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Správa",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Naneštěstí se potýkáme technickými potížemi. Budeme za chvíli zpět. Omlouváme se za nedostupnost.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Please come back later for more info.",
+    "message": "Prosím vraťte se zpět později pro více informací.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
+    "message": "Dokud toto naši speciální vývojáři opravují, svobodně se sem podívejte!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
