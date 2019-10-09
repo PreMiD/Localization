@@ -1,6 +1,6 @@
 {
   "maintenance.big": {
-    "message": "Správa",
+    "message": "Údržba",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
@@ -16,7 +16,7 @@
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Page",
+    "message": "Stav",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
