@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "即使您拥有最新的应用程序错误，也修复旧应用错误",
     "description": ""
   }
 }
