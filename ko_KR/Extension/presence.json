@@ -16,7 +16,7 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
-    "message": "화",
+    "message": "{0} 화",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
