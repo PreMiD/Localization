@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Исправлена ошибка с устаревшим приложением, даже если у вас есть последняя версия",
     "description": ""
   }
 }
