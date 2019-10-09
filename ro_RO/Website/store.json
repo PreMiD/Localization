@@ -30,5 +30,37 @@
   "store.card.presence.included": {
     "message": "Această prezență este folosită automat, nu este nevoie să o adăugați.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "All",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Games",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Music",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Socials",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Videos & Streams",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Other",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Search",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "User presences",
+    "description": "Userpage title"
   }
 }
