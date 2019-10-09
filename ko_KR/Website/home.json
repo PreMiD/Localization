@@ -1,30 +1,30 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "모두에게 자신이 무엇을 하고 있는 중인지 알립니다",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "기능들",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "다운로드",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "게임 플레이 중",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} 남음",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "당신은 아마도 이 기능들을 좋아할 것 같아요",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "**당신**의 Presence 를 찾기",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -32,11 +32,11 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "상점 열기",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "간단한 유저 인터페이스",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -44,19 +44,19 @@
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "앱과 확장 기능 설정",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Presence 관리",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "카테고리별로 분류",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "빠른 지원",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "우리 서버 들리기",
     "description": "Features section button"
   }
 }
