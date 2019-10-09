@@ -8,7 +8,7 @@
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "제작자",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
@@ -16,15 +16,15 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "검색",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Presence 추가하기",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Presence 제거하기",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
