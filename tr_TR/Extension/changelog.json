@@ -42,5 +42,9 @@
   "extension.2.0.fix2": {
     "message": "Artık her şey çok daha hızlı çalışıyor",
     "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Fixes old app error even if you have the latest one",
+    "description": ""
   }
 }
