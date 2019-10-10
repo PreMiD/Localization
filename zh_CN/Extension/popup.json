@@ -4,11 +4,11 @@
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "学分",
+    "message": "制作人员名单",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "一般",
+    "message": "常规",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
@@ -24,7 +24,7 @@
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "自动启动",
+    "message": "自动运行",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
@@ -40,7 +40,7 @@
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "完成了",
+    "message": "完成",
     "description": "Done button"
   },
   "popup.presences.load": {
@@ -60,11 +60,11 @@
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "加载时出错学分",
+    "message": "加载制作人员名单时出错",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "没有连接",
+    "message": "未连接",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
