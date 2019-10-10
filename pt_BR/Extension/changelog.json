@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Corrija um erro antigo do app mesmo se você tiver o último",
+    "message": "Corrige o erro de \"aplicativo desatualizado\" mesmo você tendo a última versão",
     "description": ""
   }
 }
