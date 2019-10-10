@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} 不是为该操作系统创建的安装包，这意味着您将失去技术支持。",
+    "message": "{0} 没有为该操作系统创建的安装程序，这意味着您将没有技术支持。",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
