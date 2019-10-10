@@ -68,19 +68,19 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD无法连接到它的应用程序！ 难道是安装并运行？[Troubleshooting]",
+    "message": "PreMiD 无法连接到它的应用程序！ 安装并运行它了吗？[Troubleshooting]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "过时的 App",
+    "message": "App 已过期",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "你PreMiD应用程序已经过时。 请更新它以继续使用PreMiD。",
+    "message": "你 PreMiD 应用程序已经过期， 请更新它以继续使用 PreMiD。",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "所有",
+    "message": "全部",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -100,7 +100,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "视频 & 流媒体",
+    "message": "视频与直播",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
