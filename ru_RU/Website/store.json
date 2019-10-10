@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Всё",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Игры",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Музыка",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Соц. сети",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Видео/Стримы",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Прочее",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Искать...",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Присутствия от пользователей",
     "description": "Userpage title"
   }
 }
