@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Obišči naš server",
+    "message": "Obišči naš strežnik",
     "description": "Features section button"
   }
 }
