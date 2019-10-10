@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Semua",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Game",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sosial",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video dan Stream",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Lainnya",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Cari",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Presence pengguna",
     "description": "Userpage title"
   }
 }
