@@ -4,19 +4,19 @@
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "不幸的是，我们正在遇到技术困难。我们很快就会返回。对不便，很抱歉。",
+    "message": "很抱歉，我们正遇到技术难题，我们将很快恢复。对您带来的不便，请谅解。",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "请稍后再来获取更多信息。",
+    "message": "要获取更多信息，请稍后再来查看。",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "直到我们的特别开发者修复这个问题，我们觉得可以在这里看一看！",
+    "message": "在我们的特殊开发人员解决这个问题之前，在这里随便看看吧！",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "状态页",
+    "message": "状态页面",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
