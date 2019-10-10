@@ -4,7 +4,7 @@
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "播放已暂停",
+    "message": "暂停播放",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
@@ -12,11 +12,11 @@
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "活",
+    "message": "直播",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
-    "message": "插曲{0}",
+    "message": "分段 {0}",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
