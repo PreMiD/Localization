@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Spellen",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Muziek",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sociaal",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video's & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Overige",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Zoek",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Gebruiker presences",
     "description": "Userpage title"
   }
 }
