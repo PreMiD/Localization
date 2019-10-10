@@ -16,7 +16,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "安装 PreMiD 应用。",
+    "message": "安装 PreMiD 应用程序。",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -40,11 +40,11 @@
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "警告！",
+    "message": "警告：",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} 此操作系统没有安装程序。这意味着没有专业支持。",
+    "message": "{0} 不是为该操作系统创建的安装包，这意味着您将失去技术支持。",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
