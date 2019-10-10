@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Tutto",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Giochi",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Musica",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Social",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video & Dirette",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Altro",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Cerca",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Presenze dell'Utente",
     "description": "Userpage title"
   }
 }
