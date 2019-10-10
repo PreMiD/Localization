@@ -1,14 +1,14 @@
 {
   "store.message.error": {
-    "message": "未找到扩展，锁定功能...",
+    "message": "扩展未安装，禁用功能…",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "未找到扩展，锁定功能...",
+    "message": "扩展已安装，启用功能…",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "创始人",
+    "message": "创建者",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
