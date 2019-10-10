@@ -32,15 +32,15 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Spiele",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category at the top"
   },
   "store.category.socials": {
@@ -52,11 +52,11 @@
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Andere",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Suchen",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
