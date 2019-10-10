@@ -1,62 +1,62 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Naj vsi vedo, kaj delate!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Naše funkcije",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Prenosi",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Igranje iger",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} Preostali čas",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Te funkcije vam bodo všeč!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Poišči **svoj** dodatek.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Mi smo razvili našo razširitev tako, da lahko dodajate in uporabljate dodatke narejene od drugih uporabnikov in lahko jih upravljate v naši razširitvi!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Odpri trgovino",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Preprosti UI (Uporabniški Vmesnik).",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Ste utrujeni od slabih uporabniških vmesnikov? Zato smo naredili preprost in uporaben vmesnik z samo pomembnih funkcij ki vsebuje:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Aplikacijske in Razširitvene nastavitve.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Upravljanje z dodatki.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Razvrščanje po kategorijah.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Hitra pomoč.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
