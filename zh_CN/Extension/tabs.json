@@ -1,10 +1,10 @@
 {
   "tab.button.changelog": {
-    "message": "变更日志",
+    "message": "更新日志",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
-    "message": "的wiki",
+    "message": "维基",
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
@@ -24,15 +24,15 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh 不!** 我们无法连接到应用程序... 它是否已安装？",
+    "message": "**哦不!** 我们无法连接到应用程序…安装它了吗？",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "故障排除（Troubleshooting）",
+    "message": "疑难解答",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "应用下载",
+    "message": "安装应用程序",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
@@ -44,15 +44,15 @@
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "新",
+    "message": "新增",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "更改的",
+    "message": "更改",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Fixed",
+    "message": "修正",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
