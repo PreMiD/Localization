@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Bosan dengan interface? Itulah kenapa kami membuat interface yang sangat simpel dan berguna yang isinya hanya fungsi yang penting:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Sepertinya ada yang salah. Kami akan membantu mu untuk menghilangkan itu di server Discord kami, kami juga sedang mengembangkan sistem support yang akan membantu mu lebih mudah.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
