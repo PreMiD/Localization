@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Wszystkie",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Gry",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Muzyka",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Media społecznościowe",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Filmy i transmisje",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Inne",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Szukaj",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Preferencje użytkownika",
     "description": "Userpage title"
   }
 }
