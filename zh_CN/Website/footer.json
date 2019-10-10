@@ -40,7 +40,7 @@
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "投稿",
+    "message": "贡献",
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "平移",
+    "message": "翻译",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -56,7 +56,7 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "故障排除（Troubleshooting）",
+    "message": "疑难解答",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
@@ -68,11 +68,11 @@
     "description": "Information section"
   },
   "footer.help.information.cookies": {
-    "message": "Cookies 信息",
+    "message": "Cookies",
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "隐私设置",
+    "message": "隐私",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
@@ -88,7 +88,7 @@
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
-    "message": "的wiki",
+    "message": "维基",
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
@@ -96,7 +96,7 @@
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "网站维护{0}",
+    "message": "网站由 {0} 维护",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
