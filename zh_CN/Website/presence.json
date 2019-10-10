@@ -20,7 +20,7 @@
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "客服网址",
+    "message": "支持网址",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
