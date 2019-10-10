@@ -20,7 +20,7 @@
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Serwery Discord",
+    "message": "Serwer Discord",
     "description": "Discord Server link on maintenance page"
   }
 }
