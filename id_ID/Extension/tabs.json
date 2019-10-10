@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh tidak!**Kami tidak bisa terhubung ke aplikasi... Sudahkah terinstal?",
+    "message": "**Oh tidak!** Kami tidak bisa terhubung ke aplikasi... Apakah aplikasinya sudah terinstall dengan benar?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
