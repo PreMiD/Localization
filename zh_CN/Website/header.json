@@ -4,11 +4,11 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "我们支持你的语言，想换一下吗？",
+    "message": "我们支持你的语言，想更换吗？",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "我们的网站已翻译成您的语言。 如果您的英语说得不好，这可能会有所帮助。",
+    "message": "我们的网站已翻译成您的语言。如果你看不懂英文，那会有所帮助。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
