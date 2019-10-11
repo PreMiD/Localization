@@ -24,27 +24,27 @@
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Ta bort presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Denna presence är tillägt automatiskt, du behöver inte lägga till den.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Alla",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Spel",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Socialt",
     "description": "Category at the top"
   },
   "store.category.videos": {
@@ -52,15 +52,15 @@
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Annat",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Sök",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Användar presences",
     "description": "Userpage title"
   }
 }
