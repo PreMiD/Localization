@@ -52,19 +52,19 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Sortera av kategori.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Någonting är sönder eller skickar dig en massa problem? Vi kan hjälpa dig få bort dom i våran Discord server, vi har också utvecklat ett support system som kommer göra ditt liv enklare.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Joina våran server",
     "description": "Features section button"
   }
 }
