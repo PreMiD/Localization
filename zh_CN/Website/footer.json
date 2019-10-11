@@ -84,7 +84,7 @@
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "状态",
+    "message": "服务器状态",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
