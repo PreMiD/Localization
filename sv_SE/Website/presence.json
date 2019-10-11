@@ -1,6 +1,6 @@
 {
   "presence.sections.description.title": {
-    "message": "Description",
+    "message": "Beskrivning",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
@@ -8,7 +8,7 @@
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "Author",
+    "message": "Skapare",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
@@ -16,11 +16,11 @@
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Tags",
+    "message": "Taggar",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Supported URLs",
+    "message": "Stöda URLs",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
