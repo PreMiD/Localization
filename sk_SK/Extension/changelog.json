@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Užívatelia teraz môžu pridať prítomnosti sami. [Pridaj si nejaké teraz!]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Nájdi niektoré [nové prítomnosti] v ich prirodzenom prostredí",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] pre tvorivých vývojárov",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
