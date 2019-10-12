@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "A felhasználók ezentúl már maguk is hozzáadhatnak állapotüzeneteket. [Telepítsd őket!]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Új állapotüzeneteket [itt] találhatsz",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Dokumentumokat] adtunk hozzá a kreatív, külsős fejlesztők számára",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
