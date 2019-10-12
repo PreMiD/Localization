@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "用户现在可以自己添加状态。[ 现在就添加一些吧！]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "在 Presence 市场 中可以找到 [更多 Presence] 了",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "为富有创意的开发者们创建了 [Docs]",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
