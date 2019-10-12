@@ -28,7 +28,7 @@
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "在场",
+    "message": "Presence",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "没有派驻添加",
+    "message": "没有可用的 Presence",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -48,7 +48,7 @@
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "商店 Presence",
+    "message": "Presence 商店",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
