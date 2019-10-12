@@ -1,6 +1,6 @@
 {
   "extension.2.0.new1": {
-    "message": "用户现在可以自己添加状态。[ 现在就来添加！]",
+    "message": "用户现在可以自己添加状态。[ 现在就添加一些吧！]",
     "description": ""
   },
   "extension.2.0.new2": {
@@ -8,7 +8,7 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "现在可以自动更新",
+    "message": "现在可以自动更新了",
     "description": ""
   },
   "extension.2.0.new4": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "即使拥有最新的应用，我们也将修复旧的错误",
+    "message": "即使拥有最新的应用程序，我们也将修复旧的错误",
     "description": ""
   }
 }
