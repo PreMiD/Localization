@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű társakat is találsz.",
+    "message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű személyt is találsz.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -32,11 +32,11 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Application",
+    "message": "Alkalmazás letöltése",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extension",
+    "message": "Bővítmény letöltése",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
