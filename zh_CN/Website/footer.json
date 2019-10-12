@@ -4,7 +4,7 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "准备尝试 PremMiD 吗？",
+    "message": "准备好尝试 PreMiD 了吗？",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -28,7 +28,7 @@
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "丰富的呈现",
+    "message": "Rich Presence",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
