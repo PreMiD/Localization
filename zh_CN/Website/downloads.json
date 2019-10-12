@@ -1,6 +1,6 @@
 {
   "downloads.header.title": {
-    "message": "是时候向大家展示自己了。",
+    "message": "是时候向大家展示自己的状态了。",
     "description": "Title"
   },
   "downloads.header.subtitle": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "访问 {0} 页面，检查扩展是否已连接。",
+    "message": "访问 {0} 页面，检查扩展程序是否连接成功。",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -32,7 +32,7 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "应用",
+    "message": "应用程序",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
