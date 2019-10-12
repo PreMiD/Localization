@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Všetko",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Hry",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Hudba",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sociálne siete",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Videá & Streamy",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Iné",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Hľadať",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Používateľské prítomnosti",
     "description": "Userpage title"
   }
 }
