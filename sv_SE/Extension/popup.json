@@ -24,7 +24,7 @@
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Auto launch",
+    "message": "Auto start",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
@@ -32,55 +32,55 @@
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "Manage",
+    "message": "Hantera",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "No Presences added",
+    "message": "Inga Presences tillagda",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Done",
+    "message": "Klart",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Load Presence",
+    "message": "Ladda Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presence Store",
+    "message": "Presence Butik",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Need Help?",
+    "message": "Behöver du hjälp?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Oh noes!",
+    "message": "Åh nej!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Error while loading credits",
+    "message": "Fel vid läsning av medarbetare",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Not connected",
+    "message": "Ej ansluten",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? [Troubleshooting]",
+    "message": "PreMiD kunde inte ansluta till programmet! Är det installerat och körs det? [Troubleshooting]",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Gammal version",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "PreMiD programmet är gammalt. Uppdatera för att fortsätta kunna använda PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Alla",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,15 +88,15 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "Spel",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Social",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
@@ -104,7 +104,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Annat",
     "description": "Category name shown when you open tags"
   }
 }
