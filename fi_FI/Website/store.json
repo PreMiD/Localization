@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "This presence is included in PreMiD by default, no need to install it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
