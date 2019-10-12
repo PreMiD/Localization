@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "此存在已由经过验证的开发人员批准",
+    "message": "此状态已由认证的开发人员批准",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "此存在在必要时自动使用，不需要添加它。",
+    "message": "此状态会在必要时自动启动，不需要添加它。",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
