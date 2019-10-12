@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Am dezvoltat extensia noastră cu un sistem de prezență care vă permite să utilizați prezențe create de alți utilizatori și să le gestionați prin extensie!",
+    "message": "Am creat extensia noastră cu un sistem de prezență care vă permite să utilizați prezențe create de alți utilizatori și să le gestionați prin extensie!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -52,7 +52,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sortează după categorie.",
+    "message": "Sortând după categorie.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Accesați serverul nostru",
+    "message": "Vizitați serverul nostru",
     "description": "Features section button"
   }
 }
