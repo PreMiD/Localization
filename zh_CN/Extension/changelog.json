@@ -4,7 +4,7 @@
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "在它们的自然栖息地中可以找到些[新的状态] 了",
+    "message": "在 Presence 市场 中可以找到 [新的 Presence] 了",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "即使拥有最新的应用程序，我们也将修复旧的错误",
+    "message": "即使您拥有最新的应用程序，我们也将修复旧的错误",
     "description": ""
   }
 }
