@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "告诉所有人你在做什么",
+    "message": "告诉所有人你在做什么!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "找到 **您的** 状态",
+    "message": "找到 **属于您的** 状态",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
