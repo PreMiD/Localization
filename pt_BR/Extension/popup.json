@@ -80,7 +80,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "Todos",
+    "message": "Todas",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
