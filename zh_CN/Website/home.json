@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "我们的特色",
+    "message": "我们的功能",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "找到 **属于您的** 状态",
+    "message": "找到 **属于您** 的状态",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "出现故障或发送大量错误？我们的Discord服务器会帮助您摆脱困扰，我们还开发了一种支持系统，可使您的生活更轻松。",
+    "message": "出现故障或发送大量错误？我们的Discord服务器会帮助您摆脱困扰，我们还开发了一种支持系统，可使您的使用更加轻松。",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
