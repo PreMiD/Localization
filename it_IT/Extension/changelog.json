@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Bug risolto dall'applicazione precedente anche se si dispone dell'ultimo",
+    "message": "Risolto il vecchio errore dell'applicazione anche se dispone dell'ultima versione",
     "description": ""
   }
 }
