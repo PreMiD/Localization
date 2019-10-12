@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "הכל",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "משחקי משחב",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "מוזיקה",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "חברתי",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "סירטונים & שידורים",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "אחרים",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "חיפוש",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "נוכחות חדשה",
     "description": "Userpage title"
   }
 }
