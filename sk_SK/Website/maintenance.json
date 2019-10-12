@@ -1,14 +1,14 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Údržba",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Bohužiaľ máme technické problémy. Čoskoro sa vrátime. Ospravedlňujem sa za nepríjemnosť.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Please come back later for more info.",
+    "message": "Prosím vráť sa neskôr pre viac informácií.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
@@ -16,7 +16,7 @@
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Page",
+    "message": "Stránka Stavu",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
