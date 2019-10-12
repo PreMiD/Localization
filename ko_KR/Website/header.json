@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "우리의 웹 사이트는 당신의 언어로 번역 한 내용입니다. 이것은 당신이 영어를 잘 하지 않는 경우에 도움이 될 수 있습니다.",
+    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
