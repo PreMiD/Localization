@@ -1,6 +1,6 @@
 {
   "header.language": {
-    "message": "中文",
+    "message": "简体中文",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "正在烤煎饼..;正在放置容器..;解析您的IP地址..;UwU;正在破坏规则...",
+    "message": "正在解除温度限制..;正在布下陷阱..;分析您的IP地址..;UwU;正在重构网页...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
