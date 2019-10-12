@@ -1,10 +1,10 @@
 {
   "contributors.headings.staff": {
-    "message": "制作人员",
+    "message": "工作人员",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "支持者",
+    "message": "赞助者",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
