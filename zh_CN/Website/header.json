@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "我们支持你的语言，想更换吗？",
+    "message": "我们支持你的语言，想试试吗？",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -16,11 +16,11 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "语言选择",
+    "message": "切换语言",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking packakes..;Plaging contrates..;解析您的IP地址..;UwU;断路规则...",
+    "message": "正在烤煎饼..;正在放置容器..;解析您的IP地址..;UwU;正在破坏规则...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
