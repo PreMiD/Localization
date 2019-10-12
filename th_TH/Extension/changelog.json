@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "ผู้ใช้งานสามารถเพิ่ม Presence ของตัวเองได้ [ติดตั้งเดี๋ยวนี้!]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "คุณสามารถ [[ดู Presences มาใหม่]] ที่นี่",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] สำหรับผู้พัฒนา",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
