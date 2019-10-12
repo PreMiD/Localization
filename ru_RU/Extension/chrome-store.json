@@ -1,6 +1,6 @@
 {
   "extension.description.short": {
-    "message": "Ваш Rich Presence для интернет сервисов!",
+    "message": "PreMiD добавляет интеграцию Discord Rich Presence, средства управления мультимедиа и многое другое к вашим любимым сервисам.",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
