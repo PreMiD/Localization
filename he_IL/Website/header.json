@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית טובה.",
+    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
