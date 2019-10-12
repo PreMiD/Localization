@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "你 PreMiD 应用程序已经过期， 请更新它以继续使用 PreMiD。",
+    "message": "你的 PreMiD 应用程序已经过期， 请更新它以继续使用 PreMiD。",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
