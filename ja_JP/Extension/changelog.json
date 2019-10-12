@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "ユーザーが自分でプレゼンスを追加できるようになりました。 [今すぐインストール！]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "[新しいプレゼンス] を生息地で観測できます",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "クリエイティブな開発者のために [Docs] を追加しました",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
