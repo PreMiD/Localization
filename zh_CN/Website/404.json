@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "抱歉，看起来您想看到的页面已被移动或删除，或者可能不存在？",
+    "message": "抱歉，看起来您想看到的页面已被移动或删除，或者根本不存在？",
     "description": "Message on 404 page"
   }
 }
