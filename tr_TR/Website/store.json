@@ -32,7 +32,7 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Bütün Kategoriler",
+    "message": "Tümü",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -44,11 +44,11 @@
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Sosyal Medya",
+    "message": "Sosyal",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Video ve Canlı Yayınlar",
+    "message": "Video & Yayın",
     "description": "Category at the top"
   },
   "store.category.other": {
@@ -60,7 +60,7 @@
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Kullanıcının servisleri",
     "description": "Userpage title"
   }
 }
