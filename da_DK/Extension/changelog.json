@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Man kan nu selv tilføje \"Discord Rich Presences\". [Tilføj nogle nu!]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find nogle [nye \"presences\"] i deres naturlige habitat",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] for de kreative udviklere derude",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
