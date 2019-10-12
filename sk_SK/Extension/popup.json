@@ -68,7 +68,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD bol neschopný sa pripojiť ku svojej aplikácii! Je už nainštalovaná a beží? [Troubleshooting]",
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
