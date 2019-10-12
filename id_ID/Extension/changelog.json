@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Sekarang pengguna dapat menambahkan presence sendiri. [Tambahkan sekarang!]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Temukan [presence baru] di habitat alaminya",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "[Docs] untuk para developer",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
