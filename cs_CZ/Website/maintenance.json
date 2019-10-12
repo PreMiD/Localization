@@ -8,11 +8,11 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Prosím vraťte se zpět později pro více informací.",
+    "message": "Prosím vrať se zpět později pro více informací.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Dokud toto naši speciální vývojáři opravují, svobodně se sem podívejte!",
+    "message": "Dokud toto naši speciální vývojáři opravují, svobodně se sem podívej!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
