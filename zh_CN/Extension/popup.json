@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "没有可用的状态",
+    "message": "没有可用的 Presence",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -44,11 +44,11 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "加载状态",
+    "message": "加载 Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "状态商店",
+    "message": "Presence 市场",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
@@ -72,11 +72,11 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "应用程序已过期",
+    "message": "应用程序需要更新",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "你的 PreMiD 应用程序太旧了，请更新它以继续使用 PreMiD。",
+    "message": "你的 PreMiD 应用程序需要更新，请更新它以继续使用 PreMiD。",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
