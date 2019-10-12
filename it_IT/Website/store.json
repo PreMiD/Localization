@@ -60,7 +60,7 @@
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Presenze dell'Utente",
+    "message": "Presenze dell'utente",
     "description": "Userpage title"
   }
 }
