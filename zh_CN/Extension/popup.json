@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "没有可用的 Presence",
+    "message": "没有可用的状态",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -44,11 +44,11 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "加载 Presence",
+    "message": "加载状态",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presence 商店",
+    "message": "状态商店",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
