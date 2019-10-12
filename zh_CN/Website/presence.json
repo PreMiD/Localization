@@ -1,6 +1,6 @@
 {
   "presence.sections.description.title": {
-    "message": "说明",
+    "message": "描述",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
@@ -20,7 +20,7 @@
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "支持网址",
+    "message": "支持链接",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
