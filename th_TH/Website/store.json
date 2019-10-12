@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Presence นี้ถูกเพิ่มโดยอัตโนมัติ คุณไม่ต้องไปเพิ่มมันเอง",
+    "message": "ใน presence นี้รวมอยู่ใน PreMiD  โดยค่าเริ่มต้น คุณไม่จำเป็นต้องติดตั้งอีก",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
