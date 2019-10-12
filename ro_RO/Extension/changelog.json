@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Userii pot de acum să adăuge prezențe singuri. [[Instalează-le acum!]",
+    "message": "Users can now add presences by themself. <Add some now!>",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Găsește câteva [prezențe noi] in habitatul lor natural",
+    "message": "Find some <new presences> in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "Am adăugat [Docs] pentru acei developeri creativi",
+    "message": "<Docs> for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
