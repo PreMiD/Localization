@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Toate",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Jocuri",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Muzică",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sociale",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Videoclipuri & Stream-uri",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Altele",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Caută",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Prezențele utilizatorului",
     "description": "Userpage title"
   }
 }
