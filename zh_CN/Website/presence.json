@@ -1,6 +1,6 @@
 {
   "presence.sections.description.title": {
-    "message": "描述",
+    "message": "说明",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
