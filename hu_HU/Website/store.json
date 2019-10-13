@@ -60,7 +60,7 @@
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Felhasználó állapotüzenetei",
     "description": "Userpage title"
   }
 }
