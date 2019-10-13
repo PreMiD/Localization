@@ -1,14 +1,14 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Karbantartás",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Sajnos technikai nehézségeink adódtak. Hamarosan visszatérünk. Elnézést a kellemetlenségért.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Please come back later for more info.",
+    "message": "További információkért térj vissza később.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
