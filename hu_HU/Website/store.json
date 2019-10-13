@@ -32,31 +32,31 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Minden",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Játék",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Zene",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Közösség",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Videók & Közvetítések",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Egyéb",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Keresés",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
