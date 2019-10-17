@@ -19,7 +19,7 @@
     "message": "Reading",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
-  "presence.activity.reading": {
+  "presence.activity.searching": {
     "message": "Searching",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
