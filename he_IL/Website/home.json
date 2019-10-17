@@ -24,15 +24,15 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "מצא את הpresence **שלך**.",
+    "message": "מצא את הPresence **שלך**.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "פיתחנו תוסף בדרך שהוא נותן לך להוסיף ולהשתמש בpresences שנוצרו על ידי משתמשים אחרים!",
+    "message": "פיתחנו תוסף בדרך שהוא נותן לך להוסיף ולהשתמש בPresences שנוצרו על ידי משתמשים אחרים!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "פתח חנות",
+    "message": "פתח את החנות",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
@@ -48,7 +48,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "ניהול presence.",
+    "message": "ניהול Presence.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "משהו נתקע או שולח לך הרבה הודעות? אנחנו נעזור לך להיפטר מהם בשרת בדיסקורד שלנו, בנוסף פיתחנו מערכת תמיכה שתעשה את חייכם קלים יותר.",
+    "message": "משהו נתקע או שולח לך הרבה הודעות? אנחנו נעזור לך להיפטר מהם בשרת הדיסקורד שלנו, בנוסף פיתחנו מערכת תמיכה שתעשה את חייך קלים יותר.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
