@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "החידושים שלנו",
+    "message": "התכונות שלנו",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "אתה תאהב את החידושים האלה!",
+    "message": "אתה תאהב את התכונות האלה!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -36,11 +36,11 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "ממש משתמש פשוט.",
+    "message": "ממשק משתמש פשוט.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "עייף ממשקי תוכמה מסובכים? זאת הסיבה שאנחנו יצרו ממשק משתמש פשוט ושימושי רק עם הפונקציות שבאמת צריך:",
+    "message": "עייף מממשקי משתמש מורכבים? זאת הסיבה שאנחנו יצרו ממשק משתמש פשוט ושימושי רק עם הפונקציות שבאמת צריך:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -52,7 +52,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "מסודר לפי קטגוריה.",
+    "message": "ממויין לפי קטגוריה.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -60,11 +60,11 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "משהו נתקע או שולח לך הרבה הודעות? אנחנו נעזור לך להיפטר מהם בשרת בדיסקורד שלנו, פיתחנו מערכת תמיכה שתעזור לכולם.",
+    "message": "משהו נתקע או שולח לך הרבה הודעות? אנחנו נעזור לך להיפטר מהם בשרת בדיסקורד שלנו, בנוסף פיתחנו מערכת תמיכה שתעשה את חייכם קלים יותר.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "בקר באתר שלנו",
+    "message": "בקר בשרת שלנו",
     "description": "Features section button"
   }
 }
