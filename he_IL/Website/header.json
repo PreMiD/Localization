@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "אנחנו תומכים בשפות שונות, רוצה להחליף שפה?",
+    "message": "אנחנו תומכים בשפה שלך, רוצה להחליף שפה?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
