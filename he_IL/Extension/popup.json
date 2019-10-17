@@ -12,7 +12,7 @@
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "פועל",
+    "message": "מופעל",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "העלה את הPresence",
+    "message": "העלה Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
@@ -72,11 +72,11 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "אפליקציה לא מעודכנת",
+    "message": "יישום לא מעודכן",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "האפליקציה של PreMiD לא מעודכנת. בבקשה עדכן בשביל המשך השימוש של PreMiD.",
+    "message": "היישום של PreMiD לא מעודכן. בבקשה עדכן בשביל המשך השימוש של PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
