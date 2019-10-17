@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "מכין פנקייקים...;שם מכולות...;סורק את האייפי שלך...;UwU;עובר על החוקים...",
+    "message": "אופה פנקייקים...;ממקם מכולות...;סורק את האייפי שלך...;UwU;עובר על החוקים...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
