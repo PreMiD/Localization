@@ -4,7 +4,7 @@
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
-    "message": "ויקי",
+    "message": "וויקי",
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
@@ -12,7 +12,7 @@
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "שהורדת \n{0}",
+    "message": "שהתקנת\n{0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
