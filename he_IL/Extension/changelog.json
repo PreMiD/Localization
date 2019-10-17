@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "משתמשים עכשיו יכולים להוסיף presences לבד. [הורד אותם עכשיו!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "מצא כמה presences חדשים בסביבתם הטבעית",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "מסמכים בשביל המפתחים היצירתיים שבינינו",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -28,7 +28,7 @@
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "הAPI החדש שלנו רץ",
+    "message": "הAPI החדש שלנו רץ חייתי",
     "description": ""
   },
   "extension.2.0.change1": {
@@ -40,11 +40,11 @@
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "הכל רץ מהר יותר",
+    "message": "הכל רץ מהר יותר עכשיו",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "מתקן שגיאת אפליקצייה אפילו אם יש לך את הגרסא האחרונה",
     "description": ""
   }
 }
