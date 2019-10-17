@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "מסמכים בשביל המפתחים היצירתיים שבינינו",
+    "message": "*מסמכים* בשביל המפתחים היצירתיים שבינינו",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -24,7 +24,7 @@
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "עוד חידושים בשביל בוט הדיסקורד שלנו",
+    "message": "עוד תכונות לבוט הדיסקורד שלנו",
     "description": ""
   },
   "extension.2.0.new8": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "מתקן שגיאת אפליקצייה אפילו אם יש לך את הגרסא האחרונה",
+    "message": "מתקן שגיאת אפליקציה אפילו אם יש לך את הגרסא האחרונה",
     "description": ""
   }
 }
