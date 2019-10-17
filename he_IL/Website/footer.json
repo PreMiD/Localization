@@ -28,7 +28,7 @@
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich presence",
+    "message": "Rich Presence",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
@@ -52,7 +52,7 @@
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "עזרה",
+    "message": "עזור",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
