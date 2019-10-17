@@ -12,7 +12,7 @@
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "אפשר",
+    "message": "פועל",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "העלה את הPrsence",
+    "message": "העלה את הPresence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
@@ -68,15 +68,15 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
+    "message": "PreMiD לא יכל להתחבר ליישום! האם זה מורד ורץ? *פותר בעיות*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "אפליקציה ישנה",
+    "message": "אפליקציה לא מעודכנת",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "האפליקציה של PreMiD ישנה. בבקשה עדכן בשביל המשך שימוש של PreMiD.",
+    "message": "האפליקציה של PreMiD לא מעודכנת. בבקשה עדכן בשביל המשך השימוש של PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
@@ -100,7 +100,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "סירטונים & שידורים",
+    "message": "סרטונים & שידורים",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
