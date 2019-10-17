@@ -36,7 +36,7 @@
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "משחקי משחב",
+    "message": "משחקים",
     "description": "Category at the top"
   },
   "store.category.music": {
@@ -48,11 +48,11 @@
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "סירטונים & שידורים",
+    "message": "סרטונים & שידורים",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "אחרים",
+    "message": "אחר",
     "description": "Category at the top"
   },
   "store.search": {
@@ -60,7 +60,7 @@
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "נוכחות חדשה",
+    "message": "נוכחות משתמש",
     "description": "Userpage title"
   }
 }
