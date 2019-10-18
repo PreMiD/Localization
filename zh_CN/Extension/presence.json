@@ -16,7 +16,7 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "读取中",
+    "message": "阅读中",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
