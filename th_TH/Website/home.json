@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "เราพัฒนาส่วนเสริมให้ผู้ใช้งานได้สร้าง Presence ขึ้นมาเองได้และสามารถจัดการได้ผ่านส่วนเสริมนี้",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
