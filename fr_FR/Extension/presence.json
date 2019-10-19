@@ -16,11 +16,11 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "Lecture en cours",
+    "message": "En train de lire",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "Recherche en cours",
+    "message": "En train de chercher",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
