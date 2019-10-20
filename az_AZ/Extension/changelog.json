@@ -36,15 +36,15 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Bilinən/bilinməyən xeyli xəta var",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Hər şey artıq daha sürətlidir",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Ən yenisinə sahib olsanız belə köhnə tətbiqin səhvini düzəldir",
     "description": ""
   }
 }
