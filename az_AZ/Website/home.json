@@ -40,31 +40,31 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Mürəkkəb istifadəçi interfeyslərindən bezmisiniz? Buna görə yalnız vacib funksiyalar olan sadə və faydalı bir interfeys yaratdıq:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Proqram və əlavə parametrləri.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Status idarəsi.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Kateqoriyaya görə sırala.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Tez dəstək.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Bir şey qarmaqarışıqdır və ya xeyli səhv göndərir? Bundan imtina etməyinizə kömək edəcəyik, Discord serverimizdə də həyatınızı asanlaşdıracaq bir dəstək sistemi hazırladıq.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Serverimizi ziyarət et",
     "description": "Features section button"
   }
 }
