@@ -1,30 +1,30 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "Người dùng hiện có thể tự thêm sự hiện diện. * Thêm một số ngay bây giờ! *",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "Tìm một số * sự hiện diện mới * trong môi trường sống tự nhiên của chúng",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "Cập nhật tự động là một điều bây giờ",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Người dùng có thể tạo sự hiện diện ngay bây giờ",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "* Tài liệu * cho các nhà phát triển sáng tạo ngoài kia",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Tất cả thiết kế trang web mới",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Nhiều tính năng hơn cho Discord-Bot của chúng tôi",
     "description": ""
   },
   "extension.2.0.new8": {
@@ -36,15 +36,15 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Rất nhiều (chưa) biết lỗi đã bỏ chạy",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Bây giờ mọi thứ đang chạy nhanh hơn nhiều",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Sửa lỗi ứng dụng cũ ngay cả khi bạn có phiên bản mới nhất",
     "description": ""
   }
 }
