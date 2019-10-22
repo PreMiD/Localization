@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "แก้ไขข้อผิดพลาดแอปเก่าแม้ว่าคุณจะมีแอปล่าสุด",
     "description": ""
   }
 }
