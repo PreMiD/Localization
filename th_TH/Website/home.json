@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "ตามหาพรีเซ้นของคุณ",
+    "message": "ตามหา**พรีเซ้น**ของคุณ",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -36,7 +36,7 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "อินเตอร์เฟสผู้ใช้เรียบง่าย",
+    "message": "อินเตอร์เฟสแบบเรียบง่าย",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "มีบางอย่างผิดพลาด หรือ ส่งข้อผิดพลาดมามากมายถึงคุณใช่มั้ย? เราจะช่วยคุณกำจัดสิ่งนั้นบนเซิร์ฟเวอร์ Discord, เรายังพัฒนาระบบสนับสนุนที่จะทำให้ชีวิตของคุณง่ายขึ้น",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
