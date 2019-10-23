@@ -44,7 +44,7 @@
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Soziales",
     "description": "Category at the top"
   },
   "store.category.videos": {
@@ -60,7 +60,7 @@
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Benutzer Präsenzen",
     "description": "Userpage title"
   }
 }
