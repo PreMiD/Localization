@@ -4,7 +4,7 @@
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "น่าเสียดาย ตอนนี้เรากำลังประสบปัญหาทางเทคนิค. เราจะกลับมาในไม่ช้า ขออภัยในความไม่สะดวกนะ.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
