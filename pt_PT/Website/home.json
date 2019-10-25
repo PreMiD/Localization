@@ -24,11 +24,11 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Encontre **sua** presença.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Desenvolvemos nossa extensão de uma maneira que permite adicionar e usar presenças criadas por outros usuários e gerenciá-las em nossa extensão!\n",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
