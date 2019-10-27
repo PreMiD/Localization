@@ -32,11 +32,11 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Abrir loja",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Interface de utilizador simples.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
