@@ -4,11 +4,11 @@
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Reprodução pausada",
+    "message": "Reprodução em pausa",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "A procurar...",
+    "message": "A procurar ...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
@@ -16,11 +16,11 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "Reading",
+    "message": "A ler",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "Searching",
+    "message": "A pesquisar",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
