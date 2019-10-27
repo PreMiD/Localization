@@ -52,7 +52,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Ordenar por categoria.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -64,7 +64,7 @@
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Visite o nosso servidor",
     "description": "Features section button"
   }
 }
