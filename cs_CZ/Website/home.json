@@ -1,22 +1,22 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Dej vědět všem co děláš!",
+    "message": "Dej všem vědět, co právě děláš!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Naše funkce",
+    "message": "Funkce",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Soubory na Stáhnutí ",
+    "message": "Soubory ke stažení",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Hrá hru",
+    "message": "Hraje hru",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "zbýva {0}",
+    "message": "zbývá {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
@@ -48,7 +48,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Spravovat Přítomnosti.",
+    "message": "Spravovat Přítomností.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Něco se třpytí nebo ti posílá spoustu chyb? Pomůžeme ti zbavit se jich na našem Discord serveru, a také vyvinuli jsme podpůrný systém který ti usnadní život.",
+    "message": "Něco se pokazilo nebo ti posílá spousty chyb? Pomůžeme ti zbavit se jich na našem Discord serveru, a také jsme vyvinuli systém podpory, který ti usnadní život.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
