@@ -68,7 +68,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD bol neschopný sa pripojiť ku svojej aplikácii! Je už nainštalovaná a beží? *[Troubleshooting]*",
+    "message": "PreMiD bol neschopný sa pripojiť ku svojej aplikácii! Je už nainštalovaná a beží? *Troubleshooting*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Tvoja PreMiD aplikácia je zastaralá. Prosím aktualizuj si ju aby si mohol pokračovať v používaní PreMiD.",
+    "message": "Tvoja PreMiD aplikácia je zastaralá. Aktualizuj si ju aby si mohol pokračovať v používaní PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
