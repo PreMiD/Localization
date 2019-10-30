@@ -4,7 +4,7 @@
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Rozšírení bylo nalezené, odemykám funkce...",
+    "message": "Rozšírení nalezeno, odemykám funkce...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
