@@ -1,22 +1,22 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Bảo trì",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Thật không may, chúng tôi đang gặp trục trặc về kỹ thuật. Chúng tôi sẽ trở lại sớm nhất có thể. Xin lỗi vì sự bất tiện.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Please come back later for more info.",
+    "message": "Vui lòng quay trở lại sau để biết thêm chi tiết.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
+    "message": "Cho đến khi những lập trình viên sửa những lỗi này, nếu bạn rảnh thì hãy ghé vào đây!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Page",
+    "message": "Trang trạng thái",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
