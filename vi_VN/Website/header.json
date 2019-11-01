@@ -20,19 +20,19 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "Đang nướng bánh...;Đang tải trang...;Phân tích địa chỉ IP của bạn...;UwU;Phá bỏ quy tắc...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "Cửa hàng",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "Tải về",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "Người đóng góp",
     "description": "Contributors tab"
   }
 }
