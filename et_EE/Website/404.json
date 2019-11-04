@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Sorry, looks like the page that you want to see has been moved or deleted or maybe it never existed?",
+    "message": "Vabandust, nagu näha, see leht mida te soovite näha on liigutatud või kustutatud või pole seda eksisteerinud?",
     "description": "Message on 404 page"
   }
 }
