@@ -12,7 +12,7 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
+    "message": "Amíg ügyes fejlesztőink megoldják ezt a problémát, nyugodtan látogass el ide!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
