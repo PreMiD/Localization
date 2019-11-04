@@ -68,7 +68,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD öz tətbiqinə qoşula bilmədi! O yüklüdür və işləyir? *Həll etmə*",
+    "message": "PreMiD öz tətbiqinə qoşula bilmədi! O yüklüdür və işləyir? *Həll et*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
