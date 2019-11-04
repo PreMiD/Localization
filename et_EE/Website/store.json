@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Lisa pole leitud, lukustan funktsioonid...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Lisa leitud, avan funktsioonid...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "Omanik",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "See lisa on kinnitatud arendaja poolt",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Otsi",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Lisa võimalus",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Eemalda lisa",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "See lisa on automaatselt kasutatud, kui vaja, pole vaja lisada.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Kõik",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Mängud",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Muusika",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sotsiaalmeedia",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Videod & Otseülekanded",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Muud",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Otsi",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Kasutaja lisad",
     "description": "Userpage title"
   }
 }
