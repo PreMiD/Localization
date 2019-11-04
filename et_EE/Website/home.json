@@ -40,31 +40,31 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Väsinud igavatest veebisaidi disainidest? Sellepärast me tegime lihtsa ja kasuliku veebi nende tähtsate funktsioonidega kaasa arvatud:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Rakenduse ja lisa sätted.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Staatuse haldamine.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Kategooria järgi sorteerimine.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Kiire tugi.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Midagi on viga või saadetakse tuhandeid vigasid? Me aitame sul lahti saada meie Discordi serveris, me lõime abisüsteemi, mis teeb su elu lihtsamaks.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Külasta meie serverit",
     "description": "Features section button"
   }
 }
