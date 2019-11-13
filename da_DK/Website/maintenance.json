@@ -1,10 +1,10 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Vedligeholdelse",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Desværre oplever vi tekniske vanskeligheder. Vi vender snart tilbage. Beklager ulejligheden.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
