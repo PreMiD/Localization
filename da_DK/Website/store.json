@@ -20,47 +20,47 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Tilføj \"presence\"",
+    "message": "Tilføj presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Fjern \"presence\"",
+    "message": "Fjern presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is included in PreMiD by default, no need to install it.",
+    "message": "Denne tilstedeværelse bruges automatisk, når det er nødvendigt, ikke nødvendigt at tilføje den.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Spil",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Musik",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sociale Apps",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video & Streaming",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Andet",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Søg",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Bruger presences",
     "description": "Userpage title"
   }
 }
