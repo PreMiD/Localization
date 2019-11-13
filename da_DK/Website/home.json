@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Fortæl alle, hvad du laver!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find ** din ** presence.",
+    "message": "Find **din** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
