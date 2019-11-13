@@ -44,11 +44,11 @@
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Configurações de Aplicativo e extensão.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Gerenciamento de presença.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
@@ -56,7 +56,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Suporte rápido.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
