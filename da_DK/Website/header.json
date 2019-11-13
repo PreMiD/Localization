@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
+    "message": "Vores hjemmeside er blevet oversat til dit sprog. Det her kan meget vel hjælpe dig, i tilfælde af at du ikke snakker engelsk særligt godt.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Bager pandekager...;Kigger på fugle...;Analyserer din IP adresse...;UwU;Bryder regler...",
+    "message": "Bager pandekager...;Kigger på Beholdere...;Analyserer din IP adresse...;UwU;Bryder regler...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
