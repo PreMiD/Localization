@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Vi udviklede vores udvidelse på en måde, der giver dig mulighed for at tilføje og bruge presences oprettet af andre brugere og administrere dem i vores udvidelse!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -36,23 +36,23 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Enkel brugergrænseflade.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Træt af komplicerede brugergrænseflader? Derfor skabte vi en enkel og nyttig grænseflade med kun vigtige funktioner inkluderet:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "App og udvidelsesindstillinger.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Presence Administration.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Sortering efter kategori.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Nogen funktionsfejl eller er der noget sender dig masser af fejl? Vi hjælper dig med at slippe af med det på vores Discord server, vi har også udviklet et support system, der vil gøre dit liv lettere.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
