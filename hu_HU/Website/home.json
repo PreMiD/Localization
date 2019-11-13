@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Találd meg **saját** állapotüzeneted.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Unod már a bonyolult felhasználói felületeket? Ezért létrehoztunk egy egyszerű és hasznos felhasználói felületet, melyek csak a legfontosabb funkciókat tartalmazzák:",
+    "message": "Unod már a bonyolult felhasználói felületeket? Mi létrehoztunk egy egyszerű és hasznos felhasználói felületet, melyek csak a legfontosabb funkciókat tartalmazzák:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
