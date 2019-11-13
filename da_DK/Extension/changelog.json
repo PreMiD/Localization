@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "Brugere kan nu tilføje presences af sig selv. * Tilføj nogle nu! *",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "Find nogle * nye presences* i deres naturlige habitat",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "* Dokumenter * for disse kreative udviklere derude",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Retter gammel appfejl, selvom du har den nyeste",
     "description": ""
   }
 }
