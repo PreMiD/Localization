@@ -16,7 +16,7 @@
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Styring",
+    "message": "Media Styring",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Ingen \"Precences\" tilføjet",
+    "message": "Ingen Precences tilføjet",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -68,7 +68,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
+    "message": "PreMiD kunne ikke oprette forbindelse til dens applikation! Er det installeret og køre? *Fejlfinding*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
