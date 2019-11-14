@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Lo sentimos, parece que la página que quieres ver ha sido cambiada o eliminada, o tal vez nunca existió?",
+    "message": "Lo sentimos, parece que la página que quieres ver ha sido cambiada o eliminada, ¿o tal vez nunca existió?",
     "description": "Message on 404 page"
   }
 }
