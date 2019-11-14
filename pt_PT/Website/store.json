@@ -8,7 +8,7 @@
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Criador",
+    "message": "Criador(a)",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
@@ -16,7 +16,7 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Pesquisa",
+    "message": "Pesquisar",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
