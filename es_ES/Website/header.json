@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "¿Soportamos tu idioma, quieres cambiar?",
+    "message": "Nosotros soportamos tu idioma, ¿quieres cambiarlo?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Cambiar idioma",
+    "message": "Cambiar idioma\n",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
