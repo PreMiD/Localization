@@ -3,60 +3,68 @@
     "message": "Let everyone know what you are watching and listening to!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} server",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "기능들",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "message": "다운로드",
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "게임 플레이 중",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} 남음",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Our primary features",
+  "home.features.heading": {
+    "message": "당신은 아마도 이 기능들을 좋아할 것 같아요",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "**당신**의 Presence 를 찾기",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Presence System",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "상점 열기",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "간단한 유저 인터페이스",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Multilingual",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "앱과 확장 기능 설정",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence 관리",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "카테고리별로 분류",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "빠른 지원",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "우리 서버 들리기",
+    "description": "Features section button"
   }
 }

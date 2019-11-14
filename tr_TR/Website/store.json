@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Bu servis bir onaylanmış geliştirici tarafından kabul edilmiştir.",
+    "message": "Bu servis bir onaylanmış geliştirici tarafından kabul edilmiştir",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -20,15 +20,47 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Servisi Yükle",
+    "message": "Servisi ekle",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Servisi Kaldır",
+    "message": "Servisi kaldır",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Bu servis PreMiD'de varsayılan olarak gelmektedir, yeniden yüklemeye gerek yoktur.",
+    "message": "Bu servis gerektiğinde otomatik olarak devreye girer, eklemeye gerek yoktur.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Tümü",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Oyun",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Müzik",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Sosyal",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Video & Yayın",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Diğer",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Ara",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Kullanıcının servisleri",
+    "description": "Userpage title"
   }
 }

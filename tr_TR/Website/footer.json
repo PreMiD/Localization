@@ -4,11 +4,11 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "PreMiD'i denemeye hazır mısın ?",
+    "message": "PreMiD'i denemeye hazır mısın?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Bugün aramıza {0} kişi katıldı!",
+    "message": "Diğer {0} kullanıcımızın arasına katıl!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -24,19 +24,19 @@
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Dökümanlar",
+    "message": "Dokümantasyon",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "Zengin İçerik",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Destek OL",
+    "message": "Destek ol",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Bağış",
+    "message": "Bağış Yap",
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
@@ -52,7 +52,7 @@
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Yardı",
+    "message": "Yardım",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
@@ -76,27 +76,27 @@
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Kurallar",
+    "message": "Şartlar",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "Daha",
+    "message": "Dahası",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Durumlar",
+    "message": "PreMiD Durumu",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
-    "message": "Wiki",
+    "message": "Viki",
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
-    "message": "{0} by {1}",
+    "message": "{1} kullanıcısından {0}",
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Webmaster {0} ",
+    "message": "Site {0} tarafından yönetilmektedir",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }

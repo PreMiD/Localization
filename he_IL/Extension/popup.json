@@ -12,20 +12,20 @@
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "אפשר",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "מופעל",
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "פקדי מדיה",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "שליטה במדיה",
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "Title Menubar",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "תפריט",
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "הפעלה אוטומטית",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Presences",
@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "העלה את הPrsence",
+    "message": "העלה Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
@@ -53,7 +53,7 @@
   },
   "popup.buttons.help": {
     "message": "צריך עזרה?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "או לא!",
@@ -63,12 +63,48 @@
     "message": "בעיה במהלך ניסיון טעינת התודות",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "מחובר",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
+  "popup.info.notConnected": {
+    "message": "לא מחובר",
+    "description": "Shown when the extension can't connect to the application"
   },
-  "popup.info.disconnected": {
-    "message": "מנותק",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+  "popup.info.notConnected.message": {
+    "message": "PreMiD לא יכל להתחבר ליישום! האם זה מורד ורץ? *מתקן תקלות*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "יישום לא מעודכן",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "היישום של PreMiD לא מעודכן. בבקשה עדכן בשביל המשך השימוש של PreMiD.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "הכל",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "אנימה",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "מוזיקה",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "משחקים",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "חברתי",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "סרטונים & שידורים",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "אחר",
+    "description": "Category name shown when you open tags"
   }
 }

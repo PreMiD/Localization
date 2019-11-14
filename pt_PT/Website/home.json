@@ -3,13 +3,13 @@
     "message": "Faz com que todos saibam o que estás a ver ou a ouvir!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "Servidor do {0}",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Vossos recursos",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Transferências",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Jogando",
@@ -19,44 +19,52 @@
     "message": "{0} saiu ",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "As nossas funções primárias",
+  "home.features.heading": {
+    "message": "Você vai adorar estes recursos!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Nós temos muitas funções, mas agora queremos mostrar-te as nossas funções primárias que tu só consegues encontrar no PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Encontre **sua** presença.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Sistema de Presenças",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Desenvolvemos nossa extensão de uma maneira que permite adicionar e usar presenças criadas por outros usuários e gerenciá-las em nossa extensão!\n",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Nós desenvolvemos a nossa extensão com um sistema de presenças que te dá a possibilidade de usar presenças criadas por outros utilizadores e de geri-las através da extensão!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Abrir loja",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Controlos de Media",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Interface de utilizador simples.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "A maior parte das nossas presenças suporta controlos de media. Tu podes saltar, pausar e tocar músicas \/ vídeos enquanto usas outras aplicações.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Multilingual",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Configurações de Aplicativo e extensão.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Nem todos são bons a inglês. Por isso é que estamos a traduzir a nossa extensão e website em outras línguas, provavelmente incluindo a tua!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Gerenciamento de presença.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Código Aberto",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Ordenar por categoria.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Os códigos da nossa aplicação, website e extensão são abertos.  Se tu encontrares algum bug ou quiseres adicionar alguma nova função, tu podes abrir um issue ou pull request na nossa página do GitHub!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Suporte rápido.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Visite o nosso servidor",
+    "description": "Features section button"
   }
 }

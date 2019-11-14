@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+  "extension.2.0.new1": {
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Find some [new presences] in their natural habitat",
+  "extension.2.0.new2": {
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
-  "tab.changelog.new.3": {
+  "extension.2.0.new3": {
     "message": "Auto updating is a thing now",
     "description": ""
   },
-  "tab.changelog.new.4": {
-    "message": "Users can create presences now",
+  "extension.2.0.new4": {
+    "message": "이제 Presence 들을 유저가 만들수 있습니다",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[Docs] for these creative developers out there",
+  "extension.2.0.new5": {
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "All new website design",
+  "extension.2.0.new6": {
+    "message": "새로운 웹사이트 디자인",
     "description": ""
   },
-  "tab.changelog.new.7": {
-    "message": "More features for our Discord-Bot",
+  "extension.2.0.new7": {
+    "message": "우리의 디스코드 봇에 더 많은 기능이 추가되었습니다",
     "description": ""
   },
-  "tab.changelog.new.8": {
+  "extension.2.0.new8": {
     "message": "Our new API is a running beast",
     "description": ""
   },
-  "tab.changelog.changed.1": {
+  "extension.2.0.change1": {
     "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
+  "extension.2.0.fix1": {
     "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
-    "message": "Everything is running much faster now",
+  "extension.2.0.fix2": {
+    "message": "모든게 더욱 빨리 동작합니다",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }

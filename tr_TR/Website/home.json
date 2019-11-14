@@ -1,62 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Ne izlediğinizi ve dinlediğinizi herkese gösterin!",
+    "message": "İnsanlara ne yaptığınızı gösterin!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} sunucusu",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Özellikler",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "İndirmeler",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "message": "İndir",
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Bir oyun oynuyor",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0}kaldı",
+    "message": "{0} kaldı",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Öne çıkan özelliklerimiz",
+  "home.features.heading": {
+    "message": "Bu özelliklere bayılacaksınız!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Aslında bir çok özelliğe sahibiz, ancak şimdilik sadece, sadece PreMiD'de bulabileceğiniz ana özelliklerden bahsedeceğiz.",
+  "home.features.presencesystem.heading": {
+    "message": "**Aradığınız** servisi bulun.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Durum Sistemi",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Eklentimizi, kullanıcıların kendi servislerini ekleyebilmesi ve yönetebilmesine olanak sağlamak için özel olarak tasarladık!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Eklentimizi durum sistemi dediğimiz bir şekilde tasarladık. Bu sayede diğer kullanıcılar kendi oluşturdukları, farklı siteler için durumuzu gösteren mağaza sistemi ile kullanmanıza olanak sağlıyoruz.",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Mağazaya git",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Medya Kontrolleri",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Basit arayüz.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Desteklenen sitelerin büyük çoğunluğu medya kontrollerini destekler. Bu sayede diğer uygulamaları kullanırken sitelerde geçebilir, durdurabilir veya tekrar oynatabilirsiniz.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Karmaşık arayüzlerden sıkıldınız mı? İşte bu yüzden biz arayüzümüzü sadece gereken özellikleri koyarak tasarladık:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Çoklu Dil",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Uygulama ve Eklenti ayarları.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Herkes İngilizce'de iyi değildir. Bu yüzden biz eklentimizi ve internet sitemizi Türkçe'nin de olduğu farklı dillere çevirdik.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Servis yönetimi.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Açık Kaynak",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Kategoriye göre sıralama.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Uygulamamızın, internet sitemizin ve eklentimizin kodları tamamen açık kaynaktır. Eğer bir hata görür ve yeni bir özellik eklenmesini isterseniz, bir \"issue\" ya da \"pull request\" oluşturarak GitHub'dan bize bildirebilirsiniz!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Hızlı destek.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Bir şeyler yanlış mı çalışıyor? Mm, bunu düzeltmek için size Discord sunucumuzda yardımcı olabiliriz, bunun için özel bir destek sistemi bile yaptık.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Sunucumuza katılın",
+    "description": "Features section button"
   }
 }

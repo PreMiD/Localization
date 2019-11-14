@@ -1,0 +1,70 @@
+{
+  "home.introduction.catchphrase": {
+    "message": "Beritahu semua orang apa yang kamu lakukan!",
+    "description": "First phrase that a user reads on our website"
+  },
+  "home.introduction.button.features": {
+    "message": "Fitur kami",
+    "description": "Introduction button"
+  },
+  "home.introduction.button.downloads": {
+    "message": "Unduh",
+    "description": "Downloads button -> redirects to /downloads page"
+  },
+  "home.examples.playingagame": {
+    "message": "Bermain Game",
+    "description": "Discord Rich Presence -> Playing a game"
+  },
+  "home.examples.timestamp": {
+    "message": "{0} tersisa",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.features.heading": {
+    "message": "Kamu akan menyukai fitur ini!",
+    "description": "Features section"
+  },
+  "home.features.presencesystem.heading": {
+    "message": "Cari presence **anda**.",
+    "description": "Features section subheading"
+  },
+  "home.features.presencesystem.description": {
+    "message": "Kami telah mengembangkan ekstensi kami sedemikian rupa agar kamu bisa menambah dan menggunakan presence yang dibuat orang lain dan mengaturnya di ekstensi kami!",
+    "description": "Features section description"
+  },
+  "home.features.presencesystem.button": {
+    "message": "Buka toko",
+    "description": "Features section button"
+  },
+  "home.features.simpleInterface.heading": {
+    "message": "Tampilan pengguna yang sederhana.",
+    "description": "Features section subheading"
+  },
+  "home.features.simpleInterface.description": {
+    "message": "Bosan dengan interface? Itulah kenapa kami membuat interface yang sangat simpel dan berguna yang isinya hanya fungsi yang penting:",
+    "description": "Features section description"
+  },
+  "home.features.simpleInterface.description.1": {
+    "message": "Pengaturan Ekstensi dan Aplikasi.",
+    "description": "Features section description point"
+  },
+  "home.features.simpleInterface.description.2": {
+    "message": "Manajemen presence.",
+    "description": "Features section description point"
+  },
+  "home.features.simpleInterface.description.3": {
+    "message": "Urutkan berdasarkan kategori.",
+    "description": "Features section description point"
+  },
+  "home.features.quickSupport.heading": {
+    "message": "Dukungan cepat.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Sepertinya ada yang salah. Kami akan membantu mu untuk menghilangkan itu di server Discord kami, kami juga sedang mengembangkan sistem support yang akan membantu mu lebih mudah.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Kunjungi server kami",
+    "description": "Features section button"
+  }
+}

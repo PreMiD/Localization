@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Begin nu PreMiD te gebruiken en laat andere mensen zien waar u naar kijkt of luistert, misschien vindt u iemand met dezelfde interesses.",
+    "message": "Begin nu PreMiD te gebruiken en laat andere mensen zien wat je aan het doen bent, misschien vind je iemand met dezelfde interesses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -20,7 +20,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Installeer de extensie voor uw browser.",
+    "message": "Installeer de extensie voor jouw browser.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
@@ -32,11 +32,11 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Applicatie downloads",
+    "message": "Applicatie",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extensie downloads",
+    "message": "Extensie",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Applicatie heeft geen installatieprogramma voor dit besturingssysteem. Dit betekent dat er geen professionele ondersteuning voor is.",
+    "message": "{0} Er is geen installatieprogramma voor dit besturingssysteem. Dit betekent dat er geen professionele ondersteuning voor is.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

@@ -1,18 +1,18 @@
 {
   "header.language": {
-    "message": "אנגלית",
-    "description": "Name of your language written on your language."
+    "message": "עברית",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "אנחנו תומכים בשפות שונות, רוצה להחליף שפה?",
+    "message": "אנחנו תומכים בשפה שלך, רוצה להחליף שפה?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית.",
+    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית כל כך טוב.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "לא תודה",
+    "message": "לא, תודה",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "מכין פנקייקים...;שם תיבות...;סורק את האייפי שלך...;UwU;עובר על החוקים...",
+    "message": "אופה פנקייקים...;ממקם מכולות...;סורק את האייפי שלך...;UwU;עובר על החוקים...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
@@ -32,7 +32,7 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "משתתפים",
+    "message": "תורמים",
     "description": "Contributors tab"
   }
 }

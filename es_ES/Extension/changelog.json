@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Los usuarios ahora pueden agregar presencias por sí mismos. [¡Añade algunas ahora!]",
+  "extension.2.0.new1": {
+    "message": "Los usuarios pueden ahora añadir presencias por ellos mismos. *Instala algunas ahora!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Encuenta algunas de las [nuevas presencias] en su hábitat natural",
+  "extension.2.0.new2": {
+    "message": "Encuentra algunas *Nuevas Presencias* en su hábitat natural",
     "description": ""
   },
-  "tab.changelog.new.3": {
+  "extension.2.0.new3": {
     "message": "La actualización automática ahora es algo real",
     "description": ""
   },
-  "tab.changelog.new.4": {
+  "extension.2.0.new4": {
     "message": "Los usuarios ahora pueden crear presencias",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[[Docs]] para esos desarrolladores creativos por ahí",
+  "extension.2.0.new5": {
+    "message": "*Documentos* Para esos desarrolladores creativos de ahí fuera",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Diseño de sitio web nuevo",
+  "extension.2.0.new6": {
+    "message": "Nuevo diseño del sitio web",
     "description": ""
   },
-  "tab.changelog.new.7": {
-    "message": "Más características para nuestro Discord-Bot",
+  "extension.2.0.new7": {
+    "message": "Más características para nuestro Bot de Discord",
     "description": ""
   },
-  "tab.changelog.new.8": {
+  "extension.2.0.new8": {
     "message": "Nuestra nueva API es una bestia",
     "description": ""
   },
-  "tab.changelog.changed.1": {
+  "extension.2.0.change1": {
     "message": "Una renovación de los Popups y cambios de pestañas",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "Muchos bugs (des)conocidos se escaparon",
+  "extension.2.0.fix1": {
+    "message": "Muchos errores (des)conocidos se escaparon",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
+  "extension.2.0.fix2": {
     "message": "Ahora todo funciona mucho más rápido",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Se corrigió el error de la aplicación anterior incluso si tienes la última",
     "description": ""
   }
 }

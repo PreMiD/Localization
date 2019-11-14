@@ -1,7 +1,7 @@
 {
   "header.language": {
-    "message": "Inglese",
-    "description": "Name of your language written on your language."
+    "message": "Italiano",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Supportiamo la tua lingua, vuoi cambiare?",
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Cucinando dei pancake...;Piazzando container...;Analizzando il tuo indirizzo IP...;UwU;Rompendo regole...",
+    "message": "Cucinando pancake...;Ordinando i recipienti...;Analizzando il tuo indirizzo IP...;UwU;Infrangendo le regole...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
@@ -32,7 +32,7 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributori",
+    "message": "Donatori",
     "description": "Contributors tab"
   }
 }

@@ -1,15 +1,15 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Lasă-i pe toți să știe la ce te uiți și ce asculți!",
+    "message": "Lasă-i pe toți să știe ce faci!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "Server-ul de {0}",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Funcțiile noastre",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Descărcări",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Jucându-se un joc",
@@ -19,44 +19,52 @@
     "message": "{0} timp rămas",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Principalele noastre caracteristici",
+  "home.features.heading": {
+    "message": "Veți iubi aceste funcții!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Avem o mulțime de caracteristici, dar acum vrem să vă spunem despre caracteristicile noastre principale pe care le puteți găsi numai în PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Găsește-ți **prezența** ta.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Sistemul de prezență",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Am creat extensia noastră cu un sistem de prezență care vă permite să utilizați prezențe create de alți utilizatori și să le gestionați prin extensie!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Am dezvoltat extensia noastră cu un sistem de prezență care vă permite să utilizați prezențe create de alți utilizatori și să le gestionați prin extensie!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Deschide magazinul",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Controalele media",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Interfață simplă.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Majoritatea prezențelor noastre oferă suport pentru controalele media. Puteți săriți, întrerupeți și redați melodii în timp ce utilizați alte aplicații.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Ești obosit de interfețele complicate? De aceea, am creat o interfață simplă și utilă, doar cu funcții importante incluse:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Mai multe limbi",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Setări pentru aplicație și extensie.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Nu toată lumea este bună la engleză. De aceea traducem extensia și site-ul nostru în alte limbi, probabil inclusiv ale dvs.!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Managementul prezenței.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Sursă deschisă",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sortând după categorie.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Codurile sursă de aplicație, site și extensie sunt open source. Dacă ați găsit un bug sau doriți să adăugați o funcție nouă, puteți crea o problemă sau o cerere de tragere pe pagina GitHub!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Suport rapid.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Ceva merge greșit sau îți trimite tone de erori? Vă vom ajuta să scăpați de asta pe serverul nostru de Discord, am creat și un sistem de asistență care vă va ușura viața.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Vizitați serverul nostru",
+    "description": "Features section button"
   }
 }

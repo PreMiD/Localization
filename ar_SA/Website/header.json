@@ -1,10 +1,10 @@
 {
   "header.language": {
     "message": "العربية",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "نحن ندعم لغتك، تريد التغيير؟",
+    "message": "نحن ندعم لغتك، هل تريد التغيير؟",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -12,7 +12,7 @@
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "لا. شكرا",
+    "message": "لا، شكرا",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "طبخ الفطائر ... ؛ وضع حاويات ... ؛ تحليل عنوان IP الخاص بك ... ؛ UwU ؛ كسر القواعد ...",
+    "message": "طبخ الفطائر...;وضع الأوعية...;تحليل عنوان IP الخاص بك...;UwU;كسر القواعد...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
@@ -28,7 +28,7 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "التحميلات",
+    "message": "تحميل",
     "description": "Downloads tab"
   },
   "header.contributors": {

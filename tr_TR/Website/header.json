@@ -1,14 +1,14 @@
 {
   "header.language": {
     "message": "Türkçe",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Dilinizi destekliyoruz, geçiş yapmak ister misin?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Görünüşe göre internet sitemiz sizin dilinize çevrilmiş. İngilizce yeterli olduğu kadar anlamıyorsanız bu işinize yarayabilir.",
+    "message": "İnternet sitemiz sizin dilinize çevrildi bile! İngilizceyi iyi bilmiyorsanız bu yardımcı olabilir.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Dili Değiştir",
+    "message": "Dili değiştir",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
@@ -28,7 +28,7 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "İndirme",
+    "message": "İndir",
     "description": "Downloads tab"
   },
   "header.contributors": {

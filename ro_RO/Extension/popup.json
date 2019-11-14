@@ -13,19 +13,19 @@
   },
   "popup.setting.enabled": {
     "message": "Activat",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
     "message": "Controale media",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
     "message": "Titlul bării de meniu",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "Deschidere automată",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Prezențe",
@@ -53,7 +53,7 @@
   },
   "popup.buttons.help": {
     "message": "Ai nevoie de ajutor?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "Oh nu!",
@@ -63,12 +63,48 @@
     "message": "Eroare încărcând creditele",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "Conectat",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
-  },
-  "popup.info.disconnected": {
+  "popup.info.notConnected": {
     "message": "Nu este conectat",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.notConnected.message": {
+    "message": "PreMiD nu a putut să se conecteze la aplicație! Este instalată și rulează? *Troubleshooting*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "Aplicație veche",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "Aplicația ta PreMiD este veche. Te rugăm să o actualizezi pentru a putea folosi PreMiD în continuare.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "Toate",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Anime",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "Muzică",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "Jocuri",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "Sociale",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "Video & Stream-uri",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "Altele",
+    "description": "Category name shown when you open tags"
   }
 }

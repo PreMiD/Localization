@@ -3,13 +3,13 @@
     "message": "Позвольте всем узнать, что вы слушаете и смотрите!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "Сервер {0}",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Наши возможности",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Загрузки",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Играет в игру",
@@ -19,44 +19,52 @@
     "message": "Осталось {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Наши основные преимущества",
+  "home.features.heading": {
+    "message": "Вы полюбите эти функции!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "У нас множество преимуществ, но сейчас мы хотим рассказать вам о наших основных преимуществах, которые можно найти только в PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Найдите **свой** статус.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Управление статусами",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Мы разработали наше расширение так, что вы можете добавить и использовать статусы созданные другими людьми и управлять ими в нашем расширении!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Мы разработали наше расширение вместе с системой управления статусами, она позволяет использовать расширенные статусы, созданные другими пользователями и управлять ими при помощи расширения!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Открыть магазин",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Медиа-клавиши",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Простой интерфейс для пользователей.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Большинство из наших статусов поддерживают медиа-клавиши. Вы можете пропускать, останавливать и воспроизводить треки, во время использования других приложений.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Надоели громадные интерфейсы? Это - почему мы создали простой, но в тоже время полезный интерфейс с важными функциями:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Мультиязычность",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Настройки приложения и расширения.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Не каждый хорош в английском языке. Именно по этому мы переводим наше расширение и веб-сайт на другие языки, включая ваш!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Управление статусами.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Открытый код",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Сортировка по категории.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Исходники нашего приложения, веб-сайта открыты для всех. Если вы нашли ошибку или хотите добавить новую функцию, то вы можете создать 'проблему' или пул реквест на нашей странице GitHub!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Быстрая поддержка.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Что-то работает не так или тебе выдаёт целую тучу ошибок? Мы поможем тебе избавиться от этого в нашем сервере в Discord, там же мы разработали систему поддержки, которая облегчит тебе жизнь.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Посетите наш сервер",
+    "description": "Features section button"
   }
 }

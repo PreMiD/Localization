@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Użytkownicy mogą teraz dodawać własne statusy. [[Zainstaluj je teraz!]",
+  "extension.2.0.new1": {
+    "message": "Użytkownicy mogą teraz dodawać własne statusy. *Zainstaluj je teraz!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Możesz teraz [[zobaczyć nowe statusy]] w ich naturalnym środowisku",
+  "extension.2.0.new2": {
+    "message": "Możesz teraz zobaczyć *nowe statusy* w ich naturalnym środowisku",
     "description": ""
   },
-  "tab.changelog.new.3": {
+  "extension.2.0.new3": {
     "message": "Automatyczne aktualizacje już istnieją",
     "description": ""
   },
-  "tab.changelog.new.4": {
+  "extension.2.0.new4": {
     "message": "Teraz każdy może tworzyć statusy",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "Dodaliśmy [[dokumentację]] dla kreatywnych developerów",
+  "extension.2.0.new5": {
+    "message": "*Dodaliśmy *dokumentację* dla kreatywnych developerów",
     "description": ""
   },
-  "tab.changelog.new.6": {
+  "extension.2.0.new6": {
     "message": "Kompletnie nowy wygląd witryny",
     "description": ""
   },
-  "tab.changelog.new.7": {
+  "extension.2.0.new7": {
     "message": "Więcej funkcji dla naszego bota Discord",
     "description": ""
   },
-  "tab.changelog.new.8": {
+  "extension.2.0.new8": {
     "message": "Nasze nowe API działa jak bestia",
     "description": ""
   },
-  "tab.changelog.changed.1": {
+  "extension.2.0.change1": {
     "message": "Odnowiony układ okienek i zakładek",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
+  "extension.2.0.fix1": {
     "message": "Mnóstwo (nie)znanych błędów zostało naprawionych",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
+  "extension.2.0.fix2": {
     "message": "Wszystko działa teraz o wiele szybciej",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Naprawia starszy błąd aplikacji, nawet jeśli posiadasz najnowszą wersję",
     "description": ""
   }
 }

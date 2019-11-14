@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Users can now add presences by themself. [Add some now!]",
+  "extension.2.0.new1": {
+    "message": "Benutzer können nun selbst Präsenzen hinzufügen. *Füge welche hinzu!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Find some [new presences] in their natural habitat",
+  "extension.2.0.new2": {
+    "message": "Finde einige *neue Präsenzen* in ihrem natürlichen Lebensraum",
     "description": ""
   },
-  "tab.changelog.new.3": {
-    "message": "Automatische Aktualisierungen sind jetzt ein Ding",
+  "extension.2.0.new3": {
+    "message": "Automatische Updates sind jetzt eine Sache",
     "description": ""
   },
-  "tab.changelog.new.4": {
+  "extension.2.0.new4": {
     "message": "Benutzer können jetzt Präsenzen erstellen",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[Docs] für diese kreativen Entwickler da draußen",
+  "extension.2.0.new5": {
+    "message": "*Docs* für die kreativen Entwickler da draußen",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "All new website design",
+  "extension.2.0.new6": {
+    "message": "Komplett neues Website Design",
     "description": ""
   },
-  "tab.changelog.new.7": {
+  "extension.2.0.new7": {
     "message": "Mehr Funktionen für unseren Discord-Bot",
     "description": ""
   },
-  "tab.changelog.new.8": {
+  "extension.2.0.new8": {
     "message": "Unsere neue API ist ein laufendes Biest",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Revamped popup and tabs layout and style",
+  "extension.2.0.change1": {
+    "message": "Überarbeitetes Popup- und Tab-Layout",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "A lot of (un)known bugs ran away",
+  "extension.2.0.fix1": {
+    "message": "Viele (un)bekannte Fehler sind weggelaufen",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
+  "extension.2.0.fix2": {
     "message": "Alles läuft jetzt viel schneller",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Behebt alten Programm-Fehler, auch wenn die neueste hast",
     "description": ""
   }
 }

@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Gli utenti possono ora aggiungere presenze da soli. [Aggiungile ora!]",
+  "extension.2.0.new1": {
+    "message": "Gli utenti possono ora aggiungere presenze da soli. *Aggiungile ora!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Trova [nuove presenze] nel loro habitat naturale",
+  "extension.2.0.new2": {
+    "message": "Trova *nuove presenze* nel loro habitat naturale",
     "description": ""
   },
-  "tab.changelog.new.3": {
-    "message": "L'aggiornamento automatico è stato aggiunto",
+  "extension.2.0.new3": {
+    "message": "È stato aggiunto l'aggiornamento automatico",
     "description": ""
   },
-  "tab.changelog.new.4": {
-    "message": "Gli utenti possono ora creare presenze",
+  "extension.2.0.new4": {
+    "message": "Adesso gli utenti possono creare presenze",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[Docs] per i developer creativi là fuori",
+  "extension.2.0.new5": {
+    "message": "*Docs* per gli sviluppatori creativi là fuori",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Design del sito completamente nuovo",
+  "extension.2.0.new6": {
+    "message": "Design del sito completamente rinnovato",
     "description": ""
   },
-  "tab.changelog.new.7": {
+  "extension.2.0.new7": {
     "message": "Più funzionalità per il nostro Bot di Discord",
     "description": ""
   },
-  "tab.changelog.new.8": {
-    "message": "Il nostro nuovo API è una bestia in esecuzione",
+  "extension.2.0.new8": {
+    "message": "La nostra nuova API va come un treno a vapore",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Rinnovato il popup e il layout e stile delle tab",
+  "extension.2.0.change1": {
+    "message": "Rinnovata la disposizione dello stile dei popup e delle schede",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
+  "extension.2.0.fix1": {
     "message": "Tanti bug (s)conosciuti sono scappati",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
+  "extension.2.0.fix2": {
     "message": "Tutto è ora molto più veloce",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Risolto il vecchio errore dell'applicazione anche se dispone dell'ultima versione",
     "description": ""
   }
 }

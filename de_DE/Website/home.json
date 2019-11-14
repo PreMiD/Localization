@@ -1,15 +1,15 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Lasse jeden wissen, was du schaust und hörst!",
+    "message": "Lasse jeden wissen, was du machst!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} Server",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Unsere Funktionen",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Downloads",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Spielt ein Spiel",
@@ -19,44 +19,52 @@
     "message": "{0} verbleibend",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Unsere primären Funktionen",
+  "home.features.heading": {
+    "message": "Du wirst diese Funktionen lieben!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Wir haben viele Funktionen, aber wir möchten dir jetzt unsere primären Funktionen vorstellen, die du nur in PreMiD finden wirst.",
+  "home.features.presencesystem.heading": {
+    "message": "Finde **deine** Präsenz.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Präsenzsystem",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Präsenzen von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Wir haben in unsere Erweiterung ein Präsenzsystem eingebaut, dass es dir erlaubt Präsenzen, welche von anderen Nutzern entwickelt wurden, zu verwenden und über die Erweiterung zu verwalten!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Store öffnen",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Mediensteuerung",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Einfache Benutzeroberfläche.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Die meisten unserer Präsenzen unterstützen Mediensteuerungen. Du kannst Songs überspringen, pausieren und abspielen, während du andere Anwendungen verwenden.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Müde von komplizierten Benutzeroberflächen? Deshalb haben wir eine einfache und hilfreiche Oberfläche mit ausschließlich wichtigen Funktionen eingebaut:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Mehrsprachig",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "App- und Erweiterungseinstellungen.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Nicht jeder spricht gut Englisch, weshalb wir unsere Erweiterung und Website in viele Sprachen (und warscheinlich auch deine) übersetzen.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Präsenzverwaltung.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open-Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sortierung nach Kategorie.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Unsere Software, Website und Erweiterung sind Open-Source. Falls du einen Fehler findest oder eine neue Funktion möchtest, kannst du auf GitHub ein Issue erstellen oder selber einen Pull Request machen.",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Schneller Support.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Etwas ist fehlerhaft oder sendet Dir Unmengen von Fehlern? Wir werden Dir helfen, diese auf unserem Discord-Server zu beseitigen. Wir haben auch ein Support-System programmiert, dass dein Leben einfacher machen wird.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Besuche unseren Server",
+    "description": "Features section button"
   }
 }

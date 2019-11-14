@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD aggiunge l'integrazione della \"Discord Rich Presence\", controlli multimediali e molto più ai tuoi servizi più amati.",
+    "message": "La tua Rich Presence per i servizi web!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "DEVI INSTALLARE LA NOSTRA APPLICAZIONE UFFICIALE PER FAR FUNZIONARE L'ESTENSIONE\n{0}{1}\n\nPuoi usare i pulsanti multimediali per controllare la riproduzione di questi servizi. Quando guardi\/ascollti qualcosa su uno dei servizi da noi supportati, l'estensione del browser manda il metadata del video\/della canzone al nostro client desktop e PreMiD lo elabora. PreMiD manda l'informazione a Discord nel formato corretto e automaticamente imposta il suo stato.\nServizi supportati\n{2} Controlla su {3}\n\nHai bisogno d'aiuto?\n{4}{5}\n\nIl nostro server Discord\n{6} Parla con le persone dietro a PreMiD {7}\n\nSiamo Open Source!\n{9} Le grandi cose dovrebbero essere aperte al pubblico {10}",
+    "message": "DEVI INSTALLARE LA NOSTRA APPLICAZIONE UFFICIALE PER FAR FUNZIONARE L'ESTENSIONE\n{0}{1}\n\nPuoi usare i pulsanti multimediali per controllare la riproduzione di questi servizi. Quando guardi/ascollti qualcosa su uno dei servizi da noi supportati, l'estensione del browser manda i metadata del video/della canzone al nostro client desktop e PreMiD lo elabora. PreMiD manda l'informazione a Discord nel formato corretto e automaticamente imposta il tuo stato.\nServizi supportati\n{2} Controlla su {3}\n\nHai bisogno d'aiuto?\n{4}{5}\n\nIl nostro server Discord\n{6} Parla con le persone dietro a PreMiD {7}\n\nSiamo Open Source!\n{9} Le grandi cose dovrebbero essere aperte al pubblico {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

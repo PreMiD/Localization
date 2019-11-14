@@ -1,15 +1,15 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Pokaż każdemu, co oglądasz i czego słuchasz!",
+    "message": "Pokaż wszystkim, co robisz",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} serwer",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Nasze funkcje",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Do pobrania",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "W grze",
@@ -19,44 +19,52 @@
     "message": "Pozostało {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Główne funkcje",
+  "home.features.heading": {
+    "message": "Pokochasz te funkcje!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Nasza aplikacja ma wiele funkcji, ale te funkcje znajdziesz tylko w PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Znajdź **swoją** aktywność.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "System Statusów",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Stworzyliśmy dodatek który pozwala ci na używanie stworzonych przez innych użytkowników aktywności i zarządzania nimi w aplikacji!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Stworzyliśmy nasze rozszerzenie z myślą o systemie statusów który pozwoli tworzyć statusy innym użytkownikom oraz zarządzać nimi z poziomu rozszerzenia.",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Otwórz sklep",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Sterowanie Multimediami",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Prosty interfejs.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Większość z naszych statusów pozwalają na Sterowanie Mediami. Możesz pomijać i pauzować utwory podczas używania innych aplikacji.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Zmęczony skomplikowanymi interfejsami? Właśnie dlatego my stworzyliśmy prosty i użyteczny interfejs tylko z potrzebnymi funkcjami takimi jak:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Wielojęzykowość",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Ustawienia Aplikacji i Dodatku.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Nie każdy dobrze rozumie Angielski, dlatego tłumaczymy nasze rozszerzenie i stronę internetową na inne języki, włączając w to Polski.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Zarządzanie aktywnością.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sortowanie według kategorii.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Kod naszej aplikacji, strony i rozszerzenia jest Open Source. Jeśli znalazłeś błąd lub chcesz dodać nową funkcję możesz otworzyć Pull Request na naszej stronie GitHub.",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Szybkie wsparcie.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Coś się glitchuje i wysyła tobie tony błędów? Pomożemy ci wybrnąć z tego na naszym serwerze Discord, stworzyliśmy również system supportu który ułatwi ci to.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Odwiedź nasz serwer",
+    "description": "Features section button"
   }
 }

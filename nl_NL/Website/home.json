@@ -1,15 +1,15 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Laat iedereen weten naar wat u aan het kijken en luisteren bent!",
+    "message": "Laat iedereen weten wat je doet!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} server",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Onze functies",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Downloads",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Speelt een spel",
@@ -19,44 +19,52 @@
     "message": "{0} over",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Onze primaire functies",
+  "home.features.heading": {
+    "message": "Je houdt van deze functies!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "We hebben vele functies, maar nu willen we u graag vertellen over onze primaire functies die u alleen in PreMiD kunt vinden.",
+  "home.features.presencesystem.heading": {
+    "message": "Vind **je** presence.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Presence Systeem",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presence toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "We hebben onze extensie ontwikkeld met een presence systeem waarmee u presences kunt gebruiken die door andere gebruikers zijn gemaakt en deze via de extensie kunt beheren!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Open winkel",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Mediabediening",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Eenvoudige gebruikersinterface.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "De meeste van onze presences bieden ondersteuning voor mediabediening. U kunt nummers overslaan, pauzeren en afspelen terwijl u andere applicaties gebruikt.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Moe van ingewikkelde gebruikersinterfaces? Daarom hebben we een eenvoudige en nuttige interface met alleen belangrijke functies gecreëerd:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Meertalig",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "App- en extensie instellingen.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Niet iedereen is goed in Engels. Daarom vertalen we onze extensie en website in andere talen, waarschijnlijk ook die van jou!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence beheer.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sorteren op categorie.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Onze applicatie, website en extensiebroncodes zijn open source. Als u een bug hebt gevonden of een nieuwe functie wilt toevoegen, kunt u een probleem of pull aanvraag maken op onze GitHub pagina!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Snelle ondersteuning.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Iets is aan het glitchen of er zijn veel errors? We zullen u helpen in onze Discord server, we hebben daar een support systeem ontwikkeld die het heel gemakkelijk maakt.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Bezoek onze server",
+    "description": "Features section button"
   }
 }

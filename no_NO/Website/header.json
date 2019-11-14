@@ -1,7 +1,7 @@
 {
   "header.language": {
-    "message": "English",
-    "description": "Name of your language written on your language."
+    "message": "Norsk",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "We support your language, wanna switch?",

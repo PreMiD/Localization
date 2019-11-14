@@ -30,5 +30,37 @@
   "store.card.presence.included": {
     "message": "Ezt az állapotüzenetet a PreMiD alapértelmezetten támogatja, nincs szükség telepítésre.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Minden",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Játék",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Zene",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Közösség",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Videók & Közvetítések",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Egyéb",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Keresés",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Felhasználó állapotüzenetei",
+    "description": "Userpage title"
   }
 }

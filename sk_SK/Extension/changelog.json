@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Užívatelia môžu od teraz pridávať prítomnosti sami. [[Pridaj si niektoré teraz!]",
+  "extension.2.0.new1": {
+    "message": "Užívatelia môžu teraz pridávať prítomnosti sami. *Pridaj si niektoré teraz!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Najdi [nové prítomností] v ich prírodnom habitate",
+  "extension.2.0.new2": {
+    "message": "Nájdi *nové prítomností* v ich prirodzenom domove",
     "description": ""
   },
-  "tab.changelog.new.3": {
+  "extension.2.0.new3": {
     "message": "Automatická aktualizácia je teraz vec",
     "description": ""
   },
-  "tab.changelog.new.4": {
-    "message": "Užívatelia môžu od teraz vytvárať prítomností",
+  "extension.2.0.new4": {
+    "message": "Používatelia môžu vytvárať prítomnosti teraz",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "[Docs] pre kreativních vývojárov tam vonku",
+  "extension.2.0.new5": {
+    "message": "*Dokumenty* pre tvorivých vývojárov",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Celý nový dizajn webovej stránky",
+  "extension.2.0.new6": {
+    "message": "Celý nový dizajny webovej stránky",
     "description": ""
   },
-  "tab.changelog.new.7": {
-    "message": "Viac funkcií pre náš Discord-Bot",
+  "extension.2.0.new7": {
+    "message": "Viac funkcií pre nášho Discord-bota",
     "description": ""
   },
-  "tab.changelog.new.8": {
-    "message": "Náš nový API beží jak zviera",
+  "extension.2.0.new8": {
+    "message": "Naše nové API beží ako po masle",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Prerobené rozloženie kontextových okien a kariet a štýlu",
+  "extension.2.0.change1": {
+    "message": "Vylepšené kontextové okno a rozloženie a štýl záložiek",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "Mnoho (ne)známych chýb utieklo",
+  "extension.2.0.fix1": {
+    "message": "Veľa (ne)známych chýb utieklo",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
-    "message": "Všetko od teraz beží oveľa rýchlejšie",
+  "extension.2.0.fix2": {
+    "message": "Všetko teraz beží oveľa rýchlejšie",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Opraví starú chybu aplikácie aj keď máš najnovšiu",
     "description": ""
   }
 }

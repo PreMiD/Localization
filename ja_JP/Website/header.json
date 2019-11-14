@@ -1,7 +1,7 @@
 {
   "header.language": {
     "message": "日本語",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "あなたの言語をサポートしています。切り替えますか？",
@@ -24,15 +24,15 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "ストア",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "ダウンロード",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "コントリビューター",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }

@@ -3,60 +3,68 @@
     "message": "Let everyone know what you are watching and listening to!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} server",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Funktioner",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "message": "Nedladdningar",
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Spela ett spel",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} kvar",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Our primary features",
+  "home.features.heading": {
+    "message": "Du kommer älska våra funktioner!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "We have lots of features, but right now we want to tell you about our primary features that you can find only in PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Hitta **din** presence.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Presence System",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Vi utvecklade vårat tillägg på ett sätt som tillåter dig att lägga till och använda presences skappade av andra användare och kontrollera dom vi vårat tillägg!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "We have developed our extension with a presence system that allows you to use presences that were created by other users and manage them via the extension!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Öppna butik",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Media Controls",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Enkelt gränssnitt.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Most of our presences provide support for media controls. You can skip, pause and play tracks while using other applications.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Trött på komplicerade gränssnitt? Därför skapade vi ett simpelt och användbart gränssnitt med viktiga funktioner som:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Multilingual",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Program och tilläggs inställningar.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Not everyone is good at English. That's why we're translating our extension and website into other languages, probably including yours!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Presence hantering.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Open Source",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Sortera av kategori.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Our application, website and extension source codes are open source. If you found a bug or want to add a new feature you can create an issue or pull request on our GitHub page!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Support.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Någonting är sönder eller skickar dig en massa problem? Vi kan hjälpa dig få bort dom i våran Discord server, vi har också utvecklat ett support system som kommer göra ditt liv enklare.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Joina våran server",
+    "description": "Features section button"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "maintenance.big": {
+    "message": "Pemeliharaan",
+    "description": "The big text on maintenance page"
+  },
+  "maintenance.heading": {
+    "message": "Sayangnya kami sedang mengalami masalah teknis. Kami akan kembali secepatnya. Maaf atas ketidaknyamanannya.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.heading2": {
+    "message": "Kembali lagi nanti untuk info lebih lanjut.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.message": {
+    "message": "Sampai developer memperbaiki ini, kamu bisa bebas melihat ini!",
+    "description": "Message on maintenance page"
+  },
+  "maintenance.statuspage": {
+    "message": "Halaman status",
+    "description": "Status Page link on maintenance page"
+  },
+  "maintenance.discordserver": {
+    "message": "Server Discord",
+    "description": "Discord Server link on maintenance page"
+  }
+}

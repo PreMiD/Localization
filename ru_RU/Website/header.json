@@ -1,7 +1,7 @@
 {
   "header.language": {
     "message": "Русский",
-    "description": "Name of your language written on your language."
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
     "message": "Мы поддерживаем ваш язык, использовать его?",
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Изменить язык",
+    "message": "Поменять язык",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {

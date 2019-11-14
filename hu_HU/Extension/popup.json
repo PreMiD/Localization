@@ -13,19 +13,19 @@
   },
   "popup.setting.enabled": {
     "message": "Engedélyezve",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
     "message": "Média vezérlők",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
     "message": "Cím menüsor",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "Automatikus indítás",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Állapotüzenetek",
@@ -53,7 +53,7 @@
   },
   "popup.buttons.help": {
     "message": "Segítségre van szükséged?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "Ó, ne!",
@@ -63,12 +63,48 @@
     "message": "Hiba történt a készítők beolvasása közben",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "Csatlakozva",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
+  "popup.info.notConnected": {
+    "message": "Nincs csatlakoztatva",
+    "description": "Shown when the extension can't connect to the application"
   },
-  "popup.info.disconnected": {
-    "message": "Nincs csatlakozva",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+  "popup.info.notConnected.message": {
+    "message": "A PreMiD nem tudott csatlakozni az alkalmazáshoz! Telepítve van és fut? *Hibaelhárítás*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "Elavult alkalmazás",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "Minden",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Anime",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "Zene",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "Játék",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "Közösségi",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "Videók és Közvetítések",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "Egyéb",
+    "description": "Category name shown when you open tags"
   }
 }

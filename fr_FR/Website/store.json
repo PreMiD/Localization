@@ -28,7 +28,39 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Cette présence est incluse dans PreMiD par défaut, pas besoin de l'installer.",
+    "message": "Cette présence est automatiquement utilisée lorsque nécessaire, il n'est pas nécessaire de l'ajouter.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Tout",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Jeux",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Musique",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Réseaux sociaux",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Vidéos et Streams",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Autres",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Rechercher",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Présences des utilisateurs",
+    "description": "Userpage title"
   }
 }

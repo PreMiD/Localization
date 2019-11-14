@@ -13,19 +13,19 @@
   },
   "popup.setting.enabled": {
     "message": "Etkin",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
     "message": "Medya Kontrolleri",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
     "message": "Menü Başlığı",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "Otomatik başlat",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Servisler",
@@ -40,7 +40,7 @@
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Tamamlandı",
+    "message": "Bitti",
     "description": "Done button"
   },
   "popup.presences.load": {
@@ -48,12 +48,12 @@
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Mağaza",
+    "message": "Servis Mağazası",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
     "message": "Yardıma mı ihtiyacınız var?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "Olamaz!",
@@ -63,12 +63,48 @@
     "message": "Katkıda bulunanlar yüklenemedi",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "Bağlı",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
-  },
-  "popup.info.disconnected": {
+  "popup.info.notConnected": {
     "message": "Bağlı değil",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.notConnected.message": {
+    "message": "PreMiD uygulamasına bağlanılamadı, yüklü olduğuna ve çalıştığına emin misiniz? *Troubleshooting*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "Uygulamanız Güncelliğini Yitirmiş",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "Tümü",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Anime",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "Müzik",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "Oyun",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "Sosyal",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "Video & Yayın",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "Diğer",
+    "description": "Category name shown when you open tags"
   }
 }

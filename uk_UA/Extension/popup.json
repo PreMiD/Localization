@@ -13,19 +13,19 @@
   },
   "popup.setting.enabled": {
     "message": "Увімкнено",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
     "message": "Керування медіа",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
     "message": "Заголовок рядка меню",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "Автоматичний запуск",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Присутності",
@@ -53,7 +53,7 @@
   },
   "popup.buttons.help": {
     "message": "Потрібна допомога?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "Халепа!",
@@ -63,12 +63,48 @@
     "message": "Помилка при завантаженні творців",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "З’єднано",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
-  },
-  "popup.info.disconnected": {
+  "popup.info.notConnected": {
     "message": "Не з’єднано",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.notConnected.message": {
+    "message": "PreMiD не вдалося підключитися до свого застосунку! Він встановлений і працює?\n*Troubleshooting*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "Застарілий додаток",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "Ваш додаток PreMiD застарів. Будь ласка, оновить для подальшого використання PreMiD.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "Усе",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Аніме",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "Музика",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "Ігри",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "Соціальне",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "Відео & прямі трансляції",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "Інше",
+    "description": "Category name shown when you open tags"
   }
 }

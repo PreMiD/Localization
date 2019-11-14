@@ -28,7 +28,7 @@
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "Presença Rica",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
@@ -68,7 +68,7 @@
     "description": "Information section"
   },
   "footer.help.information.cookies": {
-    "message": "Cookies",
+    "message": "Biscoitos",
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {

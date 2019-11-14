@@ -3,13 +3,13 @@
     "message": "Oszd meg mindenkivel amit épp nézel és hallgatsz!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} szerver",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Funkciók",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Letöltések",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Játékban",
@@ -19,44 +19,52 @@
     "message": "{0} van hátra",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Elsődleges funkciók",
+  "home.features.heading": {
+    "message": "Imádni fogod ezeket a funkciókat!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Számos funkciónk van, de most az elsődleges funkcióinkat szeretnénk bemutatni neked, melyeket csak a PreMiD-ben találsz.",
+  "home.features.presencesystem.heading": {
+    "message": "Találd meg **saját** állapotüzeneted.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Állapotüzeneti rendszer",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Egy olyan bővítményt fejlesztettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek hozzáadását, használatát és bővítményen keresztüli kezelését!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Egy olyan állapotüzeneti rendszert fejlesztettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek kezelését és használatát!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Áruház megnyitása",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Média vezérlés",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Egyszerű felhasználói felület.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "A legtöbb állapotüzenet támogatja a média vezérlést is. Más alkalmazások használata közben bátran kihagyhatod, szüneteltetheted és lejátszhatod a műsorszámokat.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Unod már a bonyolult felhasználói felületeket? Mi létrehoztunk egy egyszerű és hasznos felhasználói felületet, melyek csak a legfontosabb funkciókat tartalmazzák:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Többnyelvű",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Alkalmázás és Bővítmény beállítások.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Nem mindenki jó az Angolban. Ezért folyamatosan elérhetővé tesszük bővítményünket és weboldalunkat más nyelveken is, valószínűleg a Te nyelveden is!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Állapotüzenet kezelés.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Nyílt forrású",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Kategória szerinti rendezés.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Alkalmazásunk, weboldalunk és bővítményünk nyílt forráskódú. Ha valami hibát találtál vagy további funkciók hozzáadását tervezed, akkor hibajelentést vagy átviteli kérelmet is készíthetsz GitHub oldalunkon!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Gyors támogatás.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Valami nem működik vagy hibaüzenetek sokaságával áraszt el? Segítünk neked Discord szerverünkön, egy olyan támogatási rendszert fejlesztettünk ki, mely ezt nagyon egyszerűvé teszi.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Látogass el szerverünkre",
+    "description": "Features section button"
   }
 }

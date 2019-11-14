@@ -1,15 +1,15 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Deixe todo mundo saber o que você está assistindo e ouvindo!",
+    "message": "Deixe todos saberem o que você está fazendo!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "Servidor do {0}",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Nossos recursos",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "Baixar",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
     "message": "Jogando",
@@ -19,44 +19,52 @@
     "message": "{0} restantes",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Nossos principais recursos",
+  "home.features.heading": {
+    "message": "Você irá amar esses recursos!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Nós temos muitas funções, mas agora queremos mostrá-lo as funções principais que você só consegue encontrar no PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Encontre **sua** presença.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Sistema de Presenças",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Nós desenvolvemos nossa extensão de forma que te permite adicionar e usar as presenças criadas por outros usuários e gerencia-las na extensão!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Nós desenvolvemos a nossa extensão com um sistema de presenças que te dá a possibilidade de usar presenças criadas por outros usuários e de configurá-las através da extensão!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Abrir a loja",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Controles de Mídia",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Simples interface de usuário.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "A maioria de nossas presenças fornece suporte para controles de mídia. Você pode pular, pausar e reproduzir faixas enquanto usa outros aplicativos.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Cansado de complicadas interfaces de usuário? É por isso que criamos uma interface simples e útil com apenas funções importantes incluídas:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Multilíngue",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Configurações do App e Extensão.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Nem todos são bons a inglês. É por isso que estamos traduzindo nossa extensão e website em outras línguas, provavelmente incluindo a sua!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Gerenciamento de presenças.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Código Aberto",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Ordenar por categoria.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Os códigos de nosso aplicativo, website e extensão são abertos. Se você encontrar algum bug ou quiser adicionar alguma nova função, você pode abrir um \"issue\" ou \"pull request\" na nossa página do GitHub!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Suporte rápido.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Alguma coisa está falhando ou te enviando toneladas de erros? Nós iremos ajudá-lo a se livrar disso em nosso servidor do Discord, nós também desenvolvemos um sistema de suporte que irá fazer sua vida mais fácil.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Visite nosso servidor",
+    "description": "Features section button"
   }
 }

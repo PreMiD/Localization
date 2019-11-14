@@ -30,5 +30,37 @@
   "store.card.presence.included": {
     "message": "ใน presence นี้รวมอยู่ใน PreMiD  โดยค่าเริ่มต้น คุณไม่จำเป็นต้องติดตั้งอีก",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "ทั้งหมด",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "เกมส์",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "เพลง",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "โซเชียล",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "วีดีโอ และ สตรีม",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "อื่นๆ",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "่ค้นหา",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Presences ผู้ใช้",
+    "description": "Userpage title"
   }
 }

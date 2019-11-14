@@ -3,60 +3,68 @@
     "message": "תן לכולם לדעת למה אתה מאזין ושומע!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} שרת",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "התכונות שלנו",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
     "message": "הורדות",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "משחק משחק",
+    "message": "משחק במשחק",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} עזב",
+    "message": "{0} נשאר",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "תכונות עיקריות",
+  "home.features.heading": {
+    "message": "אתה תאהב את התכונות האלה!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "יש לנו תכונות רבות, אבל עכשיו אנחנו רוצים לספר לך התכונות העיקריות שלנו שאתה יכול למצוא רק בPreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "מצא את הPresence **שלך**.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "מערכת presence",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "פיתחנו תוסף בדרך שהוא נותן לך להוסיף ולהשתמש בPresences שנוצרו על ידי משתמשים אחרים!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "הוספנו את התוסף שלנו עם מערכת presence שמאפשרת לך להשתמש בpresences שנוצרו על ידי משתמשים אחרים ותוכל לערוך אותם דרך התוסף!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "פתח את החנות",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "פקדי מדיה",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "ממשק משתמש פשוט.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "רוב הpresences שלנו נותנות תמיכה בשבילmedia controls. אתה יכול לדלג, לעצור ולהפעיל רצועות בזמן שימוש בתוכנות אחרות.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "עייף מממשקי משתמש מורכבים? זאת הסיבה שאנחנו יצרו ממשק משתמש פשוט ושימושי רק עם הפונקציות שבאמת צריך:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "רב לשוני",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "הגדרות תוכנה ותוסף.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "לא כולם טובים באנגלית. זה למה אנחנו מתרגמים את התוסף והאתר שלנו לשפות אחרות, כנראה שלך גם שם!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "ניהול Presence.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "קוד פתוח",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "ממויין לפי קטגוריה.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "התוכנה שלנו, האתר והתוסף כולם קוד פתוח. אם מצאת באג או שאתה רוצה להוסיף תכונות חדשות אתה יכול לפתוח issue או pull request בדף GitHub שלנו!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "תמיכה מהירה.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "משהו נתקע או שולח לך הרבה הודעות? אנחנו נעזור לך להיפטר מהם בשרת הדיסקורד שלנו, בנוסף פיתחנו מערכת תמיכה שתעשה את חייך קלים יותר.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "בקר בשרת שלנו",
+    "description": "Features section button"
   }
 }

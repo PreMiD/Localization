@@ -1,62 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Dej všem vědět co sleduješ a posloucháš!",
+    "message": "Dej všem vědět, co právě děláš!",
     "description": "First phrase that a user reads on our website"
   },
-  "home.introduction.button.discord": {
-    "message": "{0} server",
-    "description": "Discord server button -> redirects to Discord invite; {0} will be replaced with 'Discord' -> is a variable"
+  "home.introduction.button.features": {
+    "message": "Funkce",
+    "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Soubory na Stáhnutí ",
-    "description": "Downloads button -> redirects to \/downloads page"
+    "message": "Soubory ke stažení",
+    "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Hrá hru",
+    "message": "Hraje hru",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "zbýva {0}",
+    "message": "zbývá {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.cards.heading": {
-    "message": "Naše hlavní funkce",
+  "home.features.heading": {
+    "message": "Tyto funkce se ti budou líbit!",
     "description": "Features section"
   },
-  "home.cards.subheading": {
-    "message": "Máme mnoho funkcí, ale právě teď ti chceme říct o našich základních funkcích, které můžeš najít pouze v PreMiD.",
+  "home.features.presencesystem.heading": {
+    "message": "Najdi **svou** přítomnost.",
     "description": "Features section subheading"
   },
-  "home.cards.presencesystem.title": {
-    "message": "Systém Rozšíření ",
-    "description": "Title"
+  "home.features.presencesystem.description": {
+    "message": "Naše rozšíření jsme vyvinuli takovým způsobem který ti umožňuje přidávat a používat přítomnosti vytvořené jinými uživateli a spravovat je v našem rozšíření!",
+    "description": "Features section description"
   },
-  "home.cards.presencesystem.explanation": {
-    "message": "Naše rozšíření jsme vyvinuli pomocí systému přítomnosti který ti umožní používat přítomnosti které vytvořili jiní uživatelé a spravovat je prostřednictvím rozšíření!",
-    "description": "Description for card"
+  "home.features.presencesystem.button": {
+    "message": "Otevři obchod",
+    "description": "Features section button"
   },
-  "home.cards.mediacontrols.title": {
-    "message": "Multimediálni Ovládaní",
-    "description": "Title"
+  "home.features.simpleInterface.heading": {
+    "message": "Jednoduché uživatelské rozhraní.",
+    "description": "Features section subheading"
   },
-  "home.cards.mediacontrols.explanation": {
-    "message": "Většina z našich přítomnosti poskytuje podporu pro multimediální ovládání. Můžeš přeskakovat, zastavovat a přehrávat skladby během používání ostatních aplikaci.",
-    "description": "Description for card"
+  "home.features.simpleInterface.description": {
+    "message": "Už tě nebaví složitá uživatelská rozhraní? Proto jsme vytvořili jednoduché a užitečné rozhraní s pouze důležitými funkcemi:",
+    "description": "Features section description"
   },
-  "home.cards.multilingual.title": {
-    "message": "Vícejazyčnost",
-    "description": "Title"
+  "home.features.simpleInterface.description.1": {
+    "message": "Nastavení Aplikace a Rozšíření.",
+    "description": "Features section description point"
   },
-  "home.cards.multilingual.explanation": {
-    "message": "Ne každý je v Angličtině dobrý. Z toho důvodu překládáme naše rozšíření a stránku do jiných jazyků, pravděpodobně včetně tvého!",
-    "description": "Description for card"
+  "home.features.simpleInterface.description.2": {
+    "message": "Spravovat Přítomností.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.title": {
-    "message": "Otevřený Zdroj",
-    "description": "Title"
+  "home.features.simpleInterface.description.3": {
+    "message": "Třídění podle kategorie.",
+    "description": "Features section description point"
   },
-  "home.cards.opensource.explanation": {
-    "message": "Zdroj kódů naší aplikace, stránky a rozšíření pocházejí z otevřených zdrojů. Pokud si našel chybu nebo chceš jen přidat novou funkci můžeš na naší GitHub stránce vytvořit problém nebo stáhnout požadavku!",
-    "description": "Description for card"
+  "home.features.quickSupport.heading": {
+    "message": "Rychlá podpora.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Něco se pokazilo nebo ti posílá spousty chyb? Pomůžeme ti zbavit se jich na našem Discord serveru, a také jsme vyvinuli systém podpory, který ti usnadní život.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Navštiv náš server",
+    "description": "Features section button"
   }
 }

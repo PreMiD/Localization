@@ -1,74 +1,110 @@
 {
   "popup.navigation.settings": {
-    "message": "Settings",
+    "message": "설정",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "Credits",
+    "message": "제작진",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "General",
+    "message": "일반",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "Enabled",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "활성화됨",
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Media Controls",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "미디어 제어",
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "Title Menubar",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "메뉴바",
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Auto launch",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "message": "자동 실행",
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Presences",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "Manage",
+    "message": "관리",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "No Presences added",
+    "message": "Presences 추가되지 않음",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Done",
+    "message": "완료",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Load Presence",
+    "message": "Presence 불러오기",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presence Store",
+    "message": "Presence 상점",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Need Help?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "message": "도움이 필요하세요?",
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Oh noes!",
+    "message": "이런!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Error while loading credits",
+    "message": "제작진 로딩중 오류 발생",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "Connected",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
+  "popup.info.notConnected": {
+    "message": "연결되지 않음",
+    "description": "Shown when the extension can't connect to the application"
   },
-  "popup.info.disconnected": {
-    "message": "Not connected",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+  "popup.info.notConnected.message": {
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "오래된 앱",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "당신의 PreMiD 앱은 오래되었습니다! PreMiD 를 계속 사용하시려면 업데이트 해주세요!",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "모두",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "애니메이션",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "음악",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "게임",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "소셜",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "비디오 & 스트림",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "기타",
+    "description": "Category name shown when you open tags"
   }
 }

@@ -30,5 +30,37 @@
   "store.card.presence.included": {
     "message": "Esta presencia está incluida en PreMiD por defecto, no es necesario instalarla.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Todo",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Juegos",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Música",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Sociales",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Vídeos y directos",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Otro",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Búsqueda",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Presencias de usuarios",
+    "description": "Userpage title"
   }
 }

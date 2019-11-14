@@ -1,6 +1,6 @@
 {
   "presence.playback.playing": {
-    "message": "Riproducendo",
+    "message": "In riproduzione",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
@@ -8,12 +8,20 @@
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "Ricercando...",
+    "message": "Cercando...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
     "message": "In diretta",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Leggendo",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Cercando",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
     "message": "Episodio {0}",

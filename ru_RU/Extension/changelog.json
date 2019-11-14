@@ -1,46 +1,50 @@
 {
-  "tab.changelog.new.1": {
-    "message": "Теперь пользователи могут добавлять свои статусы самостоятельно. [[Установите их сейчас!]",
+  "extension.2.0.new1": {
+    "message": "Пользователи теперь сами могут добавлять статусы. *Попробуйте!*",
     "description": ""
   },
-  "tab.changelog.new.2": {
-    "message": "Теперь вы можете [[увидеть новые статусы]] в их естественной среде обитания",
+  "extension.2.0.new2": {
+    "message": "Теперь вы можете увидеть *новые статусы* в их естественной среде обитания",
     "description": ""
   },
-  "tab.changelog.new.3": {
-    "message": "Авто обновление идёт сейчас",
+  "extension.2.0.new3": {
+    "message": "Теперь у нас есть авто-обновление",
     "description": ""
   },
-  "tab.changelog.new.4": {
-    "message": "Все могут создавать статусы сейчас",
+  "extension.2.0.new4": {
+    "message": "Теперь пользователи могут создавать статусы",
     "description": ""
   },
-  "tab.changelog.new.5": {
-    "message": "Мы добавили [[Docs]] для этих креативных разработчиков",
+  "extension.2.0.new5": {
+    "message": "*Docs* были добавлены для всех креативных разработчиков",
     "description": ""
   },
-  "tab.changelog.new.6": {
-    "message": "Абсолютно новый дизайн сайта",
+  "extension.2.0.new6": {
+    "message": "Дизайн сайта был полностью переделан",
     "description": ""
   },
-  "tab.changelog.new.7": {
-    "message": "Больше возможностей для бота в Discord",
+  "extension.2.0.new7": {
+    "message": "Добавлено больше возможностей для нашего бота в Discord",
     "description": ""
   },
-  "tab.changelog.new.8": {
-    "message": "Наш новый API бегающий зверь",
+  "extension.2.0.new8": {
+    "message": "Наш новенький API - настоящий монстр",
     "description": ""
   },
-  "tab.changelog.changed.1": {
-    "message": "Обновленный макет всплывающих окон и вкладок",
+  "extension.2.0.change1": {
+    "message": "Переделаны всплывающие окна, вкладки и стили",
     "description": ""
   },
-  "tab.changelog.fixed.1": {
-    "message": "Многие (не) известные ошибки убежали",
+  "extension.2.0.fix1": {
+    "message": "Куча (не)известных ошибок убежала",
     "description": ""
   },
-  "tab.changelog.fixed.2": {
-    "message": "Теперь все работает намного быстрее",
+  "extension.2.0.fix2": {
+    "message": "Теперь всё работает намного быстрее",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Исправлена ошибка с устаревшим приложением, даже если у вас есть последняя версия",
     "description": ""
   }
 }

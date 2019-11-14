@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "הpresence הזה אושר על ידי מתכנת מוסמך",
+    "message": "הPresence הזה אושר על ידי מתכנת מוסמך",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -20,15 +20,47 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "הוסף presence",
+    "message": "הוסף Presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "מחק presence",
+    "message": "מחק Presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "הpresence הזה כלול בPreMiD, אין צורך להוריד אותו.",
+    "message": "הPresence הזה כלול בPreMiD, אין צורך להוריד אותו.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "הכל",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "משחקים",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "מוזיקה",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "חברתי",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "סרטונים & שידורים",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "אחר",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "חיפוש",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "נוכחות משתמש",
+    "description": "Userpage title"
   }
 }

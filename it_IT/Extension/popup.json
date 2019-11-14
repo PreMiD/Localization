@@ -13,19 +13,19 @@
   },
   "popup.setting.enabled": {
     "message": "Attivo",
-    "description": "Enable\/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
     "message": "Controlli Multimediali",
-    "description": "Enable\/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
     "message": "Titolo Barra di Menu",
-    "description": "Enable\/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
     "message": "Avvio automatico",
-    "description": "Enable\/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
     "message": "Presenze",
@@ -53,7 +53,7 @@
   },
   "popup.buttons.help": {
     "message": "Bisogno d'aiuto?",
-    "description": "Help button (redirects to Wiki\/troubleschooting) (located under the 'presences' area in the popup)"
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
     "message": "Oh no!",
@@ -63,12 +63,48 @@
     "message": "Errore nel caricamento dei crediti",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
-  "popup.info.connected": {
-    "message": "Connesso",
-    "description": "Shows when the extension is connected to the application (located at the bottom in the popup)"
-  },
-  "popup.info.disconnected": {
+  "popup.info.notConnected": {
     "message": "Non connesso",
-    "description": "Shows when the extension can't connect to the application (located at the bottom in the popup)"
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.notConnected.message": {
+    "message": "PreMiD non è stato in grado di connettersi alla sua applicazione! È installata ed in esecuzione? *Troubleshooting*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "App obsoleta",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "La tua applicazione PreMiD è obsoleta. Per favore aggiornala per continuare ad utilizzare PreMiD.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "Tutto",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Anime",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "Musica",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "Giochi",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "Social",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "Video & Dirette",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "Altro",
+    "description": "Category name shown when you open tags"
   }
 }

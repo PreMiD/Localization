@@ -1,10 +1,10 @@
 {
   "store.message.error": {
-    "message": "Estensione non trovata, bloccando funzioni...",
+    "message": "Estensione non trovata, bloccando le funzioni...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Estensione trovata, sbloccando funzioni...",
+    "message": "Estensione trovata, sbloccando le funzioni...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Questa presenza è stata approvata da un developer verificato",
+    "message": "Questa presenza è stata approvata da uno sviluppatore verificato",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -28,7 +28,39 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Questa presenza è inclusa in PreMiD da default, non hai bisogno di installarla.",
+    "message": "Questa presenza viene utilizzata automaticamente quando necessario, non c'è bisogno di aggiungerla.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Tutto",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Giochi",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Musica",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Social",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Video & Dirette",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Altro",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Cerca",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Presenze dell'utente",
+    "description": "Userpage title"
   }
 }

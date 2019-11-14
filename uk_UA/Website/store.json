@@ -28,7 +28,39 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ця присутність включена у PreMiD за замовчуванням, не потрібно встановлювати її.",
+    "message": "Ця присутність автоматично використовується коли потрібно, не треба додавати її.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Усе",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Ігри",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Музика",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Соціальне",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Відео & прямі трансляції",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Інше",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Пошук",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Користувацькі присутності",
+    "description": "Userpage title"
   }
 }
