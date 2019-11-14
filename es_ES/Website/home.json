@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Descargas",
+    "message": "Descargas\n",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "¡Te encantarán estas características!",
+    "message": "¡Te encantarán éstas características!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Cansado de interfaces complicadas? Por eso creamos una interfaz sencilla y útil con sólo funciones importantes incluidas:",
+    "message": "¿Cansado de interfaces complicadas? Por eso creamos una interfaz sencilla y útil con sólo funciones importantes incluidas:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
