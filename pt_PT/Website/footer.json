@@ -28,7 +28,7 @@
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Presença Rica",
+    "message": "Rich Presence",
     "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
   },
   "footer.supportus.heading": {
@@ -36,11 +36,11 @@
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Doa",
+    "message": "Doar",
     "description": "Donate -> redirects to patreon.com\/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribui",
+    "message": "Contribua",
     "description": "Contribute -> redirects to github.com\/premid"
   },
   "footer.supportus.design": {
@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Traduz",
+    "message": "Traduzir",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -56,11 +56,11 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Resolução de problema",
+    "message": "Solução de Problemas",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Obtém ajuda",
+    "message": "Obter ajuda",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
@@ -68,7 +68,7 @@
     "description": "Information section"
   },
   "footer.help.information.cookies": {
-    "message": "Biscoitos",
+    "message": "Cookies",
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
