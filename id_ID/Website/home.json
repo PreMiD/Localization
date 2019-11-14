@@ -8,11 +8,11 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Unduh",
+    "message": "Unduhan",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Bermain Game",
+    "message": "Bermain game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Bosan dengan interface? Itulah kenapa kami membuat interface yang sangat simpel dan berguna yang isinya hanya fungsi yang penting:",
+    "message": "Bosan dengan antarmuka yang rumit? Itulah kenapa kami membuat antarmuka yang sederhana dan berguna dengan yang hanya berisi fungsi yang penting:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Sepertinya ada yang salah. Kami akan membantu mu untuk menghilangkan itu di server Discord kami, kami juga sedang mengembangkan sistem support yang akan membantu mu lebih mudah.",
+    "message": "Ada yang bermasalah? Kami akan membantumu untuk menyelesaikannya di server Discord kami. Kami juga mengembangkan sistem support yang akan membantumu lebih mudah.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
