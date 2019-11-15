@@ -68,7 +68,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
+    "message": "PreMiD kunde inte ansluta till sitt program! Är du säker på att det är installerat och körs? *Felsökning*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
@@ -96,11 +96,11 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Social",
+    "message": "Socialt",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Videor & Streams",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
