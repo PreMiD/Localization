@@ -8,7 +8,7 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Bitte komme später, für mehr Info, wieder.",
+    "message": "Bitte komme für mehr Info später wieder.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
@@ -20,7 +20,7 @@
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discordserver",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }

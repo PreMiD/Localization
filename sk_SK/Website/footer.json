@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Prekladať",
+    "message": "Preložiť",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Získaj Pomoc",
+    "message": "Získať Pomoc",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
@@ -96,7 +96,7 @@
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Stránka bola zhotovená {0} om",
+    "message": "Web spravuje {0}",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }

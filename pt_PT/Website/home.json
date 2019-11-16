@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Transferências",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -16,7 +16,7 @@
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} saiu ",
+    "message": "{0} restante(s)",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
@@ -40,11 +40,11 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Cansado de interfaces de usuário complicadas? É por isso que criamos uma interface simples e útil com apenas funções importantes incluídas:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Configurações de Aplicativo e extensão.",
+    "message": "Configurações de Aplicativo e Extensão.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {

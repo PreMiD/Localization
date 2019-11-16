@@ -12,11 +12,11 @@
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "เปิด",
+    "message": "เปิดใช้งาน",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "ควบคุมมีเดีย",
+    "message": "ควบคุมสื่อ",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
@@ -32,7 +32,7 @@
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "การจัดการ",
+    "message": "จัดการ",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
@@ -52,7 +52,7 @@
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "ต้องการความช่วยเหลือ ?",
+    "message": "ต้องการความช่วยเหลือ?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
@@ -64,7 +64,7 @@
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "ไม่ได้เชื่อมต่อ",
+    "message": "ไม่มีการเชื่อมต่อ",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "แอปยังไม่ใช่เวอร์ชันปัจจุบัน",
+    "message": "แอปนี้เวอร์ซั่นเก่าแล้ว",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {

@@ -12,7 +12,7 @@
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Instal",
+    "message": "Pasang",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
@@ -20,7 +20,7 @@
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developer",
+    "message": "Pengembangan",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
@@ -56,7 +56,7 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Pemecahan masalah",
+    "message": "Troubleshooting",
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {

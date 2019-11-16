@@ -4,7 +4,7 @@
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Funkce",
+    "message": "Naše funkce",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -48,7 +48,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Spravovat Přítomností.",
+    "message": "Spravování přítomností.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {

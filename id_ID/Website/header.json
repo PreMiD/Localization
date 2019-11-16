@@ -4,11 +4,11 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Kita mendukung bahasamu, ingin mengganti bahasa?",
+    "message": "Kita mendukung bahasamu, ganti bahasa?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website kami telah diterjemahkan ke bahasamu. Ini mungkin bisa membantumu jika kamu kurang bisa bahasa inggris.",
+    "message": "Website kami telah diterjemahkan ke dalam bahasamu. Ini mungkin bisa membantumu jika kamu kurang bisa Bahasa Inggris.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Memasak pancake...;menaruh kontainer...;memproses IP address...;UwU;Melanggar aturan...",
+    "message": "Memasak pancake...;menaruh kontainer...;Memproses alamat IP kamu...;UwU;Melanggar aturan...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {

@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Presence ini disetujui oleh verified developer",
+    "message": "Presence ini disetujui oleh pengembang terverifikasi",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -20,11 +20,11 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Tambahkan presence",
+    "message": "Tambah presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Hapus Presence",
+    "message": "Hapus presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
@@ -36,7 +36,7 @@
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Game",
+    "message": "Permainan",
     "description": "Category at the top"
   },
   "store.category.music": {
@@ -52,7 +52,7 @@
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Lainnya",
+    "message": "Lain-Lain",
     "description": "Category at the top"
   },
   "store.search": {
