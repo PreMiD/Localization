@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Traducción",
+    "message": "Traducir",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Obtener ayuda",
+    "message": "Obtén ayuda",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
