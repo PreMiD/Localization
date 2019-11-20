@@ -1,0 +1,189 @@
+{
+    "presence.translation.anime": {
+      "message": "Anime",
+      "description": ""
+    },
+    "presence.translation.browsing": {
+      "message": "Browsing...",
+      "description": ""
+    },
+    "presence.translation.chapter": {
+      "message": "Chapter",
+      "description": ""
+    },"presence.translation.dj": {
+      "message": "DJ",
+      "description": ""
+    },
+    "presence.translation.editing": {
+      "message": "Editing:",
+      "description": ""
+    },
+    "presence.translation.episode": {
+      "message": "Episode",
+      "description": ""
+    },
+    "presence.translation.forums": {
+      "message": "Forums",
+      "description": ""
+    },
+    "presence.translation.genre": {
+      "message": "Genre",
+      "description": ""
+    },
+    "presence.translation.listeners": {
+      "message": "Listeners",
+      "description": ""
+    },
+    "presence.translation.live": {
+      "message": "Live",
+      "description": ""
+    },
+    "presence.translation.manga": {
+      "message": "Manga",
+      "description": ""
+    },
+    "presence.translation.merch": {
+      "message": "Merch",
+      "description": ""
+    },
+    "presence.translation.page": {
+      "message": "Page",
+      "description": ""
+    },
+    "presence.translation.paused": {
+      "message": "Paused",
+      "description": ""
+    },
+    "presence.translation.playing": {
+      "message": "Playing",
+      "description": ""
+    },
+    "presence.translation.readingDM": {
+      "message": "Reading DMs from:",
+      "description": ""
+    },
+    "presence.translation.readingAbout": {
+      "message": "Reading about:",
+      "description": ""
+    },
+    "presence.translation.readingArticle": {
+      "message": "Reading article:",
+      "description": ""
+    },
+    "presence.translation.readingChannel": {
+      "message": "Reading in channel:",
+      "description": ""
+    },
+    "presence.translation.readingPost": {
+      "message": "Reading post:",
+      "description": ""
+    },
+    "presence.translation.readingThread": {
+      "message": "Reading thread:",
+      "description": ""
+    },
+    "presence.translation.reading": {
+      "message": "Reading",
+      "description": ""
+    },
+    "presence.translation.searchFor": {
+      "message": "Searching for:",
+      "description": ""
+    },
+    "presence.translation.search": {
+      "message": "Searching",
+      "description": ""
+    },
+    "presence.translation.shopCart": {
+      "message": "Shopping cart",
+      "description": ""
+    },
+    "presence.translation.store": {
+      "message": "Store",
+      "description": ""
+    },
+    "presence.translation.typeDM": {
+      "message": "Typing in DMs to:",
+      "description": ""
+    },
+    "presence.translation.typeChannel": {
+      "message": "Typing in channel:",
+      "description": ""
+    },
+    "presence.translation.viewAnime": {
+      "message": "Viewing anime:",
+      "description": ""
+    },
+    "presence.translation.viewCategory": {
+      "message": "Viewing category:",
+      "description": ""
+    },
+    "presence.translation.viewChannel": {
+      "message": "Viewing channel",
+      "description": ""
+    },
+    "presence.translation.viewEpisode": {
+      "message": "Viewing episode:",
+      "description": ""
+    },
+    "presence.translation.viewGenre": {
+      "message": "Viewing genre:",
+      "description": ""
+    },
+    "presence.translation.viewHome": {
+      "message": "Viewing home page",
+      "description": ""
+    },
+    "presence.translation.viewList": {
+      "message": "Viewing list of:",
+      "description": ""
+    },
+    "presence.translation.viewManga": {
+      "message": "Viewing manga:",
+      "description": ""
+    },
+    "presence.translation.viewMember": {
+      "message": "Viewing member:",
+      "description": ""
+    },
+    "presence.translation.viewMovie": {
+      "message": "Viewing movie:",
+      "description": ""
+    },
+    "presence.translation.viewProduct": {
+      "message": "Viewing product:",
+      "description": ""
+    },
+    "presence.translation.viewProfile": {
+      "message": "Viewing profile of:",
+      "description": ""
+    },
+    "presence.translation.viewShow": {
+      "message": "Viewing show:",
+      "description": ""
+    },
+    "presence.translation.viewAccount": {
+      "message": "Viewing their account",
+      "description": ""
+    },
+    "presence.translation.viewThread": {
+      "message": "Viewing thread:",
+      "description": ""
+    },
+    "presence.translation.viewUser": {
+      "message": "Viewing user:",
+      "description": ""
+    },
+    "presence.translation.viewing": {
+      "message": "Viewing:",
+      "description": ""
+    },
+    "presence.translation.watching": {
+      "message": "Watching:",
+      "description": ""
+    },
+    "presence.translation.wishlist": {
+      "message": "Wishlist:",
+      "description": ""
+    }
+  }
