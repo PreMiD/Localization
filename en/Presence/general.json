@@ -150,6 +150,10 @@
       "message": "Viewing movie:",
       "description": ""
     },
+    "general.viewPlaylist": {
+      "message": "Viewing playlist:",
+      "description": ""
+    },
     "general.viewProduct": {
       "message": "Viewing product:",
       "description": ""
