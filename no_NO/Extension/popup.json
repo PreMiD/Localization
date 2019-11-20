@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Ut datert App",
+    "message": "Utdatert App",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
@@ -96,7 +96,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Sosial ler",
+    "message": "Sosialler",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
