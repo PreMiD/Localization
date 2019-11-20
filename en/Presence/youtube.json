@@ -1,0 +1,122 @@
+{
+    "youtube.ad": {
+      "message": "Currently watching an ad",
+      "description": ""
+    },
+    "youtube.browsingVideos": {
+      "message": "Browsing through videos",
+      "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+      "message": "Browsing through playlists",
+      "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+      "message": "Viewing community posts",
+      "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+      "message": "of channel:",
+      "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+      "message": "Reading about channel:",
+      "description": ""
+    },
+    "youtube.searchChannel": {
+      "message": "Searching through channel: {0} for:",
+      "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+      "message": "Viewing what's trending",
+      "description": ""
+    },
+    "youtube.browsingThrough": {
+      "message": "Browsing through",
+      "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+      "message": "their subscriptions",
+      "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+      "message": "their library",
+      "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+      "message": "their history",
+      "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+      "message": "their purchases",
+      "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+      "message": "Viewing their report history",
+      "description": ""
+    },
+    "youtube.upload": {
+      "message": "Uploading something...",
+      "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+      "message": "Viewing all their playlists",
+      "description": ""
+    },
+    "youtube.viewLiveEvents": {
+      "message": "Viewing their live events",
+      "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+      "message": "Viewing their live dashboard",
+      "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+      "message": "Viewing the audio library",
+      "description": ""
+    },
+    "youtube.studio.viewVideos": {
+      "message": "Viewing their videos",
+      "description": ""
+    },
+    "youtube.studio.editVideo": {
+      "message": "Editing video:",
+      "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+      "message": "Viewing analytics of video:",
+      "description": ""
+    },
+    "youtube.studio.videoComments": {
+      "message": "Viewing comments of video:",
+      "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+      "message": "Viewing translations of video:",
+      "description": ""
+    },
+    "youtube.studio.viewTheir": {
+      "message": "Viewing their",
+      "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+      "message": "channel analytics",
+      "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+      "message": "channel comments",
+      "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+      "message": "channel translations",
+      "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+      "message": "artist page",
+      "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+      "message": "Viewing their dashboard",
+      "description": ""
+    }
+} 
