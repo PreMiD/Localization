@@ -190,5 +190,13 @@
     "general.wishlist": {
       "message": "Wishlist:",
       "description": ""
+    },
+    "general.privacy": {
+      "message": "Privacy Policy",
+      "description": "A page name"
+    },
+    "general.terms": {
+      "message": "Terms of Services",
+      "description": "A page name"
     }
   }
