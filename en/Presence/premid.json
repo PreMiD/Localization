@@ -1,0 +1,74 @@
+{
+    "premid.viewPage": {
+      "message": "Viewing page:",
+      "description": ""
+    },
+    "premid.docs": {
+      "message": "Docs",
+      "description": "as in documents"
+    },
+    "premid.viewPresence": {
+      "message": "Viewing presence:",
+      "description": ""
+    },
+    "premid.pageHome": {
+      "message": "Homepage",
+      "description": "A page name"
+    },
+    "premid.pageContributors": {
+      "message": "Contributors",
+      "description": "A page name"
+    },
+    "premid.pageDownloads": {
+      "message": "Downloads",
+      "description": "A page name"
+    },
+    "premid.pageStore": {
+      "message": "Store",
+      "description": "A page name"
+    },
+    "premid.pageCookies": {
+      "message": "Cookie Policy",
+      "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+      "message": "Privacy Policy",
+      "description": "A page name"
+    },
+    "premid.pageTerms": {
+      "message": "Terms of Services",
+      "description": "A page name"
+    },
+    "premid.pageWiki": {
+      "message": "Wiki",
+      "description": "A page name"
+    },
+    "premid.pageAbout": {
+      "message": "About",
+      "description": "A page name"
+    },
+    "premid.pageSysReq": {
+      "message": "System Requirements",
+      "description": "A page name"
+    },
+    "premid.pageInstall": {
+      "message": "Installation",
+      "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+      "message": "Troubleshooting",
+      "description": "A page name"
+    },
+    "premid.pageStart": {
+      "message": "Getting Started",
+      "description": "A page name"
+    },
+    "premid.pageApi": {
+      "message": "API",
+      "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+      "message": "Presence Development",
+      "description": "A page name"
+    }
+} 
