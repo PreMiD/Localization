@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "La alle se hva du gjør!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -60,11 +60,11 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Er det noe som glitcher eller som gir deg masse feilmeldinger? Vi kan hjelpe deg med å fikse det på Discord serveren våres, vi har også utviklet et support system som vil gjøre livet ditt enklere.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Besøk vår server",
     "description": "Features section button"
   }
 }
