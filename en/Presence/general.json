@@ -1,188 +1,188 @@
 {
-    "presence.translation.anime": {
+    "general.anime": {
       "message": "Anime",
       "description": ""
     },
-    "presence.translation.browsing": {
+    "general.browsing": {
       "message": "Browsing...",
       "description": ""
     },
-    "presence.translation.chapter": {
+    "general.chapter": {
       "message": "Chapter",
       "description": ""
-    },"presence.translation.dj": {
+    },"general.dj": {
       "message": "DJ",
       "description": ""
     },
-    "presence.translation.editing": {
+    "general.editing": {
       "message": "Editing:",
       "description": ""
     },
-    "presence.translation.episode": {
+    "general.episode": {
       "message": "Episode",
       "description": ""
     },
-    "presence.translation.forums": {
+    "general.forums": {
       "message": "Forums",
       "description": ""
     },
-    "presence.translation.genre": {
+    "general.genre": {
       "message": "Genre",
       "description": ""
     },
-    "presence.translation.listeners": {
+    "general.listeners": {
       "message": "Listeners",
       "description": ""
     },
-    "presence.translation.live": {
+    "general.live": {
       "message": "Live",
       "description": ""
     },
-    "presence.translation.manga": {
+    "general.manga": {
       "message": "Manga",
       "description": ""
     },
-    "presence.translation.merch": {
+    "general.merch": {
       "message": "Merch",
       "description": ""
     },
-    "presence.translation.page": {
+    "general.page": {
       "message": "Page",
       "description": ""
     },
-    "presence.translation.paused": {
+    "general.paused": {
       "message": "Paused",
       "description": ""
     },
-    "presence.translation.playing": {
+    "general.playing": {
       "message": "Playing",
       "description": ""
     },
-    "presence.translation.readingDM": {
+    "general.readingDM": {
       "message": "Reading DMs from:",
       "description": ""
     },
-    "presence.translation.readingAbout": {
+    "general.readingAbout": {
       "message": "Reading about:",
       "description": ""
     },
-    "presence.translation.readingArticle": {
+    "general.readingArticle": {
       "message": "Reading article:",
       "description": ""
     },
-    "presence.translation.readingChannel": {
+    "general.readingChannel": {
       "message": "Reading in channel:",
       "description": ""
     },
-    "presence.translation.readingPost": {
+    "general.readingPost": {
       "message": "Reading post:",
       "description": ""
     },
-    "presence.translation.readingThread": {
+    "general.readingThread": {
       "message": "Reading thread:",
       "description": ""
     },
-    "presence.translation.reading": {
+    "general.reading": {
       "message": "Reading",
       "description": ""
     },
-    "presence.translation.searchFor": {
+    "general.searchFor": {
       "message": "Searching for:",
       "description": ""
     },
-    "presence.translation.search": {
+    "general.search": {
       "message": "Searching",
       "description": ""
     },
-    "presence.translation.shopCart": {
+    "general.shopCart": {
       "message": "Shopping cart",
       "description": ""
     },
-    "presence.translation.store": {
+    "general.store": {
       "message": "Store",
       "description": ""
     },
-    "presence.translation.typeDM": {
+    "general.typeDM": {
       "message": "Typing in DMs to:",
       "description": ""
     },
-    "presence.translation.typeChannel": {
+    "general.typeChannel": {
       "message": "Typing in channel:",
       "description": ""
     },
-    "presence.translation.viewAnime": {
+    "general.viewAnime": {
       "message": "Viewing anime:",
       "description": ""
     },
-    "presence.translation.viewCategory": {
+    "general.viewCategory": {
       "message": "Viewing category:",
       "description": ""
     },
-    "presence.translation.viewChannel": {
+    "general.viewChannel": {
       "message": "Viewing channel",
       "description": ""
     },
-    "presence.translation.viewEpisode": {
+    "general.viewEpisode": {
       "message": "Viewing episode:",
       "description": ""
     },
-    "presence.translation.viewGenre": {
+    "general.viewGenre": {
       "message": "Viewing genre:",
       "description": ""
     },
-    "presence.translation.viewHome": {
+    "general.viewHome": {
       "message": "Viewing home page",
       "description": ""
     },
-    "presence.translation.viewList": {
+    "general.viewList": {
       "message": "Viewing list of:",
       "description": ""
     },
-    "presence.translation.viewManga": {
+    "general.viewManga": {
       "message": "Viewing manga:",
       "description": ""
     },
-    "presence.translation.viewMember": {
+    "general.viewMember": {
       "message": "Viewing member:",
       "description": ""
     },
-    "presence.translation.viewMovie": {
+    "general.viewMovie": {
       "message": "Viewing movie:",
       "description": ""
     },
-    "presence.translation.viewProduct": {
+    "general.viewProduct": {
       "message": "Viewing product:",
       "description": ""
     },
-    "presence.translation.viewProfile": {
+    "general.viewProfile": {
       "message": "Viewing profile of:",
       "description": ""
     },
-    "presence.translation.viewShow": {
+    "general.viewShow": {
       "message": "Viewing show:",
       "description": ""
     },
-    "presence.translation.viewAccount": {
+    "general.viewAccount": {
       "message": "Viewing their account",
       "description": ""
     },
-    "presence.translation.viewThread": {
+    "general.viewThread": {
       "message": "Viewing thread:",
       "description": ""
     },
-    "presence.translation.viewUser": {
+    "general.viewUser": {
       "message": "Viewing user:",
       "description": ""
     },
-    "presence.translation.viewing": {
+    "general.viewing": {
       "message": "Viewing:",
       "description": ""
     },
-    "presence.translation.watching": {
+    "general.watching": {
       "message": "Watching:",
       "description": ""
     },
-    "presence.translation.wishlist": {
+    "general.wishlist": {
       "message": "Wishlist:",
       "description": ""
     }
