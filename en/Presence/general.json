@@ -31,6 +31,10 @@
       "message": "Genre",
       "description": ""
     },
+    "general.listeningMusic": {
+      "message": "Listening to music",
+      "description": ""
+    },
     "general.listeners": {
       "message": "Listeners",
       "description": ""
@@ -89,6 +93,10 @@
     },
     "general.searchFor": {
       "message": "Searching for:",
+      "description": ""
+    },
+    "general.searchSomething": {
+      "message": "Searching up something...",
       "description": ""
     },
     "general.search": {
@@ -181,6 +189,14 @@
     },
     "general.viewing": {
       "message": "Viewing:",
+      "description": ""
+    },
+    "general.watchingVid": {
+      "message": "Watching a video",
+      "description": ""
+    },
+    "general.watchingLive": {
+      "message": "Watching a livestream",
       "description": ""
     },
     "general.watching": {
