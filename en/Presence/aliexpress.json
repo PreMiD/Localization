@@ -3,63 +3,63 @@
       "message": "Viewing store:",
       "description": ""
     },
-    "general.message": {
+    "aliexpress.message": {
       "message": "Message Center",
       "description": "Meaning Direct messages"
     },
-    "general.sale": {
+    "aliexpress.sale": {
       "message": "Browsing through the sale",
       "description": ""
     },
-    "general.recentlyViewProducts1": {
+    "aliexpress.recentlyViewProducts1": {
       "message": "Viewing their recently",
       "description": "Part 1 of 2"
     },
-    "general.recentlyViewProducts2": {
+    "aliexpress.recentlyViewProducts2": {
       "message": "viewed products",
       "description": "Part 2 of 2"
     },
-    "general.theirAli": {
+    "aliexpress.theirAli": {
       "message": "Viewing their AliExpress",
       "description": ""
     },
-    "general.feedback": {
+    "aliexpress.feedback": {
       "message": "AliExpress Feedback",
       "description": ""
     },
-    "general.orders": {
+    "aliexpress.orders": {
       "message": "Viewing their orders",
       "description": ""
     },
-    "general.viewTheir": {
+    "aliexpress.viewTheir": {
       "message": "Viewing their",
       "description": "Part 1 "
     },
-    "general.refunds": {
+    "aliexpress.refunds": {
       "message": "Refunds & Disputes",
       "description": "Part 2 of \"Viewing their\""
     },
-    "general.deletedOrders": {
+    "aliexpress.deletedOrders": {
       "message": "deleted orders",
       "description": "Part 2 of \"Viewing their\""
     },
-    "general.trade": {
+    "aliexpress.trade": {
       "message": "AliExpress Trade Center",
       "description": ""
     },
-    "general.coupons": {
+    "aliexpress.coupons": {
       "message": "Viewing their coupons",
       "description": ""
     },
-    "general.address": {
+    "aliexpress.address": {
       "message": "Viewing their address",
       "description": ""
     },
-    "general.helpCenter": {
+    "aliexpress.helpCenter": {
       "message": "AliExpress Help Center",
       "description": ""
     },
-    "general.sellCenter": {
+    "aliexpress.sellCenter": {
       "message": "AliExpress Sell Center",
       "description": ""
     }
