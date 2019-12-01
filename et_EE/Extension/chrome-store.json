@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "SA PEAD INSTALLIMA MEIE RAKENDUSE, ET SEDA KASUTADA\n{0}{1}\nSa saad kasutada meie meedia võtit, et kontrollida oma vaatamist erinevatel teenustel. Kui sa vaatad/kuulad midagi ühe meie toetatud teenusega, brauseri lisa saadab video/laulu me metadata meie töölaua kliendile ja PreMiD käivitab selle. PreMiD saadab info Discordi ja sätib selle sulle staatuseks.\nToetatud teenused\n{2} Vaata siia {3}\n\n Vajad abi?\n   {4} {5}\n\nMeie Discordi server\n   {6} Räägi kogukonnaga PreMiDist {7}\n\nMe oleme avatud kood\n   {9} Parim asi peaks olema avalik kõigiga {10}",
+    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
