@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Ваша розширена присутність для для веб-служб!",
+    "message": "Ваша розширена присутність для вебсайтів!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
+    "message": "Ваша розширена присутність для вебсайтів!\nPreMiD це маленька корисність, яка дозволяє показувати що ви робите на вебсайтах у вашому профілі Discord використовуючи SDK Розширена присутність Discordis. Коли ви розпочинаєте дивитися видиво, наприклад, розширення хапає всю потрібну інформацію та надсилає її через наш застосунок до вашого Discord профілю, щоб установити статус.\n\n\nPreMiD підтримує понад 250 вебсайтів і все ще дякує спільноті, яка додає нові присутності кожен день.\n\nЩоб використовувати PreMiD вам потрібно додати це розширення й установити офіційний застосунок PreMiD з нашого вебсайту. Це пов’язано з обмеженнями в роботі розширеної присутності SDK.\n\n» Наш Discord сервер\n{0}\n\n» Вебсайт\n{1}\n\n» GitHub\n{2}\n\nЯкщо ви обожнюєте PreMiD, будь ласка, залиште відгук, та порекомендуйте своїм друзям чи пожертвуйте.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
