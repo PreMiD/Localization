@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "你必须安装我们的官方应用才能正常工作\n   {0} {1}\n\n你可以使用你的多媒体按键控制这些服务的播放。当你通过我们支持的服务观看或听些什么的时候，浏览器插件就会向我们的桌面客户端与 PreMiD 进程发送视频或者歌曲的头数据。PreMiD 会以正确的格式，自动向 Discord 发送信息并设置状态。\n\n支持的服务\n   {2} 去看看 {3}\n\n需要帮助吗？\n   {4} {5}\n\n我们的 Discord 服务器\n   {6} 与 PreMiD 背后的开发者交谈 {7}\n\n我们是开源的软件！\n   {9} 超赞的东西应该向大众开放 {10}",
+    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
