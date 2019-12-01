@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "يضيف PreMiD تكامل Discord Rich Presence ، ودمج وسائل الإعلام والمزيد إلى خدماتك.",
+    "message": "وجودك الحاضر لخدمات الويب!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "عليك تحميل تطبيقنا الأصلي لجعلها تشتغل\n{0}{1}\n\nيمكنك استخدام مفاتيح وسائل التواصل الإجتماعي للتحكم في تشغيل هذه الخدمات. عندما تشاهد / تستمع إلى شيء مع إحدى خدماتنا المدعومة ، فإن ملحق المتصفح يرسل البيانات الوصفية للفيديو / الأغنية إلى عميل سطح المكتب الخاص بنا ويقوم PreMiD بمعالجتها. يرسل PreMiD المعلومات إلى Discord مع النموذج الصحيح ثم يقوم تلقائيًا بتعيين حالته.\nالخدمات المدعومة\n{2}القي نظرة على {3}\n\nتحتاج مساعدة؟\n{4}{5}\n\nسيرفر الديسكورد\n{6} التحدث إلى الناس وراء PreMiD {7}\n\nلدينا المصدر المفتوح!\n{9} الأشياء العظيمة يجب أن تكون مفتوحة للجمهور {10}",
+    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
