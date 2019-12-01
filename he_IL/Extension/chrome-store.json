@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "אתה חייב להוריד את התוכנה הרשמית כדי שזה יעבוד\n{0}{1}\n\nאתה יכול להשתמש בmedia keys שלך כדי לשלוט בplayblack של האתרים שאתה משתמש בהם.\nכשאתה שומע/צופה במשהו שכלול בשירותים הנתמכים שלנו, תוסף הדפדפן ישלח את הסרטון/שיר metadata לשרת שולחן העבודה שלנו וPreMiD יפענח אותו.\nPreMiD ישלח את המידע לדיסקורד עם הצורה הנכונה וישנה לך את הסטטוס.\nאתרים נתמכים:\n{2} מוכרח להסתכל על {3}\n\nצריך עזרה?\n{4}{5}\n שרת הדיסקורד שלנו\n{6} דבר עם האנשים שעומדים מאחורי PreMiD {7}\n\n\nאנחנו Open Source!\n{9} דברים מצויינים אמורים להיות פתוחים לקהילה {10}",
+    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
