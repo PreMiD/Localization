@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nasza strona internetowa została przetłumaczona na Twój język. Może ci pomóc, jeśli nie mówisz dobrze po angielsku.",
+    "message": "Nasza strona internetowa została przetłumaczona na Twój język. Może ci pomóc, jeśli znasz angielskiego.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -28,7 +28,7 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Do pobrania",
+    "message": "Pobieranie",
     "description": "Downloads tab"
   },
   "header.contributors": {
