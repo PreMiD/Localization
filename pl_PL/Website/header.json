@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Pieczenie naleśników...;Łamanie zasad...;Jedzenie naleśników...;Przenoszenie pudeł...",
+    "message": "Pieczenie naleśników...;Przenoszenie pudeł...;Przetwarzanie twojego adresu IP...;UwU;Łamanie zasad...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
