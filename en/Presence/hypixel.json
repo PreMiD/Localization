@@ -1,0 +1,22 @@
+{
+    "hypixel.staff": {
+      "message": "Viewing staff list",
+      "description": ""
+    },
+    "hypixel.watchThreads": {
+      "message": "Viewing their watched threads",
+      "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+      "message": "Viewing their watched forums",
+      "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+      "message": "Viewing their DMs",
+      "description": ""
+    },
+    "hypixel.game": {
+      "message": "Viewing game:",
+      "description": ""
+    }
+}
