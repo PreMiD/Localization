@@ -8,11 +8,11 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "التحديث التلقائي هو موجود الآن",
+    "message": "التحديث التلقائي موجود الآن",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "يمكن للمستخدمين إنشاء ملحقات الآن",
+    "message": "يمكن للمستخدمين الآن إنشاء ملحقات",
     "description": ""
   },
   "extension.2.0.new5": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "تصميم للموقع جديد تماما",
+    "message": "تصميم جديد تماما للموقع",
     "description": ""
   },
   "extension.2.0.new7": {
@@ -32,11 +32,11 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "تم إعاد تنظيم تصميم علامات التبويب و القائمة المنبثقة",
+    "message": "تم إعادة تنظيم و تصميم علامات التبويب و القائمة المنبثقة",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "تم إزالة الكثير من الأخطاء المعروفة(الغير معروفة)",
+    "message": "تم إزالة الكثير من الأخطاء",
     "description": ""
   },
   "extension.2.0.fix2": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "تم إصلاح إخطاء التطبيق القديم حتى إذا كان لديك أحدث إصدار",
+    "message": "تم إصلاح اخطاء التطبيق القديم حتى إذا كان لديك أحدث إصدار",
     "description": ""
   }
 }
