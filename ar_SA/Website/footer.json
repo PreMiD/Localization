@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "انضم إلى {0} مستخدم اليوم!",
+    "message": "!انضم لأكثر من {0} مستخدم اليوم",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
