@@ -44,15 +44,15 @@
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "New",
+    "message": "已新增",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Changed",
+    "message": "已更改",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Fixed",
+    "message": "已修復",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
