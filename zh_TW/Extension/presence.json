@@ -1,6 +1,6 @@
 {
   "presence.playback.playing": {
-    "message": "回放",
+    "message": "播放中",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
