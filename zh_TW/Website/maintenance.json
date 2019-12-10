@@ -12,15 +12,15 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
+    "message": "在我們的特殊開發人員解決此問題之前, 請隨時到這裡看看！",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Page",
+    "message": "狀態頁面",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord Server",
+    "message": "Discod服務器",
     "description": "Discord Server link on maintenance page"
   }
 }
