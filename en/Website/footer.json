@@ -1,70 +1,70 @@
 {
   "footer.language": {
-    "message": "Language",
+    "message": "Til",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ready to try PreMiD?",
+    "message": "PreMiD-ni sinab ko'rishga tayyormisiz?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Join {0} users today!",
+    "message": "Bugun {0} foydalanuvchilarga qo'shiling!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Install",
+    "message": "Yuklang",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partners",
+    "message": "Hamkorlar",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developers",
+    "message": "Dasturchilar",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Documentation",
+    "message": "Hujjatlar",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Rich Presence",
+    "message": "Boy Xizmat",
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Support us",
+    "message": "Bizni qo'llab-quvvatlang",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Donate",
+    "message": "Xayriya qilish",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribute",
+    "message": "Hissa Qo'shing",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
-    "message": "Design",
+    "message": "Dizayn",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Translate",
+    "message": "Tarjima Qilmoq",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Help",
+    "message": "Yordam",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Muammolarni bartaraf qilish",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Get Help",
+    "message": "Yordam oling",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Information",
+    "message": "Ma `lumot",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,19 +72,19 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Privacy",
+    "message": "Maxfiylik",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Terms",
+    "message": "Shartlar",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "More",
+    "message": "Ko'proq",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Status",
+    "message": "Holat",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
