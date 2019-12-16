@@ -36,15 +36,15 @@
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extension",
+    "message": "Kengaytma",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "WARNING:",
+    "message": "OGOHLANTIRISH:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
+    "message": "{0} Ushbu operatsion tizim uchun o'rnatuvchi yo'q. Bu shuni anglatadiki, buning uchun professional yordam yo'q.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
