@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Egy olyan bővítményt fejlesztettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek hozzáadását, használatát és bővítményen keresztüli kezelését!",
+    "message": "Egy olyan bővítményt készítettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek hozzáadását, használatát és bővítményen keresztüli kezelését!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -44,7 +44,7 @@
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Alkalmázás és Bővítmény beállítások.",
+    "message": "Alkalmázás és bővítmény beállítások.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
@@ -56,7 +56,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Gyors támogatás.",
+    "message": "Gyors segítség.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
