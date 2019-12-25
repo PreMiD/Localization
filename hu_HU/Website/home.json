@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Oszd meg mindenkivel amit épp nézel és hallgatsz!",
+    "message": "Hamma nima qilayotganingizni ko'radi!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Funkciók",
+    "message": "Bizning xususiyatlarimiz",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Letöltések",
+    "message": "Yuklashlar",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Játékban",
+    "message": "O'yin o'ynashing",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} van hátra",
+    "message": "{0} qoldi",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Imádni fogod ezeket a funkciókat!",
+    "message": "Siz ushbu xususiyatlarni yaxshi ko'rasiz!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Találd meg **saját** állapotüzeneted.",
+    "message": "** Borligingizni ** toping.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Egy olyan bővítményt készítettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek hozzáadását, használatát és bővítményen keresztüli kezelését!",
+    "message": "Foydalanuvchilarga o'z xizmatlarini qo'shish va boshqarish uchun biz plaginimizni maxsus ishlab chiqdik!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Áruház megnyitása",
+    "message": "Do'kon ach",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Egyszerű felhasználói felület.",
+    "message": "Oddiy foydalanuvchi interfeysi.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Unod már a bonyolult felhasználói felületeket? Mi létrehoztunk egy egyszerű és hasznos felhasználói felületet, melyek csak a legfontosabb funkciókat tartalmazzák:",
+    "message": "Murakkab interfeyslardan charchadingizmi? Shuning uchun biz interfeysimizni faqat kerakli xususiyatlar bilan yaratdik:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Alkalmázás és bővítmény beállítások.",
+    "message": "Ilova va Kengaytma sozlamalari.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Állapotüzenet kezelés.",
+    "message": "Xizmatni boshqarish.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Kategória szerinti rendezés.",
+    "message": "Kategoriya bo'yicha saralash.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Gyors segítség.",
+    "message": "Tez yordam.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Valami nem működik vagy hibaüzenetek sokaságával áraszt el? Segítünk neked Discord szerverünkön, egy olyan támogatási rendszert fejlesztettünk ki, mely ezt nagyon egyszerűvé teszi.",
+    "message": "Biror narsa sizni xursand qilyaptimi yoki sizga minglab xatolar yubormoqdami? Sizga ushbu Discord serveridan xalos bo'lishga yordam beramiz, shuningdek, sizning hayotingizni osonlashtiradigan qo'llab-quvvatlash tizimini ishlab chiqdik.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Látogass el szerverünkre",
+    "message": "Bizning serverimizga tashrif buyuring",
     "description": "Features section button"
   }
 }
