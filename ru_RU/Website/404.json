@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Ough! Should this even exist?",
+    "message": "Ой! А это так должно быть?",
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Sorry, looks like the page that you want to see has been moved or deleted or maybe it never existed?",
+    "message": "Извините, но похоже что страница на которую вы хотите зайти была перемещена или удалена. А может она никогда и не существовала?",
     "description": "Message on 404 page"
   }
 }
