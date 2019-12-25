@@ -1,86 +1,86 @@
 {
   "popup.navigation.settings": {
-    "message": "Options",
+    "message": "Sozlamalar",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "Crédits",
+    "message": "Kreditlar",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "Général",
+    "message": "Umumiy",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "Activé",
+    "message": "Yoqilgan",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Contrôle des médias",
+    "message": "Media Boshqaruv",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "Titre de la bar du menu",
+    "message": "Sarlavha Menyusi",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Lancement automatique",
+    "message": "Avtomatik ishga tushirish",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Présences",
+    "message": "Xizmatlar",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "Gérer",
+    "message": "Boshqarish",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Aucune présence ajoutée",
+    "message": "Hich xizmat eklenmemish",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Terminé",
+    "message": "Bajarildi",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Charger présences",
+    "message": "Yuklang Xizmat",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Magasin de présences",
+    "message": "Xizmat Do'kan",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Besoin d'aide?",
+    "message": "Yordam kerakmi?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Oh non!",
+    "message": "Ah yoq!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Erreur pendant le chargement des crédits",
+    "message": "Kreditlar yuklashda xato",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Non connecté",
+    "message": "Ulanmagan",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD n’a pas pu se connecter à son application! Est-elle installée et en cours d’exécution? *Dépannage*",
+    "message": "PreMiD uning dasturiga ulanib bo'lmadi! U o'rnatilgan va ishlayaptimi? *Muammolarni bartaraf qilish*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Application obsolète",
+    "message": "Eskirgan ilova",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
+    "message": "Sizning PreMiD ilovangiz eskirgan. PreMiD-dan foydalanishni davom ettirish uchun yangilang.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "Tout",
+    "message": "Hammasi",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,23 +88,23 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Musique",
+    "message": "Musiqa",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Jeux",
+    "message": "O'yinlar",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Réseaux Sociaux",
+    "message": "Ijtimoiy",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Vidéos et Streams",
+    "message": "Videolar va Nashrlar",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Autres",
+    "message": "Boshqa",
     "description": "Category name shown when you open tags"
   }
 }
