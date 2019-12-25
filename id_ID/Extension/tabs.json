@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Changelog",
+    "message": "O'zgarishlar",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,51 +8,51 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Terima Kasih",
+    "message": "Rahmat",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "untuk memasang {0}",
+    "message": "yuklang uchun {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "Mulai gunakan {0}",
+    "message": "{0}'dan foydalanishni boshlang",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Donasi",
+    "message": "Xayriya qilish",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh tidak!** Kami tidak bisa terhubung ke aplikasi... Apakah aplikasinya sudah terinstall dengan benar?",
+    "message": "** Ah yo'q! ** Ilovaga ulanib bo'lmadi ... U allaqachon o'rnatilganmi?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Muammolarni bartaraf qilish",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Pasang Aplikasi",
+    "message": "Ilovani yuklang",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Naik level!",
+    "message": "Darajaning ko'tarilishi!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} telah diperbarui!",
+    "message": "{0} yangilandi!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "Baru",
+    "message": "Yangi",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Diubah",
+    "message": "O'zgartirilgan",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Diperbaiki",
+    "message": "Tuzatilgan",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
