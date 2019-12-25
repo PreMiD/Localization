@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "...الملحق غير موجود، جاري قفل الوظائف",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "...تم العثور على الملحق، جاري فتح الوظائف",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "المطور",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "تمت الموافقة على هذا الإضافة بواسطة مطور مميز",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "إبحث",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "تثبيت الإضافة",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "إزالة الإضافة",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "تستخدم هذا الإضافة تلقائيًا عند الحاجة، بدون إضافتها.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "الكل",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "ألعاب",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "موسيقى",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "التواصل الاجتماعي",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "فيديوات وبثوث",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "آخر",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "بحث",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "وجود المستخدم",
     "description": "Userpage title"
   }
 }
