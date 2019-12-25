@@ -1,86 +1,86 @@
 {
   "popup.navigation.settings": {
-    "message": "Settings",
+    "message": "Cài đặt",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "Credits",
+    "message": "Tác giả",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "General",
+    "message": "Tổng quan",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "Enabled",
+    "message": "Đã bật",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Media Controls",
+    "message": "Điều khiển phương tiện",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "Title Menubar",
+    "message": "Tiêu đề Menubar",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Auto launch",
+    "message": "Tự động chạy",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Presences",
+    "message": "Trạng thái",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "Manage",
+    "message": "Quản lý",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "No Presences added",
+    "message": "Không có trạng thái đã được thêm",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Done",
+    "message": "Xong",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Load Presence",
+    "message": "Tải hiện diện",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presence Store",
+    "message": "Cửa hàng trạng thái",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Need Help?",
+    "message": "Cần trợ giúp?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Oh noes!",
+    "message": "Ôi không!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Error while loading credits",
+    "message": "Lỗi trong khi tải phần tác giả",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Not connected",
+    "message": "Chưa được kết nối",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
+    "message": "PreMiD không thể kết nối với ứng dụng của nó! Nó đã được tải và cho chạy chưa? *Đang xử lý*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Ứng dụng chưa được cập nhật",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Ứng dụng PreMiD của bạn đã cũ. Vui lòng cập nhật nó để tiếp tục sử dụng PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Tất cả",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,7 +88,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Nhạc",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
@@ -96,15 +96,15 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Xã hội",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video & Luồng",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Khác",
     "description": "Category name shown when you open tags"
   }
 }
