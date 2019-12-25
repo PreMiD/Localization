@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Kengaytma topilmadi, qulflashing funktsiyalar ...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Kengaytma topildi, vazifalarni qulfdan chiqarmoqda ...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Yaratuvchi",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Ushbu xizmat tasdiqlangan ishlab chiquvchi tomonidan tasdiqlangan",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Qidiruv",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Xizmat qo'shish",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Xizmatni olib tashlash",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ushbu mavjudlik kerak bo'lganda avtomatik ravishda ishlatiladi, uni qo'shishga hojat yo'q.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Hammasi",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "O'yinlar",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Musiqa",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Ijtimoiy",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videolar va Nashrlar",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Boshqa",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Izlash",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Foydalanuvchi xizmatlari",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
