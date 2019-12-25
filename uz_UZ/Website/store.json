@@ -1,10 +1,10 @@
 {
   "store.message.error": {
-    "message": "Kengaytma topilmadi, funktsiyalar qulflashing...",
+    "message": "Kengaytma topilmadi, qulflashing funktsiyalar ...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Kengaytma topildi, funktsiyalarni qulfdan oching...",
+    "message": "Kengaytma topildi, vazifalarni qulfdan chiqarmoqda ...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
