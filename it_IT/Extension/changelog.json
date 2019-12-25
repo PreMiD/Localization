@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "Gli utenti possono ora aggiungere presenze da soli. *Aggiungile ora!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "Trova *nuove presenze* nel loro habitat naturale",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "È stato aggiunto l'aggiornamento automatico",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Adesso gli utenti possono creare presenze",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "*Docs* per gli sviluppatori creativi là fuori",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Design del sito completamente rinnovato",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Più funzionalità per il nostro Bot di Discord",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "La nostra nuova API va come un treno a vapore",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Rinnovata la disposizione dello stile dei popup e delle schede",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Tanti bug (s)conosciuti sono scappati",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Tutto è ora molto più veloce",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Risolto il vecchio errore dell'applicazione anche se dispone dell'ultima versione",
     "description": ""
   }
 }
