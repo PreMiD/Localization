@@ -1,70 +1,70 @@
 {
   "footer.language": {
-    "message": "Dil",
+    "message": "Til",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "PreMiD'i denemeye hazır mısın?",
+    "message": "PreMiD-ni sinab ko'rishga tayyormisiz?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Diğer {0} kullanıcının arasına katıl!",
+    "message": "Bugun {0} foydalanuvchilarga qo'shiling!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Yükle",
+    "message": "Yuklang",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partnerler",
+    "message": "Hamkorlar",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Geliştiriciler",
+    "message": "Dasturchilar",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Dokümantasyon",
+    "message": "Hujjatlar",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Zengin İçerik",
+    "message": "Boy Xizmat",
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Destek ol",
+    "message": "Bizni qo'llab-quvvatlang",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Bağış Yap",
+    "message": "Xayriya qilish",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Katkıda Bulun",
+    "message": "Hissa Qo'shing",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
-    "message": "Tasarım",
+    "message": "Dizayn",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Çeviri",
+    "message": "Tarjima Qilmoq",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Yardım",
+    "message": "Yordam",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Sorun Giderme",
+    "message": "Muammolarni bartaraf qilish",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Yardım Al‮",
+    "message": "Yordam oling",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Bilgi",
+    "message": "Ma `lumot",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,19 +72,19 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Gizlilik",
+    "message": "Maxfiylik",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Şartlar",
+    "message": "Shartlar",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "Dahası",
+    "message": "Ko'proq",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "PreMiD Durumu",
+    "message": "Holat",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
@@ -92,11 +92,11 @@
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
-    "message": "{1} kullanıcısından {0}",
+    "message": "{1} foydalanuvchidan {0}",
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Site {0} tarafından yönetilmektedir",
+    "message": "Veb-sayt {0} tomonidan boshqariladi",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
