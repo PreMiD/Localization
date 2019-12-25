@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Українська",
+    "message": "O'zbek",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Ми підтримуємо вашу мову, хочете перемкнутися?",
+    "message": "Biz sizning tilingizni qo'llab-quvvatlaymiz, almashtirishni xohlaysizmi?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Наша веб-сторінка була перекладена вашою мовою. Це допоможе у випадку, якщо ви не знаєте англійську дуже добре.",
+    "message": "Bizning veb-saytimiz sizning tilingizga tarjima qilindi. Agar siz ingliz tilini yaxshi bilmasangiz, bu sizga yordam berishi mumkin.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Ні, дякую",
+    "message": "Yo'q, rahmat",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Змінити мову",
+    "message": "Tilni almashtirish",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Випікаємо млинці…;Ліпимо вареники…;Розміщуємо контейнери;Створюємо сай…т;Порушуємо усі можливі правила…;Надсилаємо вашу IP-адресу до СБУ…;(╯°□°）╯︵ ┻━┻;┬─┬ ノ( ゜-゜ノ);Читаємо ваші повідомлення у соц. мережах…;",
+    "message": "Kek pishiriladi ...; Jadval tayyorlandi ...; IP manzili hal qilindi ...; UwU; Qoidalar buzilgan ...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Магазин",
+    "message": "Do'kon",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Завантаження",
+    "message": "Yuklashlar",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Учасники проєкту",
+    "message": "Hissa qo'shganlar",
     "description": "Contributors tab"
   }
 }
