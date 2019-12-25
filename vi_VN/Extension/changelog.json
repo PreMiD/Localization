@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Người dùng hiện có thể tự thêm sự hiện diện. * Thêm một số ngay bây giờ! *",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Tìm một số * sự hiện diện mới * trong môi trường sống tự nhiên của chúng",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Cập nhật tự động là một điều bây giờ",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Người dùng có thể tạo sự hiện diện ngay bây giờ",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "* Tài liệu * cho các nhà phát triển sáng tạo ngoài kia",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Tất cả thiết kế trang web mới",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Nhiều tính năng hơn cho Discord-Bot của chúng tôi",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "API mới của chúng tôi là một con quái vật",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Cách tân lại cách bố trí và khiểu của popup là các thẻ",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Rất nhiều (chưa) biết lỗi đã bỏ chạy",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Bây giờ mọi thứ đang chạy nhanh hơn nhiều",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Sửa lỗi ứng dụng cũ ngay cả khi bạn có phiên bản mới nhất",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
