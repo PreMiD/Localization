@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Jouw Rich Presence voor webservices!",
+    "message": "Veb-xizmatlar uchun sizning Boy Xizmat!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Uw Rich Presence voor webservices!\nPreMiD is een klein hulpmiddel dat je in staat stelt om te laten zien wat je doet op websites in je Discord profiel met de Rich Presence SDK. Wanneer je bijvoorbeeld een video bekijkt, grijpt de extensie alle benodigde informatie van de pagina en stuurt deze naar onze applicatie om de status in te stellen in je Discord profiel.\n\n\nPreMiD ondersteunt meer dan 250 websites en steeds meer met dank aan de sterke gemeenschap die elke dag nieuwe Presences toevoegt.\n\nOm PreMiD te gebruiken moet u deze extensie toevoegen en de officiële PreMiD applicatie installeren die gevonden kan worden op onze website. Dit is te wijten aan de manier waarop de Rich Presence SDK werkt.\n\n» Onze Discord Server\n{0}\n\n» Onze Website\n{1}\n\n» GitHub organisatie\n{2}\n\nAls je houdt van PreMiD laat dan een recensie achter, verspreid het met je vrienden of doneer.",
+    "message": "Veb-saytlar uchun Boy Xizmat!\nPreMiD bu Discord Rich Presence SDK-dan foydalanib, profilingizda brauzeringizda nima qilayotganingizni ko'rsatadigan kichik vositadir. Masalan, qo'llab-quvvatlanadigan xizmatlardan birida videoni ko'rishni boshlaganingizda, plagin kerakli ma'lumotlarni dasturga yuboradi va dastur uni qayta ishlaydi va uni \"Discord\" da aks ettiradi.\n\n\nPreMiD bizning kuchli jamoamiz tufayli 250 dan ortiq xizmatlarni qo'llab-quvvatlaydi.\n\nPreMiD-dan foydalanish uchun siz bizning rasmiy veb-saytimizdan brauzer plaginini olishingiz va dasturimizni yuklab olishingiz kerak. Ilova bilan narsalarni qilishning sababi shundaki, Discord buni talab qiladi.\n\n»Bizning Discord Serverimiz\n{0}\n\n»Bizning Veb-sayt\n{1}\n\n»GitHub Sahifasi\n{2}\n\nAgar sizga PreMiD yoqsa, iltimos, izoh qoldiring, do'stlaringiz bilan baham ko'ring yoki xayriya qiling.\n",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
