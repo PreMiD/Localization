@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Oi! Kas see isegi eksisteerib?",
+    "message": "Ow! Bu hatto mavjud bo'lishi kerakmi?",
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Vabandust, nagu näha, see leht mida te soovite näha on liigutatud või kustutatud või pole seda eksisteerinud?",
+    "message": "Kechirasiz, siz ko'rishni xohlagan sahifangiz ko'chirilgan yoki yo'q qilinganga o'xshaydi yoki u hech qachon mavjud bo'lmaganga o'xshaydi?",
     "description": "Message on 404 page"
   }
 }
