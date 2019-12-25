@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Usuários agora podem adicionar presenças por conta própria. *Adicione algumas agora!*",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Encontre algumas *presenças novas* em seus habitats naturais",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Atualizações automáticas agora funcionam",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Usuários podem criar presenças agora",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Documentação* para os desenvolvedores criativos por aí",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Design do website completamente refeito",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Mais recursos para nosso Bot do Discord",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Nossa nova API é uma fera em execução",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "O estilo, layout das abas e do pop-up foram refeitos",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Um monte de bugs (des)conhecidos fugiram",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Tudo está rodando muito mais rápido agora",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Corrige o erro de \"aplicativo desatualizado\" mesmo você tendo a última versão",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
