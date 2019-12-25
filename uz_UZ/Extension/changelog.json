@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "Endi foydalanuvchilar o'z xizmatlarini qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "O'z maydonlarida bir nechta * yangi xizmatlarni * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "Endi avtomatik yangilanish ishlaydi",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Endi foydalanuvchilar o'z xizmatlarini yaratishlari mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "Ijodiy ishlab dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Butunlay yangi saytni dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Discord-Botimizda ko'proq xususiyat",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "Bizning yangi API yirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Yangilangan Popuplar va Tab tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Juda ko'p ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
