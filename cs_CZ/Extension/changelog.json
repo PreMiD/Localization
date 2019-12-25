@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Uživatelé mohou nyní přidávat přítomnosti sami. *Přidej si některé teď!*",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Najdi *nové přítomnosti* v jejich přirozeném domovu",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Automatická aktualizace je nyní věc",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Uživatelé mohou nyní vytvářet přítomnosti",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Dokumentace* pro kreativních vývojáře",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Úplně nový design webové stránky",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Více funkcí pro našeho Discord bota",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Naše nové API běhá jako po másle",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Předělané rozložení kontextových oken a karet a stylu",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Mnoho (ne)známých chyb uteklo",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Vše nyní běží mnohem rychleji",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Opraví staré chyby aplikace i když máš tú nejnovější",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
