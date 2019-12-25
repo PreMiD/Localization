@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Fortæl alle, hvad du laver!",
+    "message": "Hamma nima qilayotganingizni ko'radi!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Vores funktioner",
+    "message": "Bizning xususiyatlarimiz",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Overførsler",
+    "message": "Yuklashlar",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Spiller et spil",
+    "message": "O'yin o'ynashing",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} tilbage",
+    "message": "{0} qoldi",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Du vil elske disse funktioner!",
+    "message": "Siz ushbu xususiyatlarni yaxshi ko'rasiz!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **din** presence.",
+    "message": "** Borligingizni ** toping.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Vi udviklede vores udvidelse på en måde, der giver dig mulighed for at tilføje og bruge presences oprettet af andre brugere og administrere dem i vores udvidelse!",
+    "message": "Foydalanuvchilarga o'z xizmatlarini qo'shish va boshqarish uchun biz plaginimizni maxsus ishlab chiqdik!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Åben butik",
+    "message": "Do'kon ach",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Enkel brugergrænseflade.",
+    "message": "Oddiy foydalanuvchi interfeysi.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Træt af komplicerede brugergrænseflader? Derfor skabte vi en enkel og nyttig grænseflade med kun vigtige funktioner inkluderet:",
+    "message": "Murakkab interfeyslardan charchadingizmi? Shuning uchun biz interfeysimizni faqat kerakli xususiyatlar bilan yaratdik:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App og udvidelsesindstillinger.",
+    "message": "Ilova va Kengaytma sozlamalari.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence Administration.",
+    "message": "Xizmatni boshqarish.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sortering efter kategori.",
+    "message": "Kategoriya bo'yicha saralash.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Hurtig support.",
+    "message": "Tez yordam.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Nogen funktionsfejl eller er der noget sender dig masser af fejl? Vi hjælper dig med at slippe af med det på vores Discord server, vi har også udviklet et support system, der vil gøre dit liv lettere.",
+    "message": "Biror narsa sizni xursand qilyaptimi yoki sizga minglab xatolar yubormoqdami? Sizga ushbu Discord serveridan xalos bo'lishga yordam beramiz, shuningdek, sizning hayotingizni osonlashtiradigan qo'llab-quvvatlash tizimini ishlab chiqdik.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Besøg vores server",
+    "message": "Bizning serverimizga tashrif buyuring",
     "description": "Features section button"
   }
 }
