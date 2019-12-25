@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "找不到擴展程序, 正在鎖定功能...",
+    "message": "Kengaytma topilmadi, qulflashing funktsiyalar ...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "已搜尋到擴展程序, 正在解除鎖定功能...",
+    "message": "Kengaytma topildi, vazifalarni qulfdan chiqarmoqda ...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "创建者",
+    "message": "Yaratuvchi",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "此狀態已由經過驗證的開發人員批准",
+    "message": "Ushbu xizmat tasdiqlangan ishlab chiquvchi tomonidan tasdiqlangan",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "搜尋",
+    "message": "Qidiruv",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "添加狀態",
+    "message": "Xizmat qo'shish",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "移除狀態",
+    "message": "Xizmatni olib tashlash",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "在需要時會自動使用此狀態, 不需添加它。",
+    "message": "Ushbu mavjudlik kerak bo'lganda avtomatik ravishda ishlatiladi, uni qo'shishga hojat yo'q.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "全部",
+    "message": "Hammasi",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "遊戲",
+    "message": "O'yinlar",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "音樂",
+    "message": "Musiqa",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "社交",
+    "message": "Ijtimoiy",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "視訊或直播",
+    "message": "Videolar va Nashrlar",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "其它",
+    "message": "Boshqa",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "搜尋",
+    "message": "Izlash",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "用戶狀態",
+    "message": "Foydalanuvchi xizmatlari",
     "description": "Userpage title"
   }
 }
