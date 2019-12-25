@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Changelog",
+    "message": "Registro delle modifiche",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,51 +8,51 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Thank you",
+    "message": "Grazie",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "for installing {0}",
+    "message": "per avere installato {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "Start using {0}",
+    "message": "Inizia ad usare {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Donate",
+    "message": "Dona",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh no!** We couldn't connect to the application... Is it already installed?",
+    "message": "**Oh no!** Non siamo riusciti a collegarci all'applicazione... È stata già installata?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Risoluzione problemi",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Install application",
+    "message": "Installa applicazione",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Level up!",
+    "message": "Aumento di livello!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} has been updated!",
+    "message": "{0} è stato aggiornato!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "New",
+    "message": "Cosa è nuovo",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Changed",
+    "message": "Cosa è cambiato",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Fixed",
+    "message": "Cosa è stato aggiustato",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
