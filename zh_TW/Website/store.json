@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "找不到擴展程序, 正在鎖定功能...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "已搜尋到擴展程序, 正在解除鎖定功能...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "创建者",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "此狀態已由經過驗證的開發人員批准",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "搜尋",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "添加狀態",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "移除狀態",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "在需要時會自動使用此狀態, 不需添加它。",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "全部",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "遊戲",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "音樂",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "社交",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "視訊或直播",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "其它",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "搜尋",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "用戶狀態",
     "description": "Userpage title"
   }
 }
