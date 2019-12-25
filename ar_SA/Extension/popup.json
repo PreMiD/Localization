@@ -4,7 +4,7 @@
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "الثناء",
+    "message": "المساهمون",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
@@ -84,7 +84,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
-    "message": "أنيمي",
+    "message": "أنمي",
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
@@ -96,7 +96,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "التواصل الاجتماعي",
+    "message": "التواصل",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
