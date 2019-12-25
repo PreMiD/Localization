@@ -1,10 +1,10 @@
 {
   "footer.language": {
-    "message": "Language",
+    "message": "言語",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ready to try PreMiD?",
+    "message": "PreMiDを試す準備はできましたか？",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -12,19 +12,19 @@
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Install",
+    "message": "インストール",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partners",
+    "message": "パートナー",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developers",
+    "message": "開発者",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Documentation",
+    "message": "ドキュメント",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
@@ -32,39 +32,39 @@
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Support us",
+    "message": "私達を支援する",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Donate",
+    "message": "寄付",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribute",
+    "message": "コントリビュート",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
-    "message": "Design",
+    "message": "デザイン",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Translate",
+    "message": "翻訳",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Help",
+    "message": "ヘルプ",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "トラブルシューティング",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Get Help",
+    "message": "助けを得る",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Information",
+    "message": "インフォメーション",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,19 +72,19 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Privacy",
+    "message": "プライバシーポリシー",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Terms",
+    "message": "利用規約",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "More",
+    "message": "もっと",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Status",
+    "message": "ステータス",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
