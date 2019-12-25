@@ -1,30 +1,30 @@
 {
   "header.language": {
-    "message": "English",
+    "message": "Português (Portugal)",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "Nós damos suporte à tua língua, queres trocar?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
+    "message": "O nosso website foi traduzido para a tua língua. Pode vir a ser útil se não perceberes inglês muito bem.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "Não, obrigado",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Switch language",
+    "message": "Trocar de língua",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "A cozinhar panquecas...;A colocar recipientes...;A parsear o teu endereço IP...;UwU;A violar regras...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "Loja",
     "description": "Store tab"
   },
   "header.downloads": {
@@ -32,7 +32,7 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "Contribuidores(as)",
     "description": "Contributors tab"
   }
 }
