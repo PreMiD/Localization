@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Näita igaühele, mida sa teed!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Meie võimalused",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Allalaadimised",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Mängu mängimine",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "{0} jäänud",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Sulle meeldivad need võimalused!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Otsi **oma** lisa.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Me tegime oma rakenduse nii, et saad ise lisada oma lisasid, mis on tehtud teistel ja hallata neid meie rakenduses!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Ava pood",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Lihtne kasutaja sait.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Väsinud igavatest veebisaidi disainidest? Sellepärast me tegime lihtsa ja kasuliku veebi nende tähtsate funktsioonidega kaasa arvatud:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Rakenduse ja lisa sätted.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Staatuse haldamine.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Kategooria järgi sorteerimine.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Kiire tugi.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Midagi on viga või saadetakse tuhandeid vigasid? Me aitame sul lahti saada meie Discordi serveris, me lõime abisüsteemi, mis teeb su elu lihtsamaks.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Külasta meie serverit",
     "description": "Features section button"
   }
 }
