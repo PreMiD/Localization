@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Tvá bohatá přítomnost pro webové služby!",
+    "message": "Veb-xizmatlar uchun sizning Boy Xizmat!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Vaše Rich Presence pro webové služby!\nPreMiD je malý nástroj, který Vám umožní zobrazit, co děláte na webových stránkách ve tvém Discord profilu pomocí Discord Rich Presence SDK. Když začnete sledovat video, například rozšíření odebere všechny potřebné informace ze stránky a odešle je do naší aplikace, aby nastavilo stav ve tvém Discord profilu.\n\n\nPreMiD podporuje více než 250 webových stránek a stále se počet rozšiřuje díky své silné komunitě, která každý den přidává nové funkce.\n\nPro použití PreMiD je třeba přidat toto rozšíření a nainstalovat oficiální aplikaci PreMiD nalezenou na našem webu. Je to kvůli omezením způsobu, jakým funguje Discord Rich Presence SDK.\n\n» Náš Discord server\n{0}\n\n» Naše webstránka\n{1}\n\n» GitHub organizace\n{2}\n\nPokud se vám PreMiD bude líbit, prosím, zanechte recenzi, rozšiřte nás mezi své přátele nebo přispějte vývoji.",
+    "message": "Veb-saytlar uchun Boy Xizmat!\nPreMiD bu Discord Rich Presence SDK-dan foydalanib, profilingizda brauzeringizda nima qilayotganingizni ko'rsatadigan kichik vositadir. Masalan, qo'llab-quvvatlanadigan xizmatlardan birida videoni ko'rishni boshlaganingizda, plagin kerakli ma'lumotlarni dasturga yuboradi va dastur uni qayta ishlaydi va uni \"Discord\" da aks ettiradi.\n\n\nPreMiD bizning kuchli jamoamiz tufayli 250 dan ortiq xizmatlarni qo'llab-quvvatlaydi.\n\nPreMiD-dan foydalanish uchun siz bizning rasmiy veb-saytimizdan brauzer plaginini olishingiz va dasturimizni yuklab olishingiz kerak. Ilova bilan narsalarni qilishning sababi shundaki, Discord buni talab qiladi.\n\n»Bizning Discord Serverimiz\n{0}\n\n»Bizning Veb-sayt\n{1}\n\n»GitHub Sahifasi\n{2}\n\nAgar sizga PreMiD yoqsa, iltimos, izoh qoldiring, do'stlaringiz bilan baham ko'ring yoki xayriya qiling.\n",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
