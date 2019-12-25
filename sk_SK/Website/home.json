@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Daj všetkým vedieť čo robíš!",
+    "message": "Hamma nima qilayotganingizni ko'radi!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Naše funkcie",
+    "message": "Bizning xususiyatlarimiz",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Súbory na stiahnutie",
+    "message": "Yuklashlar",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Hrá hru",
+    "message": "O'yin o'ynashing",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "ostáva {0}",
+    "message": "{0} qoldi",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Tieto funkcie sa ti budú páčiť!",
+    "message": "Siz ushbu xususiyatlarni yaxshi ko'rasiz!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Nájdi **svoju** prítomnosť.",
+    "message": "** Borligingizni ** toping.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Naše rozšírenie sme vyvinuli spôsobom ktorý ti umožňuje pridávať a používať prítomnosť vytvorenú inými používateľmi a spravovať ich v našom rozšírení!",
+    "message": "Foydalanuvchilarga o'z xizmatlarini qo'shish va boshqarish uchun biz plaginimizni maxsus ishlab chiqdik!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Otvor obchod",
+    "message": "Do'kon ach",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Jednoduché užívateľské rozhranie.",
+    "message": "Oddiy foydalanuvchi interfeysi.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Už ťa nebaví komplikované užívateľské rozhranie? Preto sme vytvorili jednoduché a užitočné rozhranie ktoré obsahuje iba dôležité funkcie:",
+    "message": "Murakkab interfeyslardan charchadingizmi? Shuning uchun biz interfeysimizni faqat kerakli xususiyatlar bilan yaratdik:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Nastavenia Aplikácií a Rozšírení.",
+    "message": "Ilova va Kengaytma sozlamalari.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Spravovanie prítomnosti.",
+    "message": "Xizmatni boshqarish.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Zoradenie podľa kategórie.",
+    "message": "Kategoriya bo'yicha saralash.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Rýchla podpora.",
+    "message": "Tez yordam.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Niečo sa ti pokazilo alebo posiela kopu chýb? Pomôžeme ti sa zbaviť ich na našom Discord serveri, vyvinuli sme tiež podporný systém ktorý ti uľahčí život.",
+    "message": "Biror narsa sizni xursand qilyaptimi yoki sizga minglab xatolar yubormoqdami? Sizga ushbu Discord serveridan xalos bo'lishga yordam beramiz, shuningdek, sizning hayotingizni osonlashtiradigan qo'llab-quvvatlash tizimini ishlab chiqdik.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Navštív náš server",
+    "message": "Bizning serverimizga tashrif buyuring",
     "description": "Features section button"
   }
 }
