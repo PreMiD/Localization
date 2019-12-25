@@ -1,50 +1,50 @@
 {
   "downloads.header.title": {
-    "message": "Es wird Zeit, dass du dich jedem zeigst.",
+    "message": "O'zingizni hammaga ko'rsatish vaqti keldi.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Beginne mit der Nutzung von PreMiD und zeige anderen, was du machst, vielleicht findest du jemanden mit den gleichen Interessen.",
+    "message": "Endi PreMiD-dan foydalanishni boshlang va nima qilayotganingizni boshqalarga ko'rsating, ehtimol sizda xuddi shu qiziqishlarga ega bo'lgan odam topiladi.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Erste Schritte",
+    "message": "Boshlang",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "PreMiD herunterladen",
+    "message": "yuklang PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Die PreMiD Anwendung installieren.",
+    "message": "PreMid Ilova yuklang.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Die Erweiterung für deinen Browser installieren.",
+    "message": "Brauzeringiz uchun kengaytmani yuklang.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Besuche die {0}-Seite und überprüfe, ob die Erweiterung verbunden ist.",
+    "message": "{0} sahifasiga tashrif buyuring va kengaytma ulanganligini tekshiring.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "Store",
+    "message": "do'kan",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Programm",
+    "message": "Ilova",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Browsererweiterung",
+    "message": "Kengaytma",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "WARNUNG:",
+    "message": "OGOHLANTIRISH:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Es gibt keinen Installer für dieses Betriebssystem. Das bedeutet, dass es keine professionelle Unterstützung dafür gibt.",
+    "message": "{0} Ushbu operatsion tizim uchun o'rnatuvchi yo'q. Bu shuni anglatadiki, buning uchun professional yordam yo'q.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
