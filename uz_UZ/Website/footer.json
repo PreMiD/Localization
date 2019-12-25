@@ -4,7 +4,7 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "PreMiD'i sinab ko'rishga tayyormisiz?",
+    "message": "PreMiD-ni sinab ko'rishga tayyormisiz?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -16,7 +16,7 @@
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partnerlar",
+    "message": "Hamkorlar",
     "description": "Partner section"
   },
   "footer.developers.heading": {
@@ -24,7 +24,7 @@
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Hujjat",
+    "message": "Hujjatlar",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
@@ -48,7 +48,7 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Tarjima Qilmoqing",
+    "message": "Tarjima Qilmoq",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Yordam olish",
+    "message": "Yordam oling",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
