@@ -1,6 +1,6 @@
 {
   "popup.navigation.settings": {
-    "message": "Settings",
+    "message": "Instellingen",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
@@ -8,23 +8,23 @@
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "General",
+    "message": "Algemeen",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "Enabled",
+    "message": "Ingeschakeld",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Media Controls",
+    "message": "Mediabediening",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "Title Menubar",
+    "message": "Titel Menubar",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Auto launch",
+    "message": "Automatisch opstarten",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
@@ -32,55 +32,55 @@
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "Manage",
+    "message": "Beheer",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "No Presences added",
+    "message": "Geen Presences toegevoegd",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Done",
+    "message": "Klaar",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Load Presence",
+    "message": "Laad Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presence Store",
+    "message": "Presence Winkel",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Need Help?",
+    "message": "Hulp Nodig?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Oh noes!",
+    "message": "Oh nee!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Error while loading credits",
+    "message": "Fout bij het laden van credits",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Not connected",
+    "message": "Niet verbonden",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
+    "message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Troubleshooting*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Verouderde App",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Je PreMiD app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,23 +88,23 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "Muziek",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "Spellen",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "Sociaal",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Video's & Streams",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "Overige",
     "description": "Category name shown when you open tags"
   }
 }
