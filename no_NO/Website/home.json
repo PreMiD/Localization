@@ -1,10 +1,10 @@
 {
   "home.introduction.catchphrase": {
-    "message": "La alle se hva du gjør!",
+    "message": "Let everyone know what you are watching and listening to!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Våre funksjoner",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -12,59 +12,59 @@
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Spiller et spill",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} igjen",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Du kommer til å elske disse funksjonene!",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Finn **din** presence.",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Vi har utviklet vår extension i en vei som gir deg tilgang til å legge til og bruke presences laget av andre brukere og administrere dem i vår extension!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Åpne Butikk",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Enkel brukergrensesnitt.",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Lei av vanskelige brukergrensesnitt? Det er hvorfor vi lagde et enkelt interface med bare viktige bruker funksjoner som du trenger:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Apper og Extension innstillinger.",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence ledelse.",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorter filer etter kategori.",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Rask support.",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Er det noe som glitcher eller som gir deg masse feilmeldinger? Vi kan hjelpe deg med å fikse det på Discord serveren våres, vi har også utviklet et support system som vil gjøre livet ditt enklere.",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Besøk vår server",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }

@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "الكل",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "ألعاب",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "موسيقى",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "التواصل الاجتماعي",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "فيديوات وبثوث",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "آخر",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "بحث",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "وجود المستخدم",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }

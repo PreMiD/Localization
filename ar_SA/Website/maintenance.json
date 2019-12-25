@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "صيانة",
+    "message": "Maintenance",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "للأسف نحن نواجه صعوبات تقنية. سوف نعود قريبا عذرا للإزعاج.",
+    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "يرجى العودة لاحقا لمزيد من المعلومات.",
+    "message": "Please come back later for more info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "!حتى يقوم مطورونا الخاصون بإصلاح ذلك ، لا تتردد في إلقاء نظرة هنا",
+    "message": "Until our special developers fix this, feel free to take a look here!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "صفحة الحالة",
+    "message": "Status Page",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "سيرفر الديسكورد",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }
