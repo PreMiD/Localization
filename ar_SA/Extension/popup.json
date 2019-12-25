@@ -64,47 +64,47 @@
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "غير متصل",
+    "message": "Not connected",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "لم يتمكن PreMiD من الاتصال بتطبيقه! هل تم تثبيته وتشغيله؟ *استكشاف الأخطاء وإصلاحها*",
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "نسخة قديمة للتطبيق",
+    "message": "Outdated App",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "تطبيق PreMiD الخاص بك قديم. يرجى تحديثه من أجل متابعة استخدام PreMiD.",
+    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "الكل",
+    "message": "All",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
-    "message": "أنيمي",
+    "message": "Anime",
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "موسيقى",
+    "message": "Music",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "ألعاب",
+    "message": "Games",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "التواصل الاجتماعي",
+    "message": "Socials",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "فيديوات وبثوث",
+    "message": "Videos & Streams",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "آخر",
+    "message": "Other",
     "description": "Category name shown when you open tags"
   }
 }

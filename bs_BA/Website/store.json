@@ -32,35 +32,35 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Sve",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Igre",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Muzika",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Društveno",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videa i Stimovi",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Ostalo",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Pretraga",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Prisutnosti korisnika",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
