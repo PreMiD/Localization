@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "يمكن للمستخدمين الآن إضافة ملحقات بنفسهم.*ضف البعض الان!*",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "أعثر على بعض *الملحقات الجديدة* في بيئتها الطبيعية",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "التحديث التلقائي موجود الآن",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "يمكن للمستخدمين الآن إنشاء ملحقات",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "أضفنا *مستندات* لهؤلاء المطورين المبدعين",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "تصميم جديد تماما للموقع",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "المزيد من الميزات لدينا في بوت الديسكورد",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "واجهة برمجة التطبيقات الجديدة لدينا هي ممتازة جدا",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "تم إعادة تنظيم و تصميم علامات التبويب و القائمة المنبثقة",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "تم إزالة الكثير من الأخطاء",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "كل شيء يعمل بشكل أسرع الآن",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "تم إصلاح اخطاء التطبيق القديم حتى إذا كان لديك أحدث إصدار",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
