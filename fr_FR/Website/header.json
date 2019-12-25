@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "English",
+    "message": "Français",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "Nous supportons votre langue, voulez-vous la changer?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
+    "message": "Notre site web a été traduit dans votre langue. Ça pourrait vous aider au cas où vous ne parlez pas très bien l'Anglais.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "Non, merci",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Switch language",
+    "message": "Changer de langue",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "En train de cuire des pancakes...;En train de placer des conteneurs...;En train d'analyser votre adresse IP...;UwU;En train de casser des règles...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "Boutique",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "Téléchargements",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "Contributeurs",
     "description": "Contributors tab"
   }
 }
