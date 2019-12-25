@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Sự hiện diện phong phú của bạn cho các dịch vụ web!",
+    "message": "Trạng thái tiện ích của bạn cho các dịch vụ web!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "BẠN PHẢI CÀI ĐẶT ỨNG DỤNG CHÍNH THỨC CỦA CHÚNG TÔI ĐỂ LÀM VIỆC\n{0} {1}\n\nBạn có thể sử dụng các phím phương tiện của mình để kiểm soát việc phát lại các dịch vụ này. Khi bạn xem / nghe một cái gì đó với một trong các dịch vụ được hỗ trợ của chúng tôi, tiện ích mở rộng trình duyệt sẽ gửi siêu dữ liệu của video / bài hát đến máy khách để bàn của chúng tôi và PreMiD xử lý nó. PreMiD gửi thông tin đến Discord với dạng chính xác và sau đó tự động đặt trạng thái của nó.\nDịch vụ được hỗ trợ\n{2} Hãy xem {3}\n\nCần giúp đỡ?\n{4} {5}\n\nMáy chủ Discord của chúng tôi\n{6} Nói chuyện với những người đứng sau PreMiD {7}\n\nChúng tôi là nguồn mở!\n{9} Công cụ tuyệt vời nên được mở cho công chúng {10}",
+    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

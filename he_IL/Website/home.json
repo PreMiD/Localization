@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "תן לכולם לדעת למה אתה מאזין ושומע!",
+    "message": "תן לכולם לדעת מה אתה עושה!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "עייף מממשקי משתמש מורכבים? זאת הסיבה שאנחנו יצרו ממשק משתמש פשוט ושימושי רק עם הפונקציות שבאמת צריך:",
+    "message": "עייף מממשקי משתמש מורכבים? זאת הסיבה שאנחנו יצרו ממשק משתמש פשוט ושימושי רק עם הפונקציות שחשובות באמת:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "משהו נתקע או שולח לך הרבה הודעות? אנחנו נעזור לך להיפטר מהם בשרת הדיסקורד שלנו, בנוסף פיתחנו מערכת תמיכה שתעשה את חייך קלים יותר.",
+    "message": "משהו נתקע או שולח לך טונות של תקלות? אנחנו נעזור לך להיפטר מזה בשרת הדיסקורד שלנו, בנוסף פיתחנו מערכת תמיכה שתעשה את חייך קלים יותר.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {

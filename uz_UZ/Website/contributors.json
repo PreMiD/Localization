@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "Jamoa",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Qo'llab-quvvatlovchilar",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Tarjimonlar",
+    "description": "Heading for group of users."
+  }
+}

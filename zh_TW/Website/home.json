@@ -1,0 +1,70 @@
+{
+  "home.introduction.catchphrase": {
+    "message": "讓大家知道您在做些什麼吧!",
+    "description": "First phrase that a user reads on our website"
+  },
+  "home.introduction.button.features": {
+    "message": "我們的功能",
+    "description": "Introduction button"
+  },
+  "home.introduction.button.downloads": {
+    "message": "下載",
+    "description": "Downloads button -> redirects to /downloads page"
+  },
+  "home.examples.playingagame": {
+    "message": "正在玩遊戲",
+    "description": "Discord Rich Presence -> Playing a game"
+  },
+  "home.examples.timestamp": {
+    "message": "{0} 離開了",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.features.heading": {
+    "message": "你會愛上這些功能的!",
+    "description": "Features section"
+  },
+  "home.features.presencesystem.heading": {
+    "message": "尋找 **您的** 狀態.",
+    "description": "Features section subheading"
+  },
+  "home.features.presencesystem.description": {
+    "message": "我們開發擴展程序的方式允許您添加和使用其他用戶創建的狀態, 並在我們的擴展程序中對其進行管理!",
+    "description": "Features section description"
+  },
+  "home.features.presencesystem.button": {
+    "message": "打開市場",
+    "description": "Features section button"
+  },
+  "home.features.simpleInterface.heading": {
+    "message": "簡單的用戶界面.",
+    "description": "Features section subheading"
+  },
+  "home.features.simpleInterface.description": {
+    "message": "厭倦了複雜的用戶界面? 因此, 我們創建了一個簡單而有用的界面, 其中包含重要功能:",
+    "description": "Features section description"
+  },
+  "home.features.simpleInterface.description.1": {
+    "message": "應用程序和擴展程序設置.",
+    "description": "Features section description point"
+  },
+  "home.features.simpleInterface.description.2": {
+    "message": "狀態管理.",
+    "description": "Features section description point"
+  },
+  "home.features.simpleInterface.description.3": {
+    "message": "順類型排列",
+    "description": "Features section description point"
+  },
+  "home.features.quickSupport.heading": {
+    "message": "快速的客服.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "出現故障或收到大量錯誤? 在我們的群組我們很樂意為您解決那些錯誤, 我們也開發了客服系統那會讓您的生活更加簡單.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "加入我們的服務器",
+    "description": "Features section button"
+  }
+}

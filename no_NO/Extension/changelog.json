@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Brukere kan nå legge til tilstedeværelsen av seg selv. * Legg til noen nå! *",
+    "message": "Brukere kan nå legge til presences selv. *Legg til noen nå da!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Finn noen *nye tilstedeværelser* i deres naturlige habitat",
+    "message": "Finn noen *nye presences* i dens naturlige habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Automatisk oppdatering er en ting nå",
+    "message": "Automatisk oppdatering har blitt en ting nå",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Brukere kan lage tilstedeværelser nå",
+    "message": "Brukere kan lage sine egne presences nå",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "*Dokumenter* for de kreative utvikleren ute der",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Nye nettside design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Mer egenskaper for Discord-Boten våres",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "Vår nye API er et løpende beist",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Fornyet popup, tabs og style utseende",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Mange av de (u)kjente problemene forsvant",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Alt er mye raskere nå",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Fikser den gamle appen sine problemer til og med om du har den nyeste versjonen",
     "description": ""
   }
 }

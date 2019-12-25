@@ -1,0 +1,70 @@
+{
+  "home.introduction.catchphrase": {
+    "message": "Hamma nima qilayotganingizni ko'radi!",
+    "description": "First phrase that a user reads on our website"
+  },
+  "home.introduction.button.features": {
+    "message": "Bizning xususiyatlarimiz",
+    "description": "Introduction button"
+  },
+  "home.introduction.button.downloads": {
+    "message": "Yuklashlar",
+    "description": "Downloads button -> redirects to /downloads page"
+  },
+  "home.examples.playingagame": {
+    "message": "O'yin o'ynashing",
+    "description": "Discord Rich Presence -> Playing a game"
+  },
+  "home.examples.timestamp": {
+    "message": "{0} qoldi",
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.features.heading": {
+    "message": "Siz ushbu xususiyatlarni seving!",
+    "description": "Features section"
+  },
+  "home.features.presencesystem.heading": {
+    "message": "** Sizning ** xizmatni toping.",
+    "description": "Features section subheading"
+  },
+  "home.features.presencesystem.description": {
+    "message": "Foydalanuvchilarga o'z xizmatlarini qo'shish va boshqarish uchun biz plaginimizni maxsus ishlab chiqdik!",
+    "description": "Features section description"
+  },
+  "home.features.presencesystem.button": {
+    "message": "Do'koni ach",
+    "description": "Features section button"
+  },
+  "home.features.simpleInterface.heading": {
+    "message": "Oddiy foydalanuvchi interfeysi.",
+    "description": "Features section subheading"
+  },
+  "home.features.simpleInterface.description": {
+    "message": "Murakkab interfeyslardan charchadingizmi? Shuning uchun biz interfeysimizni faqat kerakli xususiyatlar bilan yaratdik:",
+    "description": "Features section description"
+  },
+  "home.features.simpleInterface.description.1": {
+    "message": "Ilova va Kengaytma sozlamalari.",
+    "description": "Features section description point"
+  },
+  "home.features.simpleInterface.description.2": {
+    "message": "Xizmat boshqarish.",
+    "description": "Features section description point"
+  },
+  "home.features.simpleInterface.description.3": {
+    "message": "Kategoriya bo'yicha saralash.",
+    "description": "Features section description point"
+  },
+  "home.features.quickSupport.heading": {
+    "message": "Tez yordam.",
+    "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "Biror narsa sizni xursand qilyaptimi yoki sizga minglab xatolar yubormoqdami? Sizga ushbu Discord serveridan xalos bo'lishga yordam beramiz, shuningdek, sizning hayotingizni osonlashtiradigan qo'llab-quvvatlash tizimini ishlab chiqdik.",
+    "description": "Features section description"
+  },
+  "home.features.quickSupport.button": {
+    "message": "Bizning serverimizga tashrif buyuring",
+    "description": "Features section button"
+  }
+}

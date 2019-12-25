@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "¡Únete a más de {0} usuarios hoy!",
+    "message": "¡Únete a {0} usuarios hoy!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -29,7 +29,7 @@
   },
   "footer.developers.richpresence": {
     "message": "Rich Presence",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "Apóyanos",
@@ -37,18 +37,18 @@
   },
   "footer.supportus.donate": {
     "message": "Donar",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "Contribuir",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "Diseño",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Traducción",
+    "message": "Traducir",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
@@ -57,10 +57,10 @@
   },
   "footer.help.troubleshooting": {
     "message": "Solución de problemas",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Obtener ayuda",
+    "message": "Obtén ayuda",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {

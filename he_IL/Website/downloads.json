@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "התחל להשתמש בPreMiD עכשיו ותראה לאחרים במה אתה צופה או מקשיב, אולי תמצא מישהו עם תחומי עניין משותפים.",
+    "message": "התחל להשתמש בPreMiD עכשיו והראה לאחרים מה אתה עושה, אולי תמצא מישהו עם תחומי עניין משותפים.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} לתוכנה אין מוריד עזר בשביל מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה.",
+    "message": "{0} אין התקנה עבור מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

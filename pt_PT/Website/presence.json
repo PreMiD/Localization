@@ -4,7 +4,7 @@
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "Information",
+    "message": "Informação",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
@@ -16,7 +16,7 @@
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Tags",
+    "message": "Etiquetas",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {

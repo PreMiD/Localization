@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "סליחה, נראה שהדף שאתה מנסה לראות זז או נמחק או שלעולם לא נוצר?",
+    "message": "סליחה, נראה שהדף שאתה רוצה לראות זז או נמחק או שלעולם לא נוצר?",
     "description": "Message on 404 page"
   }
 }

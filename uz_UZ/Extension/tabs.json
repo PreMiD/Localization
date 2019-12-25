@@ -1,0 +1,58 @@
+{
+  "tab.button.changelog": {
+    "message": "O'zgarishlar",
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.button.wiki": {
+    "message": "Wiki",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.heading": {
+    "message": "Rahmat",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.subHeading": {
+    "message": "{0} yuklang uchun ",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.start": {
+    "message": "{0}'dan foydalanishni boshlang",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
+  },
+  "donate": {
+    "message": "Xayriya qilish",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "**Ah yo'q!** Ilovaga ulanib bo'lmadi... U allaqachon o'rnatilganmi?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.troubleshooting": {
+    "message": "Muammolarni bartaraf qilish",
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "Ilovani yuklang",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.updated.heading": {
+    "message": "Bosqich o'tdi!",
+    "description": "Title of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.subHeading": {
+    "message": "{0} yangilandi!",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.new": {
+    "message": "Yangi",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "O'zgartirilgan",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.fixed": {
+    "message": "Tuzatilgan",
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
+  }
+}

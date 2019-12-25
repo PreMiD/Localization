@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "يمكن للمستخدمين الآن إضافة presences بنفسهم.*ضف البعض الان!*",
+    "message": "يمكن للمستخدمين الآن إضافة ملحقات بنفسهم.*ضف البعض الان!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "أعثر على بعض *الملحقات الجديدة* في بيئتها الطبيعية",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "التحديث التلقائي موجود الآن",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "يمكن للمستخدمين الآن إنشاء ملحقات",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "أضفنا *مستندات* لهؤلاء المطورين المبدعين",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "تصميم جديد تماما للموقع",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "المزيد من الميزات لدينا في بوت الديسكورد",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "واجهة برمجة التطبيقات الجديدة لدينا هي ممتازة جدا",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "تم إعادة تنظيم و تصميم علامات التبويب و القائمة المنبثقة",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "تم إزالة الكثير من الأخطاء",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "كل شيء يعمل بشكل أسرع الآن",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "تم إصلاح اخطاء التطبيق القديم حتى إذا كان لديك أحدث إصدار",
     "description": ""
   }
 }
