@@ -1,26 +1,26 @@
 {
   "presence.sections.description.title": {
-    "message": "Açıklama",
+    "message": "Tavsifi",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "Bilgi",
+    "message": "Ma `lumot",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "Yapımcı",
+    "message": "Muallif",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
-    "message": "Sürüm",
+    "message": "Versiya",
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Etiketler",
+    "message": "Teglar",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Desteklenen Siteler",
+    "message": "Qo'llab-quvvatlanadigan URL-manzillar",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
