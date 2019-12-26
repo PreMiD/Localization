@@ -1,6 +1,6 @@
 {
   "downloads.header.title": {
-    "message": "ถึงเวลาที่จะแสดงตัวตนต่อทุกคน",
+    "message": "ถึงเวลาแล้วที่คุณจะแสดงต่อทุกคน",
     "description": "Title"
   },
   "downloads.header.subtitle": {
@@ -8,7 +8,7 @@
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "เริ่มเลย",
+    "message": "เริ่มใช้งาน",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
