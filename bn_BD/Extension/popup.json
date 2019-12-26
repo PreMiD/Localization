@@ -84,27 +84,27 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
-    "message": "Anime",
+    "message": "আনিমে",
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Music",
+    "message": "মিউজিক",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Games",
+    "message": "গেমস",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Socials",
+    "message": "সামাজিক",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Videos & Streams",
+    "message": "ভিডিওস & স্ট্রামস",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Other",
+    "message": "অন্যান্য",
     "description": "Category name shown when you open tags"
   }
 }
