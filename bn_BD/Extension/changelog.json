@@ -1,38 +1,38 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "ব্যবহারকারীরা এখন নিজেরাই উপস্থিতিগুলি যুক্ত করতে পারেন। * এখনই কিছু যুক্ত করুন! *",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "তাদের প্রাকৃতিক আবাসে কিছু * নতুন উপস্থাপনা * সন্ধান করুন",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "অটো আপডেট করা এখন একটি জিনিস",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "উজার্স রা এখন নিজের রিচ প্রেসেন্স বানাইতে পারবে",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "*ডক্স* যারা একটু ক্রিয়েটিভ তাদের জন্য",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "একদম নতুন ওয়েবসাইট ডিসাইন",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "নতুন ফিচারস ডিসকার্ড বোট এর জন্য",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "আমাদের নতুন API একটা জন্তু",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "পুনর্নির্মাণ পপআপ এবং ট্যাবস লেআউট এবং শৈলী",
     "description": ""
   },
   "extension.2.0.fix1": {
