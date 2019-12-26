@@ -36,15 +36,15 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "অনেক (না)জানা বাগস ভাগসে",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "সব কিছু এখন অনেক ভালো চলতাছে",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "আপনার কাছে সর্বশেষতম অ্যাপ্লিকেশন থাকলেও পুরানো অ্যাপ্লিকেশন ত্রুটি ঠিক করে",
     "description": ""
   }
 }
