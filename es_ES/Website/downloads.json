@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Empieza a usar PreMiD ahora y muestra a otras personas lo que estás viendo o escuchando, tal vez encuentres a alguien con los mismos intereses.",
+    "message": "Empieza a usar PreMiD ahora y muestra a otras personas lo que estás haciendo, tal vez encuentres a alguien con los mismos intereses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visita la página {0} y comprueba si la extensión se ha conectado.",
+    "message": "Visita la página {0} y comprueba si la extensión está conectada.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -32,11 +32,11 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Descargas de aplicaciones",
+    "message": "Aplicación",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Descargas de extensiones",
+    "message": "Extensión",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "La aplicación {0} no tiene instalador para este sistema operativo. Significa que no hay apoyo profesional para ello.",
+    "message": "{0} No hay instalador para este sistema operativo. Esto quiere decir que no hay soporte profesional para él.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
