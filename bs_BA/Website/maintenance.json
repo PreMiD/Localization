@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Ta'minot",
+    "message": "Maintenance",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Afsuski, texnik qiyinchiliklarga duch kelmoqdamiz. Tez orada qaytamiz. Noqulaylik uchun uzr.",
+    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Qo'shimcha ma'lumot olish uchun keyinroq qaytib keling.",
+    "message": "Please come back later for more info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Bizning maxsus ishlab chiquvchilarimiz buni tuzatmaguncha, bu erda ko'ring!",
+    "message": "Until our special developers fix this, feel free to take a look here!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Holat sahifasi",
+    "message": "Status Page",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord Serveri",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }
