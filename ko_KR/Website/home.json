@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
+    "message": "Hamma nima qilayotganingizni ko'radi!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "기능들",
+    "message": "Bizning xususiyatlarimiz",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "다운로드",
+    "message": "Yuklashlar",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "게임 플레이 중",
+    "message": "O'yin o'ynashing",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} 남음",
+    "message": "{0} qoldi",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "당신은 아마도 이 기능들을 좋아할 것 같아요",
+    "message": "Siz ushbu xususiyatlarni yaxshi ko'rasiz!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "**당신**의 Presence 를 찾기",
+    "message": "** Borligingizni ** toping.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Foydalanuvchilarga o'z xizmatlarini qo'shish va boshqarish uchun biz plaginimizni maxsus ishlab chiqdik!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "상점 열기",
+    "message": "Do'kon ach",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "간단한 유저 인터페이스",
+    "message": "Oddiy foydalanuvchi interfeysi.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Murakkab interfeyslardan charchadingizmi? Shuning uchun biz interfeysimizni faqat kerakli xususiyatlar bilan yaratdik:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "앱과 확장 기능 설정",
+    "message": "Ilova va Kengaytma sozlamalari.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence 관리",
+    "message": "Xizmatni boshqarish.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "카테고리별로 분류",
+    "message": "Kategoriya bo'yicha saralash.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "빠른 지원",
+    "message": "Tez yordam.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Biror narsa sizni xursand qilyaptimi yoki sizga minglab xatolar yubormoqdami? Sizga ushbu Discord serveridan xalos bo'lishga yordam beramiz, shuningdek, sizning hayotingizni osonlashtiradigan qo'llab-quvvatlash tizimini ishlab chiqdik.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "우리 서버 들리기",
+    "message": "Bizning serverimizga tashrif buyuring",
     "description": "Features section button"
   }
 }
