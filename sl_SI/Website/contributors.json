@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Staff",
+    "message": "Osebje",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Supporters",
+    "message": "Donatorji / Podporniki",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Translators",
+    "message": "Prevajalci",
     "description": "Heading for group of users."
   }
 }
