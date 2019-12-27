@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "A bővítmény nem található, nem elérhető funkciók...",
+    "message": "Kengaytma topilmadi, qulflashing funktsiyalar ...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Telepített bővítmény, elérhető funkciók...",
+    "message": "Kengaytma topildi, vazifalarni qulfdan chiqarmoqda ...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Készítő",
+    "message": "Yaratuvchi",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Ez az állapotüzenet egy ellenőrzött fejlesztő által lett jóváhagyva",
+    "message": "Ushbu xizmat tasdiqlangan ishlab chiquvchi tomonidan tasdiqlangan",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Keresés",
+    "message": "Qidiruv",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Állapotüzenet hozzáadása",
+    "message": "Xizmat qo'shish",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Állapotüzenet eltávolítása",
+    "message": "Xizmatni olib tashlash",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ezt az állapotüzenetet a PreMiD alapértelmezetten támogatja, nincs szükség telepítésre.",
+    "message": "Ushbu mavjudlik kerak bo'lganda avtomatik ravishda ishlatiladi, uni qo'shishga hojat yo'q.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Minden",
+    "message": "Hammasi",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Játék",
+    "message": "O'yinlar",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Zene",
+    "message": "Musiqa",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Közösség",
+    "message": "Ijtimoiy",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videók & Közvetítések",
+    "message": "Videolar va Nashrlar",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Egyéb",
+    "message": "Boshqa",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Keresés",
+    "message": "Izlash",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Felhasználó állapotüzenetei",
+    "message": "Foydalanuvchi xizmatlari",
     "description": "Userpage title"
   }
 }
