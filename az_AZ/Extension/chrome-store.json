@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Veb-xidmətlər üçün status!",
+    "message": "Veb-xizmatlar uchun sizning Boy Xizmat!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Veb-xidmətlər üçün status!\nPreMiD Discordun status proqram inkişaf dəstini istifadə edərək Discord profilinizdə veb saytlarda nə etdiyinizi göstərməyə imkan verən kiçik bir proqramıdır. Məsələn bir videoya baxmağa başladıqda uzantı səhifədən lazım olan bütün məlumatları tutur və Discord profilinizdə statusu təyin etmək üçün tətbiqimizə göndərir.\n\nPreMiD 250-dən çox veb saytı dəstəkləyir və hər gün yeni sayt əlavə edən güclü birliyimizə təşəkkür edirik.\n\nPreMiD-dən istifadə etmək üçün brauzerə əlavəni əlavə etməli və veb saytımızda olanrəsmi PreMiD tətbiqini quraşdırmalısınız. Bu, Discordun status proqram inkişaf dəstinin işləməsindəki məhdudiyyətlərlə əlaqədardır.\n\n» Discord serverimiz\n{0}\n\n» Veb-saytımız\n{1}\n\n» GitHub səhifəmiz\n{2}\n\nPreMiD-i sevirsinizsə, rəy bildirin, dostlarınıza yayın və ya ianə verin.",
+    "message": "Veb-saytlar uchun Boy Xizmat!\nPreMiD bu Discord Rich Presence SDK-dan foydalanib, profilingizda brauzeringizda nima qilayotganingizni ko'rsatadigan kichik vositadir. Masalan, qo'llab-quvvatlanadigan xizmatlardan birida videoni ko'rishni boshlaganingizda, plagin kerakli ma'lumotlarni dasturga yuboradi va dastur uni qayta ishlaydi va uni \"Discord\" da aks ettiradi.\n\n\nPreMiD bizning kuchli jamoamiz tufayli 250 dan ortiq xizmatlarni qo'llab-quvvatlaydi.\n\nPreMiD-dan foydalanish uchun siz bizning rasmiy veb-saytimizdan brauzer plaginini olishingiz va dasturimizni yuklab olishingiz kerak. Ilova bilan narsalarni qilishning sababi shundaki, Discord buni talab qiladi.\n\n»Bizning Discord Serverimiz\n{0}\n\n»Bizning Veb-sayt\n{1}\n\n»GitHub Sahifasi\n{2}\n\nAgar sizga PreMiD yoqsa, iltimos, izoh qoldiring, do'stlaringiz bilan baham ko'ring yoki xayriya qiling.\n",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
