@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Your Rich Presence for web services!",
+    "message": "Tvoj dodatek za spletne storitve!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Your Rich Presence for web services!\nPreMiD is a small utility that allows you to show what you are doing on websites in your Discord profile using Discord’s Rich Presence SDK. When you start watching a video for example the extension grabs all the information needed from the page and sends it over to our application to set the status in your Discord profile.\n\n\nPreMiD supports more than 250 websites and still going thanks to its strong community that add new Presences every day.\n\nTo use PreMiD you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n» Our Discord Server\n{0}\n\n» Our Website\n{1}\n\n» GitHub organisation\n{2}\n\nIf you love PreMiD please leave a review, spread it with your friends or donate.",
+    "message": "Tvoj dodatek za spletne storitve!\nPreMiD je majhen pripomoček, ki vam omogoča, da pokažete, kaj počnete na spletnih mestih v svojem profilu v Discord-u z uporabo Discordnega dodatka SDK. Ko začnete gledati videoposnetek, na primer ta dodatek vzame informacijo od spletne strani in pošlje to informacijo na našo aplikacijo, ki vam določa stanje na profilu.\n\n\nPreMiD podpira več kot 250 spletnih strani in še vedno se delajo nove stvari zahvaljujoč svoji močni skupnosti, ki vsak dan dodajajo nove dodatke.\n\nZa uporabo PreMiD-a rabite dodati ta dodatek in namestiti uradno PreMiD aplikacijo, ki jo lahko najdete na naši spletni strani. To je posledica delovanja Discordnega dodatka SDK.\n\n» Naš Discord Strežnik\n{0}\n\n» Naša spletna stran\n{1}\n\n» GitHub organizacija\n{2}\n\nČe imate radi PreMiD prosim pustite pripombo, razširite ga s prijatelji ali prispevajte / donirajte.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
