@@ -4,11 +4,11 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Nosotros soportamos tu idioma, ¿quieres cambiarlo?",
+    "message": "Soportamos tu idioma, ¿quieres cambiarlo?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nuestro sitio web ha sido traducido a tu idioma. Puede ayudarte en caso de que no hables muy bien el inglés.",
+    "message": "Nuestro sitio web ha sido traducido a tu idioma. Esto puede ayudarte en caso de que no hables inglés muy bien.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -32,7 +32,7 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Colaboradores",
+    "message": "Contribuidores",
     "description": "Contributors tab"
   }
 }

@@ -1,0 +1,66 @@
+{
+  "store.message.error": {
+    "message": "Extension not found, locking functions...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "Extension found, unlocking functions...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "Creator",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "This presence was approved by a verified developer",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Search",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Add presence",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Remove presence",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "This presence is automatically used when needed, no need to add it.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "সব",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "গেমস",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "মিউজিক",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "সামাজিক",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "ভিডিওস & স্ট্রামস",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "অন্যান্য",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Search",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "User presences",
+    "description": "Userpage title"
+  }
+}

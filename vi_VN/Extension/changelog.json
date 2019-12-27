@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Người dùng hiện có thể tự thêm sự hiện diện. * Thêm một số ngay bây giờ! *",
+    "message": "Người dùng hiện có thể tự thêm trạng thái * Thêm một số ngay bây giờ! *",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Tìm một số * sự hiện diện mới * trong môi trường sống tự nhiên của chúng",
+    "message": "Tìm một số * trạng thái mới * trong môi trường tự nhiên của chúng",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -12,7 +12,7 @@
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Người dùng có thể tạo sự hiện diện ngay bây giờ",
+    "message": "Người dùng có thể tạo trạng thái ngay bây giờ",
     "description": ""
   },
   "extension.2.0.new5": {
@@ -20,7 +20,7 @@
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Tất cả thiết kế trang web mới",
+    "message": "Thiết kế trang web mới",
     "description": ""
   },
   "extension.2.0.new7": {
@@ -32,7 +32,7 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Cách tân lại cách bố trí và khiểu của popup là các thẻ",
+    "message": "Cách tân lại cách bố trí và kiểu của popup là các thẻ",
     "description": ""
   },
   "extension.2.0.fix1": {
@@ -40,7 +40,7 @@
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Bây giờ mọi thứ đang chạy nhanh hơn nhiều",
+    "message": "Bây giờ mọi thứ nhanh hơn rất nhiều",
     "description": ""
   },
   "extension.2.0.1.fix1": {

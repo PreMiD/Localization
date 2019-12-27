@@ -1,10 +1,10 @@
 {
   "downloads.header.title": {
-    "message": "Saatnya menunjukkan dirimu ke semua orang.",
+    "message": "Saatnya tunjukkan dirimu ke semua orang.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Mulai gunakan PreMiD sekarang dan tunjukkan orang - orang apa yang kamu lakukan, mungkin kamu akan bertemu orang dengan minat yang sama.",
+    "message": "Mulai gunakan PreMiD sekarang dan tunjukkan kepada orang-orang apa yang kamu lakukan, mungkin kamu akan bertemu orang dengan minat yang sama.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -16,7 +16,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Instal aplikasi PreMiD.",
+    "message": "Pasang aplikasi PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Kunjungi halaman {0} dan periksa jika ekstensi telah terhubung.",
+    "message": "Kunjungi halaman {0} dan periksa jika ekstensinya telah terhubung.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Tidak ada installer untuk sistem operasi ini. Itu berarti tidak ada bantuan profesional untuk ini.",
+    "message": "{0} Tidak ada installer untuk sistem operasi ini. Ini berarti tidak ada bantuan profesional untuk ini.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

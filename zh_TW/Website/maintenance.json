@@ -1,0 +1,26 @@
+{
+  "maintenance.big": {
+    "message": "維修中",
+    "description": "The big text on maintenance page"
+  },
+  "maintenance.heading": {
+    "message": "非常抱歉我們目前正遇到技術問題. 我們很快會回來. 非常抱歉帶來困擾.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.heading2": {
+    "message": "請稍後返回以獲取更多信息.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.message": {
+    "message": "在我們的特殊開發人員解決此問題之前, 請隨時到這裡看看！",
+    "description": "Message on maintenance page"
+  },
+  "maintenance.statuspage": {
+    "message": "狀態頁面",
+    "description": "Status Page link on maintenance page"
+  },
+  "maintenance.discordserver": {
+    "message": "Discod服務器",
+    "description": "Discord Server link on maintenance page"
+  }
+}

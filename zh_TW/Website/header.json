@@ -1,0 +1,38 @@
+{
+  "header.language": {
+    "message": "英語",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "我們支持您的語言, 想要切換嗎?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "我們的網站已翻譯成您的語言. 如果您在英語方面比較弱, 這可能會有所幫助.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "不用了, 感謝",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "切換語言",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "烤煎餅中...;把它放置到容器...;正在解析您的IP地址...; UwU;破壞規則中...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "市場",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "下載",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "貢獻者",
+    "description": "Contributors tab"
+  }
+}

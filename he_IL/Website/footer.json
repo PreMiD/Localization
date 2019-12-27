@@ -29,7 +29,7 @@
   },
   "footer.developers.richpresence": {
     "message": "Rich Presence",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "תמוך בנו",
@@ -37,11 +37,11 @@
   },
   "footer.supportus.donate": {
     "message": "תרום",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "תרום",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "עצב",
@@ -52,12 +52,12 @@
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "עזור",
+    "message": "עזרה",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
     "message": "פתרון תקלות",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "קבל עזרה",

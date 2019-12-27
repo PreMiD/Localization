@@ -1,0 +1,10 @@
+{
+  "extension.description.short": {
+    "message": "為網頁服務添加狀態顯示!",
+    "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "為網頁服務添加Rich Presence狀態顯示！\nPreMiD是一個小型應用程式利用Discord Rich Presence SDK讓您在瀏覽任何網頁時顯示在您的Discord狀態上. 當您在觀看一個影片時它會開始收集任何所需的資料傳送到我們的應用程式並且顯示在您的Discord狀態.\n\nPreMiD支持高達 250 網站也要感謝強大的社區每天都在添加新網站.\n\n若要使用PreMiD您需要到我們的官網下載PreMiD的應用程式. 這是由於受到Discord的Rich Presence SDK運行方式上的反映.\n\n» 我們的Discord服務器\n{0}\n\n» 我們的官方網站\n{1}\n\n» GitHub團隊\n{2}\n\n如果您喜歡PreMiD請留下一個評論, 分享給您的朋友或者捐贈我們",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+  }
+}
