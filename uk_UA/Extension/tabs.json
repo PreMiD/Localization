@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "O'zgarishlar",
+    "message": "Changelog",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,51 +8,51 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Rahmat",
+    "message": "Thank you",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "yuklang uchun {0}",
+    "message": "for installing {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "{0}'dan foydalanishni boshlang",
+    "message": "Start using {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Xayriya qilish",
+    "message": "Donate",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "** Ah yo'q! ** Ilovaga ulanib bo'lmadi ... U allaqachon o'rnatilganmi?",
+    "message": "**Oh no!** We couldn't connect to the application... Is it already installed?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Muammolarni bartaraf qilish",
+    "message": "Troubleshooting",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Ilovani yuklang",
+    "message": "Install application",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Darajaning ko'tarilishi!",
+    "message": "Level up!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} yangilandi!",
+    "message": "{0} has been updated!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "Yangi",
+    "message": "New",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "O'zgartirilgan",
+    "message": "Changed",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Tuzatilgan",
+    "message": "Fixed",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
