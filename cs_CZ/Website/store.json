@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Rozšírení se nenašlo, zamykám funkce...",
+    "message": "Kengaytma topilmadi, qulflashing funktsiyalar ...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Rozšírení nalezeno, odemykám funkce...",
+    "message": "Kengaytma topildi, vazifalarni qulfdan chiqarmoqda ...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Tvůrce",
+    "message": "Yaratuvchi",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Táto přítomnost byla schválena ověřeným vývojářem",
+    "message": "Ushbu xizmat tasdiqlangan ishlab chiquvchi tomonidan tasdiqlangan",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Hledat",
+    "message": "Qidiruv",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Přidat přítomnost",
+    "message": "Xizmat qo'shish",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Odstranit přítomnost ",
+    "message": "Xizmatni olib tashlash",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Tato přítomnost se automaticky použije v případě potřeby, není třeba ji přidávat.",
+    "message": "Ushbu mavjudlik kerak bo'lganda avtomatik ravishda ishlatiladi, uni qo'shishga hojat yo'q.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Vše",
+    "message": "Hammasi",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Hry",
+    "message": "O'yinlar",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Hudba",
+    "message": "Musiqa",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Sociální sítě",
+    "message": "Ijtimoiy",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videa & Živé přenosy",
+    "message": "Videolar va Nashrlar",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Ostatní",
+    "message": "Boshqa",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Hledat",
+    "message": "Izlash",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Uživatelské přítomnosti",
+    "message": "Foydalanuvchi xizmatlari",
     "description": "Userpage title"
   }
 }
