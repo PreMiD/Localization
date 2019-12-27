@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Tvoj dodatek za spletne storitve!",
+    "message": "Veb-xizmatlar uchun sizning Boy Xizmat!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Tvoj dodatek za spletne storitve!\nPreMiD je majhen pripomoček, ki vam omogoča, da pokažete, kaj počnete na spletnih mestih v svojem profilu v Discord-u z uporabo Discordnega dodatka SDK. Ko začnete gledati videoposnetek, na primer ta dodatek vzame informacijo od spletne strani in pošlje to informacijo na našo aplikacijo, ki vam določa stanje na profilu.\n\n\nPreMiD podpira več kot 250 spletnih strani in še vedno se delajo nove stvari zahvaljujoč svoji močni skupnosti, ki vsak dan dodajajo nove dodatke.\n\nZa uporabo PreMiD-a rabite dodati ta dodatek in namestiti uradno PreMiD aplikacijo, ki jo lahko najdete na naši spletni strani. To je posledica delovanja Discordnega dodatka SDK.\n\n» Naš Discord Strežnik\n{0}\n\n» Naša spletna stran\n{1}\n\n» GitHub organizacija\n{2}\n\nČe imate radi PreMiD prosim pustite pripombo, razširite ga s prijatelji ali prispevajte / donirajte.",
+    "message": "Veb-saytlar uchun Boy Xizmat!\nPreMiD bu Discord Rich Presence SDK-dan foydalanib, profilingizda brauzeringizda nima qilayotganingizni ko'rsatadigan kichik vositadir. Masalan, qo'llab-quvvatlanadigan xizmatlardan birida videoni ko'rishni boshlaganingizda, plagin kerakli ma'lumotlarni dasturga yuboradi va dastur uni qayta ishlaydi va uni \"Discord\" da aks ettiradi.\n\n\nPreMiD bizning kuchli jamoamiz tufayli 250 dan ortiq xizmatlarni qo'llab-quvvatlaydi.\n\nPreMiD-dan foydalanish uchun siz bizning rasmiy veb-saytimizdan brauzer plaginini olishingiz va dasturimizni yuklab olishingiz kerak. Ilova bilan narsalarni qilishning sababi shundaki, Discord buni talab qiladi.\n\n»Bizning Discord Serverimiz\n{0}\n\n»Bizning Veb-sayt\n{1}\n\n»GitHub Sahifasi\n{2}\n\nAgar sizga PreMiD yoqsa, iltimos, izoh qoldiring, do'stlaringiz bilan baham ko'ring yoki xayriya qiling.\n",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
