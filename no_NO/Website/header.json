@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Norsk (Bokmål)",
+    "message": "Norsk",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Vi støtter språket ditt, vil du skifte siden til å vise i ditt språk?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Vår nettside har blitt oversatt til språket ditt. Dette hjelper kanskje i tilfelle du ikke kan Engelsk så bra.",
+    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Nei takk",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Bytt Språk",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baker pannekaker...;Plasserer containere...;Sjekker IP'en din...;UwU;Bryter Regler...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Butikk",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Nedlastinger",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Bidragsytere",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
