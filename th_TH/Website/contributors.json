@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Jamoa",
+    "message": "Staff",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Bizni qo'llab-quvvatlang",
+    "message": "Supporters",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Tarjimonlar",
+    "message": "Translators",
     "description": "Heading for group of users."
   }
 }
