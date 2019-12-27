@@ -1,26 +1,26 @@
 {
   "presence.sections.description.title": {
-    "message": "Description",
+    "message": "說明",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "Information",
+    "message": "資訊",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "Author",
+    "message": "作者",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
-    "message": "Version",
+    "message": "版本",
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Tags",
+    "message": "標籤",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Supported URLs",
+    "message": "支援的URL",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
