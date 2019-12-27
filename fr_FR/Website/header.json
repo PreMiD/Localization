@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Français",
+    "message": "O'zbek",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Nous supportons votre langue, voulez-vous la changer?",
+    "message": "Biz sizning tilingizni qo'llab-quvvatlaymiz, almashtirishni xohlaysizmi?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Notre site web a été traduit dans votre langue. Ça pourrait vous aider au cas où vous ne parlez pas très bien l'Anglais.",
+    "message": "Bizning veb-saytimiz sizning tilingizga tarjima qilindi. Agar siz ingliz tilini yaxshi bilmasangiz, bu sizga yordam berishi mumkin.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Non, merci",
+    "message": "Yo'q, rahmat",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Changer de langue",
+    "message": "Tilni almashtirish",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "En train de cuire des pancakes...;En train de placer des conteneurs...;En train d'analyser votre adresse IP...;UwU;En train de casser des règles...",
+    "message": "Kek pishiriladi ...; Jadval tayyorlandi ...; IP manzili hal qilindi ...; UwU; Qoidalar buzilgan ...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Boutique",
+    "message": "Do'kon",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Téléchargements",
+    "message": "Yuklashlar",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributeurs",
+    "message": "Hissa qo'shganlar",
     "description": "Contributors tab"
   }
 }
