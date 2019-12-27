@@ -1,70 +1,70 @@
 {
   "footer.language": {
-    "message": "Мова",
+    "message": "Til",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Готові спробувати PreMiD?",
+    "message": "PreMiD-ni sinab ko'rishga tayyormisiz?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Приєднуйтеся, вже понад {0} користувачів на сьогоднішній день!",
+    "message": "Bugun {0} foydalanuvchilarga qo'shiling!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Установити",
+    "message": "Yuklang",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Партнери",
+    "message": "Hamkorlar",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Розробники",
+    "message": "Dasturchilar",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Документація",
+    "message": "Hujjatlar",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
-    "message": "Розширена присутність",
+    "message": "Boy Xizmat",
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Підтримайте нас",
+    "message": "Bizni qo'llab-quvvatlang",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Донат",
+    "message": "Xayriya qilish",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Зробіть внесок",
+    "message": "Hissa Qo'shing",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
-    "message": "Дизайн",
+    "message": "Dizayn",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Перекладати",
+    "message": "Tarjima Qilmoq",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Допомога",
+    "message": "Yordam",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Вирішення проблем",
+    "message": "Muammolarni bartaraf qilish",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Отримати допомогу",
+    "message": "Yordam oling",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Інформація",
+    "message": "Ma `lumot",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,19 +72,19 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Політика конфіденційності",
+    "message": "Maxfiylik",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Умови",
+    "message": "Shartlar",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "Більше",
+    "message": "Ko'proq",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "Статус",
+    "message": "Holat",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {
@@ -92,11 +92,11 @@
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
-    "message": "{0} від {1}",
+    "message": "{1} foydalanuvchidan {0}",
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Веб-сайт утримує {0}",
+    "message": "Veb-sayt {0} tomonidan boshqariladi",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
