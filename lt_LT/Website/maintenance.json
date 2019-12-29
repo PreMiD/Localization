@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Planiniai darbai",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Deja, mes patiriame techninių sunkumų. Netrukus grįšime. Atsiprašome už nepatogumus.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Please come back later for more info.",
+    "message": "Grįžkite vėliau, jei norite gauti daugiau informacijos.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
+    "message": "Kol mūsų specialieji darbuotojai to neištaisys, apsižvalgykite čia!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Page",
+    "message": "Būsenos puslapis",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord Server",
+    "message": "Discord Serveris",
     "description": "Discord Server link on maintenance page"
   }
 }
