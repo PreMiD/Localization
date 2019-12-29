@@ -1,14 +1,14 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Leisk visiems žinoti, ką darai!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Mūsų funkcijos",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Siuntiniai",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
