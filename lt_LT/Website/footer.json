@@ -1,30 +1,30 @@
 {
   "footer.language": {
-    "message": "Language",
+    "message": "Kalba",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ready to try PreMiD?",
+    "message": "Pasiruošę išbandyti „PreMiD“?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Join {0} users today!",
+    "message": "Prisijunkite prie {0} vartotojų jau šiandien!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Install",
+    "message": "Diegti",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partners",
+    "message": "Partneriai",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developers",
+    "message": "Kūrėjai",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Documentation",
+    "message": "Dokumentacija",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
@@ -32,7 +32,7 @@
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Support us",
+    "message": "Paremkite mus",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
@@ -40,7 +40,7 @@
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribute",
+    "message": "Prisidėkite",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
