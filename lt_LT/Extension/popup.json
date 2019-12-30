@@ -76,7 +76,7 @@
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Jūsų PreMiD programa yra pasenusi. Atnaujinkite įą, kad galėtumėte toliau naudotis PreMiD.",
+    "message": "Jūsų PreMiD programa yra pasenusi. Atnaujinkite ją, kad galėtumėte toliau naudotis PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
