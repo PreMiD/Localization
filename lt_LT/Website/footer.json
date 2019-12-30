@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Reikalinga pagalba?",
+    "message": "Kreiptis pagalbos",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
