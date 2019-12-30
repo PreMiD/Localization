@@ -32,19 +32,19 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Pataisytas iššokančiųjų langų ir skirtukų išdėstymas bei stilius",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Nemažai (ne) žinomų klaidų pabėgo",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Dabar viskas dirba daug greičiau",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Ištaiso senos programos klaidą, net jei turite naujausią",
     "description": ""
   }
 }
