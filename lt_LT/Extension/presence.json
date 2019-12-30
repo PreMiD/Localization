@@ -24,7 +24,7 @@
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
-    "message": "Episodas {0}",
+    "message": "Serija {0}",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
