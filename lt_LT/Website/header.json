@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Mūsų svetainė yra išversta į jūsų kalbą. Tai gali padėti, sunkiai kalbate angliškai.",
+    "message": "Mūsų svetainė yra išversta į jūsų kalbą. Tai gali padėti, jeigu sunkiai kalbate angliškai.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
