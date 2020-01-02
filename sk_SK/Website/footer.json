@@ -36,7 +36,7 @@
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Darovať",
+    "message": "Prispieť",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
