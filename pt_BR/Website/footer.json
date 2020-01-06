@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Junte-se com mais de {0} usuários hoje!",
+    "message": "Junte-se a {0} usuários hoje!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -56,7 +56,7 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Solução de problemas",
+    "message": "Solução de Problemas",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
