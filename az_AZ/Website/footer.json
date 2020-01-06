@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Bu gün {0} istifadəçiyə qoşulun!",
+    "message": "{0} istifadəçiyə qoşulun!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -36,7 +36,7 @@
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "İanə",
+    "message": "İanə et",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
@@ -56,7 +56,7 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Həll etmə",
+    "message": "Həll et",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
