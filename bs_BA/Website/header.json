@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Bosanski",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Mi podržavamo vaš jezik, želite prebaciti?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Naša stranica je prevedena na vaš jezik. Ovo će možda pomoći u slučaju ako nepričate engleski.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Ne, hvala",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Zamijeni jezik",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Kopiranje vaše IP adrese...;hakovanje sistema...;OwO;sušenje pravila...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Prodavnica",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Preuzimanja",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Saradnici",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
