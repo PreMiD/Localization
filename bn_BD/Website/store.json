@@ -32,27 +32,27 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "সব",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "গেমস",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "মিউজিক",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "সামাজিক",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "ভিডিওস & স্ট্রামস",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "অন্যান্য",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
