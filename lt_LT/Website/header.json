@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Lietuvių",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Mes palaikome jūsų kalbą, ar norite pakeisti?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Mūsų svetainė yra išversta į jūsų kalbą. Tai gali padėti, jeigu sunkiai kalbate angliškai.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Ne, ačiū",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Pakeisti kalbą",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Kepami blynai...;Talpyklų talpinimas...;IP adreso nuskaitymas...;UwU; Pažeidžiamos taisyklės...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Parduotuvė",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Siuntiniai",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Pagalbininkai",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
