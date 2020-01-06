@@ -12,7 +12,7 @@
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "{0} yuklang uchun ",
+    "message": "yuklang uchun {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Ah yo'q!** Ilovaga ulanib bo'lmadi... U allaqachon o'rnatilganmi?",
+    "message": "** Ah yo'q! ** Ilovaga ulanib bo'lmadi ... U allaqachon o'rnatilganmi?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
@@ -36,7 +36,7 @@
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Bosqich o'tdi!",
+    "message": "Darajaning ko'tarilishi!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
