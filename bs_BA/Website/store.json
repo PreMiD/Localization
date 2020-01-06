@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Ekstenzija nije pronađena, zaključavanje funkcije...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Ekstenzija pronađena, odključavanje funkcije...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Kreator",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Ovo prisustvo je odobrenjeno od verifikovano programera",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Pretraga",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Dodaj prisustvo",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Ukloni prisustvo",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ovo prisustvo je automatski koristen kada yatreba, nema potrebe dodavati ga.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Sve",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Igre",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Muzika",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Društveno",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videa i Stimovi",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Ostalo",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Pretraga",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Prisutnosti korisnika",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
