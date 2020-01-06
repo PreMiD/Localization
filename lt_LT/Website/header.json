@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Lietuvių",
+    "message": "O'zbek",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Mes palaikome jūsų kalbą, ar norite pakeisti?",
+    "message": "Biz sizning tilingizni qo'llab-quvvatlaymiz, almashtirishni xohlaysizmi?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Mūsų svetainė yra išversta į jūsų kalbą. Tai gali padėti, jeigu sunkiai kalbate angliškai.",
+    "message": "Bizning veb-saytimiz sizning tilingizga tarjima qilindi. Agar siz ingliz tilini yaxshi bilmasangiz, bu sizga yordam berishi mumkin.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Ne, ačiū",
+    "message": "Yo'q, rahmat",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Pakeisti kalbą",
+    "message": "Tilni almashtirish",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Kepami blynai...;Talpyklų talpinimas...;IP adreso nuskaitymas...;UwU; Pažeidžiamos taisyklės...",
+    "message": "Kek pishiriladi ...; Jadval tayyorlandi ...; IP manzili hal qilindi ...; UwU; Qoidalar buzilgan ...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Parduotuvė",
+    "message": "Do'kon",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Siuntiniai",
+    "message": "Yuklashlar",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Pagalbininkai",
+    "message": "Hissa qo'shganlar",
     "description": "Contributors tab"
   }
 }
