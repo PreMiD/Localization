@@ -1,86 +1,86 @@
 {
   "popup.navigation.settings": {
-    "message": "设置",
+    "message": "Settings",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "制作人员名单",
+    "message": "Credits",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "常规",
+    "message": "General",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "启用",
+    "message": "Enabled",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "媒体控制",
+    "message": "Media Controls",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "标题菜单栏",
+    "message": "Title Menubar",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "自动运行",
+    "message": "Auto launch",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "状态",
+    "message": "Presences",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "管理",
+    "message": "Manage",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "没有可用的 Presence",
+    "message": "No Presences added",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "完成",
+    "message": "Done",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "加载 Presence",
+    "message": "Load Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presence 市场",
+    "message": "Presence Store",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "需要帮助吗？",
+    "message": "Need Help?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "哦，不！",
+    "message": "Oh noes!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "加载制作人员名单时出错",
+    "message": "Error while loading credits",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "未连接",
+    "message": "Not connected",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD 无法连接到它的应用程序！确定安装并运行它了吗？*疑难解答*",
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "应用程序需要更新",
+    "message": "Outdated App",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "你的 PreMiD 应用程序需要更新，请更新它以继续使用 PreMiD。",
+    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "全部",
+    "message": "All",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,23 +88,23 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "音乐",
+    "message": "Music",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "游戏",
+    "message": "Games",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "社交",
+    "message": "Socials",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "视频与直播",
+    "message": "Videos & Streams",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "其他",
+    "message": "Other",
     "description": "Category name shown when you open tags"
   }
 }

@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Användare kan nu lägga till egna presences. *Lägg till några nu!*",
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Hitta några *nya presences* i deras naturliga miljö",
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Automatiska uppdateringar är nu en grej",
+    "message": "Auto updating is a thing now",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Användare kan nu skapa deras egna presences",
+    "message": "Users can create presences now",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Dokument* för dessa kreativa utvecklare där ute",
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Ny web design",
+    "message": "All new website design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Mer funktioner för våran Discord-bot",
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Våran nya API är bättre än aldrig",
+    "message": "Our new API is a running beast",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Ny popup och flik layout och stil",
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Många (kända) buggar sprang iväg",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Allting är mycket snabbare nu",
+    "message": "Everything is running much faster now",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixade \"gammalt app\" error även fast du hade senaste",
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }

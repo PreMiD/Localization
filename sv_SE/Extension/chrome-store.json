@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services.",
+    "message": "Your Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Dina Precences för hemsidor!\n\nPreMiD är ett litet verktyg som låter dig visa vad du håller på med på olika hemsidor, rakt in på din Discord profil med hjälp av Discord’s Rich Presence system. När du till exempel börjar titta på en video så tar tillägget all den info som behövs från hemsidan och skickar över det till våran app, som sedan sätter din status i Discord.\n\nPreMid stödjer mer än 250 hemsidor och växer fortfarande tack vare det starka community som lägger till nya Precences varje dag.\n\nFör att använda PreMiD måste du lägga till detta tillägget och ladda ner den officiella PreMiD appen som du kan hitta på vår hemsida. Detta beror på begränsningar i sättet som Discord fungerar.\n\n» Vår Discord Server\n{0}\n\n» Vår Hemsida\n{1}\n\n» GitHub organisation\n{2}\n\nOm du älskar PreMid så dela med dig av en recension, sprid det bland dina vänner eller donera.",
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

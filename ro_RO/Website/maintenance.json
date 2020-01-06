@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Mentenanță",
+    "message": "Maintenance",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Din păcate întâmpinăm dificultăți tehnice. Vom reveni în curând. Ne cerem scuze pentru neplăceri.",
+    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Va rugăm să reveniți mai târziu pentru mai multe informații.",
+    "message": "Please come back later for more info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Până când creatorii noștri speciali rezolvă problema, trage o privire aici!",
+    "message": "Until our special developers fix this, feel free to take a look here!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Pagina de status",
+    "message": "Status Page",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Serverul de Discord",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }

@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Magyar",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Ez az oldal elérhető a Te nyelveden is, váltani akarsz?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Az oldal le lett fordítva a nyelvedre. Ez segíthet, ha nem beszéled jól az Angol nyelvet.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Nem, kösz",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Nyelv váltása",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Palacsinták megsütése...;Konténerek elhelyezése...;IP cím elemzése...;UwU;Szabályok megsértése...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Áruház",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Letöltések",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Közreműködők",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }

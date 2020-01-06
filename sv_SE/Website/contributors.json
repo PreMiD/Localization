@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Personal",
+    "message": "Staff",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Supportrar",
+    "message": "Supporters",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Översättare",
+    "message": "Translators",
     "description": "Heading for group of users."
   }
 }

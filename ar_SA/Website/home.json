@@ -1,14 +1,14 @@
 {
   "home.introduction.catchphrase": {
-    "message": "!دع الجميع يعرفون ماذا تشاهد حاليا",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "ميزاتنا",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "التحميلات",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -16,55 +16,55 @@
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "متبقي {0}",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "!ستحب ميزاتنا",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "استعمل الإضافة التي تلائم**ك**.",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "!لقد طورنا ملحقنا بطريقة تسمح لك بإضافة واستخدام الوضعيات التي أنشأها المستخدمون الآخرون وإدارتها في الملحق بنفسه",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "افتح المتجر",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": ".واجهة مستخدم بسيطة",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "تعبت من واجهات المستخدم معقدة؟ لهذا السبب أنشأنا واجهة بسيطة ومفيدة مع وظائف مهمة فقط و التي تشمل:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": ".إعدادات التطبيق والملحق",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": ".إدارة الإضافات",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": ".الترتيب حسب الفئة",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": ".دعم سريع",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": ".هل هناك خلل بالتطبيق او الملحق؟ سنساعدك على إصلاح ذلك على سيرفر ديسكورد الخاص بنا، كما قمنا بتطوير نظام دعم يجعل حياتك أسهل",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "تواصل معنا",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }

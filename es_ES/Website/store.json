@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Extensión no encontrada, bloqueando funciones...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extensión encontrada, desbloqueando funciones...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creador",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Esta presencia fue aprobada por un desarrollador verificado",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Buscar",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Agregar presencia",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Eliminar presencia",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Esta presencia está incluida en PreMiD por defecto, no es necesario instalarla.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Todas",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Juegos",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Música",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Sociales",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Vídeos y Directos",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Otras",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Buscar",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Presencias de usuarios",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }

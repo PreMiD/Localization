@@ -1,10 +1,10 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Laat iedereen weten wat je doet!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Onze functies",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -12,59 +12,59 @@
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Speelt een spel",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} over",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Je houdt van deze functies!",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Vind **je** presence.",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presence toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open winkel",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Eenvoudige gebruikersinterface.",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Moe van ingewikkelde gebruikersinterfaces? Daarom hebben we een eenvoudige en nuttige interface met alleen belangrijke functies gecreëerd:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App- en extensie instellingen.",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence beheer.",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorteren op categorie.",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Snelle ondersteuning.",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Iets is aan het glitchen of er zijn veel errors? We zullen u helpen in onze Discord server, we hebben daar een support systeem ontwikkeld die het heel gemakkelijk maakt.",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Bezoek onze server",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }

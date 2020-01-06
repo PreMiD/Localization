@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "简体中文",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "我们支持你的语言，想试试吗？",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "我们的网站已翻译成您的语言。如果你看不懂英文，这会有所帮助。",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "不用了，谢谢",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "切换语言",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "正在解除温度限制..;正在布下陷阱..;分析您的IP地址..;UwU;正在重构网页...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Presence 市场",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "下载",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "贡献者",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }

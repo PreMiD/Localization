@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Ugh! Mestikah ini ada?",
+    "message": "Ough! Should this even exist?",
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Maaf, sepertinya halaman yang ingin Anda lihat telah dipindahkah, dihapus, atau mungkin tidak ada sama sekali?",
+    "message": "Sorry, looks like the page that you want to see has been moved or deleted or maybe it never existed?",
     "description": "Message on 404 page"
   }
 }

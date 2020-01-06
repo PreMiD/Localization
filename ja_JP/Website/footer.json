@@ -1,30 +1,30 @@
 {
   "footer.language": {
-    "message": "言語",
+    "message": "Language",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "PreMiDを試す準備はできましたか？",
+    "message": "Ready to try PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "{0} 人の中に加わろう!",
+    "message": "Join over {0} users today!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "インストール",
+    "message": "Install",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "パートナー",
+    "message": "Partners",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "開発者",
+    "message": "Developers",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "ドキュメント",
+    "message": "Documentation",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
@@ -32,39 +32,39 @@
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "私達を支援する",
+    "message": "Support us",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "寄付",
+    "message": "Donate",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "コントリビュート",
+    "message": "Contribute",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
-    "message": "デザイン",
+    "message": "Design",
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "翻訳",
+    "message": "Translate",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "ヘルプ",
+    "message": "Help",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "トラブルシューティング",
+    "message": "Troubleshooting",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "助けを得る",
+    "message": "Get Help",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "インフォメーション",
+    "message": "Information",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,19 +72,19 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "プライバシーポリシー",
+    "message": "Privacy",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "利用規約",
+    "message": "Terms",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "もっと",
+    "message": "More",
     "description": "More section"
   },
   "footer.more.status": {
-    "message": "ステータス",
+    "message": "Status",
     "description": "Status -> redirects to status.premid.app"
   },
   "footer.more.wiki": {

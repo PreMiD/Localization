@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Prezența ta pentru serviciile web!",
+    "message": "Your Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Prezența dvs. bogată pentru servicii web!\nPreMiD este o mică utilitate care vă permite să arătați ceea ce faceți pe site-urile din profilul Discord utilizând SDK Rich Presence Discord. Când începeți să vizionați un videoclip, de exemplu, extensia primește toate informațiile necesare din pagină și o trimite către aplicația noastră pentru a seta starea în profilul dvs. Discord.\n\nPreMiD acceptă peste 250 de site-uri web și continuă datorită comunității sale puternice care adaugă noi prezențe în fiecare zi.\n\nPentru a utiliza PreMiD trebuie să adăugați această extensie și să instalați aplicația oficială PreMiD găsită pe site-ul nostru. Acest lucru se datorează constrângerilor în modul în care funcționează SDK Rich Presence Discord.\n\n» {0} Serverul nostru de discord\n\n» {1} Site-ul nostru\n\n» {2} Organizația GitHub\n\nDacă vă place PreMiD, vă rugăm să lăsați o recenzie, răspândiți-o cu prietenii sau donați.",
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

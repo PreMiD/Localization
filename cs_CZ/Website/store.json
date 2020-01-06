@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Rozšírení se nenašlo, zamykám funkce...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Rozšírení nalezeno, odemykám funkce...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Tvůrce",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Táto přítomnost byla schválena ověřeným vývojářem",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Hledat",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Přidat přítomnost",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Odstranit přítomnost ",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Tato přítomnost se automaticky použije v případě potřeby, není třeba ji přidávat.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Vše",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Hry",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Hudba",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Sociální sítě",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videa & Streamy",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Ostatní",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Hledat",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Uživatelské přítomnosti",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }

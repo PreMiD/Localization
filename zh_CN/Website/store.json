@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "扩展程序未安装，禁用功能…",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "扩展程序已安装，启用功能…",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "创建者",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "此状态已由认证的开发人员批准",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "搜索",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "添加状态",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "删除状态",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "此状态会在必要时自动启动，不需要添加它。",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "全部",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "游戏",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "音乐",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "社交",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "视频与直播",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "其他",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "搜索",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "用户状态",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }

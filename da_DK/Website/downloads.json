@@ -1,50 +1,50 @@
 {
   "downloads.header.title": {
-    "message": "Tid til at vise dig til hele verden.",
+    "message": "Time to show yourself to everyone.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Begynd at bruge PreMiD nu og vis andre mennesker, hvad du laver, måske finder du nogen med de samme interesser.",
+    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Kom i gang",
+    "message": "Get Started",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Installér PreMiD.",
+    "message": "Download PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Installér PreMiD applikationen.",
+    "message": "Install PreMiD application.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Installér udvidelsen til din browser.",
+    "message": "Install extension for your browser.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Besøg {0} siden og kontroller, om udvidelsen er tilsluttet.",
+    "message": "Visit {0} page and check if the extension is connected.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "butik",
+    "message": "store",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Applikationen Download",
+    "message": "Application",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extension downloads",
+    "message": "Extension",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "ADVARSEl:",
+    "message": "WARNING:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
+    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

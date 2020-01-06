@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Hãy cho mọi người biết bạn đang làm gì!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Tính năng của chúng tôi",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Tải về",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Đang chơi game",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} còn lại",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Bạn sẽ rất yêu thích những tính năng này!",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Tìm **presence** của bạn.",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Chúng tôi đã phát triển tiện ích mở rộng để bạn có thể thêm và sử dụng những \"presence\" được tạo bởi những người dùng khác và bạn cũng có thể quản lý chúng trong tiện ích mở rộng của chúng tôi!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Đi tới cửa hàng",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Giao diện dễ dùng, đơn giản.",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Bạn đã quá mệt mỏi vì những giao diện người dùng phức tạp? Đó là lý do mà chúng tôi tạo ra một giao diện đơn giản và hữu ích với những tính năng quan trọng bao gồm:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Cài đặt ứng dụng và tiện ích mở rộng.",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Quản lý Presence.",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sắp xếp theo từng loại.",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Hỗ trợ nhanh chóng.",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Bạn gặp một số trục trặc hoặc cả đống lỗi? Chúng tôi sẽ giúp bạn thoát khỏi điều đó trên Discord Server, chúng tôi cũng đã phát triển một hệ thống hỗ trợ để có thể làm mọi thứ trở nên đơn giản hơn.",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Truy cập Discord Server",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }

@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Tvoj dodatek za spletne storitve!",
+    "message": "Your Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Tvoj dodatek za spletne storitve!\nPreMiD je majhen pripomoček, ki vam omogoča, da pokažete, kaj počnete na spletnih mestih v svojem profilu v Discord-u z uporabo Discordnega dodatka SDK. Ko začnete gledati videoposnetek, na primer ta dodatek vzame informacijo od spletne strani in pošlje to informacijo na našo aplikacijo, ki vam določa stanje na profilu.\n\n\nPreMiD podpira več kot 250 spletnih strani in še vedno se delajo nove stvari zahvaljujoč svoji močni skupnosti, ki vsak dan dodajajo nove dodatke.\n\nZa uporabo PreMiD-a rabite dodati ta dodatek in namestiti uradno PreMiD aplikacijo, ki jo lahko najdete na naši spletni strani. To je posledica delovanja Discordnega dodatka SDK.\n\n» Naš Discord Strežnik\n{0}\n\n» Naša spletna stran\n{1}\n\n» GitHub organizacija\n{2}\n\nČe imate radi PreMiD prosim pustite pripombo, razširite ga s prijatelji ali prispevajte / donirajte.",
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
