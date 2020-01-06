@@ -1,0 +1,10 @@
+{
+  "404.heading": {
+    "message": "啊! 這個應該存在嗎?",
+    "description": "Heading on 404 page"
+  },
+  "404.message": {
+    "message": "抱歉, 看來那個頁面已被移除或者已被移動還是他原本就並不存在?",
+    "description": "Message on 404 page"
+  }
+}
