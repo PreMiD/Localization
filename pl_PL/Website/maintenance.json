@@ -16,7 +16,7 @@
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Strona statusu",
+    "message": "Status",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
