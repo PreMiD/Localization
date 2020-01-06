@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Slovenčina",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Podporujeme tvoj jazyk, chceš si ho zmeniť?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Naša webová stránka bola preložená do tvojho jazyka. Môže ti to pomôcť v prípade že dobre nehovoríš po Anglicky.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Nie, ďakujem",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Zmeniť teraz",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Pečiem palacinky...;Umiestňujem kontajnery...; Analyzujem tvoju IP adresu...;UwU;Porušujem pravidlá...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Obchod",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Stiahnuť ",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Prispievatelia",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
