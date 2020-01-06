@@ -52,11 +52,11 @@
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Outras",
+    "message": "Outros",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Buscar",
+    "message": "Pesquisar",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {

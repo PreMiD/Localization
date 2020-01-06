@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "¡Que todo el mundo sepa qué estás viendo y escuchando!",
+    "message": "¡Deja que todos sepan lo que estás haciendo!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Descargas\n",
+    "message": "Descargas",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "¡Te encantarán éstas características!",
+    "message": "¡Te encantarán estas características!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -52,7 +52,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Ordenando por categoría.",
+    "message": "Clasificación por categoría.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {

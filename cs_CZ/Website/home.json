@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Soubory ke stažení",
+    "message": "Stáhnout",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {

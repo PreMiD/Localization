@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Förlåt, ser ut som att denna sida har flyttas eller blivit bortagen, kanske inte ens fanns?",
+    "message": "Förlåt, ser ut som att denna sida har flyttas eller blivit borttagen. Kanske fanns den aldrig?",
     "description": "Message on 404 page"
   }
 }

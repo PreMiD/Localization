@@ -29,7 +29,7 @@
   },
   "footer.developers.richpresence": {
     "message": "Rich Presence",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "Hỗ trợ chúng tôi",
@@ -37,11 +37,11 @@
   },
   "footer.supportus.donate": {
     "message": "Ủng hộ",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "Đóng góp",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "Thiết kế",
@@ -57,7 +57,7 @@
   },
   "footer.help.troubleshooting": {
     "message": "Xử lý sự cố",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "Nhận trợ giúp",

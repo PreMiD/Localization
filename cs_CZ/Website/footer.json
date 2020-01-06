@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Připoj k více než {0} uživatelům již dnes!",
+    "message": "Připojte se k {0} uživatelům již dnes!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -29,19 +29,19 @@
   },
   "footer.developers.richpresence": {
     "message": "Rich Presence",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "Podpoř nás",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Darovat",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "message": "Přispět",
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "Přispět",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "Design",
@@ -56,8 +56,8 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Řešení problémů",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "message": "Řešit Problémy",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "Získat Pomoc",

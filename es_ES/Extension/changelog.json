@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Los usuarios pueden ahora añadir presencias por ellos mismos. *Instala algunas ahora!*",
+    "message": "Ahora los usuarios pueden añadir presencias por ellos mismos. *¡Añade algunas ahora!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Encuentra algunas *Nuevas Presencias* en su hábitat natural",
+    "message": "Encuentra algunas *nuevas presencias* en su hábitat natural",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Documentos* Para esos desarrolladores creativos de ahí fuera",
+    "message": "*Documentación* para esos desarrolladores creativos de ahí fuera",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -32,7 +32,7 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Una renovación de los Popups y cambios de pestañas",
+    "message": "Ventana emergente, diseño y estilo de pestañas renovadas",
     "description": ""
   },
   "extension.2.0.fix1": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Se corrigió el error de la aplicación anterior incluso si tienes la última",
+    "message": "Se corrigió el error de la aplicación anterior incluso si tienes la más reciente",
     "description": ""
   }
 }

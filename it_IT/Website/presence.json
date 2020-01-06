@@ -4,7 +4,7 @@
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "Informazioni",
+    "message": "Informazione",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {

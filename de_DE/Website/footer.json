@@ -29,7 +29,7 @@
   },
   "footer.developers.richpresence": {
     "message": "Rich Presence",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "Unterstütze uns",
@@ -37,11 +37,11 @@
   },
   "footer.supportus.donate": {
     "message": "Spenden",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "Mitwirken",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "Designen",
@@ -56,8 +56,8 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Fehlerbehebung",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "message": "Problemlösung",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "Hilfe erhalten",

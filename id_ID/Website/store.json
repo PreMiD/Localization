@@ -36,7 +36,7 @@
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Permainan",
+    "message": "Game",
     "description": "Category at the top"
   },
   "store.category.music": {
@@ -52,7 +52,7 @@
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Lain-Lain",
+    "message": "Lainnya",
     "description": "Category at the top"
   },
   "store.search": {

@@ -1,0 +1,50 @@
+{
+  "downloads.header.title": {
+    "message": "是時候展現自己了.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "馬上開始使用 PreMiD 讓大家知道您在幹嘛, 您有可能交到一個同樣興趣的朋友.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "馬上開始",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "下載PreMiD.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "下載PreMiD應用程式.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "為您的瀏覽器安裝擴展程序",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "訪問 {0} 頁面, 來檢查擴展程序是否已連接.",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "市場",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "應用程序",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "擴展程序",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "注意:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服會協助您.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  }
+}

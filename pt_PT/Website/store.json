@@ -56,7 +56,7 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Procurar",
+    "message": "Pesquisar",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {

@@ -29,19 +29,19 @@
   },
   "footer.developers.richpresence": {
     "message": "واجهة ديسكورد",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "ادعمنا",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "تبرع",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "message": "التبرع",
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "ساهم",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "التصميم",
@@ -56,8 +56,8 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "إصلاح الاخطاء",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "message": "استكشاف الأخطاء وإصلاحها\n \n ",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "احصل على المساعدة",

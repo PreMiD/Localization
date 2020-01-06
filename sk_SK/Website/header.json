@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Podporujeme tvoj jazyk, chceš si zmeniť ho do slovenčiny?",
+    "message": "Podporujeme tvoj jazyk, chceš si ho zmeniť?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {

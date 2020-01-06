@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "Agora, os usuários podem adicionar presenças por si mesmos. *Adicione uma agora!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "Encontre algumas *presenças novas* em seu habitat natural",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "Atualização automática agora é uma coisa",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Todos podem criar presenças agora",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "*Docs* para estes desenvolvedores criativos lá fora",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Todo o novo design do site",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Mais características para nosso Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "A nossa nova API é uma besta de corrida",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Poppup revampado e layout de abas e estilo",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "Muitos bugs (des) conhecidos fugiram",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Everything is running much faster now",
+    "message": "Tudo está correndo muito mais rápido agora",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Corrige o erro antigo mesmo que você tenha o último",
     "description": ""
   }
 }

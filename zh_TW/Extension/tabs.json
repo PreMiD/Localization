@@ -1,0 +1,58 @@
+{
+  "tab.button.changelog": {
+    "message": "更新項目",
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.button.wiki": {
+    "message": "維基",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.heading": {
+    "message": "感謝您",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.subHeading": {
+    "message": "下載 {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.start": {
+    "message": "開始使用 {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
+  },
+  "donate": {
+    "message": "捐贈",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "**唉呀 糟糕!** 我們無法連接應用程式... 是否已安裝了應用程式?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.troubleshooting": {
+    "message": "疑難解答",
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "安裝應用程式",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.updated.heading": {
+    "message": "升級!",
+    "description": "Title of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.subHeading": {
+    "message": "{0} 已被升級!",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.new": {
+    "message": "已新增",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "已更改",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.fixed": {
+    "message": "已修復",
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
+  }
+}

@@ -29,19 +29,19 @@
   },
   "footer.developers.richpresence": {
     "message": "Rikas lisäosa",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "Tue meitä",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Lahjoita",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "message": "Lahjoita ",
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "Osallistu",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "Ulkonäkö",
@@ -56,8 +56,8 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Ongelmanratkaisu",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "message": "Apua",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "Saa apua",

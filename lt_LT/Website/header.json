@@ -1,0 +1,38 @@
+{
+  "header.language": {
+    "message": "Lietuvių",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Mes palaikome jūsų kalbą, ar norite pakeisti?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Mūsų svetainė yra išversta į jūsų kalbą. Tai gali padėti, jeigu sunkiai kalbate angliškai.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ne, ačiū",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Pakeisti kalbą",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Kepami blynai...;Talpyklų talpinimas...;IP adreso nuskaitymas...;UwU; Pažeidžiamos taisyklės...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Parduotuvė",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Siuntiniai",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Pagalbininkai",
+    "description": "Contributors tab"
+  }
+}

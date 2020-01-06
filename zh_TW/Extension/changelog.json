@@ -1,0 +1,50 @@
+{
+  "extension.2.0.new1": {
+    "message": "用戶現在已可以自己添加狀態. *馬上添加吧!*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "在大自然生態中尋找一些新狀態",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "自動更新成真了",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "用戶現已可以創建狀態",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "為有創意的開發者們創建了*文檔*",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "全新的網站設計",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "已為 Discord 機器人添加更多功能",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "我們的新API正在穩定的運行",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "改進了彈出窗口和標籤的佈局和設計",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "許多的未知錯誤逃跑了",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "所有東西都運行快多了",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "修復了舊應用的錯誤即使您擁有最新的錯誤",
+    "description": ""
+  }
+}

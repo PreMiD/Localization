@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "Darbuotojai",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Pagalbininkai",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Vertėjai",
+    "description": "Heading for group of users."
+  }
+}

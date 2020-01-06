@@ -20,7 +20,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Pobierz rozszerzenie.",
+    "message": "Pobierz rozszerzenie dla twojej przeglądarki.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Ta aplikacja nie ma instalatora dla tego systemu operacyjnego, czyli nie ma dla niego profesjonalnego wsparcia.",
+    "message": "{0} Nie posiadamy instalatora dla tego systemu operacyjnego. To oznacza, że nie mamy pod to profesjonalnego wsparcia.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

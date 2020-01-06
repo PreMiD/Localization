@@ -16,7 +16,7 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Búsqueda",
+    "message": "Buscar",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
@@ -32,7 +32,7 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Todo",
+    "message": "Todas",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -48,15 +48,15 @@
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Vídeos y directos",
+    "message": "Vídeos y Directos",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Otro",
+    "message": "Otras",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Búsqueda",
+    "message": "Buscar",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
