@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Ough! Should this even exist?",
+    "message": "Éc! Trang này không còn tồn tại?",
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Sorry, looks like the page that you want to see has been moved or deleted or maybe it never existed?",
+    "message": "Xin lỗi, có vẻ như trang mà bạn muốn truy cập đã bị sửa đổi, gỡ bỏ, hoặc có lẽ là nó chẳng tồn tại? xD",
     "description": "Message on 404 page"
   }
 }
