@@ -24,11 +24,11 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Raskite ** savo ** pristatymą.",
+    "message": "Raskite ** savo ** statusą.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Savo plėtinį sukūrėme tokiu būdu, kuris leidžia jums pridėti ir naudoti kitų vartotojų sukurtus pristatymus ir valdyti juos plėtinyje!",
+    "message": "Savo plėtinį sukūrėme tokiu būdu, kuris leidžia jums pridėti ir naudoti kitų vartotojų sukurtus statusus ir valdyti juos plėtinyje!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -48,7 +48,7 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Pristatymų valdymas.",
+    "message": "Statusų valdymas.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
