@@ -1,50 +1,50 @@
 {
   "downloads.header.title": {
-    "message": "Este timpul să vă arătați tuturor.",
+    "message": "Time to show yourself to everyone.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Începeți să utilizați PreMiD acum și arătați-le altor persoane ce faceți, poate că veți găsi pe cineva cu aceleași interese.",
+    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Începe",
+    "message": "Get Started",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Descarcă PreMiD.",
+    "message": "Download PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Instalează aplicația PreMiD.",
+    "message": "Install PreMiD application.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Instalează extensia pentru browser-ul tău.",
+    "message": "Install extension for your browser.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Vizitați pagina {0} și verificați dacă extensia s-a conectat.",
+    "message": "Visit {0} page and check if the extension is connected.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "magazin",
+    "message": "store",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Aplicație",
+    "message": "Application",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extensie",
+    "message": "Extension",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "ATENȚIE:",
+    "message": "WARNING:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Aplicația nu are instalator pentru acest sistem de operare. Aceasta înseamnă că nu există nici un sprijin profesional pentru aceasta.",
+    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }
