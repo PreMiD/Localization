@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "ไม่พบส่วนเสริม.. ไม่สามารถใช้งานได้",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "พบส่วนเสริมแล้ว.. ปลดล็อกฟังก์ชันแล้ว",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "ผู้สร้าง",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Presence นี้ได้รับการอนุมัติจากผู้พัฒนาแล้ว",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "่ค้นหา",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "เพิ่ม Presence",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "ลบ presence",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "ใน presence นี้รวมอยู่ใน PreMiD  โดยค่าเริ่มต้น คุณไม่จำเป็นต้องติดตั้งอีก",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "ทั้งหมด",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "เกม",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "เพลง",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "โซเชียล",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "วีดีโอและสตรีมมิ่ง",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "อื่นๆ",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "่ค้นหา",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Presences ผู้ใช้",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
