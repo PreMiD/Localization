@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Módosítási napló",
+    "message": "Changelog",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,51 +8,51 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Köszönjük,",
+    "message": "Thank you",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "hogy telepítetted a {0} bővítményt",
+    "message": "for installing {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "{0} használata",
+    "message": "Start using {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Támogatás",
+    "message": "Donate",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Ó ne!** Nem tudtunk csatlakozni az alkalmazáshoz... Telepítve van?",
+    "message": "**Oh no!** We couldn't connect to the application... Is it already installed?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Hibaelhárítás",
+    "message": "Troubleshooting",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Alkalmazás telepítése",
+    "message": "Install application",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Szintlépés!",
+    "message": "Level up!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} frissítve!",
+    "message": "{0} has been updated!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "Új",
+    "message": "New",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Módosítva",
+    "message": "Changed",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Frissítve",
+    "message": "Fixed",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
