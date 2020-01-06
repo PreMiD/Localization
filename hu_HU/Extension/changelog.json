@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "A felhasználók ezentúl már maguk is hozzáadhatnak állapotüzeneteket. *Adj hozzá néhányat!*",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "*Új állapotüzeneteket* [itt] találsz",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Az automatikus frissítés hozzáadásra került",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "A felhasználók ezentúl létrehozhatnak új állapotüzeneteket",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Dokumentumokat* adtunk hozzá a kreatív, külsős fejlesztők számára",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Teljesen új weboldal kinézet",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Számos funkcióval bővült Discord-Bot",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Gyorsabb API",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Átalakított felugró ablakok és fülek",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Számos ismert és ismeretlen hiba került kijavításra",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Ezentúl minden gyorsabban fut",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Régebbi alkalmazás hibáinak kijavítása, a legújabb esetében is",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
