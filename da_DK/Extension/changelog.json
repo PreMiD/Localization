@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Brugere kan nu tilføje presences af sig selv. * Tilføj nogle nu! *",
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find nogle * nye presences* i deres naturlige habitat",
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto opdatering er nu en ting",
+    "message": "Auto updating is a thing now",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Brugere can nu selv skabe \"presences\"",
+    "message": "Users can create presences now",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "* Dokumenter * for disse kreative udviklere derude",
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Helt nyt hjemmeside design",
+    "message": "All new website design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Flere funktioner for vores Discord bot",
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Vores nye API er et bæst",
+    "message": "Our new API is a running beast",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Gendannet popup og faner layout og stil",
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "En masse (u)kendte fejl løb væk",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Alt kører meget hurtigere nu",
+    "message": "Everything is running much faster now",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Retter gammel appfejl, selvom du har den nyeste",
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }
