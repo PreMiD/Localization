@@ -1,18 +1,18 @@
 {
   "extension.2.0.new1": {
-    "message": "Sekarang pengguna dapat menambahkan presence sendiri. *Tambahkan sekarang*",
+    "message": "Sekarang pengguna dapat menambahkan presence sendiri. *Tambahkan sekarang!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Temukan [presence baru] di habitat alaminya",
+    "message": "Temukan *presence baru* di habitat alaminya",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Pembaruan Otomatis sudah tersedia",
+    "message": "Pembaruan otomatis telah tersedia",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Pengguna dapat membuat presence sekarang",
+    "message": "Sekarang pengguna bisa membuat presence",
     "description": ""
   },
   "extension.2.0.new5": {
@@ -20,23 +20,23 @@
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Desain website terbaru",
+    "message": "Desain website baru",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Fitur lebih banyak untuk Discord-Bot kami",
+    "message": "Lebih banyak fitur untuk bot Discord kami",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "API baru kami berjalan seperti monster",
+    "message": "API baru kami berjalan sangat cepat",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Gaya, popup, dan susunan tab dirubah",
+    "message": "Gaya, popup, dan susunan tab diubah",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Banyak bug yang (tidak)diketahui kabur",
+    "message": "Banyak bug yang (tidak) diketahui telah diperbaiki",
     "description": ""
   },
   "extension.2.0.fix2": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Perbaikan pada aplikasi lama bahkan kamu sudah punya yang baru",
+    "message": "Perbaikan pada aplikasi lama walaupun kamu sudah punya yang terbaru",
     "description": ""
   }
 }
