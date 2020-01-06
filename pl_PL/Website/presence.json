@@ -20,7 +20,7 @@
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Wspierane adresy URL",
+    "message": "Wspierane Adresy URL",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }

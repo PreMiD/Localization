@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Twoje Rich Presence dla stron internetowych!\nPreMiD jest małym programem pozwalającym tobie pokazywać co robisz na stronach na twoim discordowym profilu. Kiedy na przykład zaczynasz oglądać wideo, rozszerzenie zbiera wszystkie informacje z strony i wysyła je do naszej aplikacji aby ustawić status na twoim profilu.\n\nPreMiD obsługuje więcej niż 250 stron. Dzięki dużemu community codziennie są dodawane nowe rozszerzenia dla nowych stron.\n\nAby użyć PreMiD'a musisz dodać rozszerzenie i zainstalować oficjalną aplikacje z naszej strony. Jest to wymagane aby nasz dodatek zadziałał.\n\n» Nasz Discord\n{0}\n\n» Nasza strona\n{1}\n\n» Projekt na GitHubie\n{2}\n\nJeżeli kochasz PreMiD'a zostaw recenzję, podziel sie tym z swoimi przyjaciółmi lub zdonejtuj nas.",
+    "message": "MUSISZ ZAINSTALOWAĆ OFICJALNĄ APLIKACJĘ, ABY TO ZADZIAŁAŁO\n {0} {1}\n\nMożesz użyć swoich klawiszy mediów, aby kontrolować odtwarzanie danego serwisu. Kiedy oglądasz/słuchasz czegoś z jednego z serwisów, dodatek do przeglądarki wysyła metadane filmu/utworu do twojego klienta na komputerze, a wtedy PreMiD to przetwarza. PreMiD wysyła informacje do Discord'a we właściwej formie i wtedy automatycznie ustawia status.\nWspierane serwisy\n {2} Zajrzyj tutaj {3}\n\nPotrzebujesz pomocy?\n {4} {5}\n\nNasz serwer Discord\n {6} Porozmawiaj z ludźmi od PreMiD {7}\n\nJesteśmy Open Source!\n {9} Świetne rzeczy powinny być otwarte dla publiki {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

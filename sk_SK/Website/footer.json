@@ -4,7 +4,7 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Pripravený vyskúšať PreMiD?",
+    "message": "Pripravený skúsiť PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -20,7 +20,7 @@
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Vývojari",
+    "message": "Vývojári",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
@@ -36,7 +36,7 @@
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Prispieť",
+    "message": "Darovať",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {

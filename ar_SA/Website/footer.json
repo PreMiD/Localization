@@ -36,7 +36,7 @@
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "التبرع",
+    "message": "تبرع",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
@@ -56,7 +56,7 @@
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "استكشاف الأخطاء وإصلاحها\n \n ",
+    "message": "إصلاح الاخطاء",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
