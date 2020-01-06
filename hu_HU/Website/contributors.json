@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Csapat",
+    "message": "Staff",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Támogatók",
+    "message": "Supporters",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Fordítók",
+    "message": "Translators",
     "description": "Heading for group of users."
   }
 }
