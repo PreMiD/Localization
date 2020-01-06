@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Nie znaleziono rozszerzenia, blokowanie funkcji...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Wykryto rozszerzenie, odblokowywanie funkcji...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Twórca",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Ten status został zatwierdzony przez zaufanego developera",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Wyszukaj",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Dodaj Status",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Odinstaluj status",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ten status jest automatycznie uruchamiany kiedy go potrzebujesz, nie musisz go dodawać.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Wszystkie",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Gry",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Muzyka",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Media Społecznościowe",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Filmy i transmisje",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Inne",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Wyszukaj",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Statusy użytkownika",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
