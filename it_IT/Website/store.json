@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Estensione non trovata, bloccando le funzioni...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Estensione trovata, sbloccando le funzioni...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creatore",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Questa presenza è stata approvata da uno sviluppatore verificato",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Cerca",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Aggiungi presenza",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Rimuovi presenza",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Questa presenza viene utilizzata automaticamente quando necessario, non c'è bisogno di aggiungerla.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Tutto",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Giochi",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Musica",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Social",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Video & Dirette",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Altro",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Cerca",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Presenze dell'utente",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
