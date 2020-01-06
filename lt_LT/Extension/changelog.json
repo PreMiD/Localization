@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Dabar vartotojai gali patys prisidėti prisistatymų. * Pridėti keletą dabar! *",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Raskite * naujų pristatymų * jų natūraliose buveinėse",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Automatinis atnaujinimas jau čia",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Vartotojai dabar gali kurti pristatymus",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "* Dokumentai *, skirti kūrybingiems kūrėjams",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Visiškai naujas svetainės dizainas",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Daugiau funkcijų mūsų Discord-Bot",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Mūsų naujoji API yra žvėris",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Pataisytas iššokančiųjų langų ir skirtukų išdėstymas bei stilius",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Nemažai (ne) žinomų klaidų pabėgo",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Dabar viskas dirba daug greičiau",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Ištaiso senos programos klaidą, net jei turite naujausią",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
