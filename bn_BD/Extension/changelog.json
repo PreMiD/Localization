@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "ব্যবহারকারীরা এখন নিজেরাই উপস্থিতিগুলি যুক্ত করতে পারেন। * এখনই কিছু যুক্ত করুন! *",
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "তাদের প্রাকৃতিক আবাসে কিছু * নতুন উপস্থাপনা * সন্ধান করুন",
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "অটো আপডেট করা এখন একটি জিনিস",
+    "message": "Auto updating is a thing now",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "উজার্স রা এখন নিজের রিচ প্রেসেন্স বানাইতে পারবে",
+    "message": "Users can create presences now",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*ডক্স* যারা একটু ক্রিয়েটিভ তাদের জন্য",
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "একদম নতুন ওয়েবসাইট ডিসাইন",
+    "message": "All new website design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "নতুন ফিচারস ডিসকার্ড বোট এর জন্য",
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "আমাদের নতুন API একটা জন্তু",
+    "message": "Our new API is a running beast",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "পুনর্নির্মাণ পপআপ এবং ট্যাবস লেআউট এবং শৈলী",
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "অনেক (না)জানা বাগস ভাগসে",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "সব কিছু এখন অনেক ভালো চলতাছে",
+    "message": "Everything is running much faster now",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "আপনার কাছে সর্বশেষতম অ্যাপ্লিকেশন থাকলেও পুরানো অ্যাপ্লিকেশন ত্রুটি ঠিক করে",
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }
