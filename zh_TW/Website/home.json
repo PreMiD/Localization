@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "讓大家知道您在做些什麼吧!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "我們的功能",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "下載",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "正在玩遊戲",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} 離開了",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "你會愛上這些功能的!",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "尋找 **您的** 狀態.",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "我們開發擴展程序的方式允許您添加和使用其他用戶創建的狀態, 並在我們的擴展程序中對其進行管理!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "打開市場",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "簡單的用戶界面.",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "厭倦了複雜的用戶界面? 因此, 我們創建了一個簡單而有用的界面, 其中包含重要功能:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "應用程序和擴展程序設置.",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "狀態管理.",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "順類型排列",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "快速的客服.",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "出現故障或收到大量錯誤? 在我們的群組我們很樂意為您解決那些錯誤, 我們也開發了客服系統那會讓您的生活更加簡單.",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "加入我們的服務器",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }
