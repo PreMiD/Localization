@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Təmir",
+    "message": "Maintenance",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Təəssüf ki, texniki çətinliklər yaşayırıq. Qısa müddətdə qayıdacağıq. Narahatçılığa görə üzr istəyirik.",
+    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Daha çox məlumat üçün daha sonra geri qayıdın.",
+    "message": "Please come back later for more info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Xüsusi inkişaf etdiricilərimiz bunu düzəldənə qədər, buraya nəzər yetirin!",
+    "message": "Until our special developers fix this, feel free to take a look here!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status səhifəsi",
+    "message": "Status Page",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord serveri",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }
