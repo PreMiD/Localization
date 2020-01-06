@@ -1,50 +1,50 @@
 {
   "store.message.error": {
-    "message": "Erweiterung nicht gefunden, sperre Funktionen...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Erweiterung gefunden, entsperre Funktionen...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Ersteller",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Diese Präsenz wurde von einem verifiziertem Entwickler bestätigt",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Suchen",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Präsenz hinzufügen",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Präsenz entfernen",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Diese Präsenz wird bei Bedarf automatisch verwendet, sie muss nicht extra hinzugefügt werden.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Alle",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Spiele",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Musik",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Soziale Netzwerke",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
@@ -52,15 +52,15 @@
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Sonstige",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Suchen",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Benutzerpräsenzen",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
