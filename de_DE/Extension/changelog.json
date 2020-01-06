@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Benutzer können nun selbst Präsenzen hinzufügen. *Füge welche hinzu!*",
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Finde *neue Präsenzen* in ihrem natürlichen Lebensraum",
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Automatische Updates sind jetzt eine Sache",
+    "message": "Auto updating is a thing now",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Benutzer können jetzt Präsenzen erstellen",
+    "message": "Users can create presences now",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* für die kreativen Entwickler da draußen",
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Komplett neues Website Design",
+    "message": "All new website design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Mehr Funktionen für unseren Discord-Bot",
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Unsere neue API ist ein laufendes Biest",
+    "message": "Our new API is a running beast",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Überarbeitetes Popup- und Tab-Layout",
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Viele (un)bekannte Fehler sind weggelaufen",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Alles läuft jetzt viel schneller",
+    "message": "Everything is running much faster now",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Behebt alten Programm-Fehler, auch wenn die neueste hast",
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }
