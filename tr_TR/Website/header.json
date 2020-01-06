@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Türkçe",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Dilinizi destekliyoruz, geçiş yapmak ister misin?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "İnternet sitemiz sizin dilinize çevrildi bile! İngilizceyi iyi bilmiyorsanız bu yardımcı olabilir.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Hayır, teşekkürler",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Dili değiştir",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Kekler pişiriliyor...;Masa hazırlanıyor...;IP adresiniz çözümleniyor...;UwU;Kurallar kırılıyor...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Mağaza",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "İndir",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Katkıda Bulunanlar",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
