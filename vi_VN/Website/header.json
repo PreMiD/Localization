@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Tiếng Việt",
+    "message": "English",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Chúng tôi có hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
+    "message": "We support your language, wanna switch?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này có lẽ sẽ giúp đỡ rất nhiều với những người không giỏi tiếng Anh.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Không, cảm ơn",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Chuyển đổi ngôn ngữ",
+    "message": "Switch language",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Đang nướng bánh...;Đang tải trang...;Phân tích địa chỉ IP của bạn...;UwU;Phá bỏ quy tắc...",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Cửa hàng",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Tải về",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Người đóng góp",
+    "message": "Contributors",
     "description": "Contributors tab"
   }
 }
