@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Użytkownicy mogą teraz dodawać własne statusy. *Zainstaluj je teraz!*",
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Możesz teraz zobaczyć *nowe statusy* w ich naturalnym środowisku",
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Automatyczne aktualizacje już istnieją",
+    "message": "Auto updating is a thing now",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Teraz każdy może tworzyć statusy",
+    "message": "Users can create presences now",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Dodaliśmy *dokumentację* dla kreatywnych developerów",
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Kompletnie nowy wygląd strony",
+    "message": "All new website design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Więcej funkcji dla naszego Discordowego bota",
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Nasze nowe API działa jak bestia",
+    "message": "Our new API is a running beast",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Odnowiony styl i wygląd kart",
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Mnóstwo (nie)znanych błędów zostało naprawionych",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Wszystko działa teraz o wiele szybciej",
+    "message": "Everything is running much faster now",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Naprawia starszy błąd aplikacji, nawet jeśli posiadasz najnowszą wersję",
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }
