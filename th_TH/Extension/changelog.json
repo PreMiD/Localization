@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "ผู้ใช้งานสามารถเพิ่ม Presence ได้ด้วยตัวเอง\n[ติดตั้งเดี๋ยวนี้!]",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "คุณสามารถดู [Presences มาใหม่] ได้ ที่นี่",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "ระบบอัปเดตอัตโนมัติ",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "ตอนนี้ผู้ใช้สามารถสร้าง Presence ได้เองแล้ว",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*เอกสาร* สำหรับผู้พัฒนา",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "การออกแบบเว็บไซต์ใหม่!",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "ฟีเจอร์อีกมากมายของ Discord-Bot",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "API ใหม่ของเราเทพมาก",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "ปรับปรุงป็อปอัปและหน้าแท็บ",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "บัคนับร้อยได้ยอมศิโรราบต่อเราแล้ว",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "ทุกอย่างทำงานได้เร็วกว่าเดิม",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "แก้ไขข้อผิดพลาดแอปเก่าแม้ว่าคุณจะมีแอปล่าสุด",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
