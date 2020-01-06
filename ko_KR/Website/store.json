@@ -8,7 +8,7 @@
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "제작자",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
@@ -16,47 +16,47 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "검색",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Presence 추가하기",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Presence 제거하기",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is included in PreMiD by default, no need to install it.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "모두",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "게임",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "음악",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "소셜",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "비디오 & 스트림",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "기타",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "검색",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
