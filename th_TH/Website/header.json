@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "English",
+    "message": "ไทย",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "เรารองรับภาษาของคุณนะ อยากเปลี่ยนไหม?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
+    "message": "เว็บไซต์ของเรามีภาษาอื่น ๆ ให้เลือก เผื่อคุณจะอ่านภาษาอังกฤษไม่เก่งนะ",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "ไม่ ขอบคุณ",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Switch language",
+    "message": "เปลี่ยนภาษา",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "กำลังอบแพนเค้ก...;วางแพนเค้ก...;กำลังแยกแพนเค้ก...;UwU;กำลังแหกแพนเค้ก...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "ร้านค้า",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "ดาวน์โหลด",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "ผู้พัฒนา",
     "description": "Contributors tab"
   }
 }
