@@ -1,86 +1,86 @@
 {
   "popup.navigation.settings": {
-    "message": "Einstellungen",
+    "message": "Settings",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "Mitwirkende",
+    "message": "Credits",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "Generell",
+    "message": "General",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "Aktiviert",
+    "message": "Enabled",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "Mediensteuerung",
+    "message": "Media Controls",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "Titel Menubar",
+    "message": "Title Menubar",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Autostart",
+    "message": "Auto launch",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Präsenzen",
+    "message": "Presences",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "Verwalten",
+    "message": "Manage",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Keine Präsenzen hinzugefügt",
+    "message": "No Presences added",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Fertig",
+    "message": "Done",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Präsenz laden",
+    "message": "Load Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Präsenz-Store",
+    "message": "Presence Store",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Brauchst Du Hilfe?",
+    "message": "Need Help?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "Och ne!",
+    "message": "Oh noes!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Fehler beim Laden der Mitwirkenden",
+    "message": "Error while loading credits",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Nicht verbunden",
+    "message": "Not connected",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD konnte sich nicht mit seiner Anwendung verbinden! Ist sie installiert und läuft sie? *Fehlerbehebung*",
+    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Veraltete Applikation",
+    "message": "Outdated App",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Deine PreMiD Applikation ist veraltet. Bitte aktualisiere sie, um PreMiD weiterhin zu verwenden.",
+    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "Alle",
+    "message": "All",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
@@ -88,15 +88,15 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Musik",
+    "message": "Music",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Spiele",
+    "message": "Games",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {
-    "message": "Soziale Netzwerke",
+    "message": "Socials",
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
@@ -104,7 +104,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
-    "message": "Sonstige",
+    "message": "Other",
     "description": "Category name shown when you open tags"
   }
 }
