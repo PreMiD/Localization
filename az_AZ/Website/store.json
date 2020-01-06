@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Əlavə tapılmadı, funksiyalar kilidlənir...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Əlavə tapıldı, funksiyalar açılır...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Yaradıcı",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Bu status təsdiqlənmiş inkişaf etdirici tərəfindən qəbul edildi",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Axtar",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Status əlavə et",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Status sil",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Bu status lazım olduqda avtomatik istifadə olunur, əlavə etmək lazım deyil.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Hamısı",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Oyunlar",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Musiqi",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Sosial",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videolar & Yayımlar",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Digər",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Axtar",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "İstifadəçi statusları",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
