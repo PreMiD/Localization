@@ -1,10 +1,10 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Extensionen ble ikke funnet, lukker functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Extension ble funnet, åpner functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
@@ -12,7 +12,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Denne presencen var godkjent av en bekreftet utvikler",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -20,47 +20,47 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Legg til Presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Fjern presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is included in PreMiD by default, no need to install it.",
+    "message": "Denne presencen er automatisk aktivert når du trenger den, så du trenger ikke å legge den til.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "Spill",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "Musikk",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "Sosialler",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "Videoer og Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "Andre",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Søk",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Bruker presences",
     "description": "Userpage title"
   }
 }
