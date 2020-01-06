@@ -1,26 +1,26 @@
 {
   "presence.sections.description.title": {
-    "message": "תיאור",
+    "message": "Description",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "מידע",
+    "message": "Information",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "מחבר",
+    "message": "Author",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
-    "message": "גרסה",
+    "message": "Version",
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "תגים",
+    "message": "Tags",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "כתובות נתמכות",
+    "message": "Supported URLs",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
