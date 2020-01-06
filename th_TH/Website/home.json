@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "ให้ทุกคนได้รู้ว่าคุณกำลังทำอะไรอยู่!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "ฟีเจอร์ของเรา",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "ดาวน์โหลด",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "กำลังเล่นเกม",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "เหลือ {0}",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "คุณจะต้องรักฟีเจอร์พวกนี้!",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "ตามหา**พรีเซ้น**ของคุณ",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "เราพัฒนาส่วนเสริมให้ผู้ใช้งานได้สร้าง Presence ขึ้นมาเองได้และสามารถจัดการได้ผ่านส่วนเสริมนี้",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "เปิดร้านค้า",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "อินเตอร์เฟสแบบเรียบง่าย",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "เบื่อหน่ายหรือเหนื่อยกับหน้าใช้งานที่ซับซ้อนเหรอ? พวกเราจึงได้สร้างหน้าใช้งานที่ง่ายและมีประโยชน์ด้วยสิ่งที่สำคัญเท่านั้น:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "การตั้งค่าแอป และ ส่วนขยาย",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "จัดการพรีเซ้น",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "เรียงตามหมวดหมู่",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "ช่วยเหลือรวดเร็ว",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "มีบางอย่างผิดพลาด หรือ ส่งข้อผิดพลาดมามากมายถึงคุณใช่มั้ย? เราจะช่วยคุณกำจัดสิ่งนั้นบนเซิร์ฟเวอร์ Discord, เรายังพัฒนาระบบสนับสนุนที่จะทำให้ชีวิตของคุณง่ายขึ้น",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "เยี่ยมชมเว็บไซต์ของเรา",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }
