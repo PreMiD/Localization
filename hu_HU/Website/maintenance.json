@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Karbantartás",
+    "message": "Maintenance",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Sajnos technikai nehézségeink adódtak. Hamarosan visszatérünk. Elnézést a kellemetlenségért.",
+    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "További információkért térj vissza később.",
+    "message": "Please come back later for more info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Amíg ügyes fejlesztőink megoldják ezt a problémát, nyugodtan látogass el ide!",
+    "message": "Until our special developers fix this, feel free to take a look here!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Állapot oldal",
+    "message": "Status Page",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord szerver",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }
