@@ -1,26 +1,26 @@
 {
   "presence.sections.description.title": {
-    "message": "Description",
+    "message": "概要",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "Information",
+    "message": "インフォメーション",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "Author",
+    "message": "作者",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
-    "message": "Version",
+    "message": "バージョン",
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Tags",
+    "message": "タグ",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Supported URLs",
+    "message": "動作するURL",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
