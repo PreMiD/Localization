@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Deine Rich Presence für Webdienste!",
+    "message": "Your Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Deine Rich Presence für Web Services!\nPreMiD ist eine kleine Browsererweiterung, die es dir dank Discords Rich Presence SDK erlaubt in deinem Discord Profil anzuzeigen, was du auf bestimmten Webseiten machst. Wenn du zum Beispiel anfängst ein Video zu schauen, sammelt die Erweiterung alle nötigen Informationen von der Website und sendet sie an unsere Anwendung, welche diese Informationen dann in deinem Discord Profil anzeigt.\n\n\nPreMiD unterstützt mehr als 250 Webseiten und immer mehr dank unserer großartigen Community, die täglich neue Präsenzen hinzufügt.\n\nUm PreMiD zu nutzen, musst du diese Erweiterung, sowie unsere offizielle PreMiD Anwendung, welche du auf unserer Webseite finden kannst, installieren. Dies ist nötig, um Einschränkungen die Discords Rich Presence SDK besitzt zu umgehen.\n\n» Unser Discord Server\n{0}\n\n» Unsere Webseite\n{1}\n\n» GitHub Organisation\n{2}\n\nWenn du PreMiD liebst, lass doch bitte eine Bewertung da, teile es mit deinen Freunden oder spende uns.",
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
