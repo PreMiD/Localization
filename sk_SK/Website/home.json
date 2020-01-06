@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Daj všetkým vedieť čo robíš!",
+    "message": "Let everyone know what you are doing!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Naše funkcie",
+    "message": "Our features",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Stiahnuť ",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Hrá hru",
+    "message": "Playing a game",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "ostáva {0}",
+    "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Tieto funkcie sa ti budú páčiť!",
+    "message": "You will love these features!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Nájdi **svoju** prítomnosť.",
+    "message": "Find **your** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Naše rozšírenie sme vyvinuli spôsobom ktorý ti umožňuje pridávať a používať prítomnosť vytvorenú inými používateľmi a spravovať ich v našom rozšírení!",
+    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Otvor obchod",
+    "message": "Open store",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Jednoduché užívateľské rozhranie.",
+    "message": "Simple user interface.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Už ťa nebaví komplikované užívateľské rozhranie? Preto sme vytvorili jednoduché a užitočné rozhranie ktoré obsahuje iba dôležité funkcie:",
+    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Nastavenia Aplikácií a Rozšírení.",
+    "message": "App and Extension settings.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Spravovanie prítomnosti.",
+    "message": "Presence management.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Zoradenie podľa kategórie.",
+    "message": "Sorting by category.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Rýchla podpora.",
+    "message": "Quick support.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Niečo sa ti pokazilo alebo posiela kopu chýb? Pomôžeme ti sa zbaviť ich na našom Discord serveri, vyvinuli sme tiež podporný systém ktorý ti uľahčí život.",
+    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Navštív náš server",
+    "message": "Visit our server",
     "description": "Features section button"
   }
 }
