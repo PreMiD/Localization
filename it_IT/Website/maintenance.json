@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Manutenzione",
+    "message": "Maintenance",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Purtroppo stiamo avendo difficoltà tecniche. Torneremo a breve. Ci scusiamo per l'inconveniente.",
+    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Per maggiori informazioni, torna più tardi.",
+    "message": "Please come back later for more info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Fino a quando i nostri sviluppatori speciali non lo risolvono, sentiti libero di dare un'occhiata qui!",
+    "message": "Until our special developers fix this, feel free to take a look here!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Pagina di Stato",
+    "message": "Status Page",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Server Discord",
+    "message": "Discord Server",
     "description": "Discord Server link on maintenance page"
   }
 }
