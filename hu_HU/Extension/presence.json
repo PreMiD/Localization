@@ -1,30 +1,30 @@
 {
   "presence.playback.playing": {
-    "message": "Lejátszás",
+    "message": "Ijro etilmoqda",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Lejátszás szüneteltetve",
+    "message": "Ijro to‘xtatildi",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "Böngészés...",
+    "message": "Vositaching...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "Élő közvetítés",
+    "message": "Jonli",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "Olvasás",
+    "message": "O'qing",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "Keresés",
+    "message": "Qidirilmoqda",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
-    "message": "{0} epizód",
+    "message": "Bo'lim {0}",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
