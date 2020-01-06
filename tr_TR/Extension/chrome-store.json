@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "İnternet servisleri için Discord durumu!",
+    "message": "Your Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "İnternet siteleri için Discord Zengin İçeriğiniz!\nPreMiD, Discord Rich Presence SDK'sını kullanarak profilinizde tarayıcınızda ne yaptığınızı göstermenize yarayan ufak bir araçtır. Örnek olarak, desteklenen servislerin birinde bir video izlemeye başladığınızda eklenti gerekli bilgileri uygulamaya gönderecek, uygulama da bu bilgileri işleyerek Discord'a yansıtacaktır.\n\n\nPreMiD şimdiden 250'den fazla servisi destekliyor, buna neden olan güçlü topluluğumuza teşekkür ediyoruz.\n\nPreMiD'i kullanabilmek için resmi internet sitemizden tarayıcı eklentimizi edinmeli ve uygulamamızı indirmelisiniz. İşleri uygulama ile halletmenin nedeni, Discord'un böyle gerektirmesidir.\n\n» Discord Sunucumuz\n{0}\n\n» İnternet Sitemiz\n{1}\n\n» GitHub Sayfamız\n{2}\n\nEğer PreMiD hoşunuza giderse lütfen bir yorum bırakın, arkadaşlarınızla paylaşın veya bağış yapın.",
+    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
