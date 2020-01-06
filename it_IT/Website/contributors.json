@@ -4,11 +4,11 @@
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Sostenitori",
+    "message": "Supporters",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Traduttori",
+    "message": "Translators",
     "description": "Heading for group of users."
   }
 }
