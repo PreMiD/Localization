@@ -28,7 +28,7 @@
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Pristatymai",
+    "message": "Statusai",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Nebuvo pridėta jokių pristatymų",
+    "message": "Nebuvo pridėta jokių statusų",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Įkelkite pristatymą",
+    "message": "Įkelkite statusą",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
