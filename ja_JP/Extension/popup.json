@@ -1,70 +1,70 @@
 {
   "popup.navigation.settings": {
-    "message": "設定",
+    "message": "Settings",
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "クレジット",
+    "message": "Credits",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "一般",
+    "message": "General",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
-    "message": "有効",
+    "message": "Enabled",
     "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.mediaControl": {
-    "message": "メディアコントロール",
+    "message": "Media Controls",
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "タイトルメニューバー",
+    "message": "Title Menubar",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "自動起動",
+    "message": "Auto launch",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "プレゼンス",
+    "message": "Presences",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
-    "message": "管理",
+    "message": "Manage",
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Presencesが何もありません",
+    "message": "No Presences added",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "完了",
+    "message": "Done",
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Presenceを読み込む",
+    "message": "Load Presence",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presenceストア",
+    "message": "Presence Store",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "お困りですか？",
+    "message": "Need Help?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
-    "message": "おっと！",
+    "message": "Oh noes!",
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "クレジットの読み込み中にエラーが発生しました",
+    "message": "Error while loading credits",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "接続していません",
+    "message": "Not connected",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
