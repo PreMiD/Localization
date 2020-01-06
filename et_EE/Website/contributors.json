@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "Meeskond",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Toetajad",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Tõlkijad",
+    "description": "Heading for group of users."
+  }
+}

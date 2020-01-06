@@ -1,0 +1,14 @@
+{
+  "contributors.headings.staff": {
+    "message": "Personal",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Suporteri",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Traducători",
+    "description": "Heading for group of users."
+  }
+}
