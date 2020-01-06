@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Sekarang pengguna dapat menambahkan presence sendiri. *Tambahkan sekarang!*",
+    "message": "Users can now add presences by themself. *Add some now!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Temukan *presence baru* di habitat alaminya",
+    "message": "Find some *new presences* in their natural habitat",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Pembaruan otomatis telah tersedia",
+    "message": "Auto updating is a thing now",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Sekarang pengguna bisa membuat presence",
+    "message": "Users can create presences now",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Dokumentasi* untuk para developer",
+    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Desain website baru",
+    "message": "All new website design",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Lebih banyak fitur untuk bot Discord kami",
+    "message": "More features for our Discord-Bot",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "API baru kami berjalan sangat cepat",
+    "message": "Our new API is a running beast",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Gaya, popup, dan susunan tab diubah",
+    "message": "Revamped popup and tabs layout and style",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Banyak bug yang (tidak) diketahui telah diperbaiki",
+    "message": "A lot of (un)known bugs ran away",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Semuanya berjalan jauh lebih cepat",
+    "message": "Everything is running much faster now",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Perbaikan pada aplikasi lama walaupun kamu sudah punya yang terbaru",
+    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }
