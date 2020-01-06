@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services.",
+    "message": "Veb-xizmatlar uchun sizning Boy Xizmat!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Dina Precences för hemsidor!\n\nPreMiD är ett litet verktyg som låter dig visa vad du håller på med på olika hemsidor, rakt in på din Discord profil med hjälp av Discord’s Rich Presence system. När du till exempel börjar titta på en video så tar tillägget all den info som behövs från hemsidan och skickar över det till våran app, som sedan sätter din status i Discord.\n\nPreMid stödjer mer än 250 hemsidor och växer fortfarande tack vare det starka community som lägger till nya Precences varje dag.\n\nFör att använda PreMiD måste du lägga till detta tillägget och ladda ner den officiella PreMiD appen som du kan hitta på vår hemsida. Detta beror på begränsningar i sättet som Discord fungerar.\n\n» Vår Discord Server\n{0}\n\n» Vår Hemsida\n{1}\n\n» GitHub organisation\n{2}\n\nOm du älskar PreMid så dela med dig av en recension, sprid det bland dina vänner eller donera.",
+    "message": "Veb-saytlar uchun Boy Xizmat!\nPreMiD bu Discord Rich Presence SDK-dan foydalanib, profilingizda brauzeringizda nima qilayotganingizni ko'rsatadigan kichik vositadir. Masalan, qo'llab-quvvatlanadigan xizmatlardan birida videoni ko'rishni boshlaganingizda, plagin kerakli ma'lumotlarni dasturga yuboradi va dastur uni qayta ishlaydi va uni \"Discord\" da aks ettiradi.\n\n\nPreMiD bizning kuchli jamoamiz tufayli 250 dan ortiq xizmatlarni qo'llab-quvvatlaydi.\n\nPreMiD-dan foydalanish uchun siz bizning rasmiy veb-saytimizdan brauzer plaginini olishingiz va dasturimizni yuklab olishingiz kerak. Ilova bilan narsalarni qilishning sababi shundaki, Discord buni talab qiladi.\n\n»Bizning Discord Serverimiz\n{0}\n\n»Bizning Veb-sayt\n{1}\n\n»GitHub Sahifasi\n{2}\n\nAgar sizga PreMiD yoqsa, iltimos, izoh qoldiring, do'stlaringiz bilan baham ko'ring yoki xayriya qiling.\n",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
