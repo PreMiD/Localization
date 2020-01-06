@@ -1,66 +1,66 @@
 {
   "store.message.error": {
-    "message": "Розширення не знайдено, блокування функцій...",
+    "message": "Extension not found, locking functions...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Розширення знайдено, розблокування функцій...",
+    "message": "Extension found, unlocking functions...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Творець",
+    "message": "Creator",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Ця присутність була додана верифікованим розробником",
+    "message": "This presence was approved by a verified developer",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Пошук",
+    "message": "Search",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Додати присутність",
+    "message": "Add presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Видалити присутність",
+    "message": "Remove presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ця присутність автоматично використовується коли потрібно, не треба додавати її.",
+    "message": "This presence is automatically used when needed, no need to add it.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Усе",
+    "message": "All",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Ігри",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Музика",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Соціальне",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Відео & прямі трансляції",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Інше",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Пошук",
+    "message": "Search",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Користувацькі присутності",
+    "message": "User presences",
     "description": "Userpage title"
   }
 }
