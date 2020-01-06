@@ -36,23 +36,23 @@
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "O'yinlar",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Musiqa",
+    "message": "Music",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Ijtimoiy",
+    "message": "Socials",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videolar va Nashrlar",
+    "message": "Videos & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Boshqa",
+    "message": "Other",
     "description": "Category at the top"
   },
   "store.search": {
