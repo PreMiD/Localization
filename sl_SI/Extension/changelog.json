@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "Uporabniki zdaj lahko dodajo dodatek sami. *Dodaj jih zdaj!*",
+    "message": "Endi foydalanuvchilar xizmatlarni o'zlari qo'shishlari mumkin. *Hozir qo'shing!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Poiščite nekaj *novih dodatkov* v njihovem naravnem habitatu",
+    "message": "Tabiiy muhitda ba'zi * yangi xizmatlar * toping",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Samodejna nadgradnja je zdaj stvar",
+    "message": "Avtomatik yangilash hozir faol",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Uporabniki zdaj lahko naredijo dodatek",
+    "message": "Endi foydalanuvchilar xizmatlarni yaratishi mumkin",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Dokumenti* za tiste ustvarjalne razvijalce ki so tam zunaj",
+    "message": "Bu Dasturchilar uchun *Hujjatlar*",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "Nova oblika spletne strani",
+    "message": "Barcha yangi veb-saytlar dizayni",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "Več posebnosti za naš Discord-Robot",
+    "message": "Discord-Bot-ning uchun ko'proq xususiyatlar",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Naš nov [V]mesnik za [P]rogramiranje [A]plikacij je zverina",
+    "message": "Bizning yangi APIyirtqich hayvon kabi ishlay",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Prenovljene pojavne okne, razporeditev in oblika zavihkov",
+    "message": "Yangilangan Popuplar va Tablar tartibi va uslubi",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Mnogo (ne)znanih napak je zbežalo",
+    "message": "Ko'p (un) ma'lum xatolar qochib ketdi",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Zdaj vse deluje veliko hitreje",
+    "message": "Hozir hamma narsa tezroq ishlayapti",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Odpravljanje starih aplikacijskih napak tudi če imate najnovejšega",
+    "message": "Eski dastur xatolarini, agar sizda eng yangi bo'lsa ham tuzatadi",
     "description": ""
   }
 }
