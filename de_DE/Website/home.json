@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Lasse jeden wissen, was du machst!",
+    "message": "Hamma nima qilayotganingizni ko'radi!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Unsere Funktionen",
+    "message": "Bizning xususiyatlarimiz",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Yuklashlar",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Spielt ein Spiel",
+    "message": "O'yin o'ynashing",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} verbleibend",
+    "message": "{0} qoldi",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "Du wirst diese Funktionen lieben!",
+    "message": "Siz ushbu xususiyatlarni yaxshi ko'rasiz!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Finde **deine** Präsenz.",
+    "message": "** Borligingizni ** toping.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Präsenzen von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
+    "message": "Foydalanuvchilarga o'z xizmatlarini qo'shish va boshqarish uchun biz plaginimizni maxsus ishlab chiqdik!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Store öffnen",
+    "message": "Do'kon ach",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Einfache Benutzeroberfläche.",
+    "message": "Oddiy foydalanuvchi interfeysi.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Müde von komplizierten Benutzeroberflächen? Deshalb haben wir eine einfache und hilfreiche Oberfläche mit ausschließlich wichtigen Funktionen eingebaut:",
+    "message": "Murakkab interfeyslardan charchadingizmi? Shuning uchun biz interfeysimizni faqat kerakli xususiyatlar bilan yaratdik:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App- und Erweiterungseinstellungen.",
+    "message": "Ilova va Kengaytma sozlamalari.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Präsenzverwaltung.",
+    "message": "Xizmatni boshqarish.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sortierung nach Kategorie.",
+    "message": "Kategoriya bo'yicha saralash.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Schneller Support.",
+    "message": "Tez yordam.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Etwas ist fehlerhaft oder sendet Dir Unmengen von Fehlern? Wir werden Dir helfen, diese auf unserem Discord-Server zu beseitigen. Wir haben auch ein Support-System programmiert, dass dein Leben einfacher machen wird.",
+    "message": "Biror narsa sizni xursand qilyaptimi yoki sizga minglab xatolar yubormoqdami? Sizga ushbu Discord serveridan xalos bo'lishga yordam beramiz, shuningdek, sizning hayotingizni osonlashtiradigan qo'llab-quvvatlash tizimini ishlab chiqdik.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Besuche unseren Server",
+    "message": "Bizning serverimizga tashrif buyuring",
     "description": "Features section button"
   }
 }
