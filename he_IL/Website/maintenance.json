@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "אחזקה",
+    "message": "Ta'minot",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "לצערנו, יש לנו בעיות טכניות. אנחנו נחזור בקרוב. סליחה על אי הנוחות.",
+    "message": "Afsuski, texnik qiyinchiliklarga duch kelmoqdamiz. Tez orada qaytamiz. Noqulaylik uchun uzr.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "בבקשה תחזור מאוחר יותר בשביל עוד אינפורמציה.",
+    "message": "Qo'shimcha ma'lumot olish uchun keyinroq qaytib keling.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "עד שהמפתחים המיוחדים שלנו יסדרו את זה, תרגיש חופשי להסתכל פה!",
+    "message": "Bizning maxsus ishlab chiquvchilarimiz buni tuzatmaguncha, bu erda ko'ring!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "דף סטטוס",
+    "message": "Holat sahifasi",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "שרת הדיסקורד",
+    "message": "Discord Serveri",
     "description": "Discord Server link on maintenance page"
   }
 }
