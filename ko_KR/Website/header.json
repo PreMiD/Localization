@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "한국어",
+    "message": "O'zbek",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "우리는 당신의 언어를 지원합니다. 바꾸고 싶으신가요?",
+    "message": "Biz sizning tilingizni qo'llab-quvvatlaymiz, almashtirishni xohlaysizmi?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
+    "message": "Bizning veb-saytimiz sizning tilingizga tarjima qilindi. Agar siz ingliz tilini yaxshi bilmasangiz, bu sizga yordam berishi mumkin.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "아뇨 괜찮아요",
+    "message": "Yo'q, rahmat",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "언어 바꾸기",
+    "message": "Tilni almashtirish",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "팬케이크 굽는 중...;컨테이너 쌓는 중...;당신의 IP를 얻는 중...;UwU;규칙 어기는 중...",
+    "message": "Kek pishiriladi ...; Jadval tayyorlandi ...; IP manzili hal qilindi ...; UwU; Qoidalar buzilgan ...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "상점",
+    "message": "Do'kon",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "다운로드",
+    "message": "Yuklashlar",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "기여자",
+    "message": "Hissa qo'shganlar",
     "description": "Contributors tab"
   }
 }
