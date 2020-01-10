@@ -8,15 +8,15 @@
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Boshla",
+    "message": "Boshlang",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "PreMiD Yuklang.",
+    "message": "yuklang PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "PreMid Ilovasini yuklang.",
+    "message": "PreMid Ilova yuklang.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
