@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Csapat",
+    "message": "Jamoa",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Támogatók",
+    "message": "Bizni qo'llab-quvvatlang",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Fordítók",
+    "message": "Tarjimonlar",
     "description": "Heading for group of users."
   }
 }
