@@ -1,38 +1,38 @@
 {
   "store.message.error": {
-    "message": "Plėtinys nerastas, užrakinamos funkcijos...",
+    "message": "Kengaytma topilmadi, qulflashing funktsiyalar ...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Plėtinys rastas, atrakinamos funkcijos...",
+    "message": "Kengaytma topildi, vazifalarni qulfdan chiqarmoqda ...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Kūrėjas",
+    "message": "Yaratuvchi",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "Šį statusą patvirtino patvirtintas kūrėjas",
+    "message": "Ushbu xizmat tasdiqlangan ishlab chiquvchi tomonidan tasdiqlangan",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Paieška",
+    "message": "Qidiruv",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Pridėti statusą",
+    "message": "Xizmat qo'shish",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Pašalinti statusą",
+    "message": "Xizmatni olib tashlash",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Šis statusas automatiškai naudojamas kai yra reikalingas. Jo nereikia pridėti.",
+    "message": "Ushbu mavjudlik kerak bo'lganda avtomatik ravishda ishlatiladi, uni qo'shishga hojat yo'q.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "Visi",
+    "message": "Hammasi",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Paieška",
+    "message": "Qidiruv",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "Vartotojo statusai",
+    "message": "Foydalanuvchi xizmatlari",
     "description": "Userpage title"
   }
 }
