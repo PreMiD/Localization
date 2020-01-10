@@ -20,7 +20,7 @@
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Qo'llab-quvvatlanadigan URL-manzillari",
+    "message": "Qo'llab-quvvatlanadigan URL-manzillar",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }
