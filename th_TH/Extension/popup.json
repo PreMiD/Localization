@@ -72,15 +72,15 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "แอปนี้เวอร์ซั่นเก่าแล้ว",
+    "message": "Eskirgan ilova",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "PreMiD ของคุณล้าสมัยแล้ว โปรดอัปเดตโดยกดที่ PreMiD",
+    "message": "Sizning PreMiD ilovangiz eskirgan. PreMiD-dan foydalanishni davom ettirish uchun yangilang.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "ทั้งหมด",
+    "message": "Hammasi",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
