@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Heyət",
+    "message": "Jamoa",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Dəstəkləyənlər",
+    "message": "Bizni qo'llab-quvvatlang",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Tərcüməçilər",
+    "message": "Tarjimonlar",
     "description": "Heading for group of users."
   }
 }
