@@ -1,26 +1,26 @@
 {
   "presence.sections.description.title": {
-    "message": "Description",
+    "message": "설명",
     "description": "The title of the description section."
   },
   "presence.sections.information.title": {
-    "message": "Information",
+    "message": "정보",
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "Author",
+    "message": "제작자",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
-    "message": "Version",
+    "message": "버전",
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
   },
   "presence.sections.information.tags": {
-    "message": "Tags",
+    "message": "태그",
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "Supported URLs",
+    "message": "지원하는 URL들",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   }
 }

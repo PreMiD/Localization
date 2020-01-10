@@ -1,70 +1,70 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are doing!",
+    "message": "Leisk visiems žinoti, ką darai!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
-    "message": "Our features",
+    "message": "Mūsų funkcijos",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Downloads",
+    "message": "Siuntiniai",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "Žaidžia žaidimą",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} left",
+    "message": "Liko {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "You will love these features!",
+    "message": "Jums patiks šios funkcijos!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Find **your** presence.",
+    "message": "Raskite ** savo ** statusą.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
+    "message": "Savo plėtinį sukūrėme tokiu būdu, kuris leidžia jums pridėti ir naudoti kitų vartotojų sukurtus statusus ir valdyti juos plėtinyje!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Open store",
+    "message": "Atidaryti parduotuvę",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Simple user interface.",
+    "message": "Paprasta vartotojo sąsaja.",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
+    "message": "Pavargote nuo sudėtingų vartotojo sąsajų? Štai kodėl sukūrėme paprastą ir naudingą sąsają, kurioje yra tik svarbios funkcijos:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "App and Extension settings.",
+    "message": "Programos ir plėtinio nustatymai.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presence management.",
+    "message": "Statusų valdymas.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sorting by category.",
+    "message": "Rūšiuoti pagal kategoriją.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Quick support.",
+    "message": "Greita pagalba.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
+    "message": "Kažkas neveikia ar siunčia jums daugybę klaidų? Mes padėsime jums atsikratyti to „Discord“ serveryje, taip pat sukūrėme palaikymo sistemą, kuri palengvins jūsų gyvenimą.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Visit our server",
+    "message": "Apsilankykite mūsų serveryje",
     "description": "Features section button"
   }
 }

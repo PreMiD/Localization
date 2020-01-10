@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Your Rich Presence for web services!",
+    "message": "Veb-xidmətlər üçün status!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
+    "message": "Veb-xidmətlər üçün status!\nPreMiD Discordun status proqram inkişaf dəstini istifadə edərək Discord profilinizdə veb saytlarda nə etdiyinizi göstərməyə imkan verən kiçik bir proqramıdır. Məsələn bir videoya baxmağa başladıqda uzantı səhifədən lazım olan bütün məlumatları tutur və Discord profilinizdə statusu təyin etmək üçün tətbiqimizə göndərir.\n\nPreMiD 250-dən çox veb saytı dəstəkləyir və hər gün yeni sayt əlavə edən güclü birliyimizə təşəkkür edirik.\n\nPreMiD-dən istifadə etmək üçün brauzerə əlavəni əlavə etməli və veb saytımızda olanrəsmi PreMiD tətbiqini quraşdırmalısınız. Bu, Discordun status proqram inkişaf dəstinin işləməsindəki məhdudiyyətlərlə əlaqədardır.\n\n» Discord serverimiz\n{0}\n\n» Veb-saytımız\n{1}\n\n» GitHub səhifəmiz\n{2}\n\nPreMiD-i sevirsinizsə, rəy bildirin, dostlarınıza yayın və ya ianə verin.",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

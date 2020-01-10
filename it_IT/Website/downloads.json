@@ -1,50 +1,50 @@
 {
   "downloads.header.title": {
-    "message": "Time to show yourself to everyone.",
+    "message": "È giunto il momento di entrare in scena.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Start using PreMiD now and show other people what you're doing, maybe you will find someone with the same interests.",
+    "message": "Inizia ad usare PreMiD ora e mostra alle altre persone che cosa stai facendo, forse troverai qualcuno con i tuoi stessi interessi.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Get Started",
+    "message": "Inizia Ora",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Download PreMiD.",
+    "message": "Scarica PreMiD",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Install PreMiD application.",
+    "message": "Installa PreMiD",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Install extension for your browser.",
+    "message": "Installa l'estensione per il tuo browser.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visit {0} page and check if the extension is connected.",
+    "message": "Visita la pagina {0} e controlla se l'estensione è connessa.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
-    "message": "store",
+    "message": "negozio",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Application",
+    "message": "Applicazione",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extension",
+    "message": "Estensione",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "WARNING:",
+    "message": "ATTENZIONE:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} There is no installer for this operating system. This means that there's no professional support for it.",
+    "message": "{0} Non c'è un installer per questo sistema operativo. Questo significa che non c'è supporto professionale per questo sistema.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

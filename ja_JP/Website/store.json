@@ -1,34 +1,34 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "拡張機能が見つかりませんでした。機能を制限中...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "拡張機能が見つかりました。機能制限を解除...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "作者",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "このプレゼンスは認証済み開発者によって承認されました",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "検索",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "プレゼンスを追加",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "プレゼンスを削除",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
@@ -56,7 +56,7 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "検索",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {

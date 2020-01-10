@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Your Rich Presence for web services!",
+    "message": "Ваша розширена присутність для вебсайтів!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "YOU HAVE TO INSTALL OUR OFFICIAL APPLICATION TO GET IT WORKING\n   {0} {1}\n\nYou can use your media keys to control the playback of these services. When you watch/listen to something with one of our supported services, the browser extension sends the video's/song's metadata to our desktop client and PreMiD processes it. PreMiD sends the information to Discord with the correct form and then automatically sets its status.\nSupported services\n   {2} Have a look at {3}\n\nNeed help?\n   {4} {5}\n\nOur Discord server\n   {6} Talk to the people behind PreMiD {7}\n\nWe're Open Source!\n   {9} Great stuff should be open to the public {10}",
+    "message": "ВИ ПОВИННІ ВСТАНОВИТИ  НАШ ОФІЦІЙНИЙ ЗАСТОСУНОК, ЩОБ ЦЕ ПРАЦЮВАЛО\n{0}{1}\n\nВи можете використовувати медіа-клавіші для керування відтворенням цих служб. Коли Ви дивитеся або слухаєте щось з однією з наших підтримуваних служб, розширення браузера посилає метадані відео / пісні на наш клієнт на робочому столі, і PreMiD обробляє його. PreMiD посилає інформацію у Discord з правильною формою, а потім автоматично встановлює статус.\nПідтримувані сервіси\n{2} Подивіться на {3}\n\nПотрібна допомога?\n{4}{5}\n\nНаш Discord сервер\n{6} Поговоріть з розробниками PreMID {7}\n\nМи  відкритим вихідним кодом!\n{9} Круті штуки повинні бути відкритими для всіх  {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
