@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Bảo trì",
+    "message": "Ta'minot",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Thật không may, chúng tôi đang gặp trục trặc về kỹ thuật. Chúng tôi sẽ trở lại sớm nhất có thể. Xin lỗi vì sự bất tiện.",
+    "message": "Afsuski, texnik qiyinchiliklarga duch kelmoqdamiz. Tez orada qaytamiz. Noqulaylik uchun uzr.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Vui lòng quay trở lại sau để biết thêm chi tiết.",
+    "message": "Qo'shimcha ma'lumot olish uchun keyinroq qaytib keling.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Cho đến khi những lập trình viên sửa những lỗi này, nếu bạn rảnh thì hãy ghé vào đây!",
+    "message": "Bizning maxsus ishlab chiquvchilarimiz buni tuzatmaguncha, bu erda ko'ring!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Trang trạng thái",
+    "message": "Holat sahifasi",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord Server",
+    "message": "Discord Serveri",
     "description": "Discord Server link on maintenance page"
   }
 }
