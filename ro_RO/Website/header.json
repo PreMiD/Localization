@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Română",
+    "message": "O'zbek",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Avem limbajul tău, dorești să îl schimbi?",
+    "message": "Biz sizning tilingizni qo'llab-quvvatlaymiz, almashtirishni xohlaysizmi?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website-ul nostru a fost tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine.",
+    "message": "Bizning veb-saytimiz sizning tilingizga tarjima qilindi. Agar siz ingliz tilini yaxshi bilmasangiz, bu sizga yordam berishi mumkin.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Nu, mulțumesc",
+    "message": "Yo'q, rahmat",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Schimbă limba",
+    "message": "Tilni almashtirish",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Cocând clătite...;Plasând containere...;Analizând adresa ta IP...;UwU;Încălcând regulile...",
+    "message": "Kek pishiriladi ...; Jadval tayyorlandi ...; IP manzili hal qilindi ...; UwU; Qoidalar buzilgan ...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Magazin",
+    "message": "Do'kon",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Descărcări",
+    "message": "Yuklashlar",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contribuitori",
+    "message": "Hissa qo'shganlar",
     "description": "Contributors tab"
   }
 }
