@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Muutokset",
+    "message": "O'zgarishlar",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -8,51 +8,51 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "Kiitos",
+    "message": "Rahmat",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "{0}:n asentamisesta",
+    "message": "yuklang uchun {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "Aloita {0}:n käyttö",
+    "message": "{0}'dan foydalanishni boshlang",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "Lahjoita ",
+    "message": "Xayriya qilish",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Voi ei!** Emme pystyneet yhistämään sovellukseen... Onko se jo asennettu?",
+    "message": "** Ah yo'q! ** Ilovaga ulanib bo'lmadi ... U allaqachon o'rnatilganmi?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Apua",
+    "message": "Muammolarni bartaraf qilish",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Asenna sovellus",
+    "message": "Ilovani yuklang",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "Seuraava taso!",
+    "message": "Darajaning ko'tarilishi!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} on päivitetty!",
+    "message": "{0} yangilandi!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
-    "message": "Uutta",
+    "message": "Yangi",
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Muutettu",
+    "message": "O'zgartirilgan",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Korjattu",
+    "message": "Tuzatilgan",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
