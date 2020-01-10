@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Ough! Mělo by to vůbec existovat?",
+    "message": "Ow! Bu hatto mavjud bo'lishi kerakmi?",
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Litujeme, vypadá to že stránka kterou chceš vidět byla přesunuta nebo smazána nebo možná nikdy neexistovala?",
+    "message": "Kechirasiz, siz ko'rishni xohlagan sahifangiz ko'chirilgan yoki yo'q qilinganga o'xshaydi yoki u hech qachon mavjud bo'lmaganga o'xshaydi?",
     "description": "Message on 404 page"
   }
 }
