@@ -1,30 +1,30 @@
 {
   "presence.playback.playing": {
-    "message": "Reprodukcija nazad",
+    "message": "Ijro etilmoqda",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Reprodukcija zaustavljena",
+    "message": "Ijro to‘xtatildi",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "Pretražnja...",
+    "message": "Vositaching...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "Uživo",
+    "message": "Jonli",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "Čitanje",
+    "message": "O'qing",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "Pretražnja",
+    "message": "Qidirilmoqda",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
-    "message": "Epizoda {0}",
+    "message": "Bo'lim {0}",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
