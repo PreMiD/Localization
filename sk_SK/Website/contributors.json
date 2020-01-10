@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Jadro týmu",
+    "message": "Jamoa",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Podporovatelia",
+    "message": "Bizni qo'llab-quvvatlang",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Prekladatelia",
+    "message": "Tarjimonlar",
     "description": "Heading for group of users."
   }
 }
