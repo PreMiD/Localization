@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Pemeliharaan",
+    "message": "Ta'minot",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Sayangnya kami sedang mengalami masalah teknis. Kami akan kembali secepatnya. Mohon maaf atas ketidaknyamanannya.",
+    "message": "Afsuski, texnik qiyinchiliklarga duch kelmoqdamiz. Tez orada qaytamiz. Noqulaylik uchun uzr.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Mohon kembali lagi nanti untuk info lebih lanjut.",
+    "message": "Qo'shimcha ma'lumot olish uchun keyinroq qaytib keling.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Sambil pengembang memperbaiki ini, kamu dapat melihat ini!",
+    "message": "Bizning maxsus ishlab chiquvchilarimiz buni tuzatmaguncha, bu erda ko'ring!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Halaman Status",
+    "message": "Holat sahifasi",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Server Discord",
+    "message": "Discord Serveri",
     "description": "Discord Server link on maintenance page"
   }
 }
