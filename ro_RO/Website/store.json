@@ -1,10 +1,10 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Extensia nu a fost găsită, blocând funcțiile...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Extensie detectată, deblocând funcțiile...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
@@ -12,27 +12,27 @@
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Această prezență a fost acceptată de către un developer verificat. ",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Caută",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Adaugă prezența",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Șterge prezența",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Această prezență este folosită automat, nu este nevoie să o adăugați.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Toate",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Caută",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Prezențele utilizatorului",
     "description": "Userpage title"
   }
 }
