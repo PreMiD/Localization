@@ -1,22 +1,22 @@
 {
   "maintenance.big": {
-    "message": "Maintenance",
+    "message": "Underhåll",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Unfortunately we are experiencing technical difficulties. We will return shortly. Sorry for the inconvenience.",
+    "message": "Tyvärr har vi just nu lite problem. Vi är tillbaka snart. Förlåt för besväret.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Please come back later for more info.",
+    "message": "Kom tillbaka senare för mer info.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
+    "message": "Tills våra utvecklare fixar detta, kolla här!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Page",
+    "message": "Statussida",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
