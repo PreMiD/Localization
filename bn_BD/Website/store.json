@@ -32,7 +32,7 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "সব",
     "description": "Category at the top"
   },
   "store.category.games": {
