@@ -1,38 +1,38 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Không tìm thấy tiện ích mở rộng, đang khóa chức năng...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Đã tìm thấy tiện ích, mở khóa chức năng...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "Tác giả",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Presence này đã được phê duyệt bởi một nhà phát triển verified",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Tìm kiếm",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Thêm presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Gỡ presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Presence này được tự động sử dụng khi cần thiết, không cần phải thêm nó.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Tất cả",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Tìm kiếm",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Presences của người dùng",
     "description": "Userpage title"
   }
 }
