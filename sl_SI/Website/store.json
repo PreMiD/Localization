@@ -1,38 +1,38 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Razširitev ni najdena, zaklepanje funkcij...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Razširitev najdena, odklepanje funkcij...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "Avtor",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Ta dodatek je odobren od preverjenega razvijalca",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Išči",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Dodaj dodatek",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Odstrani dodatek",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Ta dodatek se samodejno vklopi, ko se potrebuje. Ne rabite ga dodati.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Vse",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Išči",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Uporabniški dodatki",
     "description": "Userpage title"
   }
 }
