@@ -1,10 +1,10 @@
 {
   "footer.language": {
-    "message": "Language",
+    "message": "Språk",
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "Ready to try PreMiD?",
+    "message": "Klar til å bruke PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
@@ -12,19 +12,19 @@
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
-    "message": "Install",
+    "message": "Installer",
     "description": "Install button under the promotional message"
   },
   "footer.partners.heading": {
-    "message": "Partners",
+    "message": "Partnere",
     "description": "Partner section"
   },
   "footer.developers.heading": {
-    "message": "Developers",
+    "message": "Utviklere",
     "description": "Developer section"
   },
   "footer.developers.documentation": {
-    "message": "Documentation",
+    "message": "Dokumentasjon",
     "description": "Documentation -> redirects to docs.premid.app"
   },
   "footer.developers.richpresence": {
@@ -32,15 +32,15 @@
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "Support us",
+    "message": "Støtt oss",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
-    "message": "Donate",
+    "message": "Doner",
     "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
-    "message": "Contribute",
+    "message": "Bidra",
     "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
@@ -48,23 +48,23 @@
     "description": "Design -> redirects to discord.premid.app"
   },
   "footer.supportus.translate": {
-    "message": "Translate",
+    "message": "Oversett",
     "description": "Translate -> redirects to locilazation page"
   },
   "footer.help.heading": {
-    "message": "Help",
+    "message": "Hjelp",
     "description": "Help section"
   },
   "footer.help.troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Feilsøking",
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "Get Help",
+    "message": "Få hjelp",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
-    "message": "Information",
+    "message": "Informasjon",
     "description": "Information section"
   },
   "footer.help.information.cookies": {
@@ -72,15 +72,15 @@
     "description": "meant to be 'Cookie Policy'"
   },
   "footer.help.information.privacy": {
-    "message": "Privacy",
+    "message": "Personvern",
     "description": "meant to be 'Privacy Policy'"
   },
   "footer.help.information.terms": {
-    "message": "Terms",
+    "message": "Vilkår",
     "description": "meant to be 'Terms of Service'"
   },
   "footer.more.heading": {
-    "message": "More",
+    "message": "Mer",
     "description": "More section"
   },
   "footer.more.status": {
@@ -92,11 +92,11 @@
     "description": "Wiki -> redirects to wiki.premid.app"
   },
   "footer.copyright.line1": {
-    "message": "{0} by {1}",
+    "message": "{0} av {1}",
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
   },
   "footer.copyright.line2": {
-    "message": "Website maintained by {0}",
+    "message": "Nettside operert av {0}",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
   }
 }
