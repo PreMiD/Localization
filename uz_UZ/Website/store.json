@@ -1,0 +1,66 @@
+{
+  "store.message.error": {
+    "message": "Kengaytma topilmadi, funktsiyalar qulflashing...",
+    "description": "Error message when the extension wasn't detected"
+  },
+  "store.message.success": {
+    "message": "Kengaytma topildi, funktsiyalarni qulfdan oching...",
+    "description": "Success message when the extension was detected"
+  },
+  "store.cards.creator": {
+    "message": "Yaratuvchi",
+    "description": "Creator of a presence"
+  },
+  "store.cards.verified": {
+    "message": "Ushbu xizmat tasdiqlangan ishlab chiquvchi tomonidan tasdiqlangan",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Qidiruv",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Xizmat qo'shish",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Xizmatni olib tashlash",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "Ushbu mavjudlik kerak bo'lganda avtomatik ravishda ishlatiladi, uni qo'shishga hojat yo'q.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.all": {
+    "message": "Hammasi",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "O'yinlar",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Musiqa",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Ijtimoiy",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Videolar va Nashrlar",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Boshqa",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Qidiruv",
+    "description": "Placeholder for presence search"
+  },
+  "store.userpage.userPresences": {
+    "message": "Foydalanuvchi xizmatlari",
+    "description": "Userpage title"
+  }
+}

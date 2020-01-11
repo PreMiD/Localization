@@ -36,7 +36,7 @@
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "เกมส์",
+    "message": "เกม",
     "description": "Category at the top"
   },
   "store.category.music": {
@@ -48,7 +48,7 @@
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "วีดีโอ และ สตรีม",
+    "message": "วีดีโอและสตรีมมิ่ง",
     "description": "Category at the top"
   },
   "store.category.other": {

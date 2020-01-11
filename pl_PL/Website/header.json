@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nasza strona internetowa została przetłumaczona na Twój język. Może ci pomóc, jeśli nie mówisz dobrze po angielsku.",
+    "message": "Nasza strona internetowa została przetłumaczona na Twój język. Może ci pomóc, jeśli znasz angielskiego.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Pieczenie naleśników...;Łamanie zasad...;Jedzenie naleśników...;Przenoszenie pudeł...",
+    "message": "Pieczenie naleśników...;Przenoszenie pudeł...;Przetwarzanie twojego adresu IP...;UwU;Łamanie zasad...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
@@ -28,7 +28,7 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Do pobrania",
+    "message": "Pobieranie",
     "description": "Downloads tab"
   },
   "header.contributors": {

@@ -28,7 +28,7 @@
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "הPresence הזה כלול בPreMiD, אין צורך להוריד אותו.",
+    "message": "הPresence משומש באופן אוטומטי מתי שצריך, אין צורך להוסיף אותו.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
@@ -56,7 +56,7 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "חיפוש",
+    "message": "חפש",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {

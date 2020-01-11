@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Pokaż wszystkim, co robisz",
+    "message": "Pokaż wszystkim co robisz!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Do pobrania",
+    "message": "Pobieranie",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Coś się glitchuje i wysyła tobie tony błędów? Pomożemy ci wybrnąć z tego na naszym serwerze Discord, stworzyliśmy również system supportu który ułatwi ci to.",
+    "message": "Coś się glitchuje i wysyła tobie tony błędów? Pomożemy ci wybrnąć z tego na naszym serwerze Discord, stworzyliśmy również system supportu który ułatwi ci skontaktowanie się z supportem.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {

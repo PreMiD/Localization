@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "你必须安装我们的官方应用才能正常工作\n   {0} {1}\n\n你可以使用你的多媒体按键控制这些服务的播放。当你通过我们支持的服务观看或听些什么的时候，浏览器插件就会向我们的桌面客户端与 PreMiD 进程发送视频或者歌曲的头数据。PreMiD 会以正确的格式，自动向 Discord 发送信息并设置状态。\n\n支持的服务\n   {2} 去看看 {3}\n\n需要帮助吗？\n   {4} {5}\n\n我们的 Discord 服务器\n   {6} 与 PreMiD 背后的开发者交谈 {7}\n\n我们是开源的软件！\n   {9} 超赞的东西应该向大众开放 {10}",
+    "message": "为网页服务添加 Rich Presence 状态显示！\nPreMiD是一个小程序，它能让您通过Discord的Rich Presence SDK来使Discord个人资料中显示您正在网站上干什么。例如，当您开始观看视频时，该扩展程序将从页面中获取所有所需的信息，并将其发送到我们的应用程序，以在您的Discord个人资料中设置状态。\n\nPreMiD支持250多个网站，并且由于其强大的社区这个数字仍在不断增长。\n\n要使用PreMiD，您需要添加此扩展并安装我们网站上的官方PreMiD应用程序。 这是由于受到Discord的Rich Presence SDK工作方式上的制约。\n\n» 我们的Discord服务器\n{0}\n\n» 我们的网站\n{1}\n\n» GitHub组织\n{2}\n\n如果您喜欢PreMiD，请留下您的评论，分享给您的朋友或捐款。",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

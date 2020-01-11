@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Začni používat PreMiD nyní a ukaž ostatním co sleduješ nebo posloucháš, možná najdeš někoho kdo má stejné zájmy.",
+    "message": "Začni s používáním PreMiD nyní a ukaž ostatním lidem, co děláš, možná najdeš někoho se stejnými zájmy.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -16,7 +16,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Nainstaluj si PreMiD aplikaci.",
+    "message": "Nainstaluj si aplikaci PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Navštiv {0} stránku a zkontroluj, zda je rozšíření připojeno.",
+    "message": "Navštiv {0} a zkontroluj, zda je rozšíření připojeno.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Není zde žádný instalační soubor pro práci se systémem. To znamená, že pro něj není žádná profesionální podpora.",
+    "message": "{0} Není zde žádný instalační soubor pro tenhle operační systém. To znamená, že pro něj není žádná profesionální podpora.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

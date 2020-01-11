@@ -12,7 +12,7 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Mükemmel geliştiricilerimizin bu durumu düzelteceğine eminiz, buraya istediğiniz zaman göz atabilirsiniz.",
+    "message": "Mükemmel geliştiricilerimizin bu durumu düzelteceğine eminiz, buraya istediğiniz zaman göz atabilirsiniz!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {

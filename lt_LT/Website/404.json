@@ -1,0 +1,10 @@
+{
+  "404.heading": {
+    "message": "Oj! Ar taip turėtų būti?",
+    "description": "Heading on 404 page"
+  },
+  "404.message": {
+    "message": "Deja, atrodo, kad puslapis, kurį norite pamatyti, buvo perkeltas ar ištrintas, o gal jo niekada nebuvo?",
+    "description": "Message on 404 page"
+  }
+}

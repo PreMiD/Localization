@@ -36,15 +36,15 @@
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Trò chơi",
+    "message": "Games",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Âm nhạc",
+    "message": "Nhạc",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Mạng xã hội",
+    "message": "Xã hội",
     "description": "Category at the top"
   },
   "store.category.videos": {

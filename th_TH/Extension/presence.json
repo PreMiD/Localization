@@ -4,7 +4,7 @@
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "หยุดเล่นชั่วคราวแล้ว",
+    "message": "หยุดเล่นชั่วคราว",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
@@ -12,7 +12,7 @@
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "ถ่ายทอดสด",
+    "message": "ไลฟ์",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {

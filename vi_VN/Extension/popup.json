@@ -4,11 +4,11 @@
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "Tín dụng",
+    "message": "Tác giả",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "Chung",
+    "message": "Tổng quan",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
@@ -24,11 +24,11 @@
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "Khởi động tự động",
+    "message": "Tự động chạy",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Quà",
+    "message": "Trạng thái",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
@@ -36,11 +36,11 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Không có quà",
+    "message": "Không có trạng thái đã được thêm",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
-    "message": "Làm xong",
+    "message": "Xong",
     "description": "Done button"
   },
   "popup.presences.load": {
@@ -48,11 +48,11 @@
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Cửa hàng hiện diện",
+    "message": "Cửa hàng trạng thái",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
-    "message": "Cần giúp đỡ?",
+    "message": "Cần trợ giúp?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
   "popup.credits.error.heading": {
@@ -60,23 +60,23 @@
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "Lỗi trong khi tải tín dụng",
+    "message": "Lỗi trong khi tải phần tác giả",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "Không kết nối",
+    "message": "Chưa được kết nối",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
-    "message": "PreMiD không thể kết nối với ứng dụng của nó! Nó được cài đặt và chạy? *Xử lý sự cố*",
+    "message": "PreMiD không thể kết nối với ứng dụng của nó! Nó đã được tải và cho chạy chưa? *Đang xử lý*",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Ứng dụng lỗi thời",
+    "message": "Ứng dụng chưa được cập nhật",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Ứng dụng PreMiD của bạn đã lỗi thời. Vui lòng cập nhật nó để tiếp tục sử dụng PreMiD.",
+    "message": "Ứng dụng PreMiD của bạn đã cũ. Vui lòng cập nhật nó để tiếp tục sử dụng PreMiD.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
@@ -88,11 +88,11 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.music": {
-    "message": "Âm nhạc",
+    "message": "Nhạc",
     "description": "Category name shown when you open tags"
   },
   "popup.category.games": {
-    "message": "Trò chơi",
+    "message": "Games",
     "description": "Category name shown when you open tags"
   },
   "popup.category.socials": {

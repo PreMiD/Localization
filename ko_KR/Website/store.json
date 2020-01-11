@@ -32,31 +32,31 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "모두",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Games",
+    "message": "게임",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Music",
+    "message": "음악",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Socials",
+    "message": "소셜",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videos & Streams",
+    "message": "비디오 & 스트림",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Other",
+    "message": "기타",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "검색",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {

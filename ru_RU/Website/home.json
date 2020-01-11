@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Загрузки",
+    "message": "Загрузки ",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {

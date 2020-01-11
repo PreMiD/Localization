@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Nie dodano statusów",
+    "message": "Brak dodanych statusów",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -100,7 +100,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "Filmy i Transmisje",
+    "message": "Filmy i transmisje",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {

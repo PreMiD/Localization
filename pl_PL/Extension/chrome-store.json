@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "MUSISZ ZAINSTALOWAĆ OFICJALNĄ APLIKACJĘ, ABY TO ZADZIAŁAŁO\n {0} {1}\n\nMożesz użyć swoich klawiszy mediów, aby kontrolować odtwarzanie danego serwisu. Kiedy oglądasz/słuchasz czegoś z jednego z serwisów, dodatek do przeglądarki wysyła metadane filmu/utworu do twojego klienta na komputerze, a wtedy PreMiD to przetwarza. PreMiD wysyła informacje do Discord'a we właściwej formie i wtedy automatycznie ustawia status.\nWspierane serwisy\n {2} Zajrzyj tutaj {3}\n\nPotrzebujesz pomocy?\n {4} {5}\n\nNasz serwer Discord\n {6} Porozmawiaj z ludźmi od PreMiD {7}\n\nJesteśmy Open Source!\n {9} Świetne rzeczy powinny być otwarte dla publiki {10}",
+    "message": "MUSISZ ZAINSTALOWAĆ OFICJALNĄ APLIKACJĘ, ABY ROZSZERZENIE DZIAŁAŁO\n {0} {1}\n\nMożesz użyć swoich klawiszy mediów, aby kontrolować odtwarzanie danego serwisu. Kiedy oglądasz/słuchasz czegoś z jednego z serwisów, dodatek do przeglądarki wysyła metadane filmu/utworu do twojego klienta na komputerze, a wtedy PreMiD to przetwarza. PreMiD wysyła informacje do Discord'a we właściwej formie i automatycznie ustawia status.\nWspierane serwisy\n {2} Zajrzyj tutaj {3}\n\nPotrzebujesz pomocy?\n {4} {5}\n\nNasz serwer Discord\n {6} Porozmawiaj z ludźmi którzy pracują nad PreMiD'em {7}\n\nJesteśmy Open Source!\n {9} Świetne rzeczy powinny być otwarte dla wszystkich {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

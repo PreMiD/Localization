@@ -4,7 +4,7 @@
     "description": "Heading on 404 page"
   },
   "404.message": {
-    "message": "Ne pare rău, se pare că pagina pe care doriți să o vedeți a fost mutată sau ștersă sau poate că nu a existat niciodată?",
+    "message": "Ne pare rău, se pare că pagina pe care doriți să o vedeți a fost mutată sau ștearsă sau poate că nu a existat niciodată?",
     "description": "Message on 404 page"
   }
 }

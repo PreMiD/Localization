@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "İnsanlara ne yaptığınızı gösterin!",
+    "message": "Diğerlerine ne yaptığınızı gösterin!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -28,7 +28,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Eklentimizi, kullanıcıların kendi servislerini ekleyebilmesi ve yönetebilmesine olanak sağlamak için özel olarak tasarladık!",
+    "message": "Eklentimizi, kullanıcıların kendi istedikleri servisleri ekleyebileceği ve yönetebileceği bir sistem üzerine kurduk!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Karmaşık arayüzlerden sıkıldınız mı? İşte bu yüzden biz arayüzümüzü sadece gereken özellikleri koyarak tasarladık:",
+    "message": "Karışık arayüzlü programlardan sıkıldınız mı? Biz arayüzümüzü sadece gereken özellikleri koyarak tasarladık:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -60,7 +60,7 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Bir şeyler yanlış mı çalışıyor? Mm, bunu düzeltmek için size Discord sunucumuzda yardımcı olabiliriz, bunun için özel bir destek sistemi bile yaptık.",
+    "message": "Bir şeyler yanlış mı çalışıyor? Bunu düzeltmek için size Discord sunucumuzda yardımcı olabiliriz, bunun için özel bir destek sistemi bile yaptık.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {

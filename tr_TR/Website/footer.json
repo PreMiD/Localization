@@ -29,7 +29,7 @@
   },
   "footer.developers.richpresence": {
     "message": "Zengin İçerik",
-    "description": "Rich Presence -> redirects to discordapp.com\/rich-presence"
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
     "message": "Destek ol",
@@ -37,11 +37,11 @@
   },
   "footer.supportus.donate": {
     "message": "Bağış Yap",
-    "description": "Donate -> redirects to patreon.com\/timeraa"
+    "description": "Donate -> redirects to patreon.com/timeraa"
   },
   "footer.supportus.contribute": {
     "message": "Katkıda Bulun",
-    "description": "Contribute -> redirects to github.com\/premid"
+    "description": "Contribute -> redirects to github.com/premid"
   },
   "footer.supportus.design": {
     "message": "Tasarım",
@@ -57,7 +57,7 @@
   },
   "footer.help.troubleshooting": {
     "message": "Sorun Giderme",
-    "description": "Troubleshooting -> redirects to wiki.premid.app\/troubleshooting"
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
     "message": "Yardım Al‮",

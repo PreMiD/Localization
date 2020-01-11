@@ -1,14 +1,14 @@
 {
   "downloads.header.title": {
-    "message": "På tide å vise deg til alle sammen.",
+    "message": "På tide å vise deg selv fram til alle.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Start using PreMiD now and show other people what you're watching or listening, maybe you will find someone with same interests.",
+    "message": "Begynn å bruke PreMiD nå og vis andre hva du gjør akkurat nå, eller kanskje du finner andre med samme interesser.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Kom i gang",
+    "message": "Kom i gang!",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Visit {0} page and check if the extension has connected.",
+    "message": "Besøk{0} siden og sjekk om utvidelsen er koblet til",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {
@@ -32,11 +32,11 @@
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
   "downloads.appdownloading.header": {
-    "message": "Application downloads",
+    "message": "Applikasjon",
     "description": "Header above application download buttons."
   },
   "downloads.extdownloading.header": {
-    "message": "Extension downloads",
+    "message": "Utvidelse/Tillegg",
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
+    "message": "{0} Det er ingen installer for dette operasjon systemet! Dette betyr at det er ingen profesjonell support for det.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

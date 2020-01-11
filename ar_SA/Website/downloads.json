@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": ".قم بزيارة صفحة {0} للتحقق من عمل الملحق",
+    "message": ".قم بزيارة {0} للتحقق من عمل الملحق",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {

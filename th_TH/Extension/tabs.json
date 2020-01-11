@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "โอ้ไม่! เราไม่สารมารถเชื่อมต่อกับแอปพลิเคชันได้ ... คุณได้ติดตั้งแอปพลิเคชันแล้วหรือยัง?",
+    "message": "**ไม่นะ!!** พวกเราไม่สามารถเชื่อต่อกับแอพพลิเคชั่น... คุณได้ติดตั้งมันแล้วใช่ไหม?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {

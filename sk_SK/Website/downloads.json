@@ -20,7 +20,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Nainštaluj si rozšírenie pre svoj prehliadač.",
+    "message": "Nainštaluj si rozšírenie.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Neexistuje žiadny inštalátor pre tento operačný systém. To znamená, že nebude žiadna odborná podpora.",
+    "message": "{0} Nie je žiadny inštalátor pre tento operačný systém. To znamená, že nebude žiadna odborná podpora.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

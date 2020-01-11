@@ -1,0 +1,110 @@
+{
+  "popup.navigation.settings": {
+    "message": "Nustatymai",
+    "description": "Title of the 'settings' section at the navigation in the popup"
+  },
+  "popup.navigation.credits": {
+    "message": "Padėkos",
+    "description": "Title of the 'credits' section at the navigation in the popup"
+  },
+  "popup.headings.general": {
+    "message": "Bendras",
+    "description": "Title of the 'general' area of the 'settings' section in the popup"
+  },
+  "popup.setting.enabled": {
+    "message": "Įjungta",
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.mediaControl": {
+    "message": "Medijos valdymas",
+    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.titleMenubar": {
+    "message": "Meniu juosta",
+    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.setting.autoLaunch": {
+    "message": "Automatinis paleidimas",
+    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+  },
+  "popup.headings.presences": {
+    "message": "Statusai",
+    "description": "Title of the 'presences' area of the 'settings' section in the popup"
+  },
+  "popup.presences.manage": {
+    "message": "Valdyti",
+    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.presences.noPresences": {
+    "message": "Nebuvo pridėta jokių statusų",
+    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.presences.done": {
+    "message": "Baigta",
+    "description": "Done button"
+  },
+  "popup.presences.load": {
+    "message": "Įkelkite statusą",
+    "description": "Load Presence button"
+  },
+  "popup.buttons.presenceStore": {
+    "message": "Pristatymų parduotuvė",
+    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+  },
+  "popup.buttons.help": {
+    "message": "Reikalinga pagalba?",
+    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+  },
+  "popup.credits.error.heading": {
+    "message": "O ne!",
+    "description": "Title of the error message (located at the 'credits' tab in the popup)"
+  },
+  "popup.credits.error.message": {
+    "message": "Klaidą įkeliant padėkas",
+    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+  },
+  "popup.info.notConnected": {
+    "message": "Neprijungtas",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.notConnected.message": {
+    "message": "PreMiD nepavyko prisijungti prie jos programos! Ar ji įdiegta ir veikia? *Problemų sprendimas*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion": {
+    "message": "Pasenusi programa",
+    "description": "Shown when application is outdated"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "Jūsų PreMiD programa yra pasenusi. Atnaujinkite ją, kad galėtumėte toliau naudotis PreMiD.",
+    "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "Visi",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Anime",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "Muzika",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "Žaidimai",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "Socialiniai",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "Vaizdo įrašai ir tiesioginiai eteriai",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "Kita",
+    "description": "Category name shown when you open tags"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "footer.language": {
+    "message": "Kalba",
+    "description": "You know how to translate that word? I hope you do :D"
+  },
+  "footer.usercount.heading": {
+    "message": "Pasiruošę išbandyti „PreMiD“?",
+    "description": "Promotional heading"
+  },
+  "footer.usercount.message": {
+    "message": "Prisijunkite prie {0} vartotojų jau šiandien!",
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+  },
+  "footer.usercount.button": {
+    "message": "Diegti",
+    "description": "Install button under the promotional message"
+  },
+  "footer.partners.heading": {
+    "message": "Partneriai",
+    "description": "Partner section"
+  },
+  "footer.developers.heading": {
+    "message": "Kūrėjai",
+    "description": "Developer section"
+  },
+  "footer.developers.documentation": {
+    "message": "Dokumentacija",
+    "description": "Documentation -> redirects to docs.premid.app"
+  },
+  "footer.developers.richpresence": {
+    "message": "Rich Presence",
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+  },
+  "footer.supportus.heading": {
+    "message": "Paremkite mus",
+    "description": "Support us section"
+  },
+  "footer.supportus.donate": {
+    "message": "Paaukoti",
+    "description": "Donate -> redirects to patreon.com/timeraa"
+  },
+  "footer.supportus.contribute": {
+    "message": "Prisidėkite",
+    "description": "Contribute -> redirects to github.com/premid"
+  },
+  "footer.supportus.design": {
+    "message": "Dizainas",
+    "description": "Design -> redirects to discord.premid.app"
+  },
+  "footer.supportus.translate": {
+    "message": "Išversti",
+    "description": "Translate -> redirects to locilazation page"
+  },
+  "footer.help.heading": {
+    "message": "Pagalba",
+    "description": "Help section"
+  },
+  "footer.help.troubleshooting": {
+    "message": "Nesklandumų sprendimas",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+  },
+  "footer.help.getsupport": {
+    "message": "Kreiptis pagalbos",
+    "description": "Get Support -> redirects to Discord invite"
+  },
+  "footer.help.information": {
+    "message": "Informacija",
+    "description": "Information section"
+  },
+  "footer.help.information.cookies": {
+    "message": "Slapukų politika",
+    "description": "meant to be 'Cookie Policy'"
+  },
+  "footer.help.information.privacy": {
+    "message": "Privatumas",
+    "description": "meant to be 'Privacy Policy'"
+  },
+  "footer.help.information.terms": {
+    "message": "Sąlygos",
+    "description": "meant to be 'Terms of Service'"
+  },
+  "footer.more.heading": {
+    "message": "Daugiau",
+    "description": "More section"
+  },
+  "footer.more.status": {
+    "message": "Statusas",
+    "description": "Status -> redirects to status.premid.app"
+  },
+  "footer.more.wiki": {
+    "message": "Wikipedija",
+    "description": "Wiki -> redirects to wiki.premid.app"
+  },
+  "footer.copyright.line1": {
+    "message": "{0} by {1}",
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+  },
+  "footer.copyright.line2": {
+    "message": "Svetainę išlaikoma {0}",
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+  }
+}
