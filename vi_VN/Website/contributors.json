@@ -1,14 +1,14 @@
 {
   "contributors.headings.staff": {
-    "message": "Staff",
+    "message": "Đội ngũ",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
-    "message": "Supporters",
+    "message": "Người hỗ trợ",
     "description": "Heading for group of users."
   },
   "contributors.headings.translators": {
-    "message": "Translators",
+    "message": "Phiên dịch viên",
     "description": "Heading for group of users."
   }
 }
