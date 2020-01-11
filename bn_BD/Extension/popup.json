@@ -72,15 +72,15 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "পুরুন আপা",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "আপনার PreMiD আপা তা আউটডেটেড. প্লিজ আপডেট করুন যদি আপ্নে PreMid উসে করা কন্টিনিউ করতে চান.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "সব",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
