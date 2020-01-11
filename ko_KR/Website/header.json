@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "English",
+    "message": "한국어",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
+    "message": "우리는 당신의 언어를 지원합니다. 바꾸고 싶으신가요?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
+    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "아뇨 괜찮아요",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Switch language",
+    "message": "언어 바꾸기",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
+    "message": "팬케이크 굽는 중...;컨테이너 쌓는 중...;당신의 IP를 얻는 중...;UwU;규칙 어기는 중...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "상점",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "다운로드",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "기여자",
     "description": "Contributors tab"
   }
 }
