@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Charger présences",
+    "message": "Charger les présences",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
