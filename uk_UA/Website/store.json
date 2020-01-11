@@ -1,38 +1,38 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Розширення не знайдено, блокування функцій...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Розширення знайдено, розблокування функцій...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "Творець",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Ця присутність була додана верифікованим розробником",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Пошук",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Додати присутність",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Видалити присутність",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Ця присутність автоматично використовується коли потрібно, не треба додавати її.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Усе",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Пошук",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Користувацькі присутності",
     "description": "Userpage title"
   }
 }
