@@ -1,38 +1,38 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "ไม่พบส่วนเสริม.. ไม่สามารถใช้งานได้",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "พบส่วนเสริมแล้ว.. ปลดล็อกฟังก์ชันแล้ว",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "ผู้สร้าง",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Presence นี้ได้รับการอนุมัติจากผู้พัฒนาแล้ว",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "่ค้นหา",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "เพิ่ม Presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "ลบ presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "ใน presence นี้รวมอยู่ใน PreMiD  โดยค่าเริ่มต้น คุณไม่จำเป็นต้องติดตั้งอีก",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "ทั้งหมด",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "่ค้นหา",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Presences ผู้ใช้",
     "description": "Userpage title"
   }
 }
