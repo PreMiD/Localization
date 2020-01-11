@@ -72,15 +72,15 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "Köhnəlmiş proqram",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
+    "message": "Sizin PreMiD proqramınız köhnədir. Zəhmət olmasa PreMiD-dən istifadə etməyə davam etmək üçün onu yeniləyin.",
     "description": "Shown when application is outdated"
   },
   "popup.category.all": {
-    "message": "All",
+    "message": "Hamısı",
     "description": "Category name shown when you open tags"
   },
   "popup.category.anime": {
