@@ -1,38 +1,38 @@
 {
   "store.message.error": {
-    "message": "Extension not found, locking functions...",
+    "message": "Erweiterung nicht gefunden, sperre Funktionen...",
     "description": "Error message when the extension wasn't detected"
   },
   "store.message.success": {
-    "message": "Extension found, unlocking functions...",
+    "message": "Erweiterung gefunden, entsperre Funktionen...",
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "Creator",
+    "message": "Ersteller",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
+    "message": "Diese Präsenz wurde von einem verifiziertem Entwickler bestätigt",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Search",
+    "message": "Suchen",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Add presence",
+    "message": "Präsenz hinzufügen",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Remove presence",
+    "message": "Präsenz entfernen",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "This presence is automatically used when needed, no need to add it.",
+    "message": "Diese Präsenz wird bei Bedarf automatisch verwendet, sie muss nicht extra hinzugefügt werden.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.all": {
-    "message": "All",
+    "message": "Alle",
     "description": "Category at the top"
   },
   "store.category.games": {
@@ -56,11 +56,11 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Search",
+    "message": "Suchen",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
-    "message": "User presences",
+    "message": "Benutzerpräsenzen",
     "description": "Userpage title"
   }
 }
