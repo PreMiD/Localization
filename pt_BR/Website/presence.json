@@ -8,7 +8,7 @@
     "description": "The title of the information section."
   },
   "presence.sections.information.author": {
-    "message": "Autor",
+    "message": "Autor(a)",
     "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   },
   "presence.sections.information.version": {
