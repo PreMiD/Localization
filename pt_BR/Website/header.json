@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nosso website foi traduzido para o seu idioma. Isso pode ajudar caso você não fale inglês tão bem.",
+    "message": "Nosso website foi traduzido para o seu idioma. Isso pode lhe ajudar caso você não fale Inglês tão bem.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Mudar de língua",
+    "message": "Mudar de idioma",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
