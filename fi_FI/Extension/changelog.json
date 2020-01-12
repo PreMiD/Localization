@@ -4,7 +4,7 @@
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "Löydä * uusia läsnäoloita * niiden luonnollisesta elinympäristöstä",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -12,27 +12,27 @@
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Users can create presences now",
+    "message": "Käyttäjät voivat luoda esityksiä nyt",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "* Dokumentit * näille luoville kehittäjille siellä",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "All new website design",
+    "message": "Kaikki uudet verkkosivut",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "More features for our Discord-Bot",
+    "message": "Lisää ominaisuuksia Discord-Bot-tuotteeseemme",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "Uusi sovellusliittymämme on juokseva peto",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "Uudistettu ponnahdusikkunoiden ja välilehtien asettelu ja tyyli",
     "description": ""
   },
   "extension.2.0.fix1": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "Korjaa vanhan sovellusvirheen, vaikka sinulla olisi viimeisin",
     "description": ""
   }
 }
