@@ -24,7 +24,7 @@
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
+    "message": ".هذا المستخدم أنشأ عددًا كافيًا من الملحقات ولديه دور مطور الملحقات في سيرفر ديسكورد الخاص بنا",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
