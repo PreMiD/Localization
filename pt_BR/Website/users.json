@@ -1,18 +1,18 @@
 {
   "user.roles.presenceDeveloper": {
-    "message": "Presence Developer",
+    "message": "Desenvolvedor de Presença",
     "description": "'Presence Developer' title for user pages."
   },
   "user.roles.presenceVerifier": {
-    "message": "Presence Verifier",
+    "message": "Verificador de Presenças",
     "description": "'Presence Verifier' title for user pages."
   },
   "user.importantPresenceDev.message1": {
-    "message": "Important Presence Developer",
+    "message": "Desenvolvedor Importante de Presença",
     "description": "'Important Presence Developer' tippy description for user pages."
   },
   "user.importantPresenceDev.message2": {
-    "message": "Created {0} presences.",
+    "message": "Criou {0} presenças.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
