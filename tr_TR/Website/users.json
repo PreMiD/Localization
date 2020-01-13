@@ -1,0 +1,38 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Servis Geliştiricisi",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Servis İnceleme Yetkilisi",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Önemli Servis Geliştiricisi",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Toplamda {0} servis geliştirmiş.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "Aradığınız kullanıcı bulunamadı. Lütfen alttaki maddeleri inceleyin:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Aradığınız kullanıcının ID'sinin doğru olduğuna emin olun.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "Kullanıcının bir profile sahip olabilmesi için yeterince servis yaptığına ve Discord sunucumuzda \"Presence Developer\" rolüne sahip olduğuna emin olun.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Discord sunucumuzda diğerlerinin de bu sorunu yaşayıp yaşamadığına emin olun.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Eğer bunun bir hata olduğunu düşünüyorsanız, bizimle [Discord sunucumuz]dan iletişime geçin.",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
