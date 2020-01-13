@@ -1,26 +1,26 @@
 {
   "user.roles.presenceDeveloper": {
-    "message": "Presence Developer",
+    "message": "مطور ملحقات",
     "description": "'Presence Developer' title for user pages."
   },
   "user.roles.presenceVerifier": {
-    "message": "Presence Verifier",
+    "message": "مدقق ملحقات",
     "description": "'Presence Verifier' title for user pages."
   },
   "user.importantPresenceDev.message1": {
-    "message": "Important Presence Developer",
+    "message": "مطور ملحقات متميز",
     "description": "'Important Presence Developer' tippy description for user pages."
   },
   "user.importantPresenceDev.message2": {
-    "message": "Created {0} presences.",
+    "message": ".طور {0} ملحقات",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
-    "message": "That user couldn't be found. Try to make sure:",
+    "message": "لم يتم العثور على هذا المطور، تأكد من:",
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "User's ID you're looking for is correct.",
+    "message": "أن ID المطور الذي تبحث عنه صحيح.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
