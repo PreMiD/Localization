@@ -8,11 +8,11 @@
     "description": "'Presence Verifier' title for user pages."
   },
   "user.importantPresenceDev.message1": {
-    "message": "Important Presence Developer",
+    "message": "Важный разработчик Статусов",
     "description": "'Important Presence Developer' tippy description for user pages."
   },
   "user.importantPresenceDev.message2": {
-    "message": "Created {0} presences.",
+    "message": "Создал {0} статусов.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
@@ -20,7 +20,7 @@
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "User's ID you're looking for is correct.",
+    "message": "Убедитесь, что вы ввели правильное ID пользователя.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
