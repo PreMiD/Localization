@@ -32,19 +32,19 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "Search filters",
+    "message": "Suchfilter",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Show most used first",
+    "message": "Meistgenutzte zuerst anzeigen",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
+    "message": "Erwachsenen Inhalt erlauben",
     "description": "Adult content checkbox"
   },
   "store.category.heading": {
-    "message": "Categories",
+    "message": "Kategorien",
     "description": "Category heading"
   },
   "store.category.all": {
@@ -84,7 +84,7 @@
     "description": "Userpage title"
   },
   "store.search.notFound": {
-    "message": "We can't find that presence",
+    "message": "Wir können diese Präsenz nicht finden",
     "description": "Search result text when nothing's found"
   }
 }
