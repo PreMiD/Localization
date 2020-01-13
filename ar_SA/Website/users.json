@@ -20,19 +20,19 @@
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "أن ID المطور الذي تبحث عنه صحيح.",
+    "message": "أن ID المطور الذي تبحث عنه صحيح",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": ".هذا المستخدم أنشأ عددًا كافيًا من الملحقات ولديه دور مطور الملحقات في سيرفر ديسكورد الخاص بنا",
+    "message": ".ان هذا المستخدم أنشأ عددًا كافيًا من الملحقات",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
-    "message": "Check if others are experiencing the same issue on our Discord server.",
+    "message": ".إذا كان الآخرون يواجهون نفس المشكلة على سيرفر ديسكورد الخاص بنا",
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "message": "[سيرفر ديسكورد الخاص بنا] إذا كنت تعتقد أن هذا كان خطأ، فيرجى الاتصال بنا في",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
