@@ -16,7 +16,7 @@
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
-    "message": "That user couldn't be found. Try to make sure:",
+    "message": "Мы не нашли этого пользователя. Попробуйте убедиться, что:",
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
