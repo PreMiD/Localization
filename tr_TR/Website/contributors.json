@@ -32,7 +32,7 @@
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Yardım Yetkilisi",
+    "message": "Yardım Ekibi Üyesi",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
