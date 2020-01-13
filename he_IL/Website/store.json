@@ -36,15 +36,15 @@
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Show most used first",
+    "message": "הראה את הכי משומשים קודם",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
+    "message": "אפשר תוכן למבוגרים",
     "description": "Adult content checkbox"
   },
   "store.category.heading": {
-    "message": "Categories",
+    "message": "קטגוריות",
     "description": "Category heading"
   },
   "store.category.all": {
@@ -84,7 +84,7 @@
     "description": "Userpage title"
   },
   "store.search.notFound": {
-    "message": "We can't find that presence",
+    "message": "אנחנו לא יכולים למצוא את הPresence הזה",
     "description": "Search result text when nothing's found"
   }
 }
