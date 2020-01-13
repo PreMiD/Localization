@@ -12,11 +12,11 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "Main Developer",
+    "message": "Główny programista",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Website Developer",
+    "message": "Twórcy strony internetowej",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
@@ -24,7 +24,7 @@
     "description": "'Community Manager' title for contributors and user pages."
   },
   "contributors.roles.headModerator": {
-    "message": "Head Moderator",
+    "message": "Główny moderator",
     "description": "'Head Moderator' title for contributors and user pages."
   },
   "contributors.roles.moderator": {
@@ -32,7 +32,7 @@
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Ticket Manager",
+    "message": "Menedżer zgłoszeń",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
@@ -44,7 +44,7 @@
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "Tłumacz",
     "description": "'Main Developer' title for contributors page."
   }
 }
