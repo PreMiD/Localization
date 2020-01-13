@@ -32,19 +32,19 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "Search filters",
+    "message": "Arama filtreleri",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Show most used first",
+    "message": "En çok kullanılanlar başta",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
+    "message": "Yetişkin içeriklileri göster",
     "description": "Adult content checkbox"
   },
   "store.category.heading": {
-    "message": "Categories",
+    "message": "Kategoriler",
     "description": "Category heading"
   },
   "store.category.all": {
@@ -84,7 +84,7 @@
     "description": "Userpage title"
   },
   "store.search.notFound": {
-    "message": "We can't find that presence",
+    "message": "Aradığınız servis bulunamadı",
     "description": "Search result text when nothing's found"
   }
 }
