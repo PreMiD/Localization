@@ -36,15 +36,15 @@
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Show most used first",
+    "message": "Leggyakrabban használtak mutatása első helyen",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
+    "message": "Felnőtt tartalom engedélyezése",
     "description": "Adult content checkbox"
   },
   "store.category.heading": {
-    "message": "Categories",
+    "message": "Kategóriák",
     "description": "Category heading"
   },
   "store.category.all": {
@@ -84,7 +84,7 @@
     "description": "Userpage title"
   },
   "store.search.notFound": {
-    "message": "We can't find that presence",
+    "message": "Az állapotüzenet nem található",
     "description": "Search result text when nothing's found"
   }
 }
