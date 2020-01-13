@@ -12,39 +12,39 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "Main Developer",
+    "message": "מפתח ראשי",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Website Developer",
+    "message": "מפתח האתר",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
-    "message": "Community Manager",
+    "message": "מנהל הקהילה",
     "description": "'Community Manager' title for contributors and user pages."
   },
   "contributors.roles.headModerator": {
-    "message": "Head Moderator",
+    "message": "ראש המנחים",
     "description": "'Head Moderator' title for contributors and user pages."
   },
   "contributors.roles.moderator": {
-    "message": "Moderator",
+    "message": "מנחה",
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Ticket Manager",
+    "message": "מנהל כרטיסים",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Donator",
+    "message": "תורם",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
-    "message": "Booster",
+    "message": "מאיץ",
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "מתרגם",
     "description": "'Main Developer' title for contributors page."
   }
 }
