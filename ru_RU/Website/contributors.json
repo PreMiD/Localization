@@ -36,15 +36,15 @@
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Donator",
+    "message": "Донатеры",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
-    "message": "Booster",
+    "message": "Усилитель",
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "Переводчик",
     "description": "'Main Developer' title for contributors page."
   }
 }
