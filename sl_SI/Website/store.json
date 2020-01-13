@@ -32,19 +32,19 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "Search filters",
+    "message": "Iskalni filtri",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Show most used first",
+    "message": "Najprej pokaži največ uporabljene",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
+    "message": "Dovoli odrasle vsebine",
     "description": "Adult content checkbox"
   },
   "store.category.heading": {
-    "message": "Categories",
+    "message": "Kategorije",
     "description": "Category heading"
   },
   "store.category.all": {
@@ -84,7 +84,7 @@
     "description": "Userpage title"
   },
   "store.search.notFound": {
-    "message": "We can't find that presence",
+    "message": "Ta dodatek ne moremo najti",
     "description": "Search result text when nothing's found"
   }
 }
