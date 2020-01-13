@@ -20,19 +20,19 @@
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "User's ID you're looking for is correct.",
+    "message": "Identyfikator użytkownika, którego szukasz jest poprawny.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
+    "message": "Użytkownik utworzył wystarczająco dużo Presences i ma rolę Dewelopera Presences na naszym serwerze Discord.",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
-    "message": "Check if others are experiencing the same issue on our Discord server.",
+    "message": "Sprawdź, czy inni doświadczają tego samego problemu na naszym serwerze Discord.",
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "message": "Jeśli uważasz, że to błąd, skontaktuj się z nami na [naszym serwerze Discord].",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
