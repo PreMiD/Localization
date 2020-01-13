@@ -32,7 +32,7 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "Search filters",
+    "message": "Keresési szűrők",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
