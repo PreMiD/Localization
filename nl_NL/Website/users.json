@@ -1,38 +1,38 @@
 {
   "user.roles.presenceDeveloper": {
-    "message": "Presence Developer",
+    "message": "Presence Ontwikkelaar",
     "description": "'Presence Developer' title for user pages."
   },
   "user.roles.presenceVerifier": {
-    "message": "Presence Verifier",
+    "message": "Presence Verificator",
     "description": "'Presence Verifier' title for user pages."
   },
   "user.importantPresenceDev.message1": {
-    "message": "Important Presence Developer",
+    "message": "Belangrijke Presence Ontwikkelaar",
     "description": "'Important Presence Developer' tippy description for user pages."
   },
   "user.importantPresenceDev.message2": {
-    "message": "Created {0} presences.",
+    "message": "{0} presences gemaakt.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
-    "message": "That user couldn't be found. Try to make sure:",
+    "message": "Deze gebruiker kon niet worden gevonden. Controleer:",
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "User's ID you're looking for is correct.",
+    "message": "De gebruikers-ID die je zoekt, is correct.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
+    "message": "De gebruiker heeft genoeg presences gemaakt en heeft de Presence Developer rol in onze Discord server.",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
-    "message": "Check if others are experiencing the same issue on our Discord server.",
+    "message": "Kijk of anderen hetzelfde probleem hebben op onze Discord server.",
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "message": "Als je denkt dat dit een fout was, neem dan contact met ons op in [our Discord server].",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
