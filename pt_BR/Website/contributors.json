@@ -28,15 +28,15 @@
     "description": "'Head Moderator' title for contributors and user pages."
   },
   "contributors.roles.moderator": {
-    "message": "Moderator",
+    "message": "Moderador",
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Ticket Manager",
+    "message": "Gerenciador de Tickets",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Donator",
+    "message": "Doador",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
@@ -44,7 +44,7 @@
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "Tradutor",
     "description": "'Main Developer' title for contributors page."
   }
 }
