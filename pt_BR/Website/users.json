@@ -16,23 +16,23 @@
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
-    "message": "That user couldn't be found. Try to make sure:",
+    "message": "Esse usuário não pôde ser encontrado. Tente se certificar de:",
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "User's ID you're looking for is correct.",
+    "message": "O ID do usuário que você está procurando está correto.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
+    "message": "O usuário criou presenças suficientes e tem o cargo de Desenvolvedor de Presença em nosso servidor do Discord.",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
-    "message": "Check if others are experiencing the same issue on our Discord server.",
+    "message": "Verifique se outros usuários estão passando pelo mesmo problema em nosso servidor do Discord.",
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "message": "Se você acha que isso foi um erro, por favor, entre em contato conosco pelo [nosso servidor do Discord].",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
