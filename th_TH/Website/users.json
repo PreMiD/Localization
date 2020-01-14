@@ -32,7 +32,7 @@
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "message": "ถ้าคุณคิดว่ามันผิดพลาด, ลองติดต่อผ่าน [เซิร์ฟเวอร์ของพวกเรา]",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
