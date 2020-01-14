@@ -1,26 +1,26 @@
 {
   "user.roles.presenceDeveloper": {
-    "message": "Presence Developer",
+    "message": "Add-oni tegija",
     "description": "'Presence Developer' title for user pages."
   },
   "user.roles.presenceVerifier": {
-    "message": "Presence Verifier",
+    "message": "Add-oni kinnitaja",
     "description": "'Presence Verifier' title for user pages."
   },
   "user.importantPresenceDev.message1": {
-    "message": "Important Presence Developer",
+    "message": "Tähtis add-oni tegija",
     "description": "'Important Presence Developer' tippy description for user pages."
   },
   "user.importantPresenceDev.message2": {
-    "message": "Created {0} presences.",
+    "message": "Loodud {0} add-oni.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.notFound.heading": {
-    "message": "That user couldn't be found. Try to make sure:",
+    "message": "Seda kasutajat ei leitud. Ole kindel, et:",
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "User's ID you're looking for is correct.",
+    "message": "Kasutaja ID, mida sa otsid, on olemas.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
@@ -32,7 +32,7 @@
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "message": "Kui sa arvad, et see oli viga, palun kontakteeru meiega [Discordi serveris].",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
