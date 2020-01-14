@@ -1,14 +1,14 @@
 {
   "user.roles.presenceDeveloper": {
-    "message": "Presence Developer",
+    "message": "Розробник присутностей",
     "description": "'Presence Developer' title for user pages."
   },
   "user.roles.presenceVerifier": {
-    "message": "Presence Verifier",
+    "message": "Перевірка присутності",
     "description": "'Presence Verifier' title for user pages."
   },
   "user.importantPresenceDev.message1": {
-    "message": "Important Presence Developer",
+    "message": "Важливий розробник присутностей",
     "description": "'Important Presence Developer' tippy description for user pages."
   },
   "user.importantPresenceDev.message2": {
