@@ -12,23 +12,23 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "Main Developer",
+    "message": "ผู้พัฒนาหลัก",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Website Developer",
+    "message": "นักพัฒนาเว็บไซต์",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
-    "message": "Community Manager",
+    "message": "ผู้จัดการชุมชน",
     "description": "'Community Manager' title for contributors and user pages."
   },
   "contributors.roles.headModerator": {
-    "message": "Head Moderator",
+    "message": "ผู้ดูแลหลัก",
     "description": "'Head Moderator' title for contributors and user pages."
   },
   "contributors.roles.moderator": {
-    "message": "Moderator",
+    "message": "ผู้ดูแล",
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
@@ -36,15 +36,15 @@
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Donator",
+    "message": "คนบริจาค",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
-    "message": "Booster",
+    "message": "บูสเตอร์",
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "แปลภาษา",
     "description": "'Main Developer' title for contributors page."
   }
 }
