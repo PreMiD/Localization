@@ -12,39 +12,39 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "Main Developer",
+    "message": "Pagrindinis kūrėjas",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Website Developer",
+    "message": "Svetainės kūrėjas",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
-    "message": "Community Manager",
+    "message": "Bendruomenės vadovas",
     "description": "'Community Manager' title for contributors and user pages."
   },
   "contributors.roles.headModerator": {
-    "message": "Head Moderator",
+    "message": "Vyriausias moderatorius",
     "description": "'Head Moderator' title for contributors and user pages."
   },
   "contributors.roles.moderator": {
-    "message": "Moderator",
+    "message": "Moderatorius",
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Ticket Manager",
+    "message": "Bilietų vadybininkas",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Donator",
+    "message": "Remėjai",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
-    "message": "Booster",
+    "message": "Boosteriai",
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "Vertėjai",
     "description": "'Main Developer' title for contributors page."
   }
 }
