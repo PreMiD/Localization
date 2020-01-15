@@ -1,0 +1,38 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "مطور ملحقات",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "مدقق ملحقات",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "مطور ملحقات متميز",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": ".طور {0} ملحقات",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "لم يتم العثور على هذا المطور، تأكد من:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "أن ID المطور الذي تبحث عنه صحيح",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": ".ان هذا المستخدم أنشأ عددًا كافيًا من الملحقات",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": ".إذا كان الآخرون يواجهون نفس المشكلة على سيرفر ديسكورد الخاص بنا",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "[سيرفر ديسكورد الخاص بنا] إذا كنت تعتقد أن هذا كان خطأ، فيرجى الاتصال بنا في",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}

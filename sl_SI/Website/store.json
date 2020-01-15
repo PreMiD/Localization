@@ -31,6 +31,22 @@
     "message": "Ta dodatek se samodejno vklopi, ko se potrebuje. Ne rabite ga dodati.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Iskalni filtri",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Najprej pokaži največ uporabljene",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Dovoli odrasle vsebine",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorije",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Vse",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "Uporabniški dodatki",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "Uporabniški dodatki",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Ta dodatek ne moremo najti",
+    "description": "Search result text when nothing's found"
   }
 }

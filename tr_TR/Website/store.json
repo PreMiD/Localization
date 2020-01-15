@@ -31,6 +31,22 @@
     "message": "Bu servis gerektiğinde otomatik olarak devreye girer, eklemeye gerek yoktur.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Arama filtreleri",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "En çok kullanılanlar başta",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Yetişkin içeriklileri göster",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategoriler",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Tümü",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "Kullanıcının servisleri",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "Kullanıcının servisleri",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Aradığınız servis bulunamadı",
+    "description": "Search result text when nothing's found"
   }
 }

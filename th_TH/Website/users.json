@@ -1,0 +1,38 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "นักพัฒนา Presence",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "ยืนยัน Presence ",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "นักพัฒนา Presence ที่สำคัญ",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "สร้าง Presences ไปแล้ว {0}",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "That user couldn't be found. Try to make sure:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "User's ID you're looking for is correct.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Check if others are experiencing the same issue on our Discord server.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "ถ้าคุณคิดว่ามันผิดพลาด, ลองติดต่อผ่าน [เซิร์ฟเวอร์ของพวกเรา]",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}

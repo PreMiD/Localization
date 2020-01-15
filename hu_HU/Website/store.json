@@ -31,6 +31,22 @@
     "message": "Ezt az állapotüzenetet a PreMiD alapértelmezetten támogatja, nincs szükség telepítésre.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Keresési szűrők",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Leggyakrabban használtak mutatása első helyen",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Felnőtt tartalom engedélyezése",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategóriák",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Minden",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "Felhasználó állapotüzenetei",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "Felhasználó állapotüzenetei",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Az állapotüzenet nem található",
+    "description": "Search result text when nothing's found"
   }
 }

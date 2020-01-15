@@ -31,6 +31,22 @@
     "message": "Ten status jest automatycznie uruchamiany kiedy go potrzebujesz, nie musisz go dodawać.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Filtry wyszukiwania",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Pokaż najpierw najczęściej używane",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Zezwól na zawartość dla dorosłych",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorie",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Wszystkie",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "Statusy użytkownika",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "Statusy użytkownika",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Nie możemy znaleźć tego presence",
+    "description": "Search result text when nothing's found"
   }
 }

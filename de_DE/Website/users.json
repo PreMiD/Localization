@@ -1,0 +1,38 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Präsenz-Entwickler",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Präsenz-Verifizierer",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Wichtiger Präsenz-Entwickler",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "{0} Präsenzen erstellt.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "Dieser Benutzer konnte nicht gefunden werden. Bitte stelle sicher:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Die Benutzer-ID, die du suchst, ist richtig.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "Der Benutzer hat genug Präsenzen erstellt und hat die Präsenz Entwickler Rolle in unserem Discord Server.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Überprüfe, ob andere dasselbe Problem auf unserem Discord Server haben.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Wenn du glaubst, dass dies ein Fehler war, kontaktiere uns bitte auf [unserem Discord Server].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}

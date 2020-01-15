@@ -31,6 +31,22 @@
     "message": "Diese Präsenz wird bei Bedarf automatisch verwendet, sie muss nicht extra hinzugefügt werden.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Suchfilter",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Meistgenutzte zuerst anzeigen",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Erwachsenen Inhalt erlauben",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorien",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Alle",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "Benutzerpräsenzen",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "Benutzerpräsenzen",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Wir können diese Präsenz nicht finden",
+    "description": "Search result text when nothing's found"
   }
 }

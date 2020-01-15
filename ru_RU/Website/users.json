@@ -1,0 +1,38 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Разработчик Статусов",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Статусо-утверждающий",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Важный разработчик Статусов",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Создал {0} статусов.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "Мы не нашли этого пользователя. Попробуйте убедиться, что:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Убедитесь, что вы ввели правильное ID пользователя.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "Пользователь создал достаточно статусов и он (скорее всего) имеет роль \"Разработчик Статусов\" на нашем сервере в Discord.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Посмотрите на нашем сервере в Discord - есть ли у людей такая же проблема.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Если вы верите, что это ошибка - пожалуйста, свежитесь с нами через [our Discord server].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}

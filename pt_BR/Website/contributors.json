@@ -10,5 +10,41 @@
   "contributors.headings.translators": {
     "message": "Tradutores",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "Desenvolvedor Principal",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "Desenvolvedor do Website",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "Gerente da Comunidade",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "Moderador Chefe",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "Moderador",
+    "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.ticketManager": {
+    "message": "Gerenciador de Tickets",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "Doador",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "Booster",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "Tradutor",
+    "description": "'Main Developer' title for contributors page."
   }
 }

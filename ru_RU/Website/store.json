@@ -31,6 +31,22 @@
     "message": "Этот статус установлен в PreMiD по умолчанию, нет необходимости его устанавливать.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Фильтры для поиска",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Показывать найболее используемые первым",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Разрешить контент для взрослых",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Категории",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Всё",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "Присутствия от пользователей",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "Присутствия от пользователей",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Мы не можем найти этот статус...",
+    "description": "Search result text when nothing's found"
   }
 }

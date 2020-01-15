@@ -31,6 +31,22 @@
     "message": "הPresence משומש באופן אוטומטי מתי שצריך, אין צורך להוסיף אותו.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "מסנני חיפוש",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "הראה את הכי משומשים קודם",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "אפשר תוכן למבוגרים",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "קטגוריות",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "הכל",
     "description": "Category at the top"
@@ -62,5 +78,13 @@
   "store.userpage.userPresences": {
     "message": "נוכחות משתמש",
     "description": "Userpage title"
+  },
+  "store.userpage.error1": {
+    "message": "נוכחות משתמש",
+    "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "אנחנו לא יכולים למצוא את הPresence הזה",
+    "description": "Search result text when nothing's found"
   }
 }
