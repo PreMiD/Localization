@@ -31,10 +31,6 @@
     "message": "ผู้ดูแล",
     "description": "'Moderator' title for contributors and user pages."
   },
-  "contributors.roles.ticketManager": {
-    "message": "Ticket Manager",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
   "contributors.roles.donator": {
     "message": "คนบริจาค",
     "description": "'Donator' title for contributors page."
