@@ -39,10 +39,6 @@
     "message": "Ei presencejä lisätty",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
-  "popup.presences.done": {
-    "message": "Done",
-    "description": "Done button"
-  },
   "popup.presences.load": {
     "message": "Lataa presence",
     "description": "Load Presence button"
@@ -66,45 +62,5 @@
   "popup.info.notConnected": {
     "message": "Ei yhdistetty",
     "description": "Shown when the extension can't connect to the application"
-  },
-  "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
-    "description": "Shown when the extension can't connect to the application"
-  },
-  "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
-    "description": "Shown when application is outdated"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD.",
-    "description": "Shown when application is outdated"
-  },
-  "popup.category.all": {
-    "message": "All",
-    "description": "Category name shown when you open tags"
-  },
-  "popup.category.anime": {
-    "message": "Anime",
-    "description": "Category name shown when you open tags"
-  },
-  "popup.category.music": {
-    "message": "Music",
-    "description": "Category name shown when you open tags"
-  },
-  "popup.category.games": {
-    "message": "Games",
-    "description": "Category name shown when you open tags"
-  },
-  "popup.category.socials": {
-    "message": "Socials",
-    "description": "Category name shown when you open tags"
-  },
-  "popup.category.videos": {
-    "message": "Videos & Streams",
-    "description": "Category name shown when you open tags"
-  },
-  "popup.category.other": {
-    "message": "Other",
-    "description": "Category name shown when you open tags"
   }
 }
