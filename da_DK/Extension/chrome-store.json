@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "Din Rich Presence for webservices!",
+    "message": "Din Rich Presence for web services!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "Din Rich Presence for webservices!\nPreMiD er et lille værktøj, der giver dig mulighed for at vise, hvad du laver på websteder i din Discord-profil ved hjælp af Discord's Rich Presence SDK. Når du f. eks. Begynder at se en video, griber udvidelsen al den nødvendige information fra siden og sender den til vores applikation for at indstille status i din Discord-profil.\n\n\nPreMiD understøtter mere end 250 websteder og fortsætter takket være sit stærke samfund, der tilføjer nye præsentationer hver dag.\n\nFor at bruge PreMiD skal du tilføje denne udvidelse og installere den officielle PreMiD-applikation, der findes på vores websted. Dette skyldes begrænsninger i den måde Discord's Rich Presence SDK fungerer på.\n\n»Vores Discord Server\n{0}\n\n»Vores hjemmeside\n{1}\n\n»GitHub organisation\n{2}\n\nHvis du elsker PreMiD, bedes du skrive en anmeldelse, sprede den med dine venner eller donere.",
+    "message": "Din Rich Presence for web services!\nPreMiD er et lille værktøj, der giver dig mulighed for at vise, hvad du laver på websteder i din Discord-profil ved hjælp af Discord's Rich Presence SDK. Når du f. eks. Begynder at se en video, griber udvidelsen al den nødvendige information fra siden og sender den til vores applikation for at indstille status i din Discord-profil.\n\n\nPreMiD understøtter mere end 250 websteder og fortsætter takket være sit stærke samfund, der tilføjer nye præsentationer hver dag.\n\nFor at bruge PreMiD skal du tilføje denne udvidelse og installere den officielle PreMiD-applikation, der findes på vores websted. Dette skyldes begrænsninger i den måde Discord's Rich Presence SDK fungerer på.\n\n»Vores Discord Server\n{0}\n\n»Vores hjemmeside\n{1}\n\n»GitHub organisation\n{2}\n\nHvis du elsker PreMiD, bedes du skrive en anmeldelse, sprede den med dine venner eller donere",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

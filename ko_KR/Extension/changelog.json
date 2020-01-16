@@ -1,22 +1,6 @@
 {
-  "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
-    "description": ""
-  },
   "extension.2.0.new4": {
     "message": "이제 Presence 들을 유저가 만들수 있습니다",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -27,24 +11,8 @@
     "message": "우리의 디스코드 봇에 더 많은 기능이 추가되었습니다",
     "description": ""
   },
-  "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
-    "description": ""
-  },
-  "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
-    "description": ""
-  },
-  "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
-    "description": ""
-  },
   "extension.2.0.fix2": {
     "message": "모든게 더욱 빨리 동작합니다",
-    "description": ""
-  },
-  "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
     "description": ""
   }
 }

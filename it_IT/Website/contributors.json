@@ -12,31 +12,31 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "Main Developer",
+    "message": "Sviluppatore principale",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Website Developer",
+    "message": "Sviluppatore Sito Web",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
-    "message": "Community Manager",
+    "message": "Manager della Community",
     "description": "'Community Manager' title for contributors and user pages."
   },
   "contributors.roles.headModerator": {
-    "message": "Head Moderator",
+    "message": "Moderatore Capo",
     "description": "'Head Moderator' title for contributors and user pages."
   },
   "contributors.roles.moderator": {
-    "message": "Moderator",
+    "message": "Moderatore",
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Ticket Manager",
+    "message": "Gestore Ticket",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Donator",
+    "message": "Donatore",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
@@ -44,7 +44,7 @@
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "Translator",
+    "message": "Traduttore",
     "description": "'Main Developer' title for contributors page."
   }
 }

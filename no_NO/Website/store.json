@@ -31,22 +31,6 @@
     "message": "Denne presencen er automatisk aktivert når du trenger den, så du trenger ikke å legge den til.",
     "description": "The message that appears instead of the buttons."
   },
-  "store.category.filters.heading": {
-    "message": "Search filters",
-    "description": "Searh filters option at the store page"
-  },
-  "store.category.filters.mostUsed": {
-    "message": "Show most used first",
-    "description": "Most used first checkbox"
-  },
-  "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
-    "description": "Adult content checkbox"
-  },
-  "store.category.heading": {
-    "message": "Categories",
-    "description": "Category heading"
-  },
   "store.category.all": {
     "message": "Alle",
     "description": "Category at the top"
@@ -82,9 +66,5 @@
   "store.userpage.error1": {
     "message": "Bruker presences",
     "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "We can't find that presence",
-    "description": "Search result text when nothing's found"
   }
 }

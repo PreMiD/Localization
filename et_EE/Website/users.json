@@ -23,14 +23,6 @@
     "message": "Kasutaja ID, mida sa otsid, on olemas.",
     "description": "Check user ID message."
   },
-  "user.notFound.message2": {
-    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
-    "description": "Check the presence amount of the developer created message."
-  },
-  "user.notFound.message3": {
-    "message": "Check if others are experiencing the same issue on our Discord server.",
-    "description": "Check if the error is also happening to others message."
-  },
   "user.notFound.message4": {
     "message": "Kui sa arvad, et see oli viga, palun kontakteeru meiega [Discordi serveris].",
     "description": "Bottom line for the error page. Do not edit brackets."

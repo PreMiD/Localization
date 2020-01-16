@@ -1,19 +1,7 @@
 {
-  "store.message.error": {
-    "message": "Extension not found, locking functions...",
-    "description": "Error message when the extension wasn't detected"
-  },
-  "store.message.success": {
-    "message": "Extension found, unlocking functions...",
-    "description": "Success message when the extension was detected"
-  },
   "store.cards.creator": {
     "message": "제작자",
     "description": "Creator of a presence"
-  },
-  "store.cards.verified": {
-    "message": "This presence was approved by a verified developer",
-    "description": "Verified badge hover message"
   },
   "store.header.search": {
     "message": "검색",
@@ -30,22 +18,6 @@
   "store.card.presence.included": {
     "message": "This presence is included in PreMiD by default, no need to install it.",
     "description": "The message that appears instead of the buttons."
-  },
-  "store.category.filters.heading": {
-    "message": "Search filters",
-    "description": "Searh filters option at the store page"
-  },
-  "store.category.filters.mostUsed": {
-    "message": "Show most used first",
-    "description": "Most used first checkbox"
-  },
-  "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
-    "description": "Adult content checkbox"
-  },
-  "store.category.heading": {
-    "message": "Categories",
-    "description": "Category heading"
   },
   "store.category.all": {
     "message": "모두",
@@ -74,17 +46,5 @@
   "store.search": {
     "message": "검색",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "User presences",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "User presences",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "We can't find that presence",
-    "description": "Search result text when nothing's found"
   }
 }

@@ -55,10 +55,6 @@
     "message": "Treba pomoći?",
     "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
   },
-  "popup.credits.error.heading": {
-    "message": "Oh noes!",
-    "description": "Title of the error message (located at the 'credits' tab in the popup)"
-  },
   "popup.credits.error.message": {
     "message": "Greška prilikom učitavanja kredita",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"

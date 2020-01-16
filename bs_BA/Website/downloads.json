@@ -31,14 +31,6 @@
     "message": "prodavnica",
     "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
   },
-  "downloads.appdownloading.header": {
-    "message": "Application",
-    "description": "Header above application download buttons."
-  },
-  "downloads.extdownloading.header": {
-    "message": "Extension",
-    "description": "Header above extension download buttons."
-  },
   "downloads.tooltips.os_not_supported.part1": {
     "message": "UPOZORENJE:",
     "description": "First part of the message."
