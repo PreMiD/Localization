@@ -31,22 +31,6 @@
     "message": "Esta presença já está incluída no PreMiD por padrão, não precisas de a instalar.",
     "description": "The message that appears instead of the buttons."
   },
-  "store.category.filters.heading": {
-    "message": "Search filters",
-    "description": "Searh filters option at the store page"
-  },
-  "store.category.filters.mostUsed": {
-    "message": "Show most used first",
-    "description": "Most used first checkbox"
-  },
-  "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
-    "description": "Adult content checkbox"
-  },
-  "store.category.heading": {
-    "message": "Categories",
-    "description": "Category heading"
-  },
   "store.category.all": {
     "message": "Todos",
     "description": "Category at the top"
@@ -82,9 +66,5 @@
   "store.userpage.error1": {
     "message": "Presenças do Utilizador",
     "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "We can't find that presence",
-    "description": "Search result text when nothing's found"
   }
 }
