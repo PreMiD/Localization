@@ -27,10 +27,6 @@
     "message": "**당신**의 Presence 를 찾기",
     "description": "Features section subheading"
   },
-  "home.features.presencesystem.description": {
-    "message": "We developed our extension in a way that allows you to add and use presences created by other users and manage them in our extension!",
-    "description": "Features section description"
-  },
   "home.features.presencesystem.button": {
     "message": "상점 열기",
     "description": "Features section button"
@@ -38,10 +34,6 @@
   "home.features.simpleInterface.heading": {
     "message": "간단한 유저 인터페이스",
     "description": "Features section subheading"
-  },
-  "home.features.simpleInterface.description": {
-    "message": "Tired of complicated user interfaces? That's why we created a simple and useful interface with only important functions included:",
-    "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
     "message": "앱과 확장 기능 설정",
@@ -58,10 +50,6 @@
   "home.features.quickSupport.heading": {
     "message": "빠른 지원",
     "description": "Features section subheading"
-  },
-  "home.features.quickSupport.description": {
-    "message": "Something is glitching or sending you tons of errors? We will help you to get rid of that on our Discord server, we also developed a support system that will make your life easier.",
-    "description": "Features section description"
   },
   "home.features.quickSupport.button": {
     "message": "우리 서버 들리기",
