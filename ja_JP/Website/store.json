@@ -31,60 +31,8 @@
     "message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
     "description": "The message that appears instead of the buttons."
   },
-  "store.category.filters.heading": {
-    "message": "Search filters",
-    "description": "Searh filters option at the store page"
-  },
-  "store.category.filters.mostUsed": {
-    "message": "Show most used first",
-    "description": "Most used first checkbox"
-  },
-  "store.category.filters.allowAdult": {
-    "message": "Allow adult content",
-    "description": "Adult content checkbox"
-  },
-  "store.category.heading": {
-    "message": "Categories",
-    "description": "Category heading"
-  },
-  "store.category.all": {
-    "message": "All",
-    "description": "Category at the top"
-  },
-  "store.category.games": {
-    "message": "Games",
-    "description": "Category at the top"
-  },
-  "store.category.music": {
-    "message": "Music",
-    "description": "Category at the top"
-  },
-  "store.category.socials": {
-    "message": "Socials",
-    "description": "Category at the top"
-  },
-  "store.category.videos": {
-    "message": "Videos & Streams",
-    "description": "Category at the top"
-  },
-  "store.category.other": {
-    "message": "Other",
-    "description": "Category at the top"
-  },
   "store.search": {
     "message": "検索",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "User presences",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "User presences",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "We can't find that presence",
-    "description": "Search result text when nothing's found"
   }
 }
