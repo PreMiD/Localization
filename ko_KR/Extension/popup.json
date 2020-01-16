@@ -67,10 +67,6 @@
     "message": "연결되지 않음",
     "description": "Shown when the extension can't connect to the application"
   },
-  "popup.info.notConnected.message": {
-    "message": "PreMiD was unable to connect to its application! Is it installed and running? *Troubleshooting*",
-    "description": "Shown when the extension can't connect to the application"
-  },
   "popup.info.unsupportedAppVersion": {
     "message": "오래된 앱",
     "description": "Shown when application is outdated"
