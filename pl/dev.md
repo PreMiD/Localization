@@ -1,26 +1,26 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
-published: true
+title: Pierwsze kroki
+description: Troche porad dla tych co chcą zacząć programować
+published: tak
 date: 2019-11-03T13:02:36.660Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Edytor kodu źródłowego jest wymagany. Zalecamy Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+# Instalowanie wymagań
+1. Zainstaluj program [Git](https://git-scm.com/).
+2. Zainstaluj program [node.js](https://nodejs.org/en/) (przybywa z [npm](https://www.npmjs.com/)).
+3. Zainstaluj program [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz konsole i wpisz `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Klonowanie projektu
+1. Otwórz konsole i wpisz `git clone LINK`. **Zamień LINK na link repozytorium które chcesz wspomoć** np. `git clone https://github.com/PreMiD/PreMiD`.
+2. Wybierz folder.
+3. Otwórz go w twoim edytorze kodu.
 
-# Installing dependencies
+# Instalowanie dodatkowych plików
 > Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
 > 
 > {.is-warning}
