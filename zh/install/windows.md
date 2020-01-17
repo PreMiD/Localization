@@ -10,7 +10,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# 安裝
+# 安装
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Windows**.
 3. Open the installer.
