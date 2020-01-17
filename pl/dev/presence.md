@@ -1,16 +1,16 @@
 ---
-title: Presence Development
+title: Rozwój statusów
 description:
 published: tak
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Wszystkie statusy są trzymane tutaj: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
 # Guidelines
 > If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
