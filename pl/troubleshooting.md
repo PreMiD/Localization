@@ -1,7 +1,7 @@
 ---
 title: Rozwiązywanie problemów
 description: Everything to solve your problem
-published: true
+published: tak
 date: 2019-10-03T00:21:25.018Z
 tags:
 ---
