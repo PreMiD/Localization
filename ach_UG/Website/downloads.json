@@ -1,0 +1,50 @@
+{
+  "downloads.header.title": {
+    "message": "crwdns3173:0crwdne3173:0",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "crwdns3175:0crwdne3175:0",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "crwdns3177:0crwdne3177:0",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "crwdns3179:0crwdne3179:0",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "crwdns3181:0crwdne3181:0",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "crwdns3183:0crwdne3183:0",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "crwdns3185:0{0}crwdne3185:0",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "crwdns3187:0crwdne3187:0",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "crwdns3189:0crwdne3189:0",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "crwdns3191:0crwdne3191:0",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "crwdns3193:0crwdne3193:0",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "crwdns3195:0{0}crwdne3195:0",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  }
+}
