@@ -28,23 +28,23 @@
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "我們的新API正在穩定的運行",
+    "message": "我們的新API運行的更加穩定",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "改進了彈出窗口和標籤的佈局和設計",
+    "message": "改進了彈出窗口和標籤的佈局和風格",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "許多的未知錯誤逃跑了",
+    "message": "許多的未知和已知的錯誤修復了",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "所有東西都運行快多了",
+    "message": "一切將運行的更快",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "修復了舊應用的錯誤即使您擁有最新的錯誤",
+    "message": "即使您擁有最新的應用,我們也將修復舊的錯誤",
     "description": ""
   }
 }
