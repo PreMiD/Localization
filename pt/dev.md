@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
-published: true
+title: Primeiros Passos
+description: Algumas dicas para aqueles que começaram a programar recentemente
+published: verdadeiro
 date: 2019-11-03T13:02:36.660Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Um editor de código é necessário. Recomendamos o Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+# Instalando os requisitos
+1. Instale o [Git](https://git-scm.com/).
+2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
+3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abra um terminal e `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Clonando o projeto
+1. Abra um terminal e digite `git clone URL`. **Substitua a URL pelo link do repositório que você deseja contribuir para** por exemplo, `git clone https://github.com/PreMiD/PreMiD`.
+2. Escolha uma pasta que preferir.
+3. Abra-a no editor de código.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Instalando dependências
+> Certifique-se de ter instalado o [npm](https://www.npmjs.com/) (Node Package Manager) primeiro. Ele se instalou automaticamente se você tiver o [Node](https://nodejs.org/en/) instalado. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Abra um terminal no repositório e digite `npm i`.
+- Para atualizar as dependências, digite `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Esteja ciente que atualizar as dependências pode quebrar alguma coisa, ou não - testes são necessários! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Programando sua visão
+Por favor, mantenha a estrutura. Não queremos desorganizar o nosso projeto. Arquivos caóticos podem não ser aceitos.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Submetendo seu sonho
+Basta abrir um Pull Request em um dos nossos [repositórios GitHub](https://github.com/PreMiD/) nos quais você deseja contribuir. Vamos cuidar do seu bebê, não se preocupe. Se esta é sua primeira vez fazendo um pull request, dê uma olhada neste [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Seja aprovado
+Nosso objetivo principal é trabalhar com os usuários, então tente ser o mais amigável, respeitoso e informativo possível. Apenas ping um desenvolvedor no nosso [servidor do Discord](https://discord.gg/PreMiD) para obter essa revisão no GitHub ou não. Depends on the code quality, appearance of assets and regular functionality.
