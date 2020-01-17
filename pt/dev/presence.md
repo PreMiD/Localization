@@ -1,7 +1,7 @@
 ---
 title: Presence Development
 description:
-published: verdadeiro
+published: true
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
@@ -62,14 +62,14 @@ After all of the proper reviews have been met, your pull request will be merged 
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installation
-1. Instale o [Git](https://git-scm.com/).
-2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
-3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abra um terminal e `npm install -g typescript`).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Clonando o projeto
+## Cloning the project
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Escolha uma pasta que preferir.
-3. Abra-a no editor de código.
+2. Choose a folder of your choice.
+3. Open it in you code editor.
 
 ## Creating folders and files
 
@@ -195,11 +195,11 @@ presence.on("iFrameData", data => {
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Structure (JavaScript)
-## Clonando o projeto
-1. Instale o [Git](https://git-scm.com/).
+## Cloning the project
+1. Install [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Escolha uma pasta que preferir.
-4. Abra-a no editor de código.
+3. Choose a folder of your choice.
+4. Open it in you code editor.
 
 ## Creating folders and files
 
