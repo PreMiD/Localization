@@ -1,7 +1,7 @@
 ---
 title: macOS
 description: Getting started with a PreMiD installation on macOS
-published: verdadeiro
+published: true
 date: 2019-10-02T11:30:51.936Z
 tags:
 ---
