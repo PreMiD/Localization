@@ -31,6 +31,10 @@
     "message": "此状态会在必要时自动启动，不需要添加它。",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "过滤器",
+    "description": "Searh filters option at the store page"
+  },
   "store.category.all": {
     "message": "全部",
     "description": "Category at the top"
