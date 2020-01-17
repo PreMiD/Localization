@@ -24,11 +24,15 @@
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "這個使用者創建了足夠多的 Presence 并在我們的 Discord 服務器中擁有 Presence 開發者身分組",
+    "message": "這個使用者創建了足夠多的 Presence 并在我們的 Discord 伺服器中擁有 Presence 開發者身分組",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
-    "message": "在我們的 Discord 服務器中確認其他人是否存在同樣的錯誤。",
+    "message": "在我們的 Discord 伺服器中確認其他人是否存在同樣的錯誤。",
     "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "如果你堅信這是一個錯誤，請在 [Discord 伺服器] 中聯係我們。",
+    "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
