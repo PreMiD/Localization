@@ -35,6 +35,18 @@
     "message": "过滤器",
     "description": "Searh filters option at the store page"
   },
+  "store.category.filters.mostUsed": {
+    "message": "优先显示常用",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "允许成人内容(R18)",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "分类",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "全部",
     "description": "Category at the top"
@@ -70,5 +82,9 @@
   "store.userpage.error1": {
     "message": "用户状态",
     "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "我们找不到这个Presence",
+    "description": "Search result text when nothing's found"
   }
 }
