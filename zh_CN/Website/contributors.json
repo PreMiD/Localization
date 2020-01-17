@@ -10,5 +10,41 @@
   "contributors.headings.translators": {
     "message": "翻译人员",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "主要开发者",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "网页开发者",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "社区管理员",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "超级版主",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "版主",
+    "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.ticketManager": {
+    "message": "支持客服",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "捐助者",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "助力者",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "翻译",
+    "description": "'Main Developer' title for contributors page."
   }
 }
