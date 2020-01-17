@@ -4,11 +4,11 @@
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "鳴謝",
+    "message": "特別感謝",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
-    "message": "一般",
+    "message": "一般設定",
     "description": "Title of the 'general' area of the 'settings' section in the popup"
   },
   "popup.setting.enabled": {
@@ -20,7 +20,7 @@
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.titleMenubar": {
-    "message": "選單條開關",
+    "message": "菜單欄開關",
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "加載狀態",
+    "message": "加載上線狀態",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
@@ -100,7 +100,7 @@
     "description": "Category name shown when you open tags"
   },
   "popup.category.videos": {
-    "message": "視訊或直播",
+    "message": "視訊串流",
     "description": "Category name shown when you open tags"
   },
   "popup.category.other": {
