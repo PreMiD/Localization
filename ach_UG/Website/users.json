@@ -1,0 +1,38 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "crwdns3355:0crwdne3355:0",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "crwdns3357:0crwdne3357:0",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "crwdns3359:0crwdne3359:0",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "crwdns3361:0{0}crwdne3361:0",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "crwdns3363:0crwdne3363:0",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "crwdns3365:0crwdne3365:0",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "crwdns3367:0crwdne3367:0",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "crwdns3369:0crwdne3369:0",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "crwdns3371:0crwdne3371:0",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
