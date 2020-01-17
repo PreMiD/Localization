@@ -1,7 +1,7 @@
 ---
 title: Metadata.json
 description: Contains basic data about the Presence
-published: true
+published: verdadeiro
 date: 2019-12-04T23:10:48.719Z
 tags:
 ---
@@ -64,7 +64,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>colaboradores</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -234,19 +234,19 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Social</b></td>
+        <td style="text-align:left"><b>Redes Sociais</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Vídeos e Transmissões</b></td>
+        <td style="text-align:left"><b>Vídeos e Streams</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>Outro</b></td>
+    <td style="text-align:left"><b>Outros</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
