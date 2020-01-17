@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Start
+description: Offizielle Dokumentation für v2
 published: true
 date: 2019-10-03T11:48:36.291Z
 tags:
@@ -10,13 +10,13 @@ tags:
 > 
 > {.is-warning}
 
-# About PreMiD
+# Über PreMiD
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
 # Getting Started
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD ist schnell und einfach zu installieren. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
