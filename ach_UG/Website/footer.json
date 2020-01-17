@@ -1,0 +1,102 @@
+{
+  "footer.language": {
+    "message": "crwdns3197:0crwdne3197:0",
+    "description": "You know how to translate that word? I hope you do :D"
+  },
+  "footer.usercount.heading": {
+    "message": "crwdns3199:0crwdne3199:0",
+    "description": "Promotional heading"
+  },
+  "footer.usercount.message": {
+    "message": "crwdns3201:0{0}crwdne3201:0",
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+  },
+  "footer.usercount.button": {
+    "message": "crwdns3203:0crwdne3203:0",
+    "description": "Install button under the promotional message"
+  },
+  "footer.partners.heading": {
+    "message": "crwdns3205:0crwdne3205:0",
+    "description": "Partner section"
+  },
+  "footer.developers.heading": {
+    "message": "crwdns3207:0crwdne3207:0",
+    "description": "Developer section"
+  },
+  "footer.developers.documentation": {
+    "message": "crwdns3209:0crwdne3209:0",
+    "description": "Documentation -> redirects to docs.premid.app"
+  },
+  "footer.developers.richpresence": {
+    "message": "crwdns3211:0crwdne3211:0",
+    "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+  },
+  "footer.supportus.heading": {
+    "message": "crwdns3213:0crwdne3213:0",
+    "description": "Support us section"
+  },
+  "footer.supportus.donate": {
+    "message": "crwdns3215:0crwdne3215:0",
+    "description": "Donate -> redirects to patreon.com/timeraa"
+  },
+  "footer.supportus.contribute": {
+    "message": "crwdns3217:0crwdne3217:0",
+    "description": "Contribute -> redirects to github.com/premid"
+  },
+  "footer.supportus.design": {
+    "message": "crwdns3219:0crwdne3219:0",
+    "description": "Design -> redirects to discord.premid.app"
+  },
+  "footer.supportus.translate": {
+    "message": "crwdns3221:0crwdne3221:0",
+    "description": "Translate -> redirects to locilazation page"
+  },
+  "footer.help.heading": {
+    "message": "crwdns3223:0crwdne3223:0",
+    "description": "Help section"
+  },
+  "footer.help.troubleshooting": {
+    "message": "crwdns3225:0crwdne3225:0",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+  },
+  "footer.help.getsupport": {
+    "message": "crwdns3227:0crwdne3227:0",
+    "description": "Get Support -> redirects to Discord invite"
+  },
+  "footer.help.information": {
+    "message": "crwdns3229:0crwdne3229:0",
+    "description": "Information section"
+  },
+  "footer.help.information.cookies": {
+    "message": "crwdns3231:0crwdne3231:0",
+    "description": "meant to be 'Cookie Policy'"
+  },
+  "footer.help.information.privacy": {
+    "message": "crwdns3233:0crwdne3233:0",
+    "description": "meant to be 'Privacy Policy'"
+  },
+  "footer.help.information.terms": {
+    "message": "crwdns3235:0crwdne3235:0",
+    "description": "meant to be 'Terms of Service'"
+  },
+  "footer.more.heading": {
+    "message": "crwdns3237:0crwdne3237:0",
+    "description": "More section"
+  },
+  "footer.more.status": {
+    "message": "crwdns3239:0crwdne3239:0",
+    "description": "Status -> redirects to status.premid.app"
+  },
+  "footer.more.wiki": {
+    "message": "crwdns3241:0crwdne3241:0",
+    "description": "Wiki -> redirects to wiki.premid.app"
+  },
+  "footer.copyright.line1": {
+    "message": "crwdns3243:0{0}crwdnd3243:0{1}crwdne3243:0",
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+  },
+  "footer.copyright.line2": {
+    "message": "crwdns3245:0{0}crwdne3245:0",
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+  }
+}
