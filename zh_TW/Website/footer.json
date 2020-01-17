@@ -4,11 +4,11 @@
     "description": "You know how to translate that word? I hope you do :D"
   },
   "footer.usercount.heading": {
-    "message": "準備要要嘗試PreMiD?",
+    "message": "準備嘗試PreMiD?",
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "加入 {0} 個用戶吧!",
+    "message": "今天加入 {0} 個用戶了！",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "獲取幫助",
+    "message": "尋求幫助",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {
