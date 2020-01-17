@@ -1,7 +1,3 @@
 files:
-  - source: /src/Extension/*.json
-    translation: /%locale_with_underscore%/Extension/%original_file_name%
-  - source: /src/Website/*.json
-    translation: /%locale_with_underscore%/Website/%original_file_name%
-  - source: /src/Wiki/**/*.md
-    translation: /%two_letters_code%/Wiki/%original_file_name%
+  - source: '**/*.md'
+    translation: '%two_letters_code%/%original_file_name%'
