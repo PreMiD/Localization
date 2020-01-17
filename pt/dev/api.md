@@ -1,7 +1,7 @@
 ---
 title: API
 description: Access ressources and perform actions using the PreMiD API
-published: verdadeiro
+published: true
 date: 2019-10-03T00:53:26.994Z
 tags:
 ---
