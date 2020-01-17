@@ -1,6 +1,6 @@
 ---
-title: Start
-description: Offizielle Dokumentation für v2
+title: Home
+description: Official Documentation for v2
 published: true
 date: 2019-10-03T11:48:36.291Z
 tags:
@@ -16,7 +16,7 @@ tags:
 
 # Getting Started
 
-PreMiD ist schnell und einfach zu installieren. You should be up and running in no time.
+PreMiD is quick and easy to install. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
