@@ -21,22 +21,22 @@ tags:
 3. Otwórz go w twoim edytorze kodu.
 
 # Instalowanie dodatkowych plików
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+> Upewnij się że masz zainstalowane [npm](https://www.npmjs.com/) (Node Package Manager). Instaluje się to automatycznie jeżeli masz zainstalowane [node.js](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Otwórz konsole w twoim folderze z repozytorium i wpisz `npm i`.
+- Aby zaktualizować dodatki wpisz `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Miej na uwadze że aktualizowanie dodatków może narządzić wiele szkód, testowanie jest WYMAGANE! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Kodowanie twojej wizji
+Prosimy o zachowanie struktury. Nie chcemy dezorganizowywać naszego projektu. Pliki które maja chaotyczny kod nie będą akceptowalne.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Przesyłanie swojego kodu
+Po prostu otwórz Pull Request jednym z naszych [GitHubowych repozytoriach](https://github.com/PreMiD/) które chcesz wspomóc. Zajmiemy się wszystkim, nie matrw się. Jeżeli to twój pierwszy raz kiedy tworzysz pull request, sprawdź [ten tutorial](https://help.github.com/en/articles/creating-a-pull-request) (po angielsku).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Zatwierdzanie
+Nasz główny cel to współpraca z użytkownikami więc bądź tak miły, uszanowany i informatywny jak to możliwe. Wystarczy zaczepić Developera na naszym [Discordowym serwerze](https://discord.gg/PreMiD) aby otrzymać rozpatrzenie na naszym GitHubie, albo i nie. Depends on the code quality, appearance of assets and regular functionality.
