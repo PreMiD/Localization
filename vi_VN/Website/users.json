@@ -1,1 +1,38 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Nhà phát triển trạng thái",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Người xác nhận trạng thái",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Nhà phát triển trạng thái quan trọng",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Tạo {0} trạng thái.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "Không thể tìm thấy người dùng đó. Hãy chắc chắn rằng:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "ID người dùng bạn đang tìm là chính xác.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "Người dùng nãy đã tạo đủ trạng thái và đã có role Nhà phát triển trạng thái trong server Discord của chúng tôi.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Hãy kiểm tra người khác có đang bị chung vấn đề trong server discord của chúng tôi.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Nếu bạn tin rằng đây là một lỗi, hãy liên hệ chúng tôi tại [our Discord server].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
