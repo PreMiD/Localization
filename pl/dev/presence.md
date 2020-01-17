@@ -10,21 +10,21 @@ tags:
 > 
 > {.is-info}
 
-Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkownicy mają teraz możliwość ręcznego dodawania lub usuwania ich ulubionych statusów za pośrednictwem interfejsu użytkownika z [strony](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Wytyczne
+> Jeżeli nie będziesz trzymać się wszystkich wytycznych, twój status lub pull request zostanie usunięty z githuba. 
 > 
 > {.is-danger}
 
-## Creation
+## Tworzenie
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
+Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
+- Pull Request musi być kompletny, musisz mieć prawidłową strukturę plików. Zawierający folder `dist`, plik `presence.js`, oraz plik `metadata.json`.
+- Status **musi** być związany z stroną którą wybrałeś.
+- Status nie może być z nielegalnej strony. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp...
+- Metadata statusu musi zawierać dobrze napisaną treść, w tym tytuły i opisy.
+- Zdjęcia które dodajesz (ikona/miniatura) musi być związana z stroną i musi być zrozumiana w stylu jak i jakości.
 - The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
 - The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
 - If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
