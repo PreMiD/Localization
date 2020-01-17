@@ -1,7 +1,7 @@
 ---
 title: Installation
 description: How to install PreMiD
-published: tak
+published: true
 date: 2019-10-06T01:23:00.527Z
 tags:
 ---
