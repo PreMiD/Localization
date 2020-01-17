@@ -32,7 +32,7 @@
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "支持客服",
+    "message": "客服",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
