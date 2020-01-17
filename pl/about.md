@@ -1,6 +1,6 @@
 ---
-title: About PreMiD
-description: The core features about PreMiD
+title: O PreMiDzie
+description: Postawowe funkcje PreMiD
 published: true
 date: 2019-10-03T01:04:50.281Z
 tags:
