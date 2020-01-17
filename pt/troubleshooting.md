@@ -1,7 +1,7 @@
 ---
 title: Solução de Problemas
 description: Everything to solve your problem
-published: verdadeiro
+published: true
 date: 2019-10-03T00:21:25.018Z
 tags:
 ---
