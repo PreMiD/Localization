@@ -1,56 +1,56 @@
 ---
-title: Presence Development
+title: Desenvolvimento de Presenças
 description:
-published: true
+published: verdadeiro
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Todas as presenças agora são armazenadas aqui: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+A versão `2.x` introduz a [loja de Presenças](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas Presenças favoritas através da interface de usuário do [site](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Diretrizes
+> Se você não seguir todas as diretrizes, sua presença ou pull request serão excluídos do GitHub. 
 > 
 > {.is-danger}
 
-## Creation
+## Criação
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have sfw images and descriptions regardless if it is nsfw or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
+Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
+- O pull request deve ser completo, você precisa ter uma estrutura de arquivo adequada. Incluindo a pasta `dist`, o arquivo `presence.js` e o arquivo `metadata.json`.
+- A Presença **deve** ser relacionada ao site que você escolheu.
+- A Presença não deve ser de sites ilegais. Estes incluem sites pertubadores, drogas, pornografia infantil, etc...
+- Os metadados da Presença devem ter um conteúdo bem escrito, incluindo títulos e descrições válidas.
+- A mídia que você inclui (ícone/miniatura) deve estar relacionada ao site e ser compreensível em termos de tamanho e qualidade.
+- A estrutura do arquivo deve ser limpa e gerenciada, não ter ficheiros aleatórios que não fornecem nada à função da Presença.
+- A Presença **não deve** ter quaisquer intenções maliciosas. Isto inclui o roubo/vazamento de informações privadas, afetar negativamente o comportamento do site, etc...
+- Se você projetar uma Presença para um site e o site mudar no futuro, você é **OBRIGATORIAMENTE** responsável por atualizar a presença novamente para funcionar como esperado. Se você não puder consertá-la dentro de um período de tempo aceitável, outros desenvolvedores de Presença podem **sobrescrever** sua Presença para cumprir com as mudanças.
+- A Presença deve ser testada antes de publicar, para confirmar que tudo funciona como esperado.
+- Sua Presença deve ter imagens e descrições sfw independentemente de ser nsfw ou não. Se sua presença é sobre um site `nsfw`, por favor adicione a tag `nsfw` aos seus metadados.
 
-## Modification
+## Modificação
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+Em algumas situações, as Presenças podem se comportar inesperadamente ou poderiam receber algumas pequenas mudanças para melhorar sua funcionalidade. Aqui está uma lista compilada que você deve seguir para modificar as Presenças.
+- Você não pode alterar o criador da Presença. Isto só é aplicável se você tiver permissão para escrever por cima. Você pode adicionar a si mesmo como um [colaborador](/dev/presence/metadata).
+- Certifique-se de que as modificações são úteis. Isto pode incluir correções (código e erros de escrita), adições (descrições e tags), etc...
+- Confirme que suas alterações funcionam antes de publicar. Não crie pull requests sem saber o resultado das suas alterações.
+- Não re-marque/sobrescreva uma presença completamente a menos que seja permitido por um `Verificador de Presença` ou membro da equipe.
 
-# Verification
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+# Verificação
+> Quando você faz pull requests sobre a adição ou modificação de Presenças existentes, você deve incluir uma captura de tela. No entanto, as modificações nos metadados/tsconfig de uma Presença não requerem uma captura de tela. *Sua captura de tela deve ser enviada diretamente para o GitHub com a pull request, não use sites de compartilhamento de imagens de terceiros.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+Para que sua Presença chegue às lojas, ele deve passar por um processo no GitHub para confirmar que ela funciona conforme esperado. Aqui estão algumas coisas para observar quando você faz seu pull request.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Nossa equipe de Verificação de Presença tem um cargo, procure `Presence Verifier` no servidor do Discord para saber quem está envolvido.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
+1. São necessários dois verificadores para confirmar que a sua Presença está à altura das normas. Se acontecer de você obter solicitações de mudança, esforce-se adequadamente para corrigi-lo ou ele não será adicionado.
+2. Se solicitarmos alterações e sua pull request excede **7 dias de inatividade** sem fazer as mudanças necessárias, seremos forçados a fechá-la.
+3. Você tem permissão para tirar capturas de tela de alterações feitas com a ajuda de outro usuário. ( e.g. its author in case you can't access it for any reason).
 4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
 5. The provided screenshots should be real, not edited.
 6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
@@ -62,14 +62,14 @@ After all of the proper reviews have been met, your pull request will be merged 
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+1. Instale o [Git](https://git-scm.com/).
+2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
+3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abra um terminal e `npm install -g typescript`).
 
-## Cloning the project
+## Clonando o projeto
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+2. Escolha uma pasta que preferir.
+3. Abra-a no editor de código.
 
 ## Creating folders and files
 
@@ -190,22 +190,22 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Nota:** Isso precisa ser colocado fora do evento updateData.
+## Compilando
+Abra um console na sua pasta e digite `tsc -w` para compilar o `presence.ts` na pasta `/dist`.
 
-# Structure (JavaScript)
-## Cloning the project
-1. Install [Git](https://git-scm.com/).
+# Estrutura (JavaScript)
+## Clonando o projeto
+1. Instale o [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+3. Escolha uma pasta que preferir.
+4. Abra-a no editor de código.
 
 ## Creating folders and files
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+4. Crie um arquivo `metadata.json` e um arquivo `presence.js` dentro da pasta `dist`.
 
 ## Filling in the metadata.json file
 
@@ -306,7 +306,7 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Nota:** Isso precisa ser colocado fora do evento updateData.
 # Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
