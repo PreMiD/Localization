@@ -4,7 +4,7 @@
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "特別感謝",
+    "message": "鳴謝",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
