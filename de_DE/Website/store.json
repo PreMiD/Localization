@@ -16,7 +16,7 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Suchen",
+    "message": "Our features",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
@@ -72,7 +72,7 @@
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Suchen",
+    "message": "Our features",
     "description": "Placeholder for presence search"
   },
   "store.userpage.userPresences": {
