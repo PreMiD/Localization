@@ -8,7 +8,7 @@
     "description": "Success message when the extension was detected"
   },
   "store.cards.creator": {
-    "message": "创建者",
+    "message": "創建者",
     "description": "Creator of a presence"
   },
   "store.cards.verified": {
@@ -32,11 +32,11 @@
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "搜尋過濾",
+    "message": "搜尋過濾器",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "先顯示常用的",
+    "message": "優先顯示常用的",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
