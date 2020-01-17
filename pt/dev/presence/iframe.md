@@ -1,7 +1,7 @@
 ---
 title: iFrame Class
 description:
-published: verdadeiro
+published: true
 date: 2019-10-06T22:40:09.426Z
 tags:
 ---
