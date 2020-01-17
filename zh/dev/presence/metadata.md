@@ -47,7 +47,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">描述</th>
       <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
@@ -210,25 +210,25 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">Category</th>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>動漫</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-    <td style="text-align:left"><b>遊戲</b></td>
+    <td style="text-align:left"><b>游戏</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-    <td style="text-align:left"><b>音樂</b></td>
+    <td style="text-align:left"><b>音乐</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
@@ -240,13 +240,13 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>視訊串流</b></td>
+        <td style="text-align:left"><b>视频与直播</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>其它</b></td>
+    <td style="text-align:left"><b>其他</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
