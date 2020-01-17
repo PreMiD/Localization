@@ -31,6 +31,22 @@
     "message": "在需要時會自動使用此狀態, 不需添加它。",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "搜尋過濾",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "先顯示常用的",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "允許成人内容",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "類別",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "全部",
     "description": "Category at the top"
@@ -66,5 +82,9 @@
   "store.userpage.error1": {
     "message": "用戶狀態",
     "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "找不到該Presence",
+    "description": "Search result text when nothing's found"
   }
 }
