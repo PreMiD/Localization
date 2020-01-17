@@ -1,1 +1,34 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Presence 開發者",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Presence 審核人員",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "主要 Presence 開發者",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "已創建 {0} 個 Presence",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "找不到這個使用者。請確認無誤並重試：",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "您正在搜尋的使用者ID是正確的。",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "這個使用者創建了足夠多的 Presence 并在我們的 Discord 服務器中擁有 Presence 開發者身分組",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "在我們的 Discord 服務器中確認其他人是否存在同樣的錯誤。",
+    "description": "Check if the error is also happening to others message."
+  }
+}
