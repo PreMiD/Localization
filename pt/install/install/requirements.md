@@ -6,13 +6,13 @@ date: 2019-10-02T12:31:31.090Z
 tags:
 ---
 
-# System Requirements
+# Requisitos do sistema
 
-> This data relate to the application only. 
+> Estes dados estão relacionados apenas ao aplicativo. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+O PreMiD pode ser executado em praticamente qualquer sistema. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
 PreMiD runs perfectly fine on a single CPU core.
