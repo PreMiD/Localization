@@ -1,18 +1,18 @@
 ---
-title: Requisitos
-description: Pré-requisitos para instalar o PreMiD
+title: Requirements
+description: Prerequisites to install PreMiD
 published: true
 date: 2019-10-02T12:31:31.090Z
 tags:
 ---
 
-# Requisitos do sistema
+# System Requirements
 
-> Estes dados estão relacionados apenas ao aplicativo. 
+> This data relate to the application only. 
 > 
 > {.is-info}
 
-O PreMiD pode ser executado em praticamente qualquer sistema. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
 PreMiD runs perfectly fine on a single CPU core.
