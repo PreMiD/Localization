@@ -40,15 +40,15 @@ In `iframes`werkt events net zoals de manier waarop ze werken in de `presence` k
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Code gaat hier...
 });
 ```
 
-Here is a list of all of the events:
+Hier is een lijst van alle events:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Dit evenement wordt afgevuurd elke keer dat de iframe wordt bijgewerkt.
 
 #### `MediaKeys` (uitgeschakeld)
 
