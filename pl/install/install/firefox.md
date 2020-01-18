@@ -11,11 +11,11 @@ Instalacja rozszerzenia jest bardzo ważna, ponieważ aplikacja nie może zrobi�
 # Zainstaluj
 1. Przejdź do naszej strony pobierania [klikając tutaj](https://premid.app/downloads).
 2. Wybierz **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+3. Wyszukaj `about:addons`.
+4. Kliknij ikonę koła zębatego w prawym górnym rogu.
+5. Wybierz **Zainstaluj dodatek z pliku**.
+6. Wybierz plik, który ostatnio pobrałeś.
+7. Zaakceptuj instalację klikając **Dodaj**.
 
 > Nie zapomnij [zainstalować **aplikacji**](/install). 
 > 
