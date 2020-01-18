@@ -49,13 +49,13 @@ let presence = new Presence({
 
 Define a atividade do seu perfil de acordo com os dados fornecidos.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+O primeiro parâmetro requer uma interface de `presenceData` para obter todas as informações que você deseja exibir no seu perfil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+O segundo parâmetro define quando a presença está reproduzindo algo ou não. Sempre use `true` se você fornecer timestamps na `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Limpa sua atividade atual, os atalhos e título de bandeja.
 
 ### `setTrayTitle(String)`
 
@@ -104,22 +104,22 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Segunda linha da sua presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Define o tempo atual.<br>
+        Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
+          contagem errada.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -128,8 +128,8 @@ This interface has following variables, all of them are optional.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Defines the full duration.
         <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
+          contagem errada.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -158,17 +158,17 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Meu título",
+    state: "Minha descrição",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Você está em cima de mim, e agora?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## Eventos
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
@@ -178,7 +178,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-There are few events available:
+Há alguns eventos disponíveis:
 
 #### `UpdateData`
 
