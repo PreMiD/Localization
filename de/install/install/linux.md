@@ -1,8 +1,8 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Erste Schritte mit einer PreMiD-Installation unter Linux
 published: true
-date: 2019-10-03T15:55:36.490Z
+date: '2019-10-03T15: 55: 36.490Z'
 tags:
 ---
 
