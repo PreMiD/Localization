@@ -1,17 +1,17 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
-published: true
+description: Rozpoczęcie instalacji PreMiD w systemie Linux
+published: tak
 date: 2019-10-03T15:55:36.490Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Zanim przejdziesz dalej, upewnij się, że Twój system spełnia wszystkie [wymagania](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobić niczego samodzielnie.
 
 # Zainstaluj
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Dla tego systemu operacyjnego nie ma oficjalnego instalatora. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).
 2. Open a terminal.
