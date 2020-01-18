@@ -1,18 +1,18 @@
 ---
-title: About PreMiD
-description: The core features about PreMiD
-published: true
+title: À propos de PreMiD
+description: Les fonctionnalités principales de PreMiD
+published: vrai
 date: 2019-10-03T01:04:50.281Z
 tags:
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you are watching/listening in your Discord now playing status. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
+PreMiD est un utilitaire simple et personnalisable qui vous permet de montrer ce que vous regardez/écoutez dans votre statut de jeu Discord. Il supporte de nombreuses plates-formes et permettra à plusieurs utilisateurs de regarder le même contenu en même temps dans une prochaine mise à jour.
 
-# Why you should download PreMiD
-- We save absolutely no user data, so you don't have to worry about your privacy.
-- Our whole project is open-source! We want to work with our users - not against them.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+# Pourquoi télécharger PreMiD
+- Nous n'enregistrons absolument aucune donnée d'utilisateur, vous n'avez donc pas à craindre pour votre vie privée.
+- Notre projet entier est open-source ! Nous voulons travailler avec nos utilisateurs - pas contre eux.
+- Une énorme et nouvelle fonctionnalité, appelée WatchParties, arrive sur PreMiD. Avec des invitations à jouer et le visionnage ainsi que l'écoute simultanées. Propulsé par [Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# Caractéristiques principales
+- Affiche votre site web actuel dans Discord en tant que statut.
+- Accorde un contrôle total de Presences.
