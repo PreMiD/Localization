@@ -23,7 +23,7 @@ PreMiD exposes different versions of our API. You can specify version by includi
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
-# 相關文章
+# 帮助文档
 > Currently under construction! 
 > 
 > {.is-danger}
