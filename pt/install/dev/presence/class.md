@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: A classe principal para cada presença do PreMiD
+description: The main class for every PreMiD presence
 published: true
 date: 2019-10-06T23:18:10.415Z
 tags:
@@ -8,25 +8,25 @@ tags:
 
 # Presence Class
 
-## Introdução
+## Introduction
 
-A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
- Ao criar uma classe você deve especificar a propriedade `clientId`.
+ When you create a class you must specify `clientId` property.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Exemplo de clientId
+    clientId: "514271496134389561" // Example clientId
 });
 ```
 
-Há duas propriedades disponíveis para a classe `Presence`.
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
-A propriedade `clientId` deve ser fornecida para que sua presença funcione, porque ela usa a sua Application ID para exibir o seu logotipo e os assets.
+`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-Você pode obter sua Application ID na [página de aplicativos](https://discordapp.com/developers/applications).
+You can get it on your [applications page](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
@@ -43,7 +43,7 @@ let presence = new Presence({
 });
 ```
 
-## Métodos
+## Methods
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -98,7 +98,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrição</th>
-      <th style="text-align:left">Tipo</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
