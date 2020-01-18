@@ -13,6 +13,6 @@ PreMiD è un'utilità semplice e configurabile che ti permette di mostrare ciò 
 - Il nostro intero progetto è open-source! Vogliamo lavorare con i nostri utenti - non contro di loro.
 - Una grande funzionalità, chiamata WatchParties, sta arrivando su PreMiD. Con inviti per guardare e ascoltare simultaneamente. Fornito da [Discord](https://discordapp.com/).
 
-# Core features
+# Caratteristiche principali
 - Displays your current web service in Discord as your status.
 - Grants full control over Presences.
