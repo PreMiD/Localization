@@ -1,57 +1,57 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Presence Klasse
+description: De belangrijkste klasse voor elke PreMiD presence
 published: true
 date: 2019-10-06T23:18:10.415Z
 tags:
 ---
 
-# Presence Class
+# Presence Klasse
 
-## Introduction
+## Introductie
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+De `Presence` klasse is erg handig omdat deze over basismethoden beschikt die we nodig hebben om presence te creëren.
 
- When you create a class you must specify `clientId` property.
+ Wanneer u een klasse aanmaakt, dient u de eigenschap `clientId` te specificeren.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Voorbeeld clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Er zijn twee eigenschappen beschikbaar voor `Presence` class.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId` eigenschap moet worden verstrekt om uw presence te laten werken, omdat het uw applicatie id gebruikt om het logo en de assets weer te geven.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Deze eigenschap vertelt onze app om sleutels te registreren voor mediaknoppen en stelt ons in staat `MediaKeys` event te gebruiken voor de `Presence` class.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Deze eigenschap is niet vereist, maar als je de mediaknoppen wilt inschakelen, moet je hem instellen op `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Alle mediaKey events zijn tijdelijk uitgeschakeld!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Staat gebruikers toe om media keys te gebruiken
 });
 ```
 
-## Methods
+## Methodes
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Stelt uw profielactiviteit in volgens de verstrekte gegevens.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+De eerste parameter vereist een `presenceData` interface om alle informatie te krijgen die je wilt weergeven in je profiel.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Tweede parameter definieert wanneer presence iets afspeelt of niet. Gebruik altijd `true` als u timestamps verstrekt in `presenceData`.
 
 ### `clearActivity()`
 
