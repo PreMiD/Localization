@@ -44,7 +44,7 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "加載上線狀態",
+    "message": "加載狀態",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
