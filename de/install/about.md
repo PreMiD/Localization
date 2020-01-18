@@ -1,5 +1,5 @@
 ---
-title: About PreMiD
+title: Über PreMiD
 description: Die Grundfunktionen von PreMiD
 published: true
 date: 2019-10-03T01:04:50.281Z
