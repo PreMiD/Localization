@@ -10,5 +10,37 @@
   "contributors.headings.translators": {
     "message": "Fordítók",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "Fő fejlesztő",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "Weboldal fejlesztő",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "Közösségi menedzser",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "Fő moderátor",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "Moderátor",
+    "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "Támogató",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "Booster",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "Fordító",
+    "description": "'Main Developer' title for contributors page."
   }
 }
