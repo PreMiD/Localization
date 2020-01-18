@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Bevat basisgegevens over de Presence
 published: true
 date: 2019-12-04T23:10:48.719Z
 tags:
@@ -8,56 +8,56 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Als u een presence in de winkel wilt publiceren en deze wilt laden via de extensie, dan moet u de `metadata.js` bestand in uw `presence.js` map aanmaken.
 
-The example of that file can be found below.
+Het voorbeeld van dat bestand kan hieronder worden gevonden.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "BESCHRIJVING"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSIE",
   "logo": "URL",
-  "thumbnail": "URL",
+  "thumbnail": "URL", "URL",
   "color": "#45A8FC",
   "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## De metadata.json begrijpen
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeilijk om te begrijpen waar elke variabele voor staat.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabele</th>
       <th style="text-align:left">Beschrijving</th>
       <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Optioneel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Moet een object bevatten met <code>naam</code> en <code>id</code> van de presentie-ontwikkelaar. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
+        modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
