@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 description: A little advise for those who got into coding recently
-published: true
+published: vero
 date: 2019-11-03T13:02:36.660Z
 tags:
 ---
