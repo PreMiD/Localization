@@ -89,14 +89,14 @@ console.log(pageVar); // Dit zal de "Variabele content" loggen
 
 ## `presenceData` Interface
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+De `presenceData` interface wordt aanbevolen om te gebruiken wanneer u de `setActivity()` methode gebruikt.
 
-This interface has following variables, all of them are optional.
+Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabele</th>
       <th style="text-align:left">Beschrijving</th>
       <th style="text-align:left">Type</th>
     </tr>
@@ -104,52 +104,52 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">De eerste regel in uw presence, meestal gebruikt als header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Tweede regel in uw presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definieert de huidige tijd.<br>
+        Wordt gebruikt als je wilt weergeven hoeveel <code>uur:minuten:seconden</code> er over is.
+          <br>Je moet je tijd omzetten in <code>timestamp</code> anders krijg je een verkeerde
+          aftelling.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definieert de volledige duur.
+        <br>Gebruikt als je wilt laten zien hoeveel <code>uren:minuten:seconden</code> er over is.
+          <br>Je moet je tijd omzetten in <code>timestamp</code> anders krijg je een verkeerde
+          aftelling.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Definieert het logo voor de presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Definieert het kleine pictogram naast presence&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Definieert de tekst die wordt getoond aan de gebruiker wanneer hij over de kleine
+        pictogram beweegt.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
