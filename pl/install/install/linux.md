@@ -29,12 +29,12 @@ Aplikacja uruchomi się automatycznie. Sprawdź ikonę na pasku menu.
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Jeśli jesteś na Arch Linux lub na distro bazującym na arch, PreMiD jest dostępny w [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) pod `Premid-git`. Użyj swojego ulubionego menadżera pakietów, aby go tam złapać!
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+## Pozostałe dystrybucje
+- Skrypt instalacyjny: `wget -qO- http://bit.ly/install-premid | bash` lub `curl -sL https://bit. y/install-premid | bash`, poczekaj na zainstalowanie, kliknij dwukrotnie skrót "PreMiD" utworzony na twoim pulpicie, i to wszystko!
+- Jeśli chcesz odinstalować PreMiD, możesz uruchomić `wget -qO- http://bit.ly/uninstall-premid | bash` lub `curl -sL https://bit.ly/uninstall-premid | bash`.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Nie zapomnij [dodać **rozszerzenia**](/install).{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
