@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: The main class for every PreMiD presence
+description: A classe principal para cada presença do PreMiD
 published: true
 date: 2019-10-06T23:18:10.415Z
 tags:
@@ -8,46 +8,46 @@ tags:
 
 # Presence Class
 
-## Introduction
+## Introdução
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
 
- When you create a class you must specify `clientId` property.
+ Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Exemplo de clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Há duas propriedades disponíveis para a classe `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+A propriedade `clientId` deve ser fornecida para que sua presença funcione, porque ela usa a sua Application ID para exibir o seu logotipo e os assets.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Você pode obter sua Application ID na [página de aplicativos](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Esta propriedade diz ao nosso aplicativo para registrar as teclas de atalho para as teclas de mídia e nos permite usar o evento `MediaKeys` para a classe `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Esta propriedade não é necessária, mas se você quiser habilitar as teclas de mídia, você deve configurá-la como `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Todos os eventos de mediaKey estão temporariamente desativados!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Permite usuários à usar teclas de mídia
 });
 ```
 
-## Methods
+## Métodos
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Define a atividade do seu perfil de acordo com os dados fornecidos.
 
 First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
@@ -59,11 +59,11 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Este método funciona apenas no Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Define o título da bandeja no Menubar.
 
 ### `getStrings(Object)`
 
@@ -98,7 +98,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrição</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tipo</th>
     </tr>
   </thead>
   <tbody>
