@@ -158,11 +158,11 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Mijn titel",
+    state: "Mijn beschrijving",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Je hebt me bekeken, en wat nu?" ,
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -170,24 +170,24 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Events stellen je in staat om wijzigingen of oproepen die zijn gemaakt te detecteren en te verwerken. Je kunt je abonneren op event met behulp van `on` methode.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Doe iets wanneer data wordt bijgewerkt.
 });
 ```
 
-There are few events available:
+Er zijn een paar Events beschikbaar:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Dit evenement wordt afgevuurd elke keer dat de presence wordt bijgewerkt.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (uitgeschakeld)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Schiet af wanneer de gebruiker gebruik maakt van mediaknoppen op zijn toetsenbord, [klik hier](/dev/presence/class#mediakeys) voor meer informatie over mediaknoppen.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Wordt afgevuurd wanneer gegevens worden ontvangen uit iFrame script.
