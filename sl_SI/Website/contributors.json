@@ -10,5 +10,13 @@
   "contributors.headings.translators": {
     "message": "Prevajalci",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.booster": {
+    "message": "Podpornik strežnika",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "Prevajalec",
+    "description": "'Main Developer' title for contributors page."
   }
 }

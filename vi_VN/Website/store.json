@@ -31,6 +31,22 @@
     "message": "Presence này được tự động sử dụng khi cần thiết, không cần phải thêm nó.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Bộ lọc",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Hiển thị được sử dụng nhiều nhất",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Cho phép nội dung người lớn",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Danh mục",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Tất cả",
     "description": "Category at the top"
@@ -66,5 +82,9 @@
   "store.userpage.error1": {
     "message": "Presences của người dùng",
     "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Chúng tôi không tìm thấy trạng thái đó",
+    "description": "Search result text when nothing's found"
   }
 }

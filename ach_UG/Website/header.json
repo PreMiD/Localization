@@ -1,0 +1,38 @@
+{
+  "header.language": {
+    "message": "crwdns3247:0crwdne3247:0",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "crwdns3249:0crwdne3249:0",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "crwdns3251:0crwdne3251:0",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "crwdns3253:0crwdne3253:0",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "crwdns3255:0crwdne3255:0",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "crwdns3257:0crwdne3257:0",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "crwdns3259:0crwdne3259:0",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "crwdns3261:0crwdne3261:0",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "crwdns3263:0crwdne3263:0",
+    "description": "Contributors tab"
+  }
+}
