@@ -6,9 +6,9 @@ date: 2019-10-02T12:26:07.726Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Zanim przejdziesz dalej, upewnij się, że Twój system spełnia wszystkie [wymagania](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobić niczego samodzielnie.
 
 # Zainstaluj
 1. Przejdź do naszej strony pobierania [klikając tutaj](https://premid.app/downloads).
