@@ -16,7 +16,7 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 3. Open the installer.
 4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Aplikacja uruchomi się automatycznie. Check for the symbol in your system tray.
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
