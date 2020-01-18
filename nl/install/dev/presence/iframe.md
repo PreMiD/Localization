@@ -1,42 +1,42 @@
 ---
-title: iFrame Class
+title: iFrame Klasse
 description:
 published: true
 date: 2019-10-06T22:40:09.426Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# iFrame Klasse
+> Het iframe-systeem met PreMiD is problematisch en kan onverwacht gedrag hebben, voorzichtig gebruiken. 
 > 
 > {.is-danger}
 
 ## Introductie
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+In sommige scenario's heeft jouw presence mogelijk toegang nodig tot elementen in `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+De code die je in je `iframe.ts` bestand schrijft, wordt in elk iframe op de pagina geïnjecteerd.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Zoals presences hebben `iframes` hun eigen klasse ontworpen om de gegevens automatisch bij te werken.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Code gaat hier...
 });
 ```
 
 ## Methodes
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Verzendt gegevens naar de presence. Met behulp van deze methode gooit u een `iFrameData` event.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Geeft als resultaat de URL van de `iframe`.
 
 ## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+In `iframes`werkt events net zoals de manier waarop ze werken in de `presence` klas.
 
 ```typescript
 iframe.on("UpdateData", async () => {
