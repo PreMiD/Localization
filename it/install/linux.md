@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: Getting started with a PreMiD installation on Linux
-published: true
+published: vero
 date: 2019-10-03T15:55:36.490Z
 tags:
 ---
