@@ -55,23 +55,23 @@ Tweede parameter definieert wanneer presence iets afspeelt of niet. Gebruik alti
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Wist je huidige activiteit, de keybinds en de titel van het vak.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Deze methode werkt alleen op Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Stelt de systeemtitel in op de menubalk.
 
-### `getStrings(Object)`
+### `getStrings(object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Maakt het mogelijk om vertaalde teksten van de extensie te krijgen. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. U kunt sommige teksten vinden met dit eindpunt: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Retourneert `Playing` en `Paused` strings
+// uit extensie.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,11 +80,11 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Retourneert een variabele van de website als deze bestaat.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dit zal de "Variabele content" loggen
 ```
 
 ## `presenceData` Interface
