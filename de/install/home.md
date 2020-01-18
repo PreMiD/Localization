@@ -16,7 +16,7 @@ tags:
 
 # Erste Schritte
 
-PreMiD ist schnell und einfach zu installieren. Du solltest in kürzester Zeit loslegen.
+PreMiD ist schnell und einfach zu installieren. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
