@@ -1,6 +1,6 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: Requisitos
+description: Pré-requisitos para instalar o PreMiD
 published: true
 date: 2019-10-02T12:31:31.090Z
 tags:
