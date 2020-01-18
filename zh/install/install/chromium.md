@@ -8,7 +8,7 @@ tags:
 
 The installation of the extension is very important as the application can not do anything by itself.
 
-# 安装
+# 安裝
 ### Chrome, Edge, etc.
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Chromium**.
