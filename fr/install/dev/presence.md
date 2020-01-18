@@ -1,7 +1,7 @@
 ---
 title: Presence Development
 description:
-published: true
+published: vrai
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
@@ -63,13 +63,13 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. Installez [Node](https://nodejs.org/en/) (livré avec [npm](https://www.npmjs.com/)).
+3. Installez [TypeScript](https://www.typescriptlang.org/index.html#download-links) (ouvrez un terminal et `npm installez -g typescript`).
 
-## Cloning the project
+## Dupliquer le projet
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+2. Choisissez un fichier de votre choix.
+3. Ouvrez-le dans votre éditeur de code.
 
 ## Creating folders and files
 
@@ -195,11 +195,11 @@ presence.on("iFrameData", data => {
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Structure (JavaScript)
-## Cloning the project
+## Dupliquer le projet
 1. Install [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+3. Choisissez un fichier de votre choix.
+4. Ouvrez-le dans votre éditeur de code.
 
 ## Creating folders and files
 
