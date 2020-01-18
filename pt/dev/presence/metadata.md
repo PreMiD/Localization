@@ -234,19 +234,19 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Social</b></td>
+        <td style="text-align:left"><b>Redes Sociais</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Vídeos e Transmissões</b></td>
+        <td style="text-align:left"><b>Vídeos e Streams</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>Outro</b></td>
+    <td style="text-align:left"><b>Outros</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
