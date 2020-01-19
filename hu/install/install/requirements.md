@@ -14,13 +14,13 @@ tags:
 
 A PreMiD gyakorlatilag bármilyen rendszeren elfut. Ez azt jelenti, hogy elfut **Linux**, **macOS**, **Windows**, valamint néhány **Módosított Linux** rendszeren is.
 
-### CPU
-PreMiD runs perfectly fine on a single CPU core.
+### Processzor
+A PreMiD tökéletes futtatásához egy magos processzor a legmegfelelőbb.
 
-### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+### Memória
+Linux rendszerek esetében **legalább 20MB RAM** szükséges a PreMiD futtatásához. A Windows és macOS rendszerek általában valamennyivel több RAM-ot igényelnek.
 
-### Storage
+### Tárhely
 PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
 ### Internet Access
