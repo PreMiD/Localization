@@ -21,9 +21,9 @@ PreMiD é executado perfeitamente em um processador single-core.
 Sistemas Linux devem ter **no mínimo 20MB de RAM** para executar o PreMiD. Sistemas Windows e macOS geralmente requerem um pouco mais de RAM.
 
 ### Armazenamento
-PreMID consome cerca de **150MB** de espaço de armazenamento. However at least **200MB** of storage dedicated to PreMiD is recommended.
+PreMID consome cerca de **150MB** de espaço de armazenamento. Porém é recomendado possuir no mínimo **200MB** de armazenamento disponível para o PreMiD.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### Conexão com a Internet
+Uma conexão com a internet é necessária para executar o PreMiD. PreMiD vai buscar novas atualizações, linguagens, etc. de vez em quando.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
