@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: Accéder aux ressources et effectuer des actions à l'aide de l'API PreMiD
 published: vrai
 date: 2020-01-18T20:32:27.675Z
 tags:
@@ -13,22 +13,22 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> Certaines versions de l'API et de la passerelle sont maintenant obsolètes et sont marquées comme discontinuées dans le tableau ci-dessous pour la postérité. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD expose différentes versions de notre API. Vous pouvez spécifier la version en l'incluant dans le chemin de la requête comme `https://api.premid.app/v{version_number}`. Si vous omettez le numéro de version de la route, les requêtes seront acheminées vers la version par défaut actuelle (marquée ci-dessous en conséquence).
 
-## Encryption
+## Chiffrement
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Tous les services et protocoles de couche HTTP (par exemple http) dans l'API PreMiD utilisent TLS 1.2.
 
 # Documentation
-> Currently under construction! 
+> En cours de construction ! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**Choisissez la version de l'API :**
+- [v1 *obsolète*](/dev/api/v1)
+- [v2 *actif*](/dev/api/v2)
 {.links-list}
