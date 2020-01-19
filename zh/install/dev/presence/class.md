@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2019-10-06T23:18:10.415Z
+date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
@@ -97,7 +97,7 @@ This interface has following variables, all of them are optional.
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">描述</th>
       <th style="text-align:left">Type</th>
     </tr>
   </thead>
