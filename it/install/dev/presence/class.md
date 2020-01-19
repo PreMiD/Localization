@@ -8,11 +8,11 @@ tags:
 
 # Presence Class
 
-## Introduction
+## Introduzione
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+La classe `Presence` è molto utile poiché contiene i metodi di base di cui abbiamo bisogno per creare una presence.
 
- When you create a class you must specify `clientId` property.
+ Quando crei una classe devi specificare la proprietà `clientId`.
 
 ```typescript
 let presence = new Presence({
@@ -20,21 +20,21 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Ci sono 2 proprietà disponibili per la classe `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+La Proprietà `clientId` deve essere inserita affinché la tua presence funzioni, perché utilizza l'id della tua applicazione per mostrare il logo e le risorse.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Puoi ottenerlo nella tua [pagina di applicazioni](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Questa proprietà dice alla nostra app di registrare le scorciatoie per i tasti media e ci permette di usare l'evento `MediaKeys` per la classe `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Questa proprietà non è richiesta, tuttavia se vuoi abilitare i tasti media dovresti impostarla a `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Tutti gli eventi mediaKey sono temporaneamente disabilitati!**
 
 ```typescript
 let presence = new Presence({
@@ -43,11 +43,11 @@ let presence = new Presence({
 });
 ```
 
-## Methods
+## Metodi
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Imposta l'attività del tuo profilo a seconda dei dati passati.
 
 First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
