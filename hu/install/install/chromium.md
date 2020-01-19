@@ -1,18 +1,18 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: PreMiD telepítési útmutató Chromeium alapú böngészők esetében
 published: true
-date: 2019-10-02T12:43:24.610Z
+date: 2020-01-19T15:06:24.610Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 # Telepítés
 ### Chrome, Edge, etc.
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
 2. Válaszd a **Chromium** menüpontot.
-3. Click on **Add to Chrome**.
+3. Kattints a **Hozzáadás** gombra.
 
 ### Opera
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
