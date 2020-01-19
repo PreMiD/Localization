@@ -1,8 +1,8 @@
 ---
 title: Startseite
-description: Offizielle Dokumentation für v2
+description: 
 published: true
-date: 2020-01-18T02:41:39.645Z
+date: 2020-01-19T23:41:27.798Z
 tags: 
 ---
 
