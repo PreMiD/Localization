@@ -80,18 +80,18 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Ritorna una variabile dal sito, se esiste.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Questo farà il log del "Contenuto della Variabile"
 ```
 
-## `presenceData` Interface
+## Interfaccia `presenceData`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Si raccomanda di usare l'interfaccia `presenceData` quando si usa il metodo `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
 
 <table>
   <thead>
@@ -104,20 +104,20 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">La prima linea nella tua presence, di solito è usata come titolo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">La seconda linea nellla tua presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+      <td style="text-align:left">Definisce il tempo corrente.<br>
+        Utilizzato se vuoi mostrare quanti <code>hours:minutes:seconds</code> hai trascorso.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
