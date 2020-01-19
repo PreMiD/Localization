@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-A versão `2.x` introduz a [loja de Presenças](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas Presenças favoritas através da interface de usuário do [site](https://premid.app/).
+A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas Presenças favoritas através da interface de usuário do [site](https://premid.app/).
 
 # Diretrizes
 > Se você não seguir todas as diretrizes, sua presença ou pull request serão excluídos do GitHub. 
