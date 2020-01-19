@@ -1,34 +1,34 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: Доступ к реисходным кодам и выполнение действий, используя PreMiD API
 published: true
-date: 2019-10-03T00:53:26.994Z
+date: 2020-01-18T20:32:27.675Z
 tags:
 ---
 
 # API
 
-> Base URL: https://api.premid.app 
+> Базовый URL-адрес: https://api.premid.app 
 > 
 > {.is-info}
 
 ## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> Некоторые версии API и Gateway устарели и помечены как прекращенные в таблице ниже для потомства. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD раскрывает различные версии нашего API. Вы можете указать версию, включив ее в путь к запросу например `https://api.premid.app/v{version_number}`. При наличии номера версии из маршрута будут перенаправлены запросы на текущую версию по умолчанию (помеченные ниже соответственно).
 
-## Encryption
+## Шифрование
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Все сервисы и протоколы HTTP-уровня (например, http) внутри PreMiD API используют TLS 1.2.
 
 # Документация
-> Currently under construction! 
+> Сейчас строит! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**Выберите версию API:**
+- [v1 *устарел*](/dev/api/v1)
+- [v2 *активен*](/dev/api/v2)
 {.links-list}
