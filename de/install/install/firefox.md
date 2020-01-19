@@ -2,7 +2,7 @@
 title: Firefox
 description: Erste Schritte mit einer PreMiD-Installation unter Firefox
 published: true
-date: '2019-10-02T12: 42: 58.683Z'
+date: 2020-01-18T20:32:35.718Z
 tags:
 ---
 
