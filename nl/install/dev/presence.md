@@ -1,26 +1,26 @@
 ---
-title: Presence Development
+title: Presence Ontwikkeling
 description:
 published: true
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Alle presences worden hier bewaard: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Richtlijnen
+> Als je niet voldoet aan alle richtlijnen zal jouw presence of pull-aanvraag verwijderd worden van de github. 
 > 
 > {.is-danger}
 
-## Creation
+## Aanmaak
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
+Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
+- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
 - The presence **must** be related to the website you have chosen.
 - The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
 - The presence metadata must have well written content, including valid titles, and descriptions.
