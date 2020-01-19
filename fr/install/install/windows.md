@@ -2,7 +2,7 @@
 title: Windows
 description: Getting started with a PreMD installation on Windows
 published: vrai
-date: 2019-10-02T12:26:07.726Z
+date: 2020-01-18T20:32:44.173Z
 tags:
 ---
 
