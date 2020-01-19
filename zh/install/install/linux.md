@@ -2,7 +2,7 @@
 title: Linux
 description: Getting started with a PreMiD installation on Linux
 published: true
-date: 2019-10-03T15:55:36.490Z
+date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# 安裝
+# 安装
 > There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).
