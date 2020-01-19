@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2019-10-06T23:18:10.415Z
+date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
