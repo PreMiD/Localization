@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: หน้าหลัก
+description: เอกสารอย่างเป็นทางการรุ่น v2
 published: true
 date: 2019-10-03T11:48:36.291Z
 tags:
@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-warning}
 
-# About PreMiD
+# เกี่ยวกับ PreMiD
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
