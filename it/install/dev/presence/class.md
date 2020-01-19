@@ -49,29 +49,29 @@ let presence = new Presence({
 
 Imposta l'attività del tuo profilo a seconda dei dati passati.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Il primo parametro necessita di un'intefaccia `presenceData` per ottenere tutte le informazioni che vuoi mostrare nel tuo profilo.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Il secondo parametro definisce quando la presence sta riproducendo qualcosa o no. Usa sempre `true` se passi informazioni sul tempo in `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Rimuove l'attività corrente, le scorciatoie da tastiera e il titolo del supporto.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Questo metodo funziona solo su Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Imposta il titolo del supporto nella barra del menu.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Ti permette di ottenere linee di testo tradotte dall'estensione. Devi procurare un `Object` con le chiavi a stringhe, `keyValue` è il valore della stringa. Puoi trovare alcune linee di testo usando questo termine: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Ritorna le stringhe `Playing` e `Paused`
+// dall'estensione.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
