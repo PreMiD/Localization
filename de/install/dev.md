@@ -6,17 +6,17 @@ date: '2019-11-03T13: 02: 36.660Z'
 tags:
 ---
 
-> Ein Quellcode-Editor ist erforderlich. Wir empfehlen Visual Studio Code. 
+> Ein Codeeditor ist erforderlich. Wir empfehlen Visual Studio Code. 
 > 
 > {.is-info}
 
-# Anforderungen installieren
+# Vorrausetzungen installieren
 1. Installiere [Git](https://git-scm.com/).
 2. Installiere [Node](https://nodejs.org/en/) (kommt mit [npm](https://www.npmjs.com/)).
-3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm installiere -g typescript`).
+3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
 # Projekt klonen
-1. Öffnen Sie ein Terminal und geben Sie `git clone URL`. **URL ersetzen mit Repository Link auf beitragen möchten** Beispiel `git clone https://github.com/PreMiD/PreMiD`.
+1. Öffnen ein Terminal und gib `git clone URL` ein. **URL ersetzen mit Repository Link auf beitragen möchten** Beispiel `git clone https://github.com/PreMiD/PreMiD`.
 2. Wählen Sie einen Ordner Ihrer Wahl.
 3. Öffnen Sie es in Ihrem Code-Editor.
 
