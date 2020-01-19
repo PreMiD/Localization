@@ -1,5 +1,5 @@
 ---
-title: Windows
+title: วินโดวส์
 description: Getting started with a PreMD installation on Windows
 published: true
 date: 2019-10-02T12:26:07.726Z
