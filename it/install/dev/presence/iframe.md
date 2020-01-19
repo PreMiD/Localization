@@ -7,30 +7,30 @@ tags:
 ---
 
 # iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Il sistema iframe con PreMiD è problematico e può avere un comportamento inaspettato, utilizzare con attenzione. 
 > 
 > {.is-danger}
 
 ## Introduzione
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+In alcuni scenari, la tua presence può avere bisogno di accedere ad elementi posizionati dentro `iframe`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Il codice che scrivi dentro il tuo file `iframe.ts` verrà iniettato in ogni iframe della pagina.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Come le presence, gli `iframe` hanno le loro classi progettate per aggiornare i dati automaticamente.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Il codice va qui...
 });
 ```
 
 ## Metodi
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Manda dati alla presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
