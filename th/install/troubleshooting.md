@@ -23,10 +23,10 @@ tags:
 ![quit.png](/quit.png) คุณต้องรีสตาร์ท PreMiD หลังจากนั้น
 
 ### รีโหลด/รีสตาร์ท ดิสคอร์ด
-กด <kbd>Strg+R</kbd> (Windows) หรือ <kbd>CMD+R</kbd> (MacOS) บนแป้นพิมพ์ของคุณ หรือ รีสตาร์ทดิสคอร์ดแบบปกติก็ได้
+กด <kbd>Strg+R</kbd> (Windows) หรือ <kbd>CMD+R</kbd> (MacOS) บนแป้นพิมพ์ของคุณ หรือ รีสตาร์ท Discord แบบปกติก็ได้
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### ต้องแน่ใจว่า Discord ไม่ได้เปิดแบบ Administrator
+สำคัญมากๆ Discord RPC จะไม่ทำงานถ้าคุณเปิด Discord แบบ Administrator
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
