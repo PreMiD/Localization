@@ -1,16 +1,16 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Enthält grundlegende Daten zur Präsenz
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: '2019-12-04T23: 10: 48.719Z'
 tags:
 ---
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Wenn Sie eine Präsenz im Store veröffentlichen und über die Erweiterung laden möchten, sollten Sie die Datei `metadata.json` in Ihrem Ordner `presence.js` erstellen.
 
-The example of that file can be found below.
+Das Beispiel für diese Datei finden Sie unten.
 
 ```javascript
 {
@@ -20,234 +20,234 @@ The example of that file can be found below.
   },
   "contributors": [{
     "name": "USER",
-    "id": "ID"
+    "id": "ID "
   }],
-  "service": "SERVICE",
-  "description": {
-    "en": "DESCRIPTION"
+  " service ":" SERVICE ",
+  " description ": {
+    " de ":" DESCRIPTION "
   },
-  "url": "URL",
-  "regExp": "REGEXP",
+  " url ":" URL ",
+  " regExp ":" REGEXP ",
   "iFrameRegExp": "REGEXP",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
-  "color": "#45A8FC",
+  "color": "# 45A8FC",
   "tags": ["CATEGORY", "TAG"],
   "category": "CATEGORY",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## Grundlegendes zur Datei metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schwer zu verstehen, wofür jede Variable gedacht ist.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Beschreibung</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Art</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>Autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
+        Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>Mitwirkende</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
+        Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>Bedienung</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>Beschreibung</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
+        wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">URL des Dienstes.<br><b>Beispiel:</b><code>vk.com</code><br>
+        <b>Diese URL muss mit der URL der Website übereinstimmen, da sie verwendet wird, um zu ermitteln, auf welcher Website das Skript eingefügt werden soll.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Eine Zeichenfolge mit regulären Ausdrücken, die zum Abgleichen von URLs verwendet wird.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>Ausführung</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Version Ihrer Anwesenheit.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>Logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link zum Logo von Dienst&apos;.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
+      <td style="text-align:left"><b>Miniaturansicht</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link zum Miniaturbild Ihrer Anwesenheit.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>Farbe</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code># HEX</code> Wert. Wir empfehlen, eine Primärfarbe des Dienstes
+        , die Ihre Anwesenheit unterstützt.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>Stichworte</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Array mit Tags, sie helfen Benutzern, Ihre Präsenz auf der Website zu suchen.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>Kategorie</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nein</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Legt fest, ob <code>iFrames</code> verwendet werden</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Ein Selektor für reguläre Ausdrücke, der iframes auswählt, in die injiziert werden soll.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-## Regular Expressions
+## Reguläre Ausdrücke
 
-If you want to learn regular expressions, here are a few websites.
+Wenn Sie reguläre Ausdrücke lernen möchten, finden Sie hier einige Websites.
 
-### Learning
+### Lernen
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Reguläre Ausdrücke Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testen
 
-• [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
+• [Regex](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Anwesenheitskategorien
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Bei Ihrer Anwesenheit müssen Sie eine Kategorie angeben, unter die die Anwesenheit fällt. Dies ist eine kompilierte Liste der Kategorien, die Sie verwenden können.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
+      <th style="text-align:left">Kategorie</th>
       <th style="text-align:left">Name</th>
       <th style="text-align:left">Beschreibung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left">Alles, was mit Anime zu tun hat, von Foren bis zu Video-Streaming-Plattformen.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>Spiele</b></td>
     <td style="text-align:left"><b>Spiele</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Jede Website mit spielbezogenen Inhalten, z. B. <code>Kahoot</code> oder <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
+      <td style="text-align:left"><b>Musik-</b></td>
     <td style="text-align:left"><b>Musik</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Hierbei handelt es sich um Websites, die musikbezogene Inhalte anbieten, unabhängig davon, ob diese gestreamt oder heruntergeladen werden.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>Soziale</b></td>
         <td style="text-align:left"><b>Soziale Netzwerke</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Websites, die zum Erstellen und Teilen von Inhalten oder zur Teilnahme an anderen Formen sozialer Netzwerke verwendet werden.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>Videos</b></td>
         <td style="text-align:left"><b>Videos & Streams</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Websites, die dem Zweck dienen, Videos und Streams bereitzustellen.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>andere</b></td>
     <td style="text-align:left"><b>Sonstige</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Alles, was nicht unter eine der oben aufgeführten Kategorien fällt.</td>
       </td>
     </tr>
   </tbody>

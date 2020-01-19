@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: TypeScript configuratie
+description: Een kleine helper voor TypeScript
 published: true
 date: 2019-10-03T04:01:12.991Z
 tags:
 ---
 
-# TypeScript Configuration
+# TypeScript configuratie
 
-## Introduction
+## Introductie
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Wanneer je de workspace hebt gedownload en uitgepakt, zie je een bestand met de naam `tsconfig.ts` in root- en presencemappen, dit bestand wordt gebruikt voor het configureren van de **TypeScript** compiler. Het is al geconfigureerd voor jou, dus maak je geen zorgen daarover.
 
-We just want to describe some settings that you should know.
+We willen alleen enkele instellingen beschrijven die je zou moeten kennen.
 
-## Root Configuration
+## Root Configuratie
 
-In the root configuration file you will see something like this.
+In het root configuratiebestand ziet u zoiets als deze.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Beschrijving                                                                                    |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Property            | Beschrijving                                                                                  |
+|:------------------- |:--------------------------------------------------------------------------------------------- |
+| **compilerOptions** | Gebruikt voor het configureren van de compiler, de meeste eigenschappen bevinden zich hier.   |
+| module              | Je kunt er meer over lezen [hier](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Definieert de JavaScript-versie die u aan het compileren bent.                                |
+| removeComments      | Verwijder reacties uit gecompileerde bestanden.                                               |
+| **exclude**         | Hier kunt u de mappen definiëren die u wilt uitsluiten van de toekomstige compilatie.         |
 
-## Presence Configuration
+## Presence Configuratie
 
 ```javascript
 {
@@ -50,6 +50,6 @@ In the root configuration file you will see something like this.
 
 | Property            | Beschrijving                                                                           |
 |:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| **extends**         | Gebruikt voor het uitbreiden van het bestand `tsconfig` voor verschillende taken.      |
+| **compilerOptions** | Zie [**Root Configuratie**](/dev/presence/tsconfig#root-configuration) voor meer info. |
+| outDir              | Definieert de uitvoermap voor gecompileerde bestanden.                                 |

@@ -1,54 +1,54 @@
 ---
-title: Presence Development
+title: Presence Ontwikkeling
 description:
 published: true
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Alle presences worden hier bewaard: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Richtlijnen
+> Als je niet voldoet aan alle richtlijnen zal jouw presence of pull-aanvraag verwijderd worden van de github. 
 > 
 > {.is-danger}
 
-## Creation
+## Aanmaak
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have sfw images and descriptions regardless if it is nsfw or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
+Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
+- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Inclusief de `dist` folder, het `presence.js` bestand, en het `metadata.json` bestand.
+- De presence **moet** gerelateerd zijn aan de website die je hebt gekozen.
+- De presence mag niet voor een illegale website zijn. Hieronder vallen stressers, drugs, kinderporno, etc...
+- De presence metadata moet een goed beschreven inhoud hebben, inclusief geldige titels, en bescrijvingen.
+- De media die je toevoegt (icoon/thumbnail) moet gerelateerd zijn aan de website en moet begrijpelijk zijn in termen van grootte en kwaliteit.
+- De bestandsstructuur moet schoon en beheerd zijn, en mag geen willekeurige bestanden hebben die niks met de functie van de presence te maken hebben.
+- De presence **mag geen** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privéinformatie, het negatief beïnvloeden van het gedrag van de website, etc...
+- Als je een presence maakt voor een website die later wordt geüpdatet, ben **JIJ** verantwoordelijk voor het updaten van de presence om het weer werkend te krijgen. Als je het niet repareert in een tijdperiode, mogen andere presence ontwikkelaard jouw presence **overschrijven** om aan de wijzigingen te voldoen.
+- De presence moet getest zijn vóór het publiceren om te bevestigen dat alles werkt.
+- Jouw presence moet sfw-afbeeldingen en -beschrijvingen hebben, ongeacht of het nsfw is of niet. Als jouw presence van een `nsfw` website is, voeg dan de `nsfw` tag toe aan je metadata.
 
-## Modification
+## Wijzigen
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een gecompileerde lijst van alles wat je moet volgen om presences te mogen wijzigen.
+- Je mag niet de maker van de presence aanpassen. Dit is alleen van toepassing als je het mag herschrijven. Je mag jezelf toevoegen als een [bijdrager](/dev/presence/metadata).
+- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc...
+- Bevestig dat jouw wijzigingen werken voordat je het publiceert. Maak geen pull-requests zonder dat je het resultaat van je wijzigingen kent.
+- Rebrand/overschrijf niet een presence volledig, tenzij het is toegestaan door een `Presence Verifier` of een staff-lid.
 
-# Verification
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+# Bevestiging
+> Wanneer je een pull-aanvrag over het toevoegen of aanpassen van bestaande presences maakt, moet je een schermafbeelding toevoegen. Wijzigingen aan de metadata/tsconfig van een presence hebben echter geen schermafbeelding nodig. *Je schermafbeelding moet direct worden geüpload naar github met de pull-aanvraag, gebruik geen websites van derden voor het delen van afbeeldingen.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+Om te zorgen dat jouw presence in de winkel komt, moet het foor een proces op github gaan om te bevestigen dat het werkt zoals verwacht. Hier zijn een paar dingen om uit te kijken wanneer je je pull-aanvraag maakt.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verigier` op de discord server om te weten wie betrokken is.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
+1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal niet toegevoegd worden.
 2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
 3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
 4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.

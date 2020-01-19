@@ -1,29 +1,29 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: Követelmények
+description: A PreMiD telepítési előfeltételei
 published: true
-date: 2019-10-02T12:31:31.090Z
+date: 2020-01-19T14:07:31.090Z
 tags:
 ---
 
-# System Requirements
+# Rendszerkövetelmények
 
-> This data relate to the application only. 
+> Ezek az adatok csak az alkalmazásra vonatkoznak. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+A PreMiD gyakorlatilag bármilyen rendszeren elfut. Ez azt jelenti, hogy elfut **Linux**, **macOS**, **Windows**, valamint néhány **Módosított Linux** rendszeren is.
 
-### CPU
-PreMiD runs perfectly fine on a single CPU core.
+### Processzor
+A PreMiD tökéletes futtatásához egy magos processzor a legmegfelelőbb.
 
-### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+### Memória
+Linux rendszerek esetében **legalább 20MB RAM** szükséges a PreMiD futtatásához. A Windows és macOS rendszerek általában valamennyivel több RAM-ot igényelnek.
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### Tárhely
+A PreMiD körülbelül **150MB** tárhelyet foglal. Azonban, legalább **200 MB** tárhely ajánlott.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### Internet hozzáférés
+A PreMiD futtatásához internetkapcsolat szükséges. A PreMiD automatikusan keres frissítéseket, nyelvi adatokat, állapotüzeneti frissítéseket, stb. körülbelül heti egy alkalommal.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

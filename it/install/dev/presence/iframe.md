@@ -7,49 +7,49 @@ tags:
 ---
 
 # iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Il sistema iframe con PreMiD è problematico e può avere un comportamento inaspettato, utilizzare con attenzione. 
 > 
 > {.is-danger}
 
-## Introduction
+## Introduzione
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+In alcuni scenari, la tua presence può avere bisogno di accedere ad elementi posizionati dentro `iframe`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Il codice che scrivi dentro il tuo file `iframe.ts` verrà iniettato in ogni iframe della pagina.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Come le presence, gli `iframe` hanno le loro classi progettate per aggiornare i dati automaticamente.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Il codice va qui...
 });
 ```
 
-## Methods
+## Metodi
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Manda dati alla presence. Usare questo metodo permetterà alla presence di lanciare un evento `iFrameData`.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Ritorna l'URL dell'`iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Eventi
+Negli `iframe` gli eventi funzionano similmente a come funzionano nella classe della `Presence`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Il codice va qui...
 });
 ```
 
-Here is a list of all of the events:
+Qui c'è una lista di tutti gli eventi:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Questo evento è lanciato ogni volta che un iframe viene aggiornato.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (disabilitato)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Lanciato quando un utente utilizza i tasti media sulla sua tastiera, [clicca qua](/dev/presence/class#mediakeys) per ottenere più informazioni riguardo i tasti media.

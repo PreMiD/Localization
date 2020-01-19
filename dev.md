@@ -2,7 +2,7 @@
 title: Getting Started
 description: A little advise for those who got into coding recently
 published: true
-date: 2019-11-03T13:02:36.660Z
+date: 2020-01-18T20:32:18.836Z
 tags: 
 ---
 

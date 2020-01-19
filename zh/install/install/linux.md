@@ -10,7 +10,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# 安装
+# 安裝
 > There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).

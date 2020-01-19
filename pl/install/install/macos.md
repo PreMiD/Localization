@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
-published: true
+description: Rozpoczęcie instalacji PreMiD na macOS
+published: tak
 date: 2019-10-02T11:30:51.936Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Zanim przejdziesz dalej, upewnij się, że Twój system spełnia wszystkie [wymagania](/install/requirements). 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobić niczego samodzielnie.
 
 # Zainstaluj
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+1. Przejdź do naszej strony pobierania [klikając tutaj](https://premid.app/downloads).
+2. Wybierz **OS X**.
+3. Wypakuj archiwum, jeśli to konieczne.
+4. Otwórz instalator.
+5. **Alert bezpieczeństwa** pojawi się, jeśli zainstalujesz PreMiD po raz pierwszy. Przejdź do **Preferencje** > **Zabezpieczenia** > **Ogólne** > **Otwórz mimo to**. [Dowiedz się więcej](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) o niepodpisanych aplikacjach.
+> Dzieje się tak, ponieważ nie mamy certyfikatu podpisywania kodu (CSC). [Wspomóż nas](https://www.patreon.com/Timeraa), aby go sfinansować.{.is-info}
+6. Wybierz otwórz gdy pokaże się komunikat.
+7. Przyznaj dostęp do połączeń przez **Zaporę** i kontroluj **Zdarzenia systemowe** gdy zostaniesz o to poproszony.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikacja uruchomi się automatycznie. Sprawdź ikonę na pasku menu.
 
-> Do not forget to [add the **extension**](/install). 
+> Nie zapomnij [dodać **rozszerzenia**](/install). 
 > 
 > {.is-warning}
 

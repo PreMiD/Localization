@@ -6,14 +6,14 @@ date: 2019-10-02T11:30:51.936Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Vergewissern Sie sich, bevor Sie fortfahren, dass Ihr System alle [Anforderungen](/install/requirements)erfüllt. 
 > 
 > {.is-info}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
 # Installieren
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Auf unserer Download - Seite von [hier klicken](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
