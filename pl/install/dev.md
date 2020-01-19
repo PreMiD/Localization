@@ -16,19 +16,19 @@ tags:
 3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz konsole i wpisz `npm install -g typescript`).
 
 # Klonowanie projektu
-1. Otwórz konsole i wpisz `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+1. Otwórz konsole i wpisz `git clone URL`. **Zamień URL na link repozytorium które chcesz wspomóc** np. `git clone https://github.com/PreMiD/PreMiD`.
+2. Wybierz folder.
+3. Otwórz go w twoim edytorze kodu.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Instalowanie zależności
+> Upewnij się, że masz zainstalowane [npm](https://www.npmjs.com/) (Node Package Manager). Instaluje się to automatycznie, jeżeli masz zainstalowane [Node.js](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Otwórz konsole w twoim folderze z repozytorium i wpisz `npm i`.
+- Aby zaktualizować zależności, wpisz `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Uważaj z aktualizowaniem zależności, może to wiele zepsuć. Testowanie jest potrzebne! 
 > 
 > {.is-danger}
 
