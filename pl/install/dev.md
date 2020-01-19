@@ -1,16 +1,16 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Wprowadzenie
+description: Troche porad dla tych co chcą zacząć programować
 published: tak
 date: 2019-11-03T13:02:36.660Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Edytor kodu źródłowego jest wymagany. Zalecamy Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Instalowanie wymagań
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
