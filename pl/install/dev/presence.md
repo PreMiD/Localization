@@ -1,30 +1,30 @@
 ---
-title: Presence Development
+title: Rozwój statusów
 description:
 published: tak
-date: 2019-12-06T15:39:48.102Z
+date: 2020-01-18T20:32:30.306Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Wszystkie statusy są trzymane tutaj: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkownicy mają teraz możliwość ręcznego dodawania lub usuwania ich ulubionych statusów za pośrednictwem interfejsu użytkownika z [strony](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Wytyczne
+> Jeżeli nie będziesz trzymać się wszystkich wytycznych, twój status lub pull request zostanie usunięty z githuba. 
 > 
 > {.is-danger}
 
-## Creation
+## Tworzenie
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
+Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
+- Pull Request musi być kompletny, musisz mieć prawidłową strukturę plików. Zawierający folder `dist`, plik `presence.js`, oraz plik `metadata.json`.
+- Status **musi** być związany z stroną którą wybrałeś.
+- Status nie może być z nielegalnej strony. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp...
+- Metadata statusu musi zawierać dobrze napisaną treść, w tym tytuły i opisy.
+- Zdjęcia które dodajesz (ikona/miniatura) musi być związana z stroną i musi być zrozumiana w stylu jak i jakości.
 - The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
 - The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
 - If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
@@ -61,7 +61,7 @@ After all of the proper reviews have been met, your pull request will be merged 
 # Structure (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
+## Instalacja
 1. Zainstaluj program [Git](https://git-scm.com/).
 2. Zainstaluj program [Node.js](https://nodejs.org/en/) (instaluje się z [npm](https://www.npmjs.com/)).
 3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz konsole i wpisz `npm install -g typescript`).
@@ -338,7 +338,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `contributors`
+- `współtwórcy`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -355,7 +355,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>autor</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -365,7 +365,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>współtwórcy</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -384,7 +384,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>opis</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -425,7 +425,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>wersja</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -462,7 +462,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>tagi</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
