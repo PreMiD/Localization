@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-18T20:32:58.015Z
 tags:
 ---
 
@@ -48,13 +48,13 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrição</th>
-      <th style="text-align:left">Tipo</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>autor(a)</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -64,7 +64,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>contribuidores(as)</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -83,7 +83,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>descrição</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -113,7 +113,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>versão</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -150,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>etiquetas</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
@@ -221,32 +221,32 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>jogos</b></td>
     <td style="text-align:left"><b>Jogos</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
+      <td style="text-align:left"><b>música</b></td>
     <td style="text-align:left"><b>Música</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Redes Sociais</b></td>
+      <td style="text-align:left"><b>social</b></td>
+        <td style="text-align:left"><b>Social</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Vídeos e Streams</b></td>
+        <td style="text-align:left"><b>Vídeos e Transmissões</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>Outros</b></td>
+      <td style="text-align:left"><b>outro</b></td>
+    <td style="text-align:left"><b>Outro</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
