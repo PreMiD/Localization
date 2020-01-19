@@ -2,7 +2,7 @@
 title: Linux
 description: Rozpoczęcie instalacji PreMiD w systemie Linux
 published: tak
-date: 2019-10-03T15:55:36.490Z
+date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
