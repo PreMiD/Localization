@@ -2,7 +2,7 @@
 title: Nesklandumų sprendimas
 description: Everything to solve your problem
 published: true
-date: 2019-10-03T00:21:25.018Z
+date: 2020-01-18T20:32:24.820Z
 tags:
 ---
 
