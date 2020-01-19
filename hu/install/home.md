@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Kezdőlap
 description: Official Documentation for v2
 published: true
-date: 2019-10-03T11:48:36.291Z
+date: 2020-01-18T20:32:20.879Z
 tags:
 ---
 
