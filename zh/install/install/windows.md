@@ -2,7 +2,7 @@
 title: Windows
 description: Getting started with a PreMD installation on Windows
 published: true
-date: 2019-10-02T12:26:07.726Z
+date: 2020-01-18T20:32:44.173Z
 tags:
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# 安裝
+# 安装
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Windows**.
 3. Open the installer.
