@@ -16,14 +16,14 @@ tags:
 ### รีสตาร์ทบราวเซอร์ของคุณ
 <kbd>Alt</kbd>+<kbd>F4</kbd> (วินโดวส์) หรือ <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) ได้ผลเยี่ยมมากเหมือนกัน (คุณตัองเริ่มบราวเซอร์ใหม่อีกครั้งเพื่อความชัดเจน)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### ตรวจสอบให้แน่ใจว่าคุณได้เปิดกิจกรรมการเล่นเกมในการตั้งค่า Discord หรือเปล่า
+**ตั้งค่าบัญชีผู้ใช้** > **กิจกรรมการเล่นเกม** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### รีสตาร์ท PreMiD (แอพพลิเคชั่น)
+![quit.png](/quit.png) คุณต้องรีสตาร์ท PreMiD หลังจากนั้น
 
-### Reload/restart Discord
-Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### รีโหลด/รีสตาร์ท ดิสคอร์ด
+กด <kbd>Strg+R</kbd> (Windows) หรือ <kbd>CMD+R</kbd> (MacOS) บนแป้นพิมพ์ของคุณ หรือ รีสตาร์ทดิสคอร์ดแบบปกติก็ได้
 
 ### Be sure Discord is running NOT as administrator
 Really important. Discord RPC will not work if you run Discord as an administrator.
