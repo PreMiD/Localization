@@ -33,13 +33,13 @@ Houd de volgende lijst in gedachten voordat je begint met het maken van je prese
 
 ## Wijzigen
 
-In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een gecompileerde lijst van alles wat je moet volgen om presences te mogen wijzigen.
+- Je mag niet de maker van de presence aanpassen. Dit is alleen van toepassing als je het mag herschrijven. Je mag jezelf toevoegen als een [bijdrager](/dev/presence/metadata).
+- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc...
+- Bevestig dat jouw wijzigingen werken voordat je het publiceert. Maak geen pull-requests zonder dat je het resultaat van je wijzigingen kent.
+- Rebrand/overschrijf niet een presence volledig, tenzij het is toegestaan door een `Presence Verifier` of een staff-lid.
 
-# Verification
+# Bevestiging
 > When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-danger}
