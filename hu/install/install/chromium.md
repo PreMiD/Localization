@@ -9,7 +9,7 @@ tags:
 A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 # Telepítés
-### Chrome, Edge, etc.
+### Chrome, Edge, stb.
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
 2. Válaszd a **Chromium** menüpontot.
 3. Kattints a **Hozzáadás** gombra.
@@ -18,8 +18,8 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 1. **Install Chrome Extensions** bővítmény hozzáadása.
 2. [PreMiD bővítmény](https://premid.app/downloads) hozzáadása.
 
-> Do not forget to [add the **application**](/install). 
+> Ne felejtsd el telepíteni az **alkalmazást**. </p> 
 > 
-> {.is-warning}
-
-![](https://img.icons8.com/color/2x/chrome.png) {.align-abstopright}
+> {.is-warning}</blockquote> 
+> 
+> ![](https://img.icons8.com/color/2x/chrome.png) {.align-abstopright}
