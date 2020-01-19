@@ -2,7 +2,7 @@
 title: Requirements
 description: Prerequisites to install PreMiD
 published: vrai
-date: 2019-10-02T12:31:31.090Z
+date: 2020-01-18T20:32:41.677Z
 tags:
 ---
 
