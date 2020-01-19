@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-18T20:32:58.015Z
 tags:
 ---
 
@@ -64,7 +64,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>osallistujat</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
