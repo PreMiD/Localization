@@ -6,7 +6,7 @@ date: 2019-10-02T12:42:58.683Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 # Telepítés
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
