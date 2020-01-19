@@ -20,20 +20,20 @@ Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebrui
 ## Aanmaak
 
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
-- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have sfw images and descriptions regardless if it is nsfw or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
+- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Inclusief de `dist` folder, het `presence.js` bestand, en het `metadata.json` bestand.
+- De presence **moet** gerelateerd zijn aan de website die je hebt gekozen.
+- De presence mag niet voor een illegale website zijn. Hieronder vallen stressers, drugs, kinderporno, etc...
+- De presence metadata moet een goed beschreven inhoud hebben, inclusief geldige titels, en bescrijvingen.
+- De media die je toevoegt (icoon/thumbnail) moet gerelateerd zijn aan de website en moet begrijpelijk zijn in termen van grootte en kwaliteit.
+- De bestandsstructuur moet schoon en beheerd zijn, en mag geen willekeurige bestanden hebben die niks met de functie van de presence te maken hebben.
+- De presence **mag geen** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privéinformatie, het negatief beïnvloeden van het gedrag van de website, etc...
+- Als je een presence maakt voor een website die later wordt geüpdatet, ben **JIJ** verantwoordelijk voor het updaten van de presence om het weer werkend te krijgen. Als je het niet repareert in een tijdperiode, mogen andere presence ontwikkelaard jouw presence **overschrijven** om aan de wijzigingen te voldoen.
+- De presence moet getest zijn vóór het publiceren om te bevestigen dat alles werkt.
+- Jouw presence moet sfw-afbeeldingen en -beschrijvingen hebben, ongeacht of het nsfw is of niet. Als jouw presence van een `nsfw` website is, voeg dan de `nsfw` tag toe aan je metadata.
 
-## Modification
+## Wijzigen
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
+In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Here is a compiled list that you must follow in order to modify presences.
 - You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
 - Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
