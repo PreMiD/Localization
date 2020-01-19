@@ -2,7 +2,7 @@
 title: macOS
 description: Getting started with a PreMiD installation on macOS
 published: true
-date: 2019-10-02T11:30:51.936Z
+date: 2020-01-18T20:32:39.829Z
 tags:
 ---
 
@@ -12,7 +12,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# 安裝
+# 安装
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
