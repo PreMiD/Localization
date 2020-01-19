@@ -40,15 +40,15 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 - Rebrand/overschrijf niet een presence volledig, tenzij het is toegestaan door een `Presence Verifier` of een staff-lid.
 
 # Bevestiging
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+> Wanneer je een pull-aanvrag over het toevoegen of aanpassen van bestaande presences maakt, moet je een schermafbeelding toevoegen. Wijzigingen aan de metadata/tsconfig van een presence hebben echter geen schermafbeelding nodig. *Je schermafbeelding moet direct worden geüpload naar github met de pull-aanvraag, gebruik geen websites van derden voor het delen van afbeeldingen.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+Om te zorgen dat jouw presence in de winkel komt, moet het foor een proces op github gaan om te bevestigen dat het werkt zoals verwacht. Hier zijn een paar dingen om uit te kijken wanneer je je pull-aanvraag maakt.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verigier` op de discord server om te weten wie betrokken is.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
+1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal niet toegevoegd worden.
 2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
 3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
 4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
