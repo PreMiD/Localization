@@ -31,8 +31,12 @@
     "message": "ผู้ดูแล",
     "description": "'Moderator' title for contributors and user pages."
   },
+  "contributors.roles.ticketManager": {
+    "message": "ผู้จัดการตั๋ว",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
   "contributors.roles.donator": {
-    "message": "คนบริจาค",
+    "message": "ผู้โดเนท",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
@@ -40,7 +44,7 @@
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
-    "message": "แปลภาษา",
+    "message": "ผู้แปลภาษา",
     "description": "'Main Developer' title for contributors page."
   }
 }
