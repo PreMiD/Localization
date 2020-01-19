@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: '2019-12-06T15: 39: 48.102Z'
+date: 2020-01-18T20:32:30.306Z
 tags:
 ---
 
@@ -64,7 +64,7 @@ Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascrip
 ## Installation
 1. Installiere [Git](https://git-scm.com/).
 2. Installiere [Node](https://nodejs.org/en/) (kommt mit [npm](https://www.npmjs.com/)).
-3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm installiere -g typescript`).
+3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
 ## Projekt klonen
 1. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
