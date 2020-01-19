@@ -63,13 +63,13 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
-2. 安装 [节点](https://nodejs.org/en/) (带有 [npm](https://www.npmjs.com/)).
-3. 安装 [TypeScript](https://www.typescriptlang.org/index.html#download-links) (打开终端和 `npm install -g typescript`).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## 克隆项目
+## Cloning the project
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. 选择一个文件夹。
-3. 在你的代码编辑器中打开它。
+2. Choose a folder of your choice.
+3. Open it in you code editor.
 
 ## Creating folders and files
 
@@ -195,11 +195,11 @@ presence.on("iFrameData", data => {
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Structure (JavaScript)
-## 克隆项目
+## Cloning the project
 1. Install [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. 选择一个文件夹。
-4. 在你的代码编辑器中打开它。
+3. Choose a folder of your choice.
+4. Open it in you code editor.
 
 ## Creating folders and files
 
@@ -338,7 +338,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `贡献者`
+- `貢獻者`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -348,7 +348,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">描述</th>
+      <th style="text-align:left">說明</th>
       <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
@@ -365,7 +365,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>贡献者</b>
+      <td style="text-align:left"><b>貢獻者</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -384,7 +384,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>描述</b>
+      <td style="text-align:left"><b>說明</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -462,7 +462,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>标签</b>
+      <td style="text-align:left"><b>標籤</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
