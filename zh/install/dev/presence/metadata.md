@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-18T20:32:58.015Z
 tags:
 ---
 
@@ -47,14 +47,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">描述</th>
       <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>作者</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -64,7 +64,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>贡献者</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -83,7 +83,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>描述</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -113,7 +113,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>版本</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -150,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>标签</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
@@ -210,43 +210,43 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">Category</th>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>動漫</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
-    <td style="text-align:left"><b>遊戲</b></td>
+      <td style="text-align:left"><b>游戏</b></td>
+    <td style="text-align:left"><b>游戏</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
-    <td style="text-align:left"><b>音樂</b></td>
+      <td style="text-align:left"><b>音乐</b></td>
+    <td style="text-align:left"><b>音乐</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>社交</b></td>
         <td style="text-align:left"><b>社交</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>視訊串流</b></td>
+        <td style="text-align:left"><b>视频与直播</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>其它</b></td>
+      <td style="text-align:left"><b>其他</b></td>
+    <td style="text-align:left"><b>其他</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
