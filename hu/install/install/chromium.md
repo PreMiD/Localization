@@ -15,8 +15,8 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 3. Kattints a **Hozzáadás** gombra.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. **Install Chrome Extensions** bővítmény hozzáadása.
+2. [PreMiD bővítmény](https://premid.app/downloads) hozzáadása.
 
 > Do not forget to [add the **application**](/install). 
 > 
