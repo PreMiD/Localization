@@ -9,7 +9,7 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # Telepítés
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
