@@ -1,7 +1,7 @@
 ---
 title: Presence Development
 description:
-published: true
+published: tak
 date: 2019-12-06T15:39:48.102Z
 tags:
 ---
