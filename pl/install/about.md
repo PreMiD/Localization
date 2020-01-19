@@ -2,7 +2,7 @@
 title: O PreMiD
 description: Postawowe funkcje PreMiD
 published: tak
-date: 2019-10-03T01:04:50.281Z
+date: 2020-01-18T20:32:17.062Z
 tags:
 ---
 
