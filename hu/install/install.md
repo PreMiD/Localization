@@ -1,6 +1,6 @@
 ---
 title: Installation
-description: How to install PreMiD
+description: PreMiD telepítési útmutató
 published: true
 date: 2020-01-18T20:32:22.753Z
 tags:
@@ -10,19 +10,19 @@ tags:
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Fontos**, hogy a **bővítmény** és az **alkalmazás** **egyaránt** telepítve legyen! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Operációs rendszer kiválasztása:**
+- [Windows *7 vagy újabb*](/install/windows)
+- [macOS *10.11 vagy újabb*](/install/macos)
+- [Linux *4 vagy újabb*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Böngésző kiválasztása:**
+- [Chromium *v76 vagy újabb*](/install/chromium)
+- [Firefox *v69 vagy újabb*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
