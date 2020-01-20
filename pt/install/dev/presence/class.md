@@ -1,12 +1,12 @@
 ---
-title: Presence Class
+title: Classe Presence
 description: A classe principal para cada presença do PreMiD
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Presence Class
+# Classe Presence
 
 ## Introdução
 
