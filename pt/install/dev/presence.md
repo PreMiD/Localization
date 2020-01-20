@@ -52,13 +52,13 @@ Nossa equipe de Verificação de Presença tem um cargo, procure `Presence Verif
 2. Se solicitarmos alterações e sua pull request excede **7 dias de inatividade** sem fazer as mudanças necessárias, seremos forçados a fechá-la.
 3. Você tem permissão para tirar capturas de tela de alterações feitas com a ajuda de outro usuário. ( e.g. its author in case you can't access it for any reason).
 4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+5. As capturas de tela fornecidas devem ser reais, não editadas.
+6. Qualquer código contribuído que for mesclado a este repositório será licenciado sob a **Mozilla Public License 2.0**.
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+Depois que todas as avaliações adequadas forem atendidas, sua pull request será mesclada com a loja.
 
-# Structure (TypeScript)
+# Estrutura (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Instalação
@@ -67,7 +67,7 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abra um terminal e `npm install -g typescript`).
 
 ## Clonando o projeto
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Abra o terminal e digite `git clone https://github.com/PreMiD/Presences`.
 2. Escolha uma pasta que preferir.
 3. Abra-a no editor de código.
 
@@ -158,7 +158,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## Não foi possível obter os dados certos?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -197,7 +197,7 @@ Abra um console na sua pasta e digite `tsc -w` para compilar o `presence.ts` na 
 # Estrutura (JavaScript)
 ## Clonando o projeto
 1. Instale o [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Abra o terminal e digite `git clone https://github.com/PreMiD/Presences`.
 3. Escolha uma pasta que preferir.
 4. Abra-a no editor de código.
 
@@ -274,7 +274,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## Não foi possível obter os dados certos?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -350,7 +350,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrição</th>
       <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Opcional</th>
     </tr>
   </thead>
   <tbody>
@@ -509,17 +509,17 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the T
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# Algumas coisas úteis
 ## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+O site que você está desenvolvendo está recarregando automaticamente toda vez que você salvar um arquivo na sua pasta.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
+## Depuração
+- Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. If yes then go on and try again after the next function. Se não, então há um erro acima.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
+# Arquivos explicados
+- [Classe Presence](/dev/presence/class)
+- [Classe iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+- [Configuração do TypeScript](/dev/presence/tsconfig)
 {.links-list}
