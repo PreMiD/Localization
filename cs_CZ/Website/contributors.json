@@ -19,6 +19,14 @@
     "message": "Vývojář webu",
     "description": "'Website Developer' title for contributors and user pages."
   },
+  "contributors.roles.communityManager": {
+    "message": "Manažer Komunity",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "Hlavní Moderátor",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
   "contributors.roles.moderator": {
     "message": "Moderátor",
     "description": "'Moderator' title for contributors and user pages."
