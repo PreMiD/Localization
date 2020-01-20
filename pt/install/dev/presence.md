@@ -515,7 +515,7 @@ O site que você está desenvolvendo está recarregando automaticamente toda vez
 
 ## Depuração
 - Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. If yes then go on and try again after the next function. Se não, então há um erro acima.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+- Se isso também não te ajudar, então peça ajuda a um desenvolvedor de presença em nosso [servidor do Discord](https://discord.gg/PreMiD).
 
 # Arquivos explicados
 - [Classe Presence](/dev/presence/class)
