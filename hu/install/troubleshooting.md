@@ -23,7 +23,7 @@ Az oldalt frissítheted a <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) vagy a <kbd>
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
 ### Indítsd újra a Discord alkalmazást
-Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+A Discord kézi újraindításához nyomd meg a <kbd>Strg+R</kbd> (Windows) vagy a <kbd>CMD+R</kbd> (MacOS) gombokat a billentyűzeten.
 
 ### Győződj meg arról, hogy a Discord nem rendszergazdai jogokkal fut
 Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal fut.
@@ -32,10 +32,10 @@ Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal 
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
 ### Tiltsd le a bővítményeket
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+Tilts le minden bővítményt és ellenőrizd, hogy működik-e. Ha igen, próbáld meg -lépésről-lépésre- a bővítményeket engedélyezni és írd meg nekünk, hogy melyik bővítmény blokkolta a PreMiD-et a működésben.
 
 ### Indítsd újra a számítógépet
-I hope you know how to restart a computer.
+Azt remélem azért tudod, hogy hogyan kell egy számítógépet újraindítani.
 
 ### Telepítsd újra a PreMiD alkalmazást
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
