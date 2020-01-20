@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: The main class for every PreMiD presence
+description: Hlavní třída pro každou přítomnost PreMiD
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
@@ -98,7 +98,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Popis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
     </tr>
   </thead>
   <tbody>
