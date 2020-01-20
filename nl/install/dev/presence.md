@@ -101,20 +101,20 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+    clientId: "000000000000000000", //De client ID van de Applicatie gemaakt op https://discordapp.com/developers/applications
+    mediaKeys: false //Schakel het gebruik van mediaknoppen in
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    //Je kan dit gebruiken om vertaalde teksten te krijgen
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Pak en verwerk alle informatie hier
 
     // element grabs //
     // api calls //
@@ -122,18 +122,18 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Laat de functie elke 10 seconden apart lopen van de UpdateData-event om de variabelen te krijgen en te zetten die UpdateData verkrijgt.
 
 */
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is altijd aan het lopen, en moet daarom jouw refresh-cyclus zijn, of `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Het is aanbevolen om een andere functie buiten deze event-functie te maken die de variabelen zult veranderen en al het zware werk zal doen als je informatie roept vanuit een API*/
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*De sleutel (bestandsnaam) van de Grote Afbeelding op de presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
@@ -244,7 +244,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
     //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
