@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:39.829Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> A folytatás előtt, győződj meg arról, hogy az általad használt rendszer megfelel a [követelményeknek](/install/requirements). 
 > 
 > {.is-info}
 
