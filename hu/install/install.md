@@ -2,11 +2,11 @@
 title: Installation
 description: PreMiD telepítési útmutató
 published: true
-date: 2020-01-18T20:32:22.753Z
+date: 2020-01-20T09:03:22.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> A folytatás előtt, győződj meg arról, hogy az általad használt rendszer megfelel a [követelményeknek](/install/requirements). 
 > 
 > {.is-info}
 
@@ -15,14 +15,14 @@ tags:
 > {.is-warning}
 
 **Operációs rendszer kiválasztása:**
-- [Windows *7 vagy újabb*](/install/windows)
-- [macOS *10.11 vagy újabb*](/install/macos)
-- [Linux *4 vagy újabb*](/install/linux)
+- [Windows *7 vagy újabb verzió*](/install/windows)
+- [macOS *10.11 vagy újabb verzió*](/install/macos)
+- [Linux *4 vagy újabb verzió*](/install/linux)
 {.links-list}
 
 **Böngésző kiválasztása:**
-- [Chromium *v76 vagy újabb*](/install/chromium)
-- [Firefox *v69 vagy újabb*](/install/firefox)
+- [Chromium *v76 vagy újabb verzió*](/install/chromium)
+- [Firefox *v69 vagy újabb verzió*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
