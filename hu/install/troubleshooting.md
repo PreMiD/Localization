@@ -6,32 +6,32 @@ date: 2020-01-18T20:32:24.820Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Győződj meg arról, hogy a bővítmény **és** az alkalmazás is egyaránt telepítésre került! 
 > 
 > {.is-warning}
 
-### Reload the page
+### Frissítsd az oldalt
 You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Restart your browser
+### Indítsd újra a böngészőt
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
+### Indítsd újra a PreMiD alkalmazást
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### Reload/restart Discord
+### Indítsd újra a Discord alkalmazást
 Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Győződj meg arról, hogy a Discord nem rendszergazdai jogokkal fut
+Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal fut.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Disable your addons
+### Tiltsd le a bővítményeket
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
 ### Restarting your computer
