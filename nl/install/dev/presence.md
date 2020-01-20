@@ -40,7 +40,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 - Rebrand/overschrijf niet een presence volledig, tenzij het is toegestaan door een `Presence Verifier` of een staff-lid.
 
 # Bevestiging
-> Wanneer je een pull-aanvrag over het toevoegen of aanpassen van bestaande presences maakt, moet je een schermafbeelding toevoegen. Wijzigingen aan de metadata/tsconfig van een presence hebben echter geen schermafbeelding nodig. *Je schermafbeelding moet direct worden geüpload naar github met de pull-aanvraag, gebruik geen websites van derden voor het delen van afbeeldingen.* 
+> Wanneer je een pull-aanvraag over het toevoegen of aanpassen van bestaande presences maakt, moet je een schermafbeelding toevoegen. Wijzigingen aan de metadata/tsconfig van een presence hebben echter geen schermafbeelding nodig. *Je schermafbeelding moet direct worden geüpload naar github met de pull-aanvraag, gebruik geen websites van derden voor het delen van afbeeldingen.* 
 > 
 > {.is-danger}
 
@@ -49,8 +49,8 @@ Om te zorgen dat jouw presence in de winkel komt, moet het foor een proces op gi
 Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verigier` op de discord server om te weten wie betrokken is.
 
 1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal niet toegevoegd worden.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
+2. Als wij wijzigingen aanvragen en als jouw pull-aanvraag meer dan **7 dagen inactief is** zonder de benodigde wijzigingen te maken, zullen we het sluiten.
+3. Je mag schermafbeeldingen maken van wijzigingen die gemaakt zijn met de hulp van een andere gebruiker. (bijv. de auteur in het geval dat je het niet kan benaderen).
 4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
 5. The provided screenshots should be real, not edited.
 6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
