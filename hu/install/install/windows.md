@@ -1,8 +1,8 @@
 ---
 title: Windows
-description: Getting started with a PreMD installation on Windows
+description: PreMiD telepítési útmutató a Windows program esetében
 published: true
-date: 2020-01-18T20:32:44.173Z
+date: 2020-01-20T06:49:44.173Z
 tags:
 ---
 
@@ -16,7 +16,7 @@ The installation of the application is very important as the extension can not d
 3. Open the installer.
 4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Kattints a **További információ** feliratra, majd válaszd a **Futtatás mindenképpen** opciót. > Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+The application will start automatically. Ellenőrizd a szimbólumot a tálcán.
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
