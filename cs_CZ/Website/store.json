@@ -31,6 +31,22 @@
     "message": "Tato přítomnost se automaticky použije v případě potřeby, není třeba ji přidávat.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Vyhledávací filtry",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Zobrazit nejpoužívanější jako první",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Povolit obsah pro dospělé",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorie",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Vše",
     "description": "Category at the top"
@@ -66,5 +82,9 @@
   "store.userpage.error1": {
     "message": "Uživatelské přítomnosti",
     "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Tuto přítomnost nelze najít",
+    "description": "Search result text when nothing's found"
   }
 }
