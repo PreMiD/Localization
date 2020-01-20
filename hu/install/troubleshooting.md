@@ -41,7 +41,7 @@ Azt remélem azért tudod, hogy hogyan kell egy számítógépet újraindítani.
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Kézi eltávolítás
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\FELHASZNÁLÓ\Program Files (x86)\`` és töröld a `PreMiD` mappát.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
 ### On Ubuntu/Debian based distros
