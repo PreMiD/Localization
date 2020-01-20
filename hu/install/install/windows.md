@@ -12,9 +12,9 @@ The installation of the application is very important as the extension can not d
 
 # Telepítés
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
-2. Choose **Windows**.
+2. Válaszd a **Windows** menüpontot.
 3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Kattints a **További információ** feliratra, majd válaszd a **Futtatás mindenképpen** opciót. > Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 The application will start automatically. Check for the symbol in your system tray.
 
