@@ -20,7 +20,7 @@ Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebrui
 ## Aanmaak
 
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
-- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Inclusief de `dist` folder, het `presence.js` bestand, en het `metadata.json` bestand.
+- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Inclusief de `dist` map het `presence.js` bestand, en het `metadata.json` bestand.
 - De presence **moet** gerelateerd zijn aan de website die je hebt gekozen.
 - De presence mag niet voor een illegale website zijn. Hieronder vallen stressers, drugs, kinderporno, etc...
 - De presence metadata moet een goed beschreven inhoud hebben, inclusief geldige titels, en bescrijvingen.
@@ -51,36 +51,36 @@ Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verig
 1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal niet toegevoegd worden.
 2. Als wij wijzigingen aanvragen en als jouw pull-aanvraag meer dan **7 dagen inactief is** zonder de benodigde wijzigingen te maken, zullen we het sluiten.
 3. Je mag schermafbeeldingen maken van wijzigingen die gemaakt zijn met de hulp van een andere gebruiker. (bijv. de auteur in het geval dat je het niet kan benaderen).
-4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+4. Als het een update of patch is, moet de schermafbeelding de nieuwe toevoegingen werkend laten zien, niet oude functies van eerdere pull-aanvragen.
+5. De meegeleverde schermafbeeldingen moeten echt zijn, niet bewerkt.
+6. Alle toegevoegde code die samengevoegd wordt met deze repository zal gelicentieerd worden onder de **Mozilla Public License 2.0**.
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+Nadat alle juiste beoordelingen zijn uitgevoerd, zal jouw pull-aanvraag worden samengevoegd met de winkel.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Structuur (TypeScript)
+Je kan kiezen of je je Presence wilt coderen met [JavaScript](https://www.javascript.com/) of [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) heeft een paar extra fijna type definities, dus het oplossen en vinden van bugs is veel eenvoudiger. Als je [JavaScript](https://www.javascript.com/) wilt gebruiken, kan je meteen naar [Structuur (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
+## Installatie
 1. Install [Git](https://git-scm.com/).
 2. Installeer [Node](https://nodejs.org/en/) (komt met [npm](https://www.npmjs.com/)).
 3. Installeer [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open een terminal en `npm install -g typescript`).
 
 ## Het project klonen
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Open een terminal en typ `git clone https://github.com/PreMiD/Presences`.
 2. Kies een map van je keuze.
 3. Open het in de code editor.
 
-## Creating folders and files
+## Mappen en bestanden maken
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Maak een map met de **naam** (niet een URL) van de service die je wilt ondersteunen.
+2. Maak een `presence.ts` en een `tsconfig.json` bestand in de map.
+3. Maak een map met de naam `dist` in de map.
+4. Maak een `metadata.json` bestand in de `dist` map.
 
-## Filling in the tsconfig.json file
+## Het tsconfig.json bestand invullen
 
-Please put the following code inside of the `tsconfg.json` file.
+Plaats de volgende code in het `tsconfig.json` bestand.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -89,15 +89,15 @@ Please put the following code inside of the `tsconfg.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Om meer te leren over TypeScript configuratie, klik [hier](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Het metadata.json bestand invullen
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klik [hier](/dev/presence#filling-in-the-metadatajson-file-2) om te zien hoe je het moet invullen. Je kan onder de uitleg gemakkelijk terugkomen.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Aan de slag
 
 ```javascript
 var presence = new Presence({
@@ -197,23 +197,23 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 # Structure (JavaScript)
 ## Het project klonen
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Open een terminal en typ `git clone https://github.com/PreMiD/Presences`.
 3. Kies een map van je keuze.
 4. Open het in de code editor.
 
-## Creating folders and files
+## Mappen en bestanden maken
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
+1. Maak een map met de **naam** (niet een URL) van de service die je wilt ondersteunen.
+3. Maak een map met de naam `dist` in de map.
 4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
 
-## Filling in the metadata.json file
+## Het metadata.json bestand invullen
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klik [hier](/dev/presence#filling-in-the-metadatajson-file-2) om te zien hoe je het moet invullen. Je kan onder de uitleg gemakkelijk terugkomen.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Aan de slag
 
 ```javascript
 var presence = new Presence({
@@ -307,8 +307,8 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+# Het metadata.json bestand invullen
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
 {
