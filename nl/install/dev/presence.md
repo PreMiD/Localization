@@ -133,8 +133,8 @@ presence.on("UpdateData", async () => {
     Het is aanbevolen om een andere functie buiten deze event-functie te maken die de variabelen zult veranderen en al het zware werk zal doen als je informatie roept vanuit een API*/
 
     var presenceData = {
-        largeImageKey: "key", /*De sleutel (bestandsnaam) van de Grote Afbeelding op de presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*De sleutel (bestandsnaam) van de Grote Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+        smallImageKey: "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -249,8 +249,8 @@ presence.on("UpdateData", () => {
     //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+        smallImageKey: "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
