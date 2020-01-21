@@ -16,7 +16,7 @@ The installation of the application is very important as the extension can not d
 3. Open the installer.
 4. Eğer PreMiD'i ilk kez kuruyorsanız; **Windows SmartScreen**'nin bir uyarısı belirecektir. **Daha fazla bilgi**ye tıklayın ve **Yine de çalıştır** tuşuna basın. > Bunun nedeni ise Kod İmzalama Sertifikamızın (CSC) olmamasıdır. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+The application will start automatically. Sistem barınızdaki simgeyi kontrol ediniz.
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
