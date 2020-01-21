@@ -15,26 +15,26 @@ The example of that file can be found below.
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "İSİM",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "İSİM",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "SÜRÜM",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["ETİKET", "ETİKET2"],
+  "category": "KATEGORİ",
   "iframe": false
 }
 ```
@@ -150,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>etiketler</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Servisinize ait etiketleri içeren bir Array.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -160,7 +160,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">Servisinizin ait olduğu kategori.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -169,7 +169,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left"><code>iFrame</code> ayarının kullanıp kullanılmadığını belirler.</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
