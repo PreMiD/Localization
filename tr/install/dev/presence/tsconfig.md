@@ -6,9 +6,9 @@ date: 2020-01-18T20:33:00.222Z
 tags:
 ---
 
-# TypeScript Configuration
+# TypeScript Konfigürasyonu
 
-## Introduction
+## Giriş
 
 When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
