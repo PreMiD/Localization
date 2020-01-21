@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:17.062Z
 tags:
 ---
 
-PreMiD是一個簡單可自定義化的工具。可以在您的Discord個人狀態上顯示您正在播放/收聽的內容。 It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
+PreMiD是一個簡單可自定義化的工具。可以在您的Discord個人狀態上顯示您正在播放/收聽的內容。 它支持許多不同的平台并且将会支持多个用户
 
 # Why you should download PreMiD
 - We save absolutely no user data, so you don't have to worry about your privacy.
