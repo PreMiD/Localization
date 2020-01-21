@@ -9,7 +9,7 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # Yükle
-### Chrome, Edge, etc.
+### Chrome, Edge, vs.
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Chromium**.
 3. Click on **Add to Chrome**.
