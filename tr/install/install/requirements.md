@@ -12,18 +12,18 @@ tags:
 > 
 > {.is-info}
 
-PreMiD neredeyse tüm sistemlerde çalışır. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD neredeyse tüm sistemlerde çalışır. Bu, **Linux**, **macOS**, **Windows** ve bazı **Linux Modifikasyonlarında**. çalıştığı anlamına gelir.
 
-### CPU
+### İşlemci
 PreMiD, tek bir CPU çekirdeğinde mükemmel çalışır.
 
-### RAM
+### Veri deposu / RAM
 Linux'ta PreMiD'i çalıştırmak için **en az 20MB RAM** gereklidir. Windows ve macOS sistemleri için biraz daha fazla RAM gerektirebilir.
 
 ### Depolama
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+PreMiD yaklaşık **150MB** fiziksel depolama alanı kaplar. Ancak PreMiD için en az **200MB** depolama alanı ayrılması önerilir.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### İnternet Erişimi
+PreMiD'yi çalıştırmak için bir internet bağlantısı gerekir. PreMiD otamatik olarak yeni güncellemeleri, dilleri, durum güncellemelerini vs. kontrol eder. zamandan zamana.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
