@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:17.062Z
 tags:
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you are watching/listening in your Discord now playing status. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
+PreMiD是一個簡單可自定義化的工具。 It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
 
 # Why you should download PreMiD
 - We save absolutely no user data, so you don't have to worry about your privacy.
