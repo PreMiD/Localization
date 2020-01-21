@@ -46,10 +46,10 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Değişken</th>
       <th style="text-align:left">Açıklama</th>
       <th style="text-align:left">Tür</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">İsteğe bağlı</th>
     </tr>
   </thead>
   <tbody>
@@ -60,7 +60,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Yaptığınız servisin ismi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -108,7 +108,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Servisin logosunu içeren resim bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -135,7 +135,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Mağazada gözükecek arka plan resminin bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>#HEX</code> biçimindeki renk. Servisin kullandığı renkleri kullanmanızı tavsiye ediyoruz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Servisinizin ait olduğu kategori.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>iFrame</code> ayarının kullanıp kullanılmadığını belirler.</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -181,7 +181,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
   </tbody>
