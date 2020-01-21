@@ -1,12 +1,12 @@
 ---
 title: Installation
-description: How to install PreMiD
+description: PreMiD nasıl indirilir
 published: true
 date: 2020-01-18T20:32:22.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> İlerlemeden önce sisteminizin tüm gereksinimleri karşıladığından emin olun. 
 > 
 > {.is-info}
 
