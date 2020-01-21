@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Linux'ta PreMiD kurulumuna başlarken
 published: true
 date: 2020-01-18T20:32:37.753Z
 tags:
