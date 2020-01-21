@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Başlarken
+description: Kodlamaya yeni başlayanlara ufak bir tavsiye
 published: true
 date: 2020-01-18T20:32:18.836Z
 tags:
