@@ -1,7 +1,7 @@
 ---
 title: Firefox
 description: Getting started with a PreMiD installation on Firefox
-published: true
+published: 是
 date: 2020-01-18T20:32:35.718Z
 tags:
 ---
