@@ -345,10 +345,10 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Değişken</th>
       <th style="text-align:left">Açıklama</th>
       <th style="text-align:left">Tür</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">İsteğe bağlı</th>
     </tr>
   </thead>
   <tbody>
@@ -359,7 +359,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -369,7 +369,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -378,7 +378,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">Yaptığınız servisin ismi. <br>(Oluşturduğunuz klasör ile aynı isimde olmalıdır)</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -387,7 +387,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -401,7 +401,7 @@ Ayrıca isterseniz regExp kısmını da kullanabilirsiniz, ileride açıklaması
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -416,7 +416,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
         regExp'inizi <a href="https://regex101.com/">Regex101</a> sitesinde test edebilirsiniz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -425,7 +425,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -434,7 +434,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left">Servisin logosunu içeren resim bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -443,7 +443,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left">Mağazada gözükecek arka plan resminin bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -452,7 +452,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left"><code>#HEX</code> biçimindeki renk. Servisin kullandığı renkleri kullanmanızı tavsiye ediyoruz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -462,7 +462,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -471,7 +471,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left">Servisinizin ait olduğu kategori. Geçerli kategorileri görmek için <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">buraya</a> tıklayabilirsiniz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
@@ -480,7 +480,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left"><code>iFrame</code> ayarının kullanıp kullanılmadığını belirler.</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -489,7 +489,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. Daha fazla bilgi için regExp kısmına bakın.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
   </tbody>
