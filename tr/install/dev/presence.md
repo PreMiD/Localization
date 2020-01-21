@@ -34,12 +34,12 @@ Before you begin working on your presence, keep the following list in mind.
 ## Modification
 
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Böyle durumlarda aşağıdaki maddeleri bozmadan kendinize ait olmasalar bile hatalı servisleri kendiniz düzenleyebilirsiniz.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+- Servisin yapımcısının adını değiştiremezsiniz. Bu sadece servisi baştan aşağı yeniden yapma iznine sahipseniz ve yaptıysanız geçerli olabilir. Bunun yerine kendinizi bir [yardımcı](/dev/presence/metadata) olarak ekleyebilirsiniz.
+- Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir.
+- Paylaşmadan önce değişikliklerinizin çalıştığından emin olmanız gerekir. Değişikliklerinizin neye sonuç açacağını bilmeden "pull request" açmayın.
+- Servisi bir `Servis İnceleyicisi` veya ekip üyelerinin birinden izin almadıkça değiştirmeyin, yenilemeyin.
 
-# Verification
+# Onaylanma
 > When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-danger}
