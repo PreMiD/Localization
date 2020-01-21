@@ -1,6 +1,6 @@
 ---
 title: Gereksinimler
-description: PreMiD'yi kurmak için gereksinimler
+description: PreMiD'i kurmak için gereksinimler
 published: true
 date: 2020-01-18T20:32:41.677Z
 tags:
@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-PreMiD neredeyse tüm sistemlerde çalışır. Bu, **Linux**, **macOS**, **Windows** ve bazı **Linux Modifikasyonlarında**. çalıştığı anlamına gelir.
+PreMiD neredeyse tüm sistemlerde çalışır. Bu, **Linux**, **macOS**, **Windows** ve bazı **Linux Modifikasyonlarında** çalıştığı anlamına gelir.
 
 ### İşlemci
 PreMiD, tek bir CPU çekirdeğinde mükemmel çalışır.
