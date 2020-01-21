@@ -17,10 +17,10 @@ Yenileme butonunu aramak yerine klavyenizdeki Strg+R (Windows) ya da CMD+R (MacO
 Alt+F4 (Windows) ya da CMD+Q (MacOS) tuşları da işe yarar. (Tarayıcınızı tekrar başlatmanız gerekiyor.)
 
 ### Ayarlardan Discord Oyun Aktivitelerini açtığınızı doğrulayınız
-Kullanıcı Ayarları > Oyun Aktiviteleri ![gameactivity_edited.png](/gameactivity_edited.png)
+Kullanıcı Ayarları > Oyun Aktiviteleri ![oyunaktivitesi-düzenlenmiş.png](/gameactivity_edited.png)
 
 ### PreMiD'i yeniden başlatınız (Uygulama)
-![quit.png](/quit.png) Daha sonra PreMiD'i yeniden başlatınız.
+![çık.png](/quit.png) Daha sonra PreMiD'i yeniden başlatınız.
 
 ### Discord'u yeniden başlatınız
 El ile yapmak istiyorsanız klavyenizde ki Strg+R (Windows) ya da CMD+R (MacOS) tuşlarına basınız.
@@ -41,10 +41,10 @@ Bilgisayarınızı nasıl yeniden başlatacağınızı bildiğinizi umuyorum.
 Bazen dosyalarda bir sorun olabiliyor... Kurulum için öğreticiyi burdan <ahref="/install"> öğrenebilirsiniz.
 
 ### Manuel kaldırma
-Windows: C:\Users\USER\Program Files (x86)\`` konumuna girin ve PreMiD'i silin. MacOS:</code>~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+Windows: C:\Users\USER\Program Files (x86)\`` konumuna girin ve PreMiD'i silin. MacOS:~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD'i silin.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Ubuntu ve Debian tabanlı işletim sistemlerinde
+Discord'u Snapcraft üzerinden indirdiyseniz çalışmaz. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+### Bu benim sorunumu çözmedi
+Lütfen #support yerine destek açınız.
