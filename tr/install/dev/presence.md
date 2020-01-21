@@ -40,11 +40,11 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 - Servisi bir `Servis İnceleyicisi` veya ekip üyelerinin birinden izin almadıkça değiştirmeyin, yenilemeyin.
 
 # Onaylanma
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+> Yeni bir servis eklerken veya var olan bir tanesinde değişiklikler yaparken "pull request"inizin içinde ekran görüntüleri bulunmalıdır. Ancak eğer değişiklikler metadata veya tsconfig dosyalarındaysa herhangi bir ekran görüntüsüne gerek yoktur. *Ekran görüntüleriniz GitHub'ın kendisine yüklenmelidir, bunun dışında herhangi bir üçüncü parti servisleri kullanmamalısınız.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde çalıştığına emin olmak adına yapılan işlemlerden geçmelidir. Bir Pull Request açarken dikkat edilmesi gerekilenler.
 
 Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
 
