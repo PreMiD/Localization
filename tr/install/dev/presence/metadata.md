@@ -206,8 +206,8 @@ When making your presence, you must specify a category which the presence falls 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategori</th>
+      <th style="text-align:left">İsim</th>
       <th style="text-align:left">Açıklama</th>
     </tr>
   </thead>
