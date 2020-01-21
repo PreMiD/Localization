@@ -1,26 +1,26 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: Gereksinimler
+description: PreMiD'yi kurmak için gereksinimler
 published: true
 date: 2020-01-18T20:32:41.677Z
 tags:
 ---
 
-# System Requirements
+# Sistem Gereksinimleri
 
-> This data relate to the application only. 
+> Bu gereksinimler sadece uygulama ile ilgilidir. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD neredeyse tüm sistemlerde çalışır. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
-PreMiD runs perfectly fine on a single CPU core.
+PreMiD, tek bir CPU çekirdeğinde mükemmel çalışır.
 
 ### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+Linux'ta PreMiD'i çalıştırmak için **en az 20MB RAM** gereklidir. Windows ve macOS sistemleri için biraz daha fazla RAM gerektirebilir.
 
-### Storage
+### Depolama
 PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
 ### Internet Access
