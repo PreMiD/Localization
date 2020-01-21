@@ -11,15 +11,15 @@ Uygulamanın, uzantı olmadan çalışamadığı için uzantının kurulması ç
 # Yükle
 ### Chrome, Edge, vs.
 1. [Buraya](https://premid.app/downloads) tıklayarak "İndirmeler" sayfamıza gidin.
-2. Choose **Chromium**.
+2. **Chromium'u** seçin.
 3. **Chrome'a ekleyin** tuşuna basın.
 
 ### Opera
 1. **[Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)** eklentisini ekleyin.
 2. [Eklentimizi](https://premid.app/downloads) ekleyin.
 
-> Do not forget to [add the **application**](/install). 
+> Uygulamayı** eklemeyi unutmayın. </p> 
 > 
-> {.is-warning}
-
-![](https://img.icons8.com/color/2x/chrome.png) {.align-abstopright}
+> {.is-warning}</blockquote> 
+> 
+> ![](https://img.icons8.com/color/2x/chrome.png) {.align-abstopright}
