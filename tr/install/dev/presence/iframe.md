@@ -7,30 +7,30 @@ tags:
 ---
 
 # iFrame Sınıfı
-> Iframe sistemi PreMiD ile sorunludur ve beklenmedik hatalar ortaya çıkabilir, bu yüzden dikkatli kullanın. 
+> iFrame sistemi PreMiD ile sorunludur ve beklenmedik hatalar ortaya çıkabilir, bu yüzden dikkatli kullanın. 
 > 
 > {.is-danger}
 
 ## Giriş
 
-Bazı senaryolarda, servisinizin `iframe'lerin` içindeki ögelere erişmesi gerekebilir.
+Bazı senaryolarda, servisinizin `iFrame'lerin` içindeki ögelere erişmesi gerekebilir.
 
-` iframe.ts ` dosyanızın içine yazdığınız kod, sayfadaki her iframe'e eklenir.
+` iframe.ts ` dosyanızın içine yazdığınız kod, sayfadaki her iFrame'e eklenir.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Servisler gibi ` iFrame'lerin ` verileri otomatik olarak güncellemek için tasarlanmış kendi sınıflandırma sistemine sahiptir.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Kod buraya geliyor...
 });
 ```
 
 ## Methods
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Veriyi servise gönderir. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
@@ -40,7 +40,7 @@ In `iframes`, events work similarly to the way they work in the `presence` class
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Kodunuzu bu alana yazabilirsiniz...
 });
 ```
 
