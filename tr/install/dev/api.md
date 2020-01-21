@@ -13,22 +13,22 @@ tags:
 > {.is-info}
 
 ## API Sürümü Oluşturma
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> Bazı API ve Gateway sürümleri artık kullanımdan kaldırılmıştır ve gelecek nesiller için aşağıdaki tabloda kullanımdan kaldırılmış olarak etiketlenmiştir. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD, API'mizin farklı sürümlerini sunar. Sürümü aşağıdaki gibi istek yoluna ekleyerek belirtebilirsiniz:`https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## Encryption
+## Şifreleme
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
 # Dokümantasyon
-> Currently under construction! 
+> Şu anda yapım aşamasında! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
+**API sürümünü seçin:**
 - [v1 *deprecated*](/dev/api/v1)
 - [v2 *active*](/dev/api/v2)
 {.links-list}
