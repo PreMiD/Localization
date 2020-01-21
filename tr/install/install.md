@@ -10,19 +10,19 @@ tags:
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> Hem uygulamayı hem de uzantıyı indirmeniz önemlidir! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Kullandığınız işletim sistemini seçiniz:**
+- [Windows 7 ya da üstü](/install/windows)
+- [macOS 10.11 ya da üstü](/install/macos)
+- [Linux 4 ya da üstü](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Kullandığınız tarayıcıyı seçiniz:**
+- [Chromium ya da üstü](/install/chromium)
+- [Firefox v69 ya da üstü](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
