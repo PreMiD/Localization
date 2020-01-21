@@ -1,7 +1,7 @@
 ---
 title: Untitled Page
 description: A little helper for TypeScript
-published: true
+published: 是
 date: 2020-01-18T20:33:00.222Z
 tags:
 ---
