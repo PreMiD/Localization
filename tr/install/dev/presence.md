@@ -131,8 +131,8 @@ presence.on("UpdateData", async () => {
     Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır. */
 
     var presenceData = {
-        largeImageKey: "key", /* Servisin profilde gözükecek büyük resminin adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği büyük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
+        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -247,8 +247,8 @@ presence.on("UpdateData", () => {
     //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
+        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -373,9 +373,9 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>servis</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Yaptığınız servisin ismi. <br>(Oluşturduğunuz klasör ile aynı isimde olmalıdır)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -384,8 +384,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>açıklama</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -394,13 +393,11 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">Servisin URL'si.<br><b>Örneğin:</b><code>vk.com</code><br>        <b>Gireceğiniz URL servisin URL'si olmalıdır, kullanıcının sitede olup olmadığı böyle kontrol edilecektir.</b><br>URL'nin başına <b>SAKIN</b> <code>https://</code> veya <code>http://</code> eklemeyin:
+<code>https://premid.app/</code> -> <code>premid.app</code><br><b>Not</b>: Bazı URL'ler başlarında <code>www.</code> veya belli şeylerle başlar, bunları da yazmalısınız. Eklemeyi unutmazsınız herhalde.
+Aşağıdaki biçimi kullanarak birden fazla URL ekleyebilirsiniz:<br>
+<code>["URL1", "URL2", "GİBİ."]</code><br>
+Ayrıca isterseniz regExp kısmını da kullanabilirsiniz, ileride açıklaması yapılacaktır.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -410,13 +407,13 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left">Bir regex, URL'leri daha kolay yakalamakta kullanılır.<br>
+      regExp seçeneği eğer sitenin çok fazla alt domaini varsa çok kullanışlıdır.<br>
+Böyle durumlarda regExp olarak bunu kullanabilirsiniz:<br>
+<code>([a-z0-9]+)[.]domain[.]TLD"</code><br> 
+TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br> 
+<code>([a-z0-9]+)</code> a'dan z'ye, 0'dan 9'a anlamına gelir.<br>
+        regExp'inizi <a href="https://regex101.com/">Regex101</a> sitesinde test edebilirsiniz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -425,7 +422,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>sürüm</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -434,7 +431,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Servisin logosunu içeren resim bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -443,7 +440,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Mağazada gözükecek arka plan resminin bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -452,8 +449,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> biçimindeki renk. Servisin kullandığı renkleri kullanmanızı tavsiye ediyoruz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
