@@ -1,28 +1,28 @@
 ---
-title: Presence Development
+title: Servis Geliştirme
 description:
 published: true
 date: 2020-01-18T20:32:30.306Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Tüm servisler artık burada: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Kuralları
+> Tüm yönergelere uymazsanız, servisiniz veya pull request'iniz githubdan silinir. 
 > 
 > {.is-danger}
 
-## Creation
+## Oluşturma
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
+Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki listeyi aklınızda bulundurun.
+- Pull request tamamen tamamlanmış olmalı ve uygun bir dosya yapısına sahip olmalısınız. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
 - The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
+- Servisin illeagal web sitelerinde olmaması gerekir. Bunlar arasında stres faktörleri, ilaçlar, çocuk pornosu vb...
 - The presence metadata must have well written content, including valid titles, and descriptions.
 - The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
 - The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
