@@ -1,7 +1,7 @@
 ---
 title: Chromium
 description: Getting started with a PreMiD installation on Chromeium-based browsers
-published: true
+published: 是
 date: 2020-01-18T20:32:33.964Z
 tags:
 ---
