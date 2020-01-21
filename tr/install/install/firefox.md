@@ -6,10 +6,10 @@ date: 2020-01-18T20:32:35.718Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Uygulamanın, uzantı olmadan çalışamadığı için uzantının kurulması çok önemlidir.
 
 # Yükle
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. [Buraya](https://premid.app/downloads) tıklayarak "İndirmeler" sayfamıza gidin.
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
