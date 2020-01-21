@@ -31,6 +31,22 @@
     "message": "تستخدم هذا الإضافة تلقائيًا عند الحاجة، بدون إضافتها.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "بحث المرشحات",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "تظهر الأكثر استخداما أولا",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "السماح بمحتوى البالغين",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "التصنيفات",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "الكل",
     "description": "Category at the top"
@@ -66,5 +82,9 @@
   "store.userpage.error1": {
     "message": "وجود المستخدم",
     "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "لا يمكننا العثور على هذا الوجود",
+    "description": "Search result text when nothing's found"
   }
 }
