@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: PreMiD'in API'sini kullanarak kaynaklara erişin ve bir şey gerçekleştirin
 published: true
 date: 2020-01-18T20:32:27.675Z
 tags:
@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
+## API Sürümü Oluşturma
 > Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
 > 
 > {.is-danger}
