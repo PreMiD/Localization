@@ -46,41 +46,41 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 
 Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde çalıştığına emin olmak adına yapılan işlemlerden geçmelidir. Bir Pull Request açarken dikkat edilmesi gerekilenler.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Servis inceleme ekibimiz, Discord sunucumuzda özel bir role sahiptir, `Presence Verifier` rolüne sahip kullanıcılara bakarak ekip üyelerini bulabilirsiniz.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+1. Yaptığınız servisin doğruluğunu onaylamak için iki farklı inceleme ekibi üyesinin onayı gerekir. Eğer ekip üyesi sizden değişiklikler yapmanızı isterse, uğraşmalı ve yapmalısınız, yoksa mağazaya eklenmeyecek ve emekleriniz boşa gidecektir.
+2. Eğer ekip üyesi sizden değişiklik talep eder ve **7 gün içerisinde** geri dönüş yapmazsanız, açtığınız "Pull Request" kapatılacaktır.
+3. Başka kullanıcılardan yardım aldığınız ekran görüntülerini de ekleyebilirsiniz. (örn. erişemeyeceğiniz bir şeye erişebilen birini kullanmak).
+4. Eğer bir yenilik veya değişiklikler yaptıysanız, ekran görüntüleri bu değişiklikleri içermelidir, eskiden gönderilmiş ekran görüntülerini değil.
+5. Sağlanan ekran görüntüleri gerçek olmalıdır, montajlanmış değil.
+6. Katkıda bulunulan ve onaylanan tüm kodlar **Mozilla Public License 2.0** lisansı altında saklanacaktır.
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+Gereken tüm kontroller tamamlandıktan sonra servisiniz mağazaya eklenecektir.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Temel (TypeScript)
+Servisinizi ister [JavaScript](https://www.javascript.com/), isterseniz de [TypeScript](https://www.typescriptlang.org/) kullanarak yapabilirsiniz. Ancak [TypeScript](https://www.typescriptlang.org/)'in kendi içerisinde birçok kullanışlı araçları ve yararlı eklentileri olduğu için hataları bulmak bununla çok daha kolay olacaktır. Eğer sadece [JavaScript](https://www.javascript.com/) kullanmak istiyorsanız direkt olarak [Temel (JavaScript)](/dev/presence#structure-javascript) kısmına atlayabilirsiniz.
 
-## Installation
+## Yükleme
 1. [Git](https://git-scm.com/)'i yükleyin.
 2. [Node](https://nodejs.org/en/)'u yükleyin.
 3. Konsolunuzu açın ve [TypeScript](https://www.typescriptlang.org/index.html#download-links)'i yüklemek için `npm install -g typescript` yazın.
 
 ## Projeyi klonlama
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Bir konsol açın ve `git clone https://github.com/PreMiD/Presences` yazın.
 2. Bir klasör seçin.
 3. Editörünüz ile bu klasörü açın.
 
-## Creating folders and files
+## Klasörleri ve dosyaları oluşturma
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
+2. Bir `presence.ts` ve bir `tsconfg.json` dosyası oluşturun.
+3. Ana klasörün içine `dist` adında bir klasör oluşturun.
+4. `dist` klasörünün içine de bir `metadata.json` dosyası oluşturun.
 
-## Filling in the tsconfig.json file
+## tsconfig.json dosyasını doldurma
 
-Please put the following code inside of the `tsconfg.json` file.
+Aşağıda gördüğünüz kodu `tsconfg.json` dosyasının içine yapıştırın.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -89,51 +89,49 @@ Please put the following code inside of the `tsconfg.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+TypeScript konfigürasyonu hakkında daha fazla bilgi almak için [buraya](/dev/presence/tsconfig) tıklayın.
 
-## Filling in the metadata.json file
+## metadata.json dosyasını doldurma
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Nasıl dolduracağınızı öğrenmek için [buraya](/dev/presence#filling-in-the-metadatajson-file-2) tıklayın. Merak etmeyin, açıklamanın sonundaki bağlantıyı kullanarak kolayca buraya geri dönebileceksiniz.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.codes/projects/premid/mdcreator) tıklayabilirsiniz.
 
-## Getting started
+## Başlarken
 
 ```javascript
-var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+let presence = new Presence({
+    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    // Çevirileri almak için bu fonksiyonu kullanabilirsiniz
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
+    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // ekstra işlemler //
+    // API işlemleri //
+    // değişken ayarlamaları //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
+// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
 
 */
 
-
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır. */
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /* Servisin profilde gözükecek büyük resminin adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
@@ -197,23 +195,23 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 # Structure (JavaScript)
 ## Projeyi klonlama
 1. [Git](https://git-scm.com/)'i yükleyin.
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Bir konsol açın ve `git clone https://github.com/PreMiD/Presences` yazın.
 3. Bir klasör seçin.
 4. Editörünüz ile bu klasörü açın.
 
-## Creating folders and files
+## Klasörleri ve dosyaları oluşturma
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
+1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
+3. Ana klasörün içine `dist` adında bir klasör oluşturun.
 4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
 
-## Filling in the metadata.json file
+## metadata.json dosyasını doldurma
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Nasıl dolduracağınızı öğrenmek için [buraya](/dev/presence#filling-in-the-metadatajson-file-2) tıklayın. Merak etmeyin, açıklamanın sonundaki bağlantıyı kullanarak kolayca buraya geri dönebileceksiniz.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.codes/projects/premid/mdcreator) tıklayabilirsiniz.
 
-## Getting started
+## Başlarken
 
 ```javascript
 var presence = new Presence({
@@ -244,7 +242,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Burayı dikkatli kullanın.
 
     //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
@@ -307,8 +305,8 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+# metadata.json dosyasını doldurma
+Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.codes/projects/premid/mdcreator) tıklayabilirsiniz. It's still suggested to read this through so you know how it works.
 
 ```javascript
 {
