@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## Yöntemler
 
 ### `send(Object)`
 Veriyi servise gönderir. Using this method will make the presence throw a `iFrameData` event.
