@@ -1,21 +1,21 @@
 ---
-title: iFrame Class
+title: iFrame Sınıfı
 description:
 published: true
 date: 2020-01-18T20:32:55.147Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# iFrame Sınıfı
+> Iframe sistemi PreMiD ile sorunludur ve beklenmedik hatalar ortaya çıkabilir, bu yüzden dikkatli kullanın. 
 > 
 > {.is-danger}
 
-## Introduction
+## Giriş
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+Bazı senaryolarda, servisinizin `iframe'lerin` içindeki ögelere erişmesi gerekebilir.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+` iframe.ts ` dosyanızın içine yazdığınız kod, sayfadaki her iframe'e eklenir.
 
 Like presences, `iframes` have their own classes designed to automatically update data.
 
@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
 
-## Events
+## Event'ler
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
@@ -50,6 +50,6 @@ Here is a list of all of the events:
 
 This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (artık mevcut değil)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Kullanıcılar klavyelerindeki medya tuşlarına basınca devreye girecektir, daha fazla bilgi için [buraya](/dev/presence/class#mediakeys) tıklayabilirsiniz.
