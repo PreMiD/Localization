@@ -17,8 +17,8 @@ Uygulamanın, uzantı olmadan çalışamadığı için uzantının kurulması ç
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Uygulamayı** eklemeyi unutmayın. </p> 
 > 
-> {.is-warning}
-
-![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
+> {.is-warning}</blockquote> 
+> 
+> ![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
