@@ -458,7 +458,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
     <tr>
       <td style="text-align:left"><b>etiketler</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Servisinize ait etiketleri içeren bir Array.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -468,7 +468,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Servisinizin ait olduğu kategori. Geçerli kategorileri görmek için <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">buraya</a> tıklayabilirsiniz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -477,7 +477,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left"><code>iFrame</code> ayarının kullanıp kullanılmadığını belirler.</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -486,7 +486,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Daha fazla bilgi için regExp kısmına bakın.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -495,25 +495,25 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+TypeScript açıklamasına dönmek için [buraya](/dev/presence#filling-in-the-metadatajson-file) tıklayın. JavaScript açıklamasına dönmek için [buraya](/dev/presence#filling-in-the-metadatajson-file-1) tıklayın.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Servisi test etme
+1. Eklenti penceresini açın ve <kbd>Shift</kbd>'e basılı tutun.
+2. Servisler kısmının hemen sağında **Servis Yükle** yazısı çıkacaktır.
+3. <kbd>Shift</kbd>'e basılı tutarken bu yazıya tıklayın.
+4. Servisinizin /dist klasörünü bulun ve seçin.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Bazı yararlı şeyler
+## Anında yenileme
+Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız herhangi bir değişiklikte otomatik olarak yenilenecektir.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## Hata ayıklama
+- Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş demektir.
+- Eğer bunların hiçbiri işinize yaramazsa [Discord sunucumuza](https://discord.gg/PreMiD) katılıp diğer geliştiricilerden yardım talep edebilirsiniz.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Dosyaların açıklamaları
+- [Servis Sınıfı](/dev/presence/class)
+- [iFrame Sınıfı](/dev/presence/iframe)
+- [Metadata Dosyası](/dev/presence/metadata)
+- [TypeScript Konfigürasyonu](/dev/presence/tsconfig)
 {.links-list}
