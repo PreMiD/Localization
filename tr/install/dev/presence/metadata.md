@@ -74,9 +74,9 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>servis</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Yaptığınız servisin ismi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -85,8 +85,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>açıklama</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -115,7 +114,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>sürüm</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -124,7 +123,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Servisin logosunu içeren resim bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -133,7 +132,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Mağazada gözükecek arka plan resminin bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -142,8 +141,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> biçimindeki renk. Servisin kullandığı renkleri kullanmanızı tavsiye ediyoruz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
