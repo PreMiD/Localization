@@ -10,5 +10,13 @@
   "contributors.headings.translators": {
     "message": "المترجمين",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "المطور الرئيسي",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "مطور الموقع",
+    "description": "'Website Developer' title for contributors and user pages."
   }
 }
