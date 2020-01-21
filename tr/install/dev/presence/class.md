@@ -1,14 +1,14 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Servis Sınıfı
+description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Presence Class
+# Servis Sınıfı
 
-## Introduction
+## Giriş
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -157,37 +157,37 @@ This interface has following variables, all of them are optional.
 </table>
 
 ```typescript
-var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+let presenceData: presenceData = {
+    details: "Başlık",
+    state: "Açıklama",
+    largeImageKey: "buyuk_resim",
+    smallImageKey: "kucuk_resim",
+    smallImageText: "Küçük resimin üzerine neden tutuyorsun?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## Event'ler
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Event'ler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmenizi sağlar. Bir event'i dinleyebilmek için `on` metodunu kullanabilirsiniz.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Veri geldiğinde bir şeyler yap.
 });
 ```
 
-There are few events available:
+Kullanabileceğiniz birkaç event vardır:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Bu event, kullanıcı servisin çalışacağı bir siteye girdikten sonra sürekli olarak kendini tekrar edecektir.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (artık mevcut değil)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Kullanıcılar klavyelerindeki medya tuşlarına basınca devreye girecektir, daha fazla bilgi için [buraya](/dev/presence/class#mediakeys) tıklayabilirsiniz.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+iFrame'den bilgi geldiğinde bu event bilgi iletecektir.
