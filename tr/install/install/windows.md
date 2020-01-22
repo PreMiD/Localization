@@ -13,11 +13,11 @@ The installation of the application is very important as the extension can not d
 # Yükle
 1. [Buraya](https://premid.app/downloads) tıklayarak "İndirmeler" sayfamıza gidin.
 2. **Windows**'u seçin.
-3. Open the installer.
+3. Yükleyiciyi açın.
 4. Eğer PreMiD'i ilk kez kuruyorsanız; **Windows SmartScreen**'nin bir uyarısı belirecektir. **Daha fazla bilgi**ye tıklayın ve **Yine de çalıştır** tuşuna basın. > Bunun nedeni ise Kod İmzalama Sertifikamızın (CSC) olmamasıdır. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Sistem barınızdaki simgeyi kontrol ediniz.
+Uygulama otomatik olarak başlayacaktır. Sistem barınızdaki simgeyi kontrol ediniz.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Eklentiyi [eklemeyi ](/install) unutmayın.{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
