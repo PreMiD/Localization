@@ -14,9 +14,9 @@ tags:
 - :mag: [什麼是 PreMiD?](/about) PreMiD背後的工作原理以及為什麼要使用它。
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
-# Getting Started
+# 開始使用
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD 是一個快捷和容易安裝的插件。 You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
