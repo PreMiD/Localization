@@ -11,30 +11,30 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # Yükle
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Bu işletim sistemi için resmi bir yükleyici yoktur. Bu, resmi bir destek olmadığı anlamına gelir. Ancak [Discord sunucumuzdaki ](https://discord.gg/premid/) diğer Linux kullanıcılarıyla bilgi alışverişi yapabilirsiniz
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-4. Change the working directory: `cd PreMiD/src`
-5. Install the dependencies and the application: `npm install`
-6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+1. </a>NodeJS'yi</0> kurun.
+2. Bir terminal açın.
+3. Depoyu klonlayın: `git clone https://github.com/Timeraa/PreMiD.git`
+4. Çalışma dizinini değiştirin: `cd PreMiD/src`
+5. Bağımlılıkları ve uygulamayı yükleyin`npm install`
+6. Çalışma dizinini değiştirin:`cd..`
+7. Yazın: `npm run init`
+8. Uygulamayı çalıştırın: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki sembolü kontrol edin.
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> Aşağıdaki yöntemler kullanımdan kaldırılmıştır ve artık önerilmemektedir. Kendi sorumluluğunuzdadır. 
 > 
 > {.is-warning}
 
 ## Arch Linux
 If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+## Diğer dağıtımlar
+- Kurulum betiği: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin,Masaüstünüzde oluşturulan "PreMiD" kısayolunu çift tıklayın, hepsi bu kadar!
+- Eğer PreMİD'i kaldırmak istersenin bunu çalıştırabilirsiniz `wget -qO- http://bit.ly/uninstall-premid | bash` veya `curl -sL https://bit.ly/uninstall-premid | bash`.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Eklentiyi [eklemeyi ](/install) unutmayın.{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
