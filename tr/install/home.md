@@ -12,27 +12,27 @@ tags:
 
 # PreMiD Hakkında
 - :mag: [PreMİD Nedir?](/about) PreMİD'nin arkasındaki niyetler neden kullanmalısınız.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :link: [RPC nedir?](https://discordapp.com/rich-presence) Zengin Yapı ve işlevleri hakkında her şey.
 
 # Başlarken
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD kurulumu hızlı ve kolaydır. Kısa sürede hazır ve çalışır durumda olursunuz.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- [Sistem gereksinimlerini](/install/requirements) okuduğunuzdan emin olun.
+- Hızlı ve basit [kurulum klavuzunu](/install) takip edin.
+- [Sorun giderme](/troubleshooting) sık karşılaşılan sorunlar ile ilgili yol gösterir.
 
 # Geliştiriciler
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+PreMiD geliştirmeye [ başlamak](/dev) bazı şeyleri kodlamadan önceki ilk adımınızdır.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): PreMiD API'sını kullanarak kaynaklara erişin ve eylemler gerçekleştirin.
+- :wrench: [Yapı Geliştirme](/dev/presence): Durum sistemimizin nasıl kullanacağınızı öğrenin.
 
 # Katkıda Bulun
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/premid): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [Bir Hata Bildirin](https://github.com/PreMiD): Bu sinir bozucu böcekleri ezmemize yardım et.
+- :bulb: [Yeni Bir Özellik Öner](https://discord.gg/premid): Fikirlerinize ihtiyacımız var!
+- :heart: [Bağış](https://www.patreon.com/Timeraa): Küçük bir bağış yapın veya bu harika projeye sponsor olun!
+- :globe_with_meridians: [Yerler](https://translate.premid.app): Diğer kullanıcıların PreMiD'yi kendi dillerinde kullanmasına sağlayın.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
