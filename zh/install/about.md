@@ -15,4 +15,4 @@ PreMiD是一個簡單可自定義化的工具。可以在您的Discord個人狀�
 
 # 核心功能
 - 在Discord中以您當前瀏覽器的內容來顯示你的狀態。
-- Grants full control over Presences.
+- 拥有Presences的完全控制權
