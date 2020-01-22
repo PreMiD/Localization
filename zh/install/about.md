@@ -11,8 +11,8 @@ PreMiD是一個簡單可自定義化的工具。可以在您的Discord個人狀�
 # 為什麼你要選擇下載 PreMiD
 - 我們絕對不會保存用戶資料，所以你不用擔心你的私隱會被洩露
 - 我整個項目是開源的 ！ 我們希望與用戶們合作――而不是反對他們。
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- 一个叫做WatchParties的特別功能即将来到PreMiD。 通過遊戲邀請來進行同時觀看或聆聽。 由 [Discord 開發](https://discordapp.com/)。
 
-# Core features
+# 核心功能
 - Displays your current web service in Discord as your status.
 - Grants full control over Presences.
