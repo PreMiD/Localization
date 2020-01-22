@@ -1,17 +1,17 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: 首頁
+description: 官方文件
 published: 是
 date: 2020-01-18T20:32:20.879Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: 此文档还在編輯狀態中。 某些頁面可能未完成或缺失 
 > 
 > {.is-warning}
 
 # 關於 PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
+- :mag: [什麼是 PreMiD?](/about) PreMiD背後的工作原理以及為什麼要使用它。
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
 # Getting Started
