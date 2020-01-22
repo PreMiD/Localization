@@ -104,13 +104,13 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Varlığınızdaki ilk satır, genellikle başlık olarak kullanılır.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Varlığınızdaki ikinci satır.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -136,7 +136,7 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Durumun logosunu tanımlar.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
