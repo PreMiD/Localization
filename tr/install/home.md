@@ -1,12 +1,12 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Anasayfa
+description: Resmi Doküman v2
 published: true
 date: 2020-01-18T20:32:20.879Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: belgeler hala düzenleniyor! Bazı sayfalar eksik veya tam olmaya olabilir. 
 > 
 > {.is-warning}
 
