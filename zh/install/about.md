@@ -14,5 +14,5 @@ PreMiD是一個簡單可自定義化的工具。可以在您的Discord個人狀�
 - 一个叫做WatchParties的特別功能即将来到PreMiD。 通過遊戲邀請來進行同時觀看或聆聽。 由 [Discord 開發](https://discordapp.com/)。
 
 # 核心功能
-- Displays your current web service in Discord as your status.
+- 在Discord中以您當前瀏覽器的內容來顯示你的狀態。
 - Grants full control over Presences.
