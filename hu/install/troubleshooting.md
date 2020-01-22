@@ -38,7 +38,7 @@ Tilts le minden bővítményt és ellenőrizd, hogy működik-e. Ha igen, prób�
 Azt remélem azért tudod, hogy hogyan kell egy számítógépet újraindítani.
 
 ### Telepítsd újra a PreMiD alkalmazást
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+Néha a fájlokkal nincs valami rendben... Telepítési útmutatót [itt](/install) találod.
 
 ### Kézi eltávolítás
 Windows:    `C:\Users\FELHASZNÁLÓ\Program Files (x86)\`` és töröld a `PreMiD` mappát.
