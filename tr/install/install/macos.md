@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: MacOS'ta PreMiD kurulumuna başlarken
 published: true
 date: 2020-01-18T20:32:39.829Z
 tags:
@@ -17,7 +17,7 @@ The installation of the application is very important as the extension can not d
 2. **OS X'i** seçin.
 3. Gerekirse arşivi çıkartın.
 4. Yükleyiciyi açın.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+5. Eğer PreMiD'i ilk kez kuruyorsanız; **Windows SmartScreen**'nin bir uyarısı belirecektir. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
 > Bunun nedeni Kod İmzalama Sertifikamızın (CSC) olmamasıdır. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 6. İstendiğinde aç'ı seçin.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
