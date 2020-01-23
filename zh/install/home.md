@@ -16,15 +16,15 @@ tags:
 
 # 開始使用
 
-PreMiD 是一個快捷和容易安裝的插件。 You should be up and running in no time.
+PreMiD 是一個快捷和容易安裝的插件。 你可以隨時開啟並運行它
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- 請務必閱讀[系統要求](/install/requirements).
+- 請按照快捷和簡單的 [安裝教學](/install).
+- [故障排除](/troubleshooting) 將指導您解決常見問題。
 
-# 開發團隊
+# 開發人員
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+PreMiD[開發入門](/dev) 是對某些事情進行編碼之前的第一步。
 
 - :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
