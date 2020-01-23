@@ -12,7 +12,7 @@ tags:
 
 # 關於 PreMiD
 - :mag: [什麼是 PreMiD?](/about) PreMiD背後的工作原理以及為什麼要使用它。
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :link: [什麼是RPC?](https://discordapp.com/rich-presence) 所有關於豐富狀態以及它的功能。
 
 # 開始使用
 
