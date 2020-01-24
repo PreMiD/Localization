@@ -24,14 +24,14 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki listeyi aklın�
 - Görünüm, seçtiğiniz site ile ilgili **olmak zorunda**.
 - Servisin illeagal web sitelerinde olmaması gerekir. Bunlar arasında stres faktörleri, ilaçlar, çocuk pornosu vb...
 - Görünüm metadata'sı mutlaka güzelce yazılmalı. Uygun başlıklar ve açıklamalar ile birlikte.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
+- Koyduğunuz medya (ikon/thumbnail) siteyle ilgili olmalı. Ayrıca boyut ve kalite kurallarına uygun olmalı.
 - The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
 - The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
 - If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have sfw images and descriptions regardless if it is nsfw or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
+- Görünüm paylaşılmadan önce test edilmeli ki hiçbir sorun olmadığına emin olalım.
+- Görünümünüz +18 bir siteye ait olsa bile fotoğraflar ve açıklamalar aile dostu olmalı. Eğer siteniz `nsfw` sitesiyse (+18 içerikler, pornografi vs.), lütfen metadata'nıza `nsfw` tagını ekleyin.
 
-## Modification
+## Modifikasyon
 
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Böyle durumlarda aşağıdaki maddeleri bozmadan kendinize ait olmasalar bile hatalı servisleri kendiniz düzenleyebilirsiniz.
 - Servisin yapımcısının adını değiştiremezsiniz. Bu sadece servisi baştan aşağı yeniden yapma iznine sahipseniz ve yaptıysanız geçerli olabilir. Bunun yerine kendinizi bir [yardımcı](/dev/presence/metadata) olarak ekleyebilirsiniz.
@@ -150,9 +150,9 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Bunu `presence.ts` dosyanıza kopyalayıp değerleri düzenleyebilirsiniz. Değerleri ayarlama işi updateData eventi içinde olup biter.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Örnekler için 1337x veya 9GAG gibi görünümlerin kodlarını incelemenizi öneririz.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
@@ -266,9 +266,9 @@ presence.on("UpdateData", () => {
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
+You can copy this into your `presence.js` file and edit the values. Değerleri ayarlama işi updateData eventi içinde olup biter.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Örnekler için 1337x veya 9GAG gibi görünümlerin kodlarını incelemenizi öneririz.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
