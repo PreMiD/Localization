@@ -37,7 +37,7 @@ Disable all your addons and see if it works. If yes, try to enable your addons s
 ### Restarting your computer
 I hope you know how to restart a computer.
 
-### Reinstalling PreMiD
+### ติดตั้ง PreMiD อีกครั้ง
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
