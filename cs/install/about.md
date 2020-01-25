@@ -11,7 +11,7 @@ PreMiD je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, c
 # Proč byste měli stáhnout PreMiD
 - Neukládáme žádná uživatelská data, takže se nemusíte bát o své soukromí.
 - Celý náš projekt je otevřený! Chceme spolupracovat s našimi uživateli - ne proti nim.
-- Velký prvek, zvaný WatchParties, přichází do PreMiD. S pozvánkami do hry a současným sledováním a posloucháním. Powered by [Discord](https://discordapp.com/).
+- Velký prvek, zvaný WatchParties, přichází do PreMiD. S pozvánkami do hry a současným sledováním a posloucháním. Poháněno [Discordem](https://discordapp.com/).
 
 # Hlavní funkce
 - Zobrazí tvou aktuální webovou službu v Discordu jako tvůj stav.
