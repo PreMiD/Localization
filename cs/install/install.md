@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Instalace
 description: Jak nainstalovat PreMiD
 published: true
 date: 2020-01-18T20:32:22.753Z
