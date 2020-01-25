@@ -1,1 +1,38 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Pengembang Presence",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Pemeriksa Presence",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Pengembang Presence Penting",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Membuat {0} presence.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "Pengguna tersebut tidak dapat ditemukan. Coba pastikan:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "ID pengguna tersebut benar.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "Pengguna tersebut telah membuat presence dengan jumlah yang cukup dan mempunyai role \"Presence Developer\" di server Discord kami.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Periksa jika pengguna lain memiliki masalah yang sama di server Discord kami.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Jika kamu yakin bahwa ini salah, mohon hubungi kami di [our Discord server].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
