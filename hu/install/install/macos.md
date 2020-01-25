@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 # Telepítés
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
