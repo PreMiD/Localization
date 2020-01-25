@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Official Documentation for v2
+description: Document officiel pour la v2
 published: vrai
 date: 2020-01-18T20:32:20.879Z
 tags:
@@ -16,7 +16,7 @@ tags:
 
 # Commencer
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD est rapide et simple à installer. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
@@ -31,7 +31,7 @@ PreMiD is quick and easy to install. You should be up and running in no time.
 
 # Contribuer
 - :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/premid): We need your ideas!
+- :bulb: [Proposez de nouvelles fonctionnalitées](https://discord.gg/premid): Nous avons besoin de vos idées!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
 
