@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 description: Document officiel pour la v2
 published: vrai
 date: 2020-01-18T20:32:20.879Z
@@ -19,7 +19,7 @@ tags:
 PreMiD est rapide et simple à installer. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
+- Suivez le rapide et simple [guide d'installation](/install).
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
 # Développeurs
