@@ -1,12 +1,12 @@
 ---
-title: Začněme
+title: Začínáme
 description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
 date: 2020-01-18T20:32:18,836Z
 tags:
 ---
 
-> Je vyžadován editor zdrojového kódu. Doporučujeme Visual Studio kód. 
+> Je vyžadován editor zdrojového kódu. Doporučujeme Visual Studio Code. 
 > 
 > {.is-info}
 
@@ -16,7 +16,7 @@ tags:
 3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a `npm install -g typescript`).
 
 # Klonování projektu
-1. Otevřete terminál a napište `git klonovat URL`. **Nahradit URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
+1. Otevřete terminál a napište `git klonovat URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji v editoru kódu.
 
