@@ -14,7 +14,7 @@ tags:
 > 
 > {.is-warning}
 
-**Choose your operating system:**
+**เลือกระบบปฏิบัติการของคุณ:**
 - [Windows *7 or above*](/install/windows)
 - [macOS *10.11 or above*](/install/macos)
 - [Linux *4 or above*](/install/linux)
