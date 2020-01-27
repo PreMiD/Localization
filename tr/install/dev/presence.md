@@ -10,28 +10,28 @@ tags:
 > 
 > {.is-info}
 
-`2.x` sürümleri, [servis mağazası](https://premid.app/store) özelliği ile birlikte gelir. Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+`2.x` sürümleri, [servis mağazası](https://premid.app/store) özelliği ile birlikte gelir. Kullanıcılar bundan sonra kendi oluşturdukları servisleri [mağazaya](https://premid.app/store) ekletebilecek ve diğer kullanıcıların kullanımına sunabilecek.
 
-# Kuralları
-> Tüm yönergelere uymazsanız, servisiniz veya pull request'iniz githubdan silinir. 
+# Kurallar
+> Buradaki kurallara uymadığınız taktirde, servisiniz veya "pull request"iniz GitHub deposundan silinecektir. 
 > 
 > {.is-danger}
 
 ## Oluşturma
 
 Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki listeyi aklınızda bulundurun.
-- Pull request tamamen tamamlanmış olmalı ve uygun bir dosya yapısına sahip olmalısınız. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- Görünüm, seçtiğiniz site ile ilgili **olmak zorunda**.
-- Servisin illeagal web sitelerinde olmaması gerekir. Bunlar arasında stres faktörleri, ilaçlar, çocuk pornosu vb...
-- Görünüm metadata'sı mutlaka güzelce yazılmalı. Uygun başlıklar ve açıklamalar ile birlikte.
-- Koyduğunuz medya (ikon/thumbnail) siteyle ilgili olmalı. Ayrıca boyut ve kalite kurallarına uygun olmalı.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- Görünüm paylaşılmadan önce test edilmeli ki hiçbir sorun olmadığına emin olalım.
-- Görünümünüz +18 bir siteye ait olsa bile fotoğraflar ve açıklamalar aile dostu olmalı. Eğer siteniz `nsfw` sitesiyse (+18 içerikler, pornografi vs.), lütfen metadata'nıza `nsfw` tagını ekleyin.
+- "Pull request" tamamen tamamlanmış olmalı ve geçerli bir dosya yapısına sahip olmalısınız. Bu `dist` klasörü, içinde `presence.js` ve `metadata.json` dosyasına sahip olmanız gerektiği anlamına gelir.
+- Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
+- Servisiniz, yasa dışı hiçbir siteyi içermemelidir. Bunlara, uyuşturucular, çocuk pornografisi gibi siteler dahildir.
+- Servisin "metadata" dosyası, düzgün bir biçimde hazırlanmış, geçerli başlıklar ve açıklamalar içeren bir dosya olmalıdır.
+- Belirttiğiniz ikon ve küçük resim (thumbnail) servis ile alakalı olmalı ve kalitesi "okunabilir" olmalıdır.
+- Dosya sistemini, temiz, düzgün ve rastgele/gereksiz dosyalarla dolu olmamalıdır.
+- Servis güvensiz **hiçbir** amaç barındırmamalıdır. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
+- Eğer servisini yaptığınız bir site ileride güncellenirse, servisi güncelleyip tekrar çalışır hale getirmek **SİZİN** sorumluluğunuzdur. Eğer kısa süre içerisinde gerekli düzeltmeleri yapıp yayınlamazsanız, diğer servis geliştiricileri sizin kodunuzu **tekra yazma** veya düzenleme hakkına sahiptir.
+- Servis, incelemeye gönderilmeden önce test edilmeli ve her şeyin çalıştığına emin olunmalıdır.
+- Servis, uygunsuz olsa bile "uygun" resimlere ve açıklamalara sahip olmalıdır. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw`'yi eklemeniz gerekmektedir.
 
-## Modifikasyon
+## Yapılandırma
 
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Böyle durumlarda aşağıdaki maddeleri bozmadan kendinize ait olmasalar bile hatalı servisleri kendiniz düzenleyebilirsiniz.
 - Servisin yapımcısının adını değiştiremezsiniz. Bu sadece servisi baştan aşağı yeniden yapma iznine sahipseniz ve yaptıysanız geçerli olabilir. Bunun yerine kendinizi bir [yardımcı](/dev/presence/metadata) olarak ekleyebilirsiniz.
