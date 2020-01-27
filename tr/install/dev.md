@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:18.836Z
 tags:
 ---
 
-> Bir editör kullanmanız gereklidir. Biz Visual Studio Code'u öneriyoruz. 
+> Bu işlemler için bir kod editörü kullanmanız gerekecektir. Biz editör olarak Visual Studio Code'u öneriyoruz. 
 > 
 > {.is-info}
 
