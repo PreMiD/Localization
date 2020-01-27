@@ -32,7 +32,7 @@ Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol 
 Eğer Arch Linux veya Arch tabanlı bir Linux dağıtımı kullanıyorsanız [AUR](https://aur.archlinux.org/packages/premid/) depolarından `premid` paketini bulabilir ve indirebilirsiniz. En sevdiğiniz paket yöneticinizi kullanarak dosyaları bu kaynaktan aldırın!
 
 ## Diğer dağıtımlar
-- Kurulum betiği: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin,Masaüstünüzde oluşturulan "PreMiD" kısayolunu çift tıklayın, hepsi bu kadar!
+- Yüklemek için şu kodu konsolunuza girin: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin ve uygulama çekmecenizden "PreMiD"i arayın, yükleme işlemi tamamlanmış demektir.
 - Eğer PreMİD'i kaldırmak istersenin bunu çalıştırabilirsiniz `wget -qO- http://bit.ly/uninstall-premid | bash` veya `curl -sL https://bit.ly/uninstall-premid | bash`.
 
 > Eklentiyi [eklemeyi ](/install) unutmayın.{.is-warning}
