@@ -18,7 +18,7 @@ The installation of the application is very important as the extension can not d
 3. Gerekirse arşivi çıkartın.
 4. Yükleyiciyi açın.
 5. Eğer PreMiD'i ilk kez kuruyorsanız; **Windows SmartScreen**'nin bir uyarısı belirecektir. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> Bunun nedeni Kod İmzalama Sertifikamızın (CSC) olmamasıdır. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+> Bunun nedeni Kod İmzalama Sertifikamızın (CSC) olmamasıdır. Bunu karşılayabilmemiz için [bize destek olun](https://www.patreon.com/Timeraa).{.is-info}
 6. İstendiğinde aç'ı seçin.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
