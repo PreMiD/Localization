@@ -32,7 +32,7 @@ PreMiD için geliştirmeye [başlamak](/dev) bazı şeyleri kodlamadan önceki i
 # Katkıda Bulun
 - :bug: [Bir Hata Bildirin](https://github.com/PreMiD): Bu sinir bozucu böcekleri ezmemize yardım et.
 - :bulb: [Yeni Bir Özellik Öner](https://discord.gg/premid): Fikirlerinize ihtiyacımız var!
-- :heart: [Bağış](https://www.patreon.com/Timeraa): Küçük bir bağış yapın veya bu harika projeye sponsor olun!
-- :globe_with_meridians: [Yerler](https://translate.premid.app): Diğer kullanıcıların PreMiD'yi kendi dillerinde kullanmasına sağlayın.
+- :heart: [Bağış Yap](https://www.patreon.com/Timeraa): Küçük bir bağış yaparak projemize destek olun!
+- :globe_with_meridians: [Yerelleştirme](https://translate.premid.app): Diğer kullanıcıların PreMiD'i kendi dillerinde kullanmasına sağlayın.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
