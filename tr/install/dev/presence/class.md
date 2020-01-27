@@ -67,11 +67,11 @@ Menüdeki durum yazısını ayarlar.
 
 ### `getStrings(Object)`
 
-Çevirileri almanızı sağlar. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Çevirileri almanızı sağlar. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Aşağıdaki bağlantıdan eklentiden alabileceğiniz çevirileri bulabilirsiniz: `https://api.premid.app/v2/langFIle/extension/en`</code>
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// `Oynatılıyor` ve `Durduruldu` çevirilerini
+// gösterir.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,18 +80,18 @@ strings = await presence.getStrings({
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+var pageVar = getPageLetiable('degisken');
+console.log(pageVar); // Bu 'degisken' değişkeninin içeriğini konsola yazdırır.
 ```
 
-## `presenceData` Interface
+## `presenceData` Arayüzü
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+`presenceData` arayüzü, `setActivity()` metodunu kullandığınızda tavsiye edilmektedir.
 
-This interface has following variables, all of them are optional.
+Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani zorunlu değildir.
 
 <table>
   <thead>
@@ -116,10 +116,9 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Geçerli zamanı belirtir.<br>
+        Başlangıç zamanını belirterek ondan sonra ne kadar zaman geçtiğini gösterebilirsiniz.
+          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -127,16 +126,15 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Uzunluğu belirler.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+        <br>Bitiş zamanını belirlerseniz kaç <code>saat:dakika:saniye</code> kaldığını profilde gösterebilirsiniz.
+          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Durumun logosunu tanımlar.</td>
+      <td style="text-align:left">Servisin logosunu tanımlar.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
