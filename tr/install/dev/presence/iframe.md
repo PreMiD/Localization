@@ -30,13 +30,13 @@ iframe.on("UpdateData", async () => {
 ## Metodlar
 
 ### `send(Object)`
-Veriyi servis koduna gönderir. Using this method will make the presence throw a `iFrameData` event.
+Veriyi servis koduna gönderir. Bu metodu kullanmak servis kodunda bir `iFrameData` eventi çalıştıracaktır.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+`iframe`'in bağlantısını gösterir.
 
 ## Eventler/Eylemler
-In `iframes`, events work similarly to the way they work in the `presence` class.
+`iframe` elementlerinde, eventler aynı `presence` sınıfında olduğu gibi çalışır.
 
 ```typescript
 iframe.on("UpdateData", async () => {
@@ -44,11 +44,11 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Here is a list of all of the events:
+Kullanabileceğiniz eventlerin listesi:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Bu event, iframeden her bilgi geldiğinde çalışacaktır.
 
 #### `MediaKeys` (artık mevcut değil)
 
