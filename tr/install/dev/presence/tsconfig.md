@@ -8,7 +8,7 @@ tags:
 
 # TypeScript Konfigürasyonu
 
-## Giriş
+## Tanıtım
 
 Dosyaları indirip açtığınızda, klasörün içinde bir `tsconfig.js` dosyasıyla karşılacaksınız. Bu dosya, **TypeScript** derleyicisi için gerekli ayarları içeren dosyadır. Bu ayarlar daha önceden sizin için ayarlandığı için sizin herhangi bir şey hakkında endişelenmenize gerek yok.
 
