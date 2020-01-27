@@ -130,9 +130,9 @@ presence.on("UpdateData", async () => {
 
     Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır. */
 
-    var presenceData = {
-        largeImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği büyük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
-        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
+    let presenceData = {
+        largeImageKey: "anahtar", /* Servisin kullanıcının profilinde gözükeceği büyük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
+        smallImageKey: "anahtar", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
         smallImageText: "Falan da filan", // Küçük resmin üzerine gelindiğinde gözükecek yazı.
         details: "Bir sayfaya göz atıyor", // Üst kısımda gözükecek yazı.
         state: "Ana Sayfa",  // Alt kısımda gözükecek yazı.
@@ -203,7 +203,7 @@ Klasörünüzün içindeyken bir terminal açın ve kodunuzu `dist` klasörüne 
 
 1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
 3. Ana klasörün içine `dist` adında bir klasör oluşturun.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+4. `dist` klasörünün içine bir `metadata.json` ve `presence.js` dosyası oluşturun.
 
 ## metadata.json dosyasını doldurma
 
@@ -214,41 +214,39 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ## Başlarken
 
 ```javascript
-var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+let presence = new Presence({
+    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    // Çevirileri almak için bu fonksiyonu kullanabilirsiniz
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
+    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // ekstra işlemler //
+    // API işlemleri //
+    // değişken ayarlamaları //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
+// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
 
 */
 
-
 presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Burayı dikkatli kullanın.
+    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    // Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır.
 
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
-        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
+    let presenceData = {
+        largeImageKey: "anahtar", /* Servisin kullanıcının profilinde gözükeceği büyük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
+        smallImageKey: "anahtar", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
         smallImageText: "Falan da filan", // Küçük resmin üzerine gelindiğinde gözükecek yazı.
         details: "Bir sayfaya göz atıyor", // Üst kısımda gözükecek yazı.
         state: "Ana Sayfa",  // Alt kısımda gözükecek yazı.
