@@ -49,13 +49,13 @@ let presence = new Presence({
 
 Verilen verilerle profilinizi ayarlar.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Bu metodun ilk parametresi profilde göstermek istediğiniz `presenceData` verisini içeren bir obje olmalıdır.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `presenceData` içerisinde zaman verisi belirttiyseniz, her zaman `true` değerini kullanın.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Gözüken verileri temizler, tuşları yakalamayı bırakır ve menü çubuğu yazısını temizler.
 
 ### `setTrayTitle(String)`
 
