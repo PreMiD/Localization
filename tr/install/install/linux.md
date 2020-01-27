@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> İlerlemeden önce sisteminizin tüm [gereksinimleri](/install/requirements) karşıladığından emin olun.{.is-info}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
@@ -29,7 +29,7 @@ Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki sembolü kontrol
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Eğer Arch Linux veya Arch tabanlı bir Linux dağıtımı kullanıyorsanız [AUR](https://aur.archlinux.org/packages/premid/) depolarından `premid` paketini bulabilir ve indirebilirsiniz. En sevdiğiniz paket yöneticinizi kullanarak dosyaları bu kaynaktan aldırın!
 
 ## Diğer dağıtımlar
 - Kurulum betiği: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin,Masaüstünüzde oluşturulan "PreMiD" kısayolunu çift tıklayın, hepsi bu kadar!
