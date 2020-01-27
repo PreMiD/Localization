@@ -6,16 +6,16 @@ date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Antes de continuar, certifique-se de que seu sistema atenda a todos os [requisitos](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
 
 # Instalar
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Não existe instalador oficial para esse sistema operacional. Isso significa que não temos suporte oficial para ele. No entanto, você ainda pode trocar informações com outros usuários Linux em nosso [ Servidor do Discord](https://discord.gg/premid/).{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
+1. Instale o [NodeJS](https://nodejs.org/en/).
 2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
+3. Clone o repositório: `git clone https://github.com/Timeraa/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
 6. Change the working directory: `cd ..`
