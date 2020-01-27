@@ -1,25 +1,25 @@
 ---
 title: Sorun Giderme
-description: Her şey probleminizi çözmek için
+description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
 date: 2020-01-18T20:32:24.820Z
 tags:
 ---
 
-> Uzantıyı ve uygulamayı yüklediğinizden emin olun! 
+> Uzantıyı **ve** uygulamanın yüklü olduğundan emin olun! 
 > 
 > {.is-warning}
 
 ### Sayfayı yenileyin
-Yenileme butonunu aramak yerine klavyenizdeki Strg+R (Windows) ya da CMD+R (MacOS) tuşlarına basabilirsiniz.
+İster yenileme butonuna tıklayın, isterseniz de klavyenizden <kbd>CTRL+R/F5</kbd> (Windows)/<kbd>CMD+R</kbd> (macOS) tuşlarına basın.
 
-### Tarayıcıyı yeniden başlat
-Alt+F4 (Windows) ya da CMD+Q (MacOS) tuşları da işe yarar. (Tarayıcınızı tekrar başlatmanız gerekiyor.)
+### Tarayıcınızı yeniden başlatın
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ya da <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) tuşlarını kullanarak tarayıcınızı kapatın. Kapattıktan sonra elle yeniden açmanız gerekiyor elbette.
 
-### Ayarlardan Discord Oyun Aktivitelerini açtığınızı doğrulayınız
-Kullanıcı Ayarları > Oyun Aktiviteleri ![oyunaktivitesi-düzenlenmiş.png](/gameactivity_edited.png)
+### Ayarlardaki Oyun Etkinliği'nin açık olduğuna emin olun
+**Kullanıcı Ayarları** > **Oyun Etkinliği** ![oyunaktivitesi-düzenlenmiş.png](/gameactivity_edited.png)
 
-### PreMiD'i yeniden başlatınız (Uygulama)
+### PreMiD Uygulamasını Yeniden Başlatın
 ![çık.png](/quit.png) Daha sonra PreMiD'i yeniden başlatınız.
 
 ### Discord'u yeniden başlatınız
