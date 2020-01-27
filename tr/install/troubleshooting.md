@@ -17,10 +17,10 @@ tags:
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ya da <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) tuşlarını kullanarak tarayıcınızı kapatın. Kapattıktan sonra elle yeniden açmanız gerekiyor elbette.
 
 ### Ayarlardaki Oyun Etkinliği'nin açık olduğuna emin olun
-**Kullanıcı Ayarları** > **Oyun Etkinliği** ![oyunaktivitesi-düzenlenmiş.png](/gameactivity_edited.png)
+**Kullanıcı Ayarları** > **Oyun Etkinliği** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### PreMiD Uygulamasını Yeniden Başlatın
-![çık.png](/quit.png) PreMiD uygulamasını yeniden başlatmak bazen sorununuzu çözebilir.
+![quit.png](/quit.png) PreMiD uygulamasını yeniden başlatmak bazen sorununuzu çözebilir.
 
 ### Discord'u yeniden başlatın
 İsterseniz el ile yeniden başlatın, isterseniz de klavyenizi kullanarak şu tuş kombinasyonlarını uygulayın: <kbd>CTRL+R</kbd> (Windows) / <kbd>CMD+R</kbd> (MacOS)
@@ -38,13 +38,13 @@ Tüm eklentileri devre dışı bırakıp eklentimizin çalışıp çalışmadı�
 Bir bilgisayarın nasıl yeniden başlatılacağını bildiğinizi umuyoruz.
 
 ### PreMiD'i yeniden yükleyin
-Bazen dosyalarda bir sorun olabiliyor... Kurulum için öğreticiyi burdan <ahref="/install"> öğrenebilirsiniz.
+Bazen dosyalarda bir sorun olabiliyor... Kurulum için gerekli adımları [buradan](/install) öğrenebilirsiniz.
 
 ### Manuel kaldırma
-Windows: C:\Users\USER\Program Files (x86)\`` konumuna girin ve PreMiD'i silin. MacOS:~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD'i silin.
+Windows:   `C:\Users\USER\Program Files (x86)\`` konumuna girin ve PreMiD klasörünü silin`. MacOS: `~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD klasörünü silin`.
 
-### Ubuntu ve Debian tabanlı işletim sistemlerinde
-Discord'u Snapcraft üzerinden indirdiyseniz çalışmaz. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Ubuntu/Debian tabanlı dağıtımlarda
+Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmayacaktır. Bunu çözebilmek için `sudo snap remove discord` kodu ile Snapcraft üzerinden yüklenen Discord'u silmeli ve [buradaki](https://discordapp.com/api/download?platform=linux) (veya [buradaki](https://discordapp.com/api/canary/download?platform=linux)) adresten Discord'un Linux dosyasını indirmeli, ardından yükleme konumuna (bu genellikle `$HOME/Downloads` olur) girerek `sudo dpkg -i discord-*.deb` kodu ile sisteminize yüklemelisiniz.
 
-### Bu benim sorunumu çözmedi
-Lütfen #support yerine destek açınız.
+### Bunların hiçbiri sorununuzu çözmediyse
+[#support](https://discord.gg/PreMiD) kanalından bir destek kaydı oluşturmayı deneyin.
