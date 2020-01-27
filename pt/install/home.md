@@ -6,27 +6,27 @@ date: 2020-01-18T20:32:20.879Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: A documentação ainda está sendo editada! Algumas páginas podem estar incompletas or faltando. 
 > 
 > {.is-warning}
 
 # Sobre o PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :mag: [O que é PreMiD?](/about) Intenções por trás do PreMiD e porquê você deveria usá-lo.
+- :link:[O que é RPC?](https://discordapp.com/rich-presence) Tudo sobre Rich Presence e suas funções.
 
 # Primeiros Passos
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD é rápido e fácil de instalar. You should be up and running in no time.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- Certifique-se que você leu os [requisitos de sistema](/install/requirements).
+- Siga o rápido e simples [guia de instalação](/install).
+- A [Solução de Problemas](/troubleshooting) te mostra as soluções para os problemas comuns.
 
 # Desenvolvedores
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Acesse recursos e performe ações usando a API do PreMiD.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # Contribua
