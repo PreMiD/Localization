@@ -169,7 +169,7 @@ Eğer aradığınız veriyi bu yöntemlerle bulamıyorsanız, aşağıdaki adım
 2. "metadata" dosyasında `iFrame` kısmını `true` olarak ayarlayın.
 3. iFrame dosyanızı şu şekilde dolurun:
 ```javascript
-var iframe = new iFrame();
+let iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
   Gereken tüm veriyi aldırın ve aşağıdaki yöntemle
@@ -264,7 +264,7 @@ presence.on("UpdateData", () => {
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Değerleri ayarlama işlemi updateData eventi içinde gerçekleşir.
+Bunu `presence.js` dosyanıza kopyalayıp değerleri düzenleyebilirsiniz. Değerleri ayarlama işlemi updateData eventi içinde gerçekleşir.
 
 Örnekler için 1337x veya 9GAG gibi servislerin kodlarını incelemenizi öneririz.
 
@@ -279,20 +279,20 @@ Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 3. Konsoldan devam etmek için konsola `document.querySelectorAll("iframe")` yazabilir ve sayfadaki iframe kaynaklarını görebilirsiniz.
 
 Eğer aradığınız veriyi bu yöntemlerle bulamıyorsanız, aşağıdaki adımları takip edebilirsiniz:
-1. Create a `iframe.js` file.
+1. Bir `iframe.js` dosyası oluşturun.
 2. "metadata" dosyasında `iFrame` kısmını `true` olarak ayarlayın.
 3. iFrame dosyanızı şu şekilde dolurun:
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
-    /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
-    */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
-    });
+let iframe = new iFrame();
+iframe.on("UpdateData", async () => {
+  /*
+  Gereken tüm veriyi aldırın ve aşağıdaki yöntemle
+  ana koda gönderin.
+  */
+  iframe.send({ // veriyi gönderme
+    video: video,
+    time: video.duration
+  }); 
 });
 ```
 4. Yukarıdaki gibi gönderilen bir veriyi servis kodunun içinde alabilmek için aşağıdaki yöntemi kullanın.
@@ -304,74 +304,73 @@ presence.on("iFrameData", data => {
 ```
 **Not:** Bu kısım, kendi başına bir event olduğu için `updateData` eventinin dışında yapılmalıdır.
 # metadata.json dosyasını doldurma
-Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.codes/projects/premid/mdcreator) tıklayabilirsiniz. It's still suggested to read this through so you know how it works.
+Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.codes/projects/premid/mdcreator) tıklayabilirsiniz. Eğer isterseniz bu kısmı okuyarak bu dosyanın nasıl çalıştığını anlayabilirsiniz.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS ADI",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
-  "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "url": "SİTE LİNKİ",
+  "version": "SÜRÜM",
+  "logo": "LOGO BAĞLANTISI",
+  "thumbnail": "KÜÇÜK RESİM BAĞLANTISI",
   "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["KATEGORİ", "ETİKET"],
+  "category": "KATEGORİ",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `katkıda Bulunanlar`
+Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bundan sonra belirtilen verileri düzenlemeniz gerekecektir. Eğer aşağıda "opsiyonel" olarak belirtilen kısımları kullanmayacaksanız lütfen bu alanları `metadata.json` dosyanızdan kaldırın.
+- `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**Bu veriler hakkında daha fazla bilgi istiyorsanız:**
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Değişken</th>
+      <th style="text-align:left">Anahtar</th>
       <th style="text-align:left">Açıklama</th>
       <th style="text-align:left">Tür</th>
-      <th style="text-align:left">İsteğe bağlı</th>
+      <th style="text-align:left">Opsiyonel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>yapımcı</b>
+      <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Servisi oluşturan kişinin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object verisi biçiminde olmalıdır. İsim Discord etiketiniz (#0000) olmadan yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>katkıda Bulunanlar</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Katkıda bulunan kişilerin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object verisi biçiminde olmalıdır. İsim Discord etiketiniz (#0000) olmadan yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>servis</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Yaptığınız servisin ismi. <br>(Oluşturduğunuz klasör ile aynı isimde olmalıdır)</td>
       <td style="text-align:left"><code>String</code>
@@ -380,7 +379,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>açıklama</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
@@ -418,7 +417,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sürüm</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
@@ -454,7 +453,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiketler</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Servisinize ait etiketleri içeren bir Array.</td>
       <td
@@ -484,7 +483,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Daha fazla bilgi için regExp kısmına bakın.</td>
+      <td style="text-align:left">Iframe verisinin alınacağı kaynakları yakalayacak regex verisi. Daha fazla bilgi için regExp kısmına bakın.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
@@ -499,14 +498,14 @@ TypeScript açıklamasına dönmek için [buraya](/dev/presence#filling-in-the-m
 1. Eklenti penceresini açın ve <kbd>Shift</kbd>'e basılı tutun.
 2. Servisler kısmının hemen sağında **Servis Yükle** yazısı çıkacaktır.
 3. <kbd>Shift</kbd>'e basılı tutarken bu yazıya tıklayın.
-4. Servisinizin /dist klasörünü bulun ve seçin.
+4. Servisinizin dist klasörünü bulun ve seçin.
 
 # Bazı yararlı şeyler
 ## Anında yenileme
 Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız herhangi bir değişiklikte otomatik olarak yenilenecektir.
 
 ## Hata ayıklama
-- Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş demektir.
+- Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş veya hiç bu satıra ulaşamamış demektir.
 - Eğer bunların hiçbiri işinize yaramazsa [Discord sunucumuza](https://discord.gg/PreMiD) katılıp diğer geliştiricilerden yardım talep edebilirsiniz.
 
 # Dosyaların açıklamaları
