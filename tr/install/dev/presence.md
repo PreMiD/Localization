@@ -6,11 +6,11 @@ date: 2020-01-18T20:32:30.306Z
 tags:
 ---
 
-> Tüm servisler artık burada: https://github.com/PreMiD/Presences 
+> Tüm servisler artık [https://github.com/PreMiD/Presences](https://github.com/PreMiD/Presences) adresinde saklanmaktadır. 
 > 
 > {.is-info}
 
-Versiyon `2.x` [görünüm mağazasını](https://premid.app/store) tanıtır. Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+`2.x` sürümleri, [servis mağazası](https://premid.app/store) özelliği ile birlikte gelir. Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
 # Kuralları
 > Tüm yönergelere uymazsanız, servisiniz veya pull request'iniz githubdan silinir. 
