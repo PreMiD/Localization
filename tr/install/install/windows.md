@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:44.173Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> İlerlemeden önce sisteminizin tüm [gereksinimleri](/install/requirements) karşıladığından emin olun.{.is-info}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
@@ -14,7 +14,7 @@ The installation of the application is very important as the extension can not d
 1. [Buraya](https://premid.app/downloads) tıklayarak "İndirmeler" sayfamıza gidin.
 2. **Windows**'u seçin.
 3. Yükleyiciyi açın.
-4. Eğer PreMiD'i ilk kez kuruyorsanız; **Windows SmartScreen**'nin bir uyarısı belirecektir. **Daha fazla bilgi**ye tıklayın ve **Yine de çalıştır** tuşuna basın. > Bunun nedeni ise Kod İmzalama Sertifikamızın (CSC) olmamasıdır. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. Eğer PreMiD'i ilk kez kuruyorsanız; **Windows SmartScreen**'nin bir uyarısı belirecektir. **Daha fazla bilgi**ye tıklayın ve **Yine de çalıştır** tuşuna basın. > Bunun nedeni ise Kod İmzalama Sertifikamızın (CSC) olmamasıdır. Bunu karşılayabilmemiz için [bize destek olun](https://www.patreon.com/Timeraa).{.is-info}
 
 Uygulama otomatik olarak başlayacaktır. Sistem barınızdaki simgeyi kontrol ediniz.
 
