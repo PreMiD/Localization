@@ -10,10 +10,10 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
 # Yükle
-1. [Buraya](https://premid.app/downloads) tıklayarak "İndirmeler" sayfamıza gidin.
+1. [Buraya](https://premid.app/downloads) tıklayarak "İndir" sayfamıza gidin.
 2. **OS X'i** seçin.
 3. Gerekirse arşivi çıkartın.
 4. Yükleyiciyi açın.
@@ -22,7 +22,7 @@ The installation of the application is very important as the extension can not d
 6. İstendiğinde aç'ı seçin.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki sembolü kontrol edin.
+Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol edin.
 
 > [Eklentiyi eklemeyi](/install) unutmayın. 
 > 
