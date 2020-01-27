@@ -20,22 +20,22 @@ tags:
 **Kullanıcı Ayarları** > **Oyun Etkinliği** ![oyunaktivitesi-düzenlenmiş.png](/gameactivity_edited.png)
 
 ### PreMiD Uygulamasını Yeniden Başlatın
-![çık.png](/quit.png) Daha sonra PreMiD'i yeniden başlatınız.
+![çık.png](/quit.png) PreMiD uygulamasını yeniden başlatmak bazen sorununuzu çözebilir.
 
-### Discord'u yeniden başlatınız
-El ile yapmak istiyorsanız klavyenizde ki Strg+R (Windows) ya da CMD+R (MacOS) tuşlarına basınız.
+### Discord'u yeniden başlatın
+İsterseniz el ile yeniden başlatın, isterseniz de klavyenizi kullanarak şu tuş kombinasyonlarını uygulayın: <kbd>CTRL+R</kbd> (Windows) / <kbd>CMD+R</kbd> (MacOS)
 
-### Discord'un yönetici olarak çalıştırılmadığından emin olunuz
-Çok önemli. Eğer Discord'u yönetici olarak çalıştırırsanız Discord RPC çalışmayacaktır.
+### Discord'un yönetici olarak çalışmadığından emin olun
+Bu işlem çok önemlidir. Eğer Discord'u yönetici olarak çalıştırırsanız Discord RPC çalışmayacaktır.
 
-### Bilgisayarınızda çalışan bir antivirüs ya da firewall varsa kontrol ediniz
-Bazı antivirüs ya da firewall programları İnternete bağlanmaya çalışan ya da serverleri yöneten bir uygulamayı engellemeye çalışabilir. Uygulamamız ve uzantımız arasında veri almak için ve aktarmak için yerel bir sunucu kullanıyoruz bu nedenle uygulamanın veri aktarma özelliğini engellediğiniz için PreMiD'i kullanamayacaksınız.
+### Bilgisayarınızda çalışan bir antivirüs programı veya güvenlik duvarı olup olmadığını kontrol edin
+Bazen antivirüs programlarınız veya güvenlik duvarınız yerel ağınızda sunucu oluşturan/yöneten veya sadece interneti kullanmaya çalışan uygulamaları kısıtlayabilir. Uygulamamız ve eklentimiz arasında veri alışverişi yapabilmek için yerel ağınızda oluşturulmuş bir sunucu kullanmamız gerekiyor, eğer bu yetkiyi uygulamaya vermezseniz, PreMiD'i kullanamazsınız.
 
-### Eklentilerinizi devre dışı bırakınız
-Tüm eklentilerinizi devre dışı bırakınız ve çalışıp çalışmadığını görünüz. Eğer evet ise eklentilerinizi adım adım açın ve bize hangi eklentinin PreMiD'i bozduğunu söyleyiniz.
+### Eklentilerinizi devre dışı bırakın
+Tüm eklentileri devre dışı bırakıp eklentimizin çalışıp çalışmadığını kontrol edin. Eğer çalışıyorsa, birer birer devre dışı bıraktığınız eklentileri tekrar aktifleştirin ve hangisinin PreMiD'i bozduğunu bulmaya çalışın.
 
 ### Bilgisayarınızı yeniden başlatın
-Bilgisayarınızı nasıl yeniden başlatacağınızı bildiğinizi umuyorum.
+Bir bilgisayarın nasıl yeniden başlatılacağını bildiğinizi umuyoruz.
 
 ### PreMiD'i yeniden yükleyin
 Bazen dosyalarda bir sorun olabiliyor... Kurulum için öğreticiyi burdan <ahref="/install"> öğrenebilirsiniz.
