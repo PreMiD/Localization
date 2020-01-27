@@ -10,13 +10,13 @@ tags:
 
 ## Giriş
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. Bu kısım sizin için zaten ayarlandığı için endişe etmenize gerek yok.
+Dosyaları indirip açtığınızda, klasörün içinde bir `tsconfig.js` dosyasıyla karşılacaksınız. Bu dosya, **TypeScript** derleyicisi için gerekli ayarları içeren dosyadır. Bu ayarlar daha önceden sizin için ayarlandığı için sizin herhangi bir şey hakkında endişelenmenize gerek yok.
 
-Bilmeniz gereken bazı ayarları açıklayacağız.
+Yine de, emin olmak için burada belirtilen anahtarları ve özellikleri açıklayacağız.
 
 ## Kök Yapılandırması
 
-Kök yapılandırmasında böyle bir şeyle karşılaşacaksınız.
+Kök yapılandırma (`tsconfig.js`) dosyasında böyle bir şeyle karşılaşacaksınız.
 
 ```javascript
 {
@@ -29,9 +29,9 @@ Kök yapılandırmasında böyle bir şeyle karşılaşacaksınız.
 }
 ```
 
-| Property            | Açıklama                                                                                                              |
+| Özellik             | Açıklama                                                                                                              |
 |:------------------- |:--------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                                           |
+| **compilerOptions** | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                    |
 | module              | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz. |
 | target              | Derleyeceğiniz JavaScript sürümünü belirler.                                                                          |
 | removeComments      | Derlenmiş dosyalardan yorumları kaldırır.                                                                             |
@@ -48,8 +48,8 @@ Kök yapılandırmasında böyle bir şeyle karşılaşacaksınız.
 }
 ```
 
-| Property            | Açıklama                                                                                                    |
+| Özellik             | Açıklama                                                                                                    |
 |:------------------- |:----------------------------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                                              |
+| **extends**         | `tsconfig` temelini "genişletmek" için kullanılır.                                                          |
 | **compilerOptions** | Daha fazla bilgi için [**Kök Yapılandırması**](/dev/presence/tsconfig#root-configuration) kısmına göz atın. |
 | outDir              | Derlenmiş dosyaların kopyalanacağı yeri belirler.                                                           |
