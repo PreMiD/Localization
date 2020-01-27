@@ -1,22 +1,22 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: ابدء
+description: نصيحة صغيرة لأولئك الذين حصلوا على الترميز مؤخرا
 published: true
-date: 2020-01-18T20:32:18.836Z
+date: ٢٠٢٠-٠١-١٨تء٠:٣٢:٥٠.٧١٤ز
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> مطلوب محرر كود المصدر. We recommend Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+# تثبيت متطلبات سيكراجي
+1. قم بتثبيت [ Git ](https://git-scm.com/).
+2. تثبيت [ Node ](https://nodejs.org/en/) (يأتي مع [ npm ](https://www.npmjs.com/)).
+3. قم بتثبيت [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (افتح محطة و ` npm install -g typescript `).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+# استنساخ المشروع
+1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Choose a folder of your choice.
 3. Open it in you code editor.
 
