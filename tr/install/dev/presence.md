@@ -509,7 +509,7 @@ Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız her
 - Eğer bunların hiçbiri işinize yaramazsa [Discord sunucumuza](https://discord.gg/PreMiD) katılıp diğer geliştiricilerden yardım talep edebilirsiniz.
 
 # Dosyaların açıklamaları
-- [Servis Sınıfı](/dev/presence/class)
+- [Presence Sınıfı](/dev/presence/class)
 - [iFrame Sınıfı](/dev/presence/iframe)
 - [Metadata Dosyası](/dev/presence/metadata)
 - [TypeScript Konfigürasyonu](/dev/presence/tsconfig)
