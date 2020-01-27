@@ -1,5 +1,5 @@
 ---
-title: Bilinmeyen Sayfa
+title: Başlıksız Sayfa
 description: TypeScript için ufak bir yardımcı
 published: true
 date: 2020-01-18T20:33:00.222Z
