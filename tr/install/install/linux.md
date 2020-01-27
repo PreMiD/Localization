@@ -8,23 +8,23 @@ tags:
 
 > İlerlemeden önce sisteminizin tüm [gereksinimleri](/install/requirements) karşıladığından emin olun.{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
-# Yükle
+# Yükleme
 > Bu işletim sistemi için resmi bir yükleyici yoktur. Bu, resmi bir destek olmadığı anlamına gelir. Ancak [Discord sunucumuzdaki ](https://discord.gg/premid/) diğer Linux kullanıcılarıyla bilgi alışverişi yapabilirsiniz
 
-1. </a>NodeJS'yi</0> kurun.
+1. [NodeJS](https://nodejs.org/en/)'yi kurun.
 2. Bir terminal açın.
-3. Depoyu klonlayın: `git clone https://github.com/Timeraa/PreMiD.git`
-4. Çalışma dizinini değiştirin: `cd PreMiD/src`
-5. Bağımlılıkları ve uygulamayı yükleyin`npm install`
-6. Çalışma dizinini değiştirin:`cd..`
-7. Yazın: `npm run init`
+3. Depoyu klonlayın: `git clone https://github.com/PreMiD/PreMiD.git`
+4. Klonlanan klasöre girin: `cd PreMiD/src`
+5. Bağımlılıkları ve uygulamayı yükleyin: `npm install`
+6. Bir üst klasöre dönün: `cd ..`
+7. Şunu yazın: `npm run init`
 8. Uygulamayı çalıştırın: `npm start`
 
-Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki sembolü kontrol edin.
+Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol edin.
 
-> Aşağıdaki yöntemler kullanımdan kaldırılmıştır ve artık önerilmemektedir. Kendi sorumluluğunuzdadır. 
+> Aşağıdaki yöntemler kullanımdan kaldırılmıştır ve artık önerilmemektedir. Bunları kullanmak tamamen sizin kendi sorumluluğunuzdadır. 
 > 
 > {.is-warning}
 
