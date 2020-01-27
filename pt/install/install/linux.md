@@ -22,14 +22,14 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 7. Type: `npm run init`
 8. Start the application: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> Os seguintes métodos estão depreciados e não são mais recomendados. Use por sua conta e risco. 
 > 
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Se você está no Arch Linux ou em uma distribuição baseada em Arch, O PreMiD está disponível no [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) sob `premid-git`. Use o seu gerenciador de pacotes favorito para pegá-lo de lá!
 
 ## Other distributions
 - Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
