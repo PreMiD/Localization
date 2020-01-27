@@ -12,8 +12,8 @@ tags:
 > 
 > {.is-info}
 
-## API Sürümü Oluşturma
-> Bazı API ve Gateway sürümleri artık kullanımdan kaldırılmıştır ve gelecek nesiller için aşağıdaki tabloda kullanımdan kaldırılmış olarak etiketlenmiştir. 
+## API Sürümleri
+> Bazı API sürümleri yürürlükten kaldırılmıştır ve aşağıdaki tabloda belirtilmiştir. 
 > 
 > {.is-danger}
 
