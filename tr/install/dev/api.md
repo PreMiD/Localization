@@ -17,11 +17,11 @@ tags:
 > 
 > {.is-danger}
 
-PreMiD, API'mizin farklı sürümlerini sunar. Sürümü aşağıdaki gibi istek yoluna ekleyerek belirtebilirsiniz:`https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD, API'mizin farklı sürümlerini sunar. Sürümü aşağıdaki gibi istek yoluna ekleyerek belirtebilirsiniz: `https://api.premid.app/v{sürüm_numarası}`. Geçersiz bir sürüm numarası girildiğinde, istekler otomatik olarak varsayılan sürüme yönlendirilerek işlenir.
 
 ## Şifreleme
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+PreMiD API'de bulunan HTTP ve buna ait tüm protokoller TLS 1.2 şifreleme sistemiyle korunur.
 
 # Dokümantasyon
 > Şu anda yapım aşamasında! 
