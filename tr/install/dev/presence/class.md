@@ -59,15 +59,15 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Bu yöntem sadece MacOS üzerinde çalışmaktadır. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Menüdeki durum yazısını ayarlar.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Çevirileri almanızı sağlar. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
@@ -78,7 +78,7 @@ strings = await presence.getStrings({
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 Returns a variable from the website if it exists.
 
@@ -126,7 +126,7 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
+      <td style="text-align:left">Uzunluğu belirler.
         <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
