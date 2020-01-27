@@ -132,33 +132,33 @@ presence.on("UpdateData", async () => {
 
     var presenceData = {
         largeImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği büyük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
-        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
+        smallImageText: "Falan da filan", // Küçük resmin üzerine gelindiğinde gözükecek yazı.
+        details: "Bir sayfaya göz atıyor", // Üst kısımda gözükecek yazı.
+        state: "Ana Sayfa",  // Alt kısımda gözükecek yazı.
+        startTimestamp: 1577232000, // Unix Epoch biçiminde yazılmış zaman verisi
+        endTimestamp: 1577151472000 // Eğer "kaldı" biçiminde bir veri göstermek istiyorsanız, bitiş zamanını da aynı biçimde burada belirtmelisiniz.
+    }; /* Eğer isterseniz burada sadece belli bir şey belirtebilir veya hiç belirtmeden daha sonra bunları belirtebilirsiniz. Bunun için de presenceData.state = "Ana Sayfa"; yapabilirsiniz. */
 
     if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+        // Bu kısım presenceData objesinde "details" anahtarı bulunmadığı zaman devreye girecektir.
+        presence.setTrayTitle(); // Mac kullanıcıları için menü yazısını temizler.
+        presence.setActivity(); // Bu şekilde fonksiyona bir veri girmeden girerseniz, büyük resim Discord uygulamasının simgesine dönüşecek ve başka bir bilgi gösterilmeyecektir.
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        // Yukarıdaki durumun dışında herhangi bir şey gerçekleşirse burası devreye girecektir.
+        presence.setActivity(presenceData); // Aktiviteyi belirtilen verilerle ayarlar.
     }
 });
 ```
-Bunu `presence.ts` dosyanıza kopyalayıp değerleri düzenleyebilirsiniz. Değerleri ayarlama işi updateData eventi içinde olup biter.
+Bunu `presence.ts` dosyanıza kopyalayıp değerleri düzenleyebilirsiniz. Değerleri ayarlama işlemi updateData eventi içinde gerçekleşir.
 
-Örnekler için 1337x veya 9GAG gibi görünümlerin kodlarını incelemenizi öneririz.
+Örnekler için 1337x veya 9GAG gibi servislerin kodlarını incelemenizi öneririz.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Daha fazla bilgi için lütfen Presence sınıfının tanımını [buraya](/dev/presence/class) tıklayarak okuyun.
 
 ## İstediğiniz veriyi alamıyor musunuz?!
 
-Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. Bu HTML etiketleri videolar gibi bir çok kaynak bulundurabilir. Ancak  her zaman aynı sonucu vermez. Bunların bazıları gizli veya hiç kullanılmıyor bile olabilir. İşlemlerinizi yapmadan önce istediğiniz veriyi alıp alamadığınızı kontrol edin, her şey bittikten sonra elinizde bir şey olmazsa boşuna uğraşmış olursunuz.
 
 1. Check for them by browser console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
@@ -248,33 +248,33 @@ presence.on("UpdateData", () => {
 
     var presenceData = {
         largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
-        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        smallImageKey: "key", /* Servisin kullanıcının profilinde gözükeceği küçük resminin adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
+        smallImageText: "Falan da filan", // Küçük resmin üzerine gelindiğinde gözükecek yazı.
+        details: "Bir sayfaya göz atıyor", // Üst kısımda gözükecek yazı.
+        state: "Ana Sayfa",  // Alt kısımda gözükecek yazı.
+        startTimestamp: 1577232000, // Unix Epoch biçiminde yazılmış zaman verisi
+        endTimestamp: 1577151472000 // Eğer "kaldı" biçiminde bir veri göstermek istiyorsanız, bitiş zamanını da aynı biçimde burada belirtmelisiniz.
+    }; /* Eğer isterseniz burada sadece belli bir şey belirtebilir veya hiç belirtmeden daha sonra bunları belirtebilirsiniz. Bunun için de presenceData.state = "Ana Sayfa"; yapabilirsiniz. */
 
     if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+        // Bu kısım presenceData objesinde "details" anahtarı bulunmadığı zaman devreye girecektir.
+        presence.setTrayTitle(); // Mac kullanıcıları için menü yazısını temizler.
+        presence.setActivity(); // Bu şekilde fonksiyona bir veri girmeden girerseniz, büyük resim Discord uygulamasının simgesine dönüşecek ve başka bir bilgi gösterilmeyecektir.
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        // Yukarıdaki durumun dışında herhangi bir şey gerçekleşirse burası devreye girecektir.
+        presence.setActivity(presenceData); // Aktiviteyi belirtilen verilerle ayarlar.
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Değerleri ayarlama işi updateData eventi içinde olup biter.
+You can copy this into your `presence.js` file and edit the values. Değerleri ayarlama işlemi updateData eventi içinde gerçekleşir.
 
-Örnekler için 1337x veya 9GAG gibi görünümlerin kodlarını incelemenizi öneririz.
+Örnekler için 1337x veya 9GAG gibi servislerin kodlarını incelemenizi öneririz.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Daha fazla bilgi için lütfen Presence sınıfının tanımını [buraya](/dev/presence/class) tıklayarak okuyun.
 
 ## İstediğiniz veriyi alamıyor musunuz?!
 
-Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. Bu HTML etiketleri videolar gibi bir çok kaynak bulundurabilir. Ancak  her zaman aynı sonucu vermez. Bunların bazıları gizli veya hiç kullanılmıyor bile olabilir. İşlemlerinizi yapmadan önce istediğiniz veriyi alıp alamadığınızı kontrol edin, her şey bittikten sonra elinizde bir şey olmazsa boşuna uğraşmış olursunuz.
 
 1. Check for them by browser console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
