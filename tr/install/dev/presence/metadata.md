@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Servis hakkında basit bilgileri bulunduran dosya
 published: true
 date: 2020-01-18T20:32:58.015Z
 tags:
