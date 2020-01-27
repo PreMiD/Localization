@@ -1,12 +1,12 @@
 ---
-title: Servis Sınıfı
+title: Presence Sınıfı
 description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Servis Sınıfı
+# Presence Sınıfı
 
 ## Giriş
 
