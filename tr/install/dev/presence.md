@@ -19,7 +19,7 @@ tags:
 
 ## Oluşturma
 
-Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki listeyi aklınızda bulundurun.
+Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri inceleyin ve aklınızda bulundurun.
 - "Pull request" tamamen tamamlanmış olmalı ve geçerli bir dosya yapısına sahip olmalısınız. Bu `dist` klasörü, içinde `presence.js` ve `metadata.json` dosyasına sahip olmanız gerektiği anlamına gelir.
 - Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
 - Servisiniz, yasa dışı hiçbir siteyi içermemelidir. Bunlara, uyuşturucular, çocuk pornografisi gibi siteler dahildir.
@@ -44,7 +44,7 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 > 
 > {.is-danger}
 
-Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde çalıştığına emin olmak adına yapılan işlemlerden geçmelidir. Bir Pull Request açarken dikkat edilmesi gerekilenler.
+Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde çalıştığına emin olmak adına yapılan işlemlerden geçmelidir. Aşağıdan bir "pull request" açarken dikkat etmeniz gereken maddeleri bulabilirsiniz.
 
 Servis inceleme ekibimiz, Discord sunucumuzda özel bir role sahiptir, `Presence Verifier` rolüne sahip kullanıcılara bakarak ekip üyelerini bulabilirsiniz.
 
@@ -160,37 +160,37 @@ Daha fazla bilgi için lütfen Presence sınıfının tanımını [buraya](/dev/
 
 Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. Bu HTML etiketleri videolar gibi bir çok kaynak bulundurabilir. Ancak  her zaman aynı sonucu vermez. Bunların bazıları gizli veya hiç kullanılmıyor bile olabilir. İşlemlerinizi yapmadan önce istediğiniz veriyi alıp alamadığınızı kontrol edin, her şey bittikten sonra elinizde bir şey olmazsa boşuna uğraşmış olursunuz.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Tarayıcınızın konsolundan kontrol edin.
+2. Eğer isterseniz "Elements" sekmesinden <kbd>CTRL</kbd>+<kbd>F</kbd> (Windows), <kbd>CMD</kbd>+F<kbd></kbd> (MacOS) yaparak bu elementleri arayabilirsiniz.
+3. Konsoldan devam etmek için konsola `document.querySelectorAll("iframe")` yazabilir ve sayfadaki iframe kaynaklarını görebilirsiniz.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Eğer aradığınız veriyi bu yöntemlerle bulamıyorsanız, aşağıdaki adımları takip edebilirsiniz:
+1. Bir `iframe.ts` dosyası oluşturun.
+2. "metadata" dosyasında `iFrame` kısmını `true` olarak ayarlayın.
+3. iFrame dosyanızı şu şekilde dolurun:
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Gereken tüm veriyi aldırın ve aşağıdaki yöntemle
+  ana koda gönderin.
   */
-  iframe.send({ //sending data
+  iframe.send({ // veriyi gönderme
     video: video,
     time: video.duration
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Yukarıdaki gibi gönderilen bir veriyi servis kodunun içinde alabilmek için aşağıdaki yöntemi kullanın.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Not:** Bu kısım, kendi başına bir event olduğu için `updateData` eventinin dışında yapılmalıdır.
 ## Derleme
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Klasörünüzün içindeyken bir terminal açın ve kodunuzu `dist` klasörüne derlemek için `tsc -w` komutunu kullanın.
 
 # Temel (JavaScript)
 ## Projeyi klonlama
@@ -276,14 +276,14 @@ Daha fazla bilgi için lütfen Presence sınıfının tanımını [buraya](/dev/
 
 Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. Bu HTML etiketleri videolar gibi bir çok kaynak bulundurabilir. Ancak  her zaman aynı sonucu vermez. Bunların bazıları gizli veya hiç kullanılmıyor bile olabilir. İşlemlerinizi yapmadan önce istediğiniz veriyi alıp alamadığınızı kontrol edin, her şey bittikten sonra elinizde bir şey olmazsa boşuna uğraşmış olursunuz.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Tarayıcınızın konsolundan kontrol edin.
+2. Eğer isterseniz "Elements" sekmesinden <kbd>CTRL</kbd>+<kbd>F</kbd> (Windows), <kbd>CMD</kbd>+F<kbd></kbd> (MacOS) yaparak bu elementleri arayabilirsiniz.
+3. Konsoldan devam etmek için konsola `document.querySelectorAll("iframe")` yazabilir ve sayfadaki iframe kaynaklarını görebilirsiniz.
 
-If you find that your data is in a iFrame you need to do the following:
+Eğer aradığınız veriyi bu yöntemlerle bulamıyorsanız, aşağıdaki adımları takip edebilirsiniz:
 1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+2. "metadata" dosyasında `iFrame` kısmını `true` olarak ayarlayın.
+3. iFrame dosyanızı şu şekilde dolurun:
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", () => {
@@ -297,14 +297,14 @@ iframe.on("UpdateData", () => {
     });
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Yukarıdaki gibi gönderilen bir veriyi servis kodunun içinde alabilmek için aşağıdaki yöntemi kullanın.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Not:** Bu kısım, kendi başına bir event olduğu için `updateData` eventinin dışında yapılmalıdır.
 # metadata.json dosyasını doldurma
 Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.codes/projects/premid/mdcreator) tıklayabilirsiniz. It's still suggested to read this through so you know how it works.
 
