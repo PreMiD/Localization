@@ -22,7 +22,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
 
 > Do not forget to [add the **extension**](/install). 
 > 
