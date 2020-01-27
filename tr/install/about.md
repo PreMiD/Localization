@@ -11,8 +11,8 @@ PreMiD, Discord oynuyor kısmınızda izlediğiniz/dinlediğiniz şeyleri kolayl
 # Neden PreMiD'i indirmelisiniz?
 - Kesinlikle hiçbir kullanıcı verisini saklamıyoruz, bu yüzden gizliliğiniz hakkında endişelenmenize gerek yok.
 - Projemiz tamamıyla açık kaynaktır! Kullanıcılarla birlikte çalışmak istiyoruz - onlara karşı değil.
-- Büyük ve beklenen bir özellik, Partiler, PreMiD'e yakın zamanda gelecek! Bunun anlamı arkadaşlarınızı davet edip ve aynı anda izleyebilme veya dinleyebilme özelliği. [Discord](https://discordapp.com/) tarafından sağlanmıştır.
+- Büyük ve beklenen bir özellik, Partiler, PreMiD'e yakın zamanda gelecek! Bunun anlamı arkadaşlarınızı davet edip ve aynı anda izleyebilme veya dinleyebilme özelliği. RPC ve (PreMiD'in kendisi dışında) buradaki özelliklerin tamamı [Discord](https://discordapp.com/) tarafından sağlanmıştır.
 
 # Ana özellikler
-- Gezindiğiniz servisi Discord profilinizde gösterir.
+- Bulunduğunuz siteyi (eğer destekliyorsa) Discord profilinizde gösterir.
 - Servisler üzerinde tüm kontrolleri size verir.
