@@ -8,9 +8,9 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Servisinizi mağazada görmek ve görmeden önce test edebilmek için öncelikle bir `metadata.json` ve `presence.js` dosyası oluşturup içlerini doldurduktan sonra bunları `dist` klasörüne taşımalısınız.
 
-The example of that file can be found below.
+`metadata.json` için bir örnek dosyayı aşağıdan bulabilirsiniz.
 
 ```javascript
 {
@@ -39,9 +39,9 @@ The example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## metadata.json dosyasını anlama
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe yaradığını anlamak o kadar da zor değil.
 
 <table>
   <thead>
@@ -49,32 +49,30 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Değişken</th>
       <th style="text-align:left">Açıklama</th>
       <th style="text-align:left">Tür</th>
-      <th style="text-align:left">İsteğe bağlı</th>
+      <th style="text-align:left">Opsiyonel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>yapımcı</b>
+      <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Servisi oluşturan kişinin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object verisi biçiminde olmalıdır. İsim Discord etiketiniz (#0000) olmadan yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>katkıda Bulunanlar</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Katkıda bulunan kişilerin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object verisi biçiminde olmalıdır. İsim Discord etiketi (#0000) belirtilmeden yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>servis</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Yaptığınız servisin ismi.</td>
       <td style="text-align:left"><code>String</code>
@@ -83,7 +81,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>açıklama</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
@@ -94,8 +92,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">Servisin linki.<br><b>Örneğin:</b><code>vk.com</code><br>        <b>Girdiğiniz link, yaptığınız servisin linki olmalıdır. Girilen link eklenti tarafından kullanıcının hangi sitede olduğunu belirlemek ve işlem uygulamak için kullanılacaktır.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -105,14 +102,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Linkleri yakalamak için bir regex verisi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sürüm</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
@@ -148,7 +145,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiketler</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Servisinize ait etiketleri içeren bir Array.</td>
       <td
@@ -178,7 +175,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Iframe verisinin alınacağı kaynakları yakalayacak regex verisi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
@@ -187,21 +184,21 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Regex Verileri
 
-If you want to learn regular expressions, here are a few websites.
+Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz atabilirsiniz.
 
-### Learning
+### Öğrenme
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Test Etme
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Servis kategorileri
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmelisiniz. Geçerli kategoriler aşağıda açıklamalarıyla birlikte belirtilmiştir.
 
 <table>
   <thead>
@@ -215,23 +212,23 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Anime hakkında yapılan forumlar, video platformları gibi her şey.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>oyun</b></td>
+      <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Oyun</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>müzik</b></td>
+      <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>Müzik</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sosyal</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sosyal</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
@@ -243,7 +240,7 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>diğer</b></td>
+      <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>Diğer</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
