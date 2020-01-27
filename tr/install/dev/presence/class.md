@@ -83,7 +83,7 @@ strings = await presence.getStrings({
 Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
-var pageVar = getPageLetiable('degisken');
+let pageVar = getPageLetiable('degisken');
 console.log(pageVar); // Bu 'degisken' değişkeninin içeriğini konsola yazdırır.
 ```
 
@@ -104,13 +104,13 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">Varlığınızdaki ilk satır, genellikle başlık olarak kullanılır.</td>
+      <td style="text-align:left">Profilinizde gözüken kısımda üst tarafta bulunan yazı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Varlığınızdaki ikinci satır.</td>
+      <td style="text-align:left">Profilinizde gözüken kısımda alt tarafta bulunan yazı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -134,20 +134,19 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Servisin logosunu tanımlar.</td>
+      <td style="text-align:left">Servisin büyük resmini belirler.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Büyük resmin yanında bulunacak küçük simgenin ismini belirler.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">İmleci küçük resmin üzerine tuttuğunuzda gösterilecek yazıyı belirler.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -166,9 +165,9 @@ let presenceData: presenceData = {
 };
 ```
 
-## Event'ler
+## Eventler/Eylemler
 
-Event'ler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmenizi sağlar. Bir event'i dinleyebilmek için `on` metodunu kullanabilirsiniz.
+Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmenizi sağlar. Bir event'i dinleyebilmek için `on` metodunu kullanabilirsiniz.
 
 ```typescript
 presence.on("UpdateData", async () => {
