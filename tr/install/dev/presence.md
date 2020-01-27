@@ -156,9 +156,9 @@ Bunu `presence.ts` dosyanıza kopyalayıp değerleri düzenleyebilirsiniz. Değe
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## İstediğiniz veriyi alamıyor musunuz?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them by browser console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
@@ -189,10 +189,10 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-## Compiling
+## Derleme
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Structure (JavaScript)
+# Temel (JavaScript)
 ## Projeyi klonlama
 1. [Git](https://git-scm.com/)'i yükleyin.
 2. Bir konsol açın ve `git clone https://github.com/PreMiD/Presences` yazın.
@@ -272,9 +272,9 @@ You can copy this into your `presence.js` file and edit the values. Değerleri a
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## İstediğiniz veriyi alamıyor musunuz?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them by browser console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
