@@ -8,46 +8,46 @@ tags:
 
 # Presence Sınıfı
 
-## Giriş
+## Tanıtım
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` sınıfı, servisimizi oluştururken bize gerekli bir çok metod ve yöntem ile yardımcı olacaktır.
 
- When you create a class you must specify `clientId` property.
+ Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Örnek bir clientId alanı
 });
 ```
 
-There are two properties available for `Presence` class.
+`Presence` sınıfı için şimdilik geçerli iki adet alan vardır.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId` alanı, servis kodunun çalışabilmesi için gereklidir çünkü bu sayede uygulamanıza eklediğiniz resimleri ve diğer bilgileri çekiyoruz.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Bu alan, servisinizin klavyedeki multimedya tuşlarına basılmasını yakalamak isteyenler için ayarlanmalıdır, ayarlandığı taktirde kodunuzda `MediaKeys` eventini kullanabileceksiniz.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Bu alan gerekli değildir ve **tarayıcılar bu desteği zaten eklediği için artık kullanılmamaktadır**, ancak bir sebepten dolayı bunlara ihtiyaç duyuyorsanız bu ayarı `true` olarak ayarlamalısınız.
 
-**All mediaKey events are temporarily disabled!**
+**Yukarıda bahsedildiği gibi bu event geçici veya kalıcı olarak devre dışıdır!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Medya tuşlarını yakalamayı sağlar
 });
 ```
 
-## Yöntemler
+## Metodlar
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Verilen verilerle profilinizi ayarlar.
 
 First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
