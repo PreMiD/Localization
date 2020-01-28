@@ -67,7 +67,7 @@ Define o título da bandeja no Menubar.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Permite que você obtenha frases traduzidas da extensão. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
