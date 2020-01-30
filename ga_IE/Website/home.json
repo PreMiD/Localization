@@ -1,1 +1,6 @@
-{}
+{
+  "home.introduction.button.downloads": {
+    "message": "Íoslódálacha",
+    "description": "Downloads button -> redirects to /downloads page"
+  }
+}
