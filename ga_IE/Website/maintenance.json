@@ -1,1 +1,26 @@
-{}
+{
+  "maintenance.big": {
+    "message": "Cothabháil",
+    "description": "The big text on maintenance page"
+  },
+  "maintenance.heading": {
+    "message": "Ar an drochuair, tá deacrachtaí teicniúla againn. Fillfimid go luath. Tá brón orainn as aon mhíchaoithiúlacht.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.heading2": {
+    "message": "Le do thoil teacht ar ais níos déanaí le haghaidh tuilleadh eolais.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.message": {
+    "message": "Go dtí go socraíonn ár bhforbróirí speisialta é seo, is féidir leat breathnú anseo!",
+    "description": "Message on maintenance page"
+  },
+  "maintenance.statuspage": {
+    "message": "Leathanach Stádas",
+    "description": "Status Page link on maintenance page"
+  },
+  "maintenance.discordserver": {
+    "message": "Freastalaí discord",
+    "description": "Discord Server link on maintenance page"
+  }
+}
