@@ -97,7 +97,7 @@ This interface has following variables, all of them are optional.
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Cur síos</th>
       <th style="text-align:left">Cineál</th>
     </tr>
   </thead>
