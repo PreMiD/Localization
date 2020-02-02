@@ -1,1 +1,26 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Presence 개발자",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "중요한 Presence 개발자",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.notFound.message1": {
+    "message": "찾고있는 사용자 ID가 정확합니다",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "사용자가 충분한 Presence를 생성했으며 Discord 서버에서 Presence 개발자 역할을합니다",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "다른 사람들이 Discord 서버에서 동일한 문제를 겪고 있는지 확인하십시오",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "이것이 문제라고 생각되면 이곳의 Discord 서버로 문의하십시오",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
