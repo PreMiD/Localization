@@ -6,10 +6,10 @@ date: 2020-01-18T20:32:35.718Z
 tags:
 ---
 
-Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng không thể hoạt động một mình.
+Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
-1. Đến trang tải của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
+1. Đến trang web của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
