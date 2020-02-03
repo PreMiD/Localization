@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: PreMiD telepítési útmutató a Windows program esetében
+description: PreMiD telepítési útmutató a Windows rendszer esetében
 published: true
 date: 2020-01-20T06:49:44.173Z
 tags:
