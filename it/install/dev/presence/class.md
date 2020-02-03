@@ -1,12 +1,12 @@
 ---
-title: Presence Class
+title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
 published: vero
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Presence Class
+# Classe Presenza
 
 ## Introduzione
 
@@ -96,7 +96,7 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabile</th>
       <th style="text-align:left">Descrizione</th>
       <th style="text-align:left">Tipo</th>
     </tr>
@@ -105,13 +105,13 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">La prima linea nella tua presence, di solito è usata come titolo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">La seconda linea nellla tua presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
     </tr>
     <tr>
@@ -135,19 +135,19 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Definisce il logo della presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Definisce la piccola icona vicina al logo della presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Definisce il testo che verrà mostrato all'utente quando posizionerà il puntatore sull'icona piccola.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
     </tr>
   </tbody>
