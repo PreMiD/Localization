@@ -6,28 +6,28 @@ date: 2020-01-18T20:32:20.879Z
 tags:
 ---
 
-> :warning: A documentação ainda está a ser editada! Algumas páginas poderão estar incompletas ou em falta. 
+> :warning: A documentação ainda está sendo editada! Algumas páginas podem estar incompletas or faltando. 
 > 
 > {.is-warning}
 
 # Sobre o PreMiD
-- :mag: [O que é o PreMiD?"](/about) Intenções por trás do PreMiD e porque deveria usá-lo.
-- :link: [O que é RPC?](https://discordapp.com/rich-presence) Tudo sobre Rich Presence e as suas funções.
+- :mag: [O que é PreMiD?](/about) Intenções por trás do PreMiD e porquê você deveria usá-lo.
+- :link:[O que é RPC?](https://discordapp.com/rich-presence) Tudo sobre Rich Presence e suas funções.
 
-# Primeiros passos
+# Primeiros Passos
 
-O PreMiD é rapido e fácil de instalar. Deve estar pronto e a correr num piscar de olhos.
+PreMiD é rápido e fácil de instalar. Deve estar pronto e a correr num piscar de olhos.
 
-- Certifique-se que leu os [requisitos do sistema](/install/requirements).
-- Siga o [guia de instalação](/install) rápido e simples.
-- [Resolução de problemas](/troubleshooting) guia-te pelas soluções para problemas comuns.
+- Certifique-se que você leu os [requisitos de sistema](/install/requirements).
+- Siga o rápido e simples [guia de instalação](/install).
+- A [Solução de Problemas](/troubleshooting) te mostra as soluções para os problemas comuns.
 
 # Desenvolvedores
 
 [Primerios passos](/dev) para o desenvolvimento no PreMiD é o seu primeiro passo antes de desenvolver algumas coisas.
 
-- :computer: <a hreef="/dev/api">API</a>: Acesso a recursos e executar ações utilizando a API do PreMiD.
-- :wrench: [Desenvolvimento de Presenças](/dev/presence): Aprenda a utilizar o nosso sistema de Presenças.
+- :computer: [API](/dev/api): Acesse recursos e performe ações usando a API do PreMiD.
+- :wrench: [Desenvolvimento de Presenças](/dev/presence): Aprenda como usar nosso sistema de Presenças.
 
 # Contribua
 - :bug: [Reportar um Bug](https://github.com/PreMiD). Ajuda-nos a esmagar aqueles bugs irritantes.
