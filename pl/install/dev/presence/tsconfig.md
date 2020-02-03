@@ -6,7 +6,7 @@ date: 2020-01-18T20:33:00.222Z
 tags:
 ---
 
-# TypeScript Configuration
+# Konfiguracja TypeScript
 
 ## Introduction
 
