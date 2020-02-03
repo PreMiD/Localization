@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: The main class for every PreMiD presence
+description: La clase principal para cada presencia PreMiD
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
@@ -8,7 +8,7 @@ tags:
 
 # Presence Class
 
-## Introduction
+## Introducción
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -98,7 +98,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descripción</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tipo</th>
     </tr>
   </thead>
   <tbody>
