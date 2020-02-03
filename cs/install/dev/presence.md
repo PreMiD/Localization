@@ -1,72 +1,72 @@
 ---
-title: Presence Development
+title: Vývoj přítomnosti
 description:
 published: true
 date: 2020-02-03T13:55:37.732Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Všechny přítomnosti jsou nyní uloženy zde: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživatelé mají nyní možnost ručně přidávat a odebírat své oblíbené přítomnosti prostřednictvím uživatelského rozhraní stránky [](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Pokyny
+> Pokud nesledujete všechny pokyny, vaše přítomnost nebo požadavek na natažení bude odstraněn z githubu. 
 > 
 > {.is-danger}
 
-## Creation
+## Vytváření
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
+Než začnete pracovat na své přítomnosti, mějte na paměti následující seznam.
+- Požadavek na natažení musí být úplný, musíte mít správnou strukturu souboru. Včetně souboru `dist` , souboru `presence.js` a souboru `metadata.json`.
 - The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
-- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
-- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
-- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
-- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+- Přítomnost žádných nelegálních internetových stránek. Patří sem stresory, drogy, dětská porézní atd...
+- Metadata přítomnosti musí mít dobře psaný obsah, včetně platných titulků a popisů.
+- Média obsahující (ikona/náhled) musí být vztažena k webové stránce a měla by být srozumitelná, pokud jde o velikost a kvalitu.
+- Struktura souboru musí být čistá a spravovaná, nesmí mít náhodné soubory, které neposkytují nic funkci přítomnosti.
+- Přítomnost **nesmí** mít žádné škodlivé úmysly. Mezi ně patří krádež/úniky soukromých informací, negativně ovlivňují chování webových stránek atd...
+- Pokud plánujete přítomnost webové stránky a v budoucnu se tato stránka změní, vy **ARE** zodpovědný za aktualizaci přítomnosti znovu fungovat, jak se očekávalo. Pokud to neopravíte v přijatelném časovém rámci, další vývojáři přítomnosti mohou **přepsat** vaši přítomnost, aby vyhověli změnám.
+- Přítomnost musí být otestována před zveřejněním, aby se potvrdilo, že vše funguje podle očekávání.
+- Vaše přítomnost musí mít SFW obrázky a popisy bez ohledu na to, zda se jedná o NSFW nebo ne. Pokud je vaše přítomnost o webové stránce `nsfw` , přidejte do metadat značku `nsfw`.
+- Vaše přítomnost musí **NENÍ** být pro bezplatné domény nebo hostitele (např. .TK, [všechny bezplatné domény], . F.GD atd...), výjimky lze udělat, pokud je předložen důkaz prokazující, že je to placená doména.
+- Pole `malý ImageKey` a `malý ImageText` jsou určena k poskytnutí doplňkového/sekundárního kontextu (např. "playing"/"pozastaveno" pro video stránky, "browsing" pro běžné stránky a ostatní případy). Nemáš dovoleno propagovat Discord profily nebo cokoliv nesouvisejícího s PreMiD.
+- Požadavky na loga jsou 1:1 (Square) v 512px, náhledy však mělo by být buď [široké propagační karty](https://i.imgur.com/3QfIc5v.jpg) , nebo jednoduše [screenshotů](https://i.imgur.com/OAcBmwW.png) , pokud první není k dispozici.
+- Přítomnost by měla mít alespoň 1 značku, to je požadavek provedení a v budoucnu může být volitelná.
+- Pole `url` nesmí obsahovat `http://` nebo `https://://`, ani parametry (např. přítomnost pro `https://www.google.com/search?gws_rd=ssl` bude mít pouze `www.google.com` v poli `url`).
+- Popisy a štítky by měly být vždy v polích, i když je jen jeden prvek. Pole `url` by však mělo být pouze řetězec, pokud je to jedna doména.
+- Nestabilní stránky, které neustále mění API/domény, náhodné prvky HTML nebo jsou stále ve velkém vývoji, nejsou povoleny a budou odstraněny z obchodu.
 
-## Modification
+## Úprava
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+V některých situacích se přítomnost může chovat neočekávaně nebo může použít některé drobné změny ke zlepšení její funkčnosti. Zde je zkompilovaný seznam, který musíte sledovat, abyste mohli měnit přítomnosti.
+- Nemáte oprávnění měnit tvůrce přítomnosti. To platí pouze v případě, že jej můžete přepsat. Můžete se přidat jako [přispěvatel](/dev/presence/metadata).
+- Ujistěte se, že změny jsou užitečné. Tyto opravy mohou zahrnovat opravy (kód a pneumatiky), doplnění (popisy a štítky) atd...
+- Potvrďte, že vaše změny před publikováním fungují. Nevytvářejte žádosti o natažení bez znalosti výsledku vašich změn.
+- Nenahrazujte úplně novou značku/nenahrazujte přítomnost, pokud to nepovolí `Presence Verifier` nebo zaměstnanec.
 
-# Verification
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+# Ověřování
+> Při natažení požadavků na přidání nebo úpravu existujících přítomností, musíte zahrnout snímek obrazovky. Změny metadat / tsconfig přítomnosti však nevyžadují screenshot. *Váš snímek obrazovky musí být nahrán přímo na github s požadavkem na natažení, nepoužívejte webové stránky třetích stran pro sdílení obrázků.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+Aby vaše přítomnost dorazila do obchodů, musí procházet procesem na githubu, aby bylo potvrzeno, že funguje podle očekávání. Zde je několik věcí, na které je třeba se podívat, kdy tvoje žádost o natažení.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Náš tým pro ověřování přítomnosti má svou vlastní roli, podívejte se na `Presence Verifier` na discord serveru, abyste věděli, kdo je zapojen.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+1. Dva ověřovatelé musí potvrdit, že vaše přítomnost splňuje normy. Pokud se náhodou dostanete k požadavkům na změnu, vynaložte patřičné úsilí na opravu, nebo nebude přidáno.
+2. Pokud požadujeme změny a Váš požadavek na natažení přesahuje **7 dní nečinnosti** , aniž bychom provedli potřebné změny, budeme nuceni ji uzavřít.
+3. Můžete pořídit snímky obrazovky provedené s pomocí jiného uživatele. ( např. jeho autor v případě, že k němu nemáte přístup z jakéhokoli důvodu).
+4. Pokud se jedná o aktualizaci nebo záplatu, musí snímek obrazovky zobrazit nové příspěvky, ne žádné staré funkce z předchozích požadavků na natažení.
+5. Poskytnuté snímky obrazovky by měly být skutečné, ne upravovány.
+6. Jakýkoliv vložený kód, který se sloučí do tohoto repositáře, bude licencován pod **Mozilla Public License 2.0**.
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+Po splnění všech správných přezkumů, váš požadavek na natažení bude sloučen s obchodem.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Struktura (TypeScript)
+Můžete si vybrat, zda chcete naprogramovat svou Presenci pomocí [JavaScript](https://www.javascript.com/) nebo  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) má několik definic typu spicy, takže oprava a identifikace chyb je mnohem jednodušší. Pokud chcete pouze použít [JavaScript](https://www.javascript.com/) , můžete přeskočit na [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Instalace
 1. Install [Git](https://git-scm.com/).
@@ -74,248 +74,248 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a `npm install -g typescript`).
 
 ## Klonování projektu
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Otevřete terminál a napište `git klon https://github.com/PreMiD/Presences`.
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji v editoru kódu.
 
-## Creating folders and files
+## Vytváření složek a souborů
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Vytvořte složku s názvem **** (nikoli URL) služby, kterou chcete podpořit.
+2. Vytvořte uvnitř `Presence.ts` a `tsconfg.json`.
+3. Vytvořit složku s názvem `dist` uvnitř.
+4. Vytvořte soubor `metadata.json` ve složce `disk`.
 
-## Filling in the tsconfig.json file
+## Vyplňování souboru tsconfig.json
 
-Please put the following code inside of the `tsconfg.json` file.
+Do souboru `tsconfg.json` vložte následující kód.
 ```javascript
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/"
   }
-}
+
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Pro více informací o konfiguraci TypeScriptu klikněte [zde](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Vyplňování souboru metadata.json
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klikněte [zde](/dev/presence#filling-in-the-metadatajson-file-2) abyste zjistili, jak jej vyplnit. Budete moci snadno kliknout zpět v dolní části vysvětlení.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Vytvořili jsme `metadata.json` pro líný peeps [zde](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Jak začít
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp. om/developers/applications
     mediaKeys: false //Enable use and detection of media key presses
 }),
 
-strings = presence.getStrings({
+strings = přítomnost. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    pause: "presence.playback. aused"
+    //Můžete použít toto pro získání překladových řetězců
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+funkce myOutsideHeavyLiftingFunction(){
+    //Grab a zpracujte všechna vaše data zde
 
     // element grabs //
-    // api calls //
-    // variable sets //
+    // api call //
+    // proměnné set//
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, myoutsideHeavyLiftingFunction); 
+//Spustit funkci oddělte každých 10 sekund od události UpdateData pro získání a nastavení proměnných, které UpdateData zvedne
 
 */
 
 
-presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+přítomnosti. n("UpdateData", async () => {
+    /*UpdateData je vždy palčivé, a proto by měl být použit jako obnovovací cyklus, nebo `tick`. To se nazývá několikrát, kde je to možné.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Doporučuje se nastavit jinou funkci mimo tuto událost, která změní hodnoty proměnné a provede velké zvedání, pokud zavoláte data z API. /
 
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+    var přítomnostData = {
+        largeImageKey: "key", /*Klíč (název souboru) velkého obrázku na přítomnosti. Ty jsou nahrány a pojmenovány v sekci Rich Presence vaší aplikace, nazvaný Art Assets*/
+        smallImageKey: "klíč", /*Klíč (název souboru) velkého obrázku v přítomnosti. Ty jsou nahrány a pojmenovány v sekci Rich Presence vaší aplikace, nazvaný Art Assets*/
+        Malý ImageText: "Text při přejetí myší", //Text zobrazený při přejetí malého obrázku
+        detaily: "Procházení názvu stránky", //Horní část textu přítomnosti
+        uvádí: "Čtecí sekce A", //Dolní část textu přítomnosti
+        startTimestamp: 1577232000, //Jednotná epocha časové značky pro kdy začít počítat od
+        endTimestamp: 1577151472000 //Pokud chcete zobrazit čas doleva namísto Elapsed, Toto je unixová epochová časové razítko, ve kterém čas končí
+    }; /*Volitelně můžete zde nastavit largeImageKey a zbytek změnit jako podvlastnosti proměnné, například přítomnostSata. ype = "blahblah"; příklady: detaily, stav atd.*/
 
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    pokud (přítomnostData. etails == null) {
+        //This vystřelí, pokud nenastavíte detaily přítomnosti
+        . etTrayTitle(); //vymaže název pole pro uživatele mac
+        přítomnost. etaktivita(); /*Aktualizuj přítomnost bez dat, proto ji vymazej a vytvoř velký obrázek ikony aplikace Discord. a text jméno aplikace Discord */
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        //This will fire if set the presence details
+        Presence. etActivity(presenceData); //Aktualizujte přítomnost se všemi hodnotami z objektu přítomnostiData
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Můžete to zkopírovat do souboru `presence.ts` a upravit hodnoty. Nastavení všech hodnot je provedeno uvnitř události updataData .
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Příklady, jako je 1337x nebo 9GAG, navrhujeme podívat se na pravidla přítomnosti.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Pro více informací o třídě Presence klikněte [zde](/dev/presence/class).
 
-## Can't get certain data?!
+## Nelze získat určitá data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Mnoho webových stránek používá [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tyto HTML tagy mohou obsahovat více zdrojů, jako jsou videa. Nejsou však vždy relevantní. Některé jsou skryty nebo nejsou aktivně používány. Zkontrolujte, zda můžete extrahovat, informace, které potřebujete, bez nich, než budete dělat zbytečnou práci.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Zkontrolujte je pomocí konzole prohlížeče (ujistěte se, že jste na záložce **Elements**).
+2. Hledání (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Spustit `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Pokud zjistíte, že vaše data jsou v iFramu, musíte udělat následující:
+1. Vytvořte soubor `iframe.ts`.
+2. Nastavte iFrame na `true` ve vašem souboru metadat.
+3. Vyplňování souboru iFrame.
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+var iframe = nový iFrame();
+iframe. n("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Získejte všechna data, která potřebujete z iFrame je uložte v proměnných
+  a pak je pošlete pomocí iframe. konec
   */
   iframe.send({ //sending data
     video: video,
-    time: video.duration
+    čas: video. urace
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Přijímání dat z souboru iFram.
 ```javascript
-presence.on("iFrameData", data => {
+přítomnost.on("iFrameData", data => {
   iFrameVideo = data.video;
-  currentTime = data.time;
+  current entTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Poznámka:** Toto musí být umístěno mimo událost updateData
+## Kompilace
+Otevřete konzoli ve vaší složce a napište `tsc -w` a zkompilujte `presence.ts` do složky `/dist`.
 
-# Structure (JavaScript)
+# Struktura (JavaScript)
 ## Klonování projektu
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Otevřete terminál a napište `git klon https://github.com/PreMiD/Presences`.
 3. Vyberte složku dle vašeho výběru.
 4. Otevřete ji v editoru kódu.
 
-## Creating folders and files
+## Vytváření složek a souborů
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+1. Vytvořte složku s názvem **** (nikoli URL) služby, kterou chcete podpořit.
+3. Vytvořit složku s názvem `dist` uvnitř.
+4. Vytvořte soubor `metadata.json` a soubor `presence.js` uvnitř složky `dist`.
 
-## Filling in the metadata.json file
+## Vyplňování souboru metadata.json
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klikněte [zde](/dev/presence#filling-in-the-metadatajson-file-2) abyste zjistili, jak jej vyplnit. Budete moci snadno kliknout zpět v dolní části vysvětlení.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Vytvořili jsme `metadata.json` pro líný peeps [zde](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Jak začít
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp. om/developers/applications
     mediaKeys: false //Enable use and detection of media key presses
 }),
 
-strings = presence.getStrings({
+strings = přítomnost. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    pause: "presence.playback. aused"
+    //Můžete použít toto pro získání překladových řetězců
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+funkce myOutsideHeavyLiftingFunction(){
+    //Grab a zpracujte všechna vaše data zde
 
     // element grabs //
-    // api calls //
-    // variable sets //
+    // api call //
+    // proměnné set//
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, myoutsideHeavyLiftingFunction); 
+//Spustit funkci oddělte každých 10 sekund od události UpdateData pro získání a nastavení proměnných, které UpdateData zvedne
 
 */
 
 
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+přítomnosti. n("UpdateData", () => {
+    //UpdateData je vždy palčivá, a proto by měl být použit jako obnovovací cyklus, nebo `tick`. To se nazývá několikrát, kde je to možné.
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    //It je doporučeno nastavit jinou funkci mimo tuto událost, která změní hodnoty proměnné a provede velké zvedání, pokud zavoláte data z API.
 
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+    var PresenceData = {
+        largeImageKey: "key", /*The key (název souboru) of the Large Image on the existence. Ty jsou nahrány a pojmenovány v sekci Rich Presence vaší aplikace, nazvaný Art Assets*/
+        smallImageKey: "klíč", /*Klíč (název souboru) velkého obrázku v přítomnosti. Ty jsou nahrány a pojmenovány v sekci Rich Presence vaší aplikace, nazvaný Art Assets*/
+        Malý ImageText: "Text při přejetí myší", //Text zobrazený při přejetí malého obrázku
+        detaily: "Procházení názvu stránky", //Horní část textu přítomnosti
+        uvádí: "Čtecí sekce A", //Dolní část textu přítomnosti
+        startTimestamp: 1577232000, //Jednotná epocha časové značky pro kdy začít počítat od
+        endTimestamp: 1577151472000 //Pokud chcete zobrazit čas doleva namísto Elapsed, Toto je unixová epochová časové razítko, ve kterém čas končí
+    }; /*Volitelně můžete zde nastavit largeImageKey a zbytek změnit jako podvlastnosti proměnné, například přítomnostSata. ype = "blahblah"; příklady: detaily, stav atd.*/
 
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    pokud (přítomnostData. etails == null) {
+        //This vystřelí, pokud nenastavíte detaily přítomnosti
+        . etTrayTitle(); //vymaže název pole pro uživatele mac
+        přítomnost. etaktivita(); /*Aktualizuj přítomnost bez dat, proto ji vymazej a vytvoř velký obrázek ikony aplikace Discord. a text jméno aplikace Discord */
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        //This will fire if set the presence details
+        Presence. etActivity(presenceData); //Aktualizujte přítomnost se všemi hodnotami z objektu přítomnostiData
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
+Můžete to zkopírovat do souboru `presence.js` a upravit hodnoty. Nastavení všech hodnot je provedeno uvnitř události updataData .
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Příklady, jako je 1337x nebo 9GAG, navrhujeme podívat se na pravidla přítomnosti.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Pro více informací o třídě Presence klikněte [zde](/dev/presence/class).
 
-## Can't get certain data?!
+## Nelze získat určitá data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Mnoho webových stránek používá [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tyto HTML tagy mohou obsahovat více zdrojů, jako jsou videa. Nejsou však vždy relevantní. Některé jsou skryty nebo nejsou aktivně používány. Zkontrolujte, zda můžete extrahovat, informace, které potřebujete, bez nich, než budete dělat zbytečnou práci.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Zkontrolujte je pomocí konzole prohlížeče (ujistěte se, že jste na záložce **Elements**).
+2. Hledání (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Spustit `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Pokud zjistíte, že vaše data jsou v iFramu, musíte udělat následující:
+1. Vytvořte soubor `iframe.js`.
+2. Nastavte iFrame na `true` ve vašem souboru metadat.
+3. Vyplňování souboru iFrame.
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
+var iframe = nový iFrame();
+iframe. n("UpdateData", () => {
     /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
+    Získejte všechna data, která potřebujete z iFramu, uložte je do proměnných
+    a pak je pošlete pomocí iframe. konec
     */
-    iframe.send({ //sending data
+    iframe. end({ //odesílání dat
         video: video,
-        time: video.duration  
+        čas: video. urace  
     });
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Přijímání dat z souboru iFram.
 ```javascript
-presence.on("iFrameData", data => {
+přítomnost.on("iFrameData", data => {
   iFrameVideo = data.video;
-  currentTime = data.time;
+  current entTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+**Poznámka:** Toto musí být umístěno mimo událost updateData
+# Vyplňování souboru metadata.json
+Vytvořili jsme `metadata.json` pro líný peeps [zde](https://eggsy.codes/projects/premid/mdcreator). Stále je doporučeno přečíst si to tak, abyste věděli, jak to funguje.
 
 ```javascript
 {
@@ -323,210 +323,210 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
+  "přispěvatelé": [{
     "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "description": {
-    "en": "DESCRIPTION"
+    "c": "DESCRIPTION"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
-  "regExp": "REGEXP",
+  "tags": ["KATEGORY", "TAG"],
+  "kategorie": "KATEGORI",
+  "regregregreg": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Prosím, zkopírujte výše uvedený kód a vložte jej do souboru `metadata.json`. Nyní je třeba upravit hodnoty vlastností. Vezměte prosím na vědomí, že následující vlastnosti jsou volitelné, pokud chcete mít ve vašich `metadatech. syn` soubor, pokud neplánujete jeho používání, je třeba jej odstranit.
 - `přispěvatelé`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**Vysvětlení některých přednastavení hodnoty:**
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Proměnná</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Nepovinné</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatele <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+        a kliknutím pravým tlačítkem myši na tvůj profil.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>přispěvatelé</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatele <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+        a kliknutím pravým tlačítkem myši na tvůj profil.</td>
+      <td style="text-align:left"><code>Pole&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>služba</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Název služby, kterou tato přítomnost podporuje. <br>(Musí být stejné jméno jako složka, kde je vše v)</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>popis</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Malý popis přítomnosti, můžete použít popis služby
+        , pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      <td style="text-align:left">Adresa URL služby.<br><b>Příklad:</b><code>vk. om</code><br>
+        <b>Tato adresa URL musí odpovídat URL webu, protože zjistí, zda je nebo není to webová stránka, do které má být skript vložen.</b><br> Do <b>NENÍ</b> přidat <code>https://://</code> nebo <code>http://</code> uvnitř adresy URL ani lomítko na konci:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Poznámka</b>: Některé adresy URL mohou mít <code>www.</code> nebo něco jiného před jejich doménou. Do <b>NOT</b> forget to add it!<br>
 You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 You could also use regExp also known as Regex for this task, explaned further below.
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Regulární výraz řetězec používaný pro odpovídající URL adresy.<br>
+      regExp nebo také známý jako Regex, může být použit v případě, že webová stránka má více subdomén.<br>
+Můžete použít následující regExp za toto:<br>
+<code>([a-z0-9]+)[.]doména[.]TLD"</code><br>
+TLD stojící pro doménu nejvyšší úrovně pro axample: . om .net<br> 
+<code>([a-z0-9]+)</code> znamená cokoliv od a od 0 do 9.<br>
+        Můžete vyzkoušet váš regExp na <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>verze</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Verze vaší přítomnosti.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Odkaz na službu&apos;s logotypem.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Odkaz na náhled vašeho stavu.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>barva</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>#HEX</code> hodnota. Doporučujeme použít primární barvu služby
+        , kterou vaše přítomnost podporuje.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>štítky</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Pole se značkami, které pomohou uživatelům vyhledat vaši přítomnost na webu.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>Kategorie</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Řetězec používaný k reprezentaci kategorie, pod kterou přítomnost spadá. Podívejte se na platné katalogy <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">zde</a>.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Určuje, zda jsou použity <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Regulární selektor, který vybere iframy, do kterých se má vložit. Více informací naleznete v regExp.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Klikněte [zde](/dev/presence#filling-in-the-metadatajson-file) pro návrat k vysvětlení typu Scriptu. Klikněte [zde](/dev/presence#filling-in-the-metadatajson-file-1) pro návrat k vysvětlení JavaScriptu.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Načítání přítomnosti
+1. Otevřete vyskakovací okno a podržte tlačítko <kbd>Shift</kbd> na klávesnici.
+2. **Load Presence** se zobrazí v sekci Presences
+3. Klikněte na to, dokud stále držíte tlačítko <kbd>Shift</kbd>.
+4. Vyberte /dist složku vaší přítomnosti.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Některé užitečné věci
+## Za tepla znovu načítáno
+Web, na kterém se vyvíjíte, se automaticky znovu načítá pokaždé, když uložíte soubor do složky.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## Ladění
+- Můžete vložit `konzolu.log("Test");` mezi vaším kódem a zjistit, zda vám vaše konzole prohlížeče tento výstup poskytuje. Pokud ano, pokračujte a zkuste to znovu za další funkci. Pokud tomu tak není, je chyba výše.
+- Pokud vám to nepomůže, požádejte o pomoc vývojáře přítomnosti na našem [Discord serveru](https://discord.gg/PreMiD).
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Soubory vysvětleny
+- [Třída přítomnosti](/dev/presence/class)
+- [iFrame třída](/dev/presence/iframe)
+- [Soubor metadat](/dev/presence/metadata)
+- [Konfigurace typskriptu](/dev/presence/tsconfig)
 {.links-list}
