@@ -1,12 +1,12 @@
 ---
-title: Presence Class
+title: Clase de presencia
 description: La clase principal para cada presencia PreMiD
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Presence Class
+# Clase de presencia
 
 ## Introducción
 
@@ -105,13 +105,13 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
@@ -137,20 +137,20 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
   </tbody>
