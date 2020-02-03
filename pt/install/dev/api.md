@@ -8,7 +8,7 @@ tags:
 
 # API
 
-> URL de base: https://api.premid.app 
+> URL Base: https://api.premid.app 
 > 
 > {.is-info}
 
