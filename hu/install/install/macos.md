@@ -18,13 +18,13 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 3. Csomagold ki az archívumot, ha szükséges.
 4. Nyisd meg a telepítőt.
 5. Első telepítés esetén egy **biztonsági figyelmeztetés** jelenik meg. **Beállítások** > **Biztonság** > **Általános** > **Megnyitás mindenképpen**. [Tudj meg többet](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) a bejegyzetlen alkalmazásokról.
-> Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+> Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Támogass minket](https://www.patreon.com/Timeraa) ennek finanszírozásáért.{.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
 The application will start automatically. Check for the symbol in your menu bar.
 
-> Do not forget to [add the **extension**](/install). 
+> Ne felejtsd el [hozzáadni a **bővítményt**](/install). 
 > 
 > {.is-warning}
 
