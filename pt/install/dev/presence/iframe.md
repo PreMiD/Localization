@@ -1,17 +1,17 @@
 ---
-title: Classe iFrame
+title: Aula iFrame
 description:
 published: true
 date: 2020-01-18T20:32:55.147Z
 tags:
 ---
 
-# Classe iFrame
+# Aula iFrame
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Introdução
+## Introduction
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Métodos
+## Methods
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
 
-## Eventos
+## Events
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
