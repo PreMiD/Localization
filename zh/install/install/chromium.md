@@ -1,14 +1,14 @@
 ---
 title: Chromium
 description: Getting started with a PreMiD installation on Chromeium-based browsers
-published: 是
+published: true
 date: 2020-01-18T20:32:33.964Z
 tags:
 ---
 
 The installation of the extension is very important as the application can not do anything by itself.
 
-# 安裝
+# 安装
 ### Chrome, Edge, etc.
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Chromium**.
