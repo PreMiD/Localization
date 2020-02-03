@@ -49,47 +49,47 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descripción</th>
       <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Opcional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Debe contener un objeto con <code>nombre</code> y <code>id</code> del desarrollador de presencia. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
+        del desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left"><code>Objeto</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contribuidores</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      <td style="text-align:left">Debe contener un objeto con <code>nombre</code> y <code>id</code> del desarrollador de presencia. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
+        del desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Sí</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>servicio</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">El título del servicio que soporta esta presencia.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>descripción</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
+        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas.</td>
+      <td style="text-align:left"><code>Objeto</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
@@ -98,92 +98,92 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
         <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Sí</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versión</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Versión de su presencia.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>logotipo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Enlace al tipo de logotipo de servicio&apos;s.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Enlace a su presencia.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>valor #HEX</code>. Recomendamos usar un color primario del servicio
+        que tu presencia soporta.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>etiquetas</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presencia en el sitio web.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>categoría</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nu</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Define si se utilizan <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Sí</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Sí</code>
       </td>
     </tr>
   </tbody>
