@@ -1,1 +1,38 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Desenvolvedor de Presenças",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Verificador de Presenças",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Desenvolvedor de Presenças Importante",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Criadas {0} presenças.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "Esse utilizador não foi encontrado. Tenta ter a certeza:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "O ID do Utilizador que estás a procura não está correto.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "O utilizador criou presenças suficientes e tem o cargo de Desenvolvedor de Prenças no nosso servidor de Discord.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Confere se outros estão a experienciar o mesmo problema no nosso servidor de Discord.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Se achas que isto foi um engano, por favor contacta-nos no [nosso servidor de discord].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
