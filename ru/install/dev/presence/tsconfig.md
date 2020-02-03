@@ -6,7 +6,7 @@ date: 2020-01-18T20:33:00.222Z
 tags:
 ---
 
-# TypeScript Configuration
+# Настройка TypeScript
 
 ## Introduction
 
@@ -45,7 +45,7 @@ In the root configuration file you will see something like this.
   "compilerOptions": {
     "outDir": "./dist/"
   }
-}
+
 ```
 
 | Property            | Описание                                                                               |
