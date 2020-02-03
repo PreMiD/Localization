@@ -46,19 +46,19 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabile</th>
       <th style="text-align:left">Descrizione</th>
       <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Opzionale</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>autore</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Dovrebbe contenere un oggetto con <code>nome</code> e <code>id</code> dello sviluppatore presenza. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
+        dello sviluppatore e facendo click destro sul tuo profilo.</td>
+      <td style="text-align:left"><code>Oggetto</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -66,18 +66,18 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>collaboratori</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      <td style="text-align:left">Dovrebbe contenere un oggetto con <code>nome</code> e <code>id</code> dello sviluppatore presenza. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
+        dello sviluppatore e facendo click destro sul tuo profilo.</td>
+      <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>sì</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>servizio</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Il titolo del servizio che supporta questa presenza.</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -85,20 +85,20 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>descrizione</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Breve descrizione della presenza, puoi usare la descrizione del servizio
+        se non hai idee. La tua descrizione deve avere valori di coppia chiave che indicano la lingua, e la descrizione in quella specifica lingua. Crea descrizioni con le lingue <i>che conosci</i>, i nostri traduttori modificheranno il file di metadati.</td>
+      <td style="text-align:left"><code>Oggetto</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>Url</b>
       </td>
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
         <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Stringa, Schieramento&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -107,16 +107,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>sì</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versione</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Versione della sua presenza.</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -124,8 +124,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Link al servizio&apos;s logotype.</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -133,18 +133,18 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Link alla tua miniatura di presenza.</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>colore</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Valore <code>#HEX</code>. Consigliamo di utilizzare un colore primario del servizio
+        che la vostra presenza supporta.</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -152,18 +152,18 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>tag</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Array con i tag, aiuteranno gli utenti a cercare la tua presenza sul sito.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Stringa, Schieramento&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>Categoria</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Una stringa utilizzata per rappresentare la categoria sotto la quale la presenza cade</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -171,19 +171,19 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Definisce se <code>iFrame</code> sono usati</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>sì</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Un selettore di espressione regolare che seleziona gli iframe da inserire.</td>
+      <td style="text-align:left"><code>Stringa</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>sì</code>
       </td>
     </tr>
   </tbody>
