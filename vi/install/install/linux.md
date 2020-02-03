@@ -13,16 +13,16 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 # Cài đặt
 > Không có một bản cài đặt chính thức cho hệ điều hành này. Đó có nghĩa là sẽ không có hỗ trợ chính thức cho nó. Nhưng bạn có thể trao đổi thông tin với những người dùng Linux khác trên [server Discord](https://discord.gg/premid/) của chúng tôi.{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
+1. Cài đặt [NodeJS](https://nodejs.org/en/).
+2. Mở terminal.
 3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
 6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+7. Nhập: `npm run init`
+8. Chạy ứng dụng: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+Ứng dụng sẽ được chạy tự động. Kiểm tra biểu tượng trên thanh menu.
 
 > The following methods are deprecated and no longer recommended. Use at your own risk. 
 > 
