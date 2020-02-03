@@ -1,5 +1,5 @@
 ---
-title: About PreMiD
+title: Về PreMiD
 description: The core features about PreMiD
 published: true
 date: 2020-01-18T20:32:17.062Z
