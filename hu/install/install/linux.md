@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: PreMiD telepítési útmutató a Linux rendszer esetében
 published: true
 date: 2020-01-18T20:32:37.753Z
 tags:
@@ -19,8 +19,8 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
 6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+7. Írd be:`npm run init`
+8. Indítsd el az alkalmazást: `npm start`
 
 The application will start automatically. Check for the symbol in your menu bar.
 
