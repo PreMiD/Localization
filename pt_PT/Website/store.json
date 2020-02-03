@@ -35,6 +35,18 @@
     "message": "Filtros de pesquisa",
     "description": "Searh filters option at the store page"
   },
+  "store.category.filters.mostUsed": {
+    "message": "Mostrar mais usados primeiro",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Permitir conteúdo para adultos",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Categorias",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Todos",
     "description": "Category at the top"
@@ -70,5 +82,9 @@
   "store.userpage.error1": {
     "message": "Presenças do Utilizador",
     "description": "Userpage title"
+  },
+  "store.search.notFound": {
+    "message": "Não conseguimos encontrar essa presença",
+    "description": "Search result text when nothing's found"
   }
 }
