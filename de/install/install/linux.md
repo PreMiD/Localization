@@ -24,14 +24,14 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung alleine, nic
 
 Die Anwendung startet automatisch. Such danach nach dem Symbol in deiner Menüleiste.
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> Die folgenden Methoden sind veraltet und werden nicht länger empfohlen. Die Nutzung erfolgt auf eigene Gefahr. 
 > 
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Wenn Sie auf Arch Linux oder einer Arch basierten Distribution sind, ist PreMiD im [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) unter `Premid-git` verfügbar. Benutze deinen bevorzugten Paket-Manager, um es dir von dort herunterzuladen!
 
-## Other distributions
+## Andere Distributionen
 - Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
 - If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
 
