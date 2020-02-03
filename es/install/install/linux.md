@@ -33,8 +33,8 @@ Si estás en Arch Linux u otra distribución basada en Archi, PreMiD está dispo
 
 ## Otras distribuciones
 - Script de instalación: `wget -qo- http://bit.ly/install-premid | bash` o `curl -sL https://bit.ly/install-premid | bash`, espera hasta que se instale, haz doble clic en el acceso directo creado en el escritorio, ¡eso es todo!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+- Si deseas desinstalar PreMiD, puedes ejecutar `wget -qO- http://bit.ly/uninstall-premid | bash` o `curl -sL https:/bit.ly/uninstall-premid | bash`.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> No olvides [añadir **la extensión**](/install).{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
