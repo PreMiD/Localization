@@ -8,22 +8,22 @@ tags:
 
 # Requisitos do sistema
 
-> Estes dados estão relacionados apenas ao aplicativo. 
+> Estes dados estão relacionados apenas a esta aplicação. 
 > 
 > {.is-info}
 
-O PreMiD pode ser executado em praticamente qualquer sistema. Isso quer dizer que ele roda em **Linux**, **macOS**, **Windows** e em algumas **modificações do Linux**.
+O PreMiD é executado em praticamente qualquer sistema. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
-### Processador
-PreMiD é executado perfeitamente em um processador single-core.
+### CPU
+PreMiD runs perfectly fine on a single CPU core.
 
 ### RAM
-Sistemas Linux devem ter **no mínimo 20MB de RAM** para executar o PreMiD. Sistemas Windows e macOS geralmente requerem um pouco mais de RAM.
+Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
 
-### Armazenamento
-PreMID consome cerca de **150MB** de espaço de armazenamento. Porém é recomendado possuir no mínimo **200MB** de armazenamento disponível para o PreMiD.
+### Storage
+PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
-### Conexão com a Internet
-Uma conexão com a internet é necessária para executar o PreMiD. O PreMiD irá verificar automaticamente por novas atualizações, idiomas, atualizações de presenças, etc. de vez em quando.
+### Internet Access
+A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
