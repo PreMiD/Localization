@@ -29,14 +29,14 @@ Houd de volgende lijst in gedachten voordat je begint met het maken van je prese
 - De presence **mag geen** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privéinformatie, het negatief beïnvloeden van het gedrag van de website, etc...
 - Als je een presence maakt voor een website die later wordt geüpdatet, ben **JIJ** verantwoordelijk voor het updaten van de presence om het weer werkend te krijgen. Als je het niet repareert in een tijdperiode, mogen andere presence ontwikkelaard jouw presence **overschrijven** om aan de wijzigingen te voldoen.
 - De presence moet getest zijn vóór het publiceren om te bevestigen dat alles werkt.
-- Your presence must have SFW images and descriptions regardless if it is NSFW or not. Als jouw presence van een `nsfw` website is, voeg dan de `nsfw` tag toe aan je metadata.
-- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
-- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
-- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
+- Uw aanwezigheid moet bestaan uit SFW-afbeeldingen en -beschrijvingen, ongeacht of het NSFW is of niet. Als jouw presence van een `nsfw` website is, voeg dan de `nsfw` tag toe aan je metadata.
+- Uw aanwezigheid moet **NIET** voor gratis domeinen of hosts (bv. .TK, [alle gratis Freenom domeinen], . F.GD, enz...), uitzonderingen kunnen worden gemaakt wanneer een bewijs wordt gepresenteerd dat aantoont dat het een betaald domein is.
+- De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra / secundaire context te bieden (zoals "afspelen"/"gepauzeerd" voor videosites, "bladeren" voor reguliere sites en andere kisten. Je hebt geen toestemming om Discord-profielen te promoten of iets dat niet gerelateerd is aan PreMiD.
+- Vereisten voor logo's zijn 1:1 (quare) in 512px, miniaturen echter moet [brede promotiekaartjes](https://i.imgur.com/3QfIc5v.jpg) zijn of [screenshots](https://i.imgur.com/OAcBmwW.png) als de eerste niet beschikbaar is.
+- De presences moeten ten minste 1 tag bevatten, dit is een vereiste volgens ontwerp en kan in de toekomst facultatief zijn.
 - The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
-- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+- Omschrijvingen en tags moeten altijd in arrays staan, zelfs als het maar één element is. Het `url` veld, mag echter alleen een string zijn als het één domein is.
+- Onstabiele sites die voortdurend API/domeinen wijzigen HTML-elementen willekeurig maken of nog steeds in volle ontwikkeling zijn, is niet toegestaan en zal worden verwijderd uit de winkel.
 
 ## Wijzigen
 
@@ -173,35 +173,35 @@ Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/H
 2. Zoek (<kbd>Ctrl</kbd>+<kbd>F</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Voer `document.querySelectorAll("iframe")` uit.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
+1. Maak een `iframe.ts` bestand.
+2. Stel iFrame in op `true` in uw metadata bestand.
+3. Vullen in je iFrame bestand.
 ```javascript
 var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+iframe. n("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Haal alle gegevens op die je nodig hebt uit het iFrame om ze op te slaan in variabelen
+  en verzend ze vervolgens via iframe. einde
   */
   iframe.send({ //sending data
     video: video,
-    time: video.duration
+    tijd: video. uration
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Het maken van je aanwezigheidsbestand om gegevens te ontvangen uit het iframe-bestand.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Opmerking:** Dit moet worden geplaatst buiten de updateData gebeurtenis.
+## Compileren
+Open een console in je map en typ `tsc -w` om de `presence.ts` te compileren in de `/dist` map.
 
-# Structure (JavaScript)
+# Structuur (JavaScript)
 ## Het project klonen
 1. Install [Git](https://git-scm.com/).
 2. Open een terminal en typ `git clone https://github.com/PreMiD/Presences`.
@@ -212,7 +212,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 1. Maak een map met de **naam** (niet een URL) van de service die je wilt ondersteunen.
 3. Maak een map met de naam `dist` in de map.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+4. Maak een `metadata.json` bestand en een `presence.js` bestand in de `dist` map.
 
 ## Het metadata.json bestand invullen
 
@@ -223,40 +223,40 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ## Aan de slag
 
 ```javascript
-var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+var presence = nieuwe Presence({
+    clientId: "000000000000000000", //de client ID van de applicatie gemaakt op https://discordapp. om/ontwikkelaars/applicaties
+    mediaKeys: false ///Enable use and detectie van mediaknoppen
 }),
 
-strings = presence.getStrings({
+tekenreeksen = aanwezigheid. ({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    pauze: "presence.playback. geausteerd"
+    //U kunt dit gebruiken om vertaalde tekenreeksen te krijgen
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+functie myOutsideūyLiftingFunction(){
+    //Grab en verwerk al je data hier
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // element grijbs //
+    // api roept //
+    // variabele sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, myOutsideFitingFunctie); 
+/Uitvoeren van de functie los van de UpdateData-gebeurtenis elke 10 seconden om de variabelen te krijgen en in te stellen die de UpdateData ophaalt
 
 */
 
 
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
+aanwezigheid. n("UpdateData", () => {
+    ///UpdateData wordt altijd geopend, en daarom moet je als je ververscyclus of `tick` gebruiken. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    //Het wordt aangeraden om een andere functie buiten deze gebeurtenisfunctie in te stellen die de variabele waarden zal veranderen en het zware lift zal doen als u gegevens uit een API aanroept.
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+        largeImageKey: "key", /*De sleutel (bestandsnaam) van de grote afbeelding op de aanwezigheid. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
         smallImageKey: "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
         smallImageText: "Some hover text", //De tekst die wordt weergeven wanneer je eroverheen wijst
         details: "Browsing Page Name", //Het bovenste gedeelte van je presence
@@ -275,7 +275,7 @@ presence.on("UpdateData", () => {
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Het instellen van alle waardes wordt gedaan binnen het updateData-event.
+Je kan dit kopiëren naar je `presence.js` bestand en de waardes bewerken. Het instellen van alle waardes wordt gedaan binnen het updateData-event.
 
 Voor voorbeelden raden we aan om naar de code van de presences van bijvoorbeeld 1337x of 9GAG te kijken.
 
@@ -289,68 +289,68 @@ Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/H
 2. Zoek (<kbd>Ctrl</kbd>+<kbd>F</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Voer `document.querySelectorAll("iframe")` uit.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
+1. Maak een `iframe.js` bestand.
+2. Stel iFrame in op `true` in uw metadata bestand.
+3. Vullen in je iFrame bestand.
 ```javascript
 var iframe = new iFrame();
-iframe.on("UpdateData", () => {
+iframe. n("UpdateData", () => {
     /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
+    Haal alle gegevens op die je nodig hebt uit het iFrame om ze op te slaan in variabelen
+    en verzend ze vervolgens met iframe. einde
     */
-    iframe.send({ //sending data
+    iframe. end({ //sending data
         video: video,
-        time: video.duration  
+        tijd: video. uration  
     });
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Het maken van je aanwezigheidsbestand om gegevens te ontvangen uit het iframe-bestand.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Opmerking:** Dit moet worden geplaatst buiten de updateData gebeurtenis.
 # Het metadata.json bestand invullen
-We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator). Het wordt nog steeds aangeraden dit door te lezen, zodat u weet hoe het werkt.
 
 ```javascript
 {
-  "author": {
-    "name": "USER",
+  "auteur": {
+    "name": "GEBRUIKER",
     "id": "ID"
   },
-  "contributors": [{
-    "name": "USER",
+  "bijdragers": [{
+    "naam": "GEBRUIKER",
     "id": "ID"
   }],
   "service": "SERVICE",
-  "description": {
+  "beschrijving": {
     "en": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSION",
+  "versie": "VERSIE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "categorie": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": false
+  "iframe": vals
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in uw `metagegevens staan. zoon` bestand, als u niet van plan bent om ze te gebruiken, dan moet u ze verwijderen.
 - `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**Bepaalde voorinstellingen van waarde verduidelijken:**
 <table>
   <thead>
     <tr>
@@ -384,7 +384,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">De titel van de dienst die door deze presence wordt ondersteund. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">De titel van de dienst die door deze presence wordt ondersteund. <br>(Naam van de map waar alles in zit)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
@@ -406,10 +406,10 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
         <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Vergeet <b>NIET</b> toe te voegen!<br>
+U kunt meerdere URL's toevoegen door het volgende te doen:<br>
+<code>["URL1", "URL2", "ETC. ]</code><br>
+U kunt regExp ook bekend als Regex gebruiken voor deze taak, leg hieronder uit
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -481,7 +481,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">Een tekst die wordt gebruikt om de categorie aan te geven waar de presence onder valt. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Een tekst die wordt gebruikt om de categorie aan te geven waar de presence onder valt. Zie de geldige catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
@@ -499,7 +499,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Een reguliere expressie string gebruiken om iFrames te vergelijken. See regExp for more info.</td>
+      <td style="text-align:left">Een reguliere expressie string gebruiken om iFrames te vergelijken. Zie regExp voor meer informatie.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -508,25 +508,25 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Klik [hier](/dev/presence#filling-in-the-metadatajson-file) om terug te gaan naar de TypeScript uitleg. Klik [hier](/dev/presence#filling-in-the-metadatajson-file-1) om terug te gaan naar de JavaScript-uitleg.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Laden van de aanwezigheid
+1. Open de pop-up en houd de <kbd>Shift</kbd> knop op je toetsenbord in.
+2. **Laad Presence** verschijnt in de Presences sectie.
+3. Klik erop terwijl je nog steeds de <kbd>Shift</kbd> knop ingedrukt houdt.
+4. Selecteer de map /dist van uw aanwezigheid.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Enkele nuttige dingen
+## Hot-herladen
+De website waar je mee bezig bent wordt automatisch herladen wanneer je een bestand in je map opslaat.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## Foutopsporing
+- Je kunt `console.log("Test");` tussen je code zetten en kijken of je browser console je die uitvoer geeft. Als ja, ga dan verder en probeer het opnieuw na de volgende functie. Zo niet, dan is er een fout hierboven.
+- Als dat je ook niet helpt, vraag dan een pressie-ontwikkelaar op onze [Discord-server](https://discord.gg/PreMiD) voor hulp.
 
-# Files explained
+# Uitleg van bestanden
 - [Presence Klasse](/dev/presence/class)
 - [iFrame Klasse](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [Metadata bestand](/dev/presence/metadata)
 - [TypeScript configuratie](/dev/presence/tsconfig)
 {.links-list}
