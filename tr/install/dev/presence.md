@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-01-18T20:32:30.306Z
+date: 2020-02-03T13:55:37.732Z
 tags:
 ---
 
@@ -29,7 +29,14 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 - Servis güvensiz **hiçbir** amaç barındırmamalıdır. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
 - Eğer servisini yaptığınız bir site ileride güncellenirse, servisi güncelleyip tekrar çalışır hale getirmek **SİZİN** sorumluluğunuzdur. Eğer kısa süre içerisinde gerekli düzeltmeleri yapıp yayınlamazsanız, diğer servis geliştiricileri sizin kodunuzu **tekra yazma** veya düzenleme hakkına sahiptir.
 - Servis, incelemeye gönderilmeden önce test edilmeli ve her şeyin çalıştığına emin olunmalıdır.
-- Servis, uygunsuz olsa bile "uygun" resimlere ve açıklamalara sahip olmalıdır. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw`'yi eklemeniz gerekmektedir.
+- Your presence must have SFW images and descriptions regardless if it is NSFW or not. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw`'yi eklemeniz gerekmektedir.
+- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
+- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
+- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
+- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
+- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
+- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
 
 ## Yapılandırma
 
