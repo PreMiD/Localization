@@ -16,20 +16,20 @@ Puedes pulsar <kbd>Ctrl+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacO
 ### Reinicia el navegador
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) también funcionará. (Obviamente tienes que volver a iniciar el navegador)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Asegúrate de haber habilitado la Actividad de Juegos en las opciones de Discord
+**Ajustes de usuario** > **Actividad de juegos** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Reinicia PreMiD (Aplicación)
+![quit.png](/quit.png) Tienes que reiniciar después PreMiD.
 
-### Reload/restart Discord
-Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Recarga/Reinicia Discord
+Pulsa <kbd>Ctrl+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en el teclado o reinicia Discord manualmente.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Asegúrate de que Discord NO se esté ejecutando como administrador
+Muy importante. Discord RPC no funcionará si ejecutas Discord como administrador.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Comprueba si tienes antivirus o cortafuegos ejecutando en el ordenador
+A veces los antivirus o cortafuegos pueden bloquear aplicaciones que están creando/alojando servidores o que se conectan a Internet. Utilizamos un servidor local para recibir y pasar los datos entre la aplicación y la extensión, por tanto si no podrás utilizar PreMiD si bloqueas la habilidad de pasar los datos entre ellos.
 
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
