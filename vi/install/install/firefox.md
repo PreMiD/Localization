@@ -1,12 +1,12 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: Bắt đầu tải PreMiD trên trình duyệt Firefox
 published: true
 date: 2020-01-18T20:32:35.718Z
 tags:
 ---
 
-Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng không thể làm gì một mình hết.
+Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
 1. Đến trang tải của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
@@ -17,7 +17,7 @@ Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng kh�
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Đừng quên [ tải **ứng dụng**](/install). 
 > 
 > {.is-warning}
 
