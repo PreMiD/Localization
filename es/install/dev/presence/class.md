@@ -10,9 +10,9 @@ tags:
 
 ## Introducción
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+La clase `Presence` es útil dado que contiene métodos básicos para construir una presencia.
 
- When you create a class you must specify `clientId` property.
+ Cuando creas una clase has de especificar apropiadamente el campo `clientId`.
 
 ```typescript
 let presence = new Presence({
@@ -20,17 +20,17 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Hay dos propiedades disponibles para la clase `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+La propiedad `clientId` ha de ser proporcionada para que la presencia funcione correctamente, porque utiliza su id de aplicación para mostrar su logo y recursos.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Puedes obtenerlo en tu [página de aplicaciones](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Esta propiedad le dice a nuestra aplicación que registre las pulsaciones de teclado de las teclas multimedia y nos permite usar el evento `MediaKeys` para la clase `Presence`.
 
 This property is not required, but if you want to enable media keys you should set it to `true`.
 
