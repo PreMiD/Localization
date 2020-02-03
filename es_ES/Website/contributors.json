@@ -16,7 +16,7 @@
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Desarrollador de Web",
+    "message": "Desarrollador Web",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
