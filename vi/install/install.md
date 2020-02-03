@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:22.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Trước khi tiến hành, hãy đảm bảo rằng hệ thống của bạn phù hợp vói [yêu cầu hệ thống](/install/requirements). 
 > 
 > {.is-info}
 
@@ -14,10 +14,10 @@ tags:
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Chọn hệ điều hành:**
+- [Windows *7 hoặc trở lên*](/install/windows)
+- [MacOS *10.11 hoặc trở lên*](/install/macos)
+- [Linux *4 hoặc trở lên*](/install/linux)
 {.links-list}
 
 **Choose your browser:**
