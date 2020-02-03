@@ -45,7 +45,7 @@ Windows:    `C:\Users\USER\Program Files (x86)\`` und lösche den Ordner `PreMiD
 MacOS:`~/users/USER/~Library/Application Support/`und lösche den Ordner` PreMiD``.
 
 ### Auf Ubuntu/Debian basierten Distributionen
-Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. Du musst die Snapcraft Version deinstallieren, indem du `sudo snap remove discord` auf einem Terminal eingibst, lade als nächstes [Discords Linux Build](https://discordapp.com/api/download?platform=linux) herunter ([oder Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigiere dann zu dem Verzeichnis, in welchem du Discord heruntergeladen hast (üblicherweise `$HOME/Downloads`), installiere dann das Paket mit `sudo dpkg -i discord-*.deb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+### Das hat mein Problem nicht gelöst
+Bitte öffne ein Ticket unter [#support](https://discord.gg/PreMiD).
