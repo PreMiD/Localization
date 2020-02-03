@@ -20,7 +20,7 @@ Cài đặt PreMiD rất nhanh và dễ. Bạn có thể sử dụng nó trong k
 
 - Hãy chắc là bạn đã đọc [những yêu cầu hệ thống](/install/requirements).
 - Làm theo [hướng dẫn cài đặt ](/install) dễ và nhanh chóng.
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- [Xử lý vấn đề](/troubleshooting) hướng dẫn bạn qua những giải pháp cho những vấn đề phổ biến.
 
 # Nhà phát triển
 
