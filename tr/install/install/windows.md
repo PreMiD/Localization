@@ -18,6 +18,6 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 Uygulama otomatik olarak başlayacaktır. Uygulamanın çalıştığını anlamak için menü çubuğunuzdaki simgeyi kontrol edin.
 
-> Eklentiyi [eklemeyi ](/install) unutmayın.{.is-warning}
+> **[Eklentiyi](/install)** de eklemeyi unutmayın.{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
