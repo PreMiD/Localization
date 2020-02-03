@@ -32,9 +32,9 @@ Puedes obtenerlo en tu [página de aplicaciones](https://discordapp.com/develope
 
 Esta propiedad le dice a nuestra aplicación que registre las pulsaciones de teclado de las teclas multimedia y nos permite usar el evento `MediaKeys` para la clase `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Esta propiedad no es requerida, pero si desea habilitar las teclas multimedia debe establecerla a `true`.
 
-**All mediaKey events are temporarily disabled!**
+**¡Todos los eventos mediaKey están temporalmente desactivados!**
 
 ```typescript
 let presence = new Presence({
@@ -43,31 +43,31 @@ let presence = new Presence({
 });
 ```
 
-## Methods
+## Métodos
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Establece la actividad de tu perfil de acuerdo a los datos proporcionados.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+El primer parámetro requiere la interfaz `presenceData` para obtener toda la información que deseas mostrar en tu perfil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+El segundo parámetro indica si la presencia está reproduciendo algo o no. Utiliza siempre `true` si proporcionas marcas de tiempo en `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Limpia la actividad actual, los atajos de teclado y el título de la barra de tareas.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Este método funciona sólo en Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Establece el título de la bandeja en la barra de menús.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Permite obtener texto traducido a través de la extensión. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
