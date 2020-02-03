@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Cài đặt PreMiD trên macOS
 published: true
 date: 2020-01-18T20:32:39.829Z
 tags:
@@ -14,9 +14,9 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 # Cài đặt
 1. Đến trang web của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
+2. Chọn **OS X**.
+3. Giải nén file lưu trữ nếu cần thiết.
+4. Mở bộ cài đặt.
 5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
 > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 6. Choose open when prompted.
