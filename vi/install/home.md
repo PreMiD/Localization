@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-warning}
 
-# About PreMiD
+# Về PreMiD
 - :mag: [PreMiD là gì?](/about) Ý đinh đằng sau PreMiD và tại sao bạn nên dùng nó.
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
