@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Bevor Sie fortfahren, stellen Sie sicher, dass Ihr System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
