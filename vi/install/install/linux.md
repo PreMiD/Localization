@@ -1,17 +1,17 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Tải PreMiD trên Linux
 published: true
 date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Trước khi cài đặt, hãy chắc chắn rằng hệ thống của bạn phù hợp với [yêu cầu hệ thống](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Không có một bản cài đặt chính thức cho hệ điều hành này. Đó có nghĩa là sẽ không có hỗ trợ chính thức cho nó. Nhưng bạn có thể trao đổi thông tin với những người dùng Linux khác trên [server Discord](https://discord.gg/premid/) của chúng tôi.{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).
 2. Open a terminal.
