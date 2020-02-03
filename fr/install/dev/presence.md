@@ -29,14 +29,14 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - La présence **ne doit pas** avoir aucune intention malveillante. Celles-ci incluent le vol ou la fuite d'informations privées, affectant négativement le comportement du site, etc...
 - Si vous créez une présence pour un site web et que le site web change dans le futur, vous **Êtes** responsable de la mise à jour de la présence pour fonctionner comme prévu. Si vous ne le corrigez pas dans un délai acceptable, les autres développeurs de présence sont autorisés à **écraser** votre présence pour se conformer aux modifications.
 - La présence doit être testée avant la publication pour confirmer que tout fonctionne comme prévu.
-- Your presence must have SFW images and descriptions regardless if it is NSFW or not. Si votre présence concerne un site web `nsfw` , veuillez ajouter la balise `nsfw` à vos métadonnées.
-- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
-- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
-- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
-- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+- Votre présence doit avoir des images et des descriptions SFW, qu'elles soient NSFW ou non. Si votre présence concerne un site web `nsfw` , veuillez ajouter la balise `nsfw` à vos métadonnées.
+- Votre présence ne doit **PAS** être pour des domaines ou des hôtes gratuits (par exemple, .TK, [tous les domaines libres de Freenom], . F.GD, etc...), des exceptions peuvent être faites si une preuve est présentée montrant qu'il s'agit d'un domaine payant.
+- Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme "playing"/"pause" pour les sites vidéo, « naviguer » pour les sites réguliers et autres cas de figure). Vous n'êtes pas autorisé à promouvoir des profils Discord ou quoi que ce soit sans lien avec PreMiD.
+- Les exigences pour les logos sont 1:1 (Square) en 512px, par contre, les vignettes doit être [une carte promotionnelle large](https://i.imgur.com/3QfIc5v.jpg) ou simplement [une capture d'écran](https://i.imgur.com/OAcBmwW.png) si la première n'est pas disponible.
+- Les présences devraient avoir au moins 1 tag, c'est une exigence par conception et peut être facultative à l'avenir.
+- Le champ `url` ne doit pas inclure `http://` ou `https://`, ni les paramètres (e.g. une présence pour `https://www.google.com/search?gws_rd=ssl` n'aura que `www.google.com` dans le champ `url`).
+- Les descriptions et les balises doivent toujours être dans un tableau, même s'il ne s'agit que d'un élément. Le champ `url` ne doit cependant être qu'une chaîne de caractères si c'est un domaine.
+- Sites instables qui changent constamment les API/domaines, aléatoirement des éléments HTML ou simplement en cours de développement intensif ne sont pas autorisés et seront retirés du magasin.
 
 ## Modifications
 
@@ -394,24 +394,24 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Petite description de la présence, vous pouvez utiliser la description du service
-        si vous n'avez pas d'idées. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+        si vous n'avez pas d'idées. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées.</td>
       <td style="text-align:left"><code>Objet</code>
       </td>
       <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk. om</code><br>
+        <b>Cette URL doit correspondre à l'URL du site car elle détectera si oui ou non c'est le site Web auquel il faut injecter le script.</b><br> Ne pas <b>NON</b> ajoutez <code>https://</code> ou <code>http://</code> à l'intérieur de l'URL ni un slash à la fin :
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Note</b>: Certaines URLs peuvent avoir <code>www.</code> ou quelque chose d'autre devant leur domaine. N'oublie pas <b>PAS</b> de l'ajouter !<br>
+Vous pouvez ajouter plusieurs URLs en faisant ce qui suit :<br>
+<code>["URL1", "URL2", "ETC. ]</code><br>
+Vous pouvez également utiliser regExp aussi connu sous le nom de Regex pour cette tâche, expliqué plus loin ci-dessous.
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Non</code>
       </td>
@@ -419,13 +419,13 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left">Une chaîne d'expression rationnelle utilisée pour faire correspondre les URL.<br>
+      regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site web a plusieurs sous-domaines.<br>
+Vous pouvez utiliser le regExp suivant pour cela :<br>
+<code>([a-z0-9]+)[.]domaine[.]TLD"</code><br>
+TLD représentant le domaine de niveau supérieur pour axample: . om .net<br> 
+<code>([a-z0-9]+ )</code> signifie n'importe quoi de a à z et de 0 à 9.<br>
+        Vous pouvez tester votre regExp sur <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -434,16 +434,16 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Version de votre présence.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>Logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Lien vers le logo du service&apos;s.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -452,17 +452,17 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Lien vers votre miniature de présence.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>couleur</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>valeur #HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
+        que votre présence supporte.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -471,17 +471,17 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>tags</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Tableau avec des tags, ils aideront les utilisateurs à rechercher votre présence sur le site Web.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>Catégorie</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Une chaîne utilisée pour représenter la catégorie sous laquelle tombe la présence. Voir les catergories valides <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">ici</a>.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -490,7 +490,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Définit si <code>iFrames</code> sont utilisés</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -499,7 +499,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">Un sélecteur d'expression régulière qui sélectionne les iframes à injecter. Voir regExp pour plus d'informations.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -508,25 +508,25 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Cliquez sur [ici](/dev/presence#filling-in-the-metadatajson-file) pour revenir à l'explication TypeScript. Cliquez sur [ici](/dev/presence#filling-in-the-metadatajson-file-1) pour revenir à l'explication JavaScript.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Chargement de la présence
+1. Ouvrez la popup et maintenez le bouton <kbd>Maj</kbd> sur votre clavier.
+2. **Charger Presence** apparaîtra dans la section Presences.
+3. Cliquez dessus alors que vous maintenez le bouton <kbd>Maj</kbd>.
+4. Sélectionnez le dossier /dist de votre présence.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Quelques choses utiles
+## Rechargement chaud
+Le site Web sur lequel vous développez est automatiquement rechargé chaque fois que vous enregistrez un fichier dans votre dossier.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## Débogage
+- Vous pouvez mettre `console.log("Test");` entre votre code et voir si votre console de navigateur vous donne cette sortie. Si oui, continuez et réessayez après la fonction suivante. Si ce n'est pas le cas, il y a une erreur ci-dessus.
+- Si cela ne vous aide pas non plus, demandez à un développeur de présence sur notre serveur [Discord](https://discord.gg/PreMiD) pour obtenir de l'aide.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Fichiers expliqués
+- [Classe de présence](/dev/presence/class)
+- [Classe iFrame](/dev/presence/iframe)
+- [Fichier de métadonnées](/dev/presence/metadata)
+- [Configuration TypeScript](/dev/presence/tsconfig)
 {.links-list}
