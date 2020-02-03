@@ -185,8 +185,8 @@ Este evento es lanzado cada vez que la presencia es actualizada.
 
 #### `MediaKeys` (deshabilitado)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Lanzado cuando el usuario utiliza teclas multimedia en su teclado, [clic aquí](/dev/presence/class#mediakeys) para obtener más información acerca de las teclas multimedia.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Lanzado cuando se obtienen datos del script iFrame.
