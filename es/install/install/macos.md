@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+La instalación de la aplicación es muy importante, ya que la extensión no puede hacer nada por sí misma.
 
 # Instalar
 1. Ve a nuestra página de descargar [pulsando aquí](https://premid.app/downloads).
@@ -22,7 +22,7 @@ The installation of the application is very important as the extension can not d
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+La aplicación iniciará automáticamente. Comprueba el símbolo en la barra de tareas.
 
 > Do not forget to [add the **extension**](/install). 
 > 
