@@ -49,47 +49,47 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Description</th>
       <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Optionnel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>auteur</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Doit contenir un objet avec le nom <code></code> et <code>id</code> du développeur de présence. Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+        et en faisant un clic droit sur votre profil.</td>
+      <td style="text-align:left"><code>Objet</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributeurs</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      <td style="text-align:left">Doit contenir un objet avec le nom <code></code> et <code>id</code> du développeur de présence. Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+        et en faisant un clic droit sur votre profil.</td>
+      <td style="text-align:left"><code>Tableau&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Oui</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>Service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Le titre du service que cette présence supporte.</td>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Petite description de la présence, vous pouvez utiliser la description du service
+        si vous n'avez pas d'idées. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><code>Objet</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
@@ -100,43 +100,43 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Oui</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
@@ -144,9 +144,9 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
         that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
@@ -156,16 +156,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Non</code>
       </td>
     </tr>
     <tr>
@@ -174,16 +174,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Oui</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Oui</code>
       </td>
     </tr>
   </tbody>
