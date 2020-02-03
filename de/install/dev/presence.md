@@ -29,14 +29,14 @@ Beachten Sie die folgende Liste, bevor Sie an Ihrer Anwesenheit arbeiten.
 - Die Anwesenheit **darf nicht** haben keine bösen Absichten. Dazu gehören das Stehlen / Weitergeben von privaten Informationen, die Beeinträchtigung des Verhaltens der Website usw.
 - Wenn Sie eine Präsenz für eine Website - Design und die Website geschieht in der Zukunft ändern, Sie **ARE** verantwortlich für die Anwesenheit wieder an die Arbeit zu aktualisieren , wie erwartet. Wenn Sie es nicht innerhalb eines akzeptablen Zeitrahmens beheben, sind andere Präsenz Entwickler erlaubt **überschreiben** Ihre Anwesenheit mit den Änderungen zu erfüllen.
 - Das Vorhandensein muss vor der Veröffentlichung getestet werden, um sicherzustellen, dass alles wie erwartet funktioniert.
-- Your presence must have SFW images and descriptions regardless if it is NSFW or not. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
-- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
-- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
-- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
-- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+- Ihre Anwesenheit muss SFW-Bilder und -Beschreibungen haben, unabhängig davon, ob es NSFW ist oder nicht. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
+- Ihre Präsenz muss **NICHT** für kostenlose Domains oder Hosts sein (z.B. .TK, [alle freien Freenom-Domains], . F.GD, etc...), Ausnahmen können gemacht werden, wenn ein Nachweis vorgelegt wird, dass es sich um eine bezahlte Domain handelt.
+- Die `small ImageKey` und `smallImageText` Felder sollen zusätzlich/sekundären Kontext (wie "playing"/"paused" für Video-Sites bereitstellen "Browsing" für normale Websites und andere Fälle). Du bist nicht berechtigt Discord Profile zu fördern oder nichts mit PreMiD zu tun.
+- Die Anforderungen für Logos sind allerdings 1:1 (Quare) in 512px, Thumbnails, aber sollten entweder [weite Werbekarten](https://i.imgur.com/3QfIc5v.jpg) oder einfach [Screenshots](https://i.imgur.com/OAcBmwW.png) sein, falls die ersten nicht verfügbar sind.
+- Die Präsenzen sollten mindestens 1 Tag haben, dies ist eine Anforderung nach Design und kann in der Zukunft optional sein.
+- Das Feld `url` darf nicht `http://` oder `https://`enthalten, auch nicht die Parameter (z. eine Präsenz für `https://www.google.com/search?gws_rd=ssl` hat nur `www.google.com` im `url` Feld.
+- Beschreibungen und Tags sollten immer in Arrays sein, auch wenn es nur ein Element ist. Das Feld `url` sollte jedoch nur ein String sein, wenn es sich um eine Domain handelt.
+- Instabile Seiten, die ständig APIs/Domains ändern Zufallsgenerierung von HTML-Elementen oder einfach nur in einer schweren Entwicklung sind nicht erlaubt und werden aus dem Store entfernt.
 
 ## Änderung
 
