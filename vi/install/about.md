@@ -14,5 +14,5 @@ PreMiD là một tiện ích đơn giản, có thể tùy chỉnh cho phép bạ
 - Một tính năng lớn, gọi là WatchParties, đang đến với PreMiD. With game invitations and simultaneous watching and listening. Cung cấp bởi [Discord](https://discordapp.com/).
 
 # Tính năng cốt lõi
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+- Hiển thị dịch vụ web hiện tại lên làm trạng thái trên Discord.
+- Cho toàn bộ kiểm soát về Trạng thái.
