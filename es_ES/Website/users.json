@@ -1,1 +1,26 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Desarrollador de Presencias",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Verificador de presencias",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Desarrollador de Presencias Importantes",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Creado {0} presencias.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.notFound.heading": {
+    "message": "No se ha podido encontrar ese usuario. Intenta asegurarte:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "El ID del usuario que estás buscando es correcto.",
+    "description": "Check user ID message."
+  }
+}
