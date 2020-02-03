@@ -27,7 +27,7 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 - Los medios que incluye (icono/miniatura) deben estar relacionados con el sitio web y deben ser comprensibles en términos de tamaño y calidad.
 - La estructura de archivos debe ser limpia y administrada, no tener archivos aleatorios que no proporcionen nada a la función de la presencia.
 - La presencia **no debe** tener ninguna intención maliciosa. Estas incluyen robo/filtración de información privada, afectando negativamente el comportamiento del sitio web, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. Si no lo arregla dentro de un plazo aceptable, otros desarrolladores de presencia tienen permitido **sobrescribir** su presencia para cumplir con los cambios.
+- Una vez realizada una presencia para un sitio web si esta cambia en un futuro **TU** eres responsable de actualizar dicha presencia para que funcione correctamente. Si no lo arregla dentro de un plazo aceptable, otros desarrolladores de presencia tienen permitido **sobrescribir** su presencia para cumplir con los cambios.
 - La presencia debe ser probada antes de publicar para confirmar que todo funciona como se esperaba.
 - Su presencia debe tener imágenes SFW y descripciones independientemente de si es NSFW o no. Si su presencia es acerca de un sitio web `nsfw` , añada la etiqueta `nsfw` a sus metadatas.
 - Su presencia debe **NO** ser para dominios o hosts gratuitos (por ejemplo, .TK, [todos los dominios Freenom gratuitos], . F.GD, etc...), se pueden hacer excepciones si se presenta un comprobante que demuestra que es un dominio pagado.
