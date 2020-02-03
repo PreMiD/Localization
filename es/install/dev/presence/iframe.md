@@ -52,4 +52,4 @@ This event is fired every time the iframe is being updated.
 
 #### `MediaKeys` (deshabilitado)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Lanzado cuando el usuario utiliza teclas multimedia en su teclado, [clic aquí](/dev/presence/class#mediakeys) para obtener más información acerca de las teclas multimedia.
