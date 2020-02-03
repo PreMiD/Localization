@@ -1,20 +1,20 @@
 ---
 title: Problemlösung
-description: Everything to solve your problem
+description: Alles, um dein Problem zu lösen
 published: true
 date: 2020-01-18T20:32:24.820Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Stelle sicher, dass du die Erweiterung **und** die Anwendung installiert hast! 
 > 
 > {.is-warning}
 
-### Reload the page
-You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### Die Seite neu laden
+Sie können <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) oder <kbd>CMD+R</kbd> (MacOS) auch auf Ihrer Tastatur drücken, anstatt nach dem Aktualisieren-Button zu suchen.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Browserneustart
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) leisten ebenfalls gute Arbeit. (Du musst deinen Browser natürlich erneut starten.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
