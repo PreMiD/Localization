@@ -1,12 +1,12 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: Bắt đầu với cài đặt PreMiD trên những trình duyệt dựa trên Chromeium
 published: true
 date: 2020-01-18T20:32:33.964Z
 tags:
 ---
 
-Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng không thể làm gì một mình hết.
+Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
 ### Chrome, Edge, etc.
@@ -18,7 +18,7 @@ Sự cài đặt tiện ích mở rộng rất quan trọng vì ứng dụng kh�
 1. Thêm **[Tải tiện ích mở rộng Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
 2. Thêm [Tiện ích của chúng tôi](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Đừng quên [ tải **ứng dụng**](/install). 
 > 
 > {.is-warning}
 
