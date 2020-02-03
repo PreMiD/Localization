@@ -6,14 +6,14 @@ date: 2020-01-18T20:32:39.829Z
 tags:
 ---
 
-> Antes de ir mais longe, certifique-se de que seu sistema atenda a todos os [requisitos](/install/requirements). 
+> Antes de ir mais longe, certifique-se que o seu sistema tem todos os [requisitos](/install/requirements). 
 > 
 > {.is-info}
 
-A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Instalar
-1. Vá para a nossa página de downloads [clicando aqui](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
@@ -22,7 +22,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
+The application will start automatically. Check for the symbol in your menu bar.
 
 > Do not forget to [add the **extension**](/install). 
 > 
