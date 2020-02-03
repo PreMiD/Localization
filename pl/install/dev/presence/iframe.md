@@ -1,12 +1,12 @@
 ---
-title: iFrame Class
+title: Klasa iFrame
 description:
 published: tak
 date: 2020-01-18T20:32:55.147Z
 tags:
 ---
 
-# iFrame Class
+# Klasa iFrame
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
