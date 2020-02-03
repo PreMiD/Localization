@@ -14,7 +14,7 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
 2. Válaszd a **Windows** menüpontot.
 3. Nyisd meg a telepítőt.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Kattints a **További információ** feliratra, majd válaszd a **Futtatás mindenképpen** opciót. > Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Támogass minket](https://www.patreon.com/Timeraa) ennek finanszírozásáért.{.is-info}
+4. Első telepítés esetén a **Windows SmartScreen** jelenik meg. Kattints a **További információ** feliratra, majd válaszd a **Futtatás mindenképpen** opciót. > Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Támogass minket](https://www.patreon.com/Timeraa) ennek finanszírozásáért.{.is-info}
 
 The application will start automatically. Ellenőrizd a szimbólumot a tálcán.
 
