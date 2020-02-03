@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:22,753Z
 tags:
 ---
 
-> Antes de ir mais longe, certifique-se que o seu sistema tem todos os [requisitos](/install/requirements). 
+> Antes de ir mais longe, certifique-se que o seu sistema cumpre todos os [requisitos](/install/requirements). 
 > 
 > {.is-info}
 
