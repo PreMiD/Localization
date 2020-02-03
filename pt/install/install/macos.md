@@ -6,14 +6,14 @@ date: 2020-01-18T20:32:39.829Z
 tags:
 ---
 
-> Antes de ir mais longe, certifique-se que o seu sistema cumpre todos os [requisitos](/install/requirements). 
+> Antes de ir mais longe, certifique-se de que seu sistema atenda a todos os [requisitos](/install/requirements). 
 > 
 > {.is-info}
 
-A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
+A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
 
 # Instalar
-1. Vá á nossa página de transferência [clicando aqui](https://premid.app/downloads).
+1. Vá para a nossa página de downloads [clicando aqui](https://premid.app/downloads).
 2. Escolha **OS X**.
 3. Extraia o arquivo, se necessário.
 4. Abra o instalador.
@@ -22,7 +22,7 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 6. Escolha abrir quando solicitado.
 7. Conceda acesso a conexões através de **Firewall** e controle **Eventos do Sistema** quando solicitado.
 
-A aplicação irá iniciar automaticamente. Procure o símbolo na sua barra de menu.
+O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
 
 > Não se esqueça de <a href=/install">adicionar a **extensão**</a>. 
 > 
