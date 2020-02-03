@@ -8,21 +8,21 @@ tags:
 
 > Bevor Sie fortfahren, stellen Sie sicher, dass Ihr System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Die Installation der Anwendung ist sehr wichtig, da die Erweiterung alleine, nicht funktionieren wird.
 
 # Installieren
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Für dieses Betriebssystem gibt es kein offizielles Installationsprogramm. Dies bedeuted, dass es keinen offiziellen Support dafür gibt. Du kannst jedoch auf unserem [Discord Server](https://discord.gg/premid/)Informationen mit anderen Linux-Nutzern austauschen.{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-4. Change the working directory: `cd PreMiD/src`
-5. Install the dependencies and the application: `npm install`
-6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+1. Installiere [NodeJS](https://nodejs.org/en/).
+2. Öffne ein Terminal.
+3. Kopiere das Projektarchiv: `git clone https://github.com/Timeraa/PreMiD.git`
+4. Klone das Projektarchiv: `cd PreMiD/src`
+5. Installiere die Abhängigkeiten und die Anwendung: `npm install`
+6. Ändere das Arbeitsverzeichnis: `cd ..`
+7. Schreibe: `npm run init`
+8. Starte die Anwendung: `npm Start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+Die Anwendung startet automatisch. Such danach nach dem Symbol in deiner Menüleiste.
 
 > The following methods are deprecated and no longer recommended. Use at your own risk. 
 > 
