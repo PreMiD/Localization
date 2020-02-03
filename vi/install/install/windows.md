@@ -13,7 +13,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 # Cài đặt
 1. Đến trang web của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
 2. Choose **Windows**.
-3. Open the installer.
+3. Mở bộ cài đặt.
 4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 Ứng dụng sẽ được chạy tự động. Check for the symbol in your system tray.
