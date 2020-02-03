@@ -96,7 +96,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variável</th>
       <th style="text-align:left">Descrição</th>
       <th style="text-align:left">Tipo</th>
     </tr>
@@ -105,13 +105,13 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Segunda linha da sua presença.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
@@ -137,20 +137,20 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
   </tbody>
