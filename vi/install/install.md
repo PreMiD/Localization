@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> Nó **cần thiết** để tải cả **ứng dụng** và **tiện ích**! 
 > 
 > {.is-warning}
 
@@ -20,9 +20,9 @@ tags:
 - [Linux *4 hoặc trở lên*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Chọn trình duyệt:**
+- [Chromium *v76 hoặc trở lên*](/install/chromium)
+- [Firefox *v69 hoặc trở lên*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
