@@ -6,9 +6,9 @@ date: 2020-01-18T20:32:44.173Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Trước khi cài đặt, hãy chắc chắn rằng hệ thống của bạn phù hợp với [yêu cầu hệ thống](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
 1. Đến trang web của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
