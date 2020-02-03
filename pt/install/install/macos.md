@@ -6,11 +6,11 @@ date: 2020-01-18T20:32:39.829Z
 tags:
 ---
 
-> Antes de ir mais longe, certifique-se que o seu sistema tem todos os [requisitos](/install/requirements). 
+> Antes de ir mais longe, certifique-se que o seu sistema cumpre todos os [requisitos](/install/requirements). 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
 # Instalar
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
@@ -22,7 +22,7 @@ The installation of the application is very important as the extension can not d
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+A aplicação irá iniciar automaticamente. Procure o símbolo na sua barra de menu.
 
 > Do not forget to [add the **extension**](/install). 
 > 
