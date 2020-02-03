@@ -49,12 +49,12 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrição</th>
       <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Opcional</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b>
+      <td style="text-align:left"><b>autor(a)</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -64,7 +64,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>colaboradores</b>
+      <td style="text-align:left"><b>contribuidores(as)</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -150,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>etiquetas</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
@@ -233,20 +233,20 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>redes Sociais</b></td>
-        <td style="text-align:left"><b>Redes Sociais</b></td>
+      <td style="text-align:left"><b>social</b></td>
+        <td style="text-align:left"><b>Social</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Vídeos e Streams</b></td>
+        <td style="text-align:left"><b>Vídeos e Transmissões</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>outras</b></td>
-    <td style="text-align:left"><b>Outros</b></td>
+      <td style="text-align:left"><b>outro</b></td>
+    <td style="text-align:left"><b>Outro</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
