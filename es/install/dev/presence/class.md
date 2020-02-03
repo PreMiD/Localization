@@ -16,7 +16,7 @@ La clase `Presence` es útil dado que contiene métodos básicos para construir 
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // clientId de ejemplo
 });
 ```
 
@@ -67,11 +67,11 @@ Establece el título de la bandeja en la barra de menús.
 
 ### `getStrings(Object)`
 
-Permite obtener texto traducido a través de la extensión. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Permite obtener texto traducido a través de la extensión. You must provide `Object` with keys being the key for string, `keyValue` is the string value. Puedes encontrar algunas de los textos usando la siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Devuelve las cadenas `Playing` y `Paused`
+// desde la extensión.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,18 +80,18 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Devuelve una variable desde el sitio web si existe.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Esto mostrará en consola el valor de la variable "pageVar"
 ```
 
-## `presenceData` Interface
+## `presenceData` Interfaz
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Se recomienda utilizar la interfaz `presenceData` cuando se está utilizando el método `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Esta interfaz tiene siguientes variables, todas son opcionales.
 
 <table>
   <thead>
@@ -103,53 +103,52 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">detalles</td>
+      <td style="text-align:left">La primera línea en la presencia, usualmente usada como cabecera.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">estado</td>
+      <td style="text-align:left">Segunda línea en la presencia.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Define la hora actual.<br>
+        Utilizado si quieres mostrar cuántas <code>horas:minutos:segundos</code> quedan.
+          <br>Debes convertir tu tiempo a <code>marcas de tiempo</code> o obtendrás una cuenta atras
+          incorrecta.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Define la duración completa.
+        <br>Utilizado si deseas mostar cuantas <code>horas:minutos:segundos</code> quedan.
+          <br>Debes convertir tu tiempo a <code>marcas de tiempo</code> o obtendrás una cuenta atras
+          incorrecta.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Define el logotipo de la presencia.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Define el icono pequeño junto al logo de la presencia.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Define el texto que se mostrará al usuario al pasar el cursor sobre el icono pequeño.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
@@ -168,23 +167,23 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## Eventos
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Los eventos permiten detectar y manejar algunos cambios o llamadas realizadas. Puede suscribirte a eventos utilizando el método `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Hacer algo cuando los datos se actualizan.
 });
 ```
 
-There are few events available:
+Hay algunos eventos disponibles:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Este evento es lanzado cada vez que la presencia es actualizada.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (deshabilitado)
 
 Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
 
