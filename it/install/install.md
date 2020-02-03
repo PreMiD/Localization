@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Installazione
 description: How to install PreMiD
 published: vero
 date: 2020-01-18T20:32:22.753Z
