@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
 
-## Events
+## Eventos
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
@@ -50,6 +50,6 @@ Here is a list of all of the events:
 
 This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (deshabilitado)
 
 Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
