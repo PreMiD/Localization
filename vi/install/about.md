@@ -11,8 +11,8 @@ PreMiD là một tiện ích đơn giản, có thể tùy chỉnh cho phép bạ
 # Tại sao bạn nên tải PreMiD
 - Chúng tôi hoàn toàn không lưu dữ liệu người dùng nào, do đó bạn không cần phải lo về quyền riêng tư.
 - Cả dự án này là mã nguồn mở! Chúng tôi muốn làm việc cùng người dùng - không phải chống lại họ.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- Một tính năng lớn, gọi là WatchParties, đang đến với PreMiD. With game invitations and simultaneous watching and listening. Cung cấp bởi [Discord](https://discordapp.com/).
 
-# Core features
+# Tính năng cốt lõi
 - Displays your current web service in Discord as your status.
 - Grants full control over Presences.
