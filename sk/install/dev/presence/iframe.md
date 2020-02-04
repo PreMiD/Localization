@@ -30,7 +30,7 @@ iframe.on("UpdateData", async () => {
 ## Metódy
 
 ### `send(Object)`
-Odošle údaje do prítomnosti. Using this method will make the presence throw a `iFrameData` event.
+Odošle údaje do prítomnosti. Použitím tejto metódy, prítomnosť udeje `iFrameData`.
 
 ### `getUrl(String)`
 Vráti URL `iframu`.
@@ -52,4 +52,4 @@ Táto udalosť sa spustí pri každej aktualizácii prvku iframe.
 
 #### `MediaKeys` (disabled)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Spúšťa sa, keď používateľ na klávesnici používa mediálne klávesy, [kliknite sem](/dev/presence/class#mediakeys) na získanie viac informácií o mediálnych klávesách.
