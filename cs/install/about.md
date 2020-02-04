@@ -14,5 +14,5 @@ PreMiD je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, c
 - Velký prvek, zvaný WatchParties, přichází do PreMiD. S pozvánkami do hry a současným sledováním a posloucháním. Poháněno [Discordem](https://discordapp.com/).
 
 # Hlavní funkce
-- Zobrazí tvou aktuální webovou službu v Discordu jako tvůj stav.
+- Zobrazí tvou aktuální webovou službu v Discordu jako váš stav.
 - Poskytuje plnou kontrolu přítomnosti.
