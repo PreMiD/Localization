@@ -1,54 +1,54 @@
 ---
-title: iFrame Class
+title: iFrame Trieda
 description:
 published: true
 date: 2020-01-18T20:32:55.147Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# iFrame Trieda
+> iFrame systém s PreMiDom je problematický a môže mať neočakávane správanie, používajte opatrne. 
 > 
 > {.is-danger}
 
-## Introduction
+## Úvod
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+V niektorých prípadoch, vaša prítomnosť možno bude potrebovať prístup k prvkom vo vnútri `iframu`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Kód ktorý vpíšete do vnútra vášho `iframe.ts` súboru sa vloží do každého iframe na stránke.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Ako prítomnosti, `iframes` má svoju triedu určenú na automatickú aktualizáciu údajov.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Kód ide sem...
 });
 ```
 
-## Methods
+## Metódy
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Odošle údaje do prítomnosti. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Vráti URL `iframu`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Udalosti
+Vo `iframe`, udalostiach pracujú podobným spôsobom ako pracujú v triede `prítomností`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Kód ide sem...
 });
 ```
 
-Here is a list of all of the events:
+Tu je zoznam všetkých udalostí:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Táto udalosť sa spustí pri každej aktualizácii prvku iframe.
 
 #### `MediaKeys` (disabled)
 
