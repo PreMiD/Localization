@@ -1,12 +1,12 @@
 ---
-title: Presence Class
+title: Trieda Prítomnosti
 description: The main class for every PreMiD presence
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Presence Class
+# Trieda Prítomnosti
 
 ## Introduction
 
