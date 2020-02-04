@@ -100,7 +100,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -118,7 +118,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -127,26 +127,26 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
+      <td style="text-align:left"><b>náhľad</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>farba</b>
       </td>
       <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -156,16 +156,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategória</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -174,7 +174,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
@@ -183,7 +183,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
   </tbody>
