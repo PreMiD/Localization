@@ -1,24 +1,24 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: Začíname s PreMiD inštaláciou na Chromeium-založených prehliadačov
 published: true
 date: 2020-01-18T20:32:33.964Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Inštalácia rozšírenia je veľmi dôležitá pretože samotná aplikácia nemôže urobiť nič.
 
 # Inštalovať
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+### Chrome, Edge, atď.
+1. Prejdite na našu stránku na stiahnutie [kliknutím tu](https://premid.app/downloads).
+2. Vyberte **Chromium**.
+3. Kliknite na **Pridať do Chrome**.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Pridajte **[Nainštalujte rozšírenia Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Pridajte [naše rozšírenie](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Nezabudnite [pridať **aplikáciu**](/install). 
 > 
 > {.is-warning}
 
