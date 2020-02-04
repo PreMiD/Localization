@@ -29,7 +29,7 @@ Stlačte <kbd>Strg+R</kbd> (Windows) alebo <kbd>CMD+R</kbd> (MacOS) na vašej kl
 Veľmi dôležité. Discord RPC nebude fungovať ak bude Discord bežať ako administrátor.
 
 ### Skontrolujte či beží vám antivirus alebo firewall na vašom počítači
-Niekedy antivírusové programy a firewalls blokujú aplikácie ktoré vytvárajú/hostinské servery alebo sú pripojené na internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+Niekedy antivírusové programy a firewalls blokujú aplikácie ktoré vytvárajú/hostinské servery alebo sú pripojené na internet. Na prijímanie a odovzdávanie údajov medzi našou aplikáciou a rozšírením používame lokálny server, takže ak zablokujete schopnosť prenášanie údajov aplikácie pravdepodobne nebudete môcť používať PreMiD.
 
 ### Deaktivujte si vaše rozšírenia
 Vypnite si všetky vaše rozšírenia a pozrite sa či to funguje. Ak áno, skúste aktivovať vaše rozšírenia krok-za-krokom a oznámte nám ktorý z rozšírení pokazil PreMiD.
@@ -44,8 +44,8 @@ Niekedy nie je niečo v poriadku so súbormi... Návody pre inštaláciu nájdet
 Windows:    `C:\Users\USER\Program Files (x86)\`` a vymažte priečinok `PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/` a vymažte priečinok `PreMiD``.
 
-### On Ubuntu/Debian based distros
-Ak ste si stiahli Discord cez Snapcraft, RPC vám nebude fungovať. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Na Ubuntu/Debian zameraných distribúciách
+Ak ste si stiahli Discord cez Snapcraft, RPC vám nebude fungovať. Verziu Snapcraft musíte odinštalovať spustením `sudo snap remove discord` v termináli, stiahnite si[ Discord pre Linux](https://discordapp.com/api/download?platform=linux) ([ alebo Discord Canary](https://discordapp.com/api/canary/download?platform=linux)) potom prejdite do adresára v ktorom ste stiahni Discord (väčšinou `$HOME/Downloads`), potom si nainštalujte balík pomocou `sudo dpkg -i discord-*.deb`.
 
 ### Nič mi nepomohlo
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+Prosím otvorte ticket v [#support](https://discord.gg/PreMiD).
