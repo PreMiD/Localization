@@ -1,17 +1,17 @@
 ---
-title: Aula iFrame
+title: Classe iFrame
 description:
 published: true
 date: 2020-01-18T20:32:55.147Z
 tags:
 ---
 
-# Aula iFrame
+# Classe iFrame
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Introduction
+## Introdução
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## Métodos
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
 
-## Events
+## Eventos
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
@@ -50,6 +50,6 @@ Here is a list of all of the events:
 
 This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (desativado)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Disparado quando o usuário usa chaves de mídia em seu teclado, [clique aqui](/dev/presence/class#mediakeys) para obter mais informações sobre as chaves de mídia.
