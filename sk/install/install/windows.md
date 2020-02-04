@@ -8,16 +8,16 @@ tags:
 
 > Než sa pustíme do toho, uistite sa že spĺňate všetky [požiadavky](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže robiť nič samé o sebe.
 
 # Inštalácia
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Prejdite na našu stránku na stiahnutie [kliknutím tu](https://premid.app/downloads).
 2. Vyberte **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** sa ukáže, ak ste nainštalovali PreMiD po prvý krát. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+3. Otvorte inštalátor.
+4. **Windows SmartScreen** sa ukáže, ak ste nainštalovali PreMiD po prvý krát. Kliknite na **Ďalšie informácie** a zvoľte **Spustiť**. > Je to preto že nemáme certifikát na podpísanie kódu (CSC). [Podporte nás](https://www.patreon.com/Timeraa) financovaním to.{.is-info}
 
 Aplikácia sa spustí samostatne. Skontrolujte či sa na paneli úloh nachádza symbol.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Nezabudnite [pridať **rozšírenie**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
