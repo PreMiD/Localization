@@ -29,10 +29,10 @@ Aplikácia sa spustí samostatne. Skontrolujte či sa na menu bare nachádza sym
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Ak ste na Arch Linuxe alebo na Arch založene distribúcie, PreMiD je k dispozícii na [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) pod `premid-git`. Použite svojho obľúbeného správcu balíkov a získajte ho odtiaľto!
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
+## Iné distribúcie
+- Inštalačný skript: `wget -qO- http://bit.ly/install-premid | bash` alebo `curl -sL https://bit.ly/install-premid | bash`, počkajte pokým sa to nenainštaluje, dvakrát kliknite na "PreMiD" odkaz vytvorený na pracovnej ploche, a to je všetko!
 - Ak chcete odinštalovať PreMiD, môžete spustiť `wget -qO- http://bit.ly/uninstall-premid | bash` alebo `curl -sL https://bit.ly/uninstall-premid | bash`.
 
 > Nezabudnite [pridať **rozšírenie**](/install).{.is-warning}
