@@ -6,17 +6,17 @@ date: 2020-01-18T20:33:00.222Z
 tags:
 ---
 
-# TypeScript Configuration
+# Konfigurácia TypeScriptu
 
 ## Úvod
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Keď ste si stiahli a rozbalili pracovnú plochu, uvidíte súbor nazývaný sa `tsconfig.js` v koreni a v zložkách prítomnosti, tento súbor je určený na konfigurovanie **TypeScript** spracovávateľa. Je už dopredu nakonfigurovaný pre vás, takže nemusíte sa obávať.
 
-We just want to describe some settings that you should know.
+Chceme vám len popísať niektoré nastavenia ktoré by ste mali vedieť.
 
 ## Konfigurácia Koreňa
 
-In the root configuration file you will see something like this.
+V koreni konfiguračného súboru uvidíte niečo takéto podobné.
 
 ```javascript
 {
@@ -29,13 +29,13 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Vlastnosť           | Popis                                                                                           |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Vlastnosť           | Popis                                                                                            |
+|:------------------- |:------------------------------------------------------------------------------------------------ |
+| **compilerOptions** | Používaný na konfiguráciu spracovávateľa, väčšina vlastností sa nachádza tu.                     |
+| module              | Môžete si prečítať viacej o tom [tu](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Defines the JavaScript version you are compiling.                                                |
+| removeComments      | Odstránenie komentárov zo spracovaných súborov.                                                  |
+| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.            |
 
 ## Konfigurácia Prítomnosti
 
@@ -45,7 +45,6 @@ In the root configuration file you will see something like this.
   "compilerOptions": {
     "outDir": "./dist/"
   }
-}
 ```
 
 | Vlastnosť           | Popis                                                                                  |
