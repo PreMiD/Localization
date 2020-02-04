@@ -124,14 +124,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Odkaz na službu&apos;s logotypem.</td>
+      <td style="text-align:left">Odkaz na službu&apos; s logotypem.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
       <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
+      <td style="text-align:left"><b>náhled</b>
       </td>
       <td style="text-align:left">Odkaz na náhled vašeho stavu.</td>
       <td style="text-align:left"><code>Řetězec</code>
@@ -193,7 +193,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 
 If you want to learn regular expressions, here are a few websites.
 
-### Learning
+### Učení
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
@@ -208,8 +208,8 @@ When making your presence, you must specify a category which the presence falls 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategorie</th>
+      <th style="text-align:left">Jméno</th>
       <th style="text-align:left">Popis</th>
     </tr>
   </thead>
