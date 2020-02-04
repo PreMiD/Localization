@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Začíname
 description: A little advise for those who got into coding recently
 published: true
 date: 2020-01-18T20:32:18.836Z
