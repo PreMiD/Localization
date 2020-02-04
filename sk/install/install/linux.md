@@ -1,20 +1,20 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Začíname s PreMiD inštaláciou na Linuxe
 published: true
 date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Než sa pustíme do toho, uistite sa že spĺňate všetky [požiadavky](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže robiť nič samé o sebe.
 
-# Inštalovať
+# Inštalácia
 > There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
+2. Otvorte terminál.
 3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
