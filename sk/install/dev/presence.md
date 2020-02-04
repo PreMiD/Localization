@@ -38,7 +38,7 @@ Skôr ako začnete pracovať na svojej prítomnosti, majte na pamäti nasledujú
 - Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
 - Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
 
-## Modification
+## Úprava
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
 - You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
@@ -65,13 +65,13 @@ Our presence verification team has their own role, look out for `Presence Verifi
 
 After all of the proper reviews have been met, your pull request will be merged with the store.
 
-# Structure (TypeScript)
+# Štruktúra (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+## Inštalácia
+1. Nainštalujte si [Git](https://git-scm.com/).
+2. Nainštalujte si [Node](https://nodejs.org/en/) (prichádza s [npm](https://www.npmjs.com/)).
+3. Nainštalujte si [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otvorte terminál a `npm install -g typescript`).
 
 ## Cloning the project
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
@@ -201,9 +201,9 @@ presence.on("iFrameData", data => {
 ## Kompilovanie
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Structure (JavaScript)
+# Štruktúra (TypeScript)
 ## Cloning the project
-1. Install [Git](https://git-scm.com/).
+1. Nainštalujte si [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 3. Choose a folder of your choice.
 4. Open it in you code editor.
@@ -320,24 +320,24 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "meno": "UŽÍVATEĽ",
     "id": "ID"
   },
-  "contributors": [{
-    "name": "USER",
+  "prispievatelia": [{
+    "meno": "UŽÍVATEĽ",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "description": {
-    "en": "DESCRIPTION"
+  "služba": "služba",
+  "popis": {
+    "sk": "POPIS"
   },
   "url": "URL",
-  "version": "VERSION",
+  "verzia": "VERZIA",
   "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#HEX000",
+  "náhľad": "URL",
+  "farba": "#HEX000",
   "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "kategória": "KATEGÓRIA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false
