@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Začíname s PreMiD inštaláciou na macOS
 published: true
 date: 2020-01-18T20:32:39.829Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Než sa pustíme do toho, uistite sa že spĺňate všetky [požiadavky](/install/requirements). 
 > 
 > {.is-info}
 
 Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže robiť nič samé o sebe.
 
-# Inštalovať
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
+# Inštalácia
+1. Prejdite na našu stránku na stiahnutie [kliknutím tu](https://premid.app/downloads).
+2. Vyberte **OS X**.
+3. Ak je potrebné rozbaľte archív.
+4. Otvorte inštalátor.
+5. A **security alert** will appear, if you install PreMiD for the first time. Choďte do svojich **Preferencii** > ** Bezpečnosť** > ** Všeobecné** > ** Spustiť**. [Prečítajte si viac informácií](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) o nepodpísaných aplikáciách.
+> Je to preto že nemáme certifikát na podpísanie kódu (CSC). [Podporte nás](https://www.patreon.com/Timeraa) financovaním to.{.is-info}
+6. Po zobrazení výzvy vyberte otvoriť.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikácia sa spustí samostatne. Skontrolujte či sa na menu bare nachádza symbol.
 
-> Do not forget to [add the **extension**](/install). 
+> Nezabudnite [pridať **rozšírenie**](/install). 
 > 
 > {.is-warning}
 
