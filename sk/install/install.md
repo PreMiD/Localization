@@ -16,16 +16,16 @@ tags:
 > 
 > **Zvoľte si váš operačný systém:**
 > 
-> - [Windows *7 or above*](/install/windows)
-> - [macOS *10.11 or above*](/install/macos)
-> - [Linux *4 or above*](/install/linux) 
+> - [Windows *7 a vyššie*](/install/windows)
+> - [macOS *10.11 a vyššie*](/install/macos)
+> - [Linux *4 a vyššie*](/install/linux) 
 >     
 >     {.links-list}
 > 
-> **Choose your browser:**
+> **Zvoľte si váš prehliadač:**
 > 
-> - [Chromium *v76 or above*](/install/chromium)
-> - [Firefox *v69 or above*](/install/firefox) 
+> - [Chromium *v76 a vyššie*](/install/chromium)
+> - [Firefox *v69 a vyššie*](/install/firefox) 
 >     
 >     {.links-list}
 > 
