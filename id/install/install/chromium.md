@@ -10,15 +10,15 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 # Pasang
 ### Chrome, Edge, dll.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+1. Kunjungi halaman unduhan kami [klik disini](https://premid.app/downloads).
+2. Pilih **Chromium**.
+3. Klik **Tambahkan ke Chrome**.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Tambahkan**[Pasang Ekstensi Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Tambahkan [ekstensi kami](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Jangan lupa [memasang**aplikasi**](/install). 
 > 
 > {.is-warning}
 
