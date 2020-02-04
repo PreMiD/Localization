@@ -12,14 +12,14 @@ tags:
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Pokyny
+> Ak nebudete postupovať podľa všetkých pokynov, vaša prítomnosť alebo požiadavka na stiahnutie bude z githubu odstránená. 
 > 
 > {.is-danger}
 
-## Creation
+## Tvorba
 
-Before you begin working on your presence, keep the following list in mind.
+Skôr ako začnete pracovať na svojej prítomnosti, majte na pamäti nasledujúci zoznam.
 - The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
 - The presence **must** be related to the website you have chosen.
 - The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
@@ -46,7 +46,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 - Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
 
-# Verification
+# Overovanie
 > When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-danger}
@@ -104,7 +104,7 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fil
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Začíname
 
 ```javascript
 var presence = new Presence({
@@ -165,7 +165,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## Nemôžem získať určité údaje?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -198,7 +198,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-## Compiling
+## Kompilovanie
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Structure (JavaScript)
@@ -220,7 +220,7 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fil
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Začíname
 
 ```javascript
 var presence = new Presence({
@@ -281,7 +281,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## Nemôžem získať určité údaje?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -368,7 +368,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -378,16 +378,16 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>služba</b>
       </td>
       <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -397,7 +397,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -413,7 +413,7 @@ You could also use regExp also known as Regex for this task, explaned further be
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -428,7 +428,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
         You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
@@ -437,7 +437,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -446,26 +446,26 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
+      <td style="text-align:left"><b>náhľad</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>farba</b>
       </td>
       <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -475,16 +475,16 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategória</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -493,7 +493,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
@@ -502,7 +502,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
   </tbody>
@@ -510,7 +510,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
 
-# Loading the presence
+# Načítanie prítomnosti
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
@@ -524,9 +524,9 @@ The website you are developing on is automatically reloading every time you save
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Vysvetlené Súbory
+- [Trieda Prítomnosti](/dev/presence/class)
+- [Trieda iFrame](/dev/presence/iframe)
+- [Metadata Súbor](/dev/presence/metadata)
+- [Konfigurácia TypeScriptu](/dev/presence/tsconfig)
 {.links-list}
