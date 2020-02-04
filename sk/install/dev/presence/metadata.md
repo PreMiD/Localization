@@ -20,19 +20,19 @@ The example of that file can be found below.
   },
   "contributors": [{
     "name": "USER",
-    "id": "ID"
+    "id": "ID "
   }],
-  "service": "SERVICE",
-  "description": {
-    "en": "DESCRIPTION"
+  " service ":" SERVICE ",
+  " description ": {
+    " de ":" DESCRIPTION "
   },
-  "url": "URL",
-  "regExp": "REGEXP",
+  " url ":" URL ",
+  " regExp ":" REGEXP ",
   "iFrameRegExp": "REGEXP",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
-  "color": "#45A8FC",
+  "color": "# 45A8FC",
   "tags": ["CATEGORY", "TAG"],
   "category": "CATEGORY",
   "iframe": false
@@ -60,7 +60,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -70,16 +70,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>služba</b>
       </td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
