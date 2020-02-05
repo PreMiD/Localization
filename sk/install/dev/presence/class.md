@@ -78,7 +78,7 @@ strings = await presence.getStrings({
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 Returns a variable from the website if it exists.
 
