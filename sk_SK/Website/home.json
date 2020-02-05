@@ -1,6 +1,6 @@
 {
   "home.introduction.catchphrase": {
-    "message": "Daj všetkým vedieť čo robíš!",
+    "message": "Dajte všetkým vedieť čo robíte!",
     "description": "First phrase that a user reads on our website"
   },
   "home.introduction.button.features": {
@@ -24,11 +24,11 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Nájdi **svoju** prítomnosť.",
+    "message": "Nájdite **svoju** prítomnosť.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Naše rozšírenie sme vyvinuli spôsobom ktorý ti umožňuje pridávať a používať prítomnosť vytvorenú inými používateľmi a spravovať ich v našom rozšírení!",
+    "message": "Naše rozšírenie sme vyvinuli spôsobom ktorý vám umožňuje pridávať a používať prítomnosť vytvorenú inými používateľmi a spravovať ich v našom rozšírení!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
