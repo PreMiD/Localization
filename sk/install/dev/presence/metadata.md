@@ -49,15 +49,15 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Nepovinné</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Mal by obsahovať Objekt s <code>menom</code> a <code>id</code> vývojára prítomnosti. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -65,9 +65,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>prispievatelia</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      <td style="text-align:left">Mal by obsahovať Objekt s <code>menom</code> a <code>id</code> vývojára prítomnosti. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
+      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code>
       </td>
       <td style="text-align:left"><code>Áno</code>
       </td>
@@ -76,7 +75,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>služba</b>
       </td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -84,9 +83,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>popis</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Malý popis prítomnosti, môžete použiť popis služby        ak nemáte žiadne nápady. Váš popis musí mať hodnoty párov kľúčov ktoré označujú jazyk, a popis v tom konkrétnom jazyku. Urobte popisy s jazykmi <i>ktoré poznáte</i>, naši prekladatelia ich zmenia vo vašich metadata súborov.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -96,7 +94,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left">URL služby.<br><b>Napríklad:</b><code>vk.com</code><br>        <b>Táto url sa musí zhodovať s url webovej stránky pretože sa použije na zistenie toho či sa má alebo nemá skript vložiť do tejto stránky.</b>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -113,7 +111,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>verzia</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Verzia vašej prítomnosti.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -122,7 +120,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Odkaz na službu&apos; s logotypom.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -131,7 +129,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>náhľad</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Odkaz na náhľad vašej prítomnosti.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -152,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -169,7 +167,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Určuje či je použitý <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Áno</code>
@@ -179,7 +177,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Áno</code>
       </td>
