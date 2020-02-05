@@ -102,9 +102,5 @@
   "popup.category.videos": {
     "message": "Videá & Streamy",
     "description": "Category name shown when you open tags"
-  },
-  "popup.category.other": {
-    "message": "Iné",
-    "description": "Category name shown when you open tags"
   }
 }
