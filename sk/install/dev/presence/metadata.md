@@ -15,26 +15,26 @@ The example of that file can be found below.
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "UŽÍVATEĽ",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UŽÍVATEĽ",
     "id": "ID "
   }],
-  " service ":" SERVICE ",
+  " service ":"SLUŽBA",
   " description ": {
-    " de ":" DESCRIPTION "
+    " sk ":" POPIS "
   },
   " url ":" URL ",
   " regExp ":" REGEXP ",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERZIA",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "# 45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["KATEGÓRIA", "ŠTÍTKA"],
+  "category": "KATEGÓRIA",
   "iframe": false
 }
 ```
