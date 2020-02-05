@@ -39,14 +39,14 @@ Príklad tohto súboru je uvedený nižšie.
 }
 ```
 
-## Understanding the metadata.json
+## Porozumenie metadata.jsonu
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťažké pochopiť pre čo sú jednotlivé premenné.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Premenná</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
       <th style="text-align:left">Nepovinné</th>
@@ -74,7 +74,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>služba</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Názov služby ktorú táto prítomnosť podporuje.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -138,8 +138,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>farba</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> hodnota. Odporúčame vám používať primárnu farbu služby        ktorá vaša prítomnosť podporuje.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -148,7 +147,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>štítky</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Pole so značkami, pomôže používateľom vyhľadávať vašu prítomnosť na webovej stránke.</td>
       <td
       style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code>
         </td>
@@ -158,7 +157,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>kategória</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">Reťazec použitý na označenie kategórie do ktorej patrí.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -176,7 +175,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Selektor regulárneho výrazu ktorý vyberá prvky iframe do ktorých sa má vložiť.</td>
       <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Áno</code>
@@ -185,11 +184,11 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Regulárny Výraz
 
-If you want to learn regular expressions, here are a few websites.
+Ak sa chcete naučiť regulárne výrazy, tu je niekoľko webových stránok.
 
-### Learning
+### Učenie
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
