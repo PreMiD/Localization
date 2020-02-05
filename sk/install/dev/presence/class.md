@@ -8,7 +8,7 @@ tags:
 
 # Trieda Prítomnosti
 
-## Introduction
+## Úvod
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -43,7 +43,7 @@ let presence = new Presence({
 });
 ```
 
-## Methods
+## Metódy
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -96,7 +96,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Premenná</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
     </tr>
@@ -150,7 +150,7 @@ This interface has following variables, all of them are optional.
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
   </tbody>
@@ -168,7 +168,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## Udalosti
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
@@ -186,7 +186,7 @@ This event is fired every time the presence is being updated.
 
 #### `MediaKeys` (disabled)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Spúšťa sa, keď používateľ na klávesnici používa mediálne klávesy, [kliknite sem](/dev/presence/class#mediakeys) na získanie viac informácií o mediálnych klávesách.
 
 #### `iFrameData`
 
