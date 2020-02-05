@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Domov
+description: Oficiálna dokumentácia pre v2
 published: true
 date: 2020-01-18T20:32:20.879Z
 tags:
@@ -16,13 +16,13 @@ tags:
 
 # Začíname
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD je rýchly a ľahko sa inštaluje. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
-# Vývojari
+# Vývojári
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
