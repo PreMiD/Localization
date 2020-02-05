@@ -8,9 +8,9 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Ak chcete zverejniť prítomnosť v obchode a načítať ju prostredníctvom rozšírenia, mali by ste vytvoriť `metadata.json` súbor vo vašom `presence.js` priečinku.
 
-The example of that file can be found below.
+Príklad tohto súboru je uvedený nižšie.
 
 ```javascript
 {
@@ -197,19 +197,19 @@ If you want to learn regular expressions, here are a few websites.
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testovanie
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Kategórie prítomností
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomnosť patrí. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategória</th>
+      <th style="text-align:left">Názov</th>
       <th style="text-align:left">Popis</th>
     </tr>
   </thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Čokoľvek sa týka anime, od forúmov až po platformy na streamovanie videa.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>hry</b></td>
+      <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Hry</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Akákoľvek webová stránka ktorá má obsah súvisiaci s hrami, ako napríklad <code>Kahoot</code> alebo <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>hudba</b></td>
+      <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>Hudba</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Toto sú webové stránky ktoré ponúkajú hudobný obsah, či už ide o streamovanie alebo sťahovanie.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sociálne siete</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sociálne siete</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Webové stránky ktoré sa používajú na vytváranie a zdieľanie obsahu alebo na účasť na iných formách sociálnych sietí.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Videá & Streamy</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Webové stránky ktoré slúžia na poskytovanie videí a streamov.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>iné</b></td>
-    <td style="text-align:left"><b>Iné</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left"><b>other</b></td>
+    <td style="text-align:left"><b>Ostatné</b></td>
+      <td style="text-align:left">Čokoľvek čo nespadá do špecifickej kategórie uvedenej vyššie.</td>
       </td>
     </tr>
   </tbody>
