@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Obsahuje základné údaje o Prítomnosti
 published: true
 date: 2020-01-18T20:32:58.015Z
 tags:
@@ -56,8 +56,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -95,8 +94,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">URL služby.<br><b>Napríklad:</b><code>vk.com</code><br>        <b>Táto url sa musí zhodovať s url webovej stránky pretože sa použije na zistenie toho či sa má alebo nemá skript vložiť do tejto stránky.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -106,8 +104,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Reťazec regulárneho výrazu používaný na zhodovanie adries url.</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Áno</code>
       </td>
@@ -116,7 +114,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>verzia</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -125,7 +123,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -134,7 +132,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>náhľad</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -144,7 +142,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
         that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -163,7 +161,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>kategória</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -203,7 +201,7 @@ If you want to learn regular expressions, here are a few websites.
 
 ## Kategórie prítomností
 
-Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomnosť patrí. This is a compiled list of the categories that you can use.
+Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomnosť patrí. Toto je zostavený zoznam kategórií ktoré môžete použiť.
 
 <table>
   <thead>
