@@ -58,9 +58,5 @@
   "contributors.roles.seniorModerator": {
     "message": "Senior Moderator",
     "description": "'Senior Moderator' title for contributors page."
-  },
-  "contributors.roles.verificationHead": {
-    "message": "Head of Presence Verifying",
-    "description": "'Head of Presence Verifying' title for contributors page."
   }
 }
