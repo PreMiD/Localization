@@ -1,0 +1,6 @@
+{
+  "store.search.notFound": {
+    "message": "Ta dodatek ne moremo najti.",
+    "description": "Search result text when nothing's found"
+  }
+}
