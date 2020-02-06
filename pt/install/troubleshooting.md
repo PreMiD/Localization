@@ -19,26 +19,26 @@ Você pode pressionar <kbd>Ctrl+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</k
 ### Certifique-se de que você ativou a Atividade de Jogo do Discord nas configurações
 **Configurações de Usuário** > **Atividade de jogo** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Reiniciar o PreMiD (Aplicação)
-![quit.png](/quit.png) Terá que reiniciar o PreMiD depois.
+### Reinicie o PreMiD (Aplicativo)
+![quit.png](/quit.png) Você terá que reiniciar o PreMiD depois disso.
 
 ### Recarregar/reiniciar o Discord
-Pressione <kbd>Strg+R</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado ou reinicie o Discord manualmente.
+Pressione <kbd>Ctrl+R</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado ou reinicie o Discord manualmente.
 
-### Certifique-se de que o Discord NÃO foi executado como administrador
-Muito importante. O RPC do Discord não funcionará se o Discord tiver sido executado como administrador.
+### Certifique-se de que o Discord NÃO está sendo executado como administrador
+Muito importante. O RPC do Discord não funcionará se o Discord estiver sendo executado como administrador.
 
-### Verifique se tem o antivirus ou firewall em execução no seu computador
-Alguns programas de antivirus e firewalls irão bloquear aplicações que estão a criar/hoespdar servidores ou apenas a conectar-se à internet. Estamos a utilizar um servidor local para receber e enviar dados entre a nossa aplicação e a extensão, logo se bloquear a habilidade da aplicação de enviar dados provavelmente não irá conseguir utilizar o PreMiD.
+### Verifique se você tem antivírus ou firewall em execução no seu computador
+Às vezes, programas de antivírus e firewalls irão bloquear aplicações que estão criando/hospedando servidores ou apenas conectando à internet. Estamos utilizando um servidor local para receber e enviar dados entre a nossa aplicação e a extensão, logo, se bloquear a habilidade da aplicação de enviar dados, provavelmente não irá poder utilizar o PreMiD.
 
-### Desative os seus addons
-Desative todos os seus addons e verifique se funciona. Se funcionar, tente ativer os addons um de cada vez e diga-nos qual addon quebrou o PreMiD.
+### Desative os seus complementos
+Desative todos os seus complementos e veja se funciona. Se funcionar, tente ativar os complementos um de cada vez e diga-nos qual complemento quebrou o PreMiD.
 
 ### Reinicie o seu computador
 Espero que saiba como reiniciar o seu computador.
 
 ### Reinstale o PreMiD
-Por vezes, há algo de errado com os ficheiros... Tutoriais de instalação podem ser encontrados [here](/install).
+Às vezes há algo errado com os arquivos... Tutoriais de instalação podem ser encontrados [here](/install).
 
 ### Remoção manual
 Windows:    `C:\Users\USER\Program Files (x86)\`` e apague a pasta`PreMiD`.
