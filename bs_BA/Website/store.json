@@ -58,13 +58,5 @@
   "store.search": {
     "message": "Pretraga",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Prisutnosti korisnika",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Prisutnosti korisnika",
-    "description": "Userpage title"
   }
 }
