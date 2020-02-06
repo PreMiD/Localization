@@ -15,24 +15,16 @@
     "message": "Vytvořeno {0} přítomností.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
-  "user.notFound.heading": {
-    "message": "Tohoto uživatele se nepodařilo najít. Ujistěte se že:",
-    "description": "Error when user couldn't be found."
+  "user.switch.contributed": {
+    "message": "Uživatel [předvolby/příspěvky]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
   },
-  "user.notFound.message1": {
-    "message": "ID uživatele, které hledáte, je správné.",
-    "description": "Check user ID message."
+  "user.presences.created": {
+    "message": "Klikněte zde pro zobrazení přítomností, které tento uživatel vytvořil.",
+    "description": "Tippy content in user profile."
   },
-  "user.notFound.message2": {
-    "message": "Uživatel vytvořil dostatek přítomností a má roli vývojáře Presence na našem Discord serveru.",
-    "description": "Check the presence amount of the developer created message."
-  },
-  "user.notFound.message3": {
-    "message": "Zkontrolujte, zda ostatní mají stejný problém na našem Discord serveru.",
-    "description": "Check if the error is also happening to others message."
-  },
-  "user.notFound.message4": {
-    "message": "Pokud si myslíte, že se jednalo o chybu, kontaktujte nás prosím na [našem Discord serveru].",
-    "description": "Bottom line for the error page. Do not edit brackets."
+  "user.presences.contributed": {
+    "message": "Kliknutím zde zobrazíte přítomnosti, k nimž tento uživatel přispěl.",
+    "description": "Tippy content (mode 2) in user profile."
   }
 }
