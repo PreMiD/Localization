@@ -74,17 +74,5 @@
   "store.search": {
     "message": "חפש",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "נוכחות משתמש",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "נוכחות משתמש",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "אנחנו לא יכולים למצוא את הPresence הזה",
-    "description": "Search result text when nothing's found"
   }
 }
