@@ -1,0 +1,46 @@
+{
+  "store.search.notFound": {
+    "message": "We kunnen die presence niet vinden.",
+    "description": "Search result text when nothing's found"
+  },
+  "error.code.404": {
+    "message": "Sorry, we kunnen deze pagina niet vinden.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "Je zoekt naar een niet bestaande of verwijderde presence.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "Interne serverfout is opgetreden.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "Beschrijving",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Ga terug naar de homepage",
+    "description": "Button on the error page"
+  },
+  "user.notFound.heading": {
+    "message": "Deze gebruiker kon niet worden gevonden. Controleer:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "De gebruikers-ID die je zoekt, is correct.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "De gebruiker heeft genoeg presences gemaakt en heeft de Presence Developer rol in onze Discord server.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Kijk of anderen hetzelfde probleem hebben op onze Discord server.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Als je denkt dat dit een fout was, neem dan contact met ons op in [our Discord server].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
