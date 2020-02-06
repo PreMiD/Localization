@@ -14,25 +14,5 @@
   "user.importantPresenceDev.message2": {
     "message": "Vytvorené {0} prítomnosťou.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-  },
-  "user.notFound.heading": {
-    "message": "Tohto užívateľa sa nepodarilo nájsť. Uistite sa že:",
-    "description": "Error when user couldn't be found."
-  },
-  "user.notFound.message1": {
-    "message": "ID užívateľa ktorého hľadáte je správne.",
-    "description": "Check user ID message."
-  },
-  "user.notFound.message2": {
-    "message": "Užívateľ vytvoril dostatok prítomností a má rolu vývojára prítomností na našom Discord serveri.",
-    "description": "Check the presence amount of the developer created message."
-  },
-  "user.notFound.message3": {
-    "message": "Skontrolujte, či ostatní majú taký istý problém na našom Discord serveri.",
-    "description": "Check if the error is also happening to others message."
-  },
-  "user.notFound.message4": {
-    "message": "Ak si myslíte že sa jedná o chybu, kontaktujte nás prosím na [našom Discord serveri].",
-    "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
