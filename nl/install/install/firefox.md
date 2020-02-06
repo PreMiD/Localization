@@ -1,15 +1,15 @@
 ---
 title: Firefox
-description: Aan de slag met een PreMiD installatie in Firefox
+description: Aan de slag met de PreMiD installatie in Firefox
 published: true
 date: 2020-01-18T20:32:35.718Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+De installatie van de extensie is van groot belang, omdat de applicatie op zichzelf niets kan doen.
 
 # Installeer
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Ga naar onze downloadpagina door [hier](https://premid.app/downloads) te klikken.
 2. Kies **Firefox**.
 3. Zoek naar `about:addons`.
 4. Klik op het kleine tandwielpictogram in de rechterbovenhoek.
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Selecteer het bestand dat je onlangs hebt gedownload.
 7. Accepteer de installatie door op **Add** te klikken.
 
-> Do not forget to [add the **application**](/install). 
+> Vergeet niet de [**applicatie**](/install) toe te voegen. 
 > 
 > {.is-warning}
 
