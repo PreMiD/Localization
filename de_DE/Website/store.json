@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Our features",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Benutzerpräsenzen",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Benutzerpräsenzen",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Wir können diese Präsenz nicht finden",
-    "description": "Search result text when nothing's found"
   }
 }
