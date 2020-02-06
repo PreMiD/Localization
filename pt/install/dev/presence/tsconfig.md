@@ -8,15 +8,15 @@ tags:
 
 # Configuração do TypeScript
 
-## Introduction
+## Introdução
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Quando você baixou e descompactou a workspace, você verá um arquivo chamado `tsconfig.js` no diretório raíz e nas pastas de presença, este arquivo é usado para configurar o compilador **TypeScript**. Já está configurado para você, então não se preocupe com isso.
 
-We just want to describe some settings that you should know.
+Queremos apenas descrever algumas definições que você deveria conhecer.
 
-## Root Configuration
+## Configuração da raíz
 
-In the root configuration file you will see something like this.
+No arquivo de configuração raiz você verá algo assim.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Descrição                                                                                       |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Propriedade         | Descrição                                                                                        |
+|:------------------- |:------------------------------------------------------------------------------------------------ |
+| **compilerOptions** | Usado para configurar o compilador, a maioria das propriedades estão localizadas aqui.           |
+| module              | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Define a versão de JavaScript que você está compilando.                                          |
+| removeComments      | Remover comentários de arquivos compilados.                                                      |
+| **exclude**         | Aqui você pode definir as pastas que deseja excluir da futura compilação.                        |
 
-## Presence Configuration
+## Configuração de Presença
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Descrição                                                                              |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Propriedade         | Descrição                                                                                                   |
+|:------------------- |:----------------------------------------------------------------------------------------------------------- |
+| **extends**         | Usado para estender o arquivo base `tsconfig` para várias tarefas.                                          |
+| **compilerOptions** | Consulte [**Configuração do root**](/dev/presence/tsconfig#root-configuration) para obter mais informações. |
+| outDir              | Define o diretório de saída para arquivos compilados.                                                       |
