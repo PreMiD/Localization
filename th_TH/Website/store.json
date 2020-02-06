@@ -74,17 +74,5 @@
   "store.search": {
     "message": "่ค้นหา",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Presences ผู้ใช้",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Presences ผู้ใช้",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "พวกเราไม่เจอ presence นี้",
-    "description": "Search result text when nothing's found"
   }
 }
