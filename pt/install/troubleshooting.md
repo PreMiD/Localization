@@ -6,17 +6,17 @@ date: 2020-01-18T20:32:24.820Z
 tags:
 ---
 
-> Confere que tem a extensão **e** a aplicação instaladas! 
+> Certifique-se de ter a extensão **e** o aplicativo instalado! 
 > 
 > {.is-warning}
 
-### Atualizar a página
-Pode clicar <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado também em vez de procurar pelo botão de atualizar.
+### Atualize a página
+Você pode pressionar <kbd>Ctrl+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado também, em vez de procurar pelo botão de atualização.
 
-### Reiniciar o seu navegador
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) faz um bom trabalho também. (Tem que iniciar o seu navegador outra vez obviamente.)
+### Reinicie o seu navegador
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) também funciona. (Obviamente, você tem que iniciar seu navegador novamente.)
 
-### Certifique-se quem que a Atividade de Jogo do Discord ativada nas definições
+### Certifique-se de que você ativou a Atividade de Jogo do Discord nas configurações
 **Configurações de Usuário** > **Atividade de jogo** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Reiniciar o PreMiD (Aplicação)
