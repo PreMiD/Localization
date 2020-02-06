@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Hľadať",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Používateľské prítomnosti",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Používateľské prítomnosti",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Túto prítomnosť nevieme najísť",
-    "description": "Search result text when nothing's found"
   }
 }
