@@ -419,13 +419,13 @@ U kunt regExp ook bekend als Regex gebruiken voor deze taak, word hier onder ver
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
+      <td style="text-align:left">Een reguliere expressie die word gebruikt om URLs te vergelijken.<br>
+      regExp ook bekend als Regex, kan worden gebruikt als een website meerdere subdomeinen heeft.<br>
+U kunt de volgende regExp daarvoor gebruiken:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
+TLD staat voor Top Level Domain bijvoorbeeld: .com .net<br> 
+<code>([a-z0-9]+)</code> betekent alles van a tot z en van 0 tot 9.<br>
+        Je kunt uw regExp testen bij <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -481,7 +481,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">Een tekst die wordt gebruikt om de categorie aan te geven waar de presence onder valt. Zie de geldige catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a>.</td>
+      <td style="text-align:left">Een tekst die wordt gebruikt om de categorie aan te geven waar de presence onder valt. Zie de geldige categories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
@@ -508,21 +508,21 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Klik [hier](/dev/presence#filling-in-the-metadatajson-file) om terug te gaan naar de TypeScript uitleg. Klik [hier](/dev/presence#filling-in-the-metadatajson-file-1) om terug te gaan naar de JavaScript-uitleg.
+Klik [hier](/dev/presence#filling-in-the-metadatajson-file) om terug te gaan naar de TypeScript uitleg. Klik [hier](/dev/presence#filling-in-the-metadatajson-file-1) om terug te gaan naar de JavaScript uitleg.
 
-# Laden van de aanwezigheid
+# Laden van de presence
 1. Open de pop-up en houd de <kbd>Shift</kbd> knop op je toetsenbord in.
 2. **Laad Presence** verschijnt in de Presences sectie.
 3. Klik erop terwijl je nog steeds de <kbd>Shift</kbd> knop ingedrukt houdt.
-4. Selecteer de map /dist van uw aanwezigheid.
+4. Selecteer de map /dist van uw presence.
 
 # Enkele nuttige dingen
 ## Hot-herladen
 De website waar je mee bezig bent wordt automatisch herladen wanneer je een bestand in je map opslaat.
 
 ## Foutopsporing
-- Je kunt `console.log("Test");` tussen je code zetten en kijken of je browser console je die uitvoer geeft. Als ja, ga dan verder en probeer het opnieuw na de volgende functie. Zo niet, dan is er een fout hierboven.
-- Als dat je ook niet helpt, vraag dan een pressie-ontwikkelaar op onze [Discord-server](https://discord.gg/PreMiD) voor hulp.
+- Je kunt `console.log("Test");` tussen je code zetten en kijken of je browserconsole je die uitvoer geeft. Zo ja, ga dan verder en probeer het opnieuw na de volgende functie. Zo niet, dan is er een fout hierboven.
+- Als dat je ook niet helpt, vraag dan een presence-ontwikkelaar op onze [Discord-server](https://discord.gg/PreMiD) voor hulp.
 
 # Uitleg van bestanden
 - [Presence Klasse](/dev/presence/class)
