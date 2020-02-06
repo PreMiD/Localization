@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Leisk visiems žinoti, ką darai!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Mūsų funkcijos",
     "description": "Introduction button"
