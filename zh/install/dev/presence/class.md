@@ -1,12 +1,12 @@
 ---
-title: Presence Class
+title: 存在类
 description: The main class for every PreMiD presence
-published: 是
+published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Presence Class
+# 存在类
 
 ## Introduction
 
@@ -96,8 +96,8 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">变量</th>
+      <th style="text-align:left">描述</th>
       <th style="text-align:left">Type</th>
     </tr>
   </thead>
@@ -105,13 +105,13 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
@@ -137,20 +137,20 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
   </tbody>
