@@ -46,5 +46,17 @@
   "contributors.roles.translator": {
     "message": "翻译",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "管理员",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "社区秘书",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "高级版主",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }
