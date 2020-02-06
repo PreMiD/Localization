@@ -147,7 +147,7 @@ presence.on("UpdateData", async () => {
         state: "Reading section A", //Het onderste gedeelte van je presence
         startTimestamp: 1577232000, //De unix epoch-tijdstempel vanaf wanneer geteld moet worden
         endTimestamp: 1577151472000 //Als je Tijd Over wilt laten zien in plaats van Voorbij, dit is de unix epoch-tijdstempel wanneer de timer stopt
-    }; /*Optioneel, je kan hier ook een largeImageKey zetten en de rest als variabele sub-eigenschappen veranderen, bijvoorbeeld presenceSata.type = "blahblah"; type voorbeelden: details, staat, etc.*/
+    }; /*Optioneel, je kan hier ook een largeImageKey zetten en de rest als variabele sub-eigenschappen veranderen, bijvoorbeeld presenceData.type = "blahblah"; type voorbeelden: details, state, etc.*/
 
     if (presenceData.details == null) {
         //Dit wordt gestart als je geen presence-details instelt.
@@ -174,36 +174,36 @@ Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/H
 3. Voer `document.querySelectorAll("iframe")` uit.
 
 Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
-1. Maak een `iframe.ts` bestand.
+1. Maak een `iframe.ts` bestand aan.
 2. Stel iFrame in op `true` in uw metadata bestand.
-3. Vullen in je iFrame bestand.
+3. Vul je iFrame bestand in.
 ```javascript
 var iframe = new iFrame();
-iframe. n("UpdateData", async () => {
+iframe.on("UpdateData", async () => {
   /*
   Haal alle gegevens op die je nodig hebt uit het iFrame om ze op te slaan in variabelen
-  en verzend ze vervolgens via iframe. einde
+  en verzend ze vervolgens via iframe.send
   */
-  iframe.send({ //sending data
+  iframe.send({ //verstuur data
     video: video,
-    tijd: video. uration
+    tijd: video.duration
   }); 
 });
 ```
-4. Het maken van je aanwezigheidsbestand om gegevens te ontvangen uit het iframe-bestand.
+4. Zorgen dat je presence-bestand data ontvangt vanuit het iFrame bestand.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Opmerking:** Dit moet worden geplaatst buiten de updateData gebeurtenis.
+**Opmerking:** Dit moet buiten de updateData event worden geplaatst.
 ## Compileren
 Open een console in je map en typ `tsc -w` om de `presence.ts` te compileren in de `/dist` map.
 
 # Structuur (JavaScript)
 ## Het project klonen
-1. Install [Git](https://git-scm.com/).
+1. Installeer [Git](https://git-scm.com/).
 2. Open een terminal en typ `git clone https://github.com/PreMiD/Presences`.
 3. Kies een map van je keuze.
 4. Open het in de code editor.
@@ -263,7 +263,7 @@ aanwezigheid. n("UpdateData", () => {
         state: "Reading section A", //Het onderste gedeelte van je presence
         startTimestamp: 1577232000, //De unix epoch-tijdstempel vanaf wanneer geteld moet worden
         endTimestamp: 1577151472000 //Als je Tijd Over wilt laten zien in plaats van Voorbij, dit is de unix epoch-tijdstempel wanneer de timer stopt
-    }; /*Optioneel, je kan hier ook een largeImageKey zetten en de rest als variabele sub-eigenschappen veranderen, bijvoorbeeld presenceSata.type = "blahblah"; type voorbeelden: details, staat, etc.*/
+    }; /*Optioneel, je kan hier ook een largeImageKey zetten en de rest als variabele sub-eigenschappen veranderen, bijvoorbeeld presenceData.type = "blahblah"; type voorbeelden: details, state, etc.*/
 
     if (presenceData.details == null) {
         //Dit wordt gestart als je geen presence-details instelt.
@@ -292,7 +292,7 @@ Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/H
 Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
 1. Maak een `iframe.js` bestand.
 2. Stel iFrame in op `true` in uw metadata bestand.
-3. Vullen in je iFrame bestand.
+3. Vul je iFrame bestand in.
 ```javascript
 var iframe = new iFrame();
 iframe. n("UpdateData", () => {
@@ -306,14 +306,14 @@ iframe. n("UpdateData", () => {
     });
 });
 ```
-4. Het maken van je aanwezigheidsbestand om gegevens te ontvangen uit het iframe-bestand.
+4. Zorgen dat je presence-bestand data ontvangt vanuit het iFrame bestand.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Opmerking:** Dit moet worden geplaatst buiten de updateData gebeurtenis.
+**Opmerking:** Dit moet buiten de updateData event worden geplaatst.
 # Het metadata.json bestand invullen
 We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator). Het wordt nog steeds aangeraden dit door te lezen, zodat u weet hoe het werkt.
 
