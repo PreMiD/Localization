@@ -29,11 +29,11 @@ iframe.on("UpdateData", async () => {
 
 ## Métodos
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `send(Objeto)`
+Envia dados para a presença. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Retorna a URL do `iframe`.
 
 ## Eventos
 In `iframes`, events work similarly to the way they work in the `presence` class.
