@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "告诉所有人你在做什么!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** 是一个简单、可配置的工具，可以让您在您的Discord上显示您在网页上做的事情，现在正在播放状态。",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "我们的功能",
