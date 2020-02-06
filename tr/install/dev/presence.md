@@ -29,9 +29,9 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 - Servis güvensiz **hiçbir** amaç barındırmamalıdır. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
 - Eğer servisini yaptığınız bir site ileride güncellenirse, servisi güncelleyip tekrar çalışır hale getirmek **SİZİN** sorumluluğunuzdur. Eğer kısa süre içerisinde gerekli düzeltmeleri yapıp yayınlamazsanız, diğer servis geliştiricileri sizin kodunuzu **tekra yazma** veya düzenleme hakkına sahiptir.
 - Servis, incelemeye gönderilmeden önce test edilmeli ve her şeyin çalıştığına emin olunmalıdır.
-- Your presence must have SFW images and descriptions regardless if it is NSFW or not. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw`'yi eklemeniz gerekmektedir.
-- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
+- Servisiniz, ne olursa olsun yetişkin içerik barındırmayan resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw`'yi eklemeniz gerekmektedir.
+- Servisiniz **HİÇBİR** şekilde ücretsiz alan adı veya sunucuya sahip olmamalıdır (TK, [tüm Freenom alan adları], RF.GD gibi), ücretli bir alan adı olduğuna dair kanıt gösterilmesi durumunda ayrıcalıklar tanınacaktır.
+- `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz ("oynatılıyor", "durduruldu" gibi) kısımlardır. PreMiD'e ait olmayan Discord profilini veya herhangi bir şeyin reklamını yapamazsınız.
 - The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
 - The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
 - The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
