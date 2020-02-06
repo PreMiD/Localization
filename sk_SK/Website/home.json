@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Dajte všetkým vedieť čo robíte!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Naše funkcie",
     "description": "Introduction button"
