@@ -74,17 +74,5 @@
   "store.search": {
     "message": "إبحث",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "وجود المستخدم",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "وجود المستخدم",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "لا يمكننا العثور على هذا الوجود",
-    "description": "Search result text when nothing's found"
   }
 }
