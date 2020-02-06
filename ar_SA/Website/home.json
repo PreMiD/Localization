@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "!دع الجميع يعرفون ماذا تشاهد حاليا",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "ميزاتنا",
     "description": "Introduction button"
