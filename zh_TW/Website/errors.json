@@ -1,0 +1,26 @@
+{
+  "store.search.notFound": {
+    "message": "找不到該Presence.",
+    "description": "Search result text when nothing's found"
+  },
+  "user.notFound.heading": {
+    "message": "找不到這個使用者。請確認無誤並重試：",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "您正在搜尋的使用者ID是正確的。",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "這個使用者創建了足夠多的 Presence 并在我們的 Discord 伺服器中擁有 Presence 開發者身分組",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "在我們的 Discord 伺服器中確認其他人是否存在同樣的錯誤。",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "如果你堅信這是一個錯誤，請在 [Discord 伺服器] 中聯係我們。",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
