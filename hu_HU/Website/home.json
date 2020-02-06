@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Oszd meg mindenkivel amit épp nézel és hallgatsz!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Funkciók",
     "description": "Introduction button"
