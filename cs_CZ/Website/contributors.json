@@ -46,5 +46,17 @@
   "contributors.roles.translator": {
     "message": "Překladatel",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrátor",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "tajemník komunity",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Vyšší moderátor",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }
