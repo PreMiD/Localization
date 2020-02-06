@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "讓大家知道您在做些什麼吧!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "我們的功能",
     "description": "Introduction button"
