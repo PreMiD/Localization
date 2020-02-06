@@ -1,4 +1,8 @@
 {
+  "presence.page.buttons.sourceCode": {
+    "message": "Исходный код",
+    "description": "Source Code button on presence pages."
+  },
   "presence.sections.description.title": {
     "message": "Описание",
     "description": "The title of the description section."
@@ -22,5 +26,9 @@
   "presence.sections.information.supportedurls": {
     "message": "Поддерживаемые ссылки",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+  },
+  "presence.sections.information.contributors": {
+    "message": "Участники",
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   }
 }
