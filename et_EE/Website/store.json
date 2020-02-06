@@ -58,13 +58,5 @@
   "store.search": {
     "message": "Otsi",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Kasutaja lisad",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Kasutaja lisad",
-    "description": "Userpage title"
   }
 }
