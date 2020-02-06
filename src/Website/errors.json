@@ -1,0 +1,46 @@
+{
+  "store.search.notFound": {
+    "message": "We can't find that presence.",
+    "description": "Search result text when nothing's found"
+  },
+  "error.code.404": {
+    "message": "Sorry, we can't find this page.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "You're looking for not existing or deleted presence.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "Internal server error has occurred.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "Details",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Return to the homepage",
+    "description": "Button on the error page"
+  },
+  "user.notFound.heading": {
+    "message": "That user couldn't be found. Try to make sure:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "User's ID you're looking for is correct.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "The user has created enough presences and has the Presence Developer role in our Discord server.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Check if others are experiencing the same issue on our Discord server.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "If you believe this was a mistake, please contact us from [our Discord server].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}
