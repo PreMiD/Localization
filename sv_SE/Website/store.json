@@ -31,6 +31,22 @@
     "message": "This presence is included in PreMiD by default, no need to install it.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Sök filter",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Visa mest använda först",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Tillåt vuxet innehåll",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorier",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Alla",
     "description": "Category at the top"
@@ -58,13 +74,5 @@
   "store.search": {
     "message": "Sök",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Användar presences",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Användar presences",
-    "description": "Userpage title"
   }
 }
