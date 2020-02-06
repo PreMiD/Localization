@@ -16,11 +16,11 @@
     "description": "Error (500) message"
   },
   "error.page.details": {
-    "message": "Beschrijving",
+    "message": "Foutbeschrijving",
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
-    "message": "Ga terug naar de homepage",
+    "message": "Ga terug naar de startpagina",
     "description": "Button on the error page"
   },
   "user.notFound.heading": {
