@@ -1,6 +1,6 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Strona bez tytułu
+description: Mały pomocnik do TypeScript
 published: tak
 date: 2020-01-18T20:33:00.222Z
 tags:
