@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Дайте всім знати, що Ви робите!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** - це проста утиліта, яка дозволяє вам показати, що ви робите в мережі у вашому Discord тепер грає статус.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "Наші особливості",
