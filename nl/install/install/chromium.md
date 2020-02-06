@@ -1,24 +1,24 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: Aan de slag met de PreMiD installatie op Chromium-gebaseerde browsers
 published: true
 date: 2020-01-18T20:32:33.964Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+De installatie van de extensie is van groot belang, omdat de applicatie op zichzelf niets kan doen.
 
 # Installeer
 ### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+1. Ga naar onze downloadpagina door [hier](https://premid.app/downloads) te klikken.
+2. Kies **Chromium**.
+3. Klik op **Toevoegen aan Chrome**.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Voeg **[Installeer Chrome Extensies](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)** toe.
+2. Voeg [onze extensie](https://premid.app/downloads) toe.
 
-> Do not forget to [add the **application**](/install). 
+> Vergeet niet de [**applicatie**](/install) toe te voegen. 
 > 
 > {.is-warning}
 
