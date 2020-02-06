@@ -1,77 +1,77 @@
 ---
-title: Classe Presence
-description: A classe principal para cada presença do PreMiD
+title: Classe de presença
+description: The main class for every PreMiD presence
 published: true
 date: 2020-01-18T20:32:53.042Z
 tags:
 ---
 
-# Classe Presence
+# Classe de presença
 
-## Introdução
+## Introduction
 
-A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
- Ao criar uma classe você deve especificar a propriedade `clientId`.
+ When you create a class you must specify `clientId` property.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Exemplo de clientId
+    clientId: "514271496134389561" // Example clientId
 });
 ```
 
-Há duas propriedades disponíveis para a classe `Presence`.
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
-A propriedade `clientId` deve ser fornecida para que sua presença funcione, porque ela usa a sua Application ID para exibir o seu logotipo e os assets.
+`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-Você pode obter sua Application ID na [página de aplicativos](https://discordapp.com/developers/applications).
+You can get it on your [applications page](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-Esta propriedade diz ao nosso aplicativo para registrar as teclas de atalho para as teclas de mídia e nos permite usar o evento `MediaKeys` para a classe `Presence`.
+This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
 
-Esta propriedade não é necessária, mas se você quiser habilitar as teclas de mídia, você deve configurá-la como `true`.
+This property is not required, but if you want to enable media keys you should set it to `true`.
 
-**Todos os eventos de mediaKey estão temporariamente desativados!**
+**All mediaKey events are temporarily disabled!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Permite usuários à usar teclas de mídia
+    mediaKeys: true // Allows users to use media keys
 });
 ```
 
-## Métodos
+## Methods
 
 ### `setActivity(presenceData, Boolean)`
 
-Define a atividade do seu perfil de acordo com os dados fornecidos.
+Sets your profile activity according to provided data.
 
-O primeiro parâmetro requer uma interface de `presenceData` para obter todas as informações que você deseja exibir no seu perfil.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-O segundo parâmetro define quando a presença está reproduzindo algo ou não. Sempre use `true` se você fornecer timestamps na `presenceData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Limpa sua atividade atual, os atalhos e título de bandeja.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Este método funciona apenas no Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
-Define o título da bandeja no Menubar.
+Sets the tray title on the Menubar.
 
-### `getStrings(Objeto)`
+### `getStrings(Object)`
 
-Permite que você obtenha frases traduzidas da extensão. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Você pode encontrar algumas das strings usando este endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Retorna strings `Playing` e `Paused`
-// a partir da extensão.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,18 +80,18 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Retorna uma variável a partir do site, se ela existir.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Isto registrará o "conteúdo variável"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
-## Interface `presenceData`
+## `presenceData` Interface
 
-A interface `presenceData` é recomendada quando você usar o método `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Essa interface possui as seguintes variáveis, todas elas são opcionais.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -104,52 +104,52 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Segunda linha da sua presença.</td>
+      <td style="text-align:left">Second line in your presence.</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Define o tempo atual.<br>
-        Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
-          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
-          contagem errada.
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Número</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Define a duração total.
-        <br>Usado se você quiser mostrar quantos <code>horas:minutos:segundos</code> faltam.
-          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
-          contagem errada.
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Número</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Define o logo para a presença.</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele passar o cursor no pequeno 
-        ícone.</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
     </tr>
@@ -158,36 +158,36 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Meu título",
-    state: "Minha descrição",
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Você está em cima de mim, e agora?",
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Eventos
+## Events
 
-Os eventos permitem que você detecte e lide com algumas alterações ou chamadas que foram feitas. Você pode assinar eventos usando o método `on`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Faça algo quando os dados forem atualizados.
+    // Do something when data gets updated.
 });
 ```
 
-Há alguns eventos disponíveis:
+There are few events available:
 
 #### `UpdateData`
 
-Este evento é disparado toda vez que a presença é atualizada.
+This event is fired every time the presence is being updated.
 
-#### `MediaKeys` (desativado)
+#### `MediaKeys` (disabled)
 
-Disparado quando o usuário usa chaves de mídia em seu teclado, [clique aqui](/dev/presence/class#mediakeys) para obter mais informações sobre as chaves de mídia.
+Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
 
 #### `iFrameData`
 
-Disparado quando os dados são recebidos do script iFrame.
+Fired when data is received from iFrame script.
