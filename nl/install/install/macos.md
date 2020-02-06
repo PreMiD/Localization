@@ -10,10 +10,10 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+De installatie van de applicatie is van groot belang, omdat de extensie op zichzelf niets kan doen.
 
 # Installeer
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Ga naar onze downloadpagina door [hier](https://premid.app/downloads) te klikken.
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
