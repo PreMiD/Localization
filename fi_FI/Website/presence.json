@@ -5,6 +5,6 @@
   },
   "presence.sections.information.contributors": {
     "message": "Osallistujat",
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
   }
 }
