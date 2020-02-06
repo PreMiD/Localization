@@ -15,24 +15,16 @@
     "message": "Creado {0} presencias.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
-  "user.notFound.heading": {
-    "message": "No se ha podido encontrar ese usuario. Intenta asegurarte:",
-    "description": "Error when user couldn't be found."
+  "user.switch.contributed": {
+    "message": "Usuario [presences/contribuciones]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
   },
-  "user.notFound.message1": {
-    "message": "El ID del usuario que estás buscando es correcto.",
-    "description": "Check user ID message."
+  "user.presences.created": {
+    "message": "Haga clic aquí para mostrar las presencias que este usuario ha creado.",
+    "description": "Tippy content in user profile."
   },
-  "user.notFound.message2": {
-    "message": "El usuario ha creado suficientes presencias y tiene el rol \"Presence Developer\" en nuestro servidor de Discord.",
-    "description": "Check the presence amount of the developer created message."
-  },
-  "user.notFound.message3": {
-    "message": "Compruebe si otros están experimentando el mismo problema en nuestro servidor de Discord.",
-    "description": "Check if the error is also happening to others message."
-  },
-  "user.notFound.message4": {
-    "message": "Si crees que esto fue un error, por favor contáctanos desde [nuestro servidor de Discord].",
-    "description": "Bottom line for the error page. Do not edit brackets."
+  "user.presences.contributed": {
+    "message": "Haga clic aquí para mostrar las presencias a las que este usuario ha contribuido.",
+    "description": "Tippy content (mode 2) in user profile."
   }
 }
