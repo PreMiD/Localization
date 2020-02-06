@@ -29,6 +29,6 @@
   },
   "presence.sections.information.contributors": {
     "message": "贡献者",
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
   }
 }
