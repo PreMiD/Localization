@@ -225,38 +225,38 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ```javascript
 var presence = nieuwe Presence({
     clientId: "000000000000000000", //de client ID van de applicatie gemaakt op https://discordapp. om/ontwikkelaars/applicaties
-    mediaKeys: false ///Enable use and detectie van mediaknoppen
+    mediaKeys: false //Schakel het gebruikt van mediaknoppen in
 }),
 
-tekenreeksen = aanwezigheid. ({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    pauze: "presence.playback. geausteerd"
-    //U kunt dit gebruiken om vertaalde tekenreeksen te krijgen
+    pause: "presence.playback.paused"
+    //Krijg vertaalde strings
 });
 
 /*
 
-functie myOutsideūyLiftingFunction(){
-    //Grab en verwerk al je data hier
+functie myOutsideHeavyLiftingFunction(){
+    //Pak en verwerk al je data hier
 
-    // element grijbs //
-    // api roept //
+    // element grabs//
+    // api calls//
     // variabele sets //
 }
 
-setInterval(10000, myOutsideFitingFunctie); 
-/Uitvoeren van de functie los van de UpdateData-gebeurtenis elke 10 seconden om de variabelen te krijgen en in te stellen die de UpdateData ophaalt
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+/Uitvoeren van de functie los van de UpdateData-event elke 10 seconden om de variabelen te krijgen en in te stellen die de UpdateData ophaalt
 
 */
 
 
-aanwezigheid. n("UpdateData", () => {
-    ///UpdateData wordt altijd geopend, en daarom moet je als je ververscyclus of `tick` gebruiken. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
+presence.on("UpdateData", () => {
+    //UpdateData wordt altijd afgevuurd, en daarom moet je als je ververscyclus of `tick` gebruiken. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
-    //Het wordt aangeraden om een andere functie buiten deze gebeurtenisfunctie in te stellen die de variabele waarden zal veranderen en het zware lift zal doen als u gegevens uit een API aanroept.
+    //Het wordt aangeraden om een andere functie buiten dit event in te stellen die de variabele waarden zal veranderen en het zware werk zal doen als u gegevens uit een API opvraagt.
 
     var presenceData = {
-        largeImageKey: "key", /*De sleutel (bestandsnaam) van de grote afbeelding op de aanwezigheid. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+        largeImageKey: "key", /*De sleutel (bestandsnaam) van de grote afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
         smallImageKey: "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
         smallImageText: "Some hover text", //De tekst die wordt weergeven wanneer je eroverheen wijst
         details: "Browsing Page Name", //Het bovenste gedeelte van je presence
@@ -290,20 +290,20 @@ Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/H
 3. Voer `document.querySelectorAll("iframe")` uit.
 
 Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
-1. Maak een `iframe.js` bestand.
+1. Maak een `iframe.js` bestand aan.
 2. Stel iFrame in op `true` in uw metadata bestand.
 3. Vul je iFrame bestand in.
 ```javascript
 var iframe = new iFrame();
-iframe. n("UpdateData", () => {
-    /*
-    Haal alle gegevens op die je nodig hebt uit het iFrame om ze op te slaan in variabelen
-    en verzend ze vervolgens met iframe. einde
-    */
-    iframe. end({ //sending data
-        video: video,
-        tijd: video. uration  
-    });
+iframe.on("UpdateData", () => {
+  /*
+  Haal alle gegevens op die je nodig hebt uit het iFrame om ze op te slaan in variabelen
+  en verzend ze vervolgens via iframe.send
+  */
+  iframe.send({ //verstuur data
+    video: video,
+    tijd: video.duration
+  }); 
 });
 ```
 4. Zorgen dat je presence-bestand data ontvangt vanuit het iFrame bestand.
@@ -319,11 +319,11 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 
 ```javascript
 {
-  "auteur": {
+  "author": {
     "name": "GEBRUIKER",
     "id": "ID"
   },
-  "bijdragers": [{
+  "contributors": [{
     "naam": "GEBRUIKER",
     "id": "ID"
   }],
@@ -336,11 +336,11 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
-  "categorie": "CATEGORY",
+  "tags": ["CATEGORIE", "TAG"],
+  "category": "CATEGORIE",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": vals
+  "iframe": false
 }
 ```
 
