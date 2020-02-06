@@ -13,30 +13,30 @@ tags:
 Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
 # Richtlijnen
-> Als je niet voldoet aan alle richtlijnen zal jouw presence of pull-aanvraag verwijderd worden van de github. 
+> Als je niet voldoet aan alle richtlijnen zal jouw presence of pull-aanvraag verwijderd worden van de GitHub. 
 > 
 > {.is-danger}
 
 ## Aanmaak
 
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
-- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Inclusief de `dist` map het `presence.js` bestand, en het `metadata.json` bestand.
+- De pull-aanvraag moet compleet zijn, je moet een goede bestandenstructuur hebben. Inclusief de `dist` map, het `presence.js` bestand, en het `metadata.json` bestand.
 - De presence **moet** gerelateerd zijn aan de website die je hebt gekozen.
 - De presence mag niet voor een illegale website zijn. Hieronder vallen stressers, drugs, kinderporno, etc...
-- De presence metadata moet een goed beschreven inhoud hebben, inclusief geldige titels, en bescrijvingen.
+- De presence metadata moet een goed beschreven inhoud hebben, inclusief geldige titels, en beschrijvingen.
 - De media die je toevoegt (icoon/thumbnail) moet gerelateerd zijn aan de website en moet begrijpelijk zijn in termen van grootte en kwaliteit.
 - De bestandsstructuur moet schoon en beheerd zijn, en mag geen willekeurige bestanden hebben die niks met de functie van de presence te maken hebben.
-- De presence **mag geen** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privéinformatie, het negatief beïnvloeden van het gedrag van de website, etc...
+- De presence **mag geen** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privé-informatie, het negatief beïnvloeden van het gedrag van de website, etc...
 - Als je een presence maakt voor een website die later wordt geüpdatet, ben **JIJ** verantwoordelijk voor het updaten van de presence om het weer werkend te krijgen. Als je het niet repareert in een tijdperiode, mogen andere presence ontwikkelaard jouw presence **overschrijven** om aan de wijzigingen te voldoen.
 - De presence moet getest zijn vóór het publiceren om te bevestigen dat alles werkt.
-- Uw aanwezigheid moet bestaan uit SFW-afbeeldingen en -beschrijvingen, ongeacht of het NSFW is of niet. Als jouw presence van een `nsfw` website is, voeg dan de `nsfw` tag toe aan je metadata.
-- Uw aanwezigheid moet **NIET** voor gratis domeinen of hosts (bv. .TK, [alle gratis Freenom domeinen], . F.GD, enz...), uitzonderingen kunnen worden gemaakt wanneer een bewijs wordt gepresenteerd dat aantoont dat het een betaald domein is.
-- De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra / secundaire context te bieden (zoals "afspelen"/"gepauzeerd" voor videosites, "bladeren" voor reguliere sites en andere kisten. Je hebt geen toestemming om Discord-profielen te promoten of iets dat niet gerelateerd is aan PreMiD.
-- Vereisten voor logo's zijn 1:1 (quare) in 512px, miniaturen echter moet [brede promotiekaartjes](https://i.imgur.com/3QfIc5v.jpg) zijn of [screenshots](https://i.imgur.com/OAcBmwW.png) als de eerste niet beschikbaar is.
+- Uw presence moet bestaan uit SFW-afbeeldingen en -beschrijvingen, ongeacht of het NSFW is of niet. Als jouw presence van een `nsfw` website is, voeg dan de `nsfw` tag toe aan je metadata.
+- Uw presence moet **NIET** voor gratis domeinen of hosts (bv. .TK, [alle gratis Freenom domeinen], . F.GD, enz...), uitzonderingen kunnen worden gemaakt wanneer een bewijs wordt gepresenteerd dat aantoont dat het een betaald domein is.
+- De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra / secundaire context te bieden (zoals "afspelen"/"gepauzeerd" voor videosites, "bladeren" voor reguliere sites). Je hebt geen toestemming om Discord-profielen te promoten of iets dat niet gerelateerd is aan PreMiD.
+- Vereisten voor logo's zijn 1:1 (vierkant) in 512px, thumbnails moeten echter [brede promotiekaartjes](https://i.imgur.com/3QfIc5v.jpg) zijn of [screenshots](https://i.imgur.com/OAcBmwW.png) als de eerste niet beschikbaar is.
 - De presences moeten ten minste 1 tag bevatten, dit is een vereiste volgens ontwerp en kan in de toekomst facultatief zijn.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+- Het `url` veld mag geen `http://` of `https://`bevatten, ook de parameters niet (bijv. een presence voor `https://www.google.com/search?gws_rd=ssl` heeft alleen `www.google.com` in de `url` veld).
 - Omschrijvingen en tags moeten altijd in arrays staan, zelfs als het maar één element is. Het `url` veld, mag echter alleen een string zijn als het één domein is.
-- Onstabiele sites die voortdurend API/domeinen wijzigen HTML-elementen willekeurig maken of nog steeds in volle ontwikkeling zijn, is niet toegestaan en zal worden verwijderd uit de winkel.
+- Onstabiele sites die voortdurend API/domeinen wijzigen HTML-elementen willekeurig maken of nog steeds in volle ontwikkeling zijn, zijn niet toegestaan en zullen worden verwijderd uit de winkel.
 
 ## Wijzigen
 
@@ -46,14 +46,14 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 - Bevestig dat jouw wijzigingen werken voordat je het publiceert. Maak geen pull-requests zonder dat je het resultaat van je wijzigingen kent.
 - Rebrand/overschrijf niet een presence volledig, tenzij het is toegestaan door een `Presence Verifier` of een staff-lid.
 
-# Bevestiging
-> Wanneer je een pull-aanvraag over het toevoegen of aanpassen van bestaande presences maakt, moet je een schermafbeelding toevoegen. Wijzigingen aan de metadata/tsconfig van een presence hebben echter geen schermafbeelding nodig. *Je schermafbeelding moet direct worden geüpload naar github met de pull-aanvraag, gebruik geen websites van derden voor het delen van afbeeldingen.* 
+# Verificatie
+> Wanneer je een pull-aanvraag over het toevoegen of aanpassen van bestaande presences maakt, moet je een schermafbeelding toevoegen. Wijzigingen aan de metadata/tsconfig van een presence hebben echter geen schermafbeelding nodig. *Je schermafbeelding moet direct worden geüpload naar GitHub met de pull-aanvraag, gebruik geen websites van derden voor het delen van afbeeldingen.* 
 > 
 > {.is-danger}
 
-Om te zorgen dat jouw presence in de winkel komt, moet het foor een proces op github gaan om te bevestigen dat het werkt zoals verwacht. Hier zijn een paar dingen om uit te kijken wanneer je je pull-aanvraag maakt.
+Om te zorgen dat jouw presence in de winkel komt, moet het door een proces op GitHub gaan om te bevestigen dat het werkt zoals verwacht. Hier zijn een paar dingen om uit te kijken wanneer je je pull-aanvraag maakt.
 
-Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verigier` op de discord server om te weten wie betrokken is.
+Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verifier` op de discord server om te weten wie betrokken is.
 
 1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal niet toegevoegd worden.
 2. Als wij wijzigingen aanvragen en als jouw pull-aanvraag meer dan **7 dagen inactief is** zonder de benodigde wijzigingen te maken, zullen we het sluiten.
