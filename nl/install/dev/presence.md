@@ -66,7 +66,7 @@ Ons presence-verificatieteam heeft zijn eigen rol, kijk uit voor `Presence Verif
 Nadat alle juiste beoordelingen zijn uitgevoerd, zal jouw pull-aanvraag worden samengevoegd met de winkel.
 
 # Structuur (TypeScript)
-Je kan kiezen of je je Presence wilt coderen met [JavaScript](https://www.javascript.com/) of [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) heeft een paar extra fijna type definities, dus het oplossen en vinden van bugs is veel eenvoudiger. Als je [JavaScript](https://www.javascript.com/) wilt gebruiken, kan je meteen naar [Structuur (JavaScript)](/dev/presence#structure-javascript).
+Je kan kiezen of je je Presence wilt coderen met [JavaScript](https://www.javascript.com/) of [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) heeft een paar extra type definities, dus het oplossen en vinden van bugs is veel eenvoudiger. Als je [JavaScript](https://www.javascript.com/) wilt gebruiken, kan je meteen naar [Structuur (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installatie
 1. Install [Git](https://git-scm.com/).
