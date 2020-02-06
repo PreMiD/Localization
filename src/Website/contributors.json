@@ -46,5 +46,21 @@
   "contributors.roles.translator": {
     "message": "Translator",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrator",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "Community Secretary",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Senior Moderator",
+    "description": "'Senior Moderator' title for contributors page."
+  },
+  "contributors.roles.verificationHead": {
+    "message": "Head of Presence Verifying",
+    "description": "'Head of Presence Verifying' title for contributors page."
   }
 }
