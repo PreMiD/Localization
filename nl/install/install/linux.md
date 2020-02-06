@@ -1,20 +1,20 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Aan de slag met de PreMiD installatie op Linux
 published: true
 date: 2020-01-18T20:32:37.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Voordat je verder gaat, zorg ervoor dat je systeem voldoet aan alle [vereisten](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+De installatie van de applicatie is van groot belang, omdat de extensie op zichzelf niets kan doen.
 
 # Installeer
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Er is geen officiële installatieprogramma voor dit besturingssysteem. Dat betekent dat er geen officiële ondersteuning voor is. Je kunt echter informatie uitwisselen met andere Linux gebruikers op onze [Discord server](https://discord.gg/premid/).{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
+1. Installeer [NodeJS](https://nodejs.org/en/).
+2. Open een terminal.
 3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
