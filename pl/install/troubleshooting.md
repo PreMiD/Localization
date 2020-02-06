@@ -10,19 +10,19 @@ tags:
 > 
 > {.is-warning}
 
-### Reload the page
+### Odśwież stronę
 You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Restart your browser
+### Uruchom ponownie przeglądarkę
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Upewnij się, że w ustawieniach włączono Discord Game Activity
+<strong x-id = "1">Ustawienia użytkownika</strong> > <strong x-id = "1">Aktywność w grze</strong> ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
+### Uruchom ponownie PreMiD (aplikacja)
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### Reload/restart Discord
+### Odśwież/uruchom ponownie Discord
 Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Be sure Discord is running NOT as administrator
