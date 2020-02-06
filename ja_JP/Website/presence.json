@@ -22,5 +22,9 @@
   "presence.sections.information.supportedurls": {
     "message": "動作するURL",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+  },
+  "presence.sections.information.contributors": {
+    "message": "Contributors",
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]"
   }
 }
