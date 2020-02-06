@@ -81,11 +81,11 @@ Você pode escolher se você quer codificar sua Presença com [JavaScript](https
 ## Criando pastas e arquivos
 
 1. Crie uma pasta com o **nome** (não uma URL) do serviço que você deseja suportar.
-2. Crie um arquivo `presence.ts` e um arquivo `tsconfg.json` dentro dele.
-3. Crie uma pasta chamada `disco` dentro.
-4. Crie um arquivo de `metadata.json` dentro da pasta `dist`.
+2. Crie um arquivo `presence.ts` e um arquivo `tsconfg.json` dentro dela.
+3. Crie uma pasta chamada `dist` dentro.
+4. Crie um arquivo `metadata.json` dentro da pasta `dist`.
 
-## Preenchimento do arquivo tsconfig.json
+## Preenchendo o arquivo tsconfig.json
 
 Coloque o seguinte código dentro do arquivo `tsconfg.json`.
 ```javascript
@@ -211,7 +211,7 @@ Abra um console na sua pasta e digite `tsc -w` para compilar o `presence.ts` na 
 ## Criando pastas e arquivos
 
 1. Crie uma pasta com o **nome** (não uma URL) do serviço que você deseja suportar.
-3. Crie uma pasta chamada `disco` dentro.
+3. Crie uma pasta chamada `dist` dentro.
 4. Crie um arquivo `metadata.json` e um arquivo `presence.js` dentro da pasta `dist`.
 
 ## Preenchendo o arquivo de metadata.json
