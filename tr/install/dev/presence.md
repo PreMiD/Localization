@@ -32,11 +32,11 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 - Servisiniz, ne olursa olsun yetişkin içerik barındırmayan resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw`'yi eklemeniz gerekmektedir.
 - Servisiniz **HİÇBİR** şekilde ücretsiz alan adı veya sunucuya sahip olmamalıdır (TK, [tüm Freenom alan adları], RF.GD gibi), ücretli bir alan adı olduğuna dair kanıt gösterilmesi durumunda ayrıcalıklar tanınacaktır.
 - `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz ("oynatılıyor", "durduruldu" gibi) kısımlardır. PreMiD'e ait olmayan Discord profilini veya herhangi bir şeyin reklamını yapamazsınız.
-- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
-- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
-- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+- Resimlerin oranı 1:1 (kare), 512 piksel boyutunda, küçük resimler ise [geniş promosyon kartları](https://i.imgur.com/3QfIc5v.jpg) veya bu seçenek servis için mümkün değilse [servisin ekran görüntüsü](https://i.imgur.com/OAcBmwW.png) olmalıdır.
+- Servis en az 1 etiket içermelidir, bu madde ileride kaldırılabilir ve bu gereklilik ortadan kaldırılabilir.
+- `url` alanı, `http://` veya `https://` içermemelidir (`https://www.google.com/search?gws_rd=ssl` adresi için `url` kısmı, sadece `www.google.com` olmalıdır).
+- Açıklamalar ve etiketler, sadece bir adet olsalar bile mutlaka array içerisinde olmalıdır. Sadece `url` kısmı eğer tek bir site içinse array dışına yazılabilir.
+- Sürekli API/alan adı değişiklikleri yapan stabil olmayan, rastgele HTML elementleriyle donatılmış olan veya ağır bir geliştirilme aşamasından geçen siteler kabul edilmeyecek ve marketten silinecektir.
 
 ## Yapılandırma
 
