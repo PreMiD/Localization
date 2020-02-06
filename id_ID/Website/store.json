@@ -58,13 +58,5 @@
   "store.search": {
     "message": "Cari",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Presence pengguna",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Presence pengguna",
-    "description": "Userpage title"
   }
 }
