@@ -2,7 +2,7 @@
 title: Linux
 description: Getting started with a PreMiD installation on Linux
 published: true
-date: 2020-01-18T20:32:37.753Z
+date: 2020-02-06T23:53:58.303Z
 tags: 
 ---
 
@@ -15,7 +15,7 @@ The installation of the application is very important as the extension can not d
 
 1. Install [NodeJS](https://nodejs.org/en/).
 2. Open a terminal.
-3. Clone the repository: ``git clone https://github.com/Timeraa/PreMiD.git``
+3. Clone the repository: ``git clone https://github.com/PreMiD/PreMiD.git``
 4. Change the working directory: ``cd PreMiD/src``
 5. Install the dependencies and the application: ``npm install``
 6. Change the working directory: ``cd ..``
