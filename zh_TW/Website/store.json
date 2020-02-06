@@ -74,17 +74,5 @@
   "store.search": {
     "message": "搜尋",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "用戶狀態",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "用戶狀態",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "找不到該Presence",
-    "description": "Search result text when nothing's found"
   }
 }
