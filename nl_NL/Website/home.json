@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Laat iedereen weten wat je doet!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het web doet in je Discord nu een afspeelstatus heeft.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "Onze functies",
