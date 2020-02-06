@@ -344,13 +344,13 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 }
 ```
 
-Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in uw `metagegevens staan. zoon` bestand, als u niet van plan bent om ze te gebruiken, dan moet u ze verwijderen.
+Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in uw `metadata.json` bestand staan, als u niet van plan bent om ze te gebruiken, dan moet u ze verwijderen.
 - `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Bepaalde voorinstellingen van waarde verduidelijken:**
+**Bepaalde voorinstellingen van waarden verduidelijken:**
 <table>
   <thead>
     <tr>
@@ -384,7 +384,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">De titel van de dienst die door deze presence wordt ondersteund. <br>(Naam van de map waar alles in zit)</td>
+      <td style="text-align:left">De titel van de dienst die door deze presence wordt ondersteund. <br>(Naam is dezelfde als de map waar alles in zit)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
@@ -403,13 +403,13 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">URL van de service.<br><b>Bijvoorbeeld:</b><code>vk.com</code><br>
+        <b>Deze URL moet de URL van de website zijn, aangezien dit er voor zorgt of de script word ingeladen of niet.</b><br> Voeg <b>NIET</b> <code>https://</code> of <code>http://</code> toe in de URL, ook niet een slash aan het einde:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Vergeet <b>NIET</b> toe te voegen!<br>
+<b>Opmerking</b>: Sommige URLs hebben <code>www.</code> of iets anders voor hun domain naam. Vergeet <b>NIET</b> toe te voegen!<br>
 U kunt meerdere URL's toevoegen door het volgende te doen:<br>
-<code>["URL1", "URL2", "ETC. ]</code><br>
-U kunt regExp ook bekend als Regex gebruiken voor deze taak, leg hieronder uit
+<code>["URL1", "URL2", "ETC.]</code><br>
+U kunt regExp ook bekend als Regex gebruiken voor deze taak, word hier onder verder uitgelegd.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
