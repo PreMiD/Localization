@@ -46,5 +46,17 @@
   "contributors.roles.translator": {
     "message": "Çevirmen",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Yönetici",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "Topluluk Sekreteri",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Kıdemli Yetkili",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }
