@@ -2,7 +2,7 @@
 title: Solução de Problemas
 description: Tudo para resolver o seu problema
 published: true
-date: 2020-01-18T20:32:24.820Z
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
