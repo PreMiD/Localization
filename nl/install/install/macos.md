@@ -22,7 +22,7 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+De applicatie start automatisch. Controleer op het symbool in uw menubalk.
 
 > Do not forget to [add the **extension**](/install). 
 > 
