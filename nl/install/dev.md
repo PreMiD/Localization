@@ -2,7 +2,7 @@
 title: Aan de slag
 description: Een beetje advies voor degenen die onlangs in codering zijn gekomen
 published: true
-date: 2020-01-18T20:32:18.836Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
