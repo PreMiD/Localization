@@ -2,7 +2,7 @@
 title: Classe iFrame
 description:
 published: vrai
-date: 2020-01-18T20:32:55.147Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## Méthodes
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
