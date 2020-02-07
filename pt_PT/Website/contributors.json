@@ -12,11 +12,11 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "Desenvolvedor(a) Principal",
+    "message": "Desenvolvedor Principal",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "Desenvolvedor(a) do Site",
+    "message": "Desenvolvedor do Site",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
@@ -40,7 +40,7 @@
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
-    "message": "Acelerador(a)",
+    "message": "Booster",
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
