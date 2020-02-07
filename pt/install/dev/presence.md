@@ -32,8 +32,8 @@ Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - Sua Presença deve ter imagens e descrições SFW independentemente de ser NSFW ou não. Se sua presença é sobre um site `nsfw`, por favor adicione a tag `nsfw` aos seus metadados.
 - Sua presença **NÃO** deve ser para domínios ou hosts gratuitos (por exemplo, .TK, [todos os domínios grátis do Freenom], . F.GD, etc...), exceções podem ser feitas se for apresentada uma prova de que é um domínio pago.
 - Os campos `smallImageKey` e `smallImageText` destinam-se a fornecer contexto adicional/secundário (como "reproduzindo"/"pausado" para sites de vídeo, "navegando" para sites regulares e outros casos). Você não tem permissão para promover perfis do Discord ou qualquer coisa não relacionada ao PreMiD.
-- Os requisitos para os logotipos são 1:1 (SQ) em 512px, no entanto, miniaturas. deve ser [amplo de cartas promocionais](https://i.imgur.com/3QfIc5v.jpg) ou simplesmente [capturas de tela](https://i.imgur.com/OAcBmwW.png) se o primeiro não estiver disponível.
-- As presenças devem ter pelo menos 1 marca, isto é uma exigência de design e pode ser opcional no futuro.
+- Os requerimentos para logos são 1:1 (Quadrado) em 512px, miniaturas, por entanto, devem ser [amplos cartões promocionais](https://i.imgur.com/3QfIc5v.jpg) ou simplesmente [capturas de tela](https://i.imgur.com/OAcBmwW.png) se a primeira opção não estiver disponível.
+- As presenças devem ter pelo menos 1 tag, isto é uma exigência de design e pode ser opcional no futuro.
 - O campo `url` não deve incluir `http://` ou `https://`, nem os parâmetros (ex: uma presença para `https://www.google.com/search?gws_rd=ssl` somente terá `www.google.com` no campo `url`).
 - Descrições e tags devem estar sempre em arrays, mesmo quando é apenas um elemento. O campo `url`, no entanto, só deve ser uma string se for um domínio.
 - Sites instáveis que constantemente mudam de APIs/domínios, elementos HTML aleatórios ou ainda em desenvolvimento pesado não são permitidos e serão removidos da loja.
