@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Без назви сторінки
+description: Маленький помічник для TypeScript
 published: true
-date: 2020-01-18T20:33:00.222Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
 # Налаштування TypeScript
 
-## Introduction
+## Вступ
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Коли ви завантажили та розпаковували робочу область, ви побачите файл з назвою `tsconfig. s` в папках root і присутності, цей файл використовується для налаштування компіляції **TypeScript**. Він вже настроєний для вас, тому не хвилюйтеся за це.
 
-We just want to describe some settings that you should know.
+Ми просто хочемо описати деякі налаштування, які вам слід знати.
 
-## Root Configuration
+## Налаштування рут доступу
 
-In the root configuration file you will see something like this.
+У кореневому файлі конфігурації ви побачите щось на зразок цього.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Опис                                                                                            |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Властивість         | Опис                                                                                                    |
+|:------------------- |:------------------------------------------------------------------------------------------------------- |
+| **compilerOptions** | Використовується для налаштування компілятора, більшість властивостей розташовані тут.                  |
+| модуль              | Детальніше про це ви можете прочитати [тут](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Визначає версію JavaScript, яку ви збираєте.                                                            |
+| видалити коментарі  | Видалення коментарів зі скомпільованих файлів.                                                          |
+| **виключити**       | Тут ви можете визначити теки, які хочете виключити з майбутньої компіляції.                             |
 
-## Presence Configuration
+## Конфігурація присутності
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 
 ```
 
-| Property            | Опис                                                                                   |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Властивість         | Опис                                                                                                     |
+|:------------------- |:-------------------------------------------------------------------------------------------------------- |
+| **продовжується**   | Використовується для продовження базового `tsconfig` файлу для різних завдань.                           |
+| **compilerOptions** | Дивіться [**налаштування кореня**](/dev/presence/tsconfig#root-configuration) для додаткової інформації. |
+| аутдір              | Визначає каталог виводу для скомпільованих файлів.                                                       |
