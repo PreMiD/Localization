@@ -382,7 +382,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">O título do serviço que esta presença suporta. <br>(Deve ser o mesmo nome que a pasta em que tudo está)</td>
+      <td style="text-align:left">O título do serviço que esta presença suporta. <br>(Deve ser o mesmo nome que a pasta aonde todos os arquivos estão)</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
       <td style="text-align:left"><code>Não</code>
@@ -391,8 +391,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço
-        se estiver fora de ideias. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
+      <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço se você estiver sem idéias. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
       <td style="text-align:left"><code>Não</code>
@@ -401,13 +400,11 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk. om</code><br>
-        <b>Esta URL deve corresponder ao URL do site, pois detectará se este é ou não o site para injetar o script.</b><br> Não <b>NÃO</b> add <code>https://</code> ou <code>http://</code> dentro da URL ou barra no final:
-<code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Algumas URLs podem ter <code>www.</code> ou outra coisa na frente do seu domínio. <b>NÃO</b> esqueça de adicioná-lo!<br>
+      <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk.com</code><br>
+        <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que este seja ou não o site para injetar o script.</b> <b>NÃO ESQUEÇA</b> de adicioná-las<br>
 Você pode adicionar várias URLs fazendo o seguinte:<br>
-<code>["URL1", "URL2", "ETC. ]</code><br>
-Você também pode usar regExp também conhecido como Regex para esta tarefa, explicado mais abaixo.
+<code>["URL1", "URL2", "ETC."]</code><br>
+Você também pode usar regExp também conhecida como Regex para esta tarefa, explicada mais abaixo.
       </td>
       <td style="text-align:left"><code>String, Matriz&lt;String&gt;</code>
       </td>
