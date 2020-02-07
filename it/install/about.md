@@ -2,7 +2,7 @@
 title: Informazioni su PreMiD
 description: Le funzionalità principali di PreMiD
 published: vero
-date: 2020-01-18T20:32:17.062Z
+date: 2020-01-19T23:42:02.040Z
 tags:
 ---
 
