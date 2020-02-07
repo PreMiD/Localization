@@ -31,6 +31,10 @@
     "message": "Moderátor",
     "description": "'Moderator' title for contributors and user pages."
   },
+  "contributors.roles.ticketManager": {
+    "message": "Jegykezelő",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
   "contributors.roles.donator": {
     "message": "Támogató",
     "description": "'Donator' title for contributors page."
