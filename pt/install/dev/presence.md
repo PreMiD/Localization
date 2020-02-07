@@ -27,9 +27,9 @@ Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - A mídia que você inclui (ícone/miniatura) deve estar relacionada ao site e ser compreensível em termos de tamanho e qualidade.
 - A estrutura do arquivo deve ser limpa e gerenciada, não ter ficheiros aleatórios que não fornecem nada à função da Presença.
 - A Presença **não deve** ter quaisquer intenções maliciosas. Isto inclui o roubo/vazamento de informações privadas, afetar negativamente o comportamento do site, etc...
-- Se você projetar uma Presença para um site e o site mudar no futuro, você é **OBRIGATORIAMENTE** responsável por atualizar a presença novamente para funcionar como esperado. Se você não puder consertá-la dentro de um período de tempo aceitável, outros desenvolvedores de Presença podem **sobrescrever** sua Presença para cumprir com as mudanças.
+- Se você projetar uma Presença para um site e o site mudar no futuro, você é **OBRIGATORIAMENTE** responsável por atualizar a presença novamente para funcionar como esperado. Se você não puder consertá-la dentro de um período de tempo aceitável, outros desenvolvedores de presenças podem **sobrescrever** sua Presença para cumprir com as mudanças.
 - A Presença deve ser testada antes de publicar, para confirmar que tudo funciona como esperado.
-- Sua Presença deve ter imagens e descrições sfw independentemente de ser nsfw ou não. Se sua presença é sobre um site `nsfw`, por favor adicione a tag `nsfw` aos seus metadados.
+- Sua Presença deve ter imagens e descrições SFW independentemente de ser NSFW ou não. Se sua presença é sobre um site `nsfw`, por favor adicione a tag `nsfw` aos seus metadados.
 - Sua presença **NÃO** deve ser para domínios ou hosts gratuitos (por exemplo, .TK, [todos os domínios grátis do Freenom], . F.GD, etc...), exceções podem ser feitas se for apresentada uma prova de que é um domínio pago.
 - Os campos `smallImageKey` e `smallImageText` destinam-se a fornecer contexto adicional/secundário (como "reproduzindo"/"pausado" para sites de vídeo, "navegando" para sites regulares e outros casos). Você não tem permissão para promover perfis do Discord ou qualquer coisa não relacionada ao PreMiD.
 - Os requisitos para os logotipos são 1:1 (SQ) em 512px, no entanto, miniaturas. deve ser [amplo de cartas promocionais](https://i.imgur.com/3QfIc5v.jpg) ou simplesmente [capturas de tela](https://i.imgur.com/OAcBmwW.png) se o primeiro não estiver disponível.
@@ -415,12 +415,12 @@ Você também pode usar regExp também conhecida como Regex para esta tarefa, ex
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">Uma string de expressão regular usada para combinar urls.<br>
-      regExp ou também conhecido como Regex, pode ser usado se um site tiver vários subdomínios.<br>
-Você pode usar a seguinte regExp para isso:<br>
-<code>([a-z0-9]+)[.]domínio[.]TLD"</code><br>
-TLD com o domínio de nível superior para o axample: . om .net<br> 
-<code>([a-z0-9]+)</code> significa qualquer coisa de A a z e de 0 a 9.<br>
-        Você pode testar seu regExp em <a href="https://regex101.com/">Regex101</a></td>
+      regExp ou mais conhecido como Regex, pode ser usado se um website tiver múltiplos subdomínios.<br>
+Você pode usar o seguinte regExp para isso:<br>
+<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+TLD que signfica Domínio de Topo (ou Top Level Domain em inglês) por exemplo: .com .net<br> 
+<code>([a-z0-9]+)</code> significa qualquer coisa de A á Z e de 0 á 9.<br>
+        Você pode testar sua regExp na <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
       <td style="text-align:left"><code>sim</code>
