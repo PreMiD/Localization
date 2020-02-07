@@ -2,7 +2,7 @@
 title: Strana bez názvu
 description: Malilinký pomocník pre TypeScript
 published: true
-date: 2020-01-18T20:33:00.222Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
