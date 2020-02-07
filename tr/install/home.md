@@ -2,7 +2,7 @@
 title: Ana Sayfa
 description: Sürüm 2 için resmi dokümantasyon
 published: true
-date: 2020-01-18T20:32:20.879Z
+date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
