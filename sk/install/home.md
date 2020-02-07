@@ -2,7 +2,7 @@
 title: Domov
 description: Oficiálna dokumentácia pre v2
 published: true
-date: 2020-01-18T20:32:20.879Z
+date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
