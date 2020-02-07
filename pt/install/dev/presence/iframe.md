@@ -1,55 +1,55 @@
 ---
-title: Classe iFrame
+title: Aula iFrame
 description:
 published: true
 date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# Classe iFrame
-> O sistema iframe com PreMiD é problemático e pode ter um comportamento inesperado, use com cautela. 
+# Aula iFrame
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Introdução
+## Introduction
 
-Em alguns cenários, sua presença pode precisar acessar elementos dentro de `iframes`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-O código que você escreve dentro do seu arquivo `iframe.ts` é injetado em cada iframe na página.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Como as presenças, os `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // O código vai aqui...
+    // Code goes here...
 });
 ```
 
-## Métodos
+## Methods
 
-### `send(Objeto)`
-Envia dados para a presença. Usando este método a presença lançará um evento `iFrameData`.
+### `send(Object)`
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
-Retorna a URL do `iframe`.
+Returns the URL of the `iframe`.
 
-## Eventos
-Em `iframes`, os eventos funcionam da mesma forma que na `classe de presença`.
+## Events
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Código vai aqui...
+    // Code goes here...
 });
 ```
 
-Aqui está uma lista de todos os eventos:
+Here is a list of all of the events:
 
 #### `UpdateData`
 
-Este evento é disparado toda vez que o iframe é atualizado.
+This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (desativado)
+#### `MediaKeys` (disabled)
 
-Disparado quando o usuário usa chaves de mídia em seu teclado, [clique aqui](/dev/presence/class#mediakeys) para obter mais informações sobre as chaves de mídia.
+Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
