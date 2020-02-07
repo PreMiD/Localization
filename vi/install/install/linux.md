@@ -2,7 +2,7 @@
 title: Linux
 description: Tải PreMiD trên Linux
 published: true
-date: 2020-01-18T20:32:37.753Z
+date: 2020-02-06T23:53:58.303Z
 tags:
 ---
 
@@ -15,7 +15,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 1. Cài đặt [NodeJS](https://nodejs.org/en/).
 2. Mở terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
+3. Clone the repository: `git clone https://github.com/PreMiD/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
 6. Change the working directory: `cd ..`
