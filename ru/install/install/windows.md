@@ -1,8 +1,8 @@
 ---
-title: Windows
-description: Getting started with a PreMD installation on Windows
+title: Окна
+description: Начать установку PreMiD на Windows
 published: true
-date: 2020-01-18T20:32:44.173Z
+date: 2020-02-07T00:44:54.368Z
 tags:
 ---
 
@@ -12,11 +12,11 @@ tags:
 
 # Установить
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
+2. Выберите **Windows**.
 3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. **Windows SmartScreen** появится, если вы установите PreMiD впервые. Нажмите **Подробнее** и затем выберите **Выполнить в любом случае**. > Это потому, что у нас нет кода для подписания сертификата (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Приложение будет запущено автоматически. Check for the symbol in your system tray.
+Приложение будет запущено автоматически. Проверьте наличие символа в системном трее.
 
 > Не забудьте [добавить **расширение**](/install).{.is-warning}
 
