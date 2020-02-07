@@ -16,7 +16,7 @@
     "description": "Error (500) message"
   },
   "error.page.details": {
-    "message": "detalhes",
+    "message": "Detalhes",
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
@@ -32,7 +32,7 @@
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "O utilizador criou presenças suficientes e tem o cargo de Desenvolvedor de Prenças no nosso servidor de Discord.",
+    "message": "O utilizador criou presenças suficientes e tem o cargo de Desenvolvedor de Presenças no nosso servidor de Discord.",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {
