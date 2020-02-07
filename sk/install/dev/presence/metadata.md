@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základné údaje o Prítomnosti
 published: true
-date: 2020-01-18T20:32:58.015Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
