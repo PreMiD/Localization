@@ -105,13 +105,13 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Segunda linha da sua presença.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -137,20 +137,20 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Define o logo para a presença.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Define o texto que será exibido ao usuário quando ele passar o cursor no pequeno 
         ícone.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
