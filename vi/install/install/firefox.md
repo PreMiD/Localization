@@ -2,7 +2,7 @@
 title: Firefox
 description: Tải PreMiD trên trình duyệt Firefox
 published: true
-date: 2020-01-18T20:32:35.718Z
+date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
