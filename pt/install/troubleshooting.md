@@ -38,11 +38,10 @@ Desative todos os seus complementos e veja se funciona. Se funcionar, tente ativ
 Espero que saiba como reiniciar o seu computador.
 
 ### Reinstale o PreMiD
-Às vezes há algo errado com os arquivos... Tutoriais de instalação podem ser encontrados [here](/install).
+Às vezes há algo errado com os arquivos... Tutoriais de instalação podem ser encontrados [aqui](/install).
 
 ### Remoção manual
-Windows:    `C:\Users\USER\Program Files (x86)\`` e apague a pasta`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`e apague a pasta`PreMiD``.
+Windows:    `C:\Users\USER\Program Files (x86)` e delete a pasta `PreMiD`. MacOS: `~/users/USER/~Library/Application Support/` e delete a pasta `PreMiD`.
 
 ### Em distribuições baseadas em Ubuntu/Debian
 Se você tiver baixado o Discord pelo Snapcraft, o RPC não funcionará. Você tem que desinstalar a versão de Snapcraft executando `sudo snap remove discord` num terminal, baixe a <a href="[build de Discord para Linux](https://discordapp.com/api/download?platform=linux) ([ou o Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), depois navegue para a pasta para onde baixou o Discord (geralmente `$HOME/Downloads`) e instale o pacote utilizando `sudo dpkg -i discord-*.deb`.
