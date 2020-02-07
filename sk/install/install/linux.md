@@ -2,7 +2,7 @@
 title: Linux
 description: Začíname s PreMiD inštaláciou na Linuxe
 published: true
-date: 2020-01-18T20:32:37.753Z
+date: 2020-02-06T23:53:58.303Z
 tags:
 ---
 
@@ -15,7 +15,7 @@ Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže rob
 
 1. Nainštalujte si [NodeJS](https://nodejs.org/en/).
 2. Otvorte terminál.
-3. Skopírujte:`git clone https://github.com/Timeraa/PreMiD.git`
+3. Skopírujte:`git clone https://github.com/PreMiD/PreMiD.git`
 4. Zmeňte pracovnú adresáru: `cd PreMiD/src`
 5. Nainštalujte závislosti a aplikáciu: `npm install`
 6. Zmeňte pracovnú adresáru: `cd ..`
