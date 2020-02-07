@@ -11,10 +11,10 @@ tags:
 L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
 
 # Installer
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Rendez-vous sur notre page de téléchargements en [cliquant ici](https://premid.app/downloads).
 2. Choisissez **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** apparaît, si vous installez PreMiD pour la première fois. Cliquez sur **Plus d'infos** puis sélectionnez **Exécuter malgré tout**. > Ceci est dû au fait que nous n'avons pas de certificat de signature de code (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+3. Ouvrir l'installateur.
+4. **Windows SmartScreen** apparaît, si vous installez PreMiD pour la première fois. Cliquez sur **Plus d'infos** puis sélectionnez **Exécuter malgré tout**. > Ceci est dû au fait que nous n'avons pas de certificat de signature de code (CSC). [Soutenez-nous](https://www.patreon.com/Timeraa) pour le financer.{.is-info}
 
 L'application démarre automatiquement. Vérifiez le symbole dans la barre d'état système.
 
