@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Початок роботи з встановленням PreMiD на macOS
 published: true
-date: 2020-01-18T20:32:39.829Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Перед тим, як піти далі, переконайтеся, що ваша система відповідає всім вимогам [](/install/requirements). 
 > 
 > {.is-info}
 
 Встановлення програми дуже важливе, оскільки розширення не може робити нічого самостійно.
 
 # Установити
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+1. Перейдіть на нашу сторінку завантажень [натиснувши тут](https://premid.app/downloads).
+2. Оберіть **OS X**.
+3. Витягніть архів, якщо це необхідно.
+4. Відкрити інсталятор.
+5. З'явиться **попередження про безпеку** , якщо ви вперше встановите PreMiD. Перейдіть до **Налаштування** > **Безпека** > **General** > **Open Anyway**. [Дізнайтеся більше](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) про непідписані програми.
+> Це відбувається тому, що у нас немає сертифіката підпису коду (CSC). [Підтримайте](https://www.patreon.com/Timeraa) щоб профінансувати його.{.is-info}
+6. Виберіть відкривати по запитам
+7. Надайте доступ для з'єднання через **брандмауер** і керуйте **Системні Події** , коли було запитано.
 
 Програма розпочнеться автоматично. Відмітьте символ на панелі меню.
 
-> Do not forget to [add the **extension**](/install). 
+> Не забудьте [додати розширення ****](/install). 
 > 
 > {.is-warning}
 
