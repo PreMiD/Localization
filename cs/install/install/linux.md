@@ -1,40 +1,40 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Začněte s instalací PreMiD na Linuxu
 published: true
-date: 2020-01-18T20:32:37.753Z
+date: 2020-02-06T23:53:58.303Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
 # Instalovat
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Pro tento operační systém neexistuje žádný oficiální instalační systém. To znamená, že pro ni neexistuje žádná oficiální podpora. Můžete si však vyměňovat informace s ostatními uživateli Linuxu na našem [Discord serveru](https://discord.gg/premid/).{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-4. Change the working directory: `cd PreMiD/src`
-5. Install the dependencies and the application: `npm install`
-6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+2. Otevřete terminál.
+3. Klonovat repositář: `git klonovat https://github.com/PreMiD/PreMiD.git`
+4. Změnit pracovní adresář: `cd PreMiD/src`
+5. Nainstalujte závislosti a aplikaci: `npm install`
+6. Změnit pracovní adresář: `cd ..`
+7. Typ: `npm běží init`
+8. Spusťte aplikaci: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikace se spustí automaticky. Zkontrolujte symbol ve Vašem panelu nabídek.
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> Následující metody jsou zastaralé a již se nedoporučují. Použít na vlastní riziko. 
 > 
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Pokud jste na Arch Linuxu nebo Arch založeném na distribuci, PreMiD je k dispozici na [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) pod `premid-git`. Použij svůj oblíbený správce balíčků, abys ho tam získal!
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+## Ostatní distribuce
+- Instalační skript: `wget -qO- http://bit.ly/install-premid | bash` nebo `curl -sL https://bit. y/install-premid | bash`, počkejte na instalaci, dvakrát klikněte na "PreMiD" zástupce vytvořený na vašem počítači a to je ono!
+- Pokud chcete PreMiD odinstalovat, můžete spustit `wget -qO- http://bit.ly/uninstall-premid | bash` nebo `curl -sL https://bit.ly/uninstall-premid | bash`.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Nezapomeňte [přidat **rozšíření**](/install).{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
