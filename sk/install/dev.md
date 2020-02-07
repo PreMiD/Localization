@@ -2,7 +2,7 @@
 title: Začíname
 description: A little advise for those who got into coding recently
 published: true
-date: 2020-01-18T20:32:18.836Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
@@ -11,9 +11,9 @@ tags:
 > {.is-info}
 
 # Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+1. Nainštalujte si [Git](https://git-scm.com/).
+2. Nainštalujte si [Node](https://nodejs.org/en/) (prichádza s [npm](https://www.npmjs.com/)).
+3. Nainštalujte si [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otvorte terminál a `npm install -g typescript`).
 
 # Cloning the project
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
