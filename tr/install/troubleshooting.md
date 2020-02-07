@@ -2,7 +2,7 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-01-18T20:32:24.820Z
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
