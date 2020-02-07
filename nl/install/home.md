@@ -1,12 +1,12 @@
 ---
 title: Home
-description: Official Documentation for v2
+description: Officiële documentatie voor v2
 published: true
 date: 2020-01-18T20:32:20.879Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: De documentatie wordt nog steeds bewerkt! Sommige pagina's kunnen onvolledig zijn of ontbreken. 
 > 
 > {.is-warning}
 
