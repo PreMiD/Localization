@@ -1,16 +1,16 @@
 ---
 title: Installatie
-description: How to install PreMiD
+description: Hoe installeer je PreMiD
 published: true
 date: 2020-01-18T20:32:22.753Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Voordat je verder gaat, zorg ervoor dat je systeem voldoet aan alle [vereisten](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Het is noodzakelijk** om **** de **applicatie** en de **extensie** te installeren! 
 > 
 > {.is-warning}
 
