@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Getting started with a PreMD installation on Windows
+description: Aan de slag met de PreMiD installatie op Windows
 published: true
 date: 2020-01-18T20:32:44.173Z
 tags:
@@ -12,11 +12,11 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 
 # Installeer
 1. Ga naar onze downloadpagina door [hier](https://premid.app/downloads) te klikken.
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+2. Kies **Windows**.
+3. Open het installatieprogramma.
+4. Er verschijnt een **beveiligingswaarschuwing** als je PreMiD voor de eerste keer installeert. Klik op **Meer Info** en selecteer **toch uitvoeren**. Dit komt omdat we geen Code Signing Certificaat (CSC) hebben. [Ondersteun ons](https://www.patreon.com/Timeraa) om het te financieren.{.is-info}
 
-De applicatie start automatisch. Check for the symbol in your system tray.
+De applicatie start automatisch. Controleer op het symbool in uw menubalk.
 
 > Vergeet niet [de **extensie**](/install)toe te voegen.{.is-warning}
 
