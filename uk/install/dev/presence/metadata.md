@@ -1,16 +1,16 @@
 ---
-title: Metadata.json
-description: Contains basic data about the Presence
+title: Метадата.json
+description: Містить основні дані про присутність
 published: true
-date: 2020-01-18T20:32:58.015Z
+date: 2020-01-19T23:42:34658Z
 tags:
 ---
 
-# Metadata.json
+# Метадата.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Якщо ви хочете опублікувати присутність у магазині та завантажити його через розширення, необхідно створити `метадані. son` файл у папці `presence.js`.
 
-The example of that file can be found below.
+Нижче ви можете знайти приклад цього файлу.
 
 ```javascript
 {
@@ -28,7 +28,7 @@ The example of that file can be found below.
   },
   "url": "URL",
   "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
+  "iFrameRegameExp": "REGEXP",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
@@ -39,16 +39,16 @@ The example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Розуміння метадатa.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Цей приклад виглядає дуже дивним, так? Не хвилюйтеся, для чого не так складно зрозуміти, для чого потрібна кожна змінна.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Змінна</th>
       <th style="text-align:left">Опис</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Тип</th>
       <th style="text-align:left">За бажанням</th>
     </tr>
   </thead>
@@ -95,8 +95,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>URL-адреса</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">URL сервісу<br><b>Приклад:</b><code>vk. om</code><br>
+        <b>Ця URL-адреса має збігатися з URL-адресою сайту, оскільки вона буде використовуватися для виявлення будь-якого місця чи ні для впровадження сайту.</b>
       </td>
       <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
       </td>
@@ -106,7 +106,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Стрічка регулярного виразу, яка використовується для пошуку адрес.</td>
       <td style="text-align:left"><code>Рядок</code>
       </td>
       <td style="text-align:left"><code>Так</code>
@@ -189,27 +189,27 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Регулярні вирази
 
-If you want to learn regular expressions, here are a few websites.
+Якщо ви хочете вивчити регулярні вирази, ось декілька веб-сайтів.
 
-### Learning
+### Навчання
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Інформація про регулярні вирази](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Тестування
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Категорії присутності
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Визначаючи присутність, необхідно зазначити категорію, яку створює присутність. Це скомпільований список категорій, які можна використовувати.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Категорія</th>
+      <th style="text-align:left">Ім'я</th>
       <th style="text-align:left">Опис</th>
     </tr>
   </thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>аніме</b></td>
       <td style="text-align:left"><b>Аніме</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Все, що пов'язане з анімацією, з форумів до відео-платформ.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>ігри</b></td>
     <td style="text-align:left"><b>Ігри</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Будь-який сайт, який має пов'язаний з грою, наприклад <code>Кахуот</code> або <code>Скорбл.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>музика</b></td>
     <td style="text-align:left"><b>Музика</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Це веб-сайти, які пропонують контент, пов'язаний з музикою, чи це трансляцію чи завантаження.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>соціальне</b></td>
         <td style="text-align:left"><b>Соціальне</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Веб-сайти, які використовуються для створення та обміну контентом, або для участі в інших соціальних мережах.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>відео</b></td>
         <td style="text-align:left"><b>Відео & прямі трансляції</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Веб-сайти, які служать цілі визначення відео та потоків.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>інше</b></td>
     <td style="text-align:left"><b>Інше</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Все, що не належить до конкретної категорії, вказаної вище.</td>
       </td>
     </tr>
   </tbody>
