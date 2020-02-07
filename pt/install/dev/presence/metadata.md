@@ -56,7 +56,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Deve conter um objeto com <code>nome</code> e <code>id</code> do desenvolvedor de pressão. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
+      <td style="text-align:left">Deve conter um Objeto com <code>name</code> e <code>id</code> do desenvolvedor da presença. Name é seu nome de usuário no Discord sem seu identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
@@ -68,7 +68,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
       <td style="text-align:left">Deve conter um objeto com <code>nome</code> e <code>id</code> do desenvolvedor de pressão. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
-      <td style="text-align:left"><code>Matriz&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Objeto&gt;</code>
       </td>
       <td style="text-align:left"><code>Sim</code>
       </td>
@@ -77,7 +77,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">O título do serviço que esta presença suporta.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -95,10 +95,10 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk. om</code><br>
+      <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk.com</code><br>
         <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que este seja ou não o site para injetar o script.</b>
       </td>
-      <td style="text-align:left"><code>String, Matriz&lt;String&gt;</code>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -107,7 +107,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">Uma string de expressão regular usada para combinar urls.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sim</code>
       </td>
@@ -116,7 +116,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Versão da sua presença.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -125,7 +125,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Vincular ao tipo de logotipo de serviço&apos;s.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -134,7 +134,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>thumbnail</b>
       </td>
       <td style="text-align:left">Link para sua miniatura de presença.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -144,7 +144,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
       <td style="text-align:left"><code>Valor</code> #HEX. Recomendamos usar uma cor primária do serviço
         que a sua presença suporta.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -154,7 +154,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
       <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presença no site.</td>
       <td
-      style="text-align:left"><code>String, Matriz&lt;String&gt;</code>
+      style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -163,7 +163,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presença cai.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
       </td>
@@ -174,16 +174,16 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left">Define se <code>iFrames</code> são usados</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>sim</code>
+      <td style="text-align:left"><code>Sim</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
       <td style="text-align:left">Um seletor de expressão regular que seleciona iframes para injetar.</td>
-      <td style="text-align:left"><code>Cordas</code>
+      <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>sim</code>
+      <td style="text-align:left"><code>Sim</code>
       </td>
     </tr>
   </tbody>
