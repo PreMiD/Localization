@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Obsahuje základní údaje o přítomnosti
 published: true
 date: 2020-01-19T23:42:34.658Z
 tags:
@@ -8,9 +8,9 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Pokud chcete publikovat přítomnost v obchodě a nahrát jej prostřednictvím rozšíření, měli byste vytvořit `metadata. syn` soubor ve složce `presence.js`.
 
-The example of that file can be found below.
+Příklad tohoto souboru je uveden níže.
 
 ```javascript
 {
@@ -18,30 +18,30 @@ The example of that file can be found below.
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
+  "přispěvatelé": [{
     "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "description": {
-    "en": "DESCRIPTION"
+    "c": "DESCRIPTION"
   },
   "url": "URL",
-  "regExp": "REGEXP",
+  "regregExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "verze": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["KATEGORI", "TAG"],
+  "Kategorie": "KATEGORI",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## Pochopení metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké pochopit, k čemu je každá proměnná.
 
 <table>
   <thead>
@@ -95,8 +95,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">Adresa URL služby.<br><b>Příklad:</b><code>vk. om</code><br>
+        <b>Tato adresa URL musí odpovídat URL webu, protože bude použita k detekci, kde je nebo není tato stránka k vložení skriptu.</b>
       </td>
       <td style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code>
       </td>
@@ -106,7 +106,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Regulární výraz řetězec používaný pro odpovídající URL adresy.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
       <td style="text-align:left"><code>Ano</code>
@@ -189,21 +189,21 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Řádné výrazy
 
-If you want to learn regular expressions, here are a few websites.
+Pokud se chcete naučit regulární výrazy, zde je několik webových stránek.
 
 ### Učení
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Informace o regulárních výrazech](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testování
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Kategorie přítomnosti
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Při zjišťování přítomnosti musíte specifikovat kategorii, do které přítomnost spadá. Toto je sestavený seznam kategorií, které můžete použít.
 
 <table>
   <thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Cokoli se týká anime, od fór až po platformy pro video streamování.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>hry</b></td>
     <td style="text-align:left"><b>Hry</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Jakékoli webové stránky, které mají obsah související s hrou, jako je <code>Kahoot</code> nebo <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>hudba</b></td>
     <td style="text-align:left"><b>Hudba</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Toto jsou webové stránky, které nabízejí hudební obsah, ať už se jedná o streamování nebo stahování.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sociální sítě</b></td>
         <td style="text-align:left"><b>Sociální sítě</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Internetové stránky, které se používají pro vytváření a sdílení obsahu nebo pro účast v jiných formách sociálních sítí.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>videa</b></td>
         <td style="text-align:left"><b>Videa & Streamy</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Internetové stránky, které slouží k poskytování videí a streamů.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>ostatní</b></td>
     <td style="text-align:left"><b>Ostatní</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Cokoliv, co nespadá do konkrétní kategorie uvedené výše.</td>
       </td>
     </tr>
   </tbody>
