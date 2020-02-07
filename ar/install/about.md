@@ -2,7 +2,7 @@
 title: حول PreMiD
 description: الميزات الأساسية حول PreMiD
 published: true
-date: ٢٠٢٠-٠١-١٨تء٠:٣٢:٥٠.٧١٤ز
+date: 2020-01-19T23:42:02.040Z
 tags:
 ---
 
