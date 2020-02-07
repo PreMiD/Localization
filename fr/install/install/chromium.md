@@ -2,7 +2,7 @@
 title: Chromium
 description: Getting started with a PreMiD installation on Chromeium-based browsers
 published: vrai
-date: 2020-01-18T20:32:33.964Z
+date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
