@@ -2,7 +2,7 @@
 title: Clase de presencia
 description: La clase principal para cada presencia PreMiD
 published: true
-date: 2020-01-18T20:32:53.042Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
@@ -39,7 +39,7 @@ Esta propiedad no es requerida, pero si desea habilitar las teclas multimedia de
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Permite a los usuarios usar teclas multimedia
 });
 ```
 
@@ -65,16 +65,16 @@ Limpia la actividad actual, los atajos de teclado y el título de la barra de ta
 
 Establece el título de la bandeja en la barra de menús.
 
-### `getStrings(Object)`
+### `getStrings(objeto)`
 
-Permite obtener texto traducido a través de la extensión. You must provide `Object` with keys being the key for string, `keyValue` is the string value. Puedes encontrar algunas de los textos usando la siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
+Permite obtener texto traducido a través de la extensión. Debe proporcionar `Objeto` con claves siendo la clave para la cadena, `valor clave` es el valor de cadena. Puedes encontrar algunas de los textos usando la siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
 
 ```typescript
 // Devuelve las cadenas `Playing` y `Paused`
 // desde la extensión.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+    pausa: "presence.playback.paused"
 });
 ```
 
@@ -135,19 +135,19 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">ampliar la clave</td>
       <td style="text-align:left">Define el logotipo de la presencia.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">pequeña imagen clave</td>
       <td style="text-align:left">Define el icono pequeño junto al logo de la presencia.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">pequeño texto</td>
       <td style="text-align:left">Define el texto que se mostrará al usuario al pasar el cursor sobre el icono pequeño.</td>
       <td style="text-align:left"><code>Cadena</code>
       </td>
@@ -157,13 +157,13 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Mi título",
+    estado: "Mi descripción",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Tú me has pasado el ratón y ahora qué? ,
     startTimestamp: 1564444631188,
-    endTimestamp: 1564444634734
+    endTimestamp: 15644634734
 };
 ```
 
@@ -179,7 +179,7 @@ presence.on("UpdateData", async () => {
 
 Hay algunos eventos disponibles:
 
-#### `UpdateData`
+#### `Actualizardatos`
 
 Este evento es lanzado cada vez que la presencia es actualizada.
 
