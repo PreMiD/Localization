@@ -16,11 +16,11 @@
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.switch.contributed": {
-    "message": "Usuário [presenças/contribuições]",
+    "message": "[Presenças/Contribuições] do Usuário(a)",
     "description": "The tippy message to switch between user's presences and presences that user has contributed to."
   },
   "user.presences.created": {
-    "message": "Clique aqui para mostrar as presenças que este usuário criou.",
+    "message": "Clique aqui para mostrar as presenças que este usuário(a) criou.",
     "description": "Tippy content in user profile."
   },
   "user.presences.contributed": {
