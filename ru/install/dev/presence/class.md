@@ -1,97 +1,97 @@
 ---
 title: Класс присутствия
-description: The main class for every PreMiD presence
+description: Основной класс для каждого присутствия PreMiD
 published: true
-date: 2020-01-18T20:32:53.042Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
 # Класс присутствия
 
-## Introduction
+## Введение
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Класс `Presence` очень полезен, так как он содержит базовые методы, необходимые для создания присутствия.
 
- When you create a class you must specify `clientId` property.
+ При создании класса необходимо указать свойство `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Пример clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Доступны два свойства для класса `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId` должно быть предоставлено, чтобы ваше присутствие работало, так как оно использует ваш идентификатор приложения для отображения логотипа и активов.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Вы можете получить это на [странице приложений](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Это свойство говорит нашему приложению зарегистрировать сочетания клавиш для мультимедиа и позволяет нам использовать `MediaKeys` события для класса `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Это свойство не обязательно, но если вы хотите включить медиа-ключи, вы должны установить его на `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Все события mediaKey временно отключены!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Позволяет пользователям использовать медиа-ключи
 });
 ```
 
-## Methods
+## Методы
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Устанавливает активность профиля в соответствии с предоставленными данными.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Первый параметр требует интерфейс `присутствия` для получения всей информации, которую вы хотите отобразить в вашем профиле.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Второй параметр определяет, когда присутствует что-то или нет. Всегда используйте `true` , если вы предоставляете временные метки в `наличииДанных`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Очищает вашу текущую активность, сочетания клавиш и заголовок лота.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Этот метод работает только на Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Устанавливает заголовок лотка в меню Menubar.
 
-### `getStrings(Object)`
+### `getStrings(Объект)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Позволяет получать переведенные строки из расширения. Вы должны предоставить `Объект` ключами как ключ для строки, `keyValue` это строковое значение. Вы можете найти некоторые строки, используя эту конечную точку: `https://api.premid.app/v2/langFIle/extension/ru`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Возвращает `Playing` и `Paused` строки
+// из расширения.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+    пауза: "presence.playback.paused"
 });
 ```
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Возвращает переменную с веб-сайта, если она существует.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Это зарегистрирует "Переменное содержание"
 ```
 
-## `presenceData` Interface
+## `presenceData` Интерфейс
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+При использовании метода `setActivity()` рекомендуется использовать интерфейс `presenceData`.
 
-This interface has following variables, all of them are optional.
+Этот интерфейс имеет следующие переменные, все они необязательны.
 
 <table>
   <thead>
@@ -103,53 +103,53 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">подробнее</td>
+      <td style="text-align:left">Первая строка в вашем присутствии, обычно используется в качестве заголовка.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">штат</td>
+      <td style="text-align:left">Вторая линия вашего присутствия.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Определяет текущее время.<br>
+        Используется если вы хотите отображать сколько <code>часов:минут:секунд</code> осталось.
+          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчет
+.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Определяет полную продолжительность.
+        <br>Используется если вы хотите отображать сколько <code>часов:минут:секунды</code> слева.
+          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчет
+.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Определяет логотип для присутствия.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">маленький ключ изображения</td>
+      <td style="text-align:left">Определяет маленький значок рядом с наличием&apos;с логотипа.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">маленькое изображениеТекст</td>
+      <td style="text-align:left">Определяет текст, который будет показан пользователю, когда он наведет маленький значок
+.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
@@ -158,36 +158,36 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    подробности: "Мой титул",
+    состояние: "Мое описание",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Вы меня подогнали, и что сейчас? ,
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## События
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+События позволяют обнаруживать и обрабатывать некоторые изменения или вызовы. Вы можете подписаться на события, используя метод `на`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Выполняйте что-то при обновлении данных.
 });
 ```
 
-There are few events available:
+Доступно несколько событий:
 
-#### `UpdateData`
+#### `Обновить данные`
 
-This event is fired every time the presence is being updated.
+Это событие запускается каждый раз при обновлении присутствия.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (отключено)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Ужас, когда пользователь использует клавиши мультимедиа на своей клавиатуре, [нажмите здесь](/dev/presence/class#mediakeys) для получения дополнительной информации о медиа-клавишах.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Исправлена ошибка получения данных из скрипта iFrame.
