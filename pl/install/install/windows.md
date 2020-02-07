@@ -1,8 +1,8 @@
 ---
 title: Windows
-description: Rozpoczęcie instalacji PreMD w systemie Windows
+description: Rozpoczęcie instalacji PreMiD w systemie Windows
 published: tak
-date: 2020-01-18T20:32:44.173Z
+date: 2020-02-07T00:44:54.368Z
 tags:
 ---
 
