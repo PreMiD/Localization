@@ -1,55 +1,55 @@
 ---
-title: Aula iFrame
+title: Classe iFrame
 description:
 published: true
-date: 2020-01-18T20:32:55.147Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# Aula iFrame
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# Classe iFrame
+> O sistema iframe com PreMiD é problemático e pode ter um comportamento inesperado, use com cautela. 
 > 
 > {.is-danger}
 
-## Introduction
+## Introdução
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+Em alguns cenários, sua presença pode precisar acessar elementos dentro de `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+O código que você escreve dentro do seu arquivo `iframe.ts` é injetado em cada iframe na página.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Como as presenças, os `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // O código vai aqui...
 });
 ```
 
-## Methods
+## Métodos
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `send(Objeto)`
+Envia dados para a presença. Usando este método a presença lançará um evento `iFrameData`.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Retorna a URL do `iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Eventos
+Em `iframes`, os eventos funcionam da mesma forma que na `classe de presença`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Código vai aqui...
 });
 ```
 
-Here is a list of all of the events:
+Aqui está uma lista de todos os eventos:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Este evento é disparado toda vez que o iframe é atualizado.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (desativado)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Disparado quando o usuário usa chaves de mídia em seu teclado, [clique aqui](/dev/presence/class#mediakeys) para obter mais informações sobre as chaves de mídia.
