@@ -2,7 +2,7 @@
 title: Installatie
 description: Hoe installeer je PreMiD
 published: true
-date: 2020-01-18T20:32:22.753Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
