@@ -2,54 +2,54 @@
 title: iFrame клас
 description:
 published: true
-date: 2020-01-18T20:32:55.147Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
 # iFrame клас
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Ігримна система PreMiD є проблематичною і може мати несподівану поведінку, використовуйте з обережністю. 
 > 
 > {.is-danger}
 
-## Introduction
+## Вступ
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+В деяких сценаріях ваша присутність може мати доступ до елементів всередині `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Код, який ви пишете всередині вашого `iframe.ts` файлу вставляється в кожен iframe на сторінці.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Як такі, `iframes` мають свої власні класи, розроблені для автоматичного оновлення даних.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Код працює тут...
 });
 ```
 
-## Methods
+## Методи
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `send(Об'єкт)`
+Надсилає дані присутності. Використання цього методу призведе до події `iFrameData`.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Повертає URL для `iframe`.
 
-## Events
+## Події
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Код тут...
 });
 ```
 
-Here is a list of all of the events:
+Тут наведено список всіх подій:
 
-#### `UpdateData`
+#### `Оновлення даних`
 
-This event is fired every time the iframe is being updated.
+Ця подія запускається щоразу, коли iframe оновлюється.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (вимкнено)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Застосовується, коли користувач використовує медіа ключі на своїй клавіатурі, [натисніть тут](/dev/presence/class#mediakeys) , щоб отримати більше інформації про медіа ключі.
