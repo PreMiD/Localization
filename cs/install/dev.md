@@ -2,7 +2,7 @@
 title: Začínáme
 description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
-date: 2020-01-18T20:32:18,836Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
