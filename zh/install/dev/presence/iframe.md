@@ -1,12 +1,12 @@
 ---
-title: iFrame Class
+title: iFrame类
 description:
-published: 是
-date: 2020-01-18T20:32:55.147Z
+published: true
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# iFrame Class
+# iFrame类
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
