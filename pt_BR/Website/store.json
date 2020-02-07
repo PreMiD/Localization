@@ -48,7 +48,7 @@
     "description": "Category heading"
   },
   "store.category.all": {
-    "message": "Todas",
+    "message": "Todos",
     "description": "Category at the top"
   },
   "store.category.games": {
