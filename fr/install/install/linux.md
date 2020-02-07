@@ -2,7 +2,7 @@
 title: Linux
 description: Commencer avec une installation PreMiD sous Linux
 published: vrai
-date: 2020-02-06T23:53:58.303Z
+date: 2020-02-06T23:54:03.042Z
 tags:
 ---
 
