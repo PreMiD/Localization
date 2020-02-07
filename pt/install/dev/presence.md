@@ -314,7 +314,7 @@ presence.on("iFrameData", dados => {
 });
 ```
 **Nota:** Isso precisa ser colocado fora do evento updateData.
-# Preenchendo o arquivo de metadata.json
+# Preenchendo o arquivo metadata.json
 Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.codes/projects/premid/mdcreator). Ainda é sugerido ler isso para que você saiba como funciona.
 
 ```javascript
@@ -345,7 +345,7 @@ Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [
 ```
 
 Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você precisa editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter seus `metadados. arquivo filho` , se você não planeja usá-los, você precisa removê-los.
-- `colaboradores`
+- `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -362,7 +362,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Deve conter um objeto com <code>nome</code> e <code>id</code> do desenvolvedor de pressão. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
@@ -372,7 +372,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>colaboradores</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Deve conter um objeto com <code>nome</code> e <code>id</code> do desenvolvedor de pressão. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
@@ -382,7 +382,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>serviço</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">O título do serviço que esta presença suporta. <br>(Deve ser o mesmo nome que a pasta em que tudo está)</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -391,7 +391,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descrição</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço
         se estiver fora de ideias. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
@@ -401,7 +401,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>URL</b>
+      <td style="text-align:left"><b>url</b>
       </td>
       <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk. om</code><br>
         <b>Esta URL deve corresponder ao URL do site, pois detectará se este é ou não o site para injetar o script.</b><br> Não <b>NÃO</b> add <code>https://</code> ou <code>http://</code> dentro da URL ou barra no final:
@@ -432,7 +432,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versão</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Versão da sua presença.</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -441,7 +441,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logotipo</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Vincular ao tipo de logotipo de serviço&apos;s.</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -459,7 +459,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cor</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code>Valor</code> #HEX. Recomendamos usar uma cor primária do serviço
         que a sua presença suporta.</td>
@@ -479,7 +479,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Categoria</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presença cai. Veja os catálogos válidos <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
       <td style="text-align:left"><code>Cordas</code>
