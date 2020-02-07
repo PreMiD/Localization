@@ -4,7 +4,7 @@
     "description": "Search result text when nothing's found"
   },
   "error.code.404": {
-    "message": "Desculpe, não conseguimos encontrar esta página.",
+    "message": "Desculpe, não foi possível encontrar esta página.",
     "description": "Error (404) message"
   },
   "error.code.4": {
@@ -12,15 +12,15 @@
     "description": "Error (4) message"
   },
   "error.code.500": {
-    "message": "Ocorreu um erro interno do servidor.",
+    "message": "Ocorreu um erro interno no servidor.",
     "description": "Error (500) message"
   },
   "error.page.details": {
-    "message": "detalhes",
+    "message": "Detalhes",
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
-    "message": "Retornar para a página inicial",
+    "message": "Voltar para a página inicial",
     "description": "Button on the error page"
   },
   "user.notFound.heading": {
