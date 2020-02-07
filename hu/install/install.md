@@ -2,7 +2,7 @@
 title: Installation
 description: PreMiD telepítési útmutató
 published: true
-date: 2020-01-20T09:03:22.753Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
