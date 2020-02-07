@@ -15,7 +15,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 1. [NodeJS](https://nodejs.org/en/)'yi kurun.
 2. Bir terminal açın.
-3. Clone the repository: `git clone https://github.com/PreMiD/PreMiD.git`
+3. Depoyu klonlayın: `git clone https://github.com/PreMiD/PreMiD.git`
 4. Klonlanan klasöre girin: `cd PreMiD/src`
 5. Bağımlılıkları ve uygulamayı yükleyin: `npm install`
 6. Bir üst klasöre dönün: `cd ..`
