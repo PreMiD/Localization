@@ -6,33 +6,33 @@ date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: La documentation est en cours de modification ! Certaines pages peuvent être incomplètes ou manquantes. 
 > 
 > {.is-warning}
 
 # À propos de PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :mag: [Qu'est-ce que PreMid ?](/about) Les intentions derrière PreMid vous devriez l'utiliser.
+- :link: [Qu'est-ce que le RPC ?](https://discordapp.com/rich-presence) Tout sur Rich Presence et ses fonctions.
 
 # Commencer
 
-PreMiD est rapide et simple à installer. You should be up and running in no time.
+PreMiD est rapide et simple à installer. Vous devriez être opérationnel en un rien de temps.
 
-- Make sure you have read the [system requirements](/install/requirements).
+- Assurez-vous d'avoir lu les [exigences du système](/install/requirements).
 - Suivez le rapide et simple [guide d'installation](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- [Le dépannage](/troubleshooting) vous guide à travers des solutions aux problèmes courants.
 
 # Développeurs
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Commencer à](/dev) pour le développement de PreMiD est votre première étape avant de coder certaines choses.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): Accédez aux ressources et effectuez des actions en utilisant l'API PreMiD.
+- :wrench: [Développement de Presence](/dev/presence): Apprenez à utiliser notre système Presence.
 
 # Contribuer
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
+- :bug: [Signalez un Bug](https://github.com/PreMiD): Aidez-nous à écraser ces bugs pénibles.
 - :bulb: [Proposez de nouvelles fonctionnalitées](https://discord.gg/premid): Nous avons besoin de vos idées!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :heart: [Faire un don](https://www.patreon.com/Timeraa): Faites un petit don ou devenez sponsor de ce projet merveilleux !
+- :globe_with_meridians: [Locales](https://translate.premid.app): Les autres utilisateurs peuvent utiliser PreMiD dans leur langue maternelle.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
