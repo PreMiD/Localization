@@ -2,7 +2,7 @@
 title: iFrame Třída
 description:
 published: true
-date: 2020-01-18T20:32:55.147Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Introduction
+## Úvod
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
