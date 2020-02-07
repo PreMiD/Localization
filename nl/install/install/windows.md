@@ -1,8 +1,8 @@
 ---
 title: Windows
-description: Aan de slag met de PreMiD installatie op Windows
+description: Aan de slag met een PreMiD installatie op Windows
 published: true
-date: 2020-01-18T20:32:44.173Z
+date: 2020-02-07T00:44:54.368Z
 tags:
 ---
 
