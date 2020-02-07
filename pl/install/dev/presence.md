@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-02-03T13:55:37.732Z
+date: 2020-02-03T13:55:40.904Z
 tags:
 ---
 
@@ -356,7 +356,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Musisz teraz edytow
     <tr>
       <th style="text-align:left">Zmienna</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
       <th style="text-align:left">Opcjonalnie</th>
     </tr>
   </thead>
