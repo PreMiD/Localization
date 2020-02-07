@@ -41,11 +41,11 @@ Ik hoop dat u weet hoe u een computer opnieuw moet starten.
 Soms is er iets mis met de bestanden... Handleidingen voor de installatie kunnen [hier](/install) gevonden worden.
 
 ### Handmatige verwijdering
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+Windows:    `C:\Users\USER\Program Files (x86)\`` en verwijder de map `PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD``.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Op Ubuntu/Debian gebaseerde distro's
+Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigeer vervolgens naar de map die je Discord gedownload hebt naar (meestal `$HOME/Downloads`), daarna het installeren van het pakket met behulp van `sudo dpkg -i discord-*. eb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+### Dat heeft mijn probleem niet opgelost
+Open een ticket in [#support](https://discord.gg/PreMiD).
