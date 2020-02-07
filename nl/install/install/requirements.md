@@ -1,29 +1,29 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: Vereisten
+description: Vereisten om PreMiD te installeren
 published: true
 date: 2020-01-18T20:32:41.677Z
 tags:
 ---
 
-# System Requirements
+# Systeemvereisten
 
-> This data relate to the application only. 
+> Deze gegevens hebben alleen betrekking op de applicatie. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD werkt op vrijwel elk systeem. Dit betekent dat het draait op **Linux**, **macOS**, **Windows** en sommige **Linux Modificaties**.
 
 ### CPU
-PreMiD runs perfectly fine on a single CPU core.
+PreMiD draait perfect op één enkele CPU-kern.
 
 ### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+Linux systemen moeten ten minste **20MB RAM** hebben om PreMiD uit te voeren. Windows en macOS systemen vereisen meestal een beetje meer RAM.
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### Opslag
+PreMiD kost ongeveer **150MB** fysieke opslag. Maar minstens **200MB** opslagruimte bestemd voor PreMiD wordt aanbevolen.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### Internettoegang
+Een internetverbinding is vereist om PreMiD uit te voeren. PreMiD zal automatisch controleren op nieuwe updates, talen, Presence updates, etc. van tijd tot tijd.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
