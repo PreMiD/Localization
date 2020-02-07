@@ -3,6 +3,26 @@
     "message": "Az állapotüzenet nem található.",
     "description": "Search result text when nothing's found"
   },
+  "error.code.404": {
+    "message": "Sajnos, nem találjuk ezt az oldalt.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "Nem létező vagy törölt állapotüzenetekre kerestél.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "Belső szerverhiba történt.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "Részletek",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Visszatérés a főoldalra",
+    "description": "Button on the error page"
+  },
   "user.notFound.heading": {
     "message": "Ez a felhasználó nem található. Próbálj megbizonyosodni a következőkről:",
     "description": "Error when user couldn't be found."
