@@ -40,7 +40,7 @@
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Permitir conteúdo adulto",
+    "message": "Permitir conteúdo para adultos",
     "description": "Adult content checkbox"
   },
   "store.category.heading": {
