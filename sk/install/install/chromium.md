@@ -2,7 +2,7 @@
 title: Chromium
 description: Začíname s PreMiD inštaláciou na Chromeium-založených prehliadačov
 published: true
-date: 2020-01-18T20:32:33.964Z
+date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
