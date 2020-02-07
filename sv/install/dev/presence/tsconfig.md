@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Namnlös sida
+description: Lite hjälpare för TypeScript
 published: true
-date: 2020-01-18T20:33:00.222Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
 # Konfiguration av typskript
 
-## Introduction
+## Introduktion
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+När du laddade ner och packade upp arbetsytan, kommer du att se en fil som heter `tsconfig. s` i rot- och närvaromappar, denna fil används för att konfigurera kompilatorn **TypeScript**. Det är redan konfigurerat för dig, så oroa dig inte för det.
 
-We just want to describe some settings that you should know.
+Vi vill bara beskriva vissa inställningar som du bör veta.
 
-## Root Configuration
+## Root konfiguration
 
-In the root configuration file you will see something like this.
+I rotkonfigurationsfilen ser du något liknande.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Beskrivning                                                                                     |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Egenskap            | Beskrivning                                                                              |
+|:------------------- |:---------------------------------------------------------------------------------------- |
+| **compilerOptions** | Används för att konfigurera kompilatorn, de flesta av fastigheterna finns här.           |
+| modul               | Du kan läsa mer om det [här](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Definierar den JavaScript-version som du kompilerar.                                     |
+| ta bortKommentarer  | Tar bort kommentarer från kompilerade filer.                                             |
+| **exkludera**       | Här kan du definiera de mappar som du vill utesluta från framtida sammanställning.       |
 
-## Presence Configuration
+## Konfiguration av Presence
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Beskrivning                                                                            |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Egenskap            | Beskrivning                                                                                   |
+|:------------------- |:--------------------------------------------------------------------------------------------- |
+| **utökningar**      | Används för att utöka databasen `tsconfig` -filen för olika uppgifter.                        |
+| **compilerOptions** | Se [**Root-konfigurationen**](/dev/presence/tsconfig#root-configuration) för mer information. |
+| outDir              | Definierar utdatakatalog för kompilerade filer.                                               |
