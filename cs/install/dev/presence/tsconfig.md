@@ -1,6 +1,6 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Stránka bez názvu
+description: Malý pomocník pro TypeScript
 published: true
 date: 2020-01-19T23:42:36.260Z
 tags:
@@ -8,15 +8,15 @@ tags:
 
 # Konfigurace typskriptu
 
-## Introduction
+## Úvod
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Po stažení a rozbalení pracovního prostoru uvidíte soubor nazvaný `tsconfig. s` v kořenových a přítomných složkách, tento soubor se používá ke konfiguraci kompilátoru **TypeScript**. Již je pro vás nakonfigurován, takže se o to nedělejte.
 
-We just want to describe some settings that you should know.
+Chceme pouze popsat některá nastavení, která byste měli vědět.
 
-## Root Configuration
+## Konfigurace Root
 
-In the root configuration file you will see something like this.
+V kořenovém konfiguračním souboru uvidíte něco podobného.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Popis                                                                                           |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Majetek             | Popis                                                                                          |
+|:------------------- |:---------------------------------------------------------------------------------------------- |
+| **compilerOptions** | Používá se ke konfiguraci kompilátoru, většina vlastností je umístěna zde.                     |
+| modul               | Více o tom si můžete přečíst [zde](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Definuje verzi JavaScriptu, kterou kompilujete.                                                |
+| odstranit komentáře | Odstraňování komentářů z kompilovaných souborů.                                                |
+| **vyloučit**        | Zde můžete definovat složky, které chcete vyloučit z budoucí kompilace.                        |
 
-## Presence Configuration
+## Nastavení přítomnosti
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 
 ```
 
-| Property            | Popis                                                                                  |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Majetek             | Popis                                                                                 |
+|:------------------- |:------------------------------------------------------------------------------------- |
+| **Rozšíří**         | Používá se pro rozšíření základního `tsconfig` souboru pro různé úkoly.               |
+| **compilerOptions** | Více informací viz [**Konfigurace Root**](/dev/presence/tsconfig#root-configuration). |
+| outDir              | Definuje výstupní adresář pro kompilované soubory.                                    |
