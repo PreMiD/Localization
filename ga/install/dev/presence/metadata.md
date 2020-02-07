@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-01-18T20:32:58.015Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
@@ -221,19 +221,19 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>cluichí</b></td>
     <td style="text-align:left"><b>Cluichí</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
+      <td style="text-align:left"><b>ceol</b></td>
     <td style="text-align:left"><b>Ceol</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>sóisialta</b></td>
         <td style="text-align:left"><b>Sóisialta</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
@@ -245,7 +245,7 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>eile</b></td>
     <td style="text-align:left"><b>Eile</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
