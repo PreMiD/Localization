@@ -31,6 +31,14 @@
     "message": "ID-ul utilizatorului pe care îl cauți să fie corect.",
     "description": "Check user ID message."
   },
+  "user.notFound.message2": {
+    "message": "Dacă user-ul a creat destule prezențe și are rolul de Presence Developer pe server-ul nostru de Discord.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Verifică dacă și alții de pe server-ul nostru de Discord au aceeași problemă.",
+    "description": "Check if the error is also happening to others message."
+  },
   "user.notFound.message4": {
     "message": "Dacă crezi că asta a fost o greșeală, te rugăm să ne contactezi pe [server-ul nostru de Discord].",
     "description": "Bottom line for the error page. Do not edit brackets."
