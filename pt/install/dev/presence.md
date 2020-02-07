@@ -58,7 +58,7 @@ Nossa equipe de Verificação de Presença tem um cargo, procure `Presence Verif
 1. São necessários dois verificadores para confirmar que a sua Presença está à altura das normas. Se acontecer de você obter solicitações de mudança, esforce-se adequadamente para corrigi-lo ou ele não será adicionado.
 2. Se solicitarmos alterações e sua pull request excede **7 dias de inatividade** sem fazer as mudanças necessárias, seremos forçados a fechá-la.
 3. Você tem permissão para tirar capturas de tela de alterações feitas com a ajuda de outro usuário. (por exemplo, seu autor, caso você não possa acessá-lo por qualquer motivo).
-4. Se for uma atualização ou patch, o screenshot deve mostrar as novas adições funcionando, e não recursos antigos das pull requests anteriores.
+4. Se for uma atualização ou patch, a captura de tela deve mostrar as novas adições funcionando, e não recursos antigos das pull requests anteriores.
 5. As capturas de tela fornecidas devem ser reais, não editadas.
 6. Qualquer código contribuído que for mesclado a este repositório será licenciado sob a **Mozilla Public License 2.0**.
 
@@ -66,7 +66,7 @@ Nossa equipe de Verificação de Presença tem um cargo, procure `Presence Verif
 Depois que todas as avaliações adequadas forem atendidas, sua pull request será mesclada com a loja.
 
 # Estrutura (TypeScript)
-Você pode escolher se você quer codificar sua Presença com [JavaScript](https://www.javascript.com/) ou [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tem algumas definições de tipos picantes extra, então a correção e identificação de bugs é muito mais fácil. Se você só quiser usar [JavaScript](https://www.javascript.com/) você pode pular para [Estrutura (JavaScript)](/dev/presence#structure-javascript).
+Você pode escolher se você quer programar sua Presença com [JavaScript](https://www.javascript.com/) ou [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tem algumas definições de tipo extra picante, por isso é muito mais fácil corrigir e identificar bugs. Se você só quiser usar [JavaScript](https://www.javascript.com/) você pode pular para [Estrutura (JavaScript)](/dev/presence#structure-javascript).
 
 ## Instalação
 1. Instale o [Git](https://git-scm.com/).
