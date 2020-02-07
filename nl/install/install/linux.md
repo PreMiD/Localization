@@ -19,7 +19,7 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 4. De werkmap wijzigen: `cd PreMiD/src`
 5. Installeer de dependencies en de applicatie: `npm install`
 6. De werkmap wijzigen: `cd ..`
-7. Type: `npm run init`
+7. Typ: `npm run init`
 8. Start de applicatie: `npm start`
 
 De applicatie start automatisch. Controleer op het symbool in uw menubalk.
@@ -31,9 +31,9 @@ De applicatie start automatisch. Controleer op het symbool in uw menubalk.
 ## Arch Linux
 Als je op Arch Linux of een Arch gebaseerde distributie bent, PreMiD is beschikbaar op de [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) onder `premid-git`. Gebruik uw favoriete pakketmanager om hem daar te pakken!
 
-## Andere verdelingen
-- Installatie script: `wget -qO- http://bit.ly/install-premid` of `curl -sL https://bit. y/install-premid/umou`, wacht tot het installeert, dubbelklik op de "PreMiD" snelkoppeling gemaakt op uw bureaublad, en dat is het!
-- Als u PreMiD wilt deïnstalleren, kunt u `wget -qO- http://bit.ly/uninstall-premid Hypixbash` of `curl -sL https://bit.ly/uninstall-premid UN, bash`.
+## Andere distributies
+- Installatie script: `wget -qO- http://bit.ly/install-premid` of `curl -sL https://bit.ly/install-premid | bash`, wacht tot het installeert, dubbelklik op de "PreMiD" snelkoppeling gemaakt op uw bureaublad, en dat is het!
+- Als u PreMiD wilt deïnstalleren, kunt u `wget -qO- http://bit.ly/uninstall-premid | bash` of `curl -sL https://bit.ly/uninstall-premid | bash`.
 
 > Vergeet niet [de **extensie**](/install)toe te voegen.{.is-warning}
 
