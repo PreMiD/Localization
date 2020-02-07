@@ -2,7 +2,7 @@
 title: API
 description: Získajte prístup k zdrojom a vykonávajte akcie pomocou rozhrania API PreMiDu
 published: true
-date: 2020-01-18T20:32:27.675Z
+date: 2020-01-19T23:42:12.088Z
 tags:
 ---
 
