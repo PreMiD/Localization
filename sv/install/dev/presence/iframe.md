@@ -2,54 +2,54 @@
 title: iFrame klass
 description:
 published: true
-date: 2020-01-18T20:32:55.147Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
 # iFrame klass
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Iframe systemet med PreMiD är problematiskt och kan ha oväntat beteende, användning med försiktighet. 
 > 
 > {.is-danger}
 
-## Introduction
+## Introduktion
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+I vissa scenarier kan din närvaro behöva komma åt element inuti `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Koden som du skriver i din `iframe.ts` fil injiceras i varje iframe på sidan.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Liksom närvaro, `iframes` har sina egna klasser utformade för att automatiskt uppdatera data.
 
 ```typescript
-let iframe = new iFrame();
+låt iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Koden går här...
 });
 ```
 
-## Methods
+## Metoder
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `Skicka(Objekt)`
+Skickar data till närvaron. Genom att använda denna metod kommer närvaron att kasta en `iFrameData` -händelse.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Returnerar URL:en till `iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Händelser
+I `iframes`, händelser fungerar på samma sätt som de arbetar i `närvaro` klassen.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Koden går här...
 });
 ```
 
-Here is a list of all of the events:
+Här är en lista över alla händelser:
 
-#### `UpdateData`
+#### `Uppdateringsdata`
 
-This event is fired every time the iframe is being updated.
+Denna händelse avfyras varje gång iframe uppdateras.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (inaktiverad)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Avskedas när användaren använder mediaknappar på sitt tangentbord, [klicka här](/dev/presence/class#mediakeys) för att få mer information om mediaknappar.
