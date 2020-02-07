@@ -7,49 +7,49 @@ tags:
 ---
 
 # Класс iFrame
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> iframe система с PreMiD проблематична и может иметь неожиданное поведение, использовать с осторожностью. 
 > 
 > {.is-danger}
 
-## Introduction
+## Введение
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+В некоторых сценариях вашему присутствию может потребоваться доступ к элементам внутри `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Код, который вы пишете внутри файла `iframe.ts` , вводится в каждый iframe на странице.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Как и присутствия, `iframes` имеют свои собственные классы, предназначенные для автоматического обновления данных.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Код идет здесь...
 });
 ```
 
-## Methods
+## Методы
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `отправить(Объект)`
+Отправляет данные в присутствие. С помощью этого метода можно сделать наличие `iFrameData`.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Возвращает URL `iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## События
+В `iframes`события работают аналогично тому, как они работают в классе `присутствия`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Код идет здесь...
 });
 ```
 
-Here is a list of all of the events:
+Список всех событий:
 
-#### `UpdateData`
+#### `Обновить данные`
 
-This event is fired every time the iframe is being updated.
+Это событие запускается каждый раз, когда iframe обновляется.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (отключено)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Ужас, когда пользователь использует клавиши мультимедиа на своей клавиатуре, [нажмите здесь](/dev/presence/class#mediakeys) для получения дополнительной информации о медиа-клавишах.
