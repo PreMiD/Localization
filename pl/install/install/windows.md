@@ -2,7 +2,7 @@
 title: Windows
 description: Rozpoczęcie instalacji PreMiD w systemie Windows
 published: tak
-date: 2020-02-07T00:44:54.368Z
+date: 2020-02-07T00:44:57.532Z
 tags:
 ---
 
