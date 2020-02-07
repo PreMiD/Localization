@@ -6,9 +6,9 @@ date: 2020-01-18T20:32:44.173Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
 # Instalace
 1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
