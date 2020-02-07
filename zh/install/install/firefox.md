@@ -1,14 +1,14 @@
 ---
 title: Firefox
 description: Getting started with a PreMiD installation on Firefox
-published: 是
+published: true
 date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
 The installation of the extension is very important as the application can not do anything by itself.
 
-# 安裝
+# 安装
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
