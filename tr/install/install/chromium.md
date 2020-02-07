@@ -2,7 +2,7 @@
 title: Chromium
 description: Chromium tabanlı tarayıcılarda PreMiD kurulumuna başlarken
 published: true
-date: 2020-01-18T20:32:33.964Z
+date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
