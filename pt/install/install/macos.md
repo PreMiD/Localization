@@ -2,7 +2,7 @@
 title: macOS
 description: Primeiros passos para a instalação do PreMiD no macOS
 published: true
-date: 2020-01-18T20:32:39.829Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
