@@ -1,30 +1,30 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Innehåller grundläggande data om Presence
 published: true
-date: 2020-01-18T20:32:58.015Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Om du vill publicera en närvaro i butiken och ladda den via tillägget bör du skapa `metadata. son` -filen i mappen `presence.js`.
 
-The example of that file can be found below.
+Exemplet med den filen kan hittas nedan.
 
 ```javascript
 {
-  "author": {
-    "name": "USER",
+  "författare": {
+    "namn": "ANVÄNDAR",
     "id": "ID"
   },
-  "contributors": [{
-    "name": "USER",
+  "bidragsgivare": [{
+    "namn": "ANVÄNDAR",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "TJÄNSTE",
   "description": {
-    "en": "DESCRIPTION"
+    "sv": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
@@ -33,22 +33,22 @@ The example of that file can be found below.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
+  "taggar": ["CATEGORY", "TAG"],
   "category": "CATEGORY",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## Förstå metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svårt att förstå vad varje variabel är för.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Beskrivning</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
       <th style="text-align:left">Valfri</th>
     </tr>
   </thead>
@@ -95,8 +95,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">URL till tjänsten.<br><b>Exempel:</b><code>vk. om</code><br>
+        <b>Denna url måste matcha webbadressen på webbplatsen eftersom den kommer att användas för att upptäcka var som helst eller inte detta är webbplatsen att injicera skriptet till.</b>
       </td>
       <td style="text-align:left"><code>Sträng, Array&lt;String&gt;</code>
       </td>
@@ -106,7 +106,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">En linjär uttryckssträng som används för att matcha webbadresser.</td>
       <td style="text-align:left"><code>Sträng</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -189,27 +189,27 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Reguljära uttryck
 
-If you want to learn regular expressions, here are a few websites.
+Om du vill lära dig reguljära uttryck, här är några webbplatser.
 
-### Learning
+### Lärande
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Information om reguljära uttryck](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testar
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Kategorier för närvaro
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+När du gör din närvaro, måste du ange en kategori som närvaron faller under. Detta är en sammanställd lista över de kategorier som du kan använda.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategori</th>
+      <th style="text-align:left">Namn</th>
       <th style="text-align:left">Beskrivning</th>
     </tr>
   </thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Allt relaterat till anime, från forum till videoströmmande plattformar.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>spel</b></td>
     <td style="text-align:left"><b>Spel</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Alla webbplatser som har spelrelaterat innehåll, som <code>Kahoot</code> eller <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musik</b></td>
     <td style="text-align:left"><b>Musik</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Detta är webbplatser som erbjuder musikrelaterat innehåll, oavsett om det är streaming eller nedladdning.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socialt</b></td>
         <td style="text-align:left"><b>Socialt</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Webbplatser som används för att skapa och dela innehåll eller för att delta i andra former av socialt nätverk.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>videor</b></td>
         <td style="text-align:left"><b>Videor & Streams</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Webbplatser som tjänar syftet att tillhandahålla videor och strömmar.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>annat</b></td>
     <td style="text-align:left"><b>Annat</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Allt som inte faller under en specifik kategori som anges ovan.</td>
       </td>
     </tr>
   </tbody>
