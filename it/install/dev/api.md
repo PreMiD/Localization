@@ -2,7 +2,7 @@
 title: API
 description: Accedi alle fonti ed esegui azioni usando l'API PreMiD
 published: vero
-date: 2020-01-18T20:32:27.675Z
+date: 2020-01-19T23:42:12.088Z
 tags:
 ---
 
