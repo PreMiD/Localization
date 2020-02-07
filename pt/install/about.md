@@ -6,7 +6,7 @@ date: 2020-01-18T20:32:17,062Z
 tags:
 ---
 
-PreMiD é um utilitário simples e configurável que permite mostrar o que está assistindo/ouvindo em seu Discord jogando agora. Ele suporta muitas plataformas diferentes e suportará vários usuários acompanhando o mesmo conteúdo simultaneamente em uma próxima atualização.
+PreMiD é um utilitário simples e configurável que permite mostrar o que está assistindo/ouvindo em seu Discord jogando agora. Ele suporta muitas plataformas diferentes e suportará vários usuários acompanhando o mesmo conteúdo simultaneamente em uma futura atualização.
 
 # Por que você deveria baixar o PreMiD
 - Guardamos absolutamente nenhum dado de usuário, para que você não tenha que se preocupar com a sua privacidade.
