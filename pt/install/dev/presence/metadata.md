@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Contém dados básicos sobre a Presença
 published: true
 date: 2020-01-18T20:32:58.015Z
 tags:
@@ -8,40 +8,40 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Se você deseja publicar uma presença na loja e carregá-la através da extensão, você deve criar o arquivo `metadata.json` na sua pasta `dist`.
 
-The example of that file can be found below.
+O exemplo deste arquivo pode ser encontrado abaixo.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "USUÁRIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUÁRIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVIÇO",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIÇÃO"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSÃO",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["CATEGORIA", "TAG"],
+  "category": "CATEGORIA",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## Entendendo o metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão difícil entender para que cada variável serve.
 
 <table>
   <thead>
@@ -54,7 +54,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor(a)</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Deve conter um objeto com <code>nome</code> e <code>id</code> do desenvolvedor de pressão. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
@@ -64,13 +64,13 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contribuidores(as)</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Deve conter um objeto com <code>nome</code> e <code>id</code> do desenvolvedor de pressão. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>sim</code>
+      <td style="text-align:left"><code>Sim</code>
       </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descrição</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço
         se estiver fora de ideias. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
@@ -95,8 +95,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk. om</code><br>
+        <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que este seja ou não o site para injetar o script.</b>
       </td>
       <td style="text-align:left"><code>String, Matriz&lt;String&gt;</code>
       </td>
@@ -106,14 +106,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Uma string de expressão regular usada para combinar urls.</td>
       <td style="text-align:left"><code>Cordas</code>
       </td>
-      <td style="text-align:left"><code>sim</code>
+      <td style="text-align:left"><code>Sim</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versão</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Versão da sua presença.</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -150,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiquetas</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presença no site.</td>
       <td
@@ -189,27 +189,27 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Expressões regulares
 
-If you want to learn regular expressions, here are a few websites.
+Se você quer aprender expressões regulares, aqui estão alguns sites.
 
-### Learning
+### Aprendendo
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Informações de expressões regulares](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testando
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Categorias de presença
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Ao fazer a sua presença, você deve especificar uma categoria na qual a presença cai. Esta é uma lista compilada das categorias que você pode usar.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Categoria</th>
+      <th style="text-align:left">Nome</th>
       <th style="text-align:left">Descrição</th>
     </tr>
   </thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Tudo relacionado a anime, desde fóruns a plataformas de streaming de vídeo.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>jogos</b></td>
+      <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Jogos</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Qualquer site que possua conteúdo relacionado a jogos, como <code>Kahoot</code> ou <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>música</b></td>
+      <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>Música</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Estes são sites que oferecem conteúdo relacionado a música, seja streaming ou download.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>social</b></td>
-        <td style="text-align:left"><b>Social</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left"><b>socials</b></td>
+        <td style="text-align:left"><b>Redes Sociais</b></td>
+      <td style="text-align:left">Sites que são usados para criar e compartilhar conteúdo ou para participar de outras formas de rede social.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Vídeos e Transmissões</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+        <td style="text-align:left"><b>Vídeos e Streams</b></td>
+      <td style="text-align:left">Sites que servem para fornecer vídeos e streams.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>outro</b></td>
-    <td style="text-align:left"><b>Outro</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left"><b>outras</b></td>
+    <td style="text-align:left"><b>Outros</b></td>
+      <td style="text-align:left">Qualquer coisa que não se enquadre em uma categoria específica listada acima.</td>
       </td>
     </tr>
   </tbody>
