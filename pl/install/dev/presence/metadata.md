@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Zawiera podstawowe dane o Prezentacji
 published: tak
 date: 2020-01-19T23:42:34.658Z
 tags:
@@ -8,9 +8,9 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Jeśli chcesz opublikować obecność w sklepie i załadować ją za pomocą rozszerzenia, powinieneś utworzyć `metadane. syn` plik w twoim folderze `obecność.js`.
 
-The example of that file can be found below.
+Przykład tego pliku można znaleźć poniżej.
 
 ```javascript
 {
@@ -18,7 +18,7 @@ The example of that file can be found below.
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
+  "współtwórcy": [{
     "name": "USER",
     "id": "ID"
   }],
@@ -33,15 +33,15 @@ The example of that file can be found below.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tagi": ["KATEGORIA", "TAG"],
+  "kategoria": "KATEGORIA",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## Zrozumienie metadana.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne do zrozumienia dla każdej zmiennej.
 
 <table>
   <thead>
@@ -95,8 +95,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">Adres URL usługi.<br><b>Przykład:</b><code>vk. om</code><br>
+        <b>Ten url musi pasować do adresu URL witryny, ponieważ będzie używany do wykrywania gdziekolwiek jest witryna do wstrzykiwania skryptu.</b>
       </td>
       <td style="text-align:left"><code>Ciąg, Tablica&lt;String&gt;</code>
       </td>
@@ -106,7 +106,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowania adresów URL.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
@@ -189,27 +189,27 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Wyrażenia regularne
 
-If you want to learn regular expressions, here are a few websites.
+Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych.
 
-### Learning
+### Uczenie się
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Informacje o wyrażeniach regularnych](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testowanie
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Kategorie obecności
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Podczas swojej obecności, musisz określić kategorię, w której znajduje się obecność. To jest skompilowana lista kategorii, których możesz użyć.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategoria</th>
+      <th style="text-align:left">Nazwisko</th>
       <th style="text-align:left">Opis</th>
     </tr>
   </thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Wszystko związane z animem, od forów po platformy streamingu wideo.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>gry</b></td>
     <td style="text-align:left"><b>Gry</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Każda strona internetowa, która ma treści związane z grą, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzyka</b></td>
     <td style="text-align:left"><b>Muzyka</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Są to strony internetowe oferujące treści związane z muzyką, czy to strumieniowe, czy pobierane.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>media społecznościowe</b></td>
         <td style="text-align:left"><b>Media Społecznościowe</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Strony internetowe wykorzystywane do tworzenia i udostępniania treści lub do udziału w innych formach sieci społecznościowych.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>filmy</b></td>
         <td style="text-align:left"><b>Filmy i transmisje</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Strony internetowe służące do dostarczania filmów i strumieni.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>inne</b></td>
     <td style="text-align:left"><b>Inne</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonej wyżej kategorii.</td>
       </td>
     </tr>
   </tbody>
