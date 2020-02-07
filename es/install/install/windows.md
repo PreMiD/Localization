@@ -1,8 +1,8 @@
 ---
 title: Windows
-description: Comenzando con la instalación de PreMiD en Windows
+description: Comenzando con una instalación PreMiD en Windows
 published: true
-date: 2020-01-18T20:32:44.173Z
+date: 2020-02-07T00:44:54.368Z
 tags:
 ---
 
