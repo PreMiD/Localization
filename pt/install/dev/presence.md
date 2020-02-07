@@ -38,7 +38,7 @@ Antes de começar a trabalhar na sua presença, tenha a seguinte lista em mente.
 - Descrições e tags devem sempre estar em arrays, mesmo quando é apenas um elemento. O campo `url` , no entanto, só deve ser uma string se é um domínio.
 - Sites instáveis que constantemente mudam APIs/domínios, elementos HTML aleatórios ou apenas ainda em desenvolvimento pesado não são permitidos e serão removidos da loja.
 
-## Modificao
+## Modificação
 
 Em algumas situações, as presenças podem se comportar inesperadamente ou poderiam usar algumas pequenas mudanças para melhorar sua funcionalidade. Aqui está uma lista compilada que você deve seguir para modificar as presenças.
 - Você não pode alterar o criador da presença. Isto só é aplicável se você tiver permissão para reescrevê-lo. Você pode adicionar a si mesmo como um [colaborador](/dev/presence/metadata).
