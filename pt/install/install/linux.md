@@ -2,7 +2,7 @@
 title: Linux
 description: Primeiros passos com a instalação do PreMiD no Linux
 published: true
-date: 2020-01-18T20:32:37.753Z
+date: 2020-02-06T23:53:58.303Z
 tags:
 ---
 
@@ -35,6 +35,6 @@ Se você está no Arch Linux ou em uma distribuição baseada em Arch, O PreMiD 
 - Script de instalação: `wget -qO- http://bit.ly/install-premid | bash` ou `curl -sL https://bit.ly/install-premid | bash`, espere que instale, clique duas vezes no atalho "PreMiD" criado no seu ambiente de trabalho, e pronto!
 - Se desejar desinstalar o PreMiD, pode executar `wget -qO- http://bit.ly/uninstall-premid | bash` ou `curl -sL https://bit.ly/uninstall-premid | bash`.
 
-> Não se esqueça de <a href=/install">adicionar a **extensão**</a>.{.is-warning}
+> Não se esqueça de [adicionar a **extensão**](/install).{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
