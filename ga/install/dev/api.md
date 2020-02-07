@@ -2,13 +2,13 @@
 title: API
 description: Access ressources and perform actions using the PreMiD API
 published: true
-date: 2020-01-18T20:32:27.675Z
+date: 2020-01-19T23:42:12.088Z
 tags:
 ---
 
 # API
 
-> Base URL: https://api.premid.app 
+> Bun URL: https://api.premid.app 
 > 
 > {.is-info}
 
