@@ -1,4 +1,8 @@
 {
+  "presence.page.buttons.sourceCode": {
+    "message": "Forráskód",
+    "description": "Source Code button on presence pages."
+  },
   "presence.sections.description.title": {
     "message": "Leírás",
     "description": "The title of the description section."
