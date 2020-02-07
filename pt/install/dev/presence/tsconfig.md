@@ -1,6 +1,6 @@
 ---
 title: Untitled Page
-description: Uma ajudinha para o TypeScript
+description: A little helper for TypeScript
 published: true
 date: 2020-01-18T20:33:00.222Z
 tags:
@@ -8,15 +8,15 @@ tags:
 
 # Configuração do TypeScript
 
-## Introdução
+## Introduction
 
-Quando você baixou e descompactou a workspace, você verá um arquivo chamado `tsconfig.js` no diretório raíz e nas pastas de presença, este arquivo é usado para configurar o compilador **TypeScript**. Já está configurado para você, então não se preocupe com isso.
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-Queremos apenas descrever algumas definições que você deveria conhecer.
+We just want to describe some settings that you should know.
 
-## Configuração da raíz
+## Root Configuration
 
-No arquivo de configuração raiz você verá algo assim.
+In the root configuration file you will see something like this.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ No arquivo de configuração raiz você verá algo assim.
 }
 ```
 
-| Propriedade         | Descrição                                                                                        |
-|:------------------- |:------------------------------------------------------------------------------------------------ |
-| **compilerOptions** | Usado para configurar o compilador, a maioria das propriedades estão localizadas aqui.           |
-| module              | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Define a versão de JavaScript que você está compilando.                                          |
-| removeComments      | Remover comentários de arquivos compilados.                                                      |
-| **exclude**         | Aqui você pode definir as pastas que deseja excluir da futura compilação.                        |
+| Property            | Descrição                                                                                       |
+|:------------------- |:----------------------------------------------------------------------------------------------- |
+| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
+| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Defines the JavaScript version you are compiling.                                               |
+| removeComments      | Removing comments from compiled files.                                                          |
+| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
 
-## Configuração de Presença
+## Presence Configuration
 
 ```javascript
 {
@@ -48,8 +48,8 @@ No arquivo de configuração raiz você verá algo assim.
 }
 ```
 
-| Propriedade         | Descrição                                                                                                   |
-|:------------------- |:----------------------------------------------------------------------------------------------------------- |
-| **extends**         | Usado para estender o arquivo base `tsconfig` para várias tarefas.                                          |
-| **compilerOptions** | Consulte [**Configuração do root**](/dev/presence/tsconfig#root-configuration) para obter mais informações. |
-| outDir              | Define o diretório de saída para arquivos compilados.                                                       |
+| Property            | Descrição                                                                              |
+|:------------------- |:-------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
+| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
+| outDir              | Defines the output directory for compiled files.                                       |
