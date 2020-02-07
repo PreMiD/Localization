@@ -1,12 +1,12 @@
 ---
 title: Untitled Page
 description: A little helper for TypeScript
-published: 是
+published: true
 date: 2020-01-18T20:33:00.222Z
 tags:
 ---
 
-# TypeScript Configuration
+# TypeScript 配置
 
 ## Introduction
 
@@ -29,7 +29,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | 說明                                                                                              |
+| Property            | 描述                                                                                              |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
 | **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
 | module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
@@ -40,15 +40,15 @@ In the root configuration file you will see something like this.
 ## Presence Configuration
 
 ```javascript
-{
+主席:
   "extends": "../tsconfig.json",
-  "compilerOptions": {
+  "compilerOptions":
     "outDir": "./dist/"
   }
 }
 ```
 
-| Property            | 說明                                                                                     |
+| Property            | 描述                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
 | **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
