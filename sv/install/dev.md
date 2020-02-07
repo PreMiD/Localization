@@ -2,7 +2,7 @@
 title: Kom igång
 description: Lite råd för dem som nyligen kom in i kodning
 published: true
-date: 2020-01-18T20:32:18.836Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
