@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: tak
-date: 2020-01-18T20:32:58.015Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
@@ -48,7 +48,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Zmienna</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
       <th style="text-align:left">Opcjonalnie</th>
     </tr>
   </thead>
