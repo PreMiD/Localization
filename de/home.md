@@ -2,7 +2,7 @@
 title: Startseite
 description: 
 published: true
-date: 2020-01-19T23:41:27.798Z
+date: 2020-01-19T23:41:29.499Z
 tags: 
 ---
 
