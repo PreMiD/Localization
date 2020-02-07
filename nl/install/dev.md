@@ -11,7 +11,7 @@ tags:
 > {.is-info}
 
 # Installeren van de vereisten
-1. Install [Git](https://git-scm.com/).
+1. Installeer [Git](https://git-scm.com/).
 2. Installeer [Node](https://nodejs.org/en/) (komt met [npm](https://www.npmjs.com/)).
 3. Installeer [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open een terminal en `npm install -g typescript`).
 
