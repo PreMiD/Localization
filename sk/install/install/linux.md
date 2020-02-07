@@ -2,7 +2,7 @@
 title: Linux
 description: Začíname s PreMiD inštaláciou na Linuxe
 published: true
-date: 2020-02-06T23:53:58.303Z
+date: 2020-02-06T23:54:03.042Z
 tags:
 ---
 
