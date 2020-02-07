@@ -2,7 +2,7 @@
 title: Linux
 description: Linux'ta PreMiD kurulumuna başlarken
 published: true
-date: 2020-01-18T20:32:37.753Z
+date: 2020-02-06T23:53:58.303Z
 tags:
 ---
 
@@ -15,7 +15,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 1. [NodeJS](https://nodejs.org/en/)'yi kurun.
 2. Bir terminal açın.
-3. Depoyu klonlayın: `git clone https://github.com/PreMiD/PreMiD.git`
+3. Clone the repository: `git clone https://github.com/PreMiD/PreMiD.git`
 4. Klonlanan klasöre girin: `cd PreMiD/src`
 5. Bağımlılıkları ve uygulamayı yükleyin: `npm install`
 6. Bir üst klasöre dönün: `cd ..`
