@@ -74,7 +74,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>serviço</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">O título do serviço que esta presença suporta.</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -93,7 +93,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>URL</b>
+      <td style="text-align:left"><b>url</b>
       </td>
       <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk. om</code><br>
         <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que este seja ou não o site para injetar o script.</b>
@@ -122,7 +122,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logotipo</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Vincular ao tipo de logotipo de serviço&apos;s.</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -140,7 +140,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cor</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code>Valor</code> #HEX. Recomendamos usar uma cor primária do serviço
         que a sua presença suporta.</td>
@@ -160,7 +160,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Categoria</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presença cai.</td>
       <td style="text-align:left"><code>Cordas</code>
@@ -223,7 +223,7 @@ Ao fazer a sua presença, você deve especificar uma categoria na qual a presen�
     <tr>
       <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Jogos</b></td>
-      <td style="text-align:left">Qualquer site que possua conteúdo relacionado a jogos, como <code>Kahoot</code> ou <code>Skribbl.io</code></td>
+      <td style="text-align:left">Qualquer site que possua conteúdo relacionado a jogos, como <code>Kahoot</code> ou <code>Gartic</code></td>
       </td>
     </tr>
     <tr>
@@ -245,7 +245,7 @@ Ao fazer a sua presença, você deve especificar uma categoria na qual a presen�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>outras</b></td>
+      <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>Outros</b></td>
       <td style="text-align:left">Qualquer coisa que não se enquadre em uma categoria específica listada acima.</td>
       </td>
