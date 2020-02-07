@@ -2,7 +2,7 @@
 title: Närvaro Utveckling
 description:
 published: true
-date: 2020-02-03T13:55:37.732Z
+date: 2020-02-03T13:55:40.904Z
 tags:
 ---
 
@@ -356,7 +356,7 @@ Kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste nu redige
     <tr>
       <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Beskrivning</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
       <th style="text-align:left">Valfri</th>
     </tr>
   </thead>
