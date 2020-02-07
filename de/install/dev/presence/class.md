@@ -2,7 +2,7 @@
 title: Präsenzklasse
 description: Die Hauptklasse für jede PreMiD-Präsenz
 published: true
-date: 2020-01-18T20:32:53.042Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
