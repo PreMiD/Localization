@@ -7,49 +7,49 @@ tags:
 ---
 
 # iFrame Třída
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Systém iframe s PreMiD je problematický a může mít neočekávané chování, používat s opatrností. 
 > 
 > {.is-danger}
 
 ## Úvod
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+V některých scénářích může být potřeba přistupovat k elementům uvnitř `iframů`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Kód, který píšete uvnitř vašeho `iframe.ts` souboru se vloží do každého iframe na stránce.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Stejně jako přítomnost, `iframy` mají své vlastní třídy určené k automatické aktualizaci dat.
 
 ```typescript
-let iframe = new iFrame();
+let iframe = nový iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Code zde ...
 });
 ```
 
-## Methods
+## Metody
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `send(objekt)`
+Odešle data do přítomnosti. Pomocí této metody se díky přítomnosti hodí událost `iFrameData`.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+Vrátí URL adresu `iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Události
+V `iframech`události fungují podobně jako v `přítomnosti`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Code goes sem...
 });
 ```
 
-Here is a list of all of the events:
+Zde je seznam všech událostí:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Tato událost je vypálena pokaždé, když se aktualizuje iframe
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (zakázáno)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Vyplněn, když uživatel používá mediální klíče na své klávesnici, [klikněte zde](/dev/presence/class#mediakeys) , abyste získali více informací o mediálních klíčích.
