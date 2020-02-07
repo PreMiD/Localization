@@ -14,5 +14,17 @@
   "user.importantPresenceDev.message2": {
     "message": "{0} elkészített állapotüzenet.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.switch.contributed": {
+    "message": "Felhasználó [Állapotüzenetek/hozzájárulások]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
+  },
+  "user.presences.created": {
+    "message": "Kattints ide a felhasználó által készített állapotüzenetek megtekintéséhez.",
+    "description": "Tippy content in user profile."
+  },
+  "user.presences.contributed": {
+    "message": "Kattints ide a felhasználó által hozzájárult állapotüzenetek megtekintéséhez.",
+    "description": "Tippy content (mode 2) in user profile."
   }
 }
