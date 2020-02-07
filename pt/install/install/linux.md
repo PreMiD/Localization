@@ -24,12 +24,12 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 
 A aplicação irá iniciar automaticamente. Procure o símbolo na sua barra de menu.
 
-> Os seguintes métodos estão descontinuados e não são mais recomendados. Utilize a seu critério. 
+> Os seguintes métodos estão depreciados e não são mais recomendados. Utilize a seu critério. 
 > 
 > {.is-warning}
 
 ## Arch Linux
-Se estiver no Arch Linux ou numa distribuição baseada em Arch, o PreMiD está disponível no [Repositório do Arch Linux](https://aur.archlinux.org/packages/premid-git/) (AUR) sob `premid-git`. Utilize o seu gerenciador de pacotes para pegá-lo de lá!
+Se estiver no Arch Linux ou numa distribuição baseada em Arch, o PreMiD está disponível no [Repositório do Arch Linux](https://aur.archlinux.org/packages/premid) (AUR) sob `premid-git`. Utilize o seu gerenciador de pacotes para pegá-lo de lá!
 
 ## Outras distribuições
 - Script de instalação: `wget -qO- http://bit.ly/install-premid | bash` ou `curl -sL https://bit.ly/install-premid | bash`, espere que instale, clique duas vezes no atalho "PreMiD" criado no seu ambiente de trabalho, e pronto!
