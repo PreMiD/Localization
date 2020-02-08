@@ -212,7 +212,7 @@ presence.on ("iFrameData", data => {
 
 1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
 3. Erstelle einen Ordner mit dem Namen `dist`.
-4. Erstellen Sie eine `metadata.json` Datei und eine `presence.js` Datei im Ordner `dist`.
+4. Erstelle eine `metadata.json` und eine `presence.js` im Ordner `dist`.
 
 ## Ausfüllen der metadata.json
 
