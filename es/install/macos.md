@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Comenzando con la instalación de PreMiD en macOS
 published: true
-date: 2019-10-02T11:30:51.936Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Antes de nada, verifica que el equipo cumple todos los [requisitos](/install/requirements). 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+La instalación de la aplicación es muy importante, ya que la extensión no puede hacer nada por sí misma.
 
 # Instalar
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+1. Ve a nuestra página de descargar [pulsando aquí](https://premid.app/downloads).
+2. Escoge **OS X**.
+3. Extrae el archivo si es necesario.
+4. Abre el instalador.
+5. Si instalas PreMiD por primera vez aparecerá una **alerta de seguridad**. Ve a tus **Preferencias** > **Seguridad** > **General** > **Abrir de todos modos**. [Más información](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) acerca de aplicaciones sin firmar.
+> Esto se debe a que no tenemos un Certificado de Firma de Código (Code Signing Certificate, CSC). [Apoya](https://www.patreon.com/Timeraa) a financiarlo.{.is-info}
+6. Elige abrir cuando se solicite.
+7. Concede acceso a conexiones a través del **Cortafuegos** y controlar **Eventos del Sistema** cuando se le solicite.
 
-The application will start automatically. Check for the symbol in your menu bar.
+La aplicación iniciará automáticamente. Comprueba el símbolo en la barra de tareas.
 
-> Do not forget to [add the **extension**](/install). 
+> No olvides [añadir la **extensión**](/install). 
 > 
 > {.is-warning}
 
