@@ -2,7 +2,7 @@
 title: Linux
 description: Začněte s instalací PreMiD na Linuxu
 published: true
-date: 2020-02-06T23:54:03.042Z
+date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
@@ -29,7 +29,7 @@ Aplikace se spustí automaticky. Zkontrolujte symbol ve Vašem panelu nabídek.
 > {.is-warning}
 
 ## Arch Linux
-Pokud jste na Arch Linuxu nebo Arch založeném na distribuci, PreMiD je k dispozici na [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) pod `premid-git`. Použij svůj oblíbený správce balíčků, abys ho tam získal!
+Pokud jste na Arch Linuxu nebo Arch založeném na distribuci, PreMiD je k dispozici v [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) pod `premid`. Použij svůj oblíbený správce balíčků, abys ho tam získal!
 
 ## Ostatní distribuce
 - Instalační skript: `wget -qO- http://bit.ly/install-premid | bash` nebo `curl -sL https://bit. y/install-premid | bash`, počkejte na instalaci, dvakrát klikněte na "PreMiD" zástupce vytvořený na vašem počítači a to je ono!
