@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ Per ulteriori informazioni sulla classe Presence clicca [qui](/dev/presence/clas
 Molti siti web usano [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inline](https://en.wikipedia.org/wiki/HTML_element#Frames)). Questi tag html possono contenere fonti multiple come i video. Ma non sono rilevanti ogni volta. Alcuni vengono nascosti o non vengono utilizzati attivamente. Spunta la casella se puoi estrarre le informazioni di cui hai bisogno, senza di esse prima di fare lavoro inutile.
 
 1. Controllali tramite console del browser (assicurati di essere nella scheda **Elementi**).
-2. Ricerca (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Ricerca (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Esegui `document.querySelectorAll("iframe")`.
 
 Se trovi che i tuoi dati sono in un iFrame devi eseguire le seguenti operazioni:
@@ -286,7 +286,7 @@ Per ulteriori informazioni sulla classe Presence clicca [qui](/dev/presence/clas
 Molti siti web usano [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inline](https://en.wikipedia.org/wiki/HTML_element#Frames)). Questi tag html possono contenere fonti multiple come i video. Ma non sono rilevanti ogni volta. Alcuni vengono nascosti o non vengono utilizzati attivamente. Spunta la casella se puoi estrarre le informazioni di cui hai bisogno, senza di esse prima di fare lavoro inutile.
 
 1. Controllali tramite console del browser (assicurati di essere nella scheda **Elementi**).
-2. Ricerca (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Ricerca (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Esegui `document.querySelectorAll("iframe")`.
 
 Se trovi che i tuoi dati sono in un iFrame devi eseguire le seguenti operazioni:
