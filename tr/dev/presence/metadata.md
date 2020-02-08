@@ -1,215 +1,210 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Servis hakkında basit bilgileri bulunduran dosya
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Servisinizi mağazada görmek ve görmeden önce test edebilmek için öncelikle bir `metadata.json` ve `presence.js` dosyası oluşturup içlerini doldurduktan sonra bunları `dist` klasörüne taşımalısınız.
 
-The example of that file can be found below.
+`metadata.json` için bir örnek dosyayı aşağıdan bulabilirsiniz.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "İSİM",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "İSİM",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "SÜRÜM",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["ETİKET", "ETİKET2"],
+  "category": "KATEGORİ",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## metadata.json dosyasını anlama
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe yaradığını anlamak o kadar da zor değil.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Anahtar</th>
       <th style="text-align:left">Açıklama</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Tür</th>
+      <th style="text-align:left">Opsiyonel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Servisi oluşturan kişinin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object verisi biçiminde olmalıdır. İsim Discord etiketiniz (#0000) olmadan yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Katkıda bulunan kişilerin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object verisi biçiminde olmalıdır. İsim Discord etiketi (#0000) belirtilmeden yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Yaptığınız servisin ismi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">Servisin linki.<br><b>Örneğin:</b><code>vk.com</code><br>        <b>Girdiğiniz link, yaptığınız servisin linki olmalıdır. Girilen link eklenti tarafından kullanıcının hangi sitede olduğunu belirlemek ve işlem uygulamak için kullanılacaktır.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Linkleri yakalamak için bir regex verisi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Servis sürümü.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Servisin logosunu içeren resim bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Mağazada gözükecek arka plan resminin bağlantısı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> biçimindeki renk. Servisin kullandığı renkleri kullanmanızı tavsiye ediyoruz.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Servisinize ait etiketleri içeren bir Array.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">Servisinizin ait olduğu kategori.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Hayır</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left"><code>iFrame</code> ayarının kullanıp kullanılmadığını belirler.</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Iframe verisinin alınacağı kaynakları yakalayacak regex verisi.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-## Regular Expressions
+## Regex Verileri
 
-If you want to learn regular expressions, here are a few websites.
+Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz atabilirsiniz.
 
-### Learning
+### Öğrenme
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Test Etme
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Servis kategorileri
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmelisiniz. Geçerli kategoriler aşağıda açıklamalarıyla birlikte belirtilmiştir.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategori</th>
+      <th style="text-align:left">İsim</th>
       <th style="text-align:left">Açıklama</th>
     </tr>
   </thead>
@@ -217,37 +212,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Anime hakkında yapılan forumlar, video platformları gibi her şey.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Oyun</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Oyunlarla alakası olan tüm siteler, <code>Kahoot</code> veya <code>Skribbl.io</code> gibi.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>Müzik</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Müzik konusunda içerik barındıran siteler, ister yayınlama ister indirme platformları olabilir.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sosyal</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Oluşturma veya paylaşma gibi basit sosyal medya ilkelerine sahip siteler.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Video & Yayın</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Özellikle video yayınlamak için oluşturulmuş platformlar.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>Diğer</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Yukarıdaki kategorilerden hiç birine uygun olmayan her şey.</td>
       </td>
     </tr>
   </tbody>
