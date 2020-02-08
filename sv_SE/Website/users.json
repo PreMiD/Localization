@@ -1,1 +1,30 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Närvaro Utvecklare",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Verifierare för Presence",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Viktig Närvaroutvecklare",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Skapade {0} närvaron.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.switch.contributed": {
+    "message": "Användare [presences/contributions]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
+  },
+  "user.presences.created": {
+    "message": "Klicka här för att visa de närvaron som användaren har skapat.",
+    "description": "Tippy content in user profile."
+  },
+  "user.presences.contributed": {
+    "message": "Klicka här för att visa de närvaron som användaren har bidragit till.",
+    "description": "Tippy content (mode 2) in user profile."
+  }
+}

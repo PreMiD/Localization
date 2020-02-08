@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Deixe todos saberem o que você está fazendo!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD é um utilitário simples e configurável que permite mostrar o que você está assistindo/ouvindo em seu status de \"jogando agora\" no Discord.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "Nossos recursos",

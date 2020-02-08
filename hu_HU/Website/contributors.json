@@ -31,6 +31,10 @@
     "message": "Moderátor",
     "description": "'Moderator' title for contributors and user pages."
   },
+  "contributors.roles.ticketManager": {
+    "message": "Jegykezelő",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
   "contributors.roles.donator": {
     "message": "Támogató",
     "description": "'Donator' title for contributors page."
@@ -42,5 +46,17 @@
   "contributors.roles.translator": {
     "message": "Fordító",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Adminisztrátor",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "Közösségi ügyintéző",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Senior moderátor",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }

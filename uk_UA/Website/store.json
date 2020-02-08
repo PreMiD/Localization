@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Пошук",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Користувацькі присутності",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Користувацькі присутності",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Ми не можемо знайти цю присутність",
-    "description": "Search result text when nothing's found"
   }
 }

@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "見たり聞いているものを皆に知らせましょう！",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.downloads": {
     "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"

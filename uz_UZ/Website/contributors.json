@@ -10,5 +10,13 @@
   "contributors.headings.translators": {
     "message": "Tarjimonlar",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "Asosiy dasturchi",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "Veb-sayt Yaratuvchisi",
+    "description": "'Website Developer' title for contributors and user pages."
   }
 }

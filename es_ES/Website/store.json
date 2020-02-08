@@ -31,6 +31,22 @@
     "message": "Esta presencia está incluida en PreMiD por defecto, no es necesario instalarla.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.filters.heading": {
+    "message": "Filtros de búsqueda",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Mostrar primero más usado",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Permitir contenido para adultos",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Categorías",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Todas",
     "description": "Category at the top"
@@ -58,13 +74,5 @@
   "store.search": {
     "message": "Buscar",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Presencias de usuarios",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Presencias de usuarios",
-    "description": "Userpage title"
   }
 }

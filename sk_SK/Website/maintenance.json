@@ -4,15 +4,15 @@
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Bohužiaľ máme technické problémy. Čoskoro sa vrátime. Ospravedlňujem sa za nepríjemnosť.",
+    "message": "Bohužiaľ máme technické problémy. Čoskoro sa vrátime. Ospravedlňujeme sa za nepríjemnosť.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Prosím vráť sa neskôr pre viac informácií.",
+    "message": "Prosím vráťte sa neskôr pre viac informácií.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Kým to naši špeciálni vývojári riešia, neváhaj sa pozrieť tu!",
+    "message": "Kým to naši špeciálni vývojári riešia, neváhajte sa pozrieť tu!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {

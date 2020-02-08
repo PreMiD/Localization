@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Išči",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Uporabniški dodatki",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Uporabniški dodatki",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Ta dodatek ne moremo najti",
-    "description": "Search result text when nothing's found"
   }
 }

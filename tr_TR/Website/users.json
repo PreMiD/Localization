@@ -15,24 +15,16 @@
     "message": "Toplamda {0} servis geliştirmiş.",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
-  "user.notFound.heading": {
-    "message": "Aradığınız kullanıcı bulunamadı. Lütfen alttaki maddeleri inceleyin:",
-    "description": "Error when user couldn't be found."
+  "user.switch.contributed": {
+    "message": "Kullanıcının [Servisleri/K. Bulundukları]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
   },
-  "user.notFound.message1": {
-    "message": "Aradığınız kullanıcının ID'sinin doğru olduğuna emin olun.",
-    "description": "Check user ID message."
+  "user.presences.created": {
+    "message": "Kullanıcının yaptığı servisleri görmek için buraya tıklayın.",
+    "description": "Tippy content in user profile."
   },
-  "user.notFound.message2": {
-    "message": "Kullanıcının bir profile sahip olabilmesi için yeterince servis yaptığına ve Discord sunucumuzda \"Presence Developer\" rolüne sahip olduğuna emin olun.",
-    "description": "Check the presence amount of the developer created message."
-  },
-  "user.notFound.message3": {
-    "message": "Discord sunucumuzda diğerlerinin de bu sorunu yaşayıp yaşamadığına emin olun.",
-    "description": "Check if the error is also happening to others message."
-  },
-  "user.notFound.message4": {
-    "message": "Eğer bunun bir hata olduğunu düşünüyorsanız, bizimle [Discord sunucumuz]dan iletişime geçin.",
-    "description": "Bottom line for the error page. Do not edit brackets."
+  "user.presences.contributed": {
+    "message": "Kullanıcının yapımında katkısı bulunan servisleri görmek için buraya tıklayın.",
+    "description": "Tippy content (mode 2) in user profile."
   }
 }

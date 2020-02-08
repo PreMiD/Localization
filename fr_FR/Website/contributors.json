@@ -46,5 +46,17 @@
   "contributors.roles.translator": {
     "message": "Traducteurs",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrateur",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "Secrétaire de la communauté",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Modérateur senior",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }

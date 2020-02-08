@@ -1,0 +1,14 @@
+{
+  "user.notFound.heading": {
+    "message": "Seda kasutajat ei leitud. Ole kindel, et:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Kasutaja ID, mida sa otsid, on olemas.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message4": {
+    "message": "Kui sa arvad, et see oli viga, palun kontakteeru meiega [Discordi serveris].",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}

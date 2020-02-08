@@ -1,4 +1,8 @@
 {
+  "presence.page.buttons.sourceCode": {
+    "message": "源代码",
+    "description": "Source Code button on presence pages."
+  },
   "presence.sections.description.title": {
     "message": "描述",
     "description": "The title of the description section."
@@ -22,5 +26,9 @@
   "presence.sections.information.supportedurls": {
     "message": "支持的网站",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+  },
+  "presence.sections.information.contributors": {
+    "message": "贡献者",
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
   }
 }

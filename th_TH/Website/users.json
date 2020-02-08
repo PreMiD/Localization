@@ -14,9 +14,5 @@
   "user.importantPresenceDev.message2": {
     "message": "สร้าง Presences ไปแล้ว {0}",
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-  },
-  "user.notFound.message4": {
-    "message": "ถ้าคุณคิดว่ามันผิดพลาด, ลองติดต่อผ่าน [เซิร์ฟเวอร์ของพวกเรา]",
-    "description": "Bottom line for the error page. Do not edit brackets."
   }
 }

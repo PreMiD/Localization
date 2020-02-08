@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Keresés",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Felhasználó állapotüzenetei",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Felhasználó állapotüzenetei",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Az állapotüzenet nem található",
-    "description": "Search result text when nothing's found"
   }
 }

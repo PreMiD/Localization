@@ -10,5 +10,53 @@
   "contributors.headings.translators": {
     "message": "Překladatelé",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "Hlavní Vývojář",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "Vývojář webu",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "Manažer Komunity",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "Hlavní Moderátor",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "Moderátor",
+    "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.ticketManager": {
+    "message": "Správce tiketů",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "Dárce",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "Booster",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "Překladatel",
+    "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrátor",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "tajemník komunity",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Vyšší moderátor",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }

@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Ara",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Kullanıcının servisleri",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Kullanıcının servisleri",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Aradığınız servis bulunamadı",
-    "description": "Search result text when nothing's found"
   }
 }

@@ -58,13 +58,5 @@
   "store.search": {
     "message": "Søk",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Bruker presences",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Bruker presences",
-    "description": "Userpage title"
   }
 }

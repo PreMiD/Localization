@@ -19,6 +19,10 @@
     "message": "This presence is included in PreMiD by default, no need to install it.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.heading": {
+    "message": "목록들",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "모두",
     "description": "Category at the top"

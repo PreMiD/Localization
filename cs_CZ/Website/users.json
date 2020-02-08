@@ -1,1 +1,30 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Vývojář přítomnosti",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Ověřovatel přítomnosti",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Důležitý vývojář přítomnosti",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Vytvořeno {0} přítomností.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.switch.contributed": {
+    "message": "Uživatel [předvolby/příspěvky]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
+  },
+  "user.presences.created": {
+    "message": "Klikněte zde pro zobrazení přítomností, které tento uživatel vytvořil.",
+    "description": "Tippy content in user profile."
+  },
+  "user.presences.contributed": {
+    "message": "Kliknutím zde zobrazíte přítomnosti, k nimž tento uživatel přispěl.",
+    "description": "Tippy content (mode 2) in user profile."
+  }
+}

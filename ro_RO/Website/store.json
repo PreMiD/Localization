@@ -58,13 +58,5 @@
   "store.search": {
     "message": "Caută",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Prezențele utilizatorului",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Prezențele utilizatorului",
-    "description": "Userpage title"
   }
 }

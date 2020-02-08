@@ -1,0 +1,10 @@
+{
+  "404.heading": {
+    "message": "Uachtar! Ar cheart go mbeadh sé seo ann fiú amháin?",
+    "description": "Heading on 404 page"
+  },
+  "404.message": {
+    "message": "Tá brón orm, is cosúil go bhfuil an leathanach nach mian leat a fheiceáil ann, gur athraíodh é nó gur scriosadh é?",
+    "description": "Message on 404 page"
+  }
+}

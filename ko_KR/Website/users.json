@@ -1,1 +1,10 @@
-{}
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Presence 개발자",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "중요한 Presence 개발자",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  }
+}

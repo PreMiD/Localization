@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Zoek",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Gebruiker presences",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Gebruiker presences",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "We kunnen die presence niet vinden",
-    "description": "Search result text when nothing's found"
   }
 }

@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Lasă-i pe toți să știe ce faci!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Funcțiile noastre",
     "description": "Introduction button"

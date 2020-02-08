@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Tìm kiếm",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Presences của người dùng",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Presences của người dùng",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Chúng tôi không tìm thấy trạng thái đó",
-    "description": "Search result text when nothing's found"
   }
 }

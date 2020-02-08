@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "ให้ทุกคนได้รู้ว่าคุณกำลังทำอะไรอยู่!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "ฟีเจอร์ของเรา",
     "description": "Introduction button"

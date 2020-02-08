@@ -74,17 +74,5 @@
   "store.search": {
     "message": "Поиск",
     "description": "Placeholder for presence search"
-  },
-  "store.userpage.userPresences": {
-    "message": "Присутствия от пользователей",
-    "description": "Userpage title"
-  },
-  "store.userpage.error1": {
-    "message": "Присутствия от пользователей",
-    "description": "Userpage title"
-  },
-  "store.search.notFound": {
-    "message": "Мы не можем найти этот статус...",
-    "description": "Search result text when nothing's found"
   }
 }
