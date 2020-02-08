@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Začínáme
+description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
-date: 2019-11-03T13:02:36.660Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Je vyžadován editor zdrojového kódu. Doporučujeme Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Instalace požadavků
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. Nainstalujte [uzel](https://nodejs.org/en/) (přichází s [npm](https://www.npmjs.com/)).
+3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Klonování projektu
+1. Otevřete terminál a napište `git klonovat URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
+2. Vyberte složku dle vašeho výběru.
+3. Otevřete ji v editoru kódu.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Instalace závislostí
+> Ujistěte se, že jste nejdříve nainstalovali [npm](https://www.npmjs.com/) (Node Správce balíčků). Automaticky nainstalovala, pokud máte nainstalován [uzel](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Otevřete terminál do vašeho repozitáře a zadejte `npm i`.
+- Pro aktualizaci závislostí zadejte `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Uvědomte si, že aktualizace závislostí by mohla hodně brzdit nebo ne - je vyžadováno testování! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Kódování vaší vize
+Udržujte prosím strukturu. Nechceme náš projekt dezorganizovat. Chaotické soubory nemusí být přijaty.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Odesílání vašeho snu
+Stačí otevřít požadavek na natažení na jednom z našich [GitHub repozitářů](https://github.com/PreMiD/) , na které chcete přispět. Budeme se starat o vaše dítě, nebojte se. Pokud je toto vaše první podání žádosti o natažení, podívejte se na tento [tutoriál](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Získání schválení
+Naším hlavním cílem je spolupracovat s uživateli, aby se snažili být co nejvíce přátelský, respektující a informativní. Stačí si poradit vývojáře na našem [Discord serveru](https://discord.gg/PreMiD) , abyste získali toto hodnocení na GitHubu, nebo ne. Závisí na kvalitě kódu, vzhledu majetku a pravidelné funkčnosti.
