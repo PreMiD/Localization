@@ -1,55 +1,55 @@
 ---
-title: iFrame Class
+title: iFrame-Klasse
 description:
 published: true
-date: 2019-10-06T22:40:09.426Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# iFrame-Klasse
+> Das iframe-System mit PreMiD ist problematisch und kann unerwartetes Verhalten aufweisen. Seien Sie vorsichtig. 
 > 
 > {.is-danger}
 
-## Introduction
+## Einführung
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+In einigen Szenarien muss Ihre Anwesenheit möglicherweise auf Elemente innerhalb von `iframes`zugreifen.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Der Code, den Sie in Ihre Datei `iframe.ts` schreiben, wird in jeden iframe auf der Seite eingefügt.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Wie bei Präsenzen haben `iframes` ihre eigenen Klassen, um Daten automatisch zu aktualisieren.
 
 ```typescript
-let iframe = new iFrame();
+let iframe = new iFrame ();
 
-iframe.on("UpdateData", async () => {
-    // Code goes here...
+iframe.on ("UpdateData", async () => {
+    // Code geht hierher ...
 });
 ```
 
-## Methods
+## Methoden
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `senden (Objekt)`
+Sendet Daten an die Anwesenheit. Bei Verwendung dieser Methode löst die Anwesenheit ein iFrameData</code> Ereignis mit `aus.</p>
 
-### `getUrl(String)`
-Returns the URL of the `iframe`.
+<h3 spaces-before="0"><code>getUrl (String)`</h3>
+Gibt die URL des `iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Veranstaltungen
+In `iframes`funktionieren Ereignisse ähnlich wie in der Klasse `Presence`.
 
 ```typescript
-iframe.on("UpdateData", async () => {
-    // Code goes here...
+iframe.on ("UpdateData", async () => {
+    // Code geht hier ...
 });
 ```
 
-Here is a list of all of the events:
+Hier ist eine Liste aller Veranstaltungen:
 
-#### `UpdateData`
+#### `Daten aktualisieren`
 
-This event is fired every time the iframe is being updated.
+Dieses Ereignis wird jedes Mal ausgelöst, wenn der Iframe aktualisiert wird.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (deaktiviert)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Wird ausgelöst, wenn der Benutzer Medientasten auf seiner Tastatur verwendet. [Klicken Sie hier](/dev/presence/class#mediakeys) , um weitere Informationen zu Medientasten zu erhalten.
