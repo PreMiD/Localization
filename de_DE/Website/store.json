@@ -20,7 +20,7 @@
 		"description": "Verified badge hover message"
 	},
 	"store.header.search": {
-		"message": "Our features",
+		"message": "Suchen",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
@@ -44,7 +44,7 @@
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "Erwachsenen Inhalt erlauben",
+		"message": "Erwachsenen Inhalt anzeigen",
 		"description": "Adult content checkbox"
 	},
 	"store.category.heading": {
@@ -76,7 +76,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Our features",
+		"message": "Suchen",
 		"description": "Placeholder for presence search"
 	}
 }
