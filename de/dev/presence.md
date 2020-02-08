@@ -10,18 +10,18 @@ tags:
 > 
 > {.is-info}
 
-Version `2.x` führt den [Presence Store](https://premid.app/store). Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/)hinzuzufügen und zu entfernen.
+Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/) hinzuzufügen und zu entfernen.
 
 # Richtlinien
-> Wenn Sie nicht alle Richtlinien befolgen, wird Ihre Anwesenheit oder Abrufanforderung vom Github gelöscht. 
+> Wenn Du nicht alle Richtlinien befolgst, wird Deine Präsenz oder Pull-Request von Github gelöscht. 
 > 
 > {.is-danger}
 
-## Schaffung
+## Erstellung
 
-Beachten Sie die folgende Liste, bevor Sie an Ihrer Anwesenheit arbeiten.
-- Die Pull-Anforderung muss vollständig sein. Sie müssen über eine ordnungsgemäße Dateistruktur verfügen. Einschließlich des Ordners `dist` , der Datei `presence.js` Datei `metadata.json`.
-- Die Präsenz **muss** mit der von Ihnen ausgewählten Website zusammenhängen.
+Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
+- Die Pull-Request muss vollständig sein. Du musst über eine ordnungsgemäße Dateistruktur verfügen. Einschließlich des Ordners `dist`, der Datei `presence.js` und `metadata.json`.
+- Die Präsenz **muss** mit der von Dir ausgewählten Website zusammenhängen.
 - Es dürfen keine illegalen Websites vorhanden sein. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw.
 - Die Anwesenheitsmetadaten müssen gut geschriebenen Inhalt enthalten, einschließlich gültiger Titel und Beschreibungen.
 - Die Medien, die Sie hinzufügen (Symbol / Miniaturbild), müssen mit der Website in Zusammenhang stehen und in Bezug auf Größe und Qualität verständlich sein.
