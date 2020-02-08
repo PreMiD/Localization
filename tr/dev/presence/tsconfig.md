@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Başlıksız Sayfa
+description: TypeScript için ufak bir yardımcı
 published: true
-date: 2019-10-03T04:01:12.991Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript Configuration
+# TypeScript Konfigürasyonu
 
-## Introduction
+## Tanıtım
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Dosyaları indirip açtığınızda, klasörün içinde bir `tsconfig.js` dosyasıyla karşılacaksınız. Bu dosya, **TypeScript** derleyicisi için gerekli ayarları içeren dosyadır. Bu ayarlar daha önceden sizin için ayarlandığı için sizin herhangi bir şey hakkında endişelenmenize gerek yok.
 
-We just want to describe some settings that you should know.
+Yine de, emin olmak için burada belirtilen anahtarları ve özellikleri açıklayacağız.
 
-## Root Configuration
+## Kök Yapılandırması
 
-In the root configuration file you will see something like this.
+Kök yapılandırma (`tsconfig.js`) dosyasında böyle bir şeyle karşılaşacaksınız.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Açıklama                                                                                        |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Özellik             | Açıklama                                                                                                              |
+|:------------------- |:--------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions** | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                    |
+| module              | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz. |
+| target              | Derleyeceğiniz JavaScript sürümünü belirler.                                                                          |
+| removeComments      | Derlenmiş dosyalardan yorumları kaldırır.                                                                             |
+| **exclude**         | Buraya derlemede işlenmeyecek klasörleri yazarak sonraki işlemleriniz için bu klasörleri göz ardı ettirebilirsiniz.   |
 
-## Presence Configuration
+## Servis Yapılandırması
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Açıklama                                                                               |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Özellik             | Açıklama                                                                                                    |
+|:------------------- |:----------------------------------------------------------------------------------------------------------- |
+| **extends**         | `tsconfig` temelini "genişletmek" için kullanılır.                                                          |
+| **compilerOptions** | Daha fazla bilgi için [**Kök Yapılandırması**](/dev/presence/tsconfig#root-configuration) kısmına göz atın. |
+| outDir              | Derlenmiş dosyaların kopyalanacağı yeri belirler.                                                           |
