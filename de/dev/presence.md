@@ -75,8 +75,8 @@ Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascrip
 
 ## Projekt klonen
 1. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
-2. Wählen Sie einen Ordner Ihrer Wahl.
-3. Öffnen Sie es in Ihrem Code-Editor.
+2. Wähle einen Ordner Deiner Wahl.
+3. Öffne es in Deinem Quellcode-Editor.
 
 ## Ordner und Dateien erstellen
 
@@ -205,8 +205,8 @@ presence.on ("iFrameData", data => {
 ## Projekt klonen
 1. Installiere [Git](https://git-scm.com/).
 2. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
-3. Wählen Sie einen Ordner Ihrer Wahl.
-4. Öffnen Sie es in Ihrem Code-Editor.
+3. Wähle einen Ordner Deiner Wahl.
+4. Öffne es in Deinem Quellcode-Editor.
 
 ## Ordner und Dateien erstellen
 
