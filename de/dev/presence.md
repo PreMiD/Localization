@@ -55,18 +55,18 @@ Damit Deine Präsenz den Store erreicht, muss sie einen Prozess auf Github durch
 
 Unser Presence Verification-Team hat eine eigene Rolle. Achte auf `Presence Verifier` auf dem Discord-Server, um zu erfahren, wer daran beteiligt ist.
 
-1. Es sind zwei Überprüfer erforderlich, um zu bestätigen, dass Deine Präsenz den Standards entspricht. Wenn Sie Änderungsanforderungen erhalten, bemühen Sie sich, diese zu beheben, da sie sonst nicht hinzugefügt werden.
-2. Wenn wir Änderungen anfordern und Ihre Pull-Anforderung **7 Tage Inaktivität** überschreitet, ohne die erforderlichen Änderungen vorzunehmen, müssen wir sie schließen.
-3. Sie dürfen Screenshots von Änderungen machen, die mit Hilfe eines anderen Benutzers vorgenommen wurden. (zB der Autor, falls Sie aus irgendeinem Grund nicht darauf zugreifen können).
-4. Wenn es sich um ein Update oder einen Patch handelt, muss der Screenshot zeigen, dass die neuen Ergänzungen funktionieren, und keine alten Funktionen aus früheren Pull-Anforderungen.
-5. Die bereitgestellten Screenshots sollten echt sein und nicht bearbeitet werden.
-6. Jeder zur Verfügung gestellte Code, der in diesem Repository zusammengeführt wird, wird unter der **Mozilla Public License 2.0**lizenziert.
+1. Es sind zwei Überprüfer erforderlich, um zu bestätigen, dass Deine Präsenz den Standards entspricht. Wenn Du Änderungsanforderungen erhälst, bemühe dich, diese zu beheben, da sie sonst nicht hinzugefügt werden.
+2. Wenn wir Änderungen anfordern und Deine Pull-Request **7 Tage Inaktivität** überschreitet, ohne die erforderlichen Änderungen vorzunehmen, müssen wir ihn schließen.
+3. Du darfst Screenshots von Änderungen machen, die mit Hilfe eines anderen Benutzers vorgenommen wurden (z.B. der Autor, falls Du aus irgendeinem Grund nicht darauf zugreifen kannst).
+4. Wenn es sich um ein Update oder einen Patch handelt, muss der Screenshot zeigen, dass die neuen Ergänzungen funktionieren, und keine alten Funktionen aus früheren Pull-Requests.
+5. Die bereitgestellten Screenshots sollten echt und nicht bearbeitet worden sein.
+6. Jeder zur Verfügung gestellte Code, der in diesem Repository zusammengeführt wird, wird unter der **Mozilla Public License 2.0** lizenziert.
 
 
-Nachdem alle ordnungsgemäßen Bewertungen erfüllt wurden, wird Ihre Pull-Anfrage mit dem Shop zusammengeführt.
+Nachdem alle ordnungsgemäßen Rezensionen erfüllt wurden, wird Dein Pull-Request mit dem Shop zusammengeführt.
 
 # Struktur (TypeScript)
-Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascript.com/) oder  [TypeScript](https://www.typescriptlang.org/)codieren möchten. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders scharfe Typdefinitionen, so dass das Beheben und Erkennen von Fehlern viel einfacher ist. Wenn Sie nur [JavaScript](https://www.javascript.com/) möchten, können Sie zu [Structure (JavaScript)](/dev/presence#structure-javascript)springen.
+Du kannst wählen, ob Du Deine Präsenz mit [JavaScript](https://www.javascript.com/) oder  [TypeScript](https://www.typescriptlang.org/) programmieren möchtest. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders scharfe Typdefinitionen, sodass das Beheben und Erkennen von Fehlern viel einfacher ist. Wenn Du nur [JavaScript](https://www.javascript.com/) möchtest, kannst Du zu [Structure (JavaScript)](/dev/presence#structure-javascript) springen.
 
 ## Installation
 1. Installiere [Git](https://git-scm.com/).
@@ -74,20 +74,20 @@ Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascrip
 3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
 ## Projekt klonen
-1. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
+1. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Presences` ein.
 2. Wähle einen Ordner Deiner Wahl.
 3. Öffne es in Deinem Quellcode-Editor.
 
 ## Ordner und Dateien erstellen
 
-1. Erstellen Sie einen Ordner mit dem Namen **** (keine URL) des Dienstes, den Sie unterstützen möchten.
-2. Erstellen Sie eine `presence.ts` und eine `tsconfg.json` Datei im Inneren.
-3. Erstellen Sie einen Ordner mit dem Namen `dist` inside.
-4. Erstellen Sie eine Datei `metadata.json` im Ordner `dist`.
+1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
+2. Erstelle eine `presence.ts` und eine `tsconfg.json` Datei im Inneren.
+3. Erstelle einen Ordner mit dem Namen `dist`.
+4. Erstelle eine `metadata.json` im Ordner `dist`.
 
-## Füllen Sie die Datei tsconfig.json aus
+## Ausfüllen der tsconfig.json
 
-Bitte geben Sie den folgenden Code in die Datei `tsconfg.json`.
+Bitte gib den folgenden Code in die Datei `tsconfg.json` ein.
 ```javascript
 {
   "extended": "../tsconfig.json",
@@ -96,7 +96,7 @@ Bitte geben Sie den folgenden Code in die Datei `tsconfg.json`.
   }
 }
 ```
-Um mehr zu erfahren über Typoskript Konfiguration klicken [hier](/dev/presence/tsconfig).
+Um mehr über die TypeScript-Konfiguration zu erfahren, klicke [hier](/dev/presence/tsconfig).
 
 ## Füllen Sie die Datei metadata.json aus
 
@@ -204,14 +204,14 @@ presence.on ("iFrameData", data => {
 # Struktur (JavaScript)
 ## Projekt klonen
 1. Installiere [Git](https://git-scm.com/).
-2. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
+2. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Presences` ein.
 3. Wähle einen Ordner Deiner Wahl.
 4. Öffne es in Deinem Quellcode-Editor.
 
 ## Ordner und Dateien erstellen
 
-1. Erstellen Sie einen Ordner mit dem Namen **** (keine URL) des Dienstes, den Sie unterstützen möchten.
-3. Erstellen Sie einen Ordner mit dem Namen `dist` inside.
+1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
+3. Erstelle einen Ordner mit dem Namen `dist`.
 4. Erstellen Sie eine `metadata.json` Datei und eine `presence.js` Datei im Ordner `dist`.
 
 ## Füllen Sie die Datei metadata.json aus
