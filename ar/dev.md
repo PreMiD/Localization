@@ -2,7 +2,7 @@
 title: ابدء
 description: نصيحة صغيرة لأولئك الذين حصلوا على الترميز مؤخرا
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # تثبيت متطلبات سيكراجي
 1. قم بتثبيت [ Git ](https://git-scm.com/).
 2. تثبيت [ Node ](https://nodejs.org/en/) (يأتي مع [ npm ](https://www.npmjs.com/)).
-3. قم بتثبيت [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (افتح محطة و ` npm install -g typescript `).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
 # استنساخ المشروع
 1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. <strong x-id = "1"> استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.
