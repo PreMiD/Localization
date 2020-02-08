@@ -2,7 +2,7 @@
 title: Linux
 description: Rozpoczęcie instalacji PreMiD w systemie Linux
 published: tak
-date: 2020-02-06T23:54:03.042Z
+date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
@@ -29,7 +29,7 @@ Aplikacja uruchomi się automatycznie. Sprawdź ikonę na pasku menu.
 > {.is-warning}
 
 ## Arch Linux
-Jeśli jesteś na Arch Linux lub na distro bazującym na arch, PreMiD jest dostępny w [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) pod `Premid-git`. Użyj swojego ulubionego menadżera pakietów, aby go tam złapać!
+Jeśli jesteś na Arch Linux lub na bazie łuku, PreMiD jest dostępny w [repozytorium Arch Linux](https://aur.archlinux.org/packages/premid/) (AUR) poniżej `premii`. Użyj swojego ulubionego menadżera pakietów, aby go tam złapać!
 
 ## Pozostałe dystrybucje
 - Skrypt instalacyjny: `wget -qO- http://bit.ly/install-premid | bash` lub `curl -sL https://bit. y/install-premid | bash`, poczekaj na zainstalowanie, kliknij dwukrotnie skrót "PreMiD" utworzony na twoim pulpicie, i to wszystko!
