@@ -12,7 +12,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "这种存在是用户非常受欢迎的。",
+		"message": "这个 Presence 非常受用户欢迎。",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.verified": {
