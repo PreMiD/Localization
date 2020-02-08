@@ -1,14 +1,14 @@
 ---
-title: Presence Class
+title: Trieda Prítomnosti
 description: The main class for every PreMiD presence
 published: true
-date: 2019-10-06T23:18:10.415Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Trieda Prítomnosti
 
-## Introduction
+## Úvod
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -43,7 +43,7 @@ let presence = new Presence({
 });
 ```
 
-## Methods
+## Metódy
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -78,7 +78,7 @@ strings = await presence.getStrings({
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 Returns a variable from the website if it exists.
 
@@ -96,22 +96,22 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Premenná</th>
       <th style="text-align:left">Popis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
@@ -137,20 +137,20 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
   </tbody>
@@ -168,7 +168,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## Udalosti
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
@@ -186,7 +186,7 @@ This event is fired every time the presence is being updated.
 
 #### `MediaKeys` (disabled)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Spúšťa sa, keď používateľ na klávesnici používa mediálne klávesy, [kliknite sem](/dev/presence/class#mediakeys) na získanie viac informácií o mediálnych klávesách.
 
 #### `iFrameData`
 
