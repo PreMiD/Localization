@@ -34,28 +34,28 @@ Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
 - Die `smallImageKey` und `smallImageText` Felder sollen zusätzlich/sekundären Kontext (wie "playing"/"paused" für Video-Seiten bereitstellen "browsing" für normale Webseiten und andere Fälle). Du bist nicht berechtigt Discord-Profile anzuwerben oder anderwärtige, was nichts mit PreMiD zu tun hat.
 - Die Anforderungen für Logos sind allerdings 1:1 (Quadratisch) in 512px, Thumbnails, aber sollten entweder [weite Werbekarten](https://i.imgur.com/3QfIc5v.jpg) oder einfach [Screenshots](https://i.imgur.com/OAcBmwW.png) sein, falls die ersten nicht verfügbar sind.
 - Die Präsenzen sollten mindestens 1 Tag haben, dies ist eine Anforderung nach Design und kann in der Zukunft optional sein.
-- Das Feld `url` darf nicht `http://` oder `https://`enthalten, auch nicht die Parameter (z. eine Präsenz für `https://www.google.com/search?gws_rd=ssl` hat nur `www.google.com` im `url` Feld.
+- Das Feld `url` darf weder `http://`, noch `https://` enthalten, noch die Parameter (z.B. eine Präsenz für `https://www.google.com/search?gws_rd=ssl` hat nur `www.google.com` im `url` Feld).
 - Beschreibungen und Tags sollten immer in Arrays sein, auch wenn es nur ein Element ist. Das Feld `url` sollte jedoch nur ein String sein, wenn es sich um eine Domain handelt.
-- Instabile Seiten, die ständig APIs/Domains ändern Zufallsgenerierung von HTML-Elementen oder einfach nur in einer schweren Entwicklung sind nicht erlaubt und werden aus dem Store entfernt.
+- Instabile Seiten, die ständig APIs/Domains ändern, zufällig HTML-Elemente generieren oder einfach nur in einer schweren Entwicklung sind nicht erlaubt und werden aus dem Store entfernt.
 
-## Änderung
+## Modifikation
 
-In einigen Situationen verhalten sich Anwesenheiten möglicherweise unerwartet oder verwenden einige geringfügige Änderungen, um die Funktionalität zu verbessern. Hier ist eine kompilierte Liste, die Sie befolgen müssen, um Präsenzen zu ändern.
-- Sie dürfen den Ersteller der Präsenz nicht ändern. Dies gilt nur, wenn Sie es erneut schreiben dürfen. Sie können sich selbst als [Mitwirkende hinzufügen](/dev/presence/metadata).
-- Stellen Sie sicher, dass die Änderungen nützlich sind. Dies können Korrekturen (Code und Tippfehler), Ergänzungen (Beschreibungen und Tags) usw. sein.
-- Bestätigen Sie, dass Ihre Änderungen wirksam sind, bevor Sie sie veröffentlichen. Erstellen Sie keine Pull-Anforderungen, ohne das Ergebnis Ihrer Änderungen zu kennen.
-- Branding / Überschreiben Sie eine Präsenz nur dann vollständig, wenn dies von einem `Presence Verifier` oder einem Mitarbeiter genehmigt wurde.
+In einigen Situationen verhalten sich Präsenzen möglicherweise unerwartet oder verwenden einige geringfügige Änderungen, um die Funktionalität zu verbessern. Hier ist eine kompilierte Liste, die Du befolgen musst, um Präsenzen zu ändern.
+- Du darfst den Ersteller der Präsenz nicht ändern. Dies gilt nur, wenn Du sie erneut schreiben darfst. Du kannst Dich selbst als [Mitwirkende](/dev/presence/metadata) hinzufügen.
+- Stelle sicher, dass die Änderungen nützlich sind. Dies können Korrekturen (Code- und Tippfehler), Ergänzungen (Beschreibungen und Tags) usw... sein.
+- Bestätige, dass Deine Änderungen wirksam sind, bevor Du sie veröffentlichst. Erstelle keine Pull-Requests, ohne das Ergebnis Deiner Änderungen zu kennen.
+- Verändere/Überschreibe eine Präsenz nur dann vollständig, wenn dies von einem `Presence Verifier` oder einem Mitarbeiter genehmigt wurde.
 
-# Nachprüfung
-> Wenn Sie Pull-Anforderungen zum Hinzufügen oder Ändern vorhandener Anwesenheiten stellen, müssen Sie einen Screenshot hinzufügen. Für Änderungen an den Metadaten / tsconfig einer Präsenz ist jedoch kein Screenshot erforderlich. *Ihr Screenshot muss mit der Pull-Anforderung direkt auf github hochgeladen werden. Verwenden Sie keine Websites für die gemeinsame Nutzung von Bildern von Drittanbietern.* 
+# Prüfung
+> Wenn Du Pull-Requests zum Hinzufügen oder Ändern vorhandener Präsenzen erstellst, musst Du einen Screenshot hinzufügen. Für Änderungen an den Metadaten/tsconfig einer Präsenz ist jedoch kein Screenshot erforderlich. *Dein Screenshot muss mit dem Pull-Requests direkt auf Github hochgeladen werden. Verwende keine Webseiten für die gemeinsame Nutzung von Bildern von Drittanbietern.* 
 > 
 > {.is-danger}
 
-Damit Ihre Präsenz die Geschäfte erreicht, muss sie einen Prozess auf github durchlaufen, um zu bestätigen, dass sie wie erwartet funktioniert. Hier sind ein paar Dinge, auf die Sie achten sollten, wenn Sie Ihre Pull-Anfrage stellen.
+Damit Deine Präsenz den Store erreicht, muss sie einen Prozess auf Github durchlaufen, um zu bestätigen, dass sie wie erwartet funktioniert. Hier sind ein paar Dinge, auf die Du achten solltest, wenn Du Deinen Pull-Request erstellst.
 
-Unser Presence Verification-Team hat eine eigene Rolle. Achten Sie auf `Presence Verifier` auf dem Discord-Server, um zu erfahren, wer daran beteiligt ist.
+Unser Presence Verification-Team hat eine eigene Rolle. Achte auf `Presence Verifier` auf dem Discord-Server, um zu erfahren, wer daran beteiligt ist.
 
-1. Es sind zwei Überprüfer erforderlich, um zu bestätigen, dass Ihre Anwesenheit den Standards entspricht. Wenn Sie Änderungsanforderungen erhalten, bemühen Sie sich, diese zu beheben, da sie sonst nicht hinzugefügt werden.
+1. Es sind zwei Überprüfer erforderlich, um zu bestätigen, dass Deine Präsenz den Standards entspricht. Wenn Sie Änderungsanforderungen erhalten, bemühen Sie sich, diese zu beheben, da sie sonst nicht hinzugefügt werden.
 2. Wenn wir Änderungen anfordern und Ihre Pull-Anforderung **7 Tage Inaktivität** überschreitet, ohne die erforderlichen Änderungen vorzunehmen, müssen wir sie schließen.
 3. Sie dürfen Screenshots von Änderungen machen, die mit Hilfe eines anderen Benutzers vorgenommen wurden. (zB der Autor, falls Sie aus irgendeinem Grund nicht darauf zugreifen können).
 4. Wenn es sich um ein Update oder einen Patch handelt, muss der Screenshot zeigen, dass die neuen Ergänzungen funktionieren, und keine alten Funktionen aus früheren Pull-Anforderungen.
