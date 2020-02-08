@@ -2,11 +2,11 @@
 title: Linux
 description: Erste Schritte mit einer PreMiD-Installation unter Linux
 published: true
-date: 2020-02-06T23:54:03.042Z
+date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
-> Bevor Sie fortfahren, stellen Sie sicher, dass Ihr System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
+> Bevor Du fortfährst, stelle sicher, dass Dein System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
 
 Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht funktionieren würde.
 
@@ -29,12 +29,12 @@ Die Anwendung startet automatisch. Such danach nach dem Symbol in deiner Menüle
 > {.is-warning}
 
 ## Arch Linux
-Wenn Sie auf Arch Linux oder einer Arch basierten Distribution sind, ist PreMiD im [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) unter `Premid-git` verfügbar. Benutze deinen bevorzugten Paket-Manager, um es dir von dort herunterzuladen!
+Wenn Sie auf Arch Linux oder einer Arch basierten Distribution sind, PreMiD ist im [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) unter `Vormittag` verfügbar. Benutze deinen bevorzugten Paket-Manager, um es dir von dort herunterzuladen!
 
 ## Andere Distributionen
-- Installationsskript: `wget -qO- http://bit.ly/install-premid | bash` oder `curl -sL https://bit. y/install-premid | bash`, warte, bis es installiert wurde, und mach einen doppelklick auf den "PreMiD" Shortcut auf deinem Desktop, und das war's!
+- Installationsskript: `wget -qO- http://bit.ly/install-premid | bash` oder `curl -sL https://bit. y/install-premid | bash`, warte, bis es installiert wurde, und mache einen Doppelklick auf die "PreMiD"-Verknüpfung auf deinem Desktop, und das war's!
 - Wenn du PreMiD deinstallieren möchtest, kannst du `wget -qO- http://bit.ly/uninstall-premid | bash` oder `curl -sL https://bit.ly/uninstall-premid | bash` ausführen.
 
-> Vergiss nicht, [die **Erweiterung**](/install)hinzuzufügen.{.is-warning}
+> Vergiss nicht, [die **Erweiterung**](/install) hinzuzufügen.{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
