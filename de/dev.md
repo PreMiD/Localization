@@ -6,7 +6,7 @@ date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
-> Ein Codeeditor ist erforderlich. Wir empfehlen Visual Studio Code. 
+> Ein Quellcode-Editor ist erforderlich. Wir empfehlen Visual Studio Code. 
 > 
 > {.is-info}
 
@@ -16,16 +16,16 @@ tags:
 3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
 # Projekt klonen
-1. Öffnen ein Terminal und gib `git clone URL` ein. **URL ersetzen mit Repository Link auf beitragen möchten** Beispiel `git clone https://github.com/PreMiD/PreMiD`.
-2. Wählen Sie einen Ordner Ihrer Wahl.
-3. Öffnen Sie es in Ihrem Code-Editor.
+1. Öffnen ein Terminal und gib `git clone URL` ein. **ersetze die URL mit dem Repository-Link auf dem Du beitragen möchtest** Beispiel: `git clone https://github.com/PreMiD/PreMiD`.
+2. Wähle einen Ordner Deiner Wahl.
+3. Öffne es in Deinem Quellcode-Editor.
 
-# Abhängigkeiten installieren
-> Stellen Sie sicher, dass Sie zuerst [npm](https://www.npmjs.com/) (Node Package Manager) installiert haben. Es wird automatisch installiert, wenn Sie [Node](https://nodejs.org/en/) installiert haben. 
+# Notwendige Dateien installieren
+> Stelle zuerst sicher, dass Du [npm](https://www.npmjs.com/) (Node Package Manager) installiert hast. Es wurde automatisch installiert, wenn Du [Node](https://nodejs.org/en/) installiert hast. 
 > 
 > {.is-warning}
 
-- Öffnen Sie ein Terminal in Ihrem Repository und geben Sie `npm i`.
+- Öffne ein Terminal in Deinem Repository und gib `npm i` ein.
 - Um die Abhängigkeiten zu aktualisieren, geben Sie `npm update`.
 
 > Beachten Sie, dass die Aktualisierung der Abhängigkeiten viel Zeit in Anspruch nehmen kann oder nicht - ein Test ist erforderlich! 
