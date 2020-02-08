@@ -8,16 +8,16 @@ tags:
 
 > Bevor Sie fortfahren, stellen Sie sicher, dass Ihr System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
 
-Die Installation der Anwendung ist sehr wichtig, da die Erweiterung alleine, nicht funktionieren wird.
+Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht funktionieren würde.
 
 # Installieren
-> Für dieses Betriebssystem gibt es kein offizielles Installationsprogramm. Dies bedeuted, dass es keinen offiziellen Support dafür gibt. Du kannst jedoch auf unserem [Discord Server](https://discord.gg/premid/)Informationen mit anderen Linux-Nutzern austauschen.{.is-info}
+> Für dieses Betriebssystem gibt es kein offizielles Installationsprogramm. Dies bedeutet, dass es keinen offiziellen Support dafür gibt. Du kannst jedoch auf unserem [Discord Server](https://discord.gg/premid/)Informationen mit anderen Linux-Nutzern austauschen.{.is-info}
 
 1. Installiere [NodeJS](https://nodejs.org/en/).
 2. Öffne ein Terminal.
 3. Kopiere das Projektarchiv: `git clone https://github.com/PreMiD/PreMiD.git`
-4. Klone das Projektarchiv: `cd PreMiD/src`
-5. Installiere die Abhängigkeiten und die Anwendung: `npm install`
+4. Ändere das Arbeitsverzeichnis: `cd PreMiD/src`
+5. Installiere die benötigten Dateien und die Anwendung: `npm install`
 6. Ändere das Arbeitsverzeichnis: `cd ..`
 7. Schreibe: `npm run init`
 8. Starte die Anwendung: `npm Start`
