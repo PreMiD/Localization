@@ -1,193 +1,192 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
-published: 是
+title: 存在类
+description: 每个PreMiD存在的主类
+published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# 存在类
 
-## Introduction
+## 一. 导言
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` 类非常有用，因为它具有我们创建一个存在所需要的基本方法。
 
- When you create a class you must specify `clientId` property.
+ 当你创建一个类时，你必须指定 `clientId` 属性。
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+let presence = new Presence(Windows
+    clientId: "514271496134389561" // 示例客户ID
 });
 ```
 
-There are two properties available for `Presence` class.
+有两个属性可用于 `Presence` 类。
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId` 属性必须提供才能使您的存在发挥作用，因为它使用您的应用程序id来显示它的标志和资产。
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+您可以在您的 [应用页面](https://discordapp.com/developers/applications) 获取。
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+此属性告诉我们的应用注册媒体密钥绑定的密钥，并允许我们在 `Presence` 类中使用 `MediaKeys` 事件。
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+此属性不需要，但如果您想要启用媒体密钥，您应该将其设置为 `true`。
 
-**All mediaKey events are temporarily disabled!**
+**所有媒体密钥事件已暂时禁用！**
 
 ```typescript
-let presence = new Presence({
+let presence = new Presence(Windows
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // 允许用户使用媒体密钥
 });
 ```
 
-## Methods
+## 方法
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+根据提供的数据设置您的个人资料活动。
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+第一个参数需要 `存在数据` 接口来获取您想要在配置文件中显示的所有信息。
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+第二个参数定义了存在是否在播放某些内容的时间。 如果您在 `presenceData` 中提供时间戳，总是使用 `true`。
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+清除您当前的活动、键盘绑定和托盘标题。
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> 此方法仅适用于Mac OS。 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+设置菜单栏上的托盘标题。
 
-### `getStrings(Object)`
+### `getStrings(对象)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+允许您从扩展中获得翻译字符串。 您必须提供 `对象` 密钥是字符串的密钥。 `关键值` 是字符串值。 您可以使用此端点找到一些字符串： `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
-strings = await presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+// 返回 `Playing` 和 `Paused` 字符串
+// 从扩展名。
+strings = 等候presence.getStrings(
+    播放: "presence.playback.playing",
+    暂停: "presence.playback.paused"
 });
 ```
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+如果站点存在则返回一个变量。
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // 这将记录"变量内容"
 ```
 
-## `presenceData` Interface
+## `presenceData` 接口
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+当您正在使用 `setActivity()` 方法时，推荐使用 `expresenceData` 接口。
 
-This interface has following variables, all of them are optional.
+此接口有以下变量，所有变量都是可选的。
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">变量</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">类型</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">详细信息</td>
+      <td style="text-align:left">您在场的第一条线通常用作头部。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">状态</td>
+      <td style="text-align:left">你们在场的第二线。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">定义当前时间。<br>
+        如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>号码</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">定义整个持续时间。
+        <br>如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
-      <td style="text-align:left"><code>Number</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>号码</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">大尺寸的图像密钥</td>
+      <td style="text-align:left">定义与会标识。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">小图像密钥</td>
+      <td style="text-align:left">定义存在&apos;s 标志旁边的小图标。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">小图像文本</td>
+      <td style="text-align:left">定义当用户悬停小的
+        图标时将显示的文本。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
   </tbody>
 </table>
 
 ```typescript
-var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
+var presenceData: presceData = Power
+    details: "我的标题",
+    状态：“我的描述”，
+    大型ImageKey：“service_logo”，
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallimageText: "你挂了我, 现在是什么? ,
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
-};
+}；
 ```
 
-## Events
+## 事件
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+事件允许您侦测和处理所做的一些更改或呼叫。 您可以使用</code> 方法上的 `订阅事件。</p>
 
-```typescript
-presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+<pre><code class="typescript">presence.on("UpdateData", async () => ,
+    // 当数据更新时做点什么。
 });
-```
+`</pre>
 
-There are few events available:
+可用的事件不多：
 
-#### `UpdateData`
+#### `更新数据`
 
-This event is fired every time the presence is being updated.
+每次更新时都会触发此事件。
 
-#### `MediaKeys` (disabled)
+#### `MediaKey` (禁用)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+当用户使用他的键盘上的媒体键时， [点击这里](/dev/presence/class#mediakeys) 获取更多关于媒体键的信息。
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+从 iFrame 脚本收到数据时触发。
