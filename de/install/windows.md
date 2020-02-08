@@ -6,7 +6,7 @@ date: 2020-02-07T00:44:57.532Z
 tags:
 ---
 
-> Bevor Sie fortfahren, stellen Sie sicher, dass Ihr System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
+> Bevor Du fortfährst, stelle sicher, dass Dein System alle [Anforderungen erfüllt](/install/requirements).{.is-info}
 
 Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht funktionieren würde.
 
@@ -18,6 +18,6 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 Die Anwendung startet automatisch. Überprüfen das Symbol in deiner Systemablage.
 
-> Vergiss nicht, [die **Erweiterung**](/install)hinzuzufügen.{.is-warning}
+> Vergiss nicht, [die **Erweiterung**](/install) hinzuzufügen.{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
