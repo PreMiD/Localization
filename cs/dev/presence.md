@@ -2,7 +2,7 @@
 title: Vývoj přítomnosti
 description:
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ Pro více informací o třídě Presence klikněte [zde](/dev/presence/class).
 Mnoho webových stránek používá [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tyto HTML tagy mohou obsahovat více zdrojů, jako jsou videa. Nejsou však vždy relevantní. Některé jsou skryty nebo nejsou aktivně používány. Zkontrolujte, zda můžete extrahovat, informace, které potřebujete, bez nich, než budete dělat zbytečnou práci.
 
 1. Zkontrolujte je pomocí konzole prohlížeče (ujistěte se, že jste na záložce **Elements**).
-2. Hledání (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Spustit `document.querySelectorAll("iframe")`.
 
 Pokud zjistíte, že vaše data jsou v iFramu, musíte udělat následující:
@@ -286,7 +286,7 @@ Pro více informací o třídě Presence klikněte [zde](/dev/presence/class).
 Mnoho webových stránek používá [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tyto HTML tagy mohou obsahovat více zdrojů, jako jsou videa. Nejsou však vždy relevantní. Některé jsou skryty nebo nejsou aktivně používány. Zkontrolujte, zda můžete extrahovat, informace, které potřebujete, bez nich, než budete dělat zbytečnou práci.
 
 1. Zkontrolujte je pomocí konzole prohlížeče (ujistěte se, že jste na záložce **Elements**).
-2. Hledání (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Spustit `document.querySelectorAll("iframe")`.
 
 Pokud zjistíte, že vaše data jsou v iFramu, musíte udělat následující:
