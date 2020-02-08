@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: З чого почати
+description: Трохи поради тим, хто недавно займається програмуванням
 published: true
-date: 2019-11-03T13:02:36.660Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Потрібний редактор вихідного коду. Ми рекомендуємо Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Встановлення вимог
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. Встановити [вузол](https://nodejs.org/en/) (приходить з [npm](https://www.npmjs.com/)).
+3. Встановити [TypeScript](https://www.typescriptlang.org/index.html#download-links) (відкрити термінал і `npm встановити -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Клонування проекту
+1. Відкрийте термінал і введіть `git clone URL`. **Замініть URL на посилання з репозиторію, ви хочете внести свій внесок на** , наприклад `git clone https://github.com/PreMiD/PreMiD`.
+2. Виберіть теку вибору.
+3. Відкрийте його у вашому редакторі коду.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Встановлення залежностей
+> Переконайтеся, що ви спочатку встановили [npm](https://www.npmjs.com/) (менеджер пакунків Node). Воно автоматично встановлено, якщо у вас встановлено [вузол](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Відкрийте термінал у вашому репозиторії і введіть `npm i`.
+- Щоб оновити тип залежностей `оновлення npm`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Майте на увазі, що оновлення залежностей може гальмувати багато чи ні - тестування необхідне! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Кодування вашого бачення
+Будь ласка, збережіть структуру. Ми не хочемо забороняти наш проект. Хаотичні файли можуть бути не прийняті.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Відправка своєї мрії
+Просто відкрийте запит на злиття в одному з наших [репозиторіїв](https://github.com/PreMiD/) , до яких ви хочете зробити внесок. Ми потурбуємося про твою дитину, не хвилюйтеся. Якщо це твій перший запит на злиття, погляньте на цей [підручник](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Отримування затвердження
+Наша головна мета - працювати з користувачами так, щоб намагатися бути настільки доброзичливим, шанобливим і інформативним. Просто пиши розробника на нашому [сервері Discord](https://discord.gg/PreMiD) щоб отримати цей відгук на GitHub, чи ні. Залежить від якості коду, вигляду активів і регулярної функціональності.
