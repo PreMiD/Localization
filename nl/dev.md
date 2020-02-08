@@ -2,7 +2,7 @@
 title: Aan de slag
 description: Een beetje advies voor degenen die onlangs in codering zijn gekomen
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Installeren van de vereisten
 1. Installeer [Git](https://git-scm.com/).
 2. Installeer [Node](https://nodejs.org/en/) (komt met [npm](https://www.npmjs.com/)).
-3. Installeer [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open een terminal en `npm install -g typescript`).
+3. Installeer [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open een terminal en type `npm install -g typescript`).
 
 # Het project klonen
 1. Open een terminal en typ `git clone URL`. **Vervang URL door de repository link waaraan u wilt bijdragen** bijv. `git clone https://github.com/PreMiD/PreMiD`.
