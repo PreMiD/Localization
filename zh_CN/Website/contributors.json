@@ -52,7 +52,7 @@
     "description": "'Administrator' title for contributors page."
   },
   "contributors.roles.secretary": {
-    "message": "社区秘书",
+    "message": "社区负责人",
     "description": "'Community Secretary' title for contributors.page"
   },
   "contributors.roles.seniorModerator": {
