@@ -2,7 +2,7 @@
 title: Linux
 description: Linux'ta PreMiD kurulumuna başlarken
 published: true
-date: 2020-02-06T23:54:03.042Z
+date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
@@ -29,7 +29,7 @@ Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol 
 > {.is-warning}
 
 ## Arch Linux
-Eğer Arch Linux veya Arch tabanlı bir Linux dağıtımı kullanıyorsanız [AUR](https://aur.archlinux.org/packages/premid/) depolarından `premid` paketini bulabilir ve indirebilirsiniz. En sevdiğiniz paket yöneticinizi kullanarak dosyaları bu kaynaktan aldırın!
+If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) under `premid`. En sevdiğiniz paket yöneticinizi kullanarak dosyaları bu kaynaktan aldırın!
 
 ## Diğer dağıtımlar
 - Yüklemek için şu kodu konsolunuza girin: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin ve uygulama çekmecenizden "PreMiD"i arayın, yükleme işlemi tamamlanmış demektir.
