@@ -22,14 +22,14 @@ Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutze
 Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
 - Die Pull-Request muss vollständig sein. Du musst über eine ordnungsgemäße Dateistruktur verfügen. Einschließlich des Ordners `dist`, der Datei `presence.js` und `metadata.json`.
 - Die Präsenz **muss** mit der von Dir ausgewählten Website zusammenhängen.
-- Es dürfen keine illegalen Websites vorhanden sein. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw.
-- Die Anwesenheitsmetadaten müssen gut geschriebenen Inhalt enthalten, einschließlich gültiger Titel und Beschreibungen.
-- Die Medien, die Sie hinzufügen (Symbol / Miniaturbild), müssen mit der Website in Zusammenhang stehen und in Bezug auf Größe und Qualität verständlich sein.
+- Es dürfen keine illegalen Websites vorhanden sein. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw...
+- Die Präsenz-Metadaten müssen gut geschriebenen Inhalt enthalten, einschließlich gültiger Titel und Beschreibungen.
+- Die Medien, die Du hinzufügst (Symbol/Thumbnail), müssen mit der Website in Zusammenhang stehen und in Bezug auf Größe und Qualität verständlich sein.
 - Die Dateistruktur muss sauber und verwaltet sein und darf keine zufälligen Dateien enthalten, die nichts für die Funktion der Präsenz bedeuten.
-- Die Anwesenheit **darf nicht** haben keine bösen Absichten. Dazu gehören das Stehlen / Weitergeben von privaten Informationen, die Beeinträchtigung des Verhaltens der Website usw.
-- Wenn Sie eine Präsenz für eine Website - Design und die Website geschieht in der Zukunft ändern, Sie **ARE** verantwortlich für die Anwesenheit wieder an die Arbeit zu aktualisieren , wie erwartet. Wenn Sie es nicht innerhalb eines akzeptablen Zeitrahmens beheben, sind andere Präsenz Entwickler erlaubt **überschreiben** Ihre Anwesenheit mit den Änderungen zu erfüllen.
-- Das Vorhandensein muss vor der Veröffentlichung getestet werden, um sicherzustellen, dass alles wie erwartet funktioniert.
-- Ihre Anwesenheit muss SFW-Bilder und -Beschreibungen haben, unabhängig davon, ob es NSFW ist oder nicht. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
+- Die Präsenz **darf keine** bösen Absichten haben. Dazu gehört Stehlen/Weitergeben von privaten Informationen, Beeinträchtigen des Verhaltens der Website usw...
+- Wenn Du eine Präsenz für eine Website erstellst und sich die Website in der Zukunft ändern sollte, so bist **DU** verantwortlich, die Präsenz zu aktualisieren, dass sie wie erwartet, funktioniert. Wenn Du es nicht innerhalb eines akzeptablen Zeitrahmens behebst, sind andere Präsenz-Entwickler berechtigt Deine Präsenz zu **überschreiben**, um den Änderungen entgegenzuwirken.
+- Die Präsenz muss vor der Veröffentlichung getestet werden, um sicherzustellen, dass alles wie erwartet funktioniert.
+- Deine Präsenz muss SFW-Bilder und -Beschreibungen haben, unabhängig davon, ob es NSFW ist oder nicht. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
 - Ihre Präsenz muss **NICHT** für kostenlose Domains oder Hosts sein (z.B. .TK, [alle freien Freenom-Domains], . F.GD, etc...), Ausnahmen können gemacht werden, wenn ein Nachweis vorgelegt wird, dass es sich um eine bezahlte Domain handelt.
 - Die `small ImageKey` und `smallImageText` Felder sollen zusätzlich/sekundären Kontext (wie "playing"/"paused" für Video-Sites bereitstellen "Browsing" für normale Websites und andere Fälle). Du bist nicht berechtigt Discord Profile zu fördern oder nichts mit PreMiD zu tun.
 - Die Anforderungen für Logos sind allerdings 1:1 (Quare) in 512px, Thumbnails, aber sollten entweder [weite Werbekarten](https://i.imgur.com/3QfIc5v.jpg) oder einfach [Screenshots](https://i.imgur.com/OAcBmwW.png) sein, falls die ersten nicht verfügbar sind.
