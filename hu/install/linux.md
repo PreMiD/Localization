@@ -1,26 +1,26 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: PreMiD telepítési útmutató a Linux rendszer esetében
 published: true
-date: 2019-10-03T15:55:36.490Z
+date: 2020-02-06T23:54:03.042Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> A folytatás előtt, győződj meg arról, hogy az általad használt rendszer megfelel a [követelményeknek](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 # Telepítés
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Ehhez az operációs rendszerhez nincs hivatalos telepítő. Ez azt jeleni, hogy hivatalos támogatás sincs. Azonban könnyen információhoz juthatsz [Discord szerverünk](https://discord.gg/premid/) Linux felhasználóinak köszönhetően.{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
+1. [NodeJS](https://nodejs.org/en/) telepítése.
+2. Terminál megnyitása.
+3. Clone the repository: `git clone https://github.com/PreMiD/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
 6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+7. Írd be:`npm run init`
+8. Indítsd el az alkalmazást: `npm start`
 
 The application will start automatically. Check for the symbol in your menu bar.
 
