@@ -2,7 +2,7 @@
 title: Primeiros Passos
 description: Algumas dicas para aqueles que começaram a programar recentemente
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Instalando os requisitos
 1. Instale o [Git](https://git-scm.com/).
 2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
-3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abra um terminal e `npm install -g typescript`).
+3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abra um terminal e digite `npm install -g typescript`).
 
 # Clonando o projeto
 1. Abra um terminal e digite `git clone URL`. **Substitua a URL pelo link do repositório que você deseja contribuir para** por exemplo, `git clone https://github.com/PreMiD/PreMiD`.
