@@ -1,38 +1,38 @@
 ---
 title: Home
-description: Official Documentation for v2
+description: Officiële documentatie voor v2
 published: true
-date: 2019-10-03T11:48:36.291Z
+date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: De documentatie wordt nog steeds bewerkt! Sommige pagina's kunnen onvolledig zijn of ontbreken. 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+# Over PreMiD
+- :mag: [Wat is PreMiD?](/about) Intenties achter PreMiD een waarom u het zou moeten gebruiken.
+- :link: [Wat is RPC?](https://discordapp.com/rich-presence) Alles over Rich Presence en zijn functies.
 
-# Getting Started
+# Aan de slag
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD is snel en eenvoudig te installeren. Je zou binnen een tijdje klaar moeten zijn.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- Zorg ervoor dat u de [systeemvereisten](/install/requirements) hebt gelezen.
+- Volg de snelle en eenvoudige [installatiehandleiding](/install).
+- [Oplossing](/troubleshooting) helpt je door oplossingen voor veelvoorkomende problemen.
 
 # Ontwikkelaars
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Aan de slag](/dev) voor PreMiD ontwikkeling is je eerste stap voor het programmeren van enkele dingen.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): Toegang tot ressources en het uitvoeren van acties met behulp van de PreMiD API.
+- :wrench: [Presence Development](/dev/presence): Leer hoe je ons Presence systeem gebruikt.
 
 # Draag bij
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/premid): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [Rapporteer een Bug](https://github.com/PreMiD): Help ons de pesky bugs te verpletteren.
+- :bulb: [Stel een nieuwe functie voor](https://discord.gg/premid): We hebben je ideeën nodig!
+- :heart: [Doneer](https://www.patreon.com/Timeraa): Maak een kleine donatie of word een sponsor van dit geweldige project!
+- :globe_with_meridians: [Taal](https://translate.premid.app): Laat andere gebruikers PreMiD gebruiken in hun moedertaal.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
