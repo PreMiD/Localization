@@ -521,8 +521,8 @@ Klicke [hier](/dev/presence#filling-in-the-metadatajson-file), um zur TypeScript
 Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
 
 ## Debuggen
-- Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahren Sie fort und versuchen Sie es nach der nächsten Funktion erneut. Wenn nicht, liegt ein Fehler vor.
-- Wenn Ihnen das auch nicht hilft, fragen Sie einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/PreMiD) um Hilfe.
+- Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Wenn nicht, liegt ein Fehler vor.
+- Wenn Dir das auch nicht hilft, frage einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/PreMiD) um Hilfe.
 
 # Dateien erklärt
 - [Präsenzklasse](/dev/presence/class)
