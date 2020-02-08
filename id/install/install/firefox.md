@@ -2,14 +2,14 @@
 title: Firefox
 description: Getting started with a PreMiD installation on Firefox
 published: true
-date: 2019-10-02T12:42:58.683Z
+date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 # Pasang
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Kunjungi halaman unduhan kami [klik disini](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Jangan lupa [memasang**aplikasi**](/install). 
 > 
 > {.is-warning}
 

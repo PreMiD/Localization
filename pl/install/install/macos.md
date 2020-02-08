@@ -2,7 +2,7 @@
 title: macOS
 description: Rozpoczęcie instalacji PreMiD na macOS
 published: tak
-date: 2019-10-02T11:30:51.936Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 

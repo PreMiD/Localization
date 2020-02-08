@@ -1,23 +1,23 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: Primeiros passos com a instalação do PreMiD no Firefoxd
 published: true
-date: 2019-10-02T12:42:58.683Z
+date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
 # Instalar
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+1. Vá á nossa página de transferência [clicando aqui](https://premid.app/downloads).
+2. Escolha **Firefox**.
+3. Pesquise por `about:addons`.
+4. Clique no icon da engrenagem pequena no canto superior direito.
+5. Escolha **Instalar complemento a partir de ficheiro...**.
+6. Selecione o ficheiro que baixou recentemente.
+7. Aceita a instalação clicando em **Adicionar**.
 
-> Do not forget to [add the **application**](/install). 
+> Não se esqueça de [adicionar a **aplicação**](/install). 
 > 
 > {.is-warning}
 

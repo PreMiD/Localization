@@ -1,114 +1,121 @@
 ---
-title: Presence Development
+title: Разработка присутствия
 description:
 published: true
-date: 2019-12-06T15:39:48.102Z
+date: 2020-02-03T13:55:40.904Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Все присутствия теперь хранятся здесь: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Версия `2.x` представляет [магазин присутствия](https://premid.app/store). Пользователи теперь имеют возможность вручную добавлять и удалять свои любимые присутствия через пользовательский интерфейс [сайта](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Руководство
+> Если вы не следуете всем правилам, ваш запрос на слияние или запрос на слияние будет удален с github. 
 > 
 > {.is-danger}
 
-## Creation
+## Создание
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have sfw images and descriptions regardless if it is nsfw or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
+Прежде чем начать работать над своим присутствием, не забывайте о следующем списке.
+- Pull Request должен быть завершён, необходимо иметь надлежащую структуру файла. Включая папку `dist` , `presence.js` файл и `metadata.json` файл.
+- Наличие **должно** быть связано с выбранным вами веб-сайтом.
+- Присутствие не должно быть никаких незаконных веб-сайтов. К ним относятся стресса, наркотики, детский порно и т.д...
+- Метаданные о присутствии должны иметь хорошо написанный контент, включая правильные заголовки и описания.
+- Медиа, которые вы включаете (иконка/эскиз), должны быть связаны с веб-сайтом и должны быть понятны с точки зрения размера и качества.
+- Структура файла должна быть чистой и управляемой, не иметь случайных файлов, которые не содержат функции присутствия.
+- Наличие **не должно** иметь никаких вредоносных намерений. Это включает в себя воровство/утечку частной информации, отрицательно сказывающуюся на поведении сайта и т.д...
+- Если вы планируете присутствие веб-сайта и веб-сайта в будущем, происходит изменение. вы **ARE** ответственны за обновление присутствия снова для работы, как ожидалось. Если вы не исправите это в приемлемые сроки другим разработчикам присутствия разрешено **перезаписать** ваше присутствие в соответствии с изменениями.
+- Присутствие должно быть протестировано перед публикацией, чтобы подтвердить, что все работает как ожидалось.
+- Ваше присутствие должно иметь изображения и описания SFW независимо от того, является ли это NSFW или нет. Если у вас есть сайт `nsfw` , пожалуйста, добавьте тег `nsfw` в ваши метаданные.
+- Ваше присутствие должно **НЕ** быть для бесплатных доменов или узлов (например, .TK, [для всех бесплатных доменов], . F.GD, и т.д...), исключения могут быть сделаны, если представлено доказательство о том, что это платный домен.
+- Поле `smallImageKey` и `smallImageText` предназначено для дополнительного/вторичного контекста (например, "воспроизведение"/"приостановлено" для видео сайтов, "просмотр" для обычных сайтов и других случаев). Вы не можете продвигать профили Discord или ничего не связанного с PreMiD.
+- Требования для логотипов 1:1 (Square) в 512px, миниатюры, однако, должен быть [широких рекламных карт](https://i.imgur.com/3QfIc5v.jpg) или [скриншотов](https://i.imgur.com/OAcBmwW.png) если первый не доступен.
+- Присутствие должно иметь по крайней мере 1 тег, это требование по дизайну и может быть факультативным в будущем.
+- Поле `url` не должно включать `http://` или `https://`, ни параметры (например, присутствие для `https://www.google.com/search?gws_rd=ssl` будет иметь только `www.google.com` в поле `url`).
+- Описания и тэги всегда должны быть в массивах, даже если это только один элемент. Однако поле `url` должно быть строкой, только если это один домен.
+- Нестабильные сайты, которые постоянно меняют API/домены, случайным образом создать HTML-элементы или только что находясь в большой разработке, не разрешается и будет удален из магазина.
 
-## Modification
+## Модификация
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+В некоторых ситуациях присутствие может вести себя неожиданно или может использовать некоторые незначительные изменения для улучшения его функциональности. Вот скомпилированный список, который вы должны выполнить, чтобы изменить присутствие.
+- Вы не можете изменить создателя присутствия. Это применимо только в том случае, если вам разрешено переписать его. Вы можете добавить себя в качестве [автора](/dev/presence/metadata).
+- Убедитесь, что изменения полезны. Они могут включать исправления (код и тип), дополнения (описания и теги) и т.д...
+- Подтвердите, что ваши изменения работают перед публикацией. Не создавайте Pull Request'ы, не зная о результатах ваших изменений.
+- Не перезаписывайте и не перезаписывайте присутствие, если это не разрешено `Верификатором Присутствия` или сотрудником.
 
-# Verification
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+# Проверка
+> Когда вы делаете Pull requests о добавлении или изменении существующих присутствий, вы должны включать скриншот. Тем не менее, изменения метаданных присутствия/tsconfig не требуют скриншота. *Скриншот должен быть выгружен непосредственно на github с запросом на слияние, не используйте сайты посторонних пользователей.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+Для того, чтобы ваше присутствие достигло магазинов, он должен пройти процесс на github, чтобы подтвердить, что он работает как ожидалось. Вот несколько вещей, которые нужно посмотреть, когда вы сделаете ваш запрос на слияние.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Наша команда по проверке наличия имеет свою роль, ищите `Верификатор Наличия` на сервере discord, чтобы узнать, кто вовлечен.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+1. Требуется два верификатора, чтобы подтвердить, что ваше присутствие соответствует стандартам. Если вы получаете запросы на изменение, сделайте все возможное для его исправления или оно не будет добавлено.
+2. Если мы запросим изменения и ваш Pull Request превышает **7 дней бездействия** без принятия необходимых мер, мы будем вынуждены закрыть его.
+3. Вы можете сделать скриншоты изменений с помощью другого пользователя. (к примеру, если вы не имеете доступа к автору по какой-либо причине).
+4. Если это обновление или патч, скриншот должен показывать новые дополнения, а не какие-либо старые функции из предыдущих Pull requests.
+5. Предоставленные скриншоты должны быть реальными, не редактированы.
+6. Любой внесенный код, который объединился с этим репозиторием, будет лицензирован на условиях **Общественной лицензии Mozilla 2.0**.
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+После проверки ваш запрос на слияние будет принят с магазином.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Структура (TypeScript)
+Вы можете выбрать, хотите ли вы программировать свое присутствие с помощью [JavaScript](https://www.javascript.com/) или  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) имеет некоторые острые определения, так что исправлять и идентифицировать ошибки проще. Если вы просто хотите использовать [JavaScript](https://www.javascript.com/) , вы можете перейти к [Структуре (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
+## Установка
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
+3. Установить [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и `npm install -g typescript`).
 
-## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+## Клонирование проекта
+1. Откройте терминал и введите `git clone https://github.com/PreMiD/Presences`.
+2. Выберите папку по вашему выбору.
+3. Открыть его в редакторе кода.
 
-## Creating folders and files
+## Создание папок и файлов
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.
+2. Создайте `присутствие.ts` и файл `tsconfg.json`.
+3. Создайте папку с именем `dist` внутри.
+4. Создайте файл `metadata.json` в папке `dist`.
 
-## Filling in the tsconfig.json file
+## Заполнение файла tsconfig.json
 
-Please put the following code inside of the `tsconfg.json` file.
+Пожалуйста, поместите следующий код в файл `tsconfg.json`.
 ```javascript
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/"
   }
-}
+
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Чтобы узнать больше о конфигурации TypeScript, нажмите [здесь](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Заполнение файла metadata.json
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file-2) , чтобы посмотреть, как заполнить его. Вы сможете легко нажать на кнопку назад в нижней части объяснения.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Мы создали `metadata.json` создатель файла для ленивых peeps [здесь](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Приступая к работе
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+    clientId: "0000000000000000", //ID клиента приложения, созданного на https://discordapp. om/developers/applications
+    mediaKeys: false //Включить использование и обнаружение нажатий медиа клавиш
 }),
 
-strings = presence.getStrings({
+строк = присутствие. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    пауза: "presence.playback. Выполнено"
+    //Вы можете использовать это для перевода строк
 });
 
 /*
@@ -118,113 +125,113 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // variable sets //
+    // переменные наборы
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Запуск функции отделяется от события UpdateData каждые 10 секунд, чтобы получить и установить переменные, которые UpdateData берет
 
 */
 
 
-presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+. n("UpdateData", async () => {
+    /*UpdateData всегда стреляет, и поэтому следует использовать в качестве вашего цикла обновления или "tick". Это называется несколько раз в секунду, где это возможно.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Рекомендуется настроить другую функцию вне этой функции события, которая изменит значения переменных и выполнит тяжелый подъем при вызове данных с API. /
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        largeImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Art Assets*/
+        smallImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Арт Активов*/
+        smallImageText: "Некоторый наведении текста", //Текст, который отображается при наведении курсора на маленькое изображение
+        подробности: "Имя страницы просмотра", //Верхняя часть текста присутствия
+        состояния: "Чтение секции А", //Нижняя часть текста о присутствии
+        startTimestamp: 1577232000, //Отметка времени эпохи unix для начала подсчета времени с
+        на время окончания времени: 1577151472000 //Если вы хотите отобразить время осталось вместо устаревших, это метка времени unix эпохи, в которой таймер заканчивается
+    }; /*При необходимости вы можете установить здесь largeImageKey и изменить остальные в качестве субсвойств переменной, например presenceSata. Type = "blahblah"; тип примеров: подробности, состояние и т.д.*/
 
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    если (presenceData. etails == null) {
+        //Это вызовет вызов, если вы не указали детали присутствия
+        присутствия. etTrayTitle(); //Очищает заголовок для mac пользователей
+        etActivity(); /*Обновите присутствие без данных, поэтому очистите его и сделайте большое изображение значком приложения Discord, и текст названия приложения Discord*/
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        //Это вызовет выстрел, если вы установите детали присутствия
+        присутствия. etActivity(presenceData); //Обновление присутствия всеми значениями из объекта присутствияData
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Вы можете скопировать это в `присутствие.` файл и изменить значения. Установка всех значений производится внутри события updataData.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Для получения дополнительной информации о классе Presence нажмите [здесь](/dev/presence/class).
 
-## Can't get certain data?!
+## Не удается получить определенные данные?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или используются не активно. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Проверять их на консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
+2. Поиск (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Выполнить `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
+1. Создайте файл `iframe.ts`.
+2. Установите iFrame в `true` в вашем файле метаданных.
+3. Заполнение файла iFrame .
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+var iframe = новый iFrame();
+iframe. n("Обновить данные", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Получить все необходимые данные из iFrame сохранить их в переменных
+  и затем послать их с помощью iframe. end
   */
-  iframe.send({ //sending data
-    video: video,
-    time: video.duration
+  iframe.send({ //посылка данных
+    видео: видео,
+    раз: видео. Продолжительность
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Создание файла присутствия позволяет получать данные из файла iFrame .
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Примечание:** Это должно быть расположено вне события updateData.
+## Компиляция
+Откройте консоль в вашей папке и введите `tsc -w` для компиляции `присутствия.ts` в папку `/dist`.
 
-# Structure (JavaScript)
-## Cloning the project
+# Структура (JavaScript)
+## Клонирование проекта
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+2. Откройте терминал и введите `git clone https://github.com/PreMiD/Presences`.
+3. Выберите папку по вашему выбору.
+4. Открыть его в редакторе кода.
 
-## Creating folders and files
+## Создание папок и файлов
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+1. Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.
+3. Создайте папку с именем `dist` внутри.
+4. Создайте файл `metadata.json` и файл `presence.js` внутри папки `dist`.
 
-## Filling in the metadata.json file
+## Заполнение файла metadata.json
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file-2) , чтобы посмотреть, как заполнить его. Вы сможете легко нажать на кнопку назад в нижней части объяснения.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Мы создали `metadata.json` создатель файла для ленивых peeps [здесь](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Приступая к работе
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+    clientId: "0000000000000000", //ID клиента приложения, созданного на https://discordapp. om/developers/applications
+    mediaKeys: false //Включить использование и обнаружение нажатий медиа клавиш
 }),
 
-strings = presence.getStrings({
+строк = присутствие. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    пауза: "presence.playback. Выполнено"
+    //Вы можете использовать это для перевода строк
 });
 
 /*
@@ -234,81 +241,81 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // variable sets //
+    // переменные наборы
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Запуск функции отделяется от события UpdateData каждые 10 секунд, чтобы получить и установить переменные, которые UpdateData берет
 
 */
 
 
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+. n("UpdateData", () => {
+    //UpdateData всегда стреляет, и поэтому следует использовать в качестве вашего цикла обновления или "tick". Это называется несколько раз в секунду, где это возможно.
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    //Рекомендуется настроить другую функцию вне этой функции события, которая изменит значения переменных и выполнит тяжелый подъем при вызове данных с API.
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        largeImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Art Assets*/
+        smallImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Арт Активов*/
+        smallImageText: "Некоторый наведении текста", //Текст, который отображается при наведении курсора на маленькое изображение
+        подробности: "Имя страницы просмотра", //Верхняя часть текста присутствия
+        состояния: "Чтение секции А", //Нижняя часть текста о присутствии
+        startTimestamp: 1577232000, //Отметка времени эпохи unix для начала подсчета времени с
+        на время окончания времени: 1577151472000 //Если вы хотите отобразить время осталось вместо устаревших, это метка времени unix эпохи, в которой таймер заканчивается
+    }; /*При необходимости вы можете установить здесь largeImageKey и изменить остальные в качестве субсвойств переменной, например presenceSata. Type = "blahblah"; тип примеров: подробности, состояние и т.д.*/
 
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    если (presenceData. etails == null) {
+        //Это вызовет вызов, если вы не указали детали присутствия
+        присутствия. etTrayTitle(); //Очищает заголовок для mac пользователей
+        etActivity(); /*Обновите присутствие без данных, поэтому очистите его и сделайте большое изображение значком приложения Discord, и текст названия приложения Discord*/
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        //Это вызовет выстрел, если вы установите детали присутствия
+        присутствия. etActivity(presenceData); //Обновление присутствия всеми значениями из объекта присутствияData
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
+Вы можете скопировать это в файл `presence.js` и изменить значения. Установка всех значений производится внутри события updataData.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Для получения дополнительной информации о классе Presence нажмите [здесь](/dev/presence/class).
 
-## Can't get certain data?!
+## Не удается получить определенные данные?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или используются не активно. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Проверять их на консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
+2. Поиск (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Выполнить `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
+1. Создайте файл `iframe.js`.
+2. Установите iFrame в `true` в вашем файле метаданных.
+3. Заполнение файла iFrame .
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
+var iframe = новый iFrame();
+iframe. n("Обновить данные", () => {
     /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
+    Собрать все данные из iFrame сохранить их в переменных
+    и затем послать их с помощью iframe. end
     */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
+    iframe. end({ //отправка данных
+        видео: видео,
+        раз: видео. Продолжительность  
     });
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Создание файла присутствия позволяет получать данные из файла iFrame .
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+**Примечание:** Это должно быть расположено вне события updateData.
+# Заполнение файла metadata.json
+Мы создали `metadata.json` создатель файла для ленивых peeps [здесь](https://eggsy.codes/projects/premid/mdcreator). Все еще предлагается прочитать это так, чтобы вы знали, как это работает.
 
 ```javascript
 {
@@ -325,201 +332,201 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
     "en": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "версия": "ВЕРСИЯ",
+  "логотип": "URL",
+  "Эскиз": "URL",
+  "цвет": "#HEX000",
+  "теги": ["КАТЕГОРИЯ", "TAG"],
+  "категория": "КАТЕГОРИЯ",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": false
+  "iframe": ложь
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `contributors`
+Пожалуйста, скопируйте код выше и поместите его в файл `metadata.json`. Теперь необходимо изменить значения свойств. Пожалуйста, обратите внимание, что следующие свойства необязательны для использования в метаданных `. son` файл, если вы не планируете его использовать.
+- `участники`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**Уточнение некоторых конфигураций значений:**
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Переменная</th>
       <th style="text-align:left">Описание</th>
       <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Опционально</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>автор</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left"><code>Объект</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>contributors</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>участники</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>услуга</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Название услуги, которую поддерживает это присутствие. <br>(должно быть тем же именем, что и папка, в которой находится все)</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>описание</b>
+      </td>
+      <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
+        , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
+      <td style="text-align:left"><code>Объект</code>
+      </td>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
+        <b>Этот URL должен соответствовать URL сайта, так как он определит, является ли это сайт инъекцией скрипта.</b><br> Do <b>NOT</b> add <code>https://</code> или <code>http://</code> внутри URL или слэш в конце:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. <b>НЕ</b> забудьте добавить его!<br>
+Вы можете добавить несколько URL-адресов, выполнив следующие действия:<br>
+<code>["URL1", "URL2", "ETC. ]</code><br>
+Вы также можете использовать регулярное выражение, также известное как Regex для этой задачи, разъяснение ниже.
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Строка регулярных выражений, используемая для совпадения с url.<br>
+      регулярное выражение, или также известное как Regex, может быть использовано, если веб-сайт имеет несколько субдоменов.<br>
+Вы можете использовать следующее регулярное выражение:<br>
+<code>([a-z0-9]+)[.]домен[.]TLD"</code><br>
+TLD стойка для домена верхнего уровня для осевой сети: . om .net<br> 
+<code>([a-z0-9]+)</code> означает что-либо от 0 до 9.<br>
+        Вы можете протестировать свое регулярное выражение на <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>version</b>
-      </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>версия</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Версия вашего присутствия.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>логотип</b>
+      </td>
+      <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
+      <td style="text-align:left"><code>Строка</code>
+      </td>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Ссылка на миниатюру вашего присутствия.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>цвет</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
+        , который поддерживает ваше присутствие.</td>
+      <td style="text-align:left"><code>Строка</code>
+      </td>
+      <td style="text-align:left"><code>Нет</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>метки</b>
+      </td>
+      <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>категория</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Строка, используемая для представления категории присутствия. Смотрите действующие кухни <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">здесь</a>.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Определяет, используются ли <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. Подробнее см. в regExp.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file) чтобы вернуться к объяснению TypeScript. Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file-1) чтобы вернуться к объяснению JavaScript.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Загрузка присутствия
+1. Откройте всплывающее окно и удерживайте кнопку <kbd>Shift</kbd> на клавиатуре.
+2. **Load Presence** появится в секции Prestions.
+3. Нажмите на неё, пока вы все еще держите кнопку <kbd>Shift</kbd>.
+4. Выберите папку /dist вашего присутствия.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Некоторые полезные вещи
+## Быстрая загрузка
+Веб-сайт, на котором вы находитесь, автоматически перезагружается каждый раз, когда вы сохраняете файл в вашей папке.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## Отладка
+- Вы можете поместить `console.log("Тест");` между вашим кодом и посмотреть, выводит ли консоль вашего браузера. Если да, то войдите и повторите попытку после следующей функции. Если нет, то произошла ошибка выше.
+- Если это не поможет вам, то попросите разработчика присутствия на нашем [сервере Discord](https://discord.gg/PreMiD) для помощи.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Объяснить файлы
+- [Класс присутствия](/dev/presence/class)
+- [Класс iFrame](/dev/presence/iframe)
+- [Файл метаданных](/dev/presence/metadata)
+- [Настройка TypeScript](/dev/presence/tsconfig)
 {.links-list}

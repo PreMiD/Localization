@@ -1,23 +1,23 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: Tải PreMiD trên trình duyệt Firefox
 published: true
-date: 2019-10-02T12:42:58.683Z
+date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+1. Đến trang web của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
+2. Chọn **Firefox**.
+3. Tìm `about:addons`.
+4. Bấm vào nút bánh răng nhỏ ở góc trên bên phải.
+5. Chọn **cài đặt tiện ích từ tập tin**.
+6. Chọn tập tin bạn vừa tải.
+7. Chấp nhận việc cài đặt bằng cách bấm vào **thêm**.
 
-> Do not forget to [add the **application**](/install). 
+> Đừng quên [ tải **ứng dụng**](/install). 
 > 
 > {.is-warning}
 

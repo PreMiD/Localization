@@ -1,40 +1,40 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Primeiros passos com a instalação do PreMiD no Linux
 published: true
-date: 2019-10-03T15:55:36.490Z
+date: 2020-02-06T23:54:03.042Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Antes de continuar, certifique-se de que seu sistema atenda a todos os [requisitos](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
 
-# Instalar
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+# Instalação
+> Não existe um instalador oficial para esse sistema operacional. Isso significa que não temos suporte oficial para ele. No entanto, você ainda pode trocar informações com outros usuários Linux em nosso [ Servidor do Discord](https://discord.gg/premid/).{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-4. Change the working directory: `cd PreMiD/src`
-5. Install the dependencies and the application: `npm install`
-6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+1. Instale o [NodeJS](https://nodejs.org/en/).
+2. Abra o Terminal.
+3. Clone o repositório: `git clone https://github.com/PreMiD/PreMiD.git`
+4. Mude a pasta de trabalho: `cd PreMiD/src`
+5. Instale as dependencias e a aplicação: `npm install`
+6. Mude a pasta de trabalho: `cd ..`
+7. Digite: ` npm run init`
+8. Inicie a aplicação: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> Os seguintes métodos estão depreciados e não são mais recomendados. Use por sua conta e risco. 
 > 
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Se você está no Arch Linux ou em uma distribuição baseada em Arch, O PreMiD está disponível no [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) sob `premid-git`. Use o seu gerenciador de pacotes favorito para pegá-lo de lá!
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+## Outras distribuições
+- Script de instalação: `wget -qO- http://bit.ly/install-premid | bash` ou `curl -sL https://bit.ly/install-premid | bash`, espere que instale, clique duas vezes no atalho "PreMiD" criado no seu ambiente de trabalho, e pronto!
+- Se desejar desinstalar o PreMiD, pode executar `wget -qO- http://bit.ly/uninstall-premid | bash` ou `curl -sL https://bit.ly/uninstall-premid | bash`.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Não se esqueça de [adicionar a **extensão**](/install).{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}

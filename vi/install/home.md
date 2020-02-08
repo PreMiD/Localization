@@ -2,25 +2,25 @@
 title: Home
 description: Official Documentation for v2
 published: true
-date: 2019-10-03T11:48:36.291Z
+date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> Tài liệu này đang được chỉnh sửa! Một vài trang có thể chưa hoàn tất hoặc thiếu. 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
+# Về PreMiD
+- :mag: [PreMiD là gì?](/about) Ý đinh đằng sau PreMiD và tại sao bạn nên dùng nó.
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
 # Getting Started
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+Cài đặt PreMiD rất nhanh và dễ. Bạn có thể sử dụng nó trong không lâu.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- Hãy chắc là bạn đã đọc [những yêu cầu hệ thống](/install/requirements).
+- Làm theo [hướng dẫn cài đặt ](/install) dễ và nhanh chóng.
+- [Xử lý vấn đề](/troubleshooting) hướng dẫn bạn qua những giải pháp cho những vấn đề phổ biến.
 
 # Nhà phát triển
 

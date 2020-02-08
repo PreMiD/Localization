@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Guida introduttiva
+description: Un piccolo consiglio per coloro che di recente hanno programmato
 published: vero
-date: 2019-11-03T13:02:36.660Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> È necessario un editor di codice sorgente. Consigliamo Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Installazione dei requisiti
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. Installa [Nodo](https://nodejs.org/en/) (viene fornito con [npm](https://www.npmjs.com/)).
+3. Installa [TypeScript](https://www.typescriptlang.org/index.html#download-links) (apri un terminale e `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Clonando il progetto
+1. Aprire un terminale e digitare `git clone URL`. **Sostituire l'URL con il link del repository a cui vuoi contribuire** es. `git clone https://github.com/PreMiD/PreMiD`.
+2. Scegli una cartella di tua scelta.
+3. Aprilo con l'editor di codice.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Installazione dipendenze
+> Assicurati di aver installato prima [npm](https://www.npmjs.com/) (Gestore Pacchetti Nodo). Si è installato automaticamente se hai installato [Nodo](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Apri un terminale nel tuo repository e digita `npm i`.
+- Per aggiornare le dipendenze digita `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Sii consapevole che aggiornare le dipendenze potrebbe frenare molto, o no - il test è necessario! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Programmare la tua visione
+Per piacere, mantieni la struttura. Non vogliamo disorganizzare il nostro progetto. I file caotici non possono essere accettati.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Inviando il tuo sogno
+Basta aprire una Pull Request su uno dei nostri [repository GitHub](https://github.com/PreMiD/) a cui vuoi contribuire. Ci prenderemo cura del tuo bebè, non ti preoccupare. Se questa è la prima volta che fai una richiesta di pull, dai un'occhiata a questo [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Ottenere l'approvazione
+Il nostro obiettivo principale è quello di lavorare con gli utenti, quindi cerca di essere il più cordiale, rispettoso e informativo possibile. Fai clic su uno sviluppatore nel nostro [server Discord](https://discord.gg/PreMiD) per ottenere la recensione su GitHub, o no. Dipende dalla qualità del codice, dall'aspetto degli asset e dalle funzionalità regolari.

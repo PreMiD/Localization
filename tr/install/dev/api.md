@@ -1,34 +1,34 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: PreMiD'in API'sini kullanarak kaynaklara erişin ve bir şey gerçekleştirin
 published: true
-date: 2019-10-03T00:53:26.994Z
+date: 2020-01-19T23:42:12.088Z
 tags:
 ---
 
 # API
 
-> Base URL: https://api.premid.app 
+> Ana URL: https://api.premid.app 
 > 
 > {.is-info}
 
-## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+## API Sürümleri
+> Bazı API sürümleri yürürlükten kaldırılmıştır ve aşağıdaki tabloda belirtilmiştir. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD, API'mizin farklı sürümlerini sunar. Sürümü aşağıdaki gibi istek yoluna ekleyerek belirtebilirsiniz: `https://api.premid.app/v{sürüm_numarası}`. Geçersiz bir sürüm numarası girildiğinde, istekler otomatik olarak varsayılan sürüme yönlendirilerek işlenir.
 
-## Encryption
+## Şifreleme
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+PreMiD API'de bulunan HTTP ve buna ait tüm protokoller TLS 1.2 şifreleme sistemiyle korunur.
 
 # Dokümantasyon
-> Currently under construction! 
+> Şu anda yapım aşamasında! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**API sürümünü seçin:**
+- [v1 *yürürlükte değil*](/dev/api/v1)
+- [v2 *aktif*](/dev/api/v2)
 {.links-list}

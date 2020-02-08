@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Başlarken
+description: Kodlamaya yeni başlayanlara ufak bir tavsiye
 published: true
-date: 2019-11-03T13:02:36.660Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Bu işlemler için bir kod editörü kullanmanız gerekecektir. Biz editör olarak Visual Studio Code'u öneriyoruz. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+# Gereksinimleri yükleme
+1. [Git](https://git-scm.com/)'i yükleyin.
+2. [Node](https://nodejs.org/en/)'u yükleyin.
+3. Konsolunuzu açın ve [TypeScript](https://www.typescriptlang.org/index.html#download-links)'i yüklemek için `npm install -g typescript` yazın.
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Projeyi klonlama
+1. Konsolunuzu açın ve `git clone URL` yazın. **Aşağıdaki linki katkıda bulunmak istediğiniz depo linkiyle değiştirin.** örn. `git clone https://github.com/PreMiD/PreMiD`.
+2. Bir klasör seçin.
+3. Editörünüz ile bu klasörü açın.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Bağımlılıkları yükleme
+> Node'un içinde gelen [npm](https://www.npmjs.com/)'nin (Node Package Manager) yüklü olduğundan emin olun. Eğer [Node](https://nodejs.org/en/)'u daha önceden yüklediyseniz tekrar yüklemenize gerek yoktur. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Klonladığınız depo klasöründeyken konsolu açın ve `npm i` yazın.
+- Bağımlılıkları güncellemek için `npm update` yazın.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Bağımlılıkları güncellemenin uzun sürebileceğini unutmayın! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Kendiniz kodlayın
+Lütfen temeli iyi atın. Projemizde karışıklıklara neden olmak istemiyoruz. Hasarlı veya geçersiz dosyalar kabul edilmeyecektir.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Çalışmanızı paylaşma
+Katkıda bulunmak istediğiniz [GitHub depomuza](https://github.com/PreMiD/) bir "Pull Request" atın. Geri kalanını biz halledeceğiz, merak etmeyin. Eğer daha önce bir "Pull Request" atmadıysanız [buradaki](https://help.github.com/en/articles/creating-a-pull-request) kılavuzu inceleyebilirsiniz.
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Onaylanma aşaması
+Bizim için en büyük hedef, kullanıcılara karşı arkadaş canlısı, saygılı ve olabildiğince açıklayıcı bir şekilde yaklaşmak. İnceleme işlemini başlatmak için [Discord sunucumuzda](https://discord.gg/PreMiD)n bir inceleme yetkilisini etiketleyin. İnceleme sonucu kodun kalitesine, görünüşüne ve işleyişine göre hesaplanacaktır.

@@ -1,8 +1,8 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: PreMiD telepítési útmutató a Firefox program esetében
 published: true
-date: 2019-10-02T12:42:58.683Z
+date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
@@ -11,11 +11,11 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 # Telepítés
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
 2. Válaszd a **Firefox** menüpontot.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+3. Keress rá a `about:addons` címre.
+4. Kattints a jobb felső sarokban elhelyezkedő kicsi fogaskerék ikonra.
+5. Válaszd a **Kiegészítő telepítése fájlból** opciót.
+6. Válaszd ki a letöltött fájlt.
+7. A telepítés elfogadásához kattints a **Hozzáadás** gombra.
 
 > Ne felejtsd el telepíteni az **alkalmazást**. </p> 
 > 

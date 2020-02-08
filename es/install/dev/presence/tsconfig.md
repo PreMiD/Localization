@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Página sin título
+description: Un pequeño ayudante para TypeScript
 published: true
-date: 2019-10-03T04:01:12.991Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript Configuration
+# Configuración de TypeScript
 
-## Introduction
+## Introducción
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Cuando descargaste y desempaquetaste el espacio de trabajo, verás un archivo llamado `tsconfig. s` en carpetas raíz y presencia, este archivo se utiliza para configurar el compilador **TypeScript**. Ya está configurado para usted, así que no te preocupes por eso.
 
-We just want to describe some settings that you should know.
+Sólo queremos describir algunos ajustes que deberías conocer.
 
-## Root Configuration
+## Configuración de root
 
-In the root configuration file you will see something like this.
+En el archivo de configuración raíz verá algo como esto.
 
 ```javascript
 {
@@ -25,19 +25,19 @@ In the root configuration file you will see something like this.
     "target": "es6",
     "removeComments": true
   },
-  "exclude": ["node_modules"]
+  "excluyente": ["node_modules"]
 }
 ```
 
-| Property            | Descripción                                                                                     |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Propiedad            | Descripción                                                                                  |
+|:-------------------- |:-------------------------------------------------------------------------------------------- |
+| **compilerOptions**  | Utilizado para configurar el compilador, la mayoría de las propiedades se encuentran aquí.   |
+| módulo               | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target               | Define la versión JavaScript que está compilando.                                            |
+| eliminar comentarios | Eliminando comentarios de archivos compilados.                                               |
+| **excluir**          | Aquí puede definir las carpetas que desea excluir de la compilación futura.                  |
 
-## Presence Configuration
+## Configuración de presencia
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Descripción                                                                            |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Propiedad           | Descripción                                                                                      |
+|:------------------- |:------------------------------------------------------------------------------------------------ |
+| **extensión**       | Utilizado para extender el archivo base `tsconfig` para varias tareas.                           |
+| **compilerOptions** | Ver [**Configuración de root**](/dev/presence/tsconfig#root-configuration) para más información. |
+| fuera de Dir        | Define el directorio de salida para archivos compilados.                                         |

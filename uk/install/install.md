@@ -1,12 +1,12 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: Інсталяція
+description: Як встановити PreMiD
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Перед тим, як піти далі, переконайтеся, що ваша система відповідає всім вимогам [](/install/requirements). 
 > 
 > {.is-info}
 
@@ -14,15 +14,15 @@ tags:
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Виберіть вашу операційну систему:**
+- [Windows *7 або вище*](/install/windows)
+- [macOS *10.11 або вище*](/install/macos)
+- [Linux *4 або вище*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Виберіть браузер:**
+- [Chromium *v76 або вище*](/install/chromium)
+- [Firefox *v69 або новіший*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}

@@ -1,16 +1,16 @@
 ---
-title: Metadata.json
-description: Contains basic data about the Presence
+title: Метадата.джсон
+description: Содержит основные данные о присутствии
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
-# Metadata.json
+# Метадата.джсон
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Если вы хотите опубликовать присутствие в магазине и загрузить его через расширение, вы должны создать `. son` файл в папке `presence.js`.
 
-The example of that file can be found below.
+Пример этого файла можно найти ниже.
 
 ```javascript
 {
@@ -29,225 +29,226 @@ The example of that file can be found below.
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
-  "iframe": false
+  "версия": "ВЕРСИЯ",
+  "логотип": "URL",
+  "эскиз": "URL", 
+ "URL",
+  "Цвет": "#45A8FC",
+  "теги": ["КАТЕГОРИЯ", "ТАГ"],
+  "категория": "КАТЕГОРИЯ",
+  "iframe": ложь
 }
 ```
 
-## Understanding the metadata.json
+## Понимание metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Этот пример выглядит странно, да? Не волнуйтесь, это не так трудно понять для каждой переменной.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Переменная</th>
       <th style="text-align:left">Описание</th>
       <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Опционально</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>автор</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left"><code>Объект</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>contributors</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>участники</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>услуга</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Название услуги, которую поддерживает это присутствие.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>описание</b>
+      </td>
+      <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
+        , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
+      <td style="text-align:left"><code>Объект</code>
+      </td>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
+        <b>Этот url должен совпадать с url сайта, так как он будет использоваться для определения где бы то ни было это сайт для инъекции скрипта.</b>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Строка регулярных выражений, используемая для совпадения с url.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>version</b>
-      </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>версия</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Версия вашего присутствия.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>логотип</b>
+      </td>
+      <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
+      <td style="text-align:left"><code>Строка</code>
+      </td>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Ссылка на миниатюру вашего присутствия.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>цвет</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
+        , который поддерживает ваше присутствие.</td>
+      <td style="text-align:left"><code>Строка</code>
+      </td>
+      <td style="text-align:left"><code>Нет</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>метки</b>
+      </td>
+      <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>категория</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Строка, используемая для представления категории присутствия.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Нет</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Определяет, используются ли <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into.</td>
+      <td style="text-align:left"><code>Строка</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-## Regular Expressions
+## Регулярные выражения
 
-If you want to learn regular expressions, here are a few websites.
+Если вы хотите изучать регулярные выражения, вот несколько сайтов.
 
-### Learning
+### Обучение
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Регулярная информация о выражениях](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Тестирование
 
-• [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
+• [Регламент](https://regexr.com/) • [Регламент 101](https://regex101.com/)
 
-## Presence categories
+## Категории присутствия
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+При создании вашего присутствия, вы должны указать категорию, на которую попадает присутствие. Это скомпилированный список категорий, которые вы можете использовать.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Категория</th>
+      <th style="text-align:left">Наименование</th>
       <th style="text-align:left">Описание</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>anime</b></td>
+      <td style="text-align:left"><b>аниме</b></td>
       <td style="text-align:left"><b>Аниме</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Все что относится к аниме, от форумов до платформ потокового видео.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>игры</b></td>
     <td style="text-align:left"><b>Игры</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Любой сайт, имеющий связанный с игрой контент, например <code>Kahoot</code> или <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
+      <td style="text-align:left"><b>музыка</b></td>
     <td style="text-align:left"><b>Музыка</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Это веб-сайты, которые предлагают контент, связанный с музыкой, будь то трансляция или загрузка.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>соц. сети</b></td>
         <td style="text-align:left"><b>Соц. сети</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Сайты, которые используются для создания и обмена контентом или для участия в других формах социальных сетей.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>видео</b></td>
         <td style="text-align:left"><b>Видео и Стримы</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Веб-сайты, которые служат цели предоставления видео и потоков.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>прочее</b></td>
     <td style="text-align:left"><b>Прочее</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Все, что не относится к конкретной категории, перечисленной выше.</td>
       </td>
     </tr>
   </tbody>

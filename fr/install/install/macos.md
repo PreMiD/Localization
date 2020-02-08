@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Commencer avec une installation PreMiD sur macOS
 published: vrai
-date: 2019-10-02T11:30:51.936Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Avant d'aller plus loin, assurez-vous que votre système répond à toutes les [exigences](/install/requirements). 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
 
 # Installer
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+1. Rendez-vous sur notre page de téléchargements en [cliquant ici](https://premid.app/downloads).
+2. Choisissez **OS X**.
+3. Extraire l'archive si nécessaire.
+4. Ouvrir l'installateur.
+5. Une alerte de sécurité **** apparaîtra si vous installez PreMiD pour la première fois. Allez dans vos **Préférences** > **Sécurité** > **Général** > **Quoi qu'il en soit**. [En savoir plus](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) sur les applications non signées.
+> Ceci est dû au fait que nous n'avons pas de certificat de signature de code (CSC). [Soutenez-nous](https://www.patreon.com/Timeraa) pour le financer.{.is-info}
+6. Choisissez d'ouvrir lorsque vous y êtes invité.
+7. Accorder l'accès aux connexions via **Pare-feu** et contrôler **Événements du système** lorsque vous y êtes invité.
 
-The application will start automatically. Check for the symbol in your menu bar.
+L'application démarre automatiquement. Vérifiez le symbole dans votre barre de menus.
 
-> Do not forget to [add the **extension**](/install). 
+> N'oubliez pas d'ajouter [l'extension ****](/install). 
 > 
 > {.is-warning}
 

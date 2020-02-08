@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Strana bez názvu
+description: Malilinký pomocník pre TypeScript
 published: true
-date: 2019-10-03T04:01:12.991Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript Configuration
+# Konfigurácia TypeScriptu
 
-## Introduction
+## Úvod
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Keď ste si stiahli a rozbalili pracovnú plochu, uvidíte súbor nazývaný sa `tsconfig.js` v koreni a v priečinkoch prítomnosti, tento súbor je určený na konfigurovanie **TypeScript** spracovávateľa. Je už dopredu nakonfigurovaný pre vás, takže nemusíte sa obávať.
 
-We just want to describe some settings that you should know.
+Chceme vám len popísať niektoré nastavenia ktoré by ste mali vedieť.
 
-## Root Configuration
+## Konfigurácia Koreňa
 
-In the root configuration file you will see something like this.
+V koreni konfiguračného súboru uvidíte niečo takéto podobné.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Popis                                                                                           |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Vlastnosť           | Popis                                                                                            |
+|:------------------- |:------------------------------------------------------------------------------------------------ |
+| **compilerOptions** | Používaný na konfiguráciu kompiliera, väčšina vlastností sa nachádza tu.                         |
+| module              | Môžete si prečítať viacej o tom [tu](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Definuje verziu JavaScriptu ktorú kompilujete.                                                   |
+| removeComments      | Odstránenie komentárov z už kompilovaných súborov.                                               |
+| **exclude**         | Tu môžete definovať priečinky ktoré chcete vylúčiť z budúcej kompilácie.                         |
 
-## Presence Configuration
+## Konfigurácia Prítomnosti
 
 ```javascript
 {
@@ -45,11 +45,10 @@ In the root configuration file you will see something like this.
   "compilerOptions": {
     "outDir": "./dist/"
   }
-}
 ```
 
-| Property            | Popis                                                                                  |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Vlastnosť           | Popis                                                                                            |
+|:------------------- |:------------------------------------------------------------------------------------------------ |
+| **extends**         | Používa sa na rozšírenie základného súboru `tsconfig` na rôzne úlohy.                            |
+| **compilerOptions** | Pozrite [**Koreň Konfigurácie**](/dev/presence/tsconfig#root-configuration) pre viac informácii. |
+| outDir              | Definuje výstupný adresár pre kompilované súbory.                                                |

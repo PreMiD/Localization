@@ -2,7 +2,7 @@
 title: การแก้ปัญหา
 description: Everything to solve your problem
 published: true
-date: 2019-10-03T00:21:25.018Z
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
@@ -37,7 +37,7 @@ Disable all your addons and see if it works. If yes, try to enable your addons s
 ### Restarting your computer
 I hope you know how to restart a computer.
 
-### Reinstalling PreMiD
+### ติดตั้ง PreMiD อีกครั้ง
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal

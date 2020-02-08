@@ -1,55 +1,55 @@
 ---
-title: iFrame Class
+title: iFrame Sınıfı
 description:
 published: true
-date: 2019-10-06T22:40:09.426Z
+date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# iFrame Sınıfı
+> PreMiD'in iframe sistemi problem yaratabilir veya beklenmedik bir şekilde çalışabilir, bu riski göze alarak kullanın. 
 > 
 > {.is-danger}
 
-## Introduction
+## Tanıtım
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+Bazı durumlarda, servisiniz `iframelerin` içerisindeki bilgilere erişme ihtiyacında bulunabilir.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+`iframe.ts` dosyasına yazdığınız kod, sayfada bulunan tüm iframe elementlerinin içine yazılır ve işlemeye başlar.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Servisler gibi, `iframe`'lerin de kendilerine ait bir sınıfı vardır ve verileri otomatik olarak güncellenir.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Kod buraya geliyor...
 });
 ```
 
-## Methods
+## Metodlar
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Veriyi servis koduna gönderir. Bu metodu kullanmak servis kodunda bir `iFrameData` eventi çalıştıracaktır.
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+`iframe`'in bağlantısını gösterir.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Eventler/Eylemler
+`iframe` elementlerinde, eventler aynı `presence` sınıfında olduğu gibi çalışır.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // Kodunuzu bu alana yazabilirsiniz...
 });
 ```
 
-Here is a list of all of the events:
+Kullanabileceğiniz eventlerin listesi:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Bu event, iframeden her bilgi geldiğinde çalışacaktır.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (artık mevcut değil)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Kullanıcılar klavyelerindeki medya tuşlarına basınca devreye girecektir, daha fazla bilgi için [buraya](/dev/presence/class#mediakeys) tıklayabilirsiniz.

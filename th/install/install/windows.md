@@ -1,8 +1,8 @@
 ---
 title: วินโดวส์
-description: Getting started with a PreMD installation on Windows
+description: Getting started with a PreMiD installation on Windows
 published: true
-date: 2019-10-02T12:26:07.726Z
+date: 2020-02-07T00:44:57.532Z
 tags:
 ---
 

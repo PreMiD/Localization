@@ -2,7 +2,7 @@
 title: Beginnen
 description: Ein kleiner Ratschlag für diejenigen, die sich in letzter Zeit mit Codierung beschäftigen
 published: true
-date: '2019-11-03T13: 02: 36.660Z'
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 

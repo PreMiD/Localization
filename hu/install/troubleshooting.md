@@ -1,51 +1,51 @@
 ---
 title: Hibaelhárítás
-description: Everything to solve your problem
+description: Minden ami megoldja a problémát
 published: true
-date: 2019-10-03T00:21:25.018Z
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Győződj meg arról, hogy a bővítmény **és** az alkalmazás is egyaránt telepítésre került! 
 > 
 > {.is-warning}
 
-### Reload the page
-You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### Frissítsd az oldalt
+Az oldalt frissítheted a <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) vagy a <kbd>CMD+R</kbd> (MacOS) gombok lenyomásával a billentyűzeten vagy megkeresheted a frissítés gombot is.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Indítsd újra a böngészőt
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) vagy a <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) hasznos lehet ebben az esetben is. (Nyilvánvalóan, megint el kell indítanod a böngészőt.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Győződj meg arról, hogy engedélyezve vannak a Discord Játék tevékenységek a beállításokban
+**Felhasználói beállítások** > **Játék tevékenység** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
+### Indítsd újra a PreMiD alkalmazást
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### Reload/restart Discord
-Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Indítsd újra a Discord alkalmazást
+A Discord kézi újraindításához nyomd meg a <kbd>Strg+R</kbd> (Windows) vagy a <kbd>CMD+R</kbd> (MacOS) gombokat a billentyűzeten.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Győződj meg arról, hogy a Discord nem rendszergazdai jogokkal fut
+Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal fut.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Tiltsd le a bővítményeket
+Tilts le minden bővítményt és ellenőrizd, hogy működik-e. Ha igen, próbáld meg -lépésről-lépésre- a bővítményeket engedélyezni és írd meg nekünk, hogy melyik bővítmény blokkolta a PreMiD-et a működésben.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Indítsd újra a számítógépet
+Azt remélem azért tudod, hogy hogyan kell egy számítógépet újraindítani.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Telepítsd újra a PreMiD alkalmazást
+Néha a fájlokkal nincs valami rendben... Telepítési útmutatót [itt](/install) találod.
 
-### Manual removal
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
+### Kézi eltávolítás
+Windows:    `C:\Users\FELHASZNÁLÓ\Program Files (x86)\`` és töröld a `PreMiD` mappát.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
-### That has not solved my problem
+### Ez nem oldotta meg a problémát
 Please open a ticket in [#support](https://discord.gg/PreMiD).

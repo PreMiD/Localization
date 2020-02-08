@@ -1,32 +1,32 @@
 ---
 title: Xử lý sự cố
-description: Everything to solve your problem
+description: Mọi thứ để giúp bạn xử lý sự cố
 published: true
-date: 2019-10-03T00:21:25.018Z
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Hãy chắc là bạn có cả tiện ích mở rộng **và** ứng dụng tải về! 
 > 
 > {.is-warning}
 
-### Reload the page
-You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### Tải lại trang
+Bạn có thể nhấn <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) hoặc <kbd>CMD+R</kbd> (MacOS) trên bàn phím của bạn thay vì tìm kiếm nút tải lại.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Khởi động lại trình duyệt của bạn
+Bạn có thể nhấn <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) hoặc <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS). (Tất nhiên là bạn phải khởi động lại trình duyệt rồi.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Hãy chắc chắn là bạn đã cho phép Hoạt động trong game trong Discord trong cài đặt
+**Cái đặt người dùng** > **Hoạt động trong game** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Khởi động lại PreMiD (Ứng dụng)
+![quit.png](/quit.png) Bạn phải khởi động lại PreMiD sau đó.
 
-### Reload/restart Discord
-Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Tải lại/khởi động lại Discord
+Nhấn <kbd>Strg+R</kbd> (Windows) hoặc <kbd>CMD+R</kbd> (MacOS) trên bàn phím của bạn để khởi động lại Discord bằng cách thủ công.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Hãy chắc chắn là Discord đang KHÔNG hoạt động ở chế độ administrator
+Rất quan trọng. Discord RPC will not work if you run Discord as an administrator.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
@@ -34,18 +34,18 @@ Sometimes antivirus programs and firewalls are blocking applications which are c
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### Restarting your computer
+### Khởi động lại máy tính của bạn
 I hope you know how to restart a computer.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Cài đặt lại PreMiD
+Đôi khi các tệp có vấn đề... Hướng dẫn cài đặt có thể được tìm thấy [tại đây](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### Gỡ cài đặt thủ công
+Hệ điều hành Windows:    `C:\Users\USER\Program Files (x86)\`` và xóa thư mục `PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`và xóa thư mục `PreMiD``.
 
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+### Điều đó chưa giải được vấn đề của tôi
+Vui lòng mở một thẻ trong kênh [#support](https://discord.gg/PreMiD).

@@ -2,7 +2,7 @@
 title: Chromium
 description: PreMiD telepítési útmutató Chromeium alapú böngészők esetében
 published: true
-date: 2020-01-19T15:06:24.610Z
+date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 

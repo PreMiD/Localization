@@ -1,86 +1,93 @@
 ---
-title: Presence Development
+title: Närvaro Utveckling
 description:
 published: true
-date: 2019-12-06T15:39:48.102Z
+date: 2020-02-03T13:55:40.904Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Alla närvaron lagras nu här: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Version `2.x` introducerar [närvarobutik](https://premid.app/store). Användare har nu möjlighet att manuellt lägga till och ta bort sina favoritnärvaron genom användargränssnittet på [webbplats](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# Riktlinjer
+> Om du inte följer alla riktlinjer, kommer din närvaro eller dra begäran tas bort från github. 
 > 
 > {.is-danger}
 
-## Creation
+## Skapande
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
-- The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have sfw images and descriptions regardless if it is nsfw or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
+Innan du börjar arbeta på din närvaro, håll följande lista i åtanke.
+- Dra begäran måste vara komplett, måste du ha en korrekt filstruktur. Inklusive `dist` mapp, `presence.js` fil, och `metadata.json` fil.
+- Närvaron **måste** vara relaterad till den webbplats du har valt.
+- Närvaron får inte vara av olagliga webbplatser. Dessa inkluderar stressorer, droger, barnporr, etc...
+- Metadata för närvaro måste ha välskrivet innehåll, inklusive giltiga titlar och beskrivningar.
+- De medier du inkluderar (ikon/miniatyrbild) måste vara relaterade till webbplatsen och bör vara förståeliga när det gäller storlek och kvalitet.
+- Filstrukturen måste vara ren och hanterad, har inte slumpmässiga filer som inte ger något till närvarons funktion.
+- Närvaron **får inte** ha några skadliga avsikter. Dessa inkluderar att stjäla/läcka privat information, negativt påverka beteendet på webbplatsen, etc...
+- Om du planerar en närvaro för en webbplats och webbplatsen råkar förändras i framtiden, du **ÄR** ansvarig för att uppdatera närvaron igen för att fungera som förväntat. Om du inte fixar det inom en acceptabel tidsram, andra närvaroutvecklare får **skriva över** din närvaro för att följa ändringarna.
+- Närvaron måste testas innan publicering för att bekräfta att allt fungerar som förväntat.
+- Din närvaro måste ha SFW-bilder och beskrivningar oavsett om det är NSFW eller inte. Om din närvaro handlar om en `nsfw` webbplats, vänligen lägg till taggen `nsfw` till din metadata.
+- Din närvaro får **INTE** vara gratis domäner eller värdar (t.ex. .TK, [alla fria Freenom domäner], . F.GD, etc...), undantag kan göras om ett bevis presenteras som visar att det är en betald domän.
+- Fälten `smallImageKey` och `smallImageText` är avsedda att tillhandahålla ytterligare / sekundära sammanhang (såsom "spelar"/"pausade" för video webbplatser, "bläddra" efter vanliga webbplatser och andra fall). Du får inte marknadsföra Discord-profiler eller något som inte är relaterat till PreMiD.
+- Kraven på logotyper är 1:1 (Square) i 512px, dock miniatyrer, bör antingen vara [breda kampanjkort](https://i.imgur.com/3QfIc5v.jpg) eller helt enkelt [skärmdumpar](https://i.imgur.com/OAcBmwW.png) om den första inte är tillgänglig.
+- Närvaron bör åtminstone ha 1 tagg, detta är ett krav av design och kan vara valfritt i framtiden.
+- Fältet `url` får inte innehålla `http://` eller `https://`, varken parametrarna (t.ex. en närvaro för `https://www.google.com/search?gws_rd=ssl` kommer endast att ha `www.google.com` i `url` fältet).
+- Beskrivningar och taggar bör alltid vara i arrayer, även när det bara är ett element. Fältet `url` bör dock bara vara en sträng om det är en domän.
+- Instabila webbplatser som ständigt ändrar API/domäner, randomisera HTML-element eller bara vara i tung utveckling är inte tillåtet och kommer att tas bort från butiken.
 
-## Modification
+## Modifiering
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+I vissa situationer, närvaro kan bete sig oväntat eller kan använda några mindre förändringar för att förbättra sin funktionalitet. Här är en sammanställd lista som du måste följa för att ändra närvaron.
+- Du har inte tillåtelse att ändra skaparen av närvaron. Detta gäller endast om du får skriva om det. Du kan lägga till dig själv som [bidragsgivare](/dev/presence/metadata).
+- Se till att ändringarna är användbara. Dessa kan innehålla rättelser (kod och skrivfel), tillägg (beskrivningar och taggar), etc...
+- Bekräfta att dina ändringar fungerar innan publicering. Skapa inga pull-förfrågningar utan att veta resultatet av dina ändringar.
+- Skriv inte om/om en närvaro helt om inte en `Presence Verifier` eller personalmedlem tillåts.
 
-# Verification
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+# Verifiering
+> När du gör pull-förfrågningar om att lägga till eller ändra befintliga närvaron, måste du inkludera en skärmdump. Ändringar av en närvaros metadata/tsconfig kräver dock inte en skärmdump. *Din skärmdump måste laddas upp direkt till github med pull-begäran, använd inte webbplatser för bilddelning från tredje part.* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+För att din närvaro ska nå butikerna måste den gå igenom en process på github för att bekräfta att den fungerar som förväntat. Här är ett par saker att hålla utkik efter när du gör din pull-förfrågan.
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+Vårt närvaroverifieringsteam har sin egen roll, håll utkik efter `Presence Verifier` på discord-servern för att veta vem som är inblandad.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+1. Det krävs två verifierare för att bekräfta att din närvaro håller måttet. Om du råkar få ändra förfrågningar, gör rätt ansträngningar för att fixa det annars kommer det inte att läggas till.
+2. Om vi begär ändringar och din Pull Request överskrider **7 dagars inaktivitet** utan att göra de nödvändiga, vi tvingas stänga den.
+3. Du får ta skärmdumpar av ändringar som gjorts med hjälp av en annan användare. (t.ex. dess författare om du inte har tillgång till den av någon anledning).
+4. Om det är en uppdatering eller patch måste skärmdumpen visa de nya tillägg som fungerar, inte några gamla funktioner från tidigare pull-förfrågningar.
+5. De medföljande skärmdumparna bör vara verkliga, inte redigerade.
+6. Alla medverkande koder som slås samman till detta förråd kommer att licensieras under **Mozilla Public License 2.0**.
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+Efter att alla korrekta recensioner har uppfyllts kommer din pull-förfrågan att slås samman med butiken.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Struktur (TypeScript)
+Du kan välja om du vill koda din Presence med [JavaScript](https://www.javascript.com/) eller  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) har några extra kryddiga typdefinitioner, så fastställande och identifiering av buggar är mycket lättare. Om du bara vill använda [JavaScript](https://www.javascript.com/) kan du hoppa till [Struktur (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. Installera [Nod](https://nodejs.org/en/) (levereras med [npm](https://www.npmjs.com/)).
+3. Installera [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öppna en terminal och `npm install -g typescript`).
 
-## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+## Klonar projektet
+1. Öppna en terminal och skriv `git clone https://github.com/PreMiD/Presences`.
+2. Välj en mapp som du väljer.
+3. Öppna den i din kodredigerare.
 
-## Creating folders and files
+## Skapa mappar och filer
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Skapa en mapp med **namnet** (inte en URL) för tjänsten du vill stödja.
+2. Skapa en `presence.ts` och en `tsconfg.json` fil inuti.
+3. Skapa en mapp som heter `dist` inuti.
+4. Skapa en `metadata.json` -fil i mappen `dist`.
 
-## Filling in the tsconfig.json file
+## Fyllning i tsconfig.json filen
 
-Please put the following code inside of the `tsconfg.json` file.
+Vänligen ange följande kod i `tsconfg.json` -filen.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -89,437 +96,437 @@ Please put the following code inside of the `tsconfg.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+För att läsa mer om TypeScript konfigurationen klicka [här](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Fyller i metadata.json filen
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klicka [här](/dev/presence#filling-in-the-metadatajson-file-2) för att se hur du fyller i den. Du kommer att kunna enkelt klicka tillbaka längst ner i förklaringen.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Vi har gjort en `metadata.json` fil skapare för lata peeps [här](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Komma igång
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp. om/developers/applications
     mediaKeys: false //Enable use and detection of media key presses
 }),
 
-strings = presence.getStrings({
+strängar = presence. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    paus: "presence.playback. aused"
+    //You kan använda detta för att få översatta strängar
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+funktion myOutsideHeavyLiftingFunction(){
+    //Grab och bearbeta alla dina data här
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // element griper //
+    // api samtal //
+    // variabelset //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, myOutsideHeavyLiftingfunktion); 
+//Kör funktionen separera från UpdateData-händelsen var 10:e sekund för att få och ställa in de variabler som UpdateData plockar upp
 
 */
 
 
-presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+närvaro. n("UpdateData", async () => {
+    /*UpdateData avfyrar alltid, och bör därför användas som din uppdateringscykel eller `tick`. Detta kallas flera gånger en sekund där det är möjligt.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Det rekommenderas att ställa in en annan funktion utanför denna händelsefunktion som kommer att ändra variabla värden och göra tunga lyft om du anropar data från ett API. /
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
+        largeImageKey: "key", /*Nyckeln (filnamn) till den stora bilden vid närvaro. Dessa laddas upp och namnges i avsnittet Rich Presence i din ansökan, kallad Art Assets*/
+        smallImageKey: "key", /*Nyckeln (filnamn) för den stora bilden på närvaron. Dessa laddas upp och namnges i avsnittet Rich Presence i din ansökan, kallad Art Assets*/
+        smallImageText: "Lite svävartext", //Den text som visas när du svävar över den lilla bilden
+        detaljer: "Bläddra sidnamn", //Den övre delen av närvarotexten
+        ange: "Läsavsnitt A", //Den nedre delen av närvarotexten
         startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        endTimestamp: 1577151472000 //If you want to show time left instead of Elapsed, detta är unix epok tidsstämpel där timern slutar
+    }; /*Alternativt kan du ställa in en stor ImageKey här och ändra resten som variabla underegenskaper, till exempel närvaroSata. ype = "blahblah"; skriv exempel: detaljer, stat, etc.*/
 
-    if (presenceData.details == null) {
+    om (presenceData. etails == null) {
         //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
+        presence. (Automatic Copy) etTrayTitle(); //Rensar brickans titel för Mac-användare
+        närvaro. etActivity() /*Uppdatera närvaron utan data, rensa den och gör den stora bilden till Discord-programikonen, och texten Discords programnamn*/
+    } annat {
         //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        presence. etActivity(presenceData); //Update the presence with all the values from the presenceData object
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Du kan kopiera detta till din `presence.ts` fil och redigera värden. Ställa in alla värden görs inne i updataData händelsen.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+För exempel föreslår vi att titta på koden för närvaron som: 1337x eller 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+För mer information om Presence-klassen klicka [här](/dev/presence/class).
 
-## Can't get certain data?!
+## Kan inte hämta vissa data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Många webbplatser använder [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Dessa html-taggar kan innehålla flera källor såsom videor. Men de är inte relevanta varje gång. Vissa är dolda eller bara inte används aktivt. Kontrollera om du kan extrahera den information du behöver, utan dem innan du gör onödigt arbete.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Kontrollera dem via webbläsarkonsolen (se till att du är på fliken **Elements**-).
+2. Sök (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Utför `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Om du upptäcker att dina uppgifter finns i en iFrame måste du göra följande:
+1. Skapa en `iframe.ts` fil.
+2. Sätt iFrame till `true` i din metadatafil.
+3. Fyller i din iFrame-fil.
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+var iframe = ny iFrame();
+iframe. n("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Få alla data du behöver ur iFrame spara dem i variabler
+  och sedan skicka dem med iframe. avsluta
   */
   iframe.send({ //sending data
     video: video,
-    time: video.duration
+    tid: video. uration
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Att göra din närvarofil ta emot data från iFrame filen.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Obs:** Detta måste placeras utanför uppdateringsuppdata-händelsen.
+## Kompilerar
+Öppna en konsol i din mapp och skriv `tsc -w` för att kompilera `närvaro.ts` i `/dist` mappen.
 
-# Structure (JavaScript)
-## Cloning the project
+# Struktur (JavaScript)
+## Klonar projektet
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+2. Öppna en terminal och skriv `git clone https://github.com/PreMiD/Presences`.
+3. Välj en mapp som du väljer.
+4. Öppna den i din kodredigerare.
 
-## Creating folders and files
+## Skapa mappar och filer
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+1. Skapa en mapp med **namnet** (inte en URL) för tjänsten du vill stödja.
+3. Skapa en mapp som heter `dist` inuti.
+4. Skapa en `metadata.json` fil och en `presence.js` fil i `dist` mapp.
 
-## Filling in the metadata.json file
+## Fyller i metadata.json filen
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klicka [här](/dev/presence#filling-in-the-metadatajson-file-2) för att se hur du fyller i den. Du kommer att kunna enkelt klicka tillbaka längst ner i förklaringen.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Vi har gjort en `metadata.json` fil skapare för lata peeps [här](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Komma igång
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp. om/developers/applications
     mediaKeys: false //Enable use and detection of media key presses
 }),
 
-strings = presence.getStrings({
+strängar = presence. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    paus: "presence.playback. aused"
+    //You kan använda detta för att få översatta strängar
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+funktion myOutsideHeavyLiftingFunction(){
+    //Grab och bearbeta alla dina data här
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // element griper //
+    // api samtal //
+    // variabelset //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, myOutsideHeavyLiftingfunktion); 
+//Kör funktionen separera från UpdateData-händelsen var 10:e sekund för att få och ställa in de variabler som UpdateData plockar upp
 
 */
 
 
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+närvaro. n("UpdateData", () => {
+    /UpdateData avfyrar alltid, och bör därför användas som din uppdateringscykel eller `tick`. Detta kallas flera gånger en sekund där det är möjligt.
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    //Det rekommenderas att ställa in en annan funktion utanför denna händelsefunktion som kommer att ändra variabla värden och göra tunga lyft om du anropar data från ett API.
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
+        largeImageKey: "key", /*Nyckeln (filnamn) för den stora bilden på närvaron. Dessa laddas upp och namnges i avsnittet Rich Presence i din ansökan, kallad Art Assets*/
+        smallImageKey: "key", /*Nyckeln (filnamn) för den stora bilden på närvaron. Dessa laddas upp och namnges i avsnittet Rich Presence i din ansökan, kallad Art Assets*/
+        smallImageText: "Lite svävartext", //Den text som visas när du svävar över den lilla bilden
+        detaljer: "Bläddra sidnamn", //Den övre delen av närvarotexten
+        ange: "Läsavsnitt A", //Den nedre delen av närvarotexten
         startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        endTimestamp: 1577151472000 //If you want to show time left instead of Elapsed, detta är unix epok tidsstämpel där timern slutar
+    }; /*Alternativt kan du ställa in en stor ImageKey här och ändra resten som variabla underegenskaper, till exempel närvaroSata. ype = "blahblah"; skriv exempel: detaljer, stat, etc.*/
 
-    if (presenceData.details == null) {
+    om (presenceData. etails == null) {
         //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
+        presence. (Automatic Copy) etTrayTitle(); //Rensar brickans titel för Mac-användare
+        närvaro. etActivity() /*Uppdatera närvaron utan data, rensa den och gör den stora bilden till Discord-programikonen, och texten Discords programnamn*/
+    } annat {
         //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        presence. etActivity(presenceData); //Update the presence with all the values from the presenceData object
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
+Du kan kopiera detta till din `presence.js` fil och redigera värden. Ställa in alla värden görs inne i updataData händelsen.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+För exempel föreslår vi att titta på koden för närvaron som: 1337x eller 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+För mer information om Presence-klassen klicka [här](/dev/presence/class).
 
-## Can't get certain data?!
+## Kan inte hämta vissa data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Många webbplatser använder [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Dessa html-taggar kan innehålla flera källor såsom videor. Men de är inte relevanta varje gång. Vissa är dolda eller bara inte används aktivt. Kontrollera om du kan extrahera den information du behöver, utan dem innan du gör onödigt arbete.
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Kontrollera dem via webbläsarkonsolen (se till att du är på fliken **Elements**-).
+2. Sök (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Utför `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Om du upptäcker att dina uppgifter finns i en iFrame måste du göra följande:
+1. Skapa en `iframe.js` fil.
+2. Sätt iFrame till `true` i din metadatafil.
+3. Fyller i din iFrame-fil.
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
+var iframe = ny iFrame();
+iframe. n("UpdateData", () => {
     /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
+    Få alla data du behöver ur iFrame spara dem i variablerna
+    och skicka dem sedan med iframe. slut
     */
-    iframe.send({ //sending data
+    iframe. slut({ //sending data
         video: video,
-        time: video.duration  
+        tid: video. uration  
     });
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Att göra din närvarofil ta emot data från iFrame filen.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+**Obs:** Detta måste placeras utanför uppdateringsuppdata-händelsen.
+# Fyller i metadata.json filen
+Vi har gjort en `metadata.json` fil skapare för lata peeps [här](https://eggsy.codes/projects/premid/mdcreator). Det föreslås fortfarande att läsa igenom detta så att du vet hur det fungerar.
 
 ```javascript
 {
-  "author": {
-    "name": "USER",
+  "författare": {
+    "namn": "ANVÄNDAR",
     "id": "ID"
   },
-  "contributors": [{
-    "name": "USER",
+  "bidragsgivare": [{
+    "namn": "ANVÄNDAR",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "TJÄNSTE",
   "description": {
-    "en": "DESCRIPTION"
+    "sv": "DESCRIPTION"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "taggar": ["CATEGORY", "TAG"],
+  "kategori": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `contributors`
+Kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste nu redigera värden för egenskaperna. Observera att följande egenskaper är valfria att ha i din `metadata. son` fil, om du inte planerar att använda dem måste du ta bort dem.
+- `medverkande`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**Förtydligande av vissa värde förinställningar:**
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Beskrivning</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Valfri</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>skapare</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Bör innehålla Objekt med <code>namn</code> och <code>id</code> av närvaroutvecklaren. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). User <code>id</code> kan kopieras från Discord genom att aktivera utvecklarläget
+        och högerklicka på din profil.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>medverkande</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Bör innehålla Objekt med <code>namn</code> och <code>id</code> av närvaroutvecklaren. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). User <code>id</code> kan kopieras från Discord genom att aktivera utvecklarläget
+        och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>tjänst</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Titeln på tjänsten som denna närvaro stödjer. <br>(Must vara samma namn som mappen där allt är i)</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>description</b>
-      </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>beskrivning</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">Liten beskrivning av närvaron, du kan använda beskrivning av tjänsten
+        om du är utanför idéer. Din beskrivning måste innehålla nyckelparvärden som anger språket, och beskrivningen i det specifika språket. Gör beskrivningar med språken <i>som du känner</i>, våra översättare kommer att göra ändringar i din metadatafil.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>URL</b>
+      </td>
+      <td style="text-align:left">URL till tjänsten.<br><b>Exempel:</b><code>vk. om</code><br>
+        <b>Denna URL måste matcha webbadressen till webbplatsen eftersom den kommer att upptäcka om detta är webbplatsen att injicera skriptet på.</b><br> Gör <b>INTE</b> lägg till <code>https://</code> eller <code>http://</code> i URL:en eller ett snedstreck i slutet:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Obs</b>: Vissa webbadresser kan ha <code>www.</code> eller något annat framför sin domän. Glöm inte <b></b> att lägga till det!<br>
+Du kan lägga till flera webbadresser genom att göra följande:<br>
+<code>["URL1", "URL2", "ETC. ]</code><br>
+Du kan också använda regExp även känd som Regex för denna uppgift, förklarade vidare nedan.
+      </td>
+      <td style="text-align:left"><code>Sträng, Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">En linjär uttryckssträng som används för att matcha webbadresser.<br>
+      regExp eller även känd som Regex, kan användas om en webbplats har flera underdomäner.<br>
+Du kan använda följande regExp för det:<br>
+<code>([a-z0-9]+)[.]domän[.]TLD"</code><br>
+TLD står för toppdomänen för axample: . om .net<br> 
+<code>([a-z0-9]+)</code> betyder allt från ett till z och från 0 till 9.<br>
+        Du kan testa din regExp på <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Version av din närvaro.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>logotyp</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Länk till service&apos;s logotyp.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Länka till din närvaro miniatyr.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>färg</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#HEX</code> värde. Vi rekommenderar att använda en primär färg på tjänsten
+        som din närvaro stöder.</td>
+      <td style="text-align:left"><code>Sträng</code>
+      </td>
+      <td style="text-align:left"><code>Nej</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>taggar</b>
+      </td>
+      <td style="text-align:left">Array med taggar, kommer de att hjälpa användare att söka din närvaro på webbplatsen.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Sträng, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>Kategori</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">En sträng som används för att representera kategorin närvaron faller under. Se giltiga katergorier <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">här</a>.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nej</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Anger om <code>iFrames</code> används</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">En reguljära uttrycksväljare som väljer iframes att injicera i. Se regExp för mer information.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Klicka [här](/dev/presence#filling-in-the-metadatajson-file) för att gå tillbaka till TypeScript förklaringen. Klicka [här](/dev/presence#filling-in-the-metadatajson-file-1) för att gå tillbaka till JavaScript-förklaringen.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Laddar närvaron
+1. Öppna popup-fönstret och håll nere <kbd>Shift</kbd> -knappen på tangentbordet.
+2. **Ladda Närvaro** kommer att visas i avsnittet Närvaro.
+3. Klicka på den medan du fortfarande håller i <kbd>Shift</kbd> -knappen.
+4. Välj /dist mapp för din närvaro.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Några hjälpsamma saker
+## Varm omladdning
+Webbplatsen du utvecklar på laddas om automatiskt varje gång du sparar en fil i din mapp.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## Felsökning
+- Du kan sätta `console.log("Test");` mellan din kod och se om din webbläsarkonsol ger dig den utgången. Om ja sedan fortsätta och försök igen efter nästa funktion. Om inte då är det ett fel ovan.
+- Om det inte hjälper dig så fråga en närvaroutvecklare på vår [Discord-server](https://discord.gg/PreMiD) om hjälp.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Filer förklarade
+- [Närvaro klass](/dev/presence/class)
+- [iFrame klass](/dev/presence/iframe)
+- [Metadata fil](/dev/presence/metadata)
+- [Konfiguration av typskript](/dev/presence/tsconfig)
 {.links-list}

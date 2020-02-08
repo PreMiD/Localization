@@ -1,23 +1,23 @@
 ---
-title: Windows
-description: Getting started with a PreMD installation on Windows
+title: Вікна
+description: Початок роботи з встановленням PreMiD на Windows
 published: true
-date: 2019-10-02T12:26:07.726Z
+date: 2020-02-07Т00:44:57.532Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Перед тим, як піти далі, переконайтеся, що ваша система відповідає всім вимогам [](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Встановлення програми дуже важливе, оскільки розширення не може робити нічого самостійно.
 
 # Установити
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+1. Перейдіть на нашу сторінку завантажень [натиснувши тут](https://premid.app/downloads).
+2. Виберіть **Windows**.
+3. Відкрити інсталятор.
+4. **При першому встановленні PreMiD на Windows SmartScreen** з’явиться екран Android. Натисніть **Більше інформації** а потім виберіть **Виконати у будь-якому місці**. > Це тому, що у нас немає сертифіката підпису коду (CSC). [Підтримайте](https://www.patreon.com/Timeraa) щоб профінансувати його.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Програма розпочнеться автоматично. Перевіряти наявність символу у системному лотку.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Не забудьте [додати розширення ****](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}

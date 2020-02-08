@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Strona bez tytułu
+description: Mały pomocnik do TypeScript
 published: tak
-date: 2019-10-03T04:01:12.991Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript Configuration
+# Konfiguracja TypeScript
 
-## Introduction
+## Wprowadzanie
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Po pobraniu i rozpakowaniu obszaru roboczego, zobaczysz plik o nazwie `tsconfig. s` w folderach root i obecności, ten plik jest używany do konfigurowania kompilatora **TypeScript**. Jest już skonfigurowany dla Ciebie, więc nie martw się o to.
 
-We just want to describe some settings that you should know.
+Chcemy tylko opisać ustawienia, które powinieneś wiedzieć.
 
-## Root Configuration
+## Konfiguracja roota
 
-In the root configuration file you will see something like this.
+W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Opis                                                                                            |
+| Własność            | Opis                                                                                            |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| **compilerOptions** | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                |
+| moduł               | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Określa wersję JavaScript, którą kompilujesz.                                                   |
+| usuń Komentarze     | Usuwanie komentarzy z skompilowanych plików.                                                    |
+| **wyklucz**         | Tutaj możesz zdefiniować foldery, które chcesz wyłączyć z przyszłej kompilacji.                 |
 
-## Presence Configuration
+## Konfiguracja Presence
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Opis                                                                                   |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Własność            | Opis                                                                                                     |
+|:------------------- |:-------------------------------------------------------------------------------------------------------- |
+| **rozszerzone**     | Używane do rozszerzenia podstawowego pliku `tsconfig` dla różnych zadań.                                 |
+| **compilerOptions** | Zobacz [**Konfiguracja root**](/dev/presence/tsconfig#root-configuration) aby uzyskać więcej informacji. |
+| na wyjściu          | Określa katalog wyjściowy skompilowanych plików.                                                         |

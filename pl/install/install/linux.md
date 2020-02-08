@@ -2,7 +2,7 @@
 title: Linux
 description: Rozpoczęcie instalacji PreMiD w systemie Linux
 published: tak
-date: 2019-10-03T15:55:36.490Z
+date: 2020-02-06T23:54:03.042Z
 tags:
 ---
 
@@ -15,7 +15,7 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 
 1. Zainstaluj [NodeJS](https://nodejs.org/en/).
 2. Otwórz Terminal.
-3. Sklonuj repozytorium: `git clone https://github.com/Timeraa/PreMiD.git`
+3. Sklonuj repozytorium: `git clone https://github.com/PreMiD/PreMiD.git`
 4. Zmień katalog roboczy: `cd PreMiD/src`
 5. Zainstaluj zależności i aplikację: `npm install`
 6. Zmień katalog roboczy: `cd PreMiD/src`

@@ -1,34 +1,34 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: Přístup k dalším zdrojům a provádění akcí pomocí PreMiD API
 published: true
-date: 2019-10-03T00:53:26.994Z
+date: 2020-01-19T23:42:12.088Z
 tags:
 ---
 
 # API
 
-> Base URL: https://api.premid.app 
+> Základní adresa URL: https://api.premid.app 
 > 
 > {.is-info}
 
 ## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> Některé verze API a Gateway jsou nyní zastaralé a jsou označeny jako ukončené v tabulce níže pro plakáty. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD vystavuje různé verze našeho API. Můžete specifikovat verzi tak, že ji vložíte do adresy, jako je `https://api.premid.app/v{version_number}`. Zrušení čísla verze z trasy bude směrovat požadavky na aktuální výchozí verzi (odpovídajícím způsobem označeno níže).
 
-## Encryption
+## Šifrování
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Všechny služby a protokoly HTTP (např. http) v rámci PreMiD API používají TLS 1.2.
 
 # Dokumentace
-> Currently under construction! 
+> Momentálně ve výstavbě! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**Vyberte verzi APL:**
+- [v1 *zastaralé*](/dev/api/v1)
+- [v2 *aktivní*](/dev/api/v2)
 {.links-list}

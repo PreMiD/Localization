@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: '2019-12-06T15: 39: 48.102Z'
+date: 2020-02-03T13:55:40.904Z
 tags:
 ---
 
@@ -29,7 +29,14 @@ Beachten Sie die folgende Liste, bevor Sie an Ihrer Anwesenheit arbeiten.
 - Die Anwesenheit **darf nicht** haben keine bösen Absichten. Dazu gehören das Stehlen / Weitergeben von privaten Informationen, die Beeinträchtigung des Verhaltens der Website usw.
 - Wenn Sie eine Präsenz für eine Website - Design und die Website geschieht in der Zukunft ändern, Sie **ARE** verantwortlich für die Anwesenheit wieder an die Arbeit zu aktualisieren , wie erwartet. Wenn Sie es nicht innerhalb eines akzeptablen Zeitrahmens beheben, sind andere Präsenz Entwickler erlaubt **überschreiben** Ihre Anwesenheit mit den Änderungen zu erfüllen.
 - Das Vorhandensein muss vor der Veröffentlichung getestet werden, um sicherzustellen, dass alles wie erwartet funktioniert.
-- Ihre Anwesenheit muss sfw Bilder und Beschreibungen haben, unabhängig davon, ob es nsfw ist oder nicht. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
+- Ihre Anwesenheit muss SFW-Bilder und -Beschreibungen haben, unabhängig davon, ob es NSFW ist oder nicht. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
+- Ihre Präsenz muss **NICHT** für kostenlose Domains oder Hosts sein (z.B. .TK, [alle freien Freenom-Domains], . F.GD, etc...), Ausnahmen können gemacht werden, wenn ein Nachweis vorgelegt wird, dass es sich um eine bezahlte Domain handelt.
+- Die `small ImageKey` und `smallImageText` Felder sollen zusätzlich/sekundären Kontext (wie "playing"/"paused" für Video-Sites bereitstellen "Browsing" für normale Websites und andere Fälle). Du bist nicht berechtigt Discord Profile zu fördern oder nichts mit PreMiD zu tun.
+- Die Anforderungen für Logos sind allerdings 1:1 (Quare) in 512px, Thumbnails, aber sollten entweder [weite Werbekarten](https://i.imgur.com/3QfIc5v.jpg) oder einfach [Screenshots](https://i.imgur.com/OAcBmwW.png) sein, falls die ersten nicht verfügbar sind.
+- Die Präsenzen sollten mindestens 1 Tag haben, dies ist eine Anforderung nach Design und kann in der Zukunft optional sein.
+- Das Feld `url` darf nicht `http://` oder `https://`enthalten, auch nicht die Parameter (z. eine Präsenz für `https://www.google.com/search?gws_rd=ssl` hat nur `www.google.com` im `url` Feld.
+- Beschreibungen und Tags sollten immer in Arrays sein, auch wenn es nur ein Element ist. Das Feld `url` sollte jedoch nur ein String sein, wenn es sich um eine Domain handelt.
+- Instabile Seiten, die ständig APIs/Domains ändern Zufallsgenerierung von HTML-Elementen oder einfach nur in einer schweren Entwicklung sind nicht erlaubt und werden aus dem Store entfernt.
 
 ## Änderung
 
@@ -64,7 +71,7 @@ Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascrip
 ## Installation
 1. Installiere [Git](https://git-scm.com/).
 2. Installiere [Node](https://nodejs.org/en/) (kommt mit [npm](https://www.npmjs.com/)).
-3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm installiere -g typescript`).
+3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
 ## Projekt klonen
 1. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.

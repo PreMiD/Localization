@@ -2,7 +2,7 @@
 title: Instalacja
 description: Jak zainstalować PreMiD
 published: tak
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 

@@ -1,23 +1,23 @@
 ---
 title: Windows
-description: Getting started with a PreMD installation on Windows
+description: Začínáme s instalací PreMiD na Windows
 published: true
-date: 2019-10-02T12:26:07.726Z
+date: 2020-02-07T00:44:57.532Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
-# Instalovat
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+# Instalace
+1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
+2. Zvolte **Windows**.
+3. Otevřete instalační program.
+4. **Windows SmartScreen** se objeví, když poprvé nainstalujete PreMiD. Klikněte na **Další informace** a poté vyberte **Spustit každopádně**. > Důvodem je, že nemáme certifikát pro podpis kódu (CSC). [Podpořte nás](https://www.patreon.com/Timeraa) k jeho financování.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Aplikace se spustí automaticky. Zkontrolujte zda je symbol v systémové liště.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Nezapomeňte [přidat **rozšíření**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}

@@ -2,7 +2,7 @@
 title: Követelmények
 description: A PreMiD telepítési előfeltételei
 published: true
-date: 2020-01-19T14:07:31.090Z
+date: 2020-01-19T23:42:23.276Z
 tags:
 ---
 

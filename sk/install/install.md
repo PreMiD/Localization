@@ -1,28 +1,32 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: Inštalácia
+description: Ako nainštalovať PreMiD
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Než sa pustíme do toho, uistite sa že spĺňate všetky [požiadavky](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Je potrebná** inštalácia ** **aplikácie** a** rozšírenia**! </p> 
 > 
-> {.is-warning}
-
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
-{.links-list}
-
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
-{.links-list}
-
-![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
+> {.is-warning}</blockquote> 
+> 
+> **Zvoľte si váš operačný systém:**
+> 
+> - [Windows *7 a vyššie*](/install/windows)
+> - [macOS *10.11 a vyššie*](/install/macos)
+> - [Linux *4 a vyššie*](/install/linux) 
+>     
+>     {.links-list}
+> 
+> **Zvoľte si váš prehliadač:**
+> 
+> - [Chromium *v76 a vyššie*](/install/chromium)
+> - [Firefox *v69 a vyššie*](/install/firefox) 
+>     
+>     {.links-list}
+> 
+> ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}

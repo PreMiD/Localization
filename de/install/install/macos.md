@@ -1,8 +1,8 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Erste Schritte mit einer PreMiD-Installation auf macOS
 published: true
-date: 2019-10-02T11:30:51.936Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
@@ -10,21 +10,21 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Die Installation der Anwendung ist sehr wichtig, da die Erweiterung alleine, nicht funktionieren wird.
 
 # Installieren
 1. Auf unserer Download - Seite von [hier klicken](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+2. Wähle **OS X**.
+3. Entpacke das Archiv falls nötig.
+4. Öffne das Installationsprogramm.
+5. Wenn du PreMiD zum ersten Mal installierst, erscheint eine **Sicherheitsmeldung**. Gehen zu deinen **Einstellungen** > **Sicherheit** > **Allgemein** > **Trotzdem öffnen**. [Erfahre mehr](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) über unsignierte Anwendungen.
+> Das liegt daran, dass wir kein Code Signing Certificate (CSC) haben. [Unterstütze uns](https://www.patreon.com/Timeraa) um es zu finanzieren.{.is-info}
+6. Wähle öffnen wenn du dazu aufgefordert wirst.
+7. Gewähre Zugriff auf Verbindungen über die **Firewall** und das steuern von **Systemereignissen** wenn du gefragt wirst.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Die Anwendung startet automatisch. Such danach nach dem Symbol in deiner Menüleiste.
 
-> Do not forget to [add the **extension**](/install). 
+> Vergiss nicht, die [ **Erweiterung**](/install) hinzuzufügen. 
 > 
 > {.is-warning}
 

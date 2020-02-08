@@ -1,12 +1,12 @@
 ---
-title: Presence Class
+title: Classe Presence
 description: A classe principal para cada presença do PreMiD
 published: true
-date: 2019-10-06T23:18:10.415Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Classe Presence
 
 ## Introdução
 
@@ -65,13 +65,13 @@ Limpa sua atividade atual, os atalhos e título de bandeja.
 
 Define o título da bandeja no Menubar.
 
-### `getStrings(Object)`
+### `getStrings(Objeto)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Permite que você obtenha frases traduzidas da extensão. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Você pode encontrar algumas das strings usando este endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Retorna strings `Playing` e `Paused`
+// a partir da extensão.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,23 +80,23 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Retorna uma variável a partir do site, se ela existir.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Isto registrará o "conteúdo variável"
 ```
 
-## `presenceData` Interface
+## Interface `presenceData`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+A interface `presenceData` é recomendada quando você usar o método `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variável</th>
       <th style="text-align:left">Descrição</th>
       <th style="text-align:left">Tipo</th>
     </tr>
@@ -121,35 +121,35 @@ This interface has following variables, all of them are optional.
           <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
           contagem errada.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+      <td style="text-align:left">Define a duração total.
+        <br>Usado se você quiser mostrar quantos <code>horas:minutos:segundos</code> faltam.
           <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
           contagem errada.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Define o logo para a presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele passar o cursor no pequeno 
+        ícone.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -170,11 +170,11 @@ var presenceData: presenceData = {
 
 ## Eventos
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Os eventos permitem que você detecte e lide com algumas alterações ou chamadas que foram feitas. Você pode assinar eventos usando o método `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Faça algo quando os dados forem atualizados.
 });
 ```
 
@@ -182,12 +182,12 @@ Há alguns eventos disponíveis:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Este evento é disparado toda vez que a presença é atualizada.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (desativado)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Disparado quando o usuário usa chaves de mídia em seu teclado, [clique aqui](/dev/presence/class#mediakeys) para obter mais informações sobre as chaves de mídia.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Disparado quando os dados são recebidos do script iFrame.

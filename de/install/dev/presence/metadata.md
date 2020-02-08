@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Enthält grundlegende Daten zur Präsenz
 published: true
-date: '2019-12-04T23: 10: 48.719Z'
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 

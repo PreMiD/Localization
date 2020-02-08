@@ -1,22 +1,22 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: Pagina senza titolo
+description: Un piccolo aiuto per TypeScript
 published: vero
-date: 2019-10-03T04:01:12.991Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript Configuration
+# Configurazione TypeScript
 
 ## Introduzione
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Quando hai scaricato e disimballato lo spazio di lavoro, vedrai un file chiamato `tsconfig. s` nelle cartelle root e presenza, questo file viene utilizzato per configurare il compilatore **TypeScript**. È già configurato per te, quindi non preoccuparti di questo.
 
-We just want to describe some settings that you should know.
+Vogliamo solo descrivere alcune impostazioni che dovresti sapere.
 
-## Root Configuration
+## Configurazione Root
 
-In the root configuration file you will see something like this.
+Nel file di configurazione root vedrai qualcosa di simile.
 
 ```javascript
 {
@@ -29,15 +29,15 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Descrizione                                                                                     |
+| ProprietÃ           | Descrizione                                                                                     |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| **compilerOptions** | Utilizzato per configurare il compilatore, la maggior parte delle proprietà si trova qui.       |
+| Modulo              | Puoi leggere di più su questo [qui](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Definisce la versione JavaScript che stai compilando.                                           |
+| rimuoviCommenti     | Rimozione commenti dai file compilati.                                                          |
+| **escludi**         | Qui puoi definire le cartelle che vuoi escludere dalla compilazione futura.                     |
 
-## Presence Configuration
+## Configurazione Presenza
 
 ```javascript
 {
@@ -48,8 +48,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Descrizione                                                                            |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| ProprietÃ           | Descrizione                                                                                          |
+|:------------------- |:---------------------------------------------------------------------------------------------------- |
+| **estende**         | Utilizzato per estendere il file base `tsconfig` per varie attività.                                 |
+| **compilerOptions** | Vedi [**Configurazione Root**](/dev/presence/tsconfig#root-configuration) per maggiori informazioni. |
+| outDir              | Definisce la directory di output per i file compilati.                                               |

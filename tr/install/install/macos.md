@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: MacOS'ta PreMiD kurulumuna başlarken
 published: true
-date: 2019-10-02T11:30:51.936Z
+date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> İlerlemeden önce sisteminizin tüm gereksinimleri karşıladığından emin olun. 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
 # Yükle
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+1. [Buraya](https://premid.app/downloads) tıklayarak "İndir" sayfamıza gidin.
+2. **OS X**'i seçin.
+3. Gerekirse arşivi çıkartın.
+4. Yükleyiciyi açın.
+5. Eğer PreMiD'i ilk defa yüklüyorsanız karşınıza bir **güvenlik uyarısı** çıkacaktır. Bunu düzeltmek için **Ayarlar** > **Güvenlik** > **Genel** > **Yine de Çalıştır** adımlarını takip edebilirsiniz. İmzasız uygulamalar hakkında daha fazla bilgi almak için [buraya](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) tıklayın.
+> Bunun nedeni Code Signing Certificate (CSC) sertfikamızın olmamasıdır. Bunu karşılayabilmemiz için [bize destek olun](https://www.patreon.com/Timeraa).{.is-info}
+6. Sorulduğunda uygulamayı çalıştır seçeneğini seçin.
+7. **Güvenlik Duvarı**ndan geçebilmesi ve **Sistem Olayları**nı kontrol edebilmesi için size sorulduğunda uygulamaya bu izinleri verin.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol edin.
 
-> Do not forget to [add the **extension**](/install). 
+> **[Eklentiyi](/install)** de eklemeyi unutmayın. 
 > 
 > {.is-warning}
 

@@ -1,28 +1,28 @@
 ---
 title: Installation
-description: How to install PreMiD
+description: Cách cài đặt PreMiD
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Trước khi tiến hành, hãy đảm bảo rằng hệ thống của bạn phù hợp vói [yêu cầu hệ thống](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> Nó **cần thiết** để tải cả **ứng dụng** và **tiện ích**! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Chọn hệ điều hành:**
+- [Windows *7 hoặc trở lên*](/install/windows)
+- [MacOS *10.11 hoặc trở lên*](/install/macos)
+- [Linux *4 hoặc trở lên*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Chọn trình duyệt:**
+- [Chromium *v76 hoặc trở lên*](/install/chromium)
+- [Firefox *v69 hoặc trở lên*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
