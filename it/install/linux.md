@@ -29,7 +29,7 @@ L'applicazione si avvierà automaticamente. Controlla il simbolo nella barra dei
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) under `premid`. Usa il tuo gestore di pacchetti preferito per prenderlo da lì!
+Se sei su Arch Linux o una distribuzione basata su Arch, PreMiD è disponibile sul [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) sotto `premid`. Usa il tuo gestore di pacchetti preferito per prenderlo da lì!
 
 ## Altre distribuzioni
 - Script d'installazione: `wget -qO- http://bit.ly/install-premid <unk> bash` o `curl -sL https://bit. /install-premid <unk> bash`, attendi che si installi, fai doppio clic sulla scorciatoia "PreMiD" creata sul tuo Desktop, ed è tutto!
