@@ -1,16 +1,16 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-19T23:42:34.658Z
 tags:
 ---
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Pokud chcete publikovat přítomnost v obchodě a nahrát jej prostřednictvím rozšíření, měli byste vytvořit `metadata. syn` soubor ve složce `presence.js`.
 
-The example of that file can be found below.
+Příklad tohoto souboru je uveden níže.
 
 ```javascript
 {
@@ -18,198 +18,198 @@ The example of that file can be found below.
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
+  "přispěvatelé": [{
     "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "description": {
-    "en": "DESCRIPTION"
+    "c": "DESCRIPTION"
   },
   "url": "URL",
-  "regExp": "REGEXP",
+  "regregExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "verze": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "tags": ["KATEGORI", "TAG"],
+  "Kategorie": "KATEGORI",
   "iframe": false
 }
 ```
 
-## Understanding the metadata.json
+## Pochopení metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké pochopit, k čemu je každá proměnná.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Proměnná</th>
       <th style="text-align:left">Popis</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Nepovinné</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+        a kliknutím pravým tlačítkem myši na tvůj profil.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>contributors</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>přispěvatelé</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatele <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+        a kliknutím pravým tlačítkem myši na tvůj profil.</td>
+      <td style="text-align:left"><code>Pole&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>description</b>
-      </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>služba</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">Název služby, kterou tato přítomnost podporuje.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>popis</b>
+      </td>
+      <td style="text-align:left">Malý popis přítomnosti, můžete použít popis služby
+        , pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
+      <td style="text-align:left"><code>Objekt</code>
+      </td>
+      <td style="text-align:left"><code>Ne</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>URL</b>
+      </td>
+      <td style="text-align:left">Adresa URL služby.<br><b>Příklad:</b><code>vk. om</code><br>
+        <b>Tato adresa URL musí odpovídat URL webu, protože bude použita k detekci, kde je nebo není tato stránka k vložení skriptu.</b>
+      </td>
+      <td style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Regulární výraz řetězec používaný pro odpovídající URL adresy.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>verze</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Verze vaší přítomnosti.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Odkaz na službu&apos; s logotypem.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>thumbnail</b>
-      </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>náhled</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Odkaz na náhled vašeho stavu.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>barva</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#HEX</code> hodnota. Doporučujeme použít primární barvu služby
+        , kterou vaše přítomnost podporuje.</td>
+      <td style="text-align:left"><code>Řetězec</code>
+      </td>
+      <td style="text-align:left"><code>Ne</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>štítky</b>
+      </td>
+      <td style="text-align:left">Pole se značkami, které pomohou uživatelům vyhledat vaši přítomnost na webu.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>Kategorie</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Řetězec používaný k reprezentaci kategorie, pod kterou přítomnost spadá.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ne</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Určuje, zda jsou použity <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Regulární selektor, který vybere iframy, do kterých se má vložit.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ano</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-## Regular Expressions
+## Řádné výrazy
 
-If you want to learn regular expressions, here are a few websites.
+Pokud se chcete naučit regulární výrazy, zde je několik webových stránek.
 
-### Learning
+### Učení
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Informace o regulárních výrazech](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Testování
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Kategorie přítomnosti
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Při zjišťování přítomnosti musíte specifikovat kategorii, do které přítomnost spadá. Toto je sestavený seznam kategorií, které můžete použít.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategorie</th>
+      <th style="text-align:left">Jméno</th>
       <th style="text-align:left">Popis</th>
     </tr>
   </thead>
@@ -217,37 +217,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Cokoli se týká anime, od fór až po platformy pro video streamování.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>hry</b></td>
     <td style="text-align:left"><b>Hry</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Jakékoli webové stránky, které mají obsah související s hrou, jako je <code>Kahoot</code> nebo <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
+      <td style="text-align:left"><b>hudba</b></td>
     <td style="text-align:left"><b>Hudba</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Toto jsou webové stránky, které nabízejí hudební obsah, ať už se jedná o streamování nebo stahování.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>sociální sítě</b></td>
         <td style="text-align:left"><b>Sociální sítě</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Internetové stránky, které se používají pro vytváření a sdílení obsahu nebo pro účast v jiných formách sociálních sítí.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>videa</b></td>
         <td style="text-align:left"><b>Videa & Streamy</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Internetové stránky, které slouží k poskytování videí a streamů.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>ostatní</b></td>
     <td style="text-align:left"><b>Ostatní</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Cokoliv, co nespadá do konkrétní kategorie uvedené výše.</td>
       </td>
     </tr>
   </tbody>
