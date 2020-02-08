@@ -2,7 +2,7 @@
 title: Comenzando
 description: Un pequeño consejo para aquellos que han entrado recientemente en la codificación
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Instalando los requisitos
 1. Install [Git](https://git-scm.com/).
 2. Instala [Nodo](https://nodejs.org/en/) (viene con [npm](https://www.npmjs.com/)).
-3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abre un terminal y `npm install -g typescript`).
+3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abre un terminal y escribe `npm install -g typescript`).
 
 # Clonando el proyecto
 1. Abre un terminal y escribe `git clone URL`. **Reemplace la URL con el enlace del repositorio al que desea contribuir** p.e. `git clone https://github.com/PreMiD/PreMiD`.
