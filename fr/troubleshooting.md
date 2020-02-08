@@ -1,51 +1,51 @@
 ---
 title: Dépannage
-description: Everything to solve your problem
-published: true
-date: 2019-10-03T00:21:25.018Z
+description: Tout pour résoudre votre problème
+published: vrai
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Assurez-vous d'avoir l'extension **et** l'application installée! 
 > 
 > {.is-warning}
 
-### Reload the page
-You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### Recharger la page
+Vous pouvez aussi appuyer sur <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) sur votre clavier au lieu de rechercher le bouton de rafraîchissement.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Redémarrez votre navigateur
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) fait également un bon travail. (Vous devez redémarrer votre navigateur de toute évidence.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Assurez-vous d'avoir activé l'activité de jeu Discord dans les paramètres
+**Paramètres utilisateur** > **Activité de jeu** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Redémarrer PreMiD (Application)
+![quit.png](/quit.png) Vous devez redémarrer PreMiD par la suite.
 
-### Reload/restart Discord
-Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Recharger/redémarrer Discord
+Appuyez sur <kbd>Strg+R</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) sur votre clavier ou redémarrez Discord manuellement.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Assurez-vous que Discord ne fonctionne PAS en tant qu'administrateur
+Vraiment important. Le RPC Discord ne fonctionnera pas si vous exécutez Discord en tant qu'administrateur.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Vérifiez si vous avez un antivirus ou un pare-feu en cours d'exécution sur votre ordinateur
+Parfois, les programmes antivirus et les pare-feu bloquent les applications qui créent/hébergent des serveurs ou se connectent simplement à Internet. Nous utilisons un serveur local pour recevoir et passer des données entre notre application et l'extension, donc si vous bloquez la capacité de l'application à passer des données, vous ne serez probablement pas en mesure d'utiliser PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Désactiver vos addons
+Désactivez toutes vos extensions et voyez si cela fonctionne. Si oui, essayez d'activer vos addons pas à pas et dites-nous quel addon a cassé PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Redémarrage de votre ordinateur
+J'espère que vous savez comment redémarrer un ordinateur.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Réinstallation de PreMiD
+Parfois, il y a quelque chose qui ne va pas avec les fichiers... Les tutoriels pour l'installation peuvent être trouvés [ici](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### Suppression manuelle
+Windows:    `C:\Users\USER\Program Files (x86)\`` et supprimez le dossier`PreMiD`.
+MacOS :`~/users/USER/~Library/Application Support/`et supprimez le dossier`PreMiD``.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Sur les distributions basées sur Ubuntu/Debian
+Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version de Snapcraft en exécutant `sudo snap remove discord` sur un terminal, télécharger la [version Linux de Discord](https://discordapp.com/api/download?platform=linux) ([ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), puis naviguant dans le répertoire vers lequel vous avez téléchargé Discord (généralement `$HOME/Downloads`), puis l'installation du paquet en utilisant `sudo dpkg -i discord-*. eb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+### Cela n'a pas résolu mon problème
+Veuillez ouvrir un ticket dans [#support](https://discord.gg/PreMiD).
