@@ -1,28 +1,28 @@
 ---
 title: Installation
-description: How to install PreMiD
+description: Hur man installerar PreMiD
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Innan du går vidare, se till att ditt system uppfyller alla [krav](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Det är nödvändigt** att installera **både** **programmet** och **tillägget**! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Välj ditt operativsystem:**
+- [Windows *7 eller senare*](/install/windows)
+- [macOS *10.11 eller senare*](/install/macos)
+- [Linux *4 eller senare*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Välj din webbläsare:**
+- [Krom *v76 eller högre*](/install/chromium)
+- [Firefox *v69 eller senare*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
