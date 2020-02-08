@@ -39,9 +39,9 @@ O exemplo deste arquivo pode ser encontrado abaixo.
 }
 ```
 
-## Entendendo o metadata.json
+## Compreendendo o metadata.json
 
-Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão difícil entender para que cada variável serve.
+Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão difícil entender para que cada variável serve.
 
 <table>
   <thead>
