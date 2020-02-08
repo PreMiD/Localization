@@ -2,7 +2,7 @@
 title: Untitled Page
 description: A little helper for TypeScript
 published: true
-date: 2019-10-03T04:01:12.991Z
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
