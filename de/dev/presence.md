@@ -98,13 +98,13 @@ Bitte gib den folgenden Code in die Datei `tsconfg.json` ein.
 ```
 Um mehr über die TypeScript-Konfiguration zu erfahren, klicke [hier](/dev/presence/tsconfig).
 
-## Füllen Sie die Datei metadata.json aus
+## Ausfüllen der metadata.json
 
-Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file-2) zu sehen, wie es ausgefüllt wird. Sie können ganz einfach am unteren Rand der Erklärung zurückklicken.
+Klicke [hier](/dev/presence#filling-in-the-metadatajson-file-2), um zu sehen, wie sie ausgefüllt wird. Du kannst ganz einfach am unteren Rand der Erklärung zurückklicken.
 
-Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
 
-## Fertig machen
+## Erste Schritte
 
 ```javascript
 var presence = new Presence ({
@@ -159,24 +159,24 @@ Presence.on ("UpdateData", async () => {
     }
 });
 ```
-Sie können dies in Ihre Datei `presence.ts` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
+Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
 
-Als Beispiele schlagen wir vor, den Anwesenheitscode wie 1337x oder 9GAG zu betrachten.
+Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
-Weitere Informationen über die Präsenz Klasse klicken [hier](/dev/presence/class).
+Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz-Klasse.
 
-## Sie können bestimmte Daten nicht abrufen ?!
+## Du kannst bestimmte Daten nicht abrufen?!
 
-Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z. B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfen Sie, ob Sie die benötigten Informationen extrahieren können, bevor Sie unnötige Arbeiten ausführen.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Überprüfen Sie sie über die Browserkonsole (stellen Sie sicher, dass Sie sich auf der Registerkarte **Elements**).
-2. Suchen (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Führen Sie `document.querySelectorAll ("iframe")`.
+1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
+2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Führe `document.querySelectorAll("iframe")` aus.
 
-Wenn Sie feststellen, dass sich Ihre Daten in einem iFrame befinden, müssen Sie folgende Schritte ausführen:
-1. Erstellen Sie eine `iframe.ts` Datei.
-2. Setzen Sie iFrame in Ihrer Metadatendatei auf `true`.
-3. Füllen Sie Ihre iFrame-Datei aus.
+Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
+1. Erstelle eine `iframe.ts`-Datei.
+2. Setze iFrame in Ihrer Metadatendatei auf `true`.
+3. Fülle Ihre iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame ();
 iframe.on ("UpdateData", async () => {
@@ -190,7 +190,7 @@ iframe.on ("UpdateData", async () => {
   }); 
 });
 ```
-4. Ermöglichen, dass Ihre Anwesenheitsdatei Daten aus der iFrame-Datei empfängt.
+4. Ermöglichen Deiner Präsenz-Datei Daten aus der iFrame-Datei zu empfangen.
 ```javascript
 presence.on ("iFrameData", data => {
   iFrameVideo = data.video;
@@ -214,13 +214,13 @@ presence.on ("iFrameData", data => {
 3. Erstelle einen Ordner mit dem Namen `dist`.
 4. Erstellen Sie eine `metadata.json` Datei und eine `presence.js` Datei im Ordner `dist`.
 
-## Füllen Sie die Datei metadata.json aus
+## Ausfüllen der metadata.json
 
-Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file-2) zu sehen, wie es ausgefüllt wird. Sie können ganz einfach am unteren Rand der Erklärung zurückklicken.
+Klicke [hier](/dev/presence#filling-in-the-metadatajson-file-2), um zu sehen, wie sie ausgefüllt wird. Du kannst ganz einfach am unteren Rand der Erklärung zurückklicken.
 
-Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
 
-## Fertig machen
+## Erste Schritte
 
 ```javascript
 var presence = new Presence ({
@@ -277,22 +277,22 @@ presence.on ( „Update“, () => {
 ```
 Sie können dies in Ihre Datei `presence.js` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
 
-Als Beispiele schlagen wir vor, den Anwesenheitscode wie 1337x oder 9GAG zu betrachten.
+Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
-Weitere Informationen über die Präsenz Klasse klicken [hier](/dev/presence/class).
+Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz-Klasse.
 
-## Sie können bestimmte Daten nicht abrufen ?!
+## Du kannst bestimmte Daten nicht abrufen?!
 
-Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z. B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfen Sie, ob Sie die benötigten Informationen extrahieren können, bevor Sie unnötige Arbeiten ausführen.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Überprüfen Sie sie über die Browserkonsole (stellen Sie sicher, dass Sie sich auf der Registerkarte **Elements**).
-2. Suchen (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Führen Sie `document.querySelectorAll ("iframe")`.
+1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
+2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Führe `document.querySelectorAll("iframe")` aus.
 
-Wenn Sie feststellen, dass sich Ihre Daten in einem iFrame befinden, müssen Sie folgende Schritte ausführen:
+Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
 1. Erstellen Sie eine `iframe.js` Datei.
-2. Setzen Sie iFrame in Ihrer Metadatendatei auf `true`.
-3. Füllen Sie Ihre iFrame-Datei aus.
+2. Setze iFrame in Ihrer Metadatendatei auf `true`.
+3. Fülle Ihre iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame ();
 iframe.on ("UpdateData", () => {
@@ -306,7 +306,7 @@ iframe.on ("UpdateData", () => {
     });
 });
 ```
-4. Ermöglichen, dass Ihre Anwesenheitsdatei Daten aus der iFrame-Datei empfängt.
+4. Ermöglichen Deiner Präsenz-Datei Daten aus der iFrame-Datei zu empfangen.
 ```javascript
 presence.on ("iFrameData", data => {
   iFrameVideo = data.video;
@@ -314,8 +314,8 @@ presence.on ("iFrameData", data => {
 });
 ```
 **Hinweis:** Muss außerhalb des updateData-Ereignisses platziert werden.
-# Füllen Sie die Datei metadata.json aus
-Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Sie wissen, wie es funktioniert.
+# Ausfüllen der metadata.json
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Sie wissen, wie es funktioniert.
 
 ```javascript
 {
