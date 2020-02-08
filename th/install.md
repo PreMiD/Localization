@@ -1,8 +1,8 @@
 ---
 title: Installation
-description: How to install PreMiD
+description: วิธีติดตั้ง PreMiD
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
@@ -14,15 +14,15 @@ tags:
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**เลือกระบบปฏิบัติการของคุณ:**
+- [Windows *7 หรือ สูงกว่า*](/install/windows)
+- [macOS *10.11 หรือ สูงกว่า*](/install/macos)
+- [Linux *4 หรือ สูงกว่า*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**เลือกเว็บบราวเซอร์ของคุณ:**
+- [Chromium *v76 หรือ สูงกว่า*](/install/chromium)
+- [Firefox *v69 หรือ สูงกว่า*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
