@@ -6,7 +6,7 @@ date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Vergewissern Sie sich, bevor Sie fortfahren, dass Ihr System alle [Anforderungen](/install/requirements)erfüllt. 
+> Bevor Du fortfährst, stelle sicher, dass Dein System alle [Anforderungen erfüllt](/install/requirements). 
 > 
 > {.is-info}
 
@@ -14,13 +14,13 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 # Installieren
 1. Gehe zu unserer Download-Seite, indem du [hier klickst](https://premid.app/downloads).
-2. Wähle **OS X**.
+2. Wähle **OS X** aus.
 3. Entpacke das Archiv falls nötig.
 4. Öffne das Installationsprogramm.
 5. Wenn du PreMiD zum ersten Mal installierst, erscheint eine **Sicherheitsmeldung**. Gehen zu deinen **Einstellungen** > **Sicherheit** > **Allgemein** > **Trotzdem öffnen**. [Erfahre mehr](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) über unsignierte Anwendungen.
 > Das liegt daran, dass wir kein Code Signing Certificate (CSC) haben. [Unterstütze uns](https://www.patreon.com/Timeraa) um es zu finanzieren.{.is-info}
-6. Wähle öffnen wenn du dazu aufgefordert wirst.
-7. Gewähre Zugriff auf Verbindungen über die **Firewall** und das steuern von **Systemereignissen** wenn du gefragt wirst.
+6. Wähle öffnen, wenn du dazu aufgefordert wirst.
+7. Gewähre Zugriff auf Verbindungen über die **Firewall** und das steuern von **Systemereignissen**, wenn du dazu aufgefordert wirst.
 
 Die Anwendung startet automatisch. Such danach nach dem Symbol in deiner Menüleiste.
 
