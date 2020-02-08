@@ -2,7 +2,7 @@
 title: Разработка присутствия
 description:
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или используются не активно. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
 
 1. Проверять их на консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
-2. Поиск (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Поиск (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Выполнить `document.querySelectorAll("iframe")`.
 
 Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
@@ -286,7 +286,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или используются не активно. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
 
 1. Проверять их на консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
-2. Поиск (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Поиск (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Выполнить `document.querySelectorAll("iframe")`.
 
 Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
