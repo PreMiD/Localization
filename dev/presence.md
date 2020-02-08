@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags: 
 ---
 
@@ -174,7 +174,7 @@ But they're not relevant every time. Some are hidden or just not actively used.
 Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute ``document.querySelectorAll("iframe")``.
 
 If you find that your data is in a iFrame you need to do the following:
@@ -295,7 +295,7 @@ But they're not relevant every time. Some are hidden or just not actively used.
 Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute ``document.querySelectorAll("iframe")``.
 
 If you find that your data is in a iFrame you need to do the following:
