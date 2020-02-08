@@ -176,7 +176,7 @@ Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/
 Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
 1. Erstelle eine `iframe.ts`-Datei.
 2. Setze iFrame in Ihrer Metadatendatei auf `true`.
-3. Fülle Ihre iFrame-Datei aus.
+3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame ();
 iframe.on ("UpdateData", async () => {
@@ -190,16 +190,16 @@ iframe.on ("UpdateData", async () => {
   }); 
 });
 ```
-4. Ermöglichen Deiner Präsenz-Datei Daten aus der iFrame-Datei zu empfangen.
+4. Ermögliche Deiner Präsenz-Datei, Daten aus der iFrame-Datei zu empfangen.
 ```javascript
 presence.on ("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Hinweis:** Muss außerhalb des updateData-Ereignisses platziert werden.
+**Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
 ## Kompilieren
-Öffnen Sie eine Konsole in Ihrem Ordner und geben Sie `tsc -w` , um die `presence.ts` in den Ordner `/ dist` zu kompilieren.
+Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/ dist` zu kompilieren.
 
 # Struktur (JavaScript)
 ## Projekt klonen
@@ -275,7 +275,7 @@ presence.on ( „Update“, () => {
     }
 });
 ```
-Sie können dies in Ihre Datei `presence.js` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
+Du kannst dies in Deine `presence.js` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
 
 Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
@@ -292,7 +292,7 @@ Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/
 Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
 1. Erstellen Sie eine `iframe.js` Datei.
 2. Setze iFrame in Ihrer Metadatendatei auf `true`.
-3. Fülle Ihre iFrame-Datei aus.
+3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame ();
 iframe.on ("UpdateData", () => {
@@ -306,16 +306,16 @@ iframe.on ("UpdateData", () => {
     });
 });
 ```
-4. Ermöglichen Deiner Präsenz-Datei Daten aus der iFrame-Datei zu empfangen.
+4. Ermögliche Deiner Präsenz-Datei, Daten aus der iFrame-Datei zu empfangen.
 ```javascript
 presence.on ("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Hinweis:** Muss außerhalb des updateData-Ereignisses platziert werden.
+**Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
 # Ausfüllen der metadata.json
-Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Sie wissen, wie es funktioniert.
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Du weißt, wie es funktioniert.
 
 ```javascript
 {
@@ -344,7 +344,7 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 }
 ```
 
-Bitte kopieren Sie den obigen Code und fügen Sie ihn in Ihre Datei `metadata.json`. Sie müssen jetzt die Werte der Eigenschaften bearbeiten. Beachten Sie, dass die folgenden Eigenschaften in Ihrer Datei `metadata.json` optional sind. Wenn Sie sie nicht verwenden möchten, müssen Sie sie entfernen.
+Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du musst jetzt die Werte der Eigenschaften bearbeiten. Beachte, dass die folgenden Eigenschaften in Deiner `metadata.json` optional sind. Wenn Du sie nicht verwenden möchten, musst Du sie entfernen.
 - `Mitwirkende`
 - `regExp`
 - `iframe`
@@ -508,20 +508,20 @@ TLD steht beispielsweise für Top Level Domain: .com .net<br>
   </tbody>
 </table>
 
-Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file) , um zur TypeScript-Erklärung zurückzukehren. Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file-1) , um zur JavaScript-Erklärung zurückzukehren.
+Klicke [hier](/dev/presence#filling-in-the-metadatajson-file), um zur TypeScript-Erklärung zurückzukehren. Klicken [hier](/dev/presence#filling-in-the-metadatajson-file-1), um zur JavaScript-Erklärung zurückzukehren.
 
 # Präsenz laden
-1. Öffnen Sie das Popup und halten Sie die Taste <kbd>Shift</kbd> auf Ihrer Tastatur gedrückt.
+1. Öffne das Popup und halte die Taste <kbd>Shift</kbd> auf Deiner Tastatur gedrückt.
 2. **Präsenz laden** wird im Bereich Präsenz angezeigt.
-3. Klicken Sie darauf, während Sie die Taste <kbd>Shift</kbd> gedrückt halten.
-4. Wählen Sie den Ordner / dist Ihrer Anwesenheit.
+3. Klicke darauf, während Du die Taste <kbd>Shift</kbd> weiterhin gedrückt hälst.
+4. Wähle den Ordner /dist Deiner Präsenz.
 
 # Einige hilfreiche Dinge
 ## Hot-Reload
-Die Website, auf der Sie sich befinden, wird jedes Mal automatisch neu geladen, wenn Sie eine Datei in Ihrem Ordner speichern.
+Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
 
 ## Debuggen
-- Sie können `console.log ("Test") setzen;` zwischen Ihrem Code und prüfen Sie, ob Ihre Browserkonsole diese Ausgabe liefert. Wenn ja, fahren Sie fort und versuchen Sie es nach der nächsten Funktion erneut. Wenn nicht, liegt ein Fehler vor.
+- Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahren Sie fort und versuchen Sie es nach der nächsten Funktion erneut. Wenn nicht, liegt ein Fehler vor.
 - Wenn Ihnen das auch nicht hilft, fragen Sie einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/PreMiD) um Hilfe.
 
 # Dateien erklärt
