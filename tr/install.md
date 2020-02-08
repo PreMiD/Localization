@@ -1,28 +1,28 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: Yükleme
+description: PreMiD nasıl yüklenir
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> İlerlemeden önce sisteminizin tüm gereksinimleri karşıladığından emin olun. 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> Bu uygulamanın çalışabilmesi için hem **uygulamayı** hem de **eklentiyi** düzgün bir şekilde kurmanız **gereklidir**! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Kullandığınız işletim sistemini seçin:**
+- [Windows *7 veya üstü*](/install/windows)
+- [macOS *10.11 veya üstü*](/install/macos)
+- [Linux *4 veya üstü*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Kullandığınız tarayıcıyı seçin:**
+- [Chromium *v76 veya üstü*](/install/chromium)
+- [Firefox *v69 veya üstü*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
