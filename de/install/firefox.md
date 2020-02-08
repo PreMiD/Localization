@@ -6,18 +6,18 @@ date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
-Die Installation der Erweiterung ist sehr wichtig, da die Anwendung selbst nichts kann.
+Die Installation der Erweiterung ist sehr wichtig, da die Anwendung allein nicht funktionieren würde.
 
 # Installieren
-1. Auf unserer Download - Seite von [hier klicken](https://premid.app/downloads).
-2. Wählen Sie **Firefox**.
-3. Suche nach `nach: addons`.
-4. Klicken Sie auf das kleine Zahnradsymbol in der oberen rechten Ecke.
-5. Wählen Sie **Add-On installieren aus Datei**.
-6. Wählen Sie die Datei aus, die Sie kürzlich heruntergeladen haben.
-7. Akzeptieren Sie die Installation, indem Sie auf **Hinzufügen**klicken.
+1. Gehe zu unserer Download-Seite, indem du [hier klickst](https://premid.app/downloads).
+2. Wähle **Firefox** aus.
+3. Suche nach `about:addons`.
+4. Klicke auf das kleine Zahnradsymbol in der oberen rechten Ecke.
+5. Wähle **Add-On aus Datei installieren** aus.
+6. Wähle die Datei aus, die Du kürzlich heruntergeladen hast.
+7. Akzeptiere die Installation, indem Du auf **Hinzufügen**klickst.
 
-> Vergessen Sie nicht, [die **Anwendung**](/install)hinzuzufügen. 
+> Vergiss nicht, [die **Anwendung**](/install) hinzuzufügen. 
 > 
 > {.is-warning}
 
