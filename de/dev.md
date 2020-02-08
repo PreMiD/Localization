@@ -2,7 +2,7 @@
 title: Beginnen
 description: Ein kleiner Ratschlag für diejenigen, die sich in letzter Zeit mit Codierung beschäftigen
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Vorrausetzungen installieren
 1. Installiere [Git](https://git-scm.com/).
 2. Installiere [Node](https://nodejs.org/en/) (kommt mit [npm](https://www.npmjs.com/)).
-3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
+3. Installieren [TypeScript](https://www.typescriptlang.org/index.html#download-links) (Öffnen Sie ein Terminal und geben Sie `npm install -g typescript`).
 
 # Projekt klonen
 1. Öffnen ein Terminal und gib `git clone URL` ein. **ersetze die URL mit dem Repository-Link auf dem Du beitragen möchtest** Beispiel: `git clone https://github.com/PreMiD/PreMiD`.
@@ -26,17 +26,17 @@ tags:
 > {.is-warning}
 
 - Öffne ein Terminal in Deinem Repository und gib `npm i` ein.
-- Um die Abhängigkeiten zu aktualisieren, geben Sie `npm update`.
+- Um die notwendigen Dateien zu aktualisieren, gib `npm update` ein.
 
-> Beachten Sie, dass die Aktualisierung der Abhängigkeiten viel Zeit in Anspruch nehmen kann oder nicht - ein Test ist erforderlich! 
+> Beachte, dass die Aktualisierung der notwendigen Dateien viel Zeit in Anspruch nehmen kann, oder nicht - Testen ist erforderlich! 
 > 
 > {.is-danger}
 
-# Codieren Sie Ihre Vision
-Bitte behalten Sie die Struktur. Wir wollen unser Projekt nicht desorganisieren. Chaotische Dateien werden möglicherweise nicht akzeptiert.
+# Programmiere Deine Vision
+Bitte behalte die Struktur. Wir wollen unser Projekt nicht desorganisieren. Chaotische Dateien werden möglicherweise nicht akzeptiert.
 
-# Senden Sie Ihren Traum
-Öffnen Sie einfach eine Pull-Anfrage in einem unserer [GitHub-Repositories](https://github.com/PreMiD/) Sie beitragen möchten. Wir kümmern uns um Ihr Baby, keine Sorge. Wenn dies das erste Mal ist , eine Pull - Anforderung zu machen, werfen Sie einen Blick auf dieses [Tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Reiche Deinen Traum ein
+Öffne einfach ein Pull-Request in einem unserer [GitHub-Repositories](https://github.com/PreMiD/) auf dem Du beitragen möchtest. Wir kümmern uns um Dein Baby, keine Sorge. Wenn Du zum ersten mal ein Pull-Request öffnest, dann wirf einen Blick auf dieses [Tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Genehmigt werden
-Unser Hauptziel ist es, mit den Nutzern zusammenzuarbeiten. Versuchen Sie daher, so freundlich, respektvoll und informativ wie möglich zu sein. Pingen Sie einfach einen Entwickler in unserem [Discord-Server](https://discord.gg/PreMiD) , um diese Bewertung auf GitHub zu erhalten, oder nicht. Hängt von der Codequalität, dem Erscheinungsbild der Assets und der regulären Funktionalität ab.
+Unser Hauptziel ist es, mit den Nutzern zusammenzuarbeiten. Versuche daher, so freundlich, respektvoll und informativ wie möglich zu sein. Pinge einfach einen Entwickler in unserem [Discord-Server](https://discord.gg/PreMiD), um diese Rezension auf GitHub zu erhalten, oder auch nicht. Hängt von der Codequalität, dem Erscheinungsbild der Assets und der regulären Funktionalität ab.
