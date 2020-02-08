@@ -12,7 +12,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "Deze aanwezigheid is erg populair rond gebruikers.",
+		"message": "Deze presence is erg populair rond gebruikers.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.verified": {
