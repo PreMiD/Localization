@@ -10,10 +10,10 @@ tags:
 > 
 > {.is-info}
 
-Die Installation der Anwendung ist sehr wichtig, da die Erweiterung alleine, nicht funktionieren wird.
+Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht funktionieren würde.
 
 # Installieren
-1. Auf unserer Download - Seite von [hier klicken](https://premid.app/downloads).
+1. Gehe zu unserer Download-Seite, indem du [hier klickst](https://premid.app/downloads).
 2. Wähle **OS X**.
 3. Entpacke das Archiv falls nötig.
 4. Öffne das Installationsprogramm.
