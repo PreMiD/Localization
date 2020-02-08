@@ -2,7 +2,7 @@
 title: Informazioni su PreMiD
 description: Le funzionalità principali di PreMiD
 published: vero
-date: 2019-10-03T01:04:50.281Z
+date: 2020-01-19T23:42:02.040Z
 tags:
 ---
 
@@ -14,5 +14,5 @@ PreMiD è un'utilità semplice e configurabile che ti permette di mostrare ciò 
 - Una grande funzionalità, chiamata WatchParties, sta arrivando su PreMiD. Con inviti per guardare e ascoltare simultaneamente. Fornito da [Discord](https://discordapp.com/).
 
 # Caratteristiche principali
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+- Mostra il servizio web corrente come stato di Discord.
+- Conferisce pieno controllo sulle Presenze Discord.
