@@ -13,7 +13,7 @@ tags:
 # Gereksinimleri yükleme
 1. [Git](https://git-scm.com/)'i yükleyin.
 2. [Node](https://nodejs.org/en/)'u yükleyin.
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+3. TypeScript'i yüklemek için [buradan](https://www.typescriptlang.org/index.html#download-links) indirin veya konsolunuzu açıp `npm install -g typescript` yazın.
 
 # Projeyi klonlama
 1. Konsolunuzu açın ve `git clone URL` yazın. **Aşağıdaki linki katkıda bulunmak istediğiniz depo linkiyle değiştirin.** örn. `git clone https://github.com/PreMiD/PreMiD`.
