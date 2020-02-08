@@ -2,7 +2,7 @@
 title: Başlarken
 description: Kodlamaya yeni başlayanlara ufak bir tavsiye
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Gereksinimleri yükleme
 1. [Git](https://git-scm.com/)'i yükleyin.
 2. [Node](https://nodejs.org/en/)'u yükleyin.
-3. Konsolunuzu açın ve [TypeScript](https://www.typescriptlang.org/index.html#download-links)'i yüklemek için `npm install -g typescript` yazın.
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
 # Projeyi klonlama
 1. Konsolunuzu açın ve `git clone URL` yazın. **Aşağıdaki linki katkıda bulunmak istediğiniz depo linkiyle değiştirin.** örn. `git clone https://github.com/PreMiD/PreMiD`.
