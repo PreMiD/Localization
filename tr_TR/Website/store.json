@@ -11,6 +11,10 @@
 		"message": "Yapımcı",
 		"description": "Creator of a presence"
 	},
+	"store.cards.popular": {
+		"message": "Bu servis kullanıcılarımız tarafından çok tutuluyor!",
+		"description": "Presence card popular flame"
+	},
 	"store.cards.verified": {
 		"message": "Bu servis bir onaylanmış geliştirici tarafından kabul edilmiştir",
 		"description": "Verified badge hover message"
