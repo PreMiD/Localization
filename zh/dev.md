@@ -1,8 +1,8 @@
 ---
-title: Getting Started
+title: 開始使用
 description: A little advise for those who got into coding recently
-published: true
-date: 2019-11-03T13:02:36.660Z
+published: 是
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
