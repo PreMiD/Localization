@@ -199,7 +199,7 @@ presence.on ("iFrameData", data => {
 ```
 **Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
 ## Kompilieren
-Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/ dist` zu kompilieren.
+Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/dist` zu kompilieren.
 
 # Struktur (JavaScript)
 ## Projekt klonen
@@ -290,7 +290,7 @@ Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/
 3. Führe `document.querySelectorAll("iframe")` aus.
 
 Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
-1. Erstellen Sie eine `iframe.js` Datei.
+1. Erstelle eine `iframe.js`-Datei.
 2. Setze iFrame in Ihrer Metadatendatei auf `true`.
 3. Fülle Deine iFrame-Datei aus.
 ```javascript
