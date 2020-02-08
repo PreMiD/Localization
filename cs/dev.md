@@ -2,7 +2,7 @@
 title: Začínáme
 description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Instalace požadavků
 1. Install [Git](https://git-scm.com/).
 2. Nainstalujte [uzel](https://nodejs.org/en/) (přichází s [npm](https://www.npmjs.com/)).
-3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a `npm install -g typescript`).
+3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a typ `npm install -g typescript`).
 
 # Klonování projektu
 1. Otevřete terminál a napište `git klonovat URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
