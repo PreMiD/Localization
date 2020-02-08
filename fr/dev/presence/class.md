@@ -1,97 +1,97 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
-published: true
-date: 2019-10-06T23:18:10.415Z
+title: Classe de présence
+description: La classe principale pour chaque présence PreMiD
+published: vrai
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Classe de présence
 
 ## Introduction
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+La classe `Presence` est très utile car elle possède des méthodes de base dont nous avons besoin pour créer une présence.
 
- When you create a class you must specify `clientId` property.
+ Lorsque vous créez une classe, vous devez spécifier la propriété `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Exemple clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Il y a deux propriétés disponibles pour la classe `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+La propriété `clientId` doit être fournie pour que votre présence fonctionne, car elle utilise votre identifiant d'application pour afficher son logo et ses actifs.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Cette propriété indique à notre application d'enregistrer les raccourcis clavier pour les clés multimédias et nous permet d'utiliser l'événement `MediaKeys` pour la classe `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Cette propriété n'est pas requise, mais si vous voulez activer les clés multimédia, vous devez la définir à `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Tous les événements mediaKey sont temporairement désactivés !**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Permet aux utilisateurs d'utiliser les clés de média
 });
 ```
 
-## Methods
+## Méthodes
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Définit l'activité de votre profil en fonction des données fournies.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Le premier paramètre nécessite une interface `présenceData` pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Le deuxième paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `présenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Efface votre activité actuelle, les raccourcis clavier et le titre de la zone de notification.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Cette méthode ne fonctionne que sur Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Définit le titre de la barre de menus.
 
-### `getStrings(Object)`
+### `getStrings(Objet)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Vous permet d'obtenir des chaînes traduites depuis l'extension. Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Vous pouvez trouver certaines des chaînes en utilisant ce point de terminaison: `https://api.premid.app/v2/langFIle/extension/fr`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
-strings = await presence.getStrings({
+// Retourne `Playing` et `Paused` chaînes
+// depuis l'extension.
+strings = Attendre presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
 ```
 
-### `getPageLetiable(String)`
+### `Obtenir la légalité de la page (chaîne de caractères)`
 
-Returns a variable from the website if it exists.
+Retourne une variable du site web si elle existe.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Cela va enregistrer le "Contenu de la variable"
 ```
 
-## `presenceData` Interface
+## `Interface de données de présence`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+L'interface `presenceData` est recommandée à utiliser lorsque vous utilisez la méthode `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Cette interface a des variables suivantes, toutes sont optionnelles.
 
 <table>
   <thead>
@@ -103,54 +103,54 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Détails</td>
+      <td style="text-align:left">La première ligne de votre présence, généralement utilisée comme en-tête.</td>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Etat</td>
+      <td style="text-align:left">Deuxième ligne en votre présence.</td>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Définit le temps actuel.<br>
+        Utilisé si vous voulez afficher combien <code>heures:minutes:secondes</code> restantes.
+          <br>Vous devez convertir votre temps en <code>horodatage</code> ou vous obtiendrez un compte à rebours
+          erroné.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Numéros</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Définit la durée complète.
+        <br>Utilisé si vous voulez afficher combien <code>heures:minutes:secondes</code> restant.
+          <br>Vous devez convertir votre temps en <code>horodatage</code> ou vous obtiendrez un compte à rebours
+          erroné.
       </td>
-      <td style="text-align:left"><code>Number</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Numéros</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">clé d'image-grande</td>
+      <td style="text-align:left">Définit le logo de la présence.</td>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">petite clé ImageKey</td>
+      <td style="text-align:left">Définit la petite icône à côté du logo&apos;s.</td>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Texte de petite image</td>
+      <td style="text-align:left">Définit le texte qui sera affiché à l'utilisateur quand il survolera la petite icône
+.</td>
+      <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
     </tr>
   </tbody>
@@ -158,36 +158,36 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
+    détails: "Mon titre",
+    état : "Ma description",
+    largeImageKey : "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
-    startTimestamp: 1564444631188,
-    endTimestamp: 1564444634734
+    smallImageText: "Vous m'avez survolé, et que maintenant? ,
+    startTimestamp : 1564444631188,
+    endTimestamp : 1564444634734
 };
 ```
 
-## Events
+## Évènements
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Les événements vous permettent de détecter et de gérer certains changements ou appels qui ont été effectués. Vous pouvez vous abonner aux événements en utilisant la méthode `sur`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Faire quelque chose quand les données sont mises à jour.
 });
 ```
 
-There are few events available:
+Il y a peu d'événements disponibles :
 
-#### `UpdateData`
+#### `Mettre à jour les données`
 
-This event is fired every time the presence is being updated.
+Cet événement est déclenché chaque fois que la présence est mise à jour.
 
-#### `MediaKeys` (disabled)
+#### `Touches médiatiques` (désactivées)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Déclenché lorsque l'utilisateur utilise des touches média sur son clavier, [cliquez ici](/dev/presence/class#mediakeys) pour obtenir plus d'informations sur les touches multimédia.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Déclenché lorsque des données sont reçues à partir du script iFrame.
