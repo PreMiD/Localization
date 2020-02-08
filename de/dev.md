@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Beginnen
+description: Ein kleiner Ratschlag für diejenigen, die sich in letzter Zeit mit Codierung beschäftigen
 published: true
-date: 2019-11-03T13:02:36.660Z
+date: 2020-01-19T23:42:04.047Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Ein Codeeditor ist erforderlich. Wir empfehlen Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+# Vorrausetzungen installieren
+1. Installiere [Git](https://git-scm.com/).
+2. Installiere [Node](https://nodejs.org/en/) (kommt mit [npm](https://www.npmjs.com/)).
+3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Projekt klonen
+1. Öffnen ein Terminal und gib `git clone URL` ein. **URL ersetzen mit Repository Link auf beitragen möchten** Beispiel `git clone https://github.com/PreMiD/PreMiD`.
+2. Wählen Sie einen Ordner Ihrer Wahl.
+3. Öffnen Sie es in Ihrem Code-Editor.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Abhängigkeiten installieren
+> Stellen Sie sicher, dass Sie zuerst [npm](https://www.npmjs.com/) (Node Package Manager) installiert haben. Es wird automatisch installiert, wenn Sie [Node](https://nodejs.org/en/) installiert haben. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Öffnen Sie ein Terminal in Ihrem Repository und geben Sie `npm i`.
+- Um die Abhängigkeiten zu aktualisieren, geben Sie `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Beachten Sie, dass die Aktualisierung der Abhängigkeiten viel Zeit in Anspruch nehmen kann oder nicht - ein Test ist erforderlich! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Codieren Sie Ihre Vision
+Bitte behalten Sie die Struktur. Wir wollen unser Projekt nicht desorganisieren. Chaotische Dateien werden möglicherweise nicht akzeptiert.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Senden Sie Ihren Traum
+Öffnen Sie einfach eine Pull-Anfrage in einem unserer [GitHub-Repositories](https://github.com/PreMiD/) Sie beitragen möchten. Wir kümmern uns um Ihr Baby, keine Sorge. Wenn dies das erste Mal ist , eine Pull - Anforderung zu machen, werfen Sie einen Blick auf dieses [Tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Genehmigt werden
+Unser Hauptziel ist es, mit den Nutzern zusammenzuarbeiten. Versuchen Sie daher, so freundlich, respektvoll und informativ wie möglich zu sein. Pingen Sie einfach einen Entwickler in unserem [Discord-Server](https://discord.gg/PreMiD) , um diese Bewertung auf GitHub zu erhalten, oder nicht. Hängt von der Codequalität, dem Erscheinungsbild der Assets und der regulären Funktionalität ab.
