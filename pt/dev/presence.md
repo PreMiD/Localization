@@ -344,7 +344,7 @@ Nós fizemos um criador de `metadata.json` para os preguiçosos [aqui](https://e
 }
 ```
 
-Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você precisa editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter seus `metadados. arquivo filho` , se você não planeja usá-los, você precisa removê-los.
+Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você precisa editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter no seu `metadata.json`, se você não planeja usá-los, você precisa removê-los.
 - `contributors`
 - `regExp`
 - `iframe`
@@ -391,7 +391,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço se você estiver sem idéias. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
+      <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço se você estiver sem idéias. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
       <td style="text-align:left"><code>Não</code>
@@ -475,7 +475,7 @@ TLD que signfica Domínio de Topo (ou Top Level Domain em inglês) por exemplo: 
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">Uma string usada para representar a categoria na qual a presença cai. Veja os catálogos válidos <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
+      <td style="text-align:left">Uma string usada para representar a categoria na qual a presença cai. Veja as categorias válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
@@ -502,12 +502,12 @@ TLD que signfica Domínio de Topo (ou Top Level Domain em inglês) por exemplo: 
   </tbody>
 </table>
 
-Clique em [aqui](/dev/presence#filling-in-the-metadatajson-file) para voltar à explicação TypeScript. Clique em [aqui](/dev/presence#filling-in-the-metadatajson-file-1) para voltar para a explicação JavaScript.
+Clique [aqui](/dev/presence#filling-in-the-metadatajson-file) para voltar à explicação do TypeScript. Clique [aqui](/dev/presence#filling-in-the-metadatajson-file-1) para voltar à explicação do JavaScript.
 
 # Carregando a presença
-1. Abra a janela pop-up e segure o botão <kbd>Shift</kbd> em seu teclado.
+1. Abra a pop-up e segure o botão <kbd>Shift</kbd> em seu teclado.
 2. **A Presença de Carga** aparecerá na seção Presenças.
-3. Clique nele enquanto ainda está segurando o botão <kbd>Shift</kbd>.
+3. Clique nele enquanto estiver segurando o botão <kbd>Shift</kbd>.
 4. Selecione a pasta /dist da sua presença.
 
 # Algumas coisas úteis
@@ -515,12 +515,12 @@ Clique em [aqui](/dev/presence#filling-in-the-metadatajson-file) para voltar à 
 O site que você está desenvolvendo está recarregando automaticamente toda vez que você salvar um arquivo na sua pasta.
 
 ## Depuração
-- Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. Se sim, então tente novamente depois da próxima função. Se não, então há um erro acima.
+- Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. Se sim, então continue e tente novamente depois da próxima função. Se não, então há um erro acima.
 - Se isso também não te ajudar, então peça ajuda a um desenvolvedor de presença em nosso [servidor do Discord](https://discord.gg/PreMiD).
 
 # Arquivos explicados
 - [Classe Presence](/dev/presence/class)
 - [Classe iFrame](/dev/presence/iframe)
-- [Arquivo de metadados](/dev/presence/metadata)
+- [Arquivo Metadata](/dev/presence/metadata)
 - [Configuração do TypeScript](/dev/presence/tsconfig)
 {.links-list}
