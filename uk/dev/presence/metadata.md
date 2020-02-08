@@ -1,16 +1,16 @@
 ---
-title: Metadata.json
-description: Contains basic data about the Presence
+title: Метадата.json
+description: Містить основні дані про присутність
 published: true
-date: 2019-12-04T23:10:48.719Z
+date: 2020-01-19T23:42:34658Z
 tags:
 ---
 
-# Metadata.json
+# Метадата.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+Якщо ви хочете опублікувати присутність у магазині та завантажити його через розширення, необхідно створити `метадані. son` файл у папці `presence.js`.
 
-The example of that file can be found below.
+Нижче ви можете знайти приклад цього файлу.
 
 ```javascript
 {
@@ -28,7 +28,7 @@ The example of that file can be found below.
   },
   "url": "URL",
   "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
+  "iFrameRegameExp": "REGEXP",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
@@ -39,215 +39,215 @@ The example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Розуміння метадатa.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Цей приклад виглядає дуже дивним, так? Не хвилюйтеся, для чого не так складно зрозуміти, для чого потрібна кожна змінна.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Змінна</th>
       <th style="text-align:left">Опис</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Тип</th>
+      <th style="text-align:left">За бажанням</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>автор</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Має містити об'єкт з <code>назвою</code> і <code>id</code> розробника присутності. Ім'я - це ваше ім'я користувача Discord без ідентифікатора(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
+        і правою кнопкою миші в вашому профілі.</td>
+      <td style="text-align:left"><code>Об'єкт</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>contributors</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ні</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>учасники проєкту</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Має містити об'єкт з <code>назвою</code> і <code>id</code> розробника присутності. Ім'я - це ваше ім'я користувача Discord без ідентифікатора(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
+        і правою кнопкою миші в вашому профілі.</td>
+      <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>description</b>
-      </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Так</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>сервіс</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">Назва служби, яку підтримує ця присутність.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Ні</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>опис</b>
+      </td>
+      <td style="text-align:left">Маленький опис присутності, ви можете використовувати опис сервісу
+        , якщо ви не вийшли з ідей. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих.</td>
+      <td style="text-align:left"><code>Об'єкт</code>
+      </td>
+      <td style="text-align:left"><code>Ні</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>URL-адреса</b>
+      </td>
+      <td style="text-align:left">URL сервісу<br><b>Приклад:</b><code>vk. om</code><br>
+        <b>Ця URL-адреса має збігатися з URL-адресою сайту, оскільки вона буде використовуватися для виявлення будь-якого місця чи ні для впровадження сайту.</b>
+      </td>
+      <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ні</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Стрічка регулярного виразу, яка використовується для пошуку адрес.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>version</b>
-      </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Так</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>версія</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Версія вашої присутності.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ні</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>логотип</b>
+      </td>
+      <td style="text-align:left">Посилання на сервіс&apos;logotype.</td>
+      <td style="text-align:left"><code>Рядок</code>
+      </td>
+      <td style="text-align:left"><code>Ні</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Посилання на мініатюру присутності.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ні</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>колір</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#HEX</code> значення. Ми рекомендуємо використовувати основний колір служби
+        , який ваша присутність.</td>
+      <td style="text-align:left"><code>Рядок</code>
+      </td>
+      <td style="text-align:left"><code>Ні</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>теги</b>
+      </td>
+      <td style="text-align:left">Масив із мітками, вони допоможуть користувачам шукати вашу присутність на сайті.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ні</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>категорія</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Рядок, який використовується для представлення категорії, на яку падає присутність.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ні</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Визначає, чи використовуються <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Так</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Селектор регулярних виразів, який вибирає iframes для впровадження параметрів.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Так</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-## Regular Expressions
+## Регулярні вирази
 
-If you want to learn regular expressions, here are a few websites.
+Якщо ви хочете вивчити регулярні вирази, ось декілька веб-сайтів.
 
-### Learning
+### Навчання
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Інформація про регулярні вирази](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### Тестування
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Категорії присутності
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Визначаючи присутність, необхідно зазначити категорію, яку створює присутність. Це скомпільований список категорій, які можна використовувати.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Категорія</th>
+      <th style="text-align:left">Ім'я</th>
       <th style="text-align:left">Опис</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>anime</b></td>
+      <td style="text-align:left"><b>аніме</b></td>
       <td style="text-align:left"><b>Аніме</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Все, що пов'язане з анімацією, з форумів до відео-платформ.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>ігри</b></td>
     <td style="text-align:left"><b>Ігри</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Будь-який сайт, який має пов'язаний з грою, наприклад <code>Кахуот</code> або <code>Скорбл.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>music</b></td>
+      <td style="text-align:left"><b>музика</b></td>
     <td style="text-align:left"><b>Музика</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Це веб-сайти, які пропонують контент, пов'язаний з музикою, чи це трансляцію чи завантаження.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>соціальне</b></td>
         <td style="text-align:left"><b>Соціальне</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Веб-сайти, які використовуються для створення та обміну контентом, або для участі в інших соціальних мережах.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>відео</b></td>
         <td style="text-align:left"><b>Відео & прямі трансляції</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Веб-сайти, які служать цілі визначення відео та потоків.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>інше</b></td>
     <td style="text-align:left"><b>Інше</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Все, що не належить до конкретної категорії, вказаної вище.</td>
       </td>
     </tr>
   </tbody>
