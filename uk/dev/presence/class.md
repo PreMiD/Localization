@@ -1,22 +1,22 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Клас присутності
+description: Основний клас для кожної присутності PreMiD
 published: true
-date: 2019-10-06T23:18:10.415Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Клас присутності
 
-## Introduction
+## Вступ
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Клас `присутність` є дуже корисним, оскільки в ньому є основні методи, які нам потрібні для створення виразу.
 
- When you create a class you must specify `clientId` property.
+ Якщо ви створите предмет, вам необхідно вказати `clientId` властивість.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Приклад clientId
 });
 ```
 
@@ -24,133 +24,133 @@ There are two properties available for `Presence` class.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`параметр clientId` повинен бути показаний, щоб ваша присутність працювала, оскільки він використовує ідентифікатор вашого застосунку, щоб відобразити його логотип та активи.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Ви можете отримати це на сторінці [програм](https://discordapp.com/developers/applications).
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Ця властивість повідомляє нашій програмі зареєструвати прив'язки клавіш для мультимедійних клавіш і дозволяє нам використовувати `MediaKeys` подію для класу `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Ця властивість не є необхідною, але якщо ви хочете увімкнути медіа ключі, вам слід встановити її на `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Всі події префіксу тимчасово відключені!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Дозволяє користувачам використовувати медіа ключі
 });
 ```
 
-## Methods
+## Методи
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Встановлює активність вашого профілю відповідно до наданих даних.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Перший параметр вимагає інтерфейсу `presenceData` , щоб отримати всю інформацію, яку ви хочете відобразити у вашому профілі.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Другий параметр визначає, коли присутність щось грає. Завжди використовуйте `true` , якщо ви надаєте часові мітки в `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Очищує вашу поточну діяльність, клавіатурні клавіші та заголовок трею.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Цей метод працює тільки на Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Встановлює заголовок лотка для меню.
 
-### `getStrings(Object)`
+### `getStrings(Об'єкт)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Дозволяє отримати перекладені рядки з розширення. Для рядка вам потрібно вказати `Object` за допомогою клавіш для рядка, `keyValue` - значення рядка. Ви можете знайти деякі з рядків, використовуючи цю кінцеву точку: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Повертає `Playing` і `Paused` рядків
+// з розширення.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageLetiable(рядок)`
 
-Returns a variable from the website if it exists.
+Повертає змінну з веб-сайту, якщо вона існує.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(page); // Це закриє "Змінний вміст"
 ```
 
-## `presenceData` Interface
+## `презентація даних` Інтерфейс
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Інтерфейс `presenceData` рекомендується використовувати під час використання методу `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Цей інтерфейс має наступні змінні, усі вони є необов'язковими.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Змінна</th>
       <th style="text-align:left">Опис</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Тип</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">подробиці</td>
+      <td style="text-align:left">Перший рядок присутності, зазвичай використовується як заголовок.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">держава</td>
+      <td style="text-align:left">Другий рядок у вашій присутності.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Визначає поточний час.<br>
+        Використовувати, якщо потрібно вивести на екран скільки <code>годин:секунд:секунд</code>.
+          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
+.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Визначає всю тривалість.
+        <br>Використовується для відображення скільки <code>годин:хвилин:секунд</code>.
+          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
+.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Визначає логотип для присутності.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">маленький ключ зображення</td>
+      <td style="text-align:left">Визначає маленьку іконку поруч з присутністю&apos;s логотип.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Визначає текст, який буде відображатися користувачеві, коли він буде наводитись до малої піктограми
+.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
   </tbody>
@@ -168,26 +168,26 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## Події
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Події дозволяють виявити і обробляти деякі зміни, або виклики, які були зроблені. Ви можете підписатись на події, використовуючи `на` метод.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Зробіть щось, коли дані оновлюються.
 });
 ```
 
-There are few events available:
+Є мало доступних подій:
 
-#### `UpdateData`
+#### `Оновлення даних`
 
-This event is fired every time the presence is being updated.
+Ця подія вистрілюється щоразу, коли присутність оновлюється.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (вимкнено)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Застосовується, коли користувач використовує медіа ключі на своїй клавіатурі, [натисніть тут](/dev/presence/class#mediakeys) , щоб отримати більше інформації про медіа ключі.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Вимикається при отриманні даних з iFrame script.
