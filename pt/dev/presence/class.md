@@ -1,6 +1,6 @@
 ---
 title: Classe de presença
-description: A classe principal para cada presença PreMiD
+description: A classe principal para cada presença do PreMiD
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:

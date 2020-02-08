@@ -16,23 +16,23 @@ tags:
 
 # Erste Schritte
 
-PreMiD ist schnell und einfach zu installieren. Sie sollten in kürzester Zeit einsatzbereit sein.
+PreMiD ist schnell und einfach zu installieren. Du solltest in kürzester Zeit einsatzbereit sein.
 
-- Stellen Sie sicher, dass Sie die [Systemanforderungen](/install/requirements)gelesen haben.
-- Befolgen Sie die schnelle und einfache [Installationsanleitung](/install).
-- [Fehlerbehebung](/troubleshooting) führt Sie durch Lösungen für häufig auftretende Probleme.
+- Stelle sicher, dass Du die [Systemanforderungen](/install/requirements)gelesen hast.
+- Befolge die schnelle und einfache [Installationsanleitung](/install).
+- [Fehlerbehebung](/troubleshooting) führt Dich durch Lösungen für häufig auftretende Probleme.
 
 # Entwickler
 
-[Erste Schritte](/dev) für die PreMiD-Entwicklung ist Ihr erster Schritt, bevor Sie einige Dinge codieren.
+[Erste Schritte](/dev) für die PreMiD-Entwicklung ist Dein erster Schritt, bevor Du Dinge programmierst.
 
-- :computer: [API](/dev/api): Greifen Sie mit der PreMiD-API auf Ressourcen zu und führen Sie Aktionen aus.
-- :wrench: [Präsenzentwicklung](/dev/presence): Erfahren Sie, wie Sie unser Präsenzsystem verwenden.
+- :computer: [API](/dev/api): Greife mit der PreMiD-API auf Ressourcen zu und führe Aktionen aus.
+- :wrench: [Präsenzentwicklung](/dev/presence): Erfahre, wie Du unser Präsenzsystem verwendest.
 
 # Mitwirken
-- :bug: [Fehler melden](https://github.com/PreMiD): Helfen Sie uns, diese lästigen Fehler zu beseitigen.
-- :bulb: [Schlagen Sie ein neues Feature vor](https://discord.gg/premid): Wir brauchen Ihre Ideen!
-- :heart: [Spende](https://www.patreon.com/Timeraa): Machen Sie eine kleine Spende oder werden Sie Sponsor dieses wunderbaren Projekts!
-- :globe_with_meridians: [Gebietsschema](https://translate.premid.app): Lassen Sie andere Benutzer PreMiD in ihrer Muttersprache verwenden.
+- :bug: [Fehler melden](https://github.com/PreMiD): Hilf uns, diese lästigen Fehler zu beseitigen.
+- :bulb: [Schlage ein neues Feature vor](https://discord.gg/premid): Wir brauchen Deine Ideen!
+- :heart: [Spenden](https://www.patreon.com/Timeraa): Mache eine kleine Spende oder werde Sponsor dieses wunderbaren Projekts!
+- :globe_with_meridians: [Übersetzen](https://translate.premid.app): Lasse andere Benutzer PreMiD in Deiner Muttersprache verwenden.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}

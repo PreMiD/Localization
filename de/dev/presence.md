@@ -10,63 +10,63 @@ tags:
 > 
 > {.is-info}
 
-Version `2.x` führt den [Presence Store](https://premid.app/store). Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/)hinzuzufügen und zu entfernen.
+Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/) hinzuzufügen und zu entfernen.
 
 # Richtlinien
-> Wenn Sie nicht alle Richtlinien befolgen, wird Ihre Anwesenheit oder Abrufanforderung vom Github gelöscht. 
+> Wenn Du nicht alle Richtlinien befolgst, wird Deine Präsenz oder Pull-Request von Github gelöscht. 
 > 
 > {.is-danger}
 
-## Schaffung
+## Erstellung
 
-Beachten Sie die folgende Liste, bevor Sie an Ihrer Anwesenheit arbeiten.
-- Die Pull-Anforderung muss vollständig sein. Sie müssen über eine ordnungsgemäße Dateistruktur verfügen. Einschließlich des Ordners `dist` , der Datei `presence.js` Datei `metadata.json`.
-- Die Präsenz **muss** mit der von Ihnen ausgewählten Website zusammenhängen.
-- Es dürfen keine illegalen Websites vorhanden sein. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw.
-- Die Anwesenheitsmetadaten müssen gut geschriebenen Inhalt enthalten, einschließlich gültiger Titel und Beschreibungen.
-- Die Medien, die Sie hinzufügen (Symbol / Miniaturbild), müssen mit der Website in Zusammenhang stehen und in Bezug auf Größe und Qualität verständlich sein.
+Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
+- Die Pull-Request muss vollständig sein. Du musst über eine ordnungsgemäße Dateistruktur verfügen. Einschließlich des Ordners `dist`, der Datei `presence.js` und `metadata.json`.
+- Die Präsenz **muss** mit der von Dir ausgewählten Website zusammenhängen.
+- Es dürfen keine illegalen Websites vorhanden sein. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw...
+- Die Präsenz-Metadaten müssen gut geschriebenen Inhalt enthalten, einschließlich gültiger Titel und Beschreibungen.
+- Die Medien, die Du hinzufügst (Symbol/Thumbnail), müssen mit der Website in Zusammenhang stehen und in Bezug auf Größe und Qualität verständlich sein.
 - Die Dateistruktur muss sauber und verwaltet sein und darf keine zufälligen Dateien enthalten, die nichts für die Funktion der Präsenz bedeuten.
-- Die Anwesenheit **darf nicht** haben keine bösen Absichten. Dazu gehören das Stehlen / Weitergeben von privaten Informationen, die Beeinträchtigung des Verhaltens der Website usw.
-- Wenn Sie eine Präsenz für eine Website - Design und die Website geschieht in der Zukunft ändern, Sie **ARE** verantwortlich für die Anwesenheit wieder an die Arbeit zu aktualisieren , wie erwartet. Wenn Sie es nicht innerhalb eines akzeptablen Zeitrahmens beheben, sind andere Präsenz Entwickler erlaubt **überschreiben** Ihre Anwesenheit mit den Änderungen zu erfüllen.
-- Das Vorhandensein muss vor der Veröffentlichung getestet werden, um sicherzustellen, dass alles wie erwartet funktioniert.
-- Ihre Anwesenheit muss SFW-Bilder und -Beschreibungen haben, unabhängig davon, ob es NSFW ist oder nicht. Wenn es sich bei Ihrer Anwesenheit um eine `nsfw-` Website handelt, fügen Sie den `nsfw-` Tag zu Ihren Metadaten hinzu.
-- Ihre Präsenz muss **NICHT** für kostenlose Domains oder Hosts sein (z.B. .TK, [alle freien Freenom-Domains], . F.GD, etc...), Ausnahmen können gemacht werden, wenn ein Nachweis vorgelegt wird, dass es sich um eine bezahlte Domain handelt.
-- Die `small ImageKey` und `smallImageText` Felder sollen zusätzlich/sekundären Kontext (wie "playing"/"paused" für Video-Sites bereitstellen "Browsing" für normale Websites und andere Fälle). Du bist nicht berechtigt Discord Profile zu fördern oder nichts mit PreMiD zu tun.
-- Die Anforderungen für Logos sind allerdings 1:1 (Quare) in 512px, Thumbnails, aber sollten entweder [weite Werbekarten](https://i.imgur.com/3QfIc5v.jpg) oder einfach [Screenshots](https://i.imgur.com/OAcBmwW.png) sein, falls die ersten nicht verfügbar sind.
+- Die Präsenz **darf keine** bösen Absichten haben. Dazu gehört Stehlen/Weitergeben von privaten Informationen, Beeinträchtigen des Verhaltens der Website usw...
+- Wenn Du eine Präsenz für eine Website erstellst und sich die Website in der Zukunft ändern sollte, so bist **DU** verantwortlich, die Präsenz zu aktualisieren, dass sie wie erwartet, funktioniert. Wenn Du es nicht innerhalb eines akzeptablen Zeitrahmens behebst, sind andere Präsenz-Entwickler berechtigt Deine Präsenz zu **überschreiben**, um den Änderungen entgegenzuwirken.
+- Die Präsenz muss vor der Veröffentlichung getestet werden, um sicherzustellen, dass alles wie erwartet funktioniert.
+- Deine Präsenz muss SFW-Bilder und -Beschreibungen haben, unabhängig davon, ob es NSFW ist oder nicht. Wenn es sich bei Deiner Präsenz um eine `nsfw`-Website handelt, dann füge den `nsfw`-Tag zu Deinen Metadaten hinzu.
+- Deine Präsenz muss **NICHT** für kostenlose Domains oder Hosts sein (z.B. TK, [alle freien Freenom-Domains], .RF.GD, etc...), Ausnahmen können gemacht werden, wenn ein Nachweis vorgelegt wird, dass es sich um eine bezahlte Domain handelt.
+- Die `smallImageKey` und `smallImageText` Felder sollen zusätzlich/sekundären Kontext (wie "playing"/"paused" für Video-Seiten bereitstellen "browsing" für normale Webseiten und andere Fälle). Du bist nicht berechtigt Discord-Profile anzuwerben oder anderwärtige, was nichts mit PreMiD zu tun hat.
+- Die Anforderungen für Logos sind allerdings 1:1 (Quadratisch) in 512px, Thumbnails, aber sollten entweder [weite Werbekarten](https://i.imgur.com/3QfIc5v.jpg) oder einfach [Screenshots](https://i.imgur.com/OAcBmwW.png) sein, falls die ersten nicht verfügbar sind.
 - Die Präsenzen sollten mindestens 1 Tag haben, dies ist eine Anforderung nach Design und kann in der Zukunft optional sein.
-- Das Feld `url` darf nicht `http://` oder `https://`enthalten, auch nicht die Parameter (z. eine Präsenz für `https://www.google.com/search?gws_rd=ssl` hat nur `www.google.com` im `url` Feld.
+- Das Feld `url` darf weder `http://`, noch `https://` enthalten, noch die Parameter (z.B. eine Präsenz für `https://www.google.com/search?gws_rd=ssl` hat nur `www.google.com` im `url` Feld).
 - Beschreibungen und Tags sollten immer in Arrays sein, auch wenn es nur ein Element ist. Das Feld `url` sollte jedoch nur ein String sein, wenn es sich um eine Domain handelt.
-- Instabile Seiten, die ständig APIs/Domains ändern Zufallsgenerierung von HTML-Elementen oder einfach nur in einer schweren Entwicklung sind nicht erlaubt und werden aus dem Store entfernt.
+- Instabile Seiten, die ständig APIs/Domains ändern, zufällig HTML-Elemente generieren oder einfach nur in einer schweren Entwicklung sind nicht erlaubt und werden aus dem Store entfernt.
 
-## Änderung
+## Modifikation
 
-In einigen Situationen verhalten sich Anwesenheiten möglicherweise unerwartet oder verwenden einige geringfügige Änderungen, um die Funktionalität zu verbessern. Hier ist eine kompilierte Liste, die Sie befolgen müssen, um Präsenzen zu ändern.
-- Sie dürfen den Ersteller der Präsenz nicht ändern. Dies gilt nur, wenn Sie es erneut schreiben dürfen. Sie können sich selbst als [Mitwirkende hinzufügen](/dev/presence/metadata).
-- Stellen Sie sicher, dass die Änderungen nützlich sind. Dies können Korrekturen (Code und Tippfehler), Ergänzungen (Beschreibungen und Tags) usw. sein.
-- Bestätigen Sie, dass Ihre Änderungen wirksam sind, bevor Sie sie veröffentlichen. Erstellen Sie keine Pull-Anforderungen, ohne das Ergebnis Ihrer Änderungen zu kennen.
-- Branding / Überschreiben Sie eine Präsenz nur dann vollständig, wenn dies von einem `Presence Verifier` oder einem Mitarbeiter genehmigt wurde.
+In einigen Situationen verhalten sich Präsenzen möglicherweise unerwartet oder verwenden einige geringfügige Änderungen, um die Funktionalität zu verbessern. Hier ist eine kompilierte Liste, die Du befolgen musst, um Präsenzen zu ändern.
+- Du darfst den Ersteller der Präsenz nicht ändern. Dies gilt nur, wenn Du sie erneut schreiben darfst. Du kannst Dich selbst als [Mitwirkende](/dev/presence/metadata) hinzufügen.
+- Stelle sicher, dass die Änderungen nützlich sind. Dies können Korrekturen (Code- und Tippfehler), Ergänzungen (Beschreibungen und Tags) usw... sein.
+- Bestätige, dass Deine Änderungen wirksam sind, bevor Du sie veröffentlichst. Erstelle keine Pull-Requests, ohne das Ergebnis Deiner Änderungen zu kennen.
+- Verändere/Überschreibe eine Präsenz nur dann vollständig, wenn dies von einem `Presence Verifier` oder einem Mitarbeiter genehmigt wurde.
 
-# Nachprüfung
-> Wenn Sie Pull-Anforderungen zum Hinzufügen oder Ändern vorhandener Anwesenheiten stellen, müssen Sie einen Screenshot hinzufügen. Für Änderungen an den Metadaten / tsconfig einer Präsenz ist jedoch kein Screenshot erforderlich. *Ihr Screenshot muss mit der Pull-Anforderung direkt auf github hochgeladen werden. Verwenden Sie keine Websites für die gemeinsame Nutzung von Bildern von Drittanbietern.* 
+# Prüfung
+> Wenn Du Pull-Requests zum Hinzufügen oder Ändern vorhandener Präsenzen erstellst, musst Du einen Screenshot hinzufügen. Für Änderungen an den Metadaten/tsconfig einer Präsenz ist jedoch kein Screenshot erforderlich. *Dein Screenshot muss mit dem Pull-Requests direkt auf Github hochgeladen werden. Verwende keine Webseiten für die gemeinsame Nutzung von Bildern von Drittanbietern.* 
 > 
 > {.is-danger}
 
-Damit Ihre Präsenz die Geschäfte erreicht, muss sie einen Prozess auf github durchlaufen, um zu bestätigen, dass sie wie erwartet funktioniert. Hier sind ein paar Dinge, auf die Sie achten sollten, wenn Sie Ihre Pull-Anfrage stellen.
+Damit Deine Präsenz den Store erreicht, muss sie einen Prozess auf Github durchlaufen, um zu bestätigen, dass sie wie erwartet funktioniert. Hier sind ein paar Dinge, auf die Du achten solltest, wenn Du Deinen Pull-Request erstellst.
 
-Unser Presence Verification-Team hat eine eigene Rolle. Achten Sie auf `Presence Verifier` auf dem Discord-Server, um zu erfahren, wer daran beteiligt ist.
+Unser Presence Verification-Team hat eine eigene Rolle. Achte auf `Presence Verifier` auf dem Discord-Server, um zu erfahren, wer daran beteiligt ist.
 
-1. Es sind zwei Überprüfer erforderlich, um zu bestätigen, dass Ihre Anwesenheit den Standards entspricht. Wenn Sie Änderungsanforderungen erhalten, bemühen Sie sich, diese zu beheben, da sie sonst nicht hinzugefügt werden.
-2. Wenn wir Änderungen anfordern und Ihre Pull-Anforderung **7 Tage Inaktivität** überschreitet, ohne die erforderlichen Änderungen vorzunehmen, müssen wir sie schließen.
-3. Sie dürfen Screenshots von Änderungen machen, die mit Hilfe eines anderen Benutzers vorgenommen wurden. (zB der Autor, falls Sie aus irgendeinem Grund nicht darauf zugreifen können).
-4. Wenn es sich um ein Update oder einen Patch handelt, muss der Screenshot zeigen, dass die neuen Ergänzungen funktionieren, und keine alten Funktionen aus früheren Pull-Anforderungen.
-5. Die bereitgestellten Screenshots sollten echt sein und nicht bearbeitet werden.
-6. Jeder zur Verfügung gestellte Code, der in diesem Repository zusammengeführt wird, wird unter der **Mozilla Public License 2.0**lizenziert.
+1. Es sind zwei Überprüfer erforderlich, um zu bestätigen, dass Deine Präsenz den Standards entspricht. Wenn Du Änderungsanforderungen erhälst, bemühe dich, diese zu beheben, da sie sonst nicht hinzugefügt werden.
+2. Wenn wir Änderungen anfordern und Deine Pull-Request **7 Tage Inaktivität** überschreitet, ohne die erforderlichen Änderungen vorzunehmen, müssen wir ihn schließen.
+3. Du darfst Screenshots von Änderungen machen, die mit Hilfe eines anderen Benutzers vorgenommen wurden (z.B. der Autor, falls Du aus irgendeinem Grund nicht darauf zugreifen kannst).
+4. Wenn es sich um ein Update oder einen Patch handelt, muss der Screenshot zeigen, dass die neuen Ergänzungen funktionieren, und keine alten Funktionen aus früheren Pull-Requests.
+5. Die bereitgestellten Screenshots sollten echt und nicht bearbeitet worden sein.
+6. Jeder zur Verfügung gestellte Code, der in diesem Repository zusammengeführt wird, wird unter der **Mozilla Public License 2.0** lizenziert.
 
 
-Nachdem alle ordnungsgemäßen Bewertungen erfüllt wurden, wird Ihre Pull-Anfrage mit dem Shop zusammengeführt.
+Nachdem alle ordnungsgemäßen Rezensionen erfüllt wurden, wird Dein Pull-Request mit dem Shop zusammengeführt.
 
 # Struktur (TypeScript)
-Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascript.com/) oder  [TypeScript](https://www.typescriptlang.org/)codieren möchten. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders scharfe Typdefinitionen, so dass das Beheben und Erkennen von Fehlern viel einfacher ist. Wenn Sie nur [JavaScript](https://www.javascript.com/) möchten, können Sie zu [Structure (JavaScript)](/dev/presence#structure-javascript)springen.
+Du kannst wählen, ob Du Deine Präsenz mit [JavaScript](https://www.javascript.com/) oder  [TypeScript](https://www.typescriptlang.org/) programmieren möchtest. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders scharfe Typdefinitionen, sodass das Beheben und Erkennen von Fehlern viel einfacher ist. Wenn Du nur [JavaScript](https://www.javascript.com/) möchtest, kannst Du zu [Structure (JavaScript)](/dev/presence#structure-javascript) springen.
 
 ## Installation
 1. Installiere [Git](https://git-scm.com/).
@@ -74,20 +74,20 @@ Sie können wählen, ob Sie Ihre Präsenz mit [JavaScript](https://www.javascrip
 3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
 ## Projekt klonen
-1. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
-2. Wählen Sie einen Ordner Ihrer Wahl.
-3. Öffnen Sie es in Ihrem Code-Editor.
+1. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Presences` ein.
+2. Wähle einen Ordner Deiner Wahl.
+3. Öffne es in Deinem Quellcode-Editor.
 
 ## Ordner und Dateien erstellen
 
-1. Erstellen Sie einen Ordner mit dem Namen **** (keine URL) des Dienstes, den Sie unterstützen möchten.
-2. Erstellen Sie eine `presence.ts` und eine `tsconfg.json` Datei im Inneren.
-3. Erstellen Sie einen Ordner mit dem Namen `dist` inside.
-4. Erstellen Sie eine Datei `metadata.json` im Ordner `dist`.
+1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
+2. Erstelle eine `presence.ts` und eine `tsconfg.json` Datei im Inneren.
+3. Erstelle einen Ordner mit dem Namen `dist`.
+4. Erstelle eine `metadata.json` im Ordner `dist`.
 
-## Füllen Sie die Datei tsconfig.json aus
+## Ausfüllen der tsconfig.json
 
-Bitte geben Sie den folgenden Code in die Datei `tsconfg.json`.
+Bitte gib den folgenden Code in die Datei `tsconfg.json` ein.
 ```javascript
 {
   "extended": "../tsconfig.json",
@@ -96,15 +96,15 @@ Bitte geben Sie den folgenden Code in die Datei `tsconfg.json`.
   }
 }
 ```
-Um mehr zu erfahren über Typoskript Konfiguration klicken [hier](/dev/presence/tsconfig).
+Um mehr über die TypeScript-Konfiguration zu erfahren, klicke [hier](/dev/presence/tsconfig).
 
-## Füllen Sie die Datei metadata.json aus
+## Ausfüllen der metadata.json
 
-Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file-2) zu sehen, wie es ausgefüllt wird. Sie können ganz einfach am unteren Rand der Erklärung zurückklicken.
+Klicke [hier](/dev/presence#filling-in-the-metadatajson-file-2), um zu sehen, wie sie ausgefüllt wird. Du kannst ganz einfach am unteren Rand der Erklärung zurückklicken.
 
-Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
 
-## Fertig machen
+## Erste Schritte
 
 ```javascript
 var presence = new Presence ({
@@ -159,24 +159,24 @@ Presence.on ("UpdateData", async () => {
     }
 });
 ```
-Sie können dies in Ihre Datei `presence.ts` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
+Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
 
-Als Beispiele schlagen wir vor, den Anwesenheitscode wie 1337x oder 9GAG zu betrachten.
+Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
-Weitere Informationen über die Präsenz Klasse klicken [hier](/dev/presence/class).
+Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz-Klasse.
 
-## Sie können bestimmte Daten nicht abrufen ?!
+## Du kannst bestimmte Daten nicht abrufen?!
 
-Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z. B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfen Sie, ob Sie die benötigten Informationen extrahieren können, bevor Sie unnötige Arbeiten ausführen.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Überprüfen Sie sie über die Browserkonsole (stellen Sie sicher, dass Sie sich auf der Registerkarte **Elements**).
-2. Suchen (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Führen Sie `document.querySelectorAll ("iframe")`.
+1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
+2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Führe `document.querySelectorAll("iframe")` aus.
 
-Wenn Sie feststellen, dass sich Ihre Daten in einem iFrame befinden, müssen Sie folgende Schritte ausführen:
-1. Erstellen Sie eine `iframe.ts` Datei.
-2. Setzen Sie iFrame in Ihrer Metadatendatei auf `true`.
-3. Füllen Sie Ihre iFrame-Datei aus.
+Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
+1. Erstelle eine `iframe.ts`-Datei.
+2. Setze iFrame in Ihrer Metadatendatei auf `true`.
+3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame ();
 iframe.on ("UpdateData", async () => {
@@ -190,37 +190,37 @@ iframe.on ("UpdateData", async () => {
   }); 
 });
 ```
-4. Ermöglichen, dass Ihre Anwesenheitsdatei Daten aus der iFrame-Datei empfängt.
+4. Ermögliche Deiner Präsenz-Datei, Daten aus der iFrame-Datei zu empfangen.
 ```javascript
 presence.on ("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Hinweis:** Muss außerhalb des updateData-Ereignisses platziert werden.
+**Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
 ## Kompilieren
-Öffnen Sie eine Konsole in Ihrem Ordner und geben Sie `tsc -w` , um die `presence.ts` in den Ordner `/ dist` zu kompilieren.
+Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/ dist` zu kompilieren.
 
 # Struktur (JavaScript)
 ## Projekt klonen
 1. Installiere [Git](https://git-scm.com/).
-2. Öffnen Sie ein Terminal und geben Sie `git clone https://github.com/PreMiD/Presences`.
-3. Wählen Sie einen Ordner Ihrer Wahl.
-4. Öffnen Sie es in Ihrem Code-Editor.
+2. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Presences` ein.
+3. Wähle einen Ordner Deiner Wahl.
+4. Öffne es in Deinem Quellcode-Editor.
 
 ## Ordner und Dateien erstellen
 
-1. Erstellen Sie einen Ordner mit dem Namen **** (keine URL) des Dienstes, den Sie unterstützen möchten.
-3. Erstellen Sie einen Ordner mit dem Namen `dist` inside.
+1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
+3. Erstelle einen Ordner mit dem Namen `dist`.
 4. Erstellen Sie eine `metadata.json` Datei und eine `presence.js` Datei im Ordner `dist`.
 
-## Füllen Sie die Datei metadata.json aus
+## Ausfüllen der metadata.json
 
-Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file-2) zu sehen, wie es ausgefüllt wird. Sie können ganz einfach am unteren Rand der Erklärung zurückklicken.
+Klicke [hier](/dev/presence#filling-in-the-metadatajson-file-2), um zu sehen, wie sie ausgefüllt wird. Du kannst ganz einfach am unteren Rand der Erklärung zurückklicken.
 
-Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
 
-## Fertig machen
+## Erste Schritte
 
 ```javascript
 var presence = new Presence ({
@@ -275,24 +275,24 @@ presence.on ( „Update“, () => {
     }
 });
 ```
-Sie können dies in Ihre Datei `presence.js` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
+Du kannst dies in Deine `presence.js` kopieren und die Werte bearbeiten. Das Festlegen aller Werte erfolgt innerhalb des updataData-Ereignisses.
 
-Als Beispiele schlagen wir vor, den Anwesenheitscode wie 1337x oder 9GAG zu betrachten.
+Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
-Weitere Informationen über die Präsenz Klasse klicken [hier](/dev/presence/class).
+Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz-Klasse.
 
-## Sie können bestimmte Daten nicht abrufen ?!
+## Du kannst bestimmte Daten nicht abrufen?!
 
-Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z. B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfen Sie, ob Sie die benötigten Informationen extrahieren können, bevor Sie unnötige Arbeiten ausführen.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Überprüfen Sie sie über die Browserkonsole (stellen Sie sicher, dass Sie sich auf der Registerkarte **Elements**).
-2. Suchen (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Führen Sie `document.querySelectorAll ("iframe")`.
+1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
+2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Führe `document.querySelectorAll("iframe")` aus.
 
-Wenn Sie feststellen, dass sich Ihre Daten in einem iFrame befinden, müssen Sie folgende Schritte ausführen:
+Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
 1. Erstellen Sie eine `iframe.js` Datei.
-2. Setzen Sie iFrame in Ihrer Metadatendatei auf `true`.
-3. Füllen Sie Ihre iFrame-Datei aus.
+2. Setze iFrame in Ihrer Metadatendatei auf `true`.
+3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame ();
 iframe.on ("UpdateData", () => {
@@ -306,16 +306,16 @@ iframe.on ("UpdateData", () => {
     });
 });
 ```
-4. Ermöglichen, dass Ihre Anwesenheitsdatei Daten aus der iFrame-Datei empfängt.
+4. Ermögliche Deiner Präsenz-Datei, Daten aus der iFrame-Datei zu empfangen.
 ```javascript
 presence.on ("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Hinweis:** Muss außerhalb des updateData-Ereignisses platziert werden.
-# Füllen Sie die Datei metadata.json aus
-Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Sie wissen, wie es funktioniert.
+**Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
+# Ausfüllen der metadata.json
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Du weißt, wie es funktioniert.
 
 ```javascript
 {
@@ -344,7 +344,7 @@ Wir haben eine `metadata.json` Datei für die Lazy Peeps [hier](https://eggsy.co
 }
 ```
 
-Bitte kopieren Sie den obigen Code und fügen Sie ihn in Ihre Datei `metadata.json`. Sie müssen jetzt die Werte der Eigenschaften bearbeiten. Beachten Sie, dass die folgenden Eigenschaften in Ihrer Datei `metadata.json` optional sind. Wenn Sie sie nicht verwenden möchten, müssen Sie sie entfernen.
+Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du musst jetzt die Werte der Eigenschaften bearbeiten. Beachte, dass die folgenden Eigenschaften in Deiner `metadata.json` optional sind. Wenn Du sie nicht verwenden möchten, musst Du sie entfernen.
 - `Mitwirkende`
 - `regExp`
 - `iframe`
@@ -508,21 +508,21 @@ TLD steht beispielsweise für Top Level Domain: .com .net<br>
   </tbody>
 </table>
 
-Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file) , um zur TypeScript-Erklärung zurückzukehren. Klicken Sie auf [hier](/dev/presence#filling-in-the-metadatajson-file-1) , um zur JavaScript-Erklärung zurückzukehren.
+Klicke [hier](/dev/presence#filling-in-the-metadatajson-file), um zur TypeScript-Erklärung zurückzukehren. Klicken [hier](/dev/presence#filling-in-the-metadatajson-file-1), um zur JavaScript-Erklärung zurückzukehren.
 
 # Präsenz laden
-1. Öffnen Sie das Popup und halten Sie die Taste <kbd>Shift</kbd> auf Ihrer Tastatur gedrückt.
+1. Öffne das Popup und halte die Taste <kbd>Shift</kbd> auf Deiner Tastatur gedrückt.
 2. **Präsenz laden** wird im Bereich Präsenz angezeigt.
-3. Klicken Sie darauf, während Sie die Taste <kbd>Shift</kbd> gedrückt halten.
-4. Wählen Sie den Ordner / dist Ihrer Anwesenheit.
+3. Klicke darauf, während Du die Taste <kbd>Shift</kbd> weiterhin gedrückt hälst.
+4. Wähle den Ordner /dist Deiner Präsenz.
 
 # Einige hilfreiche Dinge
 ## Hot-Reload
-Die Website, auf der Sie sich befinden, wird jedes Mal automatisch neu geladen, wenn Sie eine Datei in Ihrem Ordner speichern.
+Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
 
 ## Debuggen
-- Sie können `console.log ("Test") setzen;` zwischen Ihrem Code und prüfen Sie, ob Ihre Browserkonsole diese Ausgabe liefert. Wenn ja, fahren Sie fort und versuchen Sie es nach der nächsten Funktion erneut. Wenn nicht, liegt ein Fehler vor.
-- Wenn Ihnen das auch nicht hilft, fragen Sie einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/PreMiD) um Hilfe.
+- Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Wenn nicht, liegt ein Fehler vor.
+- Wenn Dir das auch nicht hilft, frage einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/PreMiD) um Hilfe.
 
 # Dateien erklärt
 - [Präsenzklasse](/dev/presence/class)

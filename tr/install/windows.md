@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Getting started with a PreMiD installation on Windows
+description: Windows'da PreMiD kurulumuna başlarken
 published: true
 date: 2020-02-07T00:44:57.532Z
 tags:

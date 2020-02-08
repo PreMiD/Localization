@@ -83,7 +83,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço se você estiver sem idéias. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
+      <td style="text-align:left">Uma pequena descrição da presença, você pode usar a descrição do serviço se você estiver sem idéias. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
       <td style="text-align:left"><code>Não</code>

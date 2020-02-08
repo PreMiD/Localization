@@ -10,7 +10,7 @@ PreMiD ist eine simple, konfigurierbare Software, welche es dir erlaubt, in dein
 
 # Warum du PreMiD herunterladen solltest
 - Wir speichern absolut keine Daten. Du musst dir also keine Sorgen um deine Privatsphäre machen.
-- Unser gesamtes Projekt ist Open-Source! Wir möchten wit unseren Nutzern arbeiten - nicht gegen sie.
+- Unser gesamtes Projekt ist Open-Source! Wir möchten mit unseren Nutzern arbeiten - nicht gegen sie.
 - Eine große Funktion wird zu PreMiD kommen: Watch Parties. Mit Spieleinladungen und gleichzeitigem Schauen und Hören. Ermöglicht durch [Discord](https://discordapp.com/).
 
 # Grundfunktionen

@@ -2,7 +2,7 @@
 title: Kom igång
 description: Lite råd för dem som nyligen kom in i kodning
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Installera kraven
 1. Install [Git](https://git-scm.com/).
 2. Installera [Nod](https://nodejs.org/en/) (levereras med [npm](https://www.npmjs.com/)).
-3. Installera [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öppna en terminal och `npm install -g typescript`).
+3. Installera [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öppna en terminal och typ `npm install -g typescript`).
 
 # Klonar projektet
 1. Öppna en terminal och skriv `git clone URL`. **Ersätt URL med utvecklingslänk som du vill bidra till** t.ex. `git clone https://github.com/PreMiD/PreMiD`.

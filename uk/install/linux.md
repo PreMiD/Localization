@@ -2,7 +2,7 @@
 title: Linux
 description: Початок роботи з встановленням PreMiD на Linux
 published: true
-date: 2020-02-06T23:54:03.042Z
+date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
@@ -29,7 +29,7 @@ tags:
 > {.is-warning}
 
 ## Арка Linux
-Якщо ви перебуваєте в Arch дистрибутивах або в Arch PreMiD доступний у репозитарії [Arch Linux](https://aur.archlinux.org/packages/premid-git/) (AUR) під `premid-git`. Використай свій улюблений менеджер пакетів для того, щоб захопити його туди!
+Якщо ви перебуваєте в Arch дистрибутивах або в Arch PreMiD доступний у [Репозиторій Linux](https://aur.archlinux.org/packages/premid/) (AUR) під `premid`. Використай свій улюблений менеджер пакетів для того, щоб захопити його туди!
 
 ## Інші розподілення
 - Інсталяційний скрипт: `wget -qO- http://bit.ly/install-premid | bash` або `curl -sL https://bit. y/install-premid | bash`, зачекайте на встановлення, двічі клацніть по посиланню "PreMiD" на вашому робочому столі, і все!

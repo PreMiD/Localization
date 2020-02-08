@@ -1,6 +1,6 @@
 ---
 title: API
-description: Greifen Sie mit der PreMiD-API auf Ressourcen zu und führen Sie Aktionen aus
+description: Greife mit der PreMiD-API auf Ressourcen zu und führe Aktionen aus
 published: true
 date: 2020-01-19T23:42:12.088Z
 tags:
@@ -17,7 +17,7 @@ tags:
 > 
 > {.is-danger}
 
-PreMiD stellt verschiedene Versionen unserer API zur Verfügung. Sie können die Version angeben, indem Sie sie in den Anforderungspfad wie `https://api.premid.app/v{version_number}`. Wenn Sie die Versionsnummer von der Route weglassen, werden Anforderungen an die aktuelle Standardversion weitergeleitet (unten entsprechend markiert).
+PreMiD stellt verschiedene Versionen unserer API zur Verfügung. Du kannst die Version angeben, indem Du sie in den Pfad `https://api.premid.app/v{version_number}` einfügst. Wenn Du die Versionsnummer von der Route weglässt, werden Requests an die aktuelle Standardversion weitergeleitet (unten entsprechend markiert).
 
 ## Verschlüsselung
 

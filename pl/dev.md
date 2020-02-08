@@ -2,7 +2,7 @@
 title: Wprowadzenie
 description: Troche porad dla tych co chcą zacząć programować
 published: tak
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Instalowanie wymagań
 1. Zainstaluj program [Git](https://git-scm.com/).
 2. Zainstaluj program [Node.js](https://nodejs.org/en/) (instaluje się z [npm](https://www.npmjs.com/)).
-3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz konsole i wpisz `npm install -g typescript`).
+3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz terminal i wpisz `npm install -g typescript`).
 
 # Klonowanie projektu
 1. Otwórz konsole i wpisz `git clone URL`. **Zamień URL na link repozytorium które chcesz wspomóc** np. `git clone https://github.com/PreMiD/PreMiD`.

@@ -2,7 +2,7 @@
 title: Commencer
 description: Un petit conseil pour ceux qui ont commencé le codage récemment
 published: vrai
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Installation des pré-requis
 1. Install [Git](https://git-scm.com/).
 2. Installez [Node](https://nodejs.org/en/) (livré avec [npm](https://www.npmjs.com/)).
-3. Installez [TypeScript](https://www.typescriptlang.org/index.html#download-links) (ouvrez un terminal et `npm installez -g typescript`).
+3. Installez [TypeScript](https://www.typescriptlang.org/index.html#download-links) (ouvrez un terminal et tapez `npm install -g typescript`).
 
 # Dupliquer le projet
 1. Ouvrez un terminal et tapez `git clone URL`. **Remplacez l'URL par le lien du fichier auquel vous voulez contribuer ** Par exemple `git clone https://github.com/PreMiD/PreMiD`.

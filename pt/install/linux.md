@@ -2,7 +2,7 @@
 title: Linux
 description: Primeiros passos com a instalação do PreMiD no Linux
 published: true
-date: 2020-02-06T23:54:03.042Z
+date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
@@ -19,7 +19,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 4. Mude a pasta de trabalho: `cd PreMiD/src`
 5. Instale as dependencias e a aplicação: `npm install`
 6. Mude a pasta de trabalho: `cd ..`
-7. Digite: ` npm run init`
+7. Digite: `npm run init`
 8. Inicie a aplicação: `npm start`
 
 O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
@@ -29,10 +29,10 @@ O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de 
 > {.is-warning}
 
 ## Arch Linux
-Se você está no Arch Linux ou em uma distribuição baseada em Arch, O PreMiD está disponível no [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) sob `premid-git`. Use o seu gerenciador de pacotes favorito para pegá-lo de lá!
+Se você está no Arch Linux ou em uma distribuição baseada em Arch, o PreMiD está disponível no [Repositório do Arch Linux](https://aur.archlinux.org/packages/premid/) (AUR) sob `premid`. Use o seu gerenciador de pacotes favorito para pegá-lo de lá!
 
 ## Outras distribuições
-- Script de instalação: `wget -qO- http://bit.ly/install-premid | bash` ou `curl -sL https://bit.ly/install-premid | bash`, espere que instale, clique duas vezes no atalho "PreMiD" criado no seu ambiente de trabalho, e pronto!
+- Script de instalação: `wget -qO- http://bit.ly/install-premid | bash` ou `curl -sL https://bit.ly/install-premid | bash`, aguarde a instalação, clique duas vezes no atalho "PreMiD" criado no seu Desktop, e pronto!
 - Se desejar desinstalar o PreMiD, pode executar `wget -qO- http://bit.ly/uninstall-premid | bash` ou `curl -sL https://bit.ly/uninstall-premid | bash`.
 
 > Não se esqueça de [adicionar a **extensão**](/install).{.is-warning}

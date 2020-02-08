@@ -2,7 +2,7 @@
 title: З чого почати
 description: Трохи поради тим, хто недавно займається програмуванням
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Встановлення вимог
 1. Install [Git](https://git-scm.com/).
 2. Встановити [вузол](https://nodejs.org/en/) (приходить з [npm](https://www.npmjs.com/)).
-3. Встановити [TypeScript](https://www.typescriptlang.org/index.html#download-links) (відкрити термінал і `npm встановити -g typescript`).
+3. Встановіть [TypeScript](https://www.typescriptlang.org/index.html#download-links) (відкрийте термінал і введіть `npm встановити -g typescript`).
 
 # Клонування проекту
 1. Відкрийте термінал і введіть `git clone URL`. **Замініть URL на посилання з репозиторію, ви хочете внести свій внесок на** , наприклад `git clone https://github.com/PreMiD/PreMiD`.
