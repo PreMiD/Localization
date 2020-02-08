@@ -16,15 +16,15 @@
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
   },
   "user.switch.contributed": {
-    "message": "用户[显示/贡献]",
+    "message": "用户 [Presences/贡献]",
     "description": "The tippy message to switch between user's presences and presences that user has contributed to."
   },
   "user.presences.created": {
-    "message": "点击这里显示用户创建的存在。",
+    "message": "点击这里显示该用户创建的所有 Presence。",
     "description": "Tippy content in user profile."
   },
   "user.presences.contributed": {
-    "message": "点击这里显示用户贡献的存在。",
+    "message": "点击这里显示该用户参与开发的所有 Presence。",
     "description": "Tippy content (mode 2) in user profile."
   }
 }
