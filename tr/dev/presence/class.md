@@ -1,155 +1,152 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Presence Sınıfı
+description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
-date: 2019-10-06T23:18:10.415Z
+date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Presence Sınıfı
 
-## Introduction
+## Tanıtım
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` sınıfı, servisimizi oluştururken bize gerekli bir çok metod ve yöntem ile yardımcı olacaktır.
 
- When you create a class you must specify `clientId` property.
+ Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Örnek bir clientId alanı
 });
 ```
 
-There are two properties available for `Presence` class.
+`Presence` sınıfı için şimdilik geçerli iki adet alan vardır.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId` alanı, servis kodunun çalışabilmesi için gereklidir çünkü bu sayede uygulamanıza eklediğiniz resimleri ve diğer bilgileri çekiyoruz.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Bu alan, servisinizin klavyedeki multimedya tuşlarına basılmasını yakalamak isteyenler için ayarlanmalıdır, ayarlandığı taktirde kodunuzda `MediaKeys` eventini kullanabileceksiniz.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Bu alan gerekli değildir ve **tarayıcılar bu desteği zaten eklediği için artık kullanılmamaktadır**, ancak bir sebepten dolayı bunlara ihtiyaç duyuyorsanız bu ayarı `true` olarak ayarlamalısınız.
 
-**All mediaKey events are temporarily disabled!**
+**Yukarıda bahsedildiği gibi bu event geçici veya kalıcı olarak devre dışıdır!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Medya tuşlarını yakalamayı sağlar
 });
 ```
 
-## Methods
+## Metodlar
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Verilen verilerle profilinizi ayarlar.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Bu metodun ilk parametresi profilde göstermek istediğiniz `presenceData` verisini içeren bir obje olmalıdır.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `presenceData` içerisinde zaman verisi belirttiyseniz, her zaman `true` değerini kullanın.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Gözüken verileri temizler, tuşları yakalamayı bırakır ve menü çubuğu yazısını temizler.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Bu yöntem sadece MacOS üzerinde çalışmaktadır. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Menüdeki durum yazısını ayarlar.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Çevirileri almanızı sağlar. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Aşağıdaki bağlantıdan eklentiden alabileceğiniz çevirileri bulabilirsiniz: `https://api.premid.app/v2/langFIle/extension/en`</code>
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// `Oynatılıyor` ve `Durduruldu` çevirilerini
+// gösterir.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+let pageVar = getPageLetiable('degisken');
+console.log(pageVar); // Bu 'degisken' değişkeninin içeriğini konsola yazdırır.
 ```
 
-## `presenceData` Interface
+## `presenceData` Arayüzü
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+`presenceData` arayüzü, `setActivity()` metodunu kullandığınızda tavsiye edilmektedir.
 
-This interface has following variables, all of them are optional.
+Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani zorunlu değildir.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Anahtar</th>
       <th style="text-align:left">Açıklama</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tür</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Profilinizde gözüken kısımda üst tarafta bulunan yazı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Profilinizde gözüken kısımda alt tarafta bulunan yazı.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Geçerli zamanı belirtir.<br>
+        Başlangıç zamanını belirterek ondan sonra ne kadar zaman geçtiğini gösterebilirsiniz.
+          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Uzunluğu belirler.
+        <br>Bitiş zamanını belirlerseniz kaç <code>saat:dakika:saniye</code> kaldığını profilde gösterebilirsiniz.
+          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Servisin büyük resmini belirler.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Büyük resmin yanında bulunacak küçük simgenin ismini belirler.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">İmleci küçük resmin üzerine tuttuğunuzda gösterilecek yazıyı belirler.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -157,37 +154,37 @@ This interface has following variables, all of them are optional.
 </table>
 
 ```typescript
-var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+let presenceData: presenceData = {
+    details: "Başlık",
+    state: "Açıklama",
+    largeImageKey: "buyuk_resim",
+    smallImageKey: "kucuk_resim",
+    smallImageText: "Küçük resimin üzerine neden tutuyorsun?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## Eventler/Eylemler
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmenizi sağlar. Bir event'i dinleyebilmek için `on` metodunu kullanabilirsiniz.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Veri geldiğinde bir şeyler yap.
 });
 ```
 
-There are few events available:
+Kullanabileceğiniz birkaç event vardır:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Bu event, kullanıcı servisin çalışacağı bir siteye girdikten sonra sürekli olarak kendini tekrar edecektir.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (artık mevcut değil)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+Kullanıcılar klavyelerindeki medya tuşlarına basınca devreye girecektir, daha fazla bilgi için [buraya](/dev/presence/class#mediakeys) tıklayabilirsiniz.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+iFrame'den bilgi geldiğinde bu event bilgi iletecektir.
