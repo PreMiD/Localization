@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ Aby uzyskać więcej informacji o klasie Presence kliknij [tutaj](/dev/presence/
 Wiele stron internetowych używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Te tagi html mogą zawierać wiele źródeł, takich jak filmy. Ale za każdym razem nie są one istotne. Niektóre są ukryte lub po prostu nie są aktywnie używane. Sprawdź, czy potrafisz wyodrębnić, potrzebne informacje bez nich zanim wykonasz niepotrzebne prace.
 
 1. Zaznacz je przez konsolę przeglądarki (upewnij się, że jesteś na karcie **Elements**).
-2. Szukaj (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Wykonaj `document.querySelectorAll("iframe")`.
 
 Jeśli okaże się, że Twoje dane znajdują się w iFrame, musisz wykonać następujące czynności:
@@ -286,7 +286,7 @@ Aby uzyskać więcej informacji o klasie Presence kliknij [tutaj](/dev/presence/
 Wiele stron internetowych używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Te tagi html mogą zawierać wiele źródeł, takich jak filmy. Ale za każdym razem nie są one istotne. Niektóre są ukryte lub po prostu nie są aktywnie używane. Sprawdź, czy potrafisz wyodrębnić, potrzebne informacje bez nich zanim wykonasz niepotrzebne prace.
 
 1. Zaznacz je przez konsolę przeglądarki (upewnij się, że jesteś na karcie **Elements**).
-2. Szukaj (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Wykonaj `document.querySelectorAll("iframe")`.
 
 Jeśli okaże się, że Twoje dane znajdują się w iFrame, musisz wykonać następujące czynności:
