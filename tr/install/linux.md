@@ -1,40 +1,40 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Linux'ta PreMiD kurulumuna başlarken
 published: true
-date: 2019-10-03T15:55:36.490Z
+date: 2020-02-06T23:54:03.042Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> İlerlemeden önce sisteminizin tüm [gereksinimleri](/install/requirements) karşıladığından emin olun.{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
-# Yükle
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+# Yükleme
+> Bu işletim sistemi için resmi bir yükleyici yoktur. Bu, resmi bir destek olmadığı anlamına gelir. Ancak [Discord sunucumuzdaki ](https://discord.gg/premid/) diğer Linux kullanıcılarıyla bilgi alışverişi yapabilirsiniz
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
-3. Clone the repository: `git clone https://github.com/Timeraa/PreMiD.git`
-4. Change the working directory: `cd PreMiD/src`
-5. Install the dependencies and the application: `npm install`
-6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+1. [NodeJS](https://nodejs.org/en/)'yi kurun.
+2. Bir terminal açın.
+3. Depoyu klonlayın: `git clone https://github.com/PreMiD/PreMiD.git`
+4. Klonlanan klasöre girin: `cd PreMiD/src`
+5. Bağımlılıkları ve uygulamayı yükleyin: `npm install`
+6. Bir üst klasöre dönün: `cd ..`
+7. Şunu yazın: `npm run init`
+8. Uygulamayı çalıştırın: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol edin.
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> Aşağıdaki yöntemler kullanımdan kaldırılmıştır ve artık önerilmemektedir. Bunları kullanmak tamamen sizin kendi sorumluluğunuzdadır. 
 > 
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid-git/) (AUR) under `premid-git`. Use your favorite package manager to grab it from there!
+Eğer Arch Linux veya Arch tabanlı bir Linux dağıtımı kullanıyorsanız [AUR](https://aur.archlinux.org/packages/premid/) depolarından `premid` paketini bulabilir ve indirebilirsiniz. En sevdiğiniz paket yöneticinizi kullanarak dosyaları bu kaynaktan aldırın!
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+## Diğer dağıtımlar
+- Yüklemek için şu kodu konsolunuza girin: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin ve uygulama çekmecenizden "PreMiD"i arayın, yükleme işlemi tamamlanmış demektir.
+- Eğer PreMİD'i kaldırmak istersenin bunu çalıştırabilirsiniz `wget -qO- http://bit.ly/uninstall-premid | bash` veya `curl -sL https://bit.ly/uninstall-premid | bash`.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Eklentiyi [eklemeyi ](/install) unutmayın.{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
