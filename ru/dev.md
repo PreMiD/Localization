@@ -2,7 +2,7 @@
 title: Начало работы
 description: Немного советы для тех, кто недавно попал в кодировку
 published: true
-date: 2020-01-19T23:42:04.047Z
+date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 # Установка требований
 1. Install [Git](https://git-scm.com/).
 2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
-3. Установить [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и `npm install -g typescript`).
+3. Установите [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и введите `npm install -g typescript`).
 
 # Клонирование проекта
 1. Откройте терминал и введите `git clone URL`. **Замените URL-адрес ссылкой репозитория, которую вы хотите внести в** напр. `git clone https://github.com/PreMiD/PreMiD`.
