@@ -1,8 +1,8 @@
 ---
 title: API
 description: Access ressources and perform actions using the PreMiD API
-published: true
-date: 2019-10-03T00:53:26.994Z
+published: 是
+date: 2020-01-19T23:42:12.088Z
 tags:
 ---
 
@@ -23,7 +23,7 @@ PreMiD exposes different versions of our API. You can specify version by includi
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
-# 帮助文档
+# 相關文章
 > Currently under construction! 
 > 
 > {.is-danger}
