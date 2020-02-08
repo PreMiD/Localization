@@ -1,28 +1,28 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: Instalace
+description: Jak nainstalovat PreMiD
 published: true
-date: 2019-10-06T01:23:00.527Z
+date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Je nezbytné** nainstalovat **obě** **aplikace** a **rozšíření prohlížeče**! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Vyberte operační systém:**
+- [Windows *7 nebo vyšší*](/install/windows)
+- [macOS *10.11 nebo vyšší*](/install/macos)
+- [Linux *4 nebo vyšší*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Vyberte svůj prohlížeč:**
+- [Chromium *v76 nebo vyšší*](/install/chromium)
+- [Firefox *v69 nebo vyšší*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
