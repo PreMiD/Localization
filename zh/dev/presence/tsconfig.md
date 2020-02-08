@@ -1,8 +1,8 @@
 ---
 title: Untitled Page
 description: A little helper for TypeScript
-published: true
-date: 2019-10-03T04:01:12.991Z
+published: 是
+date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
@@ -29,7 +29,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | 描述                                                                                              |
+| Property            | 說明                                                                                              |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
 | **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
 | module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
@@ -48,7 +48,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | 描述                                                                                     |
+| Property            | 說明                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
 | **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
