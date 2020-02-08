@@ -8,15 +8,15 @@
     "description": "Error (404) message"
   },
   "error.code.4": {
-    "message": "您正在寻找不存在或删除的存在。",
+    "message": "这个 Presence 已被删除或从未存在过。",
     "description": "Error (4) message"
   },
   "error.code.500": {
-    "message": "发生了内部服务器错误。",
+    "message": "内部服务器错误。",
     "description": "Error (500) message"
   },
   "error.page.details": {
-    "message": "详细信息",
+    "message": "详情",
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
