@@ -10,5 +10,21 @@
   "contributors.headings.translators": {
     "message": "翻訳者",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.mainDeveloper": {
+    "message": "メインデベロッパー",
+    "description": "'Main Developer' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "ウェブサイトデベロッパー",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "コミュニティマネージャー",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "モデレーター",
+    "description": "'Moderator' title for contributors and user pages."
   }
 }
