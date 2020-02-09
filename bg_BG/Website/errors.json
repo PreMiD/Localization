@@ -18,5 +18,29 @@
   "error.page.details": {
     "message": "детайли",
     "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Върнете се на началната страница",
+    "description": "Button on the error page"
+  },
+  "user.notFound.heading": {
+    "message": "Този потребител не може да бъде намерен. Опитайте да се уверите:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Идентификационният номер на потребителя, който търсите, е правилен.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "Потребителят е създал достатъчно присъствия и има ролята на присъствие Разработчик в нашия Discord сървър.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Проверете дали други срещат същия проблем на нашия Discord сървър.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Ако смятате, че това е грешка, моля, свържете се с нас от [нашия сървър Discord].",
+    "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
