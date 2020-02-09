@@ -48,11 +48,11 @@
     "description": "'Main Developer' title for contributors page."
   },
   "contributors.roles.administrator": {
-    "message": "Administrator",
+    "message": "管理者",
     "description": "'Administrator' title for contributors page."
   },
   "contributors.roles.secretary": {
-    "message": "コミュニティの秘書",
+    "message": "Community Secretary",
     "description": "'Community Secretary' title for contributors.page"
   },
   "contributors.roles.seniorModerator": {
