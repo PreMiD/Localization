@@ -46,5 +46,9 @@
   "contributors.roles.translator": {
     "message": "ผู้แปลภาษา",
     "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "ผู้ดูแล",
+    "description": "'Administrator' title for contributors page."
   }
 }
