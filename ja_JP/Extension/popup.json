@@ -28,7 +28,7 @@
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "プレゼンス",
+    "message": "Presences",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
@@ -71,8 +71,40 @@
     "message": "PreMiDのアプリケーションと接続できませんでした。インストール、または起動されていますか？*トラブルシューティング*",
     "description": "Shown when the extension can't connect to the application"
   },
+  "popup.info.unsupportedAppVersion": {
+    "message": "Outdated App",
+    "description": "Shown when application is outdated"
+  },
   "popup.info.unsupportedAppVersion.message": {
     "message": "このPreMiDは古いバージョンです。PreMiDをアップデートしてください。",
     "description": "Shown when application is outdated"
+  },
+  "popup.category.all": {
+    "message": "全て",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.anime": {
+    "message": "Anime",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.music": {
+    "message": "音楽",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.games": {
+    "message": "ゲーム",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.socials": {
+    "message": "SNS",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.videos": {
+    "message": "動画と配信",
+    "description": "Category name shown when you open tags"
+  },
+  "popup.category.other": {
+    "message": "その他",
+    "description": "Category name shown when you open tags"
   }
 }
