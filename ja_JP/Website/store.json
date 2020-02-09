@@ -31,6 +31,30 @@
 		"message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
 		"description": "The message that appears instead of the buttons."
 	},
+	"store.category.all": {
+		"message": "全て",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "ゲーム",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "音楽",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "SNS",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "動画と配信",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "その他",
+		"description": "Category at the top"
+	},
 	"store.search": {
 		"message": "検索",
 		"description": "Placeholder for presence search"
