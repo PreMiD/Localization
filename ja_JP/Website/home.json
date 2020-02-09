@@ -12,15 +12,19 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "あなたはこれ無しでは生きられなくなるでしょう！",
+    "message": "これ無しでは生きられなくなるでしょう！",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "*あなたの*好みの機能を見つけましょう。",
+    "message": "*あなた好みの機能*を見つけましょう。",
     "description": "Features section subheading"
   },
+  "home.features.presencesystem.description": {
+    "message": "この拡張機能は、自分や他の人が作ったPresencesを自由に追加できるようになっています！",
+    "description": "Features section description"
+  },
   "home.features.presencesystem.button": {
-    "message": "ストアを開く",
+    "message": "ストアを覗く",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
