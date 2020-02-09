@@ -26,5 +26,17 @@
   "user.notFound.heading": {
     "message": "ユーザーを見つけられませんでした。以下の方法を試してみてください。",
     "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message2": {
+    "message": "このユーザーは十分なPresencesを作成しているので、DiscordでPresence Depeloperの役職を獲得しています。",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Discordサーバーで同じ問題がないか確認してください。",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "これがバグである場合、[ここ] から報告してください",
+    "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
