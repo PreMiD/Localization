@@ -1,4 +1,24 @@
 {
+  "store.search.notFound": {
+    "message": "พวกเราไม่เจอ presence นี้",
+    "description": "Search result text when nothing's found"
+  },
+  "error.code.404": {
+    "message": "ขออภัย, พวกเราหาเพจนี้ไม่เจอ",
+    "description": "Error (404) message"
+  },
+  "error.code.500": {
+    "message": "เกิดข้อผิดพลาดภายในเซิร์ฟเวอร์",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "ราย​ละเอียด",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "กลับไปสู่หน้าหลัก",
+    "description": "Button on the error page"
+  },
   "user.notFound.heading": {
     "message": "ไม่พบผู้ใช้รายนั้น โปรดแน่ใจว่าถูกต้องหรือไม่:",
     "description": "Error when user couldn't be found."
