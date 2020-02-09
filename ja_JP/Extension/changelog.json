@@ -3,6 +3,10 @@
     "message": "自分で*Presencesを追加できる*ようになりました。",
     "description": ""
   },
+  "extension.2.0.new2": {
+    "message": "ストアで*新しいPresences*を探しましょう",
+    "description": ""
+  },
   "extension.2.0.new3": {
     "message": "自動アップデートが追加されました",
     "description": ""
@@ -37,6 +41,10 @@
   },
   "extension.2.0.fix2": {
     "message": "すべてがすごい速度で動いています",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "最新版を持っていたとしても古いバージョンと表示される不具合を修正",
     "description": ""
   }
 }
