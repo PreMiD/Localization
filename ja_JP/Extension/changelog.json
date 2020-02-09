@@ -1,10 +1,18 @@
 {
+  "extension.2.0.new1": {
+    "message": "自分で*Presencesを追加できる*ようになりました。",
+    "description": ""
+  },
   "extension.2.0.new3": {
     "message": "自動アップデートが追加されました",
     "description": ""
   },
   "extension.2.0.new4": {
     "message": "誰でもプレゼンスを作成できるようになりました",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "クリエイティブな開発者のための*ドキュメント*",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -28,7 +36,7 @@
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "すべてが以前よりずっと速く動いています",
+    "message": "すべてがすごい速度で動いています",
     "description": ""
   }
 }
