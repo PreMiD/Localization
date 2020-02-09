@@ -66,5 +66,13 @@
   "popup.info.notConnected": {
     "message": "接続していません",
     "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.notConnected.message": {
+    "message": "PreMiDのアプリケーションと接続できませんでした。インストール、または起動されていますか？*トラブルシューティング*",
+    "description": "Shown when the extension can't connect to the application"
+  },
+  "popup.info.unsupportedAppVersion.message": {
+    "message": "このPreMiDは古いバージョンです。PreMiDをアップデートしてください。",
+    "description": "Shown when application is outdated"
   }
 }
