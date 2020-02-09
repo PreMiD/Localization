@@ -1,6 +1,6 @@
 ---
 title: Chromium
-description: Začněte s instalací PreMiD na prohlížečích založených na Chromeiu
+description: Začněte s instalací PreMiD na prohlížečích založených na Chromiu
 published: true
 date: 2020-01-19T23:42:16.572Z
 tags:
@@ -8,8 +8,8 @@ tags:
 
 Instalace rozšíření je velmi důležitá, protože aplikace nemůže dělat nic sama.
 
-# Instalovat
-### Chrome, hrana atd.
+# Instalace
+### Chrome, Edge atd.
 1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
 2. Vyberte **Chromium**.
 3. Klikněte na **Přidat do Chrome**.
