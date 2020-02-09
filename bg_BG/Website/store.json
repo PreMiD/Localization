@@ -51,8 +51,16 @@
 		"message": "Категории",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "всичко\n",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Игри",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "музика\n",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
