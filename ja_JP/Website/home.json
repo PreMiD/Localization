@@ -24,7 +24,15 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "シンプルなUI",
+    "message": "ユーザーに寄り添った作りに。",
+    "description": "Features section subheading"
+  },
+  "home.features.simpleInterface.description.1": {
+    "message": "アプリと拡張機能の設定",
+    "description": "Features section description point"
+  },
+  "home.features.quickSupport.heading": {
+    "message": "早いサポート",
     "description": "Features section subheading"
   }
 }
