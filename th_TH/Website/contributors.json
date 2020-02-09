@@ -50,5 +50,9 @@
   "contributors.roles.administrator": {
     "message": "ผู้ดูแล",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "เลขาชุมชน",
+    "description": "'Community Secretary' title for contributors.page"
   }
 }
