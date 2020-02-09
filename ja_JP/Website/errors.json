@@ -27,6 +27,10 @@
     "message": "ユーザーを見つけられませんでした。以下の方法を試してみてください。",
     "description": "Error when user couldn't be found."
   },
+  "user.notFound.message1": {
+    "message": "ユーザーを見つけられませんでした。",
+    "description": "Check user ID message."
+  },
   "user.notFound.message2": {
     "message": "このユーザーは十分なPresencesを作成しているので、DiscordでPresence Depeloperの役職を獲得しています。",
     "description": "Check the presence amount of the developer created message."
