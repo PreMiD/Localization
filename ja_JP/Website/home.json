@@ -10,5 +10,21 @@
   "home.examples.timestamp": {
     "message": "{0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.features.heading": {
+    "message": "あなたはこれ無しでは生きられなくなるでしょう！",
+    "description": "Features section"
+  },
+  "home.features.presencesystem.heading": {
+    "message": "*あなたの*好みの機能を見つけましょう。",
+    "description": "Features section subheading"
+  },
+  "home.features.presencesystem.button": {
+    "message": "ストアを開く",
+    "description": "Features section button"
+  },
+  "home.features.simpleInterface.heading": {
+    "message": "シンプルなUI",
+    "description": "Features section subheading"
   }
 }
