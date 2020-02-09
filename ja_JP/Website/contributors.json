@@ -12,19 +12,51 @@
     "description": "Heading for group of users."
   },
   "contributors.roles.mainDeveloper": {
-    "message": "メインデベロッパー",
+    "message": "Main Developer",
     "description": "'Main Developer' title for contributors and user pages."
   },
   "contributors.roles.websiteDeveloper": {
-    "message": "ウェブサイトデベロッパー",
+    "message": "Website Developer",
     "description": "'Website Developer' title for contributors and user pages."
   },
   "contributors.roles.communityManager": {
-    "message": "コミュニティマネージャー",
+    "message": "Community Manager",
     "description": "'Community Manager' title for contributors and user pages."
   },
+  "contributors.roles.headModerator": {
+    "message": "Head Moderator",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
   "contributors.roles.moderator": {
-    "message": "モデレーター",
+    "message": "Moderator",
     "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.ticketManager": {
+    "message": "チケットマネージャー",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "寄付者",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "ブーストした人",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "翻訳者",
+    "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrator",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.secretary": {
+    "message": "コミュニティの秘書",
+    "description": "'Community Secretary' title for contributors.page"
+  },
+  "contributors.roles.seniorModerator": {
+    "message": "Senior Moderator",
+    "description": "'Senior Moderator' title for contributors page."
   }
 }
