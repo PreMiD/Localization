@@ -12,11 +12,11 @@ tags:
 
 # インストール
 1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行き、
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+2. **Windows**を選びます。
+3. インストーラーを開きます。
+4. インストールする際に**Windows SmartScreen**の画面が表示されるので、 **詳細情報**をクリックして、**実行する**を選びます。 これが表示される理由は、私達ではアプリケーションへの署名(CSC)ができないからです。 [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+アプリケーションは自動的に開始されるはずです。 システムトレイにあるアイコンを確認してみてください。
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
