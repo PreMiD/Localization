@@ -15,4 +15,4 @@ PreMiD er et simplet, konfigurerbar program som lar deg vise hva du ser/hører p
 
 # Kjernefunksjoner
 - Viser din nåværende nettjeneste i Discord som statusen din.
-- Grants full control over Presences.
+- Gir deg full kontroll over Presences.
