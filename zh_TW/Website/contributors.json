@@ -50,5 +50,13 @@
 	"contributors.roles.administrator": {
 		"message": "管理員",
 		"description": "'Administrator' title for contributors page."
+	},
+	"contributors.roles.secretary": {
+		"message": "社區秘書",
+		"description": "'Community Secretary' title for contributors.page"
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "高級版主",
+		"description": "'Senior Moderator' title for contributors page."
 	}
 }
