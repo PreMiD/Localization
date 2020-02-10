@@ -75,8 +75,8 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 
 ## プロジェクトをクローンする
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+2. 任意のフォルダーを選択する
+3. ソースコードエディターで開く
 
 ## Creating folders and files
 
@@ -205,8 +205,8 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 ## プロジェクトをクローンする
 1. [Git](https://git-scm.com/)をインストールする。
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+3. 任意のフォルダーを選択する
+4. ソースコードエディターで開く
 
 ## Creating folders and files
 
