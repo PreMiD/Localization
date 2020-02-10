@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "*あなた好みの機能*を見つけましょう。",
+    "message": "*あなた好みの*presenceを見つけましょう。",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
@@ -32,11 +32,11 @@
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "ストアを覗く",
+    "message": "ストアを開く",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "シンプルな設定。",
+    "message": "シンプルなUI",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -56,7 +56,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "簡単サポート",
+    "message": "迅速なサポート",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
