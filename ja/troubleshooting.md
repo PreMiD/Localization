@@ -11,15 +11,15 @@ tags:
 > {.is-warning}
 
 ### ページを再読み込みする
-You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+<kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows)か<kbd>CMD+R</kbd>(MacOS)を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### ブラウザを再起動する
+<kbd>Alt</kbd>+<kbd>F4</kbd>(Windows)か<kbd>CMD</kbd>+<kbd>Q</kbd>(MacOS)で終了できます。 （ブラウザを再度起動する必要があります。）
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Discordのゲームアクティビティ設定を有効にする
+**ユーザー設定** > **ゲームアクティビティ** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
+### PreMiDのデスクトップアプリを再起動する
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
 ### Reload/restart Discord
