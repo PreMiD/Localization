@@ -1,17 +1,17 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: LinuxでPreMiDをインストールする
 published: true
 date: 2020-02-08T04:19:04.080Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+拡張機能のみでは機能しないため、アプリのダウンロードは重要です。
 
 # インストール
-> There is no official installer for this operating system. This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Linux系ブラウザに対してのインストーラーはありません。 This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
 
 1. Install [NodeJS](https://nodejs.org/en/).
 2. Open a terminal.
