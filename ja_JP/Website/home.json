@@ -1,4 +1,8 @@
 {
+  "home.introduction.paragraph": {
+    "message": "**PreMiD**はブラウザで何をしているかをDiscordのゲームプレイステータスに表示できるようになるアプリです。",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "機能を見る",
     "description": "Introduction button"
