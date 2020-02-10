@@ -1,6 +1,6 @@
 {
   "header.language": {
-    "message": "英語",
+    "message": "繁體中文",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
@@ -24,7 +24,7 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "市場",
+    "message": "商店",
     "description": "Store tab"
   },
   "header.downloads": {
