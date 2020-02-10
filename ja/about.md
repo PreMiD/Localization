@@ -1,5 +1,5 @@
 ---
-title: About PreMiD
+title: PreMiDについて
 description: The core features about PreMiD
 published: true
 date: 2020-01-19T23:42:02.040Z
@@ -11,8 +11,8 @@ PreMiDはブラウザで何をしているかをDiscordのゲームプレイス�
 # PreMiDをダウンロードする理由
 - ユーザーのデータを保存していません。なのでプライバシーは守られています。
 - 全てのプロジェクトがオープンソースです！ ユーザーのために働いています。
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- 新機能、WatchPartiesがPreMiDに近づいています。 ゲームに招待したり、同時にゲームを見たりできます！ Powered by [Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# 基本的な機能
+- 使用しているWebサービスをDiscordのステータスとして表示します。
+- Presencesを追加したり削除したりいじくったりできます。
