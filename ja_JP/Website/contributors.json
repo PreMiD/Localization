@@ -1,62 +1,62 @@
 {
-  "contributors.headings.staff": {
-    "message": "スタッフ",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "サポーター",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "翻訳者",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.mainDeveloper": {
-    "message": "Main Developer",
-    "description": "'Main Developer' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Website Developer",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Community Manager",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Head Moderator",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderator",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "チケットマネージャー",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "寄付者",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "ブーストした人",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "翻訳者",
-    "description": "'Main Developer' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "管理者",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.secretary": {
-    "message": "Community Secretary",
-    "description": "'Community Secretary' title for contributors.page"
-  },
-  "contributors.roles.seniorModerator": {
-    "message": "Senior Moderator",
-    "description": "'Senior Moderator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "スタッフ",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "サポーター",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "翻訳者",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "作者",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.websiteDeveloper": {
+		"message": "Website Developer",
+		"description": "'Website Developer' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Community Manager",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.headModerator": {
+		"message": "Head Moderator",
+		"description": "'Head Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "チケットマネージャー",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "寄付者",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "ブーストした人",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "翻訳者",
+		"description": "'Main Developer' title for contributors page."
+	},
+	"contributors.roles.administrator": {
+		"message": "管理者",
+		"description": "'Administrator' title for contributors page."
+	},
+	"contributors.roles.secretary": {
+		"message": "Community Secretary",
+		"description": "'Community Secretary' title for contributors.page"
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Senior Moderator",
+		"description": "'Senior Moderator' title for contributors page."
+	}
 }
