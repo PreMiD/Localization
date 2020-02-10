@@ -1,4 +1,8 @@
 {
+  "home.introduction.button.features": {
+    "message": "機能を見る",
+    "description": "Introduction button"
+  },
   "home.introduction.button.downloads": {
     "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
@@ -48,7 +52,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "早いサポート",
+    "message": "簡単サポート",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
