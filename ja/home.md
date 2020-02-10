@@ -6,17 +6,17 @@ date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
-> :warning: このドキュメントはまだ編集中です！ Some pages may be incomplete or missing. 
+> :warning: このドキュメントはまだ編集中です！ いくつかのページは完成していません。 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+# PreMiDについて
+- :mag: [PreMidってなに？](/about) あなたがPreMiDを使う理由がここにあります！
+- :link: [RPCって？](https://discordapp.com/rich-presence) Rich Presence機能に関してです。
 
-# Getting Started
+# 使ってみる
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiDのインストールはとってもかんたん！ すぐに使えるようになるはずです。
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
