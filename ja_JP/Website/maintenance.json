@@ -1,1 +1,6 @@
-{}
+{
+  "maintenance.big": {
+    "message": "メンテナンス中！",
+    "description": "The big text on maintenance page"
+  }
+}
