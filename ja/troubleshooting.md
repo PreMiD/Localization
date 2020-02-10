@@ -38,11 +38,11 @@ PreMiD以外の拡張機能をオフにして、動くか見てみましょう�
 I hope you know how to restart a computer...
 
 ### PreMiDの再インストール
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+たまにファイルが壊れていたりする場合があります… [ここで](/install)再インストールできます。
 
-### Manual removal
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### 手動で削除する
+Windowsの場合は ` C:\Users\ユーザー名\Program Files (x86)\`` `に行き、</code>`PreMiD`を削除してください。`
+MacOSの場合は<code>~/users/USER/~Library/Application Support/`に行き、` PreMiD`` `を削除してください。
 
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
