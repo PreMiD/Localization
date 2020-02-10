@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: FirefoxでPreMiDをインストールする
 published: true
 date: 2020-01-19T23:42:18.246Z
 tags:
@@ -13,9 +13,9 @@ tags:
 2. **Firefox**を選んでください。
 3. 検索欄に`about:addons`と入力し、
 4. 右の角にある小さなギアのアイコンをクリックしてください。
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+5. **ファイルからアドオンをインストール**を選択します。
+6. PreMiDのファイルを選択します。
+7. **追加する**を押して完了です！
 
 > [**アプリケーションを追加する**](/install)のを忘れないでください！ 
 > 
