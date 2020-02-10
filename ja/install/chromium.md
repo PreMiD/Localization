@@ -1,6 +1,6 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromium-based browsers
+description: ChromeブラウザでPreMiDをインストールする
 published: true
 date: 2020-01-19T23:42:16.572Z
 tags:
