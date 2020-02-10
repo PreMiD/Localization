@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiDはほぼすべてのシステムで動きます。 これは**Linux**、**MacOS**、**Windows**、**Linux Modifications**で動くことを意味します。
 
 ### CPU
 PreMiDはシングルコアのCPUでも動きます。
@@ -21,9 +21,9 @@ PreMiDはシングルコアのCPUでも動きます。
 Linuxの場合、**20MB以上のメモリ容量が**PreMiDを動かすために必要です。 WindowsとmacOSはそれ以上必要になる場合があります。
 
 ### ストレージ
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+PreMiDは**150MB**の容量を使用します。 快適に動作させるためには、**200MB**程度の空き容量が必要です。
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### インターネット接続
+PreMiDを動作させるためには、インターネット接続が必要です。 PreMiDやPresenceのアップデートをしたり、新しい言語を追加する際に使用します。 　
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
