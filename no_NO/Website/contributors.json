@@ -14,5 +14,21 @@
 	"contributors.roles.creator": {
 		"message": "Skaper",
 		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.websiteDeveloper": {
+		"message": "Nettstedsutvikler",
+		"description": "'Website Developer' title for contributors and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Oversetter",
+		"description": "'Main Developer' title for contributors page."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrator",
+		"description": "'Administrator' title for contributors page."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Seniormoderator",
+		"description": "'Senior Moderator' title for contributors page."
 	}
 }
