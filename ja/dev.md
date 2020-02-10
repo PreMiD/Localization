@@ -16,27 +16,27 @@ tags:
 3. [TypeScript](https://www.typescriptlang.org/index.html#download-links)をインストールする (ターミナルを開き、`npm install -g typescript`と入力する)。
 
 # プロジェクトをクローンする
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+1. ターミナルを開き、`git clone URL`と入力する。 **URL の部分を寄与したいリポジトリーのリンク** 例 `git clone https://github.com/PreMiD/PreMiD` **に置き換える**
+2. 任意のフォルダーを選択する
+3. ソースコードエディターで開く
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# 依存関係のインストール
+> はじめに、[npm](https://www.npmjs.com/) (Node Package Manager) がインストールされていることを確認してください。  [Node](https://nodejs.org/en/)がインストールされている場合、npmは自動でインストールされます。 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- あなたのリポジトリーでターミナルを開き、 `npm i`と入力する
+- 依存関係のタイプを更新する際は `npm update` と入力する
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> 依存関係をアップデートすると、多数の機能が壊れる可能性があります - テストを必ず行ってください！ 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# 空想をコーディングする
+コードの構成を維持してください。 私たちはプロジェクトを混乱させたくありません。 混沌としたファイルは了承されない場合があります。
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# あなたの夢を申請する
+あなたが開発に寄与したいPreMIDの [GitHubリポジトリー](https://github.com/PreMiD/) にてPull Requestを行ってください。 心配しないでください、私たちはあなたが申請したものを管理します。 もしPull Requestを行うのが初めてであれば、こちらの[チュートリアル](https://help.github.com/en/articles/creating-a-pull-request)を参考にして下さい。
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# 承認をもらう
+私たちの主な目的は、ユーザーと可能な限り友好的に、尊重し、有益になるように仕事を行うことです。 Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
