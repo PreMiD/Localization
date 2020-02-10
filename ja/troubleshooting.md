@@ -32,12 +32,12 @@ tags:
 ウイルス対策ソフトやファイアウォールがアプリケーションをブロックすることがあります。主にサーバーを立てたりする時やインターネットに接続する時に検知されます。 アプリと拡張機能の間でデータを送受信するためにローカルサーバーを使用しているため、ウイルス対策ソフトやファイアーウォールがデータを渡す機能をブロックすると、PreMiDを使用できなくなります。
 
 ### 他の拡張機能をオフにする
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+PreMiD以外の拡張機能をオフにして、動くか見てみましょう。 もし動いたなら、問題となっている拡張機能を一つづつ探して、それをオフにしてください。
 
 ### パソコンを再起動する
 I hope you know how to restart a computer...
 
-### Reinstalling PreMiD
+### PreMiDの再インストール
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
@@ -48,4 +48,4 @@ MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### 実行しても問題が解決しませんでしたか？
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+Discordの[#support](https://discord.gg/PreMiD)で問題を入力してください。
