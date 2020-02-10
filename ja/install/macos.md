@@ -6,11 +6,11 @@ date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> お使いのPCが[必要条件](/install/requirements)を満たしているか確認する必要があります。 
+> ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+拡張機能のみでは機能しないため、アプリのダウンロードは重要です。
 
 # インストール
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
