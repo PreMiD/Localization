@@ -6,11 +6,11 @@ date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> 先に、**[拡張機能とアプリ](https://premid.app/downloads)**をダウンロードした状態にしてください！ 
 > 
 > {.is-warning}
 
-### Reload the page
+### ページを再読み込みする
 You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Restart your browser
