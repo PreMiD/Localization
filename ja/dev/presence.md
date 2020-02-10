@@ -69,8 +69,8 @@ After all of the proper reviews have been met, your pull request will be merged 
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. [Git](https://git-scm.com/)をインストールする。
+2. [Node](https://nodejs.org/en/)をインストールする。 ([npm](https://www.npmjs.com/)と一緒に)
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Cloning the project
@@ -203,7 +203,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 # Structure (JavaScript)
 ## Cloning the project
-1. Install [Git](https://git-scm.com/).
+1. [Git](https://git-scm.com/)をインストールする。
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 3. Choose a folder of your choice.
 4. Open it in you code editor.
