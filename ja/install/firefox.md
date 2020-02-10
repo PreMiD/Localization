@@ -10,9 +10,9 @@ tags:
 
 # インストール
 1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行き、
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
+2. **Firefox**を選んでください。
+3. 検索欄に`about:addons`と入力し、
+4. 右の角にある小さなギアのアイコンをクリックしてください。
 5. Choose **Install add-on from file**.
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
