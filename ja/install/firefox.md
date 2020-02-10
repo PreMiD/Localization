@@ -17,7 +17,7 @@ tags:
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> [**アプリケーションを追加する**](/install)のを忘れないでください！ 
 > 
 > {.is-warning}
 
