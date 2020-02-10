@@ -22,5 +22,9 @@
   "user.presences.created": {
     "message": "按這裏顯示該用戶所製作的 presences",
     "description": "Tippy content in user profile."
+  },
+  "user.presences.contributed": {
+    "message": "按這裏顯示該用戶有參與製作的 presences",
+    "description": "Tippy content (mode 2) in user profile."
   }
 }
