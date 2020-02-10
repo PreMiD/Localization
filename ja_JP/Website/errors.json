@@ -12,7 +12,7 @@
     "description": "Error (4) message"
   },
   "error.code.500": {
-    "message": "Internal server error has occurred.",
+    "message": "内部サーバーでエラーが発生しました",
     "description": "Error (500) message"
   },
   "error.page.details": {
