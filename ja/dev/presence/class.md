@@ -1,14 +1,14 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Presenceクラス
+description: すべてのPreMIDのPresenceのメインクラス
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Presenceクラス
 
-## Introduction
+## 説明
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -43,7 +43,7 @@ let presence = new Presence({
 });
 ```
 
-## Methods
+## メソッド
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -87,7 +87,7 @@ var pageVar = getPageLetiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` Interface
+## `presenceData` インターフェース
 
 The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
@@ -96,7 +96,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">変数</th>
       <th style="text-align:left">概要</th>
       <th style="text-align:left">タイプ</th>
     </tr>
@@ -168,7 +168,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## イベント
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
