@@ -6,7 +6,7 @@ date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> すべてのPresencesはここに保管されています。 https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
