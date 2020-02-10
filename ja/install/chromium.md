@@ -1,6 +1,6 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: Getting started with a PreMiD installation on Chromium-based browsers
 published: true
 date: 2020-01-19T23:42:16.572Z
 tags:
@@ -12,13 +12,13 @@ tags:
 ### Chrome, Edge, Vivaldiなど
 1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行き、
 2. **Chrome(Chromium)**を選びます。
-3. Click on **Add to Chrome**.
+3. **拡張機能を追加**を押して完了です！
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**を追加する
+2. その後、[拡張機能を入れる。](https://premid.app/downloads)
 
-> Do not forget to [add the **application**](/install). 
+> [**アプリケーションを追加する**](/install)のを忘れないでください！ 
 > 
 > {.is-warning}
 
