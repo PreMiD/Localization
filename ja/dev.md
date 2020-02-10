@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: 入門
+description: 近いうちにコーディングを始めたひとのためのアドバイス
 published: true
 date: 2020-02-08T04:46:24.725Z
 tags:
@@ -39,4 +39,4 @@ tags:
 あなたが開発に寄与したいPreMIDの [GitHubリポジトリー](https://github.com/PreMiD/) にてPull Requestを行ってください。 心配しないでください、私たちはあなたが申請したものを管理します。 もしPull Requestを行うのが初めてであれば、こちらの[チュートリアル](https://help.github.com/en/articles/creating-a-pull-request)を参考にして下さい。
 
 # 承認をもらう
-私たちの主な目的は、ユーザーと可能な限り友好的に、尊重し、有益になるように仕事を行うことです。 Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+私たちの主な目的は、ユーザーと可能な限り友好的に、尊重し、有益になるように仕事を行うことです。 私たちの[Discordサーバー](https://discord.gg/PreMiD)で開発者にメンションを送って、GitHubの内容のレビューをもらうことができます。 コードの質やアセットの外観、通常の機能性に依存します。
