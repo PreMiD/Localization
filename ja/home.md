@@ -30,9 +30,9 @@ PreMiDのインストールはとってもかんたん！ すぐに使えるよ�
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # 貢献する
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/premid): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [バグを報告する](https://github.com/PreMiD) 不具合を除去する手伝いをする。
+- :bulb: [新しい機能を提案する](https://discord.gg/premid) あなたのアイデアが必要です！
+- :heart: [寄付をする](https://www.patreon.com/Timeraa) この素晴らしいプロジェクトを応援しましょう！
+- :globe_with_meridians: [翻訳する](https://translate.premid.app) 他の言語でPreMiDを使えるように手伝ってください！
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
