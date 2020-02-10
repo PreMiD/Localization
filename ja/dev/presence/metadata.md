@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Presenceに関する基本情報を含むファイル
 published: true
 date: 2020-01-19T23:42:34.658Z
 tags:
@@ -189,34 +189,34 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## 正規表現
 
 If you want to learn regular expressions, here are a few websites.
 
-### Learning
+### 習得
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### 試用
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Presenceのカテゴリー
 
 When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">カテゴリー</th>
+      <th style="text-align:left">名前</th>
       <th style="text-align:left">概要</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>アニメ</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
       </td>
     </tr>
