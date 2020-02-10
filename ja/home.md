@@ -19,8 +19,8 @@ tags:
 PreMiDのインストールはとってもかんたん！ すぐに使えるようになるはずです。
 
 - ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- [インストール](/install)のガイドに沿ってダウンロードしてください。
+- [トラブルシューティング](/troubleshooting)には、起動しない場合や機能しない場合の対処法が書かれています。
 
 # 開発者
 
