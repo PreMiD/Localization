@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Getting started with a PreMiD installation on Windows
+description: WindowsでPreMiDをインストールする
 published: true
 date: 2020-02-07T00:44:57.532Z
 tags:
@@ -18,6 +18,6 @@ tags:
 
 アプリケーションは自動的に開始されるはずです。 システムトレイにあるアイコンを確認してみてください。
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> [**拡張機能を追加する**](/install)のを忘れないでください！{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
