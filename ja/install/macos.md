@@ -13,7 +13,7 @@ tags:
 拡張機能のみでは機能しないため、アプリのダウンロードは重要です。
 
 # インストール
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行き、
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
