@@ -1,62 +1,62 @@
 {
-  "contributors.headings.staff": {
-    "message": "Medewerkers",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Supporters",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Vertalers",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.mainDeveloper": {
-    "message": "Hoofd Ontwikkelaar",
-    "description": "'Main Developer' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Website Ontwikkelaar",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Community Manager",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Hoofd Moderator",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderator",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Ticket Beheerder",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Donateur",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Vertaler",
-    "description": "'Main Developer' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Administrator",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.secretary": {
-    "message": "Communautaire secretaris",
-    "description": "'Community Secretary' title for contributors.page"
-  },
-  "contributors.roles.seniorModerator": {
-    "message": "Senior Moderator",
-    "description": "'Senior Moderator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Medewerkers",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Supporters",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Vertalers",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Maker",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.websiteDeveloper": {
+		"message": "Website Ontwikkelaar",
+		"description": "'Website Developer' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Community Manager",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.headModerator": {
+		"message": "Hoofd Moderator",
+		"description": "'Head Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "Ticket Beheerder",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Donateur",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Vertaler",
+		"description": "'Main Developer' title for contributors page."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrator",
+		"description": "'Administrator' title for contributors page."
+	},
+	"contributors.roles.secretary": {
+		"message": "Communautaire secretaris",
+		"description": "'Community Secretary' title for contributors.page"
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Senior Moderator",
+		"description": "'Senior Moderator' title for contributors page."
+	}
 }
