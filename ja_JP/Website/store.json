@@ -11,6 +11,10 @@
 		"message": "作者",
 		"description": "Creator of a presence"
 	},
+	"store.cards.popular": {
+		"message": "このPresenceは人気があります。",
+		"description": "Presence card popular flame"
+	},
 	"store.cards.verified": {
 		"message": "このプレゼンスは認証済み開発者によって承認されました",
 		"description": "Verified badge hover message"
@@ -30,6 +34,22 @@
 	"store.card.presence.included": {
 		"message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
 		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Search filters",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "最も使用されているもの順にする",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "アダルトコンテンツを表示する",
+		"description": "Adult content checkbox"
+	},
+	"store.category.heading": {
+		"message": "カテゴリー",
+		"description": "Category heading"
 	},
 	"store.category.all": {
 		"message": "全て",
