@@ -6,7 +6,7 @@ date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> お使いのPCが[必要条件](/install/requirements)を満たしているか確認する必要があります。 
 > 
 > {.is-info}
 
