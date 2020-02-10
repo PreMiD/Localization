@@ -6,12 +6,12 @@ date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+アプリのみでは機能しないため、拡張機能のダウンロードは重要です。
 
 # インストール
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
+### Chrome, Edge, Vivaldiなど
+1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行き、
+2. **Chrome(Chromium)**を選びます。
 3. Click on **Add to Chrome**.
 
 ### Opera
