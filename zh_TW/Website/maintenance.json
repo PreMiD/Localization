@@ -1,6 +1,6 @@
 {
   "maintenance.big": {
-    "message": "維修中",
+    "message": "維護中",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
