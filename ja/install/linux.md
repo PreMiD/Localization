@@ -11,10 +11,10 @@ tags:
 拡張機能のみでは機能しないため、アプリのダウンロードは重要です。
 
 # インストール
-> Linux系ブラウザに対してのインストーラーはありません。 This means there is no official support for it. However you can exchange information with other Linux users on our [Discord server](https://discord.gg/premid/).{.is-info}
+> Linux系ブラウザに対してのインストーラーはありません。 そして、公式のサポートが受けられない場合があります。 その代わりに、[Discord](https://discord.gg/premid/)で他のlinuxユーザーと情報を交換できます。{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Open a terminal.
+1. [NodeJS](https://nodejs.org/en/)をインストールする。
+2. Terminalを開く。
 3. Clone the repository: `git clone https://github.com/PreMiD/PreMiD.git`
 4. Change the working directory: `cd PreMiD/src`
 5. Install the dependencies and the application: `npm install`
