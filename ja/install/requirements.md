@@ -20,7 +20,7 @@ PreMiDはシングルコアのCPUでも動きます。
 ### RAM
 Linuxの場合、**20MB以上のメモリ容量が**PreMiDを動かすために必要です。 WindowsとmacOSはそれ以上必要になる場合があります。
 
-### Storage
+### ストレージ
 PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
 ### Internet Access
