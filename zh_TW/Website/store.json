@@ -11,6 +11,10 @@
 		"message": "創建者",
 		"description": "Creator of a presence"
 	},
+	"store.cards.popular": {
+		"message": "這個presence 非常受我們用戶歡迎",
+		"description": "Presence card popular flame"
+	},
 	"store.cards.verified": {
 		"message": "此狀態已由經過驗證的開發人員批准",
 		"description": "Verified badge hover message"
