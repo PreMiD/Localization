@@ -6,14 +6,14 @@ date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> ソースコードエディターが必要です。 Visual Studio Codeをおすすめしています。 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+# 必要なコンポーネントをインストールする
+1. [Git](https://git-scm.com/)をインストールする。
+2. [Node](https://nodejs.org/en/)をインストールする。 ([npm](https://www.npmjs.com/)と一緒に)
+3. [TypeScript](https://www.typescriptlang.org/index.html#download-links)をインストールする (ターミナルを開き、`npm install -g typescript`と入力する)。
 
 # Cloning the project
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
