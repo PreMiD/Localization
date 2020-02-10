@@ -1,4 +1,8 @@
 {
+  "presence.page.buttons.sourceCode": {
+    "message": "Kildekode",
+    "description": "Source Code button on presence pages."
+  },
   "presence.sections.description.title": {
     "message": "Beskrivelse",
     "description": "The title of the description section."
