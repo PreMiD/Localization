@@ -1,6 +1,6 @@
 ---
 title: インストール
-description: How to install PreMiD
+description: PreMiDをインストールする方法
 published: true
 date: 2020-01-19T23:42:07.335Z
 tags:
