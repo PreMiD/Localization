@@ -15,26 +15,26 @@ tags:
 
 1. [NodeJS](https://nodejs.org/en/)をインストールする。
 2. Terminalを開く。
-3. Clone the repository: `git clone https://github.com/PreMiD/PreMiD.git`
-4. Change the working directory: `cd PreMiD/src`
-5. Install the dependencies and the application: `npm install`
-6. Change the working directory: `cd ..`
-7. Type: `npm run init`
-8. Start the application: `npm start`
+3. リポジトリーをクローンする: `git clone https://github.com/PreMiD/PreMiD.git`
+4. 作業ディレクトリを変更する: `cd PreMiD/src`
+5. 依存関係とアプリケーションをインストールする: `npm install`
+6. 作業ディレクトリを変更する: `cd ..`
+7. 入力する: `npm run init`
+8. アプリケーションを起動する: `npm start`
 
-The application will start automatically. Check for the symbol in your menu bar.
+アプリケーションは自動で起動します。 メニューバーからPreMiDのアイコンを確認してください。
 
-> The following methods are deprecated and no longer recommended. Use at your own risk. 
+> 以下の方法は非推奨で、おすすめされていません。 自己責任で利用してください。 
 > 
 > {.is-warning}
 
 ## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) under `premid`. Use your favorite package manager to grab it from there!
+Arch Linux基準の環境をお使いの場合、 PreMiDは `premid` の下、 [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) で利用可能です。 お好きなパッケージマネージャーを使用して導入してください。
 
-## Other distributions
-- Installation script: `wget -qO- http://bit.ly/install-premid | bash` or `curl -sL https://bit.ly/install-premid | bash`, wait for it to install, double-click the "PreMiD" shortcut created on your Desktop, and that's it!
-- If you want to uninstall PreMiD, you can run `wget -qO- http://bit.ly/uninstall-premid | bash` or `curl -sL https://bit.ly/uninstall-premid | bash`.
+## その他の環境
+- インストールスクリプト `wget -qO- http://bit.ly/install-premid | bash` または `curl -sL https://bit.ly/install-premid | bash` を実行した後、インストールが終わるのを待ってください。 終わったら、デスクトップ上の「PreMiD」のショートカットをダブルクリックするだけです！
+- PreMiDをアンインストールしたい場合、以下のどちらかを実行してください: `wget -qO- http://bit.ly/uninstall-premid | bash` または `curl -sL https://bit.ly/uninstall-premid | bash`
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> [**拡張機能を追加する**](/install)のを忘れないでください！{.is-warning}
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
