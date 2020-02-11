@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD**はブラウザで何をしているかをDiscordのゲームプレイステータスに表示できるようになるアプリです。",
+    "message": "**PreMiD**はブラウザ内で何をしているかをDiscordのゲームプレイステータスに表示できるようにするアプリです。",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -20,7 +20,7 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.features.heading": {
-    "message": "これ無しでは生きられなくなるでしょう！",
+    "message": "こんな機能が！",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
@@ -48,11 +48,11 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Presenceの管理",
+    "message": "プレゼンスの管理",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "カテゴリーごとに並べ替え",
+    "message": "カテゴリーごとの並べ替え",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
