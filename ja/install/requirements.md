@@ -1,6 +1,6 @@
 ---
 title: 必要条件
-description: Prerequisites to install PreMiD
+description: PreMiDをインストールするのに必要な条件
 published: true
 date: 2020-01-19T23:42:23.276Z
 tags:
@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-PreMiDはほぼすべてのシステムで動きます。 これは**Linux**、**MacOS**、**Windows**、**Linux Modifications**で動くことを意味します。
+PreMiDはほぼすべてのシステムで動きます。 これは**Linux**、**MacOS**、**Windows**、**LinuxベースのOS**で動くことを意味します。
 
 ### CPU
 PreMiDはシングルコアのCPUでも動きます。
