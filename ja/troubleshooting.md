@@ -1,6 +1,6 @@
 ---
 title: トラブルシューティング
-description: Everything to solve your problem
+description: 抱えている問題を解決する方法
 published: true
 date: 2020-01-19T23:42:09.728Z
 tags:
