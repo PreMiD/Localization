@@ -1,5 +1,5 @@
 ---
-title: 入門
+title: PreMiD開発入門
 description: 近いうちにコーディングを始めたひとのためのアドバイス
 published: true
 date: 2020-02-08T04:46:24.725Z
