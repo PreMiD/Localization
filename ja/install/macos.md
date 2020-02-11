@@ -17,14 +17,14 @@ tags:
 2. **OS X** を選択する
 3. 必要に応じてファイルを展開する
 4. インストーラーを開く
-5. 初めてPreMiDをインストールする時は、**セキュリティ警告**が出てきます Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+5. 初めてPreMiDをインストールする時は、**セキュリティ警告**が出てきます **システム環境設定** > **セキュリティとプライバシー** > **一般** > **許可** へ進む (開発元が未確認のMacアプリケーションについて[詳しく調べる](https://support.apple.com/ja-jp/guide/mac-help/mh40616/mac))
+> これが表示される理由は、PreMiDにはコード署名(CSC)がないからです。 CSCを発行するために [サポート](https://www.patreon.com/Timeraa) をお願いします。{.is-info}
+6. 起動したら 開く を選ぶ
+7. **ファイアウォール**からアクセスを許可し、 **システムイベント**を操作する
 
-The application will start automatically. Check for the symbol in your menu bar.
+アプリケーションは自動で起動します。 メニューバーからPreMiDのアイコンを確認してください。
 
-> Do not forget to [add the **extension**](/install). 
+> [**拡張機能を追加する**](/install)のを忘れないでください！ 
 > 
 > {.is-warning}
 
