@@ -12,7 +12,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "このPresenceは人気があります。",
+		"message": "大人気のプレゼンス",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.verified": {
@@ -40,11 +40,11 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "最も使われているもの順にする",
+		"message": "最も使用されているもの順",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "アダルトコンテンツを表示する",
+		"message": "アダルトコンテンツを表示",
 		"description": "Adult content checkbox"
 	},
 	"store.category.heading": {
@@ -52,7 +52,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "全て",
+		"message": "すべて",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
