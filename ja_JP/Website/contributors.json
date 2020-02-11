@@ -52,7 +52,7 @@
 		"description": "'Administrator' title for contributors page."
 	},
 	"contributors.roles.secretary": {
-		"message": "Community Secretary",
+		"message": "コミュニティの秘書",
 		"description": "'Community Secretary' title for contributors.page"
 	},
 	"contributors.roles.seniorModerator": {
