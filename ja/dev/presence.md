@@ -1,23 +1,23 @@
 ---
-title: Presence Development
+title: プレゼンスの開発
 description:
 published: true
 date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
-> すべてのPresencesはここに保管されています。 https://github.com/PreMiD/Presences 
+> すべてのプレゼンスはここに保管されています。 https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-# Guidelines
+# ガイドライン
 > If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
 > 
 > {.is-danger}
 
-## Creation
+## 作成
 
 Before you begin working on your presence, keep the following list in mind.
 - The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
@@ -38,7 +38,7 @@ Before you begin working on your presence, keep the following list in mind.
 - Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
 - Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
 
-## Modification
+## 変更・修正
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
 - You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
@@ -46,7 +46,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 - Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
 
-# Verification
+# 認証
 > When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-danger}
@@ -65,27 +65,27 @@ Our presence verification team has their own role, look out for `Presence Verifi
 
 After all of the proper reviews have been met, your pull request will be merged with the store.
 
-# Structure (TypeScript)
+# 構成 (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
+## インストール
 1. [Git](https://git-scm.com/)をインストールする。
 2. [Node](https://nodejs.org/en/)をインストールする。 ([npm](https://www.npmjs.com/)と一緒に)
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. [TypeScript](https://www.typescriptlang.org/index.html#download-links)をインストールする (ターミナルを開き、 `npm install -g typescript` と入力する)
 
 ## プロジェクトをクローンする
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. ターミナルを開き `git clone https://github.com/PreMiD/Presences` と入力する
 2. 任意のフォルダーを選択する
 3. ソースコードエディターで開く
 
-## Creating folders and files
+## フォルダーとファイルを作成する
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfg.json` file inside.
 3. Create a folder named `dist` inside.
 4. Create a `metadata.json` file inside the `dist` folder.
 
-## Filling in the tsconfig.json file
+## tsconfig.jsonファイルの記入
 
 Please put the following code inside of the `tsconfg.json` file.
 ```javascript
@@ -98,13 +98,13 @@ Please put the following code inside of the `tsconfg.json` file.
 ```
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## metadata.jsonファイルの記入
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## 基本
 
 ```javascript
 var presence = new Presence({
@@ -204,23 +204,23 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 # Structure (JavaScript)
 ## プロジェクトをクローンする
 1. [Git](https://git-scm.com/)をインストールする。
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. ターミナルを開き `git clone https://github.com/PreMiD/Presences` と入力する
 3. 任意のフォルダーを選択する
 4. ソースコードエディターで開く
 
-## Creating folders and files
+## フォルダーとファイルを作成する
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 3. Create a folder named `dist` inside.
 4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
 
-## Filling in the metadata.json file
+## metadata.jsonファイルの記入
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## 基本
 
 ```javascript
 var presence = new Presence({
@@ -314,7 +314,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
+# metadata.jsonファイルの記入
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
