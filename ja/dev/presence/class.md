@@ -30,16 +30,16 @@ let presence = new Presence({
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+このプロパティはアプリケーションにメディアキーのキー割り当てを登録するように指示し、`Presence`クラスで`MediaKeys`イベントを使用可能にします。
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+このプロパティは必須ではありませんが、メディアキーを有効にしたい場合、`true`に設定するとよいでしょう。
 
-**All mediaKey events are temporarily disabled!**
+**全てのmediaKeyイベントは一時的に無効化されています！**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // ユーザーがメディアキーを利用できるようにする
 });
 ```
 
@@ -47,11 +47,11 @@ let presence = new Presence({
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+提供されたデータに基づいて、プロフィールのアクティビティをセットします。
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+1つ目のパラメーターには、プロフィールに表示させたい情報を取得するために `presenceData` インターフェースが必須です。
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
