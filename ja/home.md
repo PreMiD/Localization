@@ -1,6 +1,6 @@
 ---
 title: ホーム
-description: Official Documentation for v2
+description: v2の公式ドキュメント
 published: true
 date: 2020-01-19T23:42:05.653Z
 tags:
@@ -24,10 +24,10 @@ PreMiDのインストールはとってもかんたん！ すぐに使えるよ�
 
 # 開発者
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[PreMiD開発入門](/dev)は何かを作る前にするべき最初の一歩です。
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): PreMiDのAPIを使って、リソースにアクセスしたりアクションを実行
+- :wrench: [Presence Development](/dev/presence): PreMiDのプレゼンスシステムの使い方を学ぶ
 
 # 貢献する
 - :bug: [バグを報告する](https://github.com/PreMiD) 不具合を除去する手伝いをする。
