@@ -24,7 +24,7 @@
     "description": "Tippy content in user profile."
   },
   "user.presences.contributed": {
-    "message": "ここを押してこのユーザーが開発に関わったPresencesを見る",
+    "message": "ここを押してこのユーザーが開発に関わったプレゼンスを見る",
     "description": "Tippy content (mode 2) in user profile."
   }
 }
