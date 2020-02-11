@@ -50,6 +50,6 @@ Here is a list of all of the events:
 
 This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (使用不可)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+ユーザーがキーボードでメディアキーを押したときに呼び出されます。 [ここ](/dev/presence/class#mediakeys)でメディアキーについての情報を調べられます。
