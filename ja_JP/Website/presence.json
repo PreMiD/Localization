@@ -24,11 +24,11 @@
     "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
   },
   "presence.sections.information.supportedurls": {
-    "message": "動作するURL",
+    "message": "対応したURL",
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
   },
   "presence.sections.information.contributors": {
-    "message": "クレジット",
+    "message": "貢献者",
     "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
   }
 }
