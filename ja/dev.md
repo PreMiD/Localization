@@ -36,7 +36,7 @@ tags:
 コードの構成を維持してください。 私たちはプロジェクトを混乱させたくありません。 混沌としたファイルは了承されない場合があります。
 
 # あなたの夢を申請する
-あなたが開発に寄与したいPreMiDの [GitHubリポジトリー](https://github.com/PreMiD/) にてPull Requestを行ってくださいi 心配しないでください、私たちはあなたが申請したものを管理します。 もしPull Requestを行うのが初めてであれば、こちらの[チュートリアル](https://help.github.com/en/articles/creating-a-pull-request)を参考にして下さい。
+あなたが貢献したいPreMiDの[GitHubリポジトリー](https://github.com/PreMiD/)にてPull Requestを行ってください。 心配しないでください、私たちはあなたが申請したものを管理します。 もしPull Requestを行うのが初めてであれば、こちらの[チュートリアル](https://help.github.com/en/articles/creating-a-pull-request)を参考にして下さい。
 
 # 承認をもらう
 私たちの主な目的は、ユーザーと可能な限り友好的に、尊重し、有益になるように仕事を行うことです。 私たちの[Discordサーバー](https://discord.gg/PreMiD)で開発者にメンションを送って、GitHubの内容のレビューをもらうことができます。 コードの質やアセットの外観、通常の機能性に依存します。
