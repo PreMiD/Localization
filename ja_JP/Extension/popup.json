@@ -4,7 +4,7 @@
     "description": "Title of the 'settings' section at the navigation in the popup"
   },
   "popup.navigation.credits": {
-    "message": "クレジット",
+    "message": "貢献者",
     "description": "Title of the 'credits' section at the navigation in the popup"
   },
   "popup.headings.general": {
@@ -24,11 +24,11 @@
     "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.setting.autoLaunch": {
-    "message": "自動起動",
+    "message": "自動的に起動",
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
   },
   "popup.headings.presences": {
-    "message": "Presences",
+    "message": "プレゼンス",
     "description": "Title of the 'presences' area of the 'settings' section in the popup"
   },
   "popup.presences.manage": {
@@ -36,7 +36,7 @@
     "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.noPresences": {
-    "message": "Presencesが何もありません",
+    "message": "プレゼンスがありません",
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.presences.done": {
@@ -44,11 +44,11 @@
     "description": "Done button"
   },
   "popup.presences.load": {
-    "message": "Presenceを読み込む",
+    "message": "プレゼンスを読み込む",
     "description": "Load Presence button"
   },
   "popup.buttons.presenceStore": {
-    "message": "Presenceストア",
+    "message": "ストアを開く",
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
   },
   "popup.buttons.help": {
@@ -60,11 +60,11 @@
     "description": "Title of the error message (located at the 'credits' tab in the popup)"
   },
   "popup.credits.error.message": {
-    "message": "クレジットの読み込み中にエラーが発生しました",
+    "message": "読み込み中にエラーが発生しました",
     "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
   },
   "popup.info.notConnected": {
-    "message": "接続していません",
+    "message": "接続されていません",
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.notConnected.message": {
@@ -72,7 +72,7 @@
     "description": "Shown when the extension can't connect to the application"
   },
   "popup.info.unsupportedAppVersion": {
-    "message": "Outdated App",
+    "message": "古いバージョンのアプリ",
     "description": "Shown when application is outdated"
   },
   "popup.info.unsupportedAppVersion.message": {
