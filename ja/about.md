@@ -1,6 +1,6 @@
 ---
 title: PreMiDについて
-description: The core features about PreMiD
+description: PreMiDの基本的な機能
 published: true
 date: 2020-01-19T23:42:02.040Z
 tags:
@@ -9,9 +9,9 @@ tags:
 PreMiDはブラウザで何をしているかをDiscordのゲームプレイステータスに表示できるようになるアプリです。 多くのプラットフォームで対応している他、アップデートで新たな機能を追加する予定もあります。
 
 # PreMiDをダウンロードする理由
-- ユーザーのデータを保存していません。なのでプライバシーは守られています。
+- ユーザーのデータを保存していないので、プライバシーが守られています。
 - 全てのプロジェクトがオープンソースです！ ユーザーのために働いています。
-- 新機能、WatchPartiesがPreMiDに近づいています。 ゲームに招待したり、同時にゲームを見たりできます！ Powered by [Discord](https://discordapp.com/).
+- 新機能「WatchParties」がPreMiDに登場予定です。 ゲームに招待したり、同時にゲームを見たりできます！ (Powered by [Discord](https://discordapp.com/))
 
 # 基本的な機能
 - 使用しているWebサービスをDiscordのステータスとして表示します。
