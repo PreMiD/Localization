@@ -51,23 +51,23 @@ let presence = new Presence({
 
 1つ目のパラメーターには、プロフィールに表示させたい情報を取得するために `presenceData` インターフェースが必須です。
 
-2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 Always use `true` if you provide timestamps in `presenceData`.
+2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 `presenceData` に時刻を提供する場合は、常に `true` を使用してください。
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+現在のアクティビティ、キー割り当てとトレーのタイトルを削除します。
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> このメソッドはmacOSのみで動作します。 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+メニューバー上のトレーのタイトルを設定します。
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+拡張機能から、翻訳された文字列を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
