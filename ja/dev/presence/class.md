@@ -1,6 +1,6 @@
 ---
 title: Presenceクラス
-description: すべてのPreMIDのPresenceのメインクラス
+description: すべてのPreMIDのプレゼンスのメインクラス
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
@@ -10,17 +10,17 @@ tags:
 
 ## 説明
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence`クラスにはプレゼンスを作成するのに必要なメソッドがあるので、とても便利です。
 
- When you create a class you must specify `clientId` property.
+ クラスを作成する時は、`clientId`プロパティを指定してください。
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // clientIdの例
 });
 ```
 
-There are two properties available for `Presence` class.
+`Presence`クラスには、2つの利用可能なプロパティがあります。
 
 #### `clientId`
 
