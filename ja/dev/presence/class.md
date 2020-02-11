@@ -78,7 +78,7 @@ strings = await presence.getStrings({
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 ウェブサイトから変数を取得する(存在する場合)
 
@@ -171,20 +171,20 @@ var presenceData: presenceData = {
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // データが更新されたときに特定の動作をする
 });
 ```
 
-There are few events available:
+いくつかの利用可能なイベントがあります:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+このイベントはプレゼンスが更新されるたびに呼び出されます。
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (使用不可)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+ユーザーがキーボードでメディアキーを押したときに呼び出されます。 [ここ](/dev/presence/class#mediakeys)でメディアキーについての情報を調べられます。
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+iFrameスクリプトからデータを受信した時に呼び出されます。
