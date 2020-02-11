@@ -26,7 +26,7 @@ tags:
 <kbd>Ctrl+R</kbd> (Windows) か<kbd>CMD+R</kbd> (MacOS) を 押すと、Discordが再起動します。
 
 ### Discordが管理者権限で起動していないかを確認する
-これは重要です。 Discord RPCは管理者権限で起動していると動きません。
+これは重要です。 Discord リッチプレゼンスは管理者権限で起動していると動きません。
 
 ### ウイルス対策ソフトやファイアーウォールが起動してないかを確かめる
 ウイルス対策ソフトやファイアウォールがアプリケーションをブロックすることがあります。主にサーバーを立てたりする時やインターネットに接続する時に検知されます。 アプリと拡張機能の間でデータを送受信するためにローカルサーバーを使用しているため、ウイルス対策ソフトやファイアーウォールがデータを渡す機能をブロックすると、PreMiDを使用できなくなります。
@@ -35,17 +35,17 @@ tags:
 PreMiD以外の拡張機能をオフにして、動くか見てみましょう。 もし動いたなら、問題となっている拡張機能を一つづつ探して、それをオフにしてください。
 
 ### パソコンを再起動する
-I hope you know how to restart a computer...
+パソコンの再起動の仕方くらい知っていますよね…？
 
 ### PreMiDの再インストール
-たまにファイルが壊れていたりする場合があります… [ここで](/install)再インストールできます。
+たまにファイルが壊れていたりする場合があります… [ここで](/install)再インストールの方法が確認できます。
 
 ### 手動で削除する
 Windowsの場合は ` C:\Users\ユーザー名\Program Files (x86)\`` `に行き、</code>`PreMiD`を削除してください。`
 MacOSの場合は<code>~/users/USER/~Library/Application Support/`に行き、` PreMiD`` `を削除してください。
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Ubuntu/Debian基準の環境では
+Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### 実行しても問題が解決しませんでしたか？
 Discordの[#support](https://discord.gg/PreMiD)で問題を入力してください。
