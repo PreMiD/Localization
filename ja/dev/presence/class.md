@@ -116,40 +116,37 @@ console.log(pageVar); // "変数の中身" をログに出力する
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">現在の時刻を指定します<br>
+        <code>hours:minutes:seconds</code> の形式で残り時間を表示するのに使用します
+          <br>時間を <code>timestamp</code> に変換しなければ、誤った時間が表示されます
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">全体の長さを指定します
+        <br><code>hours:minutes:seconds</code> の形式で残り時間を表示するのに使用します
+          <br>時間を <code>timestamp</code> に変換しなければ、誤った時間が表示されます
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">プレゼンスのロゴを指定します</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">プレゼンス内の、ロゴの横の小さいアイコンを指定します</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">小さいアイコンにカーソルを合わせたときに表示する内容を指定します</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -158,11 +155,11 @@ console.log(pageVar); // "変数の中身" をログに出力する
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    details: "タイトル",
+    state: "説明",
+    largeImageKey: "logo",
+    smallImageKey: "small_icon",
+    smallImageText: "カーソルを合わせましたね。で、何？",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -170,7 +167,7 @@ var presenceData: presenceData = {
 
 ## イベント
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+イベントは、変更や呼出が起きたときに操作をするのに使用できます。 `on` メソッドで、イベントの検出を登録することができます。
 
 ```typescript
 presence.on("UpdateData", async () => {
