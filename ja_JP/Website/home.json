@@ -24,11 +24,11 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "*あなた好みの*機能を見つけましょう。",
+    "message": "**あなたの**プレゼンスを見つけましょう。",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "この拡張機能は、自分や他の人が作ったPresencesを自由に追加できるようになっています！",
+    "message": "この拡張機能は、自分や他の人が作ったプレゼンスを自由に追加できるようになっています！",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -40,7 +40,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "ややこしいUIにうんざりですか？私達が作ったシンプルで簡単なUIなら、そんなことにうんざりする必要もありません。必要なものだけ入っています！",
+    "message": "ややこしい設定にうんざりですか？私達が作ったシンプルで簡単なデザインなら、そんなことにうんざりする必要もありません。必要な機能だけ入っています！",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -56,7 +56,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "迅速なサポート",
+    "message": "素早いサポート",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
