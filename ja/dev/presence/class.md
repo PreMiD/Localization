@@ -67,11 +67,11 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-拡張機能から、翻訳された文字列を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+拡張機能から、翻訳された文字列を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 このエンドポイントを使用していくつかの文字列を見つけることができます: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// '再生中' と '一時停止中' の文字列を
+// 拡張機能から取得する
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,18 +80,18 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+ウェブサイトから変数を取得する(存在する場合)
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // "変数の中身" をログに出力する
 ```
 
 ## `presenceData` インターフェース
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+`presenceData`インターフェースは`setActivity()`メソッドを使用する際に使用することをおすすめします。
 
-This interface has following variables, all of them are optional.
+このインターフェースには以下の変数があり、これらすべては指定しなくても構いません。
 
 <table>
   <thead>
@@ -104,13 +104,13 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">プレゼンス内の最初の行, 一般にヘッダーとして使用されています</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">プレゼンス内の2行目の文字列</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
