@@ -165,7 +165,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## 特定のデータが入手できない？！
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -198,10 +198,10 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-## Compiling
+## コンパイル
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Structure (JavaScript)
+# 構成 (JavaScript)
 ## プロジェクトをクローンする
 1. [Git](https://git-scm.com/)をインストールする。
 2. ターミナルを開き `git clone https://github.com/PreMiD/Presences` と入力する
@@ -281,7 +281,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## 特定のデータが入手できない？！
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -350,19 +350,19 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**一部の値の内容を説明します:**
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">変数</th>
       <th style="text-align:left">概要</th>
       <th style="text-align:left">タイプ</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">省略可能</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>作者</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -391,7 +391,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>概要</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -432,7 +432,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>バージョン</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -469,7 +469,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>タグ</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
@@ -510,23 +510,23 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
 
-# Loading the presence
+# プレゼンスをテストする
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
-## Hot-reloading
+# お役立ち情報
+## ホット・リロード
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## デバッグ
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# ファイルの解説
+- [Presenceクラス](/dev/presence/class)
+- [iFrameクラス](/dev/presence/iframe)
+- [Metadataファイル](/dev/presence/metadata)
+- [TypeScriptの構成](/dev/presence/tsconfig)
 {.links-list}
