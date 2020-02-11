@@ -16,19 +16,19 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.websiteDeveloper": {
-		"message": "Website Developer",
+		"message": "ウェブサイトデベロッパー",
 		"description": "'Website Developer' title for contributors and user pages."
 	},
 	"contributors.roles.communityManager": {
-		"message": "Community Manager",
+		"message": "コミュニティマネージャー",
 		"description": "'Community Manager' title for contributors and user pages."
 	},
 	"contributors.roles.headModerator": {
-		"message": "Head Moderator",
+		"message": "主任モデレーター",
 		"description": "'Head Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "Moderator",
+		"message": "モデレーター",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.ticketManager": {
@@ -40,7 +40,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "ブーストした人",
+		"message": "Nitroブースター",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
@@ -56,7 +56,7 @@
 		"description": "'Community Secretary' title for contributors.page"
 	},
 	"contributors.roles.seniorModerator": {
-		"message": "Senior Moderator",
+		"message": "上級モデレーター",
 		"description": "'Senior Moderator' title for contributors page."
 	}
 }
