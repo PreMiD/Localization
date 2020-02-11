@@ -13,11 +13,11 @@ tags:
 > {.is-info}
 
 ## APIのバージョン
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> 現在、いくつかのAPIやGatewayのバージョンは非推奨で、以下の表にて 廃止 と表記されています。 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiDには異なるバージョンのAPIがあります。 `https://api.premid.app/v{version_number}` のようなリクエストパスを同梱することでバージョンを指定できます。 Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
 ## 暗号化
 
