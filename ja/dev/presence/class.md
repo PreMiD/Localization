@@ -24,9 +24,9 @@ let presence = new Presence({
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId`プロパティは、IDを使用してアセットやロゴを表示するので、プレゼンスを動作させるのに必要です。
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+あなたのプレゼンスのID等はDiscordの[アプリケーションページ](https://discordapp.com/developers/applications)から取得できます。
 
 #### `mediaKeys`
 
