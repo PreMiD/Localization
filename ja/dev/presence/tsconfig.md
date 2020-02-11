@@ -1,5 +1,5 @@
 ---
-title: 無題のページ
+title: TypeScript
 description: TypeScriptのヘルパー
 published: true
 date: 2020-01-19T23:42:36.260Z
