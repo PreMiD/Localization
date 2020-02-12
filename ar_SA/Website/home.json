@@ -1,10 +1,14 @@
 {
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** ، عبارة عن اداة بسيطة قابلة لإعادة التطوير تسمح لك بإظهار ما تشاهده وتسمعه على ديسكورد.",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "ميزاتنا",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "تحميل",
+    "message": "تنزيل",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
