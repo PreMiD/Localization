@@ -1,12 +1,12 @@
 ---
 title: การแก้ปัญหา
-description: Everything to solve your problem
+description: ทุกอย่างเพื่อแก้ปัญหาของคุณ
 published: true
 date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้งส่วนขยาย <strong x-id = "1"> และ </strong> แอปพลิเคชั่นแล้ว! 
 > 
 > {.is-warning}
 
@@ -28,19 +28,19 @@ tags:
 ### ต้องแน่ใจว่า Discord ไม่ได้เปิดแบบ Administrator
 สำคัญมากๆ Discord RPC จะไม่ทำงานถ้าคุณเปิด Discord แบบ Administrator
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### ตรวจสอบว่าคุณมีโปรแกรมป้องกันไวรัสหรือไฟร์วอลล์ทำงานบนคอมพิวเตอร์ของคุณหรือไม่ ?
+บางครั้งโปรแกรมป้องกันไวรัสและไฟร์วอลล์ปิดกั้นแอปพลิเคชันซึ่งกำลังสร้างโฮสต์เซิร์ฟเวอร์หรือแค่เชื่อมต่ออินเทอร์เน็ต เราใช้เซิร์ฟเวอร์ Local เพื่อรับและส่งผ่านข้อมูลระหว่างแอปและส่วนขยายของเราดังนั้นหากคุณปิดกั้นความสามารถของแอปในการส่ง ผ่านข้อมูล คุณอาจไม่สามารถใช้ PreMiD ได้
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### ปิดการใช้งาน addons
+ปิดการใช้งาน addons ทั้งหมดของคุณและดูว่าใช้งานได้หรือไม่ ถ้าได้ลองเปิดใช้งาน addons ของคุณทีละตัวและแจ้งให้เราทราบว่า addons ตัวไหนหยุด PreMiD
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### รีสตาร์ทคอมพิวเตอร์ของคุณ
+เราหวังว่าคุณจะรู้วิธีการรีสตาร์ทคอมพิวเตอร์นะ
 
 ### ติดตั้ง PreMiD อีกครั้ง
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+บางครั้งมีบางอย่างผิดปกติกับไฟล์ ตัวอย่างสำหรับการติดตั้งดูได้[ที่นี่](/install)
 
-### Manual removal
+### ลบข้อมูลด้วยตัวเอง
 Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
