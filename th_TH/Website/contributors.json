@@ -36,7 +36,7 @@
 		"description": "'Ticket Manager' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "ผู้โดเนท",
+		"message": "ผู้บริจาค",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
@@ -54,5 +54,9 @@
 	"contributors.roles.secretary": {
 		"message": "เลขาชุมชน",
 		"description": "'Community Secretary' title for contributors.page"
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "ผู้ดูแลอาวุโส",
+		"description": "'Senior Moderator' title for contributors page."
 	}
 }
