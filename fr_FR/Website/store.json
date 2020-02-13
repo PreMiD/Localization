@@ -36,11 +36,11 @@
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
-		"message": "Rechercher des filtres",
+		"message": "Paramètres de recherche",
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Montrer les plus utilisés en premier",
+		"message": "Montrer les plus utilisées en premier",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
