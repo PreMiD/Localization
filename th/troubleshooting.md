@@ -41,11 +41,11 @@ tags:
 บางครั้งมีบางอย่างผิดปกติกับไฟล์ ตัวอย่างสำหรับการติดตั้งดูได้[ที่นี่](/install)
 
 ### ลบข้อมูลด้วยตัวเอง
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+ระบบปฎิบัติการ Windows: ไปที่   `C:\Users\USER\Program Files (x86)\`` และลบโฟลเดอร์ `PreMiD ` ออกไป
+<br>ระบบปฎิบัติการ MacOS: ไปที่ <code>~/users/USER/~Library/Application Support/<code> และลบโฟลเดอร์ `PreMiD ออกไป
 
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+### นั่นไม่ได้แก้ปัญหาของฉัน
+กรุณาเปิดตั๋วใน [#support](https://discord.gg/PreMiD).
