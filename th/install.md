@@ -6,11 +6,11 @@ date: 2020-01-19T23:42:07.335Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> ก่อนดำเนินการใด ๆ เพิ่มเติมตรวจสอบให้แน่ใจว่าระบบของคุณตรงตาม [requirements](/install/requirements) ไหม 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **มันจำเป็น**ต้องติดตั้งทั้ง **แอพพลิเคชั่น**และ**ส่วนขยาย**! 
 > 
 > {.is-warning}
 
