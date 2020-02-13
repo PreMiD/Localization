@@ -69,14 +69,14 @@ After all of the proper reviews have been met, your pull request will be merged 
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. ติดตั้ง [Git](https://git-scm.com/).
+2. ติดตั้ง [Node](https://nodejs.org/en/) (พร้อมกับ [npm](https://www.npmjs.com/))
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Cloning the project
+## การโคลนโปรเจ็ค
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+2. เลือกโฟลเดอร์ที่คุณต้องการ
+3. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
 
 ## Creating folders and files
 
@@ -202,11 +202,11 @@ presence.on("iFrameData", data => {
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Structure (JavaScript)
-## Cloning the project
-1. Install [Git](https://git-scm.com/).
+## การโคลนโปรเจ็ค
+1. ติดตั้ง [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+3. เลือกโฟลเดอร์ที่คุณต้องการ
+4. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
 
 ## Creating folders and files
 
