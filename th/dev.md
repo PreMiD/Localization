@@ -1,26 +1,26 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: เริ่มต้น
+description: คำแนะนำเล็ก ๆ น้อย ๆ สำหรับผู้ที่ได้รับโค้ดเมื่อเร็ว ๆ นี้
 published: true
 date: 2020-02-08T04:46:24.725Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> ต้องมีโปรแกรมแก้ไขซอร์สโค้ด เราแนะนำ Visual Studio Code 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+# สิ่งที่จำเป็นที่จะต้องติดตั้ง
+1. ติดตั้ง [Git](https://git-scm.com/).
+2. ติดตั้ง [Node](https://nodejs.org/en/) (พร้อมกับ [npm](https://www.npmjs.com/))
+3. ติดตั้ง [TypeScript](https://www.typescriptlang.org/index.html#download-links) (เปิดเทอร์มินัลแล้วพิมพ์ `npm install -g typescript`)
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# การโคลนโปรเจ็ค
+1. เปิดเทอร์มินัลแล้วพิมพ์ `git clone URL`  **แทนที่ URL ด้วยลิงก์ที่คุณต้องการโคลน** ปล. `git clone https://github.com/PreMiD/PreMiD`
+2. เลือกโฟลเดอร์ที่คุณต้องการ
+3. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
 
-# Installing dependencies
+# การติดตั้ง dependencies
 > Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
 > 
 > {.is-warning}
