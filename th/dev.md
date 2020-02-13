@@ -21,21 +21,21 @@ tags:
 3. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
 
 # การติดตั้ง dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+> ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง[npm](https://www.npmjs.com/) (Node Package Manager) มันจะติดตั้งเองโดยอัตโนมัติหากคุณมี [Node](https://nodejs.org/en/) ที่ติดตั้งแล้ว 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- เปิดเทอร์มินัลในที่เก็บของคุณแล้วพิมพ์ `npm i`.
+- หากต้องการอัปเดตประเภท  dependencies ให้พิมพ์  `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> โปรดทราบว่าการอัปเดต dependencies อาจทำให้ล่าช้าได้ 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# วิสัยทัศน์การเขียนโค้ด
+กรุณารักษาโครงสร้าง เราไม่ต้องการจัดระเบียบไฟล์ในโปรเจ็คของเรา มันอาจจะทำให้วุ่นวาย
 
-# Submitting your dream
+# ส่งความฝันของคุณ
 Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Getting approved
