@@ -36,7 +36,11 @@ tags:
 กรุณารักษาโครงสร้าง เราไม่ต้องการจัดระเบียบไฟล์ในโปรเจ็คของเรา มันอาจจะทำให้วุ่นวาย
 
 # ส่งความฝันของคุณ
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+เพียงเปิดขอ Pull Request มาให้เราที่
+ คุณต้องการมีส่วนร่วม เราจะดูแลลูกน้อยของคุณไม่ต้องกังวลไป หากนี่เป็นครั้งแรกที่คุณทำแล้วจะขอ pull request ให้ดูที่นี่ [ตัวอย่าง](https://help.github.com/en/articles/creating-a-pull-request).</p> 
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/PreMiD) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+
+
+# ได้รับการอนุมัติ
+
+เป้าหมายหลักของเราคือการทำงานกับผู้ใช้ดังนั้นพยายามเป็นมิตรเคารพและให้ข้อมูลมากที่สุด เพียงแค่ปิงไปหาผู้พัฒนาในของเราที่ [Discord server](https://discord.gg/PreMiD) เพื่อรับการตรวจทานบน GitHub หรือไม่ก็ ขึ้นอยู่กับคุณภาพของโค้ดลักษณะของ assets และฟังก์ชันการทำงานปกติมั้ย
