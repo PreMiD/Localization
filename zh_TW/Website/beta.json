@@ -24,7 +24,7 @@
     "description": "Features list"
   },
   "beta.register.text": {
-    "message": "準備好了嗎？成爲我們{0} 中的新Beta測試員!",
+    "message": "準備好了嗎？成爲我們{0} 位Beta測試員中的新成員!",
     "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
