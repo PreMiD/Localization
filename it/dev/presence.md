@@ -344,7 +344,7 @@ Abbiamo creato un `metadata.json` creatore di file per le pepe pigre [qui](https
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. Ora è necessario modificare i valori delle proprietà. Si prega di notare che le seguenti proprietà sono facoltative per avere nei tuoi metadati `. file` , se non hai intenzione di usarli è necessario rimuoverli.
+Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Ora è necessario modificare i valori delle proprietà. Si prega di notare che le seguenti proprietà sono facoltative per avere nei tuoi metadati `. file` , se non hai intenzione di usarli è necessario rimuoverli.
 - `collaboratori`
 - `regExp`
 - `iframe`
