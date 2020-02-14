@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting
+title: সমস্যা দূর করা
 description: Everything to solve your problem
 published: true
 date: 2020-01-19T23:42:09.728Z
