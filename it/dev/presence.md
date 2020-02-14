@@ -20,7 +20,7 @@ La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). 
 ## Creazione
 
 Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elenco.
-- La pull request deve essere completa, è necessario avere una struttura del file corretta. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
+- La pull request deve essere completa, è necessario avere una struttura del file corretta. Compresa la cartella `dist` e i file `presence.js` e `metadata.json`.
 - La presenza **deve** essere correlata al sito web che hai scelto.
 - La presenza non deve essere di siti web illegali. Tra questi, lo stressor, la droga, la pornografia infantile, ecc...
 - I metadati di presenza devono avere contenuti ben scritti, inclusi titoli e descrizioni validi.
