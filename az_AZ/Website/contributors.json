@@ -14,5 +14,29 @@
 	"contributors.roles.creator": {
 		"message": "Yaradıcı",
 		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.websiteDeveloper": {
+		"message": "Veb-sayt inkişaf etdiricisi",
+		"description": "'Website Developer' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "İcma Meneceri",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.headModerator": {
+		"message": "Baş Moderator",
+		"description": "'Head Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "Yardım Meneceri",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Donor",
+		"description": "'Donator' title for contributors page."
 	}
 }
