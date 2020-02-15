@@ -38,5 +38,25 @@
 	"contributors.roles.donator": {
 		"message": "Donor",
 		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Tərcüməçi",
+		"description": "'Main Developer' title for contributors page."
+	},
+	"contributors.roles.administrator": {
+		"message": "Admin",
+		"description": "'Administrator' title for contributors page."
+	},
+	"contributors.roles.secretary": {
+		"message": "İcma katibi",
+		"description": "'Community Secretary' title for contributors.page"
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Senior Moderator",
+		"description": "'Senior Moderator' title for contributors page."
 	}
 }
