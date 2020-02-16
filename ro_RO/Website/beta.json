@@ -22,5 +22,13 @@
   "beta.features.3": {
     "message": "Un grad special pe serverul nostru Discord",
     "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Pregătit pentru asta? Alăturați-vă celorlalți {0} Beta Testeri!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Înscrie-te acum!",
+    "description": "Sign up button text"
   }
 }
