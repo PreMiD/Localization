@@ -1,1 +1,26 @@
-{}
+{
+  "beta.title": {
+    "message": "Vrei funcții noi?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** este acum disponibil pentru toată lumea!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Ce veți obține dacă vă înscrieți?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Ultimele caracteristici",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Acces la canalele de text super secrete ale PreMiD",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Un grad special pe serverul nostru Discord",
+    "description": "Features list"
+  }
+}
