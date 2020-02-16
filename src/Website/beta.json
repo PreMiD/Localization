@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "Sign up now!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Cool! You are now a beta user!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Our monkeys are working on getting you into our beta program as fast as possible. Thank you for registering!",
+    "description": "Thank You page description"
   }
 }
