@@ -1,5 +1,5 @@
 ---
-title: Beginnen
+title: Erste Schritte
 description: Ein kleiner Ratschlag für diejenigen, die sich in letzter Zeit mit Codierung beschäftigen
 published: true
 date: 2020-02-08T04:46:24.725Z
@@ -16,12 +16,12 @@ tags:
 3. Installieren [TypeScript](https://www.typescriptlang.org/index.html#download-links) (Öffnen Sie ein Terminal und geben Sie `npm install -g typescript`).
 
 # Projekt klonen
-1. Öffnen ein Terminal und gib `git clone URL` ein. **ersetze die URL mit dem Repository-Link auf dem Du beitragen möchtest** Beispiel: `git clone https://github.com/PreMiD/PreMiD`.
+1. Öffnen ein Terminal und gib `git clone URL` ein. **Ersetze die URL mit dem Repository-Link auf dem Du beitragen möchtest** Beispiel: `git clone https://github.com/PreMiD/PreMiD`.
 2. Wähle einen Ordner Deiner Wahl.
 3. Öffne es in Deinem Quellcode-Editor.
 
 # Notwendige Dateien installieren
-> Stelle zuerst sicher, dass Du [npm](https://www.npmjs.com/) (Node Package Manager) installiert hast. Es wurde automatisch installiert, wenn Du [Node](https://nodejs.org/en/) installiert hast. 
+> Stelle zuerst sicher, dass Du [npm](https://www.npmjs.com/) (Node Package Manager) installiert hast. Er wurde automatisch installiert, wenn Du [Node](https://nodejs.org/en/) installiert hast. 
 > 
 > {.is-warning}
 

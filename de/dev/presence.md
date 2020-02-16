@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
-2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Suche (<kbd>STRG</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
 Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
@@ -199,7 +199,7 @@ presence.on ("iFrameData", data => {
 ```
 **Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
 ## Kompilieren
-Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/ dist` zu kompilieren.
+Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/dist` zu kompilieren.
 
 # Struktur (JavaScript)
 ## Projekt klonen
@@ -212,7 +212,7 @@ presence.on ("iFrameData", data => {
 
 1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
 3. Erstelle einen Ordner mit dem Namen `dist`.
-4. Erstellen Sie eine `metadata.json` Datei und eine `presence.js` Datei im Ordner `dist`.
+4. Erstelle eine `metadata.json` und eine `presence.js` im Ordner `dist`.
 
 ## Ausfüllen der metadata.json
 
@@ -286,11 +286,11 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht jedes Mal relevant. Einige sind versteckt oder werden einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
-2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Suche (<kbd>STRG</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
 Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
-1. Erstellen Sie eine `iframe.js` Datei.
+1. Erstelle eine `iframe.js`-Datei.
 2. Setze iFrame in Ihrer Metadatendatei auf `true`.
 3. Fülle Deine iFrame-Datei aus.
 ```javascript

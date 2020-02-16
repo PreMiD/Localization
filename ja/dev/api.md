@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: PreMiD APIを使用してリソースにアクセスし、アクションを実行する
 published: true
 date: 2020-01-19T23:42:12.088Z
 tags:
@@ -12,23 +12,23 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+## APIのバージョン
+> 現在、いくつかのAPIやGatewayのバージョンは非推奨で、以下の表にて 廃止 と表記されています。 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiDには異なるバージョンのAPIがあります。 `https://api.premid.app/v{version_number}` のようなリクエストパスを同梱することでバージョンを指定できます。 ルート上からバージョンの番号を省略した場合、自動的に現在のバージョンにルートリクエストされます。(以下にそれに応じてかいてあります)
 
-## Encryption
+## 暗号化
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+PreMiD内のすべてのHTTPレイヤーのサービスやプロトコル (例: http)は TLS 1.2 を使用します。
 
 # ドキュメント
-> Currently under construction! 
+> 現在作成中！ 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**APIのバージョンを選んでください:**
+- [v1 *非推奨*](/dev/api/v1)
+- [v2 *推奨*](/dev/api/v2)
 {.links-list}

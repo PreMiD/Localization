@@ -1,23 +1,23 @@
 ---
 title: วินโดวส์
-description: Getting started with a PreMiD installation on Windows
+description: เริ่มต้นใช้งาน PreMiD การติดตั้งบน Windows
 published: true
 date: 2020-02-07T00:44:57.532Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> ก่อนดำเนินการใด ๆ เพิ่มเติมตรวจสอบให้แน่ใจว่าระบบของคุณตรงตาม [requirements](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+การติดตั้งแอพพลิเคชั่นนั้นสำคัญมากเพราะส่วนขยายไม่สามารถทำอะไรได้เอง
 
 # ติดตั้ง
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+1. ไปที่หน้าดาวน์โหลดของเรา [คลิกที่นี่](https://premid.app/downloads).
+2. เลือก **Windows**.
+3. เปิดไฟล์ติดตั้งที่ดาวน์โหลดแล้ว
+4. **Windows SmartScreen** จะปรากฏขึ้นหากคุณติดตั้ง PreMiD เป็นครั้งแรก คลิก **More Info** จากนั้นเลือก **Run Anyway** นี่เป็นเพราะเราไม่มีใบรับรอง (CSC) [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+แอปพลิเคชันจะเริ่มต้นโดยอัตโนมัติ ตรวจสอบสัญลักษณ์ในซิสเต็มเทรย์ของคุณ
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> อย่าลืม [เพิ่ม **ส่วนขยาย**](/install)
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}

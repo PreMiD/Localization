@@ -1,102 +1,102 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Presenceクラス
+description: すべてのPreMIDのプレゼンスのメインクラス
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Presenceクラス
 
-## Introduction
+## 説明
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence`クラスにはプレゼンスを作成するのに必要なメソッドがあるので、とても便利です。
 
- When you create a class you must specify `clientId` property.
+ クラスを作成する時は、`clientId`プロパティを指定してください。
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // clientIdの例
 });
 ```
 
-There are two properties available for `Presence` class.
+`Presence`クラスには、2つの利用可能なプロパティがあります。
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId`プロパティは、IDを使用してアセットやロゴを表示するので、プレゼンスを動作させるのに必要です。
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+あなたのプレゼンスのID等はDiscordの[アプリケーションページ](https://discordapp.com/developers/applications)から取得できます。
 
 #### `mediaKeys`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+このプロパティはアプリケーションにメディアキーのキー割り当てを登録するように指示し、`Presence`クラスで`MediaKeys`イベントを使用可能にします。
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+このプロパティは必須ではありませんが、メディアキーを有効にしたい場合、`true`に設定するとよいでしょう。
 
-**All mediaKey events are temporarily disabled!**
+**全てのmediaKeyイベントは一時的に無効化されています！**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // ユーザーがメディアキーを利用できるようにする
 });
 ```
 
-## Methods
+## メソッド
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+提供されたデータに基づいて、プロフィールのアクティビティをセットします。
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+1つ目のパラメーターには、プロフィールに表示させたい情報を取得するために `presenceData` インターフェースが必須です。
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 `presenceData` に時刻を提供する場合は、常に `true` を使用してください。
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+現在のアクティビティ、キー割り当てとトレーのタイトルを削除します。
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> このメソッドはmacOSのみで動作します。 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+メニューバー上のトレーのタイトルを設定します。
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+拡張機能から、翻訳された文字列を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 このエンドポイントを使用していくつかの文字列を見つけることができます: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// '再生中' と '一時停止中' の文字列を
+// 拡張機能から取得する
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+ウェブサイトから変数を取得する(存在する場合)
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // "変数の中身" をログに出力する
 ```
 
-## `presenceData` Interface
+## `presenceData` インターフェース
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+`presenceData`インターフェースは`setActivity()`メソッドを使用する際に使用することをおすすめします。
 
-This interface has following variables, all of them are optional.
+このインターフェースには以下の変数があり、これらすべては指定しなくても構いません。
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">変数</th>
       <th style="text-align:left">概要</th>
       <th style="text-align:left">タイプ</th>
     </tr>
@@ -104,52 +104,49 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">プレゼンス内の最初の行, 一般にヘッダーとして使用されています</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">プレゼンス内の2行目の文字列</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">現在の時刻を指定します<br>
+        <code>hours:minutes:seconds</code> の形式で残り時間を表示するのに使用します
+          <br>時間を <code>timestamp</code> に変換しなければ、誤った時間が表示されます
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">全体の長さを指定します
+        <br><code>hours:minutes:seconds</code> の形式で残り時間を表示するのに使用します
+          <br>時間を <code>timestamp</code> に変換しなければ、誤った時間が表示されます
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">プレゼンスのロゴを指定します</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">プレゼンス内の、ロゴの横の小さいアイコンを指定します</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">小さいアイコンにカーソルを合わせたときに表示する内容を指定します</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -158,36 +155,36 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    details: "タイトル",
+    state: "説明",
+    largeImageKey: "logo",
+    smallImageKey: "small_icon",
+    smallImageText: "カーソルを合わせましたね。で、何？",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## イベント
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+イベントは、変更や呼出が起きたときに操作をするのに使用できます。 `on` メソッドで、イベントの検出を登録することができます。
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // データが更新されたときに特定の動作をする
 });
 ```
 
-There are few events available:
+いくつかの利用可能なイベントがあります:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+このイベントはプレゼンスが更新されるたびに呼び出されます。
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (使用不可)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+ユーザーがキーボードでメディアキーを押したときに呼び出されます。 [ここ](/dev/presence/class#mediakeys)でメディアキーについての情報を調べられます。
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+iFrameスクリプトからデータを受信した時に呼び出されます。

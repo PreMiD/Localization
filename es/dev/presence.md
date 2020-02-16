@@ -2,7 +2,7 @@
 title: Desarrollo de Presencias
 description:
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ Para más información sobre la clase Presence haz clic [aquí](/dev/presence/cl
 Muchos sitios web están usando [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Estas etiquetas html pueden contener múltiples fuentes como videos. Pero no siempre son relevantes. Algunos están ocultos o simplemente no se utilizan activamente. Compruebe si puede extraer, la información que necesita, sin ellos antes de hacer un trabajo innecesario.
 
 1. Compruébalos por la consola del navegador (asegúrate de que estás en la pestaña **Elementos**).
-2. Buscar (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Ejecuta `document.querySelectorAll("iframe")`.
 
 Si encuentras que tus datos están en un iFrame necesitas hacer lo siguiente:
@@ -286,7 +286,7 @@ Para más información sobre la clase Presence haz clic [aquí](/dev/presence/cl
 Muchos sitios web están usando [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Estas etiquetas html pueden contener múltiples fuentes como videos. Pero no siempre son relevantes. Algunos están ocultos o simplemente no se utilizan activamente. Compruebe si puede extraer, la información que necesita, sin ellos antes de hacer un trabajo innecesario.
 
 1. Compruébalos por la consola del navegador (asegúrate de que estás en la pestaña **Elementos**).
-2. Buscar (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Ejecuta `document.querySelectorAll("iframe")`.
 
 Si encuentras que tus datos están en un iFrame necesitas hacer lo siguiente:

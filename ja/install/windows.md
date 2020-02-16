@@ -1,23 +1,23 @@
 ---
 title: Windows
-description: Getting started with a PreMiD installation on Windows
+description: WindowsでPreMiDをインストールする
 published: true
 date: 2020-02-07T00:44:57.532Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+拡張機能のみでは機能しないため、アプリのダウンロードは重要です。
 
 # インストール
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行く
+2. **Windows**を選ぶ
+3. インストーラーを開く
+4. 初めてPreMiDをインストールする時は、**Windows SmartScreen**の画面が表示されるので、 **詳細情報**をクリックして、**実行する**を選ぶ これが表示される理由は、PreMiDにはコード署名(CSC)がないからです。 CSCを発行するために [サポート](https://www.patreon.com/Timeraa) をお願いします。{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+アプリケーションは自動的に開始されるはずです。 システムトレイにあるアイコンを確認してみてください。
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> [**拡張機能を追加する**](/install)のを忘れないでください！{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}

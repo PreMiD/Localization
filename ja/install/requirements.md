@@ -1,29 +1,29 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: 必要条件
+description: PreMiDをインストールするのに必要な条件
 published: true
 date: 2020-01-19T23:42:23.276Z
 tags:
 ---
 
-# System Requirements
+# システム要件
 
-> This data relate to the application only. 
+> アプリケーションの情報のみについて解説しています。 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiDはほぼすべてのシステムで動きます。 これは**Linux**、**MacOS**、**Windows**、**LinuxベースのOS**で動くことを意味します。
 
 ### CPU
-PreMiD runs perfectly fine on a single CPU core.
+PreMiDはシングルコアのCPUでも動きます。
 
 ### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+Linuxの場合、**20MB以上のメモリ容量が**PreMiDを動かすために必要です。 WindowsとmacOSはそれ以上必要になる場合があります。
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### ストレージ
+PreMiDは**150MB**の容量を使用します。 快適に動作させるためには、**200MB**程度の空き容量が必要です。
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### インターネット接続
+PreMiDを動作させるためには、インターネット接続が必要です。 PreMiDやPresenceのアップデートをしたり、新しい言語を追加する際に使用します。 　
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

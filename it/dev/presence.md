@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -20,7 +20,7 @@ La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). 
 ## Creazione
 
 Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elenco.
-- La pull request deve essere completa, è necessario avere una struttura del file corretta. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
+- La pull request deve essere completa, è necessario avere una struttura del file corretta. Compresa la cartella `dist` e i file `presence.js` e `metadata.json`.
 - La presenza **deve** essere correlata al sito web che hai scelto.
 - La presenza non deve essere di siti web illegali. Tra questi, lo stressor, la droga, la pornografia infantile, ecc...
 - I metadati di presenza devono avere contenuti ben scritti, inclusi titoli e descrizioni validi.
@@ -170,7 +170,7 @@ Per ulteriori informazioni sulla classe Presence clicca [qui](/dev/presence/clas
 Molti siti web usano [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inline](https://en.wikipedia.org/wiki/HTML_element#Frames)). Questi tag html possono contenere fonti multiple come i video. Ma non sono rilevanti ogni volta. Alcuni vengono nascosti o non vengono utilizzati attivamente. Spunta la casella se puoi estrarre le informazioni di cui hai bisogno, senza di esse prima di fare lavoro inutile.
 
 1. Controllali tramite console del browser (assicurati di essere nella scheda **Elementi**).
-2. Ricerca (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Ricerca (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Esegui `document.querySelectorAll("iframe")`.
 
 Se trovi che i tuoi dati sono in un iFrame devi eseguire le seguenti operazioni:
@@ -286,7 +286,7 @@ Per ulteriori informazioni sulla classe Presence clicca [qui](/dev/presence/clas
 Molti siti web usano [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inline](https://en.wikipedia.org/wiki/HTML_element#Frames)). Questi tag html possono contenere fonti multiple come i video. Ma non sono rilevanti ogni volta. Alcuni vengono nascosti o non vengono utilizzati attivamente. Spunta la casella se puoi estrarre le informazioni di cui hai bisogno, senza di esse prima di fare lavoro inutile.
 
 1. Controllali tramite console del browser (assicurati di essere nella scheda **Elementi**).
-2. Ricerca (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Ricerca (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Esegui `document.querySelectorAll("iframe")`.
 
 Se trovi che i tuoi dati sono in un iFrame devi eseguire le seguenti operazioni:
@@ -344,7 +344,7 @@ Abbiamo creato un `metadata.json` creatore di file per le pepe pigre [qui](https
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. Ora è necessario modificare i valori delle proprietà. Si prega di notare che le seguenti proprietà sono facoltative per avere nei tuoi metadati `. file` , se non hai intenzione di usarli è necessario rimuoverli.
+Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Ora è necessario modificare i valori delle proprietà. Si prega di notare che le seguenti proprietà sono facoltative per avere nei tuoi metadati `. file` , se non hai intenzione di usarli è necessario rimuoverli.
 - `collaboratori`
 - `regExp`
 - `iframe`

@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ setInterval(10000, , myOutsideHeavyLifingFunction);
 Використання багатьох веб-сайтів [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ці HTML-теги можуть містити декілька джерел, таких як відео. Але вони не мають значення кожного разу. Деякі приховані або просто не використовуються. Перевірте, чи можете ви видобути необхідну інформацію, без них перед непотрібною роботою.
 
 1. Перевір їх на консолі браузера (переконайтеся, що ви знаходитесь на вкладці **Елементи** </strong> у браузері).
-2. Пошук (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Пошук (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Виконати `document.querySelectorAll("iframe")`.
 
 Якщо ви виявили, що ваші дані знаходяться в iFrame вам необхідно виконати такі дії:
@@ -286,7 +286,7 @@ setInterval(10000, , myOutsideHeavyLifingFunction);
 Використання багатьох веб-сайтів [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ці HTML-теги можуть містити декілька джерел, таких як відео. Але вони не мають значення кожного разу. Деякі приховані або просто не використовуються. Перевірте, чи можете ви видобути необхідну інформацію, без них перед непотрібною роботою.
 
 1. Перевір їх на консолі браузера (переконайтеся, що ви знаходитесь на вкладці **Елементи** </strong> у браузері).
-2. Пошук (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Пошук (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Виконати `document.querySelectorAll("iframe")`.
 
 Якщо ви виявили, що ваші дані знаходяться в iFrame вам необхідно виконати такі дії:

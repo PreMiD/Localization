@@ -2,7 +2,7 @@
 title: Närvaro Utveckling
 description:
 published: true
-date: 2020-02-03T13:55:40.904Z
+date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
@@ -170,7 +170,7 @@ För mer information om Presence-klassen klicka [här](/dev/presence/class).
 Många webbplatser använder [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Dessa html-taggar kan innehålla flera källor såsom videor. Men de är inte relevanta varje gång. Vissa är dolda eller bara inte används aktivt. Kontrollera om du kan extrahera den information du behöver, utan dem innan du gör onödigt arbete.
 
 1. Kontrollera dem via webbläsarkonsolen (se till att du är på fliken **Elements**-).
-2. Sök (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Sök (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Utför `document.querySelectorAll("iframe")`.
 
 Om du upptäcker att dina uppgifter finns i en iFrame måste du göra följande:
@@ -286,7 +286,7 @@ För mer information om Presence-klassen klicka [här](/dev/presence/class).
 Många webbplatser använder [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Dessa html-taggar kan innehålla flera källor såsom videor. Men de är inte relevanta varje gång. Vissa är dolda eller bara inte används aktivt. Kontrollera om du kan extrahera den information du behöver, utan dem innan du gör onödigt arbete.
 
 1. Kontrollera dem via webbläsarkonsolen (se till att du är på fliken **Elements**-).
-2. Sök (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Sök (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Utför `document.querySelectorAll("iframe")`.
 
 Om du upptäcker att dina uppgifter finns i en iFrame måste du göra följande:

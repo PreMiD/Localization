@@ -1,17 +1,17 @@
 ---
-title: iFrame Class
+title: iFrameクラス
 description:
 published: true
 date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# iFrame Class
+# iFrameクラス
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Introduction
+## 説明
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## メソッド
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
 
-## Events
+## イベント
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
@@ -50,6 +50,6 @@ Here is a list of all of the events:
 
 This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (使用不可)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+ユーザーがキーボードでメディアキーを押したときに呼び出されます。 [ここ](/dev/presence/class#mediakeys)でメディアキーについての情報を調べられます。

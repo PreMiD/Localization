@@ -29,7 +29,7 @@ De applicatie start automatisch. Controleer op het symbool in uw menubalk.
 > {.is-warning}
 
 ## Arch Linux
-Als je op Arch Linux of een Arch gebaseerde distributie bent, PreMiD is beschikbaar op de [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) onder `premie`. Gebruik uw favoriete pakketmanager om hem daar te pakken!
+Als je op Arch Linux of een Arch gebaseerde distributie bent, PreMiD is beschikbaar op de [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) onder `premid`. Gebruik uw favoriete pakketmanager om hem daar te pakken!
 
 ## Andere distributies
 - Installatie script: `wget -qO- http://bit.ly/install-premid` of `curl -sL https://bit.ly/install-premid | bash`, wacht tot het installeert, dubbelklik op de "PreMiD" snelkoppeling gemaakt op uw bureaublad, en dat is het!

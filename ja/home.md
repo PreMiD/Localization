@@ -1,38 +1,38 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: ホーム
+description: v2の公式ドキュメント
 published: true
 date: 2020-01-19T23:42:05.653Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: このドキュメントはまだ編集中です！ いくつかのページは完成していません。 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD an why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+# PreMiDについて
+- :mag: [PreMidってなに？](/about) あなたがPreMiDを使う理由がここにあります！
+- :link: [RPCって？](https://discordapp.com/rich-presence) Rich Presence機能に関してです。
 
-# Getting Started
+# 使ってみる
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiDのインストールはとってもかんたん！ すぐに使えるようになるはずです。
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。
+- [インストール](/install)のガイドに沿ってダウンロードしてください。
+- [トラブルシューティング](/troubleshooting)には、起動しない場合や機能しない場合の対処法が書かれています。
 
 # 開発者
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[PreMiD開発入門](/dev)は何かを作る前にするべき最初の一歩です。
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): PreMiDのAPIを使って、リソースにアクセスしたりアクションを実行
+- :wrench: [Presence Development](/dev/presence): PreMiDのプレゼンスシステムの使い方を学ぶ
 
-# コントリビュート
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/premid): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+# 貢献する
+- :bug: [バグを報告する](https://github.com/PreMiD) 不具合を除去する手伝いをする。
+- :bulb: [新しい機能を提案する](https://discord.gg/premid) あなたのアイデアが必要です！
+- :heart: [寄付をする](https://www.patreon.com/Timeraa) この素晴らしいプロジェクトを応援しましょう！
+- :globe_with_meridians: [翻訳する](https://translate.premid.app) 他の言語でPreMiDを使えるように手伝ってください！
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}

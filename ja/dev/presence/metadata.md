@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Presenceに関する基本情報を含むファイル
 published: true
 date: 2020-01-19T23:42:34.658Z
 tags:
@@ -46,15 +46,15 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">変数</th>
       <th style="text-align:left">概要</th>
       <th style="text-align:left">タイプ</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">省略可能</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>作者</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -83,7 +83,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>概要</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -113,7 +113,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>バージョン</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -150,7 +150,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>タグ</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
@@ -189,64 +189,64 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## 正規表現
 
 If you want to learn regular expressions, here are a few websites.
 
-### Learning
+### 習得
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testing
+### 試用
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence categories
+## Presenceのカテゴリー
 
 When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">カテゴリー</th>
+      <th style="text-align:left">名前</th>
       <th style="text-align:left">概要</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>アニメ</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-    <td style="text-align:left"><b>Games</b></td>
+    <td style="text-align:left"><b>ゲーム</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-    <td style="text-align:left"><b>Music</b></td>
+    <td style="text-align:left"><b>音楽</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>SNS</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>動画と配信</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>Other</b></td>
+    <td style="text-align:left"><b>その他</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
