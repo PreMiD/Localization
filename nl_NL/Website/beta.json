@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "Meld u nu aan!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Cool! Je bent nu een beta-gebruiker!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Onze apen proberen je zo snel mogelijk in ons beta-programma te krijgen. Bedankt voor het registreren!",
+    "description": "Thank You page description"
   }
 }
