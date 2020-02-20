@@ -1,62 +1,62 @@
 {
-  "contributors.headings.staff": {
-    "message": "Ekip",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Destekçiler",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Çevirmenler",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.mainDeveloper": {
-    "message": "Ana Geliştirici",
-    "description": "'Main Developer' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Site Geliştiricisi",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Topluluk Yöneticisi",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Baş Yetkili",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Yetkili",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Yardım Ekibi Üyesi",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Bağışçı",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Takviyeci",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Çevirmen",
-    "description": "'Main Developer' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Yönetici",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.secretary": {
-    "message": "Topluluk Sekreteri",
-    "description": "'Community Secretary' title for contributors.page"
-  },
-  "contributors.roles.seniorModerator": {
-    "message": "Kıdemli Yetkili",
-    "description": "'Senior Moderator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Ekip",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Destekçiler",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Çevirmenler",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Yapımcı",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.websiteDeveloper": {
+		"message": "Site Geliştiricisi",
+		"description": "'Website Developer' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Topluluk Yöneticisi",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.headModerator": {
+		"message": "Baş Yetkili",
+		"description": "'Head Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Yetkili",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "Yardım Ekibi Üyesi",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Bağışçı",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Takviyeci",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Çevirmen",
+		"description": "'Main Developer' title for contributors page."
+	},
+	"contributors.roles.administrator": {
+		"message": "Yönetici",
+		"description": "'Administrator' title for contributors page."
+	},
+	"contributors.roles.secretary": {
+		"message": "Topluluk Sekreteri",
+		"description": "'Community Secretary' title for contributors.page"
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Kıdemli Yetkili",
+		"description": "'Senior Moderator' title for contributors page."
+	}
 }

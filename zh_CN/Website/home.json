@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD** 是一个简单、可配置的工具，可以让您在您的Discord上显示您在网页上做的事情，现在正在播放状态。",
+    "message": "**PreMiD** 是一个简单、可配置的工具，可以让您在您的 Discord游戏动态 上显示您在网页上做的事情。",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {

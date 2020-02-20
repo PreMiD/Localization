@@ -20,19 +20,19 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "パンケーキを焼いています……;荷物を運んでいます……;IPアドレスを解析しています……;UwU;ルールを破壊しています……",
+    "message": "パンケーキを焼いています…;荷物を運んでいます…;IPアドレスを解析しています…;（˘ω˘） ;ルールを破壊しています…",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Store",
+    "message": "ストア",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Downloads",
+    "message": "ダウンロード",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contributors",
+    "message": "貢献者",
     "description": "Contributors tab"
   }
 }

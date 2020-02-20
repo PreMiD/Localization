@@ -6,5 +6,53 @@
   "tab.button.wiki": {
     "message": "উইকি",
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.heading": {
+    "message": "ধন্যবাদ",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.subHeading": {
+    "message": "লোড করার জন্য {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.start": {
+    "message": "ব্যবহার করা শুরু করেন {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
+  },
+  "donate": {
+    "message": "টাকা দেন",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "আমরা এপ্লিকেশন এ কানেক্ট করতে পারি নাই. ইনস্টল করা আছে নাকি?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.troubleshooting": {
+    "message": "সমস্যা দূর করা",
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "ইনস্টল এপ্লিকেশন",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.updated.heading": {
+    "message": "লেভেল বাড়াচ্ছে!",
+    "description": "Title of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.subHeading": {
+    "message": "{0} আপডেট হোয়াইয়ে গেছে!",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.new": {
+    "message": "নতুন",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "চেঞ্জড",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.fixed": {
+    "message": "ঠিক করা",
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
