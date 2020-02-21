@@ -36,7 +36,7 @@
 		"description": "'Ticket Manager' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Spender",
+		"message": "Unterstützer",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
@@ -52,11 +52,11 @@
 		"description": "'Administrator' title for contributors page."
 	},
 	"contributors.roles.secretary": {
-		"message": "Gemeinschaftssekretär",
+		"message": "Community-Sekretär",
 		"description": "'Community Secretary' title for contributors.page"
 	},
 	"contributors.roles.seniorModerator": {
-		"message": "Moderator",
+		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors page."
 	}
 }
