@@ -6,7 +6,7 @@ date: 2020-01-19T23:42:21.676Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Înainte să mergi mai departe, verifică dacă sistemul tău îndeplinește toate [cerințele](/install/requirements). 
 > 
 > {.is-info}
 
