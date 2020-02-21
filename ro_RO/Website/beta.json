@@ -1,6 +1,6 @@
 {
   "beta.title": {
-    "message": "Vrei funcții noi?",
+    "message": "Vrei funcționalități noi?",
     "description": "Beta page title"
   },
   "beta.description.1": {
@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "Inregistrează-te acum!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Super! Ești utilizator beta!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Maimuțele noastre lucrează ca tu să intrii în programul nostru cât mai repede posibil. Îți mulțumim pentru înregistrare!",
+    "description": "Thank You page description"
   }
 }
