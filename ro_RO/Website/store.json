@@ -31,6 +31,10 @@
 		"message": "Această prezență este folosită automat, nu este nevoie să o adăugați.",
 		"description": "The message that appears instead of the buttons."
 	},
+	"store.category.filters.heading": {
+		"message": "Filtre căutare",
+		"description": "Searh filters option at the store page"
+	},
 	"store.category.heading": {
 		"message": "Categorii",
 		"description": "Category heading"
