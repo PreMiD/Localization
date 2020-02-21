@@ -1,4 +1,8 @@
 {
+	"popup.navigation.settings": {
+		"message": "Pengaturan",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
 	"popup.navigation.credits": {
 		"message": "Kredit",
 		"description": "Title of the 'credits' section at the navigation in the popup"
