@@ -1,4 +1,8 @@
 {
+	"popup.navigation.settings": {
+		"message": "Parametrlər",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
 	"popup.navigation.credits": {
 		"message": "Yaradıcılar",
 		"description": "Title of the 'credits' section at the navigation in the popup"
