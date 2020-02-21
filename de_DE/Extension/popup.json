@@ -12,7 +12,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.headings.general": {
-		"message": "Generell",
+		"message": "Allgemein",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
@@ -28,11 +28,11 @@
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Titel Menubar",
+		"message": "Titel-Menüleiste",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "Autostart",
+		"message": "Automatischer Start",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
@@ -48,15 +48,15 @@
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Fertig",
+		"message": "Erledigt",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Präsenz laden",
+		"message": "Präsenz wird geladen",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Präsenz-Store",
+		"message": "Präsenz-Shop",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -64,7 +64,7 @@
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
-		"message": "Och ne!",
+		"message": "Oh nein!",
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD konnte sich nicht mit seiner Anwendung verbinden! Ist sie installiert und läuft sie? *Fehlerbehebung*",
+		"message": "PreMiD konnte sich nicht mit seiner Anwendung verbinden! Ist sie installiert und läuft sie",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -108,11 +108,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Videos & Streams",
+		"message": "Videos & Livestreams",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
-		"message": "Sonstige",
+		"message": "Sonstiges",
 		"description": "Category name shown when you open tags"
 	}
 }
