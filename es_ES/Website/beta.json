@@ -1,1 +1,18 @@
-{}
+{
+  "beta.features.3": {
+    "message": "Un rol especial en nuestro servidor de Discord",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "¿Estás preparado? ¡Únete a otros {0} beta testers!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "¡Regístrate ahora!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "¡Bien, ahora eres un usuario beta!",
+    "description": "Thank You page title"
+  }
+}
