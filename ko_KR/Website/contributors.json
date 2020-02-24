@@ -14,5 +14,37 @@
 	"contributors.roles.creator": {
 		"message": "제작자",
 		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.websiteDeveloper": {
+		"message": "웹사이트 개발자",
+		"description": "'Website Developer' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "커뮤니티 매니저",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "관리자",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "티켓 관리자",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "후원자",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "서버 부스터",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "번역자",
+		"description": "'Main Developer' title for contributors page."
+	},
+	"contributors.roles.administrator": {
+		"message": "관리자",
+		"description": "'Administrator' title for contributors page."
 	}
 }
