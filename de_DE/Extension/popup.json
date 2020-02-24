@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Präsenz wird geladen",
+		"message": "Präsenz laden",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD konnte sich nicht mit seiner Anwendung verbinden! Ist sie installiert und läuft sie",
+		"message": "PreMiD konnte sich nicht mit seiner Anwendung verbinden! Ist sie installiert und läuft sie? *Fehlerbehebung*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
