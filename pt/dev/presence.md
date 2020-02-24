@@ -165,7 +165,7 @@ Por exemplo, sugerimos que analisemos o código de presenças como: 1337x ou 9GA
 
 Para mais informações sobre a classe de Presença, clique [aqui](/dev/presence/class).
 
-## Não foi possível obter os dados certos?!
+## Não consegue obter dados certos?!
 
 Muitos sites estão usando [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Essas tags html podem conter várias fontes como vídeos. Entretanto, elas não são sempre relevantes. Alguns são ocultos ou simplesmente não são ativamente utilizados. Verifique se você pode extrair, as informações que você precisa, sem elas antes de fazer trabalho desnecessário.
 
@@ -281,7 +281,7 @@ Por exemplo, sugerimos que analisemos o código de presenças como: 1337x ou 9GA
 
 Para mais informações sobre a classe de Presença, clique [aqui](/dev/presence/class).
 
-## Não foi possível obter os dados certos?!
+## Não consegue obter dados certos?!
 
 Muitos sites estão usando [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Essas tags html podem conter várias fontes como vídeos. Entretanto, elas não são sempre relevantes. Alguns são ocultos ou simplesmente não são ativamente utilizados. Verifique se você pode extrair, as informações que você precisa, sem elas antes de fazer trabalho desnecessário.
 
@@ -344,7 +344,7 @@ Nós fizemos um criador de `metadata.json` para os preguiçosos [aqui](https://e
 }
 ```
 
-Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você precisa editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter no seu `metadata.json`, se você não planeja usá-los, você precisa removê-los.
+Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora você precisa editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter no seu `metadata.json`, se você não planeja usá-los, você precisa removê-los.
 - `contributors`
 - `regExp`
 - `iframe`
