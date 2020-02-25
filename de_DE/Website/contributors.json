@@ -36,7 +36,7 @@
 		"description": "'Ticket Manager' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Unterstützer",
+		"message": "Spender",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
