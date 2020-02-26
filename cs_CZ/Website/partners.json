@@ -24,12 +24,24 @@
     "description": "Description for the first benefit."
   },
   "partners.why.benefit2.title": {
-    "message": "Staň se verifikovaný",
+    "message": "Staňte se ověřený",
     "description": "Heading for the second benefit."
   },
   "partners.why.benefit2.description": {
     "message": "Speciální role a vyznamenání ti bude přiděleno na našem Discord serveru.",
     "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Integrace meta-tagu",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Automaticky povolí vaši Presence, když někdo navštíví váš web.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Buď nesmrtelný",
+    "description": "Heading for the fourth benefit."
   },
   "partners.why.benefit4.description": {
     "message": "Nepříjemné místo na naší partnerské stránce.",
@@ -51,6 +63,10 @@
     "message": "Co přesně hledáme?",
     "description": "Heading for the first requirement."
   },
+  "partners.requirements.second.title": {
+    "message": "Naše firewall",
+    "description": "Heading for the second requirement."
+  },
   "partners.apply.button": {
     "message": "Podejte žádost nyní!",
     "description": "Button to apply for partner."
@@ -67,8 +83,24 @@
     "message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
     "description": "Description for sponsors."
   },
+  "partners.partner.aniFlix": {
+    "message": "Tohle je jak sledujete anime.",
+    "description": "Description for AniFlix."
+  },
   "partners.partner.iLoot": {
     "message": "Platforma s plusy pro hráče.",
     "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Lehce zdělte status v reálném čase pro vaše uživatele.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Agile lokalizace pro technologické společnosti.",
+    "description": "Description for Crowdin."
   }
 }
