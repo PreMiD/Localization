@@ -50,5 +50,13 @@
   "contributors.roles.administrator": {
     "message": "Administrator",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Assistierender Community Manager",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Assistierender Hauptmoderator",
+    "description": "'Assisting Head Moderator' title for contributors page."
   }
 }
