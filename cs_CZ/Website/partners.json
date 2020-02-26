@@ -75,6 +75,10 @@
     "message": "Pojďme společně do nebe!",
     "description": "Disclaimer located above the apply button."
   },
+  "partners.apply.jobs": {
+    "message": "Pokud jste spíše zaujati přímým zaměstnáním pro PreMiD, tak se podívejte na naši reklamu na práci.",
+    "description": "Hint located under the button."
+  },
   "partners.sponsors.title": {
     "message": "SPONZOR",
     "description": "Heading for sponsors."
@@ -84,7 +88,7 @@
     "description": "Description for sponsors."
   },
   "partners.partner.aniFlix": {
-    "message": "Tohle je jak sledujete anime.",
+    "message": "Takhle sleduješ anime.",
     "description": "Description for AniFlix."
   },
   "partners.partner.iLoot": {
