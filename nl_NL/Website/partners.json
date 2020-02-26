@@ -63,6 +63,10 @@
     "message": "Waar zijn wij naar opzoek?",
     "description": "Heading for the first requirement."
   },
+  "partners.requirements.first.description": {
+    "message": "We houden oog voor groeiende communities en opwindende dingen op internet. TL;DR je zou PreMiD al moeten gebruiken en klaar zijn om het te verspreiden naar nog meer internetfreaks. Acceptatie in het programma is uiterst kwalitatief en varieert van kandidaat tot kandidaat.",
+    "description": "Description for the first requirement."
+  },
   "partners.requirements.second.title": {
     "message": "Onze firewall",
     "description": "Heading for the second requirement."
