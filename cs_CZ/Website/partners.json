@@ -63,9 +63,17 @@
     "message": "Co přesně hledáme?",
     "description": "Heading for the first requirement."
   },
+  "partners.requirements.first.description": {
+    "message": "Necháváme venku pro rostoucí komunity a odcházíme z celého internetu. TL;DR byste již měli používat PreMiD a být připraveni ho šířit do ještě více internetových svobod. Přijímání do programu je velmi kvalitativní a bude se v jednotlivých kandidátech lišit.",
+    "description": "Description for the first requirement."
+  },
   "partners.requirements.second.title": {
     "message": "Naše firewall",
     "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 3 aktivní diváky. Musíte streamovat alespoň 1 krát týdně.",
+    "description": "Description for the second requirement."
   },
   "partners.apply.button": {
     "message": "Podejte žádost nyní!",
@@ -90,6 +98,14 @@
   "partners.partner.aniFlix": {
     "message": "Takhle sleduješ anime.",
     "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings je next-gen rychlá Pvp arénní hra hraná v prohlížeči.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat je neziskové mezinárodní rádio usilující o nonstop kvalitní rádio a zpravodajskou zábavu.",
+    "description": "Description for UpBeatRadio."
   },
   "partners.partner.iLoot": {
     "message": "Platforma s plusy pro hráče.",
