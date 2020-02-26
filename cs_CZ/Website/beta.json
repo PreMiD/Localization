@@ -28,7 +28,7 @@
     "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
-    "message": "Zaregistrujte se nyní",
+    "message": "Zaregistrujte se nyní!",
     "description": "Sign up button text"
   },
   "thankyou.title": {
