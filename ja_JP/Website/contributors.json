@@ -50,5 +50,13 @@
   "contributors.roles.administrator": {
     "message": "管理者",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "コミュニティマネージャーの秘書",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "主任モデレーターのアシスタント",
+    "description": "'Assisting Head Moderator' title for contributors page."
   }
 }
