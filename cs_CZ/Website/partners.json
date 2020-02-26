@@ -63,10 +63,6 @@
     "message": "Co přesně hledáme?",
     "description": "Heading for the first requirement."
   },
-  "partners.requirements.first.description": {
-    "message": "Necháváme venku pro rostoucí komunity a odcházíme z celého internetu. TL;DR byste již měli používat PreMiD a být připraveni ho šířit do ještě více internetových svobod. Přijímání do programu je velmi kvalitativní a bude se v jednotlivých kandidátech lišit.",
-    "description": "Description for the first requirement."
-  },
   "partners.requirements.second.title": {
     "message": "Naše firewall",
     "description": "Heading for the second requirement."
