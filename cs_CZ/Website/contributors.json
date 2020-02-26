@@ -50,5 +50,13 @@
   "contributors.roles.administrator": {
     "message": "Administrátor",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Asst. Komunitní Manažer",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Asst. Hlavní Moderátor",
+    "description": "'Assisting Head Moderator' title for contributors page."
   }
 }
