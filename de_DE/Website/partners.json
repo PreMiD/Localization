@@ -1,1 +1,6 @@
-{}
+{
+  "partners.header.title": {
+    "message": "PARTNER",
+    "description": "Heading for page."
+  }
+}
