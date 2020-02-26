@@ -1,62 +1,54 @@
 {
-	"contributors.headings.staff": {
-		"message": "Ansatte",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.supporters": {
-		"message": "Tilhengere",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.translators": {
-		"message": "Oversettere/Tolker",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.creator": {
-		"message": "Skaper",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.websiteDeveloper": {
-		"message": "Nettstedsutvikler",
-		"description": "'Website Developer' title for contributors and user pages."
-	},
-	"contributors.roles.communityManager": {
-		"message": "Kretsansvarlig",
-		"description": "'Community Manager' title for contributors and user pages."
-	},
-	"contributors.roles.headModerator": {
-		"message": "Sjefsmoderator / Hovedmoderator",
-		"description": "'Head Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.ticketManager": {
-		"message": "Kølappsansvarlig",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
-	"contributors.roles.donator": {
-		"message": "Donator",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Booster",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Oversetter",
-		"description": "'Main Developer' title for contributors page."
-	},
-	"contributors.roles.administrator": {
-		"message": "Administrator",
-		"description": "'Administrator' title for contributors page."
-	},
-	"contributors.roles.secretary": {
-		"message": "Kretssekretær",
-		"description": "'Community Secretary' title for contributors.page"
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Seniormoderator",
-		"description": "'Senior Moderator' title for contributors page."
-	}
+  "contributors.headings.staff": {
+    "message": "Ansatte",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.supporters": {
+    "message": "Tilhengere",
+    "description": "Heading for group of users."
+  },
+  "contributors.headings.translators": {
+    "message": "Oversettere/Tolker",
+    "description": "Heading for group of users."
+  },
+  "contributors.roles.creator": {
+    "message": "Skaper",
+    "description": "'Creator' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "Nettstedsutvikler",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "Kretsansvarlig",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "Sjefsmoderator / Hovedmoderator",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "Moderator",
+    "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.ticketManager": {
+    "message": "Kølappsansvarlig",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "Donator",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "Booster",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "Oversetter",
+    "description": "'Main Developer' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrator",
+    "description": "'Administrator' title for contributors page."
+  }
 }
