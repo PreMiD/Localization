@@ -1,1 +1,74 @@
-{}
+{
+  "partners.header.title": {
+    "message": "PARTNEŘI",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Připojte se ke skupině a získejte některé výhody pouze pro partnery, abyste ukázali, kolik swagu máte.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Tyhle nám již patří",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "A co třeba jít do nebe místo pekla?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Vaše bezplatná přítomnost",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Náš tým vám poskytne přítomnost vaší webové služby.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Staň se verifikovaný",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Speciální role a vyznamenání ti bude přiděleno na našem Discord serveru.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Nepříjemné místo na naší partnerské stránce.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Buď slavný",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Budete sdílení na naších sociálních mediích.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "POŽADAVKY",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Co přesně hledáme?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.apply.button": {
+    "message": "Podejte žádost nyní!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Pojďme společně do nebe!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.sponsors.title": {
+    "message": "SPONZOR",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.iLoot": {
+    "message": "Platforma s plusy pro hráče.",
+    "description": "Description for iLoot."
+  }
+}
