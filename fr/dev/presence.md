@@ -21,7 +21,7 @@ La version `2.x` introduit le [magasin de présence](https://premid.app/store). 
 
 Avant de commencer à travailler sur votre présence, gardez à l'esprit la liste suivante.
 - La demande d'ajout doit être complète, vous devez avoir une structure de fichier appropriée. Incluant le dossier `dist` , le fichier `presence.js` et le fichier `metadata.json`.
-- The presence **must** be related to the website you have chosen.
+- La présence **doit être liée à** au site Web que vous avez choisi.
 - La présence ne doit pas être de sites Web illégaux. Celles-ci incluent des stress, des drogues, du porn infantile, etc...
 - Les métadonnées de présence doivent avoir un contenu bien écrit, y compris des titres valides et des descriptions.
 - Le média que vous incluez (icône/vignette) doit être lié au site Web et doit être compréhensible en termes de taille et de qualité.
