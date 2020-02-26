@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "今すぐ登録しよう！",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "ベータユーザーになりました！",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "ベータプログラムに登録していただき、ありがとうございます！\n承認されるまでには時間がかかる場合があります。",
+    "description": "Thank You page description"
   }
 }

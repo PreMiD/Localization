@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "立刻註冊!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "帥爆了！你現在是我們beta用戶的一份子。",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "我們的管理員正在以最快的速度審核你的注冊，使您盡快進入我們的Beta計劃。 感謝您註冊！",
+    "description": "Thank You page description"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "partners.header.title": {
+    "message": "PARTNER",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Trete der Familie bei und erhalte eine Partnervorteile um allen zu zeigen, wie viel Swag du hast.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Diese gehören schon zu uns",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "Wie wäre es damit, in den Himmel z ugehen, anstatt in die Hölle?",
+    "description": "Heading for benefits."
+  }
+}
