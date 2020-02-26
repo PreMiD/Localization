@@ -1,1 +1,22 @@
-{}
+{
+  "partners.header.title": {
+    "message": "PARTNERS",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Word lid van de fam en krijg enkele partner-only voordelen om te laten zien hoeveel swag je hebt.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Deze horen al bij ons",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "Zullen we in de hemel gaan in plaats van de hel?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Eigen gratis presence",
+    "description": "Heading for the first benefit."
+  }
+}
