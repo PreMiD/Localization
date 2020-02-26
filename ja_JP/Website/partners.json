@@ -1,1 +1,10 @@
-{}
+{
+  "partners.header.title": {
+    "message": "パートナー",
+    "description": "Heading for page."
+  },
+  "partners.requirements.first.title": {
+    "message": "募集要項",
+    "description": "Heading for the first requirement."
+  }
+}
