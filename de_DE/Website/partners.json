@@ -27,6 +27,18 @@
     "message": "Werde verifiziert",
     "description": "Heading for the second benefit."
   },
+  "partners.why.benefit5.title": {
+    "message": "Sei berühmt",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "ANFORDERUNGEN",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Wonach suchen wir?",
+    "description": "Heading for the first requirement."
+  },
   "partners.requirements.second.title": {
     "message": "Unsere Firewall",
     "description": "Heading for the second requirement."
@@ -35,8 +47,20 @@
     "message": "Jetzt bewerben!",
     "description": "Button to apply for partner."
   },
+  "partners.apply.disclaimer": {
+    "message": "Lass uns gemeinsam in den Himmel gehen!",
+    "description": "Disclaimer located above the apply button."
+  },
   "partners.sponsors.title": {
     "message": "SPONSOREN",
     "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "Ohne diese erstaunlichen Leute wäre PreMiD nicht möglich.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "So schaut man Anime.",
+    "description": "Description for AniFlix."
   }
 }
