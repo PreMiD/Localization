@@ -45,7 +45,7 @@
   },
   "contributors.roles.translator": {
     "message": "Translator",
-    "description": "'Main Developer' title for contributors page."
+    "description": "'Translator' title for contributors page."
   },
   "contributors.roles.administrator": {
     "message": "Administrator",
@@ -62,5 +62,9 @@
   "contributors.roles.jrModerator": {
     "message": "Jr. Moderator",
     "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Proofreader",
+    "description": "'Proofreader' title for contributors and user pages."
   }
 }
