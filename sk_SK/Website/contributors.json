@@ -45,6 +45,6 @@
   },
   "contributors.roles.translator": {
     "message": "Prekladateľ",
-    "description": "'Main Developer' title for contributors page."
+    "description": "'Translator' title for contributors page."
   }
 }
