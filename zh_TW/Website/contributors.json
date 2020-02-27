@@ -50,5 +50,13 @@
   "contributors.roles.administrator": {
     "message": "管理員",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "社群管理員助手",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "超級版主助手",
+    "description": "'Assisting Head Moderator' title for contributors page."
   }
 }
