@@ -99,8 +99,28 @@
     "message": "So schaut man Anime.",
     "description": "Description for AniFlix."
   },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings ist ein rasantes im Browser gespieltes next-gen PvP-Arenaspiel.",
+    "description": "Description for Arena of Kings."
+  },
   "partners.partner.upBeat": {
     "message": "UpBeat ist ein gemeinnütziges internationales Radio, das sich um qualitativ hochwertige Radio- und Nachrichtenunterhaltung bemüht.",
     "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "Die Verdienst-Plattform für Gamer.",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "Ein leistungsstarkes und einfach zu bedienendes plattformübergreifendes Installations-Erstellungswerkzeug.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Kommuniziere dein Echtzeit-Status mit deinen Benutzern.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Flexible Übersetzungslösung für Technologieunternehmen.",
+    "description": "Description for Crowdin."
   }
 }
