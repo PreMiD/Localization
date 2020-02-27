@@ -4,7 +4,7 @@
     "description": "Heading for page."
   },
   "partners.header.description": {
-    "message": "Trete der Familie bei und erhalte eine Partnervorteile um allen zu zeigen, wie viel Swag du hast.",
+    "message": "Schließe Dich der Familie an und erhalte einige exklusive Partnervorteile, um allen zu zeigen, wie viel Swag Du hast.",
     "description": "Description for page."
   },
   "partners.slideshow.description": {
@@ -98,5 +98,9 @@
   "partners.partner.aniFlix": {
     "message": "So schaut man Anime.",
     "description": "Description for AniFlix."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat ist ein gemeinnütziges internationales Radio, das sich um qualitativ hochwertige Radio- und Nachrichtenunterhaltung bemüht.",
+    "description": "Description for UpBeatRadio."
   }
 }
