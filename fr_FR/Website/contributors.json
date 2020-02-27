@@ -45,7 +45,7 @@
   },
   "contributors.roles.translator": {
     "message": "Traducteur",
-    "description": "'Main Developer' title for contributors page."
+    "description": "'Translator' title for contributors page."
   },
   "contributors.roles.administrator": {
     "message": "Administrateur",
