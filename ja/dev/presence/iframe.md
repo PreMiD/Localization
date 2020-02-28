@@ -30,10 +30,10 @@ iframe.on("UpdateData", async () => {
 ## メソッド
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+プレゼンスにデータを送ります。 この方法を使用すると、プレゼンスが`iFrameData`のeventを投げます。
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+`iframe` のURLを返します。
 
 ## イベント
 In `iframes`, events work similarly to the way they work in the `presence` class.
@@ -44,11 +44,11 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Here is a list of all of the events:
+すべてのイベントのリスト:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+このイベントはiframeが更新されるたびに呼び出されます。
 
 #### `MediaKeys` (使用不可)
 
