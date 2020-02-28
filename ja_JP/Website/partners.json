@@ -71,6 +71,10 @@
     "message": "パートナーになりましょう！",
     "description": "Disclaimer located above the apply button."
   },
+  "partners.apply.jobs": {
+    "message": "直接PreMiDの仕事に関わりたい場合は、job advertisementをご覧ください。",
+    "description": "Hint located under the button."
+  },
   "partners.sponsors.title": {
     "message": "スポンサー",
     "description": "Heading for sponsors."
