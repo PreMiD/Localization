@@ -11,6 +11,38 @@
     "message": "私達のパートナー",
     "description": "Description for slideshow."
   },
+  "partners.why.benefit1.title": {
+    "message": "あなたのサイト専用プレゼンス",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "私達のチームが、あなたのサイトのプレセンスを作成します。",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "認証される",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "私達のDiscordサーバーで名誉ある役職をもらえる",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "メタタグの統合",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "誰かがあなたのサイトを見ているときに、プレゼンスを自動的に有効にします。",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "消失しない",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "募集要項",
+    "description": "Heading for the requirements."
+  },
   "partners.requirements.first.title": {
     "message": "私達が求めているもの",
     "description": "Heading for the first requirement."
