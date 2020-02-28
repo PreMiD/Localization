@@ -79,6 +79,10 @@
     "message": "スポンサー",
     "description": "Heading for sponsors."
   },
+  "partners.sponsors.description": {
+    "message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。",
+    "description": "Description for sponsors."
+  },
   "partners.partner.aniFlix": {
     "message": "半分くらいの人がこれでアニメを見ていると思う。",
     "description": "Description for AniFlix."
