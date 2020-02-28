@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Presenceに関する基本情報を含むファイル
+description: プレゼンスに関する基本情報を含むファイル
 published: true
 date: 2020-01-19T23:42:34.658Z
 tags:
@@ -59,7 +59,7 @@ tags:
       <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ tags:
       <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>可</code>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ tags:
       <td style="text-align:left">このプレゼンスが対応しているサービスの名称です。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@ tags:
       <td style="text-align:left">プレゼンスの短い説明です。 何も思いつかない場合、サービスの説明文を引用してもよいです。 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけ説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後に編集します。</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ tags:
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@ tags:
       <td style="text-align:left">URLを検出するのに使用する正規表現です。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>可</code>
       </td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ tags:
       <td style="text-align:left">プレゼンスのバージョンです。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@ tags:
       <td style="text-align:left">サービスのロゴの画像のURLです。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -133,7 +133,7 @@ tags:
       <td style="text-align:left">あなたのプレゼンスのサムネイルの画像のURLです。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ tags:
       <td style="text-align:left"><code>#HEX</code>コードで指定: あなたのプレゼンスが対応しているサービスのイメージ色を使うとよいでしょう。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -152,7 +152,7 @@ tags:
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@ tags:
       <td style="text-align:left">プレゼンスが当てはまるカテゴリー名の文字列です。</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>不可</code>
       </td>
     </tr>
     <tr>
@@ -170,7 +170,7 @@ tags:
       <td style="text-align:left"><code>iFrames</code>が使われているかどうかの指定</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>可</code>
       </td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@ tags:
       <td style="text-align:left">挿入するiframeを検出するのに使用する正規表現</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>可</code>
       </td>
     </tr>
   </tbody>
@@ -199,7 +199,7 @@ tags:
 
 ## Presenceのカテゴリー
 
-もしプレゼンスを作りたいなら、プレゼンスのカテゴリを指定する必要があります。 これは、使用可能なほぼすべてのカテゴリの一覧です。
+もしプレゼンスを作りたいなら、プレゼンスのカテゴリを指定する必要があります。 使用可能なすべてのカテゴリーは以下の通りです。
 
 <table>
   <thead>
