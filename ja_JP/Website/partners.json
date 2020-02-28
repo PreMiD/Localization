@@ -3,6 +3,10 @@
     "message": "パートナー",
     "description": "Heading for page."
   },
+  "partners.header.description": {
+    "message": "参加して、パートナーだけの特典を手に入れましょう！",
+    "description": "Description for page."
+  },
   "partners.requirements.first.title": {
     "message": "私達が求めているもの",
     "description": "Heading for the first requirement."
@@ -10,5 +14,9 @@
   "partners.apply.button": {
     "message": "今すぐ申し込む",
     "description": "Button to apply for partner."
+  },
+  "partners.sponsors.title": {
+    "message": "スポンサー",
+    "description": "Heading for sponsors."
   }
 }
