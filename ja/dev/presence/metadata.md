@@ -10,7 +10,7 @@ tags:
 
 もしあなたがプレゼンスをストアに公開し拡張機能を使って読み込む場合は `presence.js`フォルダの中に`metadata.json`を作る必要があります
 
-The example of that file can be found below.
+ファイルの構成の例は以下の通りです:
 
 ```javascript
 {
@@ -103,7 +103,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">URLを検出するのに使用する正規表現です。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -139,8 +139,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code>コードで指定: We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code>コードで指定: あなたのプレゼンスが対応しているサービスのイメージ色を使うとよいでしょう。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -149,7 +148,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>tags</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">タグの配列を指定してください。タグは、ウェブサイト上でプレゼンスを見つけるのに役立ちます。</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -159,7 +158,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">プレゼンスが当てはまるカテゴリー名の文字列です。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -168,7 +167,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left"><code>iFrames</code>が使われているかどうかの指定</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -177,7 +176,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">挿入するiframeを検出するのに使用する正規表現</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -214,13 +213,13 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>アニメ</b></td>
-      <td style="text-align:left">掲示板から動画サイトのことなど、アニメに関するすべてのこと</td>
+      <td style="text-align:left">アニメに関する掲示板や動画サイトなどすべてのもの</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>ゲーム</b></td>
-      <td style="text-align:left"><code>Kahoot</code>や<code>Skribbl.io</code>のようなゲーム関連のwebサイト</td>
+      <td style="text-align:left"><code>Kahoot</code>や<code>Skribbl.io</code>のようなゲーム関連のウェブサイト</td>
       </td>
     </tr>
     <tr>
