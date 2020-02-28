@@ -19,6 +19,10 @@
 		"message": "バージョン",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.users": {
+		"message": "ユーザー",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
 	"presence.sections.information.tags": {
 		"message": "タグ",
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
