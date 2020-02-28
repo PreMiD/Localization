@@ -8,7 +8,7 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
+もしあなたがプレゼンスをストアに公開し拡張機能を使って読み込む場合は `presence.js`フォルダの中に`metadata.json`を作る必要があります
 
 The example of that file can be found below.
 
@@ -39,9 +39,9 @@ The example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## metadata.jsonを理解する
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+さっきの一例が分かりにくい？ 気にするな！ これらの変数が何に使われているかなんてすぐ分かるさ。
 
 <table>
   <thead>
@@ -56,8 +56,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -66,8 +65,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -76,7 +74,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">このプレゼンスが対応しているサービスの名称です。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -85,8 +83,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">プレゼンスの短い説明です。 何も思いつかない場合、サービスの説明文を引用してもよいです。 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけ説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後に編集します。</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -191,7 +188,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 
 ## 正規表現
 
-If you want to learn regular expressions, here are a few websites.
+正規表現を覚えたい？じゃあこのサイトを見よう！
 
 ### 習得
 
@@ -203,7 +200,7 @@ If you want to learn regular expressions, here are a few websites.
 
 ## Presenceのカテゴリー
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+もしプレゼンスを作りたいなら、プレゼンスのカテゴリを指定する必要があります。 これは、使用可能なほぼすべてのカテゴリの一覧です。
 
 <table>
   <thead>
@@ -217,37 +214,37 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>アニメ</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">掲示板から動画サイトのことなど、アニメに関するすべてのこと</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>ゲーム</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left"><code>Kahoot</code>や<code>Skribbl.io</code>のようなゲーム関連のwebサイト</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>音楽</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">これは、ストリーミングやダウンロードなど、音楽関連のコンテンツを提供するサイト</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>SNS</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">コンテンツの作成と共有や、その他の方法でSNSに関わるウェブサイト</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>動画と配信</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">動画や配信の提供が目的のウェブサイト</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>その他</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">以上のカテゴリーのどれにも当てはまらないもの</td>
       </td>
     </tr>
   </tbody>
