@@ -74,5 +74,9 @@
   "partners.sponsors.title": {
     "message": "スポンサー",
     "description": "Heading for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "半分くらいの人がこれでアニメを見ていると思う…",
+    "description": "Description for AniFlix."
   }
 }
