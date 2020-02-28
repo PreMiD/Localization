@@ -76,7 +76,19 @@
     "description": "Heading for sponsors."
   },
   "partners.partner.aniFlix": {
-    "message": "半分くらいの人がこれでアニメを見ていると思う…",
+    "message": "半分くらいの人がこれでアニメを見ていると思う。",
     "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kingsは、ブラウザで遊べるPvPゲームです。",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeatは非営利の国際ラジオです。ノンストップのエンターテイメントや、ニュースを提供しています。",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "ゲーマーのためのお小遣いサイト。",
+    "description": "Description for iLoot."
   }
 }
