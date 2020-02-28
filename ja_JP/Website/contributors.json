@@ -52,7 +52,7 @@
     "description": "'Administrator' title for contributors page."
   },
   "contributors.roles.asstCommunityManager": {
-    "message": "コミュニティマネージャーの秘書",
+    "message": "コミュニティマネージャーのアシスタント",
     "description": "'Assisting Community Manager' title for contributors page."
   },
   "contributors.roles.asstHeadModerator": {
