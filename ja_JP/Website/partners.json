@@ -11,8 +11,12 @@
     "message": "私達のパートナー",
     "description": "Description for slideshow."
   },
+  "partners.why.title": {
+    "message": "私達のパートナーになってみませんか？",
+    "description": "Heading for benefits."
+  },
   "partners.why.benefit1.title": {
-    "message": "あなたのサイト専用プレゼンス",
+    "message": "サイト専用のプレセンス",
     "description": "Heading for the first benefit."
   },
   "partners.why.benefit1.description": {
@@ -28,7 +32,7 @@
     "description": "Description for the second benefit."
   },
   "partners.why.benefit3.title": {
-    "message": "メタタグの統合",
+    "message": "サイトとの紐付け",
     "description": "Heading for the third benefit."
   },
   "partners.why.benefit3.description": {
@@ -36,8 +40,20 @@
     "description": "Description for the third benefit."
   },
   "partners.why.benefit4.title": {
-    "message": "消失しない",
+    "message": "記念される。",
     "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "パートナーページのどっかに。",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "有名になる。",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "私達のSNSなどで宣伝します。",
+    "description": "Description for the fifth benefit."
   },
   "partners.requirements.title": {
     "message": "募集要項",
@@ -50,6 +66,10 @@
   "partners.apply.button": {
     "message": "今すぐ申し込む",
     "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "パートナーになりましょう！",
+    "description": "Disclaimer located above the apply button."
   },
   "partners.sponsors.title": {
     "message": "スポンサー",
