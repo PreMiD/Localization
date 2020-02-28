@@ -92,8 +92,8 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
+      <td style="text-align:left">サービスのURLです。<br><b>例:</b><code>vk.com</code><br>
+<b>このURLは、スクリプトを挿入するウェブサイトであるかどうかを検出するために使用されるため、ウェブサイトのURLと一致する必要があります。</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -112,7 +112,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">プレゼンスのバージョンです。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -121,7 +121,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">サービスのロゴの画像のURLです。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -130,7 +130,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">あなたのプレゼンスのサムネイルの画像のURLです。</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -139,7 +139,7 @@ The example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+      <td style="text-align:left"><code>#HEX</code>コードで指定: We recommend to use a primary color of the service
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
