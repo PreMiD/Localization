@@ -7,6 +7,10 @@
     "message": "参加して、パートナーだけの特典を手に入れましょう！",
     "description": "Description for page."
   },
+  "partners.slideshow.description": {
+    "message": "私達のパートナー",
+    "description": "Description for slideshow."
+  },
   "partners.requirements.first.title": {
     "message": "私達が求めているもの",
     "description": "Heading for the first requirement."
