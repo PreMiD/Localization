@@ -4,7 +4,11 @@
     "description": "Heading for page."
   },
   "partners.requirements.first.title": {
-    "message": "募集要項",
+    "message": "私達が求めているもの",
     "description": "Heading for the first requirement."
+  },
+  "partners.apply.button": {
+    "message": "今すぐ申し込む",
+    "description": "Button to apply for partner."
   }
 }
