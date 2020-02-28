@@ -52,11 +52,19 @@
     "description": "'Administrator' title for contributors page."
   },
   "contributors.roles.asstCommunityManager": {
-    "message": "コミュニティマネージャーの秘書",
+    "message": "コミュニティマネージャーのアシスタント",
     "description": "'Assisting Community Manager' title for contributors page."
   },
   "contributors.roles.asstHeadModerator": {
     "message": "主任モデレーターのアシスタント",
     "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "ジュニアモデレーター",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "校正者",
+    "description": "'Proofreader' title for contributors and user pages."
   }
 }

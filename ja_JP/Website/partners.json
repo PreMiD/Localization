@@ -3,8 +3,100 @@
     "message": "パートナー",
     "description": "Heading for page."
   },
-  "partners.requirements.first.title": {
+  "partners.header.description": {
+    "message": "参加して、パートナーだけの特典を手に入れましょう！",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "私達のパートナー",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "私達のパートナーになってみませんか？",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "サイト専用のプレセンス",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "私達のチームが、あなたのサイトのプレセンスを作成します。",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "認証される",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "私達のDiscordサーバーで名誉ある役職をもらえる",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "サイトとの紐付け",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "誰かがあなたのサイトを見ているときに、プレゼンスを自動的に有効にします。",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "記念される。",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "パートナーページのどっかに。",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "有名になる。",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "私達のSNSなどで宣伝します。",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
     "message": "募集要項",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "私達が求めているもの",
     "description": "Heading for the first requirement."
+  },
+  "partners.apply.button": {
+    "message": "今すぐ申し込む",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "パートナーになりましょう！",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "直接PreMiDの仕事に関わりたい場合は、job advertisementをご覧ください。",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "スポンサー",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "半分くらいの人がこれでアニメを見ていると思う。",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kingsは、ブラウザで遊べるPvPゲームです。",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeatは非営利の国際ラジオです。ノンストップのエンターテイメントや、ニュースを提供しています。",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "ゲーマーのためのお小遣いサイト。",
+    "description": "Description for iLoot."
   }
 }
