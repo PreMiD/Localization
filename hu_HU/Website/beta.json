@@ -1,0 +1,22 @@
+{
+  "beta.features.1": {
+    "message": "Új funkciók",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Különleges rang Discord szerverünkön",
+    "description": "Features list"
+  },
+  "beta.register.button": {
+    "message": "Regisztráció!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Szuper! Mostmár beta tesztelő vagy!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Majmaink rajta vannak, hogy minél hamarabb bekerülj a beta programba. Köszönjük a regisztrálást!",
+    "description": "Thank You page description"
+  }
+}

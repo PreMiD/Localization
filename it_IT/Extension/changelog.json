@@ -32,11 +32,11 @@
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Rinnovata la disposizione dello stile dei popup e delle schede",
+    "message": "Rinnovata la disposizione e stile dei popup e delle schede",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Tanti bug (s)conosciuti sono scappati",
+    "message": "Tanti bug (s)conosciuti sono scappati via",
     "description": ""
   },
   "extension.2.0.fix2": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Risolto il vecchio errore dell'applicazione anche se dispone dell'ultima versione",
+    "message": "Risolto il vecchio errore dell'applicazione anche se si dispone dell'ultima versione",
     "description": ""
   }
 }

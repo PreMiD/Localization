@@ -16,7 +16,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "下載PreMiD應用程式.",
+    "message": "安裝PreMiD應用程式.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -44,7 +44,7 @@
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服會協助您.",
+    "message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服能協助您.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   }
 }

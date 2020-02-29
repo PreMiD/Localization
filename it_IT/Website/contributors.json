@@ -10,5 +10,61 @@
   "contributors.headings.translators": {
     "message": "Traduttori",
     "description": "Heading for group of users."
+  },
+  "contributors.roles.creator": {
+    "message": "Creatore",
+    "description": "'Creator' title for contributors and user pages."
+  },
+  "contributors.roles.websiteDeveloper": {
+    "message": "Sviluppatore Sito Web",
+    "description": "'Website Developer' title for contributors and user pages."
+  },
+  "contributors.roles.communityManager": {
+    "message": "Manager della Community",
+    "description": "'Community Manager' title for contributors and user pages."
+  },
+  "contributors.roles.headModerator": {
+    "message": "Moderatore Capo",
+    "description": "'Head Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.moderator": {
+    "message": "Moderatore",
+    "description": "'Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.ticketManager": {
+    "message": "Gestore Ticket",
+    "description": "'Ticket Manager' title for contributors and user pages."
+  },
+  "contributors.roles.donator": {
+    "message": "Donatore",
+    "description": "'Donator' title for contributors page."
+  },
+  "contributors.roles.booster": {
+    "message": "Booster",
+    "description": "'Booster' title for contributors page and user pages."
+  },
+  "contributors.roles.translator": {
+    "message": "Traduttore",
+    "description": "'Translator' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Amministratore",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Asst. Community Manager",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Asst. Capo Moderatore",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "Jr. Moderatore",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Correttore di bozze",
+    "description": "'Proofreader' title for contributors and user pages."
   }
 }

@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "Užívatelia môžu teraz pridávať prítomnosti sami. *Pridaj si niektoré teraz!*",
+    "message": "Užívatelia môžu teraz pridávať prítomnosti sami. *Pridajte si niektoré teraz!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Nájdi *nové prítomností* v ich prirodzenom domove",
+    "message": "Nájdite *nové prítomností* v ich prirodzenom domove",
     "description": ""
   },
   "extension.2.0.new3": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Opraví starú chybu aplikácie aj keď máš najnovšiu",
+    "message": "Opraví starú chybu aplikácie aj keď máte najnovšiu",
     "description": ""
   }
 }

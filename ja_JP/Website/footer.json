@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "{0} 人の中に加わろう!",
+    "message": "{0}人の中に加わろう!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
@@ -32,7 +32,7 @@
     "description": "Rich Presence -> redirects to discordapp.com/rich-presence"
   },
   "footer.supportus.heading": {
-    "message": "私達を支援する",
+    "message": "PreMiDを支援",
     "description": "Support us section"
   },
   "footer.supportus.donate": {
@@ -60,7 +60,7 @@
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
   },
   "footer.help.getsupport": {
-    "message": "助けを得る",
+    "message": "サポート",
     "description": "Get Support -> redirects to Discord invite"
   },
   "footer.help.information": {

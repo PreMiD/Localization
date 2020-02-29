@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Diğerlerine ne yaptığınızı gösterin!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD**, Discord oynuyor yerinizde internet sitelerinde neler yaptığınızı gösterebileceğiniz ayarlanabilir bir araçtır.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "Özellikler",

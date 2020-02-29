@@ -1,0 +1,18 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Statusų kūrėjas",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Statusų Verifikacija",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Svarbus statusų kūrėjas",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "Sukūrė {0} statusų.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  }
+}

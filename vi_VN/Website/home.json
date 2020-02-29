@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Hãy cho mọi người biết bạn đang làm gì!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Tính năng của chúng tôi",
     "description": "Introduction button"

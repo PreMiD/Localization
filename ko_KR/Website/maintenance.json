@@ -11,10 +11,6 @@
     "message": "더 많은 정보를 얻으시려면 다음에 다시 와주세요",
     "description": "Heading on maintenance page"
   },
-  "maintenance.message": {
-    "message": "Until our special developers fix this, feel free to take a look here!",
-    "description": "Message on maintenance page"
-  },
   "maintenance.statuspage": {
     "message": "상태 페이지",
     "description": "Status Page link on maintenance page"

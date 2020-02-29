@@ -1,14 +1,14 @@
 {
   "extension.2.0.new1": {
-    "message": "Users can now add presences by themself. *Add some now!*",
+    "message": "사용자가 직접 Presences를 추가할 수 있습니다. 한번 추가해보세요!",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "Find some *new presences* in their natural habitat",
+    "message": "새로운 presences를 찾아보십시오",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Auto updating is a thing now",
+    "message": "자동 업데이트는 이제 실행중 입니다",
     "description": ""
   },
   "extension.2.0.new4": {
@@ -16,7 +16,7 @@
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "*Docs* for these creative developers out there",
+    "message": "창의적인 개발자를위한 * Docs *",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -28,15 +28,15 @@
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "Our new API is a running beast",
+    "message": "우리의 새로운 API는 현재 진행중 입니다",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "Revamped popup and tabs layout and style",
+    "message": "팝업 및 탭 레이아웃 및 스타일 개선",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "A lot of (un)known bugs ran away",
+    "message": "알려지지 않은 많은 버그가 사라졌습니다",
     "description": ""
   },
   "extension.2.0.fix2": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "Fixes old app error even if you have the latest one",
+    "message": "만약에 최신 버전이 있다면 당신이 설치된 구버전은 에러로 부터 수정됩니다",
     "description": ""
   }
 }

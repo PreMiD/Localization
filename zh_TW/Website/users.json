@@ -1,0 +1,30 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Presence 開發者",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Presence 審核人員",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": " Presence主要開發者",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "已創建 {0} 個 Presence",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.switch.contributed": {
+    "message": "用戶 [presences/contributions]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
+  },
+  "user.presences.created": {
+    "message": "按這裏顯示該用戶所製作的 presences",
+    "description": "Tippy content in user profile."
+  },
+  "user.presences.contributed": {
+    "message": "按這裏顯示該用戶有參與製作的 presences",
+    "description": "Tippy content (mode 2) in user profile."
+  }
+}

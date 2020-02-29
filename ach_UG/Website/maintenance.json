@@ -1,0 +1,26 @@
+{
+  "maintenance.big": {
+    "message": "crwdns3299:0crwdne3299:0",
+    "description": "The big text on maintenance page"
+  },
+  "maintenance.heading": {
+    "message": "crwdns3301:0crwdne3301:0",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.heading2": {
+    "message": "crwdns3303:0crwdne3303:0",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.message": {
+    "message": "crwdns3305:0crwdne3305:0",
+    "description": "Message on maintenance page"
+  },
+  "maintenance.statuspage": {
+    "message": "crwdns3307:0crwdne3307:0",
+    "description": "Status Page link on maintenance page"
+  },
+  "maintenance.discordserver": {
+    "message": "crwdns3309:0crwdne3309:0",
+    "description": "Discord Server link on maintenance page"
+  }
+}

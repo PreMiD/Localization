@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Hamma nima qilayotganingizni ko'radi!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Bizning xususiyatlarimiz",
     "description": "Introduction button"

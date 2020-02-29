@@ -1,18 +1,18 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "!دع الجميع يعرفون ماذا تشاهد حاليا",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** ، عبارة عن اداة بسيطة قابلة لإعادة التطوير تسمح لك بإظهار ما تشاهده وتسمعه على ديسكورد.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
-    "message": "ميزاتنا",
+    "message": "مزايانا",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "التحميلات",
+    "message": "تنزيل",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Playing a game",
+    "message": "يَلعب",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
@@ -24,7 +24,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "استعمل الإضافة التي تلائم**ك**.",
+    "message": "جَميع المواقعْ اللتي **تُحبها**.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {

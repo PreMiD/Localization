@@ -1,0 +1,30 @@
+{
+  "user.roles.presenceDeveloper": {
+    "message": "Presence Ontwikkelaar",
+    "description": "'Presence Developer' title for user pages."
+  },
+  "user.roles.presenceVerifier": {
+    "message": "Presence Verificator",
+    "description": "'Presence Verifier' title for user pages."
+  },
+  "user.importantPresenceDev.message1": {
+    "message": "Belangrijke Presence Ontwikkelaar",
+    "description": "'Important Presence Developer' tippy description for user pages."
+  },
+  "user.importantPresenceDev.message2": {
+    "message": "{0} presences gemaakt.",
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+  },
+  "user.switch.contributed": {
+    "message": "Gebruiker [presences/contributies]",
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
+  },
+  "user.presences.created": {
+    "message": "Klik hier om de presences te tonen die deze gebruiker heeft gemaakt.",
+    "description": "Tippy content in user profile."
+  },
+  "user.presences.contributed": {
+    "message": "Klik hier om de presences te tonen waaraan de gebruiker heeft bijgedragen.",
+    "description": "Tippy content (mode 2) in user profile."
+  }
+}

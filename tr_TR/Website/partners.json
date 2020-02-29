@@ -1,0 +1,26 @@
+{
+  "partners.header.title": {
+    "message": "ORTAKLAR",
+    "description": "Heading for page."
+  },
+  "partners.why.title": {
+    "message": "Cehennem yerine cennete gitmeye ne dersiniz?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Ekibimiz sizin projenize özel bir Servis hazırlayacak.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Onaylı olun",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Ortak sayfamızda güzel bir yere sahip olun.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Ünlü olun",
+    "description": "Heading for the fifth benefit."
+  }
+}

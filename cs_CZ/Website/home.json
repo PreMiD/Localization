@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Dej všem vědět, co právě děláš!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém Discordu právě hrajete.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "Naše funkce",

@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Začni používať PreMiD teraz a ukáž ostatným čo robíš, možno nájdeš niekoho kto má rovnaké záujmy.",
+    "message": "Začnite používať PreMiD teraz a ukážte ostatným čo robíte, možno nájdete niekoho kto má rovnaké záujmy.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -12,19 +12,19 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Stiahni si PreMiD.",
+    "message": "Stiahnite si PreMiD.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Nainštaluj si PreMiD aplikáciu",
+    "message": "Nainštalujte si PreMiD aplikáciu.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Nainštaluj si rozšírenie.",
+    "message": "Nainštalujte si rozšírenie.",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Navštív {0} stránku a skontroluj či je rozšírenie pripojené.",
+    "message": "Navštívte {0} stránku a skontrolujte či je rozšírenie pripojené.",
     "description": "{0} will be replaced by 'store' string translation"
   },
   "downloads.instructions.step_4_store": {

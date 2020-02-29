@@ -1,0 +1,118 @@
+{
+	"popup.navigation.settings": {
+		"message": "Настройки",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Кредити",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Настройки",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Общ",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "описание",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "упълномощавам",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Media Controls",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Лента на менюто на заглавието",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Автоматично стартиране",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Присъствия",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "управлявам",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Не са добавени присъствия",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Свършен",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Заредете присъствие",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Магазин за присъствие",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Нужда от помощ?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "О, не!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Грешка при зареждане на кредити",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Няма връзка",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD не можа да се свърже с приложението си! Инсталиран ли е и работи ли? *Отстраняване на неизправности*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Остаряло приложение",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Приложението ви PreMiD е остаряло. Моля, актуализирайте го, за да продължите да използвате PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.category.all": {
+		"message": "всичко\n",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Аниме",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "музика\n",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Игри",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "вечеринка",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Видеоклипове и потоци",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "друг",
+		"description": "Category name shown when you open tags"
+	}
+}

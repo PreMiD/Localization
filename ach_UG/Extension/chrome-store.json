@@ -1,0 +1,10 @@
+{
+  "extension.description.short": {
+    "message": "crwdns3067:0crwdne3067:0",
+    "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "crwdns3069:0{0}crwdnd3069:0{1}crwdnd3069:0{2}crwdnd3069:0{3}crwdnd3069:0{4}crwdnd3069:0{5}crwdnd3069:0{6}crwdnd3069:0{7}crwdnd3069:0{9}crwdnd3069:0{10}crwdne3069:0",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+  }
+}

@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Näita igaühele, mida sa teed!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Meie võimalused",
     "description": "Introduction button"

@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Let everyone know what you are watching and listening to!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** är ett enkelt, konfigurerbart verktyg som låter dig visa vad du gör på webben i din Discord nu spelar status.",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "Funktioner",

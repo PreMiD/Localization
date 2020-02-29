@@ -1,7 +1,7 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "讓大家知道您在做些什麼吧!",
-    "description": "First phrase that a user reads on our website"
+  "home.introduction.paragraph": {
+    "message": "是一個簡單的可配置實用程序，可讓您以Discord現在播放狀態顯示您在瀏覽器上正在做什麼。",
+    "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
     "message": "我們的功能",
@@ -56,7 +56,7 @@
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "快速的客服.",
+    "message": "快捷客服.",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {

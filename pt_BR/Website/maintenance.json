@@ -4,7 +4,7 @@
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Infelizmente estamos com dificuldades técnicas. Nós voltaremos em breve. Desculpe-nos pela inconveniência.",
+    "message": "Infelizmente estamos com problemas técnicos. Nós voltaremos em breve. Desculpe-nos pela inconveniência.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {

@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "La alle se hva du gjør!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Våre funksjoner",
     "description": "Introduction button"

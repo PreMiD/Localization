@@ -1,8 +1,4 @@
 {
-  "home.introduction.catchphrase": {
-    "message": "Beritahu semua orang apa yang kamu lakukan!",
-    "description": "First phrase that a user reads on our website"
-  },
   "home.introduction.button.features": {
     "message": "Fitur kami",
     "description": "Introduction button"
