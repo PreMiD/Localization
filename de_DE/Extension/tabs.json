@@ -16,7 +16,7 @@
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "Beginne mit der Nutzung von {0}",
+    "message": "Nutze {0} jetzt",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
@@ -24,15 +24,15 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Oh nein!** Wir konnten keine Verbindung zur Anwendung herstellen... Ist sie bereits installiert?",
+    "message": "**Oh nein!** Wir konnten uns nicht mit der App verbinden... Ist sie bereits installiert?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Problemlösung",
+    "message": "Fehlerbehebung",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "Anwendung installieren",
+    "message": "App installieren",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
