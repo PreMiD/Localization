@@ -1,0 +1,62 @@
+{
+    "facebook.call": {
+      "message": "In a call with:",
+      "description": ""
+    },
+    "facebook.vcall": {
+      "message": "In a video call with:",
+      "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "someone... (User hidden)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Composing a message",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Reading about user:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Viewing community of user:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Viewing photos by user:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Viewing posts by user:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Viewing shop of user:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Viewing friends of user:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Viewing video's by user:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Browsing through:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Saved videos",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Recently added",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Viewing todays weather",
+        "description": ""
+    }
+}
