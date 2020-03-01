@@ -46,5 +46,17 @@
     "general.store": {
         "message": "ストア",
         "description": ""
+    },
+    "general.wishlist": {
+        "message": "ほしい物リスト",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "プライバシーポリシー",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "利用規約",
+        "description": "A page name"
     }
 }
