@@ -1,0 +1,18 @@
+{
+    "general.browsing": {
+        "message": "Selaa...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Jakso",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Suora",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Kauppa",
+        "description": ""
+    }
+}
