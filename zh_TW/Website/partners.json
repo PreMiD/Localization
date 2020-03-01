@@ -1,1 +1,14 @@
-{}
+{
+  "partners.header.title": {
+    "message": "合作夥伴",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "加入我們家族，並獲取一些只有合作夥伴才能擁有的好處，以炫耀您貢獻量。",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "以下的人/公司為我們貢獻了很多",
+    "description": "Description for slideshow."
+  }
+}
