@@ -1,1 +1,6 @@
-{}
+{
+    "twitter.viewDms": {
+        "message": "Bekijkt zijn/haar DM's",
+        "description": ""
+    }
+}
