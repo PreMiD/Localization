@@ -1,0 +1,30 @@
+{
+    "premid.pageContributors": {
+        "message": "ผู้พัฒนา",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "ดาวน์โหลด",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "ร้านค้า",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "วิกิ",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "ความต้องการของระบบ",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "การแก้ปัญหา",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "เริ่มต้น\n",
+        "description": "A page name"
+    }
+}
