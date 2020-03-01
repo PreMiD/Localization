@@ -39,6 +39,10 @@
         "message": "ライブ",
         "description": ""
     },
+    "general.manga": {
+        "message": "マンガ",
+        "description": ""
+    },
     "general.reading": {
         "message": "閲覧中",
         "description": ""
