@@ -7,12 +7,76 @@
         "message": "Stöbert...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Kapitel",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
     "general.episode": {
         "message": "Folge",
         "description": ""
     },
+    "general.forums": {
+        "message": "Forum",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Genre",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Hört Musik",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Zuhörer",
+        "description": ""
+    },
     "general.live": {
         "message": "Live",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Merch",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Seite",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Pausiert",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Spielt",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Liest PNs von:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Liest über:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Liest Artikel:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Liest im Kanal:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Liest post:",
         "description": ""
     },
     "general.reading": {
