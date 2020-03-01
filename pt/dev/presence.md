@@ -34,7 +34,7 @@ Antes de começar a trabalhar na sua presença, tenha a seguinte lista em mente.
 - Os campos `smallImageKey` e `smallImageText` destinam-se a fornecer contexto adicional/secundário (como "reproduzindo"/"paused" para sites de vídeo, "navegando" para sites regulares e outros casos). Você não tem permissão para promover perfis do Discord ou qualquer coisa não relacionada ao PreMiD.
 - Os requisitos para os logotipos são 1:1 (SQ) em 512px, no entanto, miniaturas. deve ser [amplo de cartas promocionais](https://i.imgur.com/3QfIc5v.jpg) ou simplesmente [capturas de tela](https://i.imgur.com/OAcBmwW.png) se o primeiro não estiver disponível.
 - As presenças devem ter pelo menos 1 marca, isto é uma exigência de design e pode ser opcional no futuro.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+- O capo `url` não pode incluir `http://` ou `https://`, nem os parâmetros (e.g. a presença para `https://www.google.com/search?gws_rd=ssl` apenas vai ter `www.google.com` no campo `url`).
 - Descrições e tags devem sempre estar em arrays, mesmo quando é apenas um elemento. O campo `url` , no entanto, só deve ser uma string se é um domínio.
 - Sites instáveis que constantemente mudam APIs/domínios, elementos HTML aleatórios ou apenas ainda em desenvolvimento pesado não são permitidos e serão removidos da loja.
 
