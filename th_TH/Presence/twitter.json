@@ -1,0 +1,18 @@
+{
+    "twitter.readTweet": {
+        "message": "กำลังอ่านทวิต:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "บุ๊คมาร์ค",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "การแจ้งเตือน",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "สำรวจ",
+        "description": ""
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "אנימה",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "גולש...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "פרק",
+        "description": ""
+    },
+    "general.live": {
+        "message": "שידור חי",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "קורא",
+        "description": ""
+    },
+    "general.search": {
+        "message": "מחפש",
+        "description": ""
+    },
+    "general.store": {
+        "message": "חנות",
+        "description": ""
+    }
+}

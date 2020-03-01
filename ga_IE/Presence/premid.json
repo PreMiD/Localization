@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Rannpháirtithe",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Íoslódálacha",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Stór",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Vici",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Fabhtcheartú",
+        "description": "A page name"
+    }
+}

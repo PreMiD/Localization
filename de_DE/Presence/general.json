@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Stöbert...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Folge",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Live",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Lesen",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Suche",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Store",
+        "description": ""
+    }
+}

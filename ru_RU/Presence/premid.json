@@ -1,0 +1,42 @@
+{
+    "premid.pageContributors": {
+        "message": "Участники",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Загрузки ",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Магазин",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Вики",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Системные требования",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Установка",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Поиск проблемы",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Начало работы",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Разработка присутствия",
+        "description": "A page name"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Otsib...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Episood",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Otse",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Loeb",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Otsib",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Pood",
+        "description": ""
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Сътрудници",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Downloads",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "магазин",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Отстраняване на неизправности",
+        "description": "A page name"
+    }
+}

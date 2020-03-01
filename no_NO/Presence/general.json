@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Søker...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Episode",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Direkte",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Leser",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Søker",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Butikk",
+        "description": ""
+    }
+}

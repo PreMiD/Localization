@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Аниме",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Сърфирането ...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Епизод",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Live\n",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "четене",
+        "description": ""
+    },
+    "general.search": {
+        "message": "изпитателен",
+        "description": ""
+    },
+    "general.store": {
+        "message": "магазин",
+        "description": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "premid.pageContributors": {
+        "message": "المساهمون",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "تحميل",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "المتجر",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "الويكي",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "استكشاف الأخطاء وإصلاحها\n \n ",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "ابدء",
+        "description": "A page name"
+    }
+}

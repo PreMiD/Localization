@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Naršoma...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Serija",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Tiesiogiai",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Skaitymas",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Ieškoma",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Parduotuvė",
+        "description": ""
+    }
+}

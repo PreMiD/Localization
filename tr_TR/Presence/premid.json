@@ -1,0 +1,42 @@
+{
+    "premid.pageContributors": {
+        "message": "Katkıda Bulunanlar",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "İndir",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Mağaza",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Viki",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Sistem Gereksinimleri",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Yükleme",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Sorun Giderme",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Başlarken",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Servis Geliştirme",
+        "description": "A page name"
+    }
+}

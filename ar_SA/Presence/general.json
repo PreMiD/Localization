@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "أنمي",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "تصفح",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "الحلقة",
+        "description": ""
+    },
+    "general.live": {
+        "message": "مباشر",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "يقرأ",
+        "description": ""
+    },
+    "general.search": {
+        "message": "يبحث",
+        "description": ""
+    },
+    "general.store": {
+        "message": "المتجر",
+        "description": ""
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "premid.pageContributors": {
+        "message": "貢獻者",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "下載",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "商店",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "維基",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "疑難解答",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "開始使用",
+        "description": "A page name"
+    }
+}

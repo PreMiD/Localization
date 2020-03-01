@@ -1,0 +1,26 @@
+{
+    "general.anime": {
+        "message": "動漫",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "瀏覽中...",
+        "description": ""
+    },
+    "general.live": {
+        "message": "直播",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "閱讀中",
+        "description": ""
+    },
+    "general.search": {
+        "message": "搜索中",
+        "description": ""
+    },
+    "general.store": {
+        "message": "商店",
+        "description": ""
+    }
+}

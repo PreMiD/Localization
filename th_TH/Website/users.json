@@ -1,30 +1,30 @@
 {
-  "user.roles.presenceDeveloper": {
-    "message": "นักพัฒนา Presence",
-    "description": "'Presence Developer' title for user pages."
-  },
-  "user.roles.presenceVerifier": {
-    "message": "ยืนยัน Presence ",
-    "description": "'Presence Verifier' title for user pages."
-  },
-  "user.importantPresenceDev.message1": {
-    "message": "นักพัฒนา Presence ที่สำคัญ",
-    "description": "'Important Presence Developer' tippy description for user pages."
-  },
-  "user.importantPresenceDev.message2": {
-    "message": "สร้าง Presences ไปแล้ว {0}",
-    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-  },
-  "user.switch.contributed": {
-    "message": "ผู้ใช้ [พรีเซ้น/ผู้ช่วยเหลือ]",
-    "description": "The tippy message to switch between user's presences and presences that user has contributed to."
-  },
-  "user.presences.created": {
-    "message": "คลิกที่นี่เพื่อแสดงพรีเซ้นที่ผู้ใช้คนนี้ได้สร้างขึ้น",
-    "description": "Tippy content in user profile."
-  },
-  "user.presences.contributed": {
-    "message": "คลิกที่นี่เพื่อแสดงพรีเซ้นที่ผู้ใช้คนนี้ที่มีส่วนช่วยเหลือ",
-    "description": "Tippy content (mode 2) in user profile."
-  }
+	"user.roles.presenceDeveloper": {
+		"message": "นักพัฒนา Presence",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "ยืนยัน Presence ",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "นักพัฒนา Presence ที่สำคัญ",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "สร้าง Presences ไปแล้ว {0}",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "ผู้ใช้ [พรีเซ้น/ผู้ช่วยเหลือ]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "คลิกที่นี่เพื่อแสดงพรีเซ้นที่ผู้ใช้คนนี้ได้สร้างขึ้น",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "คลิกที่นี่เพื่อแสดงพรีเซ้นที่ผู้ใช้คนนี้ที่มีส่วนช่วยเหลือ",
+		"description": "Tippy content (mode 2) in user profile."
+	}
 }

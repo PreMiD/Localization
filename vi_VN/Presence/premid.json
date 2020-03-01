@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Người đóng góp",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Tải về",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Cửa hàng",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Xử lý sự cố",
+        "description": "A page name"
+    }
+}
