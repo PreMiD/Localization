@@ -15,6 +15,14 @@
 		"message": "已創建 {0} 個 Presence",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "活躍的 Presence 開發者",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "創建了超過100個狀態",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "用戶 [presences/contributions]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
