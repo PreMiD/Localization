@@ -1,0 +1,26 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Prehľadáva...",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Naživo",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Číta",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Hľadá",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Obchod",
+        "description": ""
+    }
+}
