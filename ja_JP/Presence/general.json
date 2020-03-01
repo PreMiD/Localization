@@ -31,6 +31,10 @@
         "message": "ジャンル",
         "description": ""
     },
+    "general.listeningMusic": {
+        "message": "音楽を再生中",
+        "description": ""
+    },
     "general.live": {
         "message": "ライブ",
         "description": ""
@@ -45,6 +49,10 @@
     },
     "general.store": {
         "message": "ストア",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "ライブを視聴中",
         "description": ""
     },
     "general.wishlist": {
