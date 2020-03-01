@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Browsen...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Aflevering",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Live",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Lezen",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Zoeken",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Winkel",
+        "description": ""
+    }
+}
