@@ -15,6 +15,10 @@
 		"message": "Bladert door de genres heen",
 		"description": ""
 	},
+	"spotify.latest": {
+		"message": "Bekijkt de laatste releases",
+		"description": ""
+	},
 	"spotify.discover": {
 		"message": "Ontdekt nieuwe nummers",
 		"description": ""
