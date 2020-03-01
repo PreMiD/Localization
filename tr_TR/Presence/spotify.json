@@ -1,1 +1,14 @@
-{}
+{
+    "spotify.featured": {
+        "message": "Öne çıkan şarkılar",
+        "description": ""
+    },
+    "spotify.bestPodcasts": {
+        "message": "En çok dinlenilen podcastler",
+        "description": ""
+    },
+    "spotify.genres": {
+        "message": "Türler arasında dolaşıyor",
+        "description": ""
+    }
+}
