@@ -14,5 +14,21 @@
   "partners.why.title": {
     "message": "為我們貢獻一下 何樂而不為？",
     "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "你專屬的 presence",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "我們的團隊將為您的網站創建一個 Presence",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "成為已驗證的用户吧",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "在我們的Discord服務器中，您將獲得特殊的用户组和榮譽。",
+    "description": "Description for the second benefit."
   }
 }
