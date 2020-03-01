@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Kontributor",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Unduhan",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Toko",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Pemecahan masalah",
+        "description": "A page name"
+    }
+}
