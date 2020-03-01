@@ -94,5 +94,9 @@
   "partners.partner.aniFlix": {
     "message": "那就是你看動漫的方式。",
     "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings是一款新時代，具有快節奏，以及可以在瀏覽器中遊玩的PvP競技場遊戲。",
+    "description": "Description for Arena of Kings."
   }
 }
