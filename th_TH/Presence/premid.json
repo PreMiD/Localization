@@ -31,6 +31,14 @@
         "message": "นโยบายเกี่ยวกับคุกกี้",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "นโยบายความเป็นส่วนตัว",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "เงื่อนไขการใช้บริการ",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "วิกิ",
         "description": "A page name"
