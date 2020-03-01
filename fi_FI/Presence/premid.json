@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Osallistujat",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Lataukset",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Kauppa",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Tieto",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Apua",
+        "description": "A page name"
+    }
+}
