@@ -176,7 +176,7 @@
         "description": ""
     },
     "general.viewAccount": {
-        "message": "Bekijkt zijn account",
+        "message": "Bekijkt zijn/haar account",
         "description": ""
     },
     "general.viewThread": {
@@ -212,7 +212,7 @@
         "description": "A page name"
     },
     "general.terms": {
-        "message": "Gebruiksvoorwaarden",
+        "message": "Algemene voorwaarden",
         "description": "A page name"
     }
 }
