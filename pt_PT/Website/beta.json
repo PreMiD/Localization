@@ -1,1 +1,14 @@
-{}
+{
+  "beta.title": {
+    "message": "Queres novas funcionalidades?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "O **PreMiD Beta** está agora disponível para todos!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "O que irás receber se se registar?",
+    "description": "Section description"
+  }
+}
