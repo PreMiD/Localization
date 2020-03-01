@@ -1,0 +1,26 @@
+{
+    "general.anime": {
+        "message": "애니메이션",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "탐색중...",
+        "description": ""
+    },
+    "general.live": {
+        "message": "활성화",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "불러오는중",
+        "description": ""
+    },
+    "general.search": {
+        "message": "검색중",
+        "description": ""
+    },
+    "general.store": {
+        "message": "상점",
+        "description": ""
+    }
+}
