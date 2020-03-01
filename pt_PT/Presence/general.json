@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "A procurar...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Episódio",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Em direto",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "A ler",
+        "description": ""
+    },
+    "general.search": {
+        "message": "A pesquisar",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Loja",
+        "description": ""
+    }
+}
