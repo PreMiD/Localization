@@ -7,12 +7,80 @@
         "message": "Browsen...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Hoofdstuk",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Bewerkt:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Aflevering",
         "description": ""
     },
+    "general.forums": {
+        "message": "Forums",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Genre",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Luistert naar muziek",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Luisteraars",
+        "description": ""
+    },
     "general.live": {
         "message": "Live",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Merch",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Pagina",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Gepauzeerd",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Wordt afgespeeld",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Leest de DM's van:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Leest over:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Leest artikel:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Leest in kanaal:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Leest bericht:",
         "description": ""
     },
     "general.reading": {
