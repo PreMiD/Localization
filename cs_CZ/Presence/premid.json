@@ -1,0 +1,42 @@
+{
+    "premid.pageContributors": {
+        "message": "Přispěvatelé",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Stáhnout",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Obchod",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Systémové požadavky",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Instalace",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Řešit Problémy",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Začínáme",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Vývoj přítomnosti",
+        "description": "A page name"
+    }
+}
