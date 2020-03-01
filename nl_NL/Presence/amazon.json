@@ -4,11 +4,11 @@
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Bekijkt zijn adprefs",
+        "message": "Bekijkt zijn/haar adprefs",
         "description": ""
     },
     "amazon.balance": {
-        "message": "Bekijkt zijn saldo",
+        "message": "Bekijkt zijn/haar saldo",
         "description": ""
     },
     "amazon.payment": {
@@ -16,11 +16,11 @@
         "description": ""
     },
     "amazon.address": {
-        "message": "Bekijkt zijn adressen",
+        "message": "Bekijkt zijn/haar adressen",
         "description": ""
     },
     "amazon.pets": {
-        "message": "Bekijkt zijn huisdieren",
+        "message": "Bekijkt zijn/haar huisdieren",
         "description": ""
     },
     "amazon.catergoriesAll": {
@@ -32,7 +32,7 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Bekijkt zijn",
+        "message": "Bekijkt zijn/haar",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "amazon.history": {
-        "message": "Bekijkt zijn geschiedenis",
+        "message": "Bekijkt zijn/haar geschiedenis",
         "description": ""
     },
     "amazon.store": {
