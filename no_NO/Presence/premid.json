@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Bidragsytere",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Nedlastinger",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Butikk",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Feilsøking",
+        "description": "A page name"
+    }
+}
