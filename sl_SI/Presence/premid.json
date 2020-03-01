@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Sodelavci",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Prenosi",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Trgovina",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wikipedija",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Odpravljanje napak",
+        "description": "A page name"
+    }
+}
