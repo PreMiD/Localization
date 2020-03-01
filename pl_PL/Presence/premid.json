@@ -1,0 +1,42 @@
+{
+    "premid.pageContributors": {
+        "message": "Współtwórcy",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Pobieranie",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Sklep",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Wymagania systemowe",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Instalacja",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Rozwiązywanie problemów",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Wprowadzenie",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Rozwój statusów",
+        "description": "A page name"
+    }
+}
