@@ -1,0 +1,42 @@
+{
+    "premid.pageContributors": {
+        "message": "Учасники проєкту",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Завантаження",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Магазин",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Вікі",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Системні вимоги",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Інсталяція",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Вирішення проблем",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "З чого почати",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Розробка присутності",
+        "description": "A page name"
+    }
+}
