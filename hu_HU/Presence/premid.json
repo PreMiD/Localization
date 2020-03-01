@@ -1,0 +1,26 @@
+{
+    "premid.pageContributors": {
+        "message": "Közreműködők",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Letöltések",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Áruház",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Rendszerkövetelmények",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Hibaelhárítás",
+        "description": "A page name"
+    }
+}
