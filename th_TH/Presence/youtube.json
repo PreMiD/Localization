@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.ofChannel": {
+        "message": "กับซาแนล:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "กำลังอ่านเกี่ยวกับช่อง:",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "แก้ไขวีดีโอ:",
+        "description": ""
+    }
+}
