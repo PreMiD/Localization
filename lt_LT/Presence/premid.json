@@ -1,0 +1,22 @@
+{
+    "premid.pageContributors": {
+        "message": "Pagalbininkai",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Siuntiniai",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Parduotuvė",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wikipedija",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Nesklandumų sprendimas",
+        "description": "A page name"
+    }
+}
