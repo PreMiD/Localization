@@ -1,0 +1,26 @@
+{
+    "general.anime": {
+        "message": "アニメ",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "閲覧中...",
+        "description": ""
+    },
+    "general.live": {
+        "message": "ライブ",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "閲覧中",
+        "description": ""
+    },
+    "general.search": {
+        "message": "検索中",
+        "description": ""
+    },
+    "general.store": {
+        "message": "ストア",
+        "description": ""
+    }
+}
