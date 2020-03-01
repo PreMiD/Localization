@@ -1,0 +1,42 @@
+{
+    "premid.pageContributors": {
+        "message": "Bijdragers",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Downloads",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Winkel",
+        "description": "A page name"
+    },
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Systeemvereisten",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Installatie",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Probleemoplossen",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Aan de slag",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Presence Ontwikkeling",
+        "description": "A page name"
+    }
+}
