@@ -16,7 +16,7 @@
     "description": "Heading for benefits."
   },
   "partners.why.benefit1.title": {
-    "message": "サイト専用のプレセンス",
+    "message": "あなたのサイト専用のプレセンス",
     "description": "Heading for the first benefit."
   },
   "partners.why.benefit1.description": {
@@ -120,7 +120,7 @@
     "description": "Description for StatusPage."
   },
   "partners.partner.crowdin": {
-    "message": "IT企業のためのローカライズの加速装置。",
+    "message": "企業のための翻訳加速装置。",
     "description": "Description for Crowdin."
   }
 }
