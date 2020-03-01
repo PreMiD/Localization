@@ -1,18 +1,18 @@
 {
-  "user.roles.presenceDeveloper": {
-    "message": "Add-oni tegija",
-    "description": "'Presence Developer' title for user pages."
-  },
-  "user.roles.presenceVerifier": {
-    "message": "Add-oni kinnitaja",
-    "description": "'Presence Verifier' title for user pages."
-  },
-  "user.importantPresenceDev.message1": {
-    "message": "Tähtis add-oni tegija",
-    "description": "'Important Presence Developer' tippy description for user pages."
-  },
-  "user.importantPresenceDev.message2": {
-    "message": "Loodud {0} add-oni.",
-    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-  }
+	"user.roles.presenceDeveloper": {
+		"message": "Add-oni tegija",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Add-oni kinnitaja",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Tähtis add-oni tegija",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Loodud {0} add-oni.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	}
 }
