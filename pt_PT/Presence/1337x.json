@@ -54,5 +54,25 @@
     "1337x.xxxTorrents": {
         "message": "A ver Torrents XXX",
         "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "A enviar algo...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "A ler as regras",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "A escrever para o 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "A ler sobre o 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "A ler torrent:",
+        "description": ""
     }
 }
