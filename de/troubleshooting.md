@@ -1,5 +1,5 @@
 ---
-title: Problemlösung
+title: Fehlerbehebung
 description: Alles, um dein Problem zu lösen
 published: true
 date: 2020-01-19T23:42:09.728Z
