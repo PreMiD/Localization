@@ -120,7 +120,7 @@
     "description": "Description for StatusPage."
   },
   "partners.partner.crowdin": {
-    "message": "IT企業のためのローカライズの加速装置",
+    "message": "IT企業のためのローカライズの加速装置。",
     "description": "Description for Crowdin."
   }
 }
