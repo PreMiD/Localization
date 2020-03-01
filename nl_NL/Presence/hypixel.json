@@ -1,1 +1,14 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Bekijkt medewerkerlijst",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Bekijkt zijn bekeken conversaties",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Bekijkt zijn bekeken forums",
+        "description": "Forum categories they get notifications from"
+    }
+}
