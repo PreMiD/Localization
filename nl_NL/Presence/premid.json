@@ -11,6 +11,14 @@
         "message": "Winkel",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Privacybeleid",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Gebruiksvoorwaarden",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
