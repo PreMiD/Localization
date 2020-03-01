@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Göz atıyor...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Bölüm",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Canlı",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Okuyor",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Arıyor",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Mağaza",
+        "description": ""
+    }
+}
