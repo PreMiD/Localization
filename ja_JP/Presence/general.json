@@ -7,6 +7,30 @@
         "message": "閲覧中...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "チャプター",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "編集中:",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "エピソード",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "フォーラム",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "ジャンル",
+        "description": ""
+    },
     "general.live": {
         "message": "ライブ",
         "description": ""
