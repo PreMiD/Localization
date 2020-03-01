@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Navigare...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Episodul",
+        "description": ""
+    },
+    "general.live": {
+        "message": "În direct",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Citește",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Căutare",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Magazin",
+        "description": ""
+    }
+}
