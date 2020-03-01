@@ -1,0 +1,26 @@
+{
+    "general.anime": {
+        "message": "อนิเมะ",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "กำลังหา...",
+        "description": ""
+    },
+    "general.live": {
+        "message": "ไลฟ์",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "กำลังอ่าน...",
+        "description": ""
+    },
+    "general.search": {
+        "message": "กำลังค้นหา...",
+        "description": ""
+    },
+    "general.store": {
+        "message": "ร้านค้า",
+        "description": ""
+    }
+}
