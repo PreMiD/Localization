@@ -10,5 +10,9 @@
   "partners.slideshow.description": {
     "message": "以下的人/公司為我們貢獻了很多",
     "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "為我們貢獻一下 何樂而不為？",
+    "description": "Heading for benefits."
   }
 }
