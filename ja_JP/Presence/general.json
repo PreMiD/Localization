@@ -51,8 +51,16 @@
         "message": "ストア",
         "description": ""
     },
+    "general.watchingVid": {
+        "message": "動画を視聴中",
+        "description": ""
+    },
     "general.watchingLive": {
         "message": "ライブを視聴中",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "視聴中:",
         "description": ""
     },
     "general.wishlist": {
