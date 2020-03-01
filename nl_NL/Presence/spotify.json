@@ -46,5 +46,13 @@
     "spotify.madeForYou": {
         "message": "\"Gemaakt voor jou\"",
         "description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+    },
+    "spotify.playlists": {
+        "message": "zijn/haar afspeellijsten",
+        "description": "\"Browsing through\" + this"
+    },
+    "spotify.download": {
+        "message": "Spotify aan het downloaden",
+        "description": ""
     }
 }
