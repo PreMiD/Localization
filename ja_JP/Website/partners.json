@@ -28,7 +28,7 @@
     "description": "Heading for the second benefit."
   },
   "partners.why.benefit2.description": {
-    "message": "私達のDiscordサーバーで名誉ある役職をもらえる",
+    "message": "PreMiD公式Discordサーバーで、名誉あるロールをもらえる。",
     "description": "Description for the second benefit."
   },
   "partners.why.benefit3.title": {
@@ -67,6 +67,14 @@
     "message": "私たちは成長するコミュニティーとインターネットの刺激的なものに目を光らせます。 既にあなたもPreMiDを使って、さらなるインターネットマニアに拡散すべきです。パートナーへの受け入れは質的であり、1つの候補から次へと変化します。",
     "description": "Description for the first requirement."
   },
+  "partners.requirements.second.title": {
+    "message": "私たちのファイヤウォール",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者である場合は、最低500人のフォロワーと、3人以上の同時視聴者が必要で、配信を最低週に1回は行っている必要があります。",
+    "description": "Description for the second requirement."
+  },
   "partners.apply.button": {
     "message": "申し込む",
     "description": "Button to apply for partner."
@@ -102,5 +110,17 @@
   "partners.partner.iLoot": {
     "message": "ゲーマーのためのお小遣いサイト。",
     "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "簡単にリアルタイムのステータスをユーザーに伝える。",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "IT企業のためのローカライズの加速装置",
+    "description": "Description for Crowdin."
   }
 }
