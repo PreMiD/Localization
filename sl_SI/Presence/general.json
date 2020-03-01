@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Brskanje...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Epizoda",
+        "description": ""
+    },
+    "general.live": {
+        "message": "V živo",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Branje",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Iskanje",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Trgovina",
+        "description": ""
+    }
+}
