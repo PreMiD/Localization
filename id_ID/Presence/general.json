@@ -1,0 +1,30 @@
+{
+    "general.anime": {
+        "message": "Anime",
+        "description": ""
+    },
+    "general.browsing": {
+        "message": "Menelusuri...",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Episode",
+        "description": ""
+    },
+    "general.live": {
+        "message": "Live",
+        "description": ""
+    },
+    "general.reading": {
+        "message": "Membaca",
+        "description": ""
+    },
+    "general.search": {
+        "message": "Mencari",
+        "description": ""
+    },
+    "general.store": {
+        "message": "Toko",
+        "description": ""
+    }
+}
