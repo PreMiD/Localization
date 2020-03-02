@@ -18,5 +18,17 @@
   "beta.features.2": {
     "message": "Prieiga prie super slaptų „PreMiD“ teksto kanalų",
     "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Ypatinga rolė mūsų „Discord“ serveryje",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Pasiruošę tam? Prisijunkite prie {0} kitų beta versijos bandytojų!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Užsiregistruokite dabar!",
+    "description": "Sign up button text"
   }
 }
