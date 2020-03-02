@@ -11,6 +11,10 @@
 		"message": "Kūrėjas",
 		"description": "Creator of a presence"
 	},
+	"store.cards.popular": {
+		"message": "Šis statusas yra labai populiarus tarp vartotojų.",
+		"description": "Presence card popular flame"
+	},
 	"store.cards.verified": {
 		"message": "Šį statusą patvirtino patvirtintas kūrėjas",
 		"description": "Verified badge hover message"
