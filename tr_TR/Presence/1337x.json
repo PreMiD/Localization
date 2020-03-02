@@ -1,4 +1,16 @@
 {
+    "1337x.movieLibrary": {
+        "message": "Film kütüphanesine bakıyor",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Dizi kütüphanesine bakıyor",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Son bölümlere bakıyor",
+        "description": ""
+    },
     "1337x.top": {
         "message": "En iyi 100'ü görüntülüyor",
         "description": ""
