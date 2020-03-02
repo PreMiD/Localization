@@ -4,11 +4,11 @@
     "description": "Heading for page."
   },
   "partners.header.description": {
-    "message": "参加して、パートナーだけの特典を手に入れましょう！",
+    "message": "ファミリーの一員になって、パートナーだけの特典を手に入れましょう！",
     "description": "Description for page."
   },
   "partners.slideshow.description": {
-    "message": "私達のパートナー",
+    "message": "PreMiDのパートナーはこんな人たち",
     "description": "Description for slideshow."
   },
   "partners.why.title": {
@@ -24,7 +24,7 @@
     "description": "Description for the first benefit."
   },
   "partners.why.benefit2.title": {
-    "message": "公認サポーターになる。",
+    "message": "パートナー専用のロールを手に入れる",
     "description": "Heading for the second benefit."
   },
   "partners.why.benefit2.description": {
@@ -72,11 +72,11 @@
     "description": "Heading for the second requirement."
   },
   "partners.requirements.second.description": {
-    "message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者なら、最低500人のフォロワーと、3人以上の同時視聴者が必要で、配信を最低でも週に1回は行っている必要があります。",
+    "message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者の場合は、最低500人のフォロワーと、3人以上の同時視聴者が必要で、配信を最低でも週に1回は行っている必要があります。",
     "description": "Description for the second requirement."
   },
   "partners.apply.button": {
-    "message": "申し込む",
+    "message": "今すぐ応募する",
     "description": "Button to apply for partner."
   },
   "partners.apply.disclaimer": {
