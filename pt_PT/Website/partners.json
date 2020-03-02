@@ -42,5 +42,45 @@
   "partners.why.benefit4.title": {
     "message": "Seja imortalizado",
     "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Seja famoso",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Destacado nas nossas redes sociais.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "REQUISITOS",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "O que estamos a procurar?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "O nosso firewall",
+    "description": "Heading for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "Inscreva-se já!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Vamos para o céu juntos!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "Se estiver um pouco interessado num emprego direto no PreMiD, então veja a nossa publicidade de trabalho.",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "PATROCINADORES",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "O PreMiD não seria possível, sem estas pessoas incríveis.",
+    "description": "Description for sponsors."
   }
 }
