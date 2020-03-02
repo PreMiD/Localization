@@ -11,12 +11,12 @@ tags:
 > {.is-warning}
 
 # O PreMiD
-- :mag: [Co to jest PreMiD?](/about) Za PreMiD dlaczego powinieneś go używać.
+- :mag: [Co to jest PreMiD?](/about) Załóżenia dlaczego powinieneś go używać.
 - :link: [Co to jest RPC?](https://discordapp.com/rich-presence) Wszystko o Rich Presence i jego funkcji.
 
 # Wprowadzenie
 
-PreMiD jest szybki i łatwy w instalacji. Powinieneś być gotowy i działać bez czasu.
+PreMiD jest szybki i łatwy w instalacji. Powinieneś być gotowy i działać bezzwłocznie.
 
 - Upewnij się, że przeczytałeś [wymagania systemowe](/install/requirements).
 - Postępuj zgodnie z szybkim i prostym [przewodnikiem instalacji](/install).
