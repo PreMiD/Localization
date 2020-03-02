@@ -42,5 +42,25 @@
   "partners.why.benefit4.title": {
     "message": "Tapkite įamžinti",
     "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Vieta mūsų partnerių puslapyje.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Būti įžimiu",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Paminėjimas mūsų socialiniuose tinkluose.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "REIKALAVIMAI",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Ko mes ieškome?",
+    "description": "Heading for the first requirement."
   }
 }
