@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Trendleri görüntülüyor",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Bir şey yüklüyor...",
+        "description": ""
+    }
+}
