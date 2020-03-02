@@ -1,1 +1,6 @@
-{}
+{
+  "downloads.instructions.step_4_store": {
+    "message": "stór",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  }
+}
