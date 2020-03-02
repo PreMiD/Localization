@@ -1,1 +1,34 @@
-{}
+{
+    "9gag.gag": {
+        "message": "Gag'e bakıyor:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Neyin sıcak olduğuna bakıyor",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Trendleri görüntülüyor",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Neyin yeni olduğuna bakıyor",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Etikete bakıyor:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "9GAG'in hakkındasını okuyor",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Mağaza sayfasına bakıyor",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Koleksiyona bakıyor:",
+        "description": ""
+    }
+}

@@ -1,1 +1,62 @@
-{}
+{
+    "facebook.call": {
+        "message": "Numa chamada com:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Numa chamada de video com:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "alguém... (Utilizador escondido)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "A escrever uma mensagem",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "A ler sobre um utilizador:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "A ver a comunidade de um utilizador:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "A ver fotos de um utilizador:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "A ver publicações de um utilizador:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "A ver loja de um utilizador:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "A ver amigos de um utilizador:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "A ver videos de um utilizador:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "A pesquisar por:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Vídeos gravados",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Recentemente adicionados",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "A ver o clima de hoje",
+        "description": ""
+    }
+}

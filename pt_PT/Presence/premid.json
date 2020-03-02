@@ -11,6 +11,14 @@
         "message": "Loja",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Política de Privacidade",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Termos de Serviço",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"

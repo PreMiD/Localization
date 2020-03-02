@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "ページを閲覧中:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "ドキュメント",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "プレゼンスを閲覧中:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "トップページ",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "貢献者",
         "description": "A page name"
@@ -11,8 +27,24 @@
         "message": "ストア",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Cookie のポリシー",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "プライバシーポリシー",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "利用規約",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "概要",
         "description": "A page name"
     },
     "premid.pageSysReq": {

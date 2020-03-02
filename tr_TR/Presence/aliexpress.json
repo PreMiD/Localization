@@ -1,1 +1,10 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Mağazaya bakıyor:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Mesaj Merkezi",
+        "description": "Meaning Direct messages"
+    }
+}

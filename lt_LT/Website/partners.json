@@ -1,1 +1,70 @@
-{}
+{
+  "partners.header.title": {
+    "message": "PARTNERIAI",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Prisijunkite prie partnerių ir gaukite keletą išskirtinių pranašumų, kuriais galėsite parodyti savo \"swag\".",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Šitie jau priklauso mums",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "O jeigu eiti į dangų, o ne į pragarą?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Jūsų laisvas statusas",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Mūsų komanda pateiks jums statusą jūsų interneto paslaugai.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Tapk patvirtintas",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Ypatinga rolė ir didelė garbė jums bus suteikta mūsų „Discord“ serveryje.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Meta-tag integracija",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Automatiškai įjungia jūsų statusą, kai kas nors lankosi jūsų svetainėje.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Tapkite įamžinti",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Vieta mūsų partnerių puslapyje.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Būti įžimiu",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Paminėjimas mūsų socialiniuose tinkluose.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "REIKALAVIMAI",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Ko mes ieškome?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis.\n",
+    "description": "Description for the first requirement."
+  }
+}
