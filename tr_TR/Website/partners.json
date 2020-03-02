@@ -44,7 +44,7 @@
     "description": "Heading for the fourth benefit."
   },
   "partners.why.benefit4.description": {
-    "message": "Ortak sayfamızda güzel bir yere sahip olun.",
+    "message": "Partner sayfamızda güzel bir yere sahip olun.",
     "description": "Description for the fourth benefit."
   },
   "partners.why.benefit5.title": {
@@ -63,6 +63,10 @@
     "message": "Neler arıyoruz?",
     "description": "Heading for the first requirement."
   },
+  "partners.requirements.first.description": {
+    "message": "İnternet üzerinde potansiyel gösteren topluluklar ve heyecan verici şeyleri takip ediyoruz. Kısacası, partner programı için sizin de PreMiD'i kullanmanız ve internet üzerinde yayılmamıza yardım etmeniz gerekiyor. Program, nitelikli incelemeler ve bir çok madde onayından geçtiği için az sayıda katılımcıların bu programa katılacağını düşünüyoruz.",
+    "description": "Description for the first requirement."
+  },
   "partners.requirements.second.title": {
     "message": "Güvenlik duvarımız",
     "description": "Heading for the second requirement."
@@ -72,7 +76,7 @@
     "description": "Description for the second requirement."
   },
   "partners.apply.button": {
-    "message": "Şimdi başvur!",
+    "message": "Hemen başvurun!",
     "description": "Button to apply for partner."
   },
   "partners.apply.disclaimer": {
@@ -94,5 +98,29 @@
   "partners.partner.aniFlix": {
     "message": "Anime izlemenin yolu.",
     "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings tarayıcınızdan oynayabileceğiniz, ileri seviye, hızlı PvP Arena Kapışması oyunudur.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat, aralıksız, kaliteli radyo hizmeti sunani kâr amacı gütmeyen bir internet radyosudur.",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "Oyuncu kazanç platformu.",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Servisinizin anlık durumunu kullanıcılara sunabileceğiniz platform.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
+    "description": "Description for Crowdin."
   }
 }
