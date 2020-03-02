@@ -62,5 +62,9 @@
   "partners.requirements.first.title": {
     "message": "Ko mes ieškome?",
     "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis.\n",
+    "description": "Description for the first requirement."
   }
 }
