@@ -6,5 +6,17 @@
   "beta.description.1": {
     "message": "**PreMiD Beta** dabar prieinamas visiems!",
     "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Ką gausite, jeigu užsiregistruosite?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Naujausios funkcijos",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Prieiga prie super slaptų „PreMiD“ teksto kanalų",
+    "description": "Features list"
   }
 }
