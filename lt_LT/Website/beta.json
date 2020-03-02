@@ -1,1 +1,10 @@
-{}
+{
+  "beta.title": {
+    "message": "Norite naujų funkcijų?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** dabar prieinamas visiems!",
+    "description": "Section description"
+  }
+}
