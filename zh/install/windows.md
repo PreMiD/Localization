@@ -11,7 +11,7 @@ tags:
 安装应用程序非常重要，因为扩展本身无法做任何事情。
 
 # 安装
-1. 通过 [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
+1. [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
 2. 选择 **Windows**。
 3. 打开安装程序。
 4. **如果您第一次安装PreMiD，Windows SmartScreen** 将会出现。 点击 **更多信息** 然后选择 **继续运行**。 > 这是因为我们没有代码签名证书 (CSC)。 [支持我们](https://www.patreon.com/Timeraa) 来为它添加资金。{.is-info}

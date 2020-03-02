@@ -41,7 +41,7 @@ PreMiD以外の拡張機能をオフにして、動くか見てみましょう�
 たまにファイルが壊れていたりする場合があります… [ここで](/install)再インストールの方法が確認できます。
 
 ### 手動で削除する
-Windowsの場合は ` C:\Users\ユーザー名\Program Files (x86)\`` `に行き、</code>`PreMiD`を削除してください。`
+Windowsの場合は ` C:\Users\ユーザー名\Program Files (x86)\`` `に行き、`PreMiD</0>を削除してください。
 MacOSの場合は<code>~/users/USER/~Library/Application Support/`に行き、` PreMiD`` `を削除してください。
 
 ### Ubuntu/Debian基準の環境では
