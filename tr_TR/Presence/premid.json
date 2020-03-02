@@ -11,6 +11,14 @@
         "message": "Mağaza",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Gizlilik Politikası",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Kullanım Koşulları",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Viki",
         "description": "A page name"
