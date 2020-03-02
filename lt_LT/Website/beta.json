@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "Užsiregistruokite dabar!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Šaunu! Dabar esate beta vartotojas!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Mūsų beždžionės stengiasi kuo greičiau įtraukti jus į mūsų beta versiją. Ačiū, kad užsiregistravote!",
+    "description": "Thank You page description"
   }
 }
