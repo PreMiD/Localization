@@ -1,1 +1,6 @@
-{}
+{
+    "amazon.store": {
+        "message": "Mağazaya bakıyor:",
+        "description": ""
+    }
+}
