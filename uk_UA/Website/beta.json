@@ -1,1 +1,42 @@
-{}
+{
+  "beta.title": {
+    "message": "Хочете нових можливостей?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "Бета-версія **PreMiD** тепер доступна для всіх!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Що ви отримаєте, якщо зареєструєтесь?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Останні можливості",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Доступ до надсекретних текстових каналів PreMiD",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Спеціальна роль на сервері Discord",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Готові до цього? Приєднуйтесь до {0} інших тестувальників бета-версії!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Зареєструйтеся зараз!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Круто! Тепер ви бета-користувач!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Наші мавпи працюють над тим, щоб додати вас до нашої бета-програми якомога швидше. Дякуємо за реєстрацію!",
+    "description": "Thank You page description"
+  }
+}
