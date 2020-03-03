@@ -15,6 +15,10 @@
 		"message": "Deze presence is erg populair rond gebruikers.",
 		"description": "Presence card popular flame"
 	},
+	"store.cards.extraStepsRequired": {
+		"message": "Deze presence vereist extra stappen om te kunnen werken. Controleer de pagina voor meer informatie.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
 	"store.cards.verified": {
 		"message": "Deze presence is goedgekeurd door een geverifiëerde ontwikkelaar",
 		"description": "Verified badge hover message"
