@@ -4,7 +4,7 @@
     "description": "Heading for page."
   },
   "partners.header.description": {
-    "message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar quanto swag tem.",
+    "message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar o quanto de swag você tem.",
     "description": "Description for page."
   },
   "partners.slideshow.description": {
@@ -80,7 +80,11 @@
     "description": "Heading for sponsors."
   },
   "partners.sponsors.description": {
-    "message": "O PreMiD não seria possível, sem estas pessoas incríveis.",
+    "message": "O PreMiD não seria possível, sem essas pessoas incríveis.",
     "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "É assim que você assiste a anime.",
+    "description": "Description for AniFlix."
   }
 }

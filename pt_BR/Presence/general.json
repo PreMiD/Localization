@@ -112,11 +112,11 @@
         "description": ""
     },
     "general.typeDM": {
-        "message": "A escrever em mensagens diretas para:",
+        "message": "Escrevendo em DMs para:",
         "description": ""
     },
     "general.typeChannel": {
-        "message": "A escrever no canal:",
+        "message": "Escrevendo no canal:",
         "description": ""
     },
     "general.viewAnime": {
@@ -168,15 +168,15 @@
         "description": ""
     },
     "general.viewProfile": {
-        "message": "A ver perfil de:",
+        "message": "Visualizando perfil de:",
         "description": ""
     },
     "general.viewShow": {
-        "message": "A ver série:",
+        "message": "Visualizando série:",
         "description": ""
     },
     "general.viewAccount": {
-        "message": "A ver a sua conta",
+        "message": "Visualizando conta",
         "description": ""
     },
     "general.viewThread": {
@@ -192,11 +192,11 @@
         "description": ""
     },
     "general.watchingVid": {
-        "message": "A assistir a um filme",
+        "message": "Assistindo um vídeo",
         "description": ""
     },
     "general.watchingLive": {
-        "message": "A assistir a uma tramissão em direto",
+        "message": "Assistindo uma livestream",
         "description": ""
     },
     "general.watching": {
