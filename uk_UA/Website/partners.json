@@ -3,6 +3,18 @@
     "message": "ПАРТНЕРИ",
     "description": "Heading for page."
   },
+  "partners.header.description": {
+    "message": "Приєднайтесь до FAM і отримуй переваги від партнера тільки для того, щоб показати скільки у вас халатів.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Вони вже належать нам",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "Як щодо того, щоб потрапити на рай замість пекла?",
+    "description": "Heading for benefits."
+  },
   "partners.why.benefit1.title": {
     "message": "Ваша безкоштовна присутність",
     "description": "Heading for the first benefit."
@@ -78,6 +90,22 @@
   "partners.sponsors.title": {
     "message": "СПОНСОРИ",
     "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD не став би можливим без цих дивовижних людей.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "Ось так ви дивитеся аніме.",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Арена Королів — це PvP Арена в браузері наступного покоління, яка швидко набирає обертів.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat — це некомерційне міжнародне радіо, яке прагне забезпечити безупинне, якісне радіо та новини.",
+    "description": "Description for UpBeatRadio."
   },
   "partners.partner.iLoot": {
     "message": "Ігрова платформа для заробітку.",

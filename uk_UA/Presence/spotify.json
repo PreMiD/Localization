@@ -1,1 +1,58 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Рекомендовані пісні",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Найкращі подкасти",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Переглядає графіки",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Переглядає крізь жанри",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Переглядає останніх релізів",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Знаходить нові пісні",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Переглядає крізь",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "подкасти, які подобаються",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "майстри, які подобаються",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "альбоми, які подобаються",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "пісні, які подобаються",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Зроблено для тебе\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "свої плейлісти",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Завантажує Spotify",
+		"description": ""
+	}
+}
