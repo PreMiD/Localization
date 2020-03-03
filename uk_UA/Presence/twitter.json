@@ -1,1 +1,6 @@
-{}
+{
+    "twitter.viewDms": {
+        "message": "Переглядає приватні повідомлення",
+        "description": ""
+    }
+}
