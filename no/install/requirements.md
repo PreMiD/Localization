@@ -14,7 +14,7 @@ tags:
 
 PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
-### CPU
+### Prosessor
 PreMiD runs perfectly fine on a single CPU core.
 
 ### RAM
@@ -23,7 +23,7 @@ Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and ma
 ### Storage
 PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
-### Internet Access
+### Internett-tilgang
 A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

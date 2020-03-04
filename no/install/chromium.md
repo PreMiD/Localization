@@ -11,8 +11,8 @@ The installation of the extension is very important as the application can not d
 # Installer
 ### Chrome, Edge, etc.
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+2. Velg **Chromium**.
+3. Klikk på **Legg til i Chrome**.
 
 ### Opera
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.

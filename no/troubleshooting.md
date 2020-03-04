@@ -1,6 +1,6 @@
 ---
 title: Feilsøking
-description: Everything to solve your problem
+description: Alt for å løse ditt problem
 published: true
 date: 2020-01-19T23:42:09.728Z
 tags:
@@ -10,16 +10,16 @@ tags:
 > 
 > {.is-warning}
 
-### Reload the page
+### Last inn siden på nytt
 You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Restart your browser
+### Restart nettleseren din
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
+### Restart PreMiD (Applikasjonen)
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
 ### Reload/restart Discord
@@ -34,11 +34,11 @@ Sometimes antivirus programs and firewalls are blocking applications which are c
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Restart datamaskinen din
+Jeg håper du vet hvordan man restarter en datamaskin.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Reinstaller PreMiD
+Noen ganger så er det noe galt med filene... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
 Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
