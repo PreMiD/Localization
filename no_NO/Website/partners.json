@@ -10,5 +10,9 @@
   "partners.requirements.title": {
     "message": "KRAV",
     "description": "Heading for the requirements."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
+    "description": "Description for sponsors."
   }
 }
