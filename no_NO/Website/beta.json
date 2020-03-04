@@ -7,6 +7,10 @@
     "message": "**PreMiD Beta** er nå tilgjengelig for alle!",
     "description": "Section description"
   },
+  "beta.description.2": {
+    "message": "Hva får du hvis du registrerer deg?",
+    "description": "Section description"
+  },
   "beta.features.3": {
     "message": "En spesiell rolle på vår Discord-server",
     "description": "Features list"
