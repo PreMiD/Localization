@@ -69,8 +69,8 @@ tags:
 Ви можете вибрати, якщо хочете запрограмувати свій присутність з [JavaScript](https://www.javascript.com/) або  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) має додаткові визначення розумного типу, тому виправляти і виявляти помилки значно простіше. Якщо ви просто хочете використовувати [JavaScript](https://www.javascript.com/) , то можете пропустити на [Структуру (JavaScript)](/dev/presence#structure-javascript).
 
 ## Інсталяція
-1. Install [Git](https://git-scm.com/).
-2. Встановити [вузол](https://nodejs.org/en/) (приходить з [npm](https://www.npmjs.com/)).
+1. Установіть[Git](https://git-scm.com/).
+2. Установіть[Node](https://nodejs.org/en/) (приходить з [npm](https://www.npmjs.com/)).
 3. Встановити [TypeScript](https://www.typescriptlang.org/index.html#download-links) (відкрити термінал і `npm встановити -g typescript`).
 
 ## Клонування проекту
@@ -203,7 +203,7 @@ presence.on("iFrameData", data => {
 
 # Структура (JavaScript)
 ## Клонування проекту
-1. Install [Git](https://git-scm.com/).
+1. Установіть[Git](https://git-scm.com/).
 2. Відкрийте термінал і введіть `git clone https://github.com/PreMiD/Presences`.
 3. Виберіть теку вибору.
 4. Відкрийте його у вашому редакторі коду.
