@@ -1,21 +1,21 @@
 ---
 title: Chromium
-description: Початок роботи із встановленням PreMiD на браузерах Chromeium
+description: Початок роботи із встановленням PreMiD на браузерах Chromium
 published: true
 date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
-Встановлення розширення дуже важливе, оскільки програма не може робити нічого самостійно.
+Установлення розширення дуже важливе, оскільки програма не може робити нічого самостійно.
 
-# Установити
-### Chrome, Edge, і т. д.
+# Установлення
+### Chrome, Edge, тощо
 1. Перейдіть на нашу сторінку завантажень [натиснувши тут](https://premid.app/downloads).
-2. Оберіть **Chromium**.
+2. Виберіть **Chromium**.
 3. Натисніть **Додати в Chrome**.
 
-### Опера
-1. Додайте **[Встановити розширення Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+### Opera
+1. Додайте **[Установити розширення Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
 2. Додайте [наше розширення](https://premid.app/downloads).
 
 > Не забудьте [додати **програму**](/install). 
