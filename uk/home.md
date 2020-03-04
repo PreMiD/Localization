@@ -11,28 +11,28 @@ tags:
 > {.is-warning}
 
 # Про PreMiD
-- :mag: [Що таке PreMiD?](/about) спонукання через PreMiD до того, чому ви повинні його використовувати.
-- :link: [Що таке RPC?](https://discordapp.com/rich-presence) Все про Rich Presence і його функції.
+- :mag: [Що таке PreMiD?](/about) Причини чому ви повинні використовувати PreMiD.
+- :link: [Що таке RPC?](https://discordapp.com/rich-presence) Все про Розширену присутність і його функції.
 
 # З чого почати
 
-PreMiD є швидким і простим для встановлення. Ти повинен бігти без часу.
+PreMiD є швидким і простим для встановлення. Ви повинні бігти без часу.
 
 - Переконайтеся, що ви прочитали [вимоги системи](/install/requirements).
 - Слідуйте за швидкою і простою [інструкцією по встановленню](/install).
 - [Усунення неполадок](/troubleshooting) веде вас через вирішення загальних проблем.
 
-# Розробники
+# Розробникам
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Початок розробки для PreMiD](/dev) — це ваш перший крок перед програмуванням деяких речей.
 
 - :computer: [API](/dev/api): Доступ до джерел та виконання дій за допомогою PreMiD API.
-- :wrench: [Розробка оголошень](/dev/presence): Дізнайтеся, як використовувати нашу систему присутності.
+- :wrench: [Розробка оголошень](/dev/presence): Дізнайтеся, як використовувати нашу систему присутностей.
 
 # Зробіть внесок
 - :bug: [Повідомити про помилку](https://github.com/PreMiD): Допоможіть нам розчавити бік.
-- :bulb: [Запропонувати нову функцію](https://discord.gg/premid): нам потрібні ваші ідеї!
-- :heart: [Пожертвуйте](https://www.patreon.com/Timeraa): зробіть невелику пожертву або станьте спонсором цього чудового проекту!
+- :bulb: [Запропонууйте нову функцію](https://discord.gg/premid). Нам потрібні ваші ідеї!
+- :heart: [Пожертвуйте](https://www.patreon.com/Timeraa). Зробіть невелику пожертву або станьте спонсором цього чудового проекту!
 - :globe_with_meridians: [Локалі](https://translate.premid.app): дозвольте іншим користувачам використовувати PreMiD на своїй рідній мові.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
