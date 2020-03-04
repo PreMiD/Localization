@@ -118,5 +118,9 @@
   "partners.partner.statusPage": {
     "message": "輕鬆將實時狀態傳達給用戶。",
     "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "針對科技公司實現敏捷本地化。",
+    "description": "Description for Crowdin."
   }
 }
