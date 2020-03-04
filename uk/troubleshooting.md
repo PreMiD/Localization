@@ -48,4 +48,4 @@ MacOS:`~/users/USER/~Library/Application Support/`та видалити папк
 Якщо ви завантажили Discord через Snapcraft, Розширена присутність не спрацює. Вам потрібно видалити версію Snapcraft, виконавши `sudo snap remove discord` в терміналі, завантажте версію [Linux Discord](https://discordapp.com/api/download?platform=linux) ([або Канару Discord](https://discordapp.com/api/canary/download?platform=linux)), потім перейдіть в каталог, в який ви завантажили Discord (зазвичай `$HOME/Downloads`), потім установіть пакету за допомогою `sudo dpkg -i discord-*. eb`.
 
 ### Усе це не вирішило моєї проблеми
-Будь ласка, відкрийте квиток за [#support](https://discord.gg/PreMiD).
+Будь ласка, відкрийте тікет у [#support](https://discord.gg/PreMiD).
