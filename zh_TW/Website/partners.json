@@ -71,6 +71,10 @@
     "message": "我們的防火牆",
     "description": "Heading for the second requirement."
   },
+  "partners.requirements.second.description": {
+    "message": "我們目前正在為合作計劃作準備。任何人都有潛質。 Twitch應至少有500個關注者和至少3個觀眾。 您必須每周至少直播1次。",
+    "description": "Description for the second requirement."
+  },
   "partners.apply.button": {
     "message": "立即申請吧！",
     "description": "Button to apply for partner."
@@ -98,5 +102,21 @@
   "partners.partner.arenaOfKings": {
     "message": "Arena of Kings是一款新時代，具有快節奏，以及可以在瀏覽器中遊玩的PvP競技場遊戲。",
     "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat是一家非營利性國際廣播公司，致力於提供不間斷地優質的廣播和新聞娛樂。",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "玩家可以再這個平台賺錢",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "一個功能強大且易於使用的跨平台安裝程序創建工具。",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "輕鬆將實時狀態傳達給用戶。",
+    "description": "Description for StatusPage."
   }
 }
