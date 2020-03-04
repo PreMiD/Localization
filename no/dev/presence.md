@@ -12,12 +12,12 @@ tags:
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-# Guidelines
+# Retningslinjer
 > If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
 > 
 > {.is-danger}
 
-## Creation
+## Opprettelse
 
 Before you begin working on your presence, keep the following list in mind.
 - The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
@@ -38,15 +38,15 @@ Before you begin working on your presence, keep the following list in mind.
 - Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
 - Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
 
-## Modification
+## Modifikasjon
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
+- Du er ikke tillatt til å endre lageren av presencen. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
 - Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 - Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
 
-# Verification
+# Verifikasjon
 > When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-danger}
@@ -68,7 +68,7 @@ After all of the proper reviews have been met, your pull request will be merged 
 # Structure (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
+## Installasjon
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
@@ -81,9 +81,9 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 ## Creating folders and files
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+2. Lag en `presence.ts` og en `tsconfig.json` fil inni mappen.
+3. Lag en mappe kalt `dist` inni mappen.
+4. Lag en `metadata.json` fil inni `dist` mappen.
 
 ## Filling in the tsconfig.json file
 
@@ -211,7 +211,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 ## Creating folders and files
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
+3. Lag en mappe kalt `dist` inni mappen.
 4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
 
 ## Filling in the metadata.json file
@@ -290,7 +290,7 @@ A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/W
 3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
+1. Lag en `iframe.js` fil.
 2. Set iFrame to `true` in your metadata file.
 3. Filling in your iFrame file.
 ```javascript
@@ -520,7 +520,7 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the T
 ## Hot-reloading
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## Feilsøking
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
 
