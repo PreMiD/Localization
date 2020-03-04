@@ -1,23 +1,23 @@
 ---
-title: iFrame Class
+title: iFrame类
 description:
-published: 是
+published: true
 date: 2020-01-19T23:42:33.008Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# iFrame类
+> 带有PreMiD的 iframe 系统有问题，可能有意料之外的行为，请谨慎使用。 
 > 
 > {.is-danger}
 
-## Introduction
+## 一. 导言
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+在某些场景中，您的存在可能需要访问 `iframe` 内的元素。
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+您在 `iframe 中写入的代码。` 文件被注入到页面上的每个iframe 中。
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+就像存在一样， `iframe` 有自己的类来自动更新数据。
 
 ```typescript
 let iframe = new iFrame();
@@ -27,16 +27,16 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## 方法
 
-### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+### `发送(对象)`
+向存在发送数据。 使用这个方法将会抛出一个 `iFrameworkData` 事件。
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+返回 `iframe` 的 URL。
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## 事件
+在 `iframe`, 事件的工作方式类似于他们在 `的存在` 类中的工作方式。
 
 ```typescript
 iframe.on("UpdateData", async () => {
@@ -44,12 +44,12 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Here is a list of all of the events:
+以下是所有事件的列表：
 
-#### `UpdateData`
+#### `更新数据`
 
-This event is fired every time the iframe is being updated.
+每次更新 iframe 时都会触发此事件。
 
-#### `MediaKeys` (disabled)
+#### `MediaKey` (禁用)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+当用户使用他的键盘上的媒体键时， [点击这里](/dev/presence/class#mediakeys) 获取更多关于媒体键的信息。
