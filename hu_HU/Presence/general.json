@@ -114,5 +114,45 @@
     "general.viewCategory": {
         "message": "Kategóriát böngész:",
         "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Csatornát böngész:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Epizódot néz:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Műfajt néz:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Főoldalon",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Listát böngész:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Mangát olvas:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Videót néz",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Élő adást néz",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Adatvédelmi irányelvek",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Felhasználási feltételek",
+        "description": "A page name"
     }
 }
