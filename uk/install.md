@@ -1,6 +1,6 @@
 ---
-title: Інсталяція
-description: Як встановити PreMiD
+title: Установлення
+description: Як встановити PreMiD?
 published: true
 date: 2020-01-19T23:42:07.335Z
 tags:
@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Необхідно** встановити**і** **застосунок** іthe **розширення**! 
 > 
 > {.is-warning}
 
