@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服能協助您.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "請注意，當前移動設備不支援PreMiD。",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "顯示下載",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "隱藏下載",
+    "description": "Little button on the downloads page for mobile users."
   }
 }
