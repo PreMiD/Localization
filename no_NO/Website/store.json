@@ -31,6 +31,14 @@
 		"message": "Denne presencen er automatisk aktivert når du trenger den, så du trenger ikke å legge den til.",
 		"description": "The message that appears instead of the buttons."
 	},
+	"store.category.filters.mostUsed": {
+		"message": "Vis mest brukt først",
+		"description": "Most used first checkbox"
+	},
+	"store.category.heading": {
+		"message": "Kategorier",
+		"description": "Category heading"
+	},
 	"store.category.all": {
 		"message": "Alle",
 		"description": "Category at the top"

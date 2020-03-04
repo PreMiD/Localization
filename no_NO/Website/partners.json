@@ -1,1 +1,14 @@
-{}
+{
+  "partners.header.title": {
+    "message": "PARTNERE",
+    "description": "Heading for page."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Din gratis presence",
+    "description": "Heading for the first benefit."
+  },
+  "partners.requirements.title": {
+    "message": "KRAV",
+    "description": "Heading for the requirements."
+  }
+}

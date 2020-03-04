@@ -1,1 +1,10 @@
-{}
+{
+  "beta.title": {
+    "message": "Lyst på flere funksjoner?",
+    "description": "Beta page title"
+  },
+  "beta.register.button": {
+    "message": "Registrer deg nå!",
+    "description": "Sign up button text"
+  }
+}
