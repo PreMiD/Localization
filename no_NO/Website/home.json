@@ -1,4 +1,8 @@
 {
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** er et simpelt, konfigurerbart program som lar deg vise hva du gjør på internet inni din Discord \"now playing\" status.",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "Våre funksjoner",
     "description": "Introduction button"
