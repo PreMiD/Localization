@@ -15,6 +15,10 @@
     "message": "{0} 남음",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "플레이중",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "당신은 아마도 이 기능들을 좋아할 것 같아요",
     "description": "Features section"
