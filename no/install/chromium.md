@@ -18,7 +18,7 @@ The installation of the extension is very important as the application can not d
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
 2. Add [our extension](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Ikke glem å [legge til** applikasjonen**](/install). 
 > 
 > {.is-warning}
 
