@@ -43,6 +43,10 @@
     "message": "Seja imortalizado",
     "description": "Heading for the fourth benefit."
   },
+  "partners.why.benefit4.description": {
+    "message": "Um lugar maroto na nossa página de parceiros.",
+    "description": "Description for the fourth benefit."
+  },
   "partners.why.benefit5.title": {
     "message": "Seja famoso",
     "description": "Heading for the fifth benefit."
@@ -59,9 +63,17 @@
     "message": "O que estamos a procurar?",
     "description": "Heading for the first requirement."
   },
+  "partners.requirements.first.description": {
+    "message": "Estamos atentos a comunidades em crescimento e coisas empolgantes pela internet. TL;DR você já deve usar o PreMiD e estar pronto para propagá-lo para ainda mais loucos da internet. A aceitação neste programa é extremamente qualitativa e variará de um candidato para o outro.",
+    "description": "Description for the first requirement."
+  },
   "partners.requirements.second.title": {
     "message": "O nosso firewall",
     "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "De momento, aceitamos vários tipos de esforço no nosso programa de parceria. Qualquer um deve ter a oportunidade de ser notado. Os tarnsmissores da Twitch devem ter pelo menos 500 seguidores e pelo menos 3 espetadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
+    "description": "Description for the second requirement."
   },
   "partners.apply.button": {
     "message": "Inscreva-se já!",
@@ -82,5 +94,13 @@
   "partners.sponsors.description": {
     "message": "O PreMiD não seria possível, sem estas pessoas incríveis.",
     "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "É assim que se assiste anime.",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings é um jogo de arena PvP em ritmo rápido de nova geração que pode ser jogado no navegador.",
+    "description": "Description for Arena of Kings."
   }
 }
