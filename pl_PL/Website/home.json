@@ -19,6 +19,10 @@
     "message": "Pozostało {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "Odtwarzanie",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Pokochasz te funkcje!",
     "description": "Features section"
