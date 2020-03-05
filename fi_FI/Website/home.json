@@ -10,5 +10,9 @@
   "home.examples.timestamp": {
     "message": "{0} jäljellä",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.playback.playing": {
+    "message": "Toistetaan",
+    "description": "Discord Rich Presence -> small image text;"
   }
 }
