@@ -19,6 +19,10 @@
     "message": "{0} наляво",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "Възпроизвеждане назад",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Ще харесате тези функции!",
     "description": "Features section"
