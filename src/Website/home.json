@@ -19,6 +19,10 @@
     "message": "{0} left",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.timestamp2": {
+    "message": "{0} elapsed",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
   "home.features.heading": {
     "message": "You will love these features!",
     "description": "Features section"
