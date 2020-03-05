@@ -2,5 +2,9 @@
   "home.introduction.button.downloads": {
     "message": "Íoslódálacha",
     "description": "Downloads button -> redirects to /downloads page"
+  },
+  "home.examples.playback.playing": {
+    "message": "Ag imirt ar ais",
+    "description": "Discord Rich Presence -> small image text;"
   }
 }
