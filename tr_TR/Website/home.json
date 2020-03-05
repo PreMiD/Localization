@@ -19,6 +19,10 @@
     "message": "{0} kaldı",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "Oynatılıyor",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Bu özelliklere bayılacaksınız!",
     "description": "Features section"
