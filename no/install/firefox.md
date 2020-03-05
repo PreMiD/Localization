@@ -14,10 +14,10 @@ The installation of the extension is very important as the application can not d
 3. Søk for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
 5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
+6. Velg filen du lastet ned nylig.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Ikke glem å [legge til** applikasjonen**](/install). 
 > 
 > {.is-warning}
 
