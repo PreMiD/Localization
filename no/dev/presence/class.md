@@ -8,7 +8,7 @@ tags:
 
 # Presence Class
 
-## Introduction
+## Introduksjon
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
