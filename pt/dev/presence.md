@@ -159,7 +159,7 @@ presença. n("AtualizarData", async () => {
     }
 });
 ```
-Você pode copiar isso no arquivo `presence.ts` e editar os valores. Configurar todos os valores é feito dentro do evento updataDatas.
+Você pode copiar isso no arquivo `presence.ts` e editar os valores. Configurar todos os valores é feito dentro do evento updateData.
 
 Por exemplo, sugerimos que analisemos o código de presenças como: 1337x ou 9GAG.
 
@@ -275,7 +275,7 @@ presença. n("AtualizarData", () => {
     }
 });
 ```
-Você pode copiar isso no arquivo `presence.js` e editar os valores. Configurar todos os valores é feito dentro do evento updataDatas.
+Você pode copiar isso no arquivo `presence.js` e editar os valores. Configurar todos os valores é feito dentro do evento updateData.
 
 Por exemplo, sugerimos que analisemos o código de presenças como: 1337x ou 9GAG.
 
