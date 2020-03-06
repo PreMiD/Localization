@@ -1,8 +1,4 @@
 {
-  "footer.usercount.message": {
-    "message": "Join {0} users today!",
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
-  },
   "footer.supportus.donate": {
     "message": "টাকা দেন",
     "description": "Donate -> redirects to patreon.com/timeraa"
