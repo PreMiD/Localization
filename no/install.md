@@ -14,15 +14,15 @@ tags:
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Velg ditt operativsystem:**
+- [Windows *7 eller høyere*](/install/windows)
+- [macOS *10.11 eller høyere*](/install/macos)
+- [Linux *4 eller høyere*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Velg din nettleser:**
+- [Chromium *76 eller høyere*](/install/chromium)
+- [Firefox *v69 eller høyere*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
