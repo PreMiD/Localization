@@ -1,1 +1,42 @@
-{}
+{
+  "beta.title": {
+    "message": "רוצה תכונות חדשות?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** עכשיו זמינה עבור כולם!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "מה תקבל אם אתה תירשם?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "תכונות אחרונות",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "גישה לערוצי הטקסט הסופר סודיים של PreMiD",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "רול מיוחד בשרת הדיסקורד שלנו",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "מוכן לזה? הצטרף ל {0} בטא טסטרים אחרים!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "הירשם עכשיו!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "קול! אתה עכשיו משתמש בטא!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "הקופים שלנו עובדים על להכניס אותך לתוכנית הבטא שלנו בהקדם האפשרי. תודה על שנרשמת!",
+    "description": "Thank You page description"
+  }
+}
