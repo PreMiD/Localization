@@ -66,5 +66,13 @@
   "contributors.roles.proofreader": {
     "message": "Proofreader",
     "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Click to copy user's ID.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "User ID copied to your clipboard!",
+    "description": "Notification after user ID was copied."
   }
 }
