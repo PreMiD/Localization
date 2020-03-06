@@ -6,17 +6,17 @@ date: 2020-01-19T23：42：09.728Z
 tags:
 ---
 
-> 请确保您已安装扩展 **和** 个应用程序！ 
+> 请确保您已安装扩展 **和** 应用程序！ 
 > 
 > {.is-warning}
 
 ### 重新加载页面
-您也可以按 <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS) 键盘上，而不是搜索刷新按钮。
+您也可以在键盘上按 <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS)。
 
 ### 重新启动您的浏览器
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) 也做了很好的工作。 (您必须再次启动您的浏览器。)
 
-### 请确保您在设置中启用了Discord游戏活动
+### 请确保您在Discord设置中启用了游戏状态
 **用户设置** > **游戏活动** ![游戏活动编辑.png](/gameactivity_edited.png)
 
 ### 重启预设(应用程序)
