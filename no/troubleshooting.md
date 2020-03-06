@@ -6,7 +6,7 @@ date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Vær sikker på at du har utvidelsen **og** applikasjonen installert! 
 > 
 > {.is-warning}
 
