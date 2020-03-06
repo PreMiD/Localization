@@ -66,5 +66,13 @@
   "contributors.roles.proofreader": {
     "message": "Düzeltmen",
     "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Kullanıcının ID'sini kopyalamak için tıkla.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "Kullanıcının ID'si panonuza kopyalandı!",
+    "description": "Notification after user ID was copied."
   }
 }
