@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "今天加入了 {0} 個用戶！",
+    "message": "加入 {0} 個用戶吧!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {
