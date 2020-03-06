@@ -6,7 +6,7 @@ date: 2020-02-08T18:36:25.201Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Alle presences er nå lagret her: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
@@ -74,20 +74,20 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Åpne en terminal og skriv `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
 3. Open it in you code editor.
 
-## Creating folders and files
+## Oppretting av mapper og filer
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
+1. Lag en mappe med **navnet** (ikke en URL) av tjenesten du vil støtte.
 2. Lag en `presence.ts` og en `tsconfig.json` fil inni mappen.
 3. Lag en mappe kalt `dist` inni mappen.
 4. Lag en `metadata.json` fil inni `dist` mappen.
 
-## Filling in the tsconfig.json file
+## Fyll inn tsconfig.json filen
 
-Please put the following code inside of the `tsconfg.json` file.
+Vennligst put den følgende koden inni `tsconfg.json` filen.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -96,11 +96,11 @@ Please put the following code inside of the `tsconfg.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+For å lære mer om TypeScript konfigurasjon klikk [her](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Fyll inn metadata.json filen
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klikk [her](/dev/presence#filling-in-the-metadatajson-file-2) for å se hvordan man skal fylle den inn. You will be able to easily click back at the bottom of the explanation.
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
@@ -204,19 +204,19 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 # Structure (JavaScript)
 ## Cloning the project
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Åpne en terminal og skriv `git clone https://github.com/PreMiD/Presences`.
 3. Choose a folder of your choice.
 4. Open it in you code editor.
 
-## Creating folders and files
+## Oppretting av mapper og filer
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
+1. Lag en mappe med **navnet** (ikke en URL) av tjenesten du vil støtte.
 3. Lag en mappe kalt `dist` inni mappen.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+4. Lag en `metadata.json` fil og en `presence.js` fil inni `dist` mappen.
 
-## Filling in the metadata.json file
+## Fyll inn metadata.json filen
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klikk [her](/dev/presence#filling-in-the-metadatajson-file-2) for å se hvordan man skal fylle den inn. You will be able to easily click back at the bottom of the explanation.
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
@@ -314,7 +314,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
+# Fyll inn metadata.json filen
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
