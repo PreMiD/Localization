@@ -2,5 +2,9 @@
     "twitter.readTweet": {
         "message": "Leser tweet:",
         "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Varslinger",
+        "description": ""
     }
 }
