@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Laajennusta ei löytynyt, lukitaan ominaisuudet...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Laajennus löytyi, avataan ominaisuudet...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Tekijä",
 		"description": "Creator of a presence"
