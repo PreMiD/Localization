@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Extensie niet gevonden, functies sluiten...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Extensie gevonden, functies openen...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Maker",
 		"description": "Creator of a presence"
