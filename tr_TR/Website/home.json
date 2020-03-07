@@ -74,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Sunucumuza katılın",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Sitenin dilini seç",
+    "description": "Tippy content of the language selector."
   }
 }
