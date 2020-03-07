@@ -122,5 +122,9 @@
 	"partners.partner.crowdin": {
 		"message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
 		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "En güçlü ve en gelişmiş Viki yazılımı.",
+		"description": "Description for WikiJS."
 	}
 }
