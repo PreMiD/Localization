@@ -1,14 +1,14 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: صفحة بلا عنوان
+description: مساعد صغير في TypeScript
 published: true
 date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript Configuration
+# إعدادات TypeScript
 
-## Introduction
+## مقدمة
 
 When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
