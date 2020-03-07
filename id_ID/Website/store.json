@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Ekstensi tidak ditemukan, mengunci fitur...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Ekstensi ditemukan, membuka fitur...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Pembuat",
 		"description": "Creator of a presence"
