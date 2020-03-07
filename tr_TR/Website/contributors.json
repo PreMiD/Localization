@@ -68,7 +68,7 @@
     "description": "'Proofreader' title for contributors and user pages."
   },
   "contributors.cards.copyUserId": {
-    "message": "Kullanıcının ID'sini kopyalamak için tıkla.",
+    "message": "ID'yi kopyalamak için tıklayın.",
     "description": "Tippy message when you hover on the avatar of a credit card."
   },
   "contributors.cards.userIdCopied": {
