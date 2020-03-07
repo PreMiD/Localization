@@ -10,13 +10,13 @@ tags:
 
 ## مقدمة
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+عندما تقوم بتنزيل و تفك الضغط على مساحة العمل ، سترى ملف يسمى `tsconfig. s` في الروت ومجلدات presence، يستخدم هذا الملف لإعداد **محول برمجيTypeScript**. لقد تم تكوينه من أجلك، لذا لا تقلق حيال ذلك.
 
-We just want to describe some settings that you should know.
+نحن نريد فقط وصف بعض الإعدادات التي يجب أن تعرفها.
 
-## Root Configuration
+## اعدادات الروت
 
-In the root configuration file you will see something like this.
+في ملف إعدادات الروت سترى شيئا كهذا.
 
 ```javascript
 {
@@ -31,7 +31,7 @@ In the root configuration file you will see something like this.
 
 | Property            | الوصف                                                                                           |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
+| **compilerOptions** | تستخدم لإعداد المحول برمجي، معظم الخصائص موجودة هنا.                                            |
 | module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
 | target              | Defines the JavaScript version you are compiling.                                               |
 | removeComments      | Removing comments from compiled files.                                                          |
