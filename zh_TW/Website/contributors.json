@@ -66,5 +66,13 @@
   "contributors.roles.proofreader": {
     "message": "校對員",
     "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "按一下來複製用戶id",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "用戶id已複製到您的剪貼簿！",
+    "description": "Notification after user ID was copied."
   }
 }
