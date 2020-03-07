@@ -122,5 +122,9 @@
 	"partners.partner.crowdin": {
 		"message": "針對科技公司實現敏捷本地化。",
 		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "最強大和可擴展的開源Wiki軟件。",
+		"description": "Description for WikiJS."
 	}
 }
