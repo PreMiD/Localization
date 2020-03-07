@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "拡張機能が見つかりませんでした。機能を制限中...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "拡張機能が見つかりました。機能制限を解除...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "作者",
 		"description": "Creator of a presence"

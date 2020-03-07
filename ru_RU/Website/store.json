@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Расширение не найдено, блокировка функций...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Расширение найдено, разблокировка функций...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Создатель",
 		"description": "Creator of a presence"

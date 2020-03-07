@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "ไม่พบส่วนเสริม.. ไม่สามารถใช้งานได้",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "พบส่วนเสริมแล้ว.. ปลดล็อกฟังก์ชันแล้ว",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "ผู้สร้าง",
 		"description": "Creator of a presence"
