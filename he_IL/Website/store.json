@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "תוסף לא נמצא, נועל פונקציות...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "תוסף נמצא, פותח פונקציות...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "יוצר",
 		"description": "Creator of a presence"
