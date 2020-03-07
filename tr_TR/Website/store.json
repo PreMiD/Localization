@@ -82,5 +82,13 @@
 	"store.search": {
 		"message": "Ara",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "enter'a bas",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Filteryi kaldırmak için tıklayın.",
+		"description": "Remove message for active search filters."
 	}
 }
