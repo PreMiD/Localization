@@ -1,110 +1,110 @@
 ---
-title: Presence Development
+title: Presence 开发
 description:
-published: 是
-date: 2020-02-08T18:36:25.201Z
+published: true
+date: 2020-02-08T18：36：25.201Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> 所有存在现在都存储在这里：https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+版本 `2.x` 介绍了 [存在商店](https://premid.app/store)。 用户现在可以通过 [网站](https://premid.app/) 的用户界面手动添加和移除他们最喜欢的存在。
 
-# Guidelines
-> If you do not follow all of the guidelines, your presence or pull request will be deleted off of the github. 
+# 准则
+> 如果您没有遵循所有的准则，您的存在或拉取请求将被从github中删除。 
 > 
 > {.is-danger}
 
-## Creation
+## 设定
 
-Before you begin working on your presence, keep the following list in mind.
-- The pull request must be complete, you need to have a proper file structure. Including the `dist` folder, `presence.js` file, and `metadata.json` file.
+在您开始工作前请记住以下列表。
+- 拉取请求必须完成，您需要有一个适当的文件结构。 包含 `dist` 文件夹， `presence.js` 文件，以及 `metadata.json` 文件。
 - The presence **must** be related to the website you have chosen.
-- The presence must not be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata must have well written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) must be related to the website and should be understandable in terms of size and quality.
-- The file structure must be clean and managed, do not have random files which provide nothing to the presence's function.
-- The presence **must not** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within an acceptable time frame, other presence developers are allowed to **overwrite** your presence to comply with the changes.
-- The presence must be tested before publishing to confirm that everything works as expected.
-- Your presence must have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an `nsfw` website, please add the `nsfw` tag to your metadata.
-- Your presence must **NOT** be for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...), exceptions can be made if a proof is presented showing that it is a paid domain.
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases). You are not allowed to promote Discord profiles or anything unrelated to PreMiD.
-- The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
-- The presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-- The `url` field must not include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-- Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
-- Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+- 这种存在绝不能是任何非法网站。 这些包括应激剂、药物、儿童猪等...
+- 存在的元数据必须有很好的写入内容，包括有效的标题和描述。
+- 您所包含的媒体(图标/缩略图)必须与网站相关联，并且应当从大小和质量上易懂。
+- 文件结构必须清理和管理，没有随机的文件无法为存在的功能提供任何帮助。
+- **不能** 有任何恶意的存在。 这些包括偷窃/泄漏私人信息，对网站行为产生不利影响，等等...
+- 如果您设计了网站的存在，而网站会在将来发生更改， 您 **ARE** 负责再次更新存在以按预期工作. 如果您没有在可接受的时间范围内修复它， 其他存在的开发者被允许 **覆盖** 您的存在以适应更改。
+- 必须在发表之前对存在进行测试，以确认一切都如预期的那样有效。
+- 您的存在必须有SFW图像和描述，不管它是否为 NSFW。 如果您的存在是关于 `nsfw` 网站，请将 `nsfw` 标签添加到您的元数据中。
+- 您的存在必须 **不是** 的免费域名或主机 (例如.TK, [所有免费域名], . 如果出示证据表明它是一个付费域，就可以做出例外处理。
+- `smallImageKey` and `smallimageText` 字段是为视频站点提供额外的/次要环境(例如"播放"/"已暂停")。 “浏览”常规站点和其他案例)。 您不能推广Discord配置文件或任何与PreMiD无关的内容。
+- 不过，标识的要求为512px，缩略图为1:1（平方）。 应该是 [宽促销卡](https://i.imgur.com/3QfIc5v.jpg) 或简单 [屏幕截图](https://i.imgur.com/OAcBmwW.png) 如果第一个不可用。
+- 存在至少应有一种标记，这是一种设计上的要求，今后可能是可选择的。
+- `url` 字段不能包含 `http:/` 或 `https://` `https://www.google.com/search?gws_rd=ssl` 只有 `www.google.com` 在 `url` field)。
+- 描述和标签应该总是以数组为单位，即使只有一个元素。 然而， `url` 字段只应该是一个字符串，如果它是一个域。
+- 不断更改 API /域的不稳定站点， 随机的 HTML 元素或刚刚处于重型开发状态，不允许并将从商店中移除。
 
-## Modification
+## 修改
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you must follow in order to modify presences.
-- You are not allowed to change the creator of the presence. This is only applicable if you are allowed to re-write it. You may add yourself as a [contributor](/dev/presence/metadata).
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc...
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
-- Do not re-brand/overwrite a presence completely unless permitted by a `Presence Verifier` or staff member.
+在某些情况下，存在可能出乎意料地行事，或可能利用一些微小的变化来改进其功能。 这是您必须遵循的编译列表才能修改存在。
+- 您无权更改存在的创建者。 这只适用于您被允许重写它。 您可以将自己添加为 [贡献者](/dev/presence/metadata)。
+- 请确保修改是有用的。 这些可能包括修复(代码和轮胎)、添加(描述和标签)等...
+- 确认您的更改在发布前起作用。 不要在不知道您的更改结果的情况下创建合并请求。
+- 除非经 `Presence Verifier` 或员工允许，不要重划或覆盖一个存在。
 
-# Verification
-> When you make pull requests about adding or modifying existing presences, you must include a screenshot. However, modifications to a presence's metadata/tsconfig do not require a screenshot. *Your screenshot must be uploaded directly to github with the pull request, do not use third-party image sharing websites.* 
+# 验证
+> 当您提出有关添加或修改现有存在的合并请求时，您必须包含屏幕截图。 然而，对存在的元数据/tsconfig 的修改不需要屏幕截图。 *您的截图必须用拉取请求直接上传到 github ，不要使用第三方图像共享网站。* 
 > 
 > {.is-danger}
 
-In order for your presence to reach the stores, it must go through a process on github to confirm that it works as expected. Here is a couple of things to look out for when your make your pull request.
+为了让你的存在能够到达商店，它必须在github上通过一个过程来确认它是否如预期的那样起作用。 当您提出拉取请求时，这里有几件事需要寻找。
 
-Our presence verification team has their own role, look out for `Presence Verifier` on the discord server to know who is involved.
+我们的存在验证团队有自己的角色，寻找Discord服务器上的 `Presence 验证器` 来了解谁参与了操作。
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your Pull Request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user. ( e.g. its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot must show the new additions working, not any old features from previous pull requests.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
+1. 确认您的存在符合标准需要两个验证器。 如果你碰巧获得更改请求，请做出适当的努力来修复它或它不会被添加。
+2. 如果我们请求更改且您的合并请求超过 **7 天的不活动** 而不做必要的修改。 我们将被迫关闭它。
+3. 您可以对在其他用户帮助下做出的更改进行屏幕截图。 (例如, 其作者, 如果你出于任何原因不能访问它).
+4. 如果它是更新或补丁，屏幕截图必须显示新的添加正常工作，而不是以前的拉取请求中的任何旧功能。
+5. 提供的屏幕截图应该是真实的，而不是编辑的。
+6. 任何被合并到这个资源库的贡献代码都将被授权在 **Mozilla 公共许可协议2.0** 中。
 
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+在所有正确的评论完成后，您的拉取请求将与商店合并。
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# 结构 (TypeScript)
+您可以选择是否使用 [JavaScript](https://www.javascript.com/) 或  [TypeScript](https://www.typescriptlang.org/) 编码您的Presence。 [TypeScript](https://www.typescriptlang.org/) 有一些额外的香料类型定义，因此修复和识别bug更加容易。 如果您只想使用 [JavaScript](https://www.javascript.com/) ，您可以跳到 [结构 (JavaScript)](/dev/presence#structure-javascript)。
 
-## Installation
+## 安装
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. 安装 [节点](https://nodejs.org/en/) (带有 [npm](https://www.npmjs.com/)).
+3. 安装 [TypeScript](https://www.typescriptlang.org/index.html#download-links) (打开终端和 `npm install -g typescript`).
 
-## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+## 克隆项目
+1. 打开终端并输入 `git 克隆https://github.com/PreMiD/Presences`。
+2. 选择一个文件夹。
+3. 在你的代码编辑器中打开它。
 
-## Creating folders and files
+## 创建文件夹和文件
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfg.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. 创建您想要支持的服务的 **名称** (而不是URL) 的文件夹。
+2. 在其中创建 `存在。ts` 和 `tsconfg.json` 文件。
+3. 在内边创建一个名为 `的文件夹`
+4. 在 `dist` 文件夹中创建 `metadata.json` 文件。
 
-## Filling in the tsconfig.json file
+## 在 tsconfig.json 文件中填充
 
-Please put the following code inside of the `tsconfg.json` file.
+请在 `tsconfg.json` 文件中放入以下代码。
 ```javascript
-{
+主席:
   "extends": "../tsconfig.json",
-  "compilerOptions": {
+  "compilerOptions":
     "outDir": "./dist/"
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+要了解更多关于 TypeScript 配置的信息，请点击 [这里](/dev/presence/tsconfig)。
 
-## Filling in the metadata.json file
+## 填写metadata.json 文件
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. 您将能够轻松地在解释的底部重新点击。
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## 入门开始
 
 ```javascript
 var presence = new Presence({
@@ -135,13 +135,13 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. 在可能的情况下，这被称作是第二次的。
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    建议在这个事件函数之外设置另一个函数，这个函数会改变变量值，如果你调用一个 API 的数据，就会进行重提。 /
 
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+    var presenceData = Power
+        largiveImageKey: "key", /*关于存在的大图像的钥匙(文件名)。 这些已上传并在您的应用程序的 Rich Presence 部分中命名。 名称为 Art Assets*/
+        smallImageKey: "key", /* 大图像的关键(文件名) 上的存在。 These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -159,68 +159,68 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+您可以将此文件复制到您的 `存在。ts` 文件并编辑值。 设置所有值都是在数据更新事件中完成的。
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+例如，我们建议看一看1337x或9GAG。
 
-For more information about the Presence class click [here](/dev/presence/class).
+要了解更多关于Presence类的信息，请点击 [这里](/dev/presence/class)。
 
-## Can't get certain data?!
+## 无法获取特定数据？！
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+许多网站正在使用 [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([内嵌框架](https://en.wikipedia.org/wiki/HTML_element#Frames))。 这些html 标签可以包含多个来源，如视频。 但它们并非每次都有意义。 有些是隐藏的，有些没有被积极使用。 检查您是否可以提取您需要的信息，而在您做不必要的工作之前不需要这些信息。
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. 通过浏览器控制台检查他们(请确保您在 **元素** 标签上)。
+2. 搜索 (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS))。
+3. 执行 `文档.querySelectorAll("iframe")`
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+如果您发现您的数据在 iFrame 中，您需要执行以下操作：
+1. 创建 `iframe.ts` 文件。
+2. 在您的元数据文件中将 iFrame 设置为 `true`。
+3. 填写您的 iFrame 文件。
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+var iframe = 新的 iFrame();
+iframe n("更新数据", async () => format@@
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  获取你需要从 iFrame 保存它们的所有数据到变量
+  然后使用 iframe 发送它们。 结束
   */
-  iframe.send({ //sending data
+  iframe.send(* / 正在发送数据
     video: video,
-    time: video.duration
-  }); 
-});
+    time: video). 持续时间
+  }； 
+})；
 ```
-4. Making your presence file receive data from the iFrame file.
+4. 让您的存在文件从 iFrame 文件接收数据。
 ```javascript
-presence.on("iFrameData", data => {
+expresce.on("iFrameworkData", data => }
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**注意：** 这需要放置在更新数据事件之外。
+## 编译中
+在您的文件夹中打开控制台，输入 `tsc -w` 来编译 `存在。ts` 到 `/dist` 文件夹。
 
-# Structure (JavaScript)
-## Cloning the project
+# 结构 (JavaScript)
+## 克隆项目
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
-4. Open it in you code editor.
+2. 打开终端并输入 `git 克隆https://github.com/PreMiD/Presences`。
+3. 选择一个文件夹。
+4. 在你的代码编辑器中打开它。
 
-## Creating folders and files
+## 创建文件夹和文件
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
+1. 创建您想要支持的服务的 **名称** (而不是URL) 的文件夹。
+3. 在内边创建一个名为 `的文件夹`
+4. 在 `metadata.json` 文件和 `expresence.js` 文件在 `dist` 文件夹中。
 
-## Filling in the metadata.json file
+## 填写metadata.json 文件
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. 您将能够轻松地在解释的底部重新点击。
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## 入门开始
 
 ```javascript
 var presence = new Presence({
@@ -251,13 +251,13 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. 在可能的情况下，这被称作是第二次的。
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    //It 建议在此事件函数之外设置另一个函数，这个函数将会改变变量值，如果您调用来自 API 的数据，将会进行重提。
 
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+    var presceData = Power
+        large-ImageKey: "key", /*大图片的关键(文件名) 上的存在。 这些已上传并在您的应用程序的 Rich Presence 部分中命名。 名称为 Art Assets*/
+        smallImageKey: "key", /* 大图像的关键(文件名) 上的存在。 These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -275,258 +275,258 @@ presence.on("UpdateData", () => {
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
+您可以将此文件复制到您的 `presence.js` 文件并编辑值。 设置所有值都是在数据更新事件中完成的。
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+例如，我们建议看一看1337x或9GAG。
 
-For more information about the Presence class click [here](/dev/presence/class).
+要了解更多关于Presence类的信息，请点击 [这里](/dev/presence/class)。
 
-## Can't get certain data?!
+## 无法获取特定数据？！
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+许多网站正在使用 [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([内嵌框架](https://en.wikipedia.org/wiki/HTML_element#Frames))。 这些html 标签可以包含多个来源，如视频。 但它们并非每次都有意义。 有些是隐藏的，有些没有被积极使用。 检查您是否可以提取您需要的信息，而在您做不必要的工作之前不需要这些信息。
 
-1. Check for them by browser console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. 通过浏览器控制台检查他们(请确保您在 **元素** 标签上)。
+2. 搜索 (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS))。
+3. 执行 `文档.querySelectorAll("iframe")`
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+如果您发现您的数据在 iFrame 中，您需要执行以下操作：
+1. 创建 `iframe.js` 文件。
+2. 在您的元数据文件中将 iFrame 设置为 `true`。
+3. 填写您的 iFrame 文件。
 ```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
+var iframe = 新的 iFrame();
+iframe n("更新数据", () => P
     /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
+    从iFrame中获取您需要的所有数据并保存到变量
+    然后使用 iframe 发送。 结束
     */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
-    });
-});
+    iframe。 end(请自行/发送数据
+        video,
+        time:video.) 持续时间  
+    }；
+})；
 ```
-4. Making your presence file receive data from the iFrame file.
+4. 让您的存在文件从 iFrame 文件接收数据。
 ```javascript
-presence.on("iFrameData", data => {
+expresce.on("iFrameworkData", data => }
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+**注意：** 这需要放置在更新数据事件之外。
+# 填写metadata.json 文件
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). 仍然有人建议通过这个方法阅读，这样你就知道它是如何工作的。
 
 ```javascript
-{
-  "author": {
+主席:
+  "author":
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
+  "贡献者": [□
     "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "description": {
+  "service": "服务",
+  "description": vol.
     "en": "DESCRIPTION"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
-  "thumbnail": "URL",
+  "缩略图": "URL",
   "color": "#HEX000",
   "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORY",
+  "category": "Category",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `貢獻者`
+请复制上面的代码并将其放在您的 `metadata.json` 文件中。 您现在需要编辑属性的值。 请注意，在您的 `元数据中，下列属性是可选的。 son` 文件，如果您不计划使用它们，您需要删除它们。
+- `贡献者`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**澄清某些值预设：**
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">变量</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">类型</th>
+      <th style="text-align:left">可选的</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>作者</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">应该包含当前开发者的 <code>name</code> 和 <code>id</code> 的对象。 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
+        模式和右键点击您的配置文件而从Discord复制.</td>
+      <td style="text-align:left"><code>对象</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>貢獻者</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>贡献者</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">应该包含当前开发者的 <code>name</code> 和 <code>id</code> 的对象。 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
+        模式和右键点击您的配置文件而从Discord复制.</td>
+      <td style="text-align:left"><code>数组&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>說明</b>
-      </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>服务</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">此存在支持的服务的标题。 <br>(必须是一切都在这里的文件夹名称)</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>否</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>描述</b>
+      </td>
+      <td style="text-align:left">对于存在的小描述，如果您不想要，您可以使用服务描述
+。 您的描述必须有关键值显示语言以及该特定语言的描述。 Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><code>对象</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>网址</b>
+      </td>
+      <td style="text-align:left">服务URL。<br><b>示例：</b><code>vk。 om</code><br>
+        <b>这个URL必须与网站的 URL 匹配，因为它将检测到这个网站是否注入脚本。</b><br> 不要 <b>不要</b> 添加 <code>https://</code> 或 <code>http:///</code> 网址内或结尾处的斜线：
+<code>https://premid。 pp/</code> -> <code>premid.app</code><br>
+<b>note</b>: some URLs may have <code>www.</code> 或在他们的域前面的其他东西。 难道 <b>不是</b> 忘记添加它！<br>
+您可以通过以下方式添加多个URL：<br>
+<code>["URL1", "URL2", "ETC。</code><br>
+您也可以使用 regExp 也称为Regex 来完成此任务，下面将作进一步解释。
+      </td>
+      <td style="text-align:left"><code>字符串，数组&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">用于匹配url的正则表达式字符串。<br>
+      regExp 或也称为Regex，如果网站有多个子域，可以使用。<br>
+您可以为此使用以下矩阵形式：<br>
+<code>([a-z0-9]+)[.]域[.]TLD"</code><br>
+TLD 站在顶级域名上： om .net<br> 
+<code>([a-z0-9]+)</code> 表示任何从一个 z和 0 到 9 的意思。<br>
+        您可以在 <a href="https://regex101.com/">Regex101测试您的regex</a></td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>版本</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">您的存在版本。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>徽标</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">链接到服务&apos;s 标识符。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">链接到您的缩略图</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>標籤</b>
+      <td style="text-align:left"><b>颜色</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#十六进制</code> 值。 我们建议使用您的存在所支持的服务
+        的主要颜色。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>标签</b>
+      </td>
+      <td style="text-align:left">带有标签的数组将帮助用户搜索您在网站上的存在。</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>字符串，数组&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>类别</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">用于表示存在的类别的字符串。 在这里查看有效的 <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">餐饮量</a>。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">定义是否使用 <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">选择要注入的 iframes 的正则表达式选择器。 查看正则表达式以获取更多信息。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+点击 [在这里](/dev/presence#filling-in-the-metadatajson-file) 返回到 TypeScript 解释。 点击 [在这里](/dev/presence#filling-in-the-metadatajson-file-1) 返回到 JavaScript 解释。
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# 正在加载存在
+1. 打开弹出窗口并按住键盘上的 <kbd>Shift</kbd> 按钮。
+2. **负载存在** 将出现在Presences部分。
+3. 当你仍然按住 <kbd>Shift</kbd> 按钮时点击它。
+4. 选择您存在的/dist文件夹。
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# 一些有用的内容
+## 热重新加载
+您正在开发的网站每次在文件夹中保存文件时都会自动重新加载。
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/PreMiD) for help.
+## 调试
+- 您可以放置 `console.log("测试")；` 在您的代码之间并查看您的浏览器控制台是否给您输出。 如果是，然后继续，然后在下一个函数后重试。 如果没有，上面有一个错误。
+- 如果这无助于您，那么您就会在我们的 [Discord 服务器](https://discord.gg/PreMiD) 上寻求帮助。
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# 文件已解释
+- [存在类](/dev/presence/class)
+- [iFrame类](/dev/presence/iframe)
+- [元数据文件](/dev/presence/metadata)
+- [TypeScript 配置](/dev/presence/tsconfig)
 {.links-list}
