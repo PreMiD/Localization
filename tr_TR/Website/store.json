@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Eklenti bulunamadı, fonksiyonlar kilitleniyor...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Eklenti bulundu, fonksiyonlar aktifleştiriliyor...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Yapımcı",
 		"description": "Creator of a presence"
