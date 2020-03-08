@@ -66,5 +66,13 @@
   "contributors.roles.proofreader": {
     "message": "Korektorius",
     "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "Vartotojo ID nukopijuotas į jūsų iškarpinę!",
+    "description": "Notification after user ID was copied."
   }
 }
