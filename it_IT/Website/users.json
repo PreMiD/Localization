@@ -15,6 +15,10 @@
 		"message": "Create {0} presenze.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Create oltre 100 Presenze!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "Utente [presenze/contributi]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
