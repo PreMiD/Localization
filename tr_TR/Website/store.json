@@ -1,4 +1,8 @@
 {
+	"store.message.error": {
+		"message": "Eklenti bağlı değil.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "Yapımcı",
 		"description": "Creator of a presence"
