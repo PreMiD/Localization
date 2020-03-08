@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Šiai operacinei sistemai nėra diegimo programos. Tai reiškia, kad jai nėra taikoma jokia profesionali parama.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Atminkite, kad „PreMiD“ šiuo metu yra nepalaikomas mobiliuosiuose įrenginiuose.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Rodyti atsisiuntimus",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Slėpti atsisiuntimus",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

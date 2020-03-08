@@ -66,5 +66,41 @@
 	"partners.requirements.first.description": {
 		"message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis.\n",
 		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Mūsų ugniasienė",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Šiuo metu priimame įvairias pastangas į savo partnerystės programą. Kiekvienas turėtų turėti galimybę būti pastebėtas. „Twitch“ transliuotojai turi turėti bent 500 stebėtojų ir ne mažiau kaip 3 žiūrovus vienu metu. Turite transliuoti bent 1 kartą per savaitę.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Teikti paraišką dabar!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Eikime į dangų kartu!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jei jus labiau domina tiesioginis darbas „PreMiD“, tada pasižiūrėkite į mūsų darbo skelbimą.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "SPONSORIAI",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "„PreMiD“ nebūtų įmanomas be šių nuostabių žmonių.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Štai kaip reikia žiūrėti anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings yra naujos-kartos greito tempo PvP arenos žaidimas, kuris žaidžiamas naršyklėje.",
+		"description": "Description for Arena of Kings."
 	}
 }
