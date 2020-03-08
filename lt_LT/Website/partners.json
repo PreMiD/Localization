@@ -102,5 +102,29 @@
 	"partners.partner.arenaOfKings": {
 		"message": "Arena of Kings yra naujos-kartos greito tempo PvP arenos žaidimas, kuris žaidžiamas naršyklėje.",
 		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat yra ne pelno siekiantis tarptautinis radijas, kuris stengiasi teikti nenutrūkstamas, kokybiškas radijo ir naujienų pramogas.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Žaidėjų uždirbimo platforma.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Lengvai praneškite realiojo laiko statusą savo vartotojams.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "Greitas lokalizavimas technologijų įmonėms.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Pati galingiausia ir išplėstinė atvirojo kodo „Wiki“ programinė įranga.",
+		"description": "Description for WikiJS."
 	}
 }
