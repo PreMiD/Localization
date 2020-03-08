@@ -122,5 +122,9 @@
 	"partners.partner.crowdin": {
 		"message": "Localizzazione agile per aziende tecnologiche.",
 		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Il Software Wiki open source più potente ed estensivo.",
+		"description": "Description for WikiJS."
 	}
 }

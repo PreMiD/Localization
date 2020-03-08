@@ -52,7 +52,7 @@
     "description": "'Administrator' title for contributors page."
   },
   "contributors.roles.asstCommunityManager": {
-    "message": "Asst. Community Manager",
+    "message": "Manager della Community",
     "description": "'Assisting Community Manager' title for contributors page."
   },
   "contributors.roles.asstHeadModerator": {
@@ -60,11 +60,19 @@
     "description": "'Assisting Head Moderator' title for contributors page."
   },
   "contributors.roles.jrModerator": {
-    "message": "Jr. Moderatore",
+    "message": "Moderatore Jr.",
     "description": "'Junior Moderator' title for contributors and user pages."
   },
   "contributors.roles.proofreader": {
     "message": "Correttore di bozze",
     "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Clicca per copiare l’ID utente.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "ID utente copiato negli appunti!",
+    "description": "Notification after user ID was copied."
   }
 }
