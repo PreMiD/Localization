@@ -26,5 +26,13 @@
 	"user.switch.contributed": {
 		"message": "Naudotojas [presences/contributions]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Spustelėkite čia, norėdami pamatyti šio vartotojo sukurtus statusus.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Spustelėkite čia, norėdami pamatyti statusus, prie kurių prisidėjo šis vartotojas.",
+		"description": "Tippy content (mode 2) in user profile."
 	}
 }
