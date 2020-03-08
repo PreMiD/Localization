@@ -96,7 +96,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">ตัวแปร</th>
       <th style="text-align:left">คำอธิบาย</th>
       <th style="text-align:left">ชนิด</th>
     </tr>
