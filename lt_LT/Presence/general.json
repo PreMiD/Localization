@@ -7,24 +7,120 @@
         "message": "Naršoma...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Skyrius",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Redaguojama:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Serija",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Forumai",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Žanras",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Klausosi muzikos",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Klausytojai",
         "description": ""
     },
     "general.live": {
         "message": "Tiesiogiai",
         "description": ""
     },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Prekės",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Puslapis",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Pristabdytas",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Leidžiama",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Skaito DM'us iš:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Skaito apie:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Skaito strapsnį:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Skaito kanale:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Skaito pranešimą:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Skaito giją:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Skaitymas",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Ieškoma:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Kažkas ieškoma...",
         "description": ""
     },
     "general.search": {
         "message": "Ieškoma",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Prekių krepšelis",
+        "description": ""
+    },
     "general.store": {
         "message": "Parduotuvė",
+        "description": ""
+    },
+    "general.typeDM": {
+        "message": "Rašo DM'us į:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Rašo kanale:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Anime peržiūra:",
         "description": ""
     }
 }
