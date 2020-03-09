@@ -7,12 +7,40 @@
 		"message": "Melhores podcasts",
 		"description": ""
 	},
+	"spotify.charts": {
+		"message": "Vizualizando Graficos",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Navegando por Vídeos",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Vizualizando Ultimos Lançamentos",
+		"description": ""
+	},
 	"spotify.discover": {
 		"message": "Descobrindo novas músicas",
 		"description": ""
 	},
+	"spotify.browse": {
+		"message": "Navegando Por",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "Podcasts que eles gostam",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "Artistas que eles curtem",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "Albuns que eles curtem",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.download": {
-		"message": "Baixando o Spotify",
+		"message": "Baixando Spotify",
 		"description": ""
 	}
 }
