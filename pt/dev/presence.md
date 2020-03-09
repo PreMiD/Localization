@@ -107,35 +107,39 @@ Nós fizemos um criador de `metadata.json` para os preguiçosos [aqui](https://e
 ## Primeiros passos
 
 ```javascript
-presença de var = nova presença({
-    clientId: "000000000000000000", //O ID do cliente do aplicativo criado em https://discordapp. Um/desenvolvedores/aplicações
-    mediaKeys: false //Habilitar o uso e detecção de teclas de mídia pressionadas
+var presence = Nova Presença({
+    clientId: "000000000000000000", //O ID do cliente do Aplicativo criado em https://discordapp.com/developers/applications
+    mediaKeys: false //Ativar uso e detecção de pressionamentos de teclas de mídia
 }),
 
-strings = presença. etStrings({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    pausa: "presence.playback. aused"
-    //Você pode usar isto para obter frases traduzidas
+    pause: "presence.playback.paused"
+    //Você pode usar isso para obter sequencias traduzidas
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    /Grab e processa todos os seus dados aqui
+função minhaOutsideHeavyLiftingFunction(){
+    //Pegue e processe todos os seus dados aqui
 
-    // elemento grabs //
-    // chamada api //
-    // variável define //
+
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run a função separada do evento UpdateData a cada 10 segundos para obter e definir as variáveis que a UpdateData coleta
+//Execute a função separada do evento UpdateData a cada 10 segundos para obter e definir as variáveis ​​que o UpdateData seleciona
 
 */
 
 
-presença. n("AtualizarData", async () => {
-    /*AtualizarDados está sempre atirando, e, portanto, deve ser usado como seu ciclo de atualização, ou `tick`. Chama-se a isto várias vezes um segundo sempre que possível.
+presence.on("UpdateData", async () => {
+    /*UpdateData está sempre disparando e, portanto, deve ser usado como seu ciclo de atualização ou `tick`.
+ 
+XPath: /pre[2]/code
+File: presence.md Isso é chamado várias vezes por segundo, sempre que possível.
 
     É recomendado configurar outra função fora desta função de evento que irá alterar os valores de variáveis e fazer o trabalho pesado se você chamar dados de uma API.*/
 
@@ -251,7 +255,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presença. n("AtualizarData", () => {
-    //UpdateData está sempre atirando, e, portanto, deve ser usado como seu ciclo de atualização, ou `tick`. Chama-se a isto várias vezes um segundo sempre que possível.
+    //UpdateData está sempre atirando, e, portanto, deve ser usado como seu ciclo de atualização, ou `tick`. Isso é chamado várias vezes por segundo, sempre que possível.
 
     ///É recomendado configurar outra função fora desta função de evento que irá alterar os valores de variáveis e fazer o trabalho pesado se você chamar dados de uma API.
 
