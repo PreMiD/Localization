@@ -1,14 +1,14 @@
 {
     "facebook.call": {
-        "message": "Numa chamada com:",
+        "message": "Em chamada com:",
         "description": ""
     },
     "facebook.vcall": {
-        "message": "Numa chamada de video com:",
+        "message": "Em uma chamada de video com:",
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "alguém... (Utilizador escondido)",
+        "message": "alguém... (Utilizador Anonimo)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
@@ -16,47 +16,47 @@
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "A ler sobre um utilizador:",
+        "message": "A ler sobre o Usuario:",
         "description": ""
     },
     "facebook.userCommunity": {
-        "message": "A ver a comunidade de um utilizador:",
+        "message": "Vizualizando comunidade de um Usuario:",
         "description": ""
     },
     "facebook.userPics": {
-        "message": "A ver fotos de um utilizador:",
+        "message": "Vizualizando fotos de um Usuario:",
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "A ver publicações de um utilizador:",
+        "message": "Vizualizando publicações de um Usuario:",
         "description": ""
     },
     "facebook.userShop": {
-        "message": "A ver loja de um utilizador:",
+        "message": "Vendo a  loja de um Usuario:",
         "description": ""
     },
     "facebook.userFriends": {
-        "message": "A ver amigos de um utilizador:",
+        "message": "Vizualizando amigos de um Usuario:",
         "description": ""
     },
     "facebook.userVids": {
-        "message": "A ver videos de um utilizador:",
+        "message": "Vizualizando videos de um Usuario:",
         "description": ""
     },
     "facebook.browse": {
-        "message": "A pesquisar por:",
+        "message": "Navegando Por:",
         "description": ""
     },
     "facebook.savedVids": {
-        "message": "Vídeos gravados",
+        "message": "Vídeos salvos",
         "description": ""
     },
     "facebook.added": {
-        "message": "Recentemente adicionados",
+        "message": "Adicionado recentemente",
         "description": ""
     },
     "facebook.weather": {
-        "message": "A ver o clima de hoje",
+        "message": "Visualizando o tempo de hoje",
         "description": ""
     }
 }
