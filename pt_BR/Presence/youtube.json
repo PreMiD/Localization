@@ -27,6 +27,10 @@
         "message": "A ver as tendências",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "Navegando Por",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.upload": {
         "message": "A enviar algo...",
         "description": ""
@@ -44,7 +48,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "A ver os(as) seus(suas)",
+        "message": "Vizualizando Suas",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.artistPage": {
