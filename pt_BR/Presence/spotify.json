@@ -28,7 +28,7 @@
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "Podcasts que eles gostam",
+		"message": "Podcasts que ele gosta",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
@@ -37,6 +37,18 @@
 	},
 	"spotify.albumLike": {
 		"message": "Albuns que eles curtem",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "Musicas que eles gostam",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Feito para você\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "Suas Playlists",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
