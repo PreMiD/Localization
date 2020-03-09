@@ -1,74 +1,74 @@
 {
     "amazon.subscriptions": {
-        "message": "A ver subscrições",
+        "message": "Vendo Inscrições",
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "A ver as suas preferências de publicidades",
+        "message": "Vendo Prefencias de Publicidade ",
         "description": ""
     },
     "amazon.balance": {
-        "message": "A ver o seu saldo",
+        "message": "Vendo Seu Saldo",
         "description": ""
     },
     "amazon.payment": {
-        "message": "A ver os seus métodos de pagamento",
+        "message": "Vendo seus métodos de pagamento",
         "description": ""
     },
     "amazon.address": {
-        "message": "A ver as suas moradas",
+        "message": "Vendo seu endereço",
         "description": ""
     },
     "amazon.pets": {
-        "message": "A ver os seus animais de estimação",
+        "message": "Vendo Seus animais de estimação",
         "description": ""
     },
     "amazon.catergoriesAll": {
-        "message": "A ver todas as categorias",
+        "message": "vendo todas as categorias",
         "description": ""
     },
     "amazon.prime": {
-        "message": "A ver Amazon Prime",
+        "message": "Vendo Amazon Prime",
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "A ver os(as) seus(suas)",
+        "message": "Vizualizando Suas",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
-        "message": "histórico de encomendas",
+        "message": "Historico de Encomendas",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "detalhes da encomenda",
+        "message": "Detalhes da Encomenda",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
-        "message": "carrinho de compras",
+        "message": "Carrinho de Compras",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "lista de desejos",
+        "message": "Lista de Desejos",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "cartões presente",
+        "message": "Giftcards",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "A ver os recomendados",
+        "message": "Ver Encomendas",
         "description": ""
     },
     "amazon.history": {
-        "message": "A ver o seu histórico",
+        "message": "Ver Historico",
         "description": ""
     },
     "amazon.store": {
-        "message": "A ver loja:",
+        "message": "Vendo Loja:",
         "description": ""
     },
     "amazon.primeVid": {
-        "message": "A ver Primei Video:",
+        "message": "Assistindo no Prime Video:",
         "description": ""
     }
 }
