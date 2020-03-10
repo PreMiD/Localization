@@ -107,20 +107,20 @@ Nós fizemos um criador de `metadata.json` para os preguiçosos [aqui](https://e
 ## Primeiros passos
 
 ```javascript
-var presence = Nova Presença({
-    clientId: "000000000000000000", //O ID do cliente do Aplicativo criado em https://discordapp.com/developers/applications
-    mediaKeys: false //Ativar uso e detecção de pressionamentos de teclas de mídia
+var presence = new Presence({
+    clientId: "000000000000000000", //O client ID do Aplicativo criado no https://discordapp.com/developers/applications
+    mediaKeys: false //Ativar o uso e detecção de pressionamentos de teclas de mídia
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //Você pode usar isso para obter sequencias traduzidas
+    //Você pode usar isso para obter strings traduzidas
 });
 
 /*
 
-função minhaOutsideHeavyLiftingFunction(){
+function myOutsideHeavyLiftingFunction(){
     //Pegue e processe todos os seus dados aqui
 
 
@@ -136,10 +136,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData está sempre disparando e, portanto, deve ser usado como seu ciclo de atualização ou `tick`.
- 
-XPath: /pre[2]/code
-File: presence.md Isso é chamado várias vezes por segundo, sempre que possível.
+    /*UpdateData está sempre disparando e, portanto, deve ser usado como seu ciclo de atualização ou `tick`. Isso é chamado várias vezes por segundo, sempre que possível.
 
     É recomendado configurar outra função fora desta função de evento que irá alterar os valores de variáveis e fazer o trabalho pesado se você chamar dados de uma API.*/
 
