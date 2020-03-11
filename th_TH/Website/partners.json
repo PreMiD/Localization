@@ -1,22 +1,26 @@
 {
-	"partners.header.title": {
-		"message": "พาร์ทเนอร์",
-		"description": "Heading for page."
-	},
-	"partners.why.benefit2.title": {
-		"message": "ได้รับการยืนยันแล้ว",
-		"description": "Heading for the second benefit."
-	},
-	"partners.requirements.title": {
-		"message": "ความต้องการ",
-		"description": "Heading for the requirements."
-	},
-	"partners.apply.button": {
-		"message": "สมัครตอนนี้!",
-		"description": "Button to apply for partner."
-	},
-	"partners.sponsors.title": {
-		"message": "ผู้สนับสนุน",
-		"description": "Heading for sponsors."
-	}
+  "partners.header.title": {
+    "message": "พาร์ทเนอร์",
+    "description": "Heading for page."
+  },
+  "partners.why.benefit2.title": {
+    "message": "ได้รับการยืนยันแล้ว",
+    "description": "Heading for the second benefit."
+  },
+  "partners.requirements.title": {
+    "message": "ความต้องการ",
+    "description": "Heading for the requirements."
+  },
+  "partners.apply.button": {
+    "message": "สมัครตอนนี้!",
+    "description": "Button to apply for partner."
+  },
+  "partners.sponsors.title": {
+    "message": "ผู้สนับสนุน",
+    "description": "Heading for sponsors."
+  },
+  "partners.apply.select.other": {
+    "message": "อื่นๆ",
+    "description": "Select 'Other' category."
+  }
 }
