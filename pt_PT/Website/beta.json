@@ -1,1 +1,42 @@
-{}
+{
+  "beta.title": {
+    "message": "Queres novas funcionalidades?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "O **PreMiD Beta** está agora disponível para todos!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "O que irás receber se registar?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Últimas funcionalidades",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Acesso aos canais de texto super secretos do PreMiD",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Um cargo especial no nosso servidor Discord",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Pronto para isto? Junta-te a outros {0} Testadores Beta!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Registe-se agora!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Fixe! Agora és um utilizador beta!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Os nossos macacos estão a trabalhar para te colocar no nosso programa beta o mais rápido possível. Obrigado por se registar!",
+    "description": "Thank You page description"
+  }
+}

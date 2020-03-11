@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Pripojte sa cez {0} užívateľmi dnes!",
+    "message": "Pripoj sa cez {0} užívateľmi dnes! ",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {

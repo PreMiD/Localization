@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Extensie niet gevonden, functies sluiten...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Extensie gevonden, functies openen...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Maker",
 		"description": "Creator of a presence"
@@ -14,6 +6,10 @@
 	"store.cards.popular": {
 		"message": "Deze presence is erg populair rond gebruikers.",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Deze presence vereist extra stappen om te kunnen werken. Controleer de pagina voor meer informatie.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Deze presence is goedgekeurd door een geverifiëerde ontwikkelaar",

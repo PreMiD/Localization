@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD** - це проста утиліта, яка дозволяє вам показати, що ви робите в мережі у вашому Discord тепер грає статус.",
+    "message": "**PreMiD** - це проста і корисна рія, яка дозволяє вам відобразити, що ви робите в мережі у вашому статусі Discord.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -19,6 +19,10 @@
     "message": "{0} залишилось",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "Відтворюється",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Ви полюбите ці особливості!",
     "description": "Features section"
@@ -28,7 +32,7 @@
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Ми розробили наше розширення таким чином, що дозволяє додавати та використовувати присутності, створені іншими користувачами, та керувати ними в нашому розширенні!",
+    "message": "Ми розробили наше розширення так, що воно дозволяє додавати та використовувати Присутності, створені іншими користувачами, та керувати ними в нашому розширенні!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
@@ -40,15 +44,15 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Втомилися від складних користувацьких інтерфейсів? Ось чому ми створили простий та корисний інтерфейс, у якому увімкнені лише важливі функції:",
+    "message": "Утомилися від складних користувацьких інтерфейсів? Саме тому ми створили простий та корисний інтерфейс, у якому ввімкнені лише важливі функції:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Налаштування додатку і розширенням.",
+    "message": "Налаштування додатку і розширення.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Управління присутностями.",
+    "message": "Управління Присутностями.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {

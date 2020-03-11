@@ -1,15 +1,19 @@
 {
 	"store.message.error": {
-		"message": "A bővítmény nem található, nem elérhető funkciók...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Telepített bővítmény, elérhető funkciók...",
-		"description": "Success message when the extension was detected"
+		"message": "A bővítmény nincs csatlakoztatva.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
 		"message": "Készítő",
 		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Ez az állapotüzenet nagyon népszerű a felhasználók körében.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Ez az állapotüzenet további lépéseket igényel, további információkért, kérjük látogasd meg az oldalt.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Ez az állapotüzenet egy ellenőrzött fejlesztő által lett jóváhagyva",
@@ -74,5 +78,13 @@
 	"store.search": {
 		"message": "Keresés",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "nyomj enter-t",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "A szűrő eltávolításához kattints ide.",
+		"description": "Remove message for active search filters."
 	}
 }

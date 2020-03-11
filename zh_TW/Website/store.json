@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "找不到擴展程序, 正在鎖定功能...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "已搜尋到擴展程序, 正在解除鎖定功能...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "創建者",
 		"description": "Creator of a presence"
@@ -14,6 +6,10 @@
 	"store.cards.popular": {
 		"message": "這個presence 非常受我們用戶歡迎",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "這種 presence 需要額外的步驟才能工作，請查看其頁面以獲取更多信息。",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "此狀態已由經過驗證的開發人員批准",
@@ -78,5 +74,13 @@
 	"store.search": {
 		"message": "搜尋",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "按 Enter 鍵",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "點選以移除過濾器。",
+		"description": "Remove message for active search filters."
 	}
 }

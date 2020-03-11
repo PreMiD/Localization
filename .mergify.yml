@@ -1,0 +1,19 @@
+pull_request_rules:
+  - name: Automatic merge when new translations for docs available
+    conditions:
+      - author=Timeraa
+      - base=documentation
+      - files~=\.md$
+      - title=New Crowdin translations
+    actions:
+      merge:
+        method: merge
+  - name: Automatic merge when new translations for PreMiD available
+    conditions:
+      - author=Timeraa
+      - base=master
+      - files~=\.json$
+      - title=New Crowdin translations
+    actions:
+      merge:
+        method: merge

@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} 没有为该操作系统创建的安装程序，这意味着您将没有技术支持。",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "请注意，PreMiD 当前不支持手机客户端。",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "显示下载",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "隐藏下载",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

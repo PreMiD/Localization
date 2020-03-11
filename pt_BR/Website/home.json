@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Baixar",
+    "message": "Downloads",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -18,6 +18,14 @@
   "home.examples.timestamp": {
     "message": "{0} restante(s)",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "{0} decorrido(s)",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.playback.playing": {
+    "message": "Reproduzindo",
+    "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
     "message": "Você irá amar esses recursos!",
@@ -66,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Visite nosso servidor",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Escolha o idioma do site",
+    "description": "Tippy content of the language selector."
   }
 }

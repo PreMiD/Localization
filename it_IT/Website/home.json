@@ -19,6 +19,14 @@
     "message": "{0} rimasti",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.timestamp2": {
+    "message": "{0} trascorsi",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.playback.playing": {
+    "message": "In riproduzione",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Amerai queste funzioni!",
     "description": "Features section"
@@ -66,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Visita il nostro server",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Seleziona la lingua del sito",
+    "description": "Tippy content of the language selector."
   }
 }

@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "Qeydiyyatdan keç!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Əla! Sən artıq beta istifadəçisən!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Meymunlarımız sizi mümkün qədər tez beta proqramımıza daxil etmək üçün çalışırlar. Qeydiyyat üçün təşəkkür edirik!",
+    "description": "Thank You page description"
   }
 }

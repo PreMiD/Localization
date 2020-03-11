@@ -1,11 +1,7 @@
 {
 	"store.message.error": {
-		"message": "Estensione non trovata, bloccando le funzioni...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Estensione trovata, sbloccando le funzioni...",
-		"description": "Success message when the extension was detected"
+		"message": "Estensione non connessa.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
 		"message": "Creatore",
@@ -14,6 +10,10 @@
 	"store.cards.popular": {
 		"message": "Questa presenza è molto popolare tra gli utenti.",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Questa presenza richiede dei passi aggiuntivi per funzionare, consulta la sua pagina per ulteriori informazioni.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Questa presenza è stata approvata da uno sviluppatore verificato",
@@ -78,5 +78,13 @@
 	"store.search": {
 		"message": "Cerca",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "premi invio",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Clicca per rimuovere il filtro.",
+		"description": "Remove message for active search filters."
 	}
 }

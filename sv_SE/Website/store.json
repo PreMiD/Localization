@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Tillägg hittades inte, låser funktioner...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Tillägg hittades, låser upp funktioner...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Kreatör",
 		"description": "Creator of a presence"

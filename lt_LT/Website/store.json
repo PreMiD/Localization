@@ -1,15 +1,19 @@
 {
 	"store.message.error": {
-		"message": "Plėtinys nerastas, užrakinamos funkcijos...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Plėtinys rastas, atrakinamos funkcijos...",
-		"description": "Success message when the extension was detected"
+		"message": "Plėtinys neprijungtas.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
 		"message": "Kūrėjas",
 		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Šis statusas yra labai populiarus tarp vartotojų.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Šiam statusui reikia papildomų veiksmų. Patikrinkite jo puslapį, kad gautumėte daugiau informacijos.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Šį statusą patvirtino patvirtintas kūrėjas",
@@ -74,5 +78,13 @@
 	"store.search": {
 		"message": "Paieška",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "spauskite Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Paspauskite, jei norite pašalinti filtrą.",
+		"description": "Remove message for active search filters."
 	}
 }

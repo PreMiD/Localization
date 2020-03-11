@@ -7,8 +7,56 @@
         "message": "Prochází...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Kapitola",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Editace:",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Epizoda",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Fóra",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Žánr",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Poslouchám hudbu",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Posluchači",
+        "description": ""
+    },
     "general.live": {
         "message": "Živě",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Stránka",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Pozastaveno",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Přehrávání",
         "description": ""
     },
     "general.reading": {

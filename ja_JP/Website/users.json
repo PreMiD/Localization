@@ -15,6 +15,14 @@
 		"message": "{0}個のプレゼンスを作成済み",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "プレゼンス開発の天才",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "100個以上のプレゼンスを作った！",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "この人の [プレゼンス/貢献]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."

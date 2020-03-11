@@ -1,6 +1,6 @@
 {
   "contributors.headings.staff": {
-    "message": "Штат",
+    "message": "Персонал",
     "description": "Heading for group of users."
   },
   "contributors.headings.supporters": {
@@ -32,15 +32,15 @@
     "description": "'Moderator' title for contributors and user pages."
   },
   "contributors.roles.ticketManager": {
-    "message": "Менеджер тікетів",
+    "message": "Менеджер заявок",
     "description": "'Ticket Manager' title for contributors and user pages."
   },
   "contributors.roles.donator": {
-    "message": "Підтримувач",
+    "message": "Спонсор",
     "description": "'Donator' title for contributors page."
   },
   "contributors.roles.booster": {
-    "message": "Booster",
+    "message": "Прискорювач",
     "description": "'Booster' title for contributors page and user pages."
   },
   "contributors.roles.translator": {
@@ -50,5 +50,21 @@
   "contributors.roles.administrator": {
     "message": "Адміністратор",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Помічник менеджера спільноти",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Помічник головного модератора",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "Молодший модератор",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Редактор",
+    "description": "'Proofreader' title for contributors and user pages."
   }
 }

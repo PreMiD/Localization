@@ -15,6 +15,10 @@
     "message": "{0} jäänud",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "Mängib tagasi",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Sulle meeldivad need võimalused!",
     "description": "Features section"

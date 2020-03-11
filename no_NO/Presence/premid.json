@@ -15,8 +15,20 @@
         "message": "Wiki",
         "description": "A page name"
     },
+    "premid.pageAbout": {
+        "message": "Om",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Installasjon",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Feilsøking",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
         "description": "A page name"
     }
 }

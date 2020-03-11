@@ -1,1 +1,130 @@
-{}
+{
+	"partners.header.title": {
+		"message": "合作夥伴",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "加入我們家族，並獲取一些只有合作夥伴才能擁有的好處，以炫耀您貢獻量。",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "以下的人/公司為我們貢獻了很多",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "為我們貢獻一下 何樂而不為？",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "你專屬的 presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "我們的團隊將為您的網站創建一個 Presence",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "成為已驗證的用户吧",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "在我們的Discord服務器中，您將獲得特殊的用户组和榮譽。",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "你將會在贊助人員榜上有名",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "當有人訪問您的網站時會自動下載和​​啟用您的狀態。",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "永久性",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "属于我們合作夥伴的一個專屬地方",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "成為大人物",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "刊登在我們的社交網站上。",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "要求",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "我們需要什麼？",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "我們時刻關注不斷增長的社區和互聯網上令人興奮的事物。 TL; DR，您應該已經在使用PreMiD，並準備將其傳播到更多的互聯網狂人們。 對該計劃的接受是非常定性的，並且從一個候選人到下一個候選人都會有所不同。",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "我們的防火牆",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "我們目前正在為合作計劃作準備。任何人都有潛質。 Twitch應至少有500個關注者和至少3個觀眾。 您必須每周至少直播1次。",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "立即申請吧！",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "讓我們一起合作",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "如果您對PreMiD的直接工作很感興趣，請查看我們的工作廣告。",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "贊助者清單",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "沒有這些出色的人，PreMiD是不可能成功的。",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "那就是你看動漫的方式。",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings是一款新時代，具有快節奏，以及可以在瀏覽器中遊玩的PvP競技場遊戲。",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat是一家非營利性國際廣播公司，致力於提供不間斷地優質的廣播和新聞娛樂。",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "玩家可以再這個平台賺錢",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "一個功能強大且易於使用的跨平台安裝程序創建工具。",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "輕鬆將實時狀態傳達給用戶。",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "針對科技公司實現敏捷本地化。",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "最強大和可擴展的開源Wiki軟件。",
+		"description": "Description for WikiJS."
+	}
+}

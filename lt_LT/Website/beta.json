@@ -1,1 +1,42 @@
-{}
+{
+  "beta.title": {
+    "message": "Norite naujų funkcijų?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** dabar prieinamas visiems!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Ką gausite, jeigu užsiregistruosite?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Naujausios funkcijos",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Prieiga prie super slaptų „PreMiD“ teksto kanalų",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Ypatinga rolė mūsų „Discord“ serveryje",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Pasiruošę tam? Prisijunkite prie {0} kitų beta versijos bandytojų!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Užsiregistruokite dabar!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Šaunu! Dabar esate beta vartotojas!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Mūsų beždžionės stengiasi kuo greičiau įtraukti jus į mūsų beta versiją. Ačiū, kad užsiregistravote!",
+    "description": "Thank You page description"
+  }
+}

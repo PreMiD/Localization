@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Наразі дивиться рекламу",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Переглядає крізь відео",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Переглядає крізь списки відтворення",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Переглядає повідомлення спільноти",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "каналу ",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Читає про канал",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Шукає на каналі {0} ",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Переглядає популярне",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Переглядає крізь",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "свої підписки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "свою бібліотеку",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "свою історію",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "свої покупки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Переглядає скарги про неприйнятний вміст",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Вивантажує щось...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Переглядає всі свої списки відтворення",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Переглядає свої події в реальному часі",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Переглядає панель керування",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Переглядає звукову бібліотеку",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Переглядає свої відео",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Редагує відео ",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Переглядає аналітику відео ",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Переглядати коментарі відео ",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Переглядає переклади до відео ",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Переглядає поток ",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "аналітика каналу",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "коментарі каналу",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "переклади каналу",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "сторінка виконавця",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Переглядає панель керування",
+        "description": ""
+    }
+}

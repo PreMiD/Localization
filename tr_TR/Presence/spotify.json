@@ -1,14 +1,22 @@
 {
-    "spotify.featured": {
-        "message": "Öne çıkan şarkılar",
-        "description": ""
-    },
-    "spotify.bestPodcasts": {
-        "message": "En çok dinlenilen podcastler",
-        "description": ""
-    },
-    "spotify.genres": {
-        "message": "Türler arasında dolaşıyor",
-        "description": ""
-    }
+	"spotify.featured": {
+		"message": "Öne çıkan şarkılar",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "En çok dinlenilen podcastler",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Türler arasında dolaşıyor",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Yeni şarkıları keşfediyor",
+		"description": ""
+	},
+	"spotify.madeForYou": {
+		"message": "\"Senin için yapıldı\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	}
 }

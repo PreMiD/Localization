@@ -46,5 +46,9 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0}アプリにはこのOS用のインストーラーがありません。 つまりこの環境に対しての専門的なサポートはありません。",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "PreMiDは現在、スマートフォンには対応していません。",
+    "description": "Downloads page warning when user is on mobile."
   }
 }

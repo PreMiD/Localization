@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Er is geen installatieprogramma voor dit besturingssysteem. Dit betekent dat er geen professionele ondersteuning voor is.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Wees er alstublieft van bewust dat PreMiD momenteel niet wordt ondersteund op mobiele apparaten.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Downloads tonen",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Downloads verbergen",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

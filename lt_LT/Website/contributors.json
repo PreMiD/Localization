@@ -46,5 +46,33 @@
   "contributors.roles.translator": {
     "message": "Vertėjai",
     "description": "'Translator' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administratorius",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Bendruomenės vadovo padėjėjas",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Moderatoriaus padėjėjas",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "Jaunesnysis moderatorius",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Korektorius",
+    "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "Vartotojo ID nukopijuotas į jūsų iškarpinę!",
+    "description": "Notification after user ID was copied."
   }
 }

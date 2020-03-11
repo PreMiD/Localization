@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Não há instalador para este sistema operacional. Isso significa que não há suporte profissional para ele.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Por favor, esteja ciente de que o PreMiD não é atualmente suportado em dispositivos móveis.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Mostrar Downloads",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Esconder Downloads",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

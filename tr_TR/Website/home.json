@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "İndir",
+    "message": "İNDİR",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -18,6 +18,14 @@
   "home.examples.timestamp": {
     "message": "{0} kaldı",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "{0} geçti",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.playback.playing": {
+    "message": "Oynatılıyor",
+    "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
     "message": "Bu özelliklere bayılacaksınız!",
@@ -66,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Sunucumuza katılın",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Sitenin dilini seç",
+    "description": "Tippy content of the language selector."
   }
 }

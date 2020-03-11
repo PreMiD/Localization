@@ -1,1 +1,58 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Assistindo um anúncio",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Navegando por vídeos",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Navegando por playlists",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Visualizando posts de comunidade",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "do canal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Lendo sobre o canal:",
+        "description": ""
+    },
+    "youtube.trending": {
+        "message": "A ver as tendências",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Navegando Por",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.upload": {
+        "message": "A enviar algo...",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Editando vídeo:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Visualizando analytics do vídeo:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Visualizando comentários do vídeo:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Vizualizando Suas",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.artistPage": {
+        "message": "página do artista",
+        "description": "Part two of \"Viewing their\""
+    }
+}

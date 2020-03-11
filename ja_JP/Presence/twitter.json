@@ -1,1 +1,14 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "ツイートを閲覧中",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "通知",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "設定を変更中",
+        "description": ""
+    }
+}

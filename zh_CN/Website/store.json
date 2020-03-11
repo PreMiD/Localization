@@ -1,11 +1,7 @@
 {
 	"store.message.error": {
-		"message": "扩展程序未安装，禁用功能…",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "扩展程序已安装，启用功能…",
-		"description": "Success message when the extension was detected"
+		"message": "扩展程序未连接。",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
 		"message": "创建者",
@@ -14,6 +10,10 @@
 	"store.cards.popular": {
 		"message": "这个 Presence 非常受用户欢迎。",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "此 Presence 需要额外步骤才能启用，请检查其页面以获得更多信息。",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "此状态已由认证的开发人员批准",
@@ -78,5 +78,13 @@
 	"store.search": {
 		"message": "搜索",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "按下回车键",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "点击删除过滤标签。",
+		"description": "Remove message for active search filters."
 	}
 }

@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Det er ingen installer for dette operasjon systemet! Dette betyr at det er ingen profesjonell support for det.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Vær oppmerksom på at PreMiD foreløpig ikke er støttet på mobiltelefoner.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Vis nedlastinger",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Skjul nedlastinger",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

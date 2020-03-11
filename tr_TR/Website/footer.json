@@ -8,7 +8,7 @@
     "description": "Promotional heading"
   },
   "footer.usercount.message": {
-    "message": "Diğer {0} kullanıcımızın arasına katıl!",
+    "message": "Diğer {0} kullanıcının arasına katıl!",
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
   },
   "footer.usercount.button": {

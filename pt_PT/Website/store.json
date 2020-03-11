@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Extensão não encontrada, a bloquear funções...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Extensão encontrada, a desbloquear funções...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Criador(a)",
 		"description": "Creator of a presence"
@@ -14,6 +6,10 @@
 	"store.cards.popular": {
 		"message": "Esta presença é muito popular entre os usuários.",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Esta presença requer passos adicionais para funcionar, por favor, verifique a sua página para mais informações.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Esta presença foi aprovada por um desenvolvedor verificado",
@@ -64,7 +60,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Social",
+		"message": "Sociais",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -72,7 +68,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "Outro",
+		"message": "Outros",
 		"description": "Category at the top"
 	},
 	"store.search": {

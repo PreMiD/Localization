@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Переглядає дошку ",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Переглядає пін",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Переглядає своїх послідовників",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Редагує свою домашню сторінку",
+        "description": ""
+    }
+}

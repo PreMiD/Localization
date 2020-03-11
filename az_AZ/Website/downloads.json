@@ -46,5 +46,9 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Bu əməliyyat sistemi üçün quraşdırıcı yoxdur. Bu o deməkdir ki, bunun üçün peşəkar dəstək yoxdur.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Unutmayın ki, PreMiD hazırda mobil olaraq dəstəklənmir.",
+    "description": "Downloads page warning when user is on mobile."
   }
 }

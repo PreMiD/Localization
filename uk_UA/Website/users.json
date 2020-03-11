@@ -15,16 +15,24 @@
 		"message": "Створено присутностей {0}.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Розробник Присутностей",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Створив понад 100 Присутностей!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "Користувач [присутності/внески]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Натисніть тут, щоб показати присутності, які створив користувач.",
+		"message": "Натисніть тут, щоб показати Присутності, які створив користувач.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Натисніть тут, щоб побачити присутності, на які зробив цей користувач.",
+		"message": "Натисніть тут, щоб побачити присутності, у які зробив внесок цей користувач.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

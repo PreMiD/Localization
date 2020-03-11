@@ -15,6 +15,10 @@
     "message": "{0} tersisa",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.playback.playing": {
+    "message": "Memutar kembali",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "Kamu akan menyukai fitur ini!",
     "description": "Features section"

@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Розширення не знайдено, блокування функцій...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Розширення знайдено, розблокування функцій...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Творець",
 		"description": "Creator of a presence"
@@ -14,6 +6,10 @@
 	"store.cards.popular": {
 		"message": "Ця присутність дуже популярна серед користувачів.",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Ця присутність потребує додаткових кроків для роботи. Будь ласка, перевірте її сторінку, щоб отримати детальну інформацію.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Ця присутність була додана верифікованим розробником",

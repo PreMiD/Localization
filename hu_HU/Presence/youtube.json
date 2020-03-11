@@ -1,1 +1,22 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Reklámot néz",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Videókat böngész",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Lejátszási listákat böngész",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Közösségi bejegyzéseket böngész",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "Csatorna:",
+        "description": "Second part of multiple strings"
+    }
+}

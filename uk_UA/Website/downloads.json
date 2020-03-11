@@ -8,7 +8,7 @@
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
-    "message": "Почати",
+    "message": "Розпочати",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
@@ -46,5 +46,17 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Застосунок не має встановлювача для цієї операційної системи. Це означає, що для цієї ОС немає професійної підтримки.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Будь ласка, майте на увазі, що PreMiD в даний час не підтримується на мобільному телефоні.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Показати завантаження",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Приховати завантаження",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

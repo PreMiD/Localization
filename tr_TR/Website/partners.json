@@ -1,26 +1,130 @@
 {
-  "partners.header.title": {
-    "message": "ORTAKLAR",
-    "description": "Heading for page."
-  },
-  "partners.why.title": {
-    "message": "Cehennem yerine cennete gitmeye ne dersiniz?",
-    "description": "Heading for benefits."
-  },
-  "partners.why.benefit1.description": {
-    "message": "Ekibimiz sizin projenize özel bir Servis hazırlayacak.",
-    "description": "Description for the first benefit."
-  },
-  "partners.why.benefit2.title": {
-    "message": "Onaylı olun",
-    "description": "Heading for the second benefit."
-  },
-  "partners.why.benefit4.description": {
-    "message": "Ortak sayfamızda güzel bir yere sahip olun.",
-    "description": "Description for the fourth benefit."
-  },
-  "partners.why.benefit5.title": {
-    "message": "Ünlü olun",
-    "description": "Heading for the fifth benefit."
-  }
+	"partners.header.title": {
+		"message": "ORTAKLAR",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Partnerimiz olun ve diğerlerine ne kadar havalı ve \"kuul\" olduğunuzu gösterin.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Bunlar hâli hazırda bizimle partner",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Cehennem yerine cennete gitmeye ne dersiniz?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Servisinize özel RPC",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Ekibimiz sizin projenize özel bir Servis hazırlayacak.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Onaylı olun",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Discord sunucumuzda sahip olacağınız özel bir rol ve statü.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta etiket entegrasyonu",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Bir kullanıcı sizin sitenizi ziyaret ettiğinde otomatik olarak sizin servisinizi çalıştırır.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Ölümsüz olun",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Partner sayfamızda güzel bir yere sahip olun.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Ünlü olun",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Sosyal medya hesaplarımızda öne çıkın.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "GEREKSİNİMLER",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Neler arıyoruz?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "İnternet üzerinde potansiyel gösteren topluluklar ve heyecan verici şeyleri takip ediyoruz. Kısacası, partner programı için sizin de PreMiD'i kullanmanız ve internet üzerinde yayılmamıza yardım etmeniz gerekiyor. Program, nitelikli incelemeler ve bir çok madde onayından geçtiği için az sayıda katılımcıların bu programa katılacağını düşünüyoruz.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Güvenlik duvarımız",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Partnerlik programımızda şimdilik bu şekilde belli başlı gereksinimlere bakıyoruz. Başvuru yapan herkes incelenme hakkına sahiptir. Twitch yayıncıları en az 500 takipçili olmalı ve 3 adet aktif izleyicisi olmalıdır. Bunun yanı sıra haftada en az 1 kere yayın yapmalıdırlar.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Hemen başvurun!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Hadi birlikte cennete gidelim!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Eğer PreMiD'de bir iş arıyorsanız, iş sayfamıza göz atın.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "SPONSORLAR",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "Bu inanılmaz kişiler olmasaydı, PreMiD'de bugün burada olmazdı.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Anime izlemenin yolu.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings tarayıcınızdan oynayabileceğiniz, ileri seviye, hızlı PvP Arena Kapışması oyunudur.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat, aralıksız, kaliteli radyo hizmeti sunani kâr amacı gütmeyen bir internet radyosudur.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Oyuncu kazanç platformu.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Servisinizin anlık durumunu kullanıcılara sunabileceğiniz platform.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "En güçlü ve en gelişmiş Viki yazılımı.",
+		"description": "Description for WikiJS."
+	}
 }

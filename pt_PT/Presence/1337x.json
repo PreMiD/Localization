@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "A ver a biblioteca de filmes",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "A ver a biblioteca de séries",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "A ver os últimos episódios",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "A ver o top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "A ver as tendências",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "A ver Torrents de Anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "A ver Torrents de Aplicações",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "A ver Torrents de documentários",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "A ver Torrents de Jogos",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "A ver Torrents de Filmes",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "A ver Torrents de Música",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "A ver Outros Torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "A ver Torrents de Televisão",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "A ver Torrents XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "A enviar algo...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "A ler as regras",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "A escrever para o 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "A ler sobre o 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "A ler torrent:",
+        "description": ""
+    }
+}

@@ -1,6 +1,6 @@
 {
     "premid.pageContributors": {
-        "message": "Учасники проєкту",
+        "message": "Учасники проекту",
         "description": "A page name"
     },
     "premid.pageDownloads": {
@@ -9,6 +9,14 @@
     },
     "premid.pageStore": {
         "message": "Магазин",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Політика конфіденційності",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Умови обслуговування",
         "description": "A page name"
     },
     "premid.pageWiki": {

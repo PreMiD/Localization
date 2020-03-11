@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Переглядає бібліотеку фільмів",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Переглядає бібліотеку серіалів",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Переглядає останні епізоди",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Перегляд 100 найкращих",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Переглядає популярне",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Переглядає торенти з аніме",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Переглядає торенти з додатками",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Переглядає торенти з документацією",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Переглядає торенти з іграми",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Переглядає торенти з фільмів",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Переглядає торенти з музикою",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Переглядає інші торенти",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Переглядає торенти з телебаченням",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Переглядає NSFW торенти",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Вивантажує щось...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Читає правила",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Пише до 1337х",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Читає про 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Переглядає торент:",
+        "description": ""
+    }
+}

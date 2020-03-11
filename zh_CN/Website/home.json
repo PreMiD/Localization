@@ -19,6 +19,14 @@
     "message": "还剩 {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.timestamp2": {
+    "message": "已经过了 {0}",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.playback.playing": {
+    "message": "正在播放",
+    "description": "Discord Rich Presence -> small image text;"
+  },
   "home.features.heading": {
     "message": "你会爱上这些功能！",
     "description": "Features section"
@@ -66,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "访问我们的服务器",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "选择网站语言",
+    "description": "Tippy content of the language selector."
   }
 }

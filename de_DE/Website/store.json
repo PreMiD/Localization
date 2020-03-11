@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Erweiterung nicht gefunden, sperre Funktionen...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Erweiterung gefunden, entsperre Funktionen...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Ersteller",
 		"description": "Creator of a presence"

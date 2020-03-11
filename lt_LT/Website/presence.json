@@ -1,4 +1,8 @@
 {
+	"presence.page.buttons.sourceCode": {
+		"message": "Pirminis kodas",
+		"description": "Source Code button on presence pages."
+	},
 	"presence.sections.description.title": {
 		"message": "Aprašymas",
 		"description": "The title of the description section."
@@ -14,6 +18,10 @@
 	"presence.sections.information.version": {
 		"message": "Versija",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Vartotojai",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
 		"message": "Žymos",

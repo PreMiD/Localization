@@ -1,1 +1,126 @@
-{}
+{
+	"partners.header.title": {
+		"message": "ПАРТНЕРИ",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Приєднайтесь до FAM і отримуй переваги від партнера тільки для того, щоб показати скільки у вас халатів.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Вони вже належать нам",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Як щодо того, щоб потрапити на рай замість пекла?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Ваша безкоштовна присутність",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Наша команда надасть вам присутність вашого веб-сервісу.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Станьте перевіреним",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Спеціальна роль і велика честь будуть надані вам на нашому сервері Discord.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Інтеграція з мета-тегами",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматично вмикає Присутність під час відвідування вашого сайту.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Відокремте",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "На нашій сторінці партнера гарне місце.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Будь відомим",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Рекомендовано нашими соціальними мережами.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "ВИМОГИ",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Що ми шукаємо?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Ми спостерігаємо за розвитком громад і захоплюючими речами в інтернеті. БАГАТОЛІТЕР!! Вам уже потрібно використовувати PreMiD і бути готовим до поширення на ще більше перехідних інтернет-сервісів. Прийняття до програми є надзвичайно якісним і буде відрізнятися у всіх кандитів.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Наш брандмауер",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "В даний час ми приймаємо різні зусилля щодо нашої програми партнерства. Будь-хто повинен мати можливість бути помічений. Стрімери Twitch повинні мати принаймні 500 послідовників і принаймні 3-ох одночасних глядачів. Ви повинні транслювати принаймні 1 раз на тиждень.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Подайте зараз!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Ходімо до раю разом!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте нашу рекламу про роботу.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "СПОНСОРИ",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD не став би можливим без цих дивовижних людей.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Ось так ви дивитеся аніме.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Арена Королів — це PvP Арена в браузері наступного покоління, яка швидко набирає обертів.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat — це некомерційне міжнародне радіо, яке прагне забезпечити безупинне, якісне радіо та новини.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Ігрова платформа для заробітку.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Легко спілкуйтеся в реальному часі зі своїми користувачами.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "Рішення для гнучкої локалізації для технологічних компаній.",
+		"description": "Description for Crowdin."
+	}
+}

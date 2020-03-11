@@ -1,1 +1,34 @@
-{}
+{
+    "youtube.ad": {
+        "message": "広告を視聴中",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "チャンネルの動画一覧",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "チャンネルのプレイリスト",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "チャンネルのコミュニティ投稿",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "を閲覧中:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "チャンネルの概要を閲覧中:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "チャンネル {0} 内の検索中:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.history": {
+        "message": "履歴",
+        "description": "Part two of \"Browsing through\""
+    }
+}

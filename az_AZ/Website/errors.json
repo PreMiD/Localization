@@ -1,1 +1,46 @@
-{}
+{
+  "store.search.notFound": {
+    "message": "Bu statusu tapa bilmədik.",
+    "description": "Search result text when nothing's found"
+  },
+  "error.code.404": {
+    "message": "Bağışlayın, bu səhifəni tapa bilmədik.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "Hal-hazırda mövcud olmayan və ya silinmiş statusu axtarırsınız.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "Server xətası baş verdi.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "Detallar",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Ana Səhifəyə qayıt",
+    "description": "Button on the error page"
+  },
+  "user.notFound.heading": {
+    "message": "Bu istifadəçini tapmaq mümkün olmadı. Əmin olmağa çalışın:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Axtardığınız istifadəçinin ID-si düzgündür.",
+    "description": "Check user ID message."
+  },
+  "user.notFound.message2": {
+    "message": "İstifadəçi kifayət qədər status yaradıb və Discord serverimizdə rolu var.",
+    "description": "Check the presence amount of the developer created message."
+  },
+  "user.notFound.message3": {
+    "message": "Discord serverimizdə başqalarının da eyni problemlə qarşılaşıb-qarşılaşmadığına baxın.",
+    "description": "Check if the error is also happening to others message."
+  },
+  "user.notFound.message4": {
+    "message": "Bir xəta olduğunu düşünürsünüzsə, bizimlə [Discord serverimizdə] əlaqə saxlayın.",
+    "description": "Bottom line for the error page. Do not edit brackets."
+  }
+}

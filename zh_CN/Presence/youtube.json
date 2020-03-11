@@ -1,1 +1,38 @@
-{}
+{
+    "youtube.ad": {
+        "message": "正在观看广告",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "正在浏览视频",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "正在浏览播放列表",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "查看社区帖子",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "频道：",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.trending": {
+        "message": "查看热门内容",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "浏览中",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.upload": {
+        "message": "正在上传一些东西...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "查看他们的",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}

@@ -8,7 +8,7 @@
     "description": "Error (404) message"
   },
   "error.code.4": {
-    "message": "Ви шукаєте не існуючу чи видалену присутність.",
+    "message": "Ви шукаєте присутність, якої була видалена чи взагалі не існувала.",
     "description": "Error (4) message"
   },
   "error.code.500": {
@@ -20,7 +20,7 @@
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
-    "message": "Повернутися на головну сторінку",
+    "message": "Повернутися до головної сторінки",
     "description": "Button on the error page"
   },
   "user.notFound.heading": {

@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Əlavə tapılmadı, funksiyalar kilidlənir...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Əlavə tapıldı, funksiyalar açılır...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Yaradıcı",
 		"description": "Creator of a presence"

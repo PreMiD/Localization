@@ -1,12 +1,4 @@
 {
-	"store.message.error": {
-		"message": "Không tìm thấy tiện ích mở rộng, đang khóa chức năng...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Đã tìm thấy tiện ích, mở khóa chức năng...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Tác giả",
 		"description": "Creator of a presence"
@@ -52,7 +44,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "Games",
+		"message": "Trò chơi",
 		"description": "Category at the top"
 	},
 	"store.category.music": {

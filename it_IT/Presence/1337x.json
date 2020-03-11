@@ -1,1 +1,30 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Guardando la libreria film",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Guardando la libreria serie",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Guardando gli ultimi episodi",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Guardando i primi 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Guardando le tendenze",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Guardando torrent Anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Guardando App Torrent",
+        "description": ""
+    }
+}

@@ -1,1 +1,58 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Seçilmiş mahnılar",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Ən yaxşı podkastlar",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Qrafiklərə baxır",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Janrlara baxır",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Son buraxılanlara baxır",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Yeni mahnılara göz gəzdirir",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Göz gəzdirir",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "bəyəndiyi podkastlar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "bəyəndiyi sənətçilər",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "bəyəndiyi albomlar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "bəyəndiyi mahnılar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Sənin üçün hazırlandı\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "onların mahnı siyahısı",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify yükləyir",
+		"description": ""
+	}
+}

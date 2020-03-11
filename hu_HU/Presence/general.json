@@ -7,12 +7,88 @@
         "message": "Böngészés...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Fejezet",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Szerkeszt:",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "Epizód",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Fórumok",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Műfaj",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Zenét hallgat",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Hallgatók",
+        "description": ""
+    },
     "general.live": {
         "message": "Élő közvetítés",
         "description": ""
     },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Oldal",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Szüneteltetve",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Most szól",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Üzeneteket olvas tőle:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "A következőről olvas:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Cikket olvas:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Csatornán olvas:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Bejegyzést olvas:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Olvasás",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Keres:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Valamit keres...",
         "description": ""
     },
     "general.search": {
@@ -22,5 +98,61 @@
     "general.store": {
         "message": "Áruház",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Üzenetet ír neki:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Üzenetet ír itt:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Animét néz:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Kategóriát böngész:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Csatornát böngész:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Epizódot néz:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Műfajt néz:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Főoldalon",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Listát böngész:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Mangát olvas:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Videót néz",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Élő adást néz",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Adatvédelmi irányelvek",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Felhasználási feltételek",
+        "description": "A page name"
     }
 }

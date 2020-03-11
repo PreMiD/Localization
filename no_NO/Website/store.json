@@ -1,15 +1,15 @@
 {
-	"store.message.error": {
-		"message": "Extensionen ble ikke funnet, lukker functions...",
-		"description": "Error message when the extension wasn't detected"
-	},
-	"store.message.success": {
-		"message": "Extension ble funnet, åpner functions...",
-		"description": "Success message when the extension was detected"
-	},
 	"store.cards.creator": {
 		"message": "Skaper",
 		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Denne presencen er veldig populær blant brukere.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Denne presencen krever ekstra trinn for å fungere, vennligst sjekk dens side for mer informasjon.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.cards.verified": {
 		"message": "Denne presencen var godkjent av en bekreftet utvikler",
@@ -30,6 +30,22 @@
 	"store.card.presence.included": {
 		"message": "Denne presencen er automatisk aktivert når du trenger den, så du trenger ikke å legge den til.",
 		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Søkefiltere",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Vis mest brukt først",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Tillat innhold for voksne",
+		"description": "Adult content checkbox"
+	},
+	"store.category.heading": {
+		"message": "Kategorier",
+		"description": "Category heading"
 	},
 	"store.category.all": {
 		"message": "Alle",

@@ -50,5 +50,29 @@
   "contributors.roles.administrator": {
     "message": "Yönetici",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Yrd. Topluluk Yöneticisi",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Yrd. Baş Yetkili",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "Deneme Yetkili",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Düzeltmen",
+    "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "ID'yi kopyalamak için tıklayın.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "Kullanıcının ID'si panonuza kopyalandı!",
+    "description": "Notification after user ID was copied."
   }
 }

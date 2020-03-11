@@ -1,1 +1,6 @@
-{}
+{
+  "home.examples.playback.playing": {
+    "message": "প্লেয়িং ব্যাক",
+    "description": "Discord Rich Presence -> small image text;"
+  }
+}

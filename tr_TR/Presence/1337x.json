@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Film kütüphanesine bakıyor",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Dizi kütüphanesine bakıyor",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Son bölümlere bakıyor",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "En iyi 100'ü görüntülüyor",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Trendleri görüntülüyor",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Anime Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Uygulama Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Doküman Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Oyun Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Film Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Müzik Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Diğer Torrentlere Bakıyor",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "TV Torrentlerine Bakıyor",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "XXX Torrentlerine Bakıyor",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Bir şey yüklüyor...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Kuralları okuyor",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "1337x'e Yazıyor",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "1337x hakkında okuyor",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Torrent'e bakıyor:",
+        "description": ""
+    }
+}

@@ -7,24 +7,212 @@
         "message": "Göz atıyor...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Bölüm",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Düzenliyor:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Bölüm",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Forum",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Tür",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Müzik dinliyor",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Dinleyiciler",
         "description": ""
     },
     "general.live": {
         "message": "Canlı",
         "description": ""
     },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Mağaza",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Sayfa",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Duraklatıldı",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Oynatılıyor",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Şu kişi ile mesajlaşıyor:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Okuyor:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Şu gönderiyi okuyor:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Şu kanalda okuyor:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Gönderi okuyor:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Konu okuyor:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Okuyor",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Arıyor:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Bir şeyler arıyor...",
         "description": ""
     },
     "general.search": {
         "message": "Arıyor",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Alışveriş sepeti",
+        "description": ""
+    },
     "general.store": {
         "message": "Mağaza",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Şu kişiye mesaj yazıyor:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Şu kanala yazıyor:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Şu animeye bakıyor:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Şu kategoriye bakıyor:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Şu kanala bakıyor:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Şu bölüme bakıyor:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Şu türe bakıyor:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Ana sayfaya bakıyor",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Şunun listesine bakıyor:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Şu mangaya bakıyor:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Şu kullanıcıya bakıyor:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Şu filme bakıyor:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Şu oynatma listesine bakıyor:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Şu ürüne bakıyor:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Şunun profiline bakıyor:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Şu diziye bakıyor:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Hesabına bakıyor",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Şu konuya bakıyor:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Şu kullanıcıya bakıyor:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Bakıyor:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Bir video izliyor",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Bir yayın izliyor",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Şunu izliyor:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "İstek listesi:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Gizlilik Politikası",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Kullanım Koşulları",
+        "description": "A page name"
     }
 }

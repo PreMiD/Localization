@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Vendo Inscrições",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Vendo Prefencias de Publicidade ",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Vendo Seu Saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Vendo seus métodos de pagamento",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Vendo seu endereço",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Vendo Seus animais de estimação",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "vendo todas as categorias",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Vendo Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Vizualizando Suas",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "Historico de Encomendas",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "Detalhes da Encomenda",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "Carrinho de Compras",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "Lista de Desejos",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "Giftcards",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ver Encomendas",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ver Historico",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Vendo Loja:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Assistindo no Prime Video:",
+        "description": ""
+    }
+}

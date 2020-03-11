@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Bir sayfayı görüntülüyor:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dökümanlar",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Bir servise bakıyor:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Ana sayfa",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Katkıda Bulunanlar",
         "description": "A page name"
@@ -11,8 +27,24 @@
         "message": "Mağaza",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Çerez Politikası",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Gizlilik Politikası",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Kullanım Koşulları",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Viki",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Hakkında",
         "description": "A page name"
     },
     "premid.pageSysReq": {

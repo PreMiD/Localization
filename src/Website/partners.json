@@ -123,9 +123,9 @@
     "message": "Agile localization for tech companies.",
     "description": "Description for Crowdin."
   },
-  "partners.apply.title": {
-    "message": "Apply for partner",
-    "description": "Title of the partner application modal."
+  "partners.partner.wikijs": {
+    "message": "The most powerful and extensible open source Wiki software.",
+    "description": "Description for WikiJS."
   },
   "partners.apply.loggedUser": {
     "message": "Logged in as {0}",

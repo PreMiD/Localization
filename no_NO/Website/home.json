@@ -1,4 +1,8 @@
 {
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** er et simpelt og konfigurerbart program som lar deg vise hva du gjør på internett via din Discord \"spiller nå\" status.",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "Våre funksjoner",
     "description": "Introduction button"
@@ -14,6 +18,14 @@
   "home.examples.timestamp": {
     "message": "{0} igjen",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "{0} brukt",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.playback.playing": {
+    "message": "Spiller tilbake",
+    "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
     "message": "Du kommer til å elske disse funksjonene!",

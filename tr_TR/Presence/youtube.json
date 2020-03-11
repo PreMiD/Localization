@@ -1,1 +1,38 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Bir reklam izliyor",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Videolara göz atıyor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Oynatma listelerine göz atıyor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.trending": {
+        "message": "Trendleri görüntülüyor",
+        "description": ""
+    },
+    "youtube.reportHistory": {
+        "message": "Rapor geçmişini görüntülüyor",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Bir şey yüklüyor...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Tüm oynatma listelerini görüntülüyor",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Canlı yayın etkinliklerini görüntülüyor",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Bir videoyu düzenliyor:",
+        "description": ""
+    }
+}

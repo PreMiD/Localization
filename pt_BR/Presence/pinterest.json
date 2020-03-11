@@ -1,1 +1,10 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Vendo sua Board:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Visualizando um pin",
+        "description": ""
+    }
+}

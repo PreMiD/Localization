@@ -1,1 +1,14 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Tviti oxuyur:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Tvitlərə baxır:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Tvitlərə (cavablarla) baxır:",
+        "description": ""
+    }
+}

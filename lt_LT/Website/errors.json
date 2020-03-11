@@ -3,6 +3,26 @@
     "message": "Mes negalime rasti to statuso.",
     "description": "Search result text when nothing's found"
   },
+  "error.code.404": {
+    "message": "Atsiprašome, šios puslapio neradome.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "Statusas kurio ieškote neegzistuoja arba yra ištrintas.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "Įvyko serverio klaida.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "Detalizuotai",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Grįžti į pagrindinį puslapį",
+    "description": "Button on the error page"
+  },
   "user.notFound.heading": {
     "message": "To vartotojo nepavyko rasti. Pabandykite įsitikinti:",
     "description": "Error when user couldn't be found."

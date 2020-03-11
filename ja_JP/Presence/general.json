@@ -31,8 +31,16 @@
         "message": "ジャンル",
         "description": ""
     },
+    "general.listeningMusic": {
+        "message": "音楽を再生中",
+        "description": ""
+    },
     "general.live": {
         "message": "ライブ",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "マンガ",
         "description": ""
     },
     "general.reading": {
@@ -46,5 +54,29 @@
     "general.store": {
         "message": "ストア",
         "description": ""
+    },
+    "general.watchingVid": {
+        "message": "動画を視聴中",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "ライブを視聴中",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "視聴中:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "ほしい物リスト",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "プライバシーポリシー",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "利用規約",
+        "description": "A page name"
     }
 }

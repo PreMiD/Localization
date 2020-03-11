@@ -7,24 +7,212 @@
         "message": "Navegando...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Capítulo",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Editando:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Episódio",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Fóruns",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Gênero",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Ouvindo música",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Ouvintes",
         "description": ""
     },
     "general.live": {
         "message": "Ao vivo",
         "description": ""
     },
+    "general.manga": {
+        "message": "Mangá",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Produtos",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Página",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Pausado",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Reproduzindo",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Lendo DMs de:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Lendo sobre:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Lendo artigo:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Lendo no canal:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Lendo post:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Lendo tópico:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Lendo",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Procurando por:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Procurando por algo...",
         "description": ""
     },
     "general.search": {
         "message": "Buscando",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Carrinho de compras",
+        "description": ""
+    },
     "general.store": {
         "message": "Loja",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Escrevendo em DMs para:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Escrevendo no canal:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Vendo anime:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Vendo categoria:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Vendo canal:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Vendo episódio:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Vendo gênero:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Vendo página inicial",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Vendo lista de:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Vendo mangá:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Vendo membro:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Vendo filme:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Vendo playlist:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Vendo produto:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Visualizando perfil de:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Visualizando série:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Visualizando conta",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Vendo tópico:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Vendo usuário:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Vendo:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Assistindo um vídeo",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Assistindo uma livestream",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Assistindo:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Lista de Desejos:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Política de Privacidade",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Termos de Serviço",
+        "description": "A page name"
     }
 }

@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.trending": {
+        "message": "A ver as tendências",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "A enviar algo...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "A ver os(as) seus(suas)",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}
