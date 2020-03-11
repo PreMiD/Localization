@@ -1,130 +1,198 @@
 {
-	"partners.header.title": {
-		"message": "PARTNERS",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Join the fam and get some partner-only benefits to show off how much swag you have.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "These already belong to us",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "How about going to heaven instead of hell?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Your free presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Our team will provide you with a Presence of your webservice.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Become verified",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "A special role and great honor will be given to you in our Discord server.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Meta-tag integration",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automatically enables your Presence when someone is visiting your Website.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Get immortalized",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "A nasty place on our partner page.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Be famous",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Featured on our socials.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "REQUIREMENTS",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "What are we looking for?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "We keep an eye out for growing communities and exciting things around the internet. TL;DR you should already using PreMiD and be ready to spread it to even more internet freaks. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Our firewall",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "We are currently accepting various kinds of effort into our partnership program. Anyone should have the chance to be noticed. Twitch broadcasters should have at least 500 followers and at least 3 concurrent viewers. You must be streaming at least 1 time per week.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Apply now!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Let's go to heaven together!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "If you are rather interesed in a direct job at PreMiD, then take a look at our job advertisement.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSORS",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD wouldn't be possible, without these amazing people.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "That's how you watch anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings is a next-gen fast-paced PvP Arena Game played in the browser.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat is a non-profit international radio which strives to provide non-stop, quality radio and news entertainment.",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.iLoot": {
-		"message": "The gamer earning platform.",
-		"description": "Description for iLoot."
-	},
-	"partners.partner.bitRock": {
-		"message": "A powerful and easy to use cross platform installer creation tool.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Easily communicate real-time status to your users.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.crowdin": {
-		"message": "Agile localization for tech companies.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "The most powerful and extensible open source Wiki software.",
-		"description": "Description for WikiJS."
-	}
+  "partners.header.title": {
+    "message": "PARTNERS",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Join the fam and get some partner-only benefits to show off how much swag you have.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "These already belong to us",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "How about going to heaven instead of hell?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Your free presence",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Our team will provide you with a Presence of your webservice.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Become verified",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "A special role and great honor will be given to you in our Discord server.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Meta-tag integration",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Automatically enables your Presence when someone is visiting your Website.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Get immortalized",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "A nasty place on our partner page.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Be famous",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Featured on our socials.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "REQUIREMENTS",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "What are we looking for?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "We keep an eye out for growing communities and exciting things around the internet. TL;DR you should already using PreMiD and be ready to spread it to even more internet freaks. Acceptance into the program is extremely qualitative and will vary from one candidate to the next.",
+    "description": "Description for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "Our firewall",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "We are currently accepting various kinds of effort into our partnership program. Anyone should have the chance to be noticed. Twitch broadcasters should have at least 500 followers and at least 3 concurrent viewers. You must be streaming at least 1 time per week.",
+    "description": "Description for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "Apply now!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Let's go to heaven together!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "If you are rather interesed in a direct job at PreMiD, then take a look at our job advertisement.",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "SPONSORS",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD wouldn't be possible, without these amazing people.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "That's how you watch anime.",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings is a next-gen fast-paced PvP Arena Game played in the browser.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat is a non-profit international radio which strives to provide non-stop, quality radio and news entertainment.",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "The gamer earning platform.",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "A powerful and easy to use cross platform installer creation tool.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Easily communicate real-time status to your users.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Agile localization for tech companies.",
+    "description": "Description for Crowdin."
+  },
+  "partners.partner.wikijs": {
+    "message": "The most powerful and extensible open source Wiki software.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Logged in as {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.select.default": {
+    "message": "Please select one",
+    "description": "Select default placeholder."
+  },
+  "partners.apply.select.website": {
+    "message": "Website",
+    "description": "Select 'Website' category."
+  },
+  "partners.apply.select.other": {
+    "message": "Other",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Name",
+    "description": "Name filed."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Ex: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Link",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Ex: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "Description: (Maximum 150 characters)",
+    "description": "Description field."
+  },
+  "partners.apply.form.description.placeholder": {
+    "message": "Description for featured",
+    "description": "Description field's placeholder."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Image link: (550x300, PNG only)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Ex: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Close",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Apply",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Please complete all the fields.",
+    "description": "Error when a field isn't filled."
+  },
+  "partners.apply.error2": {
+    "message": "Maximum 150 characters description.",
+    "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Please add a link (has to start with https:// and end with .png)",
+    "description": "Error when image link is entered wrong."
+  }
 }
