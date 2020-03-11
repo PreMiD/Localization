@@ -122,5 +122,77 @@
   "partners.partner.crowdin": {
     "message": "Agile localization for tech companies.",
     "description": "Description for Crowdin."
+  },
+  "partners.apply.title": {
+    "message": "Apply for partner",
+    "description": "Title of the partner application modal."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Logged in as {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.select.default": {
+    "message": "Please select one",
+    "description": "Select default placeholder."
+  },
+  "partners.apply.select.website": {
+    "message": "Website",
+    "description": "Select 'Website' category."
+  },
+  "partners.apply.select.other": {
+    "message": "Other",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Name",
+    "description": "Name filed."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Ex: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Link",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Ex: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "Description: (Maximum 150 characters)",
+    "description": "Description field."
+  },
+  "partners.apply.form.description.placeholder": {
+    "message": "Description for featured",
+    "description": "Description field's placeholder."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Image link: (550x300, PNG only)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Ex: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Close",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Apply",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Please complete all the fields.",
+    "description": "Error when a field isn't filled."
+  },
+  "partners.apply.error2": {
+    "message": "Maximum 150 characters description.",
+    "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Please add a link (has to start with https:// and end with .png)",
+    "description": "Error when image link is entered wrong."
   }
 }
