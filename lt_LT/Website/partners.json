@@ -1,130 +1,134 @@
 {
-	"partners.header.title": {
-		"message": "PARTNERIAI",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Prisijunkite prie partnerių ir gaukite keletą išskirtinių pranašumų, kuriais galėsite parodyti savo \"swag\".",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Šitie jau priklauso mums",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "O jeigu eiti į dangų, o ne į pragarą?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Jūsų laisvas statusas",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Mūsų komanda pateiks jums statusą jūsų interneto paslaugai.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Tapk patvirtintas",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Ypatinga rolė ir didelė garbė jums bus suteikta mūsų „Discord“ serveryje.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Meta-tag integracija",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automatiškai įjungia jūsų statusą, kai kas nors lankosi jūsų svetainėje.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Tapkite įamžinti",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Vieta mūsų partnerių puslapyje.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Būti įžimiu",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Paminėjimas mūsų socialiniuose tinkluose.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "REIKALAVIMAI",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Ko mes ieškome?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis.\n",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Mūsų ugniasienė",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "Šiuo metu priimame įvairias pastangas į savo partnerystės programą. Kiekvienas turėtų turėti galimybę būti pastebėtas. „Twitch“ transliuotojai turi turėti bent 500 stebėtojų ir ne mažiau kaip 3 žiūrovus vienu metu. Turite transliuoti bent 1 kartą per savaitę.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Teikti paraišką dabar!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Eikime į dangų kartu!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Jei jus labiau domina tiesioginis darbas „PreMiD“, tada pasižiūrėkite į mūsų darbo skelbimą.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSORIAI",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "„PreMiD“ nebūtų įmanomas be šių nuostabių žmonių.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Štai kaip reikia žiūrėti anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings yra naujos-kartos greito tempo PvP arenos žaidimas, kuris žaidžiamas naršyklėje.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat yra ne pelno siekiantis tarptautinis radijas, kuris stengiasi teikti nenutrūkstamas, kokybiškas radijo ir naujienų pramogas.",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.iLoot": {
-		"message": "Žaidėjų uždirbimo platforma.",
-		"description": "Description for iLoot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Lengvai praneškite realiojo laiko statusą savo vartotojams.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.crowdin": {
-		"message": "Greitas lokalizavimas technologijų įmonėms.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "Pati galingiausia ir išplėstinė atvirojo kodo „Wiki“ programinė įranga.",
-		"description": "Description for WikiJS."
-	}
+  "partners.header.title": {
+    "message": "PARTNERIAI",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Prisijunkite prie partnerių ir gaukite keletą išskirtinių pranašumų, kuriais galėsite parodyti savo \"swag\".",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Šitie jau priklauso mums",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "O jeigu eiti į dangų, o ne į pragarą?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Jūsų laisvas statusas",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Mūsų komanda pateiks jums statusą jūsų interneto paslaugai.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Tapk patvirtintas",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Ypatinga rolė ir didelė garbė jums bus suteikta mūsų „Discord“ serveryje.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Meta-tag integracija",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Automatiškai įjungia jūsų statusą, kai kas nors lankosi jūsų svetainėje.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Tapkite įamžinti",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Vieta mūsų partnerių puslapyje.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Būti įžimiu",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Paminėjimas mūsų socialiniuose tinkluose.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "REIKALAVIMAI",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Ko mes ieškome?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis.\n",
+    "description": "Description for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "Mūsų ugniasienė",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "Šiuo metu priimame įvairias pastangas į savo partnerystės programą. Kiekvienas turėtų turėti galimybę būti pastebėtas. „Twitch“ transliuotojai turi turėti bent 500 stebėtojų ir ne mažiau kaip 3 žiūrovus vienu metu. Turite transliuoti bent 1 kartą per savaitę.",
+    "description": "Description for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "Teikti paraišką dabar!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Eikime į dangų kartu!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "Jei jus labiau domina tiesioginis darbas „PreMiD“, tada pasižiūrėkite į mūsų darbo skelbimą.",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "SPONSORIAI",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "„PreMiD“ nebūtų įmanomas be šių nuostabių žmonių.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "Štai kaip reikia žiūrėti anime.",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings yra naujos-kartos greito tempo PvP arenos žaidimas, kuris žaidžiamas naršyklėje.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat yra ne pelno siekiantis tarptautinis radijas, kuris stengiasi teikti nenutrūkstamas, kokybiškas radijo ir naujienų pramogas.",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "Žaidėjų uždirbimo platforma.",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Lengvai praneškite realiojo laiko statusą savo vartotojams.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Greitas lokalizavimas technologijų įmonėms.",
+    "description": "Description for Crowdin."
+  },
+  "partners.partner.wikijs": {
+    "message": "Pati galingiausia ir išplėstinė atvirojo kodo „Wiki“ programinė įranga.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.select.other": {
+    "message": "Kita",
+    "description": "Select 'Other' category."
+  }
 }

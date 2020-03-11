@@ -1,1 +1,6 @@
-{}
+{
+  "partners.apply.select.other": {
+    "message": "Egyéb",
+    "description": "Select 'Other' category."
+  }
+}

@@ -1,1 +1,10 @@
-{}
+{
+  "partners.apply.select.other": {
+    "message": "Inne",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Nazwisko",
+    "description": "Name filed."
+  }
+}

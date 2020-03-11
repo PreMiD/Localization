@@ -1,18 +1,22 @@
 {
-	"partners.header.title": {
-		"message": "PARTNERE",
-		"description": "Heading for page."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Din gratis presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.requirements.title": {
-		"message": "KRAV",
-		"description": "Heading for the requirements."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
-		"description": "Description for sponsors."
-	}
+  "partners.header.title": {
+    "message": "PARTNERE",
+    "description": "Heading for page."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Din gratis presence",
+    "description": "Heading for the first benefit."
+  },
+  "partners.requirements.title": {
+    "message": "KRAV",
+    "description": "Heading for the requirements."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
+    "description": "Description for sponsors."
+  },
+  "partners.apply.select.other": {
+    "message": "Andre",
+    "description": "Select 'Other' category."
+  }
 }

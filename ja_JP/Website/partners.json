@@ -1,126 +1,134 @@
 {
-	"partners.header.title": {
-		"message": "パートナー",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "ファミリーの一員になって、パートナーだけの特典を手に入れましょう！",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "PreMiDのパートナーはこんな人たち",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "私達のパートナーになってみませんか？",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "あなたのサイト専用のプレセンス",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "私達のチームが、あなたのサイトのプレセンスを作成します。",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "パートナー専用のロールを手に入れる",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "PreMiD公式Discordサーバーで、名誉あるロールをもらえる。",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "サイトとの紐付け",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "誰かがあなたのサイトを見ているときに、プレゼンスを自動的に有効にします。",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "記念される。",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "パートナーページのどっかに。",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "有名になる。",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "私達のSNSなどで宣伝します。",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "募集要項",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "私達が求めているもの",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "私たちは成長するコミュニティとインターネットの刺激的なものに目を光らせています。\nもし私達と同じ考えならば、PreMiDを使用してさらなるインターネットの人々へ拡散すべきです。\nパートナープログラムは、一つ一つを考慮しながら進めていきます。",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "私たちのファイヤウォール",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者の場合は、最低500人のフォロワーと、3人以上の同時視聴者が必要で、配信を最低でも週に1回は行っている必要があります。",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "今すぐ応募する",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "パートナーになりましょう！",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "直接PreMiDの仕事に関わりたい場合は、job advertisementをご覧ください。",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "スポンサー",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "aniFrixはアニメのサービスです。",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kingsは、ブラウザで遊べるPvPゲームです。",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeatは非営利の国際ラジオです。ノンストップのエンターテイメントや、ニュースを提供しています。",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.iLoot": {
-		"message": "ゲーマーのためのお小遣いサイト。",
-		"description": "Description for iLoot."
-	},
-	"partners.partner.bitRock": {
-		"message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "簡単にリアルタイムのステータスをユーザーに伝える。",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.crowdin": {
-		"message": "企業のための翻訳加速装置。",
-		"description": "Description for Crowdin."
-	}
+  "partners.header.title": {
+    "message": "パートナー",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "ファミリーの一員になって、パートナーだけの特典を手に入れましょう！",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "PreMiDのパートナーはこんな人たち",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "私達のパートナーになってみませんか？",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "あなたのサイト専用のプレセンス",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "私達のチームが、あなたのサイトのプレセンスを作成します。",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "パートナー専用のロールを手に入れる",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "PreMiD公式Discordサーバーで、名誉あるロールをもらえる。",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "サイトとの紐付け",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "誰かがあなたのサイトを見ているときに、プレゼンスを自動的に有効にします。",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "記念される。",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "パートナーページのどっかに。",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "有名になる。",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "私達のSNSなどで宣伝します。",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "募集要項",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "私達が求めているもの",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "私たちは成長するコミュニティとインターネットの刺激的なものに目を光らせています。\nもし私達と同じ考えならば、PreMiDを使用してさらなるインターネットの人々へ拡散すべきです。\nパートナープログラムは、一つ一つを考慮しながら進めていきます。",
+    "description": "Description for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "私たちのファイヤウォール",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者の場合は、最低500人のフォロワーと、3人以上の同時視聴者が必要で、配信を最低でも週に1回は行っている必要があります。",
+    "description": "Description for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "今すぐ応募する",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "パートナーになりましょう！",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "直接PreMiDの仕事に関わりたい場合は、job advertisementをご覧ください。",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "スポンサー",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "aniFrixはアニメのサービスです。",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kingsは、ブラウザで遊べるPvPゲームです。",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeatは非営利の国際ラジオです。ノンストップのエンターテイメントや、ニュースを提供しています。",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "ゲーマーのためのお小遣いサイト。",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "簡単にリアルタイムのステータスをユーザーに伝える。",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "企業のための翻訳加速装置。",
+    "description": "Description for Crowdin."
+  },
+  "partners.apply.select.other": {
+    "message": "その他",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "名前",
+    "description": "Name filed."
+  }
 }

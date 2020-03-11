@@ -1,1 +1,10 @@
-{}
+{
+  "partners.apply.select.other": {
+    "message": "Otras",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Nombre",
+    "description": "Name filed."
+  }
+}
