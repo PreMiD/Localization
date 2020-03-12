@@ -7,6 +7,14 @@
 		"message": "Are you ready to help out the biggest Rich-Presence library?",
 		"description": "The second part of the jobs page."
 	},
+	"jobs.openings.title": {
+		"message": "Job Openings",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "High-End Benefits",
+		"description": "Text before the benefits cards."
+	},
 	"jobs.benefit1.title": {
 		"message": "Meet us",
 		"description": "Benefit card title."
