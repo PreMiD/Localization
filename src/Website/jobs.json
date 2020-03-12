@@ -1,0 +1,58 @@
+{
+	"jobs.header.title": {
+		"message": "Work for PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Are you ready to help out the biggest Rich-Presence library?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.benefit1.title": {
+		"message": "Meet us",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Get in touch with the people behind PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sneek Peeks",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Have a look into our Development and Marketing.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Honor",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Powerful Discord permissions and a colorful role.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Support PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "With your contribution it is possible to run this project.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Time-out",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Take your time. This is voluntary work.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Early-Access",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Be able to test new features before anyone else.",
+		"description": "Benefit card description."
+	}
+}
