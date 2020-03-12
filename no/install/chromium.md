@@ -9,7 +9,7 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # Installer
-### Chrome, Edge, etc.
+### Chrome, Edge, osv.
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Velg **Chromium**.
 3. Klikk på **Legg til i Chrome**.
