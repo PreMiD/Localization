@@ -10,5 +10,9 @@
   "error.page.details": {
     "message": "Detaljer",
     "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Tilbake til forsiden",
+    "description": "Button on the error page"
   }
 }
