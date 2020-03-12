@@ -48,15 +48,23 @@
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
   "downloads.mobile.errorMessage": {
-	"message": "Please be aware that PreMiD is currently not supported on mobile.",
-	"description": "Downloads page warning when user is on mobile."
+    "message": "Please be aware that PreMiD is currently not supported on mobile.",
+    "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
-	"message": "Show Downloads",
-	"description": "Little button on the downloads page for mobile users."
+    "message": "Show Downloads",
+    "description": "Little button on the downloads page for mobile users."
   },
   "downloads.mobile.hideDownloads": {
-	"message": "Hide Downloads",
-	"description": "Little button on the downloads page for mobile users."
+    "message": "Hide Downloads",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "This version is specific to Linux, and doesn't apply to other systems. Current version of this platform is {0}",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "This version is specific to Linux, and doesn't apply to other systems. Application's main version is {0}",
+    "description": "Tippy message of the version number when user is on Linux."
   }
 }
