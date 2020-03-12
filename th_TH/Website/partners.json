@@ -19,8 +19,44 @@
     "message": "ผู้สนับสนุน",
     "description": "Heading for sponsors."
   },
+  "partners.apply.notYou": {
+    "message": "ไม่ใช่คุณหรอ?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
+  "partners.apply.select.website": {
+    "message": "เว็บไซต์",
+    "description": "Select 'Website' category."
+  },
   "partners.apply.select.other": {
     "message": "อื่นๆ",
     "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "ตัวอย่าง: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "ลิงก์",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "ตัวอย่าง: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "คำอธิบาย: (สูงสุดถึง 150 ตัวอักษร)",
+    "description": "Description field."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "ลิ้งรูปภาพ: (ขนาด 550x300, สกุลไฟล์ PNG เท่านั้น)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "ตัวอย่าง: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "ปิด",
+    "description": "Modal close button."
   }
 }
