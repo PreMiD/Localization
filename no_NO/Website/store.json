@@ -1,4 +1,8 @@
 {
+	"store.message.error": {
+		"message": "Utvidelsen er ikke koblet til.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "Skaper",
 		"description": "Creator of a presence"
@@ -68,11 +72,19 @@
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "Andre",
+		"message": "Annet",
 		"description": "Category at the top"
 	},
 	"store.search": {
 		"message": "Søk",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "trykk enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klikk for å fjerne filteret.",
+		"description": "Remove message for active search filters."
 	}
 }
