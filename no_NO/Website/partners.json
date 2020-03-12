@@ -11,12 +11,28 @@
     "message": "KRAV",
     "description": "Heading for the requirements."
   },
+  "partners.sponsors.title": {
+    "message": "SPONSORER",
+    "description": "Heading for sponsors."
+  },
   "partners.sponsors.description": {
     "message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
     "description": "Description for sponsors."
   },
+  "partners.apply.loggedUser": {
+    "message": "Logget inn som {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.select.default": {
+    "message": "Vennligst velg en",
+    "description": "Select default placeholder."
+  },
   "partners.apply.select.other": {
     "message": "Andre",
     "description": "Select 'Other' category."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Lukk",
+    "description": "Modal close button."
   }
 }
