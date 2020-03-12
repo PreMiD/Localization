@@ -98,5 +98,9 @@
   "footer.copyright.line2": {
     "message": "Website wordt onderhouden door {0}",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+  },
+  "footer.partners.more": {
+    "message": "Klik hier om de rest van de partners en sponsors te zien.",
+    "description": "Button next to all listed partners on the footer."
   }
 }
