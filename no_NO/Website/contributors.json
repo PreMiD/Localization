@@ -58,5 +58,13 @@
   "contributors.roles.jrModerator": {
     "message": "Junior Moderator",
     "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Klikk for å kopiere brukeren sin ID.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "Brukeren sin ID har blitt kopiert til utklippstavlen!",
+    "description": "Notification after user ID was copied."
   }
 }
