@@ -135,6 +135,10 @@
     "message": "Logged in as {0}",
     "description": "{0} will be replaced with user account."
   },
+  "partners.apply.notYou": {
+    "message": "Not you?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
   "partners.apply.select.default": {
     "message": "Please select one",
     "description": "Select default placeholder."
