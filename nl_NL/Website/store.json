@@ -1,4 +1,8 @@
 {
+	"store.message.error": {
+		"message": "Extensie is niet verbonden.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "Maker",
 		"description": "Creator of a presence"
@@ -74,5 +78,13 @@
 	"store.search": {
 		"message": "Zoek",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "druk op enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klik om de filter te verwijderen.",
+		"description": "Remove message for active search filters."
 	}
 }
