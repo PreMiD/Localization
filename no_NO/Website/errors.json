@@ -14,5 +14,13 @@
   "error.page.button": {
     "message": "Tilbake til forsiden",
     "description": "Button on the error page"
+  },
+  "user.notFound.heading": {
+    "message": "Den brukeren kunne ikke bli funnet. Prøv å være sikker på at:",
+    "description": "Error when user couldn't be found."
+  },
+  "user.notFound.message1": {
+    "message": "Brukerens ID som du ser etter er riktig.",
+    "description": "Check user ID message."
   }
 }
