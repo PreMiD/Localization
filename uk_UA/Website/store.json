@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "Розширення не під'єднано.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "Творець",
     "description": "Creator of a presence"
@@ -6,6 +10,10 @@
   "store.cards.popular": {
     "message": "Ця присутність дуже популярна серед користувачів.",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Присутність офіційного партнера PreMiD.",
+    "description": "Presence card partner flame"
   },
   "store.cards.extraStepsRequired": {
     "message": "Ця присутність потребує додаткових кроків для роботи. Будь ласка, перевірте її сторінку, щоб отримати детальну інформацію.",
@@ -43,6 +51,10 @@
     "message": "Дозволити матеріали для дорослих",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "Лише вподобані присутності",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "Категорії",
     "description": "Category heading"
@@ -74,5 +86,13 @@
   "store.search": {
     "message": "Пошук",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "натисніть Enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Натисніть, щоб очистити фільтри.",
+    "description": "Remove message for active search filters."
   }
 }
