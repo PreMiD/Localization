@@ -1,74 +1,74 @@
 {
-	"store.cards.creator": {
-		"message": "作者",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "大人気のプレゼンス",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.verified": {
-		"message": "このプレゼンスは認証済み開発者によって承認されました",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "検索",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "プレゼンスを追加",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "プレゼンスを削除",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "フィルター",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "最も使用されているもの順",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "アダルトコンテンツを表示",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "カテゴリー",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "すべて",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "ゲーム",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "音楽",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "SNS",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "動画と配信",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "その他",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "検索",
-		"description": "Placeholder for presence search"
-	}
+  "store.cards.creator": {
+    "message": "作者",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "大人気のプレゼンス",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.verified": {
+    "message": "このプレゼンスは認証済み開発者によって承認されました",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "検索",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "プレゼンスを追加",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "プレゼンスを削除",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "このプレゼンスはPreMiDに最初から含まれています。インストールする必要はありません。",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "フィルター",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "最も使用されているもの順",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "アダルトコンテンツを表示",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "カテゴリー",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "すべて",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "ゲーム",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "音楽",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "SNS",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "動画と配信",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "その他",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "検索",
+    "description": "Placeholder for presence search"
+  }
 }
