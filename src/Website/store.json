@@ -47,6 +47,10 @@
 		"message": "Allow adult content",
 		"description": "Adult content checkbox"
 	},
+	"store.category.filters.likedOnly": {
+		"message": "Liked presences only",
+		"description": "Liked presences only checkbox"
+	},
 	"store.category.heading": {
 		"message": "Categories",
 		"description": "Category heading"
