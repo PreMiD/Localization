@@ -30,5 +30,17 @@
 	"jobs.benefit3.description": {
 		"message": "Güçlendirilmiş Discord yetkileri ve rengarenk rol.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit4.description": {
+		"message": "Katkınız ile projeyi devam ettirmemiz mümkün.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Zaman aşımı",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.title": {
+		"message": "Erken Erişim",
+		"description": "Benefit card title."
 	}
 }
