@@ -1,6 +1,58 @@
 {
+    "amazon.subscriptions": {
+        "message": "Aboneliklere göz atıyor",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Bakiyesine göz atıyor",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ödeme yöntemlerine göz atıyor",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Adreslerine göz atıyor",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Tüm kategorilere göz atıyor",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Amazon Prime'a göz atıyor",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "sipariş geçmişi",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "sipariş detayları",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "alışveriş kartı",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "istek listesi",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "hediye kartları",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.history": {
+        "message": "Geçmişine göz atıyor",
+        "description": ""
+    },
     "amazon.store": {
         "message": "Mağazaya bakıyor:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime Video İzleniyor:",
         "description": ""
     }
 }
