@@ -123,6 +123,22 @@
     "message": "Рішення для гнучкої локалізації для технологічних компаній.",
     "description": "Description for Crowdin."
   },
+  "partners.partner.wikijs": {
+    "message": "Найбільш потужне та широкомасштабне програмне забезпечення для вікі джерела.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.title": {
+    "message": "Застосувати до партнера",
+    "description": "Partnership application modal title."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Ви увійшли як {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Не ви?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
   "partners.apply.select.other": {
     "message": "Інше",
     "description": "Select 'Other' category."
