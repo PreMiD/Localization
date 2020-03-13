@@ -1,86 +1,86 @@
 {
-	"store.cards.creator": {
-		"message": "創建者",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "這個presence 非常受我們用戶歡迎",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "這種 presence 需要額外的步驟才能工作，請查看其頁面以獲取更多信息。",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.cards.verified": {
-		"message": "此狀態已由經過驗證的開發人員批准",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "搜尋",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "添加狀態",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "移除狀態",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "在需要時會自動使用此狀態, 不需添加它。",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "搜尋過濾器",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "優先顯示常用的",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "允許成人内容",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "類別",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "全部",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "遊戲",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "音樂",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "社交",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "視訊串流",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "其它",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "搜尋",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "按 Enter 鍵",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "點選以移除過濾器。",
-		"description": "Remove message for active search filters."
-	}
+  "store.cards.creator": {
+    "message": "創建者",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "這個presence 非常受我們用戶歡迎",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "這種 presence 需要額外的步驟才能工作，請查看其頁面以獲取更多信息。",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
+  "store.cards.verified": {
+    "message": "此狀態已由經過驗證的開發人員批准",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "搜尋",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "添加狀態",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "移除狀態",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "在需要時會自動使用此狀態, 不需添加它。",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "搜尋過濾器",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "優先顯示常用的",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "允許成人内容",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "類別",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "全部",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "遊戲",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "音樂",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "社交",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "視訊串流",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "其它",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "搜尋",
+    "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "按 Enter 鍵",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "點選以移除過濾器。",
+    "description": "Remove message for active search filters."
+  }
 }

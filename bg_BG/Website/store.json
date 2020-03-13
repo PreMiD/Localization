@@ -1,74 +1,74 @@
 {
-	"store.cards.creator": {
-		"message": "създател",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Това присъствие е много популярно сред потребителите.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.verified": {
-		"message": "Това присъствие беше одобрено от проверен разработчик",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "Търсене",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Добавете присъствие",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Премахнете присъствието",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Това присъствие се използва автоматично, когато е необходимо, няма нужда да го добавяте.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Филтри за търсене",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Покажи най-използваните първо",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Разрешаване на съдържание за възрастни",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "Категории",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "всичко\n",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Игри",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "музика\n",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "вечеринка",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Видеоклипове и потоци",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "друг",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Търсене",
-		"description": "Placeholder for presence search"
-	}
+  "store.cards.creator": {
+    "message": "създател",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "Това присъствие е много популярно сред потребителите.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.verified": {
+    "message": "Това присъствие беше одобрено от проверен разработчик",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Търсене",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Добавете присъствие",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Премахнете присъствието",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "Това присъствие се използва автоматично, когато е необходимо, няма нужда да го добавяте.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "Филтри за търсене",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Покажи най-използваните първо",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Разрешаване на съдържание за възрастни",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Категории",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "всичко\n",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Игри",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "музика\n",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "вечеринка",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Видеоклипове и потоци",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "друг",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Търсене",
+    "description": "Placeholder for presence search"
+  }
 }
