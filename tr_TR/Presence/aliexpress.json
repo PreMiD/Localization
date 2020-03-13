@@ -6,5 +6,49 @@
     "aliexpress.message": {
         "message": "Mesaj Merkezi",
         "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Ürünler arasında dolaşıyor",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "görüntülenmiş ürünler",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "AliExpress'e göz atıyor",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress Geribildirim",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Siparişlerine göz atıyor",
+        "description": ""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "silinmiş siparişler",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Takas Merkezi",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Kuponlarına göz atıyor",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Adresine göz atıyor",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Yardım Merkezi",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Satış Merkezi",
+        "description": ""
     }
 }
