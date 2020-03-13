@@ -1,74 +1,74 @@
 {
-	"store.cards.creator": {
-		"message": "Tvůrce",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Tato přítomnost je velmi populární kolem uživatelů.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.verified": {
-		"message": "Táto přítomnost byla schválena ověřeným vývojářem",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "Hledat",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Přidat přítomnost",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Odstranit přítomnost ",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Tato přítomnost se automaticky použije v případě potřeby, není třeba ji přidávat.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Vyhledávací filtry",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Zobrazit nejpoužívanější jako první",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Povolit obsah pro dospělé",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "Kategorie",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Vše",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Hry",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Hudba",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sociální sítě",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videa & Streamy",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Ostatní",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Hledat",
-		"description": "Placeholder for presence search"
-	}
+  "store.cards.creator": {
+    "message": "Tvůrce",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "Tato přítomnost je velmi populární kolem uživatelů.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.verified": {
+    "message": "Táto přítomnost byla schválena ověřeným vývojářem",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Hledat",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Přidat přítomnost",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Odstranit přítomnost ",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "Tato přítomnost se automaticky použije v případě potřeby, není třeba ji přidávat.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "Vyhledávací filtry",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Zobrazit nejpoužívanější jako první",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Povolit obsah pro dospělé",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorie",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "Vše",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Hry",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Hudba",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Sociální sítě",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Videa & Streamy",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Ostatní",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Hledat",
+    "description": "Placeholder for presence search"
+  }
 }
