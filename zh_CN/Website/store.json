@@ -1,90 +1,90 @@
 {
-	"store.message.error": {
-		"message": "扩展程序未连接。",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
-	"store.cards.creator": {
-		"message": "创建者",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "这个 Presence 非常受用户欢迎。",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "此 Presence 需要额外步骤才能启用，请检查其页面以获得更多信息。",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.cards.verified": {
-		"message": "此状态已由认证的开发人员批准",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "搜索",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "添加状态",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "删除状态",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "此状态会在必要时自动启动，不需要添加它。",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "过滤器",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "优先显示常用",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "允许成人内容(R18)",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "分类",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "全部",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "游戏",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "音乐",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "社交",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "视频与直播",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "其他",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "搜索",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "按下回车键",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "点击删除过滤标签。",
-		"description": "Remove message for active search filters."
-	}
+  "store.message.error": {
+    "message": "扩展程序未连接。",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
+  "store.cards.creator": {
+    "message": "创建者",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "这个 Presence 非常受用户欢迎。",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "此 Presence 需要额外步骤才能启用，请检查其页面以获得更多信息。",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
+  "store.cards.verified": {
+    "message": "此状态已由认证的开发人员批准",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "搜索",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "添加状态",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "删除状态",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "此状态会在必要时自动启动，不需要添加它。",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "过滤器",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "优先显示常用",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "允许成人内容(R18)",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "分类",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "全部",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "游戏",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "音乐",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "社交",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "视频与直播",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "其他",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "搜索",
+    "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "按下回车键",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "点击删除过滤标签。",
+    "description": "Remove message for active search filters."
+  }
 }
