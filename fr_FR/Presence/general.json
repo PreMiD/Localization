@@ -7,12 +7,48 @@
         "message": "Recherche...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Chapitres",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
     "general.episode": {
         "message": "Épisode",
         "description": ""
     },
+    "general.forums": {
+        "message": "Forums",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Genre",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Écouter de la musique",
+        "description": ""
+    },
     "general.live": {
         "message": "Direct",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Page",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "En pause",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Regarde des MP de:",
         "description": ""
     },
     "general.reading": {
