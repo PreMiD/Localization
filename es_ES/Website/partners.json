@@ -15,6 +15,10 @@
     "message": "¿Que estas buscando?",
     "description": "Heading for the first requirement."
   },
+  "partners.partner.aniFlix": {
+    "message": "Así es como ves anime.",
+    "description": "Description for AniFlix."
+  },
   "partners.apply.select.other": {
     "message": "Otras",
     "description": "Select 'Other' category."
