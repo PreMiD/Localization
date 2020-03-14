@@ -1,1 +1,10 @@
-{}
+{
+	"jobs.header.title": {
+		"message": "Lucrează pentru PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Posturi disponibile",
+		"description": "Text before the available job positions cards."
+	}
+}
