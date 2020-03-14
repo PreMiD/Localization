@@ -63,6 +63,10 @@
     "message": "Modérateur Jr.",
     "description": "'Junior Moderator' title for contributors and user pages."
   },
+  "contributors.roles.proofreader": {
+    "message": "Réviseur",
+    "description": "'Proofreader' title for contributors and user pages."
+  },
   "contributors.cards.copyUserId": {
     "message": "Cliquer pour copier l’identifiant de l’utilisateur.",
     "description": "Tippy message when you hover on the avatar of a credit card."
