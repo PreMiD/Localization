@@ -70,5 +70,13 @@
   "store.search": {
     "message": "Buscar",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "presione enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Haga clic para eliminar este filtro.",
+    "description": "Remove message for active search filters."
   }
 }
