@@ -11,6 +11,10 @@
     "message": "KRAV",
     "description": "Heading for the requirements."
   },
+  "partners.requirements.first.title": {
+    "message": "Hva ser vi etter?",
+    "description": "Heading for the first requirement."
+  },
   "partners.sponsors.title": {
     "message": "SPONSORER",
     "description": "Heading for sponsors."
@@ -22,6 +26,10 @@
   "partners.apply.loggedUser": {
     "message": "Logget inn som {0}",
     "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Ikke deg?",
+    "description": "Account switcher on the modal, just like Discord's!"
   },
   "partners.apply.select.default": {
     "message": "Vennligst velg en",
