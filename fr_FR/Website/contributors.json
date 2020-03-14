@@ -58,5 +58,17 @@
   "contributors.roles.asstHeadModerator": {
     "message": "Assistant modérateur en chef",
     "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "Modérateur Jr.",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Cliquer pour copier l’identifiant de l’utilisateur.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "L’identifiant de l’utilisateur a été copié dans le presse papier !",
+    "description": "Notification after user ID was copied."
   }
 }
