@@ -1,1 +1,14 @@
-{}
+{
+	"jobs.header.title": {
+		"message": "Jobb for PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.benefit4.title": {
+		"message": "Støtt PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.title": {
+		"message": "Tidlig tilgang",
+		"description": "Benefit card title."
+	}
+}

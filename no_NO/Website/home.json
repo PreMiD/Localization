@@ -74,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Besøk vår server",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Velg språk for nettside",
+    "description": "Tippy content of the language selector."
   }
 }
