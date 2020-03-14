@@ -11,6 +11,10 @@
     "message": "Deze presence is erg populair rond gebruikers.",
     "description": "Presence card popular flame"
   },
+  "store.cards.partner": {
+    "message": "Presence van een officiële PreMiD partner.",
+    "description": "Presence card partner flame"
+  },
   "store.cards.extraStepsRequired": {
     "message": "Deze presence vereist extra stappen om te kunnen werken. Controleer de pagina voor meer informatie.",
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
@@ -46,6 +50,10 @@
   "store.category.filters.allowAdult": {
     "message": "Sta inhoud voor volwassenen toe",
     "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Alleen favoriete presences",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "Categorieën",
