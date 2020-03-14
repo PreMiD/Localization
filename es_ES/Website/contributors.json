@@ -50,5 +50,9 @@
   "contributors.roles.administrator": {
     "message": "Administrador",
     "description": "'Administrator' title for contributors page."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Haz click para copiar el ID del usuario.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
   }
 }

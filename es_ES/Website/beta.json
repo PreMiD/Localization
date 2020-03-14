@@ -34,5 +34,9 @@
   "thankyou.title": {
     "message": "¡Bien, ahora eres un usuario beta!",
     "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Nuestros Monos están trabajando para registrarte en nuestra beta lo mas rápido posible. Gracias por registrarte!",
+    "description": "Thank You page description"
   }
 }
