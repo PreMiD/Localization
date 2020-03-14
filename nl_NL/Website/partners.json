@@ -123,6 +123,30 @@
     "message": "Agile lokalisatie voor technologiebedrijven.",
     "description": "Description for Crowdin."
   },
+  "partners.partner.wikijs": {
+    "message": "De krachtigste en uitbreidbare open source Wiki software.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.title": {
+    "message": "Solliciteer voor partner",
+    "description": "Partnership application modal title."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Aangemeld als {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Niet u?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
+  "partners.apply.select.default": {
+    "message": "Selecteer a. u. b. één",
+    "description": "Select default placeholder."
+  },
+  "partners.apply.select.website": {
+    "message": "Website",
+    "description": "Select 'Website' category."
+  },
   "partners.apply.select.other": {
     "message": "Overige",
     "description": "Select 'Other' category."
@@ -130,5 +154,53 @@
   "partners.apply.form.name": {
     "message": "Naam",
     "description": "Name filed."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Bijv.: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Link",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Bijv.: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "Beschrijving: (maximaal 150 tekens)",
+    "description": "Description field."
+  },
+  "partners.apply.form.description.placeholder": {
+    "message": "Beschrijving voor featured",
+    "description": "Description field's placeholder."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Afbeeldingslink: (550x300, alleen PNG)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Bijv.: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Sluit",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Solliciteer",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Vul alstublieft alle velden in.",
+    "description": "Error when a field isn't filled."
+  },
+  "partners.apply.error2": {
+    "message": "Maximaal 150 tekens beschrijving.",
+    "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Voeg een link toe (moet beginnen met https:// en eindigen met .png)",
+    "description": "Error when image link is entered wrong."
   }
 }

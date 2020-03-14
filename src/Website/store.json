@@ -1,90 +1,98 @@
 {
-	"store.message.error": {
-		"message": "Extension is not connected.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
-	"store.cards.creator": {
-		"message": "Creator",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "This presence is very popular around users.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "This presence requires extra steps to work, please check its page for more information.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.cards.verified": {
-		"message": "This presence was approved by a verified developer",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "Search",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Add presence",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Remove presence",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "This presence is automatically used when needed, no need to add it.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Search filters",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Show most used first",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Allow adult content",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "Categories",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "All",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Games",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Music",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Socials",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videos & Streams",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Other",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Search",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "press enter",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Click to remove the filter.",
-		"description": "Remove message for active search filters."
-	}
+  "store.message.error": {
+    "message": "Extension is not connected.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
+  "store.cards.creator": {
+    "message": "Creator",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "This presence is very popular around users.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Presence of an official PreMiD partner.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "This presence requires extra steps to work, please check its page for more information.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
+  "store.cards.verified": {
+    "message": "This presence was approved by a verified developer",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Search",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Add presence",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Remove presence",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "This presence is automatically used when needed, no need to add it.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "Search filters",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Show most used first",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Allow adult content",
+    "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Liked presences only",
+    "description": "Liked presences only checkbox"
+  },
+  "store.category.heading": {
+    "message": "Categories",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "All",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Games",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Music",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Socials",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Videos & Streams",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Other",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Search",
+    "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "press enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Click to remove the filter.",
+    "description": "Remove message for active search filters."
+  }
 }

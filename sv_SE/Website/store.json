@@ -1,74 +1,74 @@
 {
-	"store.cards.creator": {
-		"message": "Kreatör",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Denna närvaro är mycket populär runt användare.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.verified": {
-		"message": "Detta presence är godkänd av en verifierad utväcklare",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "Sök",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Lägg till presence",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Ta bort presence",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "This presence is included in PreMiD by default, no need to install it.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Sök filter",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Visa mest använda först",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Tillåt vuxet innehåll",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "Kategorier",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Alla",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Spel",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musik",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Socialt",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videor & Streams",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Annat",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Sök",
-		"description": "Placeholder for presence search"
-	}
+  "store.cards.creator": {
+    "message": "Kreatör",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "Denna närvaro är mycket populär runt användare.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.verified": {
+    "message": "Detta presence är godkänd av en verifierad utväcklare",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Sök",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Lägg till presence",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Ta bort presence",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "This presence is included in PreMiD by default, no need to install it.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "Sök filter",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Visa mest använda först",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Tillåt vuxet innehåll",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategorier",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "Alla",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Spel",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Musik",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Socialt",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Videor & Streams",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Annat",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Sök",
+    "description": "Placeholder for presence search"
+  }
 }

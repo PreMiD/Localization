@@ -1,0 +1,46 @@
+{
+	"jobs.header.title": {
+		"message": "PreMiD için çalış",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "En büyük Rich-Presence kütüphanesine yardım etmeye hazır mısın?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "İş Alımları",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Bizimle buluşun",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiD'in arkasındaki kişi ile iletişime geçin.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.description": {
+		"message": "Geliştirme ve Pazarlama kısmımıza göz atın.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Onur",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Güçlendirilmiş Discord yetkileri ve rengarenk rol.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.description": {
+		"message": "Katkınız ile projeyi devam ettirmemiz mümkün.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Zaman aşımı",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.title": {
+		"message": "Erken Erişim",
+		"description": "Benefit card title."
+	}
+}

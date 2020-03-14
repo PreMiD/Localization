@@ -123,6 +123,30 @@
     "message": "Рішення для гнучкої локалізації для технологічних компаній.",
     "description": "Description for Crowdin."
   },
+  "partners.partner.wikijs": {
+    "message": "Найбільш потужне та широкомасштабне програмне забезпечення для вікі джерела.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.title": {
+    "message": "Застосувати до партнера",
+    "description": "Partnership application modal title."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Ви увійшли як {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Не ви?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
+  "partners.apply.select.default": {
+    "message": "Будь ласка, оберіть одне",
+    "description": "Select default placeholder."
+  },
+  "partners.apply.select.website": {
+    "message": "Вебсайт",
+    "description": "Select 'Website' category."
+  },
   "partners.apply.select.other": {
     "message": "Інше",
     "description": "Select 'Other' category."
@@ -130,5 +154,53 @@
   "partners.apply.form.name": {
     "message": "Ім'я",
     "description": "Name filed."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Наприклад: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Посилання",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Наприклад: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "Опис: (максимум 150 символів)",
+    "description": "Description field."
+  },
+  "partners.apply.form.description.placeholder": {
+    "message": "Опис для можливостей",
+    "description": "Description field's placeholder."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Посилання на зображення: (550x300, тільки PNG)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Наприклад: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Закрити",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Застосувати",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Будь ласка, заповніть усі поля.",
+    "description": "Error when a field isn't filled."
+  },
+  "partners.apply.error2": {
+    "message": "Максимум 150 символів в описі.",
+    "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Будь ласка, додайте посилання (має починатися з https:// і завершуватись з .png)",
+    "description": "Error when image link is entered wrong."
   }
 }

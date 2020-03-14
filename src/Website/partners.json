@@ -127,9 +127,17 @@
     "message": "The most powerful and extensible open source Wiki software.",
     "description": "Description for WikiJS."
   },
+  "partners.apply.title": {
+    "message": "Apply for partner",
+    "description": "Partnership application modal title."
+  },
   "partners.apply.loggedUser": {
     "message": "Logged in as {0}",
     "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Not you?",
+    "description": "Account switcher on the modal, just like Discord's!"
   },
   "partners.apply.select.default": {
     "message": "Please select one",
