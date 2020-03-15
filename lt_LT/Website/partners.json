@@ -127,8 +127,72 @@
     "message": "Pati galingiausia ir išplėstinė atvirojo kodo „Wiki“ programinė įranga.",
     "description": "Description for WikiJS."
   },
+  "partners.apply.title": {
+    "message": "Tapkite partneriu",
+    "description": "Partnership application modal title."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Esate prisijungę kaip {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Ne jūs?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
+  "partners.apply.select.default": {
+    "message": "Prašome pasirinkti vieną",
+    "description": "Select default placeholder."
+  },
+  "partners.apply.select.website": {
+    "message": "Tinklalapis",
+    "description": "Select 'Website' category."
+  },
   "partners.apply.select.other": {
     "message": "Kita",
     "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Ex: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Nuoroda",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Ex: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "Aprašymas: (daugiausia 150 simbolių)",
+    "description": "Description field."
+  },
+  "partners.apply.form.description.placeholder": {
+    "message": "Temų aprašymas",
+    "description": "Description field's placeholder."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Vaizdo nuoroda: (tik 550 x 300, tik PNG)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Ex: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Uždaryti",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Pritaikyti",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Prašome užpildyti visus laukus.",
+    "description": "Error when a field isn't filled."
+  },
+  "partners.apply.error2": {
+    "message": "Ne daugiau kaip 150 simbolių aprašymas.",
+    "description": "Error when description exceeds character limit."
   }
 }
