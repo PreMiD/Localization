@@ -3,8 +3,12 @@
     "message": "Íoslódálacha",
     "description": "Downloads button -> redirects to /downloads page"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "Ag imirt ar ais",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Ag brabhsáil...",
     "description": "Discord Rich Presence -> small image text;"
   }
 }
