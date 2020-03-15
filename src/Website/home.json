@@ -23,8 +23,12 @@
     "message": "{0} elapsed",
     "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "Playing back",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Browsing...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -76,7 +80,7 @@
     "description": "Features section button"
   },
   "home.languageSelector.tippy": {
-	"message": "Choose website language",
-	"description": "Tippy content of the language selector."
+    "message": "Choose website language",
+    "description": "Tippy content of the language selector."
   }
 }
