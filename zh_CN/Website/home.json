@@ -23,8 +23,12 @@
     "message": "已经过了 {0}",
     "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "正在播放",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "浏览中...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
