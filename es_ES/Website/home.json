@@ -23,8 +23,12 @@
     "message": "{0} transcurrido",
     "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "Reproduciendo",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Navegando...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
