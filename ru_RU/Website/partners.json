@@ -1,1 +1,10 @@
-{}
+{
+  "partners.apply.select.other": {
+    "message": "Прочее",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Наименование",
+    "description": "Name filed."
+  }
+}

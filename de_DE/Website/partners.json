@@ -1,126 +1,134 @@
 {
-	"partners.header.title": {
-		"message": "PARTNER",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Schließe Dich der Familie an und erhalte einige exklusive Partnervorteile, um allen zu zeigen, wie viel Swag Du hast.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Diese gehören schon zu uns",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Wie wäre es, in den Himmel, anstatt in die Hölle zu gehen?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Deine kostenlose Präsenz",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Unser Team wird dir eine Präsenz von deinem Webservice bereitstellen.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Werde verifiziert",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Eine besondere Rolle und große Ehre wird dir auf unserem Discord Server zuteil werden.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Meta-tag-Integration",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Aktiviert automatisch Deine Präsenz, wenn jemand Deine Website besucht.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Werde verewigt",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Ein krasser Platz auf unserer Partner-Seite.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Sei berühmt",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Auf unseren sozialen Netzwerken ausgestellt werden.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "ANFORDERUNGEN",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Wonach suchen wir?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Wir achten auf wachsende Communitys und spannende Dinge rund um das Internet. Du solltest PreMiD bereits benutzen und bereit sein, es auf noch mehr Internet-Freaks zu verteilen. Die Akzeptanz in das Programm ist extrem qualitativ und wird von einem zum nächsten Kandidaten variieren.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Unsere Firewall",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "Wir nehmen zur Zeit verschiedene Anstrengungen in unser Partnerprogramm auf. Jeder sollte die Möglichkeit haben, beachtet zu werden. Twitch-Streamer sollten mindestens 500 Follower und mindestens 3 gleichzeitige Zuschauer haben. Du musst mindestens 1 Mal pro Woche streamen.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Jetzt bewerben!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Lass uns gemeinsam in den Himmel gehen!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Wenn Du Dich eher für einen direkten Job bei PreMiD interessierst, dann schau Dir unsere Stellenanzeige an.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSOREN",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "Ohne diese erstaunlichen Leute wäre PreMiD nicht möglich.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "So schaut man Anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings ist ein rasantes im Browser gespieltes next-gen PvP-Arenaspiel.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat ist ein gemeinnütziges internationales Radio, das sich um qualitativ hochwertige Radio- und Nachrichtenunterhaltung bemüht.",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.iLoot": {
-		"message": "Die Verdienst-Plattform für Gamer.",
-		"description": "Description for iLoot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Ein leistungsstarkes und einfach zu bedienendes plattformübergreifendes Installations-Erstellungswerkzeug.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Kommuniziere dein Echtzeit-Status mit deinen Benutzern.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.crowdin": {
-		"message": "Flexible Übersetzungslösung für Technologieunternehmen.",
-		"description": "Description for Crowdin."
-	}
+  "partners.header.title": {
+    "message": "PARTNER",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Schließe Dich der Familie an und erhalte einige exklusive Partnervorteile, um allen zu zeigen, wie viel Swag Du hast.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Diese gehören schon zu uns",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "Wie wäre es, in den Himmel, anstatt in die Hölle zu gehen?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Deine kostenlose Präsenz",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Unser Team wird dir eine Präsenz von deinem Webservice bereitstellen.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Werde verifiziert",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Eine besondere Rolle und große Ehre wird dir auf unserem Discord Server zuteil werden.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Meta-tag-Integration",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Aktiviert automatisch Deine Präsenz, wenn jemand Deine Website besucht.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Werde verewigt",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Ein krasser Platz auf unserer Partner-Seite.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Sei berühmt",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Auf unseren sozialen Netzwerken ausgestellt werden.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "ANFORDERUNGEN",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Wonach suchen wir?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "Wir achten auf wachsende Communitys und spannende Dinge rund um das Internet. Du solltest PreMiD bereits benutzen und bereit sein, es auf noch mehr Internet-Freaks zu verteilen. Die Akzeptanz in das Programm ist extrem qualitativ und wird von einem zum nächsten Kandidaten variieren.",
+    "description": "Description for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "Unsere Firewall",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "Wir nehmen zur Zeit verschiedene Anstrengungen in unser Partnerprogramm auf. Jeder sollte die Möglichkeit haben, beachtet zu werden. Twitch-Streamer sollten mindestens 500 Follower und mindestens 3 gleichzeitige Zuschauer haben. Du musst mindestens 1 Mal pro Woche streamen.",
+    "description": "Description for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "Jetzt bewerben!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Lass uns gemeinsam in den Himmel gehen!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "Wenn Du Dich eher für einen direkten Job bei PreMiD interessierst, dann schau Dir unsere Stellenanzeige an.",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "SPONSOREN",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "Ohne diese erstaunlichen Leute wäre PreMiD nicht möglich.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "So schaut man Anime.",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings ist ein rasantes im Browser gespieltes next-gen PvP-Arenaspiel.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat ist ein gemeinnütziges internationales Radio, das sich um qualitativ hochwertige Radio- und Nachrichtenunterhaltung bemüht.",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "Die Verdienst-Plattform für Gamer.",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "Ein leistungsstarkes und einfach zu bedienendes plattformübergreifendes Installations-Erstellungswerkzeug.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Kommuniziere dein Echtzeit-Status mit deinen Benutzern.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Flexible Übersetzungslösung für Technologieunternehmen.",
+    "description": "Description for Crowdin."
+  },
+  "partners.apply.select.other": {
+    "message": "Sonstige",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Name",
+    "description": "Name filed."
+  }
 }

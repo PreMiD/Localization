@@ -74,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Bezoek onze server",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Kies website taal",
+    "description": "Tippy content of the language selector."
   }
 }

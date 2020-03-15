@@ -1,26 +1,26 @@
 {
-	"store.category.all": {
-		"message": "Gach",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Cluichí",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Ceol",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sóisialta",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Físeáin agus Sruthanna",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Eile",
-		"description": "Category at the top"
-	}
+  "store.category.all": {
+    "message": "Gach",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Cluichí",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Ceol",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Sóisialta",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Físeáin agus Sruthanna",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Eile",
+    "description": "Category at the top"
+  }
 }

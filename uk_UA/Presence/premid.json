@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Переглядає сторінку:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Документація",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Переглядає присутність:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Домашня сторінка",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Учасники проекту",
         "description": "A page name"
@@ -8,7 +24,11 @@
         "description": "A page name"
     },
     "premid.pageStore": {
-        "message": "Магазин",
+        "message": "Крамниця",
+        "description": "A page name"
+    },
+    "premid.pageCookies": {
+        "message": "Політика використання Cookie",
         "description": "A page name"
     },
     "premid.pagePrivacy": {
@@ -21,6 +41,10 @@
     },
     "premid.pageWiki": {
         "message": "Вікі",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Про програму",
         "description": "A page name"
     },
     "premid.pageSysReq": {

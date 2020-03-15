@@ -1,1 +1,30 @@
-{}
+{
+  "partners.why.benefit5.title": {
+    "message": "Sé famoso",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Se destacado en nuestras redes sociales.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "Requisitos",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "¿Que estas buscando?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.partner.aniFlix": {
+    "message": "Así es como ves anime.",
+    "description": "Description for AniFlix."
+  },
+  "partners.apply.select.other": {
+    "message": "Otras",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Nombre",
+    "description": "Name filed."
+  }
+}

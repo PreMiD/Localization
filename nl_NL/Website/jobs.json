@@ -1,0 +1,66 @@
+{
+	"jobs.header.title": {
+		"message": "Werk voor PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Ben je klaar om de grootste Rich-Presence bibliotheek te helpen?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Vacatures",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Hoge voordelen",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Ontmoet ons",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Kom in contact met de mensen achter PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sneak Peeks",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Kijk eens naar onze ontwikkeling en marketing.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Eer",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Krachtige Discord-rechten en een kleurrijke rol.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Steun PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Met jouw bijdrage is het mogelijk om dit project uit te voeren.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Time-out",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Neem je tijd, dit is vrijwillig werk.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Vroegtijdige toegang",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Je kunt nieuwe functies testen voordat ze uit komen.",
+		"description": "Benefit card description."
+	}
+}

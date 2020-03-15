@@ -1,78 +1,98 @@
 {
-	"store.cards.creator": {
-		"message": "Maker",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Deze presence is erg populair rond gebruikers.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "Deze presence vereist extra stappen om te kunnen werken. Controleer de pagina voor meer informatie.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.cards.verified": {
-		"message": "Deze presence is goedgekeurd door een geverifiëerde ontwikkelaar",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "Zoek",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Presence toevoegen",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Verwijder presence",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Deze presence wordt automatisch gebruikt wanneer nodig, het is niet nodig om deze toe te voegen.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Zoek filters",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Toon het meest gebruikte eerst",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Sta inhoud voor volwassenen toe",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "Categorieën",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Alle",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Spellen",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Muziek",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sociaal",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Video's & Streams",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Overige",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Zoek",
-		"description": "Placeholder for presence search"
-	}
+  "store.message.error": {
+    "message": "Extensie is niet verbonden.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
+  "store.cards.creator": {
+    "message": "Maker",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "Deze presence is erg populair rond gebruikers.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Presence van een officiële PreMiD partner.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Deze presence vereist extra stappen om te kunnen werken. Controleer de pagina voor meer informatie.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
+  "store.cards.verified": {
+    "message": "Deze presence is goedgekeurd door een geverifiëerde ontwikkelaar",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Zoek",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Presence toevoegen",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Verwijder presence",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "Deze presence wordt automatisch gebruikt wanneer nodig, het is niet nodig om deze toe te voegen.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "Zoek filters",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Toon het meest gebruikte eerst",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Sta inhoud voor volwassenen toe",
+    "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Alleen favoriete presences",
+    "description": "Liked presences only checkbox"
+  },
+  "store.category.heading": {
+    "message": "Categorieën",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "Alle",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Spellen",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Muziek",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Sociaal",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Video's & Streams",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Overige",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Zoek",
+    "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "druk op enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Klik om de filter te verwijderen.",
+    "description": "Remove message for active search filters."
+  }
 }

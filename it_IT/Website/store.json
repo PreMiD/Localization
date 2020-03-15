@@ -1,90 +1,90 @@
 {
-	"store.message.error": {
-		"message": "Estensione non connessa.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
-	"store.cards.creator": {
-		"message": "Creatore",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Questa presenza è molto popolare tra gli utenti.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "Questa presenza richiede dei passi aggiuntivi per funzionare, consulta la sua pagina per ulteriori informazioni.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.cards.verified": {
-		"message": "Questa presenza è stata approvata da uno sviluppatore verificato",
-		"description": "Verified badge hover message"
-	},
-	"store.header.search": {
-		"message": "Cerca",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Aggiungi presenza",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Rimuovi presenza",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Questa presenza viene utilizzata automaticamente quando necessario, non c'è bisogno di aggiungerla.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Filtri di Ricerca",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Mostra prima i più utilizzati",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Consenti contenuto per adulti",
-		"description": "Adult content checkbox"
-	},
-	"store.category.heading": {
-		"message": "Categorie",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Tutto",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Giochi",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musica",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Social",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Video & Dirette",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Altro",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Cerca",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "premi invio",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Clicca per rimuovere il filtro.",
-		"description": "Remove message for active search filters."
-	}
+  "store.message.error": {
+    "message": "Estensione non connessa.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
+  "store.cards.creator": {
+    "message": "Creatore",
+    "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "Questa presenza è molto popolare tra gli utenti.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Questa presenza richiede dei passi aggiuntivi per funzionare, consulta la sua pagina per ulteriori informazioni.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
+  "store.cards.verified": {
+    "message": "Questa presenza è stata approvata da uno sviluppatore verificato",
+    "description": "Verified badge hover message"
+  },
+  "store.header.search": {
+    "message": "Cerca",
+    "description": "Search bar text when nothing is stated"
+  },
+  "store.card.presence.add": {
+    "message": "Aggiungi presenza",
+    "description": "Button that will appear on hover after extension is installed."
+  },
+  "store.card.presence.remove": {
+    "message": "Rimuovi presenza",
+    "description": "Button that will appear on hover after extension and presence is installed."
+  },
+  "store.card.presence.included": {
+    "message": "Questa presenza viene utilizzata automaticamente quando necessario, non c'è bisogno di aggiungerla.",
+    "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "Filtri di Ricerca",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "Mostra prima i più utilizzati",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "Consenti contenuto per adulti",
+    "description": "Adult content checkbox"
+  },
+  "store.category.heading": {
+    "message": "Categorie",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "Tutto",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Giochi",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Musica",
+    "description": "Category at the top"
+  },
+  "store.category.socials": {
+    "message": "Social",
+    "description": "Category at the top"
+  },
+  "store.category.videos": {
+    "message": "Video & Dirette",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Altro",
+    "description": "Category at the top"
+  },
+  "store.search": {
+    "message": "Cerca",
+    "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "premi invio",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Clicca per rimuovere il filtro.",
+    "description": "Remove message for active search filters."
+  }
 }

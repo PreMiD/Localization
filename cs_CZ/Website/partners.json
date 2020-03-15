@@ -1,122 +1,130 @@
 {
-	"partners.header.title": {
-		"message": "PARTNEŘI",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Připojte se ke skupině a získejte některé výhody pouze pro partnery, abyste ukázali, kolik swagu máte.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Tyhle nám již patří",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "A co třeba jít do nebe místo pekla?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Vaše bezplatná přítomnost",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Náš tým vám poskytne přítomnost vaší webové služby.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Staňte se ověřený",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Speciální role a vyznamenání ti bude přiděleno na našem Discord serveru.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Integrace meta-tagu",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automaticky povolí vaši Presence, když někdo navštíví váš web.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Buď nesmrtelný",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Nepříjemné místo na naší partnerské stránce.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Buď slavný",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Budete sdílení na naších sociálních mediích.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "POŽADAVKY",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Co přesně hledáme?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Naše firewall",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 3 aktivní diváky. Musíte streamovat alespoň 1 krát týdně.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Podejte žádost nyní!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Pojďme společně do nebe!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Pokud jste spíše zaujati přímým zaměstnáním pro PreMiD, tak se podívejte na naši reklamu na práci.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONZOR",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Takhle sleduješ anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings je next-gen rychlá Pvp arénní hra hraná v prohlížeči.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat je neziskové mezinárodní rádio usilující o nonstop kvalitní rádio a zpravodajskou zábavu.",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.iLoot": {
-		"message": "Platforma s plusy pro hráče.",
-		"description": "Description for iLoot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Lehce zdělte status v reálném čase pro vaše uživatele.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.crowdin": {
-		"message": "Agile lokalizace pro technologické společnosti.",
-		"description": "Description for Crowdin."
-	}
+  "partners.header.title": {
+    "message": "PARTNEŘI",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Připojte se ke skupině a získejte některé výhody pouze pro partnery, abyste ukázali, kolik swagu máte.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Tyhle nám již patří",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "A co třeba jít do nebe místo pekla?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Vaše bezplatná přítomnost",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Náš tým vám poskytne přítomnost vaší webové služby.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Staňte se ověřený",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Speciální role a vyznamenání ti bude přiděleno na našem Discord serveru.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Integrace meta-tagu",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Automaticky povolí vaši Presence, když někdo navštíví váš web.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Buď nesmrtelný",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Nepříjemné místo na naší partnerské stránce.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Buď slavný",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Budete sdílení na naších sociálních mediích.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "POŽADAVKY",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Co přesně hledáme?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "Naše firewall",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 3 aktivní diváky. Musíte streamovat alespoň 1 krát týdně.",
+    "description": "Description for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "Podejte žádost nyní!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Pojďme společně do nebe!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "Pokud jste spíše zaujati přímým zaměstnáním pro PreMiD, tak se podívejte na naši reklamu na práci.",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "SPONZOR",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "Takhle sleduješ anime.",
+    "description": "Description for AniFlix."
+  },
+  "partners.partner.arenaOfKings": {
+    "message": "Arena of Kings je next-gen rychlá Pvp arénní hra hraná v prohlížeči.",
+    "description": "Description for Arena of Kings."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat je neziskové mezinárodní rádio usilující o nonstop kvalitní rádio a zpravodajskou zábavu.",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.iLoot": {
+    "message": "Platforma s plusy pro hráče.",
+    "description": "Description for iLoot."
+  },
+  "partners.partner.bitRock": {
+    "message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
+    "description": "Description for BitRock."
+  },
+  "partners.partner.statusPage": {
+    "message": "Lehce zdělte status v reálném čase pro vaše uživatele.",
+    "description": "Description for StatusPage."
+  },
+  "partners.partner.crowdin": {
+    "message": "Agile lokalizace pro technologické společnosti.",
+    "description": "Description for Crowdin."
+  },
+  "partners.apply.select.other": {
+    "message": "Ostatní",
+    "description": "Select 'Other' category."
+  },
+  "partners.apply.form.name": {
+    "message": "Jméno",
+    "description": "Name filed."
+  }
 }
