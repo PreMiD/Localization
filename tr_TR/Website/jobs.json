@@ -1,66 +1,66 @@
 {
-	"jobs.header.title": {
-		"message": "PreMiD'de Çalışın",
-		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "En büyük Rich-Presence kütüphanesine yardım etmeye hazır mısın?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "İş Alımları",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "Üst Düzey Faydalar",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "Bizimle tanışın",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "PreMiD'in arkasındaki kişilerle iletişime geçin.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "Gizli İşler",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "Geliştirme ve Pazarlama kısmımıza göz atın.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit3.title": {
-		"message": "Onur",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit3.description": {
-		"message": "Özel Discord yetkileri ve renkli bir rol.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit4.title": {
-		"message": "PreMiD'i Destekle",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit4.description": {
-		"message": "Katkınız ile projeyi devam ettirmemiz mümkün.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit5.title": {
-		"message": "Zaman aşımı",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "Kendini yorma. Bu bir gönüllülük işi.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit6.title": {
-		"message": "Erken Erişim",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Yeni özellikleri herkesten önce test edebilme fırsatı.",
-		"description": "Benefit card description."
-	}
+  "jobs.header.title": {
+    "message": "PreMiD'de Çalışın",
+    "description": "First part of the jobs page."
+  },
+  "jobs.header.description": {
+    "message": "En büyük Rich-Presence kütüphanesine yardım etmeye hazır mısın?",
+    "description": "The second part of the jobs page."
+  },
+  "jobs.openings.title": {
+    "message": "İş Alımları",
+    "description": "Text before the available job positions cards."
+  },
+  "jobs.benefits.title": {
+    "message": "Üst Düzey Faydalar",
+    "description": "Text before the benefits cards."
+  },
+  "jobs.benefit1.title": {
+    "message": "Bizimle tanışın",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit1.description": {
+    "message": "PreMiD'in arkasındaki kişilerle iletişime geçin.",
+    "description": "Benefit card description."
+  },
+  "jobs.benefit2.title": {
+    "message": "Gizli İşler",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit2.description": {
+    "message": "Geliştirme ve Pazarlama kısmımıza göz atın.",
+    "description": "Benefit card description."
+  },
+  "jobs.benefit3.title": {
+    "message": "Onur",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit3.description": {
+    "message": "Özel Discord yetkileri ve renkli bir rol.",
+    "description": "Benefit card description."
+  },
+  "jobs.benefit4.title": {
+    "message": "PreMiD'i Destekle",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit4.description": {
+    "message": "Katkınız ile projeyi devam ettirmemiz mümkün.",
+    "description": "Benefit card description."
+  },
+  "jobs.benefit5.title": {
+    "message": "Zaman aşımı",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit5.description": {
+    "message": "Kendini yorma. Bu bir gönüllülük işi.",
+    "description": "Benefit card description."
+  },
+  "jobs.benefit6.title": {
+    "message": "Erken Erişim",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit6.description": {
+    "message": "Yeni özellikleri herkesten önce test edebilme fırsatı.",
+    "description": "Benefit card description."
+  }
 }
