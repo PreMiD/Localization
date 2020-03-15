@@ -194,5 +194,9 @@
   "partners.apply.error2": {
     "message": "Ne daugiau kaip 150 simbolių aprašymas.",
     "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Pridėkite nuorodą (turi prasidėti https: // ir baigtis .png)",
+    "description": "Error when image link is entered wrong."
   }
 }
