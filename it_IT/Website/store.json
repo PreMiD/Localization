@@ -8,11 +8,11 @@
     "description": "Creator of a presence"
   },
   "store.cards.popular": {
-    "message": "Questa presenza è molto popolare tra gli utenti.",
+    "message": "Questa presence è molto popolare tra gli utenti.",
     "description": "Presence card popular flame"
   },
   "store.cards.extraStepsRequired": {
-    "message": "Questa presenza richiede dei passi aggiuntivi per funzionare, consulta la sua pagina per ulteriori informazioni.",
+    "message": "Questa presence richiede dei passi aggiuntivi per funzionare, consulta la sua pagina per ulteriori informazioni.",
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
