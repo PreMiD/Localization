@@ -46,5 +46,29 @@
   "contributors.roles.translator": {
     "message": "Penerjemah",
     "description": "'Translator' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "Administrator",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Asisten Manajer komunitas",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Asisten Moderator Komunitas",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Korektor",
+    "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "Klik untuk menyalin ID pengguna.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "ID Pengguna disalin ke clipboard Anda!",
+    "description": "Notification after user ID was copied."
   }
 }
