@@ -59,6 +59,10 @@
     "message": "Asisten Moderator Komunitas",
     "description": "'Assisting Head Moderator' title for contributors page."
   },
+  "contributors.roles.jrModerator": {
+    "message": "Moderator Junior",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
   "contributors.roles.proofreader": {
     "message": "Korektor",
     "description": "'Proofreader' title for contributors and user pages."
