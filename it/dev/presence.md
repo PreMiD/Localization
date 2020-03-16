@@ -75,7 +75,7 @@ Puoi scegliere se programmare il tuo Presence con [JavaScript](https://www.javas
 
 ## Clonando il progetto
 1. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
-2. Scegli una cartella di tua scelta.
+2. Scegli una cartella a tua scelta.
 3. Aprilo con l'editor di codice.
 
 ## Creazione di cartelle e file
@@ -205,7 +205,7 @@ Apri una console nella cartella e digita `tsc -w` per compilare la `presence.ts`
 ## Clonando il progetto
 1. Installa [Git](https://git-scm.com/).
 2. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
-3. Scegli una cartella di tua scelta.
+3. Scegli una cartella a tua scelta.
 4. Aprilo con l'editor di codice.
 
 ## Creazione di cartelle e file
