@@ -52,7 +52,7 @@
     "description": "'Administrator' title for contributors page."
   },
   "contributors.roles.asstCommunityManager": {
-    "message": "Manager della Community",
+    "message": "Asst. Manager della Community",
     "description": "'Assisting Community Manager' title for contributors page."
   },
   "contributors.roles.asstHeadModerator": {
@@ -68,7 +68,7 @@
     "description": "'Proofreader' title for contributors and user pages."
   },
   "contributors.cards.copyUserId": {
-    "message": "Clicca per copiare l’ID utente.",
+    "message": "Clicca per copiare l’ID dell'utente.",
     "description": "Tippy message when you hover on the avatar of a credit card."
   },
   "contributors.cards.userIdCopied": {
