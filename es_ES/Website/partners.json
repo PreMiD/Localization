@@ -1,4 +1,12 @@
 {
+  "partners.slideshow.description": {
+    "message": "Estos ya nos pertenecen",
+    "description": "Description for slideshow."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Verifícate",
+    "description": "Heading for the second benefit."
+  },
   "partners.why.benefit5.title": {
     "message": "Sé famoso",
     "description": "Heading for the fifth benefit."
@@ -15,9 +23,25 @@
     "message": "¿Que estas buscando?",
     "description": "Heading for the first requirement."
   },
+  "partners.sponsors.description": {
+    "message": "PreMiD no sería posible sin esta gente asombrosa.",
+    "description": "Description for sponsors."
+  },
   "partners.partner.aniFlix": {
     "message": "Así es como ves anime.",
     "description": "Description for AniFlix."
+  },
+  "partners.partner.upBeat": {
+    "message": "UpBeat es una radio internacional sin ánimo de lucro que se esfuerza por proporcionar una radio sin fin, calidad y entretenimiento de noticias.",
+    "description": "Description for UpBeatRadio."
+  },
+  "partners.partner.wikijs": {
+    "message": "El software Wiki más potente y extensible de código abierto.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.select.website": {
+    "message": "Sitio Web",
+    "description": "Select 'Website' category."
   },
   "partners.apply.select.other": {
     "message": "Otras",
@@ -26,5 +50,25 @@
   "partners.apply.form.name": {
     "message": "Nombre",
     "description": "Name filed."
+  },
+  "partners.apply.form.description": {
+    "message": "Descripción: (máximo 150 caracteres)",
+    "description": "Description field."
+  },
+  "partners.apply.form.description.placeholder": {
+    "message": "Descripción para destacados",
+    "description": "Description field's placeholder."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Enlace de imagen: (550x300, solo PNG)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Ej: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.error2": {
+    "message": "Máximo 150 caracteres descripción.",
+    "description": "Error when description exceeds character limit."
   }
 }
