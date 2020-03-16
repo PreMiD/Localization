@@ -47,12 +47,24 @@
     "message": "Tampilkan yang paling sering digunakan terlebih dahulu",
     "description": "Most used first checkbox"
   },
+  "store.category.filters.allowAdult": {
+    "message": "Izinkan konten dewasa",
+    "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Hanya presence yang disukai",
+    "description": "Liked presences only checkbox"
+  },
+  "store.category.heading": {
+    "message": "Kategori",
+    "description": "Category heading"
+  },
   "store.category.all": {
     "message": "Semua",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Game",
+    "message": "Permainan",
     "description": "Category at the top"
   },
   "store.category.music": {
@@ -74,5 +86,13 @@
   "store.search": {
     "message": "Cari",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "tekan enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Klik untuk menghapus filter.",
+    "description": "Remove message for active search filters."
   }
 }
