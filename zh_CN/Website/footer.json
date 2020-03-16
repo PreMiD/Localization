@@ -98,5 +98,9 @@
   "footer.copyright.line2": {
     "message": "网站由 {0} 维护",
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+  },
+  "footer.partners.more": {
+    "message": "点击这里查看其他合作伙伴和赞助者。",
+    "description": "Button next to all listed partners on the footer."
   }
 }
