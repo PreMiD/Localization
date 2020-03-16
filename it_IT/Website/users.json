@@ -16,19 +16,19 @@
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Create oltre 100 Presenze!",
+		"message": "Oltre 100 Presence create!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "Utente [presenze/contributi]",
+		"message": "Utente [presence/contributi]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Clicca qui per vedere le presenze create da questo utente.",
+		"message": "Clicca qui per vedere le presence create da questo utente.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Clicca qui per mostrare le presenze a cui questo utente ha contribuito.",
+		"message": "Clicca qui per mostrare le presence a cui questo utente ha contribuito.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
