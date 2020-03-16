@@ -69,7 +69,7 @@ Dopo che tutte le recensioni corrette saranno state soddisfatte, la richiesta pu
 Puoi scegliere se programmare il tuo Presence con [JavaScript](https://www.javascript.com/) o  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ha alcune definizioni dei tipi più piccanti, quindi correggere e identificare i bug è molto più facile. Se vuoi usare solo [JavaScript](https://www.javascript.com/) puoi saltare alla [Struttura (JavaScript)](/dev/presence#structure-javascript).
 
 ## Installazione
-1. Install [Git](https://git-scm.com/).
+1. Installa [Git](https://git-scm.com/).
 2. Installa [Nodo](https://nodejs.org/en/) (viene fornito con [npm](https://www.npmjs.com/)).
 3. Installa [TypeScript](https://www.typescriptlang.org/index.html#download-links) (apri un terminale e `npm install -g typescript`).
 
@@ -203,7 +203,7 @@ Apri una console nella cartella e digita `tsc -w` per compilare la `presence.ts`
 
 # Struttura (JavaScript)
 ## Clonando il progetto
-1. Install [Git](https://git-scm.com/).
+1. Installa [Git](https://git-scm.com/).
 2. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
 3. Scegli una cartella di tua scelta.
 4. Aprilo con l'editor di codice.

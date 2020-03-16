@@ -1,6 +1,6 @@
 ---
-title: Guida introduttiva
-description: Un piccolo consiglio per coloro che di recente hanno programmato
+title: Primi passi
+description: Un piccolo consiglio per coloro che di recente hanno iniziato a programmare
 published: vero
 date: 2020-02-08T04:46:24.725Z
 tags:
@@ -11,9 +11,9 @@ tags:
 > {.is-info}
 
 # Installazione dei requisiti
-1. Install [Git](https://git-scm.com/).
+1. Installa [Git](https://git-scm.com/).
 2. Installa [Nodo](https://nodejs.org/en/) (viene fornito con [npm](https://www.npmjs.com/)).
-3. Installa [TypeScript](https://www.typescriptlang.org/index.html#download-links) (apri un terminale e il tipo `npm install -g typescript`).
+3. Installa [TypeScript](https://www.typescriptlang.org/index.html#download-links) (apri un terminale e scrivi `npm install -g typescript`).
 
 # Clonando il progetto
 1. Aprire un terminale e digitare `git clone URL`. **Sostituire l'URL con il link del repository a cui vuoi contribuire** es. `git clone https://github.com/PreMiD/PreMiD`.
