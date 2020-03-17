@@ -11,6 +11,14 @@
         "message": "Cửa hàng",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Chính sách bảo mật",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Điều khoản sử dụng",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
