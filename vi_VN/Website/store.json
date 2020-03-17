@@ -1,7 +1,23 @@
 {
+  "store.message.error": {
+    "message": "Tiện ích chưa được kết nối.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "Tác giả",
     "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "Trạng thái này rất phổ biến khắp người dùng.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Trạng thái của một đối tác chính thức của PreMiD.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Trạng thái này cần thêm vài bước để hoạt động, hãy kiểm tra trang web của nó để biết thêm thông tin.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
     "message": "Presence này đã được phê duyệt bởi một nhà phát triển verified",
@@ -35,6 +51,10 @@
     "message": "Cho phép nội dung người lớn",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "Chỉ những trạng thái được thích",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "Danh mục",
     "description": "Category heading"
@@ -52,11 +72,11 @@
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Xã hội",
+    "message": "Mạng xã hội",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Video & Luồng",
+    "message": "Video & Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
@@ -66,5 +86,13 @@
   "store.search": {
     "message": "Tìm kiếm",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "bấm enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Bấm để gỡ bộ lọc.",
+    "description": "Remove message for active search filters."
   }
 }
