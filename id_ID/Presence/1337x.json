@@ -1,1 +1,42 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Melihat perpustakaan film",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Melihat pustaka seri",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Melihat episode terbaru",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Melihat 100 teratas",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Melihat apa yang sedang tren",
+        "description": ""
+    },
+    "1337x.upload": {
+        "message": "Mengunggah sesuatu...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Membaca peraturan",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Menulis ke 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Membaca tentang 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Melihat torrent:",
+        "description": ""
+    }
+}
