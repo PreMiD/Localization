@@ -11,6 +11,14 @@
         "message": "Parduotuvė",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Privatumo politika",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Naudojimosi sąlygos",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wikipedija",
         "description": "A page name"
