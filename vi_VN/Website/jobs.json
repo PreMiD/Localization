@@ -1,1 +1,46 @@
-{}
+{
+  "jobs.modal.step": {
+    "message": "Bước {0} trên 2",
+    "description": "Step indicator of the modal. {0} will be replaced with the current page ."
+  },
+  "jobs.modal.buttons.next": {
+    "message": "Tiếp theo",
+    "description": "Next button in the modal."
+  },
+  "jobs.modal.buttons.cancel": {
+    "message": "Hủy",
+    "description": "Cancel, button in the modal."
+  },
+  "jobs.modal.error": {
+    "message": "Hãy hoàn thành các mẫu điền",
+    "description": "Error when user did not fill all the fields."
+  },
+  "jobs.modal.notice": {
+    "message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một đội phi lợi nhuận, mỗi quyên góp hoặc là tiền Patreon sẽ đi vào dự án. Bằng việc tham gia vào một vị trí tại PreMiD bạn biết rằng bạn đang tình nguyện cho dự án, bạn sẽ không được trả cho công việc.",
+    "description": "Notice for applicants."
+  },
+  "jobs.header.title": {
+    "message": "Làm việc tại PreMiD",
+    "description": "First part of the jobs page."
+  },
+  "jobs.header.description": {
+    "message": "Bạn đã sẵn sàng để giúp đỡ cho thư viện Rich-Presence lớn nhất chưa?",
+    "description": "The second part of the jobs page."
+  },
+  "jobs.openings.title": {
+    "message": "Tuyển việc làm",
+    "description": "Text before the available job positions cards."
+  },
+  "jobs.benefits.title": {
+    "message": "Lợi ích cấp cao",
+    "description": "Text before the benefits cards."
+  },
+  "jobs.benefit1.title": {
+    "message": "Gặp chúng tôi",
+    "description": "Benefit card title."
+  },
+  "jobs.benefit1.description": {
+    "message": "Gặp gỡ những người phía sau dự án PreMiD.",
+    "description": "Benefit card description."
+  }
+}
