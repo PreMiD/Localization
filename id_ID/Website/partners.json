@@ -1,4 +1,48 @@
 {
+  "partners.header.title": {
+    "message": "MITRA",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Bergabunglah bersama keluarga dan dapatkan beberapa manfaat khusus mitra untuk memamerkan jumlah bergoyang yang Anda miliki.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Ini sudah menjadi milik kita",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "Bagaimana kalau pergi ke surga bukannya ke neraka?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Presence gratis anda",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Tim kami akan memberi Anda Presence layanan web Anda.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Menjadi diverifikasi",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Peran khusus dan kehormatan besar akan diberikan kepada Anda di server Discord kami.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Integrasi meta-tag",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Secara otomatis mengaktifkan Presence Anda ketika seseorang mengunjungi situs web Anda.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Dapatkan diabadikan",
+    "description": "Heading for the fourth benefit."
+  },
   "partners.apply.select.other": {
     "message": "Lainnya",
     "description": "Select 'Other' category."
