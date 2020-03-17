@@ -1,12 +1,12 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: '„PreMiD“ diegimo pradžia „Chromeium“ naršyklėse'
 published: true
 date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 
 # Diegti
 ### Chrome, Edge, tt.
@@ -15,11 +15,14 @@ The installation of the extension is very important as the application can not d
 3. Spauskite ant ** Pridėti į Chrome **.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Pridėkite ** Instaliuokite Chrome plėtinius.</li> 
+   
+   2 Pridėkite [ mūsų plėtinį](https://premid.app/downloads).</ol> 
 
-> Do not forget to [add the **application**](/install). 
+
+
+> Nepamirškite  pridėti ** aplikacijos </a>. </p> 
 > 
-> {.is-warning}
-
-![](https://img.icons8.com/color/2x/chrome.png) {.align-abstopright}
+> {.is-warning}</blockquote> 
+> 
+> ![](https://img.icons8.com/color/2x/chrome.png) {.align-abstopright}
