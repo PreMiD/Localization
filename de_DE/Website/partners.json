@@ -123,6 +123,26 @@
     "message": "Flexible Übersetzungslösung für Technologieunternehmen.",
     "description": "Description for Crowdin."
   },
+  "partners.partner.wikijs": {
+    "message": "Die leistungsstärkste und erweiterbarste Open-Source-Wiki-Software.",
+    "description": "Description for WikiJS."
+  },
+  "partners.apply.title": {
+    "message": "Partnerschaft anfragen",
+    "description": "Partnership application modal title."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Angemeldet als {0}",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "Nicht du?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
+  "partners.apply.select.website": {
+    "message": "Webseite",
+    "description": "Select 'Website' category."
+  },
   "partners.apply.select.other": {
     "message": "Sonstige",
     "description": "Select 'Other' category."
@@ -130,5 +150,49 @@
   "partners.apply.form.name": {
     "message": "Name",
     "description": "Name filed."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Bsp: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Link",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Bsp: https://premid.app",
+    "description": "Link filed's placeholder."
+  },
+  "partners.apply.form.description": {
+    "message": "Beschreibung: (Maximal 150 Zeichen)",
+    "description": "Description field."
+  },
+  "partners.apply.form.imageLink": {
+    "message": "Bildlink: (550x300, nur PNG)",
+    "description": "Do not change the sizes."
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "message": "Bsp: https://i.imgur.com/clun1ID.png",
+    "description": "Image link field's placeholder. Do not change the image URL."
+  },
+  "partners.apply.form.button.close": {
+    "message": "Schließen",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Übernehmen",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Bitte alle Felder ausfüllen.",
+    "description": "Error when a field isn't filled."
+  },
+  "partners.apply.error2": {
+    "message": "Maximal 150 Zeichen lange Beschreibung.",
+    "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Bitte einen Link hinzufügen (muss mit https:// starten und .png enden)",
+    "description": "Error when image link is entered wrong."
   }
 }
