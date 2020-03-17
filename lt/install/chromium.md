@@ -9,10 +9,10 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # Diegti
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+### Chrome, Edge, tt.
+1. Eikite į mūsų atsisiuntimų puslapį [spustelėdami čia](https://premid.app/downloads).
+2. Pasirinkite **Chromium**.
+3. Spauskite ant ** Pridėti į Chrome **.
 
 ### Opera
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
