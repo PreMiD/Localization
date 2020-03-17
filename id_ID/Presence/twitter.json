@@ -26,5 +26,21 @@
     "twitter.viewList": {
         "message": "Melihat daftar:",
         "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Bookmark",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Notifikasi",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Jelajahi",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Mengubah beberapa pengaturan...",
+        "description": ""
     }
 }
