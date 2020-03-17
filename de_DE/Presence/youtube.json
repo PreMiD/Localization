@@ -1,1 +1,6 @@
-{}
+{
+    "youtube.upload": {
+        "message": "Lade etwas hoch...",
+        "description": ""
+    }
+}
