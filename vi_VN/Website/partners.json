@@ -1,4 +1,36 @@
 {
+  "partners.header.title": {
+    "message": "ĐỐI TÁC",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Tham gia và có cơ hội nhận được những lợi ích dành riêng cho đối tác để khoe bạn ngầu như thế nào.",
+    "description": "Description for page."
+  },
+  "partners.slideshow.description": {
+    "message": "Những thứ này thuộc về chúng tôi",
+    "description": "Description for slideshow."
+  },
+  "partners.why.title": {
+    "message": "Tại sao không thăng thiên thay vì độn thổ?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Trạng thái miễn phí",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Đội ngũ của chúng tôi sẽ cung cấp một trạng thái cho dịch vụ web của bạn.",
+    "description": "Description for the first benefit."
+  },
+  "partners.why.benefit2.title": {
+    "message": "Trở thành người được xác minh",
+    "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Một role đặc biệt và vinh dự sẽ được trao cho bạn trong server Discord của chúng tôi.",
+    "description": "Description for the second benefit."
+  },
   "partners.apply.select.other": {
     "message": "Khác",
     "description": "Select 'Other' category."

@@ -1,4 +1,8 @@
 {
+  "home.introduction.paragraph": {
+    "message": "**PreMiD** là một tiện ích đơn giản, có thể tùy biến cho phép bạn hiển thị những gì bạn đang làm trên web lên trạng thái \"đang chơi\" của Discord.",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "Tính năng của chúng tôi",
     "description": "Introduction button"
@@ -14,6 +18,10 @@
   "home.examples.timestamp": {
     "message": "{0} còn lại",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "{0} trôi qua",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.examples.status.playing": {
     "message": "Phát lại",
@@ -70,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Truy cập Discord Server",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Chọn ngôn ngữ website",
+    "description": "Tippy content of the language selector."
   }
 }
