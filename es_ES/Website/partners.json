@@ -1,11 +1,39 @@
 {
+  "partners.header.title": {
+    "message": "PARTNERS",
+    "description": "Heading for page."
+  },
+  "partners.header.description": {
+    "message": "Únete a la fam y obtén algunos beneficios exclusivos de los socios para demostrar cuánta ingesta tiene.",
+    "description": "Description for page."
+  },
   "partners.slideshow.description": {
     "message": "Estos ya nos pertenecen",
     "description": "Description for slideshow."
   },
+  "partners.why.title": {
+    "message": "¿Qué tal ir al cielo en lugar del infierno?",
+    "description": "Heading for benefits."
+  },
+  "partners.why.benefit1.title": {
+    "message": "Tu presencia gratuita",
+    "description": "Heading for the first benefit."
+  },
+  "partners.why.benefit1.description": {
+    "message": "Nuestro equipo le proporcionará una presencia de su servicio web.",
+    "description": "Description for the first benefit."
+  },
   "partners.why.benefit2.title": {
     "message": "Verifícate",
     "description": "Heading for the second benefit."
+  },
+  "partners.why.benefit2.description": {
+    "message": "Un rol especial y un gran honor se le dará en nuestro servidor de Discord.",
+    "description": "Description for the second benefit."
+  },
+  "partners.why.benefit3.title": {
+    "message": "Integración de Meta-tag",
+    "description": "Heading for the third benefit."
   },
   "partners.why.benefit5.title": {
     "message": "Sé famoso",
@@ -23,6 +51,14 @@
     "message": "¿Que estas buscando?",
     "description": "Heading for the first requirement."
   },
+  "partners.apply.button": {
+    "message": "¡Aplicar ahora!",
+    "description": "Button to apply for partner."
+  },
+  "partners.sponsors.title": {
+    "message": "SPONSORS",
+    "description": "Heading for sponsors."
+  },
   "partners.sponsors.description": {
     "message": "PreMiD no sería posible sin esta gente asombrosa.",
     "description": "Description for sponsors."
@@ -39,6 +75,22 @@
     "message": "El software Wiki más potente y extensible de código abierto.",
     "description": "Description for WikiJS."
   },
+  "partners.apply.title": {
+    "message": "Solicitar la colaboración",
+    "description": "Partnership application modal title."
+  },
+  "partners.apply.loggedUser": {
+    "message": "Inició sesión como %@",
+    "description": "{0} will be replaced with user account."
+  },
+  "partners.apply.notYou": {
+    "message": "¿No eres tú?",
+    "description": "Account switcher on the modal, just like Discord's!"
+  },
+  "partners.apply.select.default": {
+    "message": "Por favor, selecciona una",
+    "description": "Select default placeholder."
+  },
   "partners.apply.select.website": {
     "message": "Sitio Web",
     "description": "Select 'Website' category."
@@ -50,6 +102,18 @@
   "partners.apply.form.name": {
     "message": "Nombre",
     "description": "Name filed."
+  },
+  "partners.apply.form.name.placeholder": {
+    "message": "Ex: PreMiD",
+    "description": "Name field's placeholder."
+  },
+  "partners.apply.form.link": {
+    "message": "Enlace",
+    "description": "Link field."
+  },
+  "partners.apply.form.link.placeholder": {
+    "message": "Ej: https://premid.app",
+    "description": "Link filed's placeholder."
   },
   "partners.apply.form.description": {
     "message": "Descripción: (máximo 150 caracteres)",
@@ -67,8 +131,24 @@
     "message": "Ej: https://i.imgur.com/clun1ID.png",
     "description": "Image link field's placeholder. Do not change the image URL."
   },
+  "partners.apply.form.button.close": {
+    "message": "Cerrar",
+    "description": "Modal close button."
+  },
+  "partners.apply.form.button.apply": {
+    "message": "Aplicar",
+    "description": "Modal apply button."
+  },
+  "partners.apply.error1": {
+    "message": "Por favor, completa todos los campos.",
+    "description": "Error when a field isn't filled."
+  },
   "partners.apply.error2": {
     "message": "Máximo 150 caracteres descripción.",
     "description": "Error when description exceeds character limit."
+  },
+  "partners.apply.error3": {
+    "message": "Por favor agregue un enlace (tiene que empezar con https:// y terminar con .png)",
+    "description": "Error when image link is entered wrong."
   }
 }
