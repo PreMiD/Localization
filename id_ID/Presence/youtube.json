@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Melihat apa yang sedang tren",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Mengunggah sesuatu...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Melihat mereka",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}
