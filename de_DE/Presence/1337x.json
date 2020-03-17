@@ -1,1 +1,10 @@
-{}
+{
+    "1337x.upload": {
+        "message": "Lade etwas hoch...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Ließt die Regeln",
+        "description": ""
+    }
+}
