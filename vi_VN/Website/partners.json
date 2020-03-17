@@ -31,6 +31,74 @@
     "message": "Một role đặc biệt và vinh dự sẽ được trao cho bạn trong server Discord của chúng tôi.",
     "description": "Description for the second benefit."
   },
+  "partners.why.benefit3.title": {
+    "message": "Tích hợp thẻ Meta",
+    "description": "Heading for the third benefit."
+  },
+  "partners.why.benefit3.description": {
+    "message": "Tự động bật trạng thái của bạn khi ai đó đang ghé thăm website của bạn.",
+    "description": "Description for the third benefit."
+  },
+  "partners.why.benefit4.title": {
+    "message": "Trở nên bất tử",
+    "description": "Heading for the fourth benefit."
+  },
+  "partners.why.benefit4.description": {
+    "message": "Một nơi riêng biệt dành cho các đối tác.",
+    "description": "Description for the fourth benefit."
+  },
+  "partners.why.benefit5.title": {
+    "message": "Trở nên nổi tiếng",
+    "description": "Heading for the fifth benefit."
+  },
+  "partners.why.benefit5.description": {
+    "message": "Được giới thiệu trên mạng xã hội của chúng tôi.",
+    "description": "Description for the fifth benefit."
+  },
+  "partners.requirements.title": {
+    "message": "YÊU CẦU",
+    "description": "Heading for the requirements."
+  },
+  "partners.requirements.first.title": {
+    "message": "Chúng tôi đang tìm kiếm đều gì?",
+    "description": "Heading for the first requirement."
+  },
+  "partners.requirements.first.description": {
+    "message": "Chúng tôi theo dõi những cộng đồng lớn mạnh và những điều thú vị trên Internet. Tóm gọn là bạn đã dùng PreMiD và sẵn sàng để lan cho cả Internet. Việc được chấp thuận vào chương trình này rất phụ thuộc và sẽ khác nhau từ một ứng cử viên cho đến người kế tiếp.",
+    "description": "Description for the first requirement."
+  },
+  "partners.requirements.second.title": {
+    "message": "Tường lửa",
+    "description": "Heading for the second requirement."
+  },
+  "partners.requirements.second.description": {
+    "message": "Chúng tôi hiện tại đang chấp nhận đa dạng những cách để vào chương trình đối tác của chúng tôi. Mọi người nên có cơ hội được để ý. Streamer Twitch nên có ít nhất 500 người theo dõi và ít nhất 3 lượt xem đồng thời. Bạn phải stream ít nhất 1 lần trên tuần.",
+    "description": "Description for the second requirement."
+  },
+  "partners.apply.button": {
+    "message": "Áp dụng ngay!",
+    "description": "Button to apply for partner."
+  },
+  "partners.apply.disclaimer": {
+    "message": "Hãy đi thăng thiên cùng nhau nào!",
+    "description": "Disclaimer located above the apply button."
+  },
+  "partners.apply.jobs": {
+    "message": "Nếu bạn quan tâm về một công việc ở PreMiD, hãy xem về phần quảng cáo việc làm.",
+    "description": "Hint located under the button."
+  },
+  "partners.sponsors.title": {
+    "message": "NGƯỜI TÀI TRỢ",
+    "description": "Heading for sponsors."
+  },
+  "partners.sponsors.description": {
+    "message": "PreMiD sẽ không có thể nếu không có những con người tuyệt vời này.",
+    "description": "Description for sponsors."
+  },
+  "partners.partner.aniFlix": {
+    "message": "Đây là cách bạn nên xem anime.",
+    "description": "Description for AniFlix."
+  },
   "partners.apply.select.other": {
     "message": "Khác",
     "description": "Select 'Other' category."
