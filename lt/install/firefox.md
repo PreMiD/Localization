@@ -6,7 +6,7 @@ date: 2020-01-19T23:42:18.246Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 
 # Diegti
 1. Eikite į mūsų atsisiuntimų puslapį [spustelėdami čia](https://premid.app/downloads).
@@ -17,8 +17,8 @@ The installation of the extension is very important as the application can not d
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Nepamirškite  pridėti ** aplikacijos </a>. </p> 
 > 
-> {.is-warning}
-
-![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
+> {.is-warning}</blockquote> 
+> 
+> ![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
