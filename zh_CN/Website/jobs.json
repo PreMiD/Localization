@@ -19,10 +19,6 @@
 		"message": "请填写所有字段。",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD 是一个开源产品，这意味着我们是一个非营利团队，每笔捐赠都会回到产品中。 如果您在 PreMiD 申请职位，您会承认您是在团队中的志愿者，您的工作将不会得到报酬。",
-		"description": "Notice for applicants."
-	},
 	"jobs.header.title": {
 		"message": "为  PreMiD 工作。",
 		"description": "First part of the jobs page."
