@@ -86,5 +86,13 @@
 	"jobs.benefit6.description": {
 		"message": "能够在任何人之前体验全新功能。",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "感谢你的申请！",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "您之前已经申请过了！",
+		"description": "Notification when you applied already."
 	}
 }
