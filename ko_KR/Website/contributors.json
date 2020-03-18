@@ -44,7 +44,7 @@
     "description": "'Translator' title for contributors page."
   },
   "contributors.roles.administrator": {
-    "message": "관리자",
+    "message": "총관리자",
     "description": "'Administrator' title for contributors page."
   }
 }
