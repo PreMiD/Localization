@@ -19,10 +19,6 @@
 		"message": "Vul alle velden in",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD is een open-source product, wat betekent dat we een non-profit team zijn, elk donatie of patreon geld gaat terug naar het product. Door te solliciteren bij PreMiD, erkent u dat u vrijwilliger bent in het team, u zult niet worden betaald voor uw werk.",
-		"description": "Notice for applicants."
-	},
 	"jobs.header.title": {
 		"message": "Werk voor PreMiD",
 		"description": "First part of the jobs page."

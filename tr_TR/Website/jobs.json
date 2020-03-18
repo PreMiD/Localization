@@ -19,10 +19,6 @@
 		"message": "Lütfen tüm alanları doldurun",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD, açık kaynak bir yazılımdır, yani ekibimiz işini para karşılığında yapmamaktadır, Patreon üzerinden gelen tüm bağışlar direkt olarak üretime yatırılmakta ve programa katkıda bulunmaktadır. PreMiD'e iş başvurusu yaparak, gönüllü iş yapacağınızı kabul etmiş sayılırsınız, bu iş için herhangi bir ödeme almayacaksınız.",
-		"description": "Notice for applicants."
-	},
 	"jobs.header.title": {
 		"message": "PreMiD'de Çalışın",
 		"description": "First part of the jobs page."
