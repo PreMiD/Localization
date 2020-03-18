@@ -1,1 +1,10 @@
-{}
+{
+	"jobs.success.applied": {
+		"message": "지원해주셔서 감사합니다!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "이미 지원하셨습니다.",
+		"description": "Notification when you applied already."
+	}
+}
