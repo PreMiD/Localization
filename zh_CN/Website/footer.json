@@ -51,6 +51,10 @@
 		"message": "翻译",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "工作机会",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "帮助",
 		"description": "Help section"
