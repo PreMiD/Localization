@@ -46,5 +46,9 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "PreMid는 모바일 환경에서는 현재 지원하지 않고 있으니 참고바랍니다!",
+    "description": "Downloads page warning when user is on mobile."
   }
 }
