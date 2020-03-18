@@ -63,6 +63,10 @@
 		"message": "Ko mes ieškome?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Mūsų ugniasienė",
 		"description": "Heading for the second requirement."
@@ -78,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "Eikime į dangų kartu!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jei jus labiau domina tiesioginis darbas PreMiD, tada pasižiūrėkite į mūsų **darbo skelbimą**.",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "SPONSORIAI",
@@ -179,6 +187,10 @@
 		"message": "Pritaikyti",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Ačiū, kad kreipėtės!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Prašome užpildyti visus laukus.",
 		"description": "Error when a field isn't filled."
@@ -190,5 +202,9 @@
 	"partners.apply.error3": {
 		"message": "Pridėkite nuorodą (turi prasidėti https: // ir baigtis .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Jūs jau kreipėtės dėl partnerio.",
+		"description": "Error when already applied."
 	}
 }

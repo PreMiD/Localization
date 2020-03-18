@@ -1,1 +1,26 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Filmų bibliotekos peržiūra",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Serijų bibliotekos peržiūra",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Paskutinių epizodų peržiūra",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Rašymas 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Skaitoma apie 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Žiūrimas torrentas:",
+        "description": ""
+    }
+}
