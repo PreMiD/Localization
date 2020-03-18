@@ -1,6 +1,6 @@
 {
 	"jobs.modal.title": {
-		"message": "已有 {0} 人申请",
+		"message": "申请成为 {0}",
 		"description": "Jobs apply modal title, {0} will be replaced with the job name."
 	},
 	"jobs.modal.step": {
@@ -48,7 +48,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.title": {
-		"message": "偷看一眼",
+		"message": "偷瞄一眼",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
@@ -64,7 +64,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
-		"message": "支持 PreMiD",
+		"message": "支援 PreMiD",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
@@ -88,7 +88,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "感谢你的申请！",
+		"message": "感谢您的申请！",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
