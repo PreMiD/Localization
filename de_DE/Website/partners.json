@@ -131,6 +131,10 @@
 		"message": "Nicht du?",
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
+	"partners.apply.select.default": {
+		"message": "Bitte eins auswählen",
+		"description": "Select default placeholder."
+	},
 	"partners.apply.select.website": {
 		"message": "Webseite",
 		"description": "Select 'Website' category."
@@ -175,6 +179,10 @@
 		"message": "Bewerben",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Vielen Dank für deine Bewerbung!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Bitte alle Felder ausfüllen.",
 		"description": "Error when a field isn't filled."
@@ -186,5 +194,9 @@
 	"partners.apply.error3": {
 		"message": "Bitte einen Link hinzufügen (muss mit https:// starten und .png enden)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Du hast dich schon als Partner beworben.",
+		"description": "Error when already applied."
 	}
 }
