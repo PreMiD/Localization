@@ -19,10 +19,6 @@
 		"message": "Hãy hoàn thành các mẫu điền",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một đội phi lợi nhuận, mỗi quyên góp hoặc là tiền Patreon sẽ đi vào dự án. Bằng việc tham gia vào một vị trí tại PreMiD bạn biết rằng bạn đang tình nguyện cho dự án, bạn sẽ không được trả cho công việc.",
-		"description": "Notice for applicants."
-	},
 	"jobs.header.title": {
 		"message": "Làm việc tại PreMiD",
 		"description": "First part of the jobs page."
