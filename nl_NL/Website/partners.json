@@ -63,6 +63,10 @@
 		"message": "Waar zijn wij naar opzoek?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "We houden oog voor groeiende communities en opwindende dingen op internet. TL;DR je zou PreMiD al moeten gebruiken en klaar zijn om het te verspreiden naar nog meer internetfreaks. Acceptatie in het programma is uiterst kwalitatief en varieert van kandidaat tot kandidaat.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Onze firewall",
 		"description": "Heading for the second requirement."
@@ -78,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "Laten we samen naar de hemel gaan!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Als u eerder geïnteresseerd bent in een directe baan bij PreMiD, neem dan een kijkje op onze **vacatureadvertentie**.",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "SPONSOREN",
@@ -183,6 +191,10 @@
 		"message": "Solliciteer",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Bedankt voor het solliciteren!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Vul alstublieft alle velden in.",
 		"description": "Error when a field isn't filled."
@@ -194,5 +206,9 @@
 	"partners.apply.error3": {
 		"message": "Voeg een link toe (moet beginnen met https:// en eindigen met .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Je hebt al een verzoek ingediend voor partner.",
+		"description": "Error when already applied."
 	}
 }
