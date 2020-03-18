@@ -1,1 +1,18 @@
-{}
+{
+	"jobs.modal.step": {
+		"message": "Schritt {0} von 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Weiter",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Abbrechen",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Fülle bitte alle Felder aus",
+		"description": "Error when user did not fill all the fields."
+	}
+}
