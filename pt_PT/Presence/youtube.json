@@ -1,4 +1,20 @@
 {
+    "youtube.ad": {
+        "message": "Atualmente a ver um anúncio",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Navegando por vídeos",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Navegando por listas de reprodução",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "A ver uma postagem da comunidade",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
     "youtube.trending": {
         "message": "A ver as tendências",
         "description": ""
@@ -7,8 +23,20 @@
         "message": "A enviar algo...",
         "description": ""
     },
+    "youtube.studio.videoComments": {
+        "message": "A ver comentários do vídeo:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "A ver traduções do vídeo:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "A ver os(as) seus(suas)",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelComments": {
+        "message": "comentários do canal",
+        "description": "Part two of \"Viewing their\""
     }
 }
