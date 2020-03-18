@@ -191,6 +191,10 @@
 		"message": "Apply",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Thank you for applying!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Please complete all the fields.",
 		"description": "Error when a field isn't filled."
@@ -202,5 +206,9 @@
 	"partners.apply.error3": {
 		"message": "Please add a link (has to start with https:// and end with .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "You already applied for partner.",
+		"description": "Error when already applied."
 	}
 }
