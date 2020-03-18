@@ -55,6 +55,14 @@
         "message": "XXX torrentų peržiūra",
         "description": "XXX as in NSFW"
     },
+    "1337x.upload": {
+        "message": "Kažkas įkeliama...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Taisyklių skaitymas",
+        "description": ""
+    },
     "1337x.writing": {
         "message": "Rašymas 1337x",
         "description": ""
