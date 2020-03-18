@@ -20,7 +20,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD is an open-source product, meaning we are a non-profit team, every donation or patreon money goes back into the product. By applying for a job position at PreMiD you acknowledge that you are volunteering in the team, you will not be payed for your work.",
+		"message": "PreMiD is an open-source project, meaning we are a non-profit team, every donation or patreon money goes back into the product. By applying for a job position at PreMiD you acknowledge that you are volunteering in the team, you will not be payed for your work.",
 		"description": "Notice for applicants."
 	},
 	"jobs.header.title": {
