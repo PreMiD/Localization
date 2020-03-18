@@ -102,5 +102,9 @@
 	"partners.apply.form.name": {
 		"message": "Nome",
 		"description": "Name filed."
+	},
+	"partners.apply.success": {
+		"message": "Obrigado por se candidatar!",
+		"description": "Success message when applying."
 	}
 }
