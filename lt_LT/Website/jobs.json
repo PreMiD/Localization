@@ -19,10 +19,6 @@
 		"message": "Prašome užpildyti visus laukus",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "„PreMiD“ yra atvirojo kodo produktas, reiškiantis, kad esame ne pelno siekianti komanda, kiekvienas paaukojimas bei patreon pinigai grąžinami į produktą. Kreipdamiesi dėl darbo „PreMiD“, jūs pripažįstate, kad savanoriaujate komandoje, jums nebus mokama už darbą.",
-		"description": "Notice for applicants."
-	},
 	"jobs.header.title": {
 		"message": "Darbas „PreMiD“",
 		"description": "First part of the jobs page."
