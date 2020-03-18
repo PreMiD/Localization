@@ -1,62 +1,62 @@
 {
-  "jobs.header.title": {
-    "message": "Робота в PreMiD",
-    "description": "First part of the jobs page."
-  },
-  "jobs.header.description": {
-    "message": "Чи готові ви допомогти найбільшій бібліотеці Розширених присутностей?",
-    "description": "The second part of the jobs page."
-  },
-  "jobs.openings.title": {
-    "message": "Вакансії",
-    "description": "Text before the available job positions cards."
-  },
-  "jobs.benefits.title": {
-    "message": "Переваги",
-    "description": "Text before the benefits cards."
-  },
-  "jobs.benefit1.title": {
-    "message": "Зустрічайте нас",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit1.description": {
-    "message": "Зв'яжіться з людьми з PreMiD.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit2.description": {
-    "message": "Подивіться на наші Розробки і Маркетинг.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit3.title": {
-    "message": "Шана",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit3.description": {
-    "message": "Потужні дозволи Discord і кольорова роль.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit4.title": {
-    "message": "Підтримати PreMiD",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit4.description": {
-    "message": "З вашим внеском можна запустити цей проект.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit5.title": {
-    "message": "Час вийшов",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit5.description": {
-    "message": "Не поспішайте. Це волонтерська робота.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit6.title": {
-    "message": "Ранній доступ",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit6.description": {
-    "message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
-    "description": "Benefit card description."
-  }
+	"jobs.header.title": {
+		"message": "Робота в PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Чи готові ви допомогти найбільшій бібліотеці Розширених присутностей?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Вакансії",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Переваги",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Зустрічайте нас",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Зв'яжіться з людьми з PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.description": {
+		"message": "Подивіться на наші Розробки і Маркетинг.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Шана",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Потужні дозволи Discord і кольорова роль.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Підтримати PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "З вашим внеском можна запустити цей проект.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Час вийшов",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Не поспішайте. Це волонтерська робота.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Ранній доступ",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
+		"description": "Benefit card description."
+	}
 }
