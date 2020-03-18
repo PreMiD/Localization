@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Он важен** чтобы установить **как и** наше ** приложение** так и **расширение**! 
 > 
 > {.is-warning}
 
