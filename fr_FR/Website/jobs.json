@@ -1,50 +1,50 @@
 {
-  "jobs.header.title": {
-    "message": "Travailler pour PreMiD",
-    "description": "First part of the jobs page."
-  },
-  "jobs.header.description": {
-    "message": "Êtes-vous prêt à aider la plus grande bibliothèque Rich-Presence ?",
-    "description": "The second part of the jobs page."
-  },
-  "jobs.openings.title": {
-    "message": "Offres d'emploi",
-    "description": "Text before the available job positions cards."
-  },
-  "jobs.benefit1.title": {
-    "message": "Rencontrez-nous",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit1.description": {
-    "message": "Prenez contact avec les personnes qui sont derrière PreMiD.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit2.description": {
-    "message": "Jetez un coup d'oeil sur notre développement et notre marketing.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit3.title": {
-    "message": "Honneur",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit4.title": {
-    "message": "Soutenir PreMiD",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit4.description": {
-    "message": "Avec votre contribution, il est possible de réaliser ce projet.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit5.description": {
-    "message": "Prenez votre temps, c'est du bénévolat.",
-    "description": "Benefit card description."
-  },
-  "jobs.benefit6.title": {
-    "message": "Accès anticipé",
-    "description": "Benefit card title."
-  },
-  "jobs.benefit6.description": {
-    "message": "Être en mesure de tester de nouvelles fonctionnalités avant toute autre personne.",
-    "description": "Benefit card description."
-  }
+	"jobs.header.title": {
+		"message": "Travailler pour PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Êtes-vous prêt à aider la plus grande bibliothèque Rich-Presence ?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Offres d'emploi",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Rencontrez-nous",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Prenez contact avec les personnes qui sont derrière PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.description": {
+		"message": "Jetez un coup d'oeil sur notre développement et notre marketing.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Honneur",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.title": {
+		"message": "Soutenir PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Avec votre contribution, il est possible de réaliser ce projet.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.description": {
+		"message": "Prenez votre temps, c'est du bénévolat.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Accès anticipé",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Être en mesure de tester de nouvelles fonctionnalités avant toute autre personne.",
+		"description": "Benefit card description."
+	}
 }
