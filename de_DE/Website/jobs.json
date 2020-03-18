@@ -1,4 +1,8 @@
 {
+	"jobs.modal.title": {
+		"message": "Als {0} bewerben",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
 	"jobs.modal.step": {
 		"message": "Schritt {0} von 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
@@ -14,5 +18,69 @@
 	"jobs.modal.error": {
 		"message": "Fülle bitte alle Felder aus",
 		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD ist ein Open-Source Produkt, d. h. wir sind ein gemeinnütziges Team, jede Spende oder Patreon Geld geht zurück in das Produkt. Wenn du dich bei PreMiD bewirbst, erkennst du an, dass du im Team freiwillig arbeitest, und nicht für die Arbeit bezahlt wirst.",
+		"description": "Notice for applicants."
+	},
+	"jobs.header.title": {
+		"message": "Arbeite für PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Stellenangebote",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "High-End Vorteile",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Treffe uns",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sneak Peaks",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Werfe einen Blick auf unsere Entwicklung und unser Marketing.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Ehre",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.title": {
+		"message": "Unterstütze PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Mit deinem Beitrag ist es möglich, dieses Projekt zu führen.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Auszeit",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Nimm dir Zeit, dies ist ehrenamtliche Arbeit.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Early Access",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Teste neue Features vor allen anderen.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Vielen Dank für deine Bewerbung!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Du hast dich bereits beworben!",
+		"description": "Notification when you applied already."
 	}
 }
