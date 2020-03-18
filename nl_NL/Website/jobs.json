@@ -19,6 +19,10 @@
 		"message": "Vul alle velden in",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD is een open-source project, wat betekent dat we een non-profit team zijn, elk donatie of patreon geld gaat terug naar het product. Door te solliciteren bij PreMiD, erkent u dat u vrijwilliger bent in het team, u zult niet worden betaald voor uw werk.",
+		"description": "Notice for applicants."
+	},
 	"jobs.header.title": {
 		"message": "Werk voor PreMiD",
 		"description": "First part of the jobs page."
@@ -82,5 +86,13 @@
 	"jobs.benefit6.description": {
 		"message": "Je kunt nieuwe functies testen voordat ze uit komen.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Bedankt voor het solliciteren!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Je hebt al eerder gesolliciteerd!",
+		"description": "Notification when you applied already."
 	}
 }

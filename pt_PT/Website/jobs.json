@@ -30,5 +30,65 @@
 	"jobs.header.description": {
 		"message": "Estás pronto para ajudar a maior biblioteca Rich-Presence?",
 		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Aberturas de Emprego",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Benefícios de alta qualidade",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Conheça-nos",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Entre em contato com as pessoas por de trás do PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.description": {
+		"message": "Dê uma olhada em nosso Desenvolvimento e Marketing.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Honra",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Poderosas permissões no Discord e um cargo colorido.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Suporta PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Com a sua contribuição é possível executar este projecto.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Desconto de tempo",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Demore o tempo que quiser. Isto é trabalho voluntário.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Acesso Antecipado",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Seja capaz de testar novos recursos antes de qualquer outra pessoa.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Obrigado por se candidatar!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Você já se inscreveu antes!",
+		"description": "Notification when you applied already."
 	}
 }
