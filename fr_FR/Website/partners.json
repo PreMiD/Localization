@@ -1,54 +1,54 @@
 {
-  "partners.header.title": {
-    "message": "PARTENAIRES",
-    "description": "Heading for page."
-  },
-  "partners.why.benefit1.description": {
-    "message": "Notre équipe vous fournira une présence de votre service web.",
-    "description": "Description for the first benefit."
-  },
-  "partners.why.benefit2.description": {
-    "message": "Un rôle spécial et un grand honneur vous seront donnés sur notre serveur Discord.",
-    "description": "Description for the second benefit."
-  },
-  "partners.why.benefit3.title": {
-    "message": "Intégration des méta-tags",
-    "description": "Heading for the third benefit."
-  },
-  "partners.why.benefit3.description": {
-    "message": "Active automatiquement votre Presence lorsque quelqu'un visite votre site Web.",
-    "description": "Description for the third benefit."
-  },
-  "partners.why.benefit5.title": {
-    "message": "Soyez célèbre",
-    "description": "Heading for the fifth benefit."
-  },
-  "partners.requirements.first.title": {
-    "message": "Qui recherchons-nous ?",
-    "description": "Heading for the first requirement."
-  },
-  "partners.requirements.second.title": {
-    "message": "Notre pare-feu",
-    "description": "Heading for the second requirement."
-  },
-  "partners.apply.button": {
-    "message": "Postulez dès maintenant !",
-    "description": "Button to apply for partner."
-  },
-  "partners.sponsors.title": {
-    "message": "SPONSORS",
-    "description": "Heading for sponsors."
-  },
-  "partners.sponsors.description": {
-    "message": "PreMiD ne serait pas possible sans ces gens incroyables.",
-    "description": "Description for sponsors."
-  },
-  "partners.apply.select.other": {
-    "message": "Autres",
-    "description": "Select 'Other' category."
-  },
-  "partners.apply.form.name": {
-    "message": "Nom",
-    "description": "Name filed."
-  }
+	"partners.header.title": {
+		"message": "PARTENAIRES",
+		"description": "Heading for page."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Notre équipe vous fournira une présence de votre service web.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Un rôle spécial et un grand honneur vous seront donnés sur notre serveur Discord.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Intégration des méta-tags",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Active automatiquement votre Presence lorsque quelqu'un visite votre site Web.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Soyez célèbre",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "Qui recherchons-nous ?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Notre pare-feu",
+		"description": "Heading for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Postulez dès maintenant !",
+		"description": "Button to apply for partner."
+	},
+	"partners.sponsors.title": {
+		"message": "SPONSORS",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD ne serait pas possible sans ces gens incroyables.",
+		"description": "Description for sponsors."
+	},
+	"partners.apply.select.other": {
+		"message": "Autres",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nom",
+		"description": "Name filed."
+	}
 }
