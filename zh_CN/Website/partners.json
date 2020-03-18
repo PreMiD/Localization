@@ -6,5 +6,9 @@
 	"partners.apply.form.name": {
 		"message": "名称",
 		"description": "Name filed."
+	},
+	"partners.apply.success": {
+		"message": "感谢你的申请！",
+		"description": "Success message when applying."
 	}
 }
