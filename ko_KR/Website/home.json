@@ -58,5 +58,9 @@
   "home.features.quickSupport.button": {
     "message": "우리 서버 들리기",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "언어 변경",
+    "description": "Tippy content of the language selector."
   }
 }
