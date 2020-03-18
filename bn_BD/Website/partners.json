@@ -1,6 +1,6 @@
 {
-  "partners.apply.select.other": {
-    "message": "অন্যান্য",
-    "description": "Select 'Other' category."
-  }
+	"partners.apply.select.other": {
+		"message": "অন্যান্য",
+		"description": "Select 'Other' category."
+	}
 }

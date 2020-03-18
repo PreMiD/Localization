@@ -1,10 +1,10 @@
 {
-  "partners.apply.select.other": {
-    "message": "Ostatné",
-    "description": "Select 'Other' category."
-  },
-  "partners.apply.form.name": {
-    "message": "Názov",
-    "description": "Name filed."
-  }
+	"partners.apply.select.other": {
+		"message": "Ostatné",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Názov",
+		"description": "Name filed."
+	}
 }
