@@ -2,5 +2,9 @@
 	"partners.apply.select.other": {
 		"message": "기타",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "지원해주셔서 감사합니다!",
+		"description": "Success message when applying."
 	}
 }
