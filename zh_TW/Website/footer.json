@@ -28,7 +28,7 @@
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "狀態",
+		"message": "豐富的狀態",
 		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
 	},
 	"footer.supportus.heading": {
@@ -50,6 +50,10 @@
 	"footer.supportus.translate": {
 		"message": "翻譯",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "爲我們工作吧！",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "幫助",
