@@ -38,5 +38,9 @@
     "youtube.studio.channelComments": {
         "message": "comentários do canal",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "traduções do canal",
+        "description": "Part two of \"Viewing their\""
     }
 }
