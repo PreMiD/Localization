@@ -51,6 +51,10 @@
     "message": "允许成人内容(R18)",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "我的最爱",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "分类",
     "description": "Category heading"
