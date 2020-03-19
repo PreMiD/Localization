@@ -8,7 +8,7 @@ tags:
 
 # API
 
-> Base URL: https://api.premid.app 
+> Pagrindinis URL: https://api.premid.app 
 > 
 > {.is-info}
 
