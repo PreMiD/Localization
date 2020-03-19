@@ -103,8 +103,28 @@
 		"message": "Nome",
 		"description": "Name filed."
 	},
+	"partners.apply.form.button.close": {
+		"message": "Fechar",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Aplicar",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Obrigado por se candidatar!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Por favor, complete todos os campos.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Descrição máxima de 150 caracteres.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Adicione um link (deve começar com https:// e terminar com .png)",
+		"description": "Error when image link is entered wrong."
 	}
 }
