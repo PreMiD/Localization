@@ -1,12 +1,12 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Kelas Presence
+description: Kelas utama untuk setiap presence PreMiD
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Kelas Presence
 
 ## Perkenalan
 
