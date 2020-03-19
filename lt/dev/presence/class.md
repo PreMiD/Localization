@@ -16,11 +16,11 @@ tags:
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Pavyzdinis clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+`Presence` klasė turi dvi savybės.
 
 #### `clientId`
 
