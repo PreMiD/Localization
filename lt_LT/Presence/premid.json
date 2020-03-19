@@ -26,5 +26,9 @@
     "premid.pageTroubleshooting": {
         "message": "Nesklandumų sprendimas",
         "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
     }
 }
