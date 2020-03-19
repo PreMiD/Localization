@@ -23,6 +23,10 @@
         "message": "Lendo sobre o canal:",
         "description": ""
     },
+    "youtube.searchChannel": {
+        "message": "A pesquisar através do canal: para:",
+        "description": "{0} will be replaced with the channel name"
+    },
     "youtube.trending": {
         "message": "A ver as tendências",
         "description": ""
@@ -31,8 +35,48 @@
         "message": "Navegando Por",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "suas subscrições",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "sua biblioteca",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "seu histórico",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "as suas compras",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "A ver o histórico do relatório",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "A enviar algo...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "A ver todas as suas listas de reprodução",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "A ver eventos ao vivo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "A ver o seu painel ao vivo",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "A ver a biblioteca de audio",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "A ver os seus vídeos",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -66,5 +110,9 @@
     "youtube.studio.artistPage": {
         "message": "página do artista",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "A ver o seu painel",
+        "description": ""
     }
 }
