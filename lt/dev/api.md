@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: Pasiekite išteklius ir atlikite veiksmus naudodami PreMiD API
 published: true
 date: 2020-01-19T23:42:12.088Z
 tags:
@@ -13,22 +13,22 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> Kai kurios API ir Gateway versijos dabar nebenaudojamos ir toliau nurodytos lentelės etiketėms nurodytos kaip nutrauktos. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD pateikia skirtingas mūsų API versijas. Galite nurodyti versiją įtraukdami ją į užklausos kelią, pvz., `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## Encryption
+## Šifravimas
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Visos PreMiD API HTTP lygmens paslaugos ir protokolai (pvz., Http) naudoja TLS 1.2.
 
 # Dokumentacija
-> Currently under construction! 
+> Šiuo metu rengiama! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
+**Pasirinkite API versiją:**
 - [v1 *deprecated*](/dev/api/v1)
 - [v2 *active*](/dev/api/v2)
 {.links-list}
