@@ -1,4 +1,20 @@
 {
+	"partners.header.title": {
+		"message": "المشاركين",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "انضم إلى المشاهدة واحصل على بعض الفوائد فقط للشريك لإظهار كم من المساحة لديك.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "هذه بالفعل ملك لنا",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "ماذا عن الذهاب إلى الجنة بدلا من الجحيم؟",
+		"description": "Heading for benefits."
+	},
 	"partners.apply.select.other": {
 		"message": "آخر",
 		"description": "Select 'Other' category."
