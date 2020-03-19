@@ -46,5 +46,13 @@
   "downloads.tooltips.os_not_supported.part2": {
     "message": "แอปพลิเคชันไม่มีตัวติดตั้งสำหรับระบบปฏิบัติการนี้ นั่นหมายความว่ายังไม่มีผู้เชี่ยวชาญดูแลมัน",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "แสดงการดาวน์โหลด",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "ซ่อนการดาวน์โหลด",
+    "description": "Little button on the downloads page for mobile users."
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+	"jobs.modal.buttons.next": {
+		"message": "ต่อไป",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "ยกเลิก",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.header.title": {
+		"message": "ทำงานกับ PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.benefit4.title": {
+		"message": "ช่วยเหลือ PreMiD",
+		"description": "Benefit card title."
+	}
+}
