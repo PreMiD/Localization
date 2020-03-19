@@ -80,31 +80,31 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Mengembalikan variabel dari situs web jika ada.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Ini akan mencatat "konten Variabel"
 ```
 
-## `presenceData` Interface
+## `presenceData` Antarmuka
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Antarmuka `presenceData` disarankan untuk digunakan saat Anda menggunakan metode `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Deskripsi</th>
       <th style="text-align:left">Tipe</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">detail</td>
+      <td style="text-align:left">Baris pertama di presence Anda, biasanya digunakan sebagai tajuk.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
