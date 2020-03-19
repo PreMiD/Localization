@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "A sua presença gratuíta",
+		"message": "O Seu Rich Presence Gratuito",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "A nossa equipa irá fornecer-lhe com uma Presença no seu serviço web.",
+		"message": "Nossa equipe lhe fornecerá uma Presença do seu WebService.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -28,15 +28,15 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Um cargo especial e uma grande horra serão-lhe dadas no nosso servidor de Discord.",
+		"message": "Um cargo especial e uma grande honra serão dadas a você em nosso servidor de Discord.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
-		"message": "Integração Meta-tag",
+		"message": "Integração meta-tag",
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Ativa automaticamente a sua Presença quando alguém visita o seu Website.",
+		"message": "Permite automaticamente a sua presença quando alguém visita seu site.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
