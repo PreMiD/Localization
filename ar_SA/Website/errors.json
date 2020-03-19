@@ -3,6 +3,26 @@
     "message": "لا يمكننا العثور على هذا الوجود.",
     "description": "Search result text when nothing's found"
   },
+  "error.code.404": {
+    "message": "عذراً، لا يمكننا العثور على هذه الصفحة.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "أنت تبحث عن presence غير موجود أو محذوف.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "حدث خطأ داخلي في الخادم.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "التفاصيل",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "العودة إلى الصفحة الرئيسية",
+    "description": "Button on the error page"
+  },
   "user.notFound.heading": {
     "message": "لم يتم العثور على هذا المطور، تأكد من:",
     "description": "Error when user couldn't be found."
