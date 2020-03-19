@@ -46,5 +46,33 @@
   "contributors.roles.translator": {
     "message": "مترجم",
     "description": "'Translator' title for contributors page."
+  },
+  "contributors.roles.administrator": {
+    "message": "المسؤول",
+    "description": "'Administrator' title for contributors page."
+  },
+  "contributors.roles.asstCommunityManager": {
+    "message": "مساعد مدير الوحدة",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "مساعد رئيس المشرف",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "مشرف صغير",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "مدقق لغوي",
+    "description": "'Proofreader' title for contributors and user pages."
+  },
+  "contributors.cards.copyUserId": {
+    "message": "انقر لنسخ ID المستخدم.",
+    "description": "Tippy message when you hover on the avatar of a credit card."
+  },
+  "contributors.cards.userIdCopied": {
+    "message": "تم نسخ ID المستخدم إلى الحافظة الخاصة بك!",
+    "description": "Notification after user ID was copied."
   }
 }
