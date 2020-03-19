@@ -8,7 +8,7 @@ tags:
 
 # Presence Class
 
-## Introduction
+## Perkenalan
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -26,9 +26,9 @@ There are two properties available for `Presence` class.
 
 `clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
+#### `tombolmedia`
 
 This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
 
@@ -43,7 +43,7 @@ let presence = new Presence({
 });
 ```
 
-## Methods
+## Metode
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -53,13 +53,13 @@ First parameter requires an `presenceData` interface to get all information that
 
 Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
-### `clearActivity()`
+### `bersihkanAktifitas()`
 
 Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Metode ini hanya bekerja di Mac OS. 
 > 
 > {.is-warning}
 
