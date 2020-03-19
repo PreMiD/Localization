@@ -1,16 +1,16 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Presence klasė
+description: Pagrindinė klasė kiekvieno PreMiD presence
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
 ---
 
-# Presence Class
+# Presence klasė
 
-## Introduction
+## Įvadas
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` klasė yra labai naudinga, nes joje yra pagrindiniai metodai, kurių mums reikia norint sukurti presence.
 
  When you create a class you must specify `clientId` property.
 
