@@ -10,36 +10,36 @@ tags:
 
 ## Perkenalan
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Kelas `Presence` sangat berguna karena memiliki metode dasar yang kita perlukan untuk membuat presence.
 
- When you create a class you must specify `clientId` property.
+ Saat Anda membuat kelas, Anda harus menentukan properti `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Contoh clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Ada dua properti yang tersedia untuk kelas `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Properti `clientId` harus disediakan untuk membuat presence Anda berfungsi, karena properti menggunakan id aplikasi Anda untuk menampilkan logo dan asetnya.
 
 Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
 
 #### `tombolmedia`
 
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
+Properti ini memberi tahu aplikasi kami untuk mendaftarkan ikatan kunci untuk kunci media dan memungkinkan kami menggunakan acara `MediaKeys` untuk kelas `Presence`.
 
-This property is not required, but if you want to enable media keys you should set it to `true`.
+Properti ini tidak diperlukan, tetapi jika Anda ingin mengaktifkan kunci media, Anda harus mengaturnya menjadi `true`.
 
-**All mediaKey events are temporarily disabled!**
+**Semua acara kunci media dinonaktifkan untuk sementara waktu!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
+    mediaKeys: true // Mengizinkan pengguna menggunakan kunci media
 });
 ```
 
@@ -47,15 +47,15 @@ let presence = new Presence({
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Tetapkan aktivitas profil Anda sesuai dengan data yang disediakan.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Parameter pertama memerlukan antarmuka `presenceData` untuk mendapatkan semua informasi yang ingin Anda tampilkan di profil Anda.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Selalu gunakan `true` jika Anda memberikan cap waktu di `presenceData`.
 
-### `bersihkanAktifitas()`
+### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Menghapus aktivitas Anda saat ini, pengikat tombol dan judul baki.
 
 ### `setTrayTitle(String)`
 
@@ -63,15 +63,15 @@ Clears your current activity, the keybinds and the tray title.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Setel judul baki pada bilah Menu.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Memungkinkan Anda mendapatkan string yang diterjemahkan dari ekstensi. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. Anda dapat menemukan beberapa string menggunakan titik akhir ini: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Mengembalikan string `Playing` dan` Paused`
+// dari ekstensi.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
