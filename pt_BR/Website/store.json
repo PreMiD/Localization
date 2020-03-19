@@ -12,7 +12,7 @@
     "description": "Presence card popular flame"
   },
   "store.cards.partner": {
-    "message": "Presença de um parceiro PreMiD oficial.",
+    "message": "Presença de um parceiro oficial do PreMiD.",
     "description": "Presence card partner flame"
   },
   "store.cards.extraStepsRequired": {
@@ -24,7 +24,7 @@
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Pesquisar",
+    "message": "Pesquisar por...",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
@@ -50,6 +50,10 @@
   "store.category.filters.allowAdult": {
     "message": "Permitir conteúdo adulto",
     "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Apenas presenças curtidas",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "Categorias",
