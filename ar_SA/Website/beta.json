@@ -1,1 +1,26 @@
-{}
+{
+  "beta.title": {
+    "message": "هل تريد مزايا جديدة؟",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** متوفر الآن للجميع!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "ماذا ستحصل إذا قمت بالتسجيل؟",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "آخر المميزات",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "الوصول إلى قنوات PreMiD للنصوص السرية",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "رول خاص على سيرفرنا الديسكورد",
+    "description": "Features list"
+  }
+}
