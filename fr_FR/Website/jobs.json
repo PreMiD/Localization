@@ -1,4 +1,12 @@
 {
+	"jobs.modal.buttons.next": {
+		"message": "Suivant",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Retour",
+		"description": "Cancel, button in the modal."
+	},
 	"jobs.header.title": {
 		"message": "Travailler pour PreMiD",
 		"description": "First part of the jobs page."
