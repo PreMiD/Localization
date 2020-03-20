@@ -110,26 +110,26 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Baris kedua di presence Anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Menentukan waktu saat ini.<br>
+        Digunakan jika Anda ingin menampilkan berapa banyak <code>jam:menit:detik</code> tersisa.
+          <br>Anda harus mengonversi waktu Anda menjadi <code>timestamp</code> atau Anda akan salah
+          hitungan mundur.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
+      <td style="text-align:left">Menentukan durasi penuh.
         <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Anda harus mengonversi waktu Anda menjadi <code>timestamp</code> atau Anda akan salah
+          hitungan mundur.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
