@@ -1,1 +1,14 @@
-{}
+{
+	"jobs.modal.buttons.cancel": {
+		"message": "Cancelar",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Por favor, completa todos los campos",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD es un proyecto de código abierto, lo que significa que somos un equipo sin ánimo de lucro, cada donativo o patreon se vuelve al producto. Al solicitar un puesto de trabajo en PreMiD usted reconoce que usted es voluntario en el equipo, no se le pagará por su trabajo.",
+		"description": "Notice for applicants."
+	}
+}
