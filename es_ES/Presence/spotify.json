@@ -1,1 +1,18 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Canciones destacadas",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Mejores podcasts",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Navegando a través de géneros",
+		"description": ""
+	},
+	"spotify.download": {
+		"message": "Descargando Spotify",
+		"description": ""
+	}
+}
