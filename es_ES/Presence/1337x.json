@@ -1,1 +1,30 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Viendo la biblioteca de películas",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Viendo la biblioteca de películas",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Viendo los últimos episodios",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Viendo los 100 mejores",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Viendo las tendencias",
+        "description": ""
+    },
+    "1337x.upload": {
+        "message": "Subiendo algo...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Leyendo las reglas",
+        "description": ""
+    }
+}
