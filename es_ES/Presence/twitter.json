@@ -1,1 +1,42 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Leyendo tweet:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Viendo tweets de:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Ver tweets (con respuestas) de:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Viendo tweets de:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Viendo me gusta:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Viendo lista:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Marcadores",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Notificaciones",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Explorer",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Cambiando la configuracion...",
+        "description": ""
+    }
+}
