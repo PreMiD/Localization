@@ -51,6 +51,22 @@
     "message": "Administrador",
     "description": "'Administrator' title for contributors page."
   },
+  "contributors.roles.asstCommunityManager": {
+    "message": "Asistente de Community Manager",
+    "description": "'Assisting Community Manager' title for contributors page."
+  },
+  "contributors.roles.asstHeadModerator": {
+    "message": "Asistente de Moderador Principal",
+    "description": "'Assisting Head Moderator' title for contributors page."
+  },
+  "contributors.roles.jrModerator": {
+    "message": "Moderador Jr.",
+    "description": "'Junior Moderator' title for contributors and user pages."
+  },
+  "contributors.roles.proofreader": {
+    "message": "Revisor de traducciones",
+    "description": "'Proofreader' title for contributors and user pages."
+  },
   "contributors.cards.copyUserId": {
     "message": "Haz click para copiar el ID del usuario.",
     "description": "Tippy message when you hover on the avatar of a credit card."
