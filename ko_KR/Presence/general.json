@@ -7,8 +7,28 @@
         "message": "탐색중...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "챕터",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
     "general.live": {
         "message": "활성화",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "만화",
+        "description": ""
+    },
+    "general.page": {
+        "message": "페이지",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "일시 정지",
         "description": ""
     },
     "general.reading": {
@@ -22,5 +42,9 @@
     "general.store": {
         "message": "상점",
         "description": ""
+    },
+    "general.terms": {
+        "message": "이용 약관",
+        "description": "A page name"
     }
 }
