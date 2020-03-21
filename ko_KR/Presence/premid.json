@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "페이지 보는중:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "문서",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "presence 보는중:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "홈페이지",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "기여자",
         "description": "A page name"
@@ -11,8 +27,20 @@
         "message": "상점",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "쿠키 정책",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "이용 약관",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "위키",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "정보",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {

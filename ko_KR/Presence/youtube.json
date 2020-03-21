@@ -22,5 +22,13 @@
     "youtube.readingChannel": {
         "message": "다음 채널을 보는 중:",
         "description": ""
+    },
+    "youtube.studio.channelComments": {
+        "message": "채널 댓글들",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "아티스트 페이지",
+        "description": "Part two of \"Viewing their\""
     }
 }

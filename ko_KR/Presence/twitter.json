@@ -1,1 +1,26 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "트윗 보는중:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "리스트 보는중:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "북마크",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "알림들",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "탐색",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "몇몇 설정들 변경하는중..",
+        "description": ""
+    }
+}
