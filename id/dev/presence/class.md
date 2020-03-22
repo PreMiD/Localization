@@ -127,7 +127,7 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Menentukan durasi penuh.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+        <br>Digunakan jika Anda ingin menampilkan berapa <code>jam:menit:detik</code> tersisa.
           <br>Anda harus mengonversi waktu Anda menjadi <code>timestamp</code> atau Anda akan salah
           hitungan mundur.
       </td>
@@ -136,20 +136,20 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Menentukan logo untuk presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Menentukan ikon kecil di sebelah logo presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Menentukan teks yang akan ditampilkan kepada pengguna ketika ia akan mengarahkan ikon
+        kecil.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -158,33 +158,33 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Judul saya",
+    state: "Deskripsi saya",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Anda membawa saya, dan bagaimana sekarang?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## Acara
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Acara memungkinkan Anda untuk mendeteksi dan menangani beberapa perubahan atau panggilan yang dilakukan. Anda dapat berlangganan acara menggunakan metode `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Lakukan sesuatu saat data diperbarui.
 });
 ```
 
-There are few events available:
+Ada beberapa acara yang tersedia:
 
 #### `UpdateData`
 
 This event is fired every time the presence is being updated.
 
-#### `MediaKeys` (disabled)
+#### `MediaKeys` (dinonaktifkan)
 
 Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
 
