@@ -67,9 +67,9 @@
 		"message": "Junior Moderator",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Ticket Manager",
-		"description": "'Ticket Manager' title for contributors and user pages."
+	"contributors.roles.supportAgent": {
+		"message": "Support Agent",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Presence Verifier",
