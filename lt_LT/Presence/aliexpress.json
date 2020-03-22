@@ -19,6 +19,18 @@
         "message": "peržiūrėti produktai",
         "description": "Part 2 of 2"
     },
+    "aliexpress.theirAli": {
+        "message": "Peržiūrimas jų AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress atsiliepimai",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Užsakymų peržiūra",
+        "description": ""
+    },
     "aliexpress.deletedOrders": {
         "message": "ištrinti užsakymai",
         "description": "Part 2 of \"Viewing their\""
