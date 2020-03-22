@@ -7,7 +7,7 @@ tags:
 ---
 
 # iFrame клас
-> Ігримна система PreMiD є проблематичною і може мати несподівану поведінку, використовуйте з обережністю. 
+> Iframe система PreMiD є проблематичною і може мати несподівану поведінку, використовуйте з обережністю. 
 > 
 > {.is-danger}
 
@@ -36,7 +36,7 @@ iframe.on("UpdateData", async () => {
 Повертає URL для `iframe`.
 
 ## Події
-In `iframes`, events work similarly to the way they work in the `presence` class.
+В `iframes`події працюють аналогічно до плану `присутності`.
 
 ```typescript
 iframe.on("UpdateData", async () => {

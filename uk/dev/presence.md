@@ -57,9 +57,9 @@ tags:
 
 1. Потрібні дві перевірки, щоб переконатися, що ваша присутність відповідає стандартам. Якщо трапиться зміна ваших клієнтів, докладіть правильних зусиль для того, щоб виправити це, або ж додавання не буде.
 2. Якщо ми запросимо зміни і ваш запит на злиття перевищить **7 днів бездіяльності** без внесення необхідних помилок. Ми будемо змушені закрити його.
-3. Ви можете робити скріншоти змін, внесених за допомогою іншого користувача. (напр. її автор якщо ви не зможете отримати до нього доступ з будь-якої причини).
+3. Ви можете робити знімки змін, внесених за допомогою іншого користувача. (напр. її автор якщо ви не зможете отримати до нього доступ з будь-якої причини).
 4. Якщо це оновлення або патчі, знімок екрана повинен показати нові доповнення, а не будь-які старі pull-запити.
-5. Надані скріншоти мають бути справжні, а не відредаговані.
+5. Надані знімки мають бути справжні, а не відредаговані.
 6. Будь-який внесений код, що об'єднується з цим репозиторієм, буде ліцензований за **Mozilla Public License 2.0**.
 
 
@@ -68,7 +68,7 @@ tags:
 # Структура (TypeScript)
 Ви можете вибрати, якщо хочете запрограмувати свій присутність з [JavaScript](https://www.javascript.com/) або  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) має додаткові визначення розумного типу, тому виправляти і виявляти помилки значно простіше. Якщо ви просто хочете використовувати [JavaScript](https://www.javascript.com/) , то можете пропустити на [Структуру (JavaScript)](/dev/presence#structure-javascript).
 
-## Інсталяція
+## Установлення
 1. Установіть [Git](https://git-scm.com/).
 2. Установіть [Node](https://nodejs.org/en/) (його можна виявити за допомогою з [npm](https://www.npmjs.com/)).
 3. Встановити [TypeScript](https://www.typescriptlang.org/index.html#download-links) (відкрити термінал і `npm встановити -g typescript`).
@@ -109,7 +109,7 @@ tags:
 ```javascript
 var presence = new Presence({
     clientId: "00000000000000", //Ідентифікатор клієнта, створеного в https://discordapp. om/developers/applications
-    mediaKeys: false /Enable use and find of media key presses
+    mediaKeys: false /Увімкніть використання та пошук натискань медіа-клавіш
 }),
 
 strings = presence. etStrings({
@@ -121,15 +121,15 @@ strings = presence. etStrings({
 /*
 
 функція myOutsideHeavyLiftingFunction(){
-    //Grab і обробити всі ваші дані тут
+    //Отримуйте і обробляйте всі ваші дані тут
 
-    // елемент захоплення //
-    // api виклик //
+    // елемент захоплюється//
+    // виклики api//
     // змінні // // //
 }
 
 setInterval(10000, , myOutsideHeavyLifingFunction); 
-///Run функцію seperate від UpdateData події кожні 10 секунд, щоб отримати і встановити змінні, які оновлюють дані
+///Запустіть функцію seperate від UpdateData події кожні 10 секунд, щоб отримати і встановити змінні, які оновлюють дані
 
 */
 
@@ -403,10 +403,10 @@ presence.on("iFrameData", data => {
     <tr>
       <td style="text-align:left"><b>URL-адреса</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Зробіть <b>НЕ</b> забудьте додати його!<br>
+      <td style="text-align:left">URL-адреса послуги. <br> <b>Приклад:</b><code>vk.com</code><br>
+         <b>Ця URL-адреса повинна відповідати URL-адресі веб-сайту, оскільки вона виявить, чи це веб-сайт, яким слід вводити сценарій.</b><br><b>НЕ</b>додавайте<code>https://</code>або<code> http://</code> всередину URL-адреси, і не косою рисою в кінці:
+<code https://premid.app/</code> -> <code>premid.app</code><br>
+<b>Примітка</b>: Деякі URL-адреси можуть мати <code>www.</code> або щось інше перед своїм доменом. Зробіть <b>НЕ</b> забудьте додати його!<br>
 Ви можете додати декілька адрес, виконавши наступне:<br>
 <code>["URL1", "URL2", "ETC. ]</code><br><br>.
 , Ви можете також використовувати regExp також відоме як Regex для цього завдання, пояснюючи нижче.
@@ -508,12 +508,12 @@ TLD стояння для домену Top рівень: . om .net<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Натисніть [тут](/dev/presence#filling-in-the-metadatajson-file-1) , щоб повернутися до пояснення JavaScript.
+Натисніть [тут](/dev/presence#filling-in-the-metadatajson-file) , щоб повернутися до пояснення TypeScript. Натисніть [тут](/dev/presence#filling-in-the-metadatajson-file-1) , щоб повернутися до пояснення JavaScript.
 
 # Завантаження присутності
 1. Відкрийте спливаюче вікно і утримуйте кнопку <kbd>Shift</kbd> на клавіатурі.
 2. **Завантажте присутність** буде відображена в розділі присутності.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
+3. Натисніть на нього, поки тримаєте кнопку <kbd>Shift</kbd>.
 4. Виберіть папку /dist для вашої присутності.
 
 # Деякі корисні речі
