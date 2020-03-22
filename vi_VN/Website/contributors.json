@@ -19,10 +19,6 @@
 		"message": "Điều hành viên",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Quản lý ticket",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Người xác nhận trạng thái",
 		"description": "'Presence Verifier' title for contributors and user pages."
