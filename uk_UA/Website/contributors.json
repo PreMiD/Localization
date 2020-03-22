@@ -67,10 +67,6 @@
 		"message": "Молодший модератор",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Менеджер заявок",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Перевірка присутності",
 		"description": "'Presence Verifier' title for contributors and user pages."
