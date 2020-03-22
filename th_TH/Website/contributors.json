@@ -1,54 +1,46 @@
 {
-  "contributors.headings.staff": {
-    "message": "ทีมงาน",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "ผู้สนับสนุน",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "แปลภาษา",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "ผู้สร้าง",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "นักพัฒนาเว็บไซต์",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "ผู้จัดการชุมชน",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "ผู้ดูแลหลัก",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "ผู้ดูแล",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "ผู้จัดการตั๋ว",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "ผู้บริจาค",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "บูสเตอร์",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "ผู้แปลภาษา",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "ผู้ดูแล",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "ทีมงาน",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "ผู้สนับสนุน",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "แปลภาษา",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "ผู้สร้าง",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "ผู้ดูแลอาวุโส",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "ผู้ดูแล",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "ผู้จัดการตั๋ว",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "ยืนยัน Presence ",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "ผู้บริจาค",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "บูสเตอร์",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "ผู้แปลภาษา",
+		"description": "'Translator' title for contributors page."
+	}
 }
