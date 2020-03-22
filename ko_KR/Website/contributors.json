@@ -1,50 +1,38 @@
 {
-  "contributors.headings.staff": {
-    "message": "스태프",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "서포터",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "번역에 도움을 주신 분들",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "제작자",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "웹사이트 개발자",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "커뮤니티 매니저",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "관리자",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "티켓 관리자",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "후원자",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "서버 부스터",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "번역자",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "총관리자",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "스태프",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "서포터",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "번역에 도움을 주신 분들",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "제작자",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "관리자",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "티켓 관리자",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "후원자",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "서버 부스터",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "번역자",
+		"description": "'Translator' title for contributors page."
+	}
 }
