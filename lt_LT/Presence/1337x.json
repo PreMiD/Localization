@@ -15,6 +15,10 @@
         "message": "100 geriausiųjų peržiūra",
         "description": ""
     },
+    "1337x.trending": {
+        "message": "Peržiūrima, kas tendencinga",
+        "description": ""
+    },
     "1337x.animeTorrents": {
         "message": "Anime torrentų peržiūra",
         "description": ""
@@ -50,6 +54,10 @@
     "1337x.xxxTorrents": {
         "message": "XXX torrentų peržiūra",
         "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Kažkas įkeliama...",
+        "description": ""
     },
     "1337x.rules": {
         "message": "Taisyklių skaitymas",
