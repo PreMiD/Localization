@@ -63,6 +63,10 @@
 		"message": "Що ми шукаємо?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Ми спостерігаємо за спільнотами, що розвиваються, і за речами в інтернеті, що нас захоплюють. БАГАТАЛІТЄР!! Вам уже потрібно використовувати PreMiD і бути готовим до поширення на ще більше перехідних інтернет-сервісів. Прийняття до програми є надзвичайно якісним і буде відрізнятися у всіх кандидатів.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Наш брандмауер",
 		"description": "Heading for the second requirement."
@@ -78,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "Ходімо до раю разом!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте нашу рекламу про роботу**.",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "СПОНСОРИ",
@@ -183,6 +191,10 @@
 		"message": "Застосувати",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Дякуємо, що подали заявку!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Будь ласка, заповніть усі поля.",
 		"description": "Error when a field isn't filled."
@@ -194,5 +206,9 @@
 	"partners.apply.error3": {
 		"message": "Будь ласка, додайте посилання (має починатися з https:// і завершуватись з .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Ви вже подали заяву на партнерство.",
+		"description": "Error when already applied."
 	}
 }
