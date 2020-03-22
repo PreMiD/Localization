@@ -1,54 +1,42 @@
 {
-  "contributors.headings.staff": {
-    "message": "Personal",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Supportrar",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Översättare",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Kreatör",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Webbplatsens utvecklare",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Community Manager",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Huvudmoderator",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderator",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Ärendehanterare",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Donator",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Translator",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Administratör",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Personal",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Supportrar",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Översättare",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Kreatör",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "Ärendehanterare",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Verifierare för Presence",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Translator",
+		"description": "'Translator' title for contributors page."
+	}
 }

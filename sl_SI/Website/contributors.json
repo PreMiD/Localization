@@ -1,26 +1,26 @@
 {
-  "contributors.headings.staff": {
-    "message": "Osebje",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Donatorji / Podporniki",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Prevajalci",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Avtor",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.booster": {
-    "message": "Podpornik strežnika",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Prevajalec",
-    "description": "'Translator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Osebje",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Donatorji / Podporniki",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Prevajalci",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Avtor",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.booster": {
+		"message": "Podpornik strežnika",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Prevajalec",
+		"description": "'Translator' title for contributors page."
+	}
 }

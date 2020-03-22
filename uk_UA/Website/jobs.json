@@ -86,5 +86,13 @@
 	"jobs.benefit6.description": {
 		"message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Дякуємо, що подали заявку!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Ви вже подали заявку раніше!",
+		"description": "Notification when you applied already."
 	}
 }

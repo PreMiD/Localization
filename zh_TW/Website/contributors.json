@@ -1,78 +1,58 @@
 {
-  "contributors.headings.staff": {
-    "message": "職員",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "支持者",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "翻譯員",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "創建者",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "網頁開發者",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "社群管理員",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "超級版主",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "版主",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "客服",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "捐贈者",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "加成者",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "翻譯員",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "管理員",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.asstCommunityManager": {
-    "message": "社群管理員助手",
-    "description": "'Assisting Community Manager' title for contributors page."
-  },
-  "contributors.roles.asstHeadModerator": {
-    "message": "超級版主助手",
-    "description": "'Assisting Head Moderator' title for contributors page."
-  },
-  "contributors.roles.jrModerator": {
-    "message": "初级超級版主",
-    "description": "'Junior Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.proofreader": {
-    "message": "校對員",
-    "description": "'Proofreader' title for contributors and user pages."
-  },
-  "contributors.cards.copyUserId": {
-    "message": "按一下來複製用戶id",
-    "description": "Tippy message when you hover on the avatar of a credit card."
-  },
-  "contributors.cards.userIdCopied": {
-    "message": "用戶id已複製到您的剪貼簿！",
-    "description": "Notification after user ID was copied."
-  }
+	"contributors.headings.staff": {
+		"message": "職員",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "支持者",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "翻譯員",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "創建者",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "高級版主",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "版主",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "客服",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Presence 審核人員",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "校對員",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "捐贈者",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "加成者",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "翻譯員",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "按一下來複製用戶id",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "用戶id已複製到您的剪貼簿！",
+		"description": "Notification after user ID was copied."
+	}
 }

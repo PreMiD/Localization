@@ -1,54 +1,46 @@
 {
-  "contributors.headings.staff": {
-    "message": "Csapat",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Támogatók",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Fordítók",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Készítő",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Weboldal fejlesztő",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Közösségi menedzser",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Fő moderátor",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderátor",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Jegykezelő",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Támogató",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Fordító",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Adminisztrátor",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Csapat",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Támogatók",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Fordítók",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Készítő",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Senior moderátor",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderátor",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.ticketManager": {
+		"message": "Jegykezelő",
+		"description": "'Ticket Manager' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Állapotüzenet hitelesítő",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Támogató",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Fordító",
+		"description": "'Translator' title for contributors page."
+	}
 }
