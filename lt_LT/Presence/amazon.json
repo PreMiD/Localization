@@ -55,8 +55,16 @@
         "message": "\"Rekemonduojama\" peržiūra",
         "description": ""
     },
+    "amazon.history": {
+        "message": "Peržiūrima istorija",
+        "description": ""
+    },
     "amazon.store": {
         "message": "Peržiūrima parduotuvė:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime vaizdo įrašo peržiūra:",
         "description": ""
     }
 }
