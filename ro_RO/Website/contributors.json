@@ -23,10 +23,6 @@
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Manager tichete",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "Donator",
 		"description": "'Donator' title for contributors page."
