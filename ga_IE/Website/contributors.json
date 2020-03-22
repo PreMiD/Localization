@@ -15,10 +15,6 @@
 		"message": "Modhnóir",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Bainisteoir Ticéad",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "Deontóir",
 		"description": "'Donator' title for contributors page."
