@@ -23,10 +23,6 @@
 		"message": "版主",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "客服",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Presence 審核人員",
 		"description": "'Presence Verifier' title for contributors and user pages."
