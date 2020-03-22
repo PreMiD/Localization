@@ -95,6 +95,10 @@
         "message": "Peržiūrimi vaizdo įrašo vertimai:",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "Peržiūrimi",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
         "message": "kanalo analitika",
         "description": "Part two of \"Viewing their\""
