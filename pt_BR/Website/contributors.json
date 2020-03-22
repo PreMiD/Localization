@@ -23,10 +23,6 @@
 		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Gerenciador de Tickets",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Verificador de Presenças",
 		"description": "'Presence Verifier' title for contributors and user pages."

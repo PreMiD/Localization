@@ -19,10 +19,6 @@
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Ärendehanterare",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Verifierare för Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."

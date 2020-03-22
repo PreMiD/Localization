@@ -19,10 +19,6 @@
 		"message": "Модератор",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Менеджер по заявкам",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Статусо-утверждающий",
 		"description": "'Presence Verifier' title for contributors and user pages."

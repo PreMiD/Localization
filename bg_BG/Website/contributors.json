@@ -23,10 +23,6 @@
 		"message": "забавител",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Мениджър на билети",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Проверка на присъствието",
 		"description": "'Presence Verifier' title for contributors and user pages."

@@ -23,10 +23,6 @@
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Yardım Meneceri",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.proofreader": {
 		"message": "Korrektor",
 		"description": "'Proofreader' title for contributors and user pages."

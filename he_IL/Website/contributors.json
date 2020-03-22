@@ -19,10 +19,6 @@
 		"message": "מנחה",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "מנהל כרטיסים",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "מאמת Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."

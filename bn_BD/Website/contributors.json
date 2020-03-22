@@ -19,10 +19,6 @@
 		"message": "মডারেটর",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "টিকেট ম্যানেজার",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "দানের",
 		"description": "'Donator' title for contributors page."

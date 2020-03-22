@@ -19,10 +19,6 @@
 		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Gestor de tickets",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Verificador de presencias",
 		"description": "'Presence Verifier' title for contributors and user pages."

@@ -19,10 +19,6 @@
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Správca tiketov",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Overovateľ prítomností",
 		"description": "'Presence Verifier' title for contributors and user pages."
