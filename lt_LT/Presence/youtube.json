@@ -1,4 +1,32 @@
 {
+    "youtube.ad": {
+        "message": "Šiuo metu žiūri reklama",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Naršoma per vaizdo įrašus",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Naršoma grojaraščiuose",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Bendruomenės įrašų peržiūra",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanalo:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Skaitoma apie kanalą:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Ieškoma per kanalą: {0} ieškant:",
+        "description": "{0} will be replaced with the channel name"
+    },
     "youtube.trending": {
         "message": "Peržiūrima, kas tendencinga",
         "description": ""
@@ -7,8 +35,32 @@
         "message": "Naršoma",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "jų prenumeratos",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "jų biblioteka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "jų istorija",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "jų pirkimai",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Jų ataskaitų istorijos peržiūra",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "Kažkas įkeliama...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Peržiūrimi visi grojaraščiai",
         "description": ""
     }
 }
