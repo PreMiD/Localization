@@ -31,8 +31,36 @@
         "message": "Užsakymų peržiūra",
         "description": ""
     },
+    "aliexpress.viewTheir": {
+        "message": "Peržiūrimi",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Grąžinimai ir ginčai",
+        "description": "Part 2 of \"Viewing their\""
+    },
     "aliexpress.deletedOrders": {
         "message": "ištrinti užsakymai",
         "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress prekybos centras",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Peržiūrimi kuponai",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Peržiūrimas adresas",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress pagalbos centras",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress pardavimo centras",
+        "description": ""
     }
 }
