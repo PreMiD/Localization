@@ -48,7 +48,7 @@
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
-		"message": "jų grojaraščiai",
+		"message": "grojaraščius",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
