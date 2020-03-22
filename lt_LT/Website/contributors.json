@@ -19,10 +19,6 @@
 		"message": "Moderatorius",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.ticketManager": {
-		"message": "Bilietų vadybininkas",
-		"description": "'Ticket Manager' title for contributors and user pages."
-	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Statusų Verifikacija",
 		"description": "'Presence Verifier' title for contributors and user pages."
