@@ -15,6 +15,22 @@
 		"message": "Yapımcı",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "Yapım Yönetmeni",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Operasyon Gözetmeni",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Küresel Topluluk Temsilcisi",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Baş Yazılım Mühendisi",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.webDeveloper": {
 		"message": "Site Geliştiricisi",
 		"description": "'Web Developer' title for contributors and user pages."
