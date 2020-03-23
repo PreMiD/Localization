@@ -27,6 +27,10 @@
 		"message": "Állapotüzenet hitelesítő",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
+	"contributors.roles.proofreader": {
+		"message": "Lektor",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
 	"contributors.roles.donator": {
 		"message": "Támogató",
 		"description": "'Donator' title for contributors page."
@@ -38,5 +42,13 @@
 	"contributors.roles.translator": {
 		"message": "Fordító",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Kattints a felhasználó azonosítójának másolásához.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Felhasználói azonosító vágólapra másolva!",
+		"description": "Notification after user ID was copied."
 	}
 }
