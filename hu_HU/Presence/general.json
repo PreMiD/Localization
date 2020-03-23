@@ -95,6 +95,10 @@
         "message": "Keresés",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Kosár",
+        "description": ""
+    },
     "general.store": {
         "message": "Áruház",
         "description": ""
@@ -139,12 +143,28 @@
         "message": "Mangát olvas:",
         "description": ""
     },
+    "general.viewMember": {
+        "message": "Tag megtekintése:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Filmet néz:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Terméket néz:",
+        "description": ""
+    },
     "general.watchingVid": {
         "message": "Videót néz",
         "description": ""
     },
     "general.watchingLive": {
         "message": "Élő adást néz",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Kívánságlista:",
         "description": ""
     },
     "general.privacy": {
