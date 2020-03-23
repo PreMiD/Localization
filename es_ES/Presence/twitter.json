@@ -16,11 +16,11 @@
         "description": ""
     },
     "twitter.viewMedia": {
-        "message": "Viendo tweets de:",
+        "message": "Viendo redes sociales de:",
         "description": ""
     },
     "twitter.viewLiked": {
-        "message": "Viendo me gusta:",
+        "message": "Viendo gustado por:",
         "description": ""
     },
     "twitter.viewList": {
@@ -36,11 +36,11 @@
         "description": ""
     },
     "twitter.explore": {
-        "message": "Explorer",
+        "message": "Explorar",
         "description": ""
     },
     "twitter.settings": {
-        "message": "Cambiando la configuracion...",
+        "message": "Cambiando algunos ajustes...",
         "description": ""
     }
 }
