@@ -1,6 +1,6 @@
 {
     "facebook.call": {
-        "message": "İle aramada:",
+        "message": "İle görüntülü aramada:",
         "description": ""
     },
     "facebook.vcall": {
@@ -41,6 +41,10 @@
     },
     "facebook.userVids": {
         "message": "Kullanıcının videolarına bakıyor:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Göz atıyor:",
         "description": ""
     },
     "facebook.savedVids": {

@@ -63,6 +63,10 @@
 		"message": "Neler arıyoruz?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "İnternet üzerinde potansiyel gösteren topluluklar ve heyecan verici şeyleri takip ediyoruz. Kısacası, partner programı için sizin de PreMiD'i kullanıyor olmanız ve internet üzerinde yayılmamıza yardım etmeniz gerekiyor. Program, nitelikli incelemeler ve bir çok madde onayından geçtiği için az sayıda katılımcıların bu programa katılacağını düşünüyoruz.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Güvenlik duvarımız",
 		"description": "Heading for the second requirement."
