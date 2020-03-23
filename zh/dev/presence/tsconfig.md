@@ -1,22 +1,22 @@
 ---
-title: 无标题页面
-description: TypeScript 的小助手
-published: true
+title: Untitled Page
+description: A little helper for TypeScript
+published: 是
 date: 2020-01-19T23:42:36.260Z
 tags:
 ---
 
-# TypeScript 配置
+# TypeScript Configuration
 
-## 一. 导言
+## Introduction
 
-当你下载并解压工作区时，你将看到一个名为 `tsconfig的文件。 s` 在 root 和存在文件夹中，此文件用于配置 **TypeScript** 编译器。 它已经为您配置了，所以不要担心这个问题。
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-我们只想描述你应该知道的一些设置。
+We just want to describe some settings that you should know.
 
-## Root配置
+## Root Configuration
 
-在 root 配置文件中，你会看到类似的东西。
+In the root configuration file you will see something like this.
 
 ```javascript
 {
@@ -29,27 +29,27 @@ tags:
 }
 ```
 
-| 财产                  | 描述                                                                             |
-|:------------------- |:------------------------------------------------------------------------------ |
-| **compilerOptions** | 用于配置编译器，大多数属性都位于这里。                                                            |
-| 模块                  | 您可以在这里阅读更多关于 [的信息](https://www.typescriptlang.org/docs/handbook/modules.html)。 |
-| target              | 定义您正在编译的 JavaScript 版本。                                                        |
-| 删除评论                | 从编译文件中删除评论。                                                                    |
-| **不包含**             | 您可以在此定义您想要从未来编译中排除的文件夹。                                                        |
+| Property            | 說明                                                                                              |
+|:------------------- |:----------------------------------------------------------------------------------------------- |
+| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
+| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| target              | Defines the JavaScript version you are compiling.                                               |
+| removeComments      | Removing comments from compiled files.                                                          |
+| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
 
-## 存在配置
+## Presence Configuration
 
 ```javascript
-主席:
+{
   "extends": "../tsconfig.json",
-  "compilerOptions":
+  "compilerOptions": {
     "outDir": "./dist/"
   }
 }
 ```
 
-| 财产                  | 描述                                                               |
-|:------------------- |:---------------------------------------------------------------- |
-| **扩展**              | 用于扩展基础 `tsconfig` 文件用于各种任务。                                      |
-| **compilerOptions** | 更多信息请参阅 [**Root 配置**](/dev/presence/tsconfig#root-configuration) |
-| outDir              | 定义编译文件的输出目录。                                                     |
+| Property            | 說明                                                                                     |
+|:------------------- |:-------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
+| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
+| outDir              | Defines the output directory for compiled files.                                       |
