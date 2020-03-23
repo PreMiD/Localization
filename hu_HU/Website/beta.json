@@ -7,8 +7,16 @@
     "message": "A **PreMiD Beta** mindenki számára elérhető!",
     "description": "Section description"
   },
+  "beta.description.2": {
+    "message": "Mit biztosítunk számodra, ha regisztrálsz?",
+    "description": "Section description"
+  },
   "beta.features.1": {
     "message": "Új funkciók",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Hozzáférés a PreMiD szupertitkos szövegcstornáihoz",
     "description": "Features list"
   },
   "beta.features.3": {
