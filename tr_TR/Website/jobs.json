@@ -19,6 +19,10 @@
 		"message": "Lütfen tüm alanları doldurun",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD, açık-kaynak bir projedir, yani ekibimiz işini para karşılığında yapmamaktadır, Patreon üzerinden gelen tüm bağışlar direkt olarak üretime yatırılmakta ve programa katkıda bulunmaktadır. PreMiD'e iş başvurusu yaparak, gönüllü iş yapacağınızı kabul etmiş sayılırsınız, bu iş için herhangi bir ödeme almayacaksınız.",
+		"description": "Notice for applicants."
+	},
 	"jobs.header.title": {
 		"message": "PreMiD'de Çalışın",
 		"description": "First part of the jobs page."
@@ -82,5 +86,13 @@
 	"jobs.benefit6.description": {
 		"message": "Yeni özellikleri herkesten önce test edebilme fırsatı.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Onayladığınız için teşekkürler!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Zaten önceden onaylanmışsın!",
+		"description": "Notification when you applied already."
 	}
 }
