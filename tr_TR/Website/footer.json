@@ -51,6 +51,10 @@
 		"message": "Çeviri",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Bizimle çalışın!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Yardım",
 		"description": "Help section"
