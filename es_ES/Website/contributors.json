@@ -15,6 +15,22 @@
 		"message": "Creador",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "Director Ejecutivo",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Supervisor de Operaciones",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Representante Global de la Comunidad",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Jefe Ingeniero de Software",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
