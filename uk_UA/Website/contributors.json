@@ -19,10 +19,6 @@
 		"message": "Виконавчий директор",
 		"description": "'Executive Director' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisior": {
-		"message": "Керувальник операціями",
-		"description": "'Operations Supervisior' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Глобальний представник спільноти",
 		"description": "'Global Community Representative' title for contributors and user pages."
