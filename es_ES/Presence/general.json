@@ -79,6 +79,10 @@
         "message": "Leyendo en el canal:",
         "description": ""
     },
+    "general.readingPost": {
+        "message": "Leyendo publicación:",
+        "description": ""
+    },
     "general.readingThread": {
         "message": "Leyendo hilo:",
         "description": ""
