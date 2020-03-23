@@ -79,6 +79,10 @@
 		"message": "Hadi birlikte cennete gidelim!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Eğer PreMiD'de bir iş arıyorsanız, **iş sayfamıza** göz atın.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "SPONSORLAR",
 		"description": "Heading for sponsors."
@@ -183,6 +187,10 @@
 		"message": "Başvur",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Onayladığınız için teşekkürler!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Lütfen tüm alanları doldurun.",
 		"description": "Error when a field isn't filled."
@@ -194,5 +202,9 @@
 	"partners.apply.error3": {
 		"message": "Lütfen \"https://\" ile başlayıp \".png\" ile biten bir bağlantı girin.",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Zaten önceden ortaklık için onaylanmışsın.",
+		"description": "Error when already applied."
 	}
 }
