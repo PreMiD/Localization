@@ -19,10 +19,6 @@
 		"message": "Uitvoerend Directeur",
 		"description": "'Executive Director' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisior": {
-		"message": "Operaties Toezichthouder",
-		"description": "'Operations Supervisior' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Globale Community Vertegenwoordiger",
 		"description": "'Global Community Representative' title for contributors and user pages."
