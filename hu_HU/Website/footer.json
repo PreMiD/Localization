@@ -51,6 +51,10 @@
 		"message": "Fordítás",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Dolgozz nekünk!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Segítség",
 		"description": "Help section"
@@ -98,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "A weboldal üzemeltetője: {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Kattints ide a többi partner és szponzor megtekintéséhez.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
