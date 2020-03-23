@@ -47,16 +47,20 @@
     "message": "{0} No hay instalador para este sistema operativo. Esto quiere decir que no hay soporte profesional para él.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
+  "downloads.mobile.errorMessage": {
+    "message": "Tenga en cuenta que PreMiD actualmente no es compatible con dispositivos móviles.",
+    "description": "Downloads page warning when user is on mobile."
+  },
   "downloads.mobile.showDownloads": {
-    "message": "Enseñar descargas",
+    "message": "Mostrar Descargas",
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.mobile.hideDownloads": {
-    "message": "Ocultar descargas",
+    "message": "Ocultar Descargas",
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.warning.differentVersion": {
-    "message": "La versión actual de esta plataforma es {0} (esta versión es específica para Linux, y no se aplica a otros sistemas).",
+    "message": "La versión actual de esta plataforma es {0} (esta versión es específica de Linux y no se aplica a otros sistemas).",
     "description": "Tippy message of the Linux card."
   },
   "downloads.warning.differentVersion2": {
