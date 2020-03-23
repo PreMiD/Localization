@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Yetkili listesine bakıyor",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "İzlediği konulara bakıyor",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "İzlediği forumlara bakıyor",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Direkt mesajlarına bakıyor",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Oyuna bakıyor:",
+        "description": ""
+    }
+}
