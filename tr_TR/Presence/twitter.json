@@ -11,8 +11,36 @@
         "message": "Tweet'lerine bakıyor:",
         "description": ""
     },
+    "twitter.viewTweetsWithReplies": {
+        "message": "(Cevaplı) Tweet'lerine bakıyor:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Medyasına bakıyor:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Beğendiğine bakıyor:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Listeye bakıyor:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Yer imleri",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Bildirimler",
+        "description": ""
+    },
     "twitter.explore": {
         "message": "Keşfet",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Bazı ayarlar değiştiriliyor...",
         "description": ""
     }
 }
