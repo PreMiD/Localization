@@ -7,6 +7,10 @@
 		"message": "En çok dinlenilen podcastler",
 		"description": ""
 	},
+	"spotify.charts": {
+		"message": "Grafiklere bakıyor",
+		"description": ""
+	},
 	"spotify.genres": {
 		"message": "Türler arasında dolaşıyor",
 		"description": ""
@@ -18,6 +22,14 @@
 	"spotify.discover": {
 		"message": "Yeni şarkıları keşfediyor",
 		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Göz atıyor",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "sevdiği ses dosyası",
+		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
 		"message": "sevdiği sanatçılar",
