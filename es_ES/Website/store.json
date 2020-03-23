@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "La extensión no está conectada.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "Creador",
     "description": "Creator of a presence"
@@ -6,6 +10,14 @@
   "store.cards.popular": {
     "message": "Esta presencia es muy popular entre los usuarios.",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Presencia de un socio oficial de PreMiD.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Esta presencia requiere pasos adicionales para funcionar, consulte su página para obtener más información.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
     "message": "Esta presencia fue aprobada por un desarrollador verificado",
@@ -38,6 +50,10 @@
   "store.category.filters.allowAdult": {
     "message": "Permitir contenido para adultos",
     "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Únicamente presencias que me gustan",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "Categorías",

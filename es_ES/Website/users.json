@@ -15,6 +15,14 @@
 		"message": "Creado {0} presencias.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Desarrollador Genio de Presencia",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "¡Ha creado más de 100 presencias!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "Usuario [presencies/contribuciones]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
