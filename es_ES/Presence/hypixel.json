@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Viendo lista de personal",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Viendo sus hilos visitados",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Viendo sus foros visitados",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Viendo sus MDs",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Viendo juego:",
+        "description": ""
+    }
+}

@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Viendo tablero:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Viendo un pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Viendo a quienes sigue",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Editando su página principal",
+        "description": ""
+    }
+}
