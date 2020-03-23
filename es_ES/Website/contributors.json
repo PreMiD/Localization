@@ -31,9 +31,45 @@
 		"message": "Jefe Ingeniero de Software",
 		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
+	"contributors.roles.webDeveloper": {
+		"message": "Desarrollador Web",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Mantenimiento de Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Ingeniero",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Diseñador Gráfico",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Moderador Mayor",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "Jefe de Verificación de Presencia",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Representante de la Comunidad",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Moderador Menor",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Agente de Soporte",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Verificador de presencias",
@@ -56,7 +92,11 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Haz click para copiar el ID del usuario.",
+		"message": "Haz clic para copiar la ID del usuario.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "¡ID de Usuario copiada a tu portapapeles!",
+		"description": "Notification after user ID was copied."
 	}
 }
