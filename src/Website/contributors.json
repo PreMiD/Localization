@@ -19,9 +19,9 @@
 		"message": "Executive Director",
 		"description": "'Executive Director' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisior": {
-		"message": "Operations Supervisior",
-		"description": "'Operations Supervisior' title for contributors and user pages."
+	"contributors.roles.operationSupervisor": {
+		"message": "Operation Supervisor",
+		"description": "'Operation Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Global Community Representative",
