@@ -15,13 +15,57 @@
 		"message": "Készítő",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "Ügyvezető igazgató",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Műveleti felügyelő",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Globális közösségi képviselő",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Vezető szoftvermérnök",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Webfejlesztő",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Linux karbantartó",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Mérnök",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Grafikus",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior moderátor",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Közösségi képviselő",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Junior moderátor",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Kisegítő ügynök",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Állapotüzenet hitelesítő",
