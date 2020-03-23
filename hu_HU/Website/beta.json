@@ -1,4 +1,12 @@
 {
+  "beta.title": {
+    "message": "Új funkciókat próbálnál ki?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "A **PreMiD Beta** mindenki számára elérhető!",
+    "description": "Section description"
+  },
   "beta.features.1": {
     "message": "Új funkciók",
     "description": "Features list"
@@ -6,6 +14,10 @@
   "beta.features.3": {
     "message": "Különleges rang Discord szerverünkön",
     "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Készen állsz? Csatlakozz a(z) {0} Beta tesztelőhöz!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
     "message": "Regisztráció!",
