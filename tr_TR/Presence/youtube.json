@@ -11,9 +11,29 @@
         "message": "Oynatma listelerine göz atıyor",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
+    "youtube.viewingCommunityPost": {
+        "message": "Topluluk gönderilerine bakıyor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
     "youtube.trending": {
         "message": "Trendleri görüntülüyor",
         "description": ""
+    },
+    "youtube.subscriptions": {
+        "message": "abonelikleri",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "kütüphanesi",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "geçmişi",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "satın aldıkları",
+        "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
         "message": "Rapor geçmişini görüntülüyor",
@@ -31,8 +51,52 @@
         "message": "Canlı yayın etkinliklerini görüntülüyor",
         "description": ""
     },
+    "youtube.viewLiveDashboard": {
+        "message": "Canlı paneline bakıyor",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Ses kütüphanesine bakıyor",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videolarına bakıyor",
+        "description": ""
+    },
     "youtube.studio.editVideo": {
         "message": "Bir videoyu düzenliyor:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Videonun analizlerine bakıyor:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Videonun yorumlarına bakıyor:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Videonun çevirilerine bakıyor:",
+        "description": ""
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanal analizleri",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal yorumları",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanal çevirileri",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "sanatçı sayfası",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Paneline bakıyor",
         "description": ""
     }
 }
