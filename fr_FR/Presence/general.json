@@ -55,12 +55,44 @@
         "message": "En train de lire",
         "description": ""
     },
+    "general.searchFor": {
+        "message": "À la recherche de:",
+        "description": ""
+    },
     "general.search": {
         "message": "En train de chercher",
+        "description": ""
+    },
+    "general.shopCart": {
+        "message": "Panier",
         "description": ""
     },
     "general.store": {
         "message": "Boutique",
         "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Regarde une vidéo",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Regarde un livestream",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Regarde:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Liste de souhaits:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Politique de Confidentialité",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Conditions d'utilisation",
+        "description": "A page name"
     }
 }
