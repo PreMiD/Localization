@@ -7,6 +7,10 @@
 		"message": "Notre équipe vous fournira une présence de votre service web.",
 		"description": "Description for the first benefit."
 	},
+	"partners.why.benefit2.title": {
+		"message": "Être vérifié",
+		"description": "Heading for the second benefit."
+	},
 	"partners.why.benefit2.description": {
 		"message": "Un rôle spécial et un grand honneur vous seront donnés sur notre serveur Discord.",
 		"description": "Description for the second benefit."
@@ -43,6 +47,26 @@
 		"message": "PreMiD ne serait pas possible sans ces gens incroyables.",
 		"description": "Description for sponsors."
 	},
+	"partners.apply.title": {
+		"message": "Faites une demande de partenariat",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Connecté(e) en tant que {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Ce n'est pas vous ?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Veuillez en choisir un",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Site Internet",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Autres",
 		"description": "Select 'Other' category."
@@ -50,5 +74,57 @@
 	"partners.apply.form.name": {
 		"message": "Nom",
 		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Exemple : PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Lien",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Exemple : https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Description : (150 caractères maximum)",
+		"description": "Description field."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Lien de l'image: (550x300, PNG uniquement)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Exemple : https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Fermer",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Appliquer",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Merci d'avoir postulé !",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Veuillez remplir tous les champs.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Description de 150 caractères maximum.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Veuillez ajouter un lien (doit commencer par https:// et finir par .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Vous avez déjà postulé pour un partenaire.",
+		"description": "Error when already applied."
 	}
 }
