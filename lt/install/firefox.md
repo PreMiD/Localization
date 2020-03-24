@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: Pradžia su PreMiD diegimu naršyklėje Firefox
 published: true
 date: 2020-01-19T23:42:18.246Z
 tags:
@@ -10,8 +10,8 @@ Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 
 # Diegti
 1. Eikite į mūsų atsisiuntimų puslapį [spustelėdami čia](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
+2. Pasirinkite **Firefox**.
+3. Ieškokite `apie:priedai`.
 4. Click on the small gear icon in the upper right corner.
 5. Choose **Install add-on from file**.
 6. Select the file you downloaded recently.
