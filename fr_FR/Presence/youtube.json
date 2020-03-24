@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Regarde actuellement une annonce",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Modifie une vidéo:",
+        "description": ""
+    },
+    "youtube.studio.artistPage": {
+        "message": "page de l'artiste",
+        "description": "Part two of \"Viewing their\""
+    }
+}
