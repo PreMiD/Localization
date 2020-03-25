@@ -1,1 +1,30 @@
-{}
+{
+	"jobs.openings.title": {
+		"message": "Álláslehetőségek",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Hatalmas előnyök",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Találkozz velünk",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Vedd fel a kapcsolatot a PreMiD mögött álló csapattagokkal.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Betekintés",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Vess egy pillantást a Fejlesztésre és Marketingre.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Tisztelet",
+		"description": "Benefit card title."
+	}
+}
