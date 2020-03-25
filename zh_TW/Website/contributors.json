@@ -15,6 +15,18 @@
 		"message": "創建者",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "執行董事",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "運營主管",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "全球社區代表",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "高級版主",
 		"description": "'Senior Moderator' title for contributors and user pages."
