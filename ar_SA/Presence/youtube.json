@@ -1,1 +1,42 @@
-{}
+{
+    "youtube.ad": {
+        "message": "حاليًا مشاهدة إعلان",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "تصفح من خلال الفيديوهات",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "تصفح من خلال قوائم التشغيل",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "عرض مشاركات المجتمع",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "من القناة:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "قراءة حول القناة:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "البحث عن طريق القناة: {0} من أجل:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.subscriptions": {
+        "message": "المشتركين الخاصة بهم",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "مكتبتهم",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "التاريخ الخاص بهم",
+        "description": "Part two of \"Browsing through\""
+    }
+}
