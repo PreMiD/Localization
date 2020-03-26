@@ -1,1 +1,42 @@
-{}
+{
+    "facebook.call": {
+        "message": "Dans un appel avec :",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Dans un appel vidéo avec :",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "quelqu'un... (Utilisateur masqué)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Composition d'un message",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Visualisation des photos par l'utilisateur :",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Visualisation des postes par l'utilisateur :",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Parcourir :",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Vidéos enregistrées",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Récemment ajouté",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Affichage de la météo d'aujourd'hui",
+        "description": ""
+    }
+}
