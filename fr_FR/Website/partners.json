@@ -55,6 +55,10 @@
 		"message": "PreMiD ne serait pas possible sans ces gens incroyables.",
 		"description": "Description for sponsors."
 	},
+	"partners.partner.aniFlix": {
+		"message": "Voici comment vous regardez l'anime.",
+		"description": "Description for AniFlix."
+	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
 		"description": "Partnership application modal title."
