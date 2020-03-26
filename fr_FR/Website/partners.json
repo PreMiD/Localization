@@ -39,6 +39,14 @@
 		"message": "Postulez dès maintenant !",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.disclaimer": {
+		"message": "Allons au paradis ensemble!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Si vous êtes plutôt intéressé par un emploi direct chez PreMiD, jetez un œil à notre **offre d'emploi**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "SPONSORS",
 		"description": "Heading for sponsors."
