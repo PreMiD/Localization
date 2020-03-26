@@ -11,6 +11,14 @@
         "message": "المتجر",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "سياسة الخصوصية",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "شروط الخدمة",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "الويكي",
         "description": "A page name"
