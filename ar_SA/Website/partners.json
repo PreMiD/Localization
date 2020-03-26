@@ -39,6 +39,10 @@
 		"message": "تمكين الpresence الخاص بك تلقائياً عندما يقوم شخص بزيارة موقعك.",
 		"description": "Description for the third benefit."
 	},
+	"partners.why.benefit4.title": {
+		"message": "كن خالدا",
+		"description": "Heading for the fourth benefit."
+	},
 	"partners.why.benefit4.description": {
 		"message": "مكان رديء على صفحة شركائنا.",
 		"description": "Description for the fourth benefit."
