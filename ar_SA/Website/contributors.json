@@ -15,9 +15,61 @@
 		"message": "المطور",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "المدير التنفيذي",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "مشرف العمليات",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "الممثل العالمي للمجتمع",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "كبير مهندسي البرمجيات",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "مطور الويب",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "مشرف Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "مهندس",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "مصمم جرافيك",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "كبير المشرفين",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "رئيس التحقق من Presence",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "ممثل المجتمع",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "وسيط",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "مشرف مبتدئ",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "عميل الدعم",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "مدقق ملحقات",
