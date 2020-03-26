@@ -119,6 +119,10 @@
 		"message": "التواصل بسهولة مع المستخدمين في الوقت الحقيقي.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.crowdin": {
+		"message": "مكان رشيق لشركات التكنولوجيا.",
+		"description": "Description for Crowdin."
+	},
 	"partners.partner.wikijs": {
 		"message": "برنامج ويكي المفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
 		"description": "Description for WikiJS."
