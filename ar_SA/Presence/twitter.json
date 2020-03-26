@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "يشاهد التغريدة:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "يشاهد الرسائل المباشرة الخاصة بهم",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "يشاهد تغريدات ل:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "يشاهدلتغريدات (مع الردود) ل:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "يشاهد وسائط الإعلام التالية:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "يشاهد معجبين من طرفـ:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "يشاهد القائمة:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "الإشارات المرجعيّة",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "الإشعارات",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "استكشاف",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "يغيير بعض الإعدادات...",
+        "description": ""
+    }
+}
