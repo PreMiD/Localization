@@ -3,6 +3,22 @@
 		"message": "PARTENAIRES",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Rejoignez la famille et bénéficiez d'avantages réservés aux partenaires pour montrer combien vous avez du swag.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Ceux-ci nous appartiennent déjà",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Que diriez-vous d'aller au paradis au lieu de l'enfer ?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Votre présence libre",
+		"description": "Heading for the first benefit."
+	},
 	"partners.why.benefit1.description": {
 		"message": "Notre équipe vous fournira une présence de votre service web.",
 		"description": "Description for the first benefit."
@@ -23,9 +39,25 @@
 		"message": "Active automatiquement votre Presence lorsque quelqu'un visite votre site Web.",
 		"description": "Description for the third benefit."
 	},
+	"partners.why.benefit4.title": {
+		"message": "Immortalisé",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Un mauvais endroit sur notre page partenaire.",
+		"description": "Description for the fourth benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "Soyez célèbre",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Présenté sur nos réseaux sociaux.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "EXIGENCES",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Qui recherchons-nous ?",
@@ -58,6 +90,14 @@
 	"partners.partner.aniFlix": {
 		"message": "Voici comment vous regardez l'anime.",
 		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings est un jeu d'arène JcJ a évolution rapide de nouvelle génération, jouable dans le navigateur.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.crowdin": {
+		"message": "Localisation agile pour les entreprises technologiques.",
+		"description": "Description for Crowdin."
 	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
