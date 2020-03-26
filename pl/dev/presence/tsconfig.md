@@ -32,7 +32,7 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 | Własność            | Opis                                                                                            |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
 | **compilerOptions** | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                |
-| moduł               | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
+| moduł               | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html). |
 | target              | Określa wersję JavaScript, którą kompilujesz.                                                   |
 | usuń Komentarze     | Usuwanie komentarzy z skompilowanych plików.                                                    |
 | **wyklucz**         | Tutaj możesz zdefiniować foldery, które chcesz wyłączyć z przyszłej kompilacji.                 |
