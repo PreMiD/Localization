@@ -38,5 +38,9 @@
     "youtube.history": {
         "message": "التاريخ الخاص بهم",
         "description": "Part two of \"Browsing through\""
+    },
+    "youtube.studio.editVideo": {
+        "message": "تحرير الفيديو:",
+        "description": ""
     }
 }

@@ -7,24 +7,212 @@
         "message": "تصفح",
         "description": ""
     },
+    "general.chapter": {
+        "message": "الفصل",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "التعديل:",
+        "description": ""
+    },
     "general.episode": {
         "message": "الحلقة",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "المنتديات",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "النوع",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "الاستماع إلى الموسيقى",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "المستمعين",
         "description": ""
     },
     "general.live": {
         "message": "مباشر",
         "description": ""
     },
+    "general.manga": {
+        "message": "مانغا",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "السلع",
+        "description": ""
+    },
+    "general.page": {
+        "message": "الصفحة",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "متوقف",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "قيد التشغيل",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "يقرئ الرسائل المباشرة من:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "يقرئ عن:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "يقرئ المقال:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "يقرئ في القناة:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "يقرئ المنشور:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "يقرئ الموضوع:",
+        "description": ""
+    },
     "general.reading": {
         "message": "يقرأ",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "جار البحث عن:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "جاري البحث عن شيء...",
         "description": ""
     },
     "general.search": {
         "message": "يبحث",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "عربة التسوق",
+        "description": ""
+    },
     "general.store": {
         "message": "المتجر",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "يكتب في الرسائل المباشرة إلى:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "يكتب في هذه القناة:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "يشاهد الأنمي:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "يشاهد الفئة:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "يشاهد القناة:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "يشاهد الحلقة:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "يشاهد النوع:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "يشاهد الصفحة الرئيسية",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "يشاهد قائمة من:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "يشاهد المانغا:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "يشاهد العضو:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "يشاهد الفيلم:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "يشاهد قائمة التشغيل:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "يشاهد المنتج:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "يشاهد الملف الشخصي لـ:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "يشاهد العرض:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "يشاهد الحساب الخاص به",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "يشاهد الموضوع:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "يشاهد المستخدم:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "يشاهد:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "يشاهد فيديو",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "يشاهد بث مباشر",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "يشاهد:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "قائمة الأمنيات:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "سياسة الخصوصية",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "شروط الخدمة",
+        "description": "A page name"
     }
 }
