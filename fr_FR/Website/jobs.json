@@ -31,6 +31,10 @@
 		"message": "Offres d'emploi",
 		"description": "Text before the available job positions cards."
 	},
+	"jobs.benefits.title": {
+		"message": "Avantages de haut niveau",
+		"description": "Text before the benefits cards."
+	},
 	"jobs.benefit1.title": {
 		"message": "Rencontrez-nous",
 		"description": "Benefit card title."
@@ -38,6 +42,10 @@
 	"jobs.benefit1.description": {
 		"message": "Prenez contact avec les personnes qui sont derrière PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Aperçu",
+		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
 		"message": "Jetez un coup d'oeil sur notre développement et notre marketing.",
