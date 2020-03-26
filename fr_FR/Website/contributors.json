@@ -35,6 +35,10 @@
 		"message": "Développeur Web",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Mainteneur de Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
 	"contributors.roles.engineer": {
 		"message": "Ingénieur",
 		"description": "'Engineer' title for contributors and user pages."
@@ -47,6 +51,10 @@
 		"message": "Modérateur senior",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Responsable de la vérification de présence",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
 	"contributors.roles.communityRepresentative": {
 		"message": "Représentant de la Communauté",
 		"description": "'Community Representative' title for contributors and user pages."
@@ -54,6 +62,10 @@
 	"contributors.roles.moderator": {
 		"message": "Modérateur",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Modérateur Junior",
+		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
 		"message": "Agent d'Assistance",
