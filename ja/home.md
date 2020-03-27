@@ -2,7 +2,7 @@
 title: ホーム
 description: v2の公式ドキュメント
 published: true
-date: 2020-01-19T23:42:05.653Z
+date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # PreMiDについて
-- :mag: [PreMidってなに？](/about) あなたがPreMiDを使う理由がここにあります！
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [RPCって？](https://discordapp.com/rich-presence) Rich Presence機能に関してです。
 
 # 使ってみる
@@ -31,7 +31,7 @@ PreMiDのインストールはとってもかんたん！ すぐに使えるよ�
 
 # 貢献する
 - :bug: [バグを報告する](https://github.com/PreMiD) 不具合を除去する手伝いをする。
-- :bulb: [新しい機能を提案する](https://discord.gg/premid) あなたのアイデアが必要です！
+- :bulb: [新しい機能を提案する](https://discord.gg/WvfVZ8T) あなたのアイデアが必要です！
 - :heart: [寄付をする](https://www.patreon.com/Timeraa) この素晴らしいプロジェクトを応援しましょう！
 - :globe_with_meridians: [翻訳する](https://translate.premid.app) 他の言語でPreMiDを使えるように手伝ってください！
 
