@@ -31,7 +31,7 @@ PreMiD is snel en eenvoudig te installeren. Je zou binnen een tijdje klaar moete
 
 # Draag bij
 - :bug: [Rapporteer een Bug](https://github.com/PreMiD): Help ons de pesky bugs te verpletteren.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
+- :bulb: [Stel een nieuwe functie voor](https://discord.gg/WvfVZ8T): We hebben je ideeën nodig!
 - :heart: [Doneer](https://www.patreon.com/Timeraa): Maak een kleine donatie of word een sponsor van dit geweldige project!
 - :globe_with_meridians: [Taal](https://translate.premid.app): Laat andere gebruikers PreMiD gebruiken in hun moedertaal.
 
