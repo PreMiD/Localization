@@ -2,7 +2,7 @@
 title: Aan de slag
 description: Een beetje advies voor degenen die onlangs in codering zijn gekomen
 published: true
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Houd de structuur vast. Wij willen ons project niet anders organiseren. Chaotisc
 Open gewoon een pull-aanvraag op een van onze [GitHub repositories](https://github.com/PreMiD/) waaraan u wilt bijdragen. We zullen voor je baby zorgen, maak je geen zorgen. Als dit de eerste keer is dat je een pull-verzoek doet, neem dan een kijkje op deze [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Goedgekeurd worden
-Ons hoofddoel is om met gebruikers te werken, dus probeer zo vriendelijk, respectvol en informatief mogelijk te zijn. Ping gewoon een ontwikkelaar in onze [Discord server](https://discord.gg/PreMiD) om die beoordeling op GitHub te krijgen of niet. Afhankelijk van de code kwaliteit, uiterlijk van assets en reguliere functionaliteit.
+Ons hoofddoel is om met gebruikers te werken, dus probeer zo vriendelijk, respectvol en informatief mogelijk te zijn. Ping gewoon een ontwikkelaar in onze [Discord server](https://discord.gg/WvfVZ8T) om die beoordeling op GitHub te krijgen of niet. Afhankelijk van de code kwaliteit, uiterlijk van assets en reguliere functionaliteit.
