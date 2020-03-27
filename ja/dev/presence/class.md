@@ -2,7 +2,7 @@
 title: Presenceクラス
 description: すべてのPreMIDのプレゼンスのメインクラス
 published: true
-date: 2020-01-19T23:42:31.382Z
+date: 2020-02-12T22:15:28.557Z
 tags:
 ---
 
@@ -98,7 +98,7 @@ console.log(pageVar); // "変数の中身" をログに出力する
     <tr>
       <th style="text-align:left">変数</th>
       <th style="text-align:left">概要</th>
-      <th style="text-align:left">タイプ</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
