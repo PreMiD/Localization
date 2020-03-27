@@ -6,7 +6,7 @@ date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> تأكد من وجود ال[متطلبات الكافية](/install/requirements) لتشغيله على جهازك
 
 The installation of the application is very important as the extension can not do anything by itself.
 
