@@ -2,7 +2,7 @@
 title: Domů
 description: Úřední dokumentace pro v2
 published: true
-date: 2020-01-19T23:42:05.653Z
+date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # O PreMiD
-- :mag: [Co je PreMiD?](/about) Úmysly za PreMiD proč byste jej měli používat.
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [Co je RPC?](https://discordapp.com/rich-presence) Všechno o Rich Presence a jeho funkcích.
 
 # Začínáme
@@ -31,7 +31,7 @@ PreMiD je rychlý a snadno nainstalovatelný. Měli byste být aktivní a běže
 
 # Přispět
 - :bug: [Nahlásit chybu](https://github.com/PreMiD): Pomozte nám tyto chyby rozptýlit.
-- :bulb: [Navrhněte novou funkci](https://discord.gg/premid): Potřebujeme Vaše nápady!
+- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
 - :heart: [Přispějte](https://www.patreon.com/Timeraa): udělejte malý příspěvek nebo se stane sponzorem tohoto úžasného projektu!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Nechte ostatní uživatele používat PreMiD ve svém rodném jazyce.
 
