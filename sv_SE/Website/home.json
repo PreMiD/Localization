@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD** är ett enkelt, konfigurerbart verktyg som låter dig visa vad du gör på webben i din Discord nu spelar status.",
+    "message": "**PreMiD** är ett enkelt, konfigurerbart verktyg som låter dig visa vad du gör på webben i din Discords spelstatus.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -8,7 +8,7 @@
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Hämtningar",
+    "message": "Nedladdningar",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
@@ -80,7 +80,7 @@
     "description": "Features section button"
   },
   "home.languageSelector.tippy": {
-    "message": "Välj språk på webbplatsen",
+    "message": "Välj språk för webbplatsen",
     "description": "Tippy content of the language selector."
   }
 }
