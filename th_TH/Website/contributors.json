@@ -15,6 +15,14 @@
 		"message": "ผู้สร้าง",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.webDeveloper": {
+		"message": "นักพัฒนาเว็บไซต์",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "นักออกแบบกราฟิก",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "ผู้ดูแลอาวุโส",
 		"description": "'Senior Moderator' title for contributors and user pages."
@@ -27,6 +35,10 @@
 		"message": "ยืนยัน Presence ",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
+	"contributors.roles.proofreader": {
+		"message": "นักตรวจทาน",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
 	"contributors.roles.donator": {
 		"message": "ผู้บริจาค",
 		"description": "'Donator' title for contributors page."
@@ -38,5 +50,13 @@
 	"contributors.roles.translator": {
 		"message": "ผู้แปลภาษา",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "คลิกเพื่อคัดลอก User ID",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "คัดลอก User ID ลงในคลิปบอร์ดเรียบร้อยแล้ว",
+		"description": "Notification after user ID was copied."
 	}
 }

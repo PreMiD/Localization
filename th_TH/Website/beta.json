@@ -30,5 +30,13 @@
   "beta.register.button": {
     "message": "สมัครเดียวนี้!",
     "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "สุดยอด! ตอนนี้คุณเป็นผู้ใช้เบต้าของเราแล้ว!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "เรากำลังรีบลงทะเบียนให้คุณได้เข้าร่วมโปรแกรมเบต้าอย่างเร็วที่สุด ขอบคุณที่ลงทะเบียนกับเรา!",
+    "description": "Thank You page description"
   }
 }
