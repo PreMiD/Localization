@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -66,7 +66,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>přispěvatelé</b>
       </td>
-      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatele <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
       <td style="text-align:left"><code>Pole&lt;Object&gt;</code>
       </td>
@@ -86,7 +86,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
       <td style="text-align:left"><b>popis</b>
       </td>
       <td style="text-align:left">Malý popis přítomnosti, můžete použít popis služby
-        , pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
+        , pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Ne</code>
@@ -95,8 +95,8 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">Adresa URL služby.<br><b>Příklad:</b><code>vk. om</code><br>
-        <b>Tato adresa URL musí odpovídat URL webu, protože bude použita k detekci, kde je nebo není tato stránka k vložení skriptu.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code>
       </td>
@@ -193,17 +193,21 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
 
 Pokud se chcete naučit regulární výrazy, zde je několik webových stránek.
 
-### Učení
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Informace o regulárních výrazech](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testování
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Kategorie přítomnosti
+## Presence languages
 
-Při zjišťování přítomnosti musíte specifikovat kategorii, do které přítomnost spadá. Toto je sestavený seznam kategorií, které můžete použít.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
