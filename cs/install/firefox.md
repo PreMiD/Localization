@@ -8,7 +8,7 @@ tags:
 
 Instalace rozšíření je velmi důležitá, protože aplikace nemůže dělat nic sama.
 
-# Instalovat
+# Instalace
 1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
 2. Vyberte **Firefox**.
 3. Hledat `about:addons`.
