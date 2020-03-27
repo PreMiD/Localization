@@ -2,7 +2,7 @@
 title: Windows
 description: Початок роботи з встановленням PreMiD на Windows
 published: true
-date: 2020-02-07Т00:44:57.532Z
+date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
