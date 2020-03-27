@@ -2,7 +2,7 @@
 title: Kom igång
 description: Lite råd för dem som nyligen kom in i kodning
 published: true
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Behåll strukturen. Vi vill inte disorganisera vårt projekt. Kaotiska filer kan
 Öppna bara en Pull Request på en av våra [GitHub-arkiv](https://github.com/PreMiD/) som du vill bidra till. Vi kommer att ta hand om ditt barn, oroa dig inte. Om detta är första gången du gör en pull-förfrågan kan du ta en titt på denna [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Bli godkänd
-Vårt främsta mål är att arbeta med användarna så försök att vara så vänliga, respektfulla och informativa som möjligt. Bara att pinga en utvecklare i vår [Discord-server](https://discord.gg/PreMiD) för att få den recensionen på GitHub, eller inte. Beroende på kodkvalitet, utseende på tillgångar och regelbunden funktionalitet.
+Vårt främsta mål är att arbeta med användarna så försök att vara så vänliga, respektfulla och informativa som möjligt. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Beroende på kodkvalitet, utseende på tillgångar och regelbunden funktionalitet.
