@@ -51,6 +51,10 @@
         "message": "ความต้องการของระบบ",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "การติดตั้ง",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "การแก้ปัญหา",
         "description": "A page name"
