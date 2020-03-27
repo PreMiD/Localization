@@ -2,7 +2,7 @@
 title: PreMiDについて
 description: PreMiDの基本的な機能
 published: true
-date: 2020-01-19T23:42:02.040Z
+date: 2020-02-12T22:05:04.843Z
 tags:
 ---
 
