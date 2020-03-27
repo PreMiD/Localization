@@ -2,7 +2,7 @@
 title: Chromium
 description: Démarrage avec une installation PreMiD sur les navigateurs basés sur Chromeium
 published: vrai
-date: 2020-01-19T23:42:16.572Z
+date: 2020-02-12T22:08:30.406Z
 tags:
 ---
 
