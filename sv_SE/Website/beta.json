@@ -22,5 +22,21 @@
   "beta.features.3": {
     "message": "En särskild roll på vår Discord-server",
     "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Känner du dig redo? Gå med i {0} andra Beta-testare!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Registrera dig nu!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Coolt! Du är nu en beta-användare!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Våra apor arbetar på att få dig in i vårt beta-program så fort som möjligt. Tack för att du registrerar dig!",
+    "description": "Thank You page description"
   }
 }
