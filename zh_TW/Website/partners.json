@@ -63,6 +63,10 @@
 		"message": "我們需要什麼？",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "我們時刻關注不斷增長的社區和互聯網上令人興奮的事物。 TL; DR，您應該使用PreMiD，並準備將其傳播到更多的互聯網狂人們。 對該計劃的接受是非常定性的，並且從一個候選人到下一個候選人都會有所不同。",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "我們的防火牆",
 		"description": "Heading for the second requirement."
@@ -78,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "讓我們一起合作",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "如果您對PreMiD的工作很感興趣，請查看我們的聘請廣告。",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "贊助者清單",
