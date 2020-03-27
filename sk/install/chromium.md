@@ -8,7 +8,7 @@ tags:
 
 Inštalácia rozšírenia je veľmi dôležitá pretože samotná aplikácia nemôže urobiť nič.
 
-# Inštalovať
+# Inštalácia
 ### Chrome, Edge, atď.
 1. Prejdite na našu stránku na stiahnutie [kliknutím tu](https://premid.app/downloads).
 2. Vyberte **Chromium**.
