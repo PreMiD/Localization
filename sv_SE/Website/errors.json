@@ -20,7 +20,7 @@
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
-    "message": "Återgå till hemsidan",
+    "message": "Tillbaka till hemsidan",
     "description": "Button on the error page"
   },
   "user.notFound.heading": {
