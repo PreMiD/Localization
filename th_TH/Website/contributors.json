@@ -19,6 +19,10 @@
 		"message": "นักพัฒนาเว็บไซต์",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
+	"contributors.roles.engineer": {
+		"message": "วิศวกร",
+		"description": "'Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.graphicDesigner": {
 		"message": "นักออกแบบกราฟิก",
 		"description": "'Graphic Designer' title for contributors and user pages."
