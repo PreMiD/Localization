@@ -14,49 +14,49 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 
 <table>
   <tr>
-    <th>Supported Linux Distribution</th>
-    <th>Method</th>
-    <th>Installing</th>
-    <th>Additional Notes</th>
+    <th>Ondersteunde Linux distributie</th>
+    <th>Methode</th>
+    <th>Installeren</th>
+    <th>Aanvullende Notities</th>
   </tr>
   <tr>
     <td>Alle</td>
     <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
     <td>
-        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> nadien of dubbelklik het
     </td>
-    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+    <td><b>Dit is het aanbevolen pakket</b> om te gebruiken, of u wilt PreMiD proberen of u wilt het gewoon niet installeren ( of het in een USB-stick stoppen), het is altijd up-to-date maar <i>start niet automatisch bij het opstarten van het systeem</i>, dus als je het moe wordt om het elke keer te moeten openen, gebruik dan de andere methodes hieronder (volgens uw Linux distributie)</td>
   </tr>
   <tr>
     <td rowspan="5">Arch Linux</td>
     <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
-    <td>Using yay :<br><code>yay -S premid</code><br></td>
-    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+    <td>Met yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">Als je distro pacman gebruikt, dan moet je eerst een van de helpers installeren. Als je er geen hebt, wordt Yay aanbevolen, voer uit :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, zoals in de vorige kolom is bepaald.<br><br>Andere AUR/Pacman helpers werken ook, hoewel de functionaliteit van elke anders is waardoor je problemen kunt ondervinden tijdens het gebruik ervan.</td>
   </tr>
   <tr>
-    <td>Using pakku :<br><code>pakku -S premid</code></td>
+    <td>Met pakku :<br><code>pakku -S premid</code></td>
   </tr>
   <tr>
-    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+    <td>Met pacaur :<br><code>pacaur -S premid</code></td>
   </tr>
   <tr>
-    <td>Using trizen :<br><code>trizen -S premid</code></td>
+    <td>Met trizen :<br><code>trizen -S premid</code></td>
   </tr>
   <tr>
-    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
-    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Handmatig</a></td>
+    <td>Niet aanbevolen, niet beginnersvriendelijk en niet automatisch bijwerken.</td>
   </tr>
   <tr>
-    <td>Others</td>
+    <td>Overige</td>
     <td>-</td>
     <td>-</td>
-    <td>Soon (TM), use the AppImage for now</td>
+    <td>Binnenkort (TM), gebruik de AppImage voor nu</td>
   </tr>
 </table>
 
 > Vergeet niet [de **extensie**](/install)toe te voegen.{.is-warning}
 
-# More info
+# Meer info
 https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
