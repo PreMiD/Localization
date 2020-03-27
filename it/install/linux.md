@@ -2,7 +2,7 @@
 title: Linux
 description: Per iniziare con un'installazione di PreMiD su Linux
 published: vero
-date: 2020-02-08T04:19:04.080Z
+date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
@@ -11,30 +11,52 @@ tags:
 L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
 
 # Installa
-> Non c'è nessun installatore ufficiale per questo sistema operativo. Ciò significa che non vi è alcun sostegno ufficiale al riguardo. Tuttavia puoi scambiare informazioni con altri utenti Linux sul nostro [server Discord](https://discord.gg/premid/).{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Apri un terminale.
-3. Clona il repository: `git clone https://github.com/PreMiD/PreMiD.git`
-4. Cambia la directory di lavoro: `cd PreMiD/src`
-5. Installa le dipendenze e l'applicazione: `npm install`
-6. Cambia la directory di lavoro: `cd ..`
-7. Tipo: `npm run init`
-8. Avvia l'applicazione: `npm start`
-
-L'applicazione si avvierà automaticamente. Controlla il simbolo nella barra dei menu.
-
-> I seguenti metodi sono depressi e non più raccomandati. Usa a tuo rischio. 
-> 
-> {.is-warning}
-
-## Arch Linux
-Se sei su Arch Linux o una distribuzione basata su Arch, PreMiD è disponibile sul [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) sotto `premid`. Usa il tuo gestore di pacchetti preferito per prenderlo da lì!
-
-## Altre distribuzioni
-- Script d'installazione: `wget -qO- http://bit.ly/install-premid <unk> bash` o `curl -sL https://bit. /install-premid <unk> bash`, attendi che si installi, fai doppio clic sulla scorciatoia "PreMiD" creata sul tuo Desktop, ed è tutto!
-- Se vuoi disinstallare PreMiD, puoi eseguire `wget -qO- http://bit.ly/uninstall-premid <unk> bash` o `curl -sL https://bit.ly/uninstall-premid <unk> bash`.
+<table>
+  <tr>
+    <th>Supported Linux Distribution</th>
+    <th>Method</th>
+    <th>Installing</th>
+    <th>Additional Notes</th>
+  </tr>
+  <tr>
+    <td>Tutto</td>
+    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+    </td>
+    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Arch Linux</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td>Using yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+  </tr>
+  <tr>
+    <td>Using pakku :<br><code>pakku -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using trizen :<br><code>trizen -S premid</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
+    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Soon (TM), use the AppImage for now</td>
+  </tr>
+</table>
 
 > Non dimenticare di [aggiungere l'estensione ****](/install).{.is-warning}
+
+# More info
+https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
