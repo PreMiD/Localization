@@ -372,7 +372,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `contributors`
+- `сътрудници`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -389,7 +389,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>автор</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -399,7 +399,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>сътрудници</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -418,7 +418,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>описание</b>
       </td>
       <td style="text-align:left">Small description of the presence, you can use description of the service
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
@@ -459,7 +459,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>версия</b>
       </td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -496,7 +496,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b>
+      <td style="text-align:left"><b>маркирам</b>
       </td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
