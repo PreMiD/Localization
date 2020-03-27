@@ -1,1 +1,98 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "Ansök till {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Steg {0} av 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Nästa",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Avbryt",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Var vänlig fyll i alla fält",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD är ett projekt med öppen källkod, vilket innebär att vi är ett ideellt team, varje donation eller patreonpengar går tillbaka till produkten. Genom att ansöka om en anställning hos PreMiD bekräftar du att du är volontär i teamet kommer du inte att få betalt för ditt arbete.",
+		"description": "Notice for applicants."
+	},
+	"jobs.header.title": {
+		"message": "Arbeta för PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Är du redo att hjälpa det största Rich-Presence biblioteket?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Lediga jobb",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Föredelar",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Möt oss",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Ta kontakt med människorna bakom PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Smygtitta",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Ta en titt på vår utveckling och marknadsföring.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Ära",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Kraftfulla Discord-behörigheter och en färgstark roll.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Stötta PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Med ditt bidrag är det möjligt att driva detta projekt.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Timeout",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Ta dig tid och det är frivilligt arbete.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Förhandstillgång",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Kunna testa nya funktioner före någon annan.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Tack för din ansökan!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Du har redan ansökt!",
+		"description": "Notification when you applied already."
+	}
+}
