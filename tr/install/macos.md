@@ -12,7 +12,7 @@ tags:
 
 Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
-# Yükle
+# Yükleme
 1. [Buraya](https://premid.app/downloads) tıklayarak "İndir" sayfamıza gidin.
 2. **OS X**'i seçin.
 3. Gerekirse arşivi çıkartın.
