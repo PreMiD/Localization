@@ -2,7 +2,7 @@
 title: Commencer
 description: Un petit conseil pour ceux qui ont commencé le codage récemment
 published: vrai
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Veuillez conserver la structure. Nous ne voulons pas désorganiser notre projet.
 Il vous suffit d'ouvrir une Pull Request sur l'un de nos [dépôts GitHub](https://github.com/PreMiD/) auxquels vous voulez contribuer. Nous prendrons soin de votre bébé, ne vous inquiétez pas. Si c'est la première fois que vous faites une demande de présence, jetez un coup d'oeil à ça [tutoriel](https://help.github.com/en/articles/creating-a-pull-request).
 
 # En cours d'approbation
-Notre objectif principal est de travailler avec les utilisateurs afin d'essayer d'être aussi aimable, respectueux et instructif que possible. Il suffit de mentionner un développeur sur notre [serveur Discord](https://discord.gg/PreMiD) pour obtenir ce commentaire sur GitHub, ou non. Dépend de la qualité du code, de l'apparence des assets et des fonctionnalités régulières.
+Notre objectif principal est de travailler avec les utilisateurs afin d'essayer d'être aussi aimable, respectueux et instructif que possible. Il suffit de mentionner un développeur sur notre [serveur Discord](https://discord.gg/WvfVZ8T) pour obtenir ce commentaire sur GitHub, ou non. Dépend de la qualité du code, de l'apparence des assets et des fonctionnalités régulières.
