@@ -2,7 +2,7 @@
 title: Chromium
 description: Per iniziare con l'installazione di PreMiD sui browser basati su Chromeium
 published: vero
-date: 2020-01-19T23:42:16.572Z
+date: 2020-02-12T22:08:30.406Z
 tags:
 ---
 
