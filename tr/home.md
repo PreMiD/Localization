@@ -2,7 +2,7 @@
 title: Ana Sayfa
 description: Sürüm 2 için resmi dokümantasyon
 published: true
-date: 2020-01-19T23:42:05.653Z
+date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # PreMiD Hakkında
-- :mag: [PreMiD Nedir?](/about) Neden kullanmalısınız?
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [RPC nedir?](https://discordapp.com/rich-presence) Discord'un RPC özelliği ve fonksiyonları.
 
 # Başlarken
@@ -31,7 +31,7 @@ PreMiD için geliştirmeye [başlamak](/dev) bazı şeyleri kodlamadan önceki i
 
 # Katkıda Bulun
 - :bug: [Bir Hata Bildirin](https://github.com/PreMiD): Bu sinir bozucu böcekleri ezmemize yardım et.
-- :bulb: [Yeni Bir Özellik Öner](https://discord.gg/premid): Fikirlerinize ihtiyacımız var!
+- :bulb: [Yeni Bir Özellik Öner](https://discord.gg/WvfVZ8T): Fikirlerinize ihtiyacımız var!
 - :heart: [Bağış Yap](https://www.patreon.com/Timeraa): Küçük bir bağış yaparak projemize destek olun!
 - :globe_with_meridians: [Yerelleştirme](https://translate.premid.app): Diğer kullanıcıların PreMiD'i kendi dillerinde kullanmasına sağlayın.
 
