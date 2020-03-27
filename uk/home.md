@@ -2,7 +2,7 @@
 title: Домашній екран
 description: Офіційна документація по v2
 published: true
-date: 2020-01-19T23:42:05.653Z
+date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # Про PreMiD
-- :mag: [Що таке PreMiD?](/about) Причини чому ви повинні використовувати PreMiD.
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [Що таке RPC?](https://discordapp.com/rich-presence) Все про Розширену присутність і його функції.
 
 # З чого почати
@@ -31,7 +31,7 @@ PreMiD є швидким і простим для встановлення. Ви
 
 # Зробіть внесок
 - :bug: [Повідомити про помилку](https://github.com/PreMiD): Допоможіть нам розчавити бік.
-- :bulb: [Запропонууйте нову функцію](https://discord.gg/premid). Нам потрібні ваші ідеї!
+- :bulb: [Запропонууйте нову функцію](https://discord.gg/WvfVZ8T). Нам потрібні ваші ідеї!
 - :heart: [Пожертвуйте](https://www.patreon.com/Timeraa). Зробіть невелику пожертву або станьте спонсором цього чудового проекту!
 - :globe_with_meridians: [Локалі](https://translate.premid.app): дозвольте іншим користувачам використовувати PreMiD на своїй рідній мові.
 
