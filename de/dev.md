@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Ein kleiner Ratschlag für diejenigen, die sich in letzter Zeit mit Codierung beschäftigen
 published: true
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Bitte behalte die Struktur. Wir wollen unser Projekt nicht desorganisieren. Chao
 Öffne einfach ein Pull-Request in einem unserer [GitHub-Repositories](https://github.com/PreMiD/) auf dem Du beitragen möchtest. Wir kümmern uns um Dein Baby, keine Sorge. Wenn Du zum ersten mal ein Pull-Request öffnest, dann wirf einen Blick auf dieses [Tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Genehmigt werden
-Unser Hauptziel ist es, mit den Nutzern zusammenzuarbeiten. Versuche daher, so freundlich, respektvoll und informativ wie möglich zu sein. Pinge einfach einen Entwickler in unserem [Discord-Server](https://discord.gg/PreMiD), um diese Rezension auf GitHub zu erhalten, oder auch nicht. Hängt von der Codequalität, dem Erscheinungsbild der Assets und der regulären Funktionalität ab.
+Unser Hauptziel ist es, mit den Nutzern zusammenzuarbeiten. Versuche daher, so freundlich, respektvoll und informativ wie möglich zu sein. Pinge einfach einen Entwickler in unserem [Discord-Server](https://discord.gg/WvfVZ8T), um diese Rezension auf GitHub zu erhalten, oder auch nicht. Hängt von der Codequalität, dem Erscheinungsbild der Assets und der regulären Funktionalität ab.
