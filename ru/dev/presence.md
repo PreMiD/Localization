@@ -2,7 +2,7 @@
 title: Разработка присутствия
 description:
 published: true
-date: 2020-02-08T18:36:25.201Z
+date: 2020-03-05T03:52:35.531Z
 tags:
 ---
 
@@ -13,60 +13,88 @@ tags:
 Версия `2.x` представляет [магазин присутствия](https://premid.app/store). Пользователи теперь имеют возможность вручную добавлять и удалять свои любимые присутствия через пользовательский интерфейс [сайта](https://premid.app/).
 
 # Руководство
-> Если вы не следуете всем правилам, ваш запрос на слияние или запрос на слияние будет удален с github. 
+> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
 > 
-> {.is-danger}
+> {.is-warning}
+
+> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> 
+> {.is-warning}
+
+When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
 
 ## Создание
+> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+> 
+> {.is-warning}
 
-Прежде чем начать работать над своим присутствием, не забывайте о следующем списке.
-- Pull Request должен быть завершён, необходимо иметь надлежащую структуру файла. Включая папку `dist` , `presence.js` файл и `metadata.json` файл.
-- Наличие **должно** быть связано с выбранным вами веб-сайтом.
-- Присутствие не должно быть никаких незаконных веб-сайтов. К ним относятся стресса, наркотики, детский порно и т.д...
-- Метаданные о присутствии должны иметь хорошо написанный контент, включая правильные заголовки и описания.
-- Медиа, которые вы включаете (иконка/эскиз), должны быть связаны с веб-сайтом и должны быть понятны с точки зрения размера и качества.
-- Структура файла должна быть чистой и управляемой, не иметь случайных файлов, которые не содержат функции присутствия.
-- Наличие **не должно** иметь никаких вредоносных намерений. Это включает в себя воровство/утечку частной информации, отрицательно сказывающуюся на поведении сайта и т.д...
-- Если вы планируете присутствие веб-сайта и веб-сайта в будущем, происходит изменение. вы **ARE** ответственны за обновление присутствия снова для работы, как ожидалось. Если вы не исправите это в приемлемые сроки другим разработчикам присутствия разрешено **перезаписать** ваше присутствие в соответствии с изменениями.
-- Присутствие должно быть протестировано перед публикацией, чтобы подтвердить, что все работает как ожидалось.
-- Ваше присутствие должно иметь изображения и описания SFW независимо от того, является ли это NSFW или нет. Если у вас есть сайт `nsfw` , пожалуйста, добавьте тег `nsfw` в ваши метаданные.
-- Ваше присутствие должно **НЕ** быть для бесплатных доменов или узлов (например, .TK, [для всех бесплатных доменов], . F.GD, и т.д...), исключения могут быть сделаны, если представлено доказательство о том, что это платный домен.
-- Поле `smallImageKey` и `smallImageText` предназначено для дополнительного/вторичного контекста (например, "воспроизведение"/"приостановлено" для видео сайтов, "просмотр" для обычных сайтов и других случаев). Вы не можете продвигать профили Discord или ничего не связанного с PreMiD.
-- Требования для логотипов 1:1 (Square) в 512px, миниатюры, однако, должен быть [широких рекламных карт](https://i.imgur.com/3QfIc5v.jpg) или [скриншотов](https://i.imgur.com/OAcBmwW.png) если первый не доступен.
-- Присутствие должно иметь по крайней мере 1 тег, это требование по дизайну и может быть факультативным в будущем.
-- Поле `url` не должно включать `http://` или `https://`, ни параметры (например, присутствие для `https://www.google.com/search?gws_rd=ssl` будет иметь только `www.google.com` в поле `url`).
-- Описания и тэги всегда должны быть в массивах, даже если это только один элемент. Однако поле `url` должно быть строкой, только если это один домен.
-- Нестабильные сайты, которые постоянно меняют API/домены, случайным образом создать HTML-элементы или только что находясь в большой разработке, не разрешается и будет удален из магазина.
+- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+```bash
+presence
+└── dist
+    ├── metadata.json
+    └── presence.js
+```
+or if you're using TypeScript and `iframe` (the max you could reach) :
+```bash
+presence
+├── dist
+│   ├── metadata.json
+│   ├── presence.js
+│   └── iframe.js
+├── presence.ts
+├── iframe.ts
+└── tsconfig.json
+```
+
+Before you begin working on your presence, keep the following list in mind.
+- The presence **MUST** be related to the website you have chosen.
+- The presence **MUST NOT** be of any illegal websites. These include stressors, drugs, child porn, etc...
+- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
+- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
+- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
+- The presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
+- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
+- The presence **MUST** be tested before publishing to confirm that everything works as expected.
+- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
+- Your presence **CANNOT** manipulate local storage on the browser.
+- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
 
 ## Модификация
+> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
+> 
+> {.is-warning}
 
-В некоторых ситуациях присутствие может вести себя неожиданно или может использовать некоторые незначительные изменения для улучшения его функциональности. Вот скомпилированный список, который вы должны выполнить, чтобы изменить присутствие.
-- Вы не можете изменить создателя присутствия. Это применимо только в том случае, если вам разрешено переписать его. Вы можете добавить себя в качестве [автора](/dev/presence/metadata).
-- Убедитесь, что изменения полезны. Они могут включать исправления (код и тип), дополнения (описания и теги) и т.д...
-- Подтвердите, что ваши изменения работают перед публикацией. Не создавайте Pull Request'ы, не зная о результатах ваших изменений.
-- Не перезаписывайте и не перезаписывайте присутствие, если это не разрешено `Верификатором Присутствия` или сотрудником.
+In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you **MUST** follow to modify presences.
+- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
+- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
+- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
+- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 
 # Проверка
-> Когда вы делаете Pull requests о добавлении или изменении существующих присутствий, вы должны включать скриншот. Тем не менее, изменения метаданных присутствия/tsconfig не требуют скриншота. *Скриншот должен быть выгружен непосредственно на github с запросом на слияние, не используйте сайты посторонних пользователей.* 
-> 
-> {.is-danger}
 
-Для того, чтобы ваше присутствие достигло магазинов, он должен пройти процесс на github, чтобы подтвердить, что он работает как ожидалось. Вот несколько вещей, которые нужно посмотреть, когда вы сделаете ваш запрос на слияние.
+> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
 
-Наша команда по проверке наличия имеет свою роль, ищите `Верификатор Наличия` на сервере discord, чтобы узнать, кто вовлечен.
+For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
 
 1. Требуется два верификатора, чтобы подтвердить, что ваше присутствие соответствует стандартам. Если вы получаете запросы на изменение, сделайте все возможное для его исправления или оно не будет добавлено.
-2. Если мы запросим изменения и ваш Pull Request превышает **7 дней бездействия** без принятия необходимых мер, мы будем вынуждены закрыть его.
-3. Вы можете сделать скриншоты изменений с помощью другого пользователя. (к примеру, если вы не имеете доступа к автору по какой-либо причине).
-4. Если это обновление или патч, скриншот должен показывать новые дополнения, а не какие-либо старые функции из предыдущих Pull requests.
+2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
+3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (к примеру, если вы не имеете доступа к автору по какой-либо причине).
+4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
 5. Предоставленные скриншоты должны быть реальными, не редактированы.
 6. Любой внесенный код, который объединился с этим репозиторием, будет лицензирован на условиях **Общественной лицензии Mozilla 2.0**.
+7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
+8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
+10. Presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
+11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+12. Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
+13. Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
 
-
-После проверки ваш запрос на слияние будет принят с магазином.
+After all of the proper reviews have been met, your pull request will be merged with the store.
 
 # Структура (TypeScript)
-Вы можете выбрать, хотите ли вы программировать свое присутствие с помощью [JavaScript](https://www.javascript.com/) или  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) имеет некоторые острые определения, так что исправлять и идентифицировать ошибки проще. Если вы просто хотите использовать [JavaScript](https://www.javascript.com/) , вы можете перейти к [Структуре (JavaScript)](/dev/presence#structure-javascript).
+You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
 ## Установка
 1. Install [Git](https://git-scm.com/).
@@ -81,13 +109,12 @@ tags:
 ## Создание папок и файлов
 
 1. Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.
-2. Создайте `присутствие.ts` и файл `tsconfg.json`.
+2. Create a `presence.ts` and a `tsconfig.json` file inside.
 3. Создайте папку с именем `dist` внутри.
 4. Создайте файл `metadata.json` в папке `dist`.
 
 ## Заполнение файла tsconfig.json
-
-Пожалуйста, поместите следующий код в файл `tsconfg.json`.
+Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -96,26 +123,26 @@ tags:
   }
 
 ```
-Чтобы узнать больше о конфигурации TypeScript, нажмите [здесь](/dev/presence/tsconfig).
+To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
 ## Заполнение файла metadata.json
 
-Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file-2) , чтобы посмотреть, как заполнить его. Вы сможете легко нажать на кнопку назад в нижней части объяснения.
+Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
 
-Мы создали `metadata.json` создатель файла для ленивых peeps [здесь](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Приступая к работе
 
 ```javascript
 var presence = new Presence({
-    clientId: "0000000000000000", //ID клиента приложения, созданного на https://discordapp. om/developers/applications
-    mediaKeys: false //Включить использование и обнаружение нажатий медиа клавиш
+    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
+    mediaKeys: false //Enable use and detection of media key presses
 }),
 
-строк = присутствие. etStrings({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    пауза: "presence.playback. Выполнено"
-    //Вы можете использовать это для перевода строк
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
 });
 
 /*
@@ -125,68 +152,68 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // переменные наборы
+    // variable sets //
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Запуск функции отделяется от события UpdateData каждые 10 секунд, чтобы получить и установить переменные, которые UpdateData берет
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-. n("UpdateData", async () => {
-    /*UpdateData всегда стреляет, и поэтому следует использовать в качестве вашего цикла обновления или "tick". Это называется несколько раз в секунду, где это возможно.
+presence.on("UpdateData", async () => {
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
-    Рекомендуется настроить другую функцию вне этой функции события, которая изменит значения переменных и выполнит тяжелый подъем при вызове данных с API. /
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
     var presenceData = {
-        largeImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Art Assets*/
-        smallImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Арт Активов*/
-        smallImageText: "Некоторый наведении текста", //Текст, который отображается при наведении курсора на маленькое изображение
-        подробности: "Имя страницы просмотра", //Верхняя часть текста присутствия
-        состояния: "Чтение секции А", //Нижняя часть текста о присутствии
-        startTimestamp: 1577232000, //Отметка времени эпохи unix для начала подсчета времени с
-        на время окончания времени: 1577151472000 //Если вы хотите отобразить время осталось вместо устаревших, это метка времени unix эпохи, в которой таймер заканчивается
-    }; /*При необходимости вы можете установить здесь largeImageKey и изменить остальные в качестве субсвойств переменной, например presenceSata. Type = "blahblah"; тип примеров: подробности, состояние и т.д.*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
+        details: "Browsing Page Name", //The upper section of the presence text
+        state: "Reading section A", //The lower section of the presence text
+        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
+        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
+    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
 
-    если (presenceData. etails == null) {
-        //Это вызовет вызов, если вы не указали детали присутствия
-        присутствия. etTrayTitle(); //Очищает заголовок для mac пользователей
-        etActivity(); /*Обновите присутствие без данных, поэтому очистите его и сделайте большое изображение значком приложения Discord, и текст названия приложения Discord*/
+    if (presenceData.details == null) {
+        //This will fire if you do not set presence details
+        presence.setTrayTitle(); //Clears the tray title for mac users
+        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
     } else {
-        //Это вызовет выстрел, если вы установите детали присутствия
-        присутствия. etActivity(presenceData); //Обновление присутствия всеми значениями из объекта присутствияData
+        //This will fire if you set presence details
+        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
     }
 });
 ```
-Вы можете скопировать это в `присутствие.` файл и изменить значения. Установка всех значений производится внутри события updataData.
+You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
 
-Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG.
+For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
-Для получения дополнительной информации о классе Presence нажмите [здесь](/dev/presence/class).
+For more information about the Presence class click [here](/dev/presence/class).
 
 ## Не удается получить определенные данные?!
 
-Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или используются не активно. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Проверять их на консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
 2. Поиск (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Выполнить `document.querySelectorAll("iframe")`.
 
-Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
+If you find that your data is in a iFrame you need to do the following:
 1. Создайте файл `iframe.ts`.
 2. Установите iFrame в `true` в вашем файле метаданных.
 3. Заполнение файла iFrame .
 ```javascript
-var iframe = новый iFrame();
-iframe. n("Обновить данные", async () => {
+var iframe = new iFrame();
+iframe.on("UpdateData", async () => {
   /*
-  Получить все необходимые данные из iFrame сохранить их в переменных
-  и затем послать их с помощью iframe. end
+  Get all the data you need out of the iFrame save them in variables
+  and then sent them using iframe.send
   */
-  iframe.send({ //посылка данных
-    видео: видео,
-    раз: видео. Продолжительность
+  iframe.send({ //sending data
+    video: video,
+    time: video.duration
   }); 
 });
 ```
@@ -197,9 +224,9 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Примечание:** Это должно быть расположено вне события updateData.
+**Note:** This needs to be placed outside of the updateData event.
 ## Компиляция
-Откройте консоль в вашей папке и введите `tsc -w` для компиляции `присутствия.ts` в папку `/dist`.
+Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Структура (JavaScript)
 ## Клонирование проекта
@@ -216,22 +243,22 @@ presence.on("iFrameData", data => {
 
 ## Заполнение файла metadata.json
 
-Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file-2) , чтобы посмотреть, как заполнить его. Вы сможете легко нажать на кнопку назад в нижней части объяснения.
+Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
 
-Мы создали `metadata.json` создатель файла для ленивых peeps [здесь](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Приступая к работе
 
 ```javascript
 var presence = new Presence({
-    clientId: "0000000000000000", //ID клиента приложения, созданного на https://discordapp. om/developers/applications
-    mediaKeys: false //Включить использование и обнаружение нажатий медиа клавиш
+    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
+    mediaKeys: false //Enable use and detection of media key presses
 }),
 
-строк = присутствие. etStrings({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    пауза: "presence.playback. Выполнено"
-    //Вы можете использовать это для перевода строк
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
 });
 
 /*
@@ -241,68 +268,68 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // переменные наборы
+    // variable sets //
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Запуск функции отделяется от события UpdateData каждые 10 секунд, чтобы получить и установить переменные, которые UpdateData берет
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-. n("UpdateData", () => {
-    //UpdateData всегда стреляет, и поэтому следует использовать в качестве вашего цикла обновления или "tick". Это называется несколько раз в секунду, где это возможно.
+presence.on("UpdateData", () => {
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
-    //Рекомендуется настроить другую функцию вне этой функции события, которая изменит значения переменных и выполнит тяжелый подъем при вызове данных с API.
+    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
     var presenceData = {
-        largeImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Art Assets*/
-        smallImageKey: "key", /*Ключ (имя файла) Большого изображения присутствия. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, называется Арт Активов*/
-        smallImageText: "Некоторый наведении текста", //Текст, который отображается при наведении курсора на маленькое изображение
-        подробности: "Имя страницы просмотра", //Верхняя часть текста присутствия
-        состояния: "Чтение секции А", //Нижняя часть текста о присутствии
-        startTimestamp: 1577232000, //Отметка времени эпохи unix для начала подсчета времени с
-        на время окончания времени: 1577151472000 //Если вы хотите отобразить время осталось вместо устаревших, это метка времени unix эпохи, в которой таймер заканчивается
-    }; /*При необходимости вы можете установить здесь largeImageKey и изменить остальные в качестве субсвойств переменной, например presenceSata. Type = "blahblah"; тип примеров: подробности, состояние и т.д.*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
+        details: "Browsing Page Name", //The upper section of the presence text
+        state: "Reading section A", //The lower section of the presence text
+        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
+        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
+    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
 
-    если (presenceData. etails == null) {
-        //Это вызовет вызов, если вы не указали детали присутствия
-        присутствия. etTrayTitle(); //Очищает заголовок для mac пользователей
-        etActivity(); /*Обновите присутствие без данных, поэтому очистите его и сделайте большое изображение значком приложения Discord, и текст названия приложения Discord*/
+    if (presenceData.details == null) {
+        //This will fire if you do not set presence details
+        presence.setTrayTitle(); //Clears the tray title for mac users
+        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
     } else {
-        //Это вызовет выстрел, если вы установите детали присутствия
-        присутствия. etActivity(presenceData); //Обновление присутствия всеми значениями из объекта присутствияData
+        //This will fire if you set presence details
+        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
     }
 });
 ```
-Вы можете скопировать это в файл `presence.js` и изменить значения. Установка всех значений производится внутри события updataData.
+You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
 
-Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG.
+For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
-Для получения дополнительной информации о классе Presence нажмите [здесь](/dev/presence/class).
+For more information about the Presence class click [here](/dev/presence/class).
 
 ## Не удается получить определенные данные?!
 
-Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или используются не активно. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Проверять их на консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
 2. Поиск (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Выполнить `document.querySelectorAll("iframe")`.
 
-Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
+If you find that your data is in a iFrame you need to do the following:
 1. Создайте файл `iframe.js`.
 2. Установите iFrame в `true` в вашем файле метаданных.
 3. Заполнение файла iFrame .
 ```javascript
-var iframe = новый iFrame();
-iframe. n("Обновить данные", () => {
+var iframe = new iFrame();
+iframe.on("UpdateData", () => {
     /*
-    Собрать все данные из iFrame сохранить их в переменных
-    и затем послать их с помощью iframe. end
+    Get all the data you need out of the iFrame save them in variables
+    and then sent them using iframe.send
     */
-    iframe. end({ //отправка данных
-        видео: видео,
-        раз: видео. Продолжительность  
+    iframe.send({ //sending data
+        video: video,
+        time: video.duration  
     });
 });
 ```
@@ -313,9 +340,9 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Примечание:** Это должно быть расположено вне события updateData.
+**Note:** This needs to be placed outside of the updateData event.
 # Заполнение файла metadata.json
-Мы создали `metadata.json` создатель файла для ленивых peeps [здесь](https://eggsy.codes/projects/premid/mdcreator). Все еще предлагается прочитать это так, чтобы вы знали, как это работает.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
 {
@@ -332,25 +359,25 @@ presence.on("iFrameData", data => {
     "en": "DESCRIPTION"
   },
   "url": "URL",
-  "версия": "ВЕРСИЯ",
-  "логотип": "URL",
-  "Эскиз": "URL",
-  "цвет": "#HEX000",
-  "теги": ["КАТЕГОРИЯ", "TAG"],
-  "категория": "КАТЕГОРИЯ",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
+  "color": "#HEX000",
+  "tags": ["CATEGORY", "TAG"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": ложь
+  "iframe": false
 }
 ```
 
-Пожалуйста, скопируйте код выше и поместите его в файл `metadata.json`. Теперь необходимо изменить значения свойств. Пожалуйста, обратите внимание, что следующие свойства необязательны для использования в метаданных `. son` файл, если вы не планируете его использовать.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `участники`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 
-**Уточнение некоторых конфигураций значений:**
+**Clarifying some value presets:**
 <table>
   <thead>
     <tr>
@@ -384,7 +411,7 @@ presence.on("iFrameData", data => {
     <tr>
       <td style="text-align:left"><b>услуга</b>
       </td>
-      <td style="text-align:left">Название услуги, которую поддерживает это присутствие. <br>(должно быть тем же именем, что и папка, в которой находится все)</td>
+      <td style="text-align:left">Название услуги, которую поддерживает это присутствие. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
@@ -403,13 +430,13 @@ presence.on("iFrameData", data => {
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
-        <b>Этот URL должен соответствовать URL сайта, так как он определит, является ли это сайт инъекцией скрипта.</b><br> Do <b>NOT</b> add <code>https://</code> или <code>http://</code> внутри URL или слэш в конце:
-<code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. <b>НЕ</b> забудьте добавить его!<br>
-Вы можете добавить несколько URL-адресов, выполнив следующие действия:<br>
-<code>["URL1", "URL2", "ETC. ]</code><br>
-Вы также можете использовать регулярное выражение, также известное как Regex для этой задачи, разъяснение ниже.
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+<code>https://premid.app/</code> -> <code>premid.app</code><br>
+<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+You could also use regExp also known as Regex for this task, explaned further below.
       </td>
       <td style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
       </td>
@@ -419,13 +446,13 @@ presence.on("iFrameData", data => {
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Строка регулярных выражений, используемая для совпадения с url.<br>
-      регулярное выражение, или также известное как Regex, может быть использовано, если веб-сайт имеет несколько субдоменов.<br>
-Вы можете использовать следующее регулярное выражение:<br>
-<code>([a-z0-9]+)[.]домен[.]TLD"</code><br>
-TLD стойка для домена верхнего уровня для осевой сети: . om .net<br> 
-<code>([a-z0-9]+)</code> означает что-либо от 0 до 9.<br>
-        Вы можете протестировать свое регулярное выражение на <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left">A regular expression string used to match urls.<br>
+      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
+You could use the following regExp for that:<br>
+<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+TLD standing for Top Level Domain for axample: .com .net<br> 
+<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
+        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Да</code>
@@ -481,7 +508,7 @@ TLD стойка для домена верхнего уровня для осе
     <tr>
       <td style="text-align:left"><b>категория</b>
       </td>
-      <td style="text-align:left">Строка, используемая для представления категории присутствия. Смотрите действующие кухни <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">здесь</a>.</td>
+      <td style="text-align:left">Строка, используемая для представления категории присутствия. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
@@ -499,7 +526,7 @@ TLD стойка для домена верхнего уровня для осе
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. Подробнее см. в regExp.</td>
+      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Да</code>
@@ -508,7 +535,7 @@ TLD стойка для домена верхнего уровня для осе
   </tbody>
 </table>
 
-Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file) чтобы вернуться к объяснению TypeScript. Нажмите [здесь](/dev/presence#filling-in-the-metadatajson-file-1) чтобы вернуться к объяснению JavaScript.
+Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
 
 # Загрузка присутствия
 1. Откройте всплывающее окно и удерживайте кнопку <kbd>Shift</kbd> на клавиатуре.
@@ -518,15 +545,15 @@ TLD стойка для домена верхнего уровня для осе
 
 # Некоторые полезные вещи
 ## Быстрая загрузка
-Веб-сайт, на котором вы находитесь, автоматически перезагружается каждый раз, когда вы сохраняете файл в вашей папке.
+The website you are developing on is automatically reloading every time you save a file in your folder.
 
 ## Отладка
-- Вы можете поместить `console.log("Тест");` между вашим кодом и посмотреть, выводит ли консоль вашего браузера. Если да, то войдите и повторите попытку после следующей функции. Если нет, то произошла ошибка выше.
-- Если это не поможет вам, то попросите разработчика присутствия на нашем [сервере Discord](https://discord.gg/PreMiD) для помощи.
+- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
 # Объяснить файлы
 - [Класс присутствия](/dev/presence/class)
 - [Класс iFrame](/dev/presence/iframe)
-- [Файл метаданных](/dev/presence/metadata)
+- [Metadata File](/dev/presence/metadata)
 - [Настройка TypeScript](/dev/presence/tsconfig)
 {.links-list}
