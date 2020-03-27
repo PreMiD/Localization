@@ -81,13 +81,13 @@ Servisinizi ister [JavaScript](https://www.javascript.com/), isterseniz de [Type
 ## Klasörleri ve dosyaları oluşturma
 
 1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
-2. Bir `presence.ts` ve bir `tsconfg.json` dosyası oluşturun.
+2. Bir `presence.ts` ve bir `tsconfig.json` dosyası oluşturun.
 3. Ana klasörün içine `dist` adında bir klasör oluşturun.
 4. `dist` klasörünün içine de bir `metadata.json` dosyası oluşturun.
 
 ## tsconfig.json dosyasını doldurma
 
-Aşağıda gördüğünüz kodu `tsconfg.json` dosyasının içine yapıştırın.
+Aşağıda gördüğünüz kodu `tsconfig.json` dosyasının içine yapıştırın.
 ```javascript
 {
   "extends": "../tsconfig.json",
