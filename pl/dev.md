@@ -2,7 +2,7 @@
 title: Wprowadzenie
 description: Troche porad dla tych co chcą zacząć programować
 published: tak
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Prosimy o zachowanie struktury. Nie chcemy dezorganizowywać naszego projektu. C
 Po prostu otwórz Pull Request jednym z naszych [GitHubowych repozytoriach](https://github.com/PreMiD/) które chcesz wspomóc. Zajmiemy się wszystkim, nie martw się. Jeżeli to twój pierwszy raz kiedy tworzysz pull request, sprawdź [ten tutorial](https://help.github.com/en/articles/creating-a-pull-request) (po angielsku).
 
 # Zatwierdzanie
-Nasz główny cel to współpraca z użytkownikami więc bądź tak miły, uszanowany i informatywny jak to możliwe. Wystarczy zaczepić Developera na naszym [Discordowym serwerze](https://discord.gg/PreMiD) aby otrzymać rozpatrzenie na naszym GitHubie, albo i nie. Zależnie od jakości kodu, wyglądu aktywów i zwykłej funkcjonalności.
+Nasz główny cel to współpraca z użytkownikami więc bądź tak miły, uszanowany i informatywny jak to możliwe. Wystarczy zaczepić Developera na naszym [Discordowym serwerze](https://discord.gg/WvfVZ8T) aby otrzymać rozpatrzenie na naszym GitHubie, albo i nie. Zależnie od jakości kodu, wyglądu aktywów i zwykłej funkcjonalności.
