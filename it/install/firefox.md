@@ -2,7 +2,7 @@
 title: Firefox
 description: Per iniziare con un'installazione di PreMiD su Firefox
 published: vero
-date: 2020-01-19T23:42:18.246Z
+date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
