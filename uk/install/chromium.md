@@ -2,7 +2,7 @@
 title: Chromium
 description: Початок роботи із встановленням PreMiD на браузерах Chromium
 published: true
-date: 2020-01-19T23:42:16.572Z
+date: 2020-02-12T22:08:30.406Z
 tags:
 ---
 
