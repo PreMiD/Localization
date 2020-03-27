@@ -2,7 +2,7 @@
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
 published: vero
-date: 2020-01-19T23:42:31.382Z
+date: 2020-02-12T22:15:28.557Z
 tags:
 ---
 
