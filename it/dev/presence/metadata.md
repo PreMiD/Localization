@@ -2,7 +2,7 @@
 title: Metadario
 description: Contiene dati di base su Presence
 published: vero
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -86,7 +86,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
       <td style="text-align:left"><b>descrizione</b>
       </td>
       <td style="text-align:left">Breve descrizione della presenza, puoi usare la descrizione del servizio
-        se non hai idee. La tua descrizione deve avere valori di coppia chiave che indicano la lingua, e la descrizione in quella specifica lingua. Crea descrizioni con le lingue <i>che conosci</i>, i nostri traduttori modificheranno il file di metadati.</td>
+        se non hai idee. La tua descrizione deve avere valori di coppia chiave che indicano la lingua, e la descrizione in quella specifica lingua. Crea descrizioni con le lingue <i>che conosci</i>, i nostri traduttori modificheranno il file di metadati. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Oggetto</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -95,8 +95,8 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL del servizio.<br><b>Esempio:</b><code>vk. om</code><br>
-        <b>Questo url deve corrispondere all'url del sito web in quanto verrà utilizzato per rilevare dovunque o no questo sia il sito web a cui inserire lo script.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Stringa, Schieramento&lt;String&gt;</code>
       </td>
@@ -193,17 +193,21 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
 
 Se vuoi imparare le espressioni regolari, ecco alcuni siti web.
 
-### Apprendimento
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Informazioni sulle espressioni regolari](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Test
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Categorie di presenza
+## Presence languages
 
-Quando si rende la propria presenza, è necessario specificare una categoria sotto la quale la presenza cade. Questo è un elenco compilato delle categorie che puoi usare.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
