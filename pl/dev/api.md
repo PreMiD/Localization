@@ -2,7 +2,7 @@
 title: API
 description: Uzyskaj dostęp do źródeł i wykonaj działania przy użyciu API PreMiD
 published: tak
-date: 2020-01-19T23:42:12.088Z
+date: 2020-02-12T22:06:25.888Z
 tags:
 ---
 
