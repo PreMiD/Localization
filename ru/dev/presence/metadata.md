@@ -2,7 +2,7 @@
 title: Метадата.джсон
 description: Содержит основные данные о присутствии
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -87,7 +87,7 @@ tags:
       <td style="text-align:left"><b>описание</b>
       </td>
       <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
-        , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
+        , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Объект</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
@@ -96,8 +96,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
-        <b>Этот url должен совпадать с url сайта, так как он будет использоваться для определения где бы то ни было это сайт для инъекции скрипта.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
       </td>
@@ -194,17 +194,21 @@ tags:
 
 Если вы хотите изучать регулярные выражения, вот несколько сайтов.
 
-### Обучение
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Регулярная информация о выражениях](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Тестирование
+#### Testing
 
 • [Регламент](https://regexr.com/) • [Регламент 101](https://regex101.com/)
 
-## Категории присутствия
+## Presence languages
 
-При создании вашего присутствия, вы должны указать категорию, на которую попадает присутствие. Это скомпилированный список категорий, которые вы можете использовать.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
