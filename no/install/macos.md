@@ -22,7 +22,7 @@ The installation of the application is very important as the extension can not d
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Applikasjonen vil starte automatisk. Check for the symbol in your menu bar.
 
 > Ikke glem å [legge til** utvidelsen**](/install). 
 > 
