@@ -193,7 +193,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
 
 Pokud se chcete naučit regulární výrazy, zde je několik webových stránek.
 
-#### Learning
+#### Učení
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
