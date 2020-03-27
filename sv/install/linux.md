@@ -2,7 +2,7 @@
 title: Linux
 description: Komma igång med en PreMiD-installation på Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
+date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
@@ -11,30 +11,52 @@ tags:
 Installationen av programmet är mycket viktigt eftersom förlängningen inte kan göra något av sig själv.
 
 # Installera
-> Det finns inget officiellt installationsprogram för detta operativsystem. Det betyder att det inte finns något officiellt stöd för det. Du kan dock utbyta information med andra Linux-användare på vår [Discord-server](https://discord.gg/premid/).{.is-info}
 
-1. Install [NodeJS](https://nodejs.org/en/).
-2. Öppna en terminal.
-3. Klona utvecklingskatalogen: `git clone https://github.com/PreMiD/PreMiD.git`
-4. Ändra arbetskatalogen: `cd PreMiD/src`
-5. Installera beroenden och programmet: `npm install`
-6. Ändra arbetskatalogen: `cd ..`
-7. Typ: `npm kör init`
-8. Starta programmet: `npm start`
-
-Programmet startar automatiskt. Sök efter symbolen i menyraden.
-
-> Följande metoder är föråldrade och rekommenderas inte längre. Använd på egen risk. 
-> 
-> {.is-warning}
-
-## Arch Linux
-Om du är på Arch Linux eller en Arch baserad distribution, PreMiD finns tillgängligt på [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) under `premid`. Använd din favorit pakethanterare för att ta tag i den därifrån!
-
-## Andra distributioner
-- Installationsskript: `wget -qO- http://bit.ly/install-premid <unk> bash` eller `curl -sL https://bit. y/install-premid <unk> bash`, vänta på att den ska installeras, dubbelklicka på genvägen "PreMiD" skapad på skrivbordet, och det är det!
-- Om du vill avinstallera PreMiD, kan du köra `wget -qO- http://bit.ly/uninstall-premid <unk> bash` eller `curl -sL https://bit.ly/uninstall-premid <unk> bash`.
+<table>
+  <tr>
+    <th>Supported Linux Distribution</th>
+    <th>Method</th>
+    <th>Installing</th>
+    <th>Additional Notes</th>
+  </tr>
+  <tr>
+    <td>Alla</td>
+    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+    </td>
+    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Arch Linux</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td>Using yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+  </tr>
+  <tr>
+    <td>Using pakku :<br><code>pakku -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using trizen :<br><code>trizen -S premid</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
+    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Soon (TM), use the AppImage for now</td>
+  </tr>
+</table>
 
 > Glöm inte att [lägga till tillägget ****](/install).{.is-warning}
+
+# More info
+https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
