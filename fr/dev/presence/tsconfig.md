@@ -2,7 +2,7 @@
 title: Page sans titre
 description: Un peu d'aide pour TypeScript
 published: vrai
-date: 2020-01-19T23:42:36.260Z
+date: 2020-02-12T22:15:34.451Z
 tags:
 ---
 
