@@ -22,7 +22,7 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Az alkalmazás automatikus elindul. Check for the symbol in your menu bar.
 
 > Ne felejtsd el [hozzáadni a **bővítményt**](/install). 
 > 
