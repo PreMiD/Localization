@@ -1,6 +1,6 @@
 ---
 title: Närvaro klass
-description: Huvudklassen för varje PreMiD närvaro
+description: Huvudklassen för varje PreMiD presence
 published: true
 date: 2020-01-19T23:42:31.382Z
 tags:
@@ -10,7 +10,7 @@ tags:
 
 ## Introduktion
 
-`Närvaro` klassen är mycket användbar eftersom den har grundläggande metoder som vi behöver för att skapa en närvaro.
+`Närvaro` klassen är mycket användbar eftersom den har grundläggande metoder som vi behöver för att skapa en presence.
 
  När du skapar en klass måste du ange `clientId` egenskap.
 
