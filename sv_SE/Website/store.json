@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "Tillägget är inte anslutet.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "Kreatör",
     "description": "Creator of a presence"
@@ -6,6 +10,10 @@
   "store.cards.popular": {
     "message": "Denna närvaro är mycket populär runt användare.",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Presence av en officiell PreMiD-partner.",
+    "description": "Presence card partner flame"
   },
   "store.cards.verified": {
     "message": "Detta presence är godkänd av en verifierad utväcklare",
