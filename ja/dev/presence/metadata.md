@@ -2,7 +2,7 @@
 title: Metadata.json
 description: プレゼンスに関する基本情報を含むファイル
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -48,7 +48,7 @@ tags:
     <tr>
       <th style="text-align:left">変数</th>
       <th style="text-align:left">概要</th>
-      <th style="text-align:left">タイプ</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">省略可能</th>
     </tr>
   </thead>
@@ -83,7 +83,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">プレゼンスの短い説明です。 何も思いつかない場合、サービスの説明文を引用してもよいです。 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけ説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後に編集します。</td>
+      <td style="text-align:left">プレゼンスの短い説明です。 何も思いつかない場合、サービスの説明文を引用してもよいです。 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけ説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後に編集します。 View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>不可</code>
@@ -92,8 +92,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">サービスのURLです。<br><b>例:</b><code>vk.com</code><br>
-<b>このURLは、スクリプトを挿入するウェブサイトであるかどうかを検出するために使用されるため、ウェブサイトのURLと一致する必要があります。</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -189,13 +189,17 @@ tags:
 
 正規表現を覚えたい？じゃあこのサイトを見よう！
 
-### 習得
+#### 習得
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### 試用
+#### 試用
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
+
+## Presence languages
+
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
 
 ## Presenceのカテゴリー
 
