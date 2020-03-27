@@ -1,5 +1,5 @@
 ---
-title: Närvaro Utveckling
+title: Presence Utveckling
 description:
 published: true
 date: 2020-02-08T18:36:25.201Z
