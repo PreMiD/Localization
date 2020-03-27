@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Servis hakkında basit bilgileri bulunduran dosya
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -83,7 +83,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
+      <td style="text-align:left">Servisin kısa açıklamaları, eğer yazacak bir şey bulamıyorsanız servisin resmi açıklamalarını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Hayır</code>
@@ -92,7 +92,8 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">Servisin linki.<br><b>Örneğin:</b><code>vk.com</code><br>        <b>Girdiğiniz link, yaptığınız servisin linki olmalıdır. Girilen link eklenti tarafından kullanıcının hangi sitede olduğunu belirlemek ve işlem uygulamak için kullanılacaktır.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -188,13 +189,17 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
 
 Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz atabilirsiniz.
 
-### Öğrenme
+#### Öğrenme
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Test Etme
+#### Test Etme
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
+
+## Presence languages
+
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
 
 ## Servis kategorileri
 
