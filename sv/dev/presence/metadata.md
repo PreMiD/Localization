@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Innehåller grundläggande data om Presence
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -86,7 +86,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       <td style="text-align:left"><b>beskrivning</b>
       </td>
       <td style="text-align:left">Liten beskrivning av närvaron, du kan använda beskrivning av tjänsten
-        om du är utanför idéer. Din beskrivning måste innehålla nyckelparvärden som anger språket, och beskrivningen i det specifika språket. Gör beskrivningar med språken <i>som du känner</i>, våra översättare kommer att göra ändringar i din metadatafil.</td>
+        om du är utanför idéer. Din beskrivning måste innehålla nyckelparvärden som anger språket, och beskrivningen i det specifika språket. Gör beskrivningar med språken <i>som du känner</i>, våra översättare kommer att göra ändringar i din metadatafil. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Nej</code>
@@ -95,8 +95,8 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
     <tr>
       <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">URL till tjänsten.<br><b>Exempel:</b><code>vk. om</code><br>
-        <b>Denna url måste matcha webbadressen på webbplatsen eftersom den kommer att användas för att upptäcka var som helst eller inte detta är webbplatsen att injicera skriptet till.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Sträng, Array&lt;String&gt;</code>
       </td>
@@ -193,17 +193,21 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
 
 Om du vill lära dig reguljära uttryck, här är några webbplatser.
 
-### Lärande
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Information om reguljära uttryck](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testar
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Kategorier för närvaro
+## Presence languages
 
-När du gör din närvaro, måste du ange en kategori som närvaron faller under. Detta är en sammanställd lista över de kategorier som du kan använda.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
