@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základné údaje o Prítomnosti
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -83,7 +83,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>popis</b>
       </td>
-      <td style="text-align:left">Malý popis prítomnosti, môžete použiť popis služby        ak nemáte žiadne nápady. Váš popis musí mať hodnoty párov kľúčov ktoré označujú jazyk, a popis v tom konkrétnom jazyku. Urobte popisy s jazykmi <i>ktoré poznáte</i>, naši prekladatelia ich zmenia vo vašich metadata súborov.</td>
+      <td style="text-align:left">Malý popis prítomnosti, môžete použiť popis služby        ak nemáte žiadne nápady. Váš popis musí mať hodnoty párov kľúčov ktoré označujú jazyk, a popis v tom konkrétnom jazyku. Urobte popisy s jazykmi <i>ktoré poznáte</i>, naši prekladatelia ich zmenia vo vašich metadata súborov. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -92,7 +92,8 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL služby.<br><b>Napríklad:</b><code>vk.com</code><br>        <b>Táto url sa musí zhodovať s url webovej stránky pretože sa použije na zistenie toho či sa má alebo nemá skript vložiť do tejto stránky.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code>
       </td>
@@ -188,17 +189,21 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
 
 Ak sa chcete naučiť regulárne výrazy, tu je niekoľko webových stránok.
 
-### Učenie
+#### Learning
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testovanie
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Kategórie prítomností
+## Presence languages
 
-Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomnosť patrí. Toto je zostavený zoznam kategórií ktoré môžete použiť.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
