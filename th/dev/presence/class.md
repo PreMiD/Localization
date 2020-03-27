@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-01-19T23:42:31.382Z
+date: 2020-02-12T22:15:28.557Z
 tags:
 ---
 
@@ -103,7 +103,7 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
+      <td style="text-align:left">ราย​ละเอียด</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
