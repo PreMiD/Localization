@@ -47,6 +47,10 @@
     "message": "แอปพลิเคชันไม่มีตัวติดตั้งสำหรับระบบปฏิบัติการนี้ นั่นหมายความว่ายังไม่มีผู้เชี่ยวชาญดูแลมัน",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
+  "downloads.mobile.errorMessage": {
+    "message": "โปรดทราบว่า PreMiD ยังไม่พร้อมใช้งานบนมือถือในตอนนี้",
+    "description": "Downloads page warning when user is on mobile."
+  },
   "downloads.mobile.showDownloads": {
     "message": "แสดงการดาวน์โหลด",
     "description": "Little button on the downloads page for mobile users."
@@ -54,5 +58,13 @@
   "downloads.mobile.hideDownloads": {
     "message": "ซ่อนการดาวน์โหลด",
     "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัติการนี้เป็น {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น)",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น เวอร์ชั่นหลักของโปรแกรมคือเวอร์ชั่น {0}",
+    "description": "Tippy message of the version number when user is on Linux."
   }
 }
