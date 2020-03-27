@@ -2,7 +2,7 @@
 title: Primi passi
 description: Un piccolo consiglio per coloro che di recente hanno iniziato a programmare
 published: vero
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Per piacere, mantieni la struttura. Non vogliamo disorganizzare il nostro proget
 Basta aprire una Pull Request su uno dei nostri [repository GitHub](https://github.com/PreMiD/) a cui vuoi contribuire. Ci prenderemo cura del tuo bambino, non ti preoccupare. Se questa è la prima volta che fai una pull request, dai un'occhiata a questo [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Ottenendo l'approvazione
-Il nostro obiettivo principale è quello di lavorare con gli utenti, quindi cerca di essere il più cordiale, rispettoso e informativo possibile. Fai clic su uno sviluppatore nel nostro [server Discord](https://discord.gg/PreMiD) per ottenere la recensione su GitHub, o no. Dipende dalla qualità del codice, dall'aspetto degli asset e dalle funzionalità regolari.
+Il nostro obiettivo principale è quello di lavorare con gli utenti, quindi cerca di essere il più cordiale, rispettoso e informativo possibile. Fai clic su uno sviluppatore nel nostro [server Discord](https://discord.gg/WvfVZ8T) per ottenere la recensione su GitHub, o no. Dipende dalla qualità del codice, dall'aspetto degli asset e dalle funzionalità regolari.
