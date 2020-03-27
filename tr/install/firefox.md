@@ -2,7 +2,7 @@
 title: Firefox
 description: Firefox'da PreMiD kurulumuna başlarken
 published: true
-date: 2020-01-19T23:42:18.246Z
+date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
