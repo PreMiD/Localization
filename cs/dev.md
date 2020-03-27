@@ -2,7 +2,7 @@
 title: Začínáme
 description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
-date: 2020-02-08T04:46:24.725Z
+date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
@@ -39,4 +39,4 @@ Udržujte prosím strukturu. Nechceme náš projekt dezorganizovat. Chaotické s
 Stačí otevřít požadavek na natažení na jednom z našich [GitHub repozitářů](https://github.com/PreMiD/) , na které chcete přispět. Budeme se starat o vaše dítě, nebojte se. Pokud je toto vaše první podání žádosti o natažení, podívejte se na tento [tutoriál](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Získání schválení
-Naším hlavním cílem je spolupracovat s uživateli, aby se snažili být co nejvíce přátelský, respektující a informativní. Stačí si poradit vývojáře na našem [Discord serveru](https://discord.gg/PreMiD) , abyste získali toto hodnocení na GitHubu, nebo ne. Závisí na kvalitě kódu, vzhledu majetku a pravidelné funkčnosti.
+Naším hlavním cílem je spolupracovat s uživateli, aby se snažili být co nejvíce přátelský, respektující a informativní. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Závisí na kvalitě kódu, vzhledu majetku a pravidelné funkčnosti.
