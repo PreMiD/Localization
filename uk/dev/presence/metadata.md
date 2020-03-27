@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Містить основні дані про присутність
 published: true
-date: 2020-01-19T23:42:34658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -86,7 +86,7 @@ tags:
       <td style="text-align:left"><b>опис</b>
       </td>
       <td style="text-align:left">Маленький опис присутності, ви можете використовувати опис сервісу
-        , якщо ви не вийшли з ідей. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих.</td>
+        , якщо ви не вийшли з ідей. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Об'єкт</code>
       </td>
       <td style="text-align:left"><code>Ні</code>
@@ -95,8 +95,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>URL-адреса</b>
       </td>
-      <td style="text-align:left">URL сервісу<br><b>Приклад:</b><code>vk. om</code><br>
-        <b>Ця URL-адреса має збігатися з URL-адресою сайту, оскільки вона буде використовуватися для виявлення будь-якого місця чи ні для впровадження сайту.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
       </td>
@@ -193,13 +193,17 @@ tags:
 
 Якщо ви хочете вивчити регулярні вирази, ось декілька веб-сайтів.
 
-### Навчання
+#### Навчання
 
-• [RegexOne](https://regexone.com/) • [Подробиці про регулярні вирази](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Тестування
+#### Тестування
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
+
+## Presence languages
+
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
 
 ## Категорії присутності
 
