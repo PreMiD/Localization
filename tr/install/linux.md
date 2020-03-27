@@ -2,7 +2,7 @@
 title: Linux
 description: Linux'ta PreMiD kurulumuna başlarken
 published: true
-date: 2020-02-08T04:19:04.080Z
+date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
@@ -11,30 +11,52 @@ tags:
 Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
 # Yükleme
-> Bu işletim sistemi için resmi bir yükleyici yoktur. Bu, resmi bir destek olmadığı anlamına gelir. Ancak [Discord sunucumuzdaki ](https://discord.gg/premid/) diğer Linux kullanıcılarıyla bilgi alışverişi yapabilirsiniz
 
-1. [NodeJS](https://nodejs.org/en/)'yi kurun.
-2. Bir terminal açın.
-3. Depoyu klonlayın: `git clone https://github.com/PreMiD/PreMiD.git`
-4. Klonlanan klasöre girin: `cd PreMiD/src`
-5. Bağımlılıkları ve uygulamayı yükleyin: `npm install`
-6. Bir üst klasöre dönün: `cd ..`
-7. Şunu yazın: `npm run init`
-8. Uygulamayı çalıştırın: `npm start`
+<table>
+  <tr>
+    <th>Supported Linux Distribution</th>
+    <th>Method</th>
+    <th>Installing</th>
+    <th>Additional Notes</th>
+  </tr>
+  <tr>
+    <td>Tümü</td>
+    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+    </td>
+    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Arch Linux</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td>Using yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+  </tr>
+  <tr>
+    <td>Using pakku :<br><code>pakku -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using trizen :<br><code>trizen -S premid</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
+    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Soon (TM), use the AppImage for now</td>
+  </tr>
+</table>
 
-Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol edin.
+> **[Eklentiyi](/install)** de eklemeyi unutmayın.{.is-warning}
 
-> Aşağıdaki yöntemler kullanımdan kaldırılmıştır ve artık önerilmemektedir. Bunları kullanmak tamamen sizin kendi sorumluluğunuzdadır. 
-> 
-> {.is-warning}
-
-## Arch Linux
-Eğer Arch bazlı bir Linux dağıtımı kullanıyorsanız, PreMiD paketini Arch'ın kullanıcı deposu olan [AUR](https://aur.archlinux.org/packages/premid/)'dan `premid` ismiyle aratarak edinebilirsiniz. En sevdiğiniz paket yöneticinizi kullanarak dosyaları bu kaynaktan aldırın!
-
-## Diğer dağıtımlar
-- Yüklemek için şu kodu konsolunuza girin: `wget -qO- http://bit.ly/install-premid | bash` veya `curl -sL https://bit.ly/install-premid | bash`, kurulum için bekleyin ve uygulama çekmecenizden "PreMiD"i arayın, yükleme işlemi tamamlanmış demektir.
-- Eğer PreMİD'i kaldırmak istersenin bunu çalıştırabilirsiniz `wget -qO- http://bit.ly/uninstall-premid | bash` veya `curl -sL https://bit.ly/uninstall-premid | bash`.
-
-> Eklentiyi [eklemeyi ](/install) unutmayın.{.is-warning}
+# More info
+https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
