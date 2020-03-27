@@ -15,6 +15,10 @@
         "message": "Wiki",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Instalare",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Depanare",
         "description": "A page name"
