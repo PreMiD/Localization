@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contiene datos básicos sobre la presencia
 published: true
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -77,7 +77,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>servicio</b>
       </td>
       <td style="text-align:left">El título del servicio que soporta esta presencia.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
       </td>
@@ -86,7 +86,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas.</td>
+        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
@@ -95,8 +95,8 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL del servicio.<br><b>Ejemplo:</b><code>vk. om</code><br>
-        <b>Esta url debe coincidir con la url del sitio web ya que se utilizará para detectar dónde o no este es el sitio web al que se inyecta el script.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
@@ -107,7 +107,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">Una cadena de expresión regular usada para coincidir con las urls.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
       </td>
@@ -116,7 +116,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>versión</b>
       </td>
       <td style="text-align:left">Versión de su presencia.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
       </td>
@@ -125,7 +125,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>logotipo</b>
       </td>
       <td style="text-align:left">Enlace al tipo de logotipo de servicio&apos;s.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
       </td>
@@ -134,7 +134,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>thumbnail</b>
       </td>
       <td style="text-align:left">Enlace a su presencia.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
       </td>
@@ -144,7 +144,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       </td>
       <td style="text-align:left"><code>valor #HEX</code>. Recomendamos usar un color primario del servicio
         que tu presencia soporta.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
       </td>
@@ -163,7 +163,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>categoría</b>
       </td>
       <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
       </td>
@@ -181,7 +181,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
       <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar.</td>
-      <td style="text-align:left"><code>Cadena</code>
+      <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
       </td>
@@ -193,17 +193,21 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
 
 Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
-### Aprender
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Información de Expresiones regulares](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Pruebas
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Categorías de presencia
+## Presence languages
 
-Al hacer su presencia, debe especificar una categoría bajo la que cae la presencia. Esta es una lista compilada de las categorías que puede utilizar.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
