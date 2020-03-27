@@ -1,40 +1,62 @@
 ---
 title: Linux
-description: Primeiros passos com a instalação do PreMiD no Linux
+description: Primeiros passos para a instalação do PreMiD no Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
+date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
-> Antes de continuar, certifique-se de que seu sistema atenda a todos os [requisitos](/install/requirements).{.is-info}
+> Antes de irmos mais longe, certifique-se que o seu sistema cumpre todos os [requisitos](/install/requirements).{.is-info}
 
-A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
+A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
-# Instalação
-> Não existe um instalador oficial para esse sistema operacional. Isso significa que não temos suporte oficial para ele. No entanto, você ainda pode trocar informações com outros usuários Linux em nosso [ Servidor do Discord](https://discord.gg/premid/).{.is-info}
+# Instalar
 
-1. Instale o [NodeJS](https://nodejs.org/en/).
-2. Abra o Terminal.
-3. Clone o repositório: `git clone https://github.com/PreMiD/PreMiD.git`
-4. Mude a pasta de trabalho: `cd PreMiD/src`
-5. Instale as dependencias e a aplicação: `npm install`
-6. Mude a pasta de trabalho: `cd ..`
-7. Digite: `npm run init`
-8. Inicie a aplicação: `npm start`
+<table>
+  <tr>
+    <th>Supported Linux Distribution</th>
+    <th>Method</th>
+    <th>Installing</th>
+    <th>Additional Notes</th>
+  </tr>
+  <tr>
+    <td>Todos</td>
+    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+    </td>
+    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Arch Linux</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td>Using yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+  </tr>
+  <tr>
+    <td>Using pakku :<br><code>pakku -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using trizen :<br><code>trizen -S premid</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
+    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Soon (TM), use the AppImage for now</td>
+  </tr>
+</table>
 
-O aplicativo irá iniciar automaticamente. Cheque pelo símbolo na sua barra de menu.
+> Não se esqueça de <a href=/install">adicionar a **extensão**</a>.{.is-warning}
 
-> Os seguintes métodos estão depreciados e não são mais recomendados. Use por sua conta e risco. 
-> 
-> {.is-warning}
-
-## Arch Linux
-Se você está no Arch Linux ou em uma distribuição baseada em Arch, o PreMiD está disponível no [Repositório do Arch Linux](https://aur.archlinux.org/packages/premid/) (AUR) sob `premid`. Use o seu gerenciador de pacotes favorito para pegá-lo de lá!
-
-## Outras distribuições
-- Script de instalação: `wget -qO- http://bit.ly/install-premid | bash` ou `curl -sL https://bit.ly/install-premid | bash`, aguarde a instalação, clique duas vezes no atalho "PreMiD" criado no seu Desktop, e pronto!
-- Se desejar desinstalar o PreMiD, pode executar `wget -qO- http://bit.ly/uninstall-premid | bash` ou `curl -sL https://bit.ly/uninstall-premid | bash`.
-
-> Não se esqueça de [adicionar a **extensão**](/install).{.is-warning}
+# More info
+https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
