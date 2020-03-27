@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-02-08T18:36:25.201Z
+date: 2020-03-05T03:52:35.531Z
 tags:
 ---
 
@@ -13,55 +13,83 @@ tags:
 Версія `2.x` представляє [Крамницю присутностей](https://premid.app/store). Тепер користувачі можуть вручну додавати та видаляти улюблені присутності через користувацький інтерфейс [сайту](https://premid.app/).
 
 # Керівні принципи
-> Якщо ви не дотримуєтеся всіх інструкцій, то ваша присутність чи Pull Request буде видалено з GitHub. 
+> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
 > 
-> {.is-danger}
+> {.is-warning}
+
+> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> 
+> {.is-warning}
+
+When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
 
 ## Створення
+> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+> 
+> {.is-warning}
+
+- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+```bash
+presence
+└── dist
+    ├── metadata.json
+    └── presence.js
+```
+or if you're using TypeScript and `iframe` (the max you could reach) :
+```bash
+presence
+├── dist
+│   ├── metadata.json
+│   ├── presence.js
+│   └── iframe.js
+├── presence.ts
+├── iframe.ts
+└── tsconfig.json
+```
 
 Перш ніж почати працювати над присутністю, майте на увазі такий список.
-- Запит на злиття має бути завершеним, необхідно мати відповідну структуру файлів. Включаючи файл теку `dist`, файл `presence.js` і файл `metadata.json`.
-- Присутність **повинна** бути пов'язана з обраним вами веб-сайтом.
-- Присутність не має бути жодних незаконних веб-сайтів. Це включають стресори, наркотики, дитяче порно тощо...
-- Метадані присутності повинні містити добре написаний вміст, включаючи дійсні заголовки та описи.
-- Включені вами засоби масової інформації (icon/thumbnail) повинні бути пов'язані з веб-сайтом, і повинні бути зрозумілі з точки зору розміру та якості.
-- Структура файлу повинна бути чистою і управленою, вона не повинна мати випадкових файлів, що не містять жодної функції присутності.
-- Присутність **не може** мати якісь шкідливі наміри. До них відносяться особисті дані, що негативно впливають на поведінку вебсайту тощо...
-- Якщо ви проектуєте присутність веб-сайту і сайт зміниться в майбутньому, то ви **ARE** відповідає за оновлення присутності знову. Якщо ви не виправите це в межах прийнятного часового кадру, іншим розробникам присутності дозволено **перезаписати** вашу присутність, щоб дотримуватися змін.
-- Присутність повинна бути перевірена перед публікацією, щоб підтвердити, що все працює належним чином.
-- Ваша присутність повинна мати SFW зображення та описи незалежно від того, чи це NSFW чи ні. Якщо ваша присутність стосується сайту `nsfw` , додайте тег `nsfw` до ваших метаданих.
-- Ваша присутність **НЕ** повинна бути для безкоштовних доменів або хостів (наприклад, .tk, [усі безкоштовніх домени Freenom], . Можуть бути винятки.), показуючи, що вони є платним доменом.
-- Поля `smallImageKey` та `smallImageText` призначені для надання додатку/вторинного контексту (наприклад, "playing"/"paused" для відео-сайтів, "перегляд" для регулярних сайтів та інших випадків). Вам не дозволено рекламувати профілі Discord або будь-що, пов'язане з PreMiD.
-- Вимоги для логотипів - 1:1 (Квадрат) в 512px, однак ескізи, однак, має бути [широкі рекламні картки](https://i.imgur.com/3QfIc5v.jpg) або просто [знятки екрану](https://i.imgur.com/OAcBmwW.png), якщо перше недоступне.
-- Присутності повинні мати принаймні один тег, це вимога дизайну та може бути необов’язково в майбутньому.
-- Поле `url` не повинне включати `http://` або `https://`, ані параметри (наприклад, присутність `https://www.google.com/search?gws_rd=sl` буде мати лише `www.google.com` у `адресі`).
-- Описи і теги повинні завжди бути в масивах, навіть якщо це тільки один елемент. Однак поле `url` має бути лише рядком, якщо це один домен.
-- Нестабільні сайти, що постійно змінюють APIs/домени, випадкові HTML-елементи або просто присутні у великому розробці не допустимі і будуть видалені з магазину.
+- The presence **MUST** be related to the website you have chosen.
+- The presence **MUST NOT** be of any illegal websites. Це включають стресори, наркотики, дитяче порно тощо...
+- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
+- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
+- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
+- The presence **MUST NOT** have any malicious intentions. До них відносяться особисті дані, що негативно впливають на поведінку вебсайту тощо...
+- Якщо ви проектуєте присутність веб-сайту і сайт зміниться в майбутньому, то ви **ARE** відповідає за оновлення присутності знову. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
+- The presence **MUST** be tested before publishing to confirm that everything works as expected.
+- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
+- Your presence **CANNOT** manipulate local storage on the browser.
+- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
 
 ## Модифікація
+> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
+> 
+> {.is-warning}
 
-У деяких ситуаціях присутність може поводитися несподівано або може використати деякі незначні зміни для покращення свого функціоналу. Ось скомпільований список, який ви повинні слідувати для зміни присутностей.
-- Вам не дозволено змінювати творця присутності. Це можна застосувати лише в тому випадку, якщо ви можете повторно записати це. Ви можете додати себе в якості [вкладника](/dev/presence/metadata).
-- Переконайтеся, що зміни корисні. Це може включати виправлення помилок (код та tyпо), доповнень (описи і теги), і т.д...
+У деяких ситуаціях присутність може поводитися несподівано або може використати деякі незначні зміни для покращення свого функціоналу. Here is a compiled list that you **MUST** follow to modify presences.
+- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
+- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
+- Переконайтеся, що зміни корисні. Це може включати виправлення помилок (код та tyпо), доповнень (описи і теги), і т.д... Do not change images if they are not outdated and have a decent resolution.
 - Підтвердьте ваші зміни перед публікацією. Не створюйте запити на злиття, не знаючи результатів ваших змін.
-- Не перезаписуйте інформацію про присутність без дозволу `Верифікатора присутностей` або співробітника члена.
 
 # Верифікація
-> Коли ви робите pull request на додавання або змінненя існуючих присутностей, ви повинні додати знімок екрану. Однак, модифікації для метаданих присутності/tsconfig не потребують знімку екрану. *Ваш знімок екрану повинен бути завантажений безпосередньо в github за допомогою pull request, не використовуйте веб-сайти із сторонніми образами.* 
-> 
-> {.is-danger}
 
-Для того, щоб ваша присутність могла знаходитись в магазинах, вона повинна пройти процес роботи на Github щоб переконатися, що присутність працює належним чином. Ось декілька речей, на які потрібно подивитися, коли ви робите pull request.
+> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
 
-Наша команда верифікації присутності відіграє свою власну роль, використовуйте `Presence Verifier` на сервері, щоб дізнатися, хто в ньому бере участь.
+For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
 
 1. Потрібні дві перевірки, щоб переконатися, що ваша присутність відповідає стандартам. Якщо трапиться зміна ваших клієнтів, докладіть правильних зусиль для того, щоб виправити це, або ж додавання не буде.
-2. Якщо ми запросимо зміни і ваш запит на злиття перевищить **7 днів бездіяльності** без внесення необхідних помилок. Ми будемо змушені закрити його.
-3. Ви можете робити знімки змін, внесених за допомогою іншого користувача. (напр. її автор якщо ви не зможете отримати до нього доступ з будь-якої причини).
-4. Якщо це оновлення або патчі, знімок екрана повинен показати нові доповнення, а не будь-які старі pull-запити.
+2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
+3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (напр. її автор якщо ви не зможете отримати до нього доступ з будь-якої причини).
+4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
 5. Надані знімки мають бути справжні, а не відредаговані.
 6. Будь-який внесений код, що об'єднується з цим репозиторієм, буде ліцензований за **Mozilla Public License 2.0**.
-
+7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
+8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+9. Вимоги для логотипів - 1:1 (Квадрат) в 512px, однак ескізи, однак, має бути [широкі рекламні картки](https://i.imgur.com/3QfIc5v.jpg) або просто [знятки екрану](https://i.imgur.com/OAcBmwW.png), якщо перше недоступне.
+10. Presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
+11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+12. Описи і теги повинні завжди бути в масивах, навіть якщо це тільки один елемент. Однак поле `url` має бути лише рядком, якщо це один домен.
+13. Нестабільні сайти, що постійно змінюють APIs/домени, випадкові HTML-елементи або просто присутні у великому розробці не допустимі і будуть видалені з магазину.
 
 Після того, як усі правильні відгуки були досягнуті, ваш запит на злиття буде злитий з магазином.
 
@@ -81,13 +109,12 @@ tags:
 ## Створення папок і файлів
 
 1. Створіть папку з **іменем** (не URL) сервісу, який потрібно підтримати.
-2. Створіть `присутність,` і файл `tsconfg.json` всередині нього.
+2. Створіть `присутність,` і файл `tsconfig.json` всередині нього.
 3. Створіть папку з ім'ям `dist` всередині.
 4. Створіть файл `metadata.json` всередині теки `dist`.
 
 ## Заповнення в файлі tsconfig.json
-
-Будь ласка, розмістіть наступний код всередині файлу `tsconfg.json`.
+Будь ласка, розмістіть наступний код всередині файлу `tsconfig.json`.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -522,7 +549,7 @@ TLD стояння для домену Top рівень: . om .net<br>
 
 ## Відлагодження
 - Ви можете помістити `console.log("Test");` між вашим кодом і подивитися, чи ваша консоль браузеру дасть вам цей результат. Якщо так, то продовжуйте і спробуйте знову після наступної функції. Якщо не тоді, то зверху є помилка.
-- Якщо це не допоможе Вам, то попросіть розробника на нашому [сервері Discord](https://discord.gg/PreMiD) допомогти.
+- Якщо це не допоможе Вам, то попросіть розробника на нашому [сервері Discord](https://discord.gg/WvfVZ8T) допомогти.
 
 # Файли пояснюються
 - [Клас присутності](/dev/presence/class)
