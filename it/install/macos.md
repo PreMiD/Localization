@@ -2,7 +2,7 @@
 title: macOS
 description: Per iniziare con un'installazione di PreMiD su macOS
 published: vero
-date: 2020-01-19T23:42:21.676Z
+date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
