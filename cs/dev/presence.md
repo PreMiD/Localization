@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-Before you begin working on your presence, keep the following list in mind.
+Než začnete pracovat na své přítomnosti, mějte na paměti následující seznam.
 - The presence **MUST** be related to the website you have chosen.
 - The presence **MUST NOT** be of any illegal websites. These include stressors, drugs, child porn, etc...
 - The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
