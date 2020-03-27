@@ -1,24 +1,24 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
-published: 是
+description: 开始在 Chromeium 内核的浏览器上安装 PreMiD
+published: true
 date: 2020-01-19T23:42:16.572Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+安装扩展程序非常重要，因为应用程序本身无法做任何事情。
 
-# 安裝
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+# 安装
+### Chrome、Edge等
+1. [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
+2. 选择 **Chromium**。
+3. 点击 **添加到 Chrome**。
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. 添加 **[安装 Chrome 扩展](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. 添加 [我们的扩展](https://premid.app/downloads)。
 
-> Do not forget to [add the **application**](/install). 
+> 不要忘记 [安装 **应用程序**](/install)。 
 > 
 > {.is-warning}
 
