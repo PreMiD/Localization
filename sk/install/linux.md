@@ -2,7 +2,7 @@
 title: Linux
 description: Začíname s PreMiD inštaláciou na Linuxe
 published: true
-date: 2020-02-08T04:19:04.080Z
+date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
@@ -11,30 +11,52 @@ tags:
 Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže robiť nič samé o sebe.
 
 # Inštalácia
-> Pre tento operačný systém neexistuje žiadny oficiálny inštalátor. To znamená že neexistuje žiadna oficiálna podpora. Môžete si však vymieňať informácie s ostatnými používateľmi systému Linux na našom [Discord serveri](https://discord.gg/premid/).{.is-info}
 
-1. Nainštalujte si [NodeJS](https://nodejs.org/en/).
-2. Otvorte terminál.
-3. Skopírujte:`git clone https://github.com/PreMiD/PreMiD.git`
-4. Zmeňte pracovnú adresáru: `cd PreMiD/src`
-5. Nainštalujte závislosti a aplikáciu: `npm install`
-6. Zmeňte pracovnú adresáru: `cd ..`
-7. Vpíšte: `npm run init`
-8. Spusťte aplikáciu: `npm start`
-
-Aplikácia sa spustí samostatne. Skontrolujte či sa na menu bare nachádza symbol.
-
-> Nasledujúce metódy sú zastarané a už sa neodporúčajú. Pokračujte na vlastné riziko. 
-> 
-> {.is-warning}
-
-## Arch Linux
-If you are on Arch Linux or an Arch based distribution, PreMiD is available on the [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) under `premid`. Použite svojho obľúbeného správcu balíkov a získajte ho odtiaľto!
-
-## Iné distribúcie
-- Inštalačný skript: `wget -qO- http://bit.ly/install-premid | bash` alebo `curl -sL https://bit.ly/install-premid | bash`, počkajte pokým sa to nenainštaluje, dvakrát kliknite na "PreMiD" odkaz vytvorený na pracovnej ploche, a to je všetko!
-- Ak chcete odinštalovať PreMiD, môžete spustiť `wget -qO- http://bit.ly/uninstall-premid | bash` alebo `curl -sL https://bit.ly/uninstall-premid | bash`.
+<table>
+  <tr>
+    <th>Supported Linux Distribution</th>
+    <th>Method</th>
+    <th>Installing</th>
+    <th>Additional Notes</th>
+  </tr>
+  <tr>
+    <td>Všetko</td>
+    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+    </td>
+    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Arch Linux</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td>Using yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+  </tr>
+  <tr>
+    <td>Using pakku :<br><code>pakku -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using trizen :<br><code>trizen -S premid</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
+    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Soon (TM), use the AppImage for now</td>
+  </tr>
+</table>
 
 > Nezabudnite [pridať **rozšírenie**](/install).{.is-warning}
+
+# More info
+https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
