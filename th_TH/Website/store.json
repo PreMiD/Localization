@@ -11,6 +11,10 @@
     "message": "พรีเซ้นนี้เป็นที่นิยมมากในหมู่ผู้ใช้",
     "description": "Presence card popular flame"
   },
+  "store.cards.partner": {
+    "message": "Presence ของพาร์ทเนอร์อย่างเป็นทางการของ PreMiD",
+    "description": "Presence card partner flame"
+  },
   "store.cards.verified": {
     "message": "Presence นี้ได้รับการอนุมัติจากผู้พัฒนาแล้ว",
     "description": "Verified badge hover message"
