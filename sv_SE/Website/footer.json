@@ -51,6 +51,10 @@
 		"message": "Översätt",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Arbeta för oss!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Hjälp",
 		"description": "Help section"
@@ -98,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "Hemsidan sköt av {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klicka här för att se övriga partners & sponsorer.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

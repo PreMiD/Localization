@@ -19,6 +19,10 @@
     "message": "{0} kvar",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
+  "home.examples.timestamp2": {
+    "message": "{0} förflutit",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
   "home.examples.status.playing": {
     "message": "Spelar upp",
     "description": "Discord Rich Presence -> small image text;"
@@ -74,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Joina våran server",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Välj språk på webbplatsen",
+    "description": "Tippy content of the language selector."
   }
 }
