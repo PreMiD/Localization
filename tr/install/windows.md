@@ -10,7 +10,7 @@ tags:
 
 Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
-# Yükle
+# Yükleme
 1. [Buraya](https://premid.app/downloads) tıklayarak "İndir" sayfamıza gidin.
 2. **Windows**'u seçin.
 3. Yükleyiciyi açın.
