@@ -12,7 +12,7 @@ tags:
 
 Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
-# Instalovat
+# Instalace
 1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
 2. Vyberte **OS X**.
 3. V případě potřeby rozbalte archiv.
