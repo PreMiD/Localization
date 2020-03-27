@@ -36,7 +36,7 @@
         "description": "A page name"
     },
     "premid.pagePresenceDev": {
-        "message": "Närvaro Utveckling",
+        "message": "Presence Utveckling",
         "description": "A page name"
     }
 }
