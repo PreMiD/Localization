@@ -2,7 +2,7 @@
 title: การติดตั้ง
 description: วิธีติดตั้ง PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
+date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
