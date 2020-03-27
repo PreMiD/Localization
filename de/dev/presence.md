@@ -1,9 +1,9 @@
 ---
 title: Präsenzentwicklung
-description:
+description: 
 published: true
-date: 2020-02-08T18:36:25.201Z
-tags:
+date: 2020-02-16T14:19:59.468Z
+tags: 
 ---
 
 > Alle Präsenzen werden jetzt hier gespeichert: https://github.com/PreMiD/Presences 

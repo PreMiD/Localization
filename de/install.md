@@ -2,8 +2,8 @@
 title: Installation
 description: So installierst Du PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:15:22.429Z
+tags: 
 ---
 
 > Bevor Du fortfährst, stelle sicher, dass Dein System alle [Anforderungen](/install/requirements) erfüllt. 

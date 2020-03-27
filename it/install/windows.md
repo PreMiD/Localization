@@ -1,9 +1,9 @@
 ---
 title: Finestre
 description: Per iniziare con l'installazione di PreMiD su Windows
-published: vero
-date: 2020-02-07T00:44:57.532Z
-tags:
+published: true
+date: 2020-02-12T22:18:34.785Z
+tags: 
 ---
 
 > Prima di proseguire, assicurati che il tuo sistema soddisfi tutti i [requisiti](/install/requirements).{.is-info}

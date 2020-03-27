@@ -2,8 +2,8 @@
 title: PreMiD névjegye
 description: A PreMiD alapvető funkciói
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-12T22:07:58.006Z
+tags: 
 ---
 
 A PreMiD egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad nézett/hallgatott forrásokat a Discord játék tevékenységi felületen. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.

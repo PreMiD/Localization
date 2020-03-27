@@ -1,9 +1,9 @@
 ---
-title: Fehlerbehebung
+title: Problemlösung
 description: Alles, um dein Problem zu lösen
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:06:22.754Z
+tags: 
 ---
 
 > Stelle sicher, dass du die Erweiterung **und** die Anwendung installiert hast! 

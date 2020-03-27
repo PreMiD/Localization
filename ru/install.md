@@ -2,15 +2,15 @@
 title: Установка
 description: Как установить PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:22:21.616Z
+tags: 
 ---
 
 > Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements). 
 > 
 > {.is-info}
 
-> **Он важен** чтобы установить **как и** наше ** приложение** так и **расширение**! 
+> **It is necessary** to install **both** the **application** and the **extension**! 
 > 
 > {.is-warning}
 

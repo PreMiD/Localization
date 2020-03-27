@@ -2,8 +2,8 @@
 title: Clase de presencia
 description: La clase principal para cada presencia PreMiD
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-12T22:27:27.371Z
+tags: 
 ---
 
 # Clase de presencia
@@ -67,10 +67,10 @@ Establece el título de la bandeja en la barra de menús.
 
 ### `getStrings(objeto)`
 
-Permite obtener texto traducido a través de la extensión. Debe proporcionar `Objeto` con claves siendo la clave para la string, `valor clave` es el valor de la string. Puedes encontrar algunas de las strings usando el siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
+Permite obtener texto traducido a través de la extensión. Debe proporcionar `Objeto` con claves siendo la clave para la cadena, `valor clave` es el valor de cadena. Puedes encontrar algunas de los textos usando la siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
 
 ```typescript
-// Devuelve las strings `Playing` y `Paused`
+// Devuelve las cadenas `Playing` y `Paused`
 // desde la extensión.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
@@ -103,15 +103,15 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">La primera línea en la presencia, generalmente usada como cabecera.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">detalles</td>
+      <td style="text-align:left">La primera línea en la presencia, usualmente usada como cabecera.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
+      <td style="text-align:left">estado</td>
       <td style="text-align:left">Segunda línea en la presencia.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
@@ -135,22 +135,21 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">ampliar la clave</td>
       <td style="text-align:left">Define el logotipo de la presencia.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">pequeña imagen clave</td>
       <td style="text-align:left">Define el icono pequeño junto al logo de la presencia.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Define el texto que se mostrará al usuario al pasar el cursor sobre el icono 
-        pequeño.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">pequeño texto</td>
+      <td style="text-align:left">Define el texto que se mostrará al usuario al pasar el cursor sobre el icono pequeño.</td>
+      <td style="text-align:left"><code>Cadena</code>
       </td>
     </tr>
   </tbody>
@@ -159,10 +158,10 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
 ```typescript
 var presenceData: presenceData = {
     details: "Mi título",
-    state: "Mi descripción",
+    estado: "Mi descripción",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Has pasado el ratón, y ahora qué? ,
+    smallImageText: "Tú me has pasado el ratón y ahora qué? ,
     startTimestamp: 1564444631188,
     endTimestamp: 15644634734
 };
@@ -180,7 +179,7 @@ presence.on("UpdateData", async () => {
 
 Hay algunos eventos disponibles:
 
-#### `UpdateData`
+#### `Actualizardatos`
 
 Este evento es lanzado cada vez que la presencia es actualizada.
 

@@ -2,8 +2,8 @@
 title: Fönster
 description: Komma igång med en PreMiD-installation i Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:23:45.234Z
+tags: 
 ---
 
 > Innan du går vidare, se till att ditt system uppfyller alla [krav](/install/requirements).{.is-info}

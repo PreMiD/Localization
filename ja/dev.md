@@ -2,8 +2,8 @@
 title: PreMiD開発入門
 description: 近いうちにコーディングを始めたひとのためのアドバイス
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-16T14:20:47.261Z
+tags: 
 ---
 
 > ソースコードエディターが必要です。 Visual Studio Codeをおすすめしています。 

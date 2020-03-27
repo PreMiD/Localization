@@ -1,26 +1,26 @@
 ---
-title: Presence klasė
-description: Pagrindinė klasė kiekvieno PreMiD presence
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-12T22:30:30.276Z
+tags: 
 ---
 
-# Presence klasė
+# Presence Class
 
-## Įvadas
+## Introduction
 
-`Presence` klasė yra labai naudinga, nes joje yra pagrindiniai metodai, kurių mums reikia norint sukurti presence.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
  When you create a class you must specify `clientId` property.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Pavyzdinis clientId
+    clientId: "514271496134389561" // Example clientId
 });
 ```
 
-`Presence` klasė turi dvi savybės.
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
@@ -98,7 +98,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Aprašymas</th>
-      <th style="text-align:left">Tipas</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>

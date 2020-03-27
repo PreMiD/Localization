@@ -2,8 +2,8 @@
 title: Firefox
 description: Erste Schritte mit einer PreMiD-Installation unter Firefox
 published: true
-date: 2020-01-19T23:42:18.246Z
-tags:
+date: 2020-02-12T22:15:07.507Z
+tags: 
 ---
 
 Die Installation der Erweiterung ist sehr wichtig, da die Anwendung allein nicht funktionieren würde.

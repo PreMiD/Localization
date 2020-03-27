@@ -1,77 +1,77 @@
 ---
-title: Kelas Presence
-description: Kelas utama untuk setiap presence PreMiD
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-12T22:29:17.410Z
+tags: 
 ---
 
-# Kelas Presence
+# Presence Class
 
-## Perkenalan
+## Introduction
 
-Kelas `Presence` sangat berguna karena memiliki metode dasar yang kita perlukan untuk membuat presence.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
- Saat Anda membuat kelas, Anda harus menentukan properti `clientId`.
+ When you create a class you must specify `clientId` property.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Contoh clientId
+    clientId: "514271496134389561" // Example clientId
 });
 ```
 
-Ada dua properti yang tersedia untuk kelas `Presence`.
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
-Properti `clientId` harus disediakan untuk membuat presence Anda berfungsi, karena properti menggunakan id aplikasi Anda untuk menampilkan logo dan asetnya.
+`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
+You can get it on your [applications page](https://discordapp.com/developers/applications).
 
-#### `tombolmedia`
+#### `mediaKeys`
 
-Properti ini memberi tahu aplikasi kami untuk mendaftarkan ikatan kunci untuk kunci media dan memungkinkan kami menggunakan acara `MediaKeys` untuk kelas `Presence`.
+This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
 
-Properti ini tidak diperlukan, tetapi jika Anda ingin mengaktifkan kunci media, Anda harus mengaturnya menjadi `true`.
+This property is not required, but if you want to enable media keys you should set it to `true`.
 
-**Semua acara kunci media dinonaktifkan untuk sementara waktu!**
+**All mediaKey events are temporarily disabled!**
 
 ```typescript
 let presence = new Presence({
     clientId: "514271496134389561",
-    mediaKeys: true // Mengizinkan pengguna menggunakan kunci media
+    mediaKeys: true // Allows users to use media keys
 });
 ```
 
-## Metode
+## Methods
 
 ### `setActivity(presenceData, Boolean)`
 
-Tetapkan aktivitas profil Anda sesuai dengan data yang disediakan.
+Sets your profile activity according to provided data.
 
-Parameter pertama memerlukan antarmuka `presenceData` untuk mendapatkan semua informasi yang ingin Anda tampilkan di profil Anda.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Selalu gunakan `true` jika Anda memberikan cap waktu di `presenceData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Menghapus aktivitas Anda saat ini, pengikat tombol dan judul baki.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Metode ini hanya bekerja di Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
-Setel judul baki pada bilah Menu.
+Sets the tray title on the Menubar.
 
 ### `getStrings(Object)`
 
-Memungkinkan Anda mendapatkan string yang diterjemahkan dari ekstensi. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. Anda dapat menemukan beberapa string menggunakan titik akhir ini: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Mengembalikan string `Playing` dan` Paused`
-// dari ekstensi.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,76 +80,76 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Mengembalikan variabel dari situs web jika ada.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Ini akan mencatat "konten Variabel"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` Antarmuka
+## `presenceData` Interface
 
-Antarmuka `presenceData` disarankan untuk digunakan saat Anda menggunakan metode `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Deskripsi</th>
-      <th style="text-align:left">Tipe</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detail</td>
-      <td style="text-align:left">Baris pertama di presence Anda, biasanya digunakan sebagai tajuk.</td>
+      <td style="text-align:left">details</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Baris kedua di presence Anda.</td>
+      <td style="text-align:left">Second line in your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Menentukan waktu saat ini.<br>
-        Digunakan jika Anda ingin menampilkan berapa banyak <code>jam:menit:detik</code> tersisa.
-          <br>Anda harus mengonversi waktu Anda menjadi <code>timestamp</code> atau Anda akan salah
-          hitungan mundur.
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Menentukan durasi penuh.
-        <br>Digunakan jika Anda ingin menampilkan berapa <code>jam:menit:detik</code> tersisa.
-          <br>Anda harus mengonversi waktu Anda menjadi <code>timestamp</code> atau Anda akan salah
-          hitungan mundur.
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Menentukan logo untuk presence.</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Menentukan ikon kecil di sebelah logo presence.</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Menentukan teks yang akan ditampilkan kepada pengguna ketika ia akan mengarahkan ikon
-        kecil.</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -158,33 +158,33 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Judul saya",
-    state: "Deskripsi saya",
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Anda membawa saya, dan bagaimana sekarang?",
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Acara
+## Events
 
-Acara memungkinkan Anda untuk mendeteksi dan menangani beberapa perubahan atau panggilan yang dilakukan. Anda dapat berlangganan acara menggunakan metode `on`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Lakukan sesuatu saat data diperbarui.
+    // Do something when data gets updated.
 });
 ```
 
-Ada beberapa acara yang tersedia:
+There are few events available:
 
 #### `UpdateData`
 
 This event is fired every time the presence is being updated.
 
-#### `MediaKeys` (dinonaktifkan)
+#### `MediaKeys` (disabled)
 
 Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
 

@@ -2,8 +2,8 @@
 title: Installation
 description: PreMiD telepítési útmutató
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:17:41.067Z
+tags: 
 ---
 
 > A folytatás előtt, győződj meg arról, hogy az általad használt rendszer megfelel a [követelményeknek](/install/requirements). 

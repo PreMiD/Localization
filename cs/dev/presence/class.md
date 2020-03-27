@@ -2,8 +2,8 @@
 title: Třída přítomnosti
 description: Hlavní třída pro každou přítomnost PreMiD
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-12T22:26:33.453Z
+tags: 
 ---
 
 # Třída přítomnosti

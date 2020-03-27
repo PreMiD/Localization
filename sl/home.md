@@ -2,8 +2,8 @@
 title: Home
 description: Official Documentation for v2
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-12T22:23:15.903Z
+tags: 
 ---
 
 > :warning: The documentation is still being edited! Some pages may be incomplete or missing. 

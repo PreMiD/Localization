@@ -2,8 +2,8 @@
 title: Linux
 description: Aan de slag met de PreMiD installatie op Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-16T14:21:26.679Z
+tags: 
 ---
 
 > Voordat je verder gaat, zorg ervoor dat je systeem voldoet aan alle [vereisten](/install/requirements).{.is-info}

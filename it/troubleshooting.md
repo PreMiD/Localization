@@ -1,9 +1,9 @@
 ---
 title: Risoluzione problemi
 description: Tutto per risolvere il tuo problema
-published: vero
-date: 2020-01-19T23:42:09.728Z
-tags:
+published: true
+date: 2020-02-12T22:08:56.972Z
+tags: 
 ---
 
 > Assicurati di avere l'estensione **e** l'applicazione installata! 

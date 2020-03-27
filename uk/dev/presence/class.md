@@ -2,8 +2,8 @@
 title: Клас присутності
 description: Основний клас для кожної присутності PreMiD
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-12T22:33:53.735Z
+tags: 
 ---
 
 # Клас присутності
@@ -12,19 +12,19 @@ tags:
 
 Клас `присутність` є дуже корисним, оскільки в ньому є основні методи, які нам потрібні для створення виразу.
 
- Якщо ви створите клас, вам необхідно вказати `clientId` властивість.
+ Якщо ви створите предмет, вам необхідно вказати `clientId` властивість.
 
 ```typescript
 let presence = new Presence({
-clientId: "514271496134389561" // Приклад clientId
+    clientId: "514271496134389561" // Приклад clientId
 });
 ```
 
-Тут наявні дві властивості для класу`Presence`.
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
-Параметр`clientId` повинен бути показаний, щоб ваша присутність працювала, оскільки він використовує ідентифікатор вашого застосунку, щоб відобразити його логотип та активи.
+`параметр clientId` повинен бути показаний, щоб ваша присутність працювала, оскільки він використовує ідентифікатор вашого застосунку, щоб відобразити його логотип та активи.
 
 Ви можете отримати це на сторінці [програм](https://discordapp.com/developers/applications).
 
@@ -34,7 +34,7 @@ clientId: "514271496134389561" // Приклад clientId
 
 Ця властивість не є необхідною, але якщо ви хочете увімкнути медіа ключі, вам слід встановити її на `true`.
 
-**Усі події префіксу тимчасово відключені!**
+**Всі події префіксу тимчасово відключені!**
 
 ```typescript
 let presence = new Presence({
@@ -51,7 +51,7 @@ let presence = new Presence({
 
 Перший параметр вимагає інтерфейсу `presenceData` , щоб отримати всю інформацію, яку ви хочете відобразити у вашому профілі.
 
-Другий параметр визначає, коли присутність щось грає чи ні. Завжди використовуйте `true` , якщо ви надаєте часові мітки в `presenceData`.
+Другий параметр визначає, коли присутність щось грає. Завжди використовуйте `true` , якщо ви надаєте часові мітки в `presenceData`.
 
 ### `clearActivity()`
 
@@ -63,7 +63,7 @@ let presence = new Presence({
 > 
 > {.is-warning}
 
-Встановлює заголовок у рядку меню.
+Встановлює заголовок лотка для меню.
 
 ### `getStrings(Об'єкт)`
 
@@ -84,10 +84,10 @@ strings = await presence.getStrings({
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(page); // Це закриє "Variable content"
+console.log(page); // Це закриє "Змінний вміст"
 ```
 
-## `presenceData` Інтерфейс
+## `презентація даних` Інтерфейс
 
 Інтерфейс `presenceData` рекомендується використовувати під час використання методу `setActivity()`.
 
@@ -109,7 +109,7 @@ console.log(page); // Це закриє "Variable content"
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">положення</td>
+      <td style="text-align:left">держава</td>
       <td style="text-align:left">Другий рядок у вашій присутності.</td>
       <td style="text-align:left"><code>Рядок</code>
       </td>
@@ -158,10 +158,10 @@ console.log(page); // Це закриє "Variable content"
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Мій заголовок",
-    state: "Мій опис",
-    largeImageKey: "лого_сервісу",
-    smallImageKey: "маленька_піктограма_сервісу_",
+    details: "My title",
+    state: "My description",
+    largeImageKey: "service_logo",
+    smallImageKey: "small_service_icon",
     smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
@@ -170,7 +170,7 @@ var presenceData: presenceData = {
 
 ## Події
 
-Події дозволяють виявити і обробляти деякі зміни, або виклики, які були зроблені. Ви можете підписатись на події, використовуючи `on` метод.
+Події дозволяють виявити і обробляти деякі зміни, або виклики, які були зроблені. Ви можете підписатись на події, використовуючи `на` метод.
 
 ```typescript
 presence.on("UpdateData", async () => {

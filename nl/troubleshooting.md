@@ -2,8 +2,8 @@
 title: Probleemoplossen
 description: Alles om je probleem op te lossen
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:10:02.170Z
+tags: 
 ---
 
 > Zorg ervoor dat de extensie **en** de applicatie geïnstalleerd is! 

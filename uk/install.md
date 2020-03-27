@@ -1,16 +1,16 @@
 ---
-title: Установлення
-description: Як встановити PreMiD?
+title: Інсталяція
+description: Як встановити PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:25:11.298Z
+tags: 
 ---
 
 > Перед тим, як піти далі, переконайтеся, що ваша система відповідає всім вимогам [](/install/requirements). 
 > 
 > {.is-info}
 
-> **Необхідно** встановити**і** **застосунок** іthe **розширення**! 
+> **It is necessary** to install **both** the **application** and the **extension**! 
 > 
 > {.is-warning}
 

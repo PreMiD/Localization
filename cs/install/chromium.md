@@ -2,8 +2,8 @@
 title: Chromium
 description: Začněte s instalací PreMiD na prohlížečích založených na Chromiu
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-16T14:19:47.851Z
+tags: 
 ---
 
 Instalace rozšíření je velmi důležitá, protože aplikace nemůže dělat nic sama.

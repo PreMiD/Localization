@@ -2,8 +2,8 @@
 title: Başlarken
 description: Kodlamaya yeni başlayanlara ufak bir tavsiye
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:12:26.793Z
+tags: 
 ---
 
 > Bu işlemler için bir kod editörü kullanmanız gerekecektir. Biz editör olarak Visual Studio Code'u öneriyoruz. 

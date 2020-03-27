@@ -1,9 +1,9 @@
 ---
 title: Metadario
 description: Contiene dati di base su Presence
-published: vero
-date: 2020-01-19T23:42:34.658Z
-tags:
+published: true
+date: 2020-02-12T22:29:41.548Z
+tags: 
 ---
 
 # Metadario

@@ -2,8 +2,8 @@
 title: 必要条件
 description: PreMiDをインストールするのに必要な条件
 published: true
-date: 2020-01-19T23:42:23.276Z
-tags:
+date: 2020-02-16T14:21:07.713Z
+tags: 
 ---
 
 # システム要件

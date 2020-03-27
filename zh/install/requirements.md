@@ -2,8 +2,8 @@
 title: B. 所需经费
 description: 安装PremiD 的前提条件
 published: true
-date: 2020-01-19T23:42:23.276Z
-tags:
+date: 2020-02-16T14:23:05.375Z
+tags: 
 ---
 
 # 系统要求

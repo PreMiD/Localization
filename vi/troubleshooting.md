@@ -2,8 +2,8 @@
 title: Xử lý sự cố
 description: Mọi thứ để giúp bạn xử lý sự cố
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:13:12.435Z
+tags: 
 ---
 
 > Hãy chắc là bạn có cả tiện ích mở rộng **và** ứng dụng tải về! 

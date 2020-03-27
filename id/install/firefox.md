@@ -2,8 +2,8 @@
 title: Firefox
 description: Getting started with a PreMiD installation on Firefox
 published: true
-date: 2020-01-19T23:42:18.246Z
-tags:
+date: 2020-02-12T22:17:53.644Z
+tags: 
 ---
 
 Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.

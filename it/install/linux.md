@@ -1,9 +1,9 @@
 ---
 title: Linux
 description: Per iniziare con un'installazione di PreMiD su Linux
-published: vero
-date: 2020-02-08T04:19:04.080Z
-tags:
+published: true
+date: 2020-02-12T22:18:32.431Z
+tags: 
 ---
 
 > Prima di proseguire, assicurati che il tuo sistema soddisfi tutti i [requisiti](/install/requirements).{.is-info}

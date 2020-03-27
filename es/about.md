@@ -2,8 +2,8 @@
 title: Acerca de PreMiD
 description: Las características principales de PreMiD
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-16T14:20:00.729Z
+tags: 
 ---
 
 PreMiD es simple y configurable que te permite mostrar lo que estás haciendo en la web como estado de jugando ahora en tu Discord. Soporta muchas plataformas diferentes y soporta múltiples usuarios viendo el mismo contenido simultáneamente en una próxima actualización.

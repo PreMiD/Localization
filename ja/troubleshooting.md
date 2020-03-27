@@ -2,8 +2,8 @@
 title: トラブルシューティング
 description: 抱えている問題を解決する方法
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-16T14:21:09.982Z
+tags: 
 ---
 
 > 先に、**[拡張機能とアプリ](https://premid.app/downloads)**をダウンロードした状態にしてください！ 
@@ -41,7 +41,7 @@ PreMiD以外の拡張機能をオフにして、動くか見てみましょう�
 たまにファイルが壊れていたりする場合があります… [ここで](/install)再インストールの方法が確認できます。
 
 ### 手動で削除する
-Windowsの場合は ` C:\Users\ユーザー名\Program Files (x86)\`` `に行き、`PreMiD</0>を削除してください。
+Windowsの場合は ` C:\Users\ユーザー名\Program Files (x86)\`` `に行き、</code>`PreMiD`を削除してください。`
 MacOSの場合は<code>~/users/USER/~Library/Application Support/`に行き、` PreMiD`` `を削除してください。
 
 ### Ubuntu/Debian基準の環境では

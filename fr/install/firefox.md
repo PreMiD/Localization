@@ -1,9 +1,9 @@
 ---
 title: Firefox
 description: Démarrage avec une installation PreMiD sur Firefox
-published: vrai
-date: 2020-01-19T23:42:18.246Z
-tags:
+published: true
+date: 2020-02-12T22:16:39.044Z
+tags: 
 ---
 
 L'installation de l'extension est très importante car l'application ne peut rien faire par elle-même.

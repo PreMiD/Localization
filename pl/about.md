@@ -1,9 +1,9 @@
 ---
 title: O PreMiD
 description: Postawowe funkcje PreMiD
-published: tak
-date: 2020-01-19T23:42:02.040Z
-tags:
+published: true
+date: 2020-02-12T22:10:05.668Z
+tags: 
 ---
 
 PreMiD jest prostym, konfigurowywalnym narzędziem umożliwiającym pokazywanie tego, co oglądasz/słuchasz na twoim profilu Discord. Wspiera wiele rożnorodnych platform oraz będzie wspierał wspólne oglądanie tego samego kontentu w następnej aktualizacji.

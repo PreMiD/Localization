@@ -2,8 +2,8 @@
 title: Página sin título
 description: Un pequeño ayudante para TypeScript
 published: true
-date: 2020-01-19T23:42:36.260Z
-tags:
+date: 2020-02-12T22:27:38.757Z
+tags: 
 ---
 
 # Configuración de TypeScript

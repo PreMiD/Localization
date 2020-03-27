@@ -2,8 +2,8 @@
 title: ホーム
 description: v2の公式ドキュメント
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-16T14:21:00.093Z
+tags: 
 ---
 
 > :warning: このドキュメントはまだ編集中です！ いくつかのページは完成していません。 

@@ -1,9 +1,9 @@
 ---
 title: Développement de la présence
-description:
-published: vrai
-date: 2020-02-08T18:36:25.201Z
-tags:
+description: 
+published: true
+date: 2020-02-16T14:20:20.664Z
+tags: 
 ---
 
 > Toutes les présences sont maintenant stockées ici : https://github.com/PreMiD/Presences 
@@ -21,7 +21,7 @@ La version `2.x` introduit le [magasin de présence](https://premid.app/store). 
 
 Avant de commencer à travailler sur votre présence, gardez à l'esprit la liste suivante.
 - La demande d'ajout doit être complète, vous devez avoir une structure de fichier appropriée. Incluant le dossier `dist` , le fichier `presence.js` et le fichier `metadata.json`.
-- La présence **doit être liée à** au site Web que vous avez choisi.
+- The presence **must** be related to the website you have chosen.
 - La présence ne doit pas être de sites Web illégaux. Celles-ci incluent des stress, des drogues, du porn infantile, etc...
 - Les métadonnées de présence doivent avoir un contenu bien écrit, y compris des titres valides et des descriptions.
 - Le média que vous incluez (icône/vignette) doit être lié au site Web et doit être compréhensible en termes de taille et de qualité.

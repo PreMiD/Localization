@@ -2,8 +2,8 @@
 title: 正在开始
 description: 为那些最近开始编码的人提供一些咨询意见
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-16T14:22:46.653Z
+tags: 
 ---
 
 > 需要一个源代码编辑器。 我们推荐了 Visual Studio 代码。 

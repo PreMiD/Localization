@@ -2,8 +2,8 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-01-19T23:42:34.658Z
-tags:
+date: 2020-02-12T22:31:50.958Z
+tags: 
 ---
 
 # Metadata.json
@@ -41,7 +41,7 @@ The example of that file can be found below.
 
 ## Understanding the metadata.json
 
-Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțelegi rolul fiecărei variabile.
+That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
 
 <table>
   <thead>
@@ -60,7 +60,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Da</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -100,7 +100,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -109,7 +109,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Da</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
@@ -223,7 +223,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>jocuri</b></td>
     <td style="text-align:left"><b>Jocuri</b></td>
-      <td style="text-align:left">Orice website care are conținut legat de jocuri, precum <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>altele</b></td>
     <td style="text-align:left"><b>Altele</b></td>
-      <td style="text-align:left">Orice nu se încadreaza în categoriile de mai sus.</td>
+      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
   </tbody>

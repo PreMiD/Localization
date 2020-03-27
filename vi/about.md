@@ -2,8 +2,8 @@
 title: Về PreMiD
 description: Những tính năng cốt lõi của PreMiD
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-12T22:12:58.614Z
+tags: 
 ---
 
 PreMiD là một tiện ích đơn giản, có thể tùy chỉnh cho phép bạn hiển thị những thứ bạn đang xem/nghe trên trạng thái đang chơi của Discord. Nó hỗ trợ nhiều nền tảng và sẽ hỗ trợ nhiều người dùng xem cùng một nội dung đồng thời trong bản cập nhật sắp tới.

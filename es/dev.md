@@ -2,8 +2,8 @@
 title: Comenzando
 description: Un pequeño consejo para aquellos que han entrado recientemente en la codificación
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:06:33.483Z
+tags: 
 ---
 
 > Se requiere un editor de código fuente. Recomendamos Visual Studio Code. 

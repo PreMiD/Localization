@@ -1,9 +1,9 @@
 ---
 title: Windows
 description: Rozpoczęcie instalacji PreMiD w systemie Windows
-published: tak
-date: 2020-02-07T00:44:57.532Z
-tags:
+published: true
+date: 2020-02-12T22:20:52.911Z
+tags: 
 ---
 
 > Zanim przejdziesz dalej, upewnij się, że Twój system spełnia wszystkie [wymagania](/install/requirements).{.is-info}

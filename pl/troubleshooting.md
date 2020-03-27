@@ -1,9 +1,9 @@
 ---
 title: Rozwiązywanie problemów
 description: Wszystko do rozwiązania twojego problemu
-published: tak
-date: 2020-01-19T23:42:09.728Z
-tags:
+published: true
+date: 2020-02-12T22:10:19.188Z
+tags: 
 ---
 
 > Upewnij się, że masz zainstalowane rozszerzenie **i** aplikacji! 

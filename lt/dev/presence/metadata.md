@@ -2,8 +2,8 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-01-19T23:42:34.658Z
-tags:
+date: 2020-02-12T22:30:35.998Z
+tags: 
 ---
 
 # Metadata.json
@@ -48,7 +48,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Aprašymas</th>
-      <th style="text-align:left">Tipas</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>

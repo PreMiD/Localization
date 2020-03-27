@@ -1,9 +1,9 @@
 ---
 title: Vývoj přítomnosti
-description:
+description: 
 published: true
-date: 2020-02-08T18:36:25.201Z
-tags:
+date: 2020-02-16T14:19:44.378Z
+tags: 
 ---
 
 > Všechny přítomnosti jsou nyní uloženy zde: https://github.com/PreMiD/Presences 

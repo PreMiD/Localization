@@ -1,9 +1,9 @@
 ---
 title: À propos de PreMiD
 description: Les fonctionnalités principales de PreMiD
-published: vrai
-date: 2020-01-19T23:42:02.040Z
-tags:
+published: true
+date: 2020-02-12T22:07:23.801Z
+tags: 
 ---
 
 PreMiD est un utilitaire simple et personnalisable qui vous permet de montrer ce que vous regardez/écoutez dans votre statut de jeu Discord. Il supporte de nombreuses plates-formes et permettra à plusieurs utilisateurs de regarder le même contenu en même temps dans une prochaine mise à jour.

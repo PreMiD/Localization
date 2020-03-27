@@ -2,8 +2,8 @@
 title: ابدء
 description: نصيحة صغيرة لأولئك الذين حصلوا على الترميز مؤخرا
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:05:20.773Z
+tags: 
 ---
 
 > مطلوب محرر كود المصدر. We recommend Visual Studio Code. 

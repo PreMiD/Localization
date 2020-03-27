@@ -2,8 +2,8 @@
 title: Unbenannte Seite
 description: Ein kleiner Helfer für TypeScript
 published: true
-date: 2020-01-19T23:42:36.260Z
-tags:
+date: 2020-02-12T22:27:19.466Z
+tags: 
 ---
 
 # TypeScript-Konfiguration

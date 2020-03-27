@@ -2,8 +2,8 @@
 title: 安装
 description: 如何安装PremiD
 published: true
-date: 2020-01-19T23：42：07.335Z
-tags:
+date: 2020-02-16T14:22:58.904Z
+tags: 
 ---
 
 > 在继续操作之前，请确保您的系统符合所有 [的要求](/install/requirements)。 

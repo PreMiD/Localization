@@ -2,8 +2,8 @@
 title: Riešenie problémov
 description: Všetko čo vyrieši váš problém
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:11:28.999Z
+tags: 
 ---
 
 > Uistite sa či máte rozšírenie **a** aplikáciu nainštalovanú! 

@@ -2,8 +2,8 @@
 title: Windows
 description: Začínáme s instalací PreMiD na Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:14:25.685Z
+tags: 
 ---
 
 > Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements).{.is-info}

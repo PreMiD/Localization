@@ -1,9 +1,9 @@
 ---
 title: Classe de présence
 description: La classe principale pour chaque présence PreMiD
-published: vrai
-date: 2020-01-19T23:42:31.382Z
-tags:
+published: true
+date: 2020-02-12T22:28:21.920Z
+tags: 
 ---
 
 # Classe de présence

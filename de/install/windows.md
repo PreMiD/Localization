@@ -2,8 +2,8 @@
 title: Windows
 description: Erste Schritte mit einer PreMiD-Installation unter Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:15:21.162Z
+tags: 
 ---
 
 > Bevor Du fortfährst, stelle sicher, dass Dein System alle [Anforderungen erfüllt](/install/requirements).{.is-info}

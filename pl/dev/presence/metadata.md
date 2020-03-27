@@ -1,9 +1,9 @@
 ---
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
-published: tak
-date: 2020-01-19T23:42:34.658Z
-tags:
+published: true
+date: 2020-02-12T22:31:13.378Z
+tags: 
 ---
 
 # Metadata.json

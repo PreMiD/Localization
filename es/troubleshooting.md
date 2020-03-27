@@ -2,8 +2,8 @@
 title: Solución de problemas
 description: Todo para resolver tu problema
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:06:44.311Z
+tags: 
 ---
 
 > ¡Asegúrate de tener la extensión **y** la aplicación instaladas! 

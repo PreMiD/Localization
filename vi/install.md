@@ -2,8 +2,8 @@
 title: Installation
 description: Cách cài đặt PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:25:41.768Z
+tags: 
 ---
 
 > Trước khi tiến hành, hãy đảm bảo rằng hệ thống của bạn phù hợp vói [yêu cầu hệ thống](/install/requirements). 

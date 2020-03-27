@@ -2,8 +2,8 @@
 title: Ana Sayfa
 description: Sürüm 2 için resmi dokümantasyon
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-12T22:24:41.238Z
+tags: 
 ---
 
 > :warning: Burada belirtilen bilgiler hala yapım aşamasındadır! Bazı sayfalar tamamlanmamış veya geçersiz olabilir. 

@@ -2,8 +2,8 @@
 title: 存在类
 description: 每个PreMiD存在的主类
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-18T21:44:13.433Z
+tags: 
 ---
 
 # 存在类

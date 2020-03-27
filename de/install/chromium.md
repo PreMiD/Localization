@@ -2,8 +2,8 @@
 title: Chromium
 description: Erste Schritte mit einer PreMiD-Installation in Chromeium-basierten Browsern
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-12T22:15:03.570Z
+tags: 
 ---
 
 Die Installation der Erweiterung ist sehr wichtig, da die Anwendung allein nicht funktionieren würde.

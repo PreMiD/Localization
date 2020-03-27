@@ -2,8 +2,8 @@
 title: PreMiDについて
 description: PreMiDの基本的な機能
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-16T14:20:45.910Z
+tags: 
 ---
 
 PreMiDはブラウザで何をしているかをDiscordのゲームプレイステータスに表示できるようになるアプリです。 多くのプラットフォームで対応している他、アップデートで新たな機能を追加する予定もあります。

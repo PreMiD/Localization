@@ -2,8 +2,8 @@
 title: macOS
 description: Getting started with a PreMiD installation on macOS
 published: true
-date: 2020-01-19T23:42:21.676Z
-tags:
+date: 2020-02-12T22:17:37.804Z
+tags: 
 ---
 
 > A folytatás előtt, győződj meg arról, hogy az általad használt rendszer megfelel a [követelményeknek](/install/requirements). 

@@ -2,8 +2,8 @@
 title: Chromium
 description: Chromium tabanlı tarayıcılarda PreMiD kurulumuna başlarken
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-12T22:24:26.464Z
+tags: 
 ---
 
 Uygulama, eklentisi olmadan çalışmayacağı için eklentinin de yüklü olması gerekmektedir.

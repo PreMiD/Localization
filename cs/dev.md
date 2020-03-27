@@ -2,8 +2,8 @@
 title: Začínáme
 description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:05:39.254Z
+tags: 
 ---
 
 > Je vyžadován editor zdrojového kódu. Doporučujeme Visual Studio Code. 

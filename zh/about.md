@@ -2,8 +2,8 @@
 title: 关于 PreMiD
 description: PreMiD 的核心功能
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-16T14:22:45.300Z
+tags: 
 ---
 
 PreMiD 是一个简单、可配置的工具，您可以在您的Discord中显示您正在观看/收听的内容，现在正在播放状态。 它支持许多不同的平台，并支持多个用户在即将到来的更新中同时观看相同的内容。

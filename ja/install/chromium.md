@@ -2,8 +2,8 @@
 title: Chromium
 description: ChromeブラウザでPreMiDをインストールする
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-16T14:21:02.676Z
+tags: 
 ---
 
 アプリのみでは機能しないため、拡張機能のダウンロードは重要です。

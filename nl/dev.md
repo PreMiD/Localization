@@ -2,8 +2,8 @@
 title: Aan de slag
 description: Een beetje advies voor degenen die onlangs in codering zijn gekomen
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:09:52.629Z
+tags: 
 ---
 
 > Een broncode editor is vereist. Wij raden Visual Studio Code aan. 

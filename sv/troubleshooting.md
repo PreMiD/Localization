@@ -2,8 +2,8 @@
 title: Felsökning
 description: Allt för att lösa ditt problem
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:12:02.940Z
+tags: 
 ---
 
 > Se till att du har tillägget **och** programmet installerat! 

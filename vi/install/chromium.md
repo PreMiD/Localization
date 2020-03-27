@@ -2,8 +2,8 @@
 title: Chromium
 description: Bắt đầu với việc cài đặt PreMiD trên những trình duyệt dựa trên Chromeium
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-12T22:25:22.483Z
+tags: 
 ---
 
 Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.

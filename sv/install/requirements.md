@@ -2,8 +2,8 @@
 title: Krav
 description: Förutsättningar för att installera PreMiD
 published: true
-date: 2020-01-19T23:42:23.276Z
-tags:
+date: 2020-02-12T22:23:42.134Z
+tags: 
 ---
 
 # Systemkrav

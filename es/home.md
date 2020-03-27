@@ -2,8 +2,8 @@
 title: Inicio
 description: Documentación oficial para v2
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-12T22:06:45.797Z
+tags: 
 ---
 
 > :warning: ¡Esta documentación todavía está siendo editada! Algunas páginas pueden estar incompletas o no estas disponibles. 

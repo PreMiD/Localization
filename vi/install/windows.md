@@ -2,8 +2,8 @@
 title: Windows
 description: Getting started with a PreMiD installation on Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:25:40.175Z
+tags: 
 ---
 
 > Trước khi cài đặt, hãy chắc chắn rằng hệ thống của bạn phù hợp với [yêu cầu hệ thống](/install/requirements).{.is-info}

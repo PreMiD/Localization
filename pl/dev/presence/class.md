@@ -1,9 +1,9 @@
 ---
 title: Klasa Presence
 description: Główna klasa dla każdej obecności PreMiD
-published: tak
-date: 2020-01-19T23:42:31.382Z
-tags:
+published: true
+date: 2020-02-12T22:31:07.195Z
+tags: 
 ---
 
 # Klasa Presence

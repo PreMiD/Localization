@@ -2,8 +2,8 @@
 title: Metadata.json
 description: Servis hakkında basit bilgileri bulunduran dosya
 published: true
-date: 2020-01-19T23:42:34.658Z
-tags:
+date: 2020-02-12T22:33:40.623Z
+tags: 
 ---
 
 # Metadata.json

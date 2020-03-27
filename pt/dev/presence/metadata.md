@@ -2,8 +2,8 @@
 title: Metadata.json
 description: Contém dados básicos sobre a Presença
 published: true
-date: 2020-01-19T23:42:34.658Z
-tags:
+date: 2020-02-12T22:31:32.033Z
+tags: 
 ---
 
 # Metadata.json

@@ -2,8 +2,8 @@
 title: Instalación
 description: Como instalar PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:06:40.614Z
+tags: 
 ---
 
 > Antes de nada, verifica que el equipo cumple todos los [requisitos](/install/requirements). 

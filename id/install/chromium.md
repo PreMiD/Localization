@@ -2,8 +2,8 @@
 title: Chromium
 description: Getting started with a PreMiD installation on Chromeium-based browsers
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-12T22:17:50.364Z
+tags: 
 ---
 
 Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.

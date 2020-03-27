@@ -2,8 +2,8 @@
 title: macOS
 description: Cài đặt PreMiD trên macOS
 published: true
-date: 2020-01-19T23:42:21.676Z
-tags:
+date: 2020-02-12T22:25:37.593Z
+tags: 
 ---
 
 > Trước khi tiến hành, hãy đảm bảo rằng hệ thống của bạn phù hợp vói [yêu cầu hệ thống](/install/requirements). 

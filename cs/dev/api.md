@@ -2,8 +2,8 @@
 title: API
 description: Přístup k dalším zdrojům a provádění akcí pomocí PreMiD API
 published: true
-date: 2020-01-19T23:42:12.088Z
-tags:
+date: 2020-02-16T14:19:41.299Z
+tags: 
 ---
 
 # API

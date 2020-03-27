@@ -1,9 +1,9 @@
 ---
 title: Classe iFrame
-description:
-published: vrai
-date: 2020-01-19T23:42:33.008Z
-tags:
+description: 
+published: true
+date: 2020-02-12T22:28:24.357Z
+tags: 
 ---
 
 # Classe iFrame

@@ -2,8 +2,8 @@
 title: Anforderungen
 description: Voraussetzungen für die Installation von PreMiD
 published: true
-date: 2020-01-19T23:42:23.276Z
-tags:
+date: 2020-02-12T22:15:17.832Z
+tags: 
 ---
 
 # Systemanforderungen

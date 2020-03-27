@@ -1,9 +1,9 @@
 ---
 title: Разработка присутствия
-description:
+description: 
 published: true
-date: 2020-02-08T18:36:25.201Z
-tags:
+date: 2020-02-16T14:21:54.047Z
+tags: 
 ---
 
 > Все присутствия теперь хранятся здесь: https://github.com/PreMiD/Presences 

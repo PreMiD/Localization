@@ -2,8 +2,8 @@
 title: Domov
 description: Oficiálna dokumentácia pre v2
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-12T22:22:45.923Z
+tags: 
 ---
 
 > :warning: Dokumentácia sa stále edituje! Niektoré stránky môžu byť neúplné alebo chýbajú. 

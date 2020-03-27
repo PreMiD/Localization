@@ -2,8 +2,8 @@
 title: API
 description: Få tillgång till resurser och utföra åtgärder med PreMiD API
 published: true
-date: 2020-01-19T23:42:12.088Z
-tags:
+date: 2020-02-16T14:22:06.681Z
+tags: 
 ---
 
 # API

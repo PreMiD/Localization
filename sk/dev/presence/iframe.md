@@ -1,9 +1,9 @@
 ---
 title: iFrame Trieda
-description:
+description: 
 published: true
-date: 2020-01-19T23:42:33.008Z
-tags:
+date: 2020-02-12T22:32:22.810Z
+tags: 
 ---
 
 # iFrame Trieda

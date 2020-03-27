@@ -2,8 +2,8 @@
 title: Chromium
 description: PreMiD telepítési útmutató Chromeium alapú böngészők esetében
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-12T22:17:23.115Z
+tags: 
 ---
 
 A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.

@@ -1,9 +1,9 @@
 ---
 title: Fenêtres
 description: Démarrage avec une installation PreMiD sous Windows
-published: vrai
-date: 2020-02-07T00:44:57.532Z
-tags:
+published: true
+date: 2020-02-12T22:16:47.963Z
+tags: 
 ---
 
 > Avant d'aller plus loin, assurez-vous que votre système répond à toutes les [exigences](/install/requirements).{.is-info}

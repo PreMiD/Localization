@@ -2,8 +2,8 @@
 title: Linux
 description: Getting started with a PreMiD installation on Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-16T14:19:33.142Z
+tags: 
 ---
 
 > Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}

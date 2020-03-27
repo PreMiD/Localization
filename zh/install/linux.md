@@ -2,8 +2,8 @@
 title: Linux
 description: 开始在 Linux 上安装PreMiD
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-16T14:23:02.902Z
+tags: 
 ---
 
 > 在继续操作之前，请确保您的系统满足所有 [要求](/install/requirements)。{.is-info}

@@ -1,9 +1,9 @@
 ---
 title: Commencer
 description: Un petit conseil pour ceux qui ont commencé le codage récemment
-published: vrai
-date: 2020-02-08T04:46:24.725Z
-tags:
+published: true
+date: 2020-02-12T22:07:27.416Z
+tags: 
 ---
 
 > Un éditeur de code source est requis. Nous recommandons Visual Studio Code. 

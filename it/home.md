@@ -1,9 +1,9 @@
 ---
 title: Homepage
 description: Documentazione ufficiale per v2
-published: vero
-date: 2020-01-19T23:42:05.653Z
-tags:
+published: true
+date: 2020-02-12T22:18:32.431Z
+tags: 
 ---
 
 > :warning: La documentazione è ancora in fase di modifica! Alcune pagine potrebbero essere incomplete o mancanti. 
@@ -14,7 +14,7 @@ tags:
 - :mag: [Cos'è PreMiD?](/about) Intenzioni dietro PreMiD hanno il motivo per cui dovresti usarlo.
 - :link: [Cos'è RPC?](https://discordapp.com/rich-presence) Tutto su Rich Presence e le sue funzioni.
 
-# Primi passi
+# Guida introduttiva
 
 PreMiD è veloce e facile da installare. Dovresti essere attivo e funzionante in un attimo.
 

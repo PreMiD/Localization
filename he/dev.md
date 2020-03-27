@@ -2,8 +2,8 @@
 title: Getting Started
 description: A little advise for those who got into coding recently
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:07:45.259Z
+tags: 
 ---
 
 > A source code editor is required. We recommend Visual Studio Code. 

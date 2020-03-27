@@ -1,16 +1,16 @@
 ---
 title: Metadata.json
-description: プレゼンスに関する基本情報を含むファイル
+description: Presenceに関する基本情報を含むファイル
 published: true
-date: 2020-01-19T23:42:34.658Z
-tags:
+date: 2020-02-16T14:20:57.765Z
+tags: 
 ---
 
 # Metadata.json
 
-もしあなたがプレゼンスをストアに公開し拡張機能を使って読み込む場合は `presence.js`フォルダの中に`metadata.json`を作る必要があります
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `presence.js` folder.
 
-ファイルの構成の例は以下の通りです:
+The example of that file can be found below.
 
 ```javascript
 {
@@ -39,9 +39,9 @@ tags:
 }
 ```
 
-## metadata.jsonを理解する
+## Understanding the metadata.json
 
-さっきの一例が分かりにくい？ 気にするな！ これらの変数が何に使われているかなんてすぐ分かるさ。
+That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
 
 <table>
   <thead>
@@ -56,130 +56,134 @@ tags:
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>可</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">このプレゼンスが対応しているサービスの名称です。</td>
+      <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">プレゼンスの短い説明です。 何も思いつかない場合、サービスの説明文を引用してもよいです。 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけ説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後に編集します。</td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service
+        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">サービスのURLです。<br><b>例:</b><code>vk.com</code><br>
-<b>このURLは、スクリプトを挿入するウェブサイトであるかどうかを検出するために使用されるため、ウェブサイトのURLと一致する必要があります。</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">URLを検出するのに使用する正規表現です。</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>可</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">プレゼンスのバージョンです。</td>
+      <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">サービスのロゴの画像のURLです。</td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">あなたのプレゼンスのサムネイルの画像のURLです。</td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code>コードで指定: あなたのプレゼンスが対応しているサービスのイメージ色を使うとよいでしょう。</td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b>
       </td>
-      <td style="text-align:left">タグの配列を指定してください。タグは、ウェブサイト上でプレゼンスを見つけるのに役立ちます。</td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">プレゼンスが当てはまるカテゴリー名の文字列です。</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>不可</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left"><code>iFrames</code>が使われているかどうかの指定</td>
+      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>可</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">挿入するiframeを検出するのに使用する正規表現</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>可</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
   </tbody>
@@ -187,7 +191,7 @@ tags:
 
 ## 正規表現
 
-正規表現を覚えたい？じゃあこのサイトを見よう！
+If you want to learn regular expressions, here are a few websites.
 
 ### 習得
 
@@ -199,7 +203,7 @@ tags:
 
 ## Presenceのカテゴリー
 
-もしプレゼンスを作りたいなら、プレゼンスのカテゴリを指定する必要があります。 使用可能なすべてのカテゴリーは以下の通りです。
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
@@ -213,37 +217,37 @@ tags:
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>アニメ</b></td>
-      <td style="text-align:left">アニメに関する掲示板や動画サイトなどすべてのもの</td>
+      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>ゲーム</b></td>
-      <td style="text-align:left"><code>Kahoot</code>や<code>Skribbl.io</code>のようなゲーム関連のウェブサイト</td>
+      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>音楽</b></td>
-      <td style="text-align:left">これは、ストリーミングやダウンロードなど、音楽関連のコンテンツを提供するサイト</td>
+      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>SNS</b></td>
-      <td style="text-align:left">コンテンツの作成と共有や、その他の方法でSNSに関わるウェブサイト</td>
+      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>動画と配信</b></td>
-      <td style="text-align:left">動画や配信の提供が目的のウェブサイト</td>
+      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>その他</b></td>
-      <td style="text-align:left">以上のカテゴリーのどれにも当てはまらないもの</td>
+      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
   </tbody>

@@ -2,21 +2,21 @@
 title: 疑难解答
 description: 解决您问题的一切内容
 published: true
-date: 2020-01-19T23：42：09.728Z
-tags:
+date: 2020-02-16T14:23:08.070Z
+tags: 
 ---
 
-> 请确保您已安装扩展 **和** 应用程序！ 
+> 请确保您已安装扩展 **和** 个应用程序！ 
 > 
 > {.is-warning}
 
 ### 重新加载页面
-您也可以在键盘上按 <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS)。
+您也可以按 <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS) 键盘上，而不是搜索刷新按钮。
 
 ### 重新启动您的浏览器
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) 也做了很好的工作。 (您必须再次启动您的浏览器。)
 
-### 请确保您在Discord设置中启用了游戏状态
+### 请确保您在设置中启用了Discord游戏活动
 **用户设置** > **游戏活动** ![游戏活动编辑.png](/gameactivity_edited.png)
 
 ### 重启预设(应用程序)
@@ -45,7 +45,7 @@ Windows：    `C:\Users\USER\Program Files (x86)\`` 并删除文件夹`PreMiD`.
 MacOS:`~/users/USER/~Library/Application support/`并删除文件夹`PreMiD`` 。
 
 ### 在 Ubuntu/Debian 的磁盘上
-如果您是通过 Snapcraft下载Discord的，游戏状态将不会显示。 您必须在终端上执行 `sudo snap 移除Discord` 来卸载Snapcraft 版本， 下载 [Discord的 Linux 版本](https://discordapp.com/api/download?platform=linux) ([或 Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), 然后导航到您下载的 Discord 目录(通常是 `$HOME/Download`), 然后使用 `sudo dpkg -i discord-*安装包件。 eb`
+如果您通过 Snapcraft下载Discord，RPC 将无法工作。 您必须在终端上执行 `sudo snap 移除Discord` 来卸载Snapcraft 版本， 下载 [Discord的 Linux 版本](https://discordapp.com/api/download?platform=linux) ([或 Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), 然后导航到您下载的 Discord 目录(通常是 `$HOME/Download`), 然后使用 `sudo dpkg -i discord-*安装包件。 eb`
 
 ### 这还没有解决我的问题
 请在 [#support](https://discord.gg/PreMiD) 中打开工单。

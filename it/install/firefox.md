@@ -1,9 +1,9 @@
 ---
 title: Firefox
 description: Per iniziare con un'installazione di PreMiD su Firefox
-published: vero
-date: 2020-01-19T23:42:18.246Z
-tags:
+published: true
+date: 2020-02-12T22:18:20.763Z
+tags: 
 ---
 
 L'installazione dell'estensione è molto importante in quanto l'applicazione non può fare nulla da sola.

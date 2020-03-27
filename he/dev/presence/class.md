@@ -2,8 +2,8 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-12T22:28:41.747Z
+tags: 
 ---
 
 # Presence Class

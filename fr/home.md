@@ -1,9 +1,9 @@
 ---
 title: Accueil
 description: Document officiel pour la v2
-published: vrai
-date: 2020-01-19T23:42:05.653Z
-tags:
+published: true
+date: 2020-02-12T22:07:39.320Z
+tags: 
 ---
 
 > :warning: La documentation est en cours de modification ! Certaines pages peuvent être incomplètes ou manquantes. 

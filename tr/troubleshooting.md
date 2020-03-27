@@ -2,8 +2,8 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:12:37.226Z
+tags: 
 ---
 
 > Uzantıyı **ve** uygulamanın yüklü olduğundan emin olun! 

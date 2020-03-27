@@ -2,8 +2,8 @@
 title: Over PreMiD
 description: De kernfuncties van PreMiD
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-12T22:09:49.268Z
+tags: 
 ---
 
 PreMiD is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je aan het kijken bent/luisteren bent als je Discord speelstatus. Het ondersteunt veel verschillende platformen en ondersteunt meerdere gebruikers om dezelfde inhoud tegelijkertijd te bekijken in een aanstaande update.

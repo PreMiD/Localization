@@ -2,8 +2,8 @@
 title: Řešit Problémy
 description: Vše k vyřešení vašeho problému
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:05:49.674Z
+tags: 
 ---
 
 > Ujistěte se, že máte rozšíření **a** nainstalovanou aplikaci! 

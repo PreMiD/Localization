@@ -2,8 +2,8 @@
 title: Windows
 description: Windows'da PreMiD kurulumuna başlarken
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:24:42.789Z
+tags: 
 ---
 
 > İlerlemeden önce sisteminizin tüm [gereksinimleri](/install/requirements) karşıladığından emin olun.{.is-info}

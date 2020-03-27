@@ -2,8 +2,8 @@
 title: TypeScript configuratie
 description: Een kleine helper voor TypeScript
 published: true
-date: 2020-01-19T23:42:36.260Z
-tags:
+date: 2020-02-12T22:30:59.811Z
+tags: 
 ---
 
 # TypeScript configuratie

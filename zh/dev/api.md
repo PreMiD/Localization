@@ -2,8 +2,8 @@
 title: API
 description: 使用 PreMiD API 访问资源并执行操作
 published: true
-date: 2020-01-19T23:42:12.088Z
-tags:
+date: 2020-02-16T14:22:50.688Z
+tags: 
 ---
 
 # API

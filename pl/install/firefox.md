@@ -1,9 +1,9 @@
 ---
 title: Firefox
 description: Rozpoczęcie instalacji PreMiD w przeglądarce Firefox
-published: tak
-date: 2020-01-19T23:42:18.246Z
-tags:
+published: true
+date: 2020-02-12T22:20:39.234Z
+tags: 
 ---
 
 Instalacja rozszerzenia jest bardzo ważna, ponieważ aplikacja nie może zrobić niczego samodzielnie.

@@ -2,8 +2,8 @@
 title: O PreMiD
 description: Základní vlastnosti o PreMiD
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-12T22:05:35.556Z
+tags: 
 ---
 
 PreMiD je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co sleduješ/posloucháte ve tvém Discordu, který právě hraje. Podporuje mnoho různých platforem a bude podporovat více uživatelů, kteří sledují stejný obsah současně v nadcházející aktualizaci.

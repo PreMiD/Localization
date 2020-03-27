@@ -2,8 +2,8 @@
 title: macOS
 description: Getting started with a PreMiD installation on macOS
 published: true
-date: 2020-01-19T23:42:21.676Z
-tags:
+date: 2020-02-12T22:16:25.417Z
+tags: 
 ---
 
 > Before going any further, make sure your system meets all the [requirements](/install/requirements). 

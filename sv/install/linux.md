@@ -2,8 +2,8 @@
 title: Linux
 description: Komma igång med en PreMiD-installation på Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-12T22:23:43.472Z
+tags: 
 ---
 
 > Innan du går vidare, se till att ditt system uppfyller alla [krav](/install/requirements).{.is-info}

@@ -2,8 +2,8 @@
 title: วินโดวส์
 description: เริ่มต้นใช้งาน PreMiD การติดตั้งบน Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-16T14:22:25.468Z
+tags: 
 ---
 
 > ก่อนดำเนินการใด ๆ เพิ่มเติมตรวจสอบให้แน่ใจว่าระบบของคุณตรงตาม [requirements](/install/requirements).{.is-info}

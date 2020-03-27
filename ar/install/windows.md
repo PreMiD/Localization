@@ -2,8 +2,8 @@
 title: ويندوز
 description: إبدأ وثَبتْ PreMiD على نظام ويندوز
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-16T14:18:54.130Z
+tags: 
 ---
 
 > تأكد من وجود ال[متطلبات الكافية](/install/requirements) لتشغيله على جهازك

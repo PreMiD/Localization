@@ -1,9 +1,9 @@
 ---
 title: Pagina senza titolo
 description: Un piccolo aiuto per TypeScript
-published: vero
-date: 2020-01-19T23:42:36.260Z
-tags:
+published: true
+date: 2020-02-12T22:29:46.638Z
+tags: 
 ---
 
 # Configurazione TypeScript

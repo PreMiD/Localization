@@ -1,9 +1,9 @@
 ---
 title: Rozwój statusów
-description:
-published: tak
-date: 2020-02-08T18:36:25.201Z
-tags:
+description: 
+published: true
+date: 2020-02-16T14:21:31.975Z
+tags: 
 ---
 
 > Wszystkie statusy są trzymane tutaj: https://github.com/PreMiD/Presences 

@@ -1,9 +1,9 @@
 ---
-title: Presence Utveckling
-description:
+title: Närvaro Utveckling
+description: 
 published: true
-date: 2020-02-08T18:36:25.201Z
-tags:
+date: 2020-02-16T14:22:09.371Z
+tags: 
 ---
 
 > Alla närvaron lagras nu här: https://github.com/PreMiD/Presences 

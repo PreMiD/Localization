@@ -1,21 +1,21 @@
 ---
-title: Kelas iFrame
-description:
+title: iFrame Class
+description: 
 published: true
-date: 2020-01-19T23:42:33.008Z
-tags:
+date: 2020-02-12T22:29:19.605Z
+tags: 
 ---
 
-# Kelas iFrame
+# iFrame Class
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Perkenalan
+## Introduction
 
-Dalam beberapa skenario, presence Anda mungkin perlu mengakses elemen di dalam `iframes`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Kode yang Anda tulis di dalam file `iframe.ts` Anda akan disuntikkan ke setiap iframe pada halaman.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
 Like presences, `iframes` have their own classes designed to automatically update data.
 
@@ -23,33 +23,33 @@ Like presences, `iframes` have their own classes designed to automatically updat
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Kode disini...
+    // Code goes here...
 });
 ```
 
-## Metode
+## Methods
 
 ### `send(Object)`
-Mengirim data ke presence. Menggunakan metode ini akan membuat presence melemparkan acara `iFrameData`.
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
-Mengembalikan URL `iframe`.
+Returns the URL of the `iframe`.
 
-## Acara
-Di `iframes`, acara bekerja sama dengan cara kerjanya di kelas `presence`.
+## Events
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Kode disini...
+    // Code goes here...
 });
 ```
 
-Berikut adalah daftar semua acara:
+Here is a list of all of the events:
 
 #### `UpdateData`
 
 This event is fired every time the iframe is being updated.
 
-#### `MediaKeys` (dinonaktifkan)
+#### `MediaKeys` (disabled)
 
 Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.

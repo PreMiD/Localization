@@ -2,8 +2,8 @@
 title: Linux
 description: Erste Schritte mit einer PreMiD-Installation unter Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-12T22:15:19.071Z
+tags: 
 ---
 
 > Bevor Du fortfährst, stelle sicher, dass Dein System alle [Anforderungen erfüllt](/install/requirements).{.is-info}

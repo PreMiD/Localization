@@ -1,9 +1,9 @@
 ---
 title: iFrame Class
-description:
+description: 
 published: true
-date: 2020-01-19T23:42:33.008Z
-tags:
+date: 2020-02-16T14:19:11.268Z
+tags: 
 ---
 
 # iFrame Class

@@ -2,8 +2,8 @@
 title: Odpravljanje napak
 description: Everything to solve your problem
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-12T22:11:45.600Z
+tags: 
 ---
 
 > Make sure you have the extension **and** the application installed! 

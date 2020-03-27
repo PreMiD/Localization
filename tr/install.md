@@ -2,8 +2,8 @@
 title: Yükleme
 description: PreMiD nasıl yüklenir
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:24:44.066Z
+tags: 
 ---
 
 > İlerlemeden önce sisteminizin tüm gereksinimleri karşıladığından emin olun. 

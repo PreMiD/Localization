@@ -2,8 +2,8 @@
 title: Chromium
 description: Začíname s PreMiD inštaláciou na Chromeium-založených prehliadačov
 published: true
-date: 2020-01-19T23:42:16.572Z
-tags:
+date: 2020-02-12T22:22:31.124Z
+tags: 
 ---
 
 Inštalácia rozšírenia je veľmi dôležitá pretože samotná aplikácia nemôže urobiť nič.

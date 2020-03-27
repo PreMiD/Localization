@@ -1,9 +1,9 @@
 ---
 title: Presence Development
-description:
+description: 
 published: true
-date: 2020-02-08T18:36:25.201Z
-tags:
+date: 2020-02-16T14:21:48.584Z
+tags: 
 ---
 
 > All presences are now stored here: https://github.com/PreMiD/Presences 

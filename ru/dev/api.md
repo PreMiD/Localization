@@ -2,8 +2,8 @@
 title: API
 description: Доступ к реисходным кодам и выполнение действий, используя PreMiD API
 published: true
-date: 2020-01-19T23:42:12.088Z
-tags:
+date: 2020-02-16T14:21:50.754Z
+tags: 
 ---
 
 # API

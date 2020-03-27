@@ -1,19 +1,19 @@
 ---
-title: Clase iFrame
-description:
+title: iFrame Clase
+description: 
 published: true
-date: 2020-01-19T23:42:33.008Z
-tags:
+date: 2020-02-12T22:27:29.574Z
+tags: 
 ---
 
-# Clase iFrame
-> El sistema iframe con PreMiD es problemático y puede tener un comportamiento inesperado, usa con precaución. 
+# iFrame Clase
+> El sistema iframe con PreMiD es problemático y puede tener un comportamiento inesperado, usar con precaución. 
 > 
 > {.is-danger}
 
 ## Introducción
 
-En algunos argumentos, tu presencia puede necesitar acceder a elementos dentro de `iframes`.
+En algunos escenarios, tu presencia puede necesitar acceder a elementos dentro de `iframes`.
 
 El código que escribes dentro de tu archivo `iframe.ts` se inyecta en cada iframe de la página.
 
@@ -46,7 +46,7 @@ iframe.on("UpdateData", async () => {
 
 Aquí hay una lista de todos los eventos:
 
-#### `UpdateData`
+#### `Actualizardatos`
 
 Este evento se activa cada vez que se actualiza el iframe.
 

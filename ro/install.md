@@ -1,28 +1,28 @@
 ---
-title: Instalare
-description: Cum să instalezi PreMiD
+title: Installation
+description: How to install PreMiD
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-12T22:21:53.456Z
+tags: 
 ---
 
-> Înainte să mergi mai departe, verifică dacă sistemul tău îndeplinește toate [cerințele](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-> **Este necesar** să instalezi **aplicația**, dar și **extensia**! 
+> **It is necessary** to install **both** the **application** and the **extension**! 
 > 
 > {.is-warning}
 
-**Alege sistemul tău de operare:**
-- [Windows *7 sau mai nou*](/install/windows)
-- [macOS *10.11 sau mai nou*](/install/macos)
-- [Linux *4 sau mai nou*](/install/linux)
+**Choose your operating system:**
+- [Windows *7 or above*](/install/windows)
+- [macOS *10.11 or above*](/install/macos)
+- [Linux *4 or above*](/install/linux)
 {.links-list}
 
-**Alege browser-ul tău:**
-- [Chromium *v76 sau mai nou*](/install/chromium)
-- [Firefox *v69 sau mai nou*](/install/firefox)
+**Choose your browser:**
+- [Chromium *v76 or above*](/install/chromium)
+- [Firefox *v69 or above*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}

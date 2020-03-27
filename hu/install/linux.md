@@ -2,8 +2,8 @@
 title: Linux
 description: PreMiD telepítési útmutató a Linux rendszer esetében
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-12T22:17:37.804Z
+tags: 
 ---
 
 > A folytatás előtt, győződj meg arról, hogy az általad használt rendszer megfelel a [követelményeknek](/install/requirements).{.is-info}

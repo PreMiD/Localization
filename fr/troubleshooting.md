@@ -1,9 +1,9 @@
 ---
 title: Dépannage
 description: Tout pour résoudre votre problème
-published: vrai
-date: 2020-01-19T23:42:09.728Z
-tags:
+published: true
+date: 2020-02-12T22:07:37.783Z
+tags: 
 ---
 
 > Assurez-vous d'avoir l'extension **et** l'application installée! 

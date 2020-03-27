@@ -2,8 +2,8 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-01-19T23:42:31.382Z
-tags:
+date: 2020-02-16T14:22:16.823Z
+tags: 
 ---
 
 # Presence Class
@@ -96,7 +96,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">ตัวแปร</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">คำอธิบาย</th>
       <th style="text-align:left">ชนิด</th>
     </tr>

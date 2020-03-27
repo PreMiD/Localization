@@ -2,8 +2,8 @@
 title: Startseite
 description: Offizielle Dokumentation für v2
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-12T22:15:19.071Z
+tags: 
 ---
 
 > :warning: Die Dokumentation wird noch bearbeitet! Einige Seiten sind möglicherweise unvollständig oder fehlen. 

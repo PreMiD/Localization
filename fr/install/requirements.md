@@ -1,9 +1,9 @@
 ---
 title: Exigences
 description: Prérequis pour installer PreMiD
-published: vrai
-date: 2020-01-19T23:42:23.276Z
-tags:
+published: true
+date: 2020-02-12T22:16:45.844Z
+tags: 
 ---
 
 # Exigences du système
@@ -21,7 +21,7 @@ PreMiD fonctionne parfaitement sur un processeur unique.
 Les systèmes Linux devraient avoir **au moins 20 Mo de RAM** pour exécuter PreMiD. Les systèmes Windows et macOS nécessitent généralement un peu plus de RAM.
 
 ### Stockage
-PreMiD prend environ **150 Mo** de stockage physique. Cependant au moins **200Mo** de stockage dédié à PreMiD est recommandé.
+PreMiD takes about **150MB** of physical storage. Cependant au moins **200Mo** de stockage dédié à PreMiD est recommandé.
 
 ### Accès Internet
 Une connexion Internet est requise pour exécuter PreMiD. PreMiD vérifiera automatiquement les nouvelles mises à jour, les langues, les mises à jour de Presence, etc. de temps en temps.

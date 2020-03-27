@@ -2,8 +2,8 @@
 title: Firefox
 description: PreMiD telepítési útmutató a Firefox program esetében
 published: true
-date: 2020-01-19T23:42:18.246Z
-tags:
+date: 2020-02-12T22:17:26.332Z
+tags: 
 ---
 
 A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.

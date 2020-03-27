@@ -2,8 +2,8 @@
 title: macOS
 description: Aan de slag met de PreMiD installatie op macOS
 published: true
-date: 2020-01-19T23:42:21.676Z
-tags:
+date: 2020-02-12T22:20:22.900Z
+tags: 
 ---
 
 > Voordat je verder gaat, zorg ervoor dat je systeem voldoet aan alle [vereisten](/install/requirements). 

@@ -2,8 +2,8 @@
 title: Kom igång
 description: Lite råd för dem som nyligen kom in i kodning
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-12T22:11:52.965Z
+tags: 
 ---
 
 > En källkodsredigerare krävs. Vi rekommenderar Visual Studio Code. 

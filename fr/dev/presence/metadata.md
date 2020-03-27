@@ -1,9 +1,9 @@
 ---
 title: Métadonnées.json
 description: Contient des données de base sur la Presence
-published: vrai
-date: 2020-01-19T23:42:34.658Z
-tags:
+published: true
+date: 2020-02-12T22:28:28.531Z
+tags: 
 ---
 
 # Métadonnées.json

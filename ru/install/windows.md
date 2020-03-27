@@ -2,8 +2,8 @@
 title: Окна
 description: Начать установку PreMiD на Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:22:20.229Z
+tags: 
 ---
 
 > Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements).{.is-info}

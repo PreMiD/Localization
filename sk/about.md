@@ -2,8 +2,8 @@
 title: O PreMiDe
 description: Základné vlastnosti PreMiDu
 published: true
-date: 2020-01-19T23:42:02.040Z
-tags:
+date: 2020-02-12T22:11:14.876Z
+tags: 
 ---
 
 PreMiD je jednoduchý konfigurovateľný nástroj ktorý vám umožní ukázať čo sledujete/počúvate vo vašom Discord statuse. Podporuje mnoho rôznych platforiem a pri nadchádzajúcej aktualizácii bude podporovať viac používateľov sledujúcich ten istý obsah súčasne.

@@ -2,8 +2,8 @@
 title: Home
 description: Officiële documentatie voor v2
 published: true
-date: 2020-01-19T23:42:05.653Z
-tags:
+date: 2020-02-12T22:20:22.900Z
+tags: 
 ---
 
 > :warning: De documentatie wordt nog steeds bewerkt! Sommige pagina's kunnen onvolledig zijn of ontbreken. 

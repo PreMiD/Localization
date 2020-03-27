@@ -1,9 +1,9 @@
 ---
 title: iFrame Class
-description:
+description: 
 published: true
-date: 2020-01-19T23:42:33.008Z
-tags:
+date: 2020-02-12T22:30:32.260Z
+tags: 
 ---
 
 # iFrame Class
@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Įvadas
+## Introduction
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 

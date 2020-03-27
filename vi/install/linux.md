@@ -2,8 +2,8 @@
 title: Linux
 description: Tải PreMiD trên Linux
 published: true
-date: 2020-02-08T04:19:04.080Z
-tags:
+date: 2020-02-12T22:25:37.593Z
+tags: 
 ---
 
 > Trước khi cài đặt, hãy chắc chắn rằng hệ thống của bạn phù hợp với [yêu cầu hệ thống](/install/requirements).{.is-info}

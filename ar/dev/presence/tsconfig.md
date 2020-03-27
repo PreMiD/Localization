@@ -1,22 +1,22 @@
 ---
-title: صفحة بلا عنوان
-description: مساعد صغير في TypeScript
+title: Untitled Page
+description: A little helper for TypeScript
 published: true
-date: 2020-01-19T23:42:36.260Z
-tags:
+date: 2020-02-12T22:26:26.634Z
+tags: 
 ---
 
-# إعدادات TypeScript
+# TypeScript Configuration
 
-## مقدمة
+## Introduction
 
-عندما تقوم بتنزيل و تفك الضغط على مساحة العمل ، سترى ملف يسمى `tsconfig. s` في الروت ومجلدات presence، يستخدم هذا الملف لإعداد **محول برمجيTypeScript**. لقد تم تكوينه من أجلك، لذا لا تقلق حيال ذلك.
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-نحن نريد فقط وصف بعض الإعدادات التي يجب أن تعرفها.
+We just want to describe some settings that you should know.
 
-## اعدادات الروت
+## Root Configuration
 
-في ملف إعدادات الروت سترى شيئا كهذا.
+In the root configuration file you will see something like this.
 
 ```javascript
 {
@@ -31,7 +31,7 @@ tags:
 
 | Property            | الوصف                                                                                           |
 |:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | تستخدم لإعداد المحول برمجي، معظم الخصائص موجودة هنا.                                            |
+| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
 | module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
 | target              | Defines the JavaScript version you are compiling.                                               |
 | removeComments      | Removing comments from compiled files.                                                          |

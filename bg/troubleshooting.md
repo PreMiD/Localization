@@ -2,8 +2,8 @@
 title: Отстраняване на неизправности
 description: Everything to solve your problem
 published: true
-date: 2020-01-19T23:42:09.728Z
-tags:
+date: 2020-02-16T14:19:37.270Z
+tags: 
 ---
 
 > Make sure you have the extension **and** the application installed! 

@@ -2,8 +2,8 @@
 title: インストール
 description: PreMiDをインストールする方法
 published: true
-date: 2020-01-19T23:42:07.335Z
-tags:
+date: 2020-02-16T14:21:01.362Z
+tags: 
 ---
 
 > ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。 

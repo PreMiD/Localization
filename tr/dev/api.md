@@ -2,8 +2,8 @@
 title: API
 description: PreMiD'in API'sini kullanarak kaynaklara erişin ve bir şey gerçekleştirin
 published: true
-date: 2020-01-19T23:42:12.088Z
-tags:
+date: 2020-02-16T14:22:29.458Z
+tags: 
 ---
 
 # API

@@ -1,9 +1,9 @@
 ---
 title: Chromium
 description: Per iniziare con l'installazione di PreMiD sui browser basati su Chromeium
-published: vero
-date: 2020-01-19T23:42:16.572Z
-tags:
+published: true
+date: 2020-02-12T22:18:17.504Z
+tags: 
 ---
 
 L'installazione dell'estensione è molto importante in quanto l'applicazione non può fare nulla da sola.

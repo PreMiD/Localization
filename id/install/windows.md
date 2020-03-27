@@ -2,8 +2,8 @@
 title: Windows
 description: Getting started with a PreMiD installation on Windows
 published: true
-date: 2020-02-07T00:44:57.532Z
-tags:
+date: 2020-02-12T22:18:06.914Z
+tags: 
 ---
 
 > Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}

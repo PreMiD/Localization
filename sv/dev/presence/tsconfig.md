@@ -2,8 +2,8 @@
 title: Namnlös sida
 description: Lite hjälpare för TypeScript
 published: true
-date: 2020-01-19T23:42:36.260Z
-tags:
+date: 2020-02-12T22:33:07.524Z
+tags: 
 ---
 
 # Konfiguration av typskript

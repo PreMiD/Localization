@@ -1,9 +1,9 @@
 ---
 title: Servis Geliştirme
-description:
+description: 
 published: true
-date: 2020-02-08T18:36:25.201Z
-tags:
+date: 2020-02-16T14:22:32.363Z
+tags: 
 ---
 
 > Tüm servisler artık [https://github.com/PreMiD/Presences](https://github.com/PreMiD/Presences) adresinde saklanmaktadır. 
@@ -81,13 +81,13 @@ Servisinizi ister [JavaScript](https://www.javascript.com/), isterseniz de [Type
 ## Klasörleri ve dosyaları oluşturma
 
 1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
-2. Bir `presence.ts` ve bir `tsconfig.json` dosyası oluşturun.
+2. Bir `presence.ts` ve bir `tsconfg.json` dosyası oluşturun.
 3. Ana klasörün içine `dist` adında bir klasör oluşturun.
 4. `dist` klasörünün içine de bir `metadata.json` dosyası oluşturun.
 
 ## tsconfig.json dosyasını doldurma
 
-Aşağıda gördüğünüz kodu `tsconfig.json` dosyasının içine yapıştırın.
+Aşağıda gördüğünüz kodu `tsconfg.json` dosyasının içine yapıştırın.
 ```javascript
 {
   "extends": "../tsconfig.json",

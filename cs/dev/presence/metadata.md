@@ -2,8 +2,8 @@
 title: Metadata.json
 description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2020-01-19T23:42:34.658Z
-tags:
+date: 2020-02-12T22:26:39.543Z
+tags: 
 ---
 
 # Metadata.json

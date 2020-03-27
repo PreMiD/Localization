@@ -2,8 +2,8 @@
 title: Primeiros Passos
 description: Algumas dicas para aqueles que começaram a programar recentemente
 published: true
-date: 2020-02-08T04:46:24.725Z
-tags:
+date: 2020-02-18T21:44:02.968Z
+tags: 
 ---
 
 > Um editor de código é necessário. Recomendamos o Visual Studio Code. 

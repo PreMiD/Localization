@@ -1,9 +1,9 @@
 ---
 title: Strona główna
 description: Oficjalna dokumentacja v2
-published: tak
-date: 2020-01-19T23:42:05.653Z
-tags:
+published: true
+date: 2020-02-12T22:20:51.181Z
+tags: 
 ---
 
 > :warning: Dokumentacja jest nadal edytowana! Niektóre strony mogą być niekompletne lub brakujące. 
@@ -11,16 +11,16 @@ tags:
 > {.is-warning}
 
 # O PreMiD
-- :mag: [Co to jest PreMiD?](/about) Załóżenia dlaczego powinieneś go używać.
+- :mag: [Co to jest PreMiD?](/about) Za PreMiD dlaczego powinieneś go używać.
 - :link: [Co to jest RPC?](https://discordapp.com/rich-presence) Wszystko o Rich Presence i jego funkcji.
 
 # Wprowadzenie
 
-PreMiD jest szybki i łatwy w instalacji. Powinieneś być gotowy i działać bezzwłocznie.
+PreMiD jest szybki i łatwy w instalacji. Powinieneś być gotowy i działać bez czasu.
 
 - Upewnij się, że przeczytałeś [wymagania systemowe](/install/requirements).
 - Postępuj zgodnie z szybkim i prostym [przewodnikiem instalacji](/install).
-- [Strona - rozwiązywanie problemów](/troubleshooting) może Ci pomóc rozwiązać problemy.
+- [Rozwiązywanie problemów](/troubleshooting) prowadzi do rozwiązania wspólnych problemów.
 
 # Sekcja deweloperska
 

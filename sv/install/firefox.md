@@ -2,8 +2,8 @@
 title: Firefox
 description: Komma igång med en PreMiD-installation på Firefox
 published: true
-date: 2020-01-19T23:42:18.246Z
-tags:
+date: 2020-02-12T22:23:31.756Z
+tags: 
 ---
 
 Installationen av tillägget är mycket viktigt eftersom programmet inte kan göra något av sig själv.

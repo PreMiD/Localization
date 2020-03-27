@@ -2,8 +2,8 @@
 title: Vereisten
 description: Vereisten om PreMiD te installeren
 published: true
-date: 2020-01-19T23:42:23.276Z
-tags:
+date: 2020-02-12T22:20:21.506Z
+tags: 
 ---
 
 # Systeemvereisten
