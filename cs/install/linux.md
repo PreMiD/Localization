@@ -10,7 +10,7 @@ tags:
 
 Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
-# Instalovat
+# Instalace
 
 <table>
   <tr>
