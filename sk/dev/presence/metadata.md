@@ -189,11 +189,11 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
 
 Ak sa chcete naučiť regulárne výrazy, tu je niekoľko webových stránok.
 
-#### Learning
+#### Učenie
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Testovanie
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
@@ -201,9 +201,9 @@ Ak sa chcete naučiť regulárne výrazy, tu je niekoľko webových stránok.
 
 PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
 
-## Presence categories
+## Kategórie prítomností
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomnosť patrí. Toto je zostavený zoznam kategórií ktoré môžete použiť.
 
 <table>
   <thead>
