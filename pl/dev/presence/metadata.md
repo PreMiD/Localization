@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
 published: tak
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -86,7 +86,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       <td style="text-align:left"><b>opis</b>
       </td>
       <td style="text-align:left">Mały opis obecności, możesz użyć opisu usługi
-        jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych.</td>
+        jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Obiekt</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -95,8 +95,8 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">Adres URL usługi.<br><b>Przykład:</b><code>vk. om</code><br>
-        <b>Ten url musi pasować do adresu URL witryny, ponieważ będzie używany do wykrywania gdziekolwiek jest witryna do wstrzykiwania skryptu.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Ciąg, Tablica&lt;String&gt;</code>
       </td>
@@ -193,17 +193,21 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
 
 Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych.
 
-### Uczenie się
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Informacje o wyrażeniach regularnych](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Testowanie
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Kategorie obecności
+## Presence languages
 
-Podczas swojej obecności, musisz określić kategorię, w której znajduje się obecność. To jest skompilowana lista kategorii, których możesz użyć.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
