@@ -2,7 +2,7 @@
 title: Hem
 description: Officiell dokumentation för v2
 published: true
-date: 2020-01-19T23:42:05.653Z
+date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # Om PreMiD
-- :mag: [Vad är PreMiD?](/about) Avsikter bakom PreMiD och varför du bör använda den.
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [Vad är RPC?](https://discordapp.com/rich-presence) Allt om Rich Presence och dess funktioner.
 
 # Kom igång
@@ -31,7 +31,7 @@ PreMiD är snabbt och enkelt att installera. Du bör vara igång på nolltid.
 
 # Bidra
 - :bug: [Rapportera en bugg](https://github.com/PreMiD): Hjälp oss att krossa dessa irriterande buggar.
-- :bulb: [Föreslå en ny funktion](https://discord.gg/premid): Vi behöver dina idéer!
+- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
 - :heart: [Donera](https://www.patreon.com/Timeraa): Gör en liten donation eller bli sponsor till detta underbara projekt!
 - :globe_with_meridians: [Språk](https://translate.premid.app): Låt andra användare använda PreMiD på sitt modersmål.
 
