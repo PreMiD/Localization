@@ -2,7 +2,7 @@
 title: API
 description: PreMiD APIを使用してリソースにアクセスし、アクションを実行する
 published: true
-date: 2020-01-19T23:42:12.088Z
+date: 2020-02-12T22:06:25.888Z
 tags:
 ---
 
