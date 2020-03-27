@@ -13,7 +13,7 @@ tags:
 Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.
 
 # Cài đặt
-1. Đến trang web của chúng tôi bằng cách [nhấn vào đây](https://premid.app/downloads).
+1. Đến trang web của chúng tôi bằng cách nhấn vào [đây](https://premid.app/downloads).
 2. Chọn **OS X**.
 3. Giải nén file lưu trữ nếu cần thiết.
 4. Mở bộ cài đặt.
