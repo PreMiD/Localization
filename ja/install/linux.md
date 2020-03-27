@@ -2,7 +2,7 @@
 title: Linux
 description: LinuxでPreMiDをインストールする
 published: true
-date: 2020-02-08T04:19:04.080Z
+date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
@@ -11,30 +11,52 @@ tags:
 拡張機能のみでは機能しないため、アプリのダウンロードは重要です。
 
 # インストール
-> Linux系ブラウザに対してのインストーラーはありません。 そして、公式のサポートが受けられない場合があります。 その代わりに、[Discord](https://discord.gg/premid/)で他のlinuxユーザーと情報を交換できます。{.is-info}
 
-1. [NodeJS](https://nodejs.org/en/)をインストールする。
-2. Terminalを開く。
-3. リポジトリーをクローンする: `git clone https://github.com/PreMiD/PreMiD.git`
-4. 作業ディレクトリを変更する: `cd PreMiD/src`
-5. 依存関係とアプリケーションをインストールする: `npm install`
-6. 作業ディレクトリを変更する: `cd ..`
-7. 入力する: `npm run init`
-8. アプリケーションを起動する: `npm start`
-
-アプリケーションは自動で起動します。 メニューバーからPreMiDのアイコンを確認してください。
-
-> 以下の方法は非推奨で、おすすめされていません。 自己責任で利用してください。 
-> 
-> {.is-warning}
-
-## Arch Linux
-Arch Linux基準の環境をお使いの場合、 PreMiDは `premid` の下、 [Arch Linux Repository](https://aur.archlinux.org/packages/premid/) (AUR) で利用可能です。 お好きなパッケージマネージャーを使用して導入してください。
-
-## その他の環境
-- インストールスクリプト `wget -qO- http://bit.ly/install-premid | bash` または `curl -sL https://bit.ly/install-premid | bash` を実行した後、インストールが終わるのを待ってください。 終わったら、デスクトップ上の「PreMiD」のショートカットをダブルクリックするだけです！
-- PreMiDをアンインストールしたい場合、以下のどちらかを実行してください: `wget -qO- http://bit.ly/uninstall-premid | bash` または `curl -sL https://bit.ly/uninstall-premid | bash`
+<table>
+  <tr>
+    <th>Supported Linux Distribution</th>
+    <th>Method</th>
+    <th>Installing</th>
+    <th>Additional Notes</th>
+  </tr>
+  <tr>
+    <td>すべて</td>
+    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+    </td>
+    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Arch Linux</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td>Using yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+  </tr>
+  <tr>
+    <td>Using pakku :<br><code>pakku -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+  </tr>
+  <tr>
+    <td>Using trizen :<br><code>trizen -S premid</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
+    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Soon (TM), use the AppImage for now</td>
+  </tr>
+</table>
 
 > [**拡張機能を追加する**](/install)のを忘れないでください！{.is-warning}
+
+# More info
+https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
