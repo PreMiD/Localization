@@ -4,7 +4,7 @@
 		"description": "Jobs apply modal title, {0} will be replaced with the job name."
 	},
 	"jobs.modal.step": {
-		"message": "Étape {0} of 2",
+		"message": "Étape {0} sur 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
 	},
 	"jobs.modal.buttons.next": {
