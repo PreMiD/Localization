@@ -2,7 +2,7 @@
 title: Métadonnées.json
 description: Contient des données de base sur la Presence
 published: vrai
-date: 2020-01-19T23:42:34.658Z
+date: 2020-02-22T23:18:54.250Z
 tags:
 ---
 
@@ -86,7 +86,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Petite description de la présence, vous pouvez utiliser la description du service
-        si vous n'avez pas d'idées. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées.</td>
+        si vous n'avez pas d'idées. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Objet</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -95,8 +95,8 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk. om</code><br>
-        <b>Cette url doit correspondre à l'url du site car elle sera utilisée pour détecter où ou non c'est le site web auquel injecter le script.</b>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code>
       </td>
@@ -193,17 +193,21 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
 
 Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
-### Apprendre
+#### Learning
 
-• [RegexOne](https://regexone.com/) • [Informations sur les expressions régulières](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-### Tests en cours
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Catégories de présence
+## Presence languages
 
-Lorsque vous faites votre présence, vous devez spécifier une catégorie sous laquelle la présence tombe en dessous. Ceci est une liste compilée des catégories que vous pouvez utiliser.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence categories
+
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
