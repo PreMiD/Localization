@@ -2,7 +2,7 @@
 title: Accueil
 description: Document officiel pour la v2
 published: vrai
-date: 2020-01-19T23:42:05.653Z
+date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # À propos de PreMiD
-- :mag: [Qu'est-ce que PreMid ?](/about) Les intentions derrière PreMid vous devriez l'utiliser.
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [Qu'est-ce que le RPC ?](https://discordapp.com/rich-presence) Tout sur Rich Presence et ses fonctions.
 
 # Commencer
@@ -31,7 +31,7 @@ PreMiD est rapide et simple à installer. Vous devriez être opérationnel en un
 
 # Contribuer
 - :bug: [Signalez un Bug](https://github.com/PreMiD): Aidez-nous à écraser ces bugs pénibles.
-- :bulb: [Proposez de nouvelles fonctionnalitées](https://discord.gg/premid): Nous avons besoin de vos idées!
+- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
 - :heart: [Faire un don](https://www.patreon.com/Timeraa): Faites un petit don ou devenez sponsor de ce projet merveilleux !
 - :globe_with_meridians: [Locales](https://translate.premid.app): Les autres utilisateurs peuvent utiliser PreMiD dans leur langue maternelle.
 
