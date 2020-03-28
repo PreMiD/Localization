@@ -193,26 +193,26 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
 
 Se você quer aprender expressões regulares, aqui estão alguns sites.
 
-#### Learning
+#### Aprender
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Expressões Regulares](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Teste
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Idiomas de presença
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD é um serviço poliglota, o que significa que há uma infinidade de idiomas envolvidos para conectar usuários por todo o mundo. Uma lista completa de idiomas pode ser encontrada neste [endpoint da API](https://api.premid.app/v2/langFile/list).
 
-## Presence categories
+## Categorias de presença
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Ao fazer a sua presença, deve especificar uma categoria na qual a presença se encaixa. Esta é uma lista compilada das categorias que você pode usar.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">categoria</th>
+      <th style="text-align:left">Categoria</th>
       <th style="text-align:left">Nome:</th>
       <th style="text-align:left">Descrição</th>
     </tr>
