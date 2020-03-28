@@ -15,9 +15,29 @@
 		"message": "ผู้สร้าง",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "ผู้อำนวยการบริหาร",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "การดำเนินงานหัวหน้างาน",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "ผู้แทนชุมชนทั่วโลก",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "วิศวกรหัวหน้าซอฟแวร์",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.webDeveloper": {
 		"message": "นักพัฒนาเว็บไซต์",
 		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "ลินุกซ์ผู้ดูแล",
+		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
 		"message": "วิศวกร",
@@ -31,9 +51,25 @@
 		"message": "ผู้ดูแลอาวุโส",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "หัวของการแสดงตน การตรวจสอบ",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "ผู้แทนชุมชน",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "ผู้ดูแล",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "จูเนียร์ผู้ดูแล",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "ตัวแทนสนับสนุน",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "ยืนยัน Presence ",

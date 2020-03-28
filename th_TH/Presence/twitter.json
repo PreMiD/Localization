@@ -3,6 +3,10 @@
         "message": "กำลังอ่านทวิต:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "กำลังดู DMs ของพวกเขา",
+        "description": ""
+    },
     "twitter.bookmarks": {
         "message": "บุ๊คมาร์ค",
         "description": ""

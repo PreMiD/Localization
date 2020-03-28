@@ -1,1 +1,10 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "ดูรายการพนักงาน",
+        "description": ""
+    },
+    "hypixel.dm": {
+        "message": "กำลังดู DMs ของพวกเขา",
+        "description": ""
+    }
+}
