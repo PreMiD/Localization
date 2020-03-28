@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Introduction
+## แนะนำ
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
@@ -46,7 +46,7 @@ iframe.on("UpdateData", async () => {
 
 Here is a list of all of the events:
 
-#### `UpdateData`
+#### `อัพเดทข้อมูล`
 
 This event is fired every time the iframe is being updated.
 
