@@ -15,15 +15,15 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 <table>
   <tr>
     <th>Supported Linux Distribution</th>
-    <th>Method</th>
-    <th>Installing</th>
-    <th>Additional Notes</th>
+    <th>Yöntem</th>
+    <th>Yükleniyor</th>
+    <th>Ek Notlar</th>
   </tr>
   <tr>
     <td>Tümü</td>
     <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
     <td>
-        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>çalıştır <code>./PreMiD*.AppImage</code> sonra veya çift tıkla
     </td>
     <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
   </tr>
@@ -56,7 +56,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 > **[Eklentiyi](/install)** de eklemeyi unutmayın.{.is-warning}
 
-# More info
+# Daha fazla bilgi
 https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
