@@ -6,5 +6,9 @@
     "hypixel.dm": {
         "message": "กำลังดู DMs ของพวกเขา",
         "description": ""
+    },
+    "hypixel.game": {
+        "message": "กำลังดูเกมส์ :",
+        "description": ""
     }
 }
