@@ -1,1 +1,14 @@
-{}
+{
+    "pinterest.board": {
+        "message": "กำลังดูบอร์ด:",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "กำลังดูข้อมูลต่อไปของพวกเขา",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "แก้ไขในหน้าแรกของพวกเขา",
+        "description": ""
+    }
+}
