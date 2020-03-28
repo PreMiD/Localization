@@ -8,7 +8,7 @@ tags:
 
 # Presence Class
 
-## Introduction
+## แนะนำ
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -121,7 +121,7 @@ This interface has following variables, all of them are optional.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>จำนวน</code>
       </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ This interface has following variables, all of them are optional.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>จำนวน</code>
       </td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ presence.on("UpdateData", async () => {
 
 There are few events available:
 
-#### `UpdateData`
+#### `อัพเดทข้อมูล`
 
 This event is fired every time the presence is being updated.
 
