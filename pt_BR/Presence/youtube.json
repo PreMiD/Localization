@@ -32,7 +32,7 @@
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Navegando Por",
+        "message": "Navegando por",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
