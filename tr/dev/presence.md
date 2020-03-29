@@ -134,33 +134,34 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ## Başlarken
 
 ```javascript
-let presence = new Presence({
-    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
+var presence = new Presence({
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    // Çevirileri almak için bu fonksiyonu kullanabilirsiniz
+    //You can use this to get translated strings
 });
 
 /*
 
-function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
-    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
-    // ekstra işlemler //
-    // API işlemleri //
-    // değişken ayarlamaları //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
-// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
+
 presence.on("UpdateData", async () => {
-    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Burayı dikkatli kullanın.
 
     Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır. */
 
@@ -248,33 +249,34 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ## Başlarken
 
 ```javascript
-let presence = new Presence({
-    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
+var presence = new Presence({
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    // Çevirileri almak için bu fonksiyonu kullanabilirsiniz
+    //You can use this to get translated strings
 });
 
 /*
 
-function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
-    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
-    // ekstra işlemler //
-    // API işlemleri //
-    // değişken ayarlamaları //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
-// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
+
 presence.on("UpdateData", () => {
-    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Burayı dikkatli kullanın.
 
     // Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır.
 
