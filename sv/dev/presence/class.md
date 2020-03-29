@@ -28,34 +28,19 @@ Det finns två egenskaper tillgängliga för `Presence` klass.
 
 Du kan få det på din [applikationssida](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Denna egenskap talar om för vår app att registrera nyckelband för mediaknappar och tillåter oss att använda `MediaKeys` händelse för `Presence` klassen.
-
-Denna egenskap är inte nödvändig, men om du vill aktivera mediaknappar bör du ställa in den till `true`.
-
-**Alla mediaKey händelser är tillfälligt inaktiverade!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Tillåter användare att använda medietangenter
-});
-```
-
 ## Metoder
 
 ### `setActivity(presenceData, Boolean)`
 
-Anger din profilaktivitet enligt angivna uppgifter.
+Sets your profile activity according to provided data.
 
-Första parametern kräver ett `presenceData` -gränssnitt för att få all information som du vill visa i din profil.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Den andra parametern definierar när närvaron spelar något eller inte. Använd alltid `true` om du tillhandahåller tidsstämplar i `närvaroData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Rensar din nuvarande aktivitet, tangentbinden och brickans titel.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -63,16 +48,16 @@ Rensar din nuvarande aktivitet, tangentbinden och brickans titel.
 > 
 > {.is-warning}
 
-Ställer in brickans titel på menyraden.
+Sets the tray title on the Menubar.
 
 ### `getStrings(Objekt)`
 
-Låter dig få översatta strängar från tillägg. Du måste ange `Objekt` med nycklar som är nyckeln för sträng, `nyckelvärde` är strängvärdet. Du kan hitta några av strängarna med denna slutpunkt: `https://api.premid.app/v2/langFIle/extension/sv`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returnerar `Spelar` och `Paused` strängar
-// från förlängning.
-strängar = väntar presence.getStrings({
+// Returns `Playing` and `Paused` strings
+// from extension.
+strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
@@ -80,18 +65,18 @@ strängar = väntar presence.getStrings({
 
 ### `getPageLetiable(sträng)`
 
-Returnerar en variabel från webbplatsen om den finns.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Detta kommer att logga "Variabelt innehåll"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `närvaroData` Gränssnitt
 
-Gränssnittet `presenceData` rekommenderas att användas när du använder metoden `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Detta gränssnitt har följande variabler, alla av dem är frivilliga.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -158,11 +143,11 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
 
 ```typescript
 var presenceData: presenceData = {
-    detaljer: "Min titel",
-    state: "Min beskrivning",
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Du svävade mig, och vad nu? ,
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -170,24 +155,20 @@ var presenceData: presenceData = {
 
 ## Händelser
 
-Händelser gör att du kan upptäcka och hantera vissa förändringar eller samtal som gjorts. Du kan prenumerera på händelser med `på` -metoden.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Gör något när data uppdateras.
+    // Do something when data gets updated.
 });
 ```
 
-Det finns få evenemang tillgängliga:
+There are few events available:
 
 #### `Uppdateringsdata`
 
-Denna händelse avfyras varje gång närvaron uppdateras.
-
-#### `MediaKeys` (inaktiverad)
-
-Avskedas när användaren använder mediaknappar på sitt tangentbord, [klicka här](/dev/presence/class#mediakeys) för att få mer information om mediaknappar.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Sparas när data tas emot från iFrame script.
+Fired when data is received from iFrame script.
