@@ -28,21 +28,6 @@ Properti `clientId` harus disediakan untuk membuat presence Anda berfungsi, kare
 
 Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
 
-#### `tombolmedia`
-
-Properti ini memberi tahu aplikasi kami untuk mendaftarkan ikatan kunci untuk kunci media dan memungkinkan kami menggunakan acara `MediaKeys` untuk kelas `Presence`.
-
-Properti ini tidak diperlukan, tetapi jika Anda ingin mengaktifkan kunci media, Anda harus mengaturnya menjadi `true`.
-
-**Semua acara kunci media dinonaktifkan untuk sementara waktu!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Mengizinkan pengguna menggunakan kunci media
-});
-```
-
 ## Metode
 
 ### `setActivity(presenceData, Boolean)`
@@ -183,10 +168,6 @@ Ada beberapa acara yang tersedia:
 #### `UpdateData`
 
 This event is fired every time the presence is being updated.
-
-#### `MediaKeys` (dinonaktifkan)
-
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
 
 #### `iFrameData`
 
