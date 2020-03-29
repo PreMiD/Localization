@@ -23,6 +23,14 @@
         "message": "Datenschutzerklärung",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Datenschutzerklärung",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Nutzungsbedingungen",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
