@@ -28,34 +28,19 @@ Er zijn twee eigenschappen beschikbaar voor `Presence` class.
 
 Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
 
-#### `mediaKeys`
-
-Deze eigenschap vertelt onze app om sleutels te registreren voor mediaknoppen en stelt ons in staat `MediaKeys` event te gebruiken voor de `Presence` class.
-
-Deze eigenschap is niet vereist, maar als je de mediaknoppen wilt inschakelen, moet je hem instellen op `true`.
-
-**Alle mediaKey events zijn tijdelijk uitgeschakeld!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Staat gebruikers toe om media keys te gebruiken
-});
-```
-
 ## Methodes
 
 ### `setActivity(presenceData, Boolean)`
 
-Stelt uw profielactiviteit in volgens de verstrekte gegevens.
+Sets your profile activity according to provided data.
 
-De eerste parameter vereist een `presenceData` interface om alle informatie te krijgen die je wilt weergeven in je profiel.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Tweede parameter definieert wanneer presence iets afspeelt of niet. Gebruik altijd `true` als u timestamps verstrekt in `presenceData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Wist je huidige activiteit, de keybinds en de titel van het vak.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -63,15 +48,15 @@ Wist je huidige activiteit, de keybinds en de titel van het vak.
 > 
 > {.is-warning}
 
-Stelt de systeemtitel in op de menubalk.
+Sets the tray title on the Menubar.
 
 ### `getStrings(object)`
 
-Maakt het mogelijk om vertaalde teksten van de extensie te krijgen. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. U kunt sommige teksten vinden met dit eindpunt: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Retourneert `Playing` en `Paused` strings
-// uit extensie.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -80,18 +65,18 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Retourneert een variabele van de website als deze bestaat.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Dit zal de "Variabele content" loggen
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Interface
 
-De `presenceData` interface wordt aanbevolen om te gebruiken wanneer u de `setActivity()` methode gebruikt.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Dit scherm volgt variabelen, ze zijn allemaal optioneel.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -158,11 +143,11 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Mijn titel",
-    state: "Mijn beschrijving",
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Je hebt me bekeken, en wat nu?" ,
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -170,24 +155,20 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events stellen je in staat om wijzigingen of oproepen die zijn gemaakt te detecteren en te verwerken. Je kunt je abonneren op event met behulp van `on` methode.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Doe iets wanneer data wordt bijgewerkt.
+    // Do something when data gets updated.
 });
 ```
 
-Er zijn een paar Events beschikbaar:
+There are few events available:
 
 #### `UpdateData`
 
-Dit evenement wordt afgevuurd elke keer dat de presence wordt bijgewerkt.
-
-#### `MediaKeys` (uitgeschakeld)
-
-Schiet af wanneer de gebruiker gebruik maakt van mediaknoppen op zijn toetsenbord, [klik hier](/dev/presence/class#mediakeys) voor meer informatie over mediaknoppen.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Wordt afgevuurd wanneer gegevens worden ontvangen uit iFrame script.
+Fired when data is received from iFrame script.
