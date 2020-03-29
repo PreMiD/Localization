@@ -28,21 +28,6 @@ There are two properties available for `Presence` class.
 
 You can get it on your [applications page](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-This property tells our app to register the keybindings for media keys and allows us to use `MediaKeys` event for the `Presence` class.
-
-This property is not required, but if you want to enable media keys you should set it to `true`.
-
-**All mediaKey events are temporarily disabled!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
-});
-```
-
 ## Methods
 
 ### `setActivity(presenceData, Boolean)`
@@ -183,10 +168,6 @@ There are few events available:
 #### `อัพเดทข้อมูล`
 
 This event is fired every time the presence is being updated.
-
-#### `MediaKeys` (disabled)
-
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
 
 #### `iFrameData`
 
