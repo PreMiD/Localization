@@ -20,22 +20,32 @@ I rotkonfigurationsfilen ser du något liknande.
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Egenskap            | Beskrivning                                                                              |
-|:------------------- |:---------------------------------------------------------------------------------------- |
-| **compilerOptions** | Används för att konfigurera kompilatorn, de flesta av fastigheterna finns här.           |
-| modul               | Du kan läsa mer om det [här](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Definierar den JavaScript-version som du kompilerar.                                     |
-| ta bortKommentarer  | Tar bort kommentarer från kompilerade filer.                                             |
-| **exkludera**       | Här kan du definiera de mappar som du vill utesluta från framtida sammanställning.       |
+| Egenskap                   | Beskrivning                                                                                                                     |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Används för att konfigurera kompilatorn, de flesta av fastigheterna finns här.                                                  |
+| modul                      | Du kan läsa mer om det [här](https://www.typescriptlang.org/docs/handbook/modules.html).                                        |
+| target                     | Definierar den JavaScript-version som du kompilerar.                                                                            |
+| ta bortKommentarer         | Tar bort kommentarer från kompilerade filer.                                                                                    |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
 
 ## Konfiguration av Presence
 
