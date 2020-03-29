@@ -20,22 +20,32 @@ V koreni konfiguračného súboru uvidíte niečo takéto podobné.
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Vlastnosť           | Popis                                                                                            |
-|:------------------- |:------------------------------------------------------------------------------------------------ |
-| **compilerOptions** | Používaný na konfiguráciu kompiliera, väčšina vlastností sa nachádza tu.                         |
-| module              | Môžete si prečítať viacej o tom [tu](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Definuje verziu JavaScriptu ktorú kompilujete.                                                   |
-| removeComments      | Odstránenie komentárov z už kompilovaných súborov.                                               |
-| **exclude**         | Tu môžete definovať priečinky ktoré chcete vylúčiť z budúcej kompilácie.                         |
+| Vlastnosť                  | Popis                                                                                                                           |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Používaný na konfiguráciu kompiliera, väčšina vlastností sa nachádza tu.                                                        |
+| module                     | Môžete si prečítať viacej o tom [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                |
+| target                     | Definuje verziu JavaScriptu ktorú kompilujete.                                                                                  |
+| removeComments             | Odstránenie komentárov z už kompilovaných súborov.                                                                              |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Tu môžete definovať priečinky ktoré chcete vylúčiť z budúcej kompilácie.                                                        |
 
 ## Konfigurácia Prítomnosti
 
