@@ -4,7 +4,7 @@
         "description": ""
     },
     "9gag.hot": {
-        "message": "A ver o que está em brasa",
+        "message": "Vendo o que há de quente",
         "description": ""
     },
     "9gag.trending": {
@@ -12,7 +12,7 @@
         "description": ""
     },
     "9gag.fresh": {
-        "message": "A ver o que está fresco",
+        "message": "Vendo as tendências",
         "description": ""
     },
     "9gag.tag": {
@@ -24,11 +24,11 @@
         "description": ""
     },
     "9gag.store": {
-        "message": "Vizualizando página da loja",
+        "message": "Visualizando a loja",
         "description": ""
     },
     "9gag.collection": {
-        "message": "Vizualizando coleções:",
+        "message": "Visualizando a coleção:",
         "description": ""
     }
 }

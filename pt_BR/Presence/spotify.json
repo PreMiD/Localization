@@ -8,15 +8,15 @@
 		"description": ""
 	},
 	"spotify.charts": {
-		"message": "Vizualizando Graficos",
+		"message": "Visualizando os gráficos",
 		"description": ""
 	},
 	"spotify.genres": {
-		"message": "Navegando por Vídeos",
+		"message": "Navegando por gêneros",
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "Vizualizando Ultimos Lançamentos",
+		"message": "Vendo os mais recentes lançamentos",
 		"description": ""
 	},
 	"spotify.discover": {
@@ -24,23 +24,23 @@
 		"description": ""
 	},
 	"spotify.browse": {
-		"message": "Navegando Por",
+		"message": "Navegando por",
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "Podcasts que ele gosta",
+		"message": "podcasts que eles gostam",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
-		"message": "Artistas que eles curtem",
+		"message": "artistas que eles gostam",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {
-		"message": "Albuns que eles curtem",
+		"message": "álbuns que eles gostam",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "Musicas que eles gostam",
+		"message": "músicas que eles gostam",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
@@ -48,11 +48,11 @@
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
-		"message": "Suas Playlists",
+		"message": "suas playlists",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
-		"message": "Baixando Spotify",
+		"message": "Baixando o Spotify",
 		"description": ""
 	}
 }
