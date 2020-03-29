@@ -1,4 +1,12 @@
 {
+    "premid.docs": {
+        "message": "Dokumente",
+        "description": "as in documents"
+    },
+    "premid.pageHome": {
+        "message": "Startseite",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Mitwirkende",
         "description": "A page name"
@@ -11,8 +19,16 @@
         "message": "Store",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Datenschutzerklärung",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Über",
         "description": "A page name"
     },
     "premid.pageSysReq": {
