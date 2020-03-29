@@ -135,20 +135,19 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //De client ID van de Applicatie gemaakt op https://discordapp.com/developers/applications
-    mediaKeys: false //Schakel het gebruik van mediaknoppen in
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //Je kan dit gebruiken om vertaalde teksten te krijgen
+    //You can use this to get translated strings
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Pak en verwerk alle informatie hier
+    //Grab and process all your data here
 
     // element grabs //
     // api calls //
@@ -156,13 +155,13 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Laat de functie elke 10 seconden apart lopen van de UpdateData-event om de variabelen te krijgen en te zetten die UpdateData verkrijgt.
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is altijd aan het lopen, en moet daarom jouw refresh-cyclus zijn, of `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
     Het is aanbevolen om een andere functie buiten deze event-functie te maken die de variabelen zult veranderen en al het zware werk zal doen als je informatie roept vanuit een API*/
 
@@ -250,35 +249,34 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ## Aan de slag
 
 ```javascript
-var presence = nieuwe Presence({
-    clientId: "000000000000000000", //de client ID van de applicatie gemaakt op https://discordapp. om/ontwikkelaars/applicaties
-    mediaKeys: false //Schakel het gebruikt van mediaknoppen in
+var presence = new Presence({
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //Krijg vertaalde strings
+    //You can use this to get translated strings
 });
 
 /*
 
-functie myOutsideHeavyLiftingFunction(){
-    //Pak en verwerk al je data hier
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
-    // element grabs//
-    // api calls//
-    // variabele sets //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-/Uitvoeren van de functie los van de UpdateData-event elke 10 seconden om de variabelen te krijgen en in te stellen die de UpdateData ophaalt
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
 presence.on("UpdateData", () => {
-    //UpdateData wordt altijd afgevuurd, en daarom moet je als je ververscyclus of `tick` gebruiken. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
     //Het wordt aangeraden om een andere functie buiten dit event in te stellen die de variabele waarden zal veranderen en het zware werk zal doen als u gegevens uit een API opvraagt.
 
