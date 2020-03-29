@@ -135,8 +135,7 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
@@ -251,20 +250,19 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 
 ```javascript
 var presence = new Presence({
-    clientId: "00000000000000000000000000000000", //Die Client-ID der Anwendung, die unter https://discordapp.com/developers/applications erstellt wurde
-    mediaKeys: false //Verwendung und Erkennung von Medientasten aktivieren
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
-Strings = Presence. etStrings({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback. aused"
-    //Sie können dies verwenden, um übersetzte Zeichenfolgen zu erhalten
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
 });
 
 /*
 
-Funktion myOutsideHeavyLiftingFunction(){
-    //Alle deine Daten hier abrufen und verarbeiten
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
     // element grabs //
     // api calls //
@@ -272,13 +270,13 @@ Funktion myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Führen Sie die Funktion alle 10 Sekunden vom UpdateData Event getrennt aus, um die Variablen zu ermitteln, die UpdateData aufnimmt
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-Presence. n("UpdateData", () => {
-    //UpdateData startet immer, und sollte daher als Ihr Aktualisierungszyklus oder "tick" verwendet werden. This is called several times a second where possible.
+presence.on("UpdateData", () => {
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
     //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
