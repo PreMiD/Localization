@@ -20,22 +20,32 @@ In the root configuration file you will see something like this.
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Property            | İzah                                                                                            |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Used for configuring the compiler, most of the properties are located here.                     |
-| module              | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Defines the JavaScript version you are compiling.                                               |
-| removeComments      | Removing comments from compiled files.                                                          |
-| **exclude**         | Here you can define the folders that you want to exclude from the future compilation.           |
+| Property                   | İzah                                                                                                                            |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                     |
+| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
+| target                     | Defines the JavaScript version you are compiling.                                                                               |
+| removeComments             | Removing comments from compiled files.                                                                                          |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
 
 ## Presence Configuration
 
