@@ -135,34 +135,33 @@ For your presence to reach the stores, it MUST go through a process on GitHub to
 
 ```javascript
 var presence = new Presence({
-    clientId: "00000000000000", //Ідентифікатор клієнта, створеного в https://discordapp. om/developers/applications
-    mediaKeys: false /Увімкніть використання та пошук натискань медіа-клавіш
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
-strings = presence. etStrings({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    пауза: "presence.playback. Призупинено
-    //Ви можете використовувати це, щоб отримати перекладені рядки
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
 });
 
 /*
 
-функція myOutsideHeavyLiftingFunction(){
-    //Отримуйте і обробляйте всі ваші дані тут
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
-    // елемент захоплюється//
-    // виклики api//
-    // змінні // // //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, , myOutsideHeavyLifingFunction); 
-///Запустіть функцію seperate від UpdateData події кожні 10 секунд, щоб отримати і встановити змінні, які оновлюють дані
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-присутні. n("UpdateData", async () => {
-    /*UpdateData завжди надсилається, і тому слід використовувати як цикл оновлень, або "tick`. Це називається кілька разів вдруге, де це можливо.
+presence.on("UpdateData", async () => {
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Це називається кілька разів вдруге, де це можливо.
 
     Рекомендується встановити іншу функцію за межами цієї функції події, яка змінить значення змінної і зробить важкий підйом, якщо ви викликаєте дані з API. /
 
@@ -251,34 +250,33 @@ presence.on("iFrameData", data => {
 
 ```javascript
 var presence = new Presence({
-    clientId: "00000000000000", //Ідентифікатор клієнта, створеного в https://discordapp. om/developers/applications
-    mediaKeys: false /Enable use and find of media key presses
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
-strings = presence. etStrings({
+strings = presence.getStrings({
     play: "presence.playback.playing",
-    пауза: "presence.playback. Призупинено
-    //Ви можете використовувати це, щоб отримати перекладені рядки
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
 });
 
 /*
 
-функція myOutsideHeavyLiftingFunction(){
-    //Grab і обробити всі ваші дані тут
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
-    // елемент захоплення //
-    // api виклик //
-    // змінні // // //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, , myOutsideHeavyLifingFunction); 
-///Run функцію seperate від UpdateData події кожні 10 секунд, щоб отримати і встановити змінні, які оновлюють дані
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-присутні. n("UpdateData", () => {
-    /UpdateData завжди активована, і тому слід використовувати як цикл оновлень, або "tick`. Це називається кілька разів вдруге, де це можливо.
+presence.on("UpdateData", () => {
+    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Це називається кілька разів вдруге, де це можливо.
 
     ///Рекомендується налаштувати іншу функцію за межами цієї функції події, яка змінить значення змінної і зробить важкий підйом, якщо ви викликаєте дані з API.
 
