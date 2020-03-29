@@ -20,22 +20,32 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Własność            | Opis                                                                                            |
-|:------------------- |:----------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                |
-| moduł               | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Określa wersję JavaScript, którą kompilujesz.                                                   |
-| usuń Komentarze     | Usuwanie komentarzy z skompilowanych plików.                                                    |
-| **wyklucz**         | Tutaj możesz zdefiniować foldery, które chcesz wyłączyć z przyszłej kompilacji.                 |
+| Własność                   | Opis                                                                                                                            |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                                                |
+| moduł                      | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
+| target                     | Określa wersję JavaScript, którą kompilujesz.                                                                                   |
+| usuń Komentarze            | Usuwanie komentarzy z skompilowanych plików.                                                                                    |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
 
 ## Konfiguracja Presence
 
