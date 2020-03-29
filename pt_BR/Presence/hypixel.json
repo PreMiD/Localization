@@ -4,19 +4,19 @@
         "description": ""
     },
     "hypixel.watchThreads": {
-        "message": "Visualizando seus Threads Assistidos",
+        "message": "Visualizando seus tópicos assistidos",
         "description": "Articles they get notifications from"
     },
     "hypixel.watchForums": {
-        "message": "Visualizando seus fóruns acompanhados",
+        "message": "Visualizando seus fóruns assistidos",
         "description": "Forum categories they get notifications from"
     },
     "hypixel.dm": {
-        "message": "Vendo sua DM",
+        "message": "Vendo suas mensagens diretas",
         "description": ""
     },
     "hypixel.game": {
-        "message": "Assistindo Jogo:",
+        "message": "Visualizando um jogo:",
         "description": ""
     }
 }
