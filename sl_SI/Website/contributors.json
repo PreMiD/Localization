@@ -31,6 +31,10 @@
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
 	"contributors.roles.booster": {
 		"message": "Podpornik strežnika",
 		"description": "'Booster' title for contributors page and user pages."
@@ -38,5 +42,13 @@
 	"contributors.roles.translator": {
 		"message": "Prevajalec",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klikni za kopiranje ID uporabnika.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID uporabnika kopirano v odložišče vsebine!",
+		"description": "Notification after user ID was copied."
 	}
 }
