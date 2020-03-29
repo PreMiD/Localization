@@ -28,34 +28,19 @@ Musí být poskytnuta vlastnost `klientských Id` , aby vaše přítomnost fungo
 
 Můžete to získat na stránce [aplikací](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Tato vlastnost říká naší aplikaci, aby registrovala klíčové vazby pro mediální klíče a umožňuje nám použít událost `MediaKeys` pro třídu `Presence`.
-
-Tato vlastnost není vyžadována, ale pokud chcete povolit mediální klíče, měli byste ji nastavit na `true`.
-
-**Všechny události mediaKey jsou dočasně zakázány!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Umožňuje uživatelům používat mediální klíče
-});
-```
-
 ## Metody
 
 ### `setActivity(presenceData, Boolean)`
 
-Nastaví vaši aktivitu profilu podle zadaných dat.
+Sets your profile activity according to provided data.
 
-První parametr vyžaduje rozhraní `přítomnostiData` pro získání všech informací, které chcete zobrazit ve vašem profilu.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Druhý parametr definuje, když přítomnost něco hraje nebo ne. Vždy používejte `tru` pokud poskytnete časové značky v `přítomnostiData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Vymaže vaši aktuální aktivitu, klávesové zkratky a název lišty.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -63,35 +48,35 @@ Vymaže vaši aktuální aktivitu, klávesové zkratky a název lišty.
 > 
 > {.is-warning}
 
-Nastaví titulek lišty v menu
+Sets the tray title on the Menubar.
 
 ### `getStrings(Objekt)`
 
-Umožňuje získat přeložené řetězce z rozšíření. Musíte zadat `Objekt` s klíčem pro řetězec, `keyValue` je hodnota řetězce. Můžete najít některé řetězce pomocí tohoto koncového bodu: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Vrátí `Playing` a `Paused` řetězce
-// z rozšíření.
-řetězce = čekat na přítomnost.getStrings({
-    přehrávání: "presence.playback.playing",
-    pozastavení: "presence.playback.paused"
+// Returns `Playing` and `Paused` strings
+// from extension.
+strings = await presence.getStrings({
+    play: "presence.playback.playing",
+    pause: "presence.playback.paused"
 });
 ```
 
 ### `getPageLetiable(String)`
 
-Vrátí proměnnou z webu, pokud existuje.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Toto bude zaznamenávat "Proměnný obsah"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `přítomnostiData` Rozhraní
 
-Rozhraní `PresenceData` se doporučuje používat, pokud používáte metodu `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Toto rozhraní sleduje proměnné, všechny jsou volitelné.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -157,12 +142,12 @@ Toto rozhraní sleduje proměnné, všechny jsou volitelné.
 </table>
 
 ```typescript
-var PresenceData: PresenceData = {
-    detaily: "My title",
-    stav: "Můj popis",
+var presenceData: presenceData = {
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Přešli jste mě a co teď? ,
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -170,24 +155,20 @@ var PresenceData: PresenceData = {
 
 ## Události
 
-Události vám umožňují rozpoznat a zpracovat některé změny nebo hovory, které byly provedeny. Události můžete odebírat pomocí metody `na`
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Proveďte něco, když se data aktualizují.
+    // Do something when data gets updated.
 });
 ```
 
-K dispozici je jen málo událostí:
+There are few events available:
 
 #### `UpdateData`
 
-Tato událost je vypálena pokaždé, když se aktualizuje přítomnost.
-
-#### `MediaKeys` (zakázáno)
-
-Vyplněn, když uživatel používá mediální klíče na své klávesnici, [klikněte zde](/dev/presence/class#mediakeys) , abyste získali více informací o mediálních klíčích.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Zapáleno při příjmu dat ze skriptu iFram.
+Fired when data is received from iFrame script.
