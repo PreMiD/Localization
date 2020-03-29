@@ -28,21 +28,6 @@ let presence = new Presence({
 
 あなたのプレゼンスのID等はDiscordの[アプリケーションページ](https://discordapp.com/developers/applications)から取得できます。
 
-#### `mediaKeys`
-
-このプロパティはアプリケーションにメディアキーのキー割り当てを登録するように指示し、`Presence`クラスで`MediaKeys`イベントを使用可能にします。
-
-このプロパティは必須ではありませんが、メディアキーを有効にしたい場合、`true`に設定するとよいでしょう。
-
-**全てのmediaKeyイベントは一時的に無効化されています！**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // ユーザーがメディアキーを利用できるようにする
-});
-```
-
 ## メソッド
 
 ### `setActivity(presenceData, Boolean)`
@@ -180,10 +165,6 @@ presence.on("UpdateData", async () => {
 #### `UpdateData`
 
 このイベントはプレゼンスが更新されるたびに呼び出されます。
-
-#### `MediaKeys` (使用不可)
-
-ユーザーがキーボードでメディアキーを押したときに呼び出されます。 [ここ](/dev/presence/class#mediakeys)でメディアキーについての情報を調べられます。
 
 #### `iFrameData`
 
