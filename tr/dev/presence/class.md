@@ -28,21 +28,6 @@ let presence = new Presence({
 
 Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
-#### `mediaKeys`
-
-Bu alan, servisinizin klavyedeki multimedya tuşlarına basılmasını yakalamak isteyenler için ayarlanmalıdır, ayarlandığı taktirde kodunuzda `MediaKeys` eventini kullanabileceksiniz.
-
-Bu alan gerekli değildir ve **tarayıcılar bu desteği zaten eklediği için artık kullanılmamaktadır**, ancak bir sebepten dolayı bunlara ihtiyaç duyuyorsanız bu ayarı `true` olarak ayarlamalısınız.
-
-**Yukarıda bahsedildiği gibi bu event geçici veya kalıcı olarak devre dışıdır!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Medya tuşlarını yakalamayı sağlar
-});
-```
-
 ## Metodlar
 
 ### `setActivity(presenceData, Boolean)`
@@ -180,10 +165,6 @@ Kullanabileceğiniz birkaç event vardır:
 #### `UpdateData`
 
 Bu event, kullanıcı servisin çalışacağı bir siteye girdikten sonra sürekli olarak kendini tekrar edecektir.
-
-#### `MediaKeys` (artık mevcut değil)
-
-Kullanıcılar klavyelerindeki medya tuşlarına basınca devreye girecektir, daha fazla bilgi için [buraya](/dev/presence/class#mediakeys) tıklayabilirsiniz.
 
 #### `iFrameData`
 
