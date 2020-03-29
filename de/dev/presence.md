@@ -24,7 +24,7 @@ Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutze
 When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
 
 ## Erstellung
-> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+> Der Code, den du schreibst, MUSS *ordentlich geschrieben* und MUSS *lesbar sein*. `DeepScan` auf GitHub meldet Qualitätsprobleme an das `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
 > 
 > {.is-warning}
 
@@ -48,17 +48,17 @@ presence
 ```
 
 Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
-- The presence **MUST** be related to the website you have chosen.
-- The presence **MUST NOT** be of any illegal websites. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw...
-- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
-- The presence **MUST NOT** have any malicious intentions. Dazu gehört Stehlen/Weitergeben von privaten Informationen, Beeinträchtigen des Verhaltens der Website usw...
-- Wenn Du eine Präsenz für eine Website erstellst und sich die Website in der Zukunft ändern sollte, so bist **DU** verantwortlich, die Präsenz zu aktualisieren, dass sie wie erwartet, funktioniert. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
-- The presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
-- Your presence **CANNOT** manipulate local storage on the browser.
-- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
+- Die Präsenz **MUSS** mit der von Ihnen ausgewählten Website zusammenhängen.
+- Die Präsenz **DARF NICHT** von illegalen Websites stammen. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw...
+- Die Präsenzmetadaten **MÜSSEN** ordentlich geschriebene Inhalte enthalten, einschließlich gültiger Titel und Beschreibungen.
+- Die von Ihnen enthaltenen Medien (Symbole/Thumbnails) **MÜSSEN** mit der Website zusammenhängen und sollten hinsichtlich Größe und Qualität verständlich sein.
+- Die Dateistruktur **MUSS** ordentlich und strukturiert sein. Es dürfen keine zufälligen Dateien vorhanden sein, die mit der Funktion der Präsenz nichts zu tun haben.
+- Die Präsenz **DARF KEINE** böswilligen Absichten haben. Dazu gehört Stehlen/Weitergeben von privaten Informationen, Beeinträchtigen des Verhaltens der Website usw...
+- Wenn Du eine Präsenz für eine Website erstellst und sich die Website in der Zukunft ändern sollte, so bist **DU** verantwortlich, die Präsenz zu aktualisieren, dass sie wie erwartet, funktioniert. Wenn Sie Fehler nicht innerhalb von 7 Tagen beheben, können andere Entwickler Ihre Präsenz **ÜBERSCHREIBEN**, um die Probleme zu beheben.
+- Die Präsenz **MUSS** vor der Veröffentlichung auf Fehler getesten werden.
+- Ihre Präsenz **MUSS** SFW-Bilder und -Beschreibungen enthalten, unabhängig davon, ob es sich um NSFW handelt oder nicht. Wenn es sich bei Ihrer Präsenz um eine NSFW-Website handelt, fügen Sie Ihren Metadaten das Tag `nsfw` hinzu.
+- Ihre Präsenz **KANN** den lokalen Speicher im Browser **NICHT** manipulieren.
+- Ihre Präsenz verwendet möglicherweise Cookies, um Daten zu speichern. Allen von der Präsenz gespeicherten Daten sollte das Präfix `pmd_` vorangestellt werden.
 
 ## Modifikation
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
@@ -164,10 +164,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", async () => {
     /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Es wird empfohlen, eine andere Funktion außerhalb dieser Ereignisfunktion einzurichten, die variable Werte ändert und das schwere Heben ausführt, wenn Sie Daten von einer API aufrufen. /
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*Die Taste (Dateiname) des Großen Bildes auf der Anwesenheit. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
@@ -194,7 +194,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 
 ## Du kannst bestimmte Daten nicht abrufen?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
 2. Suche (<kbd>STRG</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
@@ -206,15 +206,15 @@ Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folge
 3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
-  /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
-  */
-  iframe.send({ //sending data
-    video: video,
-    time: video.duration
-  }); 
+iframe. n("UpdateData", () => {
+    /*
+    Holen Sie sich alle Daten, die Sie aus dem iFrame benötigen, in Variablen
+    und senden Sie sie dann mit iframe ab. Ende
+    */
+    iframe. end({ //Daten senden
+        Video: Video,
+        Mal: Video. uration  
+    });
 });
 ```
 4. Ermögliche Deiner Präsenz-Datei, Daten aus der iFrame-Datei zu empfangen.
@@ -251,20 +251,20 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000", //The client ID of the Application created at https://discordapp.com/developers/applications
-    mediaKeys: false //Enable use and detection of media key presses
+    clientId: "00000000000000000000000000000000", //Die Client-ID der Anwendung, die unter https://discordapp.com/developers/applications erstellt wurde
+    mediaKeys: false //Verwendung und Erkennung von Medientasten aktivieren
 }),
 
-strings = presence.getStrings({
+Strings = Presence. etStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    pause: "presence.playback. aused"
+    //Sie können dies verwenden, um übersetzte Zeichenfolgen zu erhalten
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+Funktion myOutsideHeavyLiftingFunction(){
+    //Alle deine Daten hier abrufen und verarbeiten
 
     // element grabs //
     // api calls //
@@ -272,13 +272,13 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Führen Sie die Funktion alle 10 Sekunden vom UpdateData Event getrennt aus, um die Variablen zu ermitteln, die UpdateData aufnimmt
 
 */
 
 
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+Presence. n("UpdateData", () => {
+    //UpdateData startet immer, und sollte daher als Ihr Aktualisierungszyklus oder "tick" verwendet werden. This is called several times a second where possible.
 
     //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
 
@@ -310,7 +310,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 
 ## Du kannst bestimmte Daten nicht abrufen?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
 2. Suche (<kbd>STRG</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
@@ -322,14 +322,14 @@ Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folge
 3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame();
-iframe.on("UpdateData", () => {
+iframe. n("UpdateData", () => {
     /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
+    Holen Sie sich alle Daten, die Sie aus dem iFrame benötigen, in Variablen
+    und senden Sie sie dann mit iframe ab. Ende
     */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
+    iframe. end({ //Daten senden
+        Video: Video,
+        Mal: Video. uration  
     });
 });
 ```
@@ -350,17 +350,17 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
+  "Mitwirkende": [{
     "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "Dienst": "SERVICE",
   "description": {
-    "en": "DESCRIPTION"
+    "de": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
+  "Version": "VERSION",
+  "Logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["CATEGORY", "TAG"],
@@ -377,7 +377,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
 - `iframe`
 - `iFrameRegExp`
 
-**Clarifying some value presets:**
+**Klarstellung einiger Wertvoreinstellungen:**
 <table>
   <thead>
     <tr>
@@ -411,7 +411,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
     <tr>
       <td style="text-align:left"><b>Bedienung</b>
       </td>
-      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Muss den gleichen Namen haben wie der Ordner, in dem sich alles befindet)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -508,7 +508,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>Kategorie</b>
       </td>
-      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -548,12 +548,12 @@ Klicke [hier](/dev/presence#filling-in-the-metadatajson-file), um zur TypeScript
 Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
 
 ## Debuggen
-- Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. If not then there is an error above.
+- Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
 - Wenn Dir das auch nicht hilft, frage einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/WvfVZ8T) um Hilfe.
 
 # Dateien erklärt
 - [Präsenzklasse](/dev/presence/class)
 - [iFrame-Klasse](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [Metadatendatei](/dev/presence/metadata)
 - [TypeScript-Konfiguration](/dev/presence/tsconfig)
 {.links-list}
