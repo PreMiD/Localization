@@ -28,34 +28,19 @@ Dla klasy `Presence` dostępne są dwie właściwości.
 
 Możesz to uzyskać na [stronie aplikacji](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Ta właściwość mówi naszej aplikacji o rejestrowaniu skrótów klawiszowych dla kluczy multimedialnych i pozwala nam używać zdarzenia `MediaKeys` dla klasy `Presence`.
-
-Ta właściwość nie jest wymagana, ale jeśli chcesz włączyć klucze multimedialne, powinieneś ustawić je na `true`.
-
-**Wszystkie zdarzenia mediaKey są tymczasowo wyłączone!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // umożliwia użytkownikom używanie kluczy multimedialnych
-});
-```
-
 ## Metody
 
 ### `setActivity(presenceData, Boolean)`
 
-Ustawia aktywność Twojego profilu zgodnie z podanymi danymi.
+Sets your profile activity according to provided data.
 
-Pierwszy parametr wymaga interfejsu `presenceData` , aby uzyskać wszystkie informacje, które chcesz wyświetlić w profilu.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Drugi parametr definiuje, kiedy obecność jest odtwarzana czymś lub nie. Zawsze używaj `true` jeśli podasz znaczniki czasu w `obecnościDane`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Czyści Twoją aktualną aktywność, skróty klawiszowe i tytuł zasobnika.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -63,35 +48,35 @@ Czyści Twoją aktualną aktywność, skróty klawiszowe i tytuł zasobnika.
 > 
 > {.is-warning}
 
-Ustawia tytuł zasobnika na pasku menu.
+Sets the tray title on the Menubar.
 
 ### `getStrings(Obiekt)`
 
-Pozwala na otrzymywanie przetłumaczonych ciągów z rozszerzenia. Musisz podać `Obiekt` z kluczem do ciągu, `klawiszowa wartość` jest wartością ciągu znaków. Część ciągów można znaleźć za pomocą tego punktu końcowego: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Zwraca `Playing` i `Paused` ciągi
-// z rozszerzenia.
-ciągi = oczekiwanie obecności.getStrings({
-    odtwarzać: "presence.playback.playing",
+// Returns `Playing` and `Paused` strings
+// from extension.
+strings = await presence.getStrings({
+    play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
 ```
 
 ### `getPageLetiable(String)`
 
-Zwraca zmienną z witryny, jeśli istnieje.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // To będzie logować "Variable content"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `obecnośćData` Interfejs
 
-Interfejs `presenceData` jest zalecany do użycia, gdy używasz metody `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Ten interfejs ma następujące zmienne, wszystkie są opcjonalne.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -157,37 +142,33 @@ Ten interfejs ma następujące zmienne, wszystkie są opcjonalne.
 </table>
 
 ```typescript
-var presenceData: obecnośćDane = {
-    szczegóły: "Mój tytuł",
-    stan: "Mój opis",
+var presenceData: presenceData = {
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Oszczędzasz mnie i co teraz? ,
-    start Timestamp: 1564444631188,
+    smallImageText: "You hovered me, and what now?",
+    startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
 ## Wydarzenia
 
-Zdarzenia umożliwiają wykrycie i obsługę pewnych zmian lub połączeń, które zostały wykonane. Możesz subskrybować wydarzenia za pomocą metody `on`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
-obecność.on("UpdateData", async () => {
-    // Zrób coś, gdy dane zostaną zaktualizowane.
+presence.on("UpdateData", async () => {
+    // Do something when data gets updated.
 });
 ```
 
-Istnieje niewiele dostępnych wydarzeń:
+There are few events available:
 
 #### `Aktualizuj dane`
 
-To wydarzenie jest uruchamiane za każdym razem, gdy obecność jest aktualizowana.
-
-#### `MediaKeys` (wyłączony)
-
-Wystrzelony, gdy użytkownik używa kluczy multimedialnych na swojej klawiaturze, [kliknij tutaj](/dev/presence/class#mediakeys) , aby uzyskać więcej informacji o kluczach multimedialnych.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Wystrzelony, gdy dane są odebrane ze skryptu iFrame.
+Fired when data is received from iFrame script.
