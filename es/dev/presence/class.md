@@ -28,21 +28,6 @@ La propiedad `clientId` ha de ser proporcionada para que la presencia funcione c
 
 Puedes obtenerlo en tu [página de aplicaciones](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Esta propiedad le dice a nuestra aplicación que registre las pulsaciones de teclado de las teclas multimedia y nos permite usar el evento `MediaKeys` para la clase `Presence`.
-
-Esta propiedad no es requerida, pero si desea habilitar las teclas multimedia debe establecerla a `true`.
-
-**¡Todos los eventos mediaKey están temporalmente desactivados!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Permite a los usuarios usar teclas multimedia
-});
-```
-
 ## Métodos
 
 ### `setActivity(presenceData, Boolean)`
@@ -183,10 +168,6 @@ Hay algunos eventos disponibles:
 #### `UpdateData`
 
 Este evento es lanzado cada vez que la presencia es actualizada.
-
-#### `MediaKeys` (deshabilitado)
-
-Lanzado cuando el usuario utiliza teclas multimedia en su teclado, [clic aquí](/dev/presence/class#mediakeys) para obtener más información acerca de las teclas multimedia.
 
 #### `iFrameData`
 
