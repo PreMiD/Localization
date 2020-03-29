@@ -20,22 +20,32 @@ In het root configuratiebestand ziet u zoiets als deze.
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Property            | Beschrijving                                                                                  |
-|:------------------- |:--------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Gebruikt voor het configureren van de compiler, de meeste eigenschappen bevinden zich hier.   |
-| module              | Je kunt er meer over lezen [hier](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target              | Definieert de JavaScript-versie die u aan het compileren bent.                                |
-| removeComments      | Verwijder reacties uit gecompileerde bestanden.                                               |
-| **exclude**         | Hier kunt u de mappen definiëren die u wilt uitsluiten van de toekomstige compilatie.         |
+| Property                   | Beschrijving                                                                                                                    |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Gebruikt voor het configureren van de compiler, de meeste eigenschappen bevinden zich hier.                                     |
+| module                     | Je kunt er meer over lezen [hier](https://www.typescriptlang.org/docs/handbook/modules.html).                                   |
+| target                     | Definieert de JavaScript-versie die u aan het compileren bent.                                                                  |
+| removeComments             | Verwijder reacties uit gecompileerde bestanden.                                                                                 |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Hier kunt u de mappen definiëren die u wilt uitsluiten van de toekomstige compilatie.                                           |
 
 ## Presence Configuratie
 
