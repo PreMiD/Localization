@@ -1,16 +1,16 @@
 ---
 title: Linux
-description: Primeiros passos com a instalação do PreMiD no Linux
+description: Primeiros passos para a instalação do PreMiD no Linux
 published: true
 date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
-> Antes de continuar, certifique-se de que seu sistema atenda a todos os [requisitos](/install/requirements).{.is-info}
+> Antes de irmos mais longe, certifique-se que o seu sistema cumpre todos os [requisitos](/install/requirements).{.is-info}
 
-A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
+A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
-# Instalação
+# Instalar
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
     <th>Additional Notes</th>
   </tr>
   <tr>
-    <td>Todas</td>
+    <td>Todos</td>
     <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
     <td>
         <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
@@ -54,7 +54,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
   </tr>
 </table>
 
-> Não se esqueça de [adicionar a **extensão**](/install).{.is-warning}
+> Não se esqueça de <a href=/install">adicionar a **extensão**</a>.{.is-warning}
 
 # More info
 https://github.com/PreMiD/Linux
