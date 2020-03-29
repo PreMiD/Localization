@@ -28,21 +28,6 @@ La Proprietà `clientId` deve essere inserita affinché la tua presence funzioni
 
 Puoi ottenerlo nella tua [pagina di applicazioni](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Questa proprietà dice alla nostra app di registrare le scorciatoie per i tasti media e ci permette di usare l'evento `MediaKeys` per la classe `Presence`.
-
-Questa proprietà non è richiesta, tuttavia se vuoi abilitare i tasti media dovresti impostarla a `true`.
-
-**Tutti gli eventi mediaKey sono temporaneamente disabilitati!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Allows users to use media keys
-});
-```
-
 ## Metodi
 
 ### `setActivity(presenceData, Boolean)`
@@ -180,10 +165,6 @@ Ci sono un po' di elementi disponibili:
 #### `UpdateData`
 
 Questo evento è lanciato ogni volta che la presnce viene aggiornata.
-
-#### `MediaKeys` (disabilitato)
-
-Lanciato quando un utente utilizza i tasti media sulla sua tastiera, [clicca qua](/dev/presence/class#mediakeys) per ottenere più informazioni riguardo i tasti media.
 
 #### `iFrameData`
 
