@@ -20,22 +20,32 @@ Kök yapılandırma (`tsconfig.js`) dosyasında böyle bir şeyle karşılaşaca
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "exclude": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Özellik             | Açıklama                                                                                                              |
-|:------------------- |:--------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions** | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                    |
-| module              | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz. |
-| target              | Derleyeceğiniz JavaScript sürümünü belirler.                                                                          |
-| removeComments      | Derlenmiş dosyalardan yorumları kaldırır.                                                                             |
-| **exclude**         | Buraya derlemede işlenmeyecek klasörleri yazarak sonraki işlemleriniz için bu klasörleri göz ardı ettirebilirsiniz.   |
+| Özellik                    | Açıklama                                                                                                                        |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                              |
+| module                     | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz.           |
+| target                     | Derleyeceğiniz JavaScript sürümünü belirler.                                                                                    |
+| removeComments             | Derlenmiş dosyalardan yorumları kaldırır.                                                                                       |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Buraya derlemede işlenmeyecek klasörleri yazarak sonraki işlemleriniz için bu klasörleri göz ardı ettirebilirsiniz.             |
 
 ## Servis Yapılandırması
 
