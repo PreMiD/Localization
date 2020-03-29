@@ -28,34 +28,19 @@ La propriété `clientId` doit être fournie pour que votre présence fonctionne
 
 Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Cette propriété indique à notre application d'enregistrer les raccourcis clavier pour les clés multimédias et nous permet d'utiliser l'événement `MediaKeys` pour la classe `Presence`.
-
-Cette propriété n'est pas requise, mais si vous voulez activer les clés multimédia, vous devez la définir à `true`.
-
-**Tous les événements mediaKey sont temporairement désactivés !**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Permet aux utilisateurs d'utiliser les clés de média
-});
-```
-
 ## Méthodes
 
 ### `setActivity(presenceData, Boolean)`
 
-Définit l'activité de votre profil en fonction des données fournies.
+Sets your profile activity according to provided data.
 
-Le premier paramètre nécessite une interface `présenceData` pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Le deuxième paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `présenceData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Efface votre activité actuelle, les raccourcis clavier et le titre de la zone de notification.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -63,16 +48,16 @@ Efface votre activité actuelle, les raccourcis clavier et le titre de la zone d
 > 
 > {.is-warning}
 
-Définit le titre de la barre de menus.
+Sets the tray title on the Menubar.
 
 ### `getStrings(Objet)`
 
-Vous permet d'obtenir des chaînes traduites depuis l'extension. Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Vous pouvez trouver certaines des chaînes en utilisant ce point de terminaison: `https://api.premid.app/v2/langFIle/extension/fr`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Retourne `Playing` et `Paused` chaînes
-// depuis l'extension.
-strings = Attendre presence.getStrings({
+// Returns `Playing` and `Paused` strings
+// from extension.
+strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
@@ -80,18 +65,18 @@ strings = Attendre presence.getStrings({
 
 ### `Obtenir la légalité de la page (chaîne de caractères)`
 
-Retourne une variable du site web si elle existe.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Cela va enregistrer le "Contenu de la variable"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `Interface de données de présence`
 
-L'interface `presenceData` est recommandée à utiliser lorsque vous utilisez la méthode `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Cette interface a des variables suivantes, toutes sont optionnelles.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -158,36 +143,32 @@ Cette interface a des variables suivantes, toutes sont optionnelles.
 
 ```typescript
 var presenceData: presenceData = {
-    détails: "Mon titre",
-    état : "Ma description",
-    largeImageKey : "service_logo",
+    details: "My title",
+    state: "My description",
+    largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Vous m'avez survolé, et que maintenant? ,
-    startTimestamp : 1564444631188,
-    endTimestamp : 1564444634734
+    smallImageText: "You hovered me, and what now?",
+    startTimestamp: 1564444631188,
+    endTimestamp: 1564444634734
 };
 ```
 
 ## Évènements
 
-Les événements vous permettent de détecter et de gérer certains changements ou appels qui ont été effectués. Vous pouvez vous abonner aux événements en utilisant la méthode `sur`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Faire quelque chose quand les données sont mises à jour.
+    // Do something when data gets updated.
 });
 ```
 
-Il y a peu d'événements disponibles :
+There are few events available:
 
 #### `Mettre à jour les données`
 
-Cet événement est déclenché chaque fois que la présence est mise à jour.
-
-#### `Touches médiatiques` (désactivées)
-
-Déclenché lorsque l'utilisateur utilise des touches média sur son clavier, [cliquez ici](/dev/presence/class#mediakeys) pour obtenir plus d'informations sur les touches multimédia.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Déclenché lorsque des données sont reçues à partir du script iFrame.
+Fired when data is received from iFrame script.
