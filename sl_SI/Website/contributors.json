@@ -15,6 +15,22 @@
 		"message": "Avtor",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "Izvršni direktor",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Nadzornik delovanja",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Grafični oblikovalec",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
 	"contributors.roles.booster": {
 		"message": "Podpornik strežnika",
 		"description": "'Booster' title for contributors page and user pages."
