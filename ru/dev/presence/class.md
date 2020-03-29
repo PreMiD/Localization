@@ -28,34 +28,19 @@ let presence = new Presence({
 
 Вы можете получить это на [странице приложений](https://discordapp.com/developers/applications).
 
-#### `mediaKeys`
-
-Это свойство говорит нашему приложению зарегистрировать сочетания клавиш для мультимедиа и позволяет нам использовать `MediaKeys` события для класса `Presence`.
-
-Это свойство не обязательно, но если вы хотите включить медиа-ключи, вы должны установить его на `true`.
-
-**Все события mediaKey временно отключены!**
-
-```typescript
-let presence = new Presence({
-    clientId: "514271496134389561",
-    mediaKeys: true // Позволяет пользователям использовать медиа-ключи
-});
-```
-
 ## Методы
 
 ### `setActivity(presenceData, Boolean)`
 
-Устанавливает активность профиля в соответствии с предоставленными данными.
+Sets your profile activity according to provided data.
 
-Первый параметр требует интерфейс `присутствия` для получения всей информации, которую вы хотите отобразить в вашем профиле.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Второй параметр определяет, когда присутствует что-то или нет. Всегда используйте `true` , если вы предоставляете временные метки в `наличииДанных`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Очищает вашу текущую активность, сочетания клавиш и заголовок лота.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -63,35 +48,35 @@ let presence = new Presence({
 > 
 > {.is-warning}
 
-Устанавливает заголовок лотка в меню Menubar.
+Sets the tray title on the Menubar.
 
 ### `getStrings(Объект)`
 
-Позволяет получать переведенные строки из расширения. Вы должны предоставить `Объект` ключами как ключ для строки, `keyValue` это строковое значение. Вы можете найти некоторые строки, используя эту конечную точку: `https://api.premid.app/v2/langFIle/extension/ru`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Возвращает `Playing` и `Paused` строки
-// из расширения.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
-    пауза: "presence.playback.paused"
+    pause: "presence.playback.paused"
 });
 ```
 
 ### `getPageLetiable(String)`
 
-Возвращает переменную с веб-сайта, если она существует.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Это зарегистрирует "Переменное содержание"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Интерфейс
 
-При использовании метода `setActivity()` рекомендуется использовать интерфейс `presenceData`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Этот интерфейс имеет следующие переменные, все они необязательны.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -158,11 +143,11 @@ console.log(pageVar); // Это зарегистрирует "Переменно
 
 ```typescript
 var presenceData: presenceData = {
-    подробности: "Мой титул",
-    состояние: "Мое описание",
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Вы меня подогнали, и что сейчас? ,
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -170,24 +155,20 @@ var presenceData: presenceData = {
 
 ## События
 
-События позволяют обнаруживать и обрабатывать некоторые изменения или вызовы. Вы можете подписаться на события, используя метод `на`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Выполняйте что-то при обновлении данных.
+    // Do something when data gets updated.
 });
 ```
 
-Доступно несколько событий:
+There are few events available:
 
 #### `Обновить данные`
 
-Это событие запускается каждый раз при обновлении присутствия.
-
-#### `MediaKeys` (отключено)
-
-Ужас, когда пользователь использует клавиши мультимедиа на своей клавиатуре, [нажмите здесь](/dev/presence/class#mediakeys) для получения дополнительной информации о медиа-клавишах.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Исправлена ошибка получения данных из скрипта iFrame.
+Fired when data is received from iFrame script.
