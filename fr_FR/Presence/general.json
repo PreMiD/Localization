@@ -15,6 +15,10 @@
         "message": "DJ",
         "description": ""
     },
+    "general.editing": {
+        "message": "Modification:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Épisode",
         "description": ""
@@ -39,12 +43,20 @@
         "message": "Manga",
         "description": ""
     },
+    "general.merch": {
+        "message": "Marchandise",
+        "description": ""
+    },
     "general.page": {
         "message": "Page",
         "description": ""
     },
     "general.paused": {
         "message": "En pause",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Joue",
         "description": ""
     },
     "general.readingDM": {
@@ -69,6 +81,22 @@
     },
     "general.store": {
         "message": "Boutique",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Regarde un anime:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Lit un manga:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Regarde un film:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Regarde:",
         "description": ""
     },
     "general.watchingVid": {

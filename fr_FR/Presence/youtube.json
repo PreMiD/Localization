@@ -3,6 +3,30 @@
         "message": "Regarde actuellement une annonce",
         "description": ""
     },
+    "youtube.browsingVideos": {
+        "message": "Recherche une vidéo",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Recherche dans des playlists",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Regarde des messages de la communauté",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "de la chaîne:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Lit à propos d'une chaîne:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Recherche dans la chaîne: {0} pour:",
+        "description": "{0} will be replaced with the channel name"
+    },
     "youtube.subscriptions": {
         "message": "dans ses abonnements",
         "description": "Part two of \"Browsing through\""
@@ -29,6 +53,10 @@
     },
     "youtube.viewLiveEvents": {
         "message": "Regarde ses événements en direct",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Regarde son tableau de bord de live",
         "description": ""
     },
     "youtube.viewAudioLibrary": {

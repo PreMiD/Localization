@@ -1,1 +1,10 @@
-{}
+{
+	"spotify.madeForYou": {
+		"message": "\"Fait pour vous\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.download": {
+		"message": "Télécharge Spotify",
+		"description": ""
+	}
+}
