@@ -32,15 +32,15 @@ Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applicati
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Stelt uw profielactiviteit in volgens de verstrekte gegevens.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+De eerste parameter vereist een `presenceData` interface om alle informatie te krijgen die je wilt weergeven in je profiel.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Tweede parameter definieert wanneer presence iets afspeelt of niet. Gebruik altijd `true` als u timestamps verstrekt in `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Wist je huidige activiteit, de keybinds en de titel van het vak.
 
 ### `setTrayTitle(String)`
 
@@ -48,15 +48,15 @@ Clears your current activity, the keybinds and the tray title.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Stelt de systeemtitel in op de menubalk.
 
 ### `getStrings(object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Maakt het mogelijk om vertaalde teksten van de extensie te krijgen. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. U kunt sommige teksten vinden met dit eindpunt: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Retourneert `Playing` en `Paused` strings
+// uit extensie.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -65,18 +65,18 @@ strings = await presence.getStrings({
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Retourneert een variabele van de website als deze bestaat.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dit zal de "Variabele content" loggen
 ```
 
 ## `presenceData` Interface
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+De `presenceData` interface wordt aanbevolen om te gebruiken wanneer u de `setActivity()` methode gebruikt.
 
-This interface has following variables, all of them are optional.
+Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 
 <table>
   <thead>
@@ -143,11 +143,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Mijn titel",
+    state: "Mijn beschrijving",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Je hebt me bekeken, en wat nu?" ,
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -155,20 +155,20 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Events stellen je in staat om wijzigingen of oproepen die zijn gemaakt te detecteren en te verwerken. Je kunt je abonneren op event met behulp van `on` methode.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Doe iets wanneer data wordt bijgewerkt.
 });
 ```
 
-There are few events available:
+Er zijn een paar Events beschikbaar:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Dit evenement wordt afgevuurd elke keer dat de presence wordt bijgewerkt.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Wordt afgevuurd wanneer gegevens worden ontvangen uit iFrame script.
