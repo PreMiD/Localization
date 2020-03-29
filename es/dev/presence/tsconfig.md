@@ -20,22 +20,32 @@ En el archivo de configuración raíz verá algo como esto.
 
 ```javascript
 {
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
-    "removeComments": true
-  },
-  "excluyente": ["node_modules"]
+    "compilerOptions": {
+        "module": "CommonJS",
+        "target": "ES2020",
+        "removeComments": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "inlineSourceMap": true,
+        "typeRoots": ["@types"]
+    },
+    "exclude": ["node_modules"]
 }
 ```
 
-| Propiedad            | Descripción                                                                                  |
-|:-------------------- |:-------------------------------------------------------------------------------------------- |
-| **compilerOptions**  | Utilizado para configurar el compilador, la mayoría de las propiedades se encuentran aquí.   |
-| módulo               | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html). |
-| target               | Define la versión JavaScript que está compilando.                                            |
-| eliminar comentarios | Eliminando comentarios de archivos compilados.                                               |
-| **excluir**          | Aquí puede definir las carpetas que desea excluir de la compilación futura.                  |
+| Propiedad                  | Descripción                                                                                                                     |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Utilizado para configurar el compilador, la mayoría de las propiedades se encuentran aquí.                                      |
+| módulo                     | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html).                                    |
+| target                     | Define la versión JavaScript que está compilando.                                                                               |
+| eliminar comentarios       | Eliminando comentarios de archivos compilados.                                                                                  |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
 
 ## Configuración de presencia
 
