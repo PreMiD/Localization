@@ -154,5 +154,17 @@
     "general.viewMember": {
         "message": "Member ansehen:",
         "description": ""
+    },
+    "general.wishlist": {
+        "message": "Wunschliste:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Datenschutzerklärung",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Nutzungsbedingungen",
+        "description": "A page name"
     }
 }
