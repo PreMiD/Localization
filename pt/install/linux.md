@@ -56,7 +56,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 
 > Não se esqueça de [adicionar a **extensão**](/install).{.is-warning}
 
-# More info
+# Mais informação
 https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
