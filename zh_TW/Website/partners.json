@@ -127,8 +127,40 @@
 		"message": "最強大和可擴展的開源Wiki軟件。",
 		"description": "Description for WikiJS."
 	},
+	"partners.apply.title": {
+		"message": "申請為合作夥伴",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "以 {0} 登入",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "不是你嗎？",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "請選擇其中一個",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "網站",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "其它",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "例如: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "連結",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "例子: https://premid.app",
+		"description": "Link filed's placeholder."
 	}
 }
