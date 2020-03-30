@@ -62,5 +62,37 @@
 	"jobs.benefit3.description": {
 		"message": "強大的Discord權限和豐富多彩的用戶組。",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "支持 PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "通過您的貢獻，我們才可以成功執行此項目。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "逾時",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "不用急. 這是自願工作.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "搶先體驗",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "能夠在其他任何人之前測試新功能。",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "感謝您的申請!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "你之前已經申請過了!",
+		"description": "Notification when you applied already."
 	}
 }
