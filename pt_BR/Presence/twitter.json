@@ -19,6 +19,14 @@
         "message": "Vendo imagens de:",
         "description": ""
     },
+    "twitter.viewLiked": {
+        "message": "Visualizando curtidas por:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Visualizando lista:",
+        "description": ""
+    },
     "twitter.bookmarks": {
         "message": "Favoritas",
         "description": ""
