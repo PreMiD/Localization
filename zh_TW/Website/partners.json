@@ -151,6 +151,10 @@
 		"message": "其它",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "名稱",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "例如: PreMiD",
 		"description": "Name field's placeholder."
@@ -162,5 +166,49 @@
 	"partners.apply.form.link.placeholder": {
 		"message": "例子: https://premid.app",
 		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "描述:(最多150個字符)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "特點説明",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "圖片鏈接:(550*300, 只允許PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "例子: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "關閉",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "確定",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "感謝您的申請!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "請填寫所有的欄位.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "最多150個字符的描述。",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "請添加鏈接(必須以https://開頭及以.png結尾)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "您已經多於一次申請合作夥伴",
+		"description": "Error when already applied."
 	}
 }
