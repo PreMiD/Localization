@@ -51,6 +51,10 @@
     "message": "允許成人内容",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "僅喜歡的 presences",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "類別",
     "description": "Category heading"
