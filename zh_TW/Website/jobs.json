@@ -36,7 +36,7 @@
 		"description": "Text before the available job positions cards."
 	},
 	"jobs.benefits.title": {
-		"message": "高端利益",
+		"message": "高級福利",
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
-		"message": "逾時",
+		"message": "彈性工時",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
