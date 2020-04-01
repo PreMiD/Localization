@@ -15,6 +15,22 @@
 		"message": "създател",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Главен софтуерен инженер",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Уеб-разработчик",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Инженер",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Графичен дизайнер",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Старши модератор",
 		"description": "'Senior Moderator' title for contributors and user pages."
@@ -23,9 +39,17 @@
 		"message": "забавител",
 		"description": "'Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.juniorModerator": {
+		"message": "Младши модератор",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Проверка на присъствието",
 		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Коректор",
+		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
 		"message": "Дарител",
@@ -38,5 +62,13 @@
 	"contributors.roles.translator": {
 		"message": "Преводач",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Щракване за копиране на потребителския идент. №.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Потребителският идент. № е копиран в клипборда ви!",
+		"description": "Notification after user ID was copied."
 	}
 }
