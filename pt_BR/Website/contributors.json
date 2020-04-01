@@ -52,7 +52,7 @@
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Chefe de Presença Verificado",
+		"message": "Chefe de Verificação de Presença",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
