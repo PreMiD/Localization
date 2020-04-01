@@ -7,12 +7,52 @@
         "message": "Сърфирането ...",
         "description": ""
     },
+    "general.dj": {
+        "message": "Диджей",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Редактиране:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Епизод",
         "description": ""
     },
+    "general.forums": {
+        "message": "Форуми",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Жанр",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Слушане на музика",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Слушатели",
+        "description": ""
+    },
     "general.live": {
         "message": "Live\n",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "Манга",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Страница",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "На пауза",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Пуснато",
         "description": ""
     },
     "general.reading": {
@@ -25,6 +65,10 @@
     },
     "general.store": {
         "message": "магазин",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Списък с желания:",
         "description": ""
     }
 }
