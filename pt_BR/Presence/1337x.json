@@ -1,26 +1,26 @@
 {
     "1337x.movieLibrary": {
-        "message": "A ver a biblioteca de filmes",
+        "message": "Vendo a biblioteca de filmes",
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "A ver a biblioteca de séries",
+        "message": "Vendo a biblioteca de séries",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "A ver os últimos episódios",
+        "message": "Vendo os últimos episódios",
         "description": ""
     },
     "1337x.top": {
-        "message": "A ver o top 100",
+        "message": "Vendo o top 100",
         "description": ""
     },
     "1337x.trending": {
-        "message": "A ver as tendências",
+        "message": "Vendo as tendências",
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "A ver Torrents de Anime",
+        "message": "Vendo Torrents de Anime",
         "description": ""
     },
     "1337x.appTorrents": {
@@ -72,7 +72,7 @@
         "description": ""
     },
     "1337x.viewTorrent": {
-        "message": "Vendo Torrent",
+        "message": "Vendo Torrent:",
         "description": ""
     }
 }
