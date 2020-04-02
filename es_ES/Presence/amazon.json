@@ -3,6 +3,10 @@
         "message": "Viendo suscripciones",
         "description": ""
     },
+    "amazon.adprefs": {
+        "message": "Viendo su dirección",
+        "description": ""
+    },
     "amazon.balance": {
         "message": "Viendo su saldo",
         "description": ""
