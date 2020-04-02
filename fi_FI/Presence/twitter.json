@@ -1,1 +1,10 @@
-{}
+{
+    "twitter.notifs": {
+        "message": "Ilmoitukset",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Muuttamassa asetuksia...",
+        "description": ""
+    }
+}

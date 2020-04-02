@@ -15,6 +15,14 @@
     "message": "Suora",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
+  "presence.activity.reading": {
+    "message": "Luetaan",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Etsii",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
   "presence.media.info.episode": {
     "message": "Jakso {0}",
     "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
