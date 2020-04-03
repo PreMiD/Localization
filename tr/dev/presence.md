@@ -13,29 +13,29 @@ tags:
 `2.x` sürümleri, [servis mağazası](https://premid.app/store) özelliği ile birlikte gelir. Kullanıcılar bundan sonra kendi oluşturdukları servisleri [mağazaya](https://premid.app/store) ekletebilecek ve diğer kullanıcıların kullanımına sunabilecek.
 
 # Kurallar
-> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
+> Eğer tüm kurallara uymazsanız, bir `Servis Onaylayıcısı` sizden gerekli değişiklikleri yapmanızı isteyebilir, hatta gerektiği durumlarda "pull request"inizi kapatabilir. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> Eğer attığınız "pull request" yeni bir servis eklemek veya olan bir servis üzerinde değişiklikler yapmak için ise, açıklamanıza **MUTLAKA** ekran görüntüleri eklemelisiniz. `metadata.json` veya `tsconfig.json` dosyalarına yapılacak değişikliklerde ekran görüntülerine ihtiyaç yoktur. *Ekran görüntüleriniz MUTLAKA, "pull request" atarken GitHub'ın kendisine yüklenmelidir, üçüncü parti herhangi bir site kullanmayın.* 
 > 
 > {.is-warning}
 
-When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
+GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız bulunmaktadır. Bazıları için bu kurallar zorlayıcı görünebilir. Ancak bu ayarlamalar ve kurallar sunucularımızın düzgün bir biçimde çalışması için bize yardımcı olacaktır.
 
 ## Oluşturma
-> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+> Yazdığınız kod MUTLAKA *düzgün yazılmış* ve *okunaklı* olmalıdır. GitHub üzerindeki `DeepScan`, kodunuzda bulunan hataları size ve `Servis Onaylama Ekibi` üyelerine iletecektir. Yeni bir "pull request" atarken, depo kopyanızın güncel olmasını tavsiye ederiz, bu sayede daha az hatayla karşılaşacaksınız. 
 > 
 > {.is-warning}
 
-- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- "Pull request"iniz **MUTLAKA** tamamlanmış olmalıdır, doğru dosya yolu biçimi ve gerekli kurallara uyulmuş olunmalıdır. Taslaklar **KESİNLİKLE** kabul edilmeyecektir. `dist` klasöründe mutlaka bulunması gereken dosyalar, `presence.js` ve `metadata.json` dosyasıdır. Dosya yolları gösterilen şekilde olmalıdır:
 ```bash
 presence
 └── dist
     ├── metadata.json
     └── presence.js
 ```
-or if you're using TypeScript and `iframe` (the max you could reach) :
+veya eğer TypeScript ve `iframe` (varolan en fazla dosya sayısına sahip yöntemi) kullanıyorsanız, bu görüntü şöyle olmalıdır:
 ```bash
 presence
 ├── dist
@@ -48,46 +48,46 @@ presence
 ```
 
 Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri inceleyin ve aklınızda bulundurun.
-- The presence **MUST** be related to the website you have chosen.
-- The presence **MUST NOT** be of any illegal websites. Bunlara, uyuşturucular, çocuk pornografisi gibi siteler dahildir.
-- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
-- The presence **MUST NOT** have any malicious intentions. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
-- Eğer servisini yaptığınız bir site ileride güncellenirse, servisi güncelleyip tekrar çalışır hale getirmek **SİZİN** sorumluluğunuzdur. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
-- The presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
-- Your presence **CANNOT** manipulate local storage on the browser.
-- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
+- Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
+- Yaptığınız servis **KESİNLİKLE**, herhangi bir illegal siteninki olmamalıdır. Bunlara, uyuşturucular, çocuk pornografisi gibi siteler dahildir.
+- Servisin "metadata" dosyası, **KESİNLİKLE** düzgün bir biçimde hazırlanmış, geçerli başlıklar ve açıklamalar içeren bir dosya olmalıdır.
+- Belirttiğiniz ikon ve küçük resim (thumbnail) servis ile alakalı olmalı ve kalitesi **okunabilir** olmalıdır.
+- Dosya sisteminiz **MUTLAKA** temiz, düzgün ve rastgele/gereksiz dosyalarla dolu olmamalıdır.
+- Servis güvensiz **hiçbir** amaç barındırmamalıdır. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
+- Eğer servisini yaptığınız bir site ileride güncellenirse, servisi güncelleyip tekrar çalışır hale getirmek **SİZİN** sorumluluğunuzdur. Eğer kısa süre içerisinde gerekli düzeltmeleri yapıp yayınlamazsanız, diğer servis geliştiricileri sizin kodunuzu **tekrar yazma** veya düzenleme hakkına sahiptir.
+- Servis, incelemeye gönderilmeden önce **test edilmeli** ve her şeyin çalıştığına emin olunmalıdır.
+- Servisiniz, ne olursa olsun yetişkin içerik **barındırmayan** resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw` etiketini de eklemeniz gerekmektedir.
+- Yaptığınız servis, tarayıcının yerel depolamasını (local storage) **kontrol edemez**.
+- Verileri depolamak için, çerezleri kullanabilirsiniz. Verinin kaydedileceği çerezin başı, `pmd_` ile başlamalıdır.
 
 ## Yapılandırma
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
+> **presence.js** veya **metadata.json** dosyalarından herhangi birine bir değişiklik yaparken, **metadata** dosyanızdaki sürümü, bir önceki sürümden yüksek bir sürüme güncellemelisiniz. 
 > 
 > {.is-warning}
 
-Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Here is a compiled list that you **MUST** follow to modify presences.
-- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
-- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
-- Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Do not change images if they are not outdated and have a decent resolution.
+Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
+- Bir servis üzerinde değişiklik yapmaya veya yapımcısını değiştirmeye yetkiniz yoktur. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya 7 gün içerisinde herhangi bir değişiklik yapmadıysa, bir `Servis Onaylayıcısı` ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
+- Eğer düzenleme yaptığınız servisin **ÇEYREĞİNİ** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir `Servis Onaylayıcısı` ile iletişime geçebilirsiniz.
+- Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
 - Paylaşmadan önce değişikliklerinizin çalıştığından emin olmanız gerekir. Değişikliklerinizin neye sonuç açacağını bilmeden "pull request" açmayın.
 
 # Onaylanma
 
-> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm `Servis Onaylayıcısı` üyeleri, sunucumuzda özel bir role sahiptir.
 
-For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
+Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde çalıştığına emin olmak adına yapılan işlemlerden geçmelidir. Aşağıdan bir "pull request" açarken dikkat etmeniz gereken maddeleri bulabilirsiniz.
 
 1. Yaptığınız servisin doğruluğunu onaylamak için iki farklı inceleme ekibi üyesinin onayı gerekir. Eğer ekip üyesi sizden değişiklikler yapmanızı isterse, uğraşmalı ve yapmalısınız, yoksa mağazaya eklenmeyecek ve emekleriniz boşa gidecektir.
-2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (örn. erişemeyeceğiniz bir şeye erişebilen birini kullanmak).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
+2. Eğer ekip üyesi sizden değişiklik talep eder ve **7 gün içerisinde** geri dönüş yapmazsanız, açtığınız "Pull Request" kapatılacaktır.
+3. Başka bir kullanıcının yardımıyla aldığınız ekran görüntülerini, kolaylık açısından yazınıza iliştirebilirsiniz (örn. erişemeyeceğiniz bir şeye erişebilen birini kullanmak).
+4. Eğer bir yenilik veya değişiklikler yaptıysanız, ekran görüntüleri bu değişiklikleri **içermelidir**, eskiden gönderilmiş ekran görüntülerini değil.
 5. Sağlanan ekran görüntüleri gerçek olmalıdır, montajlanmış değil.
 6. Katkıda bulunulan ve onaylanan tüm kodlar **Mozilla Public License 2.0** lisansı altında saklanacaktır.
-7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+7. Bedava alan adları (örn, .TK [tüm Freenom alan adları], .RF.GD gibi...) veya sağlayıcıları için bir servis **geliştiremezsiniz**, alan adı veya sağlayıcı için ödeme sağladıkları bilgiyi iletmeleri durumunda gerekli tolerans gösterilecektir.
+8. `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz ("oynatılıyor", "durduruldu" gibi) kısımlardır. Burada bir Discord hesabının reklamını yapamaz, PreMiD ile alakasız herhangi bir şey kullanamazsınız.
 9. Resimlerin oranı 1:1 (kare), 512 piksel boyutunda, küçük resimler ise [geniş promosyon kartları](https://i.imgur.com/3QfIc5v.jpg) veya bu seçenek servis için mümkün değilse [servisin ekran görüntüsü](https://i.imgur.com/OAcBmwW.png) olmalıdır.
-10. Presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+10. Servisler en az 1 etiket içermelidir, bu madde ileride kaldırılabilir ve bu gereklilik ortadan kaldırılabilir.
+11. `url` alanı, `http://` veya `https://` **içermemelidir** (`https://www.google.com/search?gws_rd=ssl` adresi için `url` kısmı, sadece `www.google.com` olmalıdır).
 12. Açıklamalar ve etiketler, sadece bir adet olsalar bile mutlaka array içerisinde olmalıdır. Sadece `url` kısmı eğer tek bir site içinse array dışına yazılabilir.
 13. Sürekli API/alan adı değişiklikleri yapan stabil olmayan, rastgele HTML elementleriyle donatılmış olan veya ağır bir geliştirilme aşamasından geçen siteler kabul edilmeyecek ve marketten silinecektir.
 
@@ -109,12 +109,12 @@ Servisinizi ister [JavaScript](https://www.javascript.com/), isterseniz de [Type
 ## Klasörleri ve dosyaları oluşturma
 
 1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
+2. Bir `presence.ts` ve bir `tsconfig.json` dosyası oluşturun.
 3. Ana klasörün içine `dist` adında bir klasör oluşturun.
 4. `dist` klasörünün içine de bir `metadata.json` dosyası oluşturun.
 
 ## tsconfig.json dosyasını doldurma
-Please put the following code inside of the `tsconfig.json` file.
+Aşağıda gördüğünüz kodu `tsconfig.json` dosyasının içine yapıştırın.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -134,34 +134,33 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ## Başlarken
 
 ```javascript
-var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+let presence = new Presence({
+    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    // Çevirileri almak için bu fonksiyonu kullanabilirsiniz
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
+    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // ekstra işlemler //
+    // API işlemleri //
+    // değişken ayarlamaları //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
+// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
 
 */
 
-
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Burayı dikkatli kullanın.
+    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
 
     Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır. */
 
@@ -249,34 +248,33 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ## Başlarken
 
 ```javascript
-var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+let presence = new Presence({
+    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    // Çevirileri almak için bu fonksiyonu kullanabilirsiniz
 });
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
+    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // ekstra işlemler //
+    // API işlemleri //
+    // değişken ayarlamaları //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
+// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
 
 */
 
-
 presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Burayı dikkatli kullanın.
+    // UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
 
     // Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak çok daha iyi olacaktır.
 
@@ -547,6 +545,6 @@ Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız her
 # Dosyaların açıklamaları
 - [Presence Sınıfı](/dev/presence/class)
 - [iFrame Sınıfı](/dev/presence/iframe)
-- [Metadata Dosyası](/dev/presence/metadata)
+- [Metadata Dosyası](/dev/presence/iframe)
 - [TypeScript Konfigürasyonu](/dev/presence/tsconfig)
 {.links-list}
