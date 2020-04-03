@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # PreMiD Hakkında
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [PreMiD Nedir?](/about) Neden kullanmalısınız?
 - :link: [RPC nedir?](https://discordapp.com/rich-presence) Discord'un RPC özelliği ve fonksiyonları.
 
 # Başlarken
