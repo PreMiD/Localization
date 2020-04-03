@@ -47,6 +47,10 @@
         "message": "Dans ses historique des signalements",
         "description": ""
     },
+    "youtube.upload": {
+        "message": "Mise à jour de quelque chose...",
+        "description": ""
+    },
     "youtube.viewAllPlaylist": {
         "message": "Regarde toutes ses playlists",
         "description": ""
