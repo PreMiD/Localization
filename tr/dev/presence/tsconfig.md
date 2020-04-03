@@ -34,18 +34,18 @@ Kök yapılandırma (`tsconfig.js`) dosyasında böyle bir şeyle karşılaşaca
 }
 ```
 
-| Özellik                    | Açıklama                                                                                                                        |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                              |
-| module                     | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz.           |
-| target                     | Derleyeceğiniz JavaScript sürümünü belirler.                                                                                    |
-| removeComments             | Derlenmiş dosyalardan yorumları kaldırır.                                                                                       |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
-| inlineSourceMap            | Adds sourcemapping                                                                                                              |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude**                | Buraya derlemede işlenmeyecek klasörleri yazarak sonraki işlemleriniz için bu klasörleri göz ardı ettirebilirsiniz.             |
+| Özellik                    | Açıklama                                                                                                                                                |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                                                      |
+| module                     | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz.                                   |
+| target                     | Derleyeceğiniz JavaScript sürümünü belirler.                                                                                                            |
+| removeComments             | Derlenmiş dosyalardan yorumları kaldırır.                                                                                                               |
+| noFallthroughCasesInSwitch | Switch durumlarındaki hataları bildirir.                                                                                                                |
+| noUnusedLocals             | Kullanılmayan verileri bildirir.                                                                                                                        |
+| noUnusedParameters         | Kullanılmayan parametre verilerini bildirir.                                                                                                            |
+| inlineSourceMap            | Sourcemap desteği ekler.                                                                                                                                |
+| typeRoots                  | Bunun hakkında daha fazla bilgiyi [buradan](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types) okuyabilirsiniz. |
+| **exclude**                | Buraya derlemede işlenmeyecek klasörleri yazarak sonraki işlemleriniz için bu klasörleri göz ardı ettirebilirsiniz.                                     |
 
 ## Servis Yapılandırması
 
