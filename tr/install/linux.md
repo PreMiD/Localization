@@ -14,43 +14,43 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 <table>
   <tr>
-    <th>Supported Linux Distribution</th>
+    <th>Desteklenen Linux Dağıtımı</th>
     <th>Yöntem</th>
     <th>Yükleniyor</th>
     <th>Ek Notlar</th>
   </tr>
   <tr>
     <td>Tümü</td>
-    <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
+    <td>Taşınabilir <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
     <td>
         <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>çalıştır <code>./PreMiD*.AppImage</code> sonra veya çift tıkla
     </td>
-    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+    <td>PreMiD'i sadece test etmeyi istemeniz durumunda veya yükleme değil, taşınabilir bir USB içerisinde taşımak istemeniz durumunda kullanabileceğiniz <b>en iyi yöntem</b>, kendini güncelleyebilir ancak sistem başlangıcında otomatik çalışamaz, her seferinde açmakla uğraşmak istemiyorsanız, aşağıdan dağıtımınıza uygun yükleme yöntemlerine göz atın.</td>
   </tr>
   <tr>
     <td rowspan="5">Arch Linux</td>
-    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
-    <td>Using yay :<br><code>yay -S premid</code><br></td>
-    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch Kullanıcı Deposu</a></td>
+    <td>yay kullanarak :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. Eğer kurulu bir taneye sahip değilseniz, Yay kullanmanızı öneririz, <br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>sonrasında ise <code>yay -S premid</code>.<br><br>Diğer AUR/Pacman yardımcıları da çalışır ancak hepsinin fonksiyonları farklı çalıştığı için hepsi sisteminizde çalışmayabilir. Bu durumda bir diğerini deneyin.</td>
   </tr>
   <tr>
-    <td>Using pakku :<br><code>pakku -S premid</code></td>
+    <td>pakku kullanarak :<br><code>pakku -S premid</code></td>
   </tr>
   <tr>
-    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+    <td>pacaur kullanarak :<br><code>pacaur -S premid</code></td>
   </tr>
   <tr>
-    <td>Using trizen :<br><code>trizen -S premid</code></td>
+    <td>trizen kullanarak :<br><code>trizen -S premid</code></td>
   </tr>
   <tr>
-    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
-    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Elle</a></td>
+    <td>Tavsiye edilmez, yeni kullanıcı dostu değildir ve otomatik güncelleme almaz.</td>
   </tr>
   <tr>
-    <td>Others</td>
+    <td>Diğerleri</td>
     <td>-</td>
     <td>-</td>
-    <td>Soon (TM), use the AppImage for now</td>
+    <td>Yakında, şimdilik AppImage seçeneğini kullanın.</td>
   </tr>
 </table>
 
