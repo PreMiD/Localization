@@ -1,1 +1,18 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Regarde la bibliothèque cinématique",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Regarde les torrents de jeux",
+        "description": ""
+    },
+    "1337x.upload": {
+        "message": "Mise à jour de quelque chose...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Lis les règles",
+        "description": ""
+    }
+}
