@@ -1,1 +1,38 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Wyróżnione utwory",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Najlepsze podcasty",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Przeglądanie wykresów",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Przeglądanie poprzez gatunki",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Przegląda najnowsze wydania",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Odkrywanie nowych utworów",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Przeglądanie przez",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Wykonano dla Ciebie\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.download": {
+		"message": "Pobieranie Spotify",
+		"description": ""
+	}
+}

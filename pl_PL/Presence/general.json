@@ -26,5 +26,29 @@
     "general.store": {
         "message": "Sklep",
         "description": ""
+    },
+    "general.viewThread": {
+        "message": "Przegląda wątek:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Przegląda użytkownika:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Przeglądanie:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Ogląda wideo",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Ogląda transmisję",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Ogląda:",
+        "description": ""
     }
 }
