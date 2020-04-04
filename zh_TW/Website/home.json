@@ -48,7 +48,7 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "簡單的用戶界面.",
+    "message": "簡潔的用戶界面",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -64,11 +64,11 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "順類型排列",
+    "message": "按類別排序",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "快捷客服.",
+    "message": "迅速的客服",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
