@@ -1,4 +1,24 @@
 {
+	"partners.header.title": {
+		"message": "PARTNERZY",
+		"description": "Heading for page."
+	},
+	"partners.requirements.title": {
+		"message": "WYMAGANIA",
+		"description": "Heading for the requirements."
+	},
+	"partners.apply.button": {
+		"message": "Aplikuj teraz!",
+		"description": "Button to apply for partner."
+	},
+	"partners.sponsors.title": {
+		"message": "SPONSORZY",
+		"description": "Heading for sponsors."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Zalogowano jako {0}",
+		"description": "{0} will be replaced with user account."
+	},
 	"partners.apply.select.other": {
 		"message": "Inne",
 		"description": "Select 'Other' category."
@@ -7,6 +27,14 @@
 		"message": "Nazwisko",
 		"description": "Name filed."
 	},
+	"partners.apply.form.description": {
+		"message": "Opis: (Maksymalnie 150 znaków)",
+		"description": "Description field."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Zamknij",
+		"description": "Modal close button."
+	},
 	"partners.apply.form.button.apply": {
 		"message": "Aplikuj",
 		"description": "Modal apply button."
@@ -14,5 +42,9 @@
 	"partners.apply.error1": {
 		"message": "Proszę wypełnić wszystkie pola.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksymalnie 150 znaków w opisie.",
+		"description": "Error when description exceeds character limit."
 	}
 }
