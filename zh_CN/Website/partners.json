@@ -3,12 +3,24 @@
 		"message": "合作伙伴",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "加入并获得一些仅限合作伙伴才有的豪华待遇来让您出类拔萃！",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "已有的合作伙伴，您也可以加入进来！",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "这里到底是第几层",
+		"description": "Heading for benefits."
+	},
 	"partners.why.benefit1.title": {
-		"message": "您的免费 Presence",
+		"message": "完全免费",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "我们的团队将为您提供您的服务免费开发 Presence 。",
+		"message": "我们的团队将为您的服务免费开发 Presence 。",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -66,6 +78,38 @@
 	"partners.apply.button": {
 		"message": "现在申请 ！",
 		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "让我们一起来到最高层！",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "如果您对在 PreMiD 的直接作业感兴趣，请查看我们的 **工作机会**。",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "赞助者",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "如果没有这些惊人的事物，PreMiD 不可能存在。",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "这就是你观看动画的方式。",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings 是在浏览器中游玩的一种快节奏的 PvP 竞技游戏。",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat 是一家非营利性的国际电台，它努力提供不停、优质的广播和娱乐新闻。",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "玩家赚取收入的平台。",
+		"description": "Description for iLoot."
 	},
 	"partners.apply.select.other": {
 		"message": "其他",
