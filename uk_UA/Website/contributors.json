@@ -19,6 +19,10 @@
 		"message": "Виконавчий директор",
 		"description": "'Executive Director' title for contributors and user pages."
 	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Керувальник операціями",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Глобальний представник спільноти",
 		"description": "'Global Community Representative' title for contributors and user pages."
@@ -62,6 +66,10 @@
 	"contributors.roles.juniorModerator": {
 		"message": "Молодший модератор",
 		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Агент підтримки",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Перевірка присутності",
