@@ -15,12 +15,16 @@
 		"message": "创建者",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "执行董事",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
 	"contributors.roles.operationSupervisor": {
 		"message": "运营主管",
 		"description": "'Operation Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
-		"message": "社区代表",
+		"message": "全局社区代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.headSoftwareEngineer": {
@@ -58,6 +62,14 @@
 	"contributors.roles.moderator": {
 		"message": "版主",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "初级版主",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "客服",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Presence 审核人员",
