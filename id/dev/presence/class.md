@@ -2,7 +2,7 @@
 title: Kelas Presence
 description: Kelas utama untuk setiap presence PreMiD
 published: true
-date: 2020-02-12T22:15:28.557Z
+date: 2020-04-07T18:55:34.585Z
 tags:
 ---
 
@@ -63,20 +63,39 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getSetting(String)`
+Returns value of setting.
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting.
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden).
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
 ### `getPageLetiable(String)`
 
-Mengembalikan variabel dari situs web jika ada.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Ini akan mencatat "konten Variabel"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Antarmuka
 
-Antarmuka `presenceData` disarankan untuk digunakan saat Anda menggunakan metode `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -143,11 +162,11 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Judul saya",
-    state: "Deskripsi saya",
+    details: "My title",
+    state: "My description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "Anda membawa saya, dan bagaimana sekarang?",
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -155,15 +174,15 @@ var presenceData: presenceData = {
 
 ## Acara
 
-Acara memungkinkan Anda untuk mendeteksi dan menangani beberapa perubahan atau panggilan yang dilakukan. Anda dapat berlangganan acara menggunakan metode `on`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Lakukan sesuatu saat data diperbarui.
+    // Do something when data gets updated.
 });
 ```
 
-Ada beberapa acara yang tersedia:
+There are few events available:
 
 #### `UpdateData`
 
