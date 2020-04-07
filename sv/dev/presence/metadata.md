@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Innehåller grundläggande data om Presence
 published: true
-date: 2020-04-07T18:54:48.078Z
+date: 2020-04-07T20:39:37.869Z
 tags:
 ---
 
@@ -264,7 +264,7 @@ Setup interactive settings so users can customize the presence!
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector when you select which one you want
+            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
         }
     ]
 ```
