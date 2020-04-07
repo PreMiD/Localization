@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-03-05T03:52:35.531Z
+date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
@@ -357,15 +357,40 @@ presence.on("iFrameData", data => {
     "en": "DESCRIPTION"
   },
   "url": "URL",
-  "версія": "VERSION",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["CATEGORY", "TAG"],
-  "категорія": "CATEGORY",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
-  "iFrameReg": "REGEXP",
-  "iframe": false
+  "iFrameRegExp": "REGEXP",
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -374,6 +399,7 @@ presence.on("iFrameData", data => {
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
+- `settings`
 
 **Пояснення деяких пресетів значень:**
 <table>
@@ -526,6 +552,16 @@ TLD стояння для домену Top рівень: . om .net<br>
       </td>
       <td style="text-align:left">Селектор регулярних виразів, який вибирає iframes для впровадження параметрів. Перегляньте regExp для отримання додаткової інформації.</td>
       <td style="text-align:left"><code>Рядок</code>
+      </td>
+      <td style="text-align:left"><code>Так</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Так</code>
       </td>
