@@ -84,18 +84,18 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Mengembalikan variabel dari situs web jika ada.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Ini akan mencatat "konten Variabel"
 ```
 
 ## `presenceData` Antarmuka
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Antarmuka `presenceData` disarankan untuk digunakan saat Anda menggunakan metode `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
 <table>
   <thead>
@@ -162,11 +162,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Judul saya",
+    state: "Deskripsi saya",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Anda membawa saya, dan bagaimana sekarang?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -174,15 +174,15 @@ var presenceData: presenceData = {
 
 ## Acara
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Acara memungkinkan Anda untuk mendeteksi dan menangani beberapa perubahan atau panggilan yang dilakukan. Anda dapat berlangganan acara menggunakan metode `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Lakukan sesuatu saat data diperbarui.
 });
 ```
 
-There are few events available:
+Ada beberapa acara yang tersedia:
 
 #### `UpdateData`
 
