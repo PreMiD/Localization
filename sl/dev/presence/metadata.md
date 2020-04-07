@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-02-22T23:18:54.250Z
+date: 2020-04-07T18:54:48.078Z
 tags:
 ---
 
@@ -35,7 +35,32 @@ The example of that file can be found below.
   "color": "#45A8FC",
   "tags": ["CATEGORY", "TAG"],
   "category": "CATEGORY",
-  "iframe": false
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -48,7 +73,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tip</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -186,6 +211,15 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Yes</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -204,6 +238,56 @@ If you want to learn regular expressions, here are a few websites.
 ## Presence languages
 
 PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence settings
+Setup interactive settings so users can customize the presence!
+```javascript
+"settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+            "value": true //Boolean value will make it an on/off switch with the value as the default value
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0, //Default value of the selector
+            "values": ["1", "2", "etc."] //Will make the setting a selector when you select which one you want
+        }
+    ]
+```
+
+Use the following methods to get settings info in your presence files:
+### `getSetting(String)`
+Returns value of setting.
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting.
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden).
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
 
 ## Presence categories
 
