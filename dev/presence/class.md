@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-02-12T22:15:28.557Z
+date: 2020-04-07T18:50:23.029Z
 tags: 
 ---
 
@@ -62,6 +62,25 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+```
+
+### `getSetting(String)`
+Returns value of setting
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden)
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getPageLetiable(String)`
