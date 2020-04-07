@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-03-05T03:52:35.531Z
+date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
@@ -343,28 +343,52 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ```javascript
 {
   "author": {
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVİS ADI",
+  "service": "SERVICE",
   "description": {
-    "en": "AÇIKLAMA",
-    "tr": "TÜRKÇE AÇIKLAMA"
+    "en": "DESCRIPTION"
   },
-  "url": "SİTE LİNKİ",
-  "version": "SÜRÜM",
-  "logo": "LOGO BAĞLANTISI",
-  "thumbnail": "KÜÇÜK RESİM BAĞLANTISI",
+  "url": "URL",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["KATEGORİ", "ETİKET"],
-  "category": "KATEGORİ",
+  "tags": ["CATEGORY", "TAG"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": false
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -373,6 +397,7 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
+- `settings`
 
 **Bu veriler hakkında daha fazla bilgi istiyorsanız:**
 <table>
@@ -519,6 +544,16 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
       <td style="text-align:left">Iframe verisinin alınacağı kaynakları yakalayacak regex verisi. Daha fazla bilgi için regExp kısmına bakın.</td>
       <td style="text-align:left"><code>String</code>
+      </td>
+      <td style="text-align:left"><code>Evet</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
       </td>
