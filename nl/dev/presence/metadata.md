@@ -214,7 +214,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Een reeks instellingen die de gebruiker kan wijzigen</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -239,42 +239,42 @@ Als je reguliere expressies wilt leren, zijn hier enkele websites.
 
 PreMiD is een polygot service, wat betekent dat er een groot aantal talen bij betrokken zijn om gebruikers over de hele wereld te verbinden. Een volledige lijst met talen kan worden gevonden met dit [API endpoint](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Presence instellingen
+Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpassen!
 ```javascript
 "settings": [
         { 
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "icon": "FONTAWESOME FREE ICON", //Bijvb."fas fa-info"
+            "value": true //Boolean waarde maakt het een aan/uit switch met de waarde als standaardwaarde
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //Als een andere setting deze waarde heeft (true/false/0/1/etc.) dan wordt deze instelling getoont
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+            "value": "\"%song\" by %artist", //Als je een string gebruikt als value dan word het een invoer instelling, waar elke gebruiker de invoer kan edit-ten.
+            "placeholder": "Gebruik %song of %artist" //Wanneer de invoer leeg is zal het dit grayed-out laten zien
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector when you select which one you want
+            "icon": "FONTAWESOME FREEICON",
+            "value": 0, //Standaard waarde van de selector
+            "values": ["1", "2", "etc. ] //Zal de instelling een selector maken waarin u selecteert welke u wilt
         }
-    ]
+]
 ```
 
-Use the following methods to get settings info in your presence files:
+Gebruik de volgende methoden om informatie van je instellingen in je presence-bestanden te krijgen:
 ### `getSetting(String)`
-Returns value of setting.
+Retourneert de waarde van de instelling.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //Vervang pdexID met de id van de instelling
+console.log(setting); // Dit zal de waarde van de instelling loggen
 ```
 
 ### `hideSetting(String)`
