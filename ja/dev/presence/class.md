@@ -82,20 +82,20 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+ウェブサイトから変数を取得する(存在する場合)
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // "変数の中身" をログに出力する
 ```
 
 ## `presenceData` インターフェース
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+`presenceData`インターフェースは`setActivity()`メソッドを使用する際に使用することをおすすめします。
 
-This interface has following variables, all of them are optional.
+このインターフェースには以下の変数があり、これらすべては指定しなくても構いません。
 
 <table>
   <thead>
@@ -159,11 +159,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    details: "タイトル",
+    state: "説明",
+    largeImageKey: "logo",
+    smallImageKey: "small_icon",
+    smallImageText: "カーソルを合わせましたね。で、何？",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -171,20 +171,20 @@ var presenceData: presenceData = {
 
 ## イベント
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+イベントは、変更や呼出が起きたときに操作をするのに使用できます。 `on` メソッドで、イベントの検出を登録することができます。
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // データが更新されたときに特定の動作をする
 });
 ```
 
-There are few events available:
+いくつかの利用可能なイベントがあります:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+このイベントはプレゼンスが更新されるたびに呼び出されます。
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+iFrameスクリプトからデータを受信した時に呼び出されます。
