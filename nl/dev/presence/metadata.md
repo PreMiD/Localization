@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Bevat basisgegevens over de Presence
 published: true
-date: 2020-04-07T18:54:48.078Z
+date: 2020-04-07T20:39:37.869Z
 tags:
 ---
 
@@ -257,16 +257,16 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": "\"%song\" by %artist", //Als je een string gebruikt als value dan word het een invoer instelling, waar elke gebruiker de invoer kan edit-ten.
-            "placeholder": "Gebruik %song of %artist" //Wanneer de invoer leeg is zal het dit grayed-out laten zien
+            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREEICON",
-            "value": 0, //Standaard waarde van de selector
-            "values": ["1", "2", "etc. ] //Zal de instelling een selector maken waarin u selecteert welke u wilt
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0, //Default value of the selector
+            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
         }
-]
+    ]
 ```
 
 Gebruik de volgende methoden om informatie van je instellingen in je presence-bestanden te krijgen:
@@ -278,15 +278,15 @@ console.log(setting); // Dit zal de waarde van de instelling loggen
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Verbergt de gegeven instelling.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); ///vervang pdexID met het id van de instelling
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Toont gegeven instelling (werkt alleen als de instelling al verborgen was).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); ///vervang pdexID met het id van de instelling
 ```
 
 ## Presence categorieën
