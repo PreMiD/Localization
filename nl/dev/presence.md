@@ -559,8 +559,8 @@ TLD staat voor Top Level Domain bijvoorbeeld: .com .net<br>
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Een reeks instellingen die de gebruiker kan wijzigen.<br>
+      Lees meer over de presence instellingen <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">hier</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
