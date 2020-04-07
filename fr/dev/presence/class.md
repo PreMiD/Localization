@@ -2,7 +2,7 @@
 title: Classe de présence
 description: La classe principale pour chaque présence PreMiD
 published: vrai
-date: 2020-02-12T22:15:28.557Z
+date: 2020-04-07T18:55:34.585Z
 tags:
 ---
 
@@ -63,7 +63,26 @@ strings = await presence.getStrings({
 });
 ```
 
-### `Obtenir la légalité de la page (chaîne de caractères)`
+### `getSetting(String)`
+Returns value of setting.
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting.
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden).
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `getPageLetiable(String)`
 
 Returns a variable from the website if it exists.
 
