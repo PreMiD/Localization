@@ -2,7 +2,7 @@
 title: Vývoj přítomnosti
 description:
 published: true
-date: 2020-03-05T03:52:35.531Z
+date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
@@ -365,7 +365,32 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
   "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": false
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -374,6 +399,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
+- `settings`
 
 **Clarifying some value presets:**
 <table>
@@ -526,6 +552,16 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">Regulární selektor, který vybere iframy, do kterých se má vložit. See regExp for more info.</td>
       <td style="text-align:left"><code>Řetězec</code>
+      </td>
+      <td style="text-align:left"><code>Ano</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left"><code>Pole&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ano</code>
       </td>
