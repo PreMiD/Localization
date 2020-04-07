@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Bevat basisgegevens over de Presence
 published: true
-date: 2020-02-22T23:18:54.250Z
+date: 2020-04-07T18:54:48.078Z
 tags:
 ---
 
@@ -15,27 +15,52 @@ Het voorbeeld van dat bestand kan hieronder worden gevonden.
 ```javascript
 {
   "author": {
-    "name": "GEBRUIKER",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "GEBRUIKER",
+    "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "description": {
-    "en": "BESCHRIJVING"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSIE",
+  "version": "VERSION",
   "logo": "URL",
-  "thumbnail": "URL", "URL",
+  "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["CATEGORY", "TAG"],
-  "category": "CATEGORIE",
-  "iframe": false
+  "category": "CATEGORY",
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -186,6 +211,15 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
       <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ja</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -204,6 +238,56 @@ Als je reguliere expressies wilt leren, zijn hier enkele websites.
 ## Presence talen
 
 PreMiD is een polygot service, wat betekent dat er een groot aantal talen bij betrokken zijn om gebruikers over de hele wereld te verbinden. Een volledige lijst met talen kan worden gevonden met dit [API endpoint](https://api.premid.app/v2/langFile/list).
+
+## Presence settings
+Setup interactive settings so users can customize the presence!
+```javascript
+"settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+            "value": true //Boolean value will make it an on/off switch with the value as the default value
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0, //Default value of the selector
+            "values": ["1", "2", "etc."] //Will make the setting a selector when you select which one you want
+        }
+    ]
+```
+
+Use the following methods to get settings info in your presence files:
+### `getSetting(String)`
+Returns value of setting.
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting.
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden).
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
 
 ## Presence categorieën
 
