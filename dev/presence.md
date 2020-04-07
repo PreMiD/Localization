@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-03-05T03:52:35.531Z
+date: 2020-04-07T18:50:18.628Z
 tags: 
 ---
 
@@ -374,7 +374,32 @@ It's still suggested to read this through so you know how it works.
   "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": false
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -385,6 +410,7 @@ Please note that the following properties are optional to have in your `metadata
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
+- `settings`
 
 **Clarifying some value presets:**
 <table>
@@ -537,6 +563,16 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code>
+      </td>
+      <td style="text-align:left"><code>Yes</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
       </td>
