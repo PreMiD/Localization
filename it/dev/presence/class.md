@@ -2,7 +2,7 @@
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
 published: vero
-date: 2020-02-12T22:15:28.557Z
+date: 2020-04-07T18:55:34.585Z
 tags:
 ---
 
@@ -63,20 +63,39 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getSetting(String)`
+Returns value of setting.
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting.
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden).
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
 ### `getPageLetiable(String)`
 
-Ritorna una variabile dal sito, se esiste.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Questo farà il log del "Contenuto della Variabile"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## Interfaccia `presenceData`
 
-Si raccomanda di usare l'interfaccia `presenceData` quando si usa il metodo `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
@@ -140,11 +159,11 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Il Mio Titolo",
-    state: "La Mia Descrizione",
-    largeImageKey: "logo_del_servizio",
-    smallImageKey: "logo_del_servizio_piccolo",
-    smallImageText: "Mi sei passato sopra, e ora?",
+    details: "My title",
+    state: "My description",
+    largeImageKey: "service_logo",
+    smallImageKey: "small_service_icon",
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -152,20 +171,20 @@ var presenceData: presenceData = {
 
 ## Eventi
 
-Gli Eventi ti permettono di vedere e controllare alcuni cambiamenti o chiamate che sono state fatte. Puoi sottoscriverti ad eventi utilizzando il metodo `on`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Fai qualcosa quando i dati vengono aggiornati.
+    // Do something when data gets updated.
 });
 ```
 
-Ci sono un po' di elementi disponibili:
+There are few events available:
 
 #### `UpdateData`
 
-Questo evento è lanciato ogni volta che la presnce viene aggiornata.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Lanciato quando i dati sono ricevuti da uno script iFrame.
+Fired when data is received from iFrame script.
