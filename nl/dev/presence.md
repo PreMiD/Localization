@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-03-05T03:52:35.531Z
+date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
@@ -345,27 +345,52 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ```javascript
 {
   "author": {
-    "name": "GEBRUIKER",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "naam": "GEBRUIKER",
+    "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
-  "beschrijving": {
+  "description": {
     "en": "DESCRIPTION"
   },
   "url": "URL",
-  "versie": "VERSIE",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["CATEGORIE", "TAG"],
-  "category": "CATEGORIE",
+  "tags": ["CATEGORY", "TAG"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "iframe": false
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -374,6 +399,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
+- `settings`
 
 **Bepaalde voorinstellingen van waarden verduidelijken:**
 <table>
@@ -526,6 +552,16 @@ TLD staat voor Top Level Domain bijvoorbeeld: .com .net<br>
       </td>
       <td style="text-align:left">Een reguliere expressie string gebruiken om iFrames te vergelijken. Zie regExp voor meer informatie.</td>
       <td style="text-align:left"><code>String</code>
+      </td>
+      <td style="text-align:left"><code>Ja</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
       </td>
