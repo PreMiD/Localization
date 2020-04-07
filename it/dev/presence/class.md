@@ -84,18 +84,18 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Ritorna una variabile dal sito, se esiste.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Questo farà il log del "Contenuto della Variabile"
 ```
 
 ## Interfaccia `presenceData`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Si raccomanda di usare l'interfaccia `presenceData` quando si usa il metodo `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
 
 <table>
   <thead>
@@ -159,11 +159,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    details: "Il Mio Titolo",
+    state: "La Mia Descrizione",
+    largeImageKey: "logo_del_servizio",
+    smallImageKey: "logo_del_servizio_piccolo",
+    smallImageText: "Mi sei passato sopra, e ora?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -171,20 +171,20 @@ var presenceData: presenceData = {
 
 ## Eventi
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Gli Eventi ti permettono di vedere e controllare alcuni cambiamenti o chiamate che sono state fatte. Puoi sottoscriverti ad eventi utilizzando il metodo `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Fai qualcosa quando i dati vengono aggiornati.
 });
 ```
 
-There are few events available:
+Ci sono un po' di elementi disponibili:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Questo evento è lanciato ogni volta che la presnce viene aggiornata.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Lanciato quando i dati sono ricevuti da uno script iFrame.
