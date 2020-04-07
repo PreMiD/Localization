@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-04-07T18:49:31.106Z
+date: 2020-04-07T18:54:48.078Z
 tags: 
 ---
 
@@ -273,20 +273,20 @@ Setup interactive settings so users can customize the presence!
 
 Use the following methods to get settings info in your presence files:
 ### `getSetting(String)`
-Returns value of setting
+Returns value of setting.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
-Hides given setting
+Hides given setting.
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden)
+Shows given setting (Only works if the setting was already hidden).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
