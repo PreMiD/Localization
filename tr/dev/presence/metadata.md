@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Servis hakkında basit bilgileri bulunduran dosya
 published: true
-date: 2020-02-22T23:18:54.250Z
+date: 2020-04-07T18:54:48.078Z
 tags:
 ---
 
@@ -15,27 +15,52 @@ Servisinizi mağazada görmek ve görmeden önce test edebilmek için öncelikle
 ```javascript
 {
   "author": {
-    "name": "İSİM",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "İSİM",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVİS",
+  "service": "SERVICE",
   "description": {
-    "en": "AÇIKLAMA"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "SÜRÜM",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["ETİKET", "ETİKET2"],
-  "category": "KATEGORİ",
-  "iframe": false
+  "tags": ["CATEGORY", "TAG"],
+  "category": "CATEGORY",
+  "iframe": false,
+  "settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist",
+            "placeholder": "use %song or %artist"
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -181,6 +206,15 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
       <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left"><b>settings</b>
+      </td>
+      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Evet</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -199,6 +233,56 @@ Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz 
 ## Servis Dilleri
 
 PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geliştirilmiş bir servistir. Bu yüzden birden çok dili destekler. Desteklenen bilgileri [buradaki](https://api.premid.app/v2/langFile/list) bağlantı üzerinde bulabilirsiniz.
+
+## Presence settings
+Setup interactive settings so users can customize the presence!
+```javascript
+"settings": [
+        { 
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+            "value": true //Boolean value will make it an on/off switch with the value as the default value
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+            },
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+        },
+        {
+            "id": "ID",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0, //Default value of the selector
+            "values": ["1", "2", "etc."] //Will make the setting a selector when you select which one you want
+        }
+    ]
+```
+
+Use the following methods to get settings info in your presence files:
+### `getSetting(String)`
+Returns value of setting.
+```typescript
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
+```
+
+### `hideSetting(String)`
+Hides given setting.
+```typescript
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `showSetting(String)`
+Shows given setting (Only works if the setting was already hidden).
+```typescript
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
 
 ## Servis kategorileri
 
