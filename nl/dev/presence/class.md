@@ -64,22 +64,22 @@ strings = await presence.getStrings({
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Retourneert de waarde van de instelling.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //Vervang pdexID met de id van de instelling
+console.log(setting); // Dit zal de waarde van de instelling loggen
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Verbergt de gegeven instelling.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); ///vervang pdexID met het id van de instelling
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Toont gegeven instelling (werkt alleen als de instelling al verborgen was).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); ///vervang pdexID met het id van de instelling
 ```
 
 ### `getPageLetiable(String)`
