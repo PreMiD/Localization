@@ -23,6 +23,10 @@
         "message": "Wiki",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "Những yêu cầu hệ thống",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Xử lý sự cố",
         "description": "A page name"
