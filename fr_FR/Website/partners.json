@@ -63,9 +63,17 @@
 		"message": "Qui recherchons-nous ?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Nous veillons à ce que les communautés grandissantes et les choses passionnantes sur Internet. TLDR vous devriez déjà utiliser PreMiD et être prêt à le diffuser à encore plus de fans d'Internet. L'acceptation du programme est extrêmement qualitative et variera d'un candidat à l'autre.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Notre pare-feu",
 		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Nous acceptons actuellement divers types d'efforts dans notre programme de partenariat. N'importe qui devrait avoir la possibilité d'être remarqué. Les diffuseurs Twitch devraient avoir au moins 500 abonnés et au moins 3 téléspectateurs simultanés. Vous devez diffuser au moins une fois par semaine.",
+		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
 		"message": "Postulez dès maintenant !",
@@ -95,9 +103,29 @@
 		"message": "Arena of Kings est un jeu d'arène JcJ a évolution rapide de nouvelle génération, jouable dans le navigateur.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat est une radio internationale à but non lucratif qui s'efforce de fournir des services de radio et de divertissement de qualité sans escale.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "La plateforme de gain du joueur.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Un outil puissant et facile à utiliser de l'installateur multi-plateforme.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Communiquez facilement le statut en temps réel à vos utilisateurs.",
+		"description": "Description for StatusPage."
+	},
 	"partners.partner.crowdin": {
 		"message": "Localisation agile pour les entreprises technologiques.",
 		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Le logiciel Wiki open source le plus puissant et le plus extensible.",
+		"description": "Description for WikiJS."
 	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
@@ -142,6 +170,10 @@
 	"partners.apply.form.description": {
 		"message": "Description : (150 caractères maximum)",
 		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Description pour les vedettes",
+		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Lien de l'image: (550x300, PNG uniquement)",
