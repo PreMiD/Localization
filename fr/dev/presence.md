@@ -278,10 +278,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", () => {
     //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Cela est appelé plusieurs fois par seconde dans la mesure du possible.
 
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
+    //Il est recommandé de configurer une autre fonction en dehors de cette fonction d'événement qui changera les valeurs des variables et fera le chargement lourd si vous appelez des données à partir d'une API.
 
     var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
+        largeImageKey: "key", /*La clé (nom du fichier) de la grande image sur présence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
         smallImageKey: "key", /*La clé (nom de fichier) de la Grande Image sur présence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelé Art Assets*/
         smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image
         détails: "Nom de la page de navigation", //La section supérieure du texte de présence
@@ -300,7 +300,7 @@ presence.on("UpdateData", () => {
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Réglage de toutes les valeurs se fait à l'intérieur de l'événement updataData.
+Vous pouvez copier ceci dans votre fichier `presence.js` et modifier les valeurs. Réglage de toutes les valeurs se fait à l'intérieur de l'événement updataData.
 
 Pour des exemples nous suggérons de regarder le code des présences comme : 1337x ou 9GAG.
 
@@ -320,15 +320,15 @@ Si vous trouvez que vos données sont dans un iFrame vous devez faire ce qui sui
 3. Remplir votre fichier iFrame
 ```javascript
 var iframe = new iFrame();
-iframe.on("UpdateData", () => {
-    /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
-    */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
-    });
+iframe.on("UpdateData", async () => {
+  /*
+  Get all the data you need out of the iFrame save them in variables
+  and then sent them using iframe.send
+  */
+  iframe.send({ //sending data
+    video: video,
+    time: video.duration
+  }); 
 });
 ```
 4. Faire en sorte que votre fichier de présence reçoive les données du fichier iFrame.
@@ -340,7 +340,7 @@ presence.on("iFrameData", data => {
 ```
 **Remarque :** Ceci doit être placé en dehors de l'événement updateData.
 # Remplir le fichier metadata.json
-Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eggsy.codes/projects/premid/mdcreator). Il est toujours suggéré de lire ceci afin que vous sachiez comment cela fonctionne.
 
 ```javascript
 {
@@ -394,14 +394,14 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json`. Vous devez maintenant modifier les valeurs des propriétés. Veuillez noter que les propriétés suivantes sont optionnelles à avoir dans vos métadonnées `. son` fichier, si vous ne prévoyez pas de les utiliser, vous devez les supprimer.
 - `contributeurs`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `réglages`
 
-**Clarifying some value presets:**
+**Clarification de certaines valeurs prédéfinies :**
 <table>
   <thead>
     <tr>
@@ -435,7 +435,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>Service</b>
       </td>
-      <td style="text-align:left">Le titre du service que cette présence supporte. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Le titre du service que cette présence supporte. <br>(Doit être le même nom que le dossier où tout se trouve)</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -454,13 +454,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk. om</code><br>
+        <b>Cette URL doit correspondre à l'URL du site car elle détectera si oui ou non c'est le site Web auquel il faut injecter le script.</b><br> Ne pas <b>NON</b> ajoutez <code>https://</code> ou <code>http://</code> à l'intérieur de l'URL ni un slash à la fin :
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Note</b>: Certaines URLs peuvent avoir <code>www.</code> ou quelque chose d'autre devant leur domaine. N'oublie pas <b>PAS</b> de l'ajouter !<br>
+Vous pouvez ajouter plusieurs URLs en faisant ce qui suit :<br>
+<code>["URL1", "URL2", "ETC. ]</code><br>
+Vous pouvez également utiliser regExp aussi connu sous le nom de Regex pour cette tâche, expliqué plus loin ci-dessous.
       </td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code>
       </td>
@@ -470,13 +470,13 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left">Une chaîne d'expression rationnelle utilisée pour faire correspondre les URL.<br>
+      regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site web a plusieurs sous-domaines.<br>
+Vous pouvez utiliser le regExp suivant pour cela :<br>
+<code>([a-z0-9]+)[.]domaine[.]TLD"</code><br>
+TLD représentant le domaine de niveau supérieur pour axample: . om .net<br> 
+<code>([a-z0-9]+ )</code> signifie n'importe quoi de a à z et de 0 à 9.<br>
+        Vous pouvez tester votre regExp sur <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -532,7 +532,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>Catégorie</b>
       </td>
-      <td style="text-align:left">Une chaîne utilisée pour représenter la catégorie sous laquelle tombe la présence. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Une chaîne utilisée pour représenter la catégorie sous laquelle tombe la présence. Voir les catergories valides <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">ici</a>.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -550,7 +550,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Un sélecteur d'expression régulière qui sélectionne les iframes à injecter. See regExp for more info.</td>
+      <td style="text-align:left">Un sélecteur d'expression régulière qui sélectionne les iframes à injecter. Voir regExp pour plus d'informations.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -559,8 +559,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>réglages</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Un tableau de paramètres que l'utilisateur peut modifier.<br>
+      En savoir plus sur les paramètres de présence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">ici</a>.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -569,7 +569,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Cliquez sur [ici](/dev/presence#filling-in-the-metadatajson-file) pour voir comment le remplir. Cliquez sur [ici](/dev/presence#filling-in-the-metadatajson-file-1) pour voir comment le remplir.
 
 # Chargement de la présence
 1. Ouvrez la popup et maintenez le bouton <kbd>Maj</kbd> sur votre clavier.
@@ -579,15 +579,15 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the T
 
 # Quelques choses utiles
 ## Rechargement chaud
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Le site Web sur lequel vous développez est automatiquement rechargé chaque fois que vous enregistrez un fichier dans votre dossier.
 
 ## Débogage
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- Vous pouvez mettre `console.log("Test");` entre votre code et voir si votre console de navigateur vous donne cette sortie. Si oui, continuez et réessayez après la fonction suivante. Si ce n'est pas le cas, il y a une erreur ci-dessus.
+- Si cela ne vous aide pas non plus, demandez à un développeur de présence sur notre serveur [Discord](https://discord.gg/WvfVZ8T) pour obtenir de l'aide.
 
 # Fichiers expliqués
 - [Classe de présence](/dev/presence/class)
 - [Classe iFrame](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [Fichier de métadonnées](/dev/presence/metadata)
 - [Configuration TypeScript](/dev/presence/tsconfig)
 {.links-list}
