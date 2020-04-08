@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-04-07T18:55:34.585Z
+date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
@@ -82,6 +82,17 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
+### `getExtensionVersion(Boolean)`
+Returns version of the extension the user is using.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
+```
+
 ### `getPageLetiable(String)`
 
 Returns a variable from the website if it exists.
@@ -107,7 +118,7 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
+      <td style="text-align:left">tiedot</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
