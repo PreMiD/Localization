@@ -111,7 +111,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Petite description de la présence, vous pouvez utiliser la description du service
-        si vous n'avez pas d'idées. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées. View the category for presence languages for a list. </td>
+        si vous n'avez pas d'idées. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées. Voir la catégorie pour les langues de présence pour une liste. </td>
       <td style="text-align:left"><code>Objet</code>
       </td>
       <td style="text-align:left"><code>Non</code>
@@ -120,8 +120,8 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk. om</code><br>
+        <b>Cette url doit correspondre à l'url du site car elle sera utilisée pour détecter où ou non c'est le site web auquel injecter le script. Ceci ne peut être utilisé comme un tableau que s'il y a plus d'une urls.</b>
       </td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code>
       </td>
@@ -212,9 +212,9 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>réglages</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Un tableau de paramètres que l'utilisateur peut modifier</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
@@ -227,20 +227,20 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
 
 Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
-#### Learning
+#### Apprentissage
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Informations sur les expressions régulières](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### En Test
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Langues de présence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD est un service polygoutte, ce qui signifie qu'il y a une multitude de langues impliquées pour connecter les utilisateurs du monde entier. Une liste complète des langues peut être trouvée avec ce [point de terminaison de l'API](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Paramètres de présence
+Configurer les paramètres interactifs pour que les utilisateurs puissent personnaliser la présence!
 ```javascript
 "settings": [
         { 
@@ -269,29 +269,29 @@ Setup interactive settings so users can customize the presence!
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Utilisez les méthodes suivantes pour obtenir des informations sur les paramètres dans vos fichiers de présence:
 ### `getSetting(String)`
-Returns value of setting.
+Renvoie la valeur du paramètre.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+console.log(setting); // Cela va enregistrer la valeur du paramètre
 ```
 
-### `hideSetting(String)`
-Hides given setting.
+### `masquer (chaîne de caractères)`
+Masque le paramètre donné.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
 ```
 
-### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+### `montreParamètres(chaîne de caractères)`
+Affiche le paramètre spécifié (ne fonctionne que si le paramètre est déjà masqué).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
 ```
 
-## Presence categories
+## Catégories de présence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Lorsque vous faites votre présence, vous devez spécifier une catégorie sous laquelle la présence tombe en dessous. Ceci est une liste compilée des catégories que vous pouvez utiliser.
 
 <table>
   <thead>
