@@ -34,18 +34,18 @@ Dans le fichier de configuration racine, vous verrez quelque chose comme ça.
 }
 ```
 
-| Propriété                  | Description                                                                                                                     |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Utilisé pour configurer le compilateur, la plupart des propriétés se trouvent ici.                                              |
-| module                     | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/modules.html).                        |
-| target                     | Définit la version JavaScript que vous compilez.                                                                                |
-| Supprimer les commentaires | Suppression des commentaires des fichiers compilés.                                                                             |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
-| inlineSourceMap            | Adds sourcemapping                                                                                                              |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
+| Propriété                       | Description                                                                                                                              |
+|:------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**             | Utilisé pour configurer le compilateur, la plupart des propriétés se trouvent ici.                                                       |
+| module                          | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
+| target                          | Définit la version JavaScript que vous compilez.                                                                                         |
+| Supprimer les commentaires      | Suppression des commentaires des fichiers compilés.                                                                                      |
+| pas de casse dans les cassettes | Signaler les erreurs pour les cas de repli dans l'instruction switch.                                                                    |
+| noUnusedLocals                  | Signaler des erreurs sur les locales inutilisées.                                                                                        |
+| noUnusedParameters              | Signaler les erreurs sur les paramètres inutilisés.                                                                                      |
+| inlineSourceMap                 | Ajoute le mappage de source                                                                                                              |
+| typeRoots                       | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclure**                     | Vous pouvez définir ici les dossiers que vous voulez exclure de la future compilation.                                                   |
 
 ## Configuration de Présence
 
