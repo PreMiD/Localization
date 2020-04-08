@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2020-04-07T18:55:34.585Z
+date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
@@ -80,6 +80,17 @@ presence.hideSetting("pdexID"); ///vervang pdexID met het id van de instelling
 Toont gegeven instelling (werkt alleen als de instelling al verborgen was).
 ```typescript
 presence.showSetting("pdexID"); ///vervang pdexID met het id van de instelling
+```
+
+### `getExtensionVersion(Boolean)`
+Returns version of the extension the user is using.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getPageLetiable(String)`
