@@ -27,6 +27,10 @@
         "message": "Recherche dans la chaîne: {0} pour:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "Visualisation de la tendance",
+        "description": ""
+    },
     "youtube.subscriptions": {
         "message": "dans ses abonnements",
         "description": "Part two of \"Browsing through\""
@@ -48,7 +52,7 @@
         "description": ""
     },
     "youtube.upload": {
-        "message": "Mise à jour de quelque chose...",
+        "message": "Envoi de quelque chose en cours...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
