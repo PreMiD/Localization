@@ -1,34 +1,34 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Lớp hiện diện
+description: Lớp chính cho mọi sự hiện diện của PreMiD
 published: true
 date: 2020-04-07T18:55:34.585Z
 tags:
 ---
 
-# Presence Class
+# Lớp hiện diện
 
-## Introduction
+## Giới thiệu
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Lớp `Presence` rất hữu ích vì nó có các phương thức cơ bản mà chúng ta cần để tạo sự hiện diện.
 
- When you create a class you must specify `clientId` property.
+ Khi bạn tạo một lớp, bạn phải chỉ định thuộc tính `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Ví dụ clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Có hai thuộc tính có sẵn cho lớp `Hiện diện`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Thuộc tính `clientId` phải được cung cấp để làm cho sự hiện diện của bạn hoạt động, bởi vì nó sử dụng id ứng dụng của bạn để hiển thị logo và tài sản của nó.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Bạn có thể tải nó trên [ trang ứng dụng ](https://discordapp.com/developers/applications).
 
-## Methods
+## Phương pháp
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -102,7 +102,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Mô tả</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Kiểu</th>
     </tr>
   </thead>
   <tbody>
