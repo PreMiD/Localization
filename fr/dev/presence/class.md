@@ -2,7 +2,7 @@
 title: Classe de présence
 description: La classe principale pour chaque présence PreMiD
 published: vrai
-date: 2020-04-07T18:55:34.585Z
+date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
@@ -80,6 +80,17 @@ presence.hideSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
 Affiche le paramètre spécifié (ne fonctionne que si le paramètre est déjà masqué).
 ```typescript
 presence.showSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+```
+
+### `getExtensionVersion(Boolean)`
+Returns version of the extension the user is using.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `obtenir la légalité de la page (chaîne de caractères)`
