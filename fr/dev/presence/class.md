@@ -64,22 +64,22 @@ strings = await presence.getStrings({
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Renvoie la valeur du paramètre.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+console.log(setting); // Cela va enregistrer la valeur du paramètre
 ```
 
-### `hideSetting(String)`
-Hides given setting.
+### `masquer (chaîne de caractères)`
+Masque le paramètre donné.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
 ```
 
-### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+### `montreParamètres(chaîne de caractères)`
+Affiche le paramètre spécifié (ne fonctionne que si le paramètre est déjà masqué).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
 ```
 
 ### `obtenir la légalité de la page (chaîne de caractères)`
@@ -174,20 +174,20 @@ var presenceData: presenceData = {
 
 ## Évènements
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Les événements vous permettent de détecter et de gérer certains changements ou appels qui ont été effectués. Vous pouvez vous abonner aux événements en utilisant la méthode `sur`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Faire quelque chose quand les données sont mises à jour.
 });
 ```
 
-There are few events available:
+Il y a peu d'événements disponibles:
 
 #### `Mettre à jour les données`
 
-This event is fired every time the presence is being updated.
+Cet événement est déclenché chaque fois que la présence est mise à jour.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Déclenché lorsque des données sont reçues à partir du script iFrame.
