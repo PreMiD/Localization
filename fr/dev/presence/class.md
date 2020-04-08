@@ -32,15 +32,15 @@ Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/devel
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Définit l'activité de votre profil en fonction des données fournies.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Le premier paramètre nécessite une interface `présenceData` pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Le deuxième paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `présenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Efface votre activité actuelle, les raccourcis clavier et le titre de la zone de notification.
 
 ### `setTrayTitle(String)`
 
@@ -48,15 +48,15 @@ Clears your current activity, the keybinds and the tray title.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Définit le titre de la barre de menus.
 
 ### `getStrings(Objet)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Vous permet d'obtenir des chaînes traduites depuis l'extension. Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Vous pouvez trouver certaines des chaînes en utilisant ce point de terminaison: `https://api.premid.app/v2/langFIle/extension/fr`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Retourne `Playing` et `Paused` chaînes
+// depuis l'extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -82,20 +82,20 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-### `getPageLetiable(String)`
+### `obtenir la légalité de la page (chaîne de caractères)`
 
-Returns a variable from the website if it exists.
+Retourne une variable du site web si elle existe.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Cela va enregistrer le "Contenu de la variable"
 ```
 
 ## `Interface de données de présence`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+L'interface `presenceData` est recommandée à utiliser lorsque vous utilisez la méthode `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Cette interface a des variables suivantes, toutes sont optionnelles.
 
 <table>
   <thead>
@@ -162,11 +162,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Mon titre",
+    state: "Ma description",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Vous m'avez survolé, et que maintenant? ,
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
