@@ -54,7 +54,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
   </tr>
 </table>
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Đừng quên [thêm<strong x-id = "1">sự mở rộng</strong>](/install).{.is-warning}
 
 # More info
 https://github.com/PreMiD/Linux
