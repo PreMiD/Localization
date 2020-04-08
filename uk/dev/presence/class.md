@@ -2,7 +2,7 @@
 title: Клас присутності
 description: Основний клас для кожної присутності PreMiD
 published: true
-date: 2020-04-07T18:55:34.585Z
+date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
@@ -80,6 +80,17 @@ presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 Shows given setting (Only works if the setting was already hidden).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+```
+
+### `getExtensionVersion(Boolean)`
+Returns version of the extension the user is using.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getPageLetiable(рядок)`
