@@ -18,5 +18,13 @@
   "home.examples.status.browsing": {
     "message": "Selaa...",
     "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.features.presencesystem.button": {
+    "message": "Avaa kauppa",
+    "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Valitse sivuston kieli",
+    "description": "Tippy content of the language selector."
   }
 }
