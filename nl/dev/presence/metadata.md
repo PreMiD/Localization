@@ -257,16 +257,16 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": "\"%song\" by %artist", //Als je een string gebruikt als value dan word het een invoer instelling, waar elke gebruiker de invoer kan edit-ten.
-            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+            "placeholder": "Gebruik %song of %artist" //Wanneer de invoer leeg is zal het dit grayed-out laten zien
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "icon": "FONTAWESOME FREEICON",
+            "value": 0, //Standaard waarde van de selector
+            "values": ["1", "2", "etc. ] //Zal de instelling een selector maken waarin u selecteert welke u wilt
         }
-    ]
+]
 ```
 
 Gebruik de volgende methoden om informatie van je instellingen in je presence-bestanden te krijgen:
