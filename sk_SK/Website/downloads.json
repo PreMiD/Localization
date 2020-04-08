@@ -1,50 +1,50 @@
 {
-  "downloads.header.title": {
-    "message": "Je čas ukázať sa všetkým.",
-    "description": "Title"
-  },
-  "downloads.header.subtitle": {
-    "message": "Začnite používať PreMiD teraz a ukážte ostatným čo robíte, možno nájdete niekoho kto má rovnaké záujmy.",
-    "description": "Subtitle for header"
-  },
-  "downloads.instructions.heading": {
-    "message": "Ako Začať",
-    "description": "Displayed at Downloads page above steps"
-  },
-  "downloads.instructions.step_1": {
-    "message": "Stiahnite si PreMiD.",
-    "description": "Heading for installing the application"
-  },
-  "downloads.instructions.step_2": {
-    "message": "Nainštalujte si PreMiD aplikáciu.",
-    "description": "Heading for installing the application"
-  },
-  "downloads.instructions.step_3": {
-    "message": "Nainštalujte si rozšírenie.",
-    "description": "Heading for installing the application"
-  },
-  "downloads.instructions.step_4": {
-    "message": "Navštívte {0} stránku a skontrolujte či je rozšírenie pripojené.",
-    "description": "{0} will be replaced by 'store' string translation"
-  },
-  "downloads.instructions.step_4_store": {
-    "message": "obchodnú",
-    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-  },
-  "downloads.appdownloading.header": {
-    "message": "Aplikácia",
-    "description": "Header above application download buttons."
-  },
-  "downloads.extdownloading.header": {
-    "message": "Rozšírenie",
-    "description": "Header above extension download buttons."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "message": "POZOR:",
-    "description": "First part of the message."
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Nie je žiadny inštalátor pre tento operačný systém. To znamená, že nebude žiadna odborná podpora.",
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-  }
+	"downloads.header.title": {
+		"message": "Je čas ukázať sa všetkým.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Začnite používať PreMiD teraz a ukážte ostatným čo robíte, možno nájdete niekoho kto má rovnaké záujmy.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Ako Začať",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Stiahnite si PreMiD.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Nainštalujte si PreMiD aplikáciu.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Nainštalujte si rozšírenie.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Navštívte {0} stránku a skontrolujte či je rozšírenie pripojené.",
+		"description": "{0} will be replaced by 'store' string translation"
+	},
+	"downloads.instructions.step_4_store": {
+		"message": "obchodnú",
+		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Aplikácia",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Rozšírenie",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "POZOR:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Nie je žiadny inštalátor pre tento operačný systém. To znamená, že nebude žiadna odborná podpora.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	}
 }
