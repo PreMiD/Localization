@@ -14,49 +14,49 @@ L'installation de l'application est très importante car l'extension ne peut rie
 
 <table>
   <tr>
-    <th>Supported Linux Distribution</th>
-    <th>Method</th>
-    <th>Installing</th>
-    <th>Additional Notes</th>
+    <th>Distribution Linux prise en charge</th>
+    <th>Méthode</th>
+    <th>Installation</th>
+    <th>Notes Supplémentaires</th>
   </tr>
   <tr>
     <td>Tout</td>
     <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
     <td>
-        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
+        <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>exécutez <code>./PreMiD*.AppImage</code> après ou double-cliquez dessus
     </td>
-    <td><b>This is the recommended package</b> to use, either if you want to try PreMiD or just don't want to install it ( or maybe put it in a USB stick ), it's always up to date but <i>doesn't auto-launch at the system startup</i>, so if you get tired of having to open it each time, use the other methods bellow ( according to your Linux distribution )</td>
+    <td><b>Ceci est le paquet recommandé</b> à utiliser, soit si vous voulez essayer PreMiD soit simplement ne pas vouloir l'installer ( ou peut-être le mettre dans une clé USB), il est toujours à jour mais <i>ne se lance pas automatiquement au démarrage du système</i>, donc si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres méthodes ci-dessous ( selon votre distribution Linux )</td>
   </tr>
   <tr>
     <td rowspan="5">Arch Linux</td>
-    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
-    <td>Using yay :<br><code>yay -S premid</code><br></td>
-    <td rowspan="4">If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Dépôt utilisateur Arch</a></td>
+    <td>En utilisant yay :<br><code>yay -S premid</code><br></td>
+    <td rowspan="4">Si votre distribution utilise pacman, alors vous devez d'abord installer l'un des assistants. Si vous n'en avez pas, Yay est recommandé, exécutez :<br><code>git clone https://aur.archlinux.org/yay. it && cd yay && makepkg -si</code><br>puis <code>yay -S premid</code>, comme indiqué dans la colonne précédente.<br><br>D'autres assistants AUR/Pacman fonctionnent également, bien que les fonctionnalités de chacun soient différentes afin que vous puissiez rencontrer des problèmes lors de leur utilisation.</td>
   </tr>
   <tr>
-    <td>Using pakku :<br><code>pakku -S premid</code></td>
+    <td>Utilisation de pakku :<br><code>pakku -S premid</code></td>
   </tr>
   <tr>
-    <td>Using pacaur :<br><code>pacaur -S premid</code></td>
+    <td>Utilisation de pacaur :<br><code>pacaur -S premid</code></td>
   </tr>
   <tr>
-    <td>Using trizen :<br><code>trizen -S premid</code></td>
+    <td>Utilisation du trizen :<br><code>trizen -S premid</code></td>
   </tr>
   <tr>
-    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manually</a></td>
-    <td>Not recommended, not beginner-friendly and doesn't auto update.</td>
+    <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manuellement</a></td>
+    <td>Non recommandé, pas facile pour les débutants et ne se met pas à jour automatiquement.</td>
   </tr>
   <tr>
     <td>Others</td>
     <td>-</td>
     <td>-</td>
-    <td>Soon (TM), use the AppImage for now</td>
+    <td>Bientôt (TM), utilisez l'AppImage pour l'instant</td>
   </tr>
 </table>
 
 > N'oubliez pas d'ajouter [l'extension ****](/install).{.is-warning}
 
-# More info
+# Plus d'information
 https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
