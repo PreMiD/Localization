@@ -101,7 +101,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">ชื่อของบริการที่ presence นี้รองรับ</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>ไม่</code>
@@ -110,8 +110,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>คำอธิบาย</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+      <td style="text-align:left">คำอธิบายเล็กๆน้อยๆแก่ presence, ตัวคุณสามารถใช้คำอธิบายของบริการได้
+        ถ้าคุณยังไม่มีความคิดดีๆ คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>ไม่</code>
