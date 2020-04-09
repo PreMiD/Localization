@@ -74,5 +74,13 @@
 	"downloads.error.noaccess.title": {
 		"message": "Uh oh, sepertinya kamu tidak memiliki akses alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Kamu dapat mengikuti program beta kami **disini**. Cepat! Kami hanya memilki {0} tempat tersedia (dari 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Perilisan Terakhir",
+		"description": "Header above alpha/beta download buttons."
 	}
 }

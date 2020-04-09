@@ -66,5 +66,17 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Diese Version ist speziell für Linux und gilt nicht für andere Systeme. Die Hauptversion der Anwendung ist {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Bitte einloggen, um die Downloads zu sehen.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Oh oh, es sieht so aus, als hättest du keinen Alpha/Beta-Zugang :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Neueste Versionen",
+		"description": "Header above alpha/beta download buttons."
 	}
 }

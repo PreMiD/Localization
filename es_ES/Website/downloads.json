@@ -66,5 +66,21 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Esta versión es específica de Linux y no se aplica a otros sistemas. La versión principal de la aplicación es {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Por favor, inicie sesión para ver las descargas.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Oh, parece que no tienes acceso alfa ni beta :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Puedes unirte gratis a nuestro programa beta **aquí**. ¡Date prisa! Sólo quedan {0} plazas disponibles (de 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Versiones más recientes",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
