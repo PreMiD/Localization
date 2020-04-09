@@ -15,6 +15,10 @@
         "message": "Regarde le media de:",
         "description": ""
     },
+    "twitter.viewLiked": {
+        "message": "Regarde aimé par :",
+        "description": ""
+    },
     "twitter.viewList": {
         "message": "Regarde la liste :",
         "description": ""
