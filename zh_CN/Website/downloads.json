@@ -1,6 +1,6 @@
 {
 	"downloads.header.title": {
-		"message": "是时候告诉所有人你在做什么了。",
+		"message": "是时候告诉所有人你在做什么了！",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
@@ -66,5 +66,21 @@
 	"downloads.warning.differentVersion2": {
 		"message": "此版本是 Linux 的专用版本，不适用于其他系统。应用程序的版本是 {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "请登录来让我们确定您的下载。",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "看上去...你并没有 Alpha/BETA 的测试权限 :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "你可以免费加入我们的 **Beta 测试**。时间不多了！还剩最后 {0} 个名额 (总共200个)。",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "最新版本",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
