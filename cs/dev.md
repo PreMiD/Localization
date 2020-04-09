@@ -2,7 +2,7 @@
 title: Začínáme
 description: Trochu poradit těm, kteří se nedávno dostali do kódování
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Klonování projektu
 1. Otevřete terminál a napište `git klonovat URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
 2. Vyberte složku dle vašeho výběru.
-3. Otevřete ji v editoru kódu.
+3. Open it in your code editor.
 
 # Instalace závislostí
 > Ujistěte se, že jste nejdříve nainstalovali [npm](https://www.npmjs.com/) (Node Správce balíčků). Automaticky nainstalovala, pokud máte nainstalován [uzel](https://nodejs.org/en/). 
@@ -28,7 +28,7 @@ tags:
 - Otevřete terminál do vašeho repozitáře a zadejte `npm i`.
 - Pro aktualizaci závislostí zadejte `npm update`.
 
-> Uvědomte si, že aktualizace závislostí by mohla hodně brzdit nebo ne - je vyžadováno testování! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
