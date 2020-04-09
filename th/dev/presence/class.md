@@ -197,8 +197,8 @@ presence.on("UpdateData", async () => {
 
 #### `อัพเดทข้อมูล`
 
-This event is fired every time the presence is being updated.
+เหตุการณ์นี้จะเริ่มขึ้นทุกครั้งที่มีการอัปเดต
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+จะเริ่มขึ้นเมื่อได้รับข้อมูลจากสคริปต์ iFrame
