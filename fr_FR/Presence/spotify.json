@@ -1,4 +1,12 @@
 {
+	"spotify.featured": {
+		"message": "Chansons recommandées",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Découvre des nouvelles chansons",
+		"description": ""
+	},
 	"spotify.madeForYou": {
 		"message": "\"Fait pour vous\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
