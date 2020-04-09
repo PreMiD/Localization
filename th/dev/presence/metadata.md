@@ -111,7 +111,7 @@ tags:
       <td style="text-align:left"><b>คำอธิบาย</b>
       </td>
       <td style="text-align:left">คำอธิบายเล็กๆน้อยๆแก่ presence, ตัวคุณสามารถใช้คำอธิบายของบริการได้
-        ถ้าคุณยังไม่มีความคิดดีๆ คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ View the category for presence languages for a list. </td>
+        ถ้าคุณยังไม่มีความคิดดีๆ คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ ดูหมวดหมู่ของภาษา presence ในรายการ. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>ไม่</code>
@@ -120,8 +120,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL ของบริการ<br><b>ตัวอย่าง:</b><code>vk.com</code><br>
+        <b>URL นี้จะต้องตรงกับ URL ของเว็บไซต์เนื่องจากมันจะถูกใช้เพื่อตรวจสอบทุกที่หรือไม่นี่คือเว็บไซต์ที่จะสคริปต์ This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
