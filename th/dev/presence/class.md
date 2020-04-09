@@ -12,29 +12,29 @@ tags:
 
 หมวด `Presence` มีประโยชน์มากเพราะมีวิธีการพื้นฐานที่เราต้องการสำหรับการสร้างสถานะ
 
- When you create a class you must specify `clientId` property.
+ เมื่อคุณสร้างหมวดหมู่คุณต้องระบุคุณสมบัติของ `clientId`
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // ตัวอย่าง clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+มีสองคุณสมบัติสำหรับหมวด `Presence`
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+ต้องจัดเตรียมคุณสมบัติของ `clientId` เพื่อให้ Presence ของคุณใช้งานได้เพราะมันใช้ Id แอปพลิเคชันของคุณเพื่อแสดงโลโก้และเนื้อหา
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+คุณสามารถเข้าไปดูได้ที่ [หน้าแอปพลิเคชัน](https://discordapp.com/developers/applications)
 
-## Methods
+## วิธีการ
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+ตั้งค่ากิจกรรมโปรไฟล์ของคุณตามข้อมูลที่ให้ไว้
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+ตัวแปรแรกต้องการอินเทอร์เฟซของ `presenceData` เพื่อที่จะรับข้อมูลทั้งหมดที่คุณต้องการแสดงในโปรไฟล์ของคุณ
 
 Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
