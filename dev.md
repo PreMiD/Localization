@@ -2,7 +2,7 @@
 title: Getting Started
 description: A little advise for those who got into coding recently
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:20:24.214Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ e.g. ``git clone https://github.com/PreMiD/PreMiD``.
 - Open a terminal in your repository and type ``npm i``.
 - To update the dependencies type ``npm update``.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required!
+> Be aware that updating the dependencies could break a lot, or not - testing is required!
 {.is-danger}
 
 # Coding your vision
