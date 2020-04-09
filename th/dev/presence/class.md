@@ -1,16 +1,16 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: หมวด Presence
+description: หมวดหลักสำหรับทุก PreMiD Presence
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 08 ก.พ 2563 19:33 น.
 tags:
 ---
 
-# Presence Class
+# หมวด Presence
 
-## แนะนำ
+## บทนำ
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+หมวด `Presence` มีประโยชน์มากเพราะมีวิธีการพื้นฐานที่เราต้องการสำหรับการสร้างสถานะ
 
  When you create a class you must specify `clientId` property.
 
