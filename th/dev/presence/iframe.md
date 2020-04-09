@@ -23,14 +23,14 @@ Code ที่คุณเขียนไว้ใน `iframe.ts` ไฟล์�
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // เอา Code ลงตรงนี้
 });
 ```
 
 ## วิธีการ
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+ส่งข้อมูลไปยัง presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
