@@ -104,7 +104,7 @@ console.log(pageVar); // สิ่งนี้จะบันทึก "เน�
 
 ## `presenceData` อินเตอร์เฟซ
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+ขอแนะนำให้ใช้อินเตอร์เฟซ `presenceData` เมื่อคุณใช้วิธีการ `setActivity()`
 
 This interface has following variables, all of them are optional.
 
