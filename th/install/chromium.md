@@ -1,24 +1,24 @@
 ---
 title: โครเมียม
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: เริ่มต้นใช้งาน PreMiD การติดตั้งบนโครมเบราว์เซอร์
 published: true
 date: 12 ก.พ 2020 22:08 น.
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+การติดตั้งส่วนขยายนั้นสำคัญมากเนื่องจากแอปพลิเคชันไม่สามารถทำงานเองได้ด้วยตัวเอง
 
 # ติดตั้ง
 ### Chrome, Edge, และ อื่นๆ.
 1. ไปที่หน้าดาวน์โหลดของเรา [คลิกที่นี่](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+2. เลือก **โครเมียม**
+3. คลิก **เพิ่มในโครม**
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. **[ติดตั้งส่วนขยายของ Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. ติดตั้ง[ส่วนขยายของเรา](https://premid.app/downloads)
 
-> Do not forget to [add the **application**](/install). 
+> อย่าลืมที่จะ[ติดตั้ง**แอปพลิเคชัน**](/install) 
 > 
 > {.is-warning}
 
