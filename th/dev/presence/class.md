@@ -10,7 +10,7 @@ tags:
 
 ## บทนำ
 
-หมวด `Presence` มีประโยชน์มากเพราะมีวิธีการพื้นฐานที่เราต้องการสำหรับการสร้างสถานะ
+หมวด `Presence` มีประโยชน์มากเพราะมีวิธีการพื้นฐานที่เราต้องการสำหรับการสร้าง presence
 
  เมื่อคุณสร้างหมวดหมู่คุณต้องระบุคุณสมบัติของ `clientId`
 
@@ -24,7 +24,7 @@ let presence = new Presence({
 
 #### `clientId`
 
-ต้องจัดเตรียมคุณสมบัติของ `clientId` เพื่อให้ Presence ของคุณใช้งานได้เพราะมันใช้ Id แอปพลิเคชันของคุณเพื่อแสดงโลโก้และเนื้อหา
+ต้องมีการจัดเตรียมคุณสมบัติของ `clientId` เพื่อให้ presence ของคุณใช้งานได้เพราะมันใช้ Id แอปพลิเคชันของคุณเพื่อแสดงโลโก้และเนื้อหา
 
 คุณสามารถเข้าไปดูได้ที่ [หน้าแอปพลิเคชัน](https://discordapp.com/developers/applications)
 
@@ -36,15 +36,15 @@ let presence = new Presence({
 
 ตัวแปรแรกต้องการอินเทอร์เฟซของ `presenceData` เพื่อที่จะรับข้อมูลทั้งหมดที่คุณต้องการแสดงในโปรไฟล์ของคุณ
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+ตัวแปรที่สองกำหนดให้เมื่อ presence กำลังเล่นอะไรอยู่หรือไม่ ใช้ `true` เสมอเมื่อคุณมีการประทับเวลาใน `presenceData`
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+ล้างกิจกรรมปัจจุบันของคุณ, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> วิธีนี้ใช้ได้เฉพาะบน Mac OS เท่านั้น 
 > 
 > {.is-warning}
 
@@ -119,13 +119,13 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">ราย​ละเอียด</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">บรรทัดแรกใน presence มักจะใช้เป็นส่วนหัว</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">บรรทัดที่สองใน presence ของคุณ</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
