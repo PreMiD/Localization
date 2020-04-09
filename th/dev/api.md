@@ -1,8 +1,8 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: เข้าถึงทรัพยากรและดำเนินการต่างๆโดยใช้ PreMiD API
 published: true
-date: 2020-02-12T22:06:25.888Z
+date: 12 ก.พ 2563 22:06 น.
 tags:
 ---
 
