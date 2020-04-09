@@ -2,7 +2,7 @@
 title: Memulai
 description: Sedikit masukan bagi mereka yang baru memulai coding
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Mengcloning project
 1. Buka terminal dan ketik `git clone URL`. **Ganti URL dengan link repository yang ingin anda bantu to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Pilih folder pilihanmu.
-3. Buka di editor kodemu.
+3. Open it in your code editor.
 
 # Menginstal dependencies
 > Pastikan anda sudah menginstal [npm](https://www.npmjs.com/) (Node Package Manager) terlebih dahulu. Akan otomatis terinstal jika sudah menginstal [Node](https://nodejs.org/en/) . 
@@ -28,7 +28,7 @@ tags:
 - Buka terminal di repositorymu dan ketik `npm i`.
 - Untuk memperbarui dependencies ketik `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
