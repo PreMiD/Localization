@@ -51,6 +51,10 @@
 		"message": "Terjemahkan",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Bekerja untuk kami!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Bantuan",
 		"description": "Help section"

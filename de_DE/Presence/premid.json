@@ -1,7 +1,15 @@
 {
+    "premid.viewPage": {
+        "message": "Betrachtet Seite:",
+        "description": ""
+    },
     "premid.docs": {
         "message": "Dokumente",
         "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Betrachtet Präsenz:",
+        "description": ""
     },
     "premid.pageHome": {
         "message": "Startseite",

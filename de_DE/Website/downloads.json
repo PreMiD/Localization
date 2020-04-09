@@ -75,6 +75,10 @@
 		"message": "Oh oh, es sieht so aus, als hättest du keinen Alpha/Beta-Zugang :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.error.noaccess.description": {
+		"message": "Du kannst unserem Beta-Programm **hier** kostenlos beitreten. Beeile dich! Wir haben nur noch {0} Plätze frei (von 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
 	"downloads.latest.header": {
 		"message": "Neueste Versionen",
 		"description": "Header above alpha/beta download buttons."
