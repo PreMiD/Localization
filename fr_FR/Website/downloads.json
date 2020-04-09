@@ -66,5 +66,9 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Cette version est spécifique à Linux et ne s'applique pas aux autres systèmes. La version principale de l'application est {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Veuillez vous connecter afin de voir les téléchargements.",
+		"description": "Error message if the user is not logged in."
 	}
 }
