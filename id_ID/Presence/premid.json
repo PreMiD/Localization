@@ -50,5 +50,9 @@
     "premid.pageTroubleshooting": {
         "message": "Pemecahan masalah",
         "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Memulai",
+        "description": "A page name"
     }
 }
