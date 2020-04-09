@@ -54,7 +54,7 @@ tags:
   </tr>
 </table>
 
-> อย่าลืม [เพิ่ม **ส่วนขยาย**](/install)
+> อย่าลืม [เพิ่ม**ส่วนขยาย**](/install) {.is-warning}
 
 # More info
 https://github.com/PreMiD/Linux
