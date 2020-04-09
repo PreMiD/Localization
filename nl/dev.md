@@ -2,7 +2,7 @@
 title: Aan de slag
 description: Een beetje advies voor degenen die onlangs in codering zijn gekomen
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Het project klonen
 1. Open een terminal en typ `git clone URL`. **Vervang URL door de repository link waaraan u wilt bijdragen** bijv. `git clone https://github.com/PreMiD/PreMiD`.
 2. Kies een map van je keuze.
-3. Open het in de code editor.
+3. Open it in your code editor.
 
 # Afhankelijkheden installeren
 > Zorg ervoor dat u eerst [npm](https://www.npmjs.com/) (Node Package Manager) hebt geïnstalleerd. Het heeft automatisch zichzelf geïnstalleerd als u [Node](https://nodejs.org/en/) heeft geïnstalleerd. 
@@ -28,7 +28,7 @@ tags:
 - Open een terminal in je repository en typ `npm i`.
 - Om de afhankelijkheden bij te werken, type `npm update`.
 
-> Wees ervan bewust dat het bijwerken van de afhankelijkheden veel of niet kan remmen - er zijn tests nodig! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
