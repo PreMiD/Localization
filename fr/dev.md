@@ -28,7 +28,7 @@ tags:
 - Ouvrez un terminal dans votre dépôt et tapez `npm i`.
 - Pour mettre à jour les dépendances, tapez `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Sachez que la mise à jour des dépendances risque de bloquer ou non - des tests sont nécessaires! 
 > 
 > {.is-danger}
 
