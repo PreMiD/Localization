@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "Regarde les abonnements",
+        "description": ""
+    },
     "amazon.orderHistory": {
         "message": "historique des commandes",
         "description": "Part 2 of the string: \"Viewing their\""
