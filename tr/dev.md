@@ -2,7 +2,7 @@
 title: Başlarken
 description: Kodlamaya yeni başlayanlara ufak bir tavsiye
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Projeyi klonlama
 1. Konsolunuzu açın ve `git clone URL` yazın. **Aşağıdaki linki katkıda bulunmak istediğiniz depo linkiyle değiştirin.** örn. `git clone https://github.com/PreMiD/PreMiD`.
 2. Bir klasör seçin.
-3. Editörünüz ile bu klasörü açın.
+3. Open it in your code editor.
 
 # Bağımlılıkları yükleme
 > Node'un içinde gelen [npm](https://www.npmjs.com/)'nin (Node Package Manager) yüklü olduğundan emin olun. Eğer [Node](https://nodejs.org/en/)'u daha önceden yüklediyseniz tekrar yüklemenize gerek yoktur. 
@@ -28,7 +28,7 @@ tags:
 - Klonladığınız depo klasöründeyken konsolu açın ve `npm i` yazın.
 - Bağımlılıkları güncellemek için `npm update` yazın.
 
-> Bağımlılıkları güncellemenin uzun sürebileceğini unutmayın! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
