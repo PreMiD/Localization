@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # O PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [Co to jest PreMiD?](/about) Założenia dlaczego powinieneś używać PreMiD.
 - :link: [Co to jest RPC?](https://discordapp.com/rich-presence) Wszystko o Rich Presence i jego funkcji.
 
 # Wprowadzenie
@@ -31,7 +31,7 @@ PreMiD jest szybki i łatwy w instalacji. Powinieneś być gotowy i działać be
 
 # Przyczyń się
 - :bug: [Zgłoś błąd](https://github.com/PreMiD): Pomóż nam zniszczyć te peskalne błędy.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
+- :bulb: [Zaproponuj nową funkcje](https://discord.gg/WvfVZ8T): Potrzebujemy twoich pomysłów!
 - :heart: [Wesprzyj](https://www.patreon.com/Timeraa): Dokonaj małej dotacji lub stań się sponsorem tego wspaniałego projektu!
 - :globe_with_meridians: [Lokalizacje](https://translate.premid.app): Pozwól innym użytkownikom używać PreMiD w swoim języku ojczystym.
 
