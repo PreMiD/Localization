@@ -81,8 +81,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>ผู้เขียน</b>
       </td>
-      <td style="text-align:left">ควรมี Object ที่มี <code>name</code> และ <code>id</code> ของผู้พัฒนา presence Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">ควรมี Object ที่มี <code>name</code> และ <code>id</code> ของผู้พัฒนา presence <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณโดยไม่มีตัวระบุตัวตน(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
+        โหมดผู้พัฒนาและคลิกขวาบนโปรไฟล์ของคุณ</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>ไม่</code>
@@ -91,8 +91,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>ผู้พัฒนา</b>
       </td>
-      <td style="text-align:left">ควรมี Object ที่มี <code>name</code> และ <code>id</code> ของผู้พัฒนา presence Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">ควรมี Object ที่มี <code>name</code> และ <code>id</code> ของผู้ช่วยพัฒนา presence <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณโดยไม่มีตัวระบุตัวตน(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
+        โหมดผู้พัฒนาและคลิกขวาบนโปรไฟล์ของคุณ</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>ใช่</code>
