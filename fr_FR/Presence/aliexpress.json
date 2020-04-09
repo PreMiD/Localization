@@ -1,1 +1,18 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Vue de la boutique:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Centre de messages",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "regarde les articles",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.feedback": {
+        "message": "Commentaires de AliExpress",
+        "description": ""
+    }
+}

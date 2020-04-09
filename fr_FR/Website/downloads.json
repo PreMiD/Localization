@@ -70,5 +70,17 @@
 	"downloads.error.login": {
 		"message": "Veuillez vous connecter afin de voir les téléchargements.",
 		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Oh oh, il semble que vous n'avez pas accès à la alpha/bêta :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Vous pouvez rejoindre notre programme bêta gratuitement **ici**. Dépêchez-vous ! Nous n'avons que {0} places disponibles (sur 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Dernières versions",
+		"description": "Header above alpha/beta download buttons."
 	}
 }

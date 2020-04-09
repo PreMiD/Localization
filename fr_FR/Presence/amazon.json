@@ -1,1 +1,30 @@
-{}
+{
+    "amazon.orderHistory": {
+        "message": "historique des commandes",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "﻿Détails de la commande",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "panier",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "liste de souhaits",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "cartes-cadeaux",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.store": {
+        "message": "Vue de la boutique:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Regarde Prime Video :",
+        "description": ""
+    }
+}
