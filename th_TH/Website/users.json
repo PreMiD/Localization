@@ -15,6 +15,14 @@
 		"message": "สร้าง Presences ไปแล้ว {0}",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "นักพัฒนา Presence สุดจีเนียส!",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "สร้าง Presences มามากกว่า 100 อัน!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "ผู้ใช้ [พรีเซ้น/ผู้ช่วยเหลือ]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
