@@ -1,4 +1,24 @@
 {
+    "youtube.ad": {
+        "message": "Schaut aktuell Werbung",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Durchstöbert Videos",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Durchstöbert Playlists",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Betrachtet Community-Beiträge",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "von Kanal:",
+        "description": "Second part of multiple strings"
+    },
     "youtube.browsingThrough": {
         "message": "Durchsuchen",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
