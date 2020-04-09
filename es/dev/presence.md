@@ -66,21 +66,21 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 > {.is-warning}
 
 En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **DEBE** tener en cuenta al modificar una presencia.
-- No se permite reescribir una presencia o cambiar su autor. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
-- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
+- No se permite reescribir una presencia o cambiar su autor. Si el autor de una presencia fue baneado del servidor oficial o no ha realizado cambios en un período de 7 días, puede ponerse en contacto con un `Verificador de Presencia` de PreMiD para ver si se le permite modificar la presencia concreta.
+- Si haces modificaciones a una presencia que afecten al menos a un **UN CUARTO** del código base de la misma, puede añadirse como colaborador. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
+- Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc... No cambien las imágenes si no están desfasadas y tienen una resolución decente.
+- Confirme que los cambios funcionan antes de publicar. No envíe un Pull Request sin conocer el resultado de sus cambios.
 
 # Verificación
 
-> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
+> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. Todos los `Verificadores de Presencia` tendrán un rol único en su perfiles.
 
-For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
+Para que su presencia llegue a la tienda, DEBE pasar por un proceso en GitHub que confirme que funciona como se esperaba. Estas son algunas cosas a tener en cuenta al enviar un Pull Request.
 
 1. Se necesitan dos verificadores para confirmar que su presencia está a la altura de los estándares. Si usted obtiene solicitudes de cambio, haga el esfuerzo adecuado para arreglarlo o no se añadirá.
-2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
+2. Si se solicitan cambios y su Pull Request excede **7 días de inactividad** sin llevarlos a cabo, nos veremos obligados a cerrar dicho Pull Request.
 3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( ej. su autor en caso de que no pueda acceder a él por ninguna razón).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
+4. Si se trata de una actualización o un parche, la captura de pantalla **DEBE** mostrar las novedades funcionando, no una característica antigua de Pull Request previas.
 5. Las capturas de pantalla proporcionadas deben ser reales, no editadas.
 6. Cualquier código aportado que se fusiona en este repositorio será licenciado bajo la **Mozilla Public License 2.0**.
 7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
