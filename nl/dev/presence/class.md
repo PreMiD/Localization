@@ -83,14 +83,14 @@ presence.showSetting("pdexID"); ///vervang pdexID met het id van de instelling
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Geeft als resultaat de extensie versie die de gebruiker gebruikt.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Geeft terug: 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Geeft terug: 2.1.0
 ```
 
 ### `getPageLetiable(String)`
