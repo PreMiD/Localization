@@ -2,7 +2,7 @@
 title: ابدء
 description: نصيحة صغيرة لأولئك الذين حصلوا على الترميز مؤخرا
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # استنساخ المشروع
 1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. <strong x-id = "1"> استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.
 2. اختيار مجلد من اختيارك.
-3. فتحه في محرر لك رمز.
+3. Open it in your code editor.
 
 # تثبيت الإعتمادات
 > تأكد من تثبيت [ npm ](https://www.npmjs.com/) (مدير حزمة العقدة) أولاً. يتم تثبيته تلقائيًا إذا كنت قد قمت بتثبيت [ Node ](https://nodejs.org/en/). 
@@ -28,7 +28,7 @@ tags:
 - افتح محطة في مستودعك واكتب ` npm i `.
 - لتحديث التبعيات ، اكتب ` تحديث npm `.
 
-> كن على دراية بأن تحديث التبعيات يمكن أن يكسر كثيرًا أم لا - يجب إجراء اختبار! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
