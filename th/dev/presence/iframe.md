@@ -1,12 +1,12 @@
 ---
-title: หมวด iFrame
+title: คลาส iFrame
 description:
 published: true
 date: 12 ก.พ 2563 22:15 น.
 tags:
 ---
 
-# หมวด iFrame
+# คลาส iFrame
 > ระบบ iframe กับ PreMiD ยังไม่เสถียรและอาจมีการแสดงอาการที่ไม่คาดคิด โปรดใช้ด้วยความระมัดระวัง 
 > 
 > {.is-danger}
@@ -17,7 +17,7 @@ tags:
 
 Code ที่คุณเขียนไว้ใน `iframe.ts` ไฟล์ของคุณนั้นจะถูกใส่เข้าไปในทุก iframe บนหน้าเพจ
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+เช่นเดียวกับ presences `iframes` มีคลาสของตัวเองที่ออกแบบมาเพื่ออัปเดตข้อมูลโดยอัตโนมัติ
 
 ```typescript
 let iframe = new iFrame();
