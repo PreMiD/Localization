@@ -2,7 +2,7 @@
 title: Začíname
 description: A little advise for those who got into coding recently
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Cloning the project
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Choose a folder of your choice.
-3. Open it in you code editor.
+3. Open it in your code editor.
 
 # Installing dependencies
 > Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
@@ -28,7 +28,7 @@ tags:
 - Open a terminal in your repository and type `npm i`.
 - To update the dependencies type `npm update`.
 
-> Be aware that updating the dependencies could brake a lot, or not - testing is required! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
