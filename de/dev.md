@@ -2,7 +2,7 @@
 title: Erste Schritte
 description: Ein kleiner Ratschlag für diejenigen, die sich in letzter Zeit mit Codierung beschäftigen
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Projekt klonen
 1. Öffnen ein Terminal und gib `git clone URL` ein. **Ersetze die URL mit dem Repository-Link auf dem Du beitragen möchtest** Beispiel: `git clone https://github.com/PreMiD/PreMiD`.
 2. Wähle einen Ordner Deiner Wahl.
-3. Öffne es in Deinem Quellcode-Editor.
+3. Open it in your code editor.
 
 # Notwendige Dateien installieren
 > Stelle zuerst sicher, dass Du [npm](https://www.npmjs.com/) (Node Package Manager) installiert hast. Er wurde automatisch installiert, wenn Du [Node](https://nodejs.org/en/) installiert hast. 
@@ -28,7 +28,7 @@ tags:
 - Öffne ein Terminal in Deinem Repository und gib `npm i` ein.
 - Um die notwendigen Dateien zu aktualisieren, gib `npm update` ein.
 
-> Beachte, dass die Aktualisierung der notwendigen Dateien viel Zeit in Anspruch nehmen kann, oder nicht - Testen ist erforderlich! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
