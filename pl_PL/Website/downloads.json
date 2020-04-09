@@ -46,5 +46,9 @@
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Nie posiadamy instalatora dla tego systemu operacyjnego. To oznacza, że nie mamy pod to profesjonalnego wsparcia.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Ostrzegamy że PreMiD nie jest obecnie dostępny na telefony.",
+		"description": "Downloads page warning when user is on mobile."
 	}
 }
