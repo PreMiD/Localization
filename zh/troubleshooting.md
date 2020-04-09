@@ -1,51 +1,51 @@
 ---
-title: 疑难解答
-description: 解决您问题的一切内容
-published: true
-date: 2020-01-19T23：42：09.728Z
+title: 疑難解答
+description: Everything to solve your problem
+published: 是
+date: 2020-01-19T23:42:09.728Z
 tags:
 ---
 
-> 请确保您已安装扩展 **和** 应用程序！ 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
-### 重新加载页面
-您也可以在键盘上按 <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS)。
+### Reload the page
+You can press <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### 重新启动您的浏览器
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) 也做了很好的工作。 (您必须再次启动您的浏览器。)
+### Restart your browser
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### 请确保您在Discord设置中启用了游戏状态
-**用户设置** > **游戏活动** ![游戏活动编辑.png](/gameactivity_edited.png)
+### Make sure that you have enabled Discord Game Activity in settings
+**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### 重启预设(应用程序)
-![quit.png](/quit.png) 之后您必须重启PreMiD。
+### Restart PreMiD (Application)
+![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### 重新加载/重启 Discord
-在您的键盘上按 <kbd>Strg+R</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS) 或手动重启 Discord。
+### Reload/restart Discord
+Press <kbd>Strg+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### 请确保Discord不是作为管理员运行
-真正重要。 如果您以管理员身份运行Discord，Discord RPC将无法工作。
+### Be sure Discord is running NOT as administrator
+Really important. Discord RPC will not work if you run Discord as an administrator.
 
-### 检查您的计算机上是否有抗病毒或防火墙
-有时抗病毒程序和防火墙正在阻止正在创建/托管服务器或仅仅连接到互联网的应用程序。 我们正在使用本地服务器来接收和传递我们应用程序和扩展之间的数据， 所以，如果您将屏蔽应用程序传递数据的能力，您可能无法使用PreMiD。
+### Check if you have antivirus or firewall running on your computer
+Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### 禁用您的插件
-禁用您所有的附加组件并查看它是否正常工作。 如果是，请尝试逐步启用您的附加组件，并告诉我们哪个附加组件打破了PreMiD。
+### Disable your addons
+Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### 重新启动您的计算机
-我希望你知道如何重启计算机。
+### Restarting your computer
+I hope you know how to restart a computer.
 
-### 正在重新安装 PremiD
-有时文件有问题... 安装教程可在这里找到 [](/install)。
+### Reinstalling PreMiD
+Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
-### 手动删除
-Windows：    `C:\Users\USER\Program Files (x86)\`` 并删除文件夹`PreMiD`.
-MacOS:`~/users/USER/~Library/Application support/`并删除文件夹`PreMiD`` 。
+### Manual removal
+Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
-### 在 Ubuntu/Debian 的磁盘上
-如果您是通过 Snapcraft下载Discord的，游戏状态将不会显示。 您必须在终端上执行 `sudo snap 移除Discord` 来卸载Snapcraft 版本， 下载 [Discord的 Linux 版本](https://discordapp.com/api/download?platform=linux) ([或 Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), 然后导航到您下载的 Discord 目录(通常是 `$HOME/Download`), 然后使用 `sudo dpkg -i discord-*安装包件。 eb`
+### On Ubuntu/Debian based distros
+If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
-### 这还没有解决我的问题
-请在 [#support](https://discord.gg/PreMiD) 中打开工单。
+### That has not solved my problem
+Please open a ticket in [#support](https://discord.gg/PreMiD).
