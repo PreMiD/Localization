@@ -39,4 +39,4 @@ Harap jaga strukturnya. Kami tidak ingin project kami berantakan. File berantaka
 Buka Pull Request pada salah satu [GitHub repositories](https://github.com/PreMiD/) kami yang ingin anda bantu. Akan kami urus, jangan khawatir. Jika ini pertama kali anda membuat pull request, lihatlah ini [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Mendapat persetujuan
-Tujuan utama kami adalah bekerja bersama pengguna jadi usahakan jadilah ramah, hormat dan informatif. Ping Developer kami di [Server Discord](https://discord.gg/WvfVZ8T) untuk mendapat review, atau tidak. Depends on the code quality, appearance of assets and regular functionality.
+Tujuan utama kami adalah bekerja bersama pengguna jadi usahakan jadilah ramah, hormat dan informatif. Ping Developer kami di [Server Discord](https://discord.gg/WvfVZ8T) untuk mendapat review, atau tidak. Bergantung pada kualitas kode, tampilan aset dan fungsi reguler.
