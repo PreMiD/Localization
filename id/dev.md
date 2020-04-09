@@ -1,32 +1,32 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Memulai
+description: Sedikit masukan bagi mereka yang baru memulai coding
 published: true
 date: 2020-02-24T12:25:32.294Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Membutuhkan editor source code. Kami sarankan Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Hal-hal yang perlu diinstal
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+2. Install [Node](https://nodejs.org/en/) (disertai [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan ketik `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+# Mengcloning project
+1. Buka terminal dan ketik `git clone URL`. **Ganti URL dengan link repository yang ingin anda bantu to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+2. Pilih folder pilihanmu.
+3. Buka di editor kodemu.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Menginstal dependencies
+> Pastikan anda sudah menginstal [npm](https://www.npmjs.com/) (Node Package Manager) terlebih dahulu. Akan otomatis terinstal jika sudah menginstal [Node](https://nodejs.org/en/) . 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Buka terminal di repositorymu dan ketik `npm i`.
+- Untuk memperbarui dependencies ketik `npm update`.
 
 > Be aware that updating the dependencies could brake a lot, or not - testing is required! 
 > 
