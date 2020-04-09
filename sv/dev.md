@@ -2,7 +2,7 @@
 title: Kom igång
 description: Lite råd för dem som nyligen kom in i kodning
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Klonar projektet
 1. Öppna en terminal och skriv `git clone URL`. **Ersätt URL med utvecklingslänk som du vill bidra till** t.ex. `git clone https://github.com/PreMiD/PreMiD`.
 2. Välj en mapp som du väljer.
-3. Öppna den i din kodredigerare.
+3. Open it in your code editor.
 
 # Installera beroenden
 > Se till att du har installerat [npm](https://www.npmjs.com/) (Node Package Manager) först. Den installeras automatiskt om du har [Nod](https://nodejs.org/en/) installerad. 
@@ -28,7 +28,7 @@ tags:
 - Öppna en terminal i ditt arkiv och skriv `npm i`.
 - För att uppdatera beroendenstypen `npm update`.
 
-> Var medveten om att uppdatering av beroenden kan bromsa mycket, eller inte - testning krävs! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
