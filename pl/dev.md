@@ -2,7 +2,7 @@
 title: Wprowadzenie
 description: Troche porad dla tych co chcą zacząć programować
 published: tak
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Klonowanie projektu
 1. Otwórz konsole i wpisz `git clone URL`. **Zamień URL na link repozytorium które chcesz wspomóc** np. `git clone https://github.com/PreMiD/PreMiD`.
 2. Wybierz folder.
-3. Otwórz go w twoim edytorze kodu.
+3. Open it in your code editor.
 
 # Instalowanie zależności
 > Upewnij się, że masz zainstalowane [npm](https://www.npmjs.com/) (Node Package Manager). Instaluje się to automatycznie, jeżeli masz zainstalowane [Node.js](https://nodejs.org/en/). 
@@ -28,7 +28,7 @@ tags:
 - Otwórz konsole w twoim folderze z repozytorium i wpisz `npm i`.
 - Aby zaktualizować zależności, wpisz `npm update`.
 
-> Uważaj z aktualizowaniem zależności, może to wiele zepsuć. Testowanie jest potrzebne! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
