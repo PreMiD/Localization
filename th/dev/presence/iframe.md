@@ -23,33 +23,33 @@ Code ที่คุณเขียนไว้ใน `iframe.ts` ไฟล์�
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // เอา Code ลงตรงนี้
+    // เอา Code ลงตรงนี้...
 });
 ```
 
 ## วิธีการ
 
 ### `send(Object)`
-ส่งข้อมูลไปยัง presence. Using this method will make the presence throw a `iFrameData` event.
+ส่งข้อมูลไปยัง presence. การใช้วิธีนี้จะทำให้ presence ปัจจุบันปรากฏในเหตุการณ์ `iFrameData`
 
 ### `getUrl(String)`
-Returns the URL of the `iframe`.
+คืนค่า URL ของ `iframe`
 
 ## เหตุการณ์
-In `iframes`, events work similarly to the way they work in the `presence` class.
+ใน `iframes` เหตุการณ์จะทำงานคล้ายกับวิธีที่พวกเขาทำงานในคลาส `presence`
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes here...
+    // เอา Code ลงตรงนี้...
 });
 ```
 
-Here is a list of all of the events:
+นี่คือรายการของเหตุการณ์ทั้งหมด:
 
-#### `อัพเดทข้อมูล`
+#### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+เหตุการณ์นี้จะเริ่มทำงานทุกครั้งที่มีการอัปเดต iframe
 
 #### `MediaKeys` (disabled)
 
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
+เริ่มทำงานเมื่อผู้ใช้กดปุ่ม media บนคีย์บอร์ดของเขา,[คลิกที่นี่](/dev/presence/class#mediakeys)เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับปุ่ม media
