@@ -1,21 +1,21 @@
 ---
-title: iFrame Class
+title: หมวด iFrame
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 12 ก.พ 2563 22:15 น.
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# หมวด iFrame
+> ระบบ iframe กับ PreMiD ยังไม่เสถียรและอาจมีการแสดงอาการที่ไม่คาดคิด โปรดใช้ด้วยความระมัดระวัง 
 > 
 > {.is-danger}
 
 ## บทนำ
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+ในบางสถานการณ์ presence ของคุณอาจจำเป็นต้องเข้าถึงองค์ประกอบภายใน `iframes`
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Code ที่คุณเขียนไว้ใน `iframe.ts` ไฟล์ของคุณนั้นจะถูกใส่เข้าไปในทุก iframe บนหน้าเพจ
 
 Like presences, `iframes` have their own classes designed to automatically update data.
 
