@@ -47,7 +47,7 @@ L'installation de l'application est très importante car l'extension ne peut rie
     <td>Non recommandé, pas facile pour les débutants et ne se met pas à jour automatiquement.</td>
   </tr>
   <tr>
-    <td>Others</td>
+    <td>Autres</td>
     <td>-</td>
     <td>-</td>
     <td>Bientôt (TM), utilisez l'AppImage pour l'instant</td>
