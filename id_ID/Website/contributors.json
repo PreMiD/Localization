@@ -16,12 +16,48 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.executiveDirector": {
-		"message": "Direktur eksekutif",
+		"message": "Direktur Eksekutif",
 		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Pengawas Operasi",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Perwakilan Komunitas Global",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Kepala Perancang Software",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Perancang Web",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Perancang Grafis",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Moderator Senior",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "Kepala Pemeriksa Presence",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Perwakilan Komunitas",
+		"description": "'Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Moderator Junior",
+		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Pemeriksa Presence",
