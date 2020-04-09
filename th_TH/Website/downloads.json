@@ -66,5 +66,21 @@
 	"downloads.warning.differentVersion2": {
 		"message": "เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น เวอร์ชั่นหลักของโปรแกรมคือเวอร์ชั่น {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "กรุณาเข้าสู่ระบบเพื่อที่จะดาวน์โหลด",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "ไม่นะ, ดูเหมือนว่าคุณไม่มีสิทธิ์ในการเข้าถึงแบบอัลฟ่า / เบต้า :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "คุณสามารถเข้าร่วมโปรแกรมเบต้าได้ฟรี **ที่นี่**. เร็วเข้าหล่ะ! พวกเรามีที่ว่างเหลืออยู่ {0} (จากทั้งหมด 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "รุ่นล่าสุด",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
