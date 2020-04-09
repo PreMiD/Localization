@@ -2,7 +2,7 @@
 title: PreMiD開発入門
 description: 近いうちにコーディングを始めたひとのためのアドバイス
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # プロジェクトをクローンする
 1. ターミナルを開き、`git clone URL`と入力する。 **URL の部分を寄与したいリポジトリーのリンク** 例 `git clone https://github.com/PreMiD/PreMiD` **に置き換える**
 2. 任意のフォルダーを選択する
-3. ソースコードエディターで開く
+3. Open it in your code editor.
 
 # 依存関係のインストール
 > はじめに、[npm](https://www.npmjs.com/) (Node Package Manager) がインストールされていることを確認してください。  [Node](https://nodejs.org/en/)がインストールされている場合、npmは自動でインストールされます。 
@@ -28,7 +28,7 @@ tags:
 - リポジトリー内でターミナルを開き、 `npm i` と入力する
 - 依存関係のタイプを更新する際は `npm update` と入力する
 
-> 依存関係をアップデートすると、多数の機能が壊れる可能性があります - テストを必ず行ってください！ 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
