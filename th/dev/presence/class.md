@@ -40,7 +40,7 @@ let presence = new Presence({
 
 ### `clearActivity()`
 
-ล้างกิจกรรมปัจจุบันของคุณ, the keybinds and the tray title.
+ล้างกิจกรรมปัจจุบันของคุณ, ปุ่มลัด และ เทรย์ title
 
 ### `setTrayTitle(String)`
 
@@ -48,15 +48,15 @@ let presence = new Presence({
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+ตั้งให้เทรย์ title อยู่บน แถบเมนู
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+อนุญาติให้คุณรับสตริงที่แปลจากส่วนขยาย คุณต้องระบุ `Object` ด้วยคีย์ที่เป็นกุญแจสำหรับสตริง `keyValue` คือค่าสตริง คุณสามารถค้นหา strings บางส่วนโดยใช้ลิ้งค์นี้: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// คืนค่า `Playing` and `Paused` strings
+// จาก extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -83,26 +83,26 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+คืนค่าเวอร์ชันของส่วนขยายที่ผู้ใช้ใช้อยู่
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // จะเป็น log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // จะเป็น log 2.1.0
 ```
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+คืนค่าตัวแปรจากเว็บไซต์ถ้ามันมีอยู่จริง
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // สิ่งนี้จะบันทึก "เนื้อหาของตัวแปร"
 ```
 
-## `presenceData` Interface
+## `presenceData` อินเตอร์เฟซ
 
 The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
