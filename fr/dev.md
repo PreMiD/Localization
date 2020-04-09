@@ -18,7 +18,7 @@ tags:
 # Dupliquer le projet
 1. Ouvrez un terminal et tapez `git clone URL`. **Remplacez l'URL par le lien du fichier auquel vous voulez contribuer ** Par exemple `git clone https://github.com/PreMiD/PreMiD`.
 2. Choisissez un fichier de votre choix.
-3. Open it in your code editor.
+3. Ouvrez-le dans votre éditeur de code.
 
 # Installation des dépendances
 > D'abord, assurez-vous que vous avez installé [npm](https://www.npmjs.com/) (gestionnaire de Node Package). Il s'est automatiquement installé si vous avez [Node](https://nodejs.org/en/) installé. 
