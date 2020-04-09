@@ -11,8 +11,8 @@ PreMiD is a simple, configurable utility that allows you to show what you are wa
 # Kenapa kamu harus mengunduh PreMiD
 - Kami sama sekali tidak menyimpan data pengguna, jadi kamu tidak usah khawatir tentang privasimu.
 - Semua proyek kami open-source! Kami ingin bekerja dengan pengguna kami - bukan menentang mereka.
-- Fitur hebat, WatchParties, akan datang ke PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- Fitur hebat, WatchParties, akan datang ke PreMiD. Dengan undangan game serta menonoton dan mendengarkan sekaligus. Powered by[ Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# Fitur utama
+- Menampilkan website yang anda gunakan sebagai status di Discord.
+- Memberi kontrol penuh terhadap Presence.
