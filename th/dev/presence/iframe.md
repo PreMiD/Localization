@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl(String)`
 Returns the URL of the `iframe`.
 
-## Events
+## เหตุการณ์
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
