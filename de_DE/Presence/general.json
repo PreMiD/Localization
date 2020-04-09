@@ -155,6 +155,54 @@
         "message": "Member ansehen:",
         "description": ""
     },
+    "general.viewMovie": {
+        "message": "Schaut einen Film:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Betrachtet eine Playlist:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Betrachtet ein Produkt:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Betrachtet ein Profil:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Schaut eine Show:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Betrachtet den eigenen Account",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Betrachtet Thread:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Betrachtet Benutzer:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Betrachtet:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Schaut ein Video",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Schaut einen Livestream",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Schaut:",
+        "description": ""
+    },
     "general.wishlist": {
         "message": "Wunschliste:",
         "description": ""
