@@ -205,7 +205,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">นิพจน์ทั่วไปที่ใช้ตรวจหา iframe ที่จะแทรก</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>ใช่</code>
@@ -214,7 +214,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Array ของการตั้งค่าที่ผู้ใช้สามารถเปลี่ยนได้</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>ใช่</code>
@@ -223,24 +223,24 @@ tags:
   </tbody>
 </table>
 
-## Regular Expressions
+## นิพจน์ทั่วไป
 
-If you want to learn regular expressions, here are a few websites.
+ถ้าคุณต้องการเรียนรู้นิพจน์ทั่วไป, มาดูเว็บไซต์นี้สิ!
 
-#### Learning
+#### การเรียนรู้
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [ข้อมูลเกี่ยวกับนิพจน์ทั่วไป](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### การทดสอบ
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## ภาษาของ Presence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD เป็นบริการ polygot ซึ่งหมายความว่ามีภาษามากมายที่เกี่ยวข้องในการเชื่อมต่อของผู้ใช้ทั่วโลก รายการภาษาทั้งหมดสามารถดูได้ที่ [ปลายทาง API](https://api.premid.app/v2/langFile/list)
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## การตั้งค่า Presence
+สร้างการตั้งค่าแบบโต้ตอบเพื่อให้ผู้ใช้สามารถปรับแต่ง Presence ได้!
 ```javascript
 "settings": [
         { 
