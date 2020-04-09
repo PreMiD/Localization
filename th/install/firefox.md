@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+การติดตั้งส่วนขยายนั้นสำคัญมากเนื่องจากแอปพลิเคชันไม่สามารถทำงานเองได้ด้วยตัวเอง
 
 # ติดตั้ง
 1. ไปที่หน้าดาวน์โหลดของเรา [คลิกที่นี่](https://premid.app/downloads).
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> อย่าลืมที่จะ[ติดตั้ง**แอปพลิเคชัน**](/install) 
 > 
 > {.is-warning}
 
