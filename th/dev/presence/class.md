@@ -171,28 +171,29 @@ This interface has following variables, all of them are optional.
 </table>
 
 ```typescript
+ตัวอย่างเช่น :
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "หัวข้อของฉัน",
+    state: "คำอธิบายของฉัน",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "คุณเอาเมาส์ชี้ที่ฉัน, แล้วไงต่อหล่ะ?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Events
+## เหตุการณ์
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+เหตุการณ์อนุญาตให้คุณตรวจจับและจัดการการเปลี่ยนแปลงหรือเรียกสิ่งที่เกิดขึ้น คุณสามารถติดตามเหตุการณ์โดยใช้วิธี `on`
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // ทำอะไรบางอย่างเมื่อข้อมูลได้รับการเปลี่ยนแปลง
 });
 ```
 
-There are few events available:
+มีบางเหตุการณ์ที่ใช้ได้:
 
 #### `อัพเดทข้อมูล`
 
