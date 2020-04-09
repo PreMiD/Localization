@@ -2,7 +2,7 @@
 title: Comenzando
 description: Un pequeño consejo para aquellos que han entrado recientemente en la codificación
 published: true
-date: 2020-02-24T12:25:32.294Z
+date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
@@ -18,7 +18,7 @@ tags:
 # Clonando el proyecto
 1. Abre un terminal y escribe `git clone URL`. **Reemplace la URL con el enlace del repositorio al que desea contribuir** p.e. `git clone https://github.com/PreMiD/PreMiD`.
 2. Elija una carpeta de su elección.
-3. Ábrelo en tu editor de código.
+3. Open it in your code editor.
 
 # Instalando dependencias
 > Asegúrate de haber instalado [npm](https://www.npmjs.com/) (Node Package Manager) primero. Se instaló automáticamente si tienes [Nodo](https://nodejs.org/en/) instalado. 
@@ -28,7 +28,7 @@ tags:
 - Abra un terminal en su repositorio y escriba `npm i`.
 - Para actualizar las dependencias escriba `npm update`.
 
-> Tenga en cuenta que actualizar las dependencias podría romperse mucho, o no - ¡es necesaria la prueba! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
