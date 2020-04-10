@@ -15,6 +15,10 @@
 		"message": "Ersteller",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.engineer": {
+		"message": "Entwickler",
+		"description": "'Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
