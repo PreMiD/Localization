@@ -31,6 +31,10 @@
         "message": "Visualisation de la tendance",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "Parcourir à travers",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "dans ses abonnements",
         "description": "Part two of \"Browsing through\""
@@ -90,6 +94,10 @@
     "youtube.studio.videoTranslations": {
         "message": "Regarde une traduction d'une vidéo:",
         "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "En train de regarder leur",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "données analytiques de la chaîne",
