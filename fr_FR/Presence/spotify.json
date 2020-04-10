@@ -3,6 +3,10 @@
 		"message": "Chansons recommandées",
 		"description": ""
 	},
+	"spotify.bestPodcasts": {
+		"message": "Meilleurs podcasts",
+		"description": ""
+	},
 	"spotify.genres": {
 		"message": "Navigue dans les genres",
 		"description": ""
@@ -15,9 +19,29 @@
 		"message": "Découvre des nouvelles chansons",
 		"description": ""
 	},
+	"spotify.podcastsLike": {
+		"message": "podcasts qu'ils aiment",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artistes qu'ils aiment",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albums qu'ils aiment",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "chansons qu'ils aiment",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.madeForYou": {
 		"message": "\"Fait pour vous\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "leurs playlists",
+		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
 		"message": "Télécharge Spotify",
