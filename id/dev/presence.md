@@ -80,7 +80,7 @@ Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di G
 1. Dibutuhkan dua verifier untuk memastikan presence anda sesuai standar. Jika anda mendapatkan permintaan perubahan, lakukan upaya tepat untuk memperbaikinya atau presence tidak akan ditambahkan.
 2. Jika kami meminta perubahan dan pull request anda melebihi **7 hari inaktif** tanpa membuat perubahan yang dibutuhkan, terpaksa akan kami tutup.
 3. Anda diperbolehkan untuk mengambil screenshot perubahan yang dibuat bersama dengan pengguna lain, anda boleh menggabungkan screenshot untuk dilihat. ( misal pencipta tidak bisa mengaksesnya karena suatu alasan).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
+4. Jika ada sebuah update atau patch, screenshot **HARUS** menampilkan tambahan baru bekerja, bukan fitur lama dari pull requst sebelumnya.
 5. The provided screenshots should be real, not edited.
 6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
 7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
