@@ -57,17 +57,17 @@ Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
 - Jika anda membuat presence untuk website yang berubah di masa mendatang, adalah tanggung jawab **ANDA** untuk memperbarui presence agar bekerja sesuai harapan. Jika anda tidak memperbaiki dalam 7 hari, maka pengembang presence lainnya diizinkan untuk **MENGGANTI** presence anda untuk menyesuaikan perubahan.
 - Presence **HARUS** di uji coba sebelum penerbitan untuk memastikan semua bekerja sesuai yang diharapkan.
 - Presence anda **HARUS** memiliki gambar dan deskripsi SFW terlepas dari apakah itu NSFW atau tidak. Jika presence anda tentang website NSFW, harap tambahkan tag `nsfw` pada metadata.
-- Your presence **CANNOT** manipulate local storage on the browser.
-- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
+- Presence anda **TIDAK BISA** merubah penyimpanan lokal pada browser.
+- Presence anda boleh menggunakan cookies untuk menyimpan data. Semua data disimpan oleh presence harus memiliki prefix `pmd_`.
 
-## Modification
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
+## Perubahan
+> Anda HARUS merubah versi **metadata** menjadi nilai lebih tinggi dari versi sebelumnya saat membuat perubahan ke **presence.js** atau **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you **MUST** follow to modify presences.
-- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
-- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
+Pada situasi tertentu, presence mungkin berperilaku aneh atau membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar yang **HARUS** diikuti dalam merubah presence.
+- Anda tidak diperbolehkan menulis kembali sebuah presence atau merubah penciptanya. Jika pencipta presence telah terbanned dari server official atau belum membuat perubahan yang dibutuhkan dalam jangka 7 hari, anda boleh menghubungi `Presence Verifier` PreMiD untuk memeriksa apakah anda dapat menulis ulang presence yang dipilih.
+- Jika anda membuat perubahan pada presence dan merubah setidaknya **SEPEREMPAT** dari codebase presence maka anda diperbolehkan menambahkan diri sebagai kontributor. Hubungi `Presence Verifier` untuk informasi lebih lanjut tentang hal ini.
 - Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 
