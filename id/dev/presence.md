@@ -1,23 +1,23 @@
 ---
-title: Presence Development
+title: Pengembangan Presence
 description:
 published: true
 date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Semua presence disimpan disini: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna sekarang bisa menambah dan menghapus presence favorit lewat tampilan pengguna [website](https://premid.app/).
 
-# Guidelines
-> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
+# Aturan
+> Jika anda tidak mengikuti aturan, a `Presence Verifier` akan meminta perubahan sesuai aturan atau pull request anda mungkin bisa ditutup dalam situasi tertentu. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> Ketika membuat pull request tentang menambahkan atau mengganti presence yang sudah ada, anda **HARUS** menyertakan screenshot. Tetapi, perubahan pada file `metadata.json` atau file `tsconfig.json` suatu presence tidak memerlukan screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-warning}
 
