@@ -17,14 +17,14 @@ Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna s
 > 
 > {.is-warning}
 
-> Ketika membuat pull request tentang menambahkan atau mengganti presence yang sudah ada, anda **HARUS** menyertakan screenshot. Tetapi, perubahan pada file `metadata.json` atau file `tsconfig.json` suatu presence tidak memerlukan screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> Ketika membuat pull request tentang menambahkan atau mengganti presence yang sudah ada, anda **HARUS** menyertakan screenshot. Tetapi, perubahan pada file `metadata.json` atau file `tsconfig.json` suatu presence tidak memerlukan screenshot. * Screenshot anda HARUS di upload langsung ke GitHub dengan pull request, jangan menggunakan website third party untuk share gambar.* 
 > 
 > {.is-warning}
 
-When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
+Saat menerbitkan presence ke GitHub, kami mengharuskan anda mengikuti beberapa aturan. Bagi beberapa, peraturan ini mungkin agak kejam. Tapi penerapan aturan ini bertujuan untuk mencegah masalah pada server kami.
 
-## Creation
-> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+## Pembuatan
+> Kode yang dibuat HARUS *ditulis dengan baik* dan HARUS *bisa dibaca*. `DeepScan` di GitHub akan melaporkan kualitas kode ke `Presence Verification Team`. Kami sarankan fork anda up to date saat membuat pull request, untuk mengurangi false positives. 
 > 
 > {.is-warning}
 
