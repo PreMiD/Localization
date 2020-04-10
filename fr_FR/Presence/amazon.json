@@ -3,6 +3,22 @@
         "message": "Regarde les abonnements",
         "description": ""
     },
+    "amazon.payment": {
+        "message": "Regarde les méthodes de paiement",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Regarde ses adresses",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Regarde toutes les catégories",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Regarde Amazon Prime",
+        "description": ""
+    },
     "amazon.orderHistory": {
         "message": "historique des commandes",
         "description": "Part 2 of the string: \"Viewing their\""
