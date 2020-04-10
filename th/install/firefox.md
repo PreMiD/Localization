@@ -1,8 +1,8 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: เริ่มต้นใช้งาน PreMiD การติดตั้งบนไฟร์ฟอกซ์
 published: true
-date: 2020-02-12T22:08:32.409Z
+date: 12 ก.พ 2020 02:32 น.
 tags:
 ---
 
@@ -10,12 +10,12 @@ tags:
 
 # ติดตั้ง
 1. ไปที่หน้าดาวน์โหลดของเรา [คลิกที่นี่](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+2. เลือก**ไฟร์ฟอกซ์**
+3. พิมพ์คำว่า `about:addons` ลงในแถบที่อยู่
+4. คลิกที่ไอคอนเฟืองเล็ก ๆ ที่มุมขวาบน
+5. เลือก **เลือกติดตั้งส่วนเสริมจากไฟล์**
+6. เลือกไฟล์ที่คุณดาวน์โหลดล่าสุด
+7. ยอมรับการติดตั้งโดยคลิกที่ <strong x-id = "1">เพิ่ม</strong>
 
 > อย่าลืมที่จะ[ติดตั้ง**แอปพลิเคชัน**](/install) 
 > 
