@@ -56,7 +56,7 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 > Vergiss nicht, [die **Erweiterung**](/install) hinzuzufügen.{.is-warning}
 
-# More info
+# Mehr Info
 https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
