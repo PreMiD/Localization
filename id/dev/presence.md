@@ -68,17 +68,17 @@ Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
 Pada situasi tertentu, presence mungkin berperilaku aneh atau membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar yang **HARUS** diikuti dalam merubah presence.
 - Anda tidak diperbolehkan menulis kembali sebuah presence atau merubah penciptanya. Jika pencipta presence telah terbanned dari server official atau belum membuat perubahan yang dibutuhkan dalam jangka 7 hari, anda boleh menghubungi `Presence Verifier` PreMiD untuk memeriksa apakah anda dapat menulis ulang presence yang dipilih.
 - Jika anda membuat perubahan pada presence dan merubah setidaknya **SEPEREMPAT** dari codebase presence maka anda diperbolehkan menambahkan diri sebagai kontributor. Hubungi `Presence Verifier` untuk informasi lebih lanjut tentang hal ini.
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
+- Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll... Jangan merubah gambar jika tidak outdated dan memiliki resolusi yang layak.
+- Pastikan perubahan bisa bekerja sebelum diterbitkan. Jangan membuat pull request tanpa mengetahui hasil dari perubahan yang dibuat.
 
-# Verification
+# Verifikasi
 
-> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
+> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. Semua `Presence Verifiers` akan memiliki role tersendiri di profilnya.
 
-For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
+Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di GitHub untuk memastikan bekerja sesuai harapan. Berikut beberapa hal yang harus diperhatkan saat membuat pull request.
 
-1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
-2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
+1. Dibutuhkan dua verifier untuk memastikan presence anda sesuai standar. Jika anda mendapatkan permintaan perubahan, lakukan upaya tepat untuk memperbaikinya atau presence tidak akan ditambahkan.
+2. Jika kami meminta perubahan dan pull request anda melebihi **7 hari inaktif** tanpa membuat perubahan yang dibutuhkan, terpaksa akan kami tutup.
 3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( e.g. its author in case you can't access it for any reason).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
 5. The provided screenshots should be real, not edited.
