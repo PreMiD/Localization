@@ -79,7 +79,7 @@ Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di G
 
 1. Dibutuhkan dua verifier untuk memastikan presence anda sesuai standar. Jika anda mendapatkan permintaan perubahan, lakukan upaya tepat untuk memperbaikinya atau presence tidak akan ditambahkan.
 2. Jika kami meminta perubahan dan pull request anda melebihi **7 hari inaktif** tanpa membuat perubahan yang dibutuhkan, terpaksa akan kami tutup.
-3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( e.g. its author in case you can't access it for any reason).
+3. Anda diperbolehkan untuk mengambil screenshot perubahan yang dibuat bersama dengan pengguna lain, anda boleh menggabungkan screenshot untuk dilihat. ( misal pencipta tidak bisa mengaksesnya karena suatu alasan).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
 5. The provided screenshots should be real, not edited.
 6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
