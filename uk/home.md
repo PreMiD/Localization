@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # Про PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [Що таке PreMiD?](/about) Причини чому ви повинні використовувати PreMiD.
 - :link: [Що таке RPC?](https://discordapp.com/rich-presence) Все про Розширену присутність і його функції.
 
 # З чого почати
