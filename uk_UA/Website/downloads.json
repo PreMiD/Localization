@@ -66,5 +66,21 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Ця версія специфічна для Linux, і не застосовується до інших систем. Основна версія застосунку: {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Щоб побачити завантаження, будь ласка, увійдіть у систему.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Ой, схоже, що ви не маєте альфа/бета доступу :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Ви можете безкоштовно приєднатися до нашої бета-програми **тут**. Поспішіть! У нас є тільки {0} слотів (з 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Останні релізи",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
