@@ -247,16 +247,16 @@ PreMiD เป็นบริการ polygot ซึ่งหมายควา�
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "value": true //ค่า Boolean จะทำเป็นสวิตช์เปิด/ปิดพร้อมกับค่าที่เป็นค่าเริ่มต้น
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //หากอีกการตั้งค่าเท่ากับค่าเหล่านี้ (true/false/0/1/และอื่นๆ ) จากนั้นให้แสดงปุ่มนี้
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "value": "\"%song\" by %artist", //การใส่ String จะทำให้การตั้งค่าเป็นหนึ่ง Input, ซึ่งคุณสามารถใช้ Input ที่กำหนดเองได้
             "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
         },
         {
