@@ -163,6 +163,10 @@
 		"message": "Beschreibung: (Maximal 150 Zeichen)",
 		"description": "Description field."
 	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Beschreibung vor vorgestellt",
+		"description": "Description field's placeholder."
+	},
 	"partners.apply.form.imageLink": {
 		"message": "Bildlink: (550x300, nur PNG)",
 		"description": "Do not change the sizes."
