@@ -25,7 +25,7 @@ L'installation de l'application est très importante car l'extension ne peut rie
     <td>
         <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>exécutez <code>./PreMiD*.AppImage</code> après ou double-cliquez dessus
     </td>
-    <td><b>Ceci est le paquet recommandé</b> à utiliser, soit si vous voulez essayer PreMiD soit simplement ne pas vouloir l'installer ( ou peut-être le mettre dans une clé USB), il est toujours à jour mais <i>ne se lance pas automatiquement au démarrage du système</i>, donc si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres méthodes ci-dessous ( selon votre distribution Linux )</td>
+    <td><b>Ceci est le paquet recommandé</b> à utiliser, soit si vous voulez essayer PreMiD soit simplement que vous ne voulez pas l'installer ( ou peut-être le mettre dans une clé USB ), il est toujours à jour mais <i>ne se lance pas automatiquement au démarrage du système</i>, donc si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres méthodes ci-dessous ( selon votre distribution Linux )</td>
   </tr>
   <tr>
     <td rowspan="5">Arch Linux</td>
@@ -37,10 +37,10 @@ L'installation de l'application est très importante car l'extension ne peut rie
     <td>Utilisation de pakku :<br><code>pakku -S premid</code></td>
   </tr>
   <tr>
-    <td>Utilisation de pacaur :<br><code>pacaur -S premid</code></td>
+    <td>En utilisant pacaur :<br><code>pacaur -S premid</code></td>
   </tr>
   <tr>
-    <td>Utilisation du trizen :<br><code>trizen -S premid</code></td>
+    <td>En utilisant trizen :<br><code>trizen -S premid</code></td>
   </tr>
   <tr>
     <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Manuellement</a></td>
@@ -56,7 +56,7 @@ L'installation de l'application est très importante car l'extension ne peut rie
 
 > N'oubliez pas d'ajouter [l'extension ****](/install).{.is-warning}
 
-# Plus d'information
+# Plus d'informations
 https://github.com/PreMiD/Linux
 
 ![](https://a.icons8.com/TqgWTTfw/Oy7xHF/svg.svg) {.align-abstopright}
