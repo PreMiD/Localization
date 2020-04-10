@@ -49,14 +49,14 @@ presence
 
 Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
 - Presence **HARUS** terkait website yang telah anda pilih.
-- Presence **HARUS TIDAK**terkait website ilegal. Ini termasuk stresor, narkoba, pornografi dibawah umur, dll...
+- Presence **HARUS TIDAK** terkait website ilegal. Ini termasuk stresor, narkoba, pornografi dibawah umur, dll...
 - Metadata presence **HARUS** memiliki konten yang ditulis dengan baik, termasuk judul sesuai, dan deskripsi.
-- Media yang disertakan meliputi (icon/thumbnail) **HARUS**terkait dengan website dan memiliki ukuran dan kualitas yang wajar.
+- Media yang disertakan meliputi (icon/thumbnail) **HARUS** terkait dengan website dan memiliki ukuran dan kualitas yang wajar.
 - Struktur file **HARUS** bersih dan terurus, jangan ada file sembarangan yang tidak berguna pada kegunaan presence.
 - Presence **HARUS TIDAK** memiliki tujuan negatif. Ini meliputi mencuri/membocorkan informasi pribadi, memperburuk kinerja website, dll...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
-- The presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
+- Jika anda membuat presence untuk website yang berubah di masa mendatang, adalah tanggung jawab **ANDA** untuk memperbarui presence agar bekerja sesuai harapan. Jika anda tidak memperbaiki dalam 7 hari, maka pengembang presence lainnya diizinkan untuk **MENGGANTI** presence anda untuk menyesuaikan perubahan.
+- Presence **HARUS** di uji coba sebelum penerbitan untuk memastikan semua bekerja sesuai yang diharapkan.
+- Presence anda **HARUS** memiliki gambar dan deskripsi SFW terlepas dari apakah itu NSFW atau tidak. Jika presence anda tentang website NSFW, harap tambahkan tag `nsfw` pada metadata.
 - Your presence **CANNOT** manipulate local storage on the browser.
 - Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
 
