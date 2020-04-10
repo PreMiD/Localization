@@ -15,12 +15,32 @@
         "message": "Composition d'un message",
         "description": ""
     },
+    "facebook.userAbout": {
+        "message": "Lecture à propos de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Visualisation de la communauté d'utilisateurs:",
+        "description": ""
+    },
     "facebook.userPics": {
         "message": "Visualisation des photos de l'utilisateur:",
         "description": ""
     },
     "facebook.userPosts": {
         "message": "Visualisation des posts de l'utilisateur :",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Visualisation de la boutique de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Visualisation des amis de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Visualisation des vidéos par l'utilisateur:",
         "description": ""
     },
     "facebook.browse": {
