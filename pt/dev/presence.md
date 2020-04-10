@@ -50,8 +50,8 @@ presence
 Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - A presença **DEVE** estar relacionada ao site que você escolheu.
 - A presença **NÃO DEVE** ser de nenhum site ilegal. Estes incluem sites pertubadores, drogas, pornografia infantil, etc...
-- Os metadados de presença <strong x-id = "1"> DEVEM ter </strong> conteúdo bem escrito, incluindo títulos válidos e descrições.
-- A mídia que você inclui (ícone / miniatura) <strong x-id = "1"> DEVE </strong> estar relacionada ao site e deve ser compreensível em termos de tamanho e qualidade.
+- Os metadados da presença **DEVEM** ter conteúdo bem escrito, incluindo títulos válidos e descrições.
+- A mídia que você inclui (ícone/miniatura) **DEVE** estar relacionada ao site e deve ser compreensível em termos de tamanho e qualidade.
 - A estrutura do arquivo <strong x-id = "1"> DEVE </strong> ser limpa e gerenciada, não possui arquivos aleatórios que não forneçam nada à função da presença.
 - A presença <strong x-id = "1"> NÃO DEVE </strong> ter intenções maliciosas. Isto inclui o roubo/vazamento de informações privadas, afetar negativamente o comportamento do site, etc...
 - Se você projetar uma Presença para um site e o site mudar no futuro, você é **OBRIGATORIAMENTE** responsável por atualizar a presença novamente para funcionar como esperado. Se você não corrigi-lo dentro de sete dias, outros desenvolvedores de presença terão permissão para <strong x-id = "1"> SUBSTITUIR </strong> sua presença para cumprir as alterações.
