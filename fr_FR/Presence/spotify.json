@@ -7,6 +7,10 @@
 		"message": "Meilleurs podcasts",
 		"description": ""
 	},
+	"spotify.charts": {
+		"message": "Visualisation des graphiques",
+		"description": ""
+	},
 	"spotify.genres": {
 		"message": "Navigue dans les genres",
 		"description": ""
@@ -18,6 +22,10 @@
 	"spotify.discover": {
 		"message": "Découvre des nouvelles chansons",
 		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Parcourir à travers",
+		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
 		"message": "podcasts qu'ils aiment",
