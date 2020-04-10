@@ -28,14 +28,14 @@ Saat menerbitkan presence ke GitHub, kami mengharuskan anda mengikuti beberapa a
 > 
 > {.is-warning}
 
-- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- Pull request **HARUS** lengkap, anda harus memiliki struktur file yang layak, draft **TIDAK** diperbolehkan. Termasuk file `dist` folder, `presence.js`, dan file `metadata.json` yang ditunjukkan di contoh berikut:
 ```bash
 presence
 └── dist
     ├── metadata.json
     └── presence.js
 ```
-or if you're using TypeScript and `iframe` (the max you could reach) :
+atau jika menggunakan TypeScript dan `iframe` (semaksimal mungkin) :
 ```bash
 presence
 ├── dist
@@ -47,13 +47,13 @@ presence
 └── tsconfig.json
 ```
 
-Before you begin working on your presence, keep the following list in mind.
-- The presence **MUST** be related to the website you have chosen.
-- The presence **MUST NOT** be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
-- The presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
+Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
+- Presence **HARUS** terkait website yang telah anda pilih.
+- Presence **HARUS TIDAK**terkait website ilegal. Ini termasuk stresor, narkoba, pornografi dibawah umur, dll...
+- Metadata presence **HARUS** memiliki konten yang ditulis dengan baik, termasuk judul sesuai, dan deskripsi.
+- Media yang disertakan meliputi (icon/thumbnail) **HARUS**terkait dengan website dan memiliki ukuran dan kualitas yang wajar.
+- Struktur file **HARUS** bersih dan terurus, jangan ada file sembarangan yang tidak berguna pada kegunaan presence.
+- Presence **HARUS TIDAK** memiliki tujuan negatif. Ini meliputi mencuri/membocorkan informasi pribadi, memperburuk kinerja website, dll...
 - If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
 - The presence **MUST** be tested before publishing to confirm that everything works as expected.
 - Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
