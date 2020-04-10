@@ -3,6 +3,14 @@
 		"message": "Chansons recommandées",
 		"description": ""
 	},
+	"spotify.genres": {
+		"message": "Navigue dans les genres",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Regarde les dernières nouvautés",
+		"description": ""
+	},
 	"spotify.discover": {
 		"message": "Découvre des nouvelles chansons",
 		"description": ""
