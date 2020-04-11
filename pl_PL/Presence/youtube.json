@@ -1,6 +1,42 @@
 {
+    "youtube.ad": {
+        "message": "Aktualnie ogląda reklamę",
+        "description": ""
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Przegląda posty społeczności",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "z kanału:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Czytanie na temat kanału:",
+        "description": ""
+    },
     "youtube.browsingThrough": {
         "message": "Przeglądanie przez",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "ich subskrypcje",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "ich biblioteka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "ich historię",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "ich zakupów",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Edytuje wideo:",
+        "description": ""
     }
 }
