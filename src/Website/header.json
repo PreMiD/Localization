@@ -39,19 +39,19 @@
     "message": "Login",
     "description": "Login Button"
   },
-  "header.LIA": {
+  "header.lia": {
     "message": "Logged in as",
     "description": "Indicates which user is logged in"
   },
-  "header.RAB": {
+  "header.rab": {
     "message": "Report a bug",
     "description": "Report a bug button"
   },
-  "header.Logout": {
+  "header.logout": {
     "message": "Logout",
     "description": "Logout button"
   },
-  "header.Dashboard": {
+  "header.dashboard": {
     "message": "Dashboard",
     "description": "Dashboard button"
   }
