@@ -1,6 +1,6 @@
 ---
 title: Trieda Prítomnosti
-description: The main class for every PreMiD presence
+description: Hlavná trieda pre každú prítomnosť PreMiD
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
