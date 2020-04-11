@@ -22,5 +22,13 @@
 	"jobs.header.title": {
 		"message": "Praca dla PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.success.applied": {
+		"message": "Dziękujemy za złożenie wniosku!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Już wcześniej aplikowałeś!",
+		"description": "Notification when you applied already."
 	}
 }
