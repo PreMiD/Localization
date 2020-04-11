@@ -27,6 +27,46 @@
         "message": "Sklep",
         "description": ""
     },
+    "general.viewEpisode": {
+        "message": "Przeglądanie odcinka:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Przegląda gatunek:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Przeglądanie strony głównej",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Przeglądanie listy:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Przegląda użytkownika:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Przegląda film:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Przegląda listę odtwarzania:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Przegląda produkt:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Wyświetla profil:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Wyświetla ich konto",
+        "description": ""
+    },
     "general.viewThread": {
         "message": "Przegląda wątek:",
         "description": ""
@@ -49,6 +89,10 @@
     },
     "general.watching": {
         "message": "Ogląda:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Lista życzeń:",
         "description": ""
     },
     "general.privacy": {
