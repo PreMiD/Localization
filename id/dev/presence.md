@@ -108,13 +108,13 @@ Anda bisa memilih menulis presence menggunakan [JavaScript](https://www.javascri
 
 ## Membuat folder dan file
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Buat folder dengan **nama** (bukan URL) dari layanan yang diinginkan.
+2. Buatlah file `presence.ts` dan `tsconfig.json`.
+3. Buatlah folder dinamakan `dist` didalamnya.
+4. Buatlah file `metadata.json` didalam folder `dist`.
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## Mengisi file tsconfig.json
+Isi kode berikut kedalam file `tsconfig.json`.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -123,15 +123,15 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Untuk mempelajari lebih lanjut tentang konfgurasi TypeScript klik [disini](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Mengisi file metadata.json
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klik [disini](/dev/presence#filling-in-the-metadatajson-file-2) untuk melihat cara mengisinya. Anda akan dapat mengklik kembali dibawah dari penjelasannya.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Memulai
 
 ```javascript
 var presence = new Presence({
@@ -236,17 +236,17 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 ## Membuat folder dan file
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
+1. Buat folder dengan **nama** (bukan URL) dari layanan yang diinginkan.
+3. Buatlah folder dinamakan `dist` didalamnya.
 4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
 
-## Filling in the metadata.json file
+## Mengisi file metadata.json
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
+Klik [disini](/dev/presence#filling-in-the-metadatajson-file-2) untuk melihat cara mengisinya. Anda akan dapat mengklik kembali dibawah dari penjelasannya.
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Memulai
 
 ```javascript
 var presence = new Presence({
@@ -339,8 +339,8 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+# Mengisi file metadata.json
+Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
 {
