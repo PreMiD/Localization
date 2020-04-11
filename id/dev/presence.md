@@ -84,8 +84,8 @@ Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di G
 5. Screenshot yang ditampilkan harus asli, tidak diedit.
 6. Kode apapun yang digabung dalam repository akan terlisensi dalam **Mozilla Public License 2.0**.
 7. Presence untuk domain gratis atau host (misal .TK, [all free Freenom domains], .RF.GD, dll...) **TIDAK** diperbolehkan, pengecualian dapat dibuat jika bukti pembayaran domain dapat ditunjukkan.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
+8. Bidang `smallImageKey` dan `smallImageText` berguna untuk memberi konteks tambahan/konteks sekunder (seperti "playing"/"paused" untuk website video, "browsing" untuk website reguler atau hal lain) bukan untuk mempromosikan profil discord atau yang tidak berhubungan PreMid.
+9. Syarat logo adalah 1:1 (persegi) dalam 512px, untuk thumbnail, harus [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) atau [screenshot](https://i.imgur.com/OAcBmwW.png) jika pilihan pertama tidak tersedia.
 10. Presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
 11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
 12. Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
