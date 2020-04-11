@@ -27,6 +27,14 @@
         "message": "Polityka cookies",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Polityka Prywatności",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Warunki serwisu",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
