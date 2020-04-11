@@ -86,9 +86,9 @@ Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di G
 7. Presence untuk domain gratis atau host (misal .TK, [all free Freenom domains], .RF.GD, dll...) **TIDAK** diperbolehkan, pengecualian dapat dibuat jika bukti pembayaran domain dapat ditunjukkan.
 8. Bidang `smallImageKey` dan `smallImageText` berguna untuk memberi konteks tambahan/konteks sekunder (seperti "playing"/"paused" untuk website video, "browsing" untuk website reguler atau hal lain) bukan untuk mempromosikan profil discord atau yang tidak berhubungan PreMid.
 9. Syarat logo adalah 1:1 (persegi) dalam 512px, untuk thumbnail, harus [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) atau [screenshot](https://i.imgur.com/OAcBmwW.png) jika pilihan pertama tidak tersedia.
-10. Presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
-11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-12. Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
+10. Presence harus setidaknya memiliki 1 tag, ini merupakan syarat desain dan mungkin opsional dimasa depan.
+11. Bidang `url` **HARUS TIDAK** berisi `http://` atau `https://`, ataupun parameter (misal presence untuk `https://www.google.com/search?gws_rd=ssl` akan hanya memiliki `www.google.com` pada bidang `url`).
+12. Deskripsi dan tag harus selalu tersusun, walaupun hanya satu unsur. The `url` field, however, should only be a string if it's one domain.
 13. Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
 
 After all of the proper reviews have been met, your pull request will be merged with the store.
