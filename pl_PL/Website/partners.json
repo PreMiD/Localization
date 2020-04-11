@@ -39,6 +39,10 @@
 		"message": "Aplikuj",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Dziękujemy za złożenie wniosku!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Proszę wypełnić wszystkie pola.",
 		"description": "Error when a field isn't filled."
