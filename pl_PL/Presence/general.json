@@ -50,5 +50,13 @@
     "general.watching": {
         "message": "Ogląda:",
         "description": ""
+    },
+    "general.privacy": {
+        "message": "Polityka Prywatności",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Warunki serwisu",
+        "description": "A page name"
     }
 }
