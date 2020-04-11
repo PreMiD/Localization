@@ -50,5 +50,9 @@
   "header.Logout": {
     "message": "Logout",
     "description": "Logout button"
+  },
+  "header.Dashboard": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
   }
 }
