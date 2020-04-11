@@ -88,25 +88,25 @@ Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di G
 9. Syarat logo adalah 1:1 (persegi) dalam 512px, untuk thumbnail, harus [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) atau [screenshot](https://i.imgur.com/OAcBmwW.png) jika pilihan pertama tidak tersedia.
 10. Presence harus setidaknya memiliki 1 tag, ini merupakan syarat desain dan mungkin opsional dimasa depan.
 11. Bidang `url` **HARUS TIDAK** berisi `http://` atau `https://`, ataupun parameter (misal presence untuk `https://www.google.com/search?gws_rd=ssl` akan hanya memiliki `www.google.com` pada bidang `url`).
-12. Deskripsi dan tag harus selalu tersusun, walaupun hanya satu unsur. The `url` field, however, should only be a string if it's one domain.
-13. Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+12. Deskripsi dan tag harus selalu tersusun, walaupun hanya satu unsur. Untuk bidang `url`, harus hanya satu string jika satu domain.
+13. Website tidak stabil yang selalu merubah API/domain, mengacak elemen HTML atau masih dalam pengembangan besar tidak diperbolehkan dan akan dihapus dari toko.
 
-After all of the proper reviews have been met, your pull request will be merged with the store.
+Setelah semua review tepat telah dicapai, pull request anda akan digabungkan dengan toko.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Struktur (TypeScript)
+Anda bisa memilih menulis presence menggunakan [JavaScript](https://www.javascript.com/) atau  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) memiliki beberapa definition tambahan, jadi identifikasi dan memeperbaiki bug akan jadi lebih mudah. Jika anda ingin menggunakan [JavaScript](https://www.javascript.com/) anda bisa langsung lanjut ke [Struktur (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
+## Instalasi
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (disertai [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan `npm install -g typescript`).
 
 ## Mengcloning project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Buka terminal dan ketik `git clone https://github.com/PreMiD/Presences`.
 2. Pilih folder pilihanmu.
 3. Buka di editor kodemu.
 
-## Creating folders and files
+## Membuat folder dan file
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
@@ -230,11 +230,11 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 # Structure (JavaScript)
 ## Mengcloning project
 1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Buka terminal dan ketik `git clone https://github.com/PreMiD/Presences`.
 3. Pilih folder pilihanmu.
 4. Buka di editor kodemu.
 
-## Creating folders and files
+## Membuat folder dan file
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 3. Create a folder named `dist` inside.
