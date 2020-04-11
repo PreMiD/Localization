@@ -81,9 +81,9 @@ Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di G
 2. Jika kami meminta perubahan dan pull request anda melebihi **7 hari inaktif** tanpa membuat perubahan yang dibutuhkan, terpaksa akan kami tutup.
 3. Anda diperbolehkan untuk mengambil screenshot perubahan yang dibuat bersama dengan pengguna lain, anda boleh menggabungkan screenshot untuk dilihat. ( misal pencipta tidak bisa mengaksesnya karena suatu alasan).
 4. Jika ada sebuah update atau patch, screenshot **HARUS** menampilkan tambahan baru bekerja, bukan fitur lama dari pull requst sebelumnya.
-5. The provided screenshots should be real, not edited.
-6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
-7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
+5. Screenshot yang ditampilkan harus asli, tidak diedit.
+6. Kode apapun yang digabung dalam repository akan terlisensi dalam **Mozilla Public License 2.0**.
+7. Presence untuk domain gratis atau host (misal .TK, [all free Freenom domains], .RF.GD, dll...) **TIDAK** diperbolehkan, pengecualian dapat dibuat jika bukti pembayaran domain dapat ditunjukkan.
 8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
 10. Presences should at least have 1 tag, this is a requirement by design and may be optional in the future.
