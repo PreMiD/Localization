@@ -83,30 +83,30 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Zwraca wersję rozszerzenia, którego używa użytkownik.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Loguje 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Loguje 2.1.0
 ```
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Zwraca zmienną ze strony internetowej, jeśli istnieje.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // To będzie logować "zawartość zmiennej"
 ```
 
-## `obecnośćData` Interfejs
+## Interfejs `presenceData`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Interfejs `presenceData` jest zalecany do użycia, gdy używasz metody `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
 
 <table>
   <thead>
@@ -185,20 +185,20 @@ var presenceData: presenceData = {
 
 ## Wydarzenia
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Zdarzenia umożliwiają wykrycie i obsługę pewnych zmian lub połączeń, które zostały wykonane. Możesz subskrybować wydarzenia za pomocą metody `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Zrób coś, gdy dane zostaną zaktualizowane.
 });
 ```
 
-There are few events available:
+Dostępnych jest kilka wydarzeń:
 
 #### `Aktualizuj dane`
 
-This event is fired every time the presence is being updated.
+To wydarzenie jest uruchamiane za każdym razem, gdy status jest aktualizowany.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Wystrzelony, gdy dane są odebrane ze skryptu iFrame.
