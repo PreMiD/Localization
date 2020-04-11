@@ -34,5 +34,21 @@
   "header.contributors": {
     "message": "Contributors",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Login",
+    "description": "Login Button"
+  },
+  "header.LIA": {
+    "message": "Logged in as",
+    "description": "Indicates which user is logged in"
+  },
+  "header.RAB": {
+    "message": "Report a bug",
+    "description": "Report a bug button"
+  },
+  "header.Logout": {
+    "message": "Logout",
+    "description": "Logout button"
   }
 }
