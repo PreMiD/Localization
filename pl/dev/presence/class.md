@@ -24,7 +24,7 @@ Dla klasy `Presence` dostępne są dwie właściwości.
 
 #### `clientId`
 
-`clientId` musi być dostarczony, aby Twoja obecność działała, ponieważ używa identyfikatora aplikacji do wyświetlania logo i aktywów.
+`clientId` musi być dostarczony, aby Twój status działał, ponieważ używa identyfikatora aplikacji do wyświetlania logo i aktywów.
 
 Możesz to uzyskać na [stronie aplikacji](https://discordapp.com/developers/applications).
 
@@ -32,15 +32,15 @@ Możesz to uzyskać na [stronie aplikacji](https://discordapp.com/developers/app
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Ustawia aktywność profilu zgodnie z podanymi danymi.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Pierwszy parametr wymaga interfejsu `presenceData`, aby uzyskać wszystkie informacje, które chcesz wyświetlić w profilu.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Drugi parametr określa, kiedy status jest aktywny lub nie. Zawsze używaj `true` jeśli podasz znaczniki czasu w `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Usuwa obecną aktywność, skróty klawiszowe i tytuł zasobnika.
 
 ### `setTrayTitle(String)`
 
@@ -48,15 +48,15 @@ Clears your current activity, the keybinds and the tray title.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Ustawia tytuł zasobnika na pasku menu.
 
 ### `getStrings(Obiekt)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Pozwala na otrzymywanie przetłumaczonych ciągów z rozszerzenia. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. Część ciągów można znaleźć za pomocą tego linku: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Zwraca ciągi znaków `Playing` i `Paused`
+// z rozszerzenia.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
