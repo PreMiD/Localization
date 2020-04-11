@@ -135,19 +135,19 @@ Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //Client ID dari Aplikasi yang dibuat di https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    //Gunakan ini untuk mendapat terjemahan string
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Ambil dan olah data anda disini
 
     // element grabs //
     // api calls //
@@ -155,13 +155,13 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Jalankan fungsi terpisah dari event UpdateData setiap 10 detik dan atur variabel yang diambil oleh UpdateData
 
 */
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. This is called several times a second where possible.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
