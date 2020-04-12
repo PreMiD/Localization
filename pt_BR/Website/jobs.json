@@ -44,11 +44,15 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
-		"message": "Entre em contato com as pessoas por de trás do PreMiD.",
+		"message": "Entre em contato com as pessoas por trás do PreMiD.",
 		"description": "Benefit card description."
 	},
+	"jobs.benefit2.title": {
+		"message": "Testador Beta",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit2.description": {
-		"message": "Dê uma olhada em nosso Desenvolvimento e Marketing.",
+		"message": "Dê uma olhada no nosso Desenvolvimento e Marketing.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
