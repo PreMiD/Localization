@@ -1,0 +1,18 @@
+{
+    "report.title": {
+		"message": "Report A Bug",
+		"description": "Text to indicate the page."
+    },
+    "report.overview": {
+		"message": "Brief Overview",
+		"description": "Text for the user to write a breif of the bug information."
+    },
+    "report.description": {
+		"message": "Description (Include steps to repeat)",
+		"description": "Text for the user to write information about the bug."
+    },
+    "report.button": {
+		"message": "Report",
+		"description": "Button to send the information inputed."
+	}
+}
