@@ -24,39 +24,39 @@
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "A ver Torrents de Aplicações",
+        "message": "Visualizando Torrents de Aplicativos",
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "A ver Torrents de documentários",
+        "message": "Visualizando Torrents de documentários",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "A ver Torrents de Jogos",
+        "message": "Visualizando Torrents de jogos",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "A ver Torrents de Filmes",
+        "message": "Visualizando Torrents de Filmes",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "A ver Torrents de Música",
+        "message": "Visualizando Torrents de músicas",
         "description": ""
     },
     "1337x.otherTorrents": {
-        "message": "A ver Outros Torrents",
+        "message": "Visualizando outros Torrents",
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "A ver Torrents de Televisão",
+        "message": "Visualizando Torrentes de TV",
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "A ver Torrents XXX",
+        "message": "Visualizando Torrents NSFW",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
-        "message": "A enviar algo...",
+        "message": "Enviando algo...",
         "description": ""
     },
     "1337x.rules": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "1337x.writing": {
-        "message": "A escrever para o 1337x",
+        "message": "Escrevendo para o 1337x",
         "description": ""
     },
     "1337x.about": {
