@@ -192,7 +192,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Obrigado por se candidatar!",
+		"message": "Obrigado por se inscrever!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
