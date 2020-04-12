@@ -60,23 +60,23 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Poderosas permissões no Discord e um cargo colorido.",
+		"message": "Permissões poderosas do Discord e um cargo com cor.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
-		"message": "Suporta PreMiD",
+		"message": "Ajude o PreMiD",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "Com a sua contribuição é possível executar este projecto.",
+		"message": "Com a sua contribuição, é possível executar este projeto.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
-		"message": "Desconto de tempo",
+		"message": "Tempo-fora",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
-		"message": "Demore o tempo que quiser. Isto é trabalho voluntário.",
+		"message": "Demore o tempo que quiser. Isso é um trabalho voluntário.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
@@ -84,11 +84,11 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Seja capaz de testar novos recursos antes de qualquer outra pessoa.",
+		"message": "Poder testar novos recursos antes de mais ninguém.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "Obrigado por se candidatar!",
+		"message": "Obrigado por se inscrever!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
