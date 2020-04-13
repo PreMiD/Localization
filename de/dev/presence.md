@@ -586,7 +586,7 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 - Wenn Dir das auch nicht hilft, frage einen Präsenzentwickler auf unserem [Discord-Server](https://discord.gg/WvfVZ8T) um Hilfe.
 
 # Dateien erklärt
-- [Präsenzklasse](/dev/presence/class)
+- [Präsenzenklasse](/dev/presence/class)
 - [iFrame-Klasse](/dev/presence/iframe)
 - [Metadatendatei](/dev/presence/metadata)
 - [TypeScript-Konfiguration](/dev/presence/tsconfig)
