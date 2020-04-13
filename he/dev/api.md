@@ -28,7 +28,7 @@ All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 
 > 
 > {.is-danger}
 
-**Choose the API version:**
+**בחר בגרסת ה- API:**
 - [v1 *deprecated*](/dev/api/v1)
 - [v2 *active*](/dev/api/v2)
 {.links-list}
