@@ -3,9 +3,21 @@
 		"message": "PARTNERZY",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit5.title": {
+		"message": "Bądź sławny",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Polecane przez naszych socjalistów.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "WYMAGANIA",
 		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Czego szukasz?",
+		"description": "Heading for the first requirement."
 	},
 	"partners.apply.button": {
 		"message": "Aplikuj teraz!",
