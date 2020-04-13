@@ -1,7 +1,23 @@
 {
+  "store.message.error": {
+    "message": "התוסף לא מחובר.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "יוצר",
     "description": "Creator of a presence"
+  },
+  "store.cards.popular": {
+    "message": "נוכחות זו פופולרית מאוד בקרב משתמשים.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "נוכחות של שותף רשמי ב- PreMiD.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "נוכחות זו דורשת צעדים נוספים לעבודה, אנא עיין בדף שלה למידע נוסף.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
     "message": "הPresence הזה אושר על ידי מתכנת מוסמך",
@@ -35,6 +51,10 @@
     "message": "אפשר תוכן למבוגרים",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "נוכחות אהבו בלבד",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "קטגוריות",
     "description": "Category heading"
@@ -66,5 +86,13 @@
   "store.search": {
     "message": "חפש",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "תלחץ אנטר (enter)",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "לחץ כדי להסיר את המסנן.",
+    "description": "Remove message for active search filters."
   }
 }
