@@ -1,18 +1,18 @@
 ---
-title: Presence Development
+title: פיתוח תוסף
 description:
 published: true
 date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> כל הנוכחות מאוחסנות כעת כאן: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+גרסה `2.x` introduces the [presence store](https://premid.app/store). למשתמשים יש כעת אפשרות להוסיף ולהסיר ידנית את הנוכחות המועדפת עליהם דרך ממשק המשתמש של [website](https://premid.app/).
 
-# Guidelines
+# הנחיות
 > If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
 > 
 > {.is-warning}
