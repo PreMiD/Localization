@@ -19,12 +19,36 @@
         "message": "Liest über:",
         "description": ""
     },
+    "facebook.userCommunity": {
+        "message": "Schaut Community-Beiträge von:",
+        "description": ""
+    },
     "facebook.userPics": {
         "message": "Schaut Fotos von:",
         "description": ""
     },
+    "facebook.userPosts": {
+        "message": "Schaut sich Posts an von:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Schaut sich den Shop von Nutzern an:",
+        "description": ""
+    },
     "facebook.userFriends": {
         "message": "Schaut Freunde von:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Schaut sich Videos an:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Durchsucht:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Geschützte Videos",
         "description": ""
     },
     "facebook.added": {
