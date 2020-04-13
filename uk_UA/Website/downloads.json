@@ -76,7 +76,7 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Ви можете безкоштовно приєднатися до нашої бета-програми **тут**. Поспішіть! У нас є тільки {0} слотів (з 200)",
+		"message": "Ви можете безкоштовно приєднатися до нашої бета-програми **тут**. Покваптесь! У нас є обмежена кількість слотів: {0}/200.",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
