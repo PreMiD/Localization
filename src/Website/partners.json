@@ -111,6 +111,10 @@
 		"message": "The gamer earning platform.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLoveRadio": {
+		"message": "SimLiveRadio is the most successful infotainment radio for simulation games in Germany, Austria and Switzerland!",
+		"description": "Description for SimLoveRadio."
+	},
 	"partners.partner.bitRock": {
 		"message": "A powerful and easy to use cross platform installer creation tool.",
 		"description": "Description for BitRock."
