@@ -1,4 +1,8 @@
 {
+  "home.introduction.paragraph": {
+    "message": "** PreMiD ** הוא כלי פשוט להגדרה המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה- Discord שלך כעת.",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "התכונות שלנו",
     "description": "Introduction button"
@@ -14,6 +18,10 @@
   "home.examples.timestamp": {
     "message": "{0} נשאר",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "{0} חלף",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.examples.status.playing": {
     "message": "מופעל מחדש",
@@ -70,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "בקר בשרת שלנו",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "בחר שפת אתר",
+    "description": "Tippy content of the language selector."
   }
 }
