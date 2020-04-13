@@ -70,5 +70,17 @@
 	"downloads.error.login": {
 		"message": "你需要登入才能看見下載鏈接",
 		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "等等 你好像還沒有加入alpha/beta :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "您可以在**此處**免費加入我們的Beta版計劃. 趕快! 我們只剩下{0} 名額(200個名額中)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "最新發行版本",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
