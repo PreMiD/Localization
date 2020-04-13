@@ -66,5 +66,21 @@
 	"downloads.warning.differentVersion2": {
 		"message": "גרסה זו ספציפית לינוקס ואינה חלה על מערכות אחרות. הגרסה העיקרית של האפליקציה היא {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "אנא התחבר כדי לראות את ההורדות.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "או או, נראה שאיך לך גישה לbeta/alpha :)",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "תוכלו להצטרף לתכנית הבטא שלנו בחינם **כאן**. הזדרז! יש לנו רק {0} משבצות נוספות זמינות (מתוך 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "גרסאות אחרונות",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
