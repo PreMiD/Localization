@@ -1,10 +1,30 @@
 {
+    "amazon.catergoriesAll": {
+        "message": "Betrachtet alle Kategorien",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Betrachtet Amazon Prime",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "Bestellverlauf",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "Bestellungsdetails",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.cart": {
         "message": "Warenkorb",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
         "message": "Wuschliste",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "Geschenkkarten",
         "description": "Part 2 of the string: \"Viewing their\""
     }
 }
