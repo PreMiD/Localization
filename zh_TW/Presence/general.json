@@ -63,6 +63,10 @@
         "message": "正在閱讀私息來自:",
         "description": ""
     },
+    "general.readingAbout": {
+        "message": "正在閲讀關於:",
+        "description": ""
+    },
     "general.reading": {
         "message": "閱讀中",
         "description": ""
