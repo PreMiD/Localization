@@ -7,6 +7,38 @@
         "message": "瀏覽中...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "章節",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "編輯中:",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "集數",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "論壇",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "類型",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "正在聆聽音樂",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "聽眾",
+        "description": ""
+    },
     "general.live": {
         "message": "直播",
         "description": ""
