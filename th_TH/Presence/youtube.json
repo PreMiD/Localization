@@ -43,6 +43,14 @@
         "message": "แก้ไขวีดีโอ:",
         "description": ""
     },
+    "youtube.studio.videoComments": {
+        "message": "กำลังดูคอมเม้นต์ของวิดีโอ",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "กำลังดูแปลภาษาของวิดีโอ",
+        "description": ""
+    },
     "youtube.studio.channelAnalytics": {
         "message": "ช่องการวิเคราะห์",
         "description": "Part two of \"Viewing their\""
