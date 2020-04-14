@@ -13,29 +13,29 @@ tags:
 Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkownicy mają teraz możliwość ręcznego dodawania lub usuwania ich ulubionych statusów za pośrednictwem interfejsu użytkownika z [strony](https://premid.app/).
 
 # Wytyczne
-> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
+> Jeśli pacjent nie przestrzega wszystkich wytycznych, `Weryfikator Presence` zażąda poprawnych zmian lub żądanie ściągnięcia może być nawet zamknięte w określonych okolicznościach. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> Podczas pobierania żądań o dodawanie lub modyfikowanie istniejących obecności, **MUSI** dołączyć zrzut ekranu. Jednakże modyfikacje plików `metadata.json` lub `tsconfig.json` nie wymagają zrzutu ekranu. *Twój zrzut ekranu MUSI być przesłany bezpośrednio na GitHub z prośbą o ściągnięcie, nie używaj stron internetowych udostępniających obrazy.* 
 > 
 > {.is-warning}
 
-When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
+Podczas publikowania obecności w serwisie GitHub wymagamy przestrzegania zbioru wytycznych. Dla niektórych te surowe zasady mogą wydawać się surowe. Wdrożenie tych zasad pozwoli jednak naszym serwerom uniknąć wszelkich problemów.
 
 ## Tworzenie
-> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+> Kod, który zapisałeś MUSI być *dobrze napisany* i *czytelny*. `DeepScan` na GitHub zgłosi problemy z jakością kodu do `Zespołu Weryfikacji Prezentacji`. Zalecamy, aby Twój fork był aktualny podczas pobierania żądań, pomoże to ograniczyć fałszywe dodatnie. 
 > 
 > {.is-warning}
 
-- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- Pull request **MUSI** być kompletny, musisz mieć prawidłową strukturę plików, szkice **NIE** dozwolone. Zawiera plik `dyt`, `obecność.js` i `metadata.json`, który jest reprezentowany w poniższym przykładowym schemacie:
 ```bash
 presence
 └── dist
     ├── metadata.json
     └── presence.js
 ```
-or if you're using TypeScript and `iframe` (the max you could reach) :
+lub jeśli używasz TypeScript i `iframe` (maksimum, które możesz zrobić):
 ```bash
 presence
 ├── dist
@@ -48,32 +48,32 @@ presence
 ```
 
 Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
-- The presence **MUST** be related to the website you have chosen.
-- The presence **MUST NOT** be of any illegal websites. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp...
-- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
-- The presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
-- The presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
-- Your presence **CANNOT** manipulate local storage on the browser.
-- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
+- Status **musi** być związany z stroną którą wybrałeś.
+- Obecność **NIE MOŻE** być na żadnych nielegalnych stronach. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp...
+- Metadata statusu musi zawierać dobrze napisaną treść, w tym tytuły i opisy.
+- Nośniki, które dołączasz (icon/thumbnail) **MUSI** być związane ze stroną internetową i powinny być zrozumiałe pod względem rozmiaru i jakości.
+- Struktura plików **MUSI** być czysta i zarządzana, nie mieć losowych plików, które nie dostarczają nic do funkcji obecności.
+- Obecność **MUSI NIE** mieć żadnych złośliwych intencji. Obejmują one kradzież/wyciek prywatnych informacji, negatywny wpływ na zachowanie strony internetowej, itd...
+- Jeśli zaprojektujesz obecność na stronie internetowej i strona internetowa zmieni się w przyszłości, **ARE** odpowiedzialny za ponowną aktualizację obecności, aby działać zgodnie z oczekiwaniami. Jeśli nie naprawisz tego w ciągu 7 dni, inni deweloperzy obecni mogą **OVERWRITE** swoją obecność, aby dostosować się do zmian.
+- Obecność **MUSI** zostać przetestowana przed publikacją, aby potwierdzić, że wszystko działa zgodnie z oczekiwaniami.
+- Twoja obecność **MUSI** ma obrazy i opisy SFW niezależnie od tego, czy jest NSFW czy nie. Jeśli Twoja obecność dotyczy strony NSFW, dodaj tag `nsfw` do metadanych.
+- Twoja obecność **NIE MOŻE** manipulować pamięcią lokalną w przeglądarce.
+- Twoja obecność może używać plików cookie do przechowywania danych. Wszystkie dane przechowywane przez obecność powinny być poprzedzone `pmd_`.
 
 ## Modyfikacja
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
+> MUSI zmienić wersję w **metadanych**, aby była wyższą wartością w poprzedniej wersji podczas wprowadzania zmian do **obecności. s** lub **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you **MUST** follow to modify presences.
-- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
-- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
-- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
-- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
+W niektórych sytuacjach obecność może zachowywać się niespodziewanie lub może posłużyć się niewielkimi zmianami w celu poprawy jej funkcjonowania. Oto skompilowana lista, którą **MUSI** obserwować, aby modyfikować obecności.
+- Nie masz uprawnień do przepisywania obecności lub zmiany jej autora. Jeśli autor obecności został zbanowany z oficjalnego serwera lub nie wprowadził wymaganych zmian w ciągu 7 dni, możesz skontaktować się z PreMiD `Weryfikatorem Presence`, aby sprawdzić, czy istnieje możliwość przepisania wybranej obecności.
+- Jeśli wprowadzisz modyfikacje obecności i zmienisz co najmniej **QUARTER** z kodowej bazy obecności, możesz dodać się jako współtwórca. Skontaktuj się z `Weryfikatorem Presence`, aby uzyskać więcej informacji na ten temat.
+- Upewnij się, że zmiany są przydatne. Mogą one obejmować poprawki (kod i typo), dodatki (opisy i znaczniki) itp... Nie zmieniaj obrazów, jeśli nie są przestarzałe i mają przyzwoitą rozdzielczość.
+- Potwierdź, że zmiany działają przed publikacją. Nie twórz pull requestów bez znajomości wyniku zmian.
 
 # Weryfikacja
 
-> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
+> Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. Wszystkie `Weryfikatory Presence` będą miały unikalną rolę w swoim profilu.
 
 For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
 
