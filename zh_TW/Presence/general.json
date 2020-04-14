@@ -43,6 +43,26 @@
         "message": "直播",
         "description": ""
     },
+    "general.manga": {
+        "message": "漫畫",
+        "description": ""
+    },
+    "general.page": {
+        "message": "頁",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "暫停",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "播放中",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "正在閱讀私息來自:",
+        "description": ""
+    },
     "general.reading": {
         "message": "閱讀中",
         "description": ""
