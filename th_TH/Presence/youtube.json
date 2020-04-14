@@ -39,8 +39,32 @@
         "message": "ประวัติศาสตร์ของพวกเขา",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.reportHistory": {
+        "message": "กำลังดูประวัติการรายงานของตัวเอง",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "กำลังดูเพลย์ลิสทั้งหมดของตัวเอง",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "กำลังดูข้อมูลแดชบอร์ดของตัวเอง",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "กำลังดูคลังเพลงและเสียง",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "กำลังดูวิดีโอของตัวเอง",
+        "description": ""
+    },
     "youtube.studio.editVideo": {
         "message": "แก้ไขวีดีโอ:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "กำลังดูการวิเคราะห์วิดีโอ",
         "description": ""
     },
     "youtube.studio.videoComments": {
