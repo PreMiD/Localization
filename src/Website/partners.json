@@ -111,9 +111,13 @@
 		"message": "The gamer earning platform.",
 		"description": "Description for iLoot."
 	},
-	"partners.partner.simLoveRadio": {
+	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio is the most successful infotainment radio for simulation games in Germany, Austria and Switzerland!",
 		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Get what's rightfully yours. Stream Anime, Movies, Hentai, Specials and more. Free, without any ads and in high definition!",
+		"description": "Description for AniWatch."
 	},
 	"partners.partner.bitRock": {
 		"message": "A powerful and easy to use cross platform installer creation tool.",
