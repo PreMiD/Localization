@@ -19,6 +19,10 @@
 		"message": "Fülle bitte alle Felder aus",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD ist ein Open-Source-Projekt, das bedeutet, dass wir sind ein gemeinnütziges Team sind. Jede normale Spende oder Patreon-Spende fließt zurück in das Produkt. Wenn du dich für eine Stelle bei PreMiD bewerben willst, bestätige , dass du sich freiwillig im Team engagierst. Du wirst für Ihre Arbeit nicht bezahlt.",
+		"description": "Notice for applicants."
+	},
 	"jobs.header.title": {
 		"message": "Arbeite für PreMiD",
 		"description": "First part of the jobs page."

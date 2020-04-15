@@ -63,6 +63,10 @@
 		"message": "Wonach suchen wir?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Wir halten Ausschau nach wachsenden Communities und aufregenden Dingen im Internet. TL; DR Sie sollten PreMiD bereits verwenden und bereit sein, es an noch mehr Internetfreaks weiterzugeben. Die Aufnahme in das Programm ist äußerst qualitativ und variiert von Kandidat zu Kandidat.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Unsere Firewall",
 		"description": "Heading for the second requirement."
@@ -78,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "Lass uns gemeinsam in den Himmel gehen!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Wenn Sie eher an einem direkten Job bei PreMiD interessiert sind, schauen Sie sich unsere ** Stellenanzeige ** an",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "SPONSOREN",
@@ -102,6 +110,14 @@
 	"partners.partner.iLoot": {
 		"message": "Die Verdienst-Plattform für Gamer.",
 		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio ist das erfolgreichste Infotainment-Radio für Simulationsspiele in Deutschland, Österreich und der Schweiz!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Holen Sie sich, was Ihnen rechtmäßig gehört. Streame Anime, Filme, Hentai, Specials und mehr. Kostenlos, ohne Werbung und in HD-Qualität!",
+		"description": "Description for AniWatch."
 	},
 	"partners.partner.bitRock": {
 		"message": "Ein leistungsstarkes und einfach zu bedienendes plattformübergreifendes Installations-Erstellungswerkzeug.",
