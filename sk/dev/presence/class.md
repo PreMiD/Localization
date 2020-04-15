@@ -10,9 +10,9 @@ tags:
 
 ## Úvod
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Trieda `Presence` je veľmi užitočná, pretože má základné metódy, ktoré potrebujeme k vytvoreniu prítomnosti.
 
- When you create a class you must specify `clientId` property.
+ Pri vytváraní triedy musíte zadať `klientské Id`.
 
 ```typescript
 let presence = new Presence({
@@ -20,13 +20,13 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Sú k dispozícii dve vlastnosti pre `Presence` triedu.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Musí byť poskytnutá vlastnosť `klientských Id`, aby vaša prítomnosť fungovala, pretože používa Id vašej aplikácie na zobrazenie jej loga a majetku.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Môžete to získať na stránke [aplikácií](https://discordapp.com/developers/applications).
 
 ## Metódy
 
