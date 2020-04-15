@@ -15,6 +15,30 @@
 		"message": "Ersteller",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "Geschäftsführer",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Operationsberater",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Community-Vertreter",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Leitender Programmierer",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Webentwickler",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Linux-Betreuer",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
 	"contributors.roles.engineer": {
 		"message": "Entwickler",
 		"description": "'Engineer' title for contributors and user pages."
@@ -27,9 +51,25 @@
 		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Leitung der Präsenzprüfung",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Community-Vertreter",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Senior Moderator",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Support-Agent",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Präsenz-Verifizierer",
