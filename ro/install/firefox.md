@@ -6,16 +6,16 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Instalarea extensiei este foarte importantă, deoarece aplicația nu poate face nimic de una singură.
 
 # Instalează
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+1. Mergi pe pagina de descărcări [apăsând aici](https://premid.app/downloads).
+2. Alege **Firefox**.
+3. Caută `about:addons`.
+4. Apasă pe mica pictogramă cu o rotiță din colțul dreapta sus.
+5. Alege **Install add-on from file**.
+6. Selectează fișierul pe care l-ai descărcat recent.
+7. Acceptă instalarea apăsând pe **Add**.
 
 > Do not forget to [add the **application**](/install). 
 > 
