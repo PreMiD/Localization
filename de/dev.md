@@ -18,7 +18,7 @@ tags:
 # Projekt klonen
 1. Öffnen ein Terminal und gib `git clone URL` ein. **Ersetze die URL mit dem Repository-Link auf dem Du beitragen möchtest** Beispiel: `git clone https://github.com/PreMiD/PreMiD`.
 2. Wähle einen Ordner Deiner Wahl.
-3. Open it in your code editor.
+3. Öffne es in deinem Code-Editor.
 
 # Notwendige Dateien installieren
 > Stelle zuerst sicher, dass Du [npm](https://www.npmjs.com/) (Node Package Manager) installiert hast. Er wurde automatisch installiert, wenn Du [Node](https://nodejs.org/en/) installiert hast. 
@@ -28,7 +28,7 @@ tags:
 - Öffne ein Terminal in Deinem Repository und gib `npm i` ein.
 - Um die notwendigen Dateien zu aktualisieren, gib `npm update` ein.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Beachten Sie, dass das Aktualisieren der Abhängigkeiten viele Probleme verursachen kann oder nicht - Tests sind erforderlich! 
 > 
 > {.is-danger}
 
