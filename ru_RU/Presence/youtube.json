@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.readingChannel": {
+        "message": "Читает о канале:",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Редактирует видео:",
+        "description": ""
+    }
+}

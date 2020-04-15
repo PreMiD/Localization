@@ -15,9 +15,17 @@
 		"message": "Создатель",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.webDeveloper": {
+		"message": "Веб-разработчик",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Модератор",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Агент поддержки",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Статусо-утверждающий",
@@ -34,5 +42,13 @@
 	"contributors.roles.translator": {
 		"message": "Переводчик",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Нажмите, чтобы скопировать ID пользователя.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID пользователя скопирован в буфер обмена!",
+		"description": "Notification after user ID was copied."
 	}
 }

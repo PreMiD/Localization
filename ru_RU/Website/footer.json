@@ -51,6 +51,10 @@
 		"message": "Переведите",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Вакансии",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Помощь",
 		"description": "Help section"
