@@ -40,7 +40,7 @@ Second parameter defines when presence is playing something or not. Always use `
 
 ### `clearActivity ()`
 
-Clears your current activity, the keybinds and the tray title.
+Löscht Ihre aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
 
 ### `setTrayTitle (String)`
 
@@ -83,7 +83,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -193,11 +193,11 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-There are few events available:
+Es sind einige Menüs verfügbar:
 
 #### `Daten aktualisieren`
 
-This event is fired every time the presence is being updated.
+Dieses Ereignis wird jedes Mal aktualisiert, wenn die Anwesenheit ebenfalls aktualisiert wird.
 
 #### `iFrameData`
 
