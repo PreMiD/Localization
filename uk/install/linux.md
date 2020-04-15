@@ -25,22 +25,22 @@ tags:
     <td>
         <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
     </td>
-    <td><b>Рекомендований пакет</b> для використання, або якщо ви хочете спробувати PreMiD або просто не хочете встановити його (або можливо поставити його в USB флешку), це завжди актуально, але <i>не автозапускається при старті системи</i> так що, якщо ви втомилися відкривати його щоразу, використовуйте інші методи нижче (відповідно до вашого дистрибутиву Linux)</td>
+    <td><b>Рекомендований пакет</b> для використання. Якщо ви хочете спробувати PreMiD або просто не хочете встановлювати його (або можливо відправити його в USB флешку), але <i>не запускається самостійно при завантаженні системи,</i> тому, якщо ви втомилися відкривати його щоразу, використовуйте інші методи нижче (відповідно до вашого дистрибутиву Linux).</td>
   </tr>
   <tr>
     <td rowspan="5">Arch Linux</td>
     <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
     <td>Використовуючи yay :<br><code>yay -S premid</code><br></td>
-    <td rowspan="4">Якщо ваш дистрибутив використовує пакман, тоді ви повинні встановити один з помічників в першу чергу. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+    <td rowspan="4">Якщо ваш дистрибутив використовує pacman, тоді ви повинні встановити один з помічників в першу чергу. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
   </tr>
   <tr>
-    <td>Використовуючи pakku :<br><code>pakku -S premid</code></td>
+    <td>Використовуючи pakku: <br><code>pakku -S premid</code></td>
   </tr>
   <tr>
-    <td>Використовуючи pacaur :<br><code>pacaur -S premid</code></td>
+    <td>Використовуючи pacaur: <br><code>pacaur -S premid</code></td>
   </tr>
   <tr>
-    <td>Використовуючи trizen :<br><code>trizen -S premid</code></td>
+    <td>Використовуючи trizen: <br><code>trizen -S premid</code></td>
   </tr>
   <tr>
     <td><a href="https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages">Вручну</a></td>
