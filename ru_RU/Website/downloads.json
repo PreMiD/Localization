@@ -46,5 +46,21 @@
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Приложение не имеет установщика для этой операционной системы. Это означает, что для неё не будет квалифицированной поддержки.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Показать загрузки",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Спрятать загрузки",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Последние релизы",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
