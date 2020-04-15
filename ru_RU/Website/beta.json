@@ -1,1 +1,14 @@
-{}
+{
+  "beta.title": {
+    "message": "Хотите новых функций?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** теперь доступен для всех!",
+    "description": "Section description"
+  },
+  "beta.register.text": {
+    "message": "Готовы? Присоединитесь к {0} другим бета-тестерам!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  }
+}
