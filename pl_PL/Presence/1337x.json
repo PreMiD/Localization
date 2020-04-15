@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Przeglądanie biblioteki filmów",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Przeglądanie biblioteki serii",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Przeglądanie najnowszych odcinków",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Przeglądanie 100 najlepszych",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Przeglądanie trendów",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Przeglądanie torrentów Anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Wyświetlanie torrentów aplikacji",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Wyświetlanie torrentów dokumentalnych",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Przeglądanie torrentów gier",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Przeglądanie torrentów filmowych",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Przeglądanie muzyki torrentów",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Przeglądanie innych torrentów",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Przeglądanie torrentów TV",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Przeglądanie XXX torrentów",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Przesyłanie czegoś...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Czytanie regulaminu",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Pisanie do 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Czytanie o 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Przeglądanie torrenta:",
+        "description": ""
+    }
+}
