@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 2020-04-07T18:50:18.628Z
+date: 07.04.2020, 18:50:18.628Z
 tags:
 ---
 
@@ -13,24 +13,32 @@ tags:
 Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/) hinzuzufügen und zu entfernen.
 
 # Richtlinien
-> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
+> Wenn Sie nicht alle Richtlinien befolgen, fordert ein ` Präsenzprüfer </ code> die richtigen Änderungen an, oder Ihre Pull-Anforderung wird unter bestimmten Umständen sogar geschlossen.
+  </p>
+  
+  <p spaces-before="0">{.is-warning}</p>
+</blockquote>
+
+<blockquote spaces-before="0">
+  <p spaces-before="0">Wenn Sie Pull-Anfragen zum Hinzufügen oder Ändern vorhandener Präsenzen stellen, MÜSSEN Sie <strong x-id = "1"> einen Screenshot einfügen. Für Änderungen an den Dateien <code> metadata.json </ code> oder <code> tsconfig.json </ code> einer Präsenz ist jedoch kein Screenshot erforderlich. <em x-id="3">Ihr Screenshot MUSS mit der Pull-Anfrage direkt auf GitHub hochgeladen werden. Verwenden Sie keine Websites für die gemeinsame Nutzung von Bildern von Drittanbietern.</em>
+  </p>
+  
+  <p spaces-before="0">{.is-warning}</p>
+</blockquote>
+
+<p spaces-before="0">Wenn Sie Präsenzen auf diesem GitHub veröffentlichen, müssen Sie eine Reihe von Richtlinien befolgen.
+Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regelsätze verhindert jedoch, dass auf unseren Servern Probleme auftreten.</p>
+
+<h2 spaces-before="0">Erstellung</h2>
+
+<blockquote spaces-before="0">
+  <p spaces-before="0">Der Code, den du schreibst, MUSS <em x-id="3">ordentlich geschrieben</em> und MUSS <em x-id="3">lesbar sein</em>. <code>DeepScan` auf GitHub meldet Qualitätsprobleme an das `Presence Verification Team`. Wir empfehlen, dass Ihre Gabel auf dem neuesten Stand ist, wenn Sie Pull-Anfragen stellen. Dies hilft, Fehlalarme zu begrenzen. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
-> 
-> {.is-warning}
-
-When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
-
-## Erstellung
-> Der Code, den du schreibst, MUSS *ordentlich geschrieben* und MUSS *lesbar sein*. `DeepScan` auf GitHub meldet Qualitätsprobleme an das `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
-> 
-> {.is-warning}
-
-- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- Die Pull-Anfrage**MUSS**um vollständig zu sein, müssen Sie eine ordnungsgemäße Dateistruktur haben, Entwürfe sind**nicht**erlaubt. Einschließlich der`dist`Ordner,`presence.js`Datei, und`metadata.json`Datei, dies wird im folgenden Beispielschema dargestellt:
 ```bash
-presence
+Präzens
 └── dist
     ├── metadata.json
     └── presence.js
@@ -61,13 +69,13 @@ Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
 - Ihre Präsenz verwendet möglicherweise Cookies, um Daten zu speichern. Allen von der Präsenz gespeicherten Daten sollte das Präfix `pmd_` vorangestellt werden.
 
 ## Modifikation
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
+> Sie MÜSSEN die Version in den ** Metadaten ** so ändern, dass sie einen höheren Wert als in der vorherigen Version aufweist, wenn Sie Änderungen an den Metadaten ** Präsenz.js ** oder ** Metadaten.json ** vornehmen . 
 > 
 > {.is-warning}
 
-In einigen Situationen verhalten sich Präsenzen möglicherweise unerwartet oder verwenden einige geringfügige Änderungen, um die Funktionalität zu verbessern. Here is a compiled list that you **MUST** follow to modify presences.
-- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
-- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
+In einigen Situationen verhalten sich Präsenzen möglicherweise unerwartet oder verwenden einige geringfügige Änderungen, um die Funktionalität zu verbessern. Hier ist eine kompilierte Liste, die Sie ** ** befolgen MÜSSEN, um die Präsenz zu ändern.
+- Sie dürfen eine Präsenz nicht umschreiben oder den Autor ändern. Wenn der Anwesenheitsautor innerhalb von 7 Tagen vom offiziellen Server gesperrt wurde oder keine erforderlichen Änderungen vorgenommen hat, können Sie sich an einen PreMiD ` Anwesenheitsprüfer ` wenden, um zu erfahren, ob Sie das Vorhandensein Ihrer Wahl neu schreiben können.
+- enn Sie Änderungen an einer Präsenz vornehmen und mindestens ein ** QUARTER ** der Codebasis der Präsenz ändern, können Sie sich selbst als Mitwirkender hinzufügen. Wenden Sie sich an einen ` Presence Verifier `, um weitere Informationen zu diesem Thema zu erhalten.
 - Stelle sicher, dass die Änderungen nützlich sind. Dies können Korrekturen (Code- und Tippfehler), Ergänzungen (Beschreibungen und Tags) usw... sein. Do not change images if they are not outdated and have a decent resolution.
 - Bestätige, dass Deine Änderungen wirksam sind, bevor Du sie veröffentlichst. Erstelle keine Pull-Requests, ohne das Ergebnis Deiner Änderungen zu kennen.
 
