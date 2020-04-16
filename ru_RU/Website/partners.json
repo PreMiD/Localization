@@ -1,4 +1,16 @@
 {
+	"partners.header.title": {
+		"message": "ПАРТНЕРЫ",
+		"description": "Heading for page."
+	},
+	"partners.requirements.title": {
+		"message": "ТРЕБОВАНИЯ",
+		"description": "Heading for the requirements."
+	},
+	"partners.sponsors.title": {
+		"message": "СПОНСОРЫ",
+		"description": "Heading for sponsors."
+	},
 	"partners.apply.select.other": {
 		"message": "Прочее",
 		"description": "Select 'Other' category."
@@ -6,5 +18,13 @@
 	"partners.apply.form.name": {
 		"message": "Наименование",
 		"description": "Name filed."
+	},
+	"partners.apply.form.link": {
+		"message": "Ссылка",
+		"description": "Link field."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Закрыть",
+		"description": "Modal close button."
 	}
 }
