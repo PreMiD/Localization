@@ -40,7 +40,7 @@
     "description": "Check if the error is also happening to others message."
   },
   "user.notFound.message4": {
-    "message": "Если вы верите, что это ошибка - пожалуйста, свежитесь с нами через [our Discord server].",
+    "message": "Если вы считаете, что это ошибка - пожалуйста, свяжитесь с нами через [our Discord server].",
     "description": "Bottom line for the error page. Do not edit brackets."
   }
 }
