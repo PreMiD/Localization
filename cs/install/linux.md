@@ -14,10 +14,10 @@ Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o 
 
 <table>
   <tr>
-    <th>Supported Linux Distribution</th>
-    <th>Method</th>
-    <th>Installing</th>
-    <th>Additional Notes</th>
+    <th>Podporovaná distribuce Linuxu</th>
+    <th>Metoda</th>
+    <th>Instalace</th>
+    <th>Dodatečné poznámky</th>
   </tr>
   <tr>
     <td>Vše</td>
