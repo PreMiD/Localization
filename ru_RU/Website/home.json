@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD** — это простой, настраиваемый утилита, позволяющий вам показать, что вы делаете в сети в вашем статусе Discord.",
+    "message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -18,6 +18,10 @@
   "home.examples.timestamp": {
     "message": "Осталось {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "Прошло {0}",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.examples.status.playing": {
     "message": "Воспроизводится",
@@ -74,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Посетите наш сервер",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Выберите язык сайта",
+    "description": "Tippy content of the language selector."
   }
 }
