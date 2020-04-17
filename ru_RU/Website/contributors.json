@@ -15,13 +15,41 @@
 		"message": "Создатель",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Главный комьюнити-менеджер",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Старший разработчик ПО",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.webDeveloper": {
 		"message": "Веб-разработчик",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
+	"contributors.roles.engineer": {
+		"message": "Программист",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Графический дизайнер",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Senior модератор",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Комьюнити-менеджер",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Модератор",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Junior модератор",
+		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
 		"message": "Агент поддержки",
@@ -32,11 +60,11 @@
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Донатеры",
+		"message": "Донатер",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Усилитель",
+		"message": "Бустер",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
