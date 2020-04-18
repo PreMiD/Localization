@@ -31,7 +31,7 @@ tags:
     <td rowspan="5">Arch Linux</td>
     <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
     <td>Використовуючи yay :<br><code>yay -S premid</code><br></td>
-    <td rowspan="4">Якщо ваш дистрибутив використовує pacman, тоді ви повинні встановити один з помічників в першу чергу. If you don't have any, Yay is recommended, run :<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br>then <code>yay -S premid</code>, as instructed in the previous column.<br><br>Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.</td>
+    <td rowspan="4">Якщо ваш дистрибутив використовує pacman, тоді ви повинні встановити один з помічників в першу чергу. Якщо ви не маєте жодних с перелічених, ми рекомендуємо Yay виконайте:<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br> згодом <code>yay -S premid</code>, як це показано в попередньому стовпці.<br><br>Інші помічники AUR/Pacman працюють чудово, хоча функціонал кожного з них є складним, то ж не виключено, що ви стикнетеся з складнощами коли будете їх використовувати.</td>
   </tr>
   <tr>
     <td>Використовуючи pakku: <br><code>pakku -S premid</code></td>
