@@ -1,62 +1,62 @@
 ---
-title: Classe de presença
+title: Classe Presence
 description: A classe principal para cada presença do PreMiD
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Classe de presença
+# Classe Presence
 
 ## Introdução
 
-A classe `Presença` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
+A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
 
  Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Exemplo clientId
+    clientId: "514271496134389561" // Exemplo de clientId
 });
 ```
 
-Há duas propriedades disponíveis para a `Presença` classe.
+Há duas propriedades disponíveis para a classe `Presence`.
 
 #### `clientId`
 
-`a propriedade clientId` deve ser fornecida para que sua presença funcione, porque ela usa o ID do aplicativo para exibir o seu logotipo e ativos.
+A propriedade `clientId` deve ser fornecida para que sua presença funcione, porque ela usa a sua Application ID para exibir o seu logotipo e os assets.
 
-Você pode obtê-lo na sua [página de aplicativos](https://discordapp.com/developers/applications).
+Você pode obter sua Application ID na [página de aplicativos](https://discordapp.com/developers/applications).
 
 ## Métodos
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Define a atividade do seu perfil de acordo com os dados fornecidos.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+O primeiro parâmetro requer uma interface de `presenceData` para obter todas as informações que você deseja exibir no seu perfil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+O segundo parâmetro define quando a presença está reproduzindo algo ou não. Sempre use `true` se você fornecer timestamps na `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Limpa sua atividade atual, os atalhos e título de bandeja.
 
 ### `setTrayTitle(String)`
 
-> Este método funciona somente no Mac OS. 
+> Este método funciona apenas no Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Define o título da bandeja no Menubar.
 
 ### `getStrings(Objeto)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Permite que você obtenha frases traduzidas da extensão. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Você pode encontrar algumas das strings usando este endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Retorna strings `Playing` e `Paused`
+// a partir da extensão.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -64,26 +64,26 @@ strings = await presence.getStrings({
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Retorna valor da configuração.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //Substitua pdexID com o id da configuração
+console.log(setting); // Isso registrará o valor da configuração
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Oculta determinada configuração.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Substitua pdexID com o id da configuração
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Mostra determinada configuração (somente funciona se a configuração já estava escondida).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Substitua pdexID com o id da configuração
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Retorna a versão da extensão que o usuário está usando.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -95,18 +95,18 @@ console.log(version); // Will log 2.1.0
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Retorna uma variável a partir do site, se ela existir.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Isto registrará o "conteúdo variável"
 ```
 
-## `Interface de presençaDados`
+## Interface `presenceData`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+A interface `presenceData` é recomendada quando você usar o método `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
 <table>
   <thead>
@@ -118,14 +118,14 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detalhes</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Estado</td>
-      <td style="text-align:left">Segunda linha em sua presença.</td>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Segunda linha da sua presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -133,38 +133,38 @@ This interface has following variables, all of them are optional.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Define o tempo atual.<br>
         Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
-          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
-          contagem regressiva errada.
+          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
+          contagem errada.
       </td>
-      <td style="text-align:left"><code>numero</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Define a duração completa.
-        <br>Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
-          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
-          contagem regressiva errada.
+      <td style="text-align:left">Define a duração total.
+        <br>Usado se você quiser mostrar quantos <code>horas:minutos:segundos</code> faltam.
+          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
+          contagem errada.
       </td>
-      <td style="text-align:left"><code>numero</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Key</td>
-      <td style="text-align:left">Define o logotipo para a presença.</td>
+      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">Define o logo para a presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Chave</td>
-      <td style="text-align:left">Define o pequeno ícone ao lado da presença&apos;logo .</td>
+      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">minhaImagemTexto</td>
-      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele irá colocar o cursor no ícone de
-        pequeno.</td>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele passar o cursor no pequeno 
+        ícone.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -173,11 +173,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Meu título",
+    state: "Minha descrição",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Você está em cima de mim, e agora?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
@@ -185,20 +185,20 @@ var presenceData: presenceData = {
 
 ## Eventos
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Os eventos permitem que você detecte e lide com algumas alterações ou chamadas que foram feitas. Você pode assinar eventos usando o método `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Faça algo quando os dados forem atualizados.
 });
 ```
 
-There are few events available:
+Há alguns eventos disponíveis:
 
-#### `AtualizarDados`
+#### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Este evento é disparado toda vez que a presença é atualizada.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Disparado quando os dados são recebidos do script iFrame.
