@@ -34,5 +34,9 @@
 	"contributors.roles.translator": {
 		"message": "Traducător",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID-ul utilizatorului a fost copiat în clipboard!",
+		"description": "Notification after user ID was copied."
 	}
 }
