@@ -2,7 +2,7 @@
 title: 疑难解答
 description: 解决您问题的一切内容
 published: true
-date: 2020-01-19T23：42：09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### 重新加载页面
-您也可以在键盘上按 <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS)。
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### 重新启动您的浏览器
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) 也做了很好的工作。 (您必须再次启动您的浏览器。)
@@ -23,7 +23,7 @@ tags:
 ![quit.png](/quit.png) 之后您必须重启PreMiD。
 
 ### 重新加载/重启 Discord
-在您的键盘上按 <kbd>Strg+R</kbd> (Windows) 或 <kbd>CMD+R</kbd> (MacOS) 或手动重启 Discord。
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### 请确保Discord不是作为管理员运行
 真正重要。 如果您以管理员身份运行Discord，Discord RPC将无法工作。
@@ -41,11 +41,11 @@ tags:
 有时文件有问题... 安装教程可在这里找到 [](/install)。
 
 ### 手动删除
-Windows：    `C:\Users\USER\Program Files (x86)\`` 并删除文件夹`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application support/`并删除文件夹`PreMiD`` 。
 
 ### 在 Ubuntu/Debian 的磁盘上
 如果您是通过 Snapcraft下载Discord的，游戏状态将不会显示。 您必须在终端上执行 `sudo snap 移除Discord` 来卸载Snapcraft 版本， 下载 [Discord的 Linux 版本](https://discordapp.com/api/download?platform=linux) ([或 Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), 然后导航到您下载的 Discord 目录(通常是 `$HOME/Download`), 然后使用 `sudo dpkg -i discord-*安装包件。 eb`
 
 ### 这还没有解决我的问题
-请在 [#support](https://discord.gg/PreMiD) 中打开工单。
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
