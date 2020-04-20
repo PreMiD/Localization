@@ -2,7 +2,7 @@
 title: Hibaelhárítás
 description: Minden ami megoldja a problémát
 published: true
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Frissítsd az oldalt
-Az oldalt frissítheted a <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) vagy a <kbd>CMD+R</kbd> (MacOS) gombok lenyomásával a billentyűzeten vagy megkeresheted a frissítés gombot is.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Indítsd újra a böngészőt
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) vagy a <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) hasznos lehet ebben az esetben is. (Nyilvánvalóan, megint el kell indítanod a böngészőt.)
@@ -23,7 +23,7 @@ Az oldalt frissítheted a <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) vagy a <kbd>
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
 ### Indítsd újra a Discord alkalmazást
-A Discord kézi újraindításához nyomd meg a <kbd>Strg+R</kbd> (Windows) vagy a <kbd>CMD+R</kbd> (MacOS) gombokat a billentyűzeten.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Győződj meg arról, hogy a Discord nem rendszergazdai jogokkal fut
 Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal fut.
@@ -41,11 +41,11 @@ Azt remélem azért tudod, hogy hogyan kell egy számítógépet újraindítani.
 Néha a fájlokkal nincs valami rendben... Telepítési útmutatót [itt](/install) találod.
 
 ### Kézi eltávolítás
-Windows:    `C:\Users\FELHASZNÁLÓ\Program Files (x86)\`` és töröld a `PreMiD` mappát.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### Ez nem oldotta meg a problémát
-Please open a ticket in [#support](https://discord.gg/PreMiD).
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
