@@ -48,4 +48,4 @@ MacOS:`~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD``
 Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigeer vervolgens naar de map die je Discord gedownload hebt naar (meestal `$HOME/Downloads`), daarna het installeren van het pakket met behulp van `sudo dpkg -i discord-*. eb`.
 
 ### Dat heeft mijn probleem niet opgelost
-Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
+Open een ticket in [#support](https://discord.gg/WvfVZ8T).
