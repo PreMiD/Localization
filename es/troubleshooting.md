@@ -2,7 +2,7 @@
 title: Solución de problemas
 description: Todo para resolver tu problema
 published: true
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Recarga la página
-Puedes pulsar <kbd>Ctrl+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en tu teclado en vez de pulsar sobre el botón de actualizar.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Reinicia el navegador
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) también funcionará. (Obviamente tienes que volver a iniciar el navegador)
@@ -23,7 +23,7 @@ Puedes pulsar <kbd>Ctrl+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacO
 ![quit.png](/quit.png) Tienes que reiniciar después PreMiD.
 
 ### Recarga/Reinicia Discord
-Pulsa <kbd>Ctrl+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en el teclado o reinicia Discord manualmente.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Asegúrate de que Discord NO se esté ejecutando como administrador
 Muy importante. Discord RPC no funcionará si ejecutas Discord como administrador.
@@ -41,10 +41,11 @@ Espero que sepas como realizar esta acción.
 A veces hay algún problema con los archivos... Puedes encontrar indicaciones [aquí](/install).
 
 ### Eliminación manual
-Windows: `C:\Users\USUSARIO\Program Files (x86)` y elimina el directorio `PreMiD`. MacOS: `~/users/USUSARIO/~Library/Applicaion Support/` y elimina el directorio `PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+MacOS: <code>~/users/USUSARIO/~Library/Applicaion Support/` y elimina el directorio `PreMiD`.
 
 ### En distribuciones basadas en Ubuntu/Debian
 Si descargaste Discord a través de Snapcraft, RPC no funcionará. Tienes que desinstalar la versión de Snapcraft ejecutando `sudo snap remove discord` en una terminal, descargar [Discord para Linux](https://discordapp.com/api/download?platform=linux) ([o Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), luego navega hasta el directorio donde descargaste Discord (usualmente `$HOME/Descargas`). Finalmente instala el paquete ejecutando `sudo dpkg -i discord-*.deb`.
 
 ### Esto no ha resuelto mi problema
-Por favor abre un ticket en [#support](https://discord.gg/PreMiD).
+Por favor abre un ticket en [#support](https://discord.gg/WvfVZ8T).
