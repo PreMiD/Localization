@@ -11,6 +11,10 @@
 		"message": "Próximo",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Juntar-se",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Cancelar",
 		"description": "Cancel, button in the modal."
@@ -22,6 +26,14 @@
 	"jobs.modal.notice": {
 		"message": "PreMiD é um projeto open-source (código-aberto), significando que não somos um time sem fins lucrativos, toda doação ou dinheiro dado com o Patreon irá voltar para o produto. Ao se candidatar a um emprego no PreMiD, você reconhece que estará se voluntariando na equipe, você não será pago pelo seu trabalho.",
 		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Junte-se ao nosso Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Para poder se candidatar, você deve entrar em nosso servidor do Discord. Caso contrário, não poderemos te contactar caso você seja selecionado!",
+		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
 		"message": "Trabalhe para o PreMiD",
