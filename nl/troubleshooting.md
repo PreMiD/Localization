@@ -2,7 +2,7 @@
 title: Probleemoplossen
 description: Alles om je probleem op te lossen
 published: true
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Pagina herladen
-U kunt ook op <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op het toetsenbord drukken in plaats van te zoeken naar de refresh knop.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Herstart uw browser
 <kbd>ALT</kbd>+<kbd>F4</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) doet ook goed werk. (Je moet je browser weer opstarten.)
@@ -23,7 +23,7 @@ U kunt ook op <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) of <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) U moet PreMiD daarna opnieuw starten.
 
 ### Discord herladen/herstarten
-Druk op <kbd>Strg+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op je toetsenbord of start Discord handmatig opnieuw op.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Zorg ervoor dat Discord NIET als administrator wordt uitgevoerd
 Echt belangrijk! Discord RPC zal niet werken als je Discord als administrator gebruikt.
@@ -41,11 +41,11 @@ Ik hoop dat u weet hoe u een computer opnieuw moet starten.
 Soms is er iets mis met de bestanden... Handleidingen voor de installatie kunnen [hier](/install) gevonden worden.
 
 ### Handmatige verwijdering
-Windows:    `C:\Users\USER\Program Files (x86)\`` en verwijder de map `PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD``.
 
 ### Op Ubuntu/Debian gebaseerde distro's
 Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigeer vervolgens naar de map die je Discord gedownload hebt naar (meestal `$HOME/Downloads`), daarna het installeren van het pakket met behulp van `sudo dpkg -i discord-*. eb`.
 
 ### Dat heeft mijn probleem niet opgelost
-Open een ticket in [#support](https://discord.gg/PreMiD).
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
