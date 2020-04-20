@@ -2,7 +2,7 @@
 title: Fehlerbehebung
 description: Alles, um dein Problem zu lösen
 published: true
-date: 2020-04-20T11:16:55.141Z
+date: 20.04.2020, 11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Die Seite neu laden
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Statt nach dem Aktualisieren-Knopf zu suchen, kannst du <kbd>STRG+R</kbd>/<kbd>F5</kbd>(für Windows) oder <kbd>CMD+R</kbd>(für MacOS) auf deiner Tastatur eingeben.
 
 ### Browserneustart
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) leisten ebenfalls gute Arbeit. (Du musst deinen Browser natürlich erneut starten.)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) Du musst PreMiD danach neu starten.
 
 ### Discord neu laden/neustarten
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Drücke<kbd>STRG+R</kbd>(für Windows) oder <kbd>CMD+R</kbd>(für MacOS) auf deiner Tastatur oder starte dein Discord manuell neu.
 
 ### Stelle sicher, dass Discord NICHT als Administrator läuft
 Sehr wichtig. Discord RPC wird nicht funktionieren, wenn du Discord als Administrator ausführst.
@@ -41,7 +41,7 @@ Wir hoffen, dass du weißt wie du deinen Computer neustartest.
 Manchmal stimmt etwas nicht mit den Dateien... Anleitungen für die Installation findest du [hier](/install).
 
 ### Manuelles Löschen
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows:   `C:\Users\USER\AppData\Roaming\``und lösche den Ordner`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`und lösche den Ordner` PreMiD``.
 
 ### Auf Ubuntu/Debian basierten Distributionen
