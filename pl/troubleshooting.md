@@ -2,7 +2,7 @@
 title: Rozwiązywanie problemów
 description: Wszystko do rozwiązania twojego problemu
 published: tak
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Odśwież stronę
-Możesz nacisnąć <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) lub <kbd>CMD+R</kbd> (MacOS) na klawiaturze zamiast szukać przycisku odświeżania.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Uruchom ponownie przeglądarkę
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) również wykonuje dobrą pracę. (Musisz oczywiście ponownie uruchomić przeglądarkę.)
@@ -23,7 +23,7 @@ Możesz nacisnąć <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) lub <kbd>CMD+R</kbd
 ![quit.png](/quit.png) Następnie musisz ponownie uruchomić PreMiD.
 
 ### Odśwież/uruchom ponownie Discord
-Naciśnij <kbd>Strg+R</kbd> (Windows) lub <kbd>CMD+R</kbd> (MacOS) na klawiaturze lub uruchom ponownie Discorda ręcznie.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Upewnij się, że Discord działa NIE jako administrator
 Naprawdę ważne. RPC Discorda nie zadziała, jeśli używasz Discorda jako administratora.
@@ -41,11 +41,11 @@ Mam nadzieję, że wiesz jak zrestartować komputer.
 Czasami jest coś złego z plikami... Poradniki dotyczące instalacji można znaleźć [tutaj](/install).
 
 ### Ręczne usunięcie
-Windows:    `C:\Users\USER\Program Files (x86)\`` i usuń folder`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`i usuń folder`PreMiD``.
 
 ### Na distronie na bazie Ubuntu/Debian
 Jeśli pobrałeś Discorda przez Snapcraft, RPC nie będzie działać. Musisz odinstalować wersję Snapcraft wykonując `sudo Snapp remove discord` na terminalu, pobierz [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([lub Discorda Canary](https://discordapp.com/api/canary/download?platform=linux)), następnie przejdź do katalogu, który pobrałeś Discorda (zwykle `$HOME/Downloads`), następnie zainstalowanie pakietu za pomocą `sudo dpkg -i discord-*. eb`.
 
 ### To nie rozwiązało mojego problemu
-Otwórz zgłoszenie w [#support](https://discord.gg/PreMiD).
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
