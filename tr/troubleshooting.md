@@ -2,7 +2,7 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Sayfayı yenileyin
-İster yenileme butonuna tıklayın, isterseniz de klavyenizden <kbd>CTRL+R/F5</kbd> (Windows)/<kbd>CMD+R</kbd> (macOS) tuşlarına basın.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Tarayıcınızı yeniden başlatın
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ya da <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) tuşlarını kullanarak tarayıcınızı kapatın. Kapattıktan sonra elle yeniden açmanız gerekiyor elbette.
@@ -23,7 +23,7 @@ tags:
 ![quit.png](/quit.png) PreMiD uygulamasını yeniden başlatmak bazen sorununuzu çözebilir.
 
 ### Discord'u yeniden başlatın
-İsterseniz el ile yeniden başlatın, isterseniz de klavyenizi kullanarak şu tuş kombinasyonlarını uygulayın: <kbd>CTRL+R</kbd> (Windows) / <kbd>CMD+R</kbd> (MacOS)
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Discord'un yönetici olarak çalışmadığından emin olun
 Bu işlem çok önemlidir. Eğer Discord'u yönetici olarak çalıştırırsanız Discord RPC çalışmayacaktır.
@@ -41,10 +41,11 @@ Bir bilgisayarın nasıl yeniden başlatılacağını bildiğinizi umuyoruz.
 Bazen dosyalarda bir sorun olabiliyor... Kurulum için gerekli adımları [buradan](/install) öğrenebilirsiniz.
 
 ### Manuel kaldırma
-Windows:   `C:\Users\USER\Program Files (x86)\`` konumuna girin ve PreMiD klasörünü silin`. MacOS: `~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD klasörünü silin`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+MacOS: <code>~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD klasörünü silin`.
 
 ### Ubuntu/Debian tabanlı dağıtımlarda
 Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmayacaktır. Bunu çözebilmek için `sudo snap remove discord` kodu ile Snapcraft üzerinden yüklenen Discord'u silmeli ve [buradaki](https://discordapp.com/api/download?platform=linux) (veya [buradaki](https://discordapp.com/api/canary/download?platform=linux)) adresten Discord'un Linux dosyasını indirmeli, ardından yükleme konumuna (bu genellikle `$HOME/Downloads` olur) girerek `sudo dpkg -i discord-*.deb` kodu ile sisteminize yüklemelisiniz.
 
 ### Bunların hiçbiri sorununuzu çözmediyse
-[#support](https://discord.gg/PreMiD) kanalından bir destek kaydı oluşturmayı deneyin.
+[#support](https://discord.gg/WvfVZ8T) kanalından bir destek kaydı oluşturmayı deneyin.
