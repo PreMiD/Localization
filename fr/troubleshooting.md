@@ -2,7 +2,7 @@
 title: Dépannage
 description: Tout pour résoudre votre problème
 published: vrai
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Recharger la page
-Vous pouvez aussi appuyer sur <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) sur votre clavier au lieu de rechercher le bouton de rafraîchissement.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Redémarrez votre navigateur
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) fait également un bon travail. (Vous devez redémarrer votre navigateur de toute évidence.)
@@ -23,7 +23,7 @@ Vous pouvez aussi appuyer sur <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>
 ![quit.png](/quit.png) Vous devez redémarrer PreMiD par la suite.
 
 ### Recharger/redémarrer Discord
-Appuyez sur <kbd>Strg+R</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) sur votre clavier ou redémarrez Discord manuellement.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Assurez-vous que Discord ne fonctionne PAS en tant qu'administrateur
 Vraiment important. Le RPC Discord ne fonctionnera pas si vous exécutez Discord en tant qu'administrateur.
@@ -41,11 +41,11 @@ J'espère que vous savez comment redémarrer un ordinateur.
 Parfois, il y a quelque chose qui ne va pas avec les fichiers... Les tutoriels pour l'installation peuvent être trouvés [ici](/install).
 
 ### Suppression manuelle
-Windows:    `C:\Users\USER\Program Files (x86)\`` et supprimez le dossier`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS :`~/users/USER/~Library/Application Support/`et supprimez le dossier`PreMiD``.
 
 ### Sur les distributions basées sur Ubuntu/Debian
 Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version de Snapcraft en exécutant `sudo snap remove discord` sur un terminal, télécharger la [version Linux de Discord](https://discordapp.com/api/download?platform=linux) ([ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), puis naviguant dans le répertoire vers lequel vous avez téléchargé Discord (généralement `$HOME/Downloads`), puis l'installation du paquet en utilisant `sudo dpkg -i discord-*. eb`.
 
 ### Cela n'a pas résolu mon problème
-Veuillez ouvrir un ticket dans [#support](https://discord.gg/PreMiD).
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
