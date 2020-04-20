@@ -1,8 +1,8 @@
 ---
-title: Поиск проблемы
+title: Решение проблем
 description: Всё для решения вашей проблемы
 published: true
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Перезагрузить страницу
-Вы можете нажать <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на клавиатуре вместо поиска кнопки обновления.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Перезапустите браузер
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) тоже хорошо работает. (Очевидно, вы должны снова запустить ваш браузер.)
@@ -23,7 +23,7 @@ tags:
 ![quit.png](/quit.png) Вы должны перезапустить PreMiD.
 
 ### Перезагрузить/перезапустить Discord
-Нажмите <kbd>Strg+R</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре или перезапустите Discord вручную.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Убедитесь, что Discord не запущен как администратор
 Очень важно. Discord RPC не будет работать, если вы запускаете Discord от имени администратора.
@@ -41,11 +41,11 @@ tags:
 Иногда что-то не так с файлами... Учебники по установке можно найти [здесь](/install).
 
 ### Ручное удаление
-Windows:    `C:\Users\USER\Program Files (x86)\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`PreMiD``.
 
 ### На Ubuntu/Debian дистрибутивах
 Если вы загрузили Discord через Snapcraft, RPC не будет работать. Вы должны удалить версию Snapcraft, выполнив `sudo snap удалить discord` на терминале, скачать [сборку Discord для Linux](https://discordapp.com/api/download?platform=linux) ([или Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), затем перейдите в каталог, в который вы скачали Discord (обычно `$HOME/Downloads`), затем установите пакет с помощью `sudo dpkg -i discord-*. eb`.
 
 ### Это не позволило решить мою проблему
-Пожалуйста, откройте заявку в [#support](https://discord.gg/PreMiD).
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
