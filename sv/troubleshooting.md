@@ -2,7 +2,7 @@
 title: Felsökning
 description: Allt för att lösa ditt problem
 published: true
-date: 2020-01-19T23:42:09.728Z
+date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Ladda om sidan
-Du kan också trycka på <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på tangentbordet istället för att söka efter uppdateringsknappen.
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Starta om din webbläsare
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) gör ett bra jobb också. (Du måste starta din webbläsare igen självklart.)
@@ -23,7 +23,7 @@ Du kan också trycka på <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CM
 ![quit.png](/quit.png) Du måste starta om PreMiD efteråt.
 
 ### Ladda om/starta om Discord
-Tryck <kbd>Strg+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på tangentbordet eller starta om Discord manuellt.
+Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Var säker på att Discord inte körs som administratör
 Verkligen viktigt. Discord RPC fungerar inte om du kör Discord som administratör.
@@ -41,11 +41,11 @@ Jag hoppas att du vet hur man startar om en dator.
 Ibland är det något fel med filerna... Handledningar för installationen finns [här](/install).
 
 ### Manuell borttagning
-Windows:    `C:\Users\USER\Program Files (x86)\`` och ta bort mappen`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`och ta bort mappen`PreMiD``.
 
 ### På Ubuntu/Debianbaserade distros
 Om du har hämtat Discord via Snapcraft fungerar inte RPC. Du måste avinstallera Snapcraft versionen genom att köra `sudo snap ta bort discord` på en terminal, Hämta [Discords Linux build](https://discordapp.com/api/download?platform=linux) ([eller Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigerar sedan till katalogen du hämtade Discord till (vanligtvis `$HOME/Nedladdningar`), installera sedan paketet med `sudo dpkg -i discord-*. eb`.
 
 ### Det har inte löst mitt problem
-Vänligen öppna ett ärende i [#support](https://discord.gg/PreMiD).
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
