@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Everything to solve your problem
 published: true
-date: 2020-02-24T12:25:49.163Z
+date: 2020-04-20T11:16:55.141Z
 tags: 
 ---
 
@@ -43,7 +43,7 @@ I hope you know how to restart a computer.
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
-Windows:	``C:\Users\USER\Program Files (x86)\`` and delete the folder ``PreMiD``.
+Windows:	``C:\Users\USER\AppData\Roaming\`` and delete the folder ``PreMiD``.
 MacOS: ``~/users/USER/~Library/Application Support/`` and delete the folder ``PreMiD``.
 
 ### On Ubuntu/Debian based distros
