@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Pagina herladen
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+U kunt ook op <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op het toetsenbord drukken in plaats van te zoeken naar de refresh knop.
 
 ### Herstart uw browser
 <kbd>ALT</kbd>+<kbd>F4</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) doet ook goed werk. (Je moet je browser weer opstarten.)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) U moet PreMiD daarna opnieuw starten.
 
 ### Discord herladen/herstarten
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Druk op <kbd>CTRL+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op je toetsenbord of start Discord handmatig opnieuw op.
 
 ### Zorg ervoor dat Discord NIET als administrator wordt uitgevoerd
 Echt belangrijk! Discord RPC zal niet werken als je Discord als administrator gebruikt.
@@ -41,7 +41,7 @@ Ik hoop dat u weet hoe u een computer opnieuw moet starten.
 Soms is er iets mis met de bestanden... Handleidingen voor de installatie kunnen [hier](/install) gevonden worden.
 
 ### Handmatige verwijdering
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` en verwijder de map `PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD``.
 
 ### Op Ubuntu/Debian gebaseerde distro's
