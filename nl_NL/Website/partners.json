@@ -111,6 +111,14 @@
 		"message": "De gamer verdienplatform.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio is de meest succesvolle infotainment-radio voor simulatiespelletjes in Duitsland, Oostenrijk en Zwitserland!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Krijg waar je recht tot hebt. Stream Anime, Films, Hentai, Specials en meer. Gratis zonder advertenties en in hoge definitie!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "Een krachtig en eenvoudig te gebruiken platform installatietool voor de creatie van platformen.",
 		"description": "Description for BitRock."
