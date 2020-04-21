@@ -39,6 +39,10 @@
     "message": "**당신**의 Presence 를 찾기",
     "description": "Features section subheading"
   },
+  "home.features.presencesystem.description": {
+    "message": "저희는 저희 애드온/확장 프로그램을\n사용자분이 직접 다른 사용자들이 만든 Presence들을 추가하고, Presence들을 관리할 수 있도록 개발하였습니다.",
+    "description": "Features section description"
+  },
   "home.features.presencesystem.button": {
     "message": "상점 열기",
     "description": "Features section button"
@@ -46,6 +50,10 @@
   "home.features.simpleInterface.heading": {
     "message": "간단한 유저 인터페이스",
     "description": "Features section subheading"
+  },
+  "home.features.simpleInterface.description": {
+    "message": "복잡한 인터페이스에 지치셨나요? 이것이 우리가 사용하기 쉬우면서도 중요한 기능들만 담은 인터페이스를 제작한 이유에요:",
+    "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
     "message": "앱과 확장 기능 설정",
@@ -62,6 +70,10 @@
   "home.features.quickSupport.heading": {
     "message": "빠른 지원",
     "description": "Features section subheading"
+  },
+  "home.features.quickSupport.description": {
+    "message": "문제가 있거나 에러 메세지를 반복적으로 표시하고 있나요? 저희가 저희의 Discord 서버에서 도와드리겠습니다.",
+    "description": "Features section description"
   },
   "home.features.quickSupport.button": {
     "message": "우리 서버 들리기",
