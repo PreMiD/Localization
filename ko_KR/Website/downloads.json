@@ -70,5 +70,17 @@
 	"downloads.error.login": {
 		"message": "다운로드한 파일을 볼려면 로그인하세요.",
 		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "죄송하지만, 당신은 알파/베타 버전에 엑세스할 권한이 없습니다 :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "당신은 **이곳에서** 저희에 베타 프로그램에 무료로 참가할 수 있습니다. 서두르세요! 현재 {0} 명을 모집하고 있습니다.(총 200명)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "최신 버전",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
