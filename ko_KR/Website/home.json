@@ -1,4 +1,8 @@
 {
+  "home.introduction.paragraph": {
+    "message": "**PreMid**는 당신이 웹에서 무엇을 하고 있는지 보여주는 간단한 프로그램입니다.",
+    "description": "First phrase that users read on our website"
+  },
   "home.introduction.button.features": {
     "message": "기능들",
     "description": "Introduction button"
@@ -14,6 +18,10 @@
   "home.examples.timestamp": {
     "message": "{0} 남음",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.timestamp2": {
+    "message": "{0} 지남",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.examples.status.playing": {
     "message": "플레이중",
