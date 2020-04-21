@@ -73,7 +73,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">نوع و</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
