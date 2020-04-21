@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "확장 프로그램/애드온이 연결되지 않았습니다.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "제작자",
     "description": "Creator of a presence"
