@@ -71,6 +71,10 @@
 		"message": "고객지원 팀",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Presence 인증인",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
 	"contributors.roles.proofreader": {
 		"message": "교정자",
 		"description": "'Proofreader' title for contributors and user pages."
