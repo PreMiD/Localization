@@ -15,9 +15,65 @@
 		"message": "제작자",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "관리자",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "작업 관리자",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "전세계 커뮤티니 대표자",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "소프트웨어 총괄자",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "웹 개발자",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Linux 운영체제 유지자",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "기술자",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "그래픽 디자이너",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "수석 관리자",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "Presence 승인 총괄자",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "커뮤니티 대표자",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "관리자",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "수석 관리자",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "고객지원 팀",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "교정자",
+		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
 		"message": "후원자",
@@ -30,5 +86,13 @@
 	"contributors.roles.translator": {
 		"message": "번역자",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "클릭하여 유저의 ID를 복사하세요.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "유저의 ID가 복사되었습니다.",
+		"description": "Notification after user ID was copied."
 	}
 }
