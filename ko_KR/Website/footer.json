@@ -51,6 +51,10 @@
 		"message": "번역하기",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "저희를 위해 일해주세요!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "도움",
 		"description": "Help section"
@@ -98,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "웹사이트 유지 {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "더 많은 파트너 & 스폰서들을 볼려면 이곳을 클릭하세요.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
