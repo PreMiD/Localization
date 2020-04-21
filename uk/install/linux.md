@@ -29,9 +29,9 @@ tags:
   </tr>
   <tr>
     <td rowspan="5">Arch Linux</td>
-    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Arch User Repository</a></td>
+    <td rowspan="5"><a href="https://aur.archlinux.org/packages/premid">Користувацький репозиторій Arch</a></td>
     <td>Використовуючи yay :<br><code>yay -S premid</code><br></td>
-    <td rowspan="4">Якщо ваш дистрибутив використовує pacman, тоді ви повинні встановити один з помічників в першу чергу. Якщо ви не маєте жодних с перелічених, ми рекомендуємо Yay виконайте:<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br> згодом <code>yay -S premid</code>, як це показано в попередньому стовпці.<br><br>Інші помічники AUR/Pacman працюють чудово, хоча функціонал кожного з них є складним, то ж не виключено, що ви стикнетеся з складнощами коли будете їх використовувати.</td>
+    <td rowspan="4">Якщо ваш дистрибутив використовує pacman, тоді ви повинні встановити один з помічників в першу чергу. Якщо ви не маєте жодних с перелічених, ми рекомендуємо Yay виконайте:<br><code>git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si</code><br> згодом <code>yay -S premid</code>, як це показано в попередньому стовпці.<br><br>Інші помічники AUR/Pacman працюють чудово, хоча функціонал кожного з них є складним, то ж не виключено, що ви стикнетеся зі складнощами коли будете їх використовувати.</td>
   </tr>
   <tr>
     <td>Використовуючи pakku: <br><code>pakku -S premid</code></td>
