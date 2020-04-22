@@ -1,42 +1,42 @@
 {
   "beta.title": {
-    "message": "Želite nove posebnosti?",
+    "message": "Vill du ha nya funktioner?",
     "description": "Beta page title"
   },
   "beta.description.1": {
-    "message": "**PreMiD Beta** je zdaj na voljo vsem!",
+    "message": "**PreMiD Beta** finns nu tillgängligt för alla!",
     "description": "Section description"
   },
   "beta.description.2": {
-    "message": "Kaj boš pridobil/a, če se registriraš?",
+    "message": "Vad får du om du anmäler dig?",
     "description": "Section description"
   },
   "beta.features.1": {
-    "message": "Najnovejše posebnosti",
+    "message": "De senaste funktionerna",
     "description": "Features list"
   },
   "beta.features.2": {
-    "message": "Dostop do PreMiD super skrivnostnih besedilnih kanalov",
+    "message": "Tillgång till PreMiDs superhemliga textkanaler",
     "description": "Features list"
   },
   "beta.features.3": {
-    "message": "Poseben \"role\" na našem Discord serverju",
+    "message": "En särskild roll på vår Discord-server",
     "description": "Features list"
   },
   "beta.register.text": {
-    "message": "Si pripravljen/a? Pridruži se {0} ostalim Beta testerjem!",
+    "message": "Känner du dig redo? Gå med i {0} andra Beta-testare!",
     "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
-    "message": "Registriraj se zdaj!",
+    "message": "Registrera dig nu!",
     "description": "Sign up button text"
   },
   "thankyou.title": {
-    "message": "Odlično! Zdaj si beta uporabnik!",
+    "message": "Coolt! Du är nu en beta-användare!",
     "description": "Thank You page title"
   },
   "thankyou.description": {
-    "message": "Naše opice delajo na tem, da te sprejmejo v naš beta program kolikor hitro lahko! Hvala za registracijo!",
+    "message": "Våra apor arbetar på att få dig in i vårt beta-program så fort som möjligt. Tack för att du registrerar dig!",
     "description": "Thank You page description"
   }
 }

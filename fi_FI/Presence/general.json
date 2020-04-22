@@ -1,30 +1,70 @@
 {
-    "general.anime": {
-        "message": "אנימה",
+    "general.browsing": {
+        "message": "Selaa...",
         "description": ""
     },
-    "general.browsing": {
-        "message": "גולש...",
+    "general.chapter": {
+        "message": "Luku",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Muokkaa:",
         "description": ""
     },
     "general.episode": {
-        "message": "פרק",
+        "message": "Jakso",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Foorumi",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Genre",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Kuuntelee musiikkia",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Kuuntelijat",
         "description": ""
     },
     "general.live": {
-        "message": "שידור חי",
+        "message": "Suora",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Sivu",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Keskeytetty",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Toistaa",
         "description": ""
     },
     "general.reading": {
-        "message": "קורא",
+        "message": "Luetaan",
         "description": ""
     },
     "general.search": {
-        "message": "מחפש",
+        "message": "Etsii",
+        "description": ""
+    },
+    "general.shopCart": {
+        "message": "Ostoskori",
         "description": ""
     },
     "general.store": {
-        "message": "חנות",
+        "message": "Kauppa",
         "description": ""
     }
 }
