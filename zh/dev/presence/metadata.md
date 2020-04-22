@@ -2,13 +2,13 @@
 title: 梅塔数据.json
 description: 包含关于Presence的基本数据
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # 梅塔数据.json
 
-如果您想要将存在发布到商店并通过扩展加载它，您应该创建 `元数据。 您 <code>presence.js` 文件夹中的son</code> 文件。
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 该文件的例子可在下面找到。
 
