@@ -8,27 +8,27 @@ tags:
 
 # API
 
-> ベースURL: https://api.premid.app 
+> קישור בסיס: https://api.premid.app 
 > 
 > {.is-info}
 
-## APIのバージョン
-> 現在、いくつかのAPIやGatewayのバージョンは非推奨で、以下の表にて 廃止 と表記されています。 
+## API Versioning
+> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
 > 
 > {.is-danger}
 
-PreMiDには異なるバージョンのAPIがあります。 `https://api.premid.app/v{version_number}` のようなリクエストパスを同梱することでバージョンを指定できます。 ルート上からバージョンの番号を省略した場合、自動的に現在のバージョンにルートリクエストされます。(以下にそれに応じてかいてあります)
+PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## 暗号化
+## Encryption
 
-PreMiD内のすべてのHTTPレイヤーのサービスやプロトコル (例: http)は TLS 1.2 を使用します。
+All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
-# ドキュメント
-> 現在作成中！ 
+# תיעוד
+> Currently under construction! 
 > 
 > {.is-danger}
 
-**APIのバージョンを選んでください:**
-- [v1 *非推奨*](/dev/api/v1)
-- [v2 *推奨*](/dev/api/v2)
+**בחר בגרסת ה- API:**
+- [v1 *deprecated*](/dev/api/v1)
+- [v2 *active*](/dev/api/v2)
 {.links-list}
