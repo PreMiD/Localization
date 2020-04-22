@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Перезавантажте сторінку
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Ви можете натиснути <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) або <kbd>CMD+R</kbd> (MacOS) на вашій клавіатурі теж замість пошуку кнопки оновлення.
 
 ### Перезавантажте ваш браузер
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) також виконує гарну роботу. (Ви повинні знову запустити браузер)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) Після цього ви повинні перезапустити PreMiD.
 
 ### Перезавантажте Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Натисніть <kbd>Strg+R</kbd> (Windows) або <kbd>CMD+R</kbd> (MacOS) на своїй клавіатурі або перезавантажте Discord вручну.
 
 ### Переконайтеся, що Discord працює не як адміністратор
 Дійсно важливе. Discord RPC не працюватиме, якщо ви запустите Discord в якості адміністратора.
@@ -41,7 +41,7 @@ Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard o
 Іноді щось не так з файлами... Підручники для встановлення можна знайти [тут](/install).
 
 ### Видалення вручну
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` та видаліть теку`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`та видалити папку`PreMiD``.
 
 ### Дистрибутиви на основі Ubuntu/Debian
