@@ -1,30 +1,30 @@
 {
 	"footer.language": {
-		"message": "Lingua",
+		"message": "Språk",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "Pronto a provare PreMiD?",
+		"message": "Redo att använda PreMiD?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Unisciti ora ad oltre {0} utenti!",
+		"message": "Gå med {0} användare idag!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
-		"message": "Installa",
+		"message": "Installera",
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
-		"message": "Partner",
+		"message": "Partners",
 		"description": "Partner section"
 	},
 	"footer.developers.heading": {
-		"message": "Sviluppatori",
+		"message": "Utvecklare",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
-		"message": "Documentazione",
+		"message": "Dokumentation",
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
@@ -32,39 +32,43 @@
 		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "Supportaci",
+		"message": "Stöd oss",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "Dona",
+		"message": "Donera",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Contribuisci",
+		"message": "Bidra",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.design": {
-		"message": "Progetta",
+		"message": "Design",
 		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
-		"message": "Traduci",
+		"message": "Översätt",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Arbeta för oss!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
-		"message": "Aiuto",
+		"message": "Hjälp",
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "Risoluzione problemi",
+		"message": "Felsökning",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
-		"message": "Richiedi Supporto",
+		"message": "Få hjälp",
 		"description": "Get Support -> redirects to Discord invite"
 	},
 	"footer.help.information": {
-		"message": "Informazione",
+		"message": "Information",
 		"description": "Information section"
 	},
 	"footer.help.information.cookies": {
@@ -72,19 +76,19 @@
 		"description": "meant to be 'Cookie Policy'"
 	},
 	"footer.help.information.privacy": {
-		"message": "Privacy",
+		"message": "Sekretess",
 		"description": "meant to be 'Privacy Policy'"
 	},
 	"footer.help.information.terms": {
-		"message": "Termini di Servizio",
+		"message": "Villkor",
 		"description": "meant to be 'Terms of Service'"
 	},
 	"footer.more.heading": {
-		"message": "Di più",
+		"message": "Mer",
 		"description": "More section"
 	},
 	"footer.more.status": {
-		"message": "Stato",
+		"message": "Status",
 		"description": "Status -> redirects to status.premid.app"
 	},
 	"footer.more.wiki": {
@@ -92,11 +96,15 @@
 		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
-		"message": "{0} creato da {1}",
+		"message": "{0} av {1}",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "Sito curato da {0}",
+		"message": "Hemsidan sköts av {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klicka här för att se övriga partners & sponsorer.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
