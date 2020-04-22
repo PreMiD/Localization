@@ -1,18 +1,18 @@
 ---
-title: Třída přítomnosti
-description: Hlavní třída pro každou přítomnost PreMiD
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Třída přítomnosti
+# Presence Class
 
-## Úvod
+## Introduction
 
-Třída `Presence` je velmi užitečná, protože má základní metody, které potřebujeme k vytvoření přítomnosti.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
- Při vytváření třídy musíte zadat `klientské Id`.
+ When you create a class you must specify `clientId` property.
 
 ```typescript
 let presence = new Presence({
@@ -20,15 +20,15 @@ let presence = new Presence({
 });
 ```
 
-Jsou k dispozici dvě vlastnosti pro `Presence` třídu.
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
-Musí být poskytnuta vlastnost `klientských Id` , aby vaše přítomnost fungovala, protože používá ID vaší aplikace k zobrazení jejího loga a majetku.
+`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-Můžete to získat na stránce [aplikací](https://discordapp.com/developers/applications).
+You can get it on your [applications page](https://discordapp.com/developers/applications).
 
-## Metody
+## Methods
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -44,13 +44,13 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Tato metoda funguje pouze na Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
 Sets the tray title on the Menubar.
 
-### `getStrings(Objekt)`
+### `getStrings(Object)`
 
 Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -102,7 +102,7 @@ var pageVar = getPageLetiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `přítomnostiData` Rozhraní
+## `presenceData` Interface
 
 The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
@@ -111,61 +111,61 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Proměnná</th>
-      <th style="text-align:left">Popis</th>
-      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Beskrivelse</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Podrobnosti</td>
-      <td style="text-align:left">První řádek v přítomnosti, obvykle používaný jako záhlaví.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left">details</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">stav</td>
-      <td style="text-align:left">Druhá linie v přítomnosti.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Definuje aktuální čas.<br>
-        Používá se, pokud chcete zobrazit, kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>Musíte převést svůj čas na <code>časové razítko</code> nebo dostanete špatný
-          odpočítávání.
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Číslo</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Definuje celou dobu trvání.
-        <br>Používá se, pokud chcete zobrazit kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>Musíte převést svůj čas na <code>časové razítko</code> nebo dostanete špatný
-          odpočítávání.
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Číslo</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Definuje logo pro přítomnost.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Určuje malou ikonu vedle loga&apos;s.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Malý obrázek</td>
-      <td style="text-align:left">Definuje text, který se zobrazí uživateli, když se dotkne malé ikony
-.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -183,7 +183,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## Události
+## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
