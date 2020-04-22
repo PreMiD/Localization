@@ -39,4 +39,4 @@ tags:
 당신이 지원하는 [GitHub Repositories](https://github.com/PreMiD/)에서 저희에게 Pull Request를 보내세요. 저희가 직접 당신의 프로젝트를 보관하겠습니다. 만약 당신이 처음으로 Pull Request를 만드신다면,  [이곳](https://help.github.com/en/articles/creating-a-pull-request)을 방문해 보세요!
 
 # Presence 인증되기
-저희의 목표는 사용자들과 협력하여 일하는 것이기 때문에, 가능한 친절하고, 책임을 지시면서도, 가장 많은 정보를 전달할 수 있게 도와주세요. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+저희의 목표는 사용자들과 협력하여 일하는 것이기 때문에, 가능한 친절하고, 책임을 지시면서도, 가장 많은 정보를 전달할 수 있게 도와주세요. GitHub에서 리뷰를 받으려면 저의 [Discord 서버](https://discord.gg/WvfVZ8T)에서 개발자를 멘션하세요. 만약 Discord가 처음이시라면, [이곳](https://support.discordapp.com/hc/en-us/articles/360033931551-Getting-Started)을 읽어보세요. 리뷰는 코드의 퀄리티, 중요 코드의 기능 등등을 평가합니다.
