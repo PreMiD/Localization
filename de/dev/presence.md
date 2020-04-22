@@ -61,7 +61,7 @@ Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
 - Die Präsenzmetadaten **MÜSSEN** ordentlich geschriebene Inhalte enthalten, einschließlich gültiger Titel und Beschreibungen.
 - Die von Ihnen enthaltenen Medien (Symbole/Thumbnails) **MÜSSEN** mit der Website zusammenhängen und sollten hinsichtlich Größe und Qualität verständlich sein.
 - Die Dateistruktur **MUSS** ordentlich und strukturiert sein. Es dürfen keine zufälligen Dateien vorhanden sein, die mit der Funktion der Präsenz nichts zu tun haben.
-- Die Präsenz **DARF KEINE** böswilligen Absichten haben. Dazu gehört Stehlen/Weitergeben von privaten Informationen, Beeinträchtigen des Verhaltens der Website usw...
+- Die Präsenz **DARF KEINE** böswilligen Absichten haben. Dazu gehört das Stehlen/Veröffentlichen von privaten Informationen, das negative Beeinträchtigen des Verhaltens der Website usw...
 - Wenn Du eine Präsenz für eine Website erstellst und sich die Website in der Zukunft ändern sollte, so bist **DU** verantwortlich, die Präsenz zu aktualisieren, dass sie wie erwartet, funktioniert. Wenn Sie Fehler nicht innerhalb von 7 Tagen beheben, können andere Entwickler Ihre Präsenz **ÜBERSCHREIBEN**, um die Probleme zu beheben.
 - Die Präsenz **MUSS** vor der Veröffentlichung auf Fehler getesten werden.
 - Ihre Präsenz **MUSS** SFW-Bilder und -Beschreibungen enthalten, unabhängig davon, ob es sich um NSFW handelt oder nicht. Wenn es sich bei Ihrer Präsenz um eine NSFW-Website handelt, fügen Sie Ihren Metadaten das Tag `nsfw` hinzu.
