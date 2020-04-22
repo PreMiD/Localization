@@ -46,5 +46,9 @@
     "premid.pageTroubleshooting": {
         "message": "문제 해결",
         "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "시작하기",
+        "description": "A page name"
     }
 }
