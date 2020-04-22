@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Містить основні дані про присутність
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ If you want to publish a presence to the store and load it via the extension, yo
     <tr>
       <td style="text-align:left"><b>учасники проєкту</b>
       </td>
-      <td style="text-align:left">Має містити об'єкт з <code>назвою</code> і <code>id</code> розробника присутності. Ім'я - це ваше ім'я користувача Discord без ідентифікатора(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Ім'я - це ваше ім'я користувача Discord без ідентифікатора(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
         і правою кнопкою миші в вашому профілі.</td>
       <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
       </td>
