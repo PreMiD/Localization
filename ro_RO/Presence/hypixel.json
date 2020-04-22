@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "يشاهد قائمة الموظفين",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "يشاهد مواضيعهم المشاهدة",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "يشاهد منتدياتهم المشاهدة",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "يشاهد الرسائل المباشرة الخاصة بهم",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "يشاهد اللعبة:",
+        "description": ""
+    }
+}
