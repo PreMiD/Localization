@@ -2,13 +2,13 @@
 title: Métadonnées.json
 description: Contient des données de base sur la Presence
 published: vrai
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Métadonnées.json
 
-Si vous voulez publier une présence dans le magasin et la charger via l'extension, vous devez créer les métadonnées `. son` fichier dans votre dossier `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 L'exemple de ce fichier peut être trouvé ci-dessous.
 
