@@ -1,8 +1,8 @@
 ---
 title: API
-description: Acceder a recursos y realizar acciones usando la API PreMiD
+description: Access resources and perform actions using the PreMiD API
 published: true
-date: 2020-02-12T22:06:25.888Z
+date: 2020-04-22T17:59:55.315Z
 tags:
 ---
 
