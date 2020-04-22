@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Bevat basisgegevens over de Presence
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Als u een presence in de winkel wilt publiceren en deze wilt laden via de extensie, dan moet u de `metadata.js` bestand in uw `presence.js` map aanmaken.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Het voorbeeld van dat bestand kan hieronder worden gevonden.
 
