@@ -322,13 +322,13 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>sociales</b></td>
-        <td style="text-align:left"><b>Sociales</b></td>
+        <td style="text-align:left"><b>Social</b></td>
       <td style="text-align:left">Sitios web que se utilizan con el propósito de crear y compartir contenidos o para participar en otras formas de redes sociales.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>vídeos</b></td>
-        <td style="text-align:left"><b>Vídeos y Directos</b></td>
+        <td style="text-align:left"><b>Vídeos y Transmisiones</b></td>
       <td style="text-align:left">Sitios web que sirven el propósito de proporcionar videos y streams.</td>
       </td>
     </tr>
