@@ -11,6 +11,10 @@
 		"message": "Наступний",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Приєднуйся",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Скасувати",
 		"description": "Cancel, button in the modal."
@@ -22,6 +26,10 @@
 	"jobs.modal.notice": {
 		"message": "PreMiD — це проект з відкритим вихідним кодом, а це означає, що ми некомерційна команда, кожна пожертва та гроші вкладаються в наш продукт. Погоджуючись на посаду в PreMiD, ви підтверджуєте, що ви стаєте волонтером в команді і що вам нічого не заплатять.",
 		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Приєднуйтеся до нашого Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.header.title": {
 		"message": "Робота в PreMiD",
