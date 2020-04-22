@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access ressources and perform actions using the PreMiD API
+description: PreMid API를 사용하여 코드에 접속하고 기능들을 테스트하세요.
 published: true
 date: 2020-02-12T22:06:25.888Z
 tags:
@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
+## API 버전
 > Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
 > 
 > {.is-danger}
