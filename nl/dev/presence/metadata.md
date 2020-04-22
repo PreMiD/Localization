@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Bevat basisgegevens over de Presence
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Moet een object bevatten met <code>naam</code> en <code>id</code> van de presence-ontwikkelaar. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
