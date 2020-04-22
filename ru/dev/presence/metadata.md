@@ -2,13 +2,13 @@
 title: Метадата.джсон
 description: Содержит основные данные о присутствии
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Метадата.джсон
 
-Если вы хотите опубликовать присутствие в магазине и загрузить его через расширение, вы должны создать `. son` файл в папке `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Пример этого файла можно найти ниже.
 
