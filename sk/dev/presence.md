@@ -12,7 +12,7 @@ tags:
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-# Guidelines
+# Pokyny
 > If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
 > 
 > {.is-warning}
@@ -23,7 +23,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 
 When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
 
-## Creation
+## Tvorba
 > The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
 > 
 > {.is-warning}
@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-Before you begin working on your presence, keep the following list in mind.
+Skôr ako začnete pracovať na svojej prítomnosti, majte na pamäti nasledujúci zoznam.
 - The presence **MUST** be related to the website you have chosen.
 - The presence **MUST NOT** be of any illegal websites. These include stressors, drugs, child porn, etc...
 - The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
@@ -60,7 +60,7 @@ Before you begin working on your presence, keep the following list in mind.
 - Your presence **CANNOT** manipulate local storage on the browser.
 - Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
 
-## Modification
+## Úprava
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
 > 
 > {.is-warning}
@@ -71,7 +71,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 
-# Verification
+# Overovanie
 
 > If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
 
@@ -93,13 +93,13 @@ For your presence to reach the stores, it MUST go through a process on GitHub to
 
 After all of the proper reviews have been met, your pull request will be merged with the store.
 
-# Structure (TypeScript)
+# Štruktúra (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
-## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+## Inštalácia
+1. Nainštalujte si [Git](https://git-scm.com/).
+2. Nainštalujte si [Node](https://nodejs.org/en/) (prichádza s [npm](https://www.npmjs.com/)).
+3. Nainštalujte si [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otvorte terminál a `npm install -g typescript`).
 
 ## Cloning the project
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
@@ -121,7 +121,6 @@ Please put the following code inside of the `tsconfig.json` file.
   "compilerOptions": {
     "outDir": "./dist/"
   }
-}
 ```
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
@@ -131,7 +130,7 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fil
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Začíname
 
 ```javascript
 var presence = new Presence({
@@ -191,7 +190,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## Nemôžem získať určité údaje?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -224,12 +223,12 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-## Compiling
+## Kompilovanie
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Structure (JavaScript)
+# Štruktúra (TypeScript)
 ## Cloning the project
-1. Install [Git](https://git-scm.com/).
+1. Nainštalujte si [Git](https://git-scm.com/).
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 3. Choose a folder of your choice.
 4. Open it in you code editor.
@@ -246,7 +245,7 @@ Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fil
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Začíname
 
 ```javascript
 var presence = new Presence({
@@ -306,7 +305,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## Nemôžem získať určité údaje?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -395,7 +394,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `sodelavci`
+- `prispievatelia`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -405,50 +404,47 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Premenná</th>
+      <th style="text-align:left">Popis</th>
+      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Nepovinné</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>avtor</b>
+      <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Mal by obsahovať Objekt s <code>menom</code> a <code>id</code> vývojára prítomnosti. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
+      <td style="text-align:left"><code>Objekt</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>sodelavci</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>prispievatelia</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Mal by obsahovať Objekt s <code>menom</code> a <code>id</code> vývojára prítomnosti. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
+      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>opis</b>
+      <td style="text-align:left"><b>služba</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>Object</code>
+      <td style="text-align:left">Názov služby ktorú táto prítomnosť podporuje. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>popis</b>
+      </td>
+      <td style="text-align:left">Malý popis prítomnosti, môžete použiť popis služby        ak nemáte žiadne nápady. Váš popis musí mať hodnoty párov kľúčov ktoré označujú jazyk, a popis v tom konkrétnom jazyku. Urobte popisy s jazykmi <i>ktoré poznáte</i>, naši prekladatelia ich zmenia vo vašich metadata súborov.</td>
+      <td style="text-align:left"><code>Objekt</code>
+      </td>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -462,9 +458,9 @@ You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 You could also use regExp also known as Regex for this task, explaned further below.
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
@@ -477,83 +473,82 @@ You could use the following regExp for that:<br>
 TLD standing for Top Level Domain for axample: .com .net<br> 
 <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
         You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>verzija / Različica</b>
+      <td style="text-align:left"><b>verzia</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Verzia vašej prítomnosti.</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Odkaz na službu&apos; s logotypom.</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>thumbnail</b>
-      </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
-      </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>náhľad</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Odkaz na náhľad vašej prítomnosti.</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>oznaki</b>
+      <td style="text-align:left"><b>farba</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>#HEX</code> hodnota. Odporúčame vám používať primárnu farbu služby        ktorá vaša prítomnosť podporuje.</td>
+      <td style="text-align:left"><code>Reťazec</code>
+      </td>
+      <td style="text-align:left"><code>Nie</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>štítky</b>
+      </td>
+      <td style="text-align:left">Pole so značkami, pomôže používateľom vyhľadávať vašu prítomnosť na webovej stránke.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategória</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Reťazec použitý na označenie kategórie do ktorej patrí. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Určuje či je použitý <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Selektor regulárneho výrazu ktorý vyberá prvky iframe do ktorých sa má vložiť. See regExp for more info.</td>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
     <tr>
@@ -561,9 +556,9 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Áno</code>
       </td>
     </tr>
   </tbody>
@@ -571,7 +566,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
 
-# Loading the presence
+# Načítanie prítomnosti
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
@@ -585,9 +580,9 @@ The website you are developing on is automatically reloading every time you save
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
-# Files explained
-- [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+# Vysvetlené Súbory
+- [Trieda Prítomnosti](/dev/presence/class)
+- [iFrame Trieda](/dev/presence/iframe)
+- [Metadata Súbor](/dev/presence/metadata)
+- [Konfigurácia TypeScriptu](/dev/presence/tsconfig)
 {.links-list}
