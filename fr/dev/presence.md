@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-04-07T18:50:18.628Z
+date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
@@ -195,7 +195,7 @@ Pour plus d'informations sur la classe Presence, cliquez [ici](/dev/presence/cla
 
 Beaucoup de sites web utilisent des [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ces balises html peuvent contenir plusieurs sources telles que des vidéos. Mais ils ne sont pas pertinents à chaque fois. Certains sont cachés ou tout simplement pas utilisés activement. Vérifiez si vous pouvez extraire, l'information dont vous avez besoin, sans eux avant de faire un travail inutile.
 
-1. Vérifiez-les par console du navigateur (assurez-vous que vous êtes sur l’onglet **Éléments**).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Recherche (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Exécutez `document.querySelectorAll("iframe")`.
 
@@ -310,7 +310,7 @@ Pour plus d'informations sur la classe Presence, cliquez [ici](/dev/presence/cla
 
 Beaucoup de sites web utilisent des [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ces balises html peuvent contenir plusieurs sources telles que des vidéos. Mais ils ne sont pas pertinents à chaque fois. Certains sont cachés ou tout simplement pas utilisés activement. Vérifiez si vous pouvez extraire, l'information dont vous avez besoin, sans eux avant de faire un travail inutile.
 
-1. Vérifiez-les par console du navigateur (assurez-vous que vous êtes sur l’onglet **Éléments**).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Recherche (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Exécutez `document.querySelectorAll("iframe")`.
 
