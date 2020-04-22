@@ -1,7 +1,7 @@
 ---
-title: Getting Started
+title: 開始使用
 description: A little advise for those who got into coding recently
-published: true
+published: 是
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
