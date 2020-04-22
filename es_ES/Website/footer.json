@@ -28,7 +28,7 @@
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "Rich Presence",
+		"message": "Presencia Enriquecida",
 		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
 	},
 	"footer.supportus.heading": {

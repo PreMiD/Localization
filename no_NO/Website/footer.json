@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Join over {0} brukere nå!",
+		"message": "Bli med over {0} brukere nå!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
