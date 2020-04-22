@@ -4,7 +4,7 @@
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
-    "message": "Tính năng của chúng tôi",
+    "message": "Các tính năng",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -32,7 +32,7 @@
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
-    "message": "Bạn sẽ rất yêu thích những tính năng này!",
+    "message": "Bạn sẽ yêu thích những tính năng này!",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
