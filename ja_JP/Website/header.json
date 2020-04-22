@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "こののウェブサイトはあなたの言語に翻訳されています。 あなたが英語をあまり得意でない場合は役に立つでしょう。",
+    "message": "このウェブサイトは日本語に翻訳されています。 英語があまり得意ではない場合は役に立つでしょう。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {

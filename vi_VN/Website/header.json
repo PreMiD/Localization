@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này có lẽ sẽ giúp đỡ rất nhiều với những người không giỏi tiếng Anh.",
+    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này sẽ giúp ích nếu bạn không giỏi Tiếng Anh.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Chuyển đổi ngôn ngữ",
+    "message": "Đổi ngôn ngữ",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
