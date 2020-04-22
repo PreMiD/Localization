@@ -1,70 +1,70 @@
 {
 	"downloads.header.title": {
-		"message": "Laikas parodyti save.",
+		"message": "Kendinizi herkese göstermenin vakti geldi.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Pradėkit naudotis PreMiD dabar ir parodykite kitiems kuo užsiimate, galbūt rasite ką nors su tokiais pačiais pomėgiais.",
+		"message": "PreMiD kullanmaya başlayın ve diğerlerine ne yaptığınızı gösterin, belki aynı zevkleri paylaştığınız bir kaç arkadaş edinirsiniz.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Pradėkite",
+		"message": "Başlayın",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "Atsisiųskite PreMiD.",
+		"message": "PreMiD'i indirin.",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Įdiekite PreMiD programą.",
+		"message": "PreMiD uygulamasını yükleyin.",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Įdiekite naršyklės plėtinį.",
+		"message": "Tarayıcınız için uyumlu eklentiyi yükleyin.",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Apsilankykite {0} puslapyje ir patikrinkite, ar plėtinys prijungtas.",
+		"message": "Eklentinin bağlı olup olmadığını kontrol etmek için {0} sayfasını ziyaret edin.",
 		"description": "{0} will be replaced by 'store' string translation"
 	},
 	"downloads.instructions.step_4_store": {
-		"message": "parduotuvė",
+		"message": "mağaza",
 		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
 	},
 	"downloads.appdownloading.header": {
-		"message": "Programa",
+		"message": "Uygulama",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "Plėtinys",
+		"message": "Eklenti",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
-		"message": "ĮSPĖJIMAS:",
+		"message": "UYARI:",
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Šiai operacinei sistemai nėra diegimo programos. Tai reiškia, kad jai nėra taikoma jokia profesionali parama.",
+		"message": "{0} Bu işletim sistemi için bir yükleyici mevcut değil. Bu, sisteminiz için resmi bir destek olmadığı anlamına geliyor.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "Atminkite, kad „PreMiD“ šiuo metu yra nepalaikomas mobiliuosiuose įrenginiuose.",
+		"message": "Lütfen PreMiD'in mobil üzerinde desteklenmediğini unutmayın.",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
-		"message": "Rodyti atsisiuntimus",
+		"message": "Bağlantıları Göster",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "Slėpti atsisiuntimus",
+		"message": "Bağlantıları Gizle",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Dabartinė šios platformos versija yra {0} (ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms).",
+		"message": "Bu platformun sürümü: {0} (bu sürüm sadece Linux için geçerli ve diğer sistemlere için geçerli değildir).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
-		"message": "Ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms. Pagrindinė programos versija yra {0}",
+		"message": "Bu sürüm sadece Linux için geçerlidir. Diğer işletim sistemleri için uygulamanın sürümü {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	}
 }
