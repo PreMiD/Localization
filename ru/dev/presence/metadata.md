@@ -2,7 +2,7 @@
 title: Метадата.джсон
 description: Содержит основные данные о присутствии
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ If you want to publish a presence to the store and load it via the extension, yo
     <tr>
       <td style="text-align:left"><b>участники</b>
       </td>
-      <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
       </td>
