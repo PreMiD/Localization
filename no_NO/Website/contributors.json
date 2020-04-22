@@ -4,11 +4,11 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Tilhengere",
+		"message": "Støttere",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "Oversettere/Tolker",
+		"message": "Oversettere/Tolkere",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.creator": {

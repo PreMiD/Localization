@@ -1,42 +1,42 @@
 {
   "beta.title": {
-    "message": "想尝试全新功能？",
+    "message": "想要嘗試新功能？",
     "description": "Beta page title"
   },
   "beta.description.1": {
-    "message": "**PreMiD Beta** 现已对所有人开放！",
+    "message": "現在所有人都可以使用**PreMiD Beta**",
     "description": "Section description"
   },
   "beta.description.2": {
-    "message": "那么您会得到什么呢？",
+    "message": "註冊後你會得到什麼呢？",
     "description": "Section description"
   },
   "beta.features.1": {
-    "message": "最新的功能",
+    "message": "最新功能",
     "description": "Features list"
   },
   "beta.features.2": {
-    "message": "访问 PreMiD 最神秘的 Discord 频道",
+    "message": "可以訪問 PreMiD 的超級秘密文字頻道",
     "description": "Features list"
   },
   "beta.features.3": {
-    "message": "在我们 Discord 服务器上的特殊身份组",
+    "message": "Discord服務器上的特殊身份組",
     "description": "Features list"
   },
   "beta.register.text": {
-    "message": "准备好了吗？和其他 {0} 位 Beta 测试者一起加入！",
+    "message": "準備好了嗎？成爲我們{0} 位Beta測試員中的新成員!",
     "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
-    "message": "立即加入！",
+    "message": "立刻註冊!",
     "description": "Sign up button text"
   },
   "thankyou.title": {
-    "message": "酷！您现在是 Beta 用户了！",
+    "message": "帥爆了！你現在是我們beta用戶的一份子。",
     "description": "Thank You page title"
   },
   "thankyou.description": {
-    "message": "感谢您的加入！我们正在竭尽全力的把您添加到我们的测试程序当中。",
+    "message": "我們的管理員正在以最快的速度審核你的注冊，使您盡快進入我們的Beta計劃。 感謝您註冊！",
     "description": "Thank You page description"
   }
 }
