@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Innehåller grundläggande data om Presence
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Om du vill publicera en närvaro i butiken och ladda den via tillägget bör du skapa `metadata. son` -filen i mappen `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Exemplet med den filen kan hittas nedan.
 
