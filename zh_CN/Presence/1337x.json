@@ -1,1 +1,10 @@
-{}
+{
+    "1337x.trending": {
+        "message": "查看热门内容",
+        "description": ""
+    },
+    "1337x.upload": {
+        "message": "正在上传一些东西...",
+        "description": ""
+    }
+}
