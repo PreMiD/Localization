@@ -20,7 +20,7 @@
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
-    "message": "Presence này đã được phê duyệt bởi một nhà phát triển verified",
+    "message": "Trạng thái này đã được phê duyệt bởi một nhà phát triển đã được xác minh",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
@@ -28,15 +28,15 @@
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Thêm presence",
+    "message": "Thêm trạng thái",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Gỡ presence",
+    "message": "Gỡ trạng thái",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Presence này được tự động sử dụng khi cần thiết, không cần phải thêm nó.",
+    "message": "Trạng thái này được tự động sử dụng khi cần thiết, không cần phải thêm nó.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
