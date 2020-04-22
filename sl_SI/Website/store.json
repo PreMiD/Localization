@@ -1,70 +1,98 @@
 {
+  "store.message.error": {
+    "message": "Utvidelsen er ikke koblet til.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
-    "message": "Avtor",
+    "message": "Skaper",
     "description": "Creator of a presence"
   },
+  "store.cards.popular": {
+    "message": "Denne presencen er veldig populær blant brukere.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Presence av en offisiell PreMiD partner.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Denne presencen krever ekstra trinn for å fungere, vennligst sjekk dens side for mer informasjon.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
   "store.cards.verified": {
-    "message": "Ta dodatek je odobren od preverjenega razvijalca",
+    "message": "Denne presencen var godkjent av en bekreftet utvikler",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Išči",
+    "message": "Søk",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Dodaj dodatek",
+    "message": "Legg til Presence",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Odstrani dodatek",
+    "message": "Fjern presence",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Ta dodatek se samodejno vklopi, ko se potrebuje. Ne rabite ga dodati.",
+    "message": "Denne presencen er automatisk aktivert når du trenger den, så du trenger ikke å legge den til.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "Iskalni filtri",
+    "message": "Søkefiltere",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Najprej pokaži največ uporabljene",
+    "message": "Vis mest brukt først",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Dovoli odrasle vsebine",
+    "message": "Tillat innhold for voksne",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "Vis bare likte presences",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
-    "message": "Kategorije",
+    "message": "Kategorier",
     "description": "Category heading"
   },
   "store.category.all": {
-    "message": "Vse",
+    "message": "Alle",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Igre",
+    "message": "Spill",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Glasba",
+    "message": "Musikk",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Družabno",
+    "message": "Sosialler",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Videoposnetki in prenosi v živo",
+    "message": "Videoer og Streams",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Drugo",
+    "message": "Annet",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Išči",
+    "message": "Søk",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "trykk enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Klikk for å fjerne filteret.",
+    "description": "Remove message for active search filters."
   }
 }
