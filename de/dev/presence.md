@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 07.04.2020, 18:50:18.628Z
+date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
@@ -203,7 +203,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 
 Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Suche (<kbd>STRG</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
@@ -318,7 +318,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 
 Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf der Kategorie **Elements**) befindest.
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Suche (<kbd>STRG</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
