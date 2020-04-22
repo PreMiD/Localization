@@ -8,11 +8,11 @@
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Vui lòng quay trở lại sau để biết thêm chi tiết.",
+    "message": "Vui lòng quay lại sau để biết thêm chi tiết.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Cho đến khi những lập trình viên sửa những lỗi này, nếu bạn rảnh thì hãy ghé vào đây!",
+    "message": "Cho đến khi những lập trình viên của chúng tôi sửa những lỗi này, đừng ngại và tham quan nơi này!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
@@ -20,7 +20,7 @@
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discord Server",
+    "message": "Server Discord",
     "description": "Discord Server link on maintenance page"
   }
 }
