@@ -6,19 +6,19 @@ date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-A instalação da extensão é muito importante, pois o aplicativo não pode fazer nada por si só.
+A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
-# Instalação
+# Instalar
 ### Chrome, Edge, etc.
-1. Vá para a nossa página de downloads [clicando aqui](https://premid.app/downloads).
+1. Vá á nossa página de transferência [clicando aqui](https://premid.app/downloads).
 2. Escolha **Chromium**.
-3. Clique em **Usar no Chrome**.
+3. Clique em **Adicionar ao Chrome**.
 
 ### Opera
-1. Adicione a extensão **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Entre na nossa página da **[Chrome Web Store](https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi)** e adicione nossa extensão.
+1. Adicione **[Install Chrome Extensions](https://addons.opera.com/pt/extensions/details/install-chrome-extensions/)**.
+2. Adicione a [nossa extensão](https://premid.app/downloads).
 
-> Não esqueça de [instalar o **aplicativo**](/install). 
+> Não se esqueça de [adicionar a **aplicação**](/install). 
 > 
 > {.is-warning}
 
