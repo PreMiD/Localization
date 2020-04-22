@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Pokud chcete publikovat přítomnost v obchodě a nahrát jej prostřednictvím rozšíření, měli byste vytvořit `metadata. syn` soubor ve složce `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Příklad tohoto souboru je uveden níže.
 
