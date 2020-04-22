@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>přispěvatelé</b>
       </td>
-      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
       <td style="text-align:left"><code>Pole&lt;Object&gt;</code>
       </td>
