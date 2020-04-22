@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
 published: tak
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
     <tr>
       <td style="text-align:left"><b>współtwórcy</b>
       </td>
-      <td style="text-align:left">Powinno zawierać obiekt o nazwie <code></code> i <code>id</code> dewelopera obecności. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
       <td style="text-align:left"><code>Tablica&lt;Object&gt;</code>
       </td>
