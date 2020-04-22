@@ -1,41 +1,41 @@
 ---
-title: Desarrollo de Presencias
+title: פיתוח תוסף
 description:
 published: true
 date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
-> Todas las presencias ahora se almacenan aquí: https://github.com/PreMiD/Presences 
+> כל הנוכחות מאוחסנות כעת כאן: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-La versión `2.x` introduce la [tienda de presencias](https://premid.app/store). Los usuarios ahora tienen la capacidad de añadir y eliminar manualmente sus presencias favoritas a través de la interfaz de usuario del sitio web [](https://premid.app/).
+גרסה `2.x` introduces the [presence store](https://premid.app/store). למשתמשים יש כעת אפשרות להוסיף ולהסיר ידנית את הנוכחות המועדפת עליהם דרך ממשק המשתמש של [website](https://premid.app/).
 
-# Directrices
-> Si no sigue todas las directrices, un `Verificador de Presencias` solicitará los cambios necesarios, su Pull Request puede incluso cerrarse en algunos casos. 
+# הנחיות
+> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
 > 
 > {.is-warning}
 
-> Cuando solicites un Pull Request para añadir o modificar presencias existentes, **DEBES** incluir una captura de pantalla. Sin embargo, las modificaciones en los archivos `metadata.json` o `tsconfig.json` no requieren una captura de pantalla. *Su captura de pantalla DEBE ser subida directamente a GitHub al realizar el Pull Request, no utilice sitios web de terceros para compartir imágenes.* 
+> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
 > 
 > {.is-warning}
 
-Cuando publiques presencias en GitHub, debes seguir un conjunto de directrices. Para algunos, estas reglas estrictas pueden parecer duras. Sin embargo, la implementación de estas reglas evitará que nuestros servidores puedan encontrar algún problema.
+When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
 
-## Creación
-> El código que escribas DEBE estar *bien escrito* y DEBE ser *legible*. `DeepScan` en GitHub reportará problemas de calidad de código al `Equipo de Verificación de Presencias`. Recomendamos que su fork esté actualizado al solicitar un Pull Request, esto limitará falsos positivos. 
+## Creation
+> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
 > 
 > {.is-warning}
 
-- El pull request **DEBE** estar completo, necesita tener una estructura de archivos adecuada, los borradores **NO** están permitidos. Incluyendo la carpeta `dist`, el archivo `presence.js` y el archivo `metadata.json`, como se muestra en el siguiente esquema de ejemplo:
+- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
 ```bash
 presence
 └── dist
     ├── metadata.json
     └── presence.js
 ```
-o si estás usando TypeScript e `iframe` (podrías llegar a incluir) :
+or if you're using TypeScript and `iframe` (the max you could reach) :
 ```bash
 presence
 ├── dist
@@ -47,42 +47,42 @@ presence
 └── tsconfig.json
 ```
 
-Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
-- La presencia **DEBE** estar relacionada con el sitio web que ha elegido.
-- La presencia **NO DEBE** ser de ningún sitio web ilegal. Estos incluyen páginas estresantes, sustancias ilegales, pornografía infantil, etc...
-- Los metadatos de una presencia **DEBEN** tener un formato correcto, incluyendo títulos válidos y descripciones.
-- Los archivos que se incluyan (icono/miniatura) **DEBEN** estar relacionados con el sitio web y deben ser correctos en términos de tamaño y calidad.
-- La estructura de archivos **DEBE** ser limpia y controlada, no debe haber archivos aleatorios que no proporcionen nada a la función de la presencia.
-- La presencia **NO DEBE** tener intenciones maliciosas. Estas incluyen robo/filtración de información privada, afectar negativamente al comportamiento del sitio web, etc...
-- Una vez realizada una presencia para un sitio web si esta cambia en un futuro **TU** eres responsable de actualizar dicha presencia para que funcione correctamente. Si no se arreglase en un plazo de 7 días, otros desarrolladores presentes pueden **CORREGIR** su presencia para incluir los cambios necesarios.
-- La presencia **DEBE** ser probada antes de publicarse para confirmar que todo funciona como se esperaba.
-- Su presencia **DEBE** tener imágenes y descripciones SFW independientemente de si es NSFW o no. Si su presencia es acerca de un sitio web con contenido NSFW, por favor agregue la etiqueta `nsfw` en sus metadatos.
-- Su presencia **NO PUEDE** manipular el almacenamiento local del navegador.
-- Su presencia puede utilizar cookies para almacenar datos. Todos los datos almacenados por la presencia deben utilizar el prefijo `pmd_`.
+Before you begin working on your presence, keep the following list in mind.
+- The presence **MUST** be related to the website you have chosen.
+- The presence **MUST NOT** be of any illegal websites. These include stressors, drugs, child porn, etc...
+- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
+- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
+- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
+- The presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
+- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
+- The presence **MUST** be tested before publishing to confirm that everything works as expected.
+- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
+- Your presence **CANNOT** manipulate local storage on the browser.
+- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
 
-## Modificación
-> DEBES actualizar la versión en los **metadatos** a un valor mayor al de la versión anterior siempre que se modifiquen los archivos **presence.js** o **metadata.json**. 
+## Modification
+> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
 > 
 > {.is-warning}
 
-En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **DEBE** tener en cuenta al modificar una presencia.
-- No se permite reescribir una presencia o cambiar su autor. Si el autor de una presencia fue baneado del servidor oficial o no ha realizado cambios en un período de 7 días, puede ponerse en contacto con un `Verificador de Presencia` de PreMiD para ver si se le permite modificar la presencia concreta.
-- Si haces modificaciones a una presencia que afecten al menos a un **UN CUARTO** del código base de la misma, puede añadirse como colaborador. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
-- Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc... No cambien las imágenes si no están desfasadas y tienen una resolución decente.
-- Confirme que los cambios funcionan antes de publicar. No envíe un Pull Request sin conocer el resultado de sus cambios.
+In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you **MUST** follow to modify presences.
+- You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice.
+- If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
+- Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
+- Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
 
-# Verificación
+# Verification
 
-> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. Todos los `Verificadores de Presencia` tendrán un rol único en su perfiles.
+> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role on their profile.
 
-Para que su presencia llegue a la tienda, DEBE pasar por un proceso en GitHub que confirme que funciona como se esperaba. Estas son algunas cosas a tener en cuenta al enviar un Pull Request.
+For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
 
-1. Se necesitan dos verificadores para confirmar que su presencia está a la altura de los estándares. Si usted obtiene solicitudes de cambio, haga el esfuerzo adecuado para arreglarlo o no se añadirá.
-2. Si se solicitan cambios y su Pull Request excede **7 días de inactividad** sin llevarlos a cabo, nos veremos obligados a cerrar dicho Pull Request.
-3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( ej. su autor en caso de que no pueda acceder a él por ninguna razón).
-4. Si se trata de una actualización o un parche, la captura de pantalla **DEBE** mostrar las novedades funcionando, no una característica antigua de Pull Request previas.
-5. Las capturas de pantalla proporcionadas deben ser reales, no editadas.
-6. Cualquier código aportado que se fusiona en este repositorio será licenciado bajo la **Mozilla Public License 2.0**.
+1. It takes two verifiers to confirm that your presence is up to standards. If you happen to get change requests, make the proper effort to fix it or it will not be added.
+2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
+3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( e.g. its author in case you can't access it for any reason).
+4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
+5. The provided screenshots should be real, not edited.
+6. Any contributed code that gets merged to this repository will be licensed under the **Mozilla Public License 2.0**.
 7. Presences for free domains or hosts (e.g. .TK, [all free Freenom domains], .RF.GD, etc...) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
 8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is not available.
@@ -93,27 +93,27 @@ Para que su presencia llegue a la tienda, DEBE pasar por un proceso en GitHub qu
 
 After all of the proper reviews have been met, your pull request will be merged with the store.
 
-# Estructura (TypeScript)
+# Structure (TypeScript)
 You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier. If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
 
-## Instalación
+## Installation
 1. Install [Git](https://git-scm.com/).
-2. Instala [Nodo](https://nodejs.org/en/) (viene con [npm](https://www.npmjs.com/)).
-3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (abre un terminal y `npm install -g typescript`).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Clonando el proyecto
-1. Abre un terminal y escribe `git clone https://github.com/PreMiD/Presences`.
-2. Elija una carpeta de su elección.
-3. Ábrelo en tu editor de código.
+## Cloning the project
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Choose a folder of your choice.
+3. Open it in you code editor.
 
-## Creando carpetas y archivos
+## Creating folders and files
 
-1. Crea una carpeta con el **nombre** (no una URL) del servicio que quieres soportar.
+1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Crea una carpeta llamada `dist` dentro.
-4. Crear un archivo `metadata.json` dentro de la carpeta `dist`.
+3. Create a folder named `dist` inside.
+4. Create a `metadata.json` file inside the `dist` folder.
 
-## Rellenar el archivo tsconfig.json
+## Filling in the tsconfig.json file
 Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
@@ -125,13 +125,13 @@ Please put the following code inside of the `tsconfig.json` file.
 ```
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## Rellenar el archivo metadata.json
+## Filling in the metadata.json file
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Comenzando
+## Getting started
 
 ```javascript
 var presence = new Presence({
@@ -191,18 +191,18 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## ¡No puedes obtener ciertos datos?!
+## Can't get certain data?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Ejecuta `document.querySelectorAll("iframe")`.
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
-1. Crear un archivo `iframe.ts`.
-2. Establezca iFrame a `true` en su archivo de metadatos.
-3. Rellena tu archivo iFrame.
+1. Create a `iframe.ts` file.
+2. Set iFrame to `true` in your metadata file.
+3. Filling in your iFrame file.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
@@ -216,7 +216,7 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Haciendo que su archivo de presencia reciba datos del archivo iFrame.
+4. Making your presence file receive data from the iFrame file.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
@@ -224,29 +224,29 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-## Compilando
+## Compiling
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Estructura (JavaScript)
-## Clonando el proyecto
+# Structure (JavaScript)
+## Cloning the project
 1. Install [Git](https://git-scm.com/).
-2. Abre un terminal y escribe `git clone https://github.com/PreMiD/Presences`.
-3. Elija una carpeta de su elección.
-4. Ábrelo en tu editor de código.
+2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+3. Choose a folder of your choice.
+4. Open it in you code editor.
 
-## Creando carpetas y archivos
+## Creating folders and files
 
-1. Crea una carpeta con el **nombre** (no una URL) del servicio que quieres soportar.
-3. Crea una carpeta llamada `dist` dentro.
-4. Crea un archivo `metadata.json` y un archivo `presence.js` dentro de la carpeta `dist`.
+1. Create a folder with the **name** (not an URL) of the service you want to support.
+3. Create a folder named `dist` inside.
+4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
 
-## Rellenar el archivo metadata.json
+## Filling in the metadata.json file
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in. You will be able to easily click back at the bottom of the explanation.
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Comenzando
+## Getting started
 
 ```javascript
 var presence = new Presence({
@@ -306,18 +306,18 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## ¡No puedes obtener ciertos datos?!
+## Can't get certain data?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Ejecuta `document.querySelectorAll("iframe")`.
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
-1. Crear un archivo `iframe.js`.
-2. Establezca iFrame a `true` en su archivo de metadatos.
-3. Rellena tu archivo iFrame.
+1. Create a `iframe.js` file.
+2. Set iFrame to `true` in your metadata file.
+3. Filling in your iFrame file.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", () => {
@@ -331,7 +331,7 @@ iframe.on("UpdateData", () => {
     });
 });
 ```
-4. Haciendo que su archivo de presencia reciba datos del archivo iFrame.
+4. Making your presence file receive data from the iFrame file.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
@@ -339,7 +339,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-# Rellenar el archivo metadata.json
+# Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
@@ -395,7 +395,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `contribuidores`
+- `תורמים`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -406,49 +406,49 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Descripción</th>
-      <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Opcional</th>
+      <th style="text-align:left">תיאור</th>
+      <th style="text-align:left">סוג</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b>
+      <td style="text-align:left"><b>מחבר</b>
       </td>
-      <td style="text-align:left">Debe contener un objeto con <code>nombre</code> y <code>id</code> del desarrollador de presencia. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
-        del desarrollador y haciendo clic derecho en tu perfil.</td>
-      <td style="text-align:left"><code>Objeto</code>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>contribuidores</b>
-      </td>
-      <td style="text-align:left">Debe contener un objeto con <code>nombre</code> y <code>id</code> del desarrollador de presencia. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
-        del desarrollador y haciendo clic derecho en tu perfil.</td>
-      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Sí</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>servicio</b>
+      <td style="text-align:left"><b>תורמים</b>
       </td>
-      <td style="text-align:left">El título del servicio que soporta esta presencia. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Yes</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>service</b>
+      </td>
+      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descripción</b>
+      <td style="text-align:left"><b>תיאור</b>
       </td>
-      <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas.</td>
-      <td style="text-align:left"><code>Objeto</code>
+      <td style="text-align:left">Small description of the presence, you can use description of the service
+        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -462,9 +462,9 @@ You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 You could also use regExp also known as Regex for this task, explaned further below.
       </td>
-      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -479,81 +479,81 @@ TLD standing for Top Level Domain for axample: .com .net<br>
         You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Sí</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versión</b>
+      <td style="text-align:left"><b>גרסה</b>
       </td>
-      <td style="text-align:left">Versión de su presencia.</td>
+      <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logotipo</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Enlace al tipo de logotipo de servicio&apos;s.</td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Enlace a su presencia.</td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>valor #HEX</code>. Recomendamos usar un color primario del servicio
-        que tu presencia soporta.</td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiquetas</b>
+      <td style="text-align:left"><b>תגים</b>
       </td>
-      <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presencia en el sitio web.</td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td
-      style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
+      style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>categoría</b>
+      <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Define si se utilizan <code>iFrames</code></td>
+      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Sí</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar. See regExp for more info.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Sí</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
@@ -561,9 +561,9 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Sí</code>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
   </tbody>
@@ -571,23 +571,23 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
 
-# Cargando la presencia
-1. Abre la ventana emergente y mantén pulsado el botón <kbd>Shift</kbd> de tu teclado.
-2. **Presencia de carga** aparecerá en la sección Presencias.
-3. Haz clic en él mientras mantienes pulsado el botón <kbd>Mayús</kbd>.
-4. Seleccione la carpeta /dist de su presencia.
+# Loading the presence
+1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
+2. **Load Presence** will appear in the Presences section.
+3. Click on it while you are still holding the <kbd>Shift</kbd> button.
+4. Select the /dist folder of your presence.
 
-# Algunas cosas útiles
-## Recarga rápida
+# Some helpful things
+## Hot-reloading
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Depuración
+## Debugging
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
-# Archivos explicados
-- [Clase de presencia](/dev/presence/class)
-- [Clase iFrame](/dev/presence/iframe)
+# Files explained
+- [Presence Class](/dev/presence/class)
+- [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [Configuración de TypeScript](/dev/presence/tsconfig)
+- [TypeScript Configuration](/dev/presence/tsconfig)
 {.links-list}
