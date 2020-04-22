@@ -1,16 +1,16 @@
 ---
-title: Metadata.json
-description: Містить основні дані про присутність
+title: 梅塔数据.json
+description: 包含关于Presence的基本数据
 published: true
 date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
-# Metadata.json
+# 梅塔数据.json
 
 If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
-Нижче ви можете знайти приклад цього файлу.
+该文件的例子可在下面找到。
 
 ```javascript
 {
@@ -64,174 +64,174 @@ If you want to publish a presence to the store and load it via the extension, yo
 }
 ```
 
-## Розуміння metadata.json
+## 了解metadata.json
 
-Цей приклад виглядає дуже дивним, так? Не хвилюйтеся, для чого не так складно зрозуміти, для чого потрібна кожна змінна.
+这个例子看起来真是奇怪的，是好吗？ 别担心，它不是很难理解每个变量的目的。
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Змінна</th>
-      <th style="text-align:left">Опис</th>
-      <th style="text-align:left">Тип</th>
-      <th style="text-align:left">За бажанням</th>
+      <th style="text-align:left">变量</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">类型</th>
+      <th style="text-align:left">可选的</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>автор</b>
+      <td style="text-align:left"><b>作者</b>
       </td>
-      <td style="text-align:left">Має містити об'єкт з <code>назвою</code> і <code>id</code> розробника присутності. Ім'я - це ваше ім'я користувача Discord без ідентифікатора(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
-        і правою кнопкою миші в вашому профілі.</td>
-      <td style="text-align:left"><code>Об'єкт</code>
+      <td style="text-align:left">应该包含当前开发者的 <code>name</code> 和 <code>id</code> 的对象。 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
+        模式和右键点击您的配置文件而从Discord复制.</td>
+      <td style="text-align:left"><code>对象</code>
       </td>
-      <td style="text-align:left"><code>Ні</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>учасники проєкту</b>
-      </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Ім'я - це ваше ім'я користувача Discord без ідентифікатора(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
-        і правою кнопкою миші в вашому профілі.</td>
-      <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Так</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>сервіс</b>
+      <td style="text-align:left"><b>贡献者</b>
       </td>
-      <td style="text-align:left">Назва служби, яку підтримує ця присутність.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
+        模式和右键点击您的配置文件而从Discord复制.</td>
+      <td style="text-align:left"><code>数组&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Ні</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>опис</b>
-      </td>
-      <td style="text-align:left">Маленький опис присутності, ви можете використовувати опис сервісу
-        , якщо ви не вийшли з ідей. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Об'єкт</code>
-      </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>URL-адреса</b>
+      <td style="text-align:left"><b>服务</b>
+      </td>
+      <td style="text-align:left">此存在支持的服务的标题。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>描述</b>
+      </td>
+      <td style="text-align:left">对于存在的小描述，如果您不想要，您可以使用服务描述
+。 您的描述必须有关键值显示语言以及该特定语言的描述。 Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+      <td style="text-align:left"><code>对象</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>网址</b>
       </td>
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
         <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
-      <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
+      <td style="text-align:left"><code>字符串，数组&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Стрічка регулярного виразу, яка використовується для пошуку адрес.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">用于匹配url的正则表达式字符串。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Так</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>версія</b>
-      </td>
-      <td style="text-align:left">Версія вашої присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
-      </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>логотип</b>
+      <td style="text-align:left"><b>版本</b>
       </td>
-      <td style="text-align:left">Посилання на сервіс&apos;logotype.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">您的存在版本。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>徽标</b>
+      </td>
+      <td style="text-align:left">链接到服务&apos;s 标识符。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Посилання на мініатюру присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">链接到您的缩略图</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Ні</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>колір</b>
-      </td>
-      <td style="text-align:left"><code>#HEX</code> значення. Ми рекомендуємо використовувати основний колір служби
-        , який ваша присутність.</td>
-      <td style="text-align:left"><code>Рядок</code>
-      </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>теги</b>
+      <td style="text-align:left"><b>颜色</b>
       </td>
-      <td style="text-align:left">Масив із мітками, вони допоможуть користувачам шукати вашу присутність на сайті.</td>
+      <td style="text-align:left"><code>#十六进制</code> 值。 我们建议使用您的存在所支持的服务
+        的主要颜色。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+      <td style="text-align:left"><code>否</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>标签</b>
+      </td>
+      <td style="text-align:left">带有标签的数组将帮助用户搜索您在网站上的存在。</td>
       <td
-      style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
+      style="text-align:left"><code>字符串，数组&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>категорія</b>
+      <td style="text-align:left"><b>类别</b>
       </td>
-      <td style="text-align:left">Рядок, який використовується для представлення категорії, на яку падає присутність.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">用于表示存在的类别的字符串。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Ні</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Визначає, чи використовуються <code>iFrames</code></td>
+      <td style="text-align:left">定义是否使用 <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Так</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Селектор регулярних виразів, який вибирає iframes для впровадження параметрів.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">选择要注入的 iframes 的正则表达式选择器。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
-      <td style="text-align:left"><code>Так</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>налаштування</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
+      <td style="text-align:left"><code>数组&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Так</code>
+      <td style="text-align:left"><code>否</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-## Регулярні вирази
+## 正则表达式
 
-Якщо ви хочете вивчити регулярні вирази, ось декілька веб-сайтів.
+如果您想学习正则表达式，这里是几个网站。
 
-#### Навчання
+#### Learning
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Тестування
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
@@ -289,53 +289,53 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## Категорії присутності
+## Presence categories
 
-Визначаючи присутність, необхідно зазначити категорію, яку створює присутність. Це скомпільований список категорій, які можна використовувати.
+When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Категорія</th>
-      <th style="text-align:left">Ім'я</th>
-      <th style="text-align:left">Опис</th>
+      <th style="text-align:left">类别</th>
+      <th style="text-align:left">名称</th>
+      <th style="text-align:left">描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>аніме</b></td>
-      <td style="text-align:left"><b>Аніме</b></td>
-      <td style="text-align:left">Все, що пов'язане з анімацією, з форумів до відео-платформ.</td>
+      <td style="text-align:left"><b>动漫</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
+      <td style="text-align:left">任何与动画相关的东西，从论坛到视频流平台。</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ігри</b></td>
-    <td style="text-align:left"><b>Ігри</b></td>
-      <td style="text-align:left">Будь-який сайт, який має пов'язаний з грою, наприклад <code>Кахуот</code> або <code>Скорбл.io</code></td>
+      <td style="text-align:left"><b>游戏</b></td>
+    <td style="text-align:left"><b>游戏</b></td>
+      <td style="text-align:left">任何具有相关内容的网站，比如 <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>музика</b></td>
-    <td style="text-align:left"><b>Музика</b></td>
-      <td style="text-align:left">Це веб-сайти, які пропонують контент, пов'язаний з музикою, чи це трансляцію чи завантаження.</td>
+      <td style="text-align:left"><b>音乐</b></td>
+    <td style="text-align:left"><b>音乐</b></td>
+      <td style="text-align:left">这些是提供音乐相关内容的网站，无论是流媒体还是下载。</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>соціальне</b></td>
-        <td style="text-align:left"><b>Соціальне</b></td>
-      <td style="text-align:left">Веб-сайти, які використовуються для створення та обміну контентом, або для участі в інших соціальних мережах.</td>
+      <td style="text-align:left"><b>社交</b></td>
+        <td style="text-align:left"><b>社交</b></td>
+      <td style="text-align:left">用于创建和分享内容或参与其他形式社会网络的网站。</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>відео</b></td>
-        <td style="text-align:left"><b>Відео & прямі трансляції</b></td>
-      <td style="text-align:left">Веб-сайти, які служать цілі визначення відео та потоків.</td>
+      <td style="text-align:left"><b>视频</b></td>
+        <td style="text-align:left"><b>视频与直播</b></td>
+      <td style="text-align:left">提供视频和流的网站。</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>інше</b></td>
-    <td style="text-align:left"><b>Інше</b></td>
-      <td style="text-align:left">Все, що не належить до конкретної категорії, вказаної вище.</td>
+      <td style="text-align:left"><b>其他</b></td>
+    <td style="text-align:left"><b>其他</b></td>
+      <td style="text-align:left">任何不属于上文所列特定类别的行为。</td>
       </td>
     </tr>
   </tbody>
