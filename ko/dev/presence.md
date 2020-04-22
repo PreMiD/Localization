@@ -1,41 +1,41 @@
 ---
-title: Presence Development
+title: Presence 개발
 description:
 published: true
 date: 2020-04-07T18:50:18.628Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> 모든 Presence들은 이곳에 저장되어 있습니다. https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+버전 `2.x`에는 [Presence 상점](https://premid.app/store) 기능이 추가됩니다. 사용자들은 이제 저희 [홈페이지](https://premid.app/) 에서 자신이 좋아하는 Presence를 좋아요 표시할 수 있습니다.
 
-# Guidelines
-> If you do not follow all of the guidelines, a `Presence Verifier` will request the proper changes or your pull request may even be closed under certain circumstances. 
+# 지침
+> 만약 당신이 저희 지침을 따르지 않으실 경우, 저희의 `Presence 인증인`이 당신의 pull request 변경을 요청하거나 특정 사유 아래 요청이 취소될 수 있습니다. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing presences, you **MUST** include a screenshot. However, modifications to a presence's `metadata.json` or `tsconfig.json` files do not require a screenshot. *Your screenshot MUST be uploaded directly to GitHub with the pull request, do not use third-party image sharing websites.* 
+> Presence 추가 또는 편집을 요청하실때, 당신은 **필수적으로** 스크린샷을 첨부하여야 합니다. 하지만, Presence의 `metadata.json` 및 `tsconfig.json` 파일은 스크린샷이 필요하지 않습니다. *당신의 스크린샷은 무조건 GitHub의 pull request에 업로드되어야 합니다, Discord 및 Google Drive같은 제3자 스크린샷 공유 프로그램을 이용하지 마세요..* 
 > 
 > {.is-warning}
 
-When publishing presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep our servers from running into any issues.
+이것을 GitHub에 업로드할때, 저희의 지침을 따르는 것은 필수적입니다.. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. 하지만, 저희의 지침은 저희의 서버에 오류가 발생하는 것을 방지합니다.
 
-## Creation
-> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+## 파일
+> 코드는 무조건 *질*이 좋아야 하고, 또 *읽을 수* 있어야 합니다. GitHub의 `DeepScan`은 코드 질 문제를 `Presence 인증 팀`에게 전송합니다. 저희는 당신이 pull request를 만들 때 fork가 up 상태로 있는 걸 권장합니다. 
 > 
 > {.is-warning}
 
-- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- Pull request는 **무조건** 완성되어 있어야 합니다. 초반 기획안은 받지  **않습니다**. 완성된 파일: `dist` 폴더,  `presence.js` 파일, 및 아래에 표시된 경로에 있는 `metadata.json` 파일을 포함해야 함
 ```bash
 presence
-└── dist
-    ├── metadata.json
-    └── presence.js
+└──dist
+ ├──metadata.json
+ └──presence.js
 ```
-or if you're using TypeScript and `iframe` (the max you could reach) :
+또는 TypeScript 및 `iframe`을 사용하고 있다면 아래 파일 및 폴더를 포함해 주세요.
 ```bash
 presence
 ├── dist
@@ -47,18 +47,18 @@ presence
 └── tsconfig.json
 ```
 
-Before you begin working on your presence, keep the following list in mind.
-- The presence **MUST** be related to the website you have chosen.
-- The presence **MUST NOT** be of any illegal websites. These include stressors, drugs, child porn, etc...
-- The presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the website and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do not have random files that provide nothing to the presence's function.
-- The presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the website, etc...
-- If you design a presence for a website and the website happens to change in the future, you **ARE** responsible for updating the presence again to work as expected. If you do not fix it within 7 days, other presence developers are allowed to **OVERWRITE** your presence to comply with the changes.
-- The presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
-- Your presence **CANNOT** manipulate local storage on the browser.
-- Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
+당신이 Presence 작업을 시작하기 전, 아래 사항들을 참고해 주세요.
+- Presence는 **무조건** 당신이 선택한 웹사이트와 연관되어 있어야 합니다..
+- Presence는  **무조건** 모든 불법적인 웹사이트가 아니여야 합니다. 불법적인 웹사이트는 스트레스 요인, 마약, 아동 포르노 등등을 포함합니다.
+- Presence의 metadata는 **무조건** 사용 가능한 제목, 설명 및 질이 좋은 코드를 포함하여야 합니다.
+- 당신이 추가한 이미지 (아이콘/썸네일)은 **무조건** 웹사이트와 연관되어 있어야 하며 한눈에 알아볼 수 있어야 합니다.
+- 파일의 기본적인 구조는 **무조건** 한눈에 알아볼 수 있도록 깨끗해야 하며, Presence의 기능과 상관 없는 파일을 포함하지 않아야 합니다.
+- Presence는 **무조건** 악의적인 의도가 없어야 합니다. 악의적인 의도는 개인 정보를 훔치거나, 웹사이트의 행동에 부정적인 영향을 미치는 것 등등을 포함합니다.
+- 만약 당신이 Presence를 홈페이지를 위해 제작하고 만약 웹사이트가 미래에 바뀐다면, 당신은  **Presence가 제기능을 하기 위해 Presence를 업데이트할 의무가 있습니다.** 만약 당신이 Presence를 1주일 안에 변경하지 않으시면, 다른 Presence 개발자들이 당신의 Presence를 **덮어쓸** 권리가 있습니다.
+- Presence는 **무조건** 공개되기 전에 모든 것이 예상한 대로 작동하는지 테스트 되어야 합니다.
+- 당신의 Presence는 NSFW 여부에 관계없이 **무조건** SFW 이미지 및 설명을 가지고 있어야 합니다. 만약 당신의 Presence가 NSFW 웹사이트에 관한 것이면, metadata에 `nsfw` 태그가 추가되어 있어야 합니다.
+- 당신의 Presence는 브라우저의 로컬 저장소를 조작하지 **않아야** 합니다.
+- 당신의 Presence는 쿠키를 사용하여 데이터를 저장할 수 있습니다. Presence에 의해 저장되는 모든 데이터는 `pmd_`를 prefix로 가지고 있어야 합니다.
 
 ## Modification
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
