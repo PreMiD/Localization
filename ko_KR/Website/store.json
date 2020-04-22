@@ -7,6 +7,22 @@
     "message": "제작자",
     "description": "Creator of a presence"
   },
+  "store.cards.popular": {
+    "message": "이 Presence는 다른 사용자들 사이에서 최고로 인기있습니다.",
+    "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "공식 PreMid 파트너의 Presence.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "이 Presence는 설치한 후에도 속 작업이 필요하니 Presence Presence의 페이지를 방문해 주세요.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+  },
+  "store.cards.verified": {
+    "message": "이 Presence는 개발자에게 확인되었습니다.",
+    "description": "Verified badge hover message"
+  },
   "store.header.search": {
     "message": "검색",
     "description": "Search bar text when nothing is stated"
@@ -22,6 +38,22 @@
   "store.card.presence.included": {
     "message": "본 Presence는 필요할 때 자동으로 실행되므로, 따로 설치할 필요가 없습니다.",
     "description": "The message that appears instead of the buttons."
+  },
+  "store.category.filters.heading": {
+    "message": "검색 필터",
+    "description": "Searh filters option at the store page"
+  },
+  "store.category.filters.mostUsed": {
+    "message": "인기순으로 정렬",
+    "description": "Most used first checkbox"
+  },
+  "store.category.filters.allowAdult": {
+    "message": "성인 콘텐트 표시하기",
+    "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "좋아요 표시한 Presence만 보이기",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "목록들",
@@ -54,5 +86,13 @@
   "store.search": {
     "message": "검색",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "Enter를 누르세요",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "필터를 삭제하려면 이곳을 클릭하세요.",
+    "description": "Remove message for active search filters."
   }
 }

@@ -3,8 +3,36 @@
 		"message": "Presence 개발자",
 		"description": "'Presence Developer' title for user pages."
 	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence 인증인",
+		"description": "'Presence Verifier' title for user pages."
+	},
 	"user.importantPresenceDev.message1": {
 		"message": "중요한 Presence 개발자",
 		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "{0}개의 Presence를 제작하였습니다.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "똑똑한 Presence 개발자",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "100개 넘은 Presence를 제작함!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "사용자 [Presence/도움주신 분들]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "이 사용자가 만든 Presence를 확인하려면  이곳을 클릭하세요.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "이 사용자가 도움준 Presence를 보려면 이곳을 클릭하세요.",
+		"description": "Tippy content (mode 2) in user profile."
 	}
 }
