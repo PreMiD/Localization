@@ -13,22 +13,22 @@ tags:
 > {.is-info}
 
 ## API 버전
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> 몇몇 API 및 게이트웨이 버전들은 아래 테이블에서 현재 진행되지 않다고 표시됩니다. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMid는 각각 다른 버전에 API를 공개합니다. 당신은 아래 예시처럼 과거의 버전을 불러올 수 있습니다. 예시: `https://api.premid.app/v{version_number}` 경로에서 버전 번호를 생략하면 현재 기본 버전으로 요청됩니다.
 
-## Encryption
+## 보안
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+PreMid API에 연관되어있는 모든 HTTP-layer 및 프로코톨(예시: http)은 TLS 1.2를 사용합니다.
 
 # 문서
-> Currently under construction! 
+> 현재 본 문서는 진행형 입니다. 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**API 버전을 선택하세요.**
+- [v1 *종료됨*](/dev/api/v1)
+- [v2 *진행중*](/dev/api/v2)
 {.links-list}
