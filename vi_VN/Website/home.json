@@ -36,15 +36,15 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Tìm **presence** của bạn.",
+    "message": "Tìm trạng thái **của bạn**.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Chúng tôi đã phát triển tiện ích mở rộng để bạn có thể thêm và sử dụng những \"presence\" được tạo bởi những người dùng khác và bạn cũng có thể quản lý chúng trong tiện ích mở rộng của chúng tôi!",
+    "message": "Chúng tôi đã phát triển tiện ích mở rộng để bạn có thể thêm và sử dụng những trạng thái được tạo bởi những người dùng khác và bạn cũng có thể quản lý chúng trong tiện ích mở rộng của chúng tôi!",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Đi tới cửa hàng",
+    "message": "Mở cửa hàng",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
@@ -60,11 +60,11 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Quản lý Presence.",
+    "message": "Quản lý trạng thái.",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Sắp xếp theo từng loại.",
+    "message": "Phân loại theo thể loại.",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
@@ -72,11 +72,11 @@
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Bạn gặp một số trục trặc hoặc cả đống lỗi? Chúng tôi sẽ giúp bạn thoát khỏi điều đó trên Discord Server, chúng tôi cũng đã phát triển một hệ thống hỗ trợ để có thể làm mọi thứ trở nên đơn giản hơn.",
+    "message": "Bạn gặp một số trục trặc hoặc cả đống lỗi? Chúng tôi sẽ giúp bạn thoát khỏi điều đó trên server Discord của chúng tôi, chúng tôi cũng đã phát triển một hệ thống hỗ trợ để có thể làm mọi thứ trở nên đơn giản hơn.",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Truy cập Discord Server",
+    "message": "Tham quan server Discord",
     "description": "Features section button"
   },
   "home.languageSelector.tippy": {
