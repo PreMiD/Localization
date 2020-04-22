@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
 published: tak
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Jeśli chcesz opublikować obecność w sklepie i załadować ją za pomocą rozszerzenia, powinieneś utworzyć `metadane. syn` plik w twoim folderze `obecność.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Przykład tego pliku można znaleźć poniżej.
 
