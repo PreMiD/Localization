@@ -113,7 +113,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">설명</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">유형</th>
     </tr>
   </thead>
   <tbody>
