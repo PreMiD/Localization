@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Contém dados básicos sobre a Presença
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Se você deseja publicar uma presença na loja e carregá-la através da extensão, você deve criar os `metadados. arquivo son` na sua pasta `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 O exemplo desse arquivo pode ser encontrado abaixo.
 
