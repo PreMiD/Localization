@@ -2,7 +2,7 @@
 title: Metadata.json
 description: ประกอบด้วยข้อมูลพื้นฐานเกี่ยวกับ Presence
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -79,7 +79,7 @@ If you want to publish a presence to the store and load it via the extension, yo
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>ผู้เขียน</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">ควรมี Object ที่มี <code>name</code> และ <code>id</code> ของผู้พัฒนา presence <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณโดยไม่มีตัวระบุตัวตน(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
         โหมดผู้พัฒนาและคลิกขวาบนโปรไฟล์ของคุณ</td>
@@ -89,9 +89,9 @@ If you want to publish a presence to the store and load it via the extension, yo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ผู้พัฒนา</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">ควรมี Object ที่มี <code>name</code> และ <code>id</code> ของผู้ช่วยพัฒนา presence <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณโดยไม่มีตัวระบุตัวตน(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณโดยไม่มีตัวระบุตัวตน(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
         โหมดผู้พัฒนาและคลิกขวาบนโปรไฟล์ของคุณ</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
