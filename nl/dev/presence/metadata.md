@@ -8,7 +8,7 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Als u een presence in de winkel wilt publiceren en deze wilt laden via de extensie, dan moet u de `metadata.json` bestand in uw `dist` map aanmaken.
 
 Het voorbeeld van dat bestand kan hieronder worden gevonden.
 
@@ -91,7 +91,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
+      <td style="text-align:left">Moet een object bevatten met <code>naam</code> en <code>id</code> van de bijdrager. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
