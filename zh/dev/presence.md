@@ -2,7 +2,7 @@
 title: Presence 开发
 description:
 published: true
-date: 2020-04-07T18:50:18.628Z
+date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
@@ -195,7 +195,7 @@ For more information about the Presence class click [here](/dev/presence/class).
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
-1. 通过浏览器控制台检查他们(请确保您在 **元素** 标签上)。
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. 搜索 (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS))。
 3. 执行 `文档.querySelectorAll("iframe")`
 
@@ -310,7 +310,7 @@ For more information about the Presence class click [here](/dev/presence/class).
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
-1. 通过浏览器控制台检查他们(请确保您在 **元素** 标签上)。
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. 搜索 (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) 或 <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS))。
 3. 执行 `文档.querySelectorAll("iframe")`
 
