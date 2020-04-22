@@ -12,31 +12,31 @@ tags:
 
 # 필수 프로그램들을 설치하는 중
 1. [Git](https://git-scm.com/) 설치하기
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
+3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+# Presence 복사 중
+1. 터미널 실행 후 "`git clone URL`" 입력하기. **링크를 당신이 원하는 링크로 변경하세요** 예시: `git clone https://github.com/PreMiD/PreMiD`.
+2. 원하는 폴더를 선택하세요.
+3. 이것을 당신의 코드 편집기로 실행하세요.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# 중요 프로그램 설치하기
+> Node package manager(Npm)을 먼저 설치하였는지 확인하세요. 만약 당신이 [Node](https://nodejs.org/en/) 를 설치 하였다면 Npm이 자동으로 설치됩니다. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- 프로젝트의 터미널을 여시고 "`npm i`"를 입력하세요.
+- 중요 프로그램을 설치하려면 "`npm update`"를 입력하세요.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> 조심하세요! 중요 프로그램을 업데이트하는 행동은 에러가 많이 생길 수 있습니다! 이를 방지하기 위해서는 -testing이 필요합니다. 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# 당신의 비젼을 코딩하기
+기본적인 툴은 삭제 또는 변경하지 말아주세요. 저희는  저희의 프로젝트에 문제가 생기는 걸 원하지 않습니다. Chaotic 파일들은 지원되지 않을 수도 있습니다.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# 당신의 꿈을 지원하기
+당신이 지원하는 [GitHub Repositories](https://github.com/PreMiD/)에서 저희에게 Pull Request를 보내세요. 저희가 직접 당신의 프로젝트를 보관하겠습니다. 만약 당신이 처음으로 Pull Request를 만드신다면,  [이곳](https://help.github.com/en/articles/creating-a-pull-request)을 방문해 보세요!
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Presence 인증되기
+저희의 목표는 사용자들과 협력하여 일하는 것이기 때문에, 가능한 친절하고, 책임을 지시면서도, 가장 많은 정보를 전달할 수 있게 도와주세요. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
