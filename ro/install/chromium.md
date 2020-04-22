@@ -1,16 +1,16 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromeium-based browsers
+description: Getting started with a PreMiD installation on Chromium-based browsers
 published: true
-date: 2020-02-12T22:08:30.406Z
+date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Instalarea extensiei este foarte importantă, deoarece aplicația nu poate face nimic de una singură.
 
 # Instalează
 ### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Mergi pe pagina de descărcări [apăsând aici](https://premid.app/downloads).
 2. Choose **Chromium**.
 3. Click on **Add to Chrome**.
 
