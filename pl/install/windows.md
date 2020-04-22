@@ -1,23 +1,23 @@
 ---
 title: Windows
-description: Rozpoczęcie instalacji PreMiD w systemie Windows
-published: tak
+description: Getting started with a PreMiD installation on Windows
+published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Zanim przejdziesz dalej, upewnij się, że Twój system spełnia wszystkie [wymagania](/install/requirements).{.is-info}
+> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
 
-Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobić niczego samodzielnie.
+The installation of the application is very important as the extension can not do anything by itself.
 
-# Zainstaluj
-1. Przejdź do naszej strony pobierania [klikając tutaj](https://premid.app/downloads).
-2. Wybierz **Windows**.
-3. Otwórz instalator.
-4. **Alert Windows SmartScreen** pojawi się po raz pierwszy po zainstalowaniu PreMiD. Kliknij **Więcej Informacji** i wybierz **Uruchom mimo to**. > Dzieje się tak, ponieważ nie mamy tzw. Certyfikatu Podpisywania Kodu (CSC). [Wspomóż nas](https://www.patreon.com/Timeraa), aby go zdofinansować.{.is-info}
+# Namestitev
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+2. Choose **Windows**.
+3. Open the installer.
+4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Aplikacja uruchomi się automatycznie. Sprawdź ikonę na pasku zadań.
+The application will start automatically. Check for the symbol in your system tray.
 
-> Nie zapomnij [dodać **rozszerzenia**](/install).{.is-warning}
+> Do not forget to [add the **extension**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
