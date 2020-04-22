@@ -2,7 +2,7 @@
 title: Metadata.json
 description: プレゼンスに関する基本情報を含むファイル
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -90,7 +90,7 @@ If you want to publish a presence to the store and load it via the extension, yo
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">プレゼンスの開発者の<code>name</code>と<code>id</code>が入ったオブジェクトを指定。 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. 名前はあなたのDiscordのユーザーネームから識別子(#0000)を取ったもの、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>可</code>
