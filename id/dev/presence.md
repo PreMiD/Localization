@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-04-07T18:50:18.628Z
+date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
@@ -195,7 +195,7 @@ Untuk informasi lebih lanjut tentang presence klik [disini](/dev/presence/class)
 
 Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
 
-1. Periksa pada konsol browser (pastikan anda berada pada tab **Elements**).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Jalankan `document.querySelectorAll("iframe")`.
 
@@ -310,7 +310,7 @@ Untuk informasi lebih lanjut tentang presence klik [disini](/dev/presence/class)
 
 Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
 
-1. Periksa pada konsol browser (pastikan anda berada pada tab **Elements**).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Jalankan `document.querySelectorAll("iframe")`.
 
