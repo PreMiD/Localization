@@ -1,118 +1,118 @@
 {
 	"popup.navigation.settings": {
-		"message": "设置",
+		"message": "Налаштування",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "制作人员名单",
+		"message": "Творці",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
-		"message": "设置",
+		"message": "Налаштування",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.headings.general": {
-		"message": "常规",
+		"message": "Основне",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
-		"message": "描述",
+		"message": "Опис",
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "启用",
+		"message": "Увімкнено",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
-		"message": "媒体控制",
+		"message": "Керування медіа",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "标题菜单栏",
+		"message": "Заголовок рядка меню",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "自动运行",
+		"message": "Автоматичний запуск",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "状态",
+		"message": "Присутності",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
-		"message": "管理",
+		"message": "Керування",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "没有可用的 Presence",
+		"message": "Немає доданих присутностей",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "完成",
+		"message": "Зроблено",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "加载 Presence",
+		"message": "Завантажити присутність",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Presence 市场",
+		"message": "Магазин присутностей",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
-		"message": "需要帮助吗？",
+		"message": "Потрібна допомога?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
-		"message": "哦，不！",
+		"message": "Халепа!",
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "加载制作人员名单时出错",
+		"message": "Помилка при завантаженні творців",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
-		"message": "未连接",
+		"message": "Не з’єднано",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD 无法连接到它的应用程序！确定安装并运行它了吗？*疑难解答*",
+		"message": "PreMiD не вдалося підключитися до свого застосунку! Він встановлений і працює?\n*Troubleshooting*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "应用程序需要更新",
+		"message": "Застарілий додаток",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "你的 PreMiD 应用程序需要更新，请更新它以继续使用 PreMiD。",
+		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновить для подальшого використання PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.category.all": {
-		"message": "全部",
+		"message": "Усе",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
-		"message": "动漫",
+		"message": "Аніме",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.music": {
-		"message": "音乐",
+		"message": "Музика",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
-		"message": "游戏",
+		"message": "Ігри",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "社交",
+		"message": "Соціальне",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "视频与直播",
+		"message": "Відео & прямі трансляції",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
-		"message": "其他",
+		"message": "Інше",
 		"description": "Category name shown when you open tags"
 	}
 }
