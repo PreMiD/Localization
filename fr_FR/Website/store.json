@@ -1,98 +1,98 @@
 {
   "store.message.error": {
-    "message": "L'extension n'est pas connectée.",
+    "message": "الملحق غير متصل.",
     "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
   },
   "store.cards.creator": {
-    "message": "Créateur",
+    "message": "المطور",
     "description": "Creator of a presence"
   },
   "store.cards.popular": {
-    "message": "Cette présence est très populaire auprès des utilisateurs.",
+    "message": "هذا الpresence مشهور جدا بين المستخدمين.",
     "description": "Presence card popular flame"
   },
   "store.cards.partner": {
-    "message": "Présence d'un partenaire officiel PreMiD.",
+    "message": "Presence شريك رسمي في برنامج PreMiD.",
     "description": "Presence card partner flame"
   },
   "store.cards.extraStepsRequired": {
-    "message": "Cette présence nécessite des étapes supplémentaires pour fonctionner, veuillez vérifier sa page pour plus d'informations.",
+    "message": "يتطلب هذا الpresence خطوات إضافية للعمل، يرجى التحقق من صفحته للحصول على مزيد من المعلومات.",
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
-    "message": "Cette présence est approuvée par un développeur certifié",
+    "message": "تمت الموافقة على هذا الإضافة بواسطة مطور مميز",
     "description": "Verified badge hover message"
   },
   "store.header.search": {
-    "message": "Rechercher",
+    "message": "إبحث",
     "description": "Search bar text when nothing is stated"
   },
   "store.card.presence.add": {
-    "message": "Ajouter une présence",
+    "message": "تثبيت الإضافة",
     "description": "Button that will appear on hover after extension is installed."
   },
   "store.card.presence.remove": {
-    "message": "Enlever la présence.",
+    "message": "إزالة الإضافة",
     "description": "Button that will appear on hover after extension and presence is installed."
   },
   "store.card.presence.included": {
-    "message": "Cette présence est automatiquement utilisée lorsque nécessaire, il n'est pas nécessaire de l'ajouter.",
+    "message": "تستخدم هذا الإضافة تلقائيًا عند الحاجة، بدون إضافتها.",
     "description": "The message that appears instead of the buttons."
   },
   "store.category.filters.heading": {
-    "message": "Paramètres de recherche",
+    "message": "بحث المرشحات",
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "Montrer les plus utilisées en premier",
+    "message": "تظهر الأكثر استخداما أولا",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
-    "message": "Autoriser le contenu pour adultes",
+    "message": "السماح بمحتوى البالغين",
     "description": "Adult content checkbox"
   },
   "store.category.filters.likedOnly": {
-    "message": "Présences aimées uniquement",
+    "message": "الpresence المعجب فقط",
     "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
-    "message": "Catégories",
+    "message": "التصنيفات",
     "description": "Category heading"
   },
   "store.category.all": {
-    "message": "Tout",
+    "message": "الكل",
     "description": "Category at the top"
   },
   "store.category.games": {
-    "message": "Jeux",
+    "message": "ألعاب",
     "description": "Category at the top"
   },
   "store.category.music": {
-    "message": "Musique",
+    "message": "موسيقى",
     "description": "Category at the top"
   },
   "store.category.socials": {
-    "message": "Réseaux sociaux",
+    "message": "التواصل",
     "description": "Category at the top"
   },
   "store.category.videos": {
-    "message": "Vidéos et Streams",
+    "message": "فيديوات",
     "description": "Category at the top"
   },
   "store.category.other": {
-    "message": "Autres",
+    "message": "آخر",
     "description": "Category at the top"
   },
   "store.search": {
-    "message": "Rechercher",
+    "message": "إبحث",
     "description": "Placeholder for presence search"
   },
   "store.search.filters": {
-    "message": "appuyez sur entrer",
+    "message": "اضغط Enter",
     "description": "Little message next to the keys of search filters on the store."
   },
   "store.search.removeFilter": {
-    "message": "Cliquez pour supprimer ce filtre.",
+    "message": "انقر لإزالة الفلتر.",
     "description": "Remove message for active search filters."
   }
 }
