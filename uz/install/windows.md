@@ -1,23 +1,23 @@
 ---
-title: Windows
-description: Getting started with a PreMiD installation on Windows
+title: Окна
+description: Начать установку PreMiD на Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
 
-# Yuklang
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+# Установить
+1. Перейдите на нашу страницу загрузок, нажав [здесь](https://premid.app/downloads).
+2. Выберите **Windows**.
+3. Откройте установщик.
+4. **Windows SmartScreen** появится, если вы установите PreMiD впервые. Нажмите **Подробнее** и затем выберите **Выполнить в любом случае**. > Это потому, что у нас нет кода для подписания сертификата (CSC). [Поддержите нас,](https://www.patreon.com/Timeraa) чтобы пополнить его.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Приложение будет запущено автоматически. Проверьте наличие символа в системном трее.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Не забудьте [добавить **расширение**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
