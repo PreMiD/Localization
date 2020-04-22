@@ -98,12 +98,12 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 
 ## Installation
 1. [Git](https://git-scm.com/) 설치하기
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Cloning the project
+## Presence 복사 중
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
+2. 원하는 폴더를 선택하세요.
 3. Open it in you code editor.
 
 ## Creating folders and files
@@ -228,10 +228,10 @@ presence.on("iFrameData", data => {
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Structure (JavaScript)
-## Cloning the project
+## Presence 복사 중
 1. [Git](https://git-scm.com/) 설치하기
 2. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-3. Choose a folder of your choice.
+3. 원하는 폴더를 선택하세요.
 4. Open it in you code editor.
 
 ## Creating folders and files
