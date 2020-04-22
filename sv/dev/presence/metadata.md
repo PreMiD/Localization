@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Innehåller grundläggande data om Presence
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
     <tr>
       <td style="text-align:left"><b>medverkande</b>
       </td>
-      <td style="text-align:left">Bör innehålla Objekt med <code>namn</code> och <code>id</code> av närvaroutvecklaren. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). User <code>id</code> kan kopieras från Discord genom att aktivera utvecklarläget
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). User <code>id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
