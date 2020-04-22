@@ -2,7 +2,7 @@
 title: Métadonnées.json
 description: Contient des données de base sur la Presence
 published: vrai
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>contributeurs</b>
       </td>
-      <td style="text-align:left">Doit contenir un objet avec le nom <code></code> et <code>id</code> du développeur de présence. Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code>
       </td>
