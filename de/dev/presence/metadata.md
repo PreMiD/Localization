@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Enthält grundlegende Daten zur Präsenz
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>Mitwirkende</b>
       </td>
-      <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
