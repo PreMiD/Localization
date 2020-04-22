@@ -1,16 +1,16 @@
 ---
 title: Linux
-description: Komma igång med en PreMiD-installation på Linux
+description: Začíname s PreMiD inštaláciou na Linuxe
 published: true
 date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
-> Innan du går vidare, se till att ditt system uppfyller alla [krav](/install/requirements).{.is-info}
+> Než sa pustíme do toho, uistite sa že spĺňate všetky [požiadavky](/install/requirements).{.is-info}
 
-Installationen av programmet är mycket viktigt eftersom förlängningen inte kan göra något av sig själv.
+Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže robiť nič samé o sebe.
 
-# Installera
+# Inštalácia
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Installationen av programmet är mycket viktigt eftersom förlängningen inte ka
     <th>Additional Notes</th>
   </tr>
   <tr>
-    <td>Alla</td>
+    <td>Všetko</td>
     <td>Portable <a href="https://github.com/PreMiD/Linux/releases/latest">AppImage</a></td>
     <td>
         <code>wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod +x PreMiD*.AppImage</code><br>run <code>./PreMiD*.AppImage</code> afterwards or just double-click it
@@ -54,7 +54,7 @@ Installationen av programmet är mycket viktigt eftersom förlängningen inte ka
   </tr>
 </table>
 
-> Glöm inte att [lägga till tillägget ****](/install).{.is-warning}
+> Nezabudnite [pridať **rozšírenie**](/install).{.is-warning}
 
 # More info
 https://github.com/PreMiD/Linux
