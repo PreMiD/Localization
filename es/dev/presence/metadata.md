@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Contiene datos básicos sobre la presencia
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Si desea publicar una presencia en el almacén y cargarla a través de la extensión, debe crear los metadatos `. son archivos` en tu carpeta `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 El ejemplo de ese archivo se puede encontrar a continuación.
 
