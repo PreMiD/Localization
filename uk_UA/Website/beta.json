@@ -1,42 +1,42 @@
 {
   "beta.title": {
-    "message": "Chcete nové funkce?",
+    "message": "Хочете нових можливостей?",
     "description": "Beta page title"
   },
   "beta.description.1": {
-    "message": "**PreMiD Beta** je nyní k dispozici pro každého!",
+    "message": "Бета-версія **PreMiD** тепер доступна для всіх!",
     "description": "Section description"
   },
   "beta.description.2": {
-    "message": "Co získáte, pokud se zaregistrujete?",
+    "message": "Що ви отримаєте, якщо зареєструєтесь?",
     "description": "Section description"
   },
   "beta.features.1": {
-    "message": "Nejnovější funkce",
+    "message": "Останні можливості",
     "description": "Features list"
   },
   "beta.features.2": {
-    "message": "Přístup do super tajných textových konverzací od PreMiDu",
+    "message": "Доступ до надсекретних текстових каналів PreMiD",
     "description": "Features list"
   },
   "beta.features.3": {
-    "message": "Speciální role na našem Discord serveru",
+    "message": "Спеціальна роль на сервері Discord",
     "description": "Features list"
   },
   "beta.register.text": {
-    "message": "Jste Připraveni? Připojte se k {0} dalším Beta testerům!",
+    "message": "Готові до цього? Приєднуйтесь до {0} інших тестувальників бета-версії!",
     "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
-    "message": "Zaregistrujte se nyní!",
+    "message": "Зареєструйтеся зараз!",
     "description": "Sign up button text"
   },
   "thankyou.title": {
-    "message": "Skvělé! Nyní jsi uživatel beta verze!",
+    "message": "Круто! Тепер ви бета-користувач!",
     "description": "Thank You page title"
   },
   "thankyou.description": {
-    "message": "Naše opice pracují na tom, abyste se dostali do našeho beta programu co nejrychleji. Děkujeme za registraci!",
+    "message": "Наші мавпи працюють над тим, щоб додати вас до нашої бета-програми якомога швидше. Дякуємо за реєстрацію!",
     "description": "Thank You page description"
   }
 }
