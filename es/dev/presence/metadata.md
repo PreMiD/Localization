@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contiene datos básicos sobre la presencia
 published: true
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>contribuidores</b>
       </td>
-      <td style="text-align:left">Debe contener un objeto con <code>nombre</code> y <code>id</code> del desarrollador de presencia. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
         del desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
       </td>
