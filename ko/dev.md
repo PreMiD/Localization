@@ -1,17 +1,17 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: 시작하기
+description: 처음 코딩한 개발자들에게 전하는 메세지
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> 코드 편집기가 필요합니다. 저희는 Visual Studio Code를 사용하는 걸 추천합니다. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
+# 필수 프로그램들을 설치하는 중
+1. [Git](https://git-scm.com/) 설치하기
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
