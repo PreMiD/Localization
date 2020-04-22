@@ -1,34 +1,34 @@
 ---
-title: 存在类
-description: 每个PreMiD存在的主类
-published: true
+title: Presence Class
+description: The main class for every PreMiD presence
+published: 是
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# 存在类
+# Presence Class
 
-## 一. 导言
+## Introduction
 
-`Presence` 类非常有用，因为它具有我们创建一个存在所需要的基本方法。
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
- 当你创建一个类时，你必须指定 `clientId` 属性。
+ When you create a class you must specify `clientId` property.
 
 ```typescript
-let presence = new Presence(Windows
-    clientId: "514271496134389561" // 示例客户ID
+let presence = new Presence({
+    clientId: "514271496134389561" // Example clientId
 });
 ```
 
-有两个属性可用于 `Presence` 类。
+There are two properties available for `Presence` class.
 
 #### `clientId`
 
-`clientId` 属性必须提供才能使您的存在发挥作用，因为它使用您的应用程序id来显示它的标志和资产。
+`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-您可以在您的 [应用页面](https://discordapp.com/developers/applications) 获取。
+You can get it on your [applications page](https://discordapp.com/developers/applications).
 
-## 方法
+## Methods
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -44,13 +44,13 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> 此方法仅适用于Mac OS。 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
 Sets the tray title on the Menubar.
 
-### `getStrings(对象)`
+### `getStrings(Object)`
 
 Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -102,7 +102,7 @@ var pageVar = getPageLetiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` 接口
+## `presenceData` Interface
 
 The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
@@ -111,61 +111,61 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">变量</th>
-      <th style="text-align:left">描述</th>
-      <th style="text-align:left">类型</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">說明</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">详细信息</td>
-      <td style="text-align:left">您在场的第一条线通常用作头部。</td>
-      <td style="text-align:left"><code>字符串</code>
+      <td style="text-align:left">詳細資料</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">状态</td>
-      <td style="text-align:left">你们在场的第二线。</td>
-      <td style="text-align:left"><code>字符串</code>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">定义当前时间。<br>
-        如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
-          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
-          倒计时。
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>号码</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">定义整个持续时间。
-        <br>如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
-          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
-          倒计时。
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>号码</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">大尺寸的图像密钥</td>
-      <td style="text-align:left">定义与会标识。</td>
-      <td style="text-align:left"><code>字符串</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">小图像密钥</td>
-      <td style="text-align:left">定义存在&apos;s 标志旁边的小图标。</td>
-      <td style="text-align:left"><code>字符串</code>
+      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">小图像文本</td>
-      <td style="text-align:left">定义当用户悬停小的
-        图标时将显示的文本。</td>
-      <td style="text-align:left"><code>字符串</code>
+      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left"><code>String</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -183,7 +183,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## 事件
+## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
@@ -195,7 +195,7 @@ presence.on("UpdateData", async () => {
 
 There are few events available:
 
-#### `更新数据`
+#### `UpdateData`
 
 This event is fired every time the presence is being updated.
 
