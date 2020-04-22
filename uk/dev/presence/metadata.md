@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Містить основні дані про присутність
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Якщо ви хочете опублікувати присутність у магазині та завантажити його через розширення, необхідно створити `metadata.json` файл у папці `presence.js`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Нижче ви можете знайти приклад цього файлу.
 
@@ -212,7 +212,7 @@ tags:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>налаштування</b>
       </td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
