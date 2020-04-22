@@ -1,8 +1,8 @@
 ---
 title: Chromium
-description: Bắt đầu với việc cài đặt PreMiD trên những trình duyệt dựa trên Chromeium
+description: Getting started with a PreMiD installation on Chromium-based browsers
 published: true
-date: 2020-02-12T22:08:30.406Z
+date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
