@@ -2,13 +2,13 @@
 title: Metadata.json
 description: プレゼンスに関する基本情報を含むファイル
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-もしあなたがプレゼンスをストアに公開し拡張機能を使って読み込む場合は `presence.js`フォルダの中に`metadata.json`を作る必要があります
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 ファイルの構成の例は以下の通りです:
 
