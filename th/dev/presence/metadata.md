@@ -2,13 +2,13 @@
 title: Metadata.json
 description: ประกอบด้วยข้อมูลพื้นฐานเกี่ยวกับ Presence
 published: true
-date: 07 ก.พ 2563 20:39 น.
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-ถ้าคุณต้องการที่จะเผยแพร่ presence ไปยังร้านค้าและดาวน์โหลดมันผ่านส่วนขยาย, คุณควรที่จะสร้างไฟล์ `metadata.json` ในโฟลเดอร์ `presence.js` ของคุณ
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 ตัวอย่างของไฟล์สามารถดูได้ด้านล่างนี้
 
