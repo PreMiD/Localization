@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-04-07T18:50:18.628Z
+date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
@@ -195,7 +195,7 @@ presence.on("UpdateData", async () => {
 
 Використання багатьох веб-сайтів [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ці HTML-теги можуть містити декілька джерел, таких як відео. Але вони не мають значення кожного разу. Деякі приховані або просто не використовуються. Перевірте, чи можете ви видобути необхідну інформацію, без них перед непотрібною роботою.
 
-1. Перевір їх на консолі браузера (переконайтеся, що ви знаходитесь на вкладці **Елементи** </strong> у браузері).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Пошук (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Виконати `document.querySelectorAll("iframe")`.
 
@@ -310,7 +310,7 @@ presence.on("UpdateData", () => {
 
 Використання багатьох веб-сайтів [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ці HTML-теги можуть містити декілька джерел, таких як відео. Але вони не мають значення кожного разу. Деякі приховані або просто не використовуються. Перевірте, чи можете ви видобути необхідну інформацію, без них перед непотрібною роботою.
 
-1. Перевір їх на консолі браузера (переконайтеся, що ви знаходитесь на вкладці **Елементи** </strong> у браузері).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Пошук (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Виконати `document.querySelectorAll("iframe")`.
 
@@ -399,7 +399,7 @@ presence.on("iFrameData", data => {
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `settings`
+- `налаштування`
 
 **Пояснення деяких пресетів значень:**
 <table>
@@ -557,7 +557,7 @@ TLD стояння для домену Top рівень: . om .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>налаштування</b>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
