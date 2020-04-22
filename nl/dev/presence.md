@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-04-07T18:50:18.628Z
+date: 2020-04-22T18:39:49.395Z
 tags:
 ---
 
@@ -195,7 +195,7 @@ Voor meer informatie over de Presence-klas klik [hier](/dev/presence/class).
 
 Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Deze html-tags kunnen meerdere bronnen bevatten, zoals video's. Maar ze zijn niet altijd relevant. Sommige zijn verborgen of worden niet vaak gebruikt. Controleer of je de informatie die je nodig hebt, kan verkrijgen zonder dat je onnodig werk doet.
 
-1. Controleer ze met de browser console (zorg dat je op de **Elements**-tab zit).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Zoeken (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Voer `document.querySelectorAll("iframe")` uit.
 
@@ -310,7 +310,7 @@ Voor meer informatie over de Presence-klas klik [hier](/dev/presence/class).
 
 Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Deze html-tags kunnen meerdere bronnen bevatten, zoals video's. Maar ze zijn niet altijd relevant. Sommige zijn verborgen of worden niet vaak gebruikt. Controleer of je de informatie die je nodig hebt, kan verkrijgen zonder dat je onnodig werk doet.
 
-1. Controleer ze met de browser console (zorg dat je op de **Elements**-tab zit).
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Zoeken (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Voer `document.querySelectorAll("iframe")` uit.
 
