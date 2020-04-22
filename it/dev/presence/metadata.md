@@ -2,7 +2,7 @@
 title: Metadario
 description: Contiene dati di base su Presence
 published: vero
-date: 2020-04-22T18:33:51.076Z
+date: 2020-04-22T20:07:56.204Z
 tags:
 ---
 
@@ -91,7 +91,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>collaboratori</b>
       </td>
-      <td style="text-align:left">Dovrebbe contenere un oggetto con <code>nome</code> e <code>id</code> dello sviluppatore presenza. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
         dello sviluppatore e facendo click destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code>
       </td>
