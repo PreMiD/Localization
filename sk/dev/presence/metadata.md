@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Obsahuje základné údaje o Prítomnosti
 published: true
-date: 2020-04-07T20:39:37.869Z
+date: 2020-04-22T18:33:51.076Z
 tags:
 ---
 
 # Metadata.json
 
-Ak chcete zverejniť prítomnosť v obchode a načítať ju prostredníctvom rozšírenia, mali by ste vytvoriť `metadata.json` súbor vo vašom `presence.js` priečinku.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
 Príklad tohto súboru je uvedený nižšie.
 
