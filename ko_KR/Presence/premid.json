@@ -54,5 +54,9 @@
     "premid.pageApi": {
         "message": "API",
         "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Presence 개발",
+        "description": "A page name"
     }
 }
