@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Sinu PreMiDi rakendus on valmis uuendama. Palun uuenda, et PreMiDi kasutada.",
+		"message": "Sinu PreMiDi rakendus on vananenud. Palun uuenda, et PreMiDi kasutada.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.category.all": {
