@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "Rozšíření není připojeno.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "Tvůrce",
     "description": "Creator of a presence"
@@ -6,6 +10,14 @@
   "store.cards.popular": {
     "message": "Tato přítomnost je velmi populární kolem uživatelů.",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Přítomnost oficiálního partnera PreMiD.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Tato přítomnost vyžaduje další kroky k práci, prosím zkontrolujte její stránku pro více informací.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
     "message": "Táto přítomnost byla schválena ověřeným vývojářem",
@@ -39,6 +51,10 @@
     "message": "Povolit obsah pro dospělé",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "Pouze oblíbené přítomnosti",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "Kategorie",
     "description": "Category heading"
@@ -70,5 +86,13 @@
   "store.search": {
     "message": "Hledat",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "stiskněte enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Kliknutím odstraníte filtr.",
+    "description": "Remove message for active search filters."
   }
 }
