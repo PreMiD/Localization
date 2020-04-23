@@ -1,62 +1,62 @@
 ---
-title: Клас присутності
-description: Основний клас для кожної присутності PreMiD
+title: 存在类
+description: 每个PreMiD存在的主类
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Клас присутності
+# 存在类
 
-## Вступ
+## 一. 导言
 
-Клас `присутність` є дуже корисним, оскільки в ньому є основні методи, які нам потрібні для створення виразу.
+`Presence` 类非常有用，因为它具有我们创建一个存在所需要的基本方法。
 
- Якщо ви створите клас, вам необхідно вказати `clientId` властивість.
+ 当你创建一个类时，你必须指定 `clientId` 属性。
 
 ```typescript
-let presence = new Presence({
-clientId: "514271496134389561" // Приклад clientId
+let presence = new Presence(Windows
+    clientId: "514271496134389561" // 示例客户ID
 });
 ```
 
-Тут наявні дві властивості для класу`Presence`.
+有两个属性可用于 `Presence` 类。
 
 #### `clientId`
 
-Параметр`clientId` повинен бути показаний, щоб ваша присутність працювала, оскільки він використовує ідентифікатор вашого застосунку, щоб відобразити його логотип та активи.
+`clientId` 属性必须提供才能使您的存在发挥作用，因为它使用您的应用程序id来显示它的标志和资产。
 
-Ви можете отримати це на сторінці [програм](https://discordapp.com/developers/applications).
+您可以在您的 [应用页面](https://discordapp.com/developers/applications) 获取。
 
-## Методи
+## 方法
 
 ### `setActivity(presenceData, Boolean)`
 
-Встановлює активність вашого профілю відповідно до наданих даних.
+Sets your profile activity according to provided data.
 
-Перший параметр вимагає інтерфейсу `presenceData` , щоб отримати всю інформацію, яку ви хочете відобразити у вашому профілі.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Другий параметр визначає, коли присутність щось грає чи ні. Завжди використовуйте `true` , якщо ви надаєте часові мітки в `presenceData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Очищує вашу поточну діяльність, клавіатурні клавіші та заголовок трею.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Цей метод працює тільки на Mac OS. 
+> 此方法仅适用于Mac OS。 
 > 
 > {.is-warning}
 
-Встановлює заголовок у рядку меню.
+Sets the tray title on the Menubar.
 
-### `getStrings(Об'єкт)`
+### `getStrings(对象)`
 
-Дозволяє отримати перекладені рядки з розширення. Для рядка вам потрібно вказати `Object` за допомогою клавіш для рядка, `keyValue` - значення рядка. Ви можете знайти деякі з рядків, використовуючи цю кінцеву точку: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Повертає `Playing` і `Paused` рядків
-// з розширення.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -83,7 +83,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Повертає версію розширення, яку користувач використовує.
+Returns version of the extension the user is using.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -93,79 +93,79 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
-### `getPageLetiable(рядок)`
+### `getPageLetiable(String)`
 
-Повертає змінну з веб-сайту, якщо вона існує.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(page); // Це закриє "Variable content"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` Інтерфейс
+## `presenceData` 接口
 
-Інтерфейс `presenceData` рекомендується використовувати під час використання методу `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Цей інтерфейс має наступні змінні, усі вони є необов'язковими.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Змінна</th>
-      <th style="text-align:left">Опис</th>
-      <th style="text-align:left">Тип</th>
+      <th style="text-align:left">变量</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">类型</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">подробиці</td>
-      <td style="text-align:left">Перший рядок присутності, зазвичай використовується як заголовок.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">详细信息</td>
+      <td style="text-align:left">您在场的第一条线通常用作头部。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">положення</td>
-      <td style="text-align:left">Другий рядок у вашій присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">状态</td>
+      <td style="text-align:left">你们在场的第二线。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Визначає поточний час.<br>
-        Використовувати, якщо потрібно вивести на екран скільки <code>годин:секунд:секунд</code>.
-          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
-.
+      <td style="text-align:left">定义当前时间。<br>
+        如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
-      <td style="text-align:left"><code>Номер</code>
+      <td style="text-align:left"><code>号码</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Визначає всю тривалість.
-        <br>Використовується для відображення скільки <code>годин:хвилин:секунд</code>.
-          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
-.
+      <td style="text-align:left">定义整个持续时间。
+        <br>如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
-      <td style="text-align:left"><code>Номер</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Визначає логотип для присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>号码</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">маленький ключ зображення</td>
-      <td style="text-align:left">Визначає маленьку іконку поруч з присутністю&apos;s логотип.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">大尺寸的图像密钥</td>
+      <td style="text-align:left">定义与会标识。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Визначає текст, який буде відображатися користувачеві, коли він буде наводитись до малої піктограми
-.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left">小图像密钥</td>
+      <td style="text-align:left">定义存在&apos;s 标志旁边的小图标。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">小图像文本</td>
+      <td style="text-align:left">定义当用户悬停小的
+        图标时将显示的文本。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
   </tbody>
@@ -173,32 +173,32 @@ console.log(page); // Це закриє "Variable content"
 
 ```typescript
 var presenceData: presenceData = {
-    details: "Мій заголовок",
-    state: "Мій опис",
-    largeImageKey: "лого_сервісу",
-    smallImageKey: "маленька_піктограма_сервісу_",
+    details: "My title",
+    state: "My description",
+    largeImageKey: "service_logo",
+    smallImageKey: "small_service_icon",
     smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Події
+## 事件
 
-Події дозволяють виявити і обробляти деякі зміни, або виклики, які були зроблені. Ви можете підписатись на події, використовуючи `on` метод.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Зробіть щось, коли дані оновлюються.
+    // Do something when data gets updated.
 });
 ```
 
-Є мало доступних подій:
+There are few events available:
 
-#### `Оновлення даних`
+#### `更新数据`
 
-Ця подія вистрілюється щоразу, коли присутність оновлюється.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Вимикається при отриманні даних з iFrame script.
+Fired when data is received from iFrame script.
