@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ Houd de volgende lijst in gedachten voordat je begint met het maken van je prese
 - Uw presence **MOET** bestaan uit SFW-afbeeldingen en -beschrijvingen, ongeacht of het NSFW is of niet. Als jouw presence van een NSFW website is, voeg dan de `nsfw` tag toe aan je metadata.
 - Uw presence**MAG NIET** de lokale opslag van de browser manipuleren.
 - Uw presence kan gebruik maken van cookies om gegevens op te slaan. Alle gegevens die door de presence worden opgeslagen moeten worden voorafgegaan worden door `pmd_`.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Wijzigen
 > U MOET de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.js** of **metadata.json**. 
