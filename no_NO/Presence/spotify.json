@@ -1,1 +1,6 @@
-{}
+{
+	"spotify.download": {
+		"message": "Laster ned Spotify",
+		"description": ""
+	}
+}
