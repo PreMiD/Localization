@@ -1,122 +1,122 @@
 {
     "youtube.ad": {
-        "message": "Actualmente viendo un anuncio",
+        "message": "Momentálně se zobrazuje reklama",
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Navegando a través de videos",
+        "message": "Prohlížení videí",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Navegando a través de listas de reproducción",
+        "message": "Prohlížení playlistů",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Viendo publicaciones de comunidad",
+        "message": "Prohlížení komunitních příspěvků",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
-        "message": "del canal:",
+        "message": "kanálu:",
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Leyendo sobre el canal:",
+        "message": "Čtení o kanálu:",
         "description": ""
     },
     "youtube.searchChannel": {
-        "message": "Buscando a través del canal: {0} por:",
+        "message": "Vyhledávání prostřednictvím kanálu: {0} pro:",
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Viendo las tendencias",
+        "message": "Zobrazení co je populární",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Navegando a través de",
+        "message": "Prohlížení",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "sus suscripciones",
+        "message": "jejich předplatné",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "su biblioteca",
+        "message": "jejich knihovna",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "su historial",
+        "message": "jejich historie",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "sus compras",
+        "message": "jejich nákupy",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Viendo su historial de reportes",
+        "message": "Prohlížení historie jejich zpráv",
         "description": ""
     },
     "youtube.upload": {
-        "message": "Subiendo algo...",
+        "message": "Nahrávám něco...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Viendo todas sus listas de reproducción",
+        "message": "Zobrazení všech jejich playlistů",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "Viendo sus eventos en directo",
+        "message": "Zobrazení jejich živých událostí",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "Viendo su panel de control en directo",
+        "message": "Zobrazení jejich živého řídicího panelu",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Viendo su biblioteca de audio",
+        "message": "Zobrazení zvukové knihovny",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Viendo sus videos",
+        "message": "Zobrazení jejich videí",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Editando video:",
+        "message": "Úprava videa:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Viendo analíticas de video:",
+        "message": "Zobrazení analýzy videa:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Viendo comentarios de video:",
+        "message": "Zobrazení komentářů videa:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Viendo traducciones de video:",
+        "message": "Zobrazení překladů videa:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Viendo su",
+        "message": "Zobrazení jejich",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
-        "message": "analíticas del canal",
+        "message": "Analytika kanálů",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
-        "message": "comentarios del canal",
+        "message": "komentáře kanálu",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "traducciones del canal",
+        "message": "překlady kanálů",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
-        "message": "página del artista",
+        "message": "Stránka umělce",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Viendo su panel de control",
+        "message": "Zobrazení jejich živého řídicího panelu",
         "description": ""
     }
 }
