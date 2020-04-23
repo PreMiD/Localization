@@ -2,13 +2,11 @@
 title: Linux
 description: 开始在 Linux 上安装PreMiD
 published: true
-date: 2020-04-23T21:36:57.100Z
+date: 2020-04-23T21:44:28.693Z
 tags:
 ---
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
-
-> 在继续操作之前，请确保您的系统满足所有 [要求](/install/requirements)。{.is-info}
 
 安装应用程序非常重要，因为扩展本身无法做任何事情。
 
