@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - Votre présence **DOIT** avoir des images et des descriptions SFW, qu'elles soient NSFW ou non. Si votre présence concerne un site Web NSFW, veuillez ajouter la balise `nsfw` à vos métadonnées.
 - Votre présence **NE PEUT PAS** manipuler le stockage local sur le navigateur.
 - Votre présence peut utiliser des cookies pour stocker des données. Toutes les données stockées par la présence doivent être préfixées par `pmd_`.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modifications
 > Vous DEVEZ changer la version dans les métadonnées **** pour être une valeur plus élevée de la version précédente lorsque vous effectuez des modifications à la présence **. s** ou **metadata.json**. 
