@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: The main class for every PreMiD presence
+description: 모든 PreMid Presence들의 class
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
@@ -8,11 +8,11 @@ tags:
 
 # Presence Class
 
-## Introduction
+## 소개
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` class는 Presence 개발 과정에 필요한 기본적인 것들을 포함하고 있어 Presence 제작에 큰 힘이 됩니다.
 
- When you create a class you must specify `clientId` property.
+ Presence를 만들 때, `clientId`가 명시되어야 합니다.
 
 ```typescript
 let presence = new Presence({
