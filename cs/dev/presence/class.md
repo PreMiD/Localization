@@ -32,15 +32,15 @@ Můžete to získat na stránce [aplikací](https://discordapp.com/developers/ap
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Nastaví vaši aktivitu profilu podle zadaných dat.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+První parametr vyžaduje rozhraní `přítomnostiData` pro získání všech informací, které chcete zobrazit ve vašem profilu.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Druhý parametr definuje, když přítomnost něco hraje nebo ne. Vždy používejte `tru` pokud poskytnete časové značky v `přítomnostiData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Vymaže vaši aktuální aktivitu, klávesové zkratky a název lišty.
 
 ### `setTrayTitle(String)`
 
