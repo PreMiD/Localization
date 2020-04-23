@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Primeiros passos para a instalação do PreMiD no Linux
+description: Primeiros passos com a instalação do PreMiD no Linux
 published: true
 date: 2020-04-23T21:44:28.693Z
 tags:
@@ -8,11 +8,11 @@ tags:
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
 
-A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
+A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
 
 ## Table of Contents
 
-- **[About](#about)**
+- **[Sobre](#about)**
   - [Stats](#stats)
   - [Requisitos](#requirements)
   - Examples (soon)
@@ -36,7 +36,7 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 
 <a name="about"></a>
 
-## About
+## Sobre
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -74,8 +74,8 @@ It is unknown whether older versions of other distributions support it, so just 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Junte-se ao nosso Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Junte-se ao nosso Discord!">
   </a>
 </div>
 
@@ -171,7 +171,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 ### Additional notes
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Se sua distribuição usa pacman, você deve instalar um dos ajudantes primeiro. If you don't have any, Yay is recommended, run :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
