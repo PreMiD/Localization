@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 - Servisiniz, ne olursa olsun yetişkin içerik **barındırmayan** resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw` etiketini de eklemeniz gerekmektedir.
 - Yaptığınız servis, tarayıcının yerel depolamasını (local storage) **kontrol edemez**.
 - Verileri depolamak için, çerezleri kullanabilirsiniz. Verinin kaydedileceği çerezin başı, `pmd_` ile başlamalıdır.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Yapılandırma
 > **presence.js** veya **metadata.json** dosyalarından herhangi birine bir değişiklik yaparken, **metadata** dosyanızdaki sürümü, bir önceki sürümden yüksek bir sürüme güncellemelisiniz. 
