@@ -1,62 +1,62 @@
 ---
-title: Klasa Presence
-description: Główna klasa dla każdej obecności PreMiD
-published: tak
+title: Classe de presença
+description: A classe principal para cada presença do PreMiD
+published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Klasa Presence
+# Classe de presença
 
-## Wprowadzanie
+## Introdução
 
-Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, których potrzebujemy do stworzenia obecności.
+A classe `Presença` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
 
- Podczas tworzenia klasy musisz określić właściwość `ID klienta`.
+ Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
-let obecność = nowa prezentacja({
-    clientId: "514271496134389561" // Przykład klientId
+let presence = new Presence({
+    clientId: "514271496134389561" // Exemplo clientId
 });
 ```
 
-Dla klasy `Presence` dostępne są dwie właściwości.
+Há duas propriedades disponíveis para a `Presença` classe.
 
 #### `clientId`
 
-`clientId` musi być dostarczony, aby Twój status działał, ponieważ używa identyfikatora aplikacji do wyświetlania logo i aktywów.
+`a propriedade clientId` deve ser fornecida para que sua presença funcione, porque ela usa o ID do aplicativo para exibir o seu logotipo e ativos.
 
-Możesz to uzyskać na [stronie aplikacji](https://discordapp.com/developers/applications).
+Você pode obtê-lo na sua [página de aplicativos](https://discordapp.com/developers/applications).
 
-## Metody
+## Métodos
 
 ### `setActivity(presenceData, Boolean)`
 
-Ustawia aktywność profilu zgodnie z podanymi danymi.
+Sets your profile activity according to provided data.
 
-Pierwszy parametr wymaga interfejsu `presenceData`, aby uzyskać wszystkie informacje, które chcesz wyświetlić w profilu.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Drugi parametr określa, kiedy status jest aktywny lub nie. Zawsze używaj `true` jeśli podasz znaczniki czasu w `presenceData`.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Usuwa obecną aktywność, skróty klawiszowe i tytuł zasobnika.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Ta metoda działa tylko na Mac OS. 
+> Este método funciona somente no Mac OS. 
 > 
 > {.is-warning}
 
-Ustawia tytuł zasobnika na pasku menu.
+Sets the tray title on the Menubar.
 
-### `getStrings(Obiekt)`
+### `getStrings(Objeto)`
 
-Pozwala na otrzymywanie przetłumaczonych ciągów z rozszerzenia. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. Część ciągów można znaleźć za pomocą tego linku: `https://api.premid.app/v2/langFIle/extension/en`
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Zwraca ciągi znaków `Playing` i `Paused`
-// z rozszerzenia.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -83,89 +83,89 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Zwraca wersję rozszerzenia, którego używa użytkownik.
+Returns version of the extension the user is using.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Loguje 210
+console.log(numeric); // Will log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Loguje 2.1.0
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getPageLetiable(String)`
 
-Zwraca zmienną ze strony internetowej, jeśli istnieje.
+Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // To będzie logować "zawartość zmiennej"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
-## Interfejs `presenceData`
+## `Interface de presençaDados`
 
-Interfejs `presenceData` jest zalecany do użycia, gdy używasz metody `setActivity()`.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Zmienna</th>
-      <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Variável</th>
+      <th style="text-align:left">Descrição</th>
+      <th style="text-align:left">Tipo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">szczegóły</td>
-      <td style="text-align:left">Pierwsza linia w twojej obecności, zazwyczaj używana jako nagłówek.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left">detalhes</td>
+      <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">województwo</td>
-      <td style="text-align:left">Drugi wiersz w twojej obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left">Estado</td>
+      <td style="text-align:left">Segunda linha em sua presença.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Definiuje aktualny czas.<br>
-        Używany, jeśli chcesz wyświetlić ile <code>godzin: minut: sekundy</code> pozostało.
-          <br>Musisz przekonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
-          odliczanie.
+      <td style="text-align:left">Define o tempo atual.<br>
+        Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
+          contagem regressiva errada.
       </td>
-      <td style="text-align:left"><code>Numer</code>
+      <td style="text-align:left"><code>numero</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Określa cały czas trwania.
-        <br>Używane jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
-          <br>Musisz przekonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
-          odliczanie.
+      <td style="text-align:left">Define a duração completa.
+        <br>Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
+          contagem regressiva errada.
       </td>
-      <td style="text-align:left"><code>Numer</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">duży klawisz mageImageKey</td>
-      <td style="text-align:left">Określa logo obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left"><code>numero</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mały klucz mageKey</td>
-      <td style="text-align:left">Określa małą ikonę obok logo obecności&apos;s.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left">Key</td>
+      <td style="text-align:left">Define o logotipo para a presença.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mały tekst mageText</td>
-      <td style="text-align:left">Definiuje tekst, który będzie wyświetlany użytkownikowi, gdy najeźmie małą ikonę
-.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left">Chave</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado da presença&apos;logo .</td>
+      <td style="text-align:left"><code>String</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">minhaImagemTexto</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele irá colocar o cursor no ícone de
+        pequeno.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -183,22 +183,22 @@ var presenceData: presenceData = {
 };
 ```
 
-## Wydarzenia
+## Eventos
 
-Zdarzenia umożliwiają wykrycie i obsługę pewnych zmian lub połączeń, które zostały wykonane. Możesz subskrybować wydarzenia za pomocą metody `on`.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Zrób coś, gdy dane zostaną zaktualizowane.
+    // Do something when data gets updated.
 });
 ```
 
-Dostępnych jest kilka wydarzeń:
+There are few events available:
 
-#### `Aktualizuj dane`
+#### `AtualizarDados`
 
-To wydarzenie jest uruchamiane za każdym razem, gdy status jest aktualizowany.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-Wystrzelony, gdy dane są odebrane ze skryptu iFrame.
+Fired when data is received from iFrame script.
