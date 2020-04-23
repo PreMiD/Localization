@@ -47,6 +47,10 @@
         "message": "Manga",
         "description": ""
     },
+    "general.merch": {
+        "message": "Sloučit",
+        "description": ""
+    },
     "general.page": {
         "message": "Stránka",
         "description": ""
@@ -59,16 +63,156 @@
         "message": "Přehrávání",
         "description": ""
     },
+    "general.readingDM": {
+        "message": "Čtení zpráv od:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Čtení o:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Čtení článku:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Čtení v kanálu:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Čtení příspěvku:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Čtení vlákna:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Čte",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Vyhledávání:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Vyhledávám něco...",
         "description": ""
     },
     "general.search": {
         "message": "Vyhledává",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Nákupní košík",
+        "description": ""
+    },
     "general.store": {
         "message": "Obchod",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Psaní do funkcí:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Psaní do kanálu:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Prohlížení anime:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Zobrazení kategorie:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Zobrazení kanálu:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Zobrazení epizody:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Zobrazení žánru:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Zobrazení domovské stránky",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Zobrazení seznamu:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Zobrazení manga:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Prohlížení člena:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Zobrazení filmu:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Zobrazení playlistu:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Zobrazení produktu:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Prohlížení profilu:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Zobrazení show:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Zobrazení jejich účtu",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Zobrazení vlákna:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Zobrazení uživatele:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Prohlížení:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Sledování videa",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Sledování živého přenosu",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Sledování:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Seznam přání:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Zásady ochrany osobních údajů",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Podmínky služby",
+        "description": "A page name"
     }
 }
