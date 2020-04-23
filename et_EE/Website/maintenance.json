@@ -1,26 +1,26 @@
 {
   "maintenance.big": {
-    "message": "Hooldamine",
+    "message": "Ta'minot",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
-    "message": "Kahjuks meil on tehnilised probleemid. Me jõuame varsti tagasi. Vabandame väga.",
+    "message": "Afsuski, texnik qiyinchiliklarga duch kelmoqdamiz. Tez orada qaytamiz. Noqulaylik uchun uzr.",
     "description": "Heading on maintenance page"
   },
   "maintenance.heading2": {
-    "message": "Palun tulge tagasi hiljem, et detailide vaadata.",
+    "message": "Qo'shimcha ma'lumot uchun keyinroq qaytib keling.",
     "description": "Heading on maintenance page"
   },
   "maintenance.message": {
-    "message": "Kuni meie spetsiaalsed arendajad fikseerivad seda, vaata aga siia!",
+    "message": "Bizning maxsus ishlab chiquvchilarimiz buni tuzatmaguncha, bu erda ko'ring!",
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Staatuse lehekülg",
+    "message": "Holat sahifasi",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {
-    "message": "Discordi server",
+    "message": "Discord Serveri",
     "description": "Discord Server link on maintenance page"
   }
 }
