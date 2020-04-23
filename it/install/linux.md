@@ -2,13 +2,11 @@
 title: Linux
 description: Per iniziare con un'installazione di PreMiD su Linux
 published: vero
-date: 2020-04-23T21:36:57.100Z
+date: 2020-04-23T21:44:28.693Z
 tags:
 ---
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
-
-> Prima di proseguire, assicurati che il tuo sistema soddisfi tutti i [requisiti](/install/requirements).{.is-info}
 
 L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
 
