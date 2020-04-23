@@ -2,7 +2,7 @@
 title: Presence 개발
 description:
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ presence
 - 당신의 Presence는 NSFW 여부에 관계없이 **무조건** SFW 이미지 및 설명을 가지고 있어야 합니다. 만약 당신의 Presence가 NSFW 웹사이트에 관한 것이면, metadata에 `nsfw` 태그가 추가되어 있어야 합니다.
 - 당신의 Presence는 브라우저의 로컬 저장소를 조작하지 **않아야** 합니다.
 - 당신의 Presence는 쿠키를 사용하여 데이터를 저장할 수 있습니다. Presence에 의해 저장되는 모든 데이터는 `pmd_`를 prefix로 가지고 있어야 합니다.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modification
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**. 
