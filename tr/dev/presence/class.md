@@ -1,62 +1,62 @@
 ---
-title: Presence Sınıfı
-description: Tüm PreMiD servisleri için geçerli ana sınıf
+title: 存在类
+description: 每个PreMiD存在的主类
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Presence Sınıfı
+# 存在类
 
-## Tanıtım
+## 一. 导言
 
-`Presence` sınıfı, servisimizi oluştururken bize gerekli bir çok metod ve yöntem ile yardımcı olacaktır.
+`Presence` 类非常有用，因为它具有我们创建一个存在所需要的基本方法。
 
- Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
+ 当你创建一个类时，你必须指定 `clientId` 属性。
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Örnek bir clientId alanı
+let presence = new Presence(Windows
+    clientId: "514271496134389561" // 示例客户ID
 });
 ```
 
-`Presence` sınıfı için şimdilik geçerli iki adet alan vardır.
+有两个属性可用于 `Presence` 类。
 
 #### `clientId`
 
-`clientId` alanı, servis kodunun çalışabilmesi için gereklidir çünkü bu sayede uygulamanıza eklediğiniz resimleri ve diğer bilgileri çekiyoruz.
+`clientId` 属性必须提供才能使您的存在发挥作用，因为它使用您的应用程序id来显示它的标志和资产。
 
-Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
+您可以在您的 [应用页面](https://discordapp.com/developers/applications) 获取。
 
-## Metodlar
+## 方法
 
 ### `setActivity(presenceData, Boolean)`
 
-Verilen verilerle profilinizi ayarlar.
+Sets your profile activity according to provided data.
 
-Bu metodun ilk parametresi profilde göstermek istediğiniz `presenceData` verisini içeren bir obje olmalıdır.
+First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `presenceData` içerisinde zaman verisi belirttiyseniz, her zaman `true` değerini kullanın.
+Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Gözüken verileri temizler, tuşları yakalamayı bırakır ve menü çubuğu yazısını temizler.
+Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Bu yöntem sadece MacOS üzerinde çalışmaktadır. 
+> 此方法仅适用于Mac OS。 
 > 
 > {.is-warning}
 
-Menüdeki durum yazısını ayarlar.
+Sets the tray title on the Menubar.
 
-### `getStrings(Object)`
+### `getStrings(对象)`
 
-Çevirileri almanızı sağlar. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Aşağıdaki bağlantıdan eklentiden alabileceğiniz çevirileri bulabilirsiniz: `https://api.premid.app/v2/langFIle/extension/en`</code>
+Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// `Oynatılıyor` ve `Durduruldu` çevirilerini
-// gösterir.
+// Returns `Playing` and `Paused` strings
+// from extension.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -93,109 +93,112 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
-### `getPageletiable(String)`
+### `getPageLetiable(String)`
 
-Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
+Returns a variable from the website if it exists.
 
 ```typescript
-let pageVar = getPageLetiable('degisken');
-console.log(pageVar); // Bu 'degisken' değişkeninin içeriğini konsola yazdırır.
+var pageVar = getPageLetiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` Arayüzü
+## `presenceData` 接口
 
-`presenceData` arayüzü, `setActivity()` metodunu kullandığınızda tavsiye edilmektedir.
+The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani zorunlu değildir.
+This interface has following variables, all of them are optional.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Anahtar</th>
-      <th style="text-align:left">Açıklama</th>
-      <th style="text-align:left">Tür</th>
+      <th style="text-align:left">变量</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">类型</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">Profilinizde gözüken kısımda üst tarafta bulunan yazı.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">详细信息</td>
+      <td style="text-align:left">您在场的第一条线通常用作头部。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Profilinizde gözüken kısımda alt tarafta bulunan yazı.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">状态</td>
+      <td style="text-align:left">你们在场的第二线。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Geçerli zamanı belirtir.<br>
-        Başlangıç zamanını belirterek ondan sonra ne kadar zaman geçtiğini gösterebilirsiniz.
-          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
+      <td style="text-align:left">定义当前时间。<br>
+        如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>号码</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Uzunluğu belirler.
-        <br>Bitiş zamanını belirlerseniz kaç <code>saat:dakika:saniye</code> kaldığını profilde gösterebilirsiniz.
-          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
+      <td style="text-align:left">定义整个持续时间。
+        <br>如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
-      <td style="text-align:left"><code>Number</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Servisin büyük resmini belirler.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>号码</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Büyük resmin yanında bulunacak küçük simgenin ismini belirler.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">大尺寸的图像密钥</td>
+      <td style="text-align:left">定义与会标识。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">İmleci küçük resmin üzerine tuttuğunuzda gösterilecek yazıyı belirler.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">小图像密钥</td>
+      <td style="text-align:left">定义存在&apos;s 标志旁边的小图标。</td>
+      <td style="text-align:left"><code>字符串</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">小图像文本</td>
+      <td style="text-align:left">定义当用户悬停小的
+        图标时将显示的文本。</td>
+      <td style="text-align:left"><code>字符串</code>
       </td>
     </tr>
   </tbody>
 </table>
 
 ```typescript
-let presenceData: presenceData = {
-    details: "Başlık",
-    state: "Açıklama",
-    largeImageKey: "buyuk_resim",
-    smallImageKey: "kucuk_resim",
-    smallImageText: "Küçük resimin üzerine neden tutuyorsun?",
+var presenceData: presenceData = {
+    details: "My title",
+    state: "My description",
+    largeImageKey: "service_logo",
+    smallImageKey: "small_service_icon",
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Eventler/Eylemler
+## 事件
 
-Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmenizi sağlar. Bir event'i dinleyebilmek için `on` metodunu kullanabilirsiniz.
+Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Veri geldiğinde bir şeyler yap.
+    // Do something when data gets updated.
 });
 ```
 
-Kullanabileceğiniz birkaç event vardır:
+There are few events available:
 
-#### `UpdateData`
+#### `更新数据`
 
-Bu event, kullanıcı servisin çalışacağı bir siteye girdikten sonra sürekli olarak kendini tekrar edecektir.
+This event is fired every time the presence is being updated.
 
 #### `iFrameData`
 
-iFrame'den bilgi geldiğinde bu event bilgi iletecektir.
+Fired when data is received from iFrame script.
