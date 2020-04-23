@@ -1,22 +1,22 @@
 {
     "premid.pageContributors": {
-        "message": "Töhfə verənlər",
+        "message": "Abilised",
         "description": "A page name"
     },
     "premid.pageDownloads": {
-        "message": "Yükləmələr",
+        "message": "Allalaadimised",
         "description": "A page name"
     },
     "premid.pageStore": {
-        "message": "Mağaza",
+        "message": "Pood",
         "description": "A page name"
     },
     "premid.pageWiki": {
-        "message": "Viki",
+        "message": "Abi",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
-        "message": "Həll et",
+        "message": "Veaotsimine",
         "description": "A page name"
     }
 }
