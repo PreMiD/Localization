@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: PreMid API를 사용하여 코드에 접속하고 기능들을 테스트하세요.
 published: true
 date: 2020-04-22T17:59:55.315Z
 tags:
