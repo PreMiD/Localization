@@ -34,7 +34,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | описание                                                                                                                        |
+| Property                   | Descriere                                                                                                                       |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                     |
 | module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
@@ -58,7 +58,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | описание                                                                               |
+| Property            | Descriere                                                                              |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
 | **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
