@@ -18,7 +18,7 @@ tags:
 # プロジェクトをクローンする
 1. ターミナルを開き、`git clone URL`と入力する。 **URL の部分を寄与したいリポジトリーのリンク** 例 `git clone https://github.com/PreMiD/PreMiD` **に置き換える**
 2. 任意のフォルダーを選択する
-3. Open it in your code editor.
+3. ソースコードエディターで開く
 
 # 依存関係のインストール
 > はじめに、[npm](https://www.npmjs.com/) (Node Package Manager) がインストールされていることを確認してください。  [Node](https://nodejs.org/en/)がインストールされている場合、npmは自動でインストールされます。 
@@ -28,7 +28,7 @@ tags:
 - リポジトリー内でターミナルを開き、 `npm i` と入力する
 - 依存関係のタイプを更新する際は `npm update` と入力する
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> 依存関係を更新すると、多数の機能が壊れる可能性があります。テストを必ず行ってください！ 
 > 
 > {.is-danger}
 
