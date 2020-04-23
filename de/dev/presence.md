@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -67,6 +67,8 @@ Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
 - Ihre Präsenz **MUSS** SFW-Bilder und -Beschreibungen enthalten, unabhängig davon, ob es sich um NSFW handelt oder nicht. Wenn es sich bei Ihrer Präsenz um eine NSFW-Website handelt, fügen Sie Ihren Metadaten das Tag `nsfw` hinzu.
 - Ihre Präsenz **KANN** den lokalen Speicher im Browser **NICHT** manipulieren.
 - Ihre Präsenz verwendet möglicherweise Cookies, um Daten zu speichern. Allen von der Präsenz gespeicherten Daten sollte das Präfix `pmd_` vorangestellt werden.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modifikation
 > Sie MÜSSEN die Version in den ** Metadaten ** so ändern, dass sie einen höheren Wert als in der vorherigen Version aufweist, wenn Sie Änderungen an den Metadaten ** Präsenz.js ** oder ** Metadaten.json ** vornehmen . 
