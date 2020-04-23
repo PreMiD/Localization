@@ -1,50 +1,50 @@
 {
   "extension.2.0.new1": {
-    "message": "自分で*プレゼンスを追加できる*ようになりました。",
+    "message": "사용자가 직접 Presences를 추가할 수 있습니다. 한번 추가해보세요!",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "ストアで*新しいプレゼンス*を探しましょう",
+    "message": "새로운 presences를 찾아보십시오",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "自動アップデートが追加されました",
+    "message": "자동 업데이트는 이제 실행중 입니다",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "誰でもプレゼンスを作成できるようになりました",
+    "message": "이제 Presence 들을 유저가 만들수 있습니다",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "クリエイティブな開発者のための*ドキュメント*",
+    "message": "창의적인 개발자를위한 * Docs *",
     "description": ""
   },
   "extension.2.0.new6": {
-    "message": "まったく新しいウェブサイトのデザイン",
+    "message": "새로운 웹사이트 디자인",
     "description": ""
   },
   "extension.2.0.new7": {
-    "message": "私達のDiscord Botに新機能を追加",
+    "message": "우리의 디스코드 봇에 더 많은 기능이 추가되었습니다",
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "私たちの新しいAPIはもはや走る獣です",
+    "message": "우리의 새로운 API는 현재 진행중 입니다",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "ポップアップやタブのレイアウトを刷新",
+    "message": "팝업 및 탭 레이아웃 및 스타일 개선",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "多くの（未 or 既）知のバグがどこかに行きました",
+    "message": "알려지지 않은 많은 버그가 사라졌습니다",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "すべてがより速く動くようになりました",
+    "message": "모든게 더욱 빨리 동작합니다",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "最新版を持っていたとしても古いバージョンと表示される不具合を修正",
+    "message": "만약에 최신 버전이 있다면 당신이 설치된 구버전은 에러로 부터 수정됩니다",
     "description": ""
   }
 }
