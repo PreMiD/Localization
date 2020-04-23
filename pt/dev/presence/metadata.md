@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Contém dados básicos sobre a Presença
 published: true
-date: 2020-04-22T20:07:56.204Z
+date: 2020-04-22T20:07:56.939Z
 tags:
 ---
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Se você deseja publicar uma presença na loja e carregá-la através da extensão, você deve criar o arquivo `metadata.json` na sua pasta `dist`.
 
 O exemplo deste arquivo pode ser encontrado abaixo.
 
@@ -90,7 +90,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. <code>name</code> é seu nome de usuário no Discord sem seu identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um Objeto com <code>name</code> e <code>id</code> do contribuidor. <code>name</code> é seu nome de usuário no Discord sem seu identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Objeto&gt;</code>
       </td>
       <td style="text-align:left"><code>Sim</code>
