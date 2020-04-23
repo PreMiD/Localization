@@ -1,86 +1,78 @@
 {
   "home.introduction.paragraph": {
-    "message": "A **PreMiD** egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett dolgokat a Discord játék tevékenységi felületen.",
+    "message": "**PreMiD**はブラウザ内で何をしているかをDiscordのゲームプレイステータスに表示できるようにするアプリです。",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
-    "message": "Funkciók",
+    "message": "機能を見る",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
-    "message": "Letöltések",
+    "message": "ダウンロードする",
     "description": "Downloads button -> redirects to /downloads page"
   },
   "home.examples.playingagame": {
-    "message": "Játékban",
+    "message": "ゲームのプレイ",
     "description": "Discord Rich Presence -> Playing a game"
   },
   "home.examples.timestamp": {
-    "message": "{0} van hátra",
+    "message": "{0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.timestamp2": {
-    "message": "{0} eltelt",
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-  },
   "home.examples.status.playing": {
-    "message": "Lejátszás",
+    "message": "視聴中",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.examples.status.browsing": {
-    "message": "Böngészés...",
+    "message": "閲覧中...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
-    "message": "Imádni fogod ezeket a funkciókat!",
+    "message": "こんな機能が！",
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Találd meg **saját** állapotüzeneted.",
+    "message": "**あなたの**プレゼンスを見つけましょう。",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
-    "message": "Egy olyan bővítményt készítettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek hozzáadását, használatát és bővítményen keresztüli kezelését!",
+    "message": "この拡張機能は、自分や他の人が作ったプレゼンスを自由に追加できるようになっています！",
     "description": "Features section description"
   },
   "home.features.presencesystem.button": {
-    "message": "Áruház megnyitása",
+    "message": "ストアを開く",
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "Egyszerű felhasználói felület.",
+    "message": "シンプルなUI",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Unod már a bonyolult felhasználói felületeket? Mi létrehoztunk egy egyszerű és hasznos felhasználói felületet, melyek csak a legfontosabb funkciókat tartalmazzák:",
+    "message": "ややこしい設定にうんざりですか？私達が作ったシンプルで簡単なデザインなら、そんなことにうんざりする必要もありません。必要な機能だけ入っています！",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
-    "message": "Alkalmázás és bővítmény beállítások.",
+    "message": "アプリと拡張機能の設定",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.2": {
-    "message": "Állapotüzenet kezelés.",
+    "message": "プレゼンスの管理",
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "Kategória szerinti rendezés.",
+    "message": "カテゴリーごとの並べ替え",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "Gyors segítség.",
+    "message": "素早いサポート",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {
-    "message": "Valami nem működik vagy hibaüzenetek sokaságával áraszt el? Segítünk neked Discord szerverünkön, egy olyan támogatási rendszert fejlesztettünk ki, mely ezt nagyon egyszerűvé teszi.",
+    "message": "何かがバグったり、大量のエラーが出たりしたら…？Discordサーバーでそれを解決する手助けをします。",
     "description": "Features section description"
   },
   "home.features.quickSupport.button": {
-    "message": "Látogass el szerverünkre",
+    "message": "サーバーに入る",
     "description": "Features section button"
-  },
-  "home.languageSelector.tippy": {
-    "message": "Válassz nyelvet",
-    "description": "Tippy content of the language selector."
   }
 }
