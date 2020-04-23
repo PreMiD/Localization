@@ -1,122 +1,50 @@
 {
     "youtube.ad": {
-        "message": "Šiuo metu žiūri reklama",
+        "message": "Aktualnie ogląda reklamę",
         "description": ""
     },
-    "youtube.browsingVideos": {
-        "message": "Naršoma per vaizdo įrašus",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
-    "youtube.browsingPlaylists": {
-        "message": "Naršoma grojaraščiuose",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
     "youtube.viewingCommunityPost": {
-        "message": "Bendruomenės įrašų peržiūra",
+        "message": "Przegląda posty społeczności",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
-        "message": "kanalo:",
+        "message": "z kanału:",
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Skaitoma apie kanalą:",
+        "message": "Czytanie na temat kanału:",
         "description": ""
     },
-    "youtube.searchChannel": {
-        "message": "Ieškoma per kanalą: {0} ieškant:",
-        "description": "{0} will be replaced with the channel name"
-    },
     "youtube.trending": {
-        "message": "Peržiūrima, kas tendencinga",
+        "message": "Przeglądanie trendów",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Naršoma per",
+        "message": "Przeglądanie przez",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "prenumeratas",
+        "message": "ich subskrypcje",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "biblioteka",
+        "message": "ich biblioteka",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "istorija",
+        "message": "ich historię",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "pirkimus",
+        "message": "ich zakupów",
         "description": "Part two of \"Browsing through\""
     },
-    "youtube.reportHistory": {
-        "message": "Jų ataskaitų istorijos peržiūra",
-        "description": ""
-    },
     "youtube.upload": {
-        "message": "Kažkas įkeliama...",
-        "description": ""
-    },
-    "youtube.viewAllPlaylist": {
-        "message": "Peržiūrimi visi grojaraščiai",
-        "description": ""
-    },
-    "youtube.viewLiveEvents": {
-        "message": "Peržiūrimi tiesioginiai įvykiai",
-        "description": ""
-    },
-    "youtube.viewLiveDashboard": {
-        "message": "Peržiūri tiesioginį prietaisų skydelį",
-        "description": ""
-    },
-    "youtube.viewAudioLibrary": {
-        "message": "Garso bibliotekos peržiūra",
-        "description": ""
-    },
-    "youtube.studio.viewVideos": {
-        "message": "Vaizdo įrašų peržiūra",
+        "message": "Przesyłanie czegoś...",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Redaguojamas vaizdo įrašas:",
-        "description": ""
-    },
-    "youtube.studio.videoAnalytics": {
-        "message": "Peržiūrima vaizdo įrašo analitika:",
-        "description": ""
-    },
-    "youtube.studio.videoComments": {
-        "message": "Peržiūrimi vaizdo įrašo komentarai:",
-        "description": ""
-    },
-    "youtube.studio.videoTranslations": {
-        "message": "Peržiūrimi vaizdo įrašo vertimai:",
-        "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "Peržiūrimi",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
-    "youtube.studio.channelAnalytics": {
-        "message": "kanalo analitika",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.channelComments": {
-        "message": "kanalo komentarus",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.channelTranslations": {
-        "message": "kanalo vertimus",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.artistPage": {
-        "message": "atlikėjo puslapį",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.dashboard": {
-        "message": "Peržiūrimas prietaisų skydelis",
+        "message": "Edytuje wideo:",
         "description": ""
     }
 }
