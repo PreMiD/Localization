@@ -1,34 +1,34 @@
 ---
-title: Класс присутствия
-description: Основной класс для каждого присутствия PreMiD
+title: Classe de presença
+description: A classe principal para cada presença do PreMiD
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Класс присутствия
+# Classe de presença
 
-## Введение
+## Introdução
 
-Класс `Presence` очень полезен, так как он содержит базовые методы, необходимые для создания присутствия.
+A classe `Presença` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
 
- При создании класса необходимо указать свойство `clientId`.
+ Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Пример clientId
+    clientId: "514271496134389561" // Exemplo clientId
 });
 ```
 
-Доступны два свойства для класса `Presence`.
+Há duas propriedades disponíveis para a `Presença` classe.
 
 #### `clientId`
 
-`clientId` должно быть предоставлено, чтобы ваше присутствие работало, так как оно использует ваш идентификатор приложения для отображения логотипа и активов.
+`a propriedade clientId` deve ser fornecida para que sua presença funcione, porque ela usa o ID do aplicativo para exibir o seu logotipo e ativos.
 
-Вы можете получить это на [странице приложений](https://discordapp.com/developers/applications).
+Você pode obtê-lo na sua [página de aplicativos](https://discordapp.com/developers/applications).
 
-## Методы
+## Métodos
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -44,13 +44,13 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Этот метод работает только на Mac OS. 
+> Este método funciona somente no Mac OS. 
 > 
 > {.is-warning}
 
 Sets the tray title on the Menubar.
 
-### `getStrings(Объект)`
+### `getStrings(Objeto)`
 
 Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -102,7 +102,7 @@ var pageVar = getPageLetiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` Интерфейс
+## `Interface de presençaDados`
 
 The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
@@ -111,61 +111,61 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Переменная</th>
-      <th style="text-align:left">Описание</th>
-      <th style="text-align:left">Тип</th>
+      <th style="text-align:left">Variável</th>
+      <th style="text-align:left">Descrição</th>
+      <th style="text-align:left">Tipo</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">подробнее</td>
-      <td style="text-align:left">Первая строка в вашем присутствии, обычно используется в качестве заголовка.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left">detalhes</td>
+      <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">штат</td>
-      <td style="text-align:left">Вторая линия вашего присутствия.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left">Estado</td>
+      <td style="text-align:left">Segunda linha em sua presença.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Определяет текущее время.<br>
-        Используется если вы хотите отображать сколько <code>часов:минут:секунд</code> осталось.
-          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчет
-.
+      <td style="text-align:left">Define o tempo atual.<br>
+        Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
+          contagem regressiva errada.
       </td>
-      <td style="text-align:left"><code>Номер</code>
+      <td style="text-align:left"><code>numero</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Определяет полную продолжительность.
-        <br>Используется если вы хотите отображать сколько <code>часов:минут:секунды</code> слева.
-          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчет
-.
+      <td style="text-align:left">Define a duração completa.
+        <br>Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
+          contagem regressiva errada.
       </td>
-      <td style="text-align:left"><code>Номер</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Определяет логотип для присутствия.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left"><code>numero</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">маленький ключ изображения</td>
-      <td style="text-align:left">Определяет маленький значок рядом с наличием&apos;с логотипа.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left">Key</td>
+      <td style="text-align:left">Define o logotipo para a presença.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">маленькое изображениеТекст</td>
-      <td style="text-align:left">Определяет текст, который будет показан пользователю, когда он наведет маленький значок
-.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left">Chave</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado da presença&apos;logo .</td>
+      <td style="text-align:left"><code>String</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">minhaImagemTexto</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele irá colocar o cursor no ícone de
+        pequeno.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -183,7 +183,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## События
+## Eventos
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
@@ -195,7 +195,7 @@ presence.on("UpdateData", async () => {
 
 There are few events available:
 
-#### `Обновить данные`
+#### `AtualizarDados`
 
 This event is fired every time the presence is being updated.
 
