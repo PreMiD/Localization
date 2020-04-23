@@ -122,5 +122,9 @@
 	"partners.apply.form.name": {
 		"message": "Jméno",
 		"description": "Name filed."
+	},
+	"partners.apply.success": {
+		"message": "Děkujeme vám za přihlášku!",
+		"description": "Success message when applying."
 	}
 }
