@@ -2,7 +2,7 @@
 title: Desarrollo de Presencias
 description:
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 - Su presencia **DEBE** tener imágenes y descripciones SFW independientemente de si es NSFW o no. Si su presencia es acerca de un sitio web con contenido NSFW, por favor agregue la etiqueta `nsfw` en sus metadatos.
 - Su presencia **NO PUEDE** manipular el almacenamiento local del navegador.
 - Su presencia puede utilizar cookies para almacenar datos. Todos los datos almacenados por la presencia deben utilizar el prefijo `pmd_`.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modificación
 > DEBES actualizar la versión en los **metadatos** a un valor mayor al de la versión anterior siempre que se modifiquen los archivos **presence.js** o **metadata.json**. 
