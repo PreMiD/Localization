@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
 - Presence anda **HARUS** memiliki gambar dan deskripsi SFW terlepas dari apakah itu NSFW atau tidak. Jika presence anda tentang website NSFW, harap tambahkan tag `nsfw` pada metadata.
 - Presence anda **TIDAK BISA** merubah penyimpanan lokal pada browser.
 - Presence anda boleh menggunakan cookies untuk menyimpan data. Semua data disimpan oleh presence harus memiliki prefix `pmd_`.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Perubahan
 > Anda HARUS merubah versi **metadata** menjadi nilai lebih tinggi dari versi sebelumnya saat membuat perubahan ke **presence.js** atau **metadata.json**. 
