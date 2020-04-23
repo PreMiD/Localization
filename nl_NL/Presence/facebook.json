@@ -1,62 +1,62 @@
 {
     "facebook.call": {
-        "message": "In gesprek met:",
+        "message": "Numa chamada com:",
         "description": ""
     },
     "facebook.vcall": {
-        "message": "In een videogesprek met:",
+        "message": "Numa chamada de video com:",
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "iemand... (Gebruiker verborgen)",
+        "message": "alguém... (Utilizador escondido)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
-        "message": "Stelt een bericht op",
+        "message": "A escrever uma mensagem",
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "Leest over gebruiker:",
+        "message": "A ler sobre um utilizador:",
         "description": ""
     },
     "facebook.userCommunity": {
-        "message": "Bekijkt de community van gebruiker:",
+        "message": "A ver a comunidade de um utilizador:",
         "description": ""
     },
     "facebook.userPics": {
-        "message": "Bekijkt de foto's van gebruiker:",
+        "message": "A ver fotos de um utilizador:",
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "Bekijkt de berichten van gebruiker:",
+        "message": "A ver publicações de um utilizador:",
         "description": ""
     },
     "facebook.userShop": {
-        "message": "Bekijkt de winkel van gebruiker:",
+        "message": "A ver loja de um utilizador:",
         "description": ""
     },
     "facebook.userFriends": {
-        "message": "Bekijkt de vrienden van gebruiker:",
+        "message": "A ver amigos de um utilizador:",
         "description": ""
     },
     "facebook.userVids": {
-        "message": "Bekijkt de video's van gebruiker:",
+        "message": "A ver videos de um utilizador:",
         "description": ""
     },
     "facebook.browse": {
-        "message": "Bladert door:",
+        "message": "A pesquisar por:",
         "description": ""
     },
     "facebook.savedVids": {
-        "message": "Opgeslagen video's",
+        "message": "Vídeos gravados",
         "description": ""
     },
     "facebook.added": {
-        "message": "Onlangs toegevoegd",
+        "message": "Recentemente adicionados",
         "description": ""
     },
     "facebook.weather": {
-        "message": "Bekijkt het weer van vandaag",
+        "message": "A ver o clima de hoje",
         "description": ""
     }
 }
