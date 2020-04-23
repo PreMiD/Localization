@@ -1,58 +1,22 @@
 {
-    "premid.viewPage": {
-        "message": "يشاهد الصفحة:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "المستندات",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "يشاهد presence:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "الصفحة الرئيسية",
-        "description": "A page name"
-    },
     "premid.pageContributors": {
-        "message": "المساهمون",
+        "message": "Сътрудници",
         "description": "A page name"
     },
     "premid.pageDownloads": {
-        "message": "تحميل",
+        "message": "Downloads",
         "description": "A page name"
     },
     "premid.pageStore": {
-        "message": "المتجر",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "سياسة ملفات تعريف الإرتباط",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "سياسة الخصوصية",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "شروط الخدمة",
+        "message": "магазин",
         "description": "A page name"
     },
     "premid.pageWiki": {
-        "message": "الويكي",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "نبذة عنا",
+        "message": "Wiki",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
-        "message": "استكشاف الأخطاء وإصلاحها\n \n ",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "ابدء",
+        "message": "Отстраняване на неизправности",
         "description": "A page name"
     }
 }
