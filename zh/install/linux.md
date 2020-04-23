@@ -1,16 +1,16 @@
 ---
 title: Linux
-description: 开始在 Linux 上安装PreMiD
-published: true
+description: Getting started with a PreMiD installation on Linux
+published: 是
 date: 2020-03-15T17:29:16.527Z
 tags:
 ---
 
-> 在继续操作之前，请确保您的系统满足所有 [要求](/install/requirements)。{.is-info}
+> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
 
-安装应用程序非常重要，因为扩展本身无法做任何事情。
+The installation of the application is very important as the extension can not do anything by itself.
 
-# 安装
+# 安裝
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ tags:
   </tr>
 </table>
 
-> 别忘了 [添加 **扩展**](/install)。{.is-warning}
+> Do not forget to [add the **extension**](/install).{.is-warning}
 
 # More info
 https://github.com/PreMiD/Linux
