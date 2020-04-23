@@ -1,62 +1,62 @@
 ---
-title: Presence Sınıfı
-description: Tüm PreMiD servisleri için geçerli ana sınıf
+title: Клас присутності
+description: Основний клас для кожної присутності PreMiD
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Presence Sınıfı
+# Клас присутності
 
-## Tanıtım
+## Вступ
 
-`Presence` sınıfı, servisimizi oluştururken bize gerekli bir çok metod ve yöntem ile yardımcı olacaktır.
+Клас `присутність` є дуже корисним, оскільки в ньому є основні методи, які нам потрібні для створення виразу.
 
- Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
+ Якщо ви створите клас, вам необхідно вказати `clientId` властивість.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Örnek bir clientId alanı
+clientId: "514271496134389561" // Приклад clientId
 });
 ```
 
-`Presence` sınıfı için şimdilik geçerli iki adet alan vardır.
+Тут наявні дві властивості для класу`Presence`.
 
 #### `clientId`
 
-`clientId` alanı, servis kodunun çalışabilmesi için gereklidir çünkü bu sayede uygulamanıza eklediğiniz resimleri ve diğer bilgileri çekiyoruz.
+Параметр`clientId` повинен бути показаний, щоб ваша присутність працювала, оскільки він використовує ідентифікатор вашого застосунку, щоб відобразити його логотип та активи.
 
-Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
+Ви можете отримати це на сторінці [програм](https://discordapp.com/developers/applications).
 
-## Metodlar
+## Методи
 
 ### `setActivity(presenceData, Boolean)`
 
-Verilen verilerle profilinizi ayarlar.
+Встановлює активність вашого профілю відповідно до наданих даних.
 
-Bu metodun ilk parametresi profilde göstermek istediğiniz `presenceData` verisini içeren bir obje olmalıdır.
+Перший параметр вимагає інтерфейсу `presenceData` , щоб отримати всю інформацію, яку ви хочете відобразити у вашому профілі.
 
-İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `presenceData` içerisinde zaman verisi belirttiyseniz, her zaman `true` değerini kullanın.
+Другий параметр визначає, коли присутність щось грає чи ні. Завжди використовуйте `true` , якщо ви надаєте часові мітки в `presenceData`.
 
 ### `clearActivity()`
 
-Gözüken verileri temizler, tuşları yakalamayı bırakır ve menü çubuğu yazısını temizler.
+Очищує вашу поточну діяльність, клавіатурні клавіші та заголовок трею.
 
 ### `setTrayTitle(String)`
 
-> Bu yöntem sadece MacOS üzerinde çalışmaktadır. 
+> Цей метод працює тільки на Mac OS. 
 > 
 > {.is-warning}
 
-Menüdeki durum yazısını ayarlar.
+Встановлює заголовок у рядку меню.
 
-### `getStrings(Object)`
+### `getStrings(Об'єкт)`
 
-Çevirileri almanızı sağlar. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Aşağıdaki bağlantıdan eklentiden alabileceğiniz çevirileri bulabilirsiniz: `https://api.premid.app/v2/langFIle/extension/en`</code>
+Дозволяє отримати перекладені рядки з розширення. Для рядка вам потрібно вказати `Object` за допомогою клавіш для рядка, `keyValue` - значення рядка. Ви можете знайти деякі з рядків, використовуючи цю кінцеву точку: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// `Oynatılıyor` ve `Durduruldu` çevirilerini
-// gösterir.
+// Повертає `Playing` і `Paused` рядків
+// з розширення.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -83,7 +83,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Повертає версію розширення, яку користувач використовує.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -93,109 +93,112 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
-### `getPageletiable(String)`
+### `getPageLetiable(рядок)`
 
-Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
+Повертає змінну з веб-сайту, якщо вона існує.
 
 ```typescript
-let pageVar = getPageLetiable('degisken');
-console.log(pageVar); // Bu 'degisken' değişkeninin içeriğini konsola yazdırır.
+var pageVar = getPageLetiable('.pageVar');
+console.log(page); // Це закриє "Variable content"
 ```
 
-## `presenceData` Arayüzü
+## `presenceData` Інтерфейс
 
-`presenceData` arayüzü, `setActivity()` metodunu kullandığınızda tavsiye edilmektedir.
+Інтерфейс `presenceData` рекомендується використовувати під час використання методу `setActivity()`.
 
-Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani zorunlu değildir.
+Цей інтерфейс має наступні змінні, усі вони є необов'язковими.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Anahtar</th>
-      <th style="text-align:left">Açıklama</th>
-      <th style="text-align:left">Tür</th>
+      <th style="text-align:left">Змінна</th>
+      <th style="text-align:left">Опис</th>
+      <th style="text-align:left">Тип</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
-      <td style="text-align:left">Profilinizde gözüken kısımda üst tarafta bulunan yazı.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">подробиці</td>
+      <td style="text-align:left">Перший рядок присутності, зазвичай використовується як заголовок.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Profilinizde gözüken kısımda alt tarafta bulunan yazı.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">положення</td>
+      <td style="text-align:left">Другий рядок у вашій присутності.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Geçerli zamanı belirtir.<br>
-        Başlangıç zamanını belirterek ondan sonra ne kadar zaman geçtiğini gösterebilirsiniz.
-          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
+      <td style="text-align:left">Визначає поточний час.<br>
+        Використовувати, якщо потрібно вивести на екран скільки <code>годин:секунд:секунд</code>.
+          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
+.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Uzunluğu belirler.
-        <br>Bitiş zamanını belirlerseniz kaç <code>saat:dakika:saniye</code> kaldığını profilde gösterebilirsiniz.
-          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
+      <td style="text-align:left">Визначає всю тривалість.
+        <br>Використовується для відображення скільки <code>годин:хвилин:секунд</code>.
+          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
+.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Servisin büyük resmini belirler.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Визначає логотип для присутності.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Büyük resmin yanında bulunacak küçük simgenin ismini belirler.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">маленький ключ зображення</td>
+      <td style="text-align:left">Визначає маленьку іконку поруч з присутністю&apos;s логотип.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">İmleci küçük resmin üzerine tuttuğunuzda gösterilecek yazıyı belirler.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Визначає текст, який буде відображатися користувачеві, коли він буде наводитись до малої піктограми
+.</td>
+      <td style="text-align:left"><code>Рядок</code>
       </td>
     </tr>
   </tbody>
 </table>
 
 ```typescript
-let presenceData: presenceData = {
-    details: "Başlık",
-    state: "Açıklama",
-    largeImageKey: "buyuk_resim",
-    smallImageKey: "kucuk_resim",
-    smallImageText: "Küçük resimin üzerine neden tutuyorsun?",
+var presenceData: presenceData = {
+    details: "Мій заголовок",
+    state: "Мій опис",
+    largeImageKey: "лого_сервісу",
+    smallImageKey: "маленька_піктограма_сервісу_",
+    smallImageText: "You hovered me, and what now?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## Eventler/Eylemler
+## Події
 
-Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmenizi sağlar. Bir event'i dinleyebilmek için `on` metodunu kullanabilirsiniz.
+Події дозволяють виявити і обробляти деякі зміни, або виклики, які були зроблені. Ви можете підписатись на події, використовуючи `on` метод.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Veri geldiğinde bir şeyler yap.
+    // Зробіть щось, коли дані оновлюються.
 });
 ```
 
-Kullanabileceğiniz birkaç event vardır:
+Є мало доступних подій:
 
-#### `UpdateData`
+#### `Оновлення даних`
 
-Bu event, kullanıcı servisin çalışacağı bir siteye girdikten sonra sürekli olarak kendini tekrar edecektir.
+Ця подія вистрілюється щоразу, коли присутність оновлюється.
 
 #### `iFrameData`
 
-iFrame'den bilgi geldiğinde bu event bilgi iletecektir.
+Вимикається при отриманні даних з iFrame script.
