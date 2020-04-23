@@ -1,22 +1,22 @@
 {
     "premid.pageContributors": {
-        "message": "Rannpháirtithe",
+        "message": "Abilised",
         "description": "A page name"
     },
     "premid.pageDownloads": {
-        "message": "Íoslódálacha",
+        "message": "Allalaadimised",
         "description": "A page name"
     },
     "premid.pageStore": {
-        "message": "Stór",
+        "message": "Pood",
         "description": "A page name"
     },
     "premid.pageWiki": {
-        "message": "Vici",
+        "message": "Abi",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
-        "message": "Fabhtcheartú",
+        "message": "Veaotsimine",
         "description": "A page name"
     }
 }

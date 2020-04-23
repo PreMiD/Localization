@@ -1,38 +1,30 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "Исходный код",
-		"description": "Source Code button on presence pages."
-	},
 	"presence.sections.description.title": {
-		"message": "Описание",
+		"message": "Popis",
 		"description": "The title of the description section."
 	},
 	"presence.sections.information.title": {
-		"message": "Информация",
+		"message": "Informácie",
 		"description": "The title of the information section."
 	},
 	"presence.sections.information.author": {
-		"message": "Автор",
+		"message": "Autor",
 		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
 	},
 	"presence.sections.information.version": {
-		"message": "Версия",
+		"message": "Verzia",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
-	"presence.sections.information.users": {
-		"message": "Пользователи",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
 	"presence.sections.information.tags": {
-		"message": "Метки",
+		"message": "Štítky",
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
-		"message": "Поддерживаемые ссылки",
+		"message": "Podporené URL stránky",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.contributors": {
-		"message": "Участники",
+		"message": "Prispievatelia",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }
