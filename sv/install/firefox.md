@@ -1,23 +1,23 @@
 ---
 title: Firefox
-description: Rozpoczęcie instalacji PreMiD w przeglądarce Firefox
-published: tak
+description: Komma igång med en PreMiD-installation på Firefox
+published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-Instalacja rozszerzenia jest bardzo ważna, ponieważ aplikacja nie może zrobić niczego samodzielnie.
+Installationen av tillägget är mycket viktigt eftersom programmet inte kan göra något av sig själv.
 
-# Zainstaluj
-1. Przejdź do naszej strony pobierania [klikając tutaj](https://premid.app/downloads).
-2. Wybierz **Firefox**.
-3. Wyszukaj `about:addons`.
-4. Kliknij ikonę koła zębatego w prawym górnym rogu.
-5. Wybierz **Zainstaluj dodatek z pliku**.
-6. Wybierz plik, który ostatnio pobrałeś.
-7. Zaakceptuj instalację klikając **Dodaj**.
+# Installera
+1. Gå till vår nedladdningssida genom att [klicka här](https://premid.app/downloads).
+2. Välj **Firefox**.
+3. Sök efter `about:addons`.
+4. Klicka på den lilla kugghjulsikonen i övre högra hörnet.
+5. Välj **Installera tillägg från fil**.
+6. Välj den fil du laddade ner nyligen.
+7. Acceptera installationen genom att klicka på **Lägg till**.
 
-> Nie zapomnij [zainstalować **aplikacji**](/install). 
+> Glöm inte att [lägga till **-applikationen**](/install). 
 > 
 > {.is-warning}
 
