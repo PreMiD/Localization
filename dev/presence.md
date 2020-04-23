@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags: 
 ---
 
@@ -56,6 +56,8 @@ Before you begin working on your presence, keep the following list in mind.
 - Your presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your presence is about an NSFW website, please add the `nsfw` tag to your metadata.
 - Your presence **CANNOT** manipulate local storage on the browser.
 - Your presence may use cookies to store data. All data stored by the presence should be prefixed with `pmd_`.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modification
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**.
