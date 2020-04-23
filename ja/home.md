@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 # PreMiDについて
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [PreMidってなに？](/about) PreMiDについて解説しているページです。
 - :link: [RPCって？](https://discordapp.com/rich-presence) Rich Presence機能に関してです。
 
 # 使ってみる
