@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-04-22T18:39:49.395Z
+date: 2020-04-23T23:25:59.632Z
 tags:
 ---
 
@@ -59,6 +59,8 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Twoja obecność **MUSI** ma obrazy i opisy SFW niezależnie od tego, czy jest NSFW czy nie. Jeśli Twoja obecność dotyczy strony NSFW, dodaj tag `nsfw` do metadanych.
 - Twoja obecność **NIE MOŻE** manipulować pamięcią lokalną w przeglądarce.
 - Twoja obecność może używać plików cookie do przechowywania danych. Wszystkie dane przechowywane przez obecność powinny być poprzedzone `pmd_`.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modyfikacja
 > MUSI zmienić wersję w **metadanych**, aby była wyższą wartością w poprzedniej wersji podczas wprowadzania zmian do **obecności. s** lub **metadata.json**. 
