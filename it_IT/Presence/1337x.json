@@ -1,74 +1,26 @@
 {
     "1337x.movieLibrary": {
-        "message": "Filmų bibliotekos peržiūra",
+        "message": "Guardando la libreria film",
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "Serijų bibliotekos peržiūra",
+        "message": "Guardando la libreria serie",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "Paskutinių epizodų peržiūra",
+        "message": "Guardando gli ultimi episodi",
         "description": ""
     },
     "1337x.top": {
-        "message": "100 geriausiųjų peržiūra",
+        "message": "Guardando i primi 100",
         "description": ""
     },
     "1337x.trending": {
-        "message": "Peržiūrima, kas tendencinga",
+        "message": "Guardando le tendenze",
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "Aplikacijų torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.docTorrents": {
-        "message": "Dokumentinių filmų torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.gamesTorrents": {
-        "message": "Žaidimų torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.moviesTorrents": {
-        "message": "Filmų torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.musicTorrents": {
-        "message": "Muzikos torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.otherTorrents": {
-        "message": "Kitų torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.tvTorrents": {
-        "message": "TV torrentų peržiūra",
-        "description": ""
-    },
-    "1337x.xxxTorrents": {
-        "message": "XXX torrentų peržiūra",
-        "description": "XXX as in NSFW"
-    },
-    "1337x.upload": {
-        "message": "Kažkas įkeliama...",
-        "description": ""
-    },
-    "1337x.rules": {
-        "message": "Taisyklių skaitymas",
-        "description": ""
-    },
-    "1337x.writing": {
-        "message": "Rašymas 1337x",
-        "description": ""
-    },
-    "1337x.about": {
-        "message": "Skaitoma apie 1337x",
-        "description": ""
-    },
-    "1337x.viewTorrent": {
-        "message": "Žiūrimas torrentas:",
+        "message": "Guardando App Torrent",
         "description": ""
     }
 }

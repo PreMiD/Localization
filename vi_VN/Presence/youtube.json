@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Đang xem quảng cáo",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Chỉnh sửa video:",
+        "description": ""
+    }
+}
