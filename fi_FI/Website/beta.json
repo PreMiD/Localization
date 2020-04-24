@@ -1,1 +1,42 @@
-{}
+{
+  "beta.title": {
+    "message": "Új funkciókat próbálnál ki?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "A **PreMiD Beta** mindenki számára elérhető!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Mit biztosítunk számodra, ha regisztrálsz?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Új funkciók",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Hozzáférés a PreMiD szupertitkos szövegcstornáihoz",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Különleges rang Discord szerverünkön",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Készen állsz? Csatlakozz a(z) {0} Beta tesztelőhöz!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Regisztráció!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Szuper! Mostmár beta tesztelő vagy!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Majmaink rajta vannak, hogy minél hamarabb bekerülj a beta programba. Köszönjük a regisztrálást!",
+    "description": "Thank You page description"
+  }
+}
