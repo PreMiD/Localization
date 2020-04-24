@@ -1,42 +1,42 @@
 ---
-title: Başlarken
-description: Kodlamaya yeni başlayanlara ufak bir tavsiye
-published: true
+title: Wprowadzenie
+description: Troche porad dla tych co chcą zacząć programować
+published: tak
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> Bu işlemler için bir kod editörü kullanmanız gerekecektir. Biz editör olarak Visual Studio Code'u öneriyoruz. 
+> Edytor kodu źródłowego jest wymagany. Zalecamy Visual Studio Code. 
 > 
 > {.is-info}
 
-# Gereksinimleri yükleme
-1. [Git](https://git-scm.com/)'i yükleyin.
-2. [Node](https://nodejs.org/en/)'u yükleyin.
-3. TypeScript'i yüklemek için [buradan](https://www.typescriptlang.org/index.html#download-links) indirin veya konsolunuzu açıp `npm install -g typescript` yazın.
+# Instalowanie wymagań
+1. Zainstaluj program [Git](https://git-scm.com/).
+2. Zainstaluj program [Node.js](https://nodejs.org/en/) (instaluje się z [npm](https://www.npmjs.com/)).
+3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz terminal i wpisz `npm install -g typescript`).
 
-# Projeyi klonlama
-1. Konsolunuzu açın ve `git clone URL` yazın. **Aşağıdaki linki katkıda bulunmak istediğiniz depo linkiyle değiştirin.** örn. `git clone https://github.com/PreMiD/PreMiD`.
-2. Bir klasör seçin.
-3. Open it in your code editor.
+# Klonowanie projektu
+1. Otwórz konsole i wpisz `git clone URL`. **Zamień URL na link repozytorium które chcesz wspomóc** np. `git clone https://github.com/PreMiD/PreMiD`.
+2. Wybierz folder.
+3. Otwórz go w twoim edytorze kodu.
 
-# Bağımlılıkları yükleme
-> Node'un içinde gelen [npm](https://www.npmjs.com/)'nin (Node Package Manager) yüklü olduğundan emin olun. Eğer [Node](https://nodejs.org/en/)'u daha önceden yüklediyseniz tekrar yüklemenize gerek yoktur. 
+# Instalowanie zależności
+> Upewnij się, że masz zainstalowane [npm](https://www.npmjs.com/) (Node Package Manager). Instaluje się to automatycznie, jeżeli masz zainstalowane [Node.js](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Klonladığınız depo klasöründeyken konsolu açın ve `npm i` yazın.
-- Bağımlılıkları güncellemek için `npm update` yazın.
+- Otwórz konsole w twoim folderze z repozytorium i wpisz `npm i`.
+- Aby zaktualizować zależności, wpisz `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Uważaj z aktualizacjami zależności, ponieważ mogą się zepsuć, albo i nie - testowanie jest potrzebne! 
 > 
 > {.is-danger}
 
-# Kendiniz kodlayın
-Lütfen temeli iyi atın. Projemizde karışıklıklara neden olmak istemiyoruz. Hasarlı veya geçersiz dosyalar kabul edilmeyecektir.
+# Programowanie twojej wizji
+Prosimy o zachowanie struktury. Nie chcemy dezorganizowywać naszego projektu. Chaotyczne pliki nie będą akceptowane.
 
-# Çalışmanızı paylaşma
-Katkıda bulunmak istediğiniz [GitHub depomuza](https://github.com/PreMiD/) bir "Pull Request" atın. Geri kalanını biz halledeceğiz, merak etmeyin. Eğer daha önce bir "Pull Request" atmadıysanız [buradaki](https://help.github.com/en/articles/creating-a-pull-request) kılavuzu inceleyebilirsiniz.
+# Wysyłanie twojego kodu
+Po prostu otwórz Pull Request jednym z naszych [GitHub'owych repozytoriów](https://github.com/PreMiD/) które chcesz wspomóc. Zajmiemy się wszystkim, nie martw się. Jeżeli to twój pierwszy raz kiedy tworzysz pull request, sprawdź [ten tutorial](https://help.github.com/en/articles/creating-a-pull-request) (po angielsku).
 
-# Onaylanma aşaması
-Bizim için en büyük hedef, kullanıcılara karşı arkadaş canlısı, saygılı ve olabildiğince açıklayıcı bir şekilde yaklaşmak. İnceleme işlemini başlatmak için [Discord sunucumuzda](https://discord.gg/WvfVZ8T)n bir inceleme yetkilisini etiketleyin. İnceleme sonucu kodun kalitesine, görünüşüne ve işleyişine göre hesaplanacaktır.
+# Zatwierdzanie
+Nasz główny cel to współpraca z użytkownikami więc bądź tak miły, uszanowany i informatywny jak to możliwe. Wystarczy zaczepić Developera na naszym [Discordowym serwerze](https://discord.gg/WvfVZ8T) aby otrzymać rozpatrzenie na naszym GitHubie, albo i nie. Zależnie od jakości kodu, wyglądu i zwykłej funkcjonalności.
