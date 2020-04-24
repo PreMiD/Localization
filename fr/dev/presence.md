@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-04-23T23:25:59.632Z
+date: 2020-04-24T12:47:02.402Z
 tags:
 ---
 
@@ -363,7 +363,7 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
+  "tags": ["TAG1", "TAG2"],
   "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
@@ -382,8 +382,8 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist",
-            "placeholder": "use %song or %artist"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
