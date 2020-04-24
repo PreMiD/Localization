@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: PreMiD telepítési útmutató a Firefox program esetében
+description: PreMiD telepítési útmutató a Firefox böngésző esetében
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
