@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-04-24T12:45:04.227Z
+date: 2020-04-24T12:45:27.030Z
 tags: 
 ---
 
@@ -33,7 +33,7 @@ The example of that file can be found below.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
+  "tags": ["TAG1", "TAG2"],
   "category": "CATEGORY",
   "iframe": false,
   "settings": [
