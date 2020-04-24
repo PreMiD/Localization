@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-04-22T20:07:56.204Z
+date: 2020-04-24T12:45:04.227Z
 tags: 
 ---
 
@@ -50,8 +50,8 @@ The example of that file can be found below.
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist",
-            "placeholder": "use %song or %artist"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
@@ -258,8 +258,8 @@ Setup interactive settings so users can customize the presence!
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
         },
         {
             "id": "ID",
