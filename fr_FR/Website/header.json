@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Română",
+    "message": "Français",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Avem limbajul tău, dorești să îl schimbi?",
+    "message": "Nous supportons votre langue, voulez-vous la changer?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website-ul nostru a fost tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine.",
+    "message": "Notre site web a été traduit dans votre langue. Ça pourrait vous aider au cas où vous ne parlez pas très bien l'Anglais.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Nu, mulțumesc",
+    "message": "Non, merci",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Schimbă limba",
+    "message": "Changer de langue",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Cocând clătite...;Plasând containere...;Analizând adresa ta IP...;UwU;Încălcând regulile...",
+    "message": "En train de cuire des pancakes...;En train de placer des conteneurs...;En train d'analyser votre adresse IP...;UwU;En train de casser des règles...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Magazin",
+    "message": "Boutique",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Descărcări",
+    "message": "Téléchargements",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contribuitori",
+    "message": "Contributeurs",
     "description": "Contributors tab"
   }
 }
