@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Linux'ta PreMiD kurulumuna başlarken
+description: Komma igång med en PreMiD-installation på Linux
 published: true
 date: 2020-04-23T21:44:28.693Z
 tags:
@@ -8,18 +8,18 @@ tags:
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
 
-Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
+Installationen av programmet är mycket viktigt eftersom förlängningen inte kan göra något av sig själv.
 
 ## Table of Contents
 
-- **[Hakkında](#about)**
+- **[About](#about)**
   - [Stats](#stats)
-  - [Gereksinimler](#requirements)
+  - [Krav](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Katkıda Bulunanlar](#credits)
+  - [Beröm](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -36,7 +36,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 <a name="about"></a>
 
-## Hakkında
+## About
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -59,7 +59,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 <a name="requirements"></a>
 
-### Gereksinimler
+### Krav
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -81,7 +81,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### Katkıda Bulunanlar
+### Beröm
 
 Thanks to :
 
@@ -107,7 +107,7 @@ Probably never, since Snap's nature blocks PreMiD from reaching Discord and the 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
-## Taşınabilir AppImage
+## Portable AppImage
 
 The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
 
@@ -171,7 +171,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 ### Additional notes
 
-Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. If you don't have any, Yay is recommended, run :
+If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
