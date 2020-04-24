@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základné údaje o Prítomnosti
 published: true
-date: 2020-04-22T20:07:56.204Z
+date: 2020-04-24T12:45:27.030Z
 tags:
 ---
 
@@ -33,7 +33,7 @@ Príklad tohto súboru je uvedený nižšie.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
+  "tags": ["TAG1", "TAG2"],
   "category": "CATEGORY",
   "iframe": false,
   "settings": [
@@ -50,8 +50,8 @@ Príklad tohto súboru je uvedený nižšie.
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist",
-            "placeholder": "use %song or %artist"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
@@ -208,7 +208,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>nastavenia</b>
       </td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code>
@@ -252,8 +252,8 @@ Setup interactive settings so users can customize the presence!
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
         },
         {
             "id": "ID",
