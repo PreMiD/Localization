@@ -1,22 +1,26 @@
 {
     "premid.pageContributors": {
-        "message": "Сътрудници",
+        "message": "Contribuitori",
         "description": "A page name"
     },
     "premid.pageDownloads": {
-        "message": "Downloads",
+        "message": "Descărcări",
         "description": "A page name"
     },
     "premid.pageStore": {
-        "message": "магазин",
+        "message": "Magazin",
         "description": "A page name"
     },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Instalare",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
-        "message": "Отстраняване на неизправности",
+        "message": "Depanare",
         "description": "A page name"
     }
 }
