@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Erste Schritte einer PreMiD-Installation unter Linux
+description: Začněte s instalací PreMiD na Linuxu
 published: true
 date: 2020-04-23T21:44:28.693Z
 tags:
@@ -8,18 +8,18 @@ tags:
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
 
-Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht funktionieren würde.
+Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
 ## Table of Contents
 
-- **[Über](#about)**
+- **[Podrobnosti](#about)**
   - [Stats](#stats)
-  - [Anforderungen](#requirements)
+  - [Požadavky](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Mitwirkende](#credits)
+  - [Poděkování](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -36,7 +36,7 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 <a name="about"></a>
 
-## Über
+## Podrobnosti
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -59,7 +59,7 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 <a name="requirements"></a>
 
-### Anforderungen
+### Požadavky
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -74,14 +74,14 @@ It is unknown whether older versions of other distributions support it, so just 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Tritt unserem Discord Server bei!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Tritt unserem Discord Server bei!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Připojte se k našemu Discordu!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Připojte se k našemu Discordu!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Mitwirkende
+### Poděkování
 
 Thanks to :
 
@@ -171,7 +171,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 ### Additional notes
 
-Wenn deine Distribution Pacman verwendet, musst du zuerst einen der Helfer installieren. If you don't have any, Yay is recommended, run :
+If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
