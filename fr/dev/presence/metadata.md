@@ -2,7 +2,7 @@
 title: Métadonnées.json
 description: Contient des données de base sur la Presence
 published: vrai
-date: 2020-04-22T20:07:56.204Z
+date: 2020-04-24T12:45:27.030Z
 tags:
 ---
 
@@ -33,7 +33,7 @@ L'exemple de ce fichier peut être trouvé ci-dessous.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
+  "tags": ["TAG1", "TAG2"],
   "category": "CATEGORY",
   "iframe": false,
   "settings": [
@@ -50,8 +50,8 @@ L'exemple de ce fichier peut être trouvé ci-dessous.
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist",
-            "placeholder": "use %song or %artist"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
@@ -256,8 +256,8 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song or %artist" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
         },
         {
             "id": "ID",
