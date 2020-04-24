@@ -1,34 +1,34 @@
 ---
-title: Presence klasė
-description: Pagrindinė klasė kiekvieno PreMiD presence
+title: Närvaro klass
+description: Huvudklassen för varje PreMiD presence
 published: true
 date: 2020-04-08T19:33:34.075Z
 tags:
 ---
 
-# Presence klasė
+# Närvaro klass
 
-## Įvadas
+## Introduktion
 
-`Presence` klasė yra labai naudinga, nes joje yra pagrindiniai metodai, kurių mums reikia norint sukurti presence.
+`Närvaro` klassen är mycket användbar eftersom den har grundläggande metoder som vi behöver för att skapa en presence.
 
- When you create a class you must specify `clientId` property.
+ När du skapar en klass måste du ange `clientId` egenskap.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Pavyzdinis clientId
+    clientId: "514271496134389561" // Exempel clientId
 });
 ```
 
-`Presence` klasė turi dvi savybės.
+Det finns två egenskaper tillgängliga för `Presence` klass.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`clientId` egenskap måste tillhandahållas för att få din närvaro att fungera, eftersom den använder ditt program-id för att visa sin logotyp och tillgångar.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Du kan få det på din [applikationssida](https://discordapp.com/developers/applications).
 
-## Methods
+## Metoder
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -44,13 +44,13 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Denna metod fungerar endast på Mac OS. 
 > 
 > {.is-warning}
 
 Sets the tray title on the Menubar.
 
-### `getStrings(Object)`
+### `getStrings(Objekt)`
 
 Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -102,7 +102,7 @@ var pageVar = getPageLetiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
-## `presenceData` Interface
+## `närvaroData` Gränssnitt
 
 The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
 
@@ -111,61 +111,61 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Aprašymas</th>
-      <th style="text-align:left">Tipas</th>
+      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Beskrivning</th>
+      <th style="text-align:left">Typ</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detalizuotai</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">detaljer</td>
+      <td style="text-align:left">Den första raden i din närvaro, används vanligtvis som rubrik.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">delstat</td>
+      <td style="text-align:left">Andra raden i din närvaro.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definierar aktuell tid.<br>
+        Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> kvar.
+          <br>Du måste konvertera din tid till <code>tidsstämpel</code> annars får du en felaktig
+          nedräkning.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Nummer</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definierar hela varaktigheten.
+        <br>Används om du vill visa hur mycket <code>timmar:minutes:sekunder</code> kvar.
+          <br>Du måste konvertera din tid till <code>tidsstämpel</code> annars får du en felaktig
+          nedräkning.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Nummer</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Stor ImageKey</td>
+      <td style="text-align:left">Definierar logotypen för närvaron.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Definierar den lilla ikonen bredvid närvaro&apos;s logotyp.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Definierar texten som kommer att visas för användaren när han kommer att sväva den lilla
+        ikonen.</td>
+      <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
   </tbody>
@@ -183,7 +183,7 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## Händelser
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
@@ -195,7 +195,7 @@ presence.on("UpdateData", async () => {
 
 There are few events available:
 
-#### `UpdateData`
+#### `Uppdateringsdata`
 
 This event is fired every time the presence is being updated.
 
