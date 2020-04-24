@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-04-23T23:25:59.632Z
+date: 2020-04-24T12:47:02.402Z
 tags:
 ---
 
@@ -361,7 +361,7 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["CATEGORY", "TAG"],
+  "tags": ["TAG1", "TAG2"],
   "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
@@ -380,8 +380,8 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist",
-            "placeholder": "use %song or %artist"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
@@ -399,7 +399,7 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `settings`
+- `ayarlar`
 
 **Bu veriler hakkında daha fazla bilgi istiyorsanız:**
 <table>
@@ -551,7 +551,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>ayarlar</b>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
