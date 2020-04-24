@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contém dados básicos sobre a Presença
 published: true
-date: 2020-04-22T20:07:56.939Z
+date: 2020-04-24T12:45:27.030Z
 tags:
 ---
 
@@ -33,7 +33,7 @@ O exemplo deste arquivo pode ser encontrado abaixo.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["CATEGORY", "TAG"],
+  "tags": ["TAG1", "TAG2"],
   "category": "CATEGORY",
   "iframe": false,
   "settings": [
@@ -50,8 +50,8 @@ O exemplo deste arquivo pode ser encontrado abaixo.
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song\" by %artist",
-            "placeholder": "use %song or %artist"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
@@ -241,28 +241,28 @@ Defina configurações interativas para que os usuários possam personalizar a p
 "settings": [
         { 
             "id": "ID",
-            "title": "TÍTULO DE EXIBIÇÃO",
-            "icon": "ÍCONE GRATUITO FONTAWESOME ", //Exemplo "fas fa-info"
-            "value": true //Valor booleano, formará um interruptor de liga/desliga com o valor como padrão
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+            "value": true //Boolean value will make it an on/off switch with the value as the default value
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //Se outra configuração é igual a este valor (true/false/0/1/etc.) então mostre este botão
+                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
             },
-            "title": "TÍTULO DE EXIBIÇÃO",
-            "icon": "ÍCONE GRATUITO FONTAWESOME ",
-            "value": "\"%song\" por %artist", //Colocando em uma string fará com que a configuração seja uma entrada, onde você pode usar uma entrada personalizada.
-            "placeholder": "use %song ou %artist" //Quando a entrada está vazia, ela mostrará de forma acinzentada
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
         },
         {
             "id": "ID",
-            "title": "TÍTULO DE EXIBIÇÃO",
-            "icon": "ICONE GRATUITO FONTAWESOME ",
-            "value": 0, //Valor padrão do seletor
-            "values": ["1", "2", "etc. ] //Vai fazer da configuração um seletor onde você seleciona o que você quer
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": 0, //Default value of the selector
+            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
         }
-]
+    ]
 ```
 
 Use os seguintes métodos para obter informações de configurações em seus arquivos de presença:
