@@ -409,7 +409,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `settings`
+- `einstellungen`
 
 **Klarstellung einiger Wertvoreinstellungen:**
 <table>
@@ -567,7 +567,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>einstellungen</b>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
