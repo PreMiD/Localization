@@ -1,5 +1,5 @@
 ---
-title: Instalasi
+title: Installation
 description: How to install PreMiD
 published: true
 date: 2020-02-12T22:05:12.168Z
