@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Začínáme s instalací PreMiD na macOS
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements). 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
-# Yüklə
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+# Instalace
+1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
+2. Vyberte **OS X**.
+3. V případě potřeby rozbalte archiv.
+4. Otevřete instalační program.
+5. **bezpečnostní upozornění** se objeví, pokud nainstalujete PreMiD poprvé. Přejděte do nastavení **** > **Zabezpečení** > **Generál** > **Otevřete každopádně**. [Více informací](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) o nepodepsaných aplikacích.
+> Důvodem je, že nemáme certifikát pro podpis kódu (CSC). [Podpořte nás](https://www.patreon.com/Timeraa) k jeho financování.{.is-info}
+6. Po výzvě vyberte otevřený soubor.
+7. Povolit přístup k připojení prostřednictvím **Firewall** a ovládat **Systémové události** , když je k tomu vyzván.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikace se spustí automaticky. Zkontrolujte symbol ve Vašem panelu nabídek.
 
-> Do not forget to [add the **extension**](/install). 
+> Nezapomeňte [přidat **rozšíření**](/install). 
 > 
 > {.is-warning}
 
