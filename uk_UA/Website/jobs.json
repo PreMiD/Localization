@@ -31,6 +31,10 @@
 		"message": "Приєднуйтеся до нашого Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Щоб мати можливість працювати, приєднайтесь до нашого сервера Discord. В іншому випадку ми не зможемо з вами контактувати.",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Робота в PreMiD",
 		"description": "First part of the jobs page."
