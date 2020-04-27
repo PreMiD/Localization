@@ -2,7 +2,7 @@
 title: Linux
 description: Primeiros passos com a instalação do PreMiD no Linux
 published: true
-date: 2020-04-23T21:44:28.693Z
+date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
@@ -13,26 +13,26 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 ## Table of Contents
 
 - **[Sobre](#about)**
-  - [Stats](#stats)
+  - [Estatísticas](#stats)
   - [Requisitos](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Exemplos (em breve)
+  - Perguntas Frequentes (em breve)
+  - Construção (em breve)
+  - [Suporte](#support)
   - [Créditos](#credits)
-  - [License](#license)
+  - [Licença](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#appimage) for now)
-- **[Arch Linux based distributions](#arch)**
-  - [Installation instructions](#archinstall)
-  - [Additional notes](#archnotes)
-- **[Gentoo Linux](#gentoo)**
-  - [Installation instructions](#gentooinstall)
-  - [Additional notes](#gentoonotes)
+- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+  - [Instruções de instalação](#installation-instructions)
+  - [Notas adicionais](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
+- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
+- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+  - [Instruções de instalação](#installation-instructions-1)
+  - [Notas adicionais](#additional-notes-1)
+- **[Gentoo Linux](#gentoo-linux)**
+  - [Instruções de instalação](#installation-instructions-2)
+  - [Notas adicionais](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -42,7 +42,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 
 <a name="stats"></a>
 
-### Stats
+### Estatísticas
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Suporte
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Junte-se ao nosso Discord!">
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Licença
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,7 +126,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Notas adicionais
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Notas adicionais
 
 Se sua distribuição usa pacman, você deve instalar um dos ajudantes primeiro. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Notas adicionais
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
