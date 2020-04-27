@@ -66,5 +66,21 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Bu sürüm sadece Linux için geçerlidir. Diğer işletim sistemleri için uygulamanın sürümü {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "İndirme linklerini görebilmek için lütfen giriş yapın.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Görünüşe göre alpha/beta erişimin yok :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Ücretsiz beta programımıza **buraya** tıklayarak katılabilirsin.Acele et {0} kişilik yer var (200 kişilikten)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "En yeni sürümler",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
