@@ -1,110 +1,122 @@
 {
     "youtube.ad": {
-        "message": "حاليًا مشاهدة إعلان",
+        "message": "Actualmente viendo un anuncio",
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "تصفح من خلال الفيديوهات",
+        "message": "Navegando a través de videos",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "تصفح من خلال قوائم التشغيل",
+        "message": "Navegando a través de listas de reproducción",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "عرض مشاركات المجتمع",
+        "message": "Viendo publicaciones de comunidad",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
-        "message": "من القناة:",
+        "message": "del canal:",
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "قراءة حول القناة:",
+        "message": "Leyendo sobre el canal:",
         "description": ""
     },
     "youtube.searchChannel": {
-        "message": "البحث عن طريق القناة: {0} من أجل:",
+        "message": "Buscando a través del canal: {0} por:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "Viendo las tendencias",
+        "description": ""
+    },
     "youtube.browsingThrough": {
-        "message": "يتصفح من خلال",
+        "message": "Navegando a través de",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "المشتركين الخاصة بهم",
+        "message": "sus suscripciones",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "مكتبتهم",
+        "message": "su biblioteca",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "التاريخ الخاص بهم",
+        "message": "su historial",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "مشترياتهم",
+        "message": "sus compras",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "يشاهد تاريخ التقارير",
+        "message": "Viendo su historial de reportes",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Subiendo algo...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "يشاهد جميع قوائم التشغيل",
+        "message": "Viendo todas sus listas de reproducción",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "يشاهد الأحداث المباشرة",
+        "message": "Viendo sus eventos en directo",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "يشاهد لوحة تحكم البث المباشر",
+        "message": "Viendo su panel de control en directo",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "يشاهد مكتبة الصوت",
+        "message": "Viendo su biblioteca de audio",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "يشاهد مقاطع الفيديو الخاصة به",
+        "message": "Viendo sus videos",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "تحرير الفيديو:",
+        "message": "Editando video:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "يشاهد تحليلات الفيديو:",
+        "message": "Viendo analíticas de video:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "يشاهد التعليقات على الفيديو:",
+        "message": "Viendo comentarios de video:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "يشاهد ترجمات الفيديو:",
+        "message": "Viendo traducciones de video:",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "Viendo su",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
-        "message": "تحليلات القناة",
+        "message": "analíticas del canal",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
-        "message": "تعليقات القناة",
+        "message": "comentarios del canal",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "ترجمة قناة",
+        "message": "traducciones del canal",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
-        "message": "صفحة الفنانين",
+        "message": "página del artista",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "يشاهد لوحة التحكم",
+        "message": "Viendo su panel de control",
         "description": ""
     }
 }

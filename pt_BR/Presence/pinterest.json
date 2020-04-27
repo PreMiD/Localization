@@ -1,18 +1,1 @@
-{
-    "pinterest.board": {
-        "message": "Vendo o quadro:",
-        "description": ""
-    },
-    "pinterest.pin": {
-        "message": "Visualizando um pin",
-        "description": ""
-    },
-    "pinterest.follow": {
-        "message": "Vendo seus seguidores",
-        "description": ""
-    },
-    "pinterest.home": {
-        "message": "Editando sua página inicial",
-        "description": ""
-    }
-}
+{}
