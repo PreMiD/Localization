@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Wyświetlanie tablicy:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Wyświetla Piny",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Wyświetla swoich obserwujących",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Edytuje swoją stronę główną",
+        "description": ""
+    }
+}
