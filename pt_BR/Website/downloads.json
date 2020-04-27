@@ -72,7 +72,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Uh oh, parece que você acesso ao acesso beta/alfa :(",
+		"message": "Uh oh, parece que você não tem acesso ao alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
