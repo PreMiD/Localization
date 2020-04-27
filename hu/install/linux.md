@@ -2,7 +2,7 @@
 title: Linux
 description: PreMiD telepítési útmutató a Linux rendszer esetében
 published: true
-date: 2020-04-23T21:44:28.693Z
+date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
@@ -22,17 +22,17 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
   - [Készítők](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#appimage) for now)
-- **[Arch Linux based distributions](#arch)**
-  - [Installation instructions](#archinstall)
-  - [Additional notes](#archnotes)
-- **[Gentoo Linux](#gentoo)**
-  - [Installation instructions](#gentooinstall)
-  - [Additional notes](#gentoonotes)
+- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+  - [Installation instructions](#installation-instructions)
+  - [Additional notes](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
+- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
+- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+  - [Installation instructions](#installation-instructions-1)
+  - [Additional notes](#additional-notes-1)
+- **[Gentoo Linux](#gentoo-linux)**
+  - [Installation instructions](#installation-instructions-2)
+  - [Additional notes](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -74,8 +74,8 @@ It is unknown whether older versions of other distributions support it, so just 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Csatlakozz Discord szerverünkre!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Csatlakozz Discord szerverünkre!">
   </a>
 </div>
 
