@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: Getting started with a PreMiD installation on Linux
-published: 是
+published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
@@ -19,7 +19,7 @@ The installation of the application is very important as the extension can not d
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [特別感謝](#credits)
+  - [Pohvaljeni](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
@@ -81,7 +81,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### 特別感謝
+### Pohvaljeni
 
 Thanks to :
 
