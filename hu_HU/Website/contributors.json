@@ -51,6 +51,10 @@
 		"message": "Senior moderátor",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Vezető állapotüzenet ellenőrző",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
 	"contributors.roles.communityRepresentative": {
 		"message": "Közösségi képviselő",
 		"description": "'Community Representative' title for contributors and user pages."

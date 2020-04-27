@@ -11,6 +11,10 @@
 		"message": "Következő",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Csatlakozás",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Mégse",
 		"description": "Cancel, button in the modal."
@@ -22,6 +26,14 @@
 	"jobs.modal.notice": {
 		"message": "A PreMiD egy nyílt forrású project, ami azt jelenti, hogy mi nem egy non-profit csapat vagyunk, mi minden patreon támogatásból és adományból befolyt összeget a termék fejlesztésére fordítunk. A munkára való jelentkezéssel elismered, hogy önkéntes szerepet vállalsz, azaz semmilyen fizetést nem kapsz a munkádért.",
 		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Csatlakozz Discord szerverünkre",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "A jelentkezéshez szükséges, hogy Discord szerverünk tagja legyél. Másképp nem tudjuk felvenni veled a kapcsolatot felvételkor!",
+		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
 		"message": "Legyél te is a PreMiD dolgozója",
