@@ -6,19 +6,19 @@ date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-Установлення розширення дуже важливе, оскільки програма не може робити нічого самостійно.
+Uygulama, eklentisi olmadan çalışmayacağı için eklentinin de yüklü olması gerekmektedir.
 
-# Установлення
-### Chrome, Edge, тощо
-1. Перейдіть на нашу сторінку завантажень [натиснувши тут](https://premid.app/downloads).
-2. Виберіть **Chromium**.
-3. Натисніть **Додати в Chrome**.
+# Yükleme
+### Chrome, Edge, vs.
+1. [Buraya](https://premid.app/downloads) tıklayarak "İndir" sayfamıza gidin.
+2. **Chromium**'u seçin.
+3. **Chrome'a Ekleyin** tuşuna basın.
 
 ### Opera
-1. Додайте **[Установити розширення Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Додайте [наше розширення](https://premid.app/downloads).
+1. **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)** eklentisini ekleyin.
+2. Chrome mağazasından [eklentimizi](https://premid.app/downloads) ekleyin.
 
-> Не забудьте [додати **програму**](/install). 
+> [Uygulamayı](/install) da yüklemeyi **unutmayın**. 
 > 
 > {.is-warning}
 
