@@ -59,7 +59,7 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 - Servisiniz, ne olursa olsun yetişkin içerik **barındırmayan** resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw` etiketini de eklemeniz gerekmektedir.
 - Yaptığınız servis, tarayıcının yerel depolamasını (local storage) **kontrol edemez**.
 - Verileri depolamak için, çerezleri kullanabilirsiniz. Verinin kaydedileceği çerezin başı, `pmd_` ile başlamalıdır.
-- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
+- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). Mümkün değil ise gerekmez, ama kullanılar arama yaparken daha kolay olacaktır
 - Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Yapılandırma
