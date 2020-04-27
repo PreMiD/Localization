@@ -1,38 +1,38 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Twórca presences",
+		"message": "Desarrollador de Presencias",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Weryfikator presences",
+		"message": "Verificador de presencias",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Ważny twórca presences",
+		"message": "Desarrollador de Presencias Importantes",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Stworzono {0} presences.",
+		"message": "Creado {0} presencias.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Geniusz Programista Statusów",
+		"message": "Desarrollador Genio de Presencia",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Stworzono ponad 100 statusów!",
+		"message": "¡Ha creado más de 100 presencias!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "Użytkownik [statusy/wkłady]",
+		"message": "Usuario [presencies/contribuciones]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Kliknij tutaj, aby wyświetlić statusy, które użytkownik utworzył.",
+		"message": "Haga clic aquí para mostrar las presencias que este usuario ha creado.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Kliknij tutaj, aby wyświetlić status, do których użytkownik się przyczynił.",
+		"message": "Haga clic aquí para mostrar las presencias a las que este usuario ha contribuido.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
