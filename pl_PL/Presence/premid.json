@@ -4,8 +4,12 @@
         "description": ""
     },
     "premid.docs": {
-        "message": "Dokumenty",
+        "message": "Dokumentacja",
         "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Wyświetlanie aktywności:",
+        "description": ""
     },
     "premid.pageHome": {
         "message": "Strona główna",
@@ -32,7 +36,7 @@
         "description": "A page name"
     },
     "premid.pageTerms": {
-        "message": "Warunki serwisu",
+        "message": "Warunki korzystania z usług",
         "description": "A page name"
     },
     "premid.pageWiki": {
