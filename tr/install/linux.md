@@ -2,7 +2,7 @@
 title: Linux
 description: Linux'ta PreMiD kurulumuna başlarken
 published: true
-date: 2020-04-23T21:44:28.693Z
+date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
@@ -10,29 +10,29 @@ tags:
 
 Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
-## Table of Contents
+## İçindekiler
 
 - **[Hakkında](#about)**
-  - [Stats](#stats)
+  - [İstatistikler](#stats)
   - [Gereksinimler](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - Örnekler (yakında)
+  - SSS (yakında)
   - Building (soon)
-  - [Support](#support)
+  - [Destek](#support)
   - [Katkıda Bulunanlar](#credits)
-  - [License](#license)
+  - [Lisans](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#appimage) for now)
-- **[Arch Linux based distributions](#arch)**
-  - [Installation instructions](#archinstall)
-  - [Additional notes](#archnotes)
-- **[Gentoo Linux](#gentoo)**
-  - [Installation instructions](#gentooinstall)
-  - [Additional notes](#gentoonotes)
+- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+  - [Kurulum Talimatları](#installation-instructions)
+  - [Ek notlar](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
+- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
+- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+  - [Kurulum Talimatları](#installation-instructions-1)
+  - [Ek notlar](#additional-notes-1)
+- **[Gentoo Linux](#gentoo-linux)**
+  - [Kurulum Talimatları](#installation-instructions-2)
+  - [Ek notlar](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -42,18 +42,18 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 <a name="stats"></a>
 
-### Stats
+### İstatistikler
 
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Toplam indirmeler</th>
+    <th>En son sürüm</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Tüm Sürümler"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="En son sürüm"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github sürümleri"></a></td>
   </tr>
 </table>
 
@@ -71,11 +71,11 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Destek
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Discord'umuza katıl!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Discord'umuza katıl!">
   </a>
 </div>
 
@@ -83,17 +83,17 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Katkıda Bulunanlar
 
-Thanks to :
+Teşekkürler:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (ve adını unuttuğum diğer bir kaç kişi) gecelik güncellemerde geri bildirim yolladıkları için.
 - @apriluwu for maintaining the Gentoo builds
 - @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
 - The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- Ve bu projeye herhangi bir yolla katkısı olan herkese.
 
 <a name="license"></a>
 
-### License
+### Lisans
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Kurulum Talimatları
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,7 +126,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Ek notlar
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Kurulum Talimatları
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Ek notlar
 
 Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Kurulum Talimatları
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Ek notlar
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
