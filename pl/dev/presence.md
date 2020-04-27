@@ -59,8 +59,8 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Twoja obecność **MUSI** ma obrazy i opisy SFW niezależnie od tego, czy jest NSFW czy nie. Jeśli Twoja obecność dotyczy strony NSFW, dodaj tag `nsfw` do metadanych.
 - Twoja obecność **NIE MOŻE** manipulować pamięcią lokalną w przeglądarce.
 - Twoja obecność może używać plików cookie do przechowywania danych. Wszystkie dane przechowywane przez obecność powinny być poprzedzone `pmd_`.
-- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
-- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
+- Tagi powinny być używane jako alternatywne nazwy, gdy tylko jest to możliwe, należy również uwzględnić skrócone wersje (np. Jeśli obecność Amazon obejmowałaby obsługę AWS, miałaby swoje tagi: „amazon-web-services” i „aws”). Nie jest to wymagane, jeśli jest to niemożliwe, ale ułatwi użytkownikom wyszukiwanie.
+- Tagi nie mogą zawierać spacji, ukośników, pojedynczych/podwójnych cudzysłowów, znaków Unicode i zawsze powinny być pisane z małej litery.
 
 ## Modyfikacja
 > MUSI zmienić wersję w **metadanych**, aby była wyższą wartością w poprzedniej wersji podczas wprowadzania zmian do **obecności. s** lub **metadata.json**. 
@@ -77,10 +77,10 @@ W niektórych sytuacjach obecność może zachowywać się niespodziewanie lub m
 
 > Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. Wszystkie `Weryfikatory Presence` będą miały unikalną rolę w swoim profilu.
 
-For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
+For your presence to reach the stores, it MUST go through a process on GitHub to confirm that it works as expected. Oto kilka rzeczy, na które należy zwrócić uwagę przy składaniu żądania "pull request".
 
 1. Potwierdzenie, że Twoja obecność jest zgodna ze standardami, wymaga dwóch weryfikatorów. Jeśli dojdzie do żądania zmian, wykonaj odpowiednie starania, aby go naprawić lub nie zostanie dodany.
-2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
+2. Jeśli poprosimy o zmiany, a Twoje żądanie "pull request" przekroczy ** 7 dni nieaktywności ** bez wprowadzenia niezbędnych zmian, będziemy zmuszeni je zamknąć.
 3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (np. jego autor w przypadku, gdy nie masz dostępu do niego z żadnego powodu).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, not any old features from previous pull requests.
 5. Dostarczone zrzuty ekranu powinny być prawdziwe, a nie edytowane.
@@ -116,7 +116,7 @@ You can choose if you want to code your Presence with [JavaScript](https://www.j
 4. Utwórz plik `metadata.json` wewnątrz folderu `dist`.
 
 ## Wypełnianie w pliku tsconfig.json
-Please put the following code inside of the `tsconfig.json` file.
+Umieść następujący kod w pliku `tsconfig.json`.
 ```javascript
 {
   "extends": "../tsconfig.json",
@@ -201,7 +201,7 @@ A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/W
 2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Wykonaj `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
+Jeśli okaże się, że Twoje dane znajdują się w ramce iFrame, wykonaj następujące czynności:
 1. Utwórz plik `iframe.ts`.
 2. Ustaw iFrame na `true` w pliku metadanych.
 3. Wypełnianie pliku iFrame.
@@ -225,9 +225,9 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Uwaga:** Należy to umieścić poza zdarzeniem updateData.
 ## Kompilacja
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować`presence.ts` w folderze `/dist`.
 
 # Struktura (JavaScript)
 ## Klonowanie projektu
@@ -302,7 +302,7 @@ presence.on("UpdateData", () => {
     }
 });
 ```
-You can copy this into your `presence.js` file and edit the values. Setting all the values is done inside of the updataData event.
+Możesz skopiować to do pliku `presence.js` i edytować wartości. Setting all the values is done inside of the updataData event.
 
 For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
@@ -316,7 +316,7 @@ A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/W
 2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Wykonaj `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
+Jeśli okaże się, że Twoje dane znajdują się w ramce iFrame, wykonaj następujące czynności:
 1. Utwórz plik `iframe.js`.
 2. Ustaw iFrame na `true` w pliku metadanych.
 3. Wypełnianie pliku iFrame.
@@ -340,9 +340,9 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Uwaga:** Należy to umieścić poza zdarzeniem updateData.
 # Wypełnianie pliku metadana.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
 
 ```javascript
 {
