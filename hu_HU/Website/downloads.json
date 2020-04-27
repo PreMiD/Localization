@@ -66,5 +66,9 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.latest.header": {
+		"message": "Legújabb kiadások",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
