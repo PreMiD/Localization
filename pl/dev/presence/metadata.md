@@ -121,7 +121,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       <td style="text-align:left"><b>url</b>
       </td>
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b>
       </td>
       <td style="text-align:left"><code>Ciąg, Tablica&lt;String&gt;</code>
       </td>
@@ -214,7 +214,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
     <tr>
       <td style="text-align:left"><b>ustawienia</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Szereg ustawień, które użytkownik może zmienić</td>
       <td style="text-align:left"><code>Tablica&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
@@ -231,13 +231,13 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Testowanie
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
 ## Presence languages
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD to usługa poligraficzna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
 
 ## Presence settings
 Setup interactive settings so users can customize the presence!
