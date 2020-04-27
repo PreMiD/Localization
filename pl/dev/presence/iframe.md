@@ -7,11 +7,11 @@ tags:
 ---
 
 # Klasa iFrame
-> System iframe z PreMiD jest problematyczny i może mieć nieoczekiwane zachowanie, używaj go ostrożnie. 
+> System iframe z PreMiD jest problematyczny i może powodować nieoczekiwane zdarzenia, używaj go ostrożnie. 
 > 
 > {.is-danger}
 
-## Wprowadzanie
+## Wprowadzenie
 
 W niektórych scenariuszach Twoja obecność może wymagać dostępu do elementów wewnątrz `iframes`.
 
@@ -23,13 +23,13 @@ Podobnie jak obecności, `iframes` mają własne klasy zaprojektowane do automat
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code idzie tutaj...
+    // Tutaj wprowadź kod...
 });
 ```
 
 ## Metody
 
-### `wyślij (Obiekt)`
+### `send(Object)`
 Wysyła dane do obecności. Użycie tej metody sprawi, że obecność będzie wydarzeniem `iFrameData`.
 
 ### `getUrl(String)`
@@ -46,10 +46,10 @@ iframe.on("UpdateData", async () => {
 
 Oto lista wszystkich wydarzeń:
 
-#### `Aktualizuj dane`
+#### `UpdateData`
 
-To wydarzenie jest uruchamiane za każdym razem, gdy iframe jest aktualizowany.
+To zdarzenie jest uruchamiane za każdym razem, gdy element iframe jest aktualizowany.
 
 #### `MediaKeys` (wyłączony)
 
-Wystrzelony, gdy użytkownik używa kluczy multimedialnych na swojej klawiaturze, [kliknij tutaj](/dev/presence/class#mediakeys) , aby uzyskać więcej informacji o kluczach multimedialnych.
+Wywoływany, gdy użytkownik korzysta z klawiszy multimedialnych na swojej klawiaturze, [ kliknij tutaj ](/dev/presence/class#mediakeys), aby uzyskać więcej informacji na temat klawiszy multimedialnych.
