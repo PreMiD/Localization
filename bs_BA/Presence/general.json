@@ -4,27 +4,27 @@
         "description": ""
     },
     "general.browsing": {
-        "message": "Pretražnja...",
+        "message": "Axtarış edir...",
         "description": ""
     },
     "general.episode": {
-        "message": "Epizoda",
+        "message": "Bölüm",
         "description": ""
     },
     "general.live": {
-        "message": "Uživo",
+        "message": "Canlı",
         "description": ""
     },
     "general.reading": {
-        "message": "Čitanje",
+        "message": "Oxuyur",
         "description": ""
     },
     "general.search": {
-        "message": "Pretražnja",
+        "message": "Axtarır",
         "description": ""
     },
     "general.store": {
-        "message": "Prodavnica",
+        "message": "Mağaza",
         "description": ""
     }
 }
