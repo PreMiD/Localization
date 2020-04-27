@@ -1,22 +1,22 @@
 ---
-title: Unbenannte Seite
-description: Ein kleiner Helfer für TypeScript
+title: Untitled Page
+description: A little helper for TypeScript
 published: true
 date: 2020-02-12T22:15:34.451Z
 tags:
 ---
 
-# TypeScript-Konfiguration
+# TypeScript Configuration
 
-## Einführung
+## Introduction
 
-Wenn Sie den Arbeitsbereich heruntergeladen und entpackt haben, wird eine Datei mit dem Namen `tsconfig.js` im Stammverzeichnis und in den Anwesenheitsordnern angezeigt. Diese Datei wird zum Konfigurieren des **TypeScript** Compilers verwendet. Es ist bereits für Sie konfiguriert, machen Sie sich also keine Sorgen.
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-Wir wollen nur einige Einstellungen beschreiben, die Sie kennen sollten.
+We just want to describe some settings that you should know.
 
-## Root-Konfiguration
+## Root Configuration
 
-In der Root-Konfigurationsdatei sehen Sie so etwas.
+In the root configuration file you will see something like this.
 
 ```javascript
 {
@@ -34,12 +34,12 @@ In der Root-Konfigurationsdatei sehen Sie so etwas.
 }
 ```
 
-| Eigentum                   | Beschreibung                                                                                                                    |
+| Property                   | Beskrivelse                                                                                                                     |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Die meisten Eigenschaften, die zur Konfiguration des Compilers verwendet werden, befinden sich hier.                            |
-| Modul                      | Mehr über diese [hier lesen](https://www.typescriptlang.org/docs/handbook/modules.html).                                        |
-| Ziel                       | Definiert die zu kompilierende JavaScript-Version.                                                                              |
-| removeComments             | Kommentare aus kompilierten Dateien entfernen.                                                                                  |
+| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                     |
+| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
+| target                     | Defines the JavaScript version you are compiling.                                                                               |
+| removeComments             | Removing comments from compiled files.                                                                                          |
 | noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                 |
 | noUnusedParameters         | Report errors on unused parameters.                                                                                             |
@@ -47,19 +47,19 @@ In der Root-Konfigurationsdatei sehen Sie so etwas.
 | typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
 | **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
 
-## Anwesenheitskonfiguration
+## Presence Configuration
 
 ```javascript
 {
-  "extended": "../tsconfig.json",
+  "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/"
   }
 }
 ```
 
-| Eigentum            | Beschreibung                                                                                                |
-|:------------------- |:----------------------------------------------------------------------------------------------------------- |
-| **erweitert**       | Wird zum Erweitern der Datei base `tsconfig` für verschiedene Aufgaben verwendet.                           |
-| **compilerOptions** | Weitere Informationen finden Sie unter [**Root-Konfiguration**](/dev/presence/tsconfig#root-configuration). |
-| outDir              | Definiert das Ausgabeverzeichnis für kompilierte Dateien.                                                   |
+| Property            | Beskrivelse                                                                            |
+|:------------------- |:-------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
+| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
+| outDir              | Defines the output directory for compiled files.                                       |
