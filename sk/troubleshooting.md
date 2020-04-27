@@ -1,51 +1,51 @@
 ---
-title: Riešenie problémov
-description: Všetko čo vyrieši váš problém
+title: Решение проблем
+description: Всё для решения вашей проблемы
 published: true
 date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
-> Uistite sa či máte rozšírenie **a** aplikáciu nainštalovanú! 
+> Убедитесь, что у вас установлено расширение **и** приложение! 
 > 
 > {.is-warning}
 
-### Obnovte stránku
+### Перезагрузить страницу
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Reštartujte váš prehliadač
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) alebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) urobí dobrú prácu tiež. (Samozrejme že musíte si spustiť váš prehliadač znova)
+### Перезапустите браузер
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) тоже хорошо работает. (Очевидно, вы должны снова запустить ваш браузер.)
 
-### Uistite sa či máte povolený Discord Hernú Aktivitu v nastaveniach
-**Užívateľské Nastavenia** > **Herná Aktivita** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Убедитесь, что вы включили игру Discord в настройках
+**Настройки пользователя** > **Игровая активность** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Reštartujte si PreMiD (Aplikáciu)
-![quit.png](/quit.png) Musíte si reštartovať PreMiD.
+### Перезапустить PreMiD (Приложение)
+![quit.png](/quit.png) Вы должны перезапустить PreMiD.
 
-### Obnovte/reštartujte Discord
+### Перезагрузить/перезапустить Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### Uistite sa či Discord NEBEŽÍ ako administrátor
-Veľmi dôležité. Discord RPC nebude fungovať ak bude Discord bežať ako administrátor.
+### Убедитесь, что Discord не запущен как администратор
+Очень важно. Discord RPC не будет работать, если вы запускаете Discord от имени администратора.
 
-### Skontrolujte či beží vám antivirus alebo firewall na vašom počítači
-Niekedy antivírusové programy a firewalls blokujú aplikácie ktoré vytvárajú/hostinské servery alebo sú pripojené na internet. Na prijímanie a odovzdávanie údajov medzi našou aplikáciou a rozšírením používame lokálny server, takže ak zablokujete schopnosť prenášanie údajov aplikácie pravdepodobne nebudete môcť používať PreMiD.
+### Проверьте, запущен ли на вашем компьютере антивирус или брандмауэр
+Иногда антивирусные программы и брандмауэры блокируют приложения, которые создают/хостинг или просто подключаются к Интернету. Мы используем локальный сервер для получения и передачи данных между нашим приложением и расширением, , поэтому если вы заблокируете возможность передачи данных, вы скорее всего не сможете использовать PreMiD.
 
-### Deaktivujte si vaše rozšírenia
-Vypnite si všetky vaše rozšírenia a pozrite sa či to funguje. Ak áno, skúste aktivovať vaše rozšírenia krok-za-krokom a oznámte nám ktorý z rozšírení pokazil PreMiD.
+### Отключить аддоны
+Отключите все ваши аддоны и посмотрите, работает ли он. Если да, попробуйте включить аддоны пошагово и сообщите нам, какой аддон сломал PreMiD.
 
-### Reštartujte si počítač
-Dúfam že viete ako reštartovať počítač.
+### Перезапуск компьютера
+Я надеюсь, что вы знаете, как перезагрузить компьютер.
 
-### Pre-inštalácia PreMiDu
-Niekedy nie je niečo v poriadku so súbormi... Návody pre inštaláciu nájdete [tu](/install).
+### Переустановка предMiD
+Иногда что-то не так с файлами... Учебники по установке можно найти [здесь](/install).
 
-### Manuálne odstránenie
+### Ручное удаление
 Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/` a vymažte priečinok `PreMiD``.
+MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`PreMiD``.
 
-### Na Ubuntu/Debian zameraných distribúciách
-Ak ste si stiahli Discord cez Snapcraft, RPC vám nebude fungovať. Verziu Snapcraft musíte odinštalovať spustením `sudo snap remove discord` v termináli, stiahnite si[ Discord pre Linux](https://discordapp.com/api/download?platform=linux) ([ alebo Discord Canary](https://discordapp.com/api/canary/download?platform=linux)) potom prejdite do adresára v ktorom ste stiahni Discord (väčšinou `$HOME/Downloads`), potom si nainštalujte balík pomocou `sudo dpkg -i discord-*.deb`.
+### На Ubuntu/Debian дистрибутивах
+Если вы загрузили Discord через Snapcraft, RPC не будет работать. Вы должны удалить версию Snapcraft, выполнив `sudo snap удалить discord` на терминале, скачать [сборку Discord для Linux](https://discordapp.com/api/download?platform=linux) ([или Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), затем перейдите в каталог, в который вы скачали Discord (обычно `$HOME/Downloads`), затем установите пакет с помощью `sudo dpkg -i discord-*. eb`.
 
-### Nič mi nepomohlo
-Prosím otvorte ticket v [#support](https://discord.gg/WvfVZ8T).
+### Это не позволило решить мою проблему
+Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
