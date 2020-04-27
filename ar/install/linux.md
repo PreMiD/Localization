@@ -2,7 +2,7 @@
 title: Linux
 description: Getting started with a PreMiD installation on Linux
 published: true
-date: 2020-04-23T21:44:28.693Z
+date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
@@ -22,17 +22,17 @@ The installation of the application is very important as the extension can not d
   - [المساهمون](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#appimage) for now)
-- **[Arch Linux based distributions](#arch)**
-  - [Installation instructions](#archinstall)
-  - [Additional notes](#archnotes)
-- **[Gentoo Linux](#gentoo)**
-  - [Installation instructions](#gentooinstall)
-  - [Additional notes](#gentoonotes)
+- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+  - [Installation instructions](#installation-instructions)
+  - [Additional notes](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
+- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
+- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+  - [Installation instructions](#installation-instructions-1)
+  - [Additional notes](#additional-notes-1)
+- **[Gentoo Linux](#gentoo-linux)**
+  - [Installation instructions](#installation-instructions-2)
+  - [Additional notes](#additional-notes-2)
 
 <a name="about"></a>
 
