@@ -2,58 +2,58 @@
 title: Linux
 description: Rozpoczęcie instalacji PreMiD w systemie Linux
 published: tak
-date: 2020-04-23T21:44:28.693Z
+date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Włączanie automatycznego uruchamiania w systemie Linux jest teraz dostępne w aplikacji zamiast rozszerzenia.{.is-warning}
 
 Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobić niczego samodzielnie.
 
-## Table of Contents
+## Spis treści
 
 - **[O programie](#about)**
-  - [Stats](#stats)
+  - [Statystyki](#stats)
   - [Wymaganie](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Przykłady (wkrótce)
+  - FAQ (wkrótce)
+  - Budowa (wkrótce)
+  - [Wsparcie / pomoc](#support)
   - [Twórcy](#credits)
-  - [License](#license)
+  - [Licencja](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#appimage) for now)
-- **[Arch Linux based distributions](#arch)**
-  - [Installation instructions](#archinstall)
-  - [Additional notes](#archnotes)
-- **[Gentoo Linux](#gentoo)**
-  - [Installation instructions](#gentooinstall)
-  - [Additional notes](#gentoonotes)
+- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+  - [Instrukcje Instalacji](#installation-instructions)
+  - [Dodatkowe uwagi](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
+- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
+- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+  - [Instrukcje Instalacji](#installation-instructions-1)
+  - [Dodatkowe uwagi](#additional-notes-1)
+- **[Gentoo Linux](#gentoo-linux)**
+  - [Instrukcje Instalacji](#installation-instructions-2)
+  - [Dodatkowe uwagi](#additional-notes-2)
 
 <a name="about"></a>
 
 ## O programie
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** to proste, konfigurowalne narzędzie, które wykorzystuje bibliotekę Discord RP (Rich Presence), która pozwala pokazać, co robisz w sieci (i kilka programów) w swoim profilu Discord jako **status użytkownika**.
 
 <a name="stats"></a>
 
-### Stats
+### Statystyki
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Rozlokowanie</th>
+    <th>Łączna liczba pobrań</th>
+    <th>Najnowsze wydanie</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Wszystkie wydania"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Najnowsze wydanie"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Wydania Github"></a></td>
   </tr>
 </table>
 
@@ -61,21 +61,21 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 
 ### Wymaganie
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Technicznie każda dystrybucja, która może uruchamiać [oficjalną](https://discordapp.com/download) **aplikację Discorda** ( nie wersja internetowa )  może również uruchamiać PreMiD;</br> Jak zapewne zauważyliście w ostatnich latach, niektóre dystrybucje Linuksa zaczęły rezygnować z obsługi architektur 32-bitowych (ia32/i686/i386/x86) w wyniku czego my również. Możesz jednak spróbować samodzielnie zbudować aplikację, jeśli bardzo jej potrzebujesz w wersji  32-bitowej. </br> Ponieważ obecnie używamy Electron jako silnika (Discord też!), jego wymagania dotyczą również tej aplikacji:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po prostu aktualizuj swoją dystrybucję i używaj wersji **LTS (Long-Term Support)** jeśli twoja dystrybucja je oferuje, ponieważ są bardziej stabilne (unikaj wersji alfa).
 
 <a name="support"></a>
 
-### Support
+### Wsparcie / pomoc
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Dołącz do naszego Discorda!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Dołącz do naszego Discorda!">
   </a>
 </div>
 
@@ -83,17 +83,17 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Twórcy
 
-Thanks to :
+Podziękowania dla:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (i kilku innych, których imion zapomniałem) za przekazywanie opinii na temat wydań "nightly".
 - @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @SlimShadyIAm and naka za wcześniejsze utrzymanie pakietów Arch User Repository
+- The Electron community za różne pakiety
+- Każdemu, kto kiedykolwiek w jakikolwiek sposób przyczynił się do projektu.
 
 <a name="license"></a>
 
-### License
+### Licencja
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -102,7 +102,7 @@ Thanks to :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Prawdopodobnie nigdy, ponieważ natura Snapa blokuje PreMiD prawidłowe dotarcie do Discorda i rozszerzeń.</br> Byłobym wdzięczny, gdyby ktoś mógł to zrobić, wszelkie pomysły lub PR są mile widziane.</br> PS.: Klasyczne zamknięcie też nie działa, więc nie zawracaj sobie głowy sugerowaniem tego.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instrukcje Instalacji
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,7 +126,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Dodatkowe uwagi
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instrukcje Instalacji
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Dodatkowe uwagi
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Instrukcje Instalacji
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Dodatkowe uwagi
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
