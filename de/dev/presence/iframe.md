@@ -2,7 +2,7 @@
 title: iFrame-Klasse
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Hier ist eine Liste aller Veranstaltungen:
 #### `Daten aktualisieren`
 
 Dieses Ereignis wird jedes Mal ausgelöst, wenn der Iframe aktualisiert wird.
-
-#### `MediaKeys` (deaktiviert)
-
-Wird ausgelöst, wenn der Benutzer Medientasten auf seiner Tastatur verwendet. [Klicken Sie hier](/dev/presence/class#mediakeys) , um weitere Informationen zu Medientasten zu erhalten.
