@@ -2,7 +2,7 @@
 title: iFrame Class
 description: 
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags: 
 ---
 
@@ -48,7 +48,3 @@ Here is a list of all of the events:
 #### `UpdateData`
 
 This event is fired every time the iframe is being updated.
-
-#### `MediaKeys` (disabled)
-
-Fired when user uses media keys on his keyboard, [click here](/dev/presence/class#mediakeys) to get more information about media keys.
