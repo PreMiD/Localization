@@ -2,7 +2,7 @@
 title: Klasa iFrame
 description:
 published: tak
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -36,11 +36,11 @@ Wysyła dane do obecności. Użycie tej metody sprawi, że obecność będzie wy
 Zwraca adres URL `iframe`.
 
 ## Wydarzenia
-In `iframes`, events work similarly to the way they work in the `presence` class.
+W `iframe` zdarzenia działają podobnie jak w klasie `presence`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code idzie tutaj...
+    // Tutaj wprowadzamy kod...
 });
 ```
 
@@ -49,7 +49,3 @@ Oto lista wszystkich wydarzeń:
 #### `UpdateData`
 
 To zdarzenie jest uruchamiane za każdym razem, gdy element iframe jest aktualizowany.
-
-#### `MediaKeys` (wyłączony)
-
-Wywoływany, gdy użytkownik korzysta z klawiszy multimedialnych na swojej klawiaturze, [ kliknij tutaj ](/dev/presence/class#mediakeys), aby uzyskać więcej informacji na temat klawiszy multimedialnych.
