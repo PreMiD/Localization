@@ -2,7 +2,7 @@
 title: Clase iFrame
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Aquí hay una lista de todos los eventos:
 #### `UpdateData`
 
 Este evento se activa cada vez que se actualiza el iframe.
-
-#### `MediaKeys` (deshabilitado)
-
-Lanzado cuando el usuario utiliza teclas multimedia en su teclado, [clic aquí](/dev/presence/class#mediakeys) para obtener más información acerca de las teclas multimedia.
