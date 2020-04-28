@@ -1,46 +1,10 @@
 {
-	"partners.header.title": {
-		"message": "PARTNERE",
-		"description": "Heading for page."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Din gratis presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.requirements.title": {
-		"message": "KRAV",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Hva ser vi etter?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSORER",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
-		"description": "Description for sponsors."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Logget inn som {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Ikke deg?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Vennligst velg en",
-		"description": "Select default placeholder."
-	},
 	"partners.apply.select.other": {
-		"message": "Andre",
+		"message": "Ostatné",
 		"description": "Select 'Other' category."
 	},
-	"partners.apply.form.button.close": {
-		"message": "Lukk",
-		"description": "Modal close button."
+	"partners.apply.form.name": {
+		"message": "Názov",
+		"description": "Name filed."
 	}
 }
