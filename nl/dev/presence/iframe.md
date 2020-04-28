@@ -2,7 +2,7 @@
 title: iFrame Klasse
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Hier is een lijst van alle events:
 #### `UpdateData`
 
 Dit evenement wordt afgevuurd elke keer dat de iframe wordt bijgewerkt.
-
-#### `MediaKeys` (uitgeschakeld)
-
-Schiet af wanneer de gebruiker gebruik maakt van mediaknoppen op zijn toetsenbord, [klik hier](/dev/presence/class#mediakeys) voor meer informatie over mediaknoppen.
