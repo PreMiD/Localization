@@ -8,7 +8,7 @@ tags:
 
 # Métadonnées.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Si vous souhaitez publier une présence dans la boutique et la charger via l'extension, vous devez créer le fichier ` metadata.json ` dans votre dossier ` dist `.
 
 L'exemple de ce fichier peut être trouvé ci-dessous.
 
@@ -91,7 +91,8 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>contributeurs</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un objet avec <code>nom</code> et <code>id</code> du contributeur.
+ Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code>
       </td>
@@ -257,14 +258,14 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "placeholder": "use %song% or %artist%" //Lorsque l'entrée est vide, elle s'affiche en grisé
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "value": 0, //Valeur par défaut du sélecteur
+            "values": ["1", "2", "etc."] //Fera le réglage un sélecteur où vous sélectionnez celui que vous voulez
         }
     ]
 ```
