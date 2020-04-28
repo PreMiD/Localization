@@ -64,22 +64,22 @@ strings = await presence.getStrings({
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Zwraca wartość ustawienia.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Zamień pdexID na id ustawienia
+console.log(setting); // Spowoduje to zapisanie wartości ustawienia
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Ukrywa podane ustawienie.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Zamień pdexID na id ustawienia
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Pokazuje podane ustawienie (działa tylko, jeśli ustawienie było już ukryte).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Zamień pdexID na id ustawienia
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -195,7 +195,7 @@ presence.on("UpdateData", async () => {
 
 Dostępnych jest kilka wydarzeń:
 
-#### `Aktualizuj dane`
+#### `UpdateData`
 
 To wydarzenie jest uruchamiane za każdym razem, gdy status jest aktualizowany.
 
