@@ -49,7 +49,7 @@ presence
 └── tsconfig.json
 ```
 
-Before you begin working on your presence, keep the following list in mind.
+Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
 - The Presence **MUST** be related to the site you have chosen.
 - The Presence **MUST NOT** be of any illegal sites. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
@@ -162,10 +162,10 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Um mehr über die TypeScript-Konfiguration zu erfahren, klicke [hier](/dev/presence/tsconfig).
 
 ## Ausfüllen der metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Du weißt, wie es funktioniert.
 
 ```javascript
 {
@@ -219,14 +219,14 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du musst jetzt die Werte der Eigenschaften bearbeiten. Beachte, dass die folgenden Eigenschaften in Deiner `metadata.json` optional sind. Wenn Du sie nicht verwenden möchten, musst Du sie entfernen.
 - `Mitwirkende`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `einstellungen`
 
-**Clarifying some value presets:**
+**Klarstellung einiger Wertvoreinstellungen:**
 <table>
   <thead>
     <tr>
@@ -260,7 +260,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>Bedienung</b>
       </td>
-      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Muss den gleichen Namen haben wie der Ordner, in dem sich alles befindet)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -357,7 +357,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>Kategorie</b>
       </td>
-      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -394,7 +394,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Erste Schritte
 
@@ -450,21 +450,21 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Setting all the values is done inside of the updataData event.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz-Klasse.
 
 ## Du kannst bestimmte Daten nicht abrufen?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
-If you find that your data is in a iFrame you need to do the following:
+Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
 1. Erstelle eine `iframe.ts`-Datei.
 2. Setze iFrame in Ihrer Metadatendatei auf `true`.
 3. Fülle Deine iFrame-Datei aus.
@@ -488,9 +488,9 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
 ## Kompilieren
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/dist` zu kompilieren.
 
 # Loading the presence
 1. Öffne das Popup und halte die Taste <kbd>Shift</kbd> auf Deiner Tastatur gedrückt.
@@ -500,7 +500,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 # Some helpful things
 ## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
 
 ## Debugging
 - Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
