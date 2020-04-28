@@ -2,7 +2,7 @@
 title: Chromium
 description: Instalacja PreMiD w przeglądarkach opartych na Chromium
 published: tak
-date: 2020-04-22T20:13:07.598Z
+date: 22.04.2020 20:13
 tags:
 ---
 
