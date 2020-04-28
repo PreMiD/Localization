@@ -2,13 +2,13 @@
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
 published: tak
-date: 2020-04-24T12:45:27.030Z
+date: 24.04.2020 12:45
 tags:
 ---
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Jeśli chcesz opublikować swój status Presence w sklepie i załadować ją przez rozszerzenie, powinieneś utworzyć plik `metadata.json` w folderze `dist`.
 
 Przykład tego pliku można znaleźć poniżej.
 
@@ -66,7 +66,7 @@ Przykład tego pliku można znaleźć poniżej.
 
 ## Zrozumienie metadana.json
 
-Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne do zrozumienia dla każdej zmiennej.
+Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zrozumieć, do czego służy każda zmienna.
 
 <table>
   <thead>
@@ -74,7 +74,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       <th style="text-align:left">Zmienna</th>
       <th style="text-align:left">Opis</th>
       <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Opcjonalnie</th>
+      <th style="text-align:left">Opcjonalny</th>
     </tr>
   </thead>
   <tbody>
@@ -91,15 +91,15 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
     <tr>
       <td style="text-align:left"><b>współtwórcy</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
+      <td style="text-align:left">Powinien zawierać obiekt o <code>nazwie</code> i <code>id</code> współautora. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
-      <td style="text-align:left"><code>Tablica&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>serwis</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Tytuł usługi wspieranej przez tę obecność.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
@@ -111,7 +111,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       <td style="text-align:left"><b>opis</b>
       </td>
       <td style="text-align:left">Mały opis obecności, możesz użyć opisu usługi
-        jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. View the category for presence languages for a list. </td>
+        jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
       <td style="text-align:left"><code>Obiekt</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
@@ -120,10 +120,10 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b>
+      <td style="text-align:left">URL usługi.<br><b>Przykład: </b><code>vk.com</code><br>
+        <b>Ten adres URL musi być zgodny z adresem URL witryny, ponieważ będzie on używany do wykrywania strony internetowej, do której należy zainicjować skrypt. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b>
       </td>
-      <td style="text-align:left"><code>Ciąg, Tablica&lt;String&gt;</code>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
@@ -165,7 +165,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kolor</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code>#HEX</code>. Zalecamy użycie podstawowego koloru usługi
         , którą obsługuje Twoja obecność.</td>
@@ -179,13 +179,13 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       </td>
       <td style="text-align:left">Tablica z tagami, pomoże użytkownikom wyszukać Twoją obecność na stronie.</td>
       <td
-      style="text-align:left"><code>Ciąg, Tablica&lt;String&gt;</code>
+      style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>Nie</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kategoria</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Ciąg używany do reprezentowania kategorii, pod którą znajduje się obecność.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
@@ -215,7 +215,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
       <td style="text-align:left"><b>ustawienia</b>
       </td>
       <td style="text-align:left">Szereg ustawień, które użytkownik może zmienić</td>
-      <td style="text-align:left"><code>Tablica&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
       </td>
@@ -227,7 +227,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest to trudne
 
 Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych.
 
-#### Learning
+#### Nauka
 
 • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
@@ -235,69 +235,69 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Języki - Presence
 
-PreMiD to usługa poligraficzna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD to usługa poligraficzna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. Pełna lista języków znajduje się w tym [punkcie końcowym API](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Ustawienia - Presence
+Skonfiguruj ustawienia interaktywne, aby użytkownicy mogli dostosować swój status Presence!
 ```javascript
 "settings": [
         { 
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "icon": "FONTAWESOME FREE ICON", //Przykładowo "fas fa-info"
+            "value": true //Boolean sprawi, że będzie to przełącznik włącz/wyłącz z wartością jako wartością domyślną
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //Jeśli inne ustawienie jest równe tej wartości (prawda/fałsz/0/1/itd.), pokaż ten przycisk
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //Wprowadzenie łańcucha "string" spowoduje, że ustawienie będzie wejściowe, w którym można użyć niestandardowego wejścia.
+            "placeholder": "use %song% or %artist%" //Gdy dane wejściowe są puste, będzie zaznaczone na szaro
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "value": 0, //Wartość domyślna selektora
+            "values": ["1", "2", "etc."] //Sprawi, że ustawienie będzie selektorem, w którym wybierzesz ten, który chcesz
         }
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Użyj następujących metod, aby uzyskać informacje o ustawieniach w swoich plikach Presence:
 ### `getSetting(String)`
-Returns value of setting.
+Zwraca wartość ustawienia.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Zamień pdexID na id ustawienia
+console.log(setting); // Spowoduje to zapisanie wartości ustawienia
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Ukrywa podane ustawienie.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Zamień pdexID na id ustawienia
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Pokazuje podane ustawienie (działa tylko, jeśli ustawienie było już ukryte).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Zamień pdexID na id ustawienia
 ```
 
-## Presence categories
+## Kategorie - Presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Tworząc swój Presence, musisz określić kategorię, do której należy. To jest skompilowana lista kategorii, których możesz użyć.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Kategoria</th>
-      <th style="text-align:left">Nazwisko</th>
+      <th style="text-align:left">Nazwa</th>
       <th style="text-align:left">Opis</th>
     </tr>
   </thead>
