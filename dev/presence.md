@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-04-24T12:47:02.402Z
+date: 2020-04-28T20:48:22.057Z
 tags: 
 ---
 
@@ -25,14 +25,16 @@ To some, these strict rules may seem harsh. However, the implementation of these
 > The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives.
 {.is-warning}
 
-- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
 ```bash
 presence
-└── dist
-    ├── metadata.json
-    └── presence.js
+├── dist
+│   ├── metadata.json
+│   └── presence.js
+├── presence.ts
+└── tsconfig.json
 ```
-or if you're using TypeScript and `iframe` (the max you could reach) :
+or if you're using `iframe`:
 ```bash
 presence
 ├── dist
@@ -60,7 +62,7 @@ Before you begin working on your presence, keep the following list in mind.
 - Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
 
 ## Modification
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.js** or **metadata.json**.
+> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**.
 {.is-warning}
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you **MUST** follow to modify presences.
@@ -88,13 +90,13 @@ For your presence to reach the stores, it MUST go through a process on GitHub to
 11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
 12. Descriptions and tags should always be in arrays, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
 13. Unstable sites that constantly change APIs/domains, randomize HTML elements or just still being in heavy development are not allowed and will be removed from the store.
+14. Your presence must be coded in TypeScript (TS) and you must upload those files, presence coded in just JavaScript (JS) will be denied.
 
 After all of the proper reviews have been met, your pull request will be merged with the store.
 
-# Structure (TypeScript)
-You can choose if you want to code your Presence with [JavaScript](https://www.javascript.com/) or  [TypeScript](https://www.typescriptlang.org/).
-[TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions, so fixing and identifying bugs is way easier.
-If you just want to use [JavaScript](https://www.javascript.com/) you can skip to [Structure (JavaScript)](/dev/presence#structure-javascript).
+# Structure
+All presence are coded in [TypeScript](https://www.typescriptlang.org/).
+[TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
@@ -126,230 +128,6 @@ Please put the following code inside of the `tsconfig.json` file.
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
 ## Filling in the metadata.json file
-
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in.
-You will be able to easily click back at the bottom of the explanation.
-
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
-
-## Getting started
-
-```javascript
-var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
-}),
-
-strings = presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
-});
-
-/*
-
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
-
-    // element grabs //
-    // api calls //
-    // variable sets //
-}
-
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
-
-*/
-
-
-presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
-
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
-
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
-
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-    }
-});
-```
-You can copy this into your `presence.ts` file and edit the values.
-Setting all the values is done inside of the updataData event.
-
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
-
-For more information about the Presence class click [here](/dev/presence/class).
-
-## Can't get certain data?!
-
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)).
-These html tags can contain multiple sources such as videos.
-But they're not relevant every time. Some are hidden or just not actively used.
-Check if you can extract, the information you need, without them before you do unnecessary work.
-
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute ``document.querySelectorAll("iframe")``.
-
-If you find that your data is in a iFrame you need to do the following:
-1. Create a ``iframe.ts`` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
-```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
-  /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
-  */
-  iframe.send({ //sending data
-    video: video,
-    time: video.duration
-  }); 
-});
-```
-4. Making your presence file receive data from the iFrame file. 
-```javascript
-presence.on("iFrameData", data => {
-  iFrameVideo = data.video;
-  currentTime = data.time;
-});
-```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type ``tsc -w`` to compile the ``presence.ts`` into the ``/dist`` folder.
-
-# Structure (JavaScript)
-## Cloning the project
-1. Install [Git](https://git-scm.com/).
-2. Open a terminal and type ``git clone https://github.com/PreMiD/Presences``. 
-3. Choose a folder of your choice.
-4. Open it in you code editor.
-
-## Creating folders and files
-
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
-
-## Filling in the metadata.json file
-
-Click [here](/dev/presence#filling-in-the-metadatajson-file-2) to see how to fill it in.
-You will be able to easily click back at the bottom of the explanation.
-
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
-
-## Getting started
-
-```javascript
-var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
-}),
-
-strings = presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
-});
-
-/*
-
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
-
-    // element grabs //
-    // api calls //
-    // variable sets //
-}
-
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
-
-*/
-
-
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
-
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
-
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
-
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-    }
-});
-```
-You can copy this into your `presence.js` file and edit the values.
-Setting all the values is done inside of the updataData event.
-
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
-
-For more information about the Presence class click [here](/dev/presence/class).
-
-## Can't get certain data?!
-
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)).
-These html tags can contain multiple sources such as videos.
-But they're not relevant every time. Some are hidden or just not actively used.
-Check if you can extract, the information you need, without them before you do unnecessary work.
-
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute ``document.querySelectorAll("iframe")``.
-
-If you find that your data is in a iFrame you need to do the following:
-1. Create a ``iframe.js`` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
-```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
-    /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
-    */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
-    });
-});
-```
-4. Making your presence file receive data from the iFrame file. 
-```javascript
-presence.on("iFrameData", data => {
-  iFrameVideo = data.video;
-  currentTime = data.time;
-});
-```
-**Note:** This needs to be placed outside of the updateData event.
-# Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 It's still suggested to read this through so you know how it works.
 
@@ -582,8 +360,107 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation.
-Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+
+## Getting started
+
+```javascript
+var presence = new Presence({
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+}),
+
+strings = presence.getStrings({
+    play: "presence.playback.playing",
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
+});
+
+/*
+
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
+
+    // element grabs //
+    // api calls //
+    // variable sets //
+}
+
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+
+*/
+
+
+presence.on("UpdateData", async () => {
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+
+    var presenceData = {
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
+        details: "Browsing Page Name", //The upper section of the presence text
+        state: "Reading section A", //The lower section of the presence text
+        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
+        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
+    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+
+    if (presenceData.details == null) {
+        //This will fire if you do not set presence details
+        presence.setTrayTitle(); //Clears the tray title for mac users
+        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    } else {
+        //This will fire if you set presence details
+        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    }
+});
+```
+You can copy this into your `presence.ts` file and edit the values.
+Setting all the values is done inside of the updataData event.
+
+For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+
+For more information about the Presence class click [here](/dev/presence/class).
+
+## Can't get certain data?!
+
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)).
+These html tags can contain multiple sources such as videos.
+But they're not relevant every time. Some are hidden or just not actively used.
+Check if you can extract, the information you need, without them before you do unnecessary work.
+
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Execute ``document.querySelectorAll("iframe")``.
+
+If you find that your data is in a iFrame you need to do the following:
+1. Create a ``iframe.ts`` file.
+2. Set iFrame to `true` in your metadata file.
+3. Filling in your iFrame file.
+```javascript
+var iframe = new iFrame();
+iframe.on("UpdateData", async () => {
+  /*
+  Get all the data you need out of the iFrame save them in variables
+  and then sent them using iframe.send
+  */
+  iframe.send({ //sending data
+    video: video,
+    time: video.duration
+  }); 
+});
+```
+4. Making your presence file receive data from the iFrame file. 
+```javascript
+presence.on("iFrameData", data => {
+  iFrameVideo = data.video;
+  currentTime = data.time;
+});
+```
+**Note:** This needs to be placed outside of the updateData event.
+## Compiling
+Open a console in your folder and type ``tsc -w`` to compile the ``presence.ts`` into the ``/dist`` folder.
 
 # Loading the presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
