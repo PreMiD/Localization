@@ -2,7 +2,7 @@
 title: Presence 개발
 description:
 published: true
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ tags:
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## 파일
 > 코드는 무조건 *질*이 좋아야 하고, 또 *읽을 수* 있어야 합니다. GitHub의 `DeepScan`은 코드 질 문제를 `Presence 인증 팀`에게 전송합니다. 저희는 당신이 pull request를 만들 때 fork가 up 상태로 있는 걸 권장합니다. 
