@@ -6,54 +6,55 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> L'activation du lancement automatique sous Linux est maintenant disponible depuis l'application au lieu de l'extension.{.is-warning}
 
 L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
 
-## Table of Contents
+## Table des Matières
 
 - **[À propos](#about)**
-  - [Stats](#stats)
+  - [Statistiques](#stats)
   - [Exigences](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
+  - Exemple (bientôt)
+  - FAQ (bientôt)
+  - Immeuble (bientôt)
   - [Support](#support)
   - [Crédits](#credits)
   - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+- **[Snapcraft](#snapcraft)** (TL;DR : _jamais_ ™️)
+- **[Portable AppImage](#portable-appimage)** (_CONSEILLÉ_)
+  - [Instructions d'Installation](#installation-instructions)
+  - [Notes complémentaires](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) basé distributions** (bientôt, utilisation [cette](#portable-appimage) pour l'instant)
+- **Distributions basées sur Debian et Ubuntu** (bientôt, utilisation [cette](#portable-appimage) pour l'instant)
+- **[Archiver les distributions basées sur Linux](#arch-linux-based-distributions)**
+  - [Instructions d'Installation](#installation-instructions-1)
+  - [Notes complémentaires](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [Instructions d'Installation](#installation-instructions-2)
+  - [Notes complémentaires](#additional-notes-2)
 
 <a name="about"></a>
 
 ## À propos
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** est un utilitaire simple et configurable qui utilise la bibliothèque RP (Rich Presence) de Discord qui vous permet de montrer ce que vous faites sur le Web (et quelques programmes) dans votre profil Discord comme **status de lecture**. 
 
 <a name="stats"></a>
 
-### Stats
+### Statistiques
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Déploiement
+</th>
+    <th>Téléchargements total</th>
+    <th>Dernières version</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Toutes les versions"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Dernières version"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Version GitHub"></a></td>
   </tr>
 </table>
 
@@ -61,21 +62,21 @@ L'installation de l'application est très importante car l'extension ne peut rie
 
 ### Exigences
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Techniquement, chaque distribution qui peut exécuter Discord [officiel](https://discordapp.com/download) **app** (pas le web ou la version snap ) peut également exécuter PreMiD;</br> Comme vous l'avez peut-être remarqué ces dernières années, certaines distributions Linux ont commencé à abandonner la prise en charge des architectures 32 bits (ia32 / i686 / i386 / x86), et en conséquence, nous l'avons fait également. Vous pouvez cependant essayer de construire l'application vous-même si vous avez désespérément besoin de l'utiliser sur une distribution 32 bits.</br> Puisque nous utilisons actuellement Electron comme moteur (Discord le fait aussi !), ses exigences s'appliquent également à cette application :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+On ne sait pas si les anciennes versions d'autres distributions le supportent, donc gardez votre distribution à jour et utilisez **LTS (Long-Term Support)** si votre distribution les offres, car ils sont plus stables (évitez les versions alpha).
 
 <a name="support"></a>
 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Rejoignez notre Discord">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Rejoignez notre Discord">
   </a>
 </div>
 
@@ -83,13 +84,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Crédits
 
-Thanks to :
+Merci à
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (et quelques autres gars que j'ai oubliés de leur nom) pour nous faire part de leurs commentaires sur les sorties nocturnes.
+- @apriluwu pour la maintenance des versions Gentoo
+- @SlimShadyIAm et naka pour la maintenance des paquets de dépôt utilisateurs Arch
+- La communauté Electron pour divers paquets
+- Quiconque a déjà contribué au projet de quelque façon que ce soit.
 
 <a name="license"></a>
 
@@ -102,76 +103,75 @@ Thanks to :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Probablement jamais, puisque la nature de Snap empêche PreMiD d'atteindre Discord et l'extension correctement,</br> Il serait apprécié que quelqu'un puisse le faire cependant, toutes les idées ou les PRs sont les bienvenues.</br> P.S.: le confinement classique ne fonctionne pas non plus donc ne vous ennuyez pas de faire une suggestion à ce sujet.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Le paquet AppImage est recommandé si Discord fonctionne pour vous, mais pas d'autres paquets PreMiD (.deb, .rpm, etc).
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instructions d'Installation
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
 ```
 
 ```bash
-# Just double-click it or run
+# Double-cliquez dessus ou exécutez
 ./PreMiD*.AppImage
 ```
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Notes complémentaires
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Soit si vous voulez essayer PreMiD ou simplement ne voulez pas l'installer, C'est le meilleur, c'est toujours à jour mais _DOESN'T AUTO-START AVEC LE SYSTÈME!</br>Si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres paquets (selon votre distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Archiver les distributions basées sur Linux
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Les usages [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Les distributions supportées sont _elles-mêmes_, Manjaro, Anarchie, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS et [tous ceux qui prennent en charge l'installation à partir de AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instructions d'Installation
 
 ```bash
-# Using yay (recommended)
+# Utiliser yay (recommandé)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Utilisation de pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
-trizen -S premid
+# En utilisant trizen :trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# En utilisant pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... vous obtenez le point
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+ou manuellement à partir du [Repository utilisateur Arch](https://aur.archlinux.org/packages/premid) si vous savez ce que vous faites.
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Notes complémentaires
 
-Si votre distribution utilise pacman, alors vous devez d'abord installer l'un des assistants. If you don't have any, Yay is recommended, run :
+Si votre distribution utilise pacman, alors vous devez d'abord installer l'un des assistants. Si vous n'en avez pas, Yay est recommandé, exécutez :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,34 +181,34 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Les autres aides AUR/Pacman fonctionnent également, bien que les fonctionnalités de chacun soient différentes de sorte que vous pourriez rencontrer des problèmes lors de leur utilisation.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Il en va de même pour ses dérivés, tels que ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Instructions d'Installation
 
 ```bash
-# Add the overlay using layman
+# Ajouter l'overlay en utilisant layman
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Installer via portage
 emerge -av app-misc/premid
 ```
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Notes complémentaires
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+La commande d'installation montre l'utilise de layman, elle est dans les dépôts officiels à travers `app-portage/layman`.<br> Pour recevoir des mises à jour, vous devrez synchroniser l'overlay de temps à autre, vous pouvez le faire avec
 
 ```bash
 layman -S
