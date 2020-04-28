@@ -19,6 +19,10 @@
         "message": "Visualisation de la tendance",
         "description": ""
     },
+    "1337x.animeTorrents": {
+        "message": "Affichage des torrents animés",
+        "description": ""
+    },
     "1337x.appTorrents": {
         "message": "Visualisation des torrents des applications",
         "description": ""

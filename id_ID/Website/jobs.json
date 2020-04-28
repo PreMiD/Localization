@@ -1,1 +1,22 @@
-{}
+{
+	"jobs.modal.step": {
+		"message": "Langkah {0} dari 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Lanjut",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Gabung",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Batal",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Silakan isi semua kolom",
+		"description": "Error when user did not fill all the fields."
+	}
+}

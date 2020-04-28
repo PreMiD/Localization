@@ -15,6 +15,14 @@
 		"message": "Co powiesz na pójście do nieba zamiast do piekła?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Twój darmowy status Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Nasz zespół zapewni ci status Presence twojej usługi internetowej.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Zostań zweryfikowany",
 		"description": "Heading for the second benefit."
@@ -27,9 +35,17 @@
 		"message": "Integracja z Meta-tag",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Automatycznie włącza twój status Presence, gdy ktoś odwiedza Twoją witrynę.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Uwiecznij się",
 		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Nieprzyjemne miejsce na naszej stronie partnerskiej.",
+		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
 		"message": "Bądź sławny",
@@ -46,6 +62,10 @@
 	"partners.requirements.first.title": {
 		"message": "Czego szukasz?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Obserwujemy rosnące społeczności i ekscytujące rzeczy w Internecie. TL;DR powinieneś już korzystać z PreMiD i być gotowym na rozpowszechnienie go większej liczbie maniaków internetowych. Przyjęcie do programu jest wyjątkowo jakościowe i będzie się różnić w zależności od kandydata.",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Nasza zapora",
@@ -70,6 +90,22 @@
 	"partners.sponsors.title": {
 		"message": "SPONSORZY",
 		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD nie byłby możliwy bez tych niesamowitych ludzi.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Tak się ogląda anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings to dynamiczna gra PvP Arena nowej generacji, rozgrywana w przeglądarce.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat to międzynarodowe radio non-profit, które dąży do zapewnienia wysokiej jakości radia bez przerwy w działaniu i rozrywki.",
+		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.iLoot": {
 		"message": "Platforma zarobkowa graczy.",
@@ -124,7 +160,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "Nazwisko",
+		"message": "Nazwa",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
@@ -142,6 +178,10 @@
 	"partners.apply.form.description": {
 		"message": "Opis: (Maksymalnie 150 znaków)",
 		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Opis wyróżnionych",
+		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Link obrazka: (550x300, tylko w formacie PNG)",
