@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ tags:
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Створення
 > The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
@@ -155,7 +153,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4. Створіть файл `metadata.json` всередині теки `dist`.
 
 ## Заповнення в файлі tsconfig.json
-Будь ласка, розмістіть наступний код всередині файлу `tsconfig.json`.
+Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
   "extends": "../tsconfig.json",
