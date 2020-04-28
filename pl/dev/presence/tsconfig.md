@@ -37,15 +37,15 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 | Własność                   | Opis                                                                                                                            |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                                                |
-| moduł                      | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
+| module                     | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
 | target                     | Określa wersję JavaScript, którą kompilujesz.                                                                                   |
-| usuń Komentarze            | Usuwanie komentarzy z skompilowanych plików.                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
-| inlineSourceMap            | Adds sourcemapping                                                                                                              |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
+| removeComments             | Usuwanie komentarzy z skompilowanych plików.                                                                                    |
+| noFallthroughCasesInSwitch | Zgłasza błędy dla przypadków awaryjnych w instrukcji switch.                                                                    |
+| noUnusedLocals             | Zgłasza błędy na nieużywanych lokalnych.                                                                                        |
+| noUnusedParameters         | Zgłasza błędy dotyczące nieużywanych parametrów.                                                                                |
+| inlineSourceMap            | Dodaje sourcemapping                                                                                                            |
+| typeRoots                  | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Tutaj możesz zdefiniować foldery, które chcesz wykluczyć z przyszłej kompilacji.                                                |
 
 ## Konfiguracja Presence
 
@@ -60,6 +60,6 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 
 | Własność            | Opis                                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------------------------- |
-| **rozszerzone**     | Używane do rozszerzenia podstawowego pliku `tsconfig` dla różnych zadań.                                 |
+| **extends**         | Używane do rozszerzenia podstawowego pliku `tsconfig` dla różnych zadań.                                 |
 | **compilerOptions** | Zobacz [**Konfiguracja root**](/dev/presence/tsconfig#root-configuration) aby uzyskać więcej informacji. |
-| na wyjściu          | Określa katalog wyjściowy skompilowanych plików.                                                         |
+| outDir              | Określa katalog wyjściowy skompilowanych plików.                                                         |
