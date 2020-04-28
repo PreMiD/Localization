@@ -2,7 +2,7 @@
 title: iFrame Trieda
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Tu je zoznam všetkých udalostí:
 #### `UpdateData`
 
 Táto udalosť sa spustí pri každej aktualizácii prvku iframe.
-
-#### `MediaKeys` (disabled)
-
-Spúšťa sa, keď používateľ na klávesnici používa mediálne klávesy, [kliknite sem](/dev/presence/class#mediakeys) na získanie viac informácií o mediálnych klávesách.
