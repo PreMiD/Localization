@@ -2,7 +2,7 @@
 title: iFrame Sınıfı
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Kullanabileceğiniz eventlerin listesi:
 #### `UpdateData`
 
 Bu event, iframeden her bilgi geldiğinde çalışacaktır.
-
-#### `MediaKeys` (artık mevcut değil)
-
-Kullanıcılar klavyelerindeki medya tuşlarına basınca devreye girecektir, daha fazla bilgi için [buraya](/dev/presence/class#mediakeys) tıklayabilirsiniz.
