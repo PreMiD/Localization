@@ -2,7 +2,7 @@
 title: iFrameクラス
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ iframe.on("UpdateData", async () => {
 #### `UpdateData`
 
 このイベントはiframeが更新されるたびに呼び出されます。
-
-#### `MediaKeys` (使用不可)
-
-ユーザーがキーボードでメディアキーを押したときに呼び出されます。 [ここ](/dev/presence/class#mediakeys)でメディアキーについての情報を調べられます。
