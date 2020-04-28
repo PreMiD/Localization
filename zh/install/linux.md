@@ -1,25 +1,25 @@
 ---
 title: Linux
-description: 开始在 Linux 上安装PreMiD
-published: true
+description: Getting started with a PreMiD installation on Linux
+published: 是
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
 
-安装应用程序非常重要，因为扩展本身无法做任何事情。
+The installation of the application is very important as the extension can not do anything by itself.
 
 ## Table of Contents
 
-- **[关于](#about)**
+- **[About](#about)**
   - [Stats](#stats)
-  - [B. 所需经费](#requirements)
+  - [Requirements](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [制作人员名单](#credits)
+  - [特別感謝](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
@@ -36,7 +36,7 @@ tags:
 
 <a name="about"></a>
 
-## 关于
+## About
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -59,7 +59,7 @@ tags:
 
 <a name="requirements"></a>
 
-### B. 所需经费
+### Requirements
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -81,7 +81,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### 制作人员名单
+### 特別感謝
 
 Thanks to :
 
