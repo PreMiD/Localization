@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna s
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bagi beberapa, peraturan ini mungkin agak kejam. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Pembuatan
 > Kode yang dibuat HARUS *ditulis dengan baik* dan HARUS *bisa dibaca*. `DeepScan` di GitHub akan melaporkan kualitas kode ke `Presence Verification Team`. Kami sarankan fork anda up to date saat membuat pull request, untuk mengurangi false positives. 
