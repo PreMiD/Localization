@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ tags:
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bazıları için bu kurallar zorlayıcı görünebilir. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Oluşturma
 > Yazdığınız kod MUTLAKA *düzgün yazılmış* ve *okunaklı* olmalıdır. GitHub üzerindeki `DeepScan`, kodunuzda bulunan hataları size ve `Servis Onaylama Ekibi` üyelerine iletecektir. Yeni bir "pull request" atarken, depo kopyanızın güncel olmasını tavsiye ederiz, bu sayede daha az hatayla karşılaşacaksınız. 
