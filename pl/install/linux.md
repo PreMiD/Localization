@@ -2,7 +2,7 @@
 title: Linux
 description: Rozpoczęcie instalacji PreMiD w systemie Linux
 published: tak
-date: 2020-04-27T12:52:46.261Z
+date: 27.04.2020 12:52
 tags:
 ---
 
@@ -22,12 +22,12 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
   - [Twórcy](#credits)
   - [Licencja](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+- **[Portable AppImage](#portable-appimage)** (_ZALECANE_)
   - [Instrukcje Instalacji](#installation-instructions)
   - [Dodatkowe uwagi](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+- **Dystrybucje oparte na Red Hat Enterprise Linux (RHEL)** (wkrótce, użyj na razie [tego](#portable-appimage))
+- **Dystrybucje oparte na Debianie i Ubuntu** (wkrótce, użyj na razie [tego](#portable-appimage))
+- **[Dystrybucje oparte na Arch Linuksie](#arch-linux-based-distributions)**
   - [Instrukcje Instalacji](#installation-instructions-1)
   - [Dodatkowe uwagi](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
@@ -86,7 +86,7 @@ Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po pros
 Podziękowania dla:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (i kilku innych, których imion zapomniałem) za przekazywanie opinii na temat wydań "nightly".
-- @apriluwu for maintaining the Gentoo builds
+- @apriluwu za obsługę kompilacji Gentoo
 - @SlimShadyIAm and naka za wcześniejsze utrzymanie pakietów Arch User Repository
 - The Electron community za różne pakiety
 - Każdemu, kto kiedykolwiek w jakikolwiek sposób przyczynił się do projektu.
@@ -109,7 +109,7 @@ Prawdopodobnie nigdy, ponieważ natura Snapa blokuje PreMiD prawidłowe dotarcie
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Pakiet AppImage jest zalecany, jeśli Discord działa, ale inne pakiety PreMiD (.deb, .rpm, itp.) nie.
 
 <a name="appimageinstall"></a>
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Po prostu kliknij dwukrotnie lub uruchom
 ./PreMiD*.AppImage
 ```
 
@@ -128,50 +128,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Dodatkowe uwagi
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Jeśli chcesz wypróbować PreMiD, albo po prostu nie chcesz go instalować, ten jest najlepszy, jest zawsze aktualny, ale _NIE URUCHAMIA SIĘ AUTOMATYCZNIE Z SYSTEMEM!_</br>Jeśli męczy Cię konieczność otwierania go za każdym razem, użyj innych pakietów (zgodnie z dystrybucją).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Dystrybucje oparte na Arch Linuksie
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Użycie [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Obsługiwane dystrybucje to _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS i [każda, która obsługuje instalację z AUR ](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Instrukcje Instalacji
 
 ```bash
-# Using yay (recommended)
+# Użycie yay (zalecane)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Użycie pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Użycie trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Użycie pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... dostajesz punkt
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+lub ręcznie z [Arch User Repository](https://aur.archlinux.org/packages/premid) jeśli wiesz, co robisz.
 
 <a name="archnotes"></a>
 
 ### Dodatkowe uwagi
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Jeśli twoja dystrybucja używa Pacmana, musisz najpierw zainstalować jednego z pomocników. Jeśli nie masz, Yay jest zalecane, uruchom:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,26 +181,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+AUR/Pacman również działają, chociaż ich funkcjonalność jest inna, więc możesz napotkać problemy podczas ich używania.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+To samo dotyczy jego pochodnych, takich jak ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Instrukcje Instalacji
 
 ```bash
-# Add the overlay using layman
+# Dodaj nakładkę za pomocą layman
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Instaluj przez portage
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Dodatkowe uwagi
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+Pokazane polecenie instalacji używa layman, jest w oficjalnych repozytoriach `app-portage / layman`.<br> Aby uzyskać aktualizacje, musisz od czasu do czasu synchronizować nakładkę, możesz to zrobić za pomocą
 
 ```bash
 layman -S
