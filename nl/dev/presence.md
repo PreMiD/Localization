@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebrui
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. Voor sommigen lijken deze strenge regels misschien zwaar. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Aanmaak
 > De code die u schrijft moet *goed geschreven* zijn en MOET *leesbaar* zijn. `DeepScan` op GitHub zal problemen met de kwaliteit van de code melden aan het `Presence Verification Team`. We raden je aan dat je vork up to date is wanneer je pull-aanvragen doet, dit zal helpen valse positieve punten te beperken. 
