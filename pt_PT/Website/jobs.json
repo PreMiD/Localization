@@ -23,6 +23,10 @@
 		"message": "PreMiD é um projeto open-source (codigo aberto), o que significa que somos uma equipa sem fins lucrativos, cada doação ou dinheiro patrono volta para o produto. Ao candidatar-se a um emprego no PreMiD você reconhece que está se voluntariando na equipa, você não será pago pelo seu trabalho.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Entra no nosso servidor de Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
 	"jobs.header.title": {
 		"message": "Trabalhar para a PreMiD",
 		"description": "First part of the jobs page."
@@ -46,6 +50,10 @@
 	"jobs.benefit1.description": {
 		"message": "Entre em contato com as pessoas por de trás do PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sneak Peeks",
+		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
 		"message": "Dê uma olhada em nosso Desenvolvimento e Marketing.",
