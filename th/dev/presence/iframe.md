@@ -2,7 +2,7 @@
 title: คลาส iFrame
 description:
 published: true
-date: 12 ก.พ 2563 22:15 น.
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ iframe.on("UpdateData", async () => {
 #### `UpdateData`
 
 เหตุการณ์นี้จะเริ่มทำงานทุกครั้งที่มีการอัปเดต iframe
-
-#### `MediaKeys` (disabled)
-
-เริ่มทำงานเมื่อผู้ใช้กดปุ่ม media บนคีย์บอร์ดของเขา,[คลิกที่นี่](/dev/presence/class#mediakeys)เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับปุ่ม media
