@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutze
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. Für manche mögen diese strengen Regeln hart erscheinen. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Erstellung
 > Der Code, den du schreibst, MUSS *ordentlich geschrieben* und MUSS *lesbar sein*. `DeepScan` auf GitHub meldet Qualitätsprobleme an das `Presence Verification Team`. Wir empfehlen, dass Ihre Gabel auf dem neuesten Stand ist, wenn Sie Pull-Anfragen stellen. Dies hilft, Fehlalarme zu begrenzen. 
@@ -51,7 +49,7 @@ presence
 └── tsconfig.json
 ```
 
-Beachte die folgende Liste, bevor Du an Deiner Präsenz arbeitest.
+Before you begin working on your presence, keep the following list in mind.
 - The Presence **MUST** be related to the site you have chosen.
 - The Presence **MUST NOT** be of any illegal sites. Dazu gehören Stressfaktoren, Drogen, Kinderpornografie usw.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
@@ -155,7 +153,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4. Erstelle eine `metadata.json` im Ordner `dist`.
 
 ## Ausfüllen der tsconfig.json
-Bitte gib den folgenden Code in die Datei `tsconfig.json` ein.
+Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
   "extended": "../tsconfig.json",
@@ -164,10 +162,10 @@ Bitte gib den folgenden Code in die Datei `tsconfig.json` ein.
   }
 }
 ```
-Um mehr über die TypeScript-Konfiguration zu erfahren, klicke [hier](/dev/presence/tsconfig).
+To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
 ## Ausfüllen der metadata.json
-Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator). Es wird immer noch empfohlen, dies durchzulesen, damit Du weißt, wie es funktioniert.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
 {
@@ -221,14 +219,14 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 }
 ```
 
-Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du musst jetzt die Werte der Eigenschaften bearbeiten. Beachte, dass die folgenden Eigenschaften in Deiner `metadata.json` optional sind. Wenn Du sie nicht verwenden möchten, musst Du sie entfernen.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `Mitwirkende`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `einstellungen`
 
-**Klarstellung einiger Wertvoreinstellungen:**
+**Clarifying some value presets:**
 <table>
   <thead>
     <tr>
@@ -262,7 +260,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
     <tr>
       <td style="text-align:left"><b>Bedienung</b>
       </td>
-      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Muss den gleichen Namen haben wie der Ordner, in dem sich alles befindet)</td>
+      <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -359,7 +357,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>Kategorie</b>
       </td>
-      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
+      <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -396,7 +394,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Erste Schritte
 
@@ -452,21 +450,21 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Setting all the values is done inside of the updataData event.
+You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
 
-Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
+For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
-Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz-Klasse.
+For more information about the Presence class click [here](/dev/presence/class).
 
 ## Du kannst bestimmte Daten nicht abrufen?!
 
-Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
-Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
+If you find that your data is in a iFrame you need to do the following:
 1. Erstelle eine `iframe.ts`-Datei.
 2. Setze iFrame in Ihrer Metadatendatei auf `true`.
 3. Fülle Deine iFrame-Datei aus.
@@ -490,9 +488,9 @@ presence.on("iFrameData", data => {
   currentTime = data.time;
 });
 ```
-**Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
+**Note:** This needs to be placed outside of the updateData event.
 ## Kompilieren
-Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/dist` zu kompilieren.
+Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Loading the presence
 1. Öffne das Popup und halte die Taste <kbd>Shift</kbd> auf Deiner Tastatur gedrückt.
@@ -502,7 +500,7 @@ presence.on("iFrameData", data => {
 
 # Some helpful things
 ## Hot-reloading
-Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
+The website you are developing on is automatically reloading every time you save a file in your folder.
 
 ## Debugging
 - Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
