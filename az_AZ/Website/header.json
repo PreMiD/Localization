@@ -1,38 +1,38 @@
 {
   "header.language": {
-    "message": "Eesti keel",
+    "message": "Azərbaycan",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Me toetame su keelt, soovid vahetada?",
+    "message": "Dilinizi dəstəkləyirik, dəyişmək istəyirsiniz?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Meie veebisait on tõlgitud eesti keelde. See võib aidata, kui sa ei räägi/saa aru inglise keelest väga hästi.",
+    "message": "Veb saytımız sizin dilinizə tərcümə edildi. İngilis dilini yaxşı bilməsəniz bu kömək edə bilər.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Ei, tänan",
+    "message": "Xeyr, təşəkkürlər",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Vaheta keel",
+    "message": "Dili dəyiş",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Küpsetan pannkooke...;Lisan konteinerisse...;Vaatan su IP addressi üle...;UwU;Rikun reegleid...",
+    "message": "Keksləri bişirmək...; Qabların yerləşdirilməsi...; IP ünvanınızın araşdırılması...; UwU; Qaydaların pozulması...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Pood",
+    "message": "Mağaza",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "Allalaadimised",
+    "message": "Yükləmələr",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Abilised",
+    "message": "Töhfə verənlər",
     "description": "Contributors tab"
   }
 }

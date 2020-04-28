@@ -1,1 +1,70 @@
-{}
+{
+	"downloads.header.title": {
+		"message": "Đã đến lúc thể hiện bản thân.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Bắt đầu sử dụng PreMiD ngay để cho mọi người biết bạn đang làm gì, có thể bạn sẽ tìm được một người bạn cùng chung sở thích.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Bắt đầu",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Tải xuống PreMiD.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Cài đặt ứng dụng PreMiD.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Cài đặt tiện ích mở rộng cho trình duyệt của bạn.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Truy cập {0} để kiểm tra xem tiện ích mở rộng đã được kết nối hay chưa.",
+		"description": "{0} will be replaced by 'store' string translation"
+	},
+	"downloads.instructions.step_4_store": {
+		"message": "cửa hàng",
+		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Ứng dụng",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Tiện ích mở rộng",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "CẢNH BÁO:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Không có bộ cài đặt nào cho hệ điều hành này. Điều này có nghĩa là nó vẫn chưa được hỗ trợ.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Lưu ý rằng PreMiD hiện tại không hỗ trợ cho các thiết bị di động.",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Hiển thị mục tải",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Ẩn mục tải",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "Phiên bản hiện tại cho nền tảng này là {0} (phiên bản này là dành riêng cho Linux, và không áp dụng cho các hệ thống khác).",
+		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Phiên bản này là dành riêng cho Linux, và không áp dụng cho các hệ thống khác. Phiên bản hiện tại của ứng dụng là {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	}
+}
