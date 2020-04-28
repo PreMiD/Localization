@@ -2,7 +2,7 @@
 title: iFrame klass
 description:
 published: true
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Här är en lista över alla händelser:
 #### `Uppdateringsdata`
 
 Denna händelse avfyras varje gång iframe uppdateras.
-
-#### `MediaKeys` (inaktiverad)
-
-Avskedas när användaren använder mediaknappar på sitt tangentbord, [klicka här](/dev/presence/class#mediakeys) för att få mer information om mediaknappar.
