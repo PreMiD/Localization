@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-04-24T12:47:02.402Z
+date: 2020-04-28T20:53:09.711Z
 tags:
 ---
 
@@ -13,29 +13,33 @@ tags:
 Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna sekarang bisa menambah dan menghapus presence favorit lewat tampilan pengguna [website](https://premid.app/).
 
 # Aturan
-> Jika anda tidak mengikuti aturan, a `Presence Verifier` akan meminta perubahan sesuai aturan atau pull request anda mungkin bisa ditutup dalam situasi tertentu. 
+> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
 > 
 > {.is-warning}
 
-> Ketika membuat pull request tentang menambahkan atau mengganti presence yang sudah ada, anda **HARUS** menyertakan screenshot. Tetapi, perubahan pada file `metadata.json` atau file `tsconfig.json` suatu presence tidak memerlukan screenshot. * Screenshot anda HARUS di upload langsung ke GitHub dengan pull request, jangan menggunakan website third party untuk share gambar.* 
+> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
 > 
 > {.is-warning}
 
-Saat menerbitkan presence ke GitHub, kami mengharuskan anda mengikuti beberapa aturan. Bagi beberapa, peraturan ini mungkin agak kejam. Tapi penerapan aturan ini bertujuan untuk mencegah masalah pada server kami.
+When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bagi beberapa, peraturan ini mungkin agak kejam. However, the implementation of these rulesets will keep us and the users from running into any issues.
+
+:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Pembuatan
 > Kode yang dibuat HARUS *ditulis dengan baik* dan HARUS *bisa dibaca*. `DeepScan` di GitHub akan melaporkan kualitas kode ke `Presence Verification Team`. Kami sarankan fork anda up to date saat membuat pull request, untuk mengurangi false positives. 
 > 
 > {.is-warning}
 
-- Pull request **HARUS** lengkap, anda harus memiliki struktur file yang layak, draft **TIDAK** diperbolehkan. Termasuk file `dist` folder, `presence.js`, dan file `metadata.json` yang ditunjukkan di contoh berikut:
+- Pull request **HARUS** lengkap, anda harus memiliki struktur file yang layak, draft **TIDAK** diperbolehkan. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
 ```bash
 presence
-└── dist
-    ├── metadata.json
-    └── presence.js
+├── dist
+│   ├── metadata.json
+│   └── presence.js
+├── presence.ts
+└── tsconfig.json
 ```
-atau jika menggunakan TypeScript dan `iframe` (semaksimal mungkin) :
+or if you're using `iframe`:
 ```bash
 presence
 ├── dist
@@ -48,55 +52,90 @@ presence
 ```
 
 Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
-- Presence **HARUS** terkait website yang telah anda pilih.
-- Presence **HARUS TIDAK** terkait website ilegal. Ini termasuk stresor, narkoba, pornografi dibawah umur, dll...
-- Metadata presence **HARUS** memiliki konten yang ditulis dengan baik, termasuk judul sesuai, dan deskripsi.
-- Media yang disertakan meliputi (icon/thumbnail) **HARUS** terkait dengan website dan memiliki ukuran dan kualitas yang wajar.
-- Struktur file **HARUS** bersih dan terurus, jangan ada file sembarangan yang tidak berguna pada kegunaan presence.
-- Presence **HARUS TIDAK** memiliki tujuan negatif. Ini meliputi mencuri/membocorkan informasi pribadi, memperburuk kinerja website, dll...
-- Jika anda membuat presence untuk website yang berubah di masa mendatang, adalah tanggung jawab **ANDA** untuk memperbarui presence agar bekerja sesuai harapan. Jika anda tidak memperbaiki dalam 7 hari, maka pengembang presence lainnya diizinkan untuk **MENGGANTI** presence anda untuk menyesuaikan perubahan.
-- Presence **HARUS** di uji coba sebelum penerbitan untuk memastikan semua bekerja sesuai yang diharapkan.
-- Presence anda **HARUS** memiliki gambar dan deskripsi SFW terlepas dari apakah itu NSFW atau tidak. Jika presence anda tentang website NSFW, harap tambahkan tag `nsfw` pada metadata.
-- Presence anda **TIDAK BISA** merubah penyimpanan lokal pada browser.
-- Presence anda boleh menggunakan cookies untuk menyimpan data. Semua data disimpan oleh presence harus memiliki prefix `pmd_`.
-- Tags should be used as alternate names whenever possible, shortened versions must be included as well (e.g. if an Amazon presence had included AWS support it would have its tags like : "amazon-web-services" and "aws"). This is not required if it's not possible, but will make it easier for users when searching.
-- Tags must not include any spaces, slashes, single/double quotation marks, unicode characters and should always be lowercase.
+- The Presence **MUST** be related to the site you have chosen.
+- The Presence **MUST NOT** be of any illegal sites. Ini termasuk stresor, narkoba, pornografi dibawah umur, dll.
+- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
+- The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
+- The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
+- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
+- If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
+- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
+- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
+- Your Presence **CANNOT** manipulate local storage on the browser.
+- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
+- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
 
 ## Perubahan
-> Anda HARUS merubah versi **metadata** menjadi nilai lebih tinggi dari versi sebelumnya saat membuat perubahan ke **presence.js** atau **metadata.json**. 
+> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
 > 
 > {.is-warning}
 
-Pada situasi tertentu, presence mungkin berperilaku aneh atau membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar yang **HARUS** diikuti dalam merubah presence.
-- Anda tidak diperbolehkan menulis kembali sebuah presence atau merubah penciptanya. Jika pencipta presence telah terbanned dari server official atau belum membuat perubahan yang dibutuhkan dalam jangka 7 hari, anda boleh menghubungi `Presence Verifier` PreMiD untuk memeriksa apakah anda dapat menulis ulang presence yang dipilih.
-- Jika anda membuat perubahan pada presence dan merubah setidaknya **SEPEREMPAT** dari codebase presence maka anda diperbolehkan menambahkan diri sebagai kontributor. Hubungi `Presence Verifier` untuk informasi lebih lanjut tentang hal ini.
-- Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll... Jangan merubah gambar jika tidak outdated dan memiliki resolusi yang layak.
-- Pastikan perubahan bisa bekerja sebelum diterbitkan. Jangan membuat pull request tanpa mengetahui hasil dari perubahan yang dibuat.
+In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+
+- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Hubungi `Presence Verifier` untuk informasi lebih lanjut tentang hal ini.
+- Pastikan perubahan memiliki fungsi. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
+- Pastikan perubahan bisa bekerja sebelum diterbitkan. Do **NOT** create pull requests without knowing the outcome of your changes.
+- Maintain the language the Presence author used when writing the Presence. For example, do **NOT** delete typescript files and use the javascript files instead.
 
 # Verifikasi
 
-> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. Semua `Presence Verifiers` akan memiliki role tersendiri di profilnya.
+> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. All `Presence Verifiers` will have a unique role in their profile.
 
-Agar presence anda dapat mencapai toko, presence HARUS melalui suatu proses di GitHub untuk memastikan bekerja sesuai harapan. Berikut beberapa hal yang harus diperhatkan saat membuat pull request.
+For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Berikut beberapa hal yang harus diperhatkan saat membuat pull request.
 
-1. Dibutuhkan dua verifier untuk memastikan presence anda sesuai standar. Jika anda mendapatkan permintaan perubahan, lakukan upaya tepat untuk memperbaikinya atau presence tidak akan ditambahkan.
+1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
 2. Jika kami meminta perubahan dan pull request anda melebihi **7 hari inaktif** tanpa membuat perubahan yang dibutuhkan, terpaksa akan kami tutup.
-3. Anda diperbolehkan untuk mengambil screenshot perubahan yang dibuat bersama dengan pengguna lain, anda boleh menggabungkan screenshot untuk dilihat. ( misal pencipta tidak bisa mengaksesnya karena suatu alasan).
-4. Jika ada sebuah update atau patch, screenshot **HARUS** menampilkan tambahan baru bekerja, bukan fitur lama dari pull requst sebelumnya.
-5. Screenshot yang ditampilkan harus asli, tidak diedit.
+3. Anda diperbolehkan untuk mengambil screenshot perubahan yang dibuat bersama dengan pengguna lain, anda boleh menggabungkan screenshot untuk dilihat. (e.g., its author in case you can't access it for any reason).
+4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
+5. The provided screenshots should be real, **NOT** edited.
 6. Kode apapun yang digabung dalam repository akan terlisensi dalam **Mozilla Public License 2.0**.
-7. Presence untuk domain gratis atau host (misal .TK, [all free Freenom domains], .RF.GD, dll...) **TIDAK** diperbolehkan, pengecualian dapat dibuat jika bukti pembayaran domain dapat ditunjukkan.
-8. Bidang `smallImageKey` dan `smallImageText` berguna untuk memberi konteks tambahan/konteks sekunder (seperti "playing"/"paused" untuk website video, "browsing" untuk website reguler atau hal lain) bukan untuk mempromosikan profil discord atau yang tidak berhubungan PreMid.
-9. Syarat logo adalah 1:1 (persegi) dalam 512px, untuk thumbnail, harus [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) atau [screenshot](https://i.imgur.com/OAcBmwW.png) jika pilihan pertama tidak tersedia.
-10. Presence harus setidaknya memiliki 1 tag, ini merupakan syarat desain dan mungkin opsional dimasa depan.
-11. Bidang `url` **HARUS TIDAK** berisi `http://` atau `https://`, ataupun parameter (misal presence untuk `https://www.google.com/search?gws_rd=ssl` akan hanya memiliki `www.google.com` pada bidang `url`).
-12. Deskripsi dan tag harus selalu tersusun, walaupun hanya satu unsur. Untuk bidang `url`, harus hanya satu string jika satu domain.
-13. Website tidak stabil yang selalu merubah API/domain, mengacak elemen HTML atau masih dalam pengembangan besar tidak diperbolehkan dan akan dihapus dari toko.
+7. Presences for free domains or hosts (e.g., .TK, [all free Freenom domains], .RF.GD, etc) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
+8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
+10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
+12. Descriptions and tags should always be in an array, even when it's only one element. Untuk bidang `url`, harus hanya satu string jika satu domain.
+13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
+14. Unstable sites that constantly change APIs/domains, randomize HTML elements, or just still being in heavy development are not allowed and will be removed from the store.
+15. The logo and thumbnail on your Presence **MUST** either be `i.imgur.com`, from a CDN that **YOU** own, or from a CDN that gives you permission to **CHANGE** image files.
+16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code (which comes from an earlier version of ECMAScript), whether it's in Typescript or Javascript, and in addition to that, make sure the `UpdateData` event used is similar to this:
 
-Setelah semua review tepat telah dicapai, pull request anda akan digabungkan dengan toko.
+```ts
+presence.on("UpdateData", async () => {
+  /*...*/
+  // Always use await when using async in the event
+  data.smallImageText = (await strings).playing;
+  /*...*/
+});
+```
 
-# Struktur (TypeScript)
-Anda bisa memilih menulis presence menggunakan [JavaScript](https://www.javascript.com/) atau  [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) memiliki beberapa definition tambahan, jadi identifikasi dan memeperbaiki bug akan jadi lebih mudah. Jika anda ingin menggunakan [JavaScript](https://www.javascript.com/) anda bisa langsung lanjut ke [Struktur (JavaScript)](/dev/presence#structure-javascript).
+It should **NOT** be this:
+
+```ts
+presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
+  /*...*/
+  // Never use yield
+  data.smallImageText = (yield strings).playing;
+  /*...*/
+});
+```
+
+17. You **MUST** include all source files (such as `presence.ts` or `iframe.ts`), do **NOT** include a source mapping url if your Presence's language is Javascript.
+18. When **Deepscan** throws a lot of errors (and it will), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
+19. Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme : `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **NOT** permitted.
+20. Low-quality Presences (or ones with one context) are **NOT** allowed (e.g., only showing the logo and some text but never changing again).
+21. **NEVER** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your Presences, you're free to use whatever you need if you do not find them listed in the docs.
+22. It is **NOT** recommended to use comments on Javascript Presences unless necessary (TypeScript ones or their compiled files are fine), as it reduces code readability and increases file sizes.
+23. Declare the Presence const **BEFORE** everything to avoid such rare issues that may occur; this is not a requirement by design so it could be removed in the future.
+24. Presences that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
+25. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
+
+After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
+
+# Structure
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Instalasi
 1. Install [Git](https://git-scm.com/).
@@ -128,220 +167,6 @@ Isi kode berikut kedalam file `tsconfig.json`.
 Untuk mempelajari lebih lanjut tentang konfgurasi TypeScript klik [disini](/dev/presence/tsconfig).
 
 ## Mengisi file metadata.json
-
-Klik [disini](/dev/presence#filling-in-the-metadatajson-file-2) untuk melihat cara mengisinya. Anda akan dapat mengklik kembali dibawah dari penjelasannya.
-
-Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator).
-
-## Memulai
-
-```javascript
-var presence = new Presence({
-    clientId: "000000000000000000" //Client ID dari Aplikasi yang dibuat di https://discordapp.com/developers/applications
-}),
-
-strings = presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //Gunakan ini untuk mendapat terjemahan string
-});
-
-/*
-
-function myOutsideHeavyLiftingFunction(){
-    //Ambil dan olah data anda disini
-
-    // element grabs //
-    // api calls //
-    // variable sets //
-}
-
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Jalankan fungsi terpisah dari event UpdateData setiap 10 detik dan atur variabel yang diambil oleh UpdateData
-
-*/
-
-
-presence.on("UpdateData", async () => {
-    /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. This is called several times a second where possible.
-
-    Dianjurkan untuk mempersiapkan function lain diluar event function ini yang akan merubah nilai variabel dan melakukan kerja keras jika anda meminta data dari API
-
-    var presenceData = {
-        largeImageKey: "key", /*Key (nama file) dari gambar besar pada presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
-        smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
-
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-    }
-});
-```
-Anda bisa menyalinnya ke file `presence.ts` dan merubah value nya. Pengaturan semua value dilakukan pada event updateData.
-
-Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG.
-
-Untuk informasi lebih lanjut tentang presence klik [disini](/dev/presence/class).
-
-## Tidak bisa mendapat data tertentu?!
-
-Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
-
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Jalankan `document.querySelectorAll("iframe")`.
-
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
-```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
-  /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
-  */
-  iframe.send({ //sending data
-    video: video,
-    time: video.duration
-  }); 
-});
-```
-4. Making your presence file receive data from the iFrame file.
-```javascript
-presence.on("iFrameData", data => {
-  iFrameVideo = data.video;
-  currentTime = data.time;
-});
-```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
-
-# Structure (JavaScript)
-## Mengcloning project
-1. Install [Git](https://git-scm.com/).
-2. Buka terminal dan ketik `git clone https://github.com/PreMiD/Presences`.
-3. Pilih folder pilihanmu.
-4. Buka di editor kodemu.
-
-## Membuat folder dan file
-
-1. Buat folder dengan **nama** (bukan URL) dari layanan yang diinginkan.
-3. Buatlah folder dinamakan `dist` didalamnya.
-4. Create a `metadata.json` file and a `presence.js` file inside the `dist` folder.
-
-## Mengisi file metadata.json
-
-Klik [disini](/dev/presence#filling-in-the-metadatajson-file-2) untuk melihat cara mengisinya. Anda akan dapat mengklik kembali dibawah dari penjelasannya.
-
-Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator).
-
-## Memulai
-
-```javascript
-var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
-}),
-
-strings = presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings
-});
-
-/*
-
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
-
-    // element grabs //
-    // api calls //
-    // variable sets //
-}
-
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
-
-*/
-
-
-presence.on("UpdateData", () => {
-    //UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
-
-    //It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.
-
-    var presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
-        smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
-
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-    }
-});
-```
-You can copy this into your `presence.js` file and edit the values. Pengaturan semua value dilakukan pada event updateData.
-
-Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG.
-
-Untuk informasi lebih lanjut tentang presence klik [disini](/dev/presence/class).
-
-## Tidak bisa mendapat data tertentu?!
-
-Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
-
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Jalankan `document.querySelectorAll("iframe")`.
-
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.js` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
-```javascript
-var iframe = new iFrame();
-iframe.on("UpdateData", () => {
-    /*
-    Get all the data you need out of the iFrame save them in variables
-    and then sent them using iframe.send
-    */
-    iframe.send({ //sending data
-        video: video,
-        time: video.duration  
-    });
-});
-```
-4. Making your presence file receive data from the iFrame file.
-```javascript
-presence.on("iFrameData", data => {
-  iFrameVideo = data.video;
-  currentTime = data.time;
-});
-```
-**Note:** This needs to be placed outside of the updateData event.
-# Mengisi file metadata.json
 Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
@@ -571,7 +396,103 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Click [here](/dev/presence#filling-in-the-metadatajson-file) to go back to the TypeScript explanation. Click [here](/dev/presence#filling-in-the-metadatajson-file-1) to go back to the JavaScript explanation.
+Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator).
+
+## Memulai
+
+```javascript
+var presence = new Presence({
+    clientId: "000000000000000000" //Client ID dari Aplikasi yang dibuat di https://discordapp.com/developers/applications
+}),
+
+strings = presence.getStrings({
+    play: "presence.playback.playing",
+    pause: "presence.playback.paused"
+    //Gunakan ini untuk mendapat terjemahan string
+});
+
+/*
+
+function myOutsideHeavyLiftingFunction(){
+    //Ambil dan olah data anda disini
+
+    // element grabs //
+    // api calls //
+    // variable sets //
+}
+
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Jalankan fungsi terpisah dari event UpdateData setiap 10 detik dan atur variabel yang diambil oleh UpdateData
+
+*/
+
+
+presence.on("UpdateData", async () => {
+    /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. This is called several times a second where possible.
+
+    Dianjurkan untuk mempersiapkan function lain diluar event function ini yang akan merubah nilai variabel dan melakukan kerja keras jika anda meminta data dari API
+
+    var presenceData = {
+        largeImageKey: "key", /*Key (nama file) dari gambar besar pada presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
+        smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
+        details: "Browsing Page Name", //The upper section of the presence text
+        state: "Reading section A", //The lower section of the presence text
+        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
+        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
+    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+
+    if (presenceData.details == null) {
+        //This will fire if you do not set presence details
+        presence.setTrayTitle(); //Clears the tray title for mac users
+        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    } else {
+        //This will fire if you set presence details
+        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    }
+});
+```
+Anda bisa menyalinnya ke file `presence.ts` dan merubah value nya. Pengaturan semua value dilakukan pada event updateData.
+
+Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG.
+
+Untuk informasi lebih lanjut tentang presence klik [disini](/dev/presence/class).
+
+## Tidak bisa mendapat data tertentu?!
+
+Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
+
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Jalankan `document.querySelectorAll("iframe")`.
+
+If you find that your data is in a iFrame you need to do the following:
+1. Create a `iframe.ts` file.
+2. Set iFrame to `true` in your metadata file.
+3. Filling in your iFrame file.
+```javascript
+var iframe = new iFrame();
+iframe.on("UpdateData", async () => {
+  /*
+  Get all the data you need out of the iFrame save them in variables
+  and then sent them using iframe.send
+  */
+  iframe.send({ //sending data
+    video: video,
+    time: video.duration
+  }); 
+});
+```
+4. Making your presence file receive data from the iFrame file.
+```javascript
+presence.on("iFrameData", data => {
+  iFrameVideo = data.video;
+  currentTime = data.time;
+});
+```
+**Note:** This needs to be placed outside of the updateData event.
+## Compiling
+Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
 # Loading the presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
