@@ -185,11 +185,10 @@ var presenceData: presenceData = {
 
 ## Veranstaltungen
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Events allow you to detect and handle some changes or calls that were made. Sie können Ereignisse mit der Methode `auf` abonnieren.
 
 ```typescript
-presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+presence.on("UpdateData", async () => {    // Tun Sie etwas, wenn Daten aktualisiert werden.
 });
 ```
 
