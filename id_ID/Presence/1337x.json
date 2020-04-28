@@ -19,6 +19,42 @@
         "message": "Melihat apa yang sedang tren",
         "description": ""
     },
+    "1337x.animeTorrents": {
+        "message": "Melihat Torrent Anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Melihat Torrent Aplikasi",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Melihat Torrent Dokumentasi",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Melihat Torrent Permainan",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Melihat Torrent Film",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Melihat Torrent Musik",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Melihat Torrent Lainnya",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Melihat Torrent TV",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Melihat Torrent XXX",
+        "description": "XXX as in NSFW"
+    },
     "1337x.upload": {
         "message": "Mengunggah sesuatu...",
         "description": ""
