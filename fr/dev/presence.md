@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-04-28T20:53:09.711Z
+date: 2020-04-28T21:01:01.004Z
 tags:
 ---
 
@@ -22,8 +22,6 @@ La version `2.x` introduit le [magasin de présence](https://premid.app/store). 
 > {.is-warning}
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. However, the implementation of these rulesets will keep us and the users from running into any issues.
-
-:x: **Note**: Media key support has been **COMPLETELY REMOVED**. If you are a Presence developer that has media key support in any of your Presences (new or old), please remove it.
 
 ## Création
 > Le code que vous écrivez DOIT être *bien écrit* et DOIT être *lisible*. `DeepScan` sur GitHub rapportera des problèmes de qualité de code à la `équipe de vérification de Presence`. Nous recommandons que votre fork soit à jour lorsque vous faites des pull requests, cela aidera à limiter les faux positifs. 
