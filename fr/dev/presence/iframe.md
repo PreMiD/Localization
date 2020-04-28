@@ -2,7 +2,7 @@
 title: Classe iFrame
 description:
 published: vrai
-date: 2020-02-12T22:15:30.646Z
+date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
@@ -49,7 +49,3 @@ Voici une liste de tous les événements :
 #### `Mettre à jour les données`
 
 Cet événement est déclenché chaque fois que l'iframe est mis à jour.
-
-#### `Touches médiatiques` (désactivées)
-
-Déclenché lorsque l'utilisateur utilise des touches média sur son clavier, [cliquez ici](/dev/presence/class#mediakeys) pour obtenir plus d'informations sur les touches multimédia.
