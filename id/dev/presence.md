@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-04-28T21:01:01.004Z
+date: 2020-04-29T13:00:50.370Z
 tags:
 ---
 
@@ -158,7 +158,7 @@ Isi kode berikut kedalam file `tsconfig.json`.
 {
   "extends": "../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist/"
+    "outDir": "./dist"
   }
 }
 ```
