@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 2020-04-28T21:01:01.004Z
+date: 2020-04-29T13:00:50.370Z
 tags:
 ---
 
@@ -156,9 +156,9 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
-  "extended": "../tsconfig.json",
+  "extends": "../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist/"
+    "outDir": "./dist"
   }
 }
 ```
