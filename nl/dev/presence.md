@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-04-29T13:00:50.370Z
+date: 2020-04-30T17:27:58.564Z
 tags:
 ---
 
@@ -13,22 +13,22 @@ tags:
 Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
 # Richtlijnen
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+> Als u **NIET** de richtlijnen volgt, zal een `Presence Verifier` de juiste wijzigingen aanvragen, of zal hij de pull-aanvraag onder bepaalde omstandigheden moeten sluiten. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Wanneer je een pull-aanvraag over het toevoegen of aanpassen van bestaande presences maakt, **MOET** je een schermafbeelding toevoegen. Voor wijzigingen aan de `metadata.json` of `tsconfig.json` bestanden is echter **GEEN** schermafbeelding nodig. _Uw schermafbeelding **MOET** direct worden geüpload naar GitHub met het pull-aanvraag, maakt **NIET** gebruik van afbeeldingen van derden sites._ 
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Voor sommigen lijken deze strenge regels misschien zwaar. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Bij het publiceren van presences naar GitHub, vragen we je om een set richtlijnen te volgen. Voor sommigen lijken deze strenge regels misschien zwaar. De tenuitvoerlegging van deze regels zal er echter voor zorgen dat wij en onze gebruikers zich niet met problemen bezighouden.
 
 ## Aanmaak
 > De code die u schrijft moet *goed geschreven* zijn en MOET *leesbaar* zijn. `DeepScan` op GitHub zal problemen met de kwaliteit van de code melden aan het `Presence Verification Team`. We raden je aan dat je vork up to date is wanneer je pull-aanvragen doet, dit zal helpen valse positieve punten te beperken. 
 > 
 > {.is-warning}
 
-- De pull-aanvraag **MOET** compleet zijn, u moet een goede bestandsstructuur hebben, concepten zijn **NIET** toegestaan. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- De pull-aanvraag **MOET** compleet zijn, u moet een goede bestandsstructuur hebben, concepten zijn **NIET** toegestaan. Inclusief het `presence.ts` bestand, `tsconfig.json` bestand, `dist` map, `presence.js` bestand en `metadata.json` bestand, dat wordt weergegeven in het volgende voorbeeld schema:
 ```bash
 presence
 ├── dist
@@ -37,7 +37,7 @@ presence
 ├── presence.ts
 └── tsconfig.json
 ```
-or if you're using `iframe`:
+of als je `iframe` gebruikt:
 ```bash
 presence
 ├── dist
@@ -50,55 +50,54 @@ presence
 ```
 
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
-- The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. Hieronder vallen stressers, drugs, kinderporno, etc.
-- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
-- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
-- If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
-- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
-- Your Presence **CANNOT** manipulate local storage on the browser.
-- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
+- De presence **MOET** gerelateerd zijn aan de website die je hebt gekozen.
+- De presence **MOET NIET** van illegale websites zijn. Hieronder vallen stressers, drugs, kinderporno, etc.
+- De presence metadata **MOET** een goed beschreven inhoud hebben, inclusief geldige titels, en beschrijvingen.
+- De media die je toevoegt (icoon/thumbnail) **MOET** gerelateerd zijn aan de website en moet begrijpelijk zijn in termen van grootte en kwaliteit.
+- De bestandsstructuur **MOET** schoon en beheerd zijn, en mag **GEEN** willekeurige bestanden hebben die niks met de functie van de presence te maken hebben.
+- De presence **MAG GEEN** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privé-informatie, het negatief beïnvloeden van het gedrag van de website, etc.
+- Als je een Presence ontwerpt voor een website die in de toekomst verandert en als gevolg daarvan de presence breekt, ben **JIJ** verantwoordelijk voor het bijwerken ervan zodat het weer werkt zoals verwacht. Als je het **NIET** repareert binnen zeven dagen, mogen andere presence ontwikkelaars jouw presence **overschrijven** om aan de wijzigingen te voldoen.
+- De presence **MOET** getest zijn vóór het publiceren om te bevestigen dat alles werkt.
+- Uw presence **MOET** bestaan uit SFW-afbeeldingen en -beschrijvingen, ongeacht of het NSFW is of niet. Als jouw presence van een NSFW website is, voeg dan de `nsfw` tag toe aan je metadata.
+- Uw presence**MAG NIET** de lokale opslag van de browser manipuleren.
+- Uw Presence kan cookies gebruiken om gegevens op te slaan, u moet ze allemaal voorvoegsel `pmd_` geven.
+- De naam van uw presence **MOET** de dezelfde naam hebben als de map van uw presence. Bijvoorbeeld, een presence met de naam `Google Docs` moet een map van `/Google Docs/` hebben. (u dient alle spaties, periodes, komma's en andere speciale tekens toe te voegen)
 
 ## Wijzigen
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
+> U MOET de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.ts**/**presence.js** of **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een gecompileerde lijst die u **MOET** volgen om presences te wijzigen.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
-- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Neem contact op met een `Presence Verifier` voor meer informatie over dit onderwerp.
-- Zorg dat de wijzigingen nuttig zijn. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
-- Bevestig dat jouw wijzigingen werken voordat je het publiceert. Do **NOT** create pull requests without knowing the outcome of your changes.
-- Maintain the language the Presence author used when writing the Presence. For example, do **NOT** delete typescript files and use the javascript files instead.
+- U bent **NIET** toegestaan om een Presence te herschrijven of de auteur aan te passen. Als de auteur van de presence is verbannen van de officiële server of geen wijzigingen heeft aangebracht in een periode van zeven dagen, dan kunt u contact opnemen met een `Presence Verifier` om te zien of u van toepassing bent om de presence van keuze te herschrijven.
+- Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **NIET** wijzigingen aan te brengen in de code die **NIET** moet worden gecorrigeerd. Geldige wijzigingen zijn, maar **NIET** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc.
+- Als je wijzigingen aanbrengt in de presence en ten minste een **KWART** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een `Presence Verifier` voor meer informatie over dit onderwerp.
+- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander de beelden **NIET** als ze niet verouderd zijn en een fatsoenlijke resolutie hebben.
+- Bevestig dat jouw wijzigingen werken voordat je het publiceert. Maak **GEEN** pull-aanvragen zonder dat je het resultaat van je wijzigingen kent.
 
 # Verificatie
 
-> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. All `Presence Verifiers` will have a unique role in their profile.
+> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle `Presence Verifiers` zullen een unieke rol hebben op hun profiel.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Hier zijn een paar dingen om uit te kijken wanneer je je pull-aanvraag maakt.
+Om te zorgen dat jouw presence in de winkel komt, **MOET** het door een proces op GitHub gaan om te bevestigen dat het werkt zoals verwacht. Hier zijn een paar dingen om uit te kijken wanneer je je pull-aanvraag maakt.
 
-1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
+1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal **NIET** toegevoegd worden.
 2. Als wij wijzigingen aanvragen en als jouw pull-aanvraag meer dan **7 dagen inactief is** zonder de benodigde wijzigingen te maken, zullen we het sluiten.
-3. Je mag screenshots maken van wijzigingen die gemaakt zijn met behulp van een andere gebruiker, en je mag screenshots bij elkaar plakken. (e.g., its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
-5. The provided screenshots should be real, **NOT** edited.
+3. Je mag screenshots maken van wijzigingen die gemaakt zijn met behulp van een andere gebruiker, en je mag screenshots bij elkaar plakken. (bijv. de auteur in het geval dat je het niet kan benaderen).
+4. Als het een update of patch is, **MOET** de schermafbeelding de nieuwe toevoegingen werkend laten zien, **NIET** oude functies van eerdere pull-aanvragen.
+5. De meegeleverde schermafbeeldingen moeten echt zijn, **NIET** bijgewerkt.
 6. Alle toegevoegde code die samengevoegd wordt met deze repository zal gelicentieerd worden onder de **Mozilla Public License 2.0**.
-7. Presences for free domains or hosts (e.g., .TK, [all free Freenom domains], .RF.GD, etc) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
-10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-12. Descriptions and tags should always be in an array, even when it's only one element. Het `url` veld, mag echter alleen een string zijn als het één domein is.
-13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
-14. Unstable sites that constantly change APIs/domains, randomize HTML elements, or just still being in heavy development are not allowed and will be removed from the store.
-15. The logo and thumbnail on your Presence **MUST** either be `i.imgur.com`, from a CDN that **YOU** own, or from a CDN that gives you permission to **CHANGE** image files.
-16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code (which comes from an earlier version of ECMAScript), whether it's in Typescript or Javascript, and in addition to that, make sure the `UpdateData` event used is similar to this:
+7. Presences voor gratis domeinen of hosts (bijv. .TK, [alle gratis Freenom domeinen], .RF.GD, etc...) zijn **NIET** toegestaan, uitzonderingen kunnen worden gemaakt als een bewijs wordt gepresenteerd dat aantoont dat ze voor het domein hebben betaald.
+8. De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra / secundaire context te bieden (zoals "afspelen"/"gepauzeerd" voor videosites, "bladeren" voor reguliere sites) niet voor het adverteren van uw Discord profile of iets wat niet gerelateerd is aan PreMiD.
+9. Vereisten voor logo's zijn 1:1 (vierkant) in 512px, thumbnails moeten echter [brede promotiekaartjes](https://i.imgur.com/3QfIc5v.jpg) zijn of [screenshots](https://i.imgur.com/OAcBmwW.png) als de eerste **NIET** beschikbaar is.
+10. Presences moeten ten minste één tag hebben. Tags moeten **NIET** spaties bevatten, slashes, enkel- of dubbele aanhalingstekens, Unicode-tekens en moeten altijd kleine letters zijn.
+11. Het `url` veld **MAG GEEN** `http://` of `https://`bevatten, ook de parameters niet (bijv. een presence voor `https://www.google.com/search?gws_rd=ssl` heeft alleen `www.google.com` in de `url` veld).
+12. Omschrijvingen en tags moeten altijd in arrays staan, zelfs als het maar één element is. Het `url` veld, mag echter alleen een string zijn als het één domein is.
+13. Tags moeten waar mogelijk als alternatieve namen worden gebruikt, en verkorte versies moeten ook worden opgenomen (bijv. Als een Amazon Presence AWS ondersteuning had inbegrepen, had het zijn tags zoals "amazon-web-services" en "aws").
+14. Onstabiele sites die voortdurend API/domeinen wijzigen HTML-elementen willekeurig maken of nog steeds in volle ontwikkeling zijn, zijn niet toegestaan en zullen worden verwijderd uit de winkel.
+15. Het logo en de thumbnail van uw presence **MOETEN** zijn van `i.imgur.com`, van een CDN die **JIJ** hebt, of vanuit een CDN dat je toestemming geeft om afbeeldingsbestanden te **bewerken**.
+16. Verifiers controleren of de presence een `__awaiter` functie bevat aan het begin van de code (die afkomstig is van een eerdere versie van ECMAScript), of het nu in Typescript of Javascript is, en daarnaast zorg ervoor dat de `UpdateData` event die wordt gebruikt vergelijkbaar is met dit:
 
 ```ts
 presence.on("UpdateData", async () => {
@@ -109,7 +108,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-It should **NOT** be this:
+Het zou **NIET** het volgende moeten zijn:
 
 ```ts
 presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
@@ -130,10 +129,10 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 24. Presences that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
 25. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
 
-After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
+Nadat u alle richtlijnen heeft gehaald en uw presence ten minste twee keer is geëvalueerd, wordt uw presence toegevoegd aan de winkel.
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Structuur
+Alle presences zijn gecodeerd in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) heeft een paar extra type definities, dus het oplossen en vinden van bugs is veel eenvoudiger.
 
 ## Installatie
 1. Installeer [Git](https://git-scm.com/).
