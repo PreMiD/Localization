@@ -16,7 +16,7 @@
         "description": ""
     },
     "general.editing": {
-        "message": "編輯中:",
+        "message": "正在編輯:",
         "description": ""
     },
     "general.episode": {
@@ -52,15 +52,15 @@
         "description": ""
     },
     "general.paused": {
-        "message": "暫停",
+        "message": "已暫停",
         "description": ""
     },
     "general.playing": {
-        "message": "播放中",
+        "message": "正在播放",
         "description": ""
     },
     "general.readingDM": {
-        "message": "正在閱讀私息來自:",
+        "message": "正在閱讀私訊來自:",
         "description": ""
     },
     "general.readingAbout": {
