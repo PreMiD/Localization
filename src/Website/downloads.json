@@ -115,6 +115,10 @@
     "message": "Done",
     "description": "Button on the page when trying to download with adblocker on."
   },
+	"downloads.button.login": {
+		"message": "Login",
+		"description": "Login button on the downloads page."
+	},
   "downloads.adsbox.thankyou.title": {
     "message": "Thank you!",
     "description": "Title of the advertisement section box."
@@ -126,5 +130,5 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Please disable your adblock.",
     "description": "Message next to pepe."
-  }
+	}
 }
