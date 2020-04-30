@@ -25,7 +25,7 @@ jobs:
         uses: "pascalgn/automerge-action@v0.8.0"
         env:
           GITHUB_TOKEN: "${{ secrets.AUTOMERGE }}"
-          MERGE_FILTER_AUTHOR: "Timeraa"
+          MERGE_FILTER_AUTHOR: "SeMiD"
           MERGE_LABELS: ""
           UPDATE_LABELS: ""
           MERGE_COMMIT_MESSAGE: "*beep boop*"
