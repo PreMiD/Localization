@@ -80,7 +80,7 @@
     "description": "More info if the user doesn't alpha/beta access."
   },
   "downloads.latest.header": {
-    "message": "Yayımlanan son sürümler",
+    "message": "Son Sürümler",
     "description": "Header above alpha/beta download buttons."
   },
   "downloads.warning.title": {
