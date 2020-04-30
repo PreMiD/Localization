@@ -1,8 +1,4 @@
 {
-  "footer.socials.heading": {
-    "message": "Sóisialta",
-    "description": "Socials section"
-  },
   "footer.supportus.donate": {
     "message": "Síntiús",
     "description": "Donate -> redirects to patreon.com/timeraa"
