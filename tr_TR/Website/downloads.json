@@ -39,6 +39,10 @@
     "message": "Eklenti",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Uyarı:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Bu işletim sistemi için bir yükleyici mevcut değil. Bu, sisteminiz için resmi bir destek olmadığı anlamına geliyor.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -75,6 +79,14 @@
     "message": "Ücretsiz beta programımıza **buraya** tıklayarak katılabilirsin. Acele et sadece {0}/200 kişilik yer kaldı.",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "Yayımlanan son sürümler",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Uyarı",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
   "downloads.button.cancel": {
     "message": "Vazgeç",
     "description": "Button on the modal of Opera/Edge browsers."
@@ -86,5 +98,9 @@
   "downloads.adsbox.thankyou.title": {
     "message": "Teşekkürler!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Lütfen reklam engelleyicinizi devre dışı bırakın.",
+    "description": "Message next to pepe."
   }
 }
