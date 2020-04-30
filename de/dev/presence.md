@@ -37,7 +37,7 @@ presence
 ├── presence.ts
 └── tsconfig.json
 ```
-or if you're using `iframe`:
+oder wenn du `iframe` benutzt:
 ```bash
 presence
 ├── dist
