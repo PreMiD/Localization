@@ -1,14 +1,18 @@
 {
-	"footer.supportus.donate": {
-		"message": "টাকা দেন",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.help.troubleshooting": {
-		"message": "সমস্যা দূর করা",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.more.wiki": {
-		"message": "উইকি",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	}
+  "footer.socials.heading": {
+    "message": "সামাজিক",
+    "description": "Socials section"
+  },
+  "footer.supportus.donate": {
+    "message": "টাকা দেন",
+    "description": "Donate -> redirects to patreon.com/timeraa"
+  },
+  "footer.help.troubleshooting": {
+    "message": "সমস্যা দূর করা",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+  },
+  "footer.more.wiki": {
+    "message": "উইকি",
+    "description": "Wiki -> redirects to wiki.premid.app"
+  }
 }
