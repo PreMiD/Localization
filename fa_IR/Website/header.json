@@ -1,1 +1,6 @@
-{}
+{
+  "header.language": {
+    "message": "فارسى",
+    "description": "Replace English with the name of YOUR language!"
+  }
+}
