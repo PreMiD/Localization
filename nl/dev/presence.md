@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-04-30T17:27:58.564Z
+date: 2020-04-30T17:41:23.702Z
 tags:
 ---
 
@@ -119,15 +119,14 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 });
 ```
 
-17. You **MUST** include all source files (such as `presence.ts` or `iframe.ts`), do **NOT** include a source mapping url if your Presence's language is Javascript.
-18. When **Deepscan** throws a lot of errors (and it will), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
-19. Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme : `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **NOT** permitted.
-20. Low-quality Presences (or ones with one context) are **NOT** allowed (e.g., only showing the logo and some text but never changing again).
-21. **NEVER** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your Presences, you're free to use whatever you need if you do not find them listed in the docs.
-22. It is **NOT** recommended to use comments on Javascript Presences unless necessary (TypeScript ones or their compiled files are fine), as it reduces code readability and increases file sizes.
-23. Declare the Presence const **BEFORE** everything to avoid such rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-24. Presences that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
-25. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
+17. Wanneer **Deepscan** veel fouten gooit (en dat zal gebeuren), is het meestal een probleem waarbij je branch verouderd is, update altijd je GitHub fork bij het doen van pull-aanvragen.
+18. Zorg er altijd voor dat het versienummer [semantische versienormen](https://semver.org)volgt, die naar het volgende schema vertaalt: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. iets anders zoals `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` of verander `1.0.0` naar `2.0.` op een bug fix/small change is **NIET** toegestaan.
+19. Presences van lage kwaliteit (of presences met een enkele context) zijn **NIET** toegestaan (bijv. alleen het weergeven van het logo en sommige tekst maar nooit meer veranderen).
+20. Gebruik **NOOIT** aangepaste functies wanneer [native varianten beschikbaar zijn](https://docs.premid.app/dev/presence#files-explained); dit zorgt ervoor dat fixes op extensie niveau ook van toepassing zijn op uw presences. Je kunt gebruik maken van alles wat je nodig hebt als je ze niet vermeld zijn in de documenten.
+21. Het wordt **NIET** aanbevolen om reacties op Javascript presences te gebruiken tenzij dit nodig is (TypeScript of hun gecompileerde bestanden zijn prima), omdat het de leesbaarheid van de code vermindert en de bestandsgrootte verhoogt.
+22. Verklaar de presence const **VOOR** alles om dergelijke zeldzame problemen die kunnen optreden te voorkomen; Dit is geen vereiste voor ontwerp, zodat het in de toekomst kan worden verwijderd.
+23. Presences die gericht zijn op interne browserpagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's etc) zijn **NIET** toegestaan omdat ze een _experimentele vlag_ vereisen om aan het einde van de gebruiker aan te zetten en kunnen schade aan de browser veroorzaken.
+24. Het is **FORBIDDEN** om Presences voor een site te coderen zonder ondersteuning toe te voegen aan de hoofdtaal (bijvoorbeeld, een YouTube Presence gecodeerd met steun voor Portugees en Japanners, maar niet voor Engels zelf).
 
 Nadat u alle richtlijnen heeft gehaald en uw presence ten minste twee keer is geëvalueerd, wordt uw presence toegevoegd aan de winkel.
 
