@@ -111,6 +111,14 @@
 		"message": "Oyuncu kazanç platformu.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio simülasyon oyunlarında Almanya, Avusturya ve İsviçrede bulunan oyuncuların dinlediği en popüler radyolardan biridir.",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Senin olana sahip ol. Anime, film, hentai, özel içerikler ve dahası. Ücretsiz, reklamız ve yüksek kalitede!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
 		"description": "Description for BitRock."
