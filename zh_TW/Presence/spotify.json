@@ -4,11 +4,11 @@
 		"description": ""
 	},
 	"spotify.bestPodcasts": {
-		"message": "最好的廣播",
+		"message": "最好的Podcast",
 		"description": ""
 	},
 	"spotify.charts": {
-		"message": "正在看音樂榜",
+		"message": "正在查看音樂排行榜",
 		"description": ""
 	},
 	"spotify.genres": {
@@ -20,7 +20,7 @@
 		"description": ""
 	},
 	"spotify.discover": {
-		"message": "發現新歌",
+		"message": "正在尋找新歌",
 		"description": ""
 	},
 	"spotify.browse": {
@@ -28,11 +28,11 @@
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "喜愛的廣播",
+		"message": "他們喜歡的podcasts",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
-		"message": "喜愛的歌手",
+		"message": "他們喜歡的歌手",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {

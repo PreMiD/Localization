@@ -111,6 +111,10 @@
 		"message": "玩家可以再這個平台賺錢",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio是德國，奧地利和瑞士最成功的模擬遊戲信息的娛樂廣播！",
+		"description": "Description for SimLoveRadio."
+	},
 	"partners.partner.bitRock": {
 		"message": "一個功能強大且易於使用的跨平台安裝程序創建工具。",
 		"description": "Description for BitRock."
