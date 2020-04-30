@@ -18,7 +18,7 @@ tags:
 # Projeyi klonlama
 1. Konsolunuzu açın ve `git clone URL` yazın. **Aşağıdaki linki katkıda bulunmak istediğiniz depo linkiyle değiştirin.** örn. `git clone https://github.com/PreMiD/PreMiD`.
 2. Bir klasör seçin.
-3. Open it in your code editor.
+3. Klasörü kullandığınız editör ile açın.
 
 # Bağımlılıkları yükleme
 > Node'un içinde gelen [npm](https://www.npmjs.com/)'nin (Node Package Manager) yüklü olduğundan emin olun. Eğer [Node](https://nodejs.org/en/)'u daha önceden yüklediyseniz tekrar yüklemenize gerek yoktur. 
@@ -28,7 +28,7 @@ tags:
 - Klonladığınız depo klasöründeyken konsolu açın ve `npm i` yazın.
 - Bağımlılıkları güncellemek için `npm update` yazın.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Bağımlılıkları güncellemenin bir çok şeyi bozabileceğini unutmayın - test etmeyi ihmal etmeyin! 
 > 
 > {.is-danger}
 
