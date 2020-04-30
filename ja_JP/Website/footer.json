@@ -19,10 +19,6 @@
     "message": "パートナー",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "SNS",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "開発者",
     "description": "Developer section"
