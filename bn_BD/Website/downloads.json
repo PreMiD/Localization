@@ -1,6 +1,14 @@
 {
-	"downloads.header.title": {
-		"message": "নিজিকে দাহকেরানোর সময় এখন অপরের সবাইকে.",
-		"description": "Title"
-	}
+  "downloads.header.title": {
+    "message": "নিজিকে দাহকেরানোর সময় এখন অপরের সবাইকে.",
+    "description": "Title"
+  },
+  "downloads.button.done": {
+    "message": "ঠিক আছে",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "ধন্যবাদ!",
+    "description": "Title of the advertisement section box."
+  }
 }
