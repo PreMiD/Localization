@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-04-29T13:00:50.370Z
+date: 2020-04-30T17:27:58.564Z
 tags:
 ---
 
@@ -17,18 +17,18 @@ tags:
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Eğer attığınız "pull request" yeni bir servis eklemek veya olan bir servis üzerinde değişiklikler yapmak için ise, açıklamanıza **MUTLAKA** ekran görüntüleri eklemelisiniz. `metadata.json` veya `tsconfig.json` dosyalarına yapılacak değişikliklerde ekran görüntülerine ihtiyaç yoktur. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bazıları için bu kurallar zorlayıcı görünebilir. However, the implementation of these rulesets will keep us and the users from running into any issues.
+GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız bulunmaktadır. Bazıları için bu kurallar zorlayıcı görünebilir. Ancak bu ayarlamalar ve kurallar sunucularımızın düzgün bir biçimde çalışması için bize yardımcı olacaktır.
 
 ## Oluşturma
 > Yazdığınız kod MUTLAKA *düzgün yazılmış* ve *okunaklı* olmalıdır. GitHub üzerindeki `DeepScan`, kodunuzda bulunan hataları size ve `Servis Onaylama Ekibi` üyelerine iletecektir. Yeni bir "pull request" atarken, depo kopyanızın güncel olmasını tavsiye ederiz, bu sayede daha az hatayla karşılaşacaksınız. 
 > 
 > {.is-warning}
 
-- "Pull request"iniz **MUTLAKA** tamamlanmış olmalıdır, doğru dosya yolu biçimi ve gerekli kurallara uyulmuş olunmalıdır. Taslaklar **KESİNLİKLE** kabul edilmeyecektir. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- "Pull request"iniz **MUTLAKA** tamamlanmış olmalıdır, doğru dosya yolu biçimi ve gerekli kurallara uyulmuş olunmalıdır. Taslaklar **KESİNLİKLE** kabul edilmeyecektir. Servisinizin klasöründe , birer adet `presence.ts` ve `tsconfig.json` dosyası, `dist` klasörü, bunun içerisinde birer adet `presence.js` ve `metadata.json` dosyası olmalıdır. Dosya yolları gösterilen şekilde olmalıdır:
 ```bash
 presence
 ├── dist
@@ -37,7 +37,7 @@ presence
 ├── presence.ts
 └── tsconfig.json
 ```
-or if you're using `iframe`:
+veya eğer `iframe` kullanıyorsanız:
 ```bash
 presence
 ├── dist
@@ -50,16 +50,16 @@ presence
 ```
 
 Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri inceleyin ve aklınızda bulundurun.
-- The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. These include stressors, drugs, child porn, etc.
-- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
-- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
+- Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
+- Yaptığınız servis **KESİNLİKLE**, herhangi bir illegal siteninki olmamalıdır. Bunlara, uyuşturucular, çocuk pornografisi gibi siteler dahildir.
+- Servisin "metadata" dosyası, **KESİNLİKLE** düzgün bir biçimde hazırlanmış, geçerli başlıklar ve açıklamalar içeren bir dosya olmalıdır.
+- Belirttiğiniz ikon ve küçük resim (thumbnail) servis ile alakalı olmalı ve kalitesi **okunabilir** olmalıdır.
+- Dosya sisteminiz **MUTLAKA** temiz, düzgün ve rastgele/gereksiz dosyalarla dolu olmamalıdır.
+- Servis güvensiz **hiçbir** amaç barındırmamalıdır. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
 - If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
-- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
-- Your Presence **CANNOT** manipulate local storage on the browser.
+- Servis, incelemeye gönderilmeden önce **test edilmeli** ve her şeyin çalıştığına emin olunmalıdır.
+- Servisiniz, ne olursa olsun yetişkin içerik **barındırmayan** resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw` etiketini de eklemeniz gerekmektedir.
+- Yaptığınız servis, tarayıcının yerel depolamasını (local storage) **kontrol edemez**.
 - Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
 - The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
 
@@ -68,35 +68,34 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- You are **NOT** allowed to rewrite a Presence or change its author. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya 7 gün içerisinde herhangi bir değişiklik yapmadıysa, bir `Servis Onaylayıcısı` ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
 - Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Bu konu hakkında daha detaylı bilgi alabilmek için bir `Servis Onaylayıcısı` ile iletişime geçebilirsiniz.
-- Değişiklikler yararlı olmalıdır. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
-- Paylaşmadan önce değişikliklerinizin çalıştığından emin olmanız gerekir. Do **NOT** create pull requests without knowing the outcome of your changes.
-- Maintain the language the Presence author used when writing the Presence. For example, do **NOT** delete typescript files and use the javascript files instead.
+- Eğer düzenleme yaptığınız servisin **ÇEYREĞİNİ** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir `Servis Onaylayıcısı` ile iletişime geçebilirsiniz.
+- Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
+- Paylaşmadan önce değişikliklerinizin çalıştığından emin olmanız gerekir. Değişikliklerinizin neye sonuç açacağını bilmeden "pull request" açmayın.
 
 # Onaylanma
 
-> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. All `Presence Verifiers` will have a unique role in their profile.
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm `Servis Onaylayıcısı` üyeleri, sunucumuzda özel bir role sahiptir.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Aşağıdan bir "pull request" açarken dikkat etmeniz gereken maddeleri bulabilirsiniz.
+Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde çalıştığına emin olmak adına yapılan işlemlerden geçmelidir. Aşağıdan bir "pull request" açarken dikkat etmeniz gereken maddeleri bulabilirsiniz.
 
-1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
+1. Yaptığınız servisin doğruluğunu onaylamak için iki farklı inceleme ekibi üyesinin onayı gerekir. Eğer ekip üyesi sizden değişiklikler yapmanızı isterse, uğraşmalı ve yapmalısınız, yoksa mağazaya eklenmeyecek ve emekleriniz boşa gidecektir.
 2. Eğer ekip üyesi sizden değişiklik talep eder ve **7 gün içerisinde** geri dönüş yapmazsanız, açtığınız "Pull Request" kapatılacaktır.
-3. Başka bir kullanıcının yardımıyla aldığınız ekran görüntülerini, kolaylık açısından yazınıza iliştirebilirsiniz (e.g., its author in case you can't access it for any reason).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
+3. Başka bir kullanıcının yardımıyla aldığınız ekran görüntülerini, kolaylık açısından yazınıza iliştirebilirsiniz (örn. erişemeyeceğiniz bir şeye erişebilen birini kullanmak).
+4. Eğer bir yenilik veya değişiklikler yaptıysanız, ekran görüntüleri bu değişiklikleri **içermelidir**, eskiden gönderilmiş ekran görüntülerini değil.
 5. The provided screenshots should be real, **NOT** edited.
 6. Katkıda bulunulan ve onaylanan tüm kodlar **Mozilla Public License 2.0** lisansı altında saklanacaktır.
-7. Presences for free domains or hosts (e.g., .TK, [all free Freenom domains], .RF.GD, etc) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
+7. Bedava alan adları (örn, .TK [tüm Freenom alan adları], .RF.GD gibi...) veya sağlayıcıları için bir servis **geliştiremezsiniz**, alan adı veya sağlayıcı için ödeme sağladıkları bilgiyi iletmeleri durumunda gerekli tolerans gösterilecektir.
+8. `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz ("oynatılıyor", "durduruldu" gibi) kısımlardır. Burada bir Discord hesabının reklamını yapamaz, PreMiD ile alakasız herhangi bir şey kullanamazsınız.
+9. Resimlerin oranı 1:1 (kare), 512 piksel boyutunda, küçük resimler ise [geniş promosyon kartları](https://i.imgur.com/3QfIc5v.jpg) veya bu seçenek servis için mümkün değilse [servisin ekran görüntüsü](https://i.imgur.com/OAcBmwW.png) olmalıdır.
 10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
-12. Descriptions and tags should always be in an array, even when it's only one element. Sadece `url` kısmı eğer tek bir site içinse array dışına yazılabilir.
+11. `url` alanı, `http://` veya `https://` **içermemelidir** (`https://www.google.com/search?gws_rd=ssl` adresi için `url` kısmı, sadece `www.google.com` olmalıdır).
+12. Açıklamalar ve etiketler, sadece bir adet olsalar bile mutlaka array içerisinde olmalıdır. Sadece `url` kısmı eğer tek bir site içinse array dışına yazılabilir.
 13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
-14. Unstable sites that constantly change APIs/domains, randomize HTML elements, or just still being in heavy development are not allowed and will be removed from the store.
+14. Sürekli API/alan adı değişiklikleri yapan stabil olmayan, rastgele HTML elementleriyle donatılmış olan veya ağır bir geliştirilme aşamasından geçen siteler kabul edilmeyecek ve marketten silinecektir.
 15. The logo and thumbnail on your Presence **MUST** either be `i.imgur.com`, from a CDN that **YOU** own, or from a CDN that gives you permission to **CHANGE** image files.
 16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code (which comes from an earlier version of ECMAScript), whether it's in Typescript or Javascript, and in addition to that, make sure the `UpdateData` event used is similar to this:
 
@@ -133,7 +132,7 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
 
 # Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Tüm serivlser [TypeScript](https://www.typescriptlang.org/) ile kodlanır. [TypeScript](https://www.typescriptlang.org/)'in içerisinde bulundurduğu bir çok tanımlamalar ile kodunuzdaki hataları bulmak çok daha kolay olacaktır.
 
 ## Yükleme
 1. [Git](https://git-scm.com/)'i yükleyin.
@@ -453,7 +452,7 @@ Daha fazla bilgi için lütfen Presence sınıfının tanımını [buraya](/dev/
 
 Bir çok site [iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)) kullanır. Bu HTML etiketleri videolar gibi bir çok kaynak bulundurabilir. Ancak  her zaman aynı sonucu vermez. Bunların bazıları gizli veya hiç kullanılmıyor bile olabilir. İşlemlerinizi yapmadan önce istediğiniz veriyi alıp alamadığınızı kontrol edin, her şey bittikten sonra elinizde bir şey olmazsa boşuna uğraşmış olursunuz.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+1. Tarayıcınızın konsolundan kontrol edin (**Elements** sekmesinde olduğunuza emin olun).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Konsoldan devam etmek için konsola `document.querySelectorAll("iframe")` yazabilir ve sayfadaki iframe kaynaklarını görebilirsiniz.
 
