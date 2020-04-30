@@ -19,10 +19,6 @@
     "message": "Партнери",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "Соціальне",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "Розробники",
     "description": "Developer section"
