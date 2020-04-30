@@ -1,8 +1,4 @@
 {
-  "footer.socials.heading": {
-    "message": "সামাজিক",
-    "description": "Socials section"
-  },
   "footer.supportus.donate": {
     "message": "টাকা দেন",
     "description": "Donate -> redirects to patreon.com/timeraa"
