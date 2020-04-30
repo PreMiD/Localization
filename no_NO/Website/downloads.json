@@ -1,62 +1,66 @@
 {
-	"downloads.header.title": {
-		"message": "På tide å vise deg selv fram til alle.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "Begynn å bruke PreMiD nå og vis andre hva du gjør akkurat nå, eller kanskje du finner andre med samme interesser.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Kom i gang!",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Last ned PreMiD.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "Installer PreMiD applikasjonen.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Installer utvidelsen for nettleseren din.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "Besøk{0} siden og sjekk om utvidelsen er koblet til",
-		"description": "{0} will be replaced by 'store' string translation"
-	},
-	"downloads.instructions.step_4_store": {
-		"message": "butikk",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Applikasjon",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Utvidelse/Tillegg",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "ADVARSEL:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Det er ingen installer for dette operasjon systemet! Dette betyr at det er ingen profesjonell support for det.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "Vær oppmerksom på at PreMiD foreløpig ikke er støttet på mobiltelefoner.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Vis nedlastinger",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Skjul nedlastinger",
-		"description": "Little button on the downloads page for mobile users."
-	}
+  "downloads.header.title": {
+    "message": "På tide å vise deg selv fram til alle.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Begynn å bruke PreMiD nå og vis andre hva du gjør akkurat nå, eller kanskje du finner andre med samme interesser.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Kom i gang!",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Last ned PreMiD.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Installer PreMiD applikasjonen.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Installer utvidelsen for nettleseren din.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Besøk{0} siden og sjekk om utvidelsen er koblet til",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "butikk",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Applikasjon",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Utvidelse/Tillegg",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Det er ingen installer for dette operasjon systemet! Dette betyr at det er ingen profesjonell support for det.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Vær oppmerksom på at PreMiD foreløpig ikke er støttet på mobiltelefoner.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Vis nedlastinger",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Skjul nedlastinger",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.button.done": {
+    "message": "Ferdig",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Takk!",
+    "description": "Title of the advertisement section box."
+  }
 }

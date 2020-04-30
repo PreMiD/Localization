@@ -1,86 +1,90 @@
 {
-	"downloads.header.title": {
-		"message": "Kendinizi herkese göstermenin vakti geldi.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "PreMiD kullanmaya başlayın ve diğerlerine ne yaptığınızı gösterin, belki aynı zevkleri paylaştığınız bir kaç arkadaş edinirsiniz.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Başlayın",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "PreMiD'i indirin.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "PreMiD uygulamasını yükleyin.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Tarayıcınız için uyumlu eklentiyi yükleyin.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "Eklentinin bağlı olup olmadığını kontrol etmek için {0} sayfasını ziyaret edin.",
-		"description": "{0} will be replaced by 'store' string translation"
-	},
-	"downloads.instructions.step_4_store": {
-		"message": "mağaza",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Uygulama",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Eklenti",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "UYARI:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Bu işletim sistemi için bir yükleyici mevcut değil. Bu, sisteminiz için resmi bir destek olmadığı anlamına geliyor.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "Lütfen PreMiD'in mobil üzerinde desteklenmediğini unutmayın.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Bağlantıları Göster",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Bağlantıları Gizle",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "Bu platformun sürümü: {0} (bu sürüm sadece Linux için geçerli ve diğer sistemlere için geçerli değildir).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "Bu sürüm sadece Linux için geçerlidir. Diğer işletim sistemleri için uygulamanın sürümü {0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "İndirme linklerini görebilmek için lütfen giriş yapın.",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "Görünüşe göre alpha/beta erişimin yok :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "Ücretsiz beta programımıza **buraya** tıklayarak katılabilirsin. Acele et sadece {0}/200 kişilik yer kaldı.",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "Son sürümler",
-		"description": "Header above alpha/beta download buttons."
-	}
+  "downloads.header.title": {
+    "message": "Kendinizi herkese göstermenin vakti geldi.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "PreMiD kullanmaya başlayın ve diğerlerine ne yaptığınızı gösterin, belki aynı zevkleri paylaştığınız bir kaç arkadaş edinirsiniz.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Başlayın",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "PreMiD'i indirin.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "PreMiD uygulamasını yükleyin.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Tarayıcınız için uyumlu eklentiyi yükleyin.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Eklentinin bağlı olup olmadığını kontrol etmek için {0} sayfasını ziyaret edin.",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "mağaza",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Uygulama",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Eklenti",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Bu işletim sistemi için bir yükleyici mevcut değil. Bu, sisteminiz için resmi bir destek olmadığı anlamına geliyor.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Lütfen PreMiD'in mobil üzerinde desteklenmediğini unutmayın.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Bağlantıları Göster",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Bağlantıları Gizle",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "Bu platformun sürümü: {0} (bu sürüm sadece Linux için geçerli ve diğer sistemlere için geçerli değildir).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "Bu sürüm sadece Linux için geçerlidir. Diğer işletim sistemleri için uygulamanın sürümü {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "İndirme linklerini görebilmek için lütfen giriş yapın.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Görünüşe göre alpha/beta erişimin yok :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Ücretsiz beta programımıza **buraya** tıklayarak katılabilirsin. Acele et sadece {0}/200 kişilik yer kaldı.",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.button.cancel": {
+    "message": "Vazgeç",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Bitti",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Teşekkürler!",
+    "description": "Title of the advertisement section box."
+  }
 }

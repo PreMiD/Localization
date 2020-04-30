@@ -1,18 +1,22 @@
 {
-	"footer.supportus.donate": {
-		"message": "Síntiús",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Fabhtcheartú",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.help.information": {
-		"message": "Eolas",
-		"description": "Information section"
-	},
-	"footer.more.wiki": {
-		"message": "Vici",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	}
+  "footer.socials.heading": {
+    "message": "Sóisialta",
+    "description": "Socials section"
+  },
+  "footer.supportus.donate": {
+    "message": "Síntiús",
+    "description": "Donate -> redirects to patreon.com/timeraa"
+  },
+  "footer.help.troubleshooting": {
+    "message": "Fabhtcheartú",
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+  },
+  "footer.help.information": {
+    "message": "Eolas",
+    "description": "Information section"
+  },
+  "footer.more.wiki": {
+    "message": "Vici",
+    "description": "Wiki -> redirects to wiki.premid.app"
+  }
 }

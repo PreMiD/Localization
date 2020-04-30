@@ -1,74 +1,74 @@
 {
-	"downloads.header.title": {
-		"message": "Itt az idő, hogy megmutatsd magad.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű személyt is találsz.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Kezdő lépések",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Töltsd le a PreMiD alkalmazást.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "Telepítsd a PreMiD alkalmazást.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Telepítsd a bővítményt a böngésződben.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "A bővítmény telepítését követően, látogatsd meg az {0}.",
-		"description": "{0} will be replaced by 'store' string translation"
-	},
-	"downloads.instructions.step_4_store": {
-		"message": "áruházat",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Alkalmazás letöltése",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Bővítmény letöltése",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "FIGYELMEZTETÉS:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "Felhívjuk figyelmedet, hogy a PreMiD jelenleg nem támogatott mobilon.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Letöltések megjelenítése",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Letöltések elrejtése",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "A platform jelenlegi verziója {0} (ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.latest.header": {
-		"message": "Legújabb kiadások",
-		"description": "Header above alpha/beta download buttons."
-	}
+  "downloads.header.title": {
+    "message": "Itt az idő, hogy megmutatsd magad.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Kezdd el használni a PreMiD-et és oszd meg másokkal, hogy éppen mit nézel vagy hallgatsz, így talán hasonló érdeklődésű személyt is találsz.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Kezdő lépések",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Töltsd le a PreMiD alkalmazást.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Telepítsd a PreMiD alkalmazást.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Telepítsd a bővítményt a böngésződben.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "A bővítmény telepítését követően, látogatsd meg az {0}.",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "áruházat",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Alkalmazás letöltése",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Bővítmény letöltése",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Felhívjuk figyelmedet, hogy a PreMiD jelenleg nem támogatott mobilon.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Letöltések megjelenítése",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Letöltések elrejtése",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "A platform jelenlegi verziója {0} (ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.button.cancel": {
+    "message": "Mégse",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Kész",
+    "description": "Button on the page when trying to download with adblocker on."
+  }
 }

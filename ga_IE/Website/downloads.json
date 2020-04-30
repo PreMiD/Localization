@@ -1,6 +1,14 @@
 {
-	"downloads.instructions.step_4_store": {
-		"message": "stór",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	}
+  "downloads.instructions.step_4_store": {
+    "message": "stór",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.button.done": {
+    "message": "Críochnaithe",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Go raibh maith agat!",
+    "description": "Title of the advertisement section box."
+  }
 }

@@ -1,58 +1,66 @@
 {
-	"downloads.header.title": {
-		"message": "Време е да се покажете на всички.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "Започнете да използвате PreMiD сега и покажете на други хора какво правите, може би ще намерите някой със същите интереси.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Първи стъпки",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Изтеглете PreMiD.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "Инсталирайте приложението PreMiD.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Инсталирайте разширение за вашия браузър.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "Посетете {0} страница и проверете дали разширението е свързано.",
-		"description": "{0} will be replaced by 'store' string translation"
-	},
-	"downloads.instructions.step_4_store": {
-		"message": "магазин",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Приложение",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "разширение",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "ВНИМАНИЕ:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Няма инсталатор за тази операционна система. Това означава, че няма професионална подкрепа за това.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Показване на изтеглянията",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Скриване на изтеглянията",
-		"description": "Little button on the downloads page for mobile users."
-	}
+  "downloads.header.title": {
+    "message": "Време е да се покажете на всички.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Започнете да използвате PreMiD сега и покажете на други хора какво правите, може би ще намерите някой със същите интереси.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Първи стъпки",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Изтеглете PreMiD.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Инсталирайте приложението PreMiD.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Инсталирайте разширение за вашия браузър.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Посетете {0} страница и проверете дали разширението е свързано.",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "магазин",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Приложение",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "разширение",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Няма инсталатор за тази операционна система. Това означава, че няма професионална подкрепа за това.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Показване на изтеглянията",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Скриване на изтеглянията",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.button.cancel": {
+    "message": "Отказ",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Свършен",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Благодаря ти!",
+    "description": "Title of the advertisement section box."
+  }
 }

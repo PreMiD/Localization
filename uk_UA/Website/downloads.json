@@ -1,86 +1,90 @@
 {
-	"downloads.header.title": {
-		"message": "Час, щоб показати себе усім.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "Розпочніть використання PreMiD зараз і покажіть іншим людям, що Ви робите, і, мабуть, знайдете когось зі схожими інтересами.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Розпочати",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Завантажте PreMiD",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "Установіть PreMiD застосунок",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Установіть розширення для вашого браузера",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "Відвідайте {0} сторінку і перевірте чи ваше розширення з'єднано.",
-		"description": "{0} will be replaced by 'store' string translation"
-	},
-	"downloads.instructions.step_4_store": {
-		"message": "крамниця",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Застосунок",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Розширення",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "ПОПЕРЕДЖЕННЯ:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Застосунок не має встановлювача для цієї операційної системи. Це означає, що для цієї ОС немає професійної підтримки.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "Будь ласка, майте на увазі, що PreMiD в даний час не підтримується на мобільному телефоні.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Показати завантаження",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Приховати завантаження",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "Поточна версія цієї платформи: {0} (ця версія специфічна для Linux, і не застосовується до інших систем).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "Ця версія специфічна для Linux, і не застосовується до інших систем. Основна версія застосунку: {0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "Щоб побачити завантаження, будь ласка, увійдіть у систему.",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "Ой, схоже, що ви не маєте альфа/бета доступу :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "Ви можете безкоштовно приєднатися до нашої бета-програми **тут**. Покваптесь! У нас є обмежена кількість слотів: {0}/200.",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "Останні релізи",
-		"description": "Header above alpha/beta download buttons."
-	}
+  "downloads.header.title": {
+    "message": "Час, щоб показати себе усім.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Розпочніть використання PreMiD зараз і покажіть іншим людям, що Ви робите, і, мабуть, знайдете когось зі схожими інтересами.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Розпочати",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Завантажте PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Установіть PreMiD застосунок",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Установіть розширення для вашого браузера",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Відвідайте {0} сторінку і перевірте чи ваше розширення з'єднано.",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "крамниця",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Застосунок",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Розширення",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Застосунок не має встановлювача для цієї операційної системи. Це означає, що для цієї ОС немає професійної підтримки.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Будь ласка, майте на увазі, що PreMiD в даний час не підтримується на мобільному телефоні.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Показати завантаження",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Приховати завантаження",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "Поточна версія цієї платформи: {0} (ця версія специфічна для Linux, і не застосовується до інших систем).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "Ця версія специфічна для Linux, і не застосовується до інших систем. Основна версія застосунку: {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "Щоб побачити завантаження, будь ласка, увійдіть у систему.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Ой, схоже, що ви не маєте альфа/бета доступу :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Ви можете безкоштовно приєднатися до нашої бета-програми **тут**. Покваптесь! У нас є обмежена кількість слотів: {0}/200.",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.button.cancel": {
+    "message": "Скасувати",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Зроблено",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Дякуємо!",
+    "description": "Title of the advertisement section box."
+  }
 }
