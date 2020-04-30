@@ -1,12 +1,12 @@
 ---
-title: Aula iFrame
+title: Classe iFrame
 description:
 published: true
 date: 2020-04-28T20:49:50.437Z
 tags:
 ---
 
-# Aula iFrame
+# Classe iFrame
 > O sistema iframe com PreMiD é problemático e pode ter um comportamento inesperado, use com cautela. 
 > 
 > {.is-danger}
@@ -17,26 +17,26 @@ Em alguns cenários, sua presença pode precisar acessar elementos dentro de `if
 
 O código que você escreve dentro do seu arquivo `iframe.ts` é injetado em cada iframe na página.
 
-Como as presenças, `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
+Como as presenças, os `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
 
 ```typescript
 let iframe = new iFrame();
 
-iframe.on("UpdateData", async () =>
+iframe.on("UpdateData", async () => {
     // O código vai aqui...
 });
 ```
 
 ## Métodos
 
-### `enviar(objeto)`
+### `send(Objeto)`
 Envia dados para a presença. Usando este método a presença lançará um evento `iFrameData`.
 
 ### `getUrl(String)`
 Retorna a URL do `iframe`.
 
 ## Eventos
-Em `iframes`, os eventos funcionam da mesma forma que eles funcionam na `classe de presença`.
+Em `iframes`, os eventos funcionam da mesma forma que na `classe de presença`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
@@ -46,6 +46,6 @@ iframe.on("UpdateData", async () => {
 
 Aqui está uma lista de todos os eventos:
 
-#### `AtualizarDados`
+#### `UpdateData`
 
-Esse evento é disparado toda vez que o iframe é atualizado.
+Este evento é disparado toda vez que o iframe é atualizado.
