@@ -87,17 +87,45 @@
     "message": "Dikkat",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
+  "downloads.warning.message.edge": {
+    "message": "Eklenti ayarlarından 'diğer mağazalardan eklenti yüklemeye izin ver' seçeneğini aktifleştirmeyi unutmayın.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "PreMiD eklentisini Chrome mağazasından indirebilmeniz için öncelikle **buradaki** eklentiyi kurmalısınız.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Geç",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Geri",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Vazgeç",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Tamam",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Bitti",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Giriş Yap",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Teşekkürler!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Takımımıza destek çıkmak ve projeyi güçlendirmek için reklam kullanıyoruz. Anlayışınız için teşekkürler.",
+    "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
     "message": "Lütfen reklam engelleyicinizi devre dışı bırakın.",
