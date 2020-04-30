@@ -40,7 +40,7 @@
     "description": "Header above extension download buttons."
   },
   "downloads.tooltips.os_not_supported.part1": {
-    "message": "Uyarı:",
+    "message": "Dikkat:",
     "description": "First part of the message."
   },
   "downloads.tooltips.os_not_supported.part2": {
@@ -84,7 +84,7 @@
     "description": "Header above alpha/beta download buttons."
   },
   "downloads.warning.title": {
-    "message": "Uyarı",
+    "message": "Dikkat",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
   "downloads.button.cancel": {
