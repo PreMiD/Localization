@@ -19,9 +19,9 @@
     "message": "Partners",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "Socials",
-    "description": "Socials section"
+  "footer.followUs.heading": {
+    "message": "Follow Us",
+    "description": "Follow Us section"
   },
   "footer.developers.heading": {
     "message": "Developers",
