@@ -1,78 +1,50 @@
 {
-  "contributors.headings.staff": {
-    "message": "Darbuotojai",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Pagalbininkai",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Vertėjai",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Kūrėjas",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Svetainės kūrėjas",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Bendruomenės vadovas",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Vyriausias moderatorius",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderatorius",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Bilietų vadybininkas",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Remėjai",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Boosteriai",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Vertėjai",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Administratorius",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.asstCommunityManager": {
-    "message": "Bendruomenės vadovo padėjėjas",
-    "description": "'Assisting Community Manager' title for contributors page."
-  },
-  "contributors.roles.asstHeadModerator": {
-    "message": "Moderatoriaus padėjėjas",
-    "description": "'Assisting Head Moderator' title for contributors page."
-  },
-  "contributors.roles.jrModerator": {
-    "message": "Jaunesnysis moderatorius",
-    "description": "'Junior Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.proofreader": {
-    "message": "Korektorius",
-    "description": "'Proofreader' title for contributors and user pages."
-  },
-  "contributors.cards.copyUserId": {
-    "message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
-    "description": "Tippy message when you hover on the avatar of a credit card."
-  },
-  "contributors.cards.userIdCopied": {
-    "message": "Vartotojo ID nukopijuotas į jūsų iškarpinę!",
-    "description": "Notification after user ID was copied."
-  }
+	"contributors.headings.staff": {
+		"message": "Darbuotojai",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Pagalbininkai",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Vertėjai",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Kūrėjas",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderatorius",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Statusų Verifikacija",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korektorius",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Remėjai",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Boosteriai",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Vertėjai",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Vartotojo ID nukopijuotas į jūsų iškarpinę!",
+		"description": "Notification after user ID was copied."
+	}
 }

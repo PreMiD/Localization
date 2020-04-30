@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Betrachtet seine Abonnements",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Schaut sich seine Werbepräferenzen an",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Schaut sich sein Guthaben an",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Schaut sich seine Zahlungsmethoden an",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Betrachtet seine Adressen",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Schaut sich seine Tiere an",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Betrachtet alle Kategorien",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Betrachtet Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Betrachtet seine",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "Bestellverlauf",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "Bestellungsdetails",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "Warenkorb",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "Wuschliste",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "Geschenkkarten",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Schaut sich empfohlenes an",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Schaut sich den Verlauf an",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Betrachtet den Shop:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Schaut ein Prime Video:",
+        "description": ""
+    }
+}

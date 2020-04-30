@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "يشاهد لوحة:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "مشاهدة دبوس",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "يشاهد ملاحقنيهم",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "يعديل الصفحة الرئيسية",
+        "description": ""
+    }
+}

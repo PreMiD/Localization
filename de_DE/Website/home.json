@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD** ist eine einfache, konfigurierbare Software, die dir erlaubt zu zeigen, was du im Web in deinem Discord-Status tust.",
+    "message": "**PreMiD** ist eine einfache, konfigurierbare Software, die dir erlaubt in deinem Discord-Status zu zeigen, was du im Web tust.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -19,8 +19,16 @@
     "message": "{0} verbleibend",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.timestamp2": {
+    "message": "{0} verstrichen",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.status.playing": {
     "message": "Wiedergabe",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Stöbert...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -70,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Besuche unseren Server",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Wähle die Sprache der Webseite",
+    "description": "Tippy content of the language selector."
   }
 }

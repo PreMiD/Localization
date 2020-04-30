@@ -15,12 +15,16 @@
 		"message": "Создал {0} статусов.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Создал более 100 статусов!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
 		"message": "Пользователь [присутствия/взносы]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Нажмите здесь, чтобы показать присутствия, которые этот пользователь создан.",
+		"message": "Нажмите здесь, чтобы показать статусы, которые этот пользователь создал.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {

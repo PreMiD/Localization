@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Skaitomas tweet'as:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "Peržiūrimi jų DM'ai",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Peržiūrimi tweet'ai:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Peržiūrimi tweet'ai ( su atsakymais):",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Peržiūrimi tweet'ai:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Peržiūrėjimas patiko:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Peržiūrimas sąrašas:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Žymės",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Pranešimai",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Naršyti",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Keičiami kai kurie nustatymai ...\n",
+        "description": ""
+    }
+}

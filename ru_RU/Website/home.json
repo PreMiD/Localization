@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD** — это простой, настраиваемый утилита, позволяющий вам показать, что вы делаете в сети в вашем статусе Discord.",
+    "message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -19,8 +19,16 @@
     "message": "Осталось {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.timestamp2": {
+    "message": "Прошло {0}",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.status.playing": {
     "message": "Воспроизводится",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Смотрит...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -44,7 +52,7 @@
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
-    "message": "Надоели громадные интерфейсы? Это - почему мы создали простой, но в тоже время полезный интерфейс с важными функциями:",
+    "message": "Надоели громадные интерфейсы? Нам тоже, поэтому мы создали простой, но в то же время полезный интерфейс с важными функциями:",
     "description": "Features section description"
   },
   "home.features.simpleInterface.description.1": {
@@ -70,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Посетите наш сервер",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Выберите язык сайта",
+    "description": "Tippy content of the language selector."
   }
 }

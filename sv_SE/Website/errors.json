@@ -1,18 +1,18 @@
 {
   "store.search.notFound": {
-    "message": "Vi kan inte hitta den närvaron.",
+    "message": "Vi kan inte hitta den presencen.",
     "description": "Search result text when nothing's found"
   },
   "error.code.404": {
-    "message": "Tyvärr, vi kan inte hitta denna sida.",
+    "message": "Tyvärr, vi kan inte hitta den här sidan.",
     "description": "Error (404) message"
   },
   "error.code.4": {
-    "message": "Du letar efter inte befintlig eller borttagen närvaro.",
+    "message": "Du letar efter inte befintlig eller borttagen presence.",
     "description": "Error (4) message"
   },
   "error.code.500": {
-    "message": "Internt serverfel har inträffat.",
+    "message": "Ett internt serverfel har inträffat.",
     "description": "Error (500) message"
   },
   "error.page.details": {
@@ -20,19 +20,19 @@
     "description": "'Details' text on error page container"
   },
   "error.page.button": {
-    "message": "Återgå till hemsidan",
+    "message": "Tillbaka till hemsidan",
     "description": "Button on the error page"
   },
   "user.notFound.heading": {
-    "message": "Den användaren kunde inte hittas. Försök att vara säker:",
+    "message": "Den användaren kunde inte hittas. Försök att vara säker på:",
     "description": "Error when user couldn't be found."
   },
   "user.notFound.message1": {
-    "message": "Användarens ID du letar efter är korrekt.",
+    "message": "Det användar-ID som du letar efter är korrekt.",
     "description": "Check user ID message."
   },
   "user.notFound.message2": {
-    "message": "Användaren har skapat tillräckligt med närvaro och har rollen som Presence Developer i vår Discord-server.",
+    "message": "Användaren har skapat tillräckligt många presences och har rollen som Presence Utvecklare i vår Discord-server.",
     "description": "Check the presence amount of the developer created message."
   },
   "user.notFound.message3": {

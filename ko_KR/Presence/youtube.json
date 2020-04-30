@@ -1,1 +1,34 @@
-{}
+{
+    "youtube.ad": {
+        "message": "현재 광고 시청 중",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "동영상 검색 중",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "재생목록 검색 중",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "커뮤니티 보는 중",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "채널:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "다음 채널을 보는 중:",
+        "description": ""
+    },
+    "youtube.studio.channelComments": {
+        "message": "채널 댓글들",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "아티스트 페이지",
+        "description": "Part two of \"Viewing their\""
+    }
+}

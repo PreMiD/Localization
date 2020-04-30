@@ -15,8 +15,16 @@
     "message": "{0} tersisa",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.timestamp2": {
+    "message": "{0} berlalu",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.status.playing": {
     "message": "Memutar kembali",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Menelusuri...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -66,5 +74,9 @@
   "home.features.quickSupport.button": {
     "message": "Kunjungi server kami",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Pilih bahasa situs web",
+    "description": "Tippy content of the language selector."
   }
 }

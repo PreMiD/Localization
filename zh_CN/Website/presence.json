@@ -20,7 +20,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
 	"presence.sections.information.users": {
-		"message": "用户",
+		"message": "下载次数",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {

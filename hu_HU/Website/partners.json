@@ -1,6 +1,10 @@
 {
-  "partners.apply.select.other": {
-    "message": "Egyéb",
-    "description": "Select 'Other' category."
-  }
+	"partners.apply.select.other": {
+		"message": "Egyéb",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "Köszönjük jelentkezésedet!",
+		"description": "Success message when applying."
+	}
 }

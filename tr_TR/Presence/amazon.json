@@ -3,6 +3,10 @@
         "message": "Aboneliklere göz atıyor",
         "description": ""
     },
+    "amazon.adprefs": {
+        "message": "Reklamcılık tercihlerine bakıyor",
+        "description": ""
+    },
     "amazon.balance": {
         "message": "Bakiyesine göz atıyor",
         "description": ""
@@ -15,6 +19,10 @@
         "message": "Adreslerine göz atıyor",
         "description": ""
     },
+    "amazon.pets": {
+        "message": "Evcilar hayvanlarına bakıyor",
+        "description": ""
+    },
     "amazon.catergoriesAll": {
         "message": "Tüm kategorilere göz atıyor",
         "description": ""
@@ -22,6 +30,10 @@
     "amazon.prime": {
         "message": "Amazon Prime'a göz atıyor",
         "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Görüntülüyor",
+        "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
         "message": "sipariş geçmişi",
@@ -42,6 +54,10 @@
     "amazon.giftcards": {
         "message": "hediye kartları",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Tavsiye edilenlere bakıyor",
+        "description": ""
     },
     "amazon.history": {
         "message": "Geçmişine göz atıyor",

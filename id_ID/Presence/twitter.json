@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Membaca tweet:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "Melihat DM mereka",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Melihat tweet dari:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Melihat tweet (dengan balasan) dari:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Melihat media dari:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Melihat disukai oleh:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Melihat daftar:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Bookmark",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Notifikasi",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Jelajahi",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Mengubah beberapa pengaturan...",
+        "description": ""
+    }
+}

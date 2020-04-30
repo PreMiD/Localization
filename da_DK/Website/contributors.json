@@ -1,18 +1,18 @@
 {
-  "contributors.headings.staff": {
-    "message": "Personale",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Supportere",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Oversættere",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Forfatter",
-    "description": "'Creator' title for contributors and user pages."
-  }
+	"contributors.headings.staff": {
+		"message": "Personale",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Supportere",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Oversættere",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Forfatter",
+		"description": "'Creator' title for contributors and user pages."
+	}
 }

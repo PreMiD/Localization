@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "Assistindo um anúncio",
+        "message": "Assistindo a um anúncio",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -23,16 +23,60 @@
         "message": "Lendo sobre o canal:",
         "description": ""
     },
+    "youtube.searchChannel": {
+        "message": "Pesquisando no canal: {0} para:",
+        "description": "{0} will be replaced with the channel name"
+    },
     "youtube.trending": {
-        "message": "A ver as tendências",
+        "message": "Vendo as tendências",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Navegando Por",
+        "message": "Navegando por",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "suas inscrições",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "sua biblioteca",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "seu histórico",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "suas compras",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Visualizando o seu histórico de relatório",
+        "description": ""
+    },
     "youtube.upload": {
-        "message": "A enviar algo...",
+        "message": "Enviando algo...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Visualizando as listas de reprodução",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Visualizando seus eventos ao vivo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Visualizando seu painel ao vivo",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Visualizando a biblioteca de áudio",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Visualizando seus vídeos",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -47,12 +91,32 @@
         "message": "Visualizando comentários do vídeo:",
         "description": ""
     },
+    "youtube.studio.videoTranslations": {
+        "message": "Vendo traduções de vídeo:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "Vizualizando Suas",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.studio.channelAnalytics": {
+        "message": "estatísticas do canal",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "comentários do canal",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "traduções do canal",
+        "description": "Part two of \"Viewing their\""
+    },
     "youtube.studio.artistPage": {
         "message": "página do artista",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Visualizando seu painel",
+        "description": ""
     }
 }

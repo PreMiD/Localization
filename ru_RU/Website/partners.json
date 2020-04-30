@@ -1,10 +1,66 @@
 {
-  "partners.apply.select.other": {
-    "message": "Прочее",
-    "description": "Select 'Other' category."
-  },
-  "partners.apply.form.name": {
-    "message": "Наименование",
-    "description": "Name filed."
-  }
+	"partners.header.title": {
+		"message": "ПАРТНЕРЫ",
+		"description": "Heading for page."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Получите верификацию",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Будьте известными",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "ТРЕБОВАНИЯ",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Что вы ищете?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.sponsors.title": {
+		"message": "СПОНСОРЫ",
+		"description": "Heading for sponsors."
+	},
+	"partners.apply.title": {
+		"message": "Подать заявку на партнерство",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.notYou": {
+		"message": "Это не вы?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.website": {
+		"message": "Сайт",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Прочее",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Наименование",
+		"description": "Name filed."
+	},
+	"partners.apply.form.link": {
+		"message": "Ссылка",
+		"description": "Link field."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Закрыть",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Подать",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "Пожалуйста, заполните все поля.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error4": {
+		"message": "Вы уже подали заявку на партнерство.",
+		"description": "Error when already applied."
+	}
 }

@@ -1,6 +1,194 @@
 {
-  "partners.apply.select.other": {
-    "message": "Lainnya",
-    "description": "Select 'Other' category."
-  }
+	"partners.header.title": {
+		"message": "MITRA",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Bergabunglah bersama keluarga dan dapatkan beberapa manfaat khusus mitra untuk memamerkan jumlah bergoyang yang Anda miliki.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Ini sudah menjadi milik kita",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Bagaimana kalau pergi ke surga bukannya ke neraka?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Presence gratis anda",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Tim kami akan memberi Anda Presence layanan web Anda.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Menjadi diverifikasi",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Peran khusus dan kehormatan besar akan diberikan kepada Anda di server Discord kami.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Integrasi meta-tag",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Secara otomatis mengaktifkan Presence Anda ketika seseorang mengunjungi situs web Anda.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Dapatkan diabadikan",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Tempat jahat di halaman mitra kami.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Menjadi terkenal",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Ditampilkan di sosial kami.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "PERSYARATAN",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Apa yang kita cari?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Firewall kami",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Kami saat ini menerima berbagai jenis upaya dalam program kemitraan kami. Siapa pun harus memiliki kesempatan untuk diperhatikan. Penyiar kedutan harus memiliki setidaknya 500 pengikut dan setidaknya 3 pemirsa bersamaan. Anda harus streaming setidaknya 1 kali per minggu.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Daftar sekarang!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Mari kita pergi ke surga bersama!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "SPONSOR",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD tidak akan mungkin terjadi, tanpa orang-orang hebat ini.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Begitulah cara Anda menonton anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings adalah Game Arena PvP serba cepat generasi berikutnya yang dimainkan di browser.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat adalah radio internasional nirlaba yang berupaya menyediakan hiburan radio dan berita berkualitas tanpa henti.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Platform penghasilan gamer.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Alat pembuat lintas platform yang kuat dan mudah digunakan.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Mengomunikasikan status real-time dengan mudah ke pengguna Anda.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "Lokalisasi tangkas untuk perusahaan teknologi.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Perangkat lunak sumber terbuka Wiki yang paling kuat dan dapat dikembangkan.",
+		"description": "Description for WikiJS."
+	},
+	"partners.apply.title": {
+		"message": "Melamar mitra",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Masuk sebagai {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Bukan kamu?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Tolong pilih satu",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Situs web",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Lainnya",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Contoh: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Tautan",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Contoh: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Deskripsi: (Maksimal 150 karakter)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Deskripsi untuk yang diutamakan",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Tautan gambar: (550x300, hanya PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Contoh: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Tutup",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Terapkan",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "Silakan lengkapi semua bidang.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Deskripsi 150 karakter maksimum.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Harap tambahkan tautan (harus dimulai dengan https:// dan akhiri dengan .png)",
+		"description": "Error when image link is entered wrong."
+	}
 }

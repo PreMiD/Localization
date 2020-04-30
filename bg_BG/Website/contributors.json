@@ -1,54 +1,74 @@
 {
-  "contributors.headings.staff": {
-    "message": "Персонал",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Поддръжници",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "преводачи",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "създател",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Програмист на уебсайтове",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Мениджър на общността",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Главен модератор",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "забавител",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Мениджър на билети",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Дарител",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "бустер",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Преводач",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "администратор",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Персонал",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Поддръжници",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "преводачи",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "създател",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Главен софтуерен инженер",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Уеб-разработчик",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Инженер",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Графичен дизайнер",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Старши модератор",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "забавител",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Младши модератор",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Проверка на присъствието",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Коректор",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Дарител",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "бустер",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Преводач",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Щракване за копиране на потребителския идент. №.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Потребителският идент. № е копиран в клипборда ви!",
+		"description": "Notification after user ID was copied."
+	}
 }

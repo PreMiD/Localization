@@ -7,8 +7,64 @@
         "message": "瀏覽中...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "章節",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "編輯中:",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "集數",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "論壇",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "類型",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "正在聆聽音樂",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "聽眾",
+        "description": ""
+    },
     "general.live": {
         "message": "直播",
+        "description": ""
+    },
+    "general.manga": {
+        "message": "漫畫",
+        "description": ""
+    },
+    "general.page": {
+        "message": "頁",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "暫停",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "播放中",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "正在閱讀私息來自:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "正在閲讀關於:",
         "description": ""
     },
     "general.reading": {

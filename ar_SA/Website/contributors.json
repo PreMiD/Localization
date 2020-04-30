@@ -1,50 +1,102 @@
 {
-  "contributors.headings.staff": {
-    "message": "الطاقم",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "الداعمين",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "المترجمين",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "المطور",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "مطور الموقع",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "مدير المجتمع",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "رئيس المشرف",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "وسيط",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "مدير التذاكر",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "المتبرع",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "معزز",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "مترجم",
-    "description": "'Translator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "الطاقم",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "الداعمين",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "المترجمين",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "المطور",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.executiveDirector": {
+		"message": "المدير التنفيذي",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "مشرف العمليات",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "الممثل العالمي للمجتمع",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "كبير مهندسي البرمجيات",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "مطور الويب",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "مشرف Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "مهندس",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "مصمم جرافيك",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "كبير المشرفين",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "رئيس التحقق من Presence",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "ممثل المجتمع",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "وسيط",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "مشرف مبتدئ",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "عميل الدعم",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "مدقق ملحقات",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "مدقق لغوي",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "المتبرع",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "معزز",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "مترجم",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "انقر لنسخ ID المستخدم.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "تم نسخ ID المستخدم إلى الحافظة الخاصة بك!",
+		"description": "Notification after user ID was copied."
+	}
 }

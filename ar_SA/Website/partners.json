@@ -1,6 +1,210 @@
 {
-  "partners.apply.select.other": {
-    "message": "آخر",
-    "description": "Select 'Other' category."
-  }
+	"partners.header.title": {
+		"message": "المشاركين",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "انضم إلى المشاهدة واحصل على بعض الفوائد فقط للشريك لإظهار كم من المساحة لديك.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "هذه بالفعل ملك لنا",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "ماذا عن الذهاب إلى الجنة بدلا من الجحيم؟",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "presence المجاني الخاص بك",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "سيقوم فريقنا بتزويدك presence لخدمة الويب الخاصة بك.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "كن مُحققًا",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "سيتم إعطاء رول خاص وشرف عظيم لك في سيرفر ديسكورد الخاص بنا.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "تكامل الوسوم الوصفية",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "تمكين الpresence الخاص بك تلقائياً عندما يقوم شخص بزيارة موقعك.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "كن خالدا",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "مكان رديء على صفحة شركائنا.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "كن مشهوراً",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "مميز على مواقع تواصلنا.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "المتطلبات",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "ما الذي نبحث عنه؟",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "نحن نضع في أنظارنا على المجتمعات المتنامية والأشياء المثيرة حول الإنترنت. TL;DR يجب أن تستخدم PreMiD بالفعل وأن تكون مستعدا لنشره على المزيد من الحزم عبر الإنترنت. والقبول في البرنامج هو أمر نوعي للغاية وسيتفاوت من مرشح إلى آخر.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "جدار الحماية لدينا",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "نحن حاليا نقبل أنواعا مختلفة من الجهد في برنامجنا للشراكة. أي شخص ينبغي أن تتاح له الفرصة لأن يلاحظ. يجب أن يكون لمذيعي تويتش 500 تابع على الأقل و 3 مشاهدين متزامنين على الأقل. يجب أن تبث مرة واحدة على الأقل في الأسبوع.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "قدّم الآن!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "دعونا نذهب إلى السماء معاً!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "إذا كنت مهتما بوظيفة مباشرة في بريميد، إذن ألقي نظرة على **إعلاننا عن العمل**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "الداعمين",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD لن يكون ممكناً، بدون هؤلاء الناس المذهلين.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "هذه هي الطريقة التي تشاهد بها الانيمي.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "ساحة الملوك هي لعبة ساحة سريعة الوتيرة من الجيل القادم التي تلعبت في المتصفح.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat إذاعة دولية لا تستهدف الربح وتسعى جاهدة إلى توفير إذاعة, تسلية و أخبار جيدة النوعية دون توقف.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "منصة كسب اللاعبين.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "أداة إنشاء تثبيت منصة قوية وسهلة الاستخدام.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "التواصل بسهولة مع المستخدمين في الوقت الحقيقي.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "مكان رشيق لشركات التكنولوجيا.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "برنامج ويكي المفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
+		"description": "Description for WikiJS."
+	},
+	"partners.apply.title": {
+		"message": "تقدم بطلب الشريك",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "تم تسجيل الدخول كـ {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "ليس أنت؟",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "يرجى اختيار واحد",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "الموقع",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "آخر",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "مثال: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "الرابط",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "مثال: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "الوصف: (150 رمزاً كحد أقصى)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "وصف للميز",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "رابط الصورة: (550x300, PNG فقط)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "مثال: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "إغلاق",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "تقديم",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "شكرًا لك على تقديم الطلب!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "يُرجى إكمال كافة الحقول.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "الحد الأقصى للوصف 150 حرفا.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "الرجاء إضافة رابط (يجب أن يبدأ ب https:// والانتهاء ب .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "لقد سبق لك أن قدمت طلب.",
+		"description": "Error when already applied."
+	}
 }

@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "A **PreMiD** egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett dolgokat a Discord játék tevékenységi felületen.",
+    "message": "A **PreMiD** egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett tevékenységeket a Discord játék tevékenységi felületen.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -19,8 +19,16 @@
     "message": "{0} van hátra",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.timestamp2": {
+    "message": "{0} eltelt",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.status.playing": {
     "message": "Lejátszás",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Böngészés...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -70,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Látogass el szerverünkre",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Válassz nyelvet",
+    "description": "Tippy content of the language selector."
   }
 }

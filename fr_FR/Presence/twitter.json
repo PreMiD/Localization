@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Lit un tweet:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "Visualisation de leurs DMs",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Regarde les tweets de:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Regarde les tweets (avec réponses) de:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Regarde le media de:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Regarde aimé par :",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Regarde la liste :",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Signets",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Notifications",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Explore",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Modifie les paramètres ...",
+        "description": ""
+    }
+}

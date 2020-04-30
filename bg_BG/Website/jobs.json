@@ -1,1 +1,34 @@
-{}
+{
+	"jobs.modal.step": {
+		"message": "Стъпка {0} от 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Напред",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Отказ",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Попълнете всички полета",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.header.title": {
+		"message": "Работа за PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Отворени работни места",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefit5.title": {
+		"message": "Времето изтече",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.title": {
+		"message": "Ранен достъп",
+		"description": "Benefit card title."
+	}
+}

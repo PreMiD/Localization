@@ -11,8 +11,12 @@
     "message": "{0} preostalo",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "Reprodukcija nazad",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Pretražnja...",
     "description": "Discord Rich Presence -> small image text;"
   }
 }

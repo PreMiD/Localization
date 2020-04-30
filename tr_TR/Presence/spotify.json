@@ -7,16 +7,52 @@
 		"message": "En çok dinlenilen podcastler",
 		"description": ""
 	},
+	"spotify.charts": {
+		"message": "Grafiklere bakıyor",
+		"description": ""
+	},
 	"spotify.genres": {
 		"message": "Türler arasında dolaşıyor",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Son yayınlananlara bakıyor",
 		"description": ""
 	},
 	"spotify.discover": {
 		"message": "Yeni şarkıları keşfediyor",
 		"description": ""
 	},
+	"spotify.browse": {
+		"message": "Göz atıyor",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "sevdiği ses dosyası",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "sevdiği sanatçılar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "sevdiği albümler",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "sevdiği şarkılar",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.madeForYou": {
 		"message": "\"Senin için yapıldı\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "çalma listeleri",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify Yükleniyor",
+		"description": ""
 	}
 }

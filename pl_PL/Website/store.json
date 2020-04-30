@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "Rozszerzenie nie jest połączone.",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "Twórca",
     "description": "Creator of a presence"
@@ -6,6 +10,14 @@
   "store.cards.popular": {
     "message": "Ta obecność jest bardzo popularna wokół użytkowników.",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Obecność oficjalnego partnera PreMiD.",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Ta obecność wymaga dodatkowych kroków do zadziałania, sprawdź stronę aby uzyskać więcej informacji.",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
     "message": "Ten status został zatwierdzony przez zaufanego developera",
@@ -39,6 +51,10 @@
     "message": "Zezwól na zawartość dla dorosłych",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "Tylko polubione obecności",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "Kategorie",
     "description": "Category heading"
@@ -70,5 +86,13 @@
   "store.search": {
     "message": "Wyszukaj",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "naciśnij klawisz enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "Kliknij, aby usunąć filtr.",
+    "description": "Remove message for active search filters."
   }
 }

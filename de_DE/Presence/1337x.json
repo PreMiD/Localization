@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Schaut die Filmbibliothek",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Betrachtet die Serienbibliothek",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Schaut sich die letzten Veröffentlichungen an",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Betrachtet die Top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Betrachtet die Trends",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Schaut sich Animes an",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Schaut App-Torrents",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Schaut Dokumente-Torrents",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Schaut Spiel-Torrents",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Betrachtet Film-Torrents",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Betrachtet Musik-Torrents",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Betrachtet andere Torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Schaut TV Torrents",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Betrachtet XXX Torrents",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Ladet etwas hoch...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Ließt die Regeln",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Schreibt an 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Ließt über 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Betrachtet Strom:",
+        "description": ""
+    }
+}

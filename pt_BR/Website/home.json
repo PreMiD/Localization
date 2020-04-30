@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "**PreMiD é um utilitário simples e configurável que permite mostrar o que você está assistindo/ouvindo em seu status de \"jogando agora\" no Discord.",
+    "message": "**PreMiD** é um utilitário simples e configurável que permite mostrar o que você está assistindo/ouvindo em seu status de \"jogando agora\" no Discord.",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -23,8 +23,12 @@
     "message": "{0} decorrido(s)",
     "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "Reproduzindo",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Navegando...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {

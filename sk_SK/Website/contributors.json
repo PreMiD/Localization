@@ -1,50 +1,38 @@
 {
-  "contributors.headings.staff": {
-    "message": "Jadro týmu",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Podporovatelia",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Prekladatelia",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Tvorca",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Vývojár webovej stránky",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Manažér Komunity",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Hlavný Moderátor",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderátor",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Správca tiketov",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Darca",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Prekladateľ",
-    "description": "'Translator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Jadro týmu",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Podporovatelia",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Prekladatelia",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Tvorca",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderátor",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Overovateľ prítomností",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Darca",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Prekladateľ",
+		"description": "'Translator' title for contributors page."
+	}
 }

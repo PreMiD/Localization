@@ -1,54 +1,42 @@
 {
-  "contributors.headings.staff": {
-    "message": "Personal",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Suporteri",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Traducători",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Creator",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Dezvoltator website",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Manager comunitate",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Moderator șef",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderator",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Manager tichete",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Donator",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Traducător",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Administrator",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Staff",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Suporteri",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Traducători",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Creator",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Moderator Senior",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Traducător",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID-ul utilizatorului a fost copiat în clipboard!",
+		"description": "Notification after user ID was copied."
+	}
 }

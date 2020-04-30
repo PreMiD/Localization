@@ -11,8 +11,20 @@
     "message": "{0} jäljellä",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "Toistetaan",
     "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Selaa...",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.features.presencesystem.button": {
+    "message": "Avaa kauppa",
+    "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Valitse sivuston kieli",
+    "description": "Tippy content of the language selector."
   }
 }

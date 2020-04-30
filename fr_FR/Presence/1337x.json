@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Visualisation de la bibliothèque de films",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Visualisation de la bibliothèque de la série",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Visualisation des derniers épisodes",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Affichage du top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Visualisation de la tendance",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Affichage des torrents animés",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Visualisation des torrents des applications",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Visualisation des torrents documentaires",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Visualisation des torrents de jeux",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Visualisation de Torrents Films",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Visualisation des torrents musicaux",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Visualisation d'autres torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Visualisation des Torrents TV",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Affichage des torrents XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Envoi de quelque chose en cours...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Lecture des règles",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Écriture vers 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Lecture d'environ 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Affichage du torrent:",
+        "description": ""
+    }
+}

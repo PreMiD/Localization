@@ -1,78 +1,102 @@
 {
-  "contributors.headings.staff": {
-    "message": "Equipe",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Apoiadores",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Tradutores",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Criador",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Desenvolvedor do Website",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Gerente da Comunidade",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Moderador Chefe",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderador",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Gerenciador de Tickets",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Doador",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Tradutor",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Administrador",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.asstCommunityManager": {
-    "message": "Asst. do Gerente da Comunidade",
-    "description": "'Assisting Community Manager' title for contributors page."
-  },
-  "contributors.roles.asstHeadModerator": {
-    "message": "Asst. do Moderador Chefe",
-    "description": "'Assisting Head Moderator' title for contributors page."
-  },
-  "contributors.roles.jrModerator": {
-    "message": "Moderador Jr.",
-    "description": "'Junior Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.proofreader": {
-    "message": "Revisor(a)",
-    "description": "'Proofreader' title for contributors and user pages."
-  },
-  "contributors.cards.copyUserId": {
-    "message": "Clique para copiar o ID do usuário.",
-    "description": "Tippy message when you hover on the avatar of a credit card."
-  },
-  "contributors.cards.userIdCopied": {
-    "message": "ID de usuário copiado para sua área de transferência!",
-    "description": "Notification after user ID was copied."
-  }
+	"contributors.headings.staff": {
+		"message": "Equipe",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Apoiadores",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Tradutores",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Criador",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.executiveDirector": {
+		"message": "Diretor Executivo",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Supervisor de Operação",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Representante da Comunidade Global",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Desenvolvedor Chefe",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Desenvolvedor Web",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Mantenedor Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Engenheiro",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Designer Gráfico",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Moderador Senior",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "Chefe de Verificação de Presença",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Representante da Comunidade",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderador",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Moderador Junior",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Agente de Suporte",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Verificador de Presenças",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Revisor(a)",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Doador",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Tradutor",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Clique para copiar o ID do usuário.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID de usuário copiado para sua área de transferência!",
+		"description": "Notification after user ID was copied."
+	}
 }

@@ -15,8 +15,16 @@
 		"message": "Stworzono {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Geniusz Programista Statusów",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Stworzono ponad 100 statusów!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
 	"user.switch.contributed": {
-		"message": "Użytkownik [obecności/wkłady]",
+		"message": "Użytkownik [statusy/wkłady]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
@@ -24,7 +32,7 @@
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Kliknij tutaj, aby wyświetlić obecności, do których użytkownik się przyczynił.",
+		"message": "Kliknij tutaj, aby wyświetlić status, do których użytkownik się przyczynił.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

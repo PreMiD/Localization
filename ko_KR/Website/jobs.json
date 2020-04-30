@@ -1,1 +1,22 @@
-{}
+{
+	"jobs.benefit5.description": {
+		"message": "공을 들이세요. 이건 당신의 자발적인 일 입니다.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "베타 버전",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "다른 사람들보다 빠르게 새로운 기능들을 체험해보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "지원해주셔서 감사합니다!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "이미 지원하셨습니다.",
+		"description": "Notification when you applied already."
+	}
+}

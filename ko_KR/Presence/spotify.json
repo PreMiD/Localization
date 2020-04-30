@@ -1,1 +1,14 @@
-{}
+{
+	"spotify.charts": {
+		"message": "차트 보는중",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "새로운 노래를 찾는중",
+		"description": ""
+	},
+	"spotify.download": {
+		"message": "Spotify 다운중",
+		"description": ""
+	}
+}

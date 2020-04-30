@@ -1,4 +1,40 @@
 {
+	"jobs.modal.title": {
+		"message": "Postuler pour {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Étape {0} sur 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Suivant",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Rejoindre",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Retour",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Veuillez remplir tous les champs",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD est un projet open-source, ce qui signifie que nous sommes une équipe à but non lucratif, chaque don ou patreon est retourné dans le produit. En posant votre candidature à un poste chez PreMiD, vous reconnaissez que vous êtes bénévole au sein de l'équipe, vous ne serez pas payé pour votre travail.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Rejoignez notre Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Pour pouvoir postuler, vous devez avoir rejoint notre serveur Discord. Sinon, nous ne serons pas en mesure de vous contacter si vous finissez par être sélectionné !",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Travailler pour PreMiD",
 		"description": "First part of the jobs page."
@@ -11,6 +47,10 @@
 		"message": "Offres d'emploi",
 		"description": "Text before the available job positions cards."
 	},
+	"jobs.benefits.title": {
+		"message": "Avantages de haut niveau",
+		"description": "Text before the benefits cards."
+	},
 	"jobs.benefit1.title": {
 		"message": "Rencontrez-nous",
 		"description": "Benefit card title."
@@ -18,6 +58,10 @@
 	"jobs.benefit1.description": {
 		"message": "Prenez contact avec les personnes qui sont derrière PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Aperçu",
+		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
 		"message": "Jetez un coup d'oeil sur notre développement et notre marketing.",
@@ -27,6 +71,10 @@
 		"message": "Honneur",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.description": {
+		"message": "Autorisations Discord puissantes et un rôle coloré.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
 		"message": "Soutenir PreMiD",
 		"description": "Benefit card title."
@@ -34,6 +82,10 @@
 	"jobs.benefit4.description": {
 		"message": "Avec votre contribution, il est possible de réaliser ce projet.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Délai d'attente",
+		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
 		"message": "Prenez votre temps, c'est du bénévolat.",
@@ -46,5 +98,13 @@
 	"jobs.benefit6.description": {
 		"message": "Être en mesure de tester de nouvelles fonctionnalités avant toute autre personne.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Merci d'avoir postulé !",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Vous avez déjà postulé !",
+		"description": "Notification when you applied already."
 	}
 }

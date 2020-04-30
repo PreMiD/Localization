@@ -1,1 +1,6 @@
-{}
+{
+    "twitter.viewDms": {
+        "message": "Privát üzenetek megtekintése",
+        "description": ""
+    }
+}

@@ -8,7 +8,7 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "La actualización automática ahora es algo real",
+    "message": "Soporte para actualizaciones automáticas",
     "description": ""
   },
   "extension.2.0.new4": {
@@ -36,7 +36,7 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Muchos errores (des)conocidos se escaparon",
+    "message": "Muchos errores (des)conocidos fueron corregidos",
     "description": ""
   },
   "extension.2.0.fix2": {

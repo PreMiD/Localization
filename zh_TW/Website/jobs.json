@@ -1,1 +1,98 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "申請 {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "步驟 {0}/2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "下一個",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "取消",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "請填寫所有的欄位",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD是一個開源項目，這意味著我們是一個非營利團隊，每筆捐款或贊助資金都將回饋到產品中。 通過在PreMiD申請工作職位，您承認您在團隊中擔任志願人員，因此您不會獲得工作報酬。",
+		"description": "Notice for applicants."
+	},
+	"jobs.header.title": {
+		"message": "爲我們工作",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "您準備好幫助最大的Rich-Presence庫嗎？",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "職位空缺",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "高級福利",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "跟我們見面",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "與PreMiD背後的人員聯繫。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "潛行看看",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "看看我們的開發和營銷。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "榮譽",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "強大的Discord權限和豐富多彩的用戶組。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "支持 PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "通過您的貢獻，我們才可以成功執行此項目。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "彈性工時",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "不用急. 這是自願工作.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "搶先體驗",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "能夠在其他任何人之前測試新功能。",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "感謝您的申請!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "你之前已經申請過了!",
+		"description": "Notification when you applied already."
+	}
+}

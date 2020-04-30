@@ -11,6 +11,10 @@
     "message": "Ez az állapotüzenet nagyon népszerű a felhasználók körében.",
     "description": "Presence card popular flame"
   },
+  "store.cards.partner": {
+    "message": "Egy hivatalos PreMiD partner állapotüzenete.",
+    "description": "Presence card partner flame"
+  },
   "store.cards.extraStepsRequired": {
     "message": "Ez az állapotüzenet további lépéseket igényel, további információkért, kérjük látogasd meg az oldalt.",
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
@@ -46,6 +50,10 @@
   "store.category.filters.allowAdult": {
     "message": "Felnőtt tartalom engedélyezése",
     "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Csak kedvelt állapotüzenetek",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "Kategóriák",

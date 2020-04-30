@@ -1,1 +1,74 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Viendo la biblioteca de películas",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Viendo la biblioteca de series",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Viendo los últimos episodios",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Viendo los 100 mejores",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Viendo las tendencias",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Viendo Torrents de Aplicaciones",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Viendo Torrents de Documentales",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Viendo Torrents de Juegos",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Viendo Torrents de Películas",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Viendo Torrents de Música",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Viendo Otros Torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Viendo Torrents de TV",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Viendo Torrents XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Subiendo algo...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Leyendo las reglas",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Escribiendo a 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Leyendo sobre 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Viendo torrent:",
+        "description": ""
+    }
+}

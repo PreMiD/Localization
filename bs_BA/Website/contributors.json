@@ -1,18 +1,18 @@
 {
-  "contributors.headings.staff": {
-    "message": "Osoblje",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Podržavaoci",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Prevoditelji",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Kreator",
-    "description": "'Creator' title for contributors and user pages."
-  }
+	"contributors.headings.staff": {
+		"message": "Osoblje",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Podržavaoci",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Prevoditelji",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Kreator",
+		"description": "'Creator' title for contributors and user pages."
+	}
 }

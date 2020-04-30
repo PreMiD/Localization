@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Schaut aktuell eine Werbung",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Durchstöbert Videos",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Durchstöbert Playlists",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Betrachtet Community-Beiträge",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "von Kanal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Lesen über Kanal:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Kanal durchsuchen: {0} für:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Betrachtet die Trends",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Durchsuchen",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "dessen Abonnements",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "dessen Bibliothek",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "dessen Verlauf",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "dessen Käufe",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Anzeigen dessen Berichtsverlaufs",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Ladet etwas hoch...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Alle Playlisten anzeigen",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Live-Events anzeigen",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Live-Dashboard anzeigen",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Audio-Bibliothek anzeigen",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videos anzeigen",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Bearbeiten von Videos:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Videoanalytik anzeigen:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Kommentare anschauen:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Videoübersetzungen anzeigen:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Betrachtet seine",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanalanalytik",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal-Kommentare",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanalübersetzungen",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "künstlerseite",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Dashboard anzeigen",
+        "description": ""
+    }
+}

@@ -104,11 +104,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Sociales",
+		"message": "Social",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Vídeos y Directos",
+		"message": "Vídeos y Transmisiones",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

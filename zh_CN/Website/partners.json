@@ -1,10 +1,126 @@
 {
-  "partners.apply.select.other": {
-    "message": "其他",
-    "description": "Select 'Other' category."
-  },
-  "partners.apply.form.name": {
-    "message": "名称",
-    "description": "Name filed."
-  }
+	"partners.header.title": {
+		"message": "合作伙伴",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "加入并获得一些仅限合作伙伴才有的豪华待遇来让您出类拔萃！",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "已有的合作伙伴，您也可以加入进来！",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "这里到底是第几层",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "完全免费",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "我们的团队将为您的服务免费开发 Presence 。",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "获得验证",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "在我们的 Discord 服务器上将给您一个特殊的身份组和极大的荣誉。",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "自动集成",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "当有人访问您的网站时，自动启用您的 Presence 。",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "让人铭记",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "在我们的伙伴页面上挑个地方。",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "脱颖而出",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "成为我们的精选应用",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "听起来不错，但……",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "我们需要的是什么？",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "我们关注日益增长的社区，关注互联网周围令人振奋的事情。 TL;DR 您应该已经在使用 PreMiD 并准备好将它传播到更多地方。 对该计划的接受是非常定性的，并且从一个候选人到下一个候选人都会有所不同。",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "一点小要求",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "我们目前正在接受各种努力成为我们合作伙伴的方案，任何人都应该有机会被注意到。您的 Twitch 至少应该有500个关注者和至少3个实时观众，并且您每周必须至少开台一次。",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "现在申请 ！",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "让我们一起来到最高层！",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "如果您对在 PreMiD 的直接作业感兴趣，请查看我们的 **工作机会**。",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "赞助者",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "如果没有这些惊人的事物，PreMiD 不可能存在。",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "这就是你观看动画的方式。",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings 是在浏览器中游玩的一种快节奏的 PvP 竞技游戏。",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat 是一家非营利性的国际电台，它努力提供不停、优质的广播和娱乐新闻。",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "玩家赚取收入的平台。",
+		"description": "Description for iLoot."
+	},
+	"partners.apply.select.other": {
+		"message": "其他",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "名称",
+		"description": "Name filed."
+	},
+	"partners.apply.success": {
+		"message": "感谢您的申请！",
+		"description": "Success message when applying."
+	}
 }

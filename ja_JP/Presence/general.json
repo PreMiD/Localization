@@ -43,12 +43,24 @@
         "message": "マンガ",
         "description": ""
     },
+    "general.page": {
+        "message": "ページ",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "一時停止中",
+        "description": ""
+    },
     "general.reading": {
         "message": "閲覧中",
         "description": ""
     },
     "general.search": {
         "message": "検索中",
+        "description": ""
+    },
+    "general.shopCart": {
+        "message": "ショッピングカート",
         "description": ""
     },
     "general.store": {

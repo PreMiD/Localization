@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Melihat halaman:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dokumen",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Melihat presence:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Beranda",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Kontributor",
         "description": "A page name"
@@ -11,12 +27,44 @@
         "message": "Toko",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Kebijakan Cookie",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Kebijakan pribadi",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Ketentuan Layanan",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
     },
+    "premid.pageAbout": {
+        "message": "Tentang",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "Instalasi",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Pemecahan masalah",
+        "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Memulai",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "Pengembangan Presence",
         "description": "A page name"
     }
 }

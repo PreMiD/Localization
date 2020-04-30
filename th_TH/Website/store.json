@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "ไม่ได้เชื่อมต่อกับส่วนขยาย",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "ผู้สร้าง",
     "description": "Creator of a presence"
@@ -6,6 +10,14 @@
   "store.cards.popular": {
     "message": "พรีเซ้นนี้เป็นที่นิยมมากในหมู่ผู้ใช้",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "Presence ของพาร์ทเนอร์อย่างเป็นทางการของ PreMiD",
+    "description": "Presence card partner flame"
+  },
+  "store.cards.extraStepsRequired": {
+    "message": "Presence นี้ต้องการขั้นตอนพิเศษในการทำงาน โปรดตรวจสอบข้อมูลเพิ่มเติม",
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
   },
   "store.cards.verified": {
     "message": "Presence นี้ได้รับการอนุมัติจากผู้พัฒนาแล้ว",
@@ -39,6 +51,10 @@
     "message": "เนื้อหาสำหรับผู้ใหญ่",
     "description": "Adult content checkbox"
   },
+  "store.category.filters.likedOnly": {
+    "message": "ต้องเป็น Presences เท่านั้น",
+    "description": "Liked presences only checkbox"
+  },
   "store.category.heading": {
     "message": "หมวดหมู่",
     "description": "Category heading"
@@ -70,5 +86,13 @@
   "store.search": {
     "message": "ค้นหา",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "กดปุ่ม Enter",
+    "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.search.removeFilter": {
+    "message": "คลิกเพื่อลบตัวกรอง",
+    "description": "Remove message for active search filters."
   }
 }

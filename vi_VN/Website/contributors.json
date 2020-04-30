@@ -1,50 +1,50 @@
 {
-  "contributors.headings.staff": {
-    "message": "Đội ngũ",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Người hỗ trợ",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Phiên dịch viên",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Tác giả",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Nhà phát triển website",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Quản lý cộng đồng",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Người quản lý chính",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Người kiểm duyệt",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Quản lý ticket",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Người ủng hộ",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Phiên dịch viên",
-    "description": "'Translator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "Đội ngũ",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Người hỗ trợ",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Phiên dịch viên",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Tác giả",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Điều hành viên",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Người xác nhận trạng thái",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Người đọc thử",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Người quyên góp",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Phiên dịch viên",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Bấm vào để copy ID người dùng.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID người dùng đã được copy!",
+		"description": "Notification after user ID was copied."
+	}
 }

@@ -1,1 +1,6 @@
-{}
+{
+	"spotify.bestPodcasts": {
+		"message": "Parhaat podcastit",
+		"description": ""
+	}
+}

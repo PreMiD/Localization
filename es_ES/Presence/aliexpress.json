@@ -1,1 +1,66 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Viendo tienda:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Centro de Mensajes",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Navegando por la subasta",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Viendo sus recientes",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "productos vistos",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Viendo su AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Comentarios de AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Viendo sus pedidos",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Viendo su",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Reembolsos y Disputas",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "pedidos eliminados",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Centro de Comercio de AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Viendo sus cupones",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Viendo su dirección",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Centro de Ayuda de AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Centro de Ventas de AliExpress",
+        "description": ""
+    }
+}

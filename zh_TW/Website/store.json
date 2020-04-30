@@ -1,4 +1,8 @@
 {
+  "store.message.error": {
+    "message": "插件尚未連接",
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+  },
   "store.cards.creator": {
     "message": "創建者",
     "description": "Creator of a presence"
@@ -6,6 +10,10 @@
   "store.cards.popular": {
     "message": "這個presence 非常受我們用戶歡迎",
     "description": "Presence card popular flame"
+  },
+  "store.cards.partner": {
+    "message": "PreMiD的官方合作夥伴。",
+    "description": "Presence card partner flame"
   },
   "store.cards.extraStepsRequired": {
     "message": "這種 presence 需要額外的步驟才能工作，請查看其頁面以獲取更多信息。",
@@ -42,6 +50,10 @@
   "store.category.filters.allowAdult": {
     "message": "允許成人内容",
     "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "僅喜歡的 presences",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "類別",

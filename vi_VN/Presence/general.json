@@ -7,24 +7,212 @@
         "message": "Đang duyệt...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Chương",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Đang chỉnh sửa:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Tập",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Diễn đàn",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Thể loại",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Đang nghe nhạc",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Thính giả",
         "description": ""
     },
     "general.live": {
         "message": "Trực tiếp",
         "description": ""
     },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Merch",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Trang",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Tạm dừng",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Đang phát",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Đang đọc DMs từ:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Đang đọc về:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Đang đọc bài báo:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Đang đọc trong kênh:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Đang đọc bài đăng:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Đang đọc chủ đề:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Đang đọc",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Đang tìm kiếm:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Đang tìm gì đó...",
         "description": ""
     },
     "general.search": {
         "message": "Đang tìm kiếm",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Giỏ hàng",
+        "description": ""
+    },
     "general.store": {
         "message": "Cửa hàng",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Nhập DMs cho:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Đang nhập trong kênh:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Xem anime:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Đang xem danh mục:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Đang xem kênh:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Đang xem tập:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Đang xem thể loại:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Đang xem trang chủ",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Đang xem danh sách của:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Đọc manga:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Những người cùng xem:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Đang xem phim:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Đang xem danh sách phát:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Đang xem sản phẩm:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Đang xem hồ sơ của:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Đang xem chương trình:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Đang xem tài khoản của họ",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Đang xem chủ đề:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Đang xem người dùng:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Đang xem:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Đang xem video",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Đang xem livestream",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Đang xem:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Danh sách yêu thích:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Chính sách bảo mật",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Điều khoản sử dụng",
+        "description": "A page name"
     }
 }

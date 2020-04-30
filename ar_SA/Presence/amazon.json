@@ -1,1 +1,70 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "يشاهد الاشتراكات",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "يشاهد الإعلانات الخاصة بهم",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "يشاهد رصيدهم",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "يشاهد طرق الدفع",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "يشاهد عناوينهم",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "يشاهد حيواناتهم الأليفة",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "يشاهد جميع التصنيفات",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "يشاهد أمازون برايم",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "سجل الطلبات",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "تفاصيل الطلب",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "عربة التسوق",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "قائمة الأمنيات",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "بطاقات هدايا",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "يشاهد الموصى بها",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "يشاهد التاريخ الخاص به",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "يشاهد المتجر:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "يشاهد الفيديو البرايم:",
+        "description": ""
+    }
+}

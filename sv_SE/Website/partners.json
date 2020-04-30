@@ -1,10 +1,210 @@
 {
-  "partners.apply.select.other": {
-    "message": "Annat",
-    "description": "Select 'Other' category."
-  },
-  "partners.apply.form.name": {
-    "message": "Namn",
-    "description": "Name filed."
-  }
+	"partners.header.title": {
+		"message": "PARTNERS",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Gå med i familjen och få några partner-exklusiva fördelar för att visa upp hur mycket swag du har.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Dessa hör redan till oss",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Vad sägs om att gå till himlen istället för helvetet?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Din gratis presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Vårt team kommer att förse dig med en Presence till din webbplats.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Bli verifierad",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "En särskild roll och stor ära kommer att ges till dig i vår Discord-server.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integration",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Aktivera din Presence automatiskt när någon besöker din webbplats.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Bli förevigad",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "En otäck plats på vår partnersida.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Bli känd",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Synas på våra sociala medier.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "KRAV",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Vad letar vi efter?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Vi håller utkik efter växande samhällen och spännande saker runt om på internet. TL;DR du bör redan använda PreMiD och vara redo att sprida den till ännu fler internet freaks. Antagningen i programmet är extremt kvalitativ och kommer att variera från en kandidat till en annan.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Vår brandvägg",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Vi accepterar för närvarande olika typer av folk i vårt partnerprogram. Vem som helst bör ha chansen att bli uppmärksammad. Twitch-streamers bör ha minst 500 följare och minst 3 tittare samtidigt. Du måste streama minst 1 gång per vecka.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Ansök nu!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Nu drar vi till himlen tillsammans!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Om du är däremot är intresserad i ett direktjobb på PreMiD, ta en titt på våra **jobbannonser**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "SPONSORER",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD vore inte möjligt utan dessa fantastiska människor.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Det är så du tittar på anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings är en ny generation av fartfylld PvP Arena Game spelas i webbläsaren.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat är en ideell internationell radio som strävar efter att erbjuda en non-stop, kvalitativ radio och nyhetsupplevelse.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.bitRock": {
+		"message": "Ett kraftfullt och lättanvänt verktyg för att skapa plattformsoberoende installationsprogram.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Kommunicera enkelt realtidsstatus till dina användare.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "Smidig översättningslösning för teknikföretag.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Den mest kraftfulla och utbyggbara Wiki programvara med öppen källkod.",
+		"description": "Description for WikiJS."
+	},
+	"partners.apply.title": {
+		"message": "Ansök om partnerskap",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Inloggad som {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Inte du?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Vänligen välj en",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Webbplats",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Annat",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Namn",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Länk",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Beskrivning: (Max 150 tecken)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Beskrivning för utvalda",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Bildlänk: (550x300, endast PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ex: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Stäng",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Verkställ",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Tack för din ansökan!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Var vänlig fyll i alla fält.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maximalt 150 tecken i beskrivningen.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Lägg till en länk (måste börja med https:// och avsluta med .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Du har redan ansökt om partnerskap.",
+		"description": "Error when already applied."
+	}
 }

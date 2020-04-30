@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Tahtaya bakıyor:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Pine bakıyor",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Takip ettiklerine bakıyor",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Anasayfasını düzenliyor",
+        "description": ""
+    }
+}

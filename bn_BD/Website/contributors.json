@@ -1,50 +1,34 @@
 {
-  "contributors.headings.staff": {
-    "message": "কাজের বুয়া",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "দানার",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "ট্রান্সলেটরস",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "ওয়েবসাইট ডেভেলপার",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "কমিউনিটি ম্যানেজার",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "হেড মডারেটর",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "মডারেটর",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "টিকেট ম্যানেজার",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "দানের",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "বুস্টার",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "ট্রান্সলেটর",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "অ্যাডমিন",
-    "description": "'Administrator' title for contributors page."
-  }
+	"contributors.headings.staff": {
+		"message": "কাজের বুয়া",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "দানার",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "ট্রান্সলেটরস",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "সিনিয়র মডারেটর",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "মডারেটর",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "দানের",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "বুস্টার",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "ট্রান্সলেটর",
+		"description": "'Translator' title for contributors page."
+	}
 }

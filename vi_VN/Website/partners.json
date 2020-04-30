@@ -1,6 +1,194 @@
 {
-  "partners.apply.select.other": {
-    "message": "Khác",
-    "description": "Select 'Other' category."
-  }
+	"partners.header.title": {
+		"message": "ĐỐI TÁC",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Tham gia và có cơ hội nhận được những lợi ích dành riêng cho đối tác để khoe bạn ngầu như thế nào.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Những thứ này thuộc về chúng tôi",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Tại sao không thăng thiên thay vì độn thổ?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Trạng thái miễn phí",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Đội ngũ của chúng tôi sẽ cung cấp một trạng thái cho dịch vụ web của bạn.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Trở thành người được xác minh",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Một role đặc biệt và vinh dự sẽ được trao cho bạn trong server Discord của chúng tôi.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Tích hợp thẻ Meta",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Tự động bật trạng thái của bạn khi ai đó đang ghé thăm website của bạn.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Trở nên bất tử",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Một nơi riêng biệt dành cho các đối tác.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Trở nên nổi tiếng",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Được giới thiệu trên mạng xã hội của chúng tôi.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "YÊU CẦU",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Chúng tôi đang tìm kiếm đều gì?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Tường lửa",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Chúng tôi hiện tại đang chấp nhận đa dạng những cách để vào chương trình đối tác của chúng tôi. Mọi người nên có cơ hội được để ý. Streamer Twitch nên có ít nhất 500 người theo dõi và ít nhất 3 lượt xem đồng thời. Bạn phải stream ít nhất 1 lần trên tuần.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Áp dụng ngay!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Hãy đi thăng thiên cùng nhau nào!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "NGƯỜI TÀI TRỢ",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD sẽ không có thể nếu không có những con người tuyệt vời này.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Đây là cách bạn nên xem anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings là một game đấu trường PvP với nhịp độ nhanh thế hệ tiếp theo được chơi trên trình duyệt.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat là một radio phi lợi nhuận với mục tiêu phấn đấu để cung cấp radio chất lượng, không ngừng nghỉ và tin tức giải trí.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Nền tảng lợi nhuận cho game thủ.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Một nền tảng mạnh mẽ và dễ dùng trong việc tạo những gói cài đặt đa nền tảng.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Dễ dàng giao tiếp trạng thái thời gian thực với người dùng của bạn.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.crowdin": {
+		"message": "Dịch vụ dịch thuật hóa nhanh nhẹn cho các công ty công nghệ.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Phần mềm Wiki mã nguồn mở mạnh và mở rộng rất.",
+		"description": "Description for WikiJS."
+	},
+	"partners.apply.title": {
+		"message": "Đăng ký cho đối tác",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Đăng nhập với {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Không phải bạn?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Hãy chọn một",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Website",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Khác",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ví dụ: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Link",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ví dụ: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Mô tả: (Tối đa 150 ký tự)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Mô tả cho người được giới thiệu",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Link hình ảnh (550x300, chỉ được PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ví dụ: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Đóng",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Áp dụng",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "Hãy hoàn thành các mẫu điền.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Tối đa 150 ký tự cho phần miêu tả.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Hãy thêm một link (phải bắt đầu bằng https:// và kết thúc với .png)",
+		"description": "Error when image link is entered wrong."
+	}
 }

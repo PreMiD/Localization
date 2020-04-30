@@ -1,1 +1,42 @@
-{}
+{
+  "beta.title": {
+    "message": "Vill du ha nya funktioner?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** finns nu tillgängligt för alla!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Vad får du om du anmäler dig?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "De senaste funktionerna",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Tillgång till PreMiDs superhemliga textkanaler",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "En särskild roll på vår Discord-server",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Känner du dig redo? Gå med i {0} andra Beta-testare!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Registrera dig nu!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Coolt! Du är nu en beta-användare!",
+    "description": "Thank You page title"
+  },
+  "thankyou.description": {
+    "message": "Våra apor arbetar på att få dig in i vårt beta-program så fort som möjligt. Tack för att du registrerar dig!",
+    "description": "Thank You page description"
+  }
+}

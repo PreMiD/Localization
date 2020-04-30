@@ -1,1 +1,58 @@
-{}
+{
+	"spotify.featured": {
+		"message": "الأغاني المميزة",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "أفضل البثوث صوتي",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "يشاهد الرسوم البيانية",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "يتصفح من خلال الأنواع",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "يشاهد أحدث الإصدارات",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "يكتشف أغاني جديدة",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "يتصفح من خلال",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasts التي يحبها",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "الفنانين الذين يحب",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "الألبومات التي يحبها",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "الأغاني التي يحبها",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"صنع من أجلك\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "قوائم التشغيل الخاصة بهم",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "تحميل Spotify",
+		"description": ""
+	}
+}

@@ -7,24 +7,212 @@
         "message": "Menelusuri...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Bab",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Mengedit:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Episode",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Forum",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Aliran",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Mendengarkan musik",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Pendengar",
         "description": ""
     },
     "general.live": {
         "message": "Live",
         "description": ""
     },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Barang dagangan",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Halaman",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "Dijeda",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "Bermain",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Membaca DM dari:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Membaca tentang:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Membaca artikel:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Membaca di saluran:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Membaca pos:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Membaca thread:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Membaca",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Mencari:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Mencari sesuatu...",
         "description": ""
     },
     "general.search": {
         "message": "Mencari",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Kereta belanja",
+        "description": ""
+    },
     "general.store": {
         "message": "Toko",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Mengetik dalam DM untuk:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Mengetik dalam saluran:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Melihat anime:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Melihat kategori:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Melihat saluran:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Melihat episode:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Melihat genre:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Melihat halaman beranda",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Melihat daftar:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Melihat manga:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Melihat anggota:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Melihat film:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Melihat daftar putar:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Melihat produk:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Melihat profil:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Melihat acara:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Melihat akun mereka",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Melihat thread:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Melihat pengguna:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Melihat:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Menonton video",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Menonton streaming langsung",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Menonton:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Daftar harapan:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Kebijakan pribadi",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Ketentuan Layanan",
+        "description": "A page name"
     }
 }

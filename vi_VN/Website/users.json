@@ -14,5 +14,25 @@
 	"user.importantPresenceDev.message2": {
 		"message": "Tạo {0} trạng thái.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Những nhà phát triển trạng thái tài năng",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Tạo hơn 100 trạng thái!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Người dùng [trạng thái/đóng góp]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Bấm vào đây để hiện trạng thái người dùng này đã tạo.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Bấm vào đây để hiện trạng thái người dùng này đã đóng góp.",
+		"description": "Tippy content (mode 2) in user profile."
 	}
 }

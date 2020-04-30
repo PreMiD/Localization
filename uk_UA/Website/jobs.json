@@ -1,4 +1,40 @@
 {
+	"jobs.modal.title": {
+		"message": "Подати заявку на {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Крок {0} з 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Наступний",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Приєднуйся",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Скасувати",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Будь ласка, заповніть всі поля",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD — це проект з відкритим вихідним кодом, а це означає, що ми некомерційна команда, кожна пожертва та гроші вкладаються в наш продукт. Погоджуючись на посаду в PreMiD, ви підтверджуєте, що ви стаєте волонтером в команді і що вам нічого не заплатять.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Приєднуйтеся до нашого Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Щоб мати можливість працювати, приєднайтесь до нашого сервера Discord. В іншому випадку ми не зможемо з вами контактувати.",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Робота в PreMiD",
 		"description": "First part of the jobs page."
@@ -22,6 +58,10 @@
 	"jobs.benefit1.description": {
 		"message": "Зв'яжіться з людьми з PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Попередній перегляд до офіційного випуску",
+		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
 		"message": "Подивіться на наші Розробки і Маркетинг.",
@@ -58,5 +98,13 @@
 	"jobs.benefit6.description": {
 		"message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Дякуємо, що подали заявку!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Ви вже подали заявку раніше!",
+		"description": "Notification when you applied already."
 	}
 }

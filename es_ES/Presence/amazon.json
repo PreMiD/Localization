@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Viendo suscripciones",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Viendo su dirección",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Viendo su saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Viendo métodos de pago",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Viendo sus direcciones",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Viendo sus mascotas",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Viendo todas las categorías",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Viendo Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Viendo su",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historial de pedido",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "detalle de pedido",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "cesta de la compra",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "lista de deseados",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "tarjetas de regalo",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Viendo recomendados",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Viendo su historial",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Viendo tienda:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Viendo un Video Prime:",
+        "description": ""
+    }
+}

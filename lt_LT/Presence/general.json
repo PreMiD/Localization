@@ -122,5 +122,97 @@
     "general.viewAnime": {
         "message": "Anime peržiūra:",
         "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Peržiūrima kategorija:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Peržiūrimas kanalas:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Peržiūros serija:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Peržiūrimas žanras:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Pradinio puslapio peržiūra",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Peržiūrimas sąrašas:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Manga peržiūra:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Peržiūrimas vartotojas:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Žiūrimas filmas:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Peržiūrimas grojaraštis:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Peržiūrimas produktas:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Peržiūrimas profilis:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Peržiūrima laida:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Peržiūrima savo paskyra",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Skaito giją:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Peržiūrimas vartotojas:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Peržiūroma:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Žiūrimas vaizdo įrašas",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Stebima tiesioginė transliacija",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Žiūrima:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Pageidavimų sąrašas:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Privatumo politika",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Naudojimosi sąlygos",
+        "description": "A page name"
     }
 }

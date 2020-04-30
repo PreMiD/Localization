@@ -1,70 +1,46 @@
 {
-  "contributors.headings.staff": {
-    "message": "Ansatte",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Tilhengere",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Oversettere/Tolker",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Skaper",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "Nettstedsutvikler",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "Kretsansvarlig",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "Sjefsmoderator / Hovedmoderator",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "Moderator",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "Kølappsansvarlig",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "Donator",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Booster",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "Oversetter",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "Administrator",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.asstCommunityManager": {
-    "message": "Assisterende kretsansvarlig",
-    "description": "'Assisting Community Manager' title for contributors page."
-  },
-  "contributors.roles.jrModerator": {
-    "message": "Junior Moderator",
-    "description": "'Junior Moderator' title for contributors and user pages."
-  },
-  "contributors.cards.copyUserId": {
-    "message": "Klikk for å kopiere brukeren sin ID.",
-    "description": "Tippy message when you hover on the avatar of a credit card."
-  },
-  "contributors.cards.userIdCopied": {
-    "message": "Brukeren sin ID har blitt kopiert til utklippstavlen!",
-    "description": "Notification after user ID was copied."
-  }
+	"contributors.headings.staff": {
+		"message": "Ansatte",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Støttere",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Oversettere/Tolkere",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Skaper",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Seniormoderator",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Oversetter",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klikk for å kopiere brukeren sin ID.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Brukeren sin ID har blitt kopiert til utklippstavlen!",
+		"description": "Notification after user ID was copied."
+	}
 }

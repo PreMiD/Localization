@@ -1,6 +1,6 @@
 {
     "aliexpress.store": {
-        "message": "Vendo Loja:",
+        "message": "Visualizando loja:",
         "description": ""
     },
     "aliexpress.message": {
@@ -8,7 +8,7 @@
         "description": "Meaning Direct messages"
     },
     "aliexpress.sale": {
-        "message": "Navegando pela Loja",
+        "message": "Navegando pelo produto",
         "description": ""
     },
     "aliexpress.recentlyViewProducts1": {

@@ -1,1 +1,6 @@
-{}
+{
+	"spotify.download": {
+		"message": "กำลังดาวน์โหลด Spotify",
+		"description": ""
+	}
+}

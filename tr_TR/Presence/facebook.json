@@ -1,4 +1,12 @@
 {
+    "facebook.call": {
+        "message": "İle görüntülü aramada:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "İle görüntülü aramada:",
+        "description": ""
+    },
     "facebook.userHidden": {
         "message": "herhangi biri... (Kullanıcı gizlendi)",
         "description": "Shows when you dont want to show who you are calling/texting."
@@ -29,6 +37,14 @@
     },
     "facebook.userFriends": {
         "message": "Kullanıcının arkadaşlarına göz atıyor:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Kullanıcının videolarına bakıyor:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Göz atıyor:",
         "description": ""
     },
     "facebook.savedVids": {

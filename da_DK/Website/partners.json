@@ -1,6 +1,6 @@
 {
-  "partners.apply.select.other": {
-    "message": "Andet",
-    "description": "Select 'Other' category."
-  }
+	"partners.apply.select.other": {
+		"message": "Andet",
+		"description": "Select 'Other' category."
+	}
 }

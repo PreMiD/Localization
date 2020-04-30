@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Visualisation du tableau:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Visualisation d'une broche",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "En train de regarder ce qui suit",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Modifier leur page d'accueil",
+        "description": ""
+    }
+}

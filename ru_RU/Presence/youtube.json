@@ -1,1 +1,38 @@
-{}
+{
+    "youtube.readingChannel": {
+        "message": "Читает о канале:",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Редактирует видео:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Смотрит аналитику видео:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Смотрит комментарии под видео:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Смотрит переводы видео:",
+        "description": ""
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "аналитика канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "комментарии канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "переводы канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "страница исполнителя",
+        "description": "Part two of \"Viewing their\""
+    }
+}

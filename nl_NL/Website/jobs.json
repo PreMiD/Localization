@@ -1,4 +1,40 @@
 {
+	"jobs.modal.title": {
+		"message": "Solliciteer voor {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Stap {0} van 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Volgende",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Join",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Annuleren",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Vul alle velden in",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD is een open-source project, wat betekent dat we een non-profit team zijn, elk donatie of patreon geld gaat terug naar het product. Door te solliciteren bij PreMiD, erkent u dat u vrijwilliger bent in het team, u zult niet worden betaald voor uw werk.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Join onze Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "In order om te solliciteren moet u in onze Discord server zitten. Anders kunnen wij u niet contacteren als u wordt uitgekozen!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Werk voor PreMiD",
 		"description": "First part of the jobs page."
@@ -62,5 +98,13 @@
 	"jobs.benefit6.description": {
 		"message": "Je kunt nieuwe functies testen voordat ze uit komen.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Bedankt voor het solliciteren!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Je hebt al eerder gesolliciteerd!",
+		"description": "Notification when you applied already."
 	}
 }

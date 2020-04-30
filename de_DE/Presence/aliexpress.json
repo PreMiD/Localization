@@ -1,1 +1,66 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Betrachtet den Shop:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Nachrichtencenter",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Durchstöbert den Shop",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Schaut sich seine letzten",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "Angesehene Produkte",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Schaut sich sein AliExpress an",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress-Feedback",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Betrachtet seine Bestellungen",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Betrachtet seine",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Rückerstattungen & Streitigkeiten",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "Gelöschte Bestellungen",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Verkaufs-Center",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Betrachtet seine Gutscheine",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Betrachtet seine Adresse",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Hilfe-Center",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Verkaufs-Center",
+        "description": ""
+    }
+}

@@ -1,6 +1,46 @@
 {
+    "twitter.readTweet": {
+        "message": "Lendo um tuíte:",
+        "description": ""
+    },
     "twitter.viewDms": {
-        "message": "Vendo sua DM",
+        "message": "Vendo suas mensagens diretas",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Vendo tuítes de:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Vendo tuíte (com respostas) de:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Vendo imagens de:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Visualizando curtidas por:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Visualizando lista:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Favoritas",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Notificações",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Explorando",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Mudando algumas configurações...",
         "description": ""
     }
 }

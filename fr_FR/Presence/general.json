@@ -15,6 +15,10 @@
         "message": "DJ",
         "description": ""
     },
+    "general.editing": {
+        "message": "Modification:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Épisode",
         "description": ""
@@ -31,12 +35,20 @@
         "message": "Écouter de la musique",
         "description": ""
     },
+    "general.listeners": {
+        "message": "Auditeurs",
+        "description": ""
+    },
     "general.live": {
         "message": "Direct",
         "description": ""
     },
     "general.manga": {
         "message": "Manga",
+        "description": ""
+    },
+    "general.merch": {
+        "message": "Marchandise",
         "description": ""
     },
     "general.page": {
@@ -47,20 +59,160 @@
         "message": "En pause",
         "description": ""
     },
+    "general.playing": {
+        "message": "En train de jouer",
+        "description": ""
+    },
     "general.readingDM": {
         "message": "Regarde des MP de:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Lecture à propos de:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Lecture de l'article:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Lecture dans le canal:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Lecture du message:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Fil de lecture:",
         "description": ""
     },
     "general.reading": {
         "message": "En train de lire",
         "description": ""
     },
+    "general.searchFor": {
+        "message": "À la recherche de:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Recherche de quelque chose...",
+        "description": ""
+    },
     "general.search": {
         "message": "En train de chercher",
+        "description": ""
+    },
+    "general.shopCart": {
+        "message": "Panier",
         "description": ""
     },
     "general.store": {
         "message": "Boutique",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Tapez vos MP à:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Taper dans le canal:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Regarde un anime:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Visualisation de la catégorie:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Visualisation du canal:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Affichage de l'épisode:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Visualisation du genre:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Visualisation de la page d'accueil",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Affichage de la liste de:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Lit un manga:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Consultant le membre:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Regarde un film:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Visualisation de la playlist:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Visualisation du produit:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Visualisation du profil de:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Affichage de la série:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Visualisation de leur compte",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Affichage du fil:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Visualisation de l'utilisateur:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Regarde:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Regarde une vidéo",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Regarde un livestream",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Regarde:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Liste de souhaits:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Politique de Confidentialité",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Conditions d'utilisation",
+        "description": "A page name"
     }
 }

@@ -1,18 +1,18 @@
 {
-  "contributors.headings.staff": {
-    "message": "Henkilökunta",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "Tukijat",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "Kääntäjät",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "Tekijä",
-    "description": "'Creator' title for contributors and user pages."
-  }
+	"contributors.headings.staff": {
+		"message": "Henkilökunta",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Tukijat",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Kääntäjät",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "Tekijä",
+		"description": "'Creator' title for contributors and user pages."
+	}
 }

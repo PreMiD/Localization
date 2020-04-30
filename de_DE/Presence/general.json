@@ -15,6 +15,10 @@
         "message": "DJ",
         "description": ""
     },
+    "general.editing": {
+        "message": "Bearbeiten:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Folge",
         "description": ""
@@ -79,16 +83,136 @@
         "message": "Liest post:",
         "description": ""
     },
+    "general.readingThread": {
+        "message": "Lese-Thread:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Lesen",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Suchen nach:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Etwas suchen...",
         "description": ""
     },
     "general.search": {
         "message": "Suche",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Warenkorb",
+        "description": ""
+    },
     "general.store": {
         "message": "Store",
         "description": ""
+    },
+    "general.typeDM": {
+        "message": "Schreiben in DMs zu:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Schreibt im Kanal:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Anime ansehen:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Kategorie ansehen:",
+        "description": ""
+    },
+    "general.viewChannel": {
+        "message": "Kanal ansehen:",
+        "description": ""
+    },
+    "general.viewEpisode": {
+        "message": "Schaut Episode:",
+        "description": ""
+    },
+    "general.viewGenre": {
+        "message": "Genre ansehen:",
+        "description": ""
+    },
+    "general.viewHome": {
+        "message": "Schaut die Homepage",
+        "description": ""
+    },
+    "general.viewList": {
+        "message": "Liste anzeigen:",
+        "description": ""
+    },
+    "general.viewManga": {
+        "message": "Sieht Manga:",
+        "description": ""
+    },
+    "general.viewMember": {
+        "message": "Member ansehen:",
+        "description": ""
+    },
+    "general.viewMovie": {
+        "message": "Schaut einen Film:",
+        "description": ""
+    },
+    "general.viewPlaylist": {
+        "message": "Betrachtet eine Playlist:",
+        "description": ""
+    },
+    "general.viewProduct": {
+        "message": "Betrachtet ein Produkt:",
+        "description": ""
+    },
+    "general.viewProfile": {
+        "message": "Betrachtet ein Profil:",
+        "description": ""
+    },
+    "general.viewShow": {
+        "message": "Schaut eine Show:",
+        "description": ""
+    },
+    "general.viewAccount": {
+        "message": "Betrachtet den eigenen Account",
+        "description": ""
+    },
+    "general.viewThread": {
+        "message": "Betrachtet Thread:",
+        "description": ""
+    },
+    "general.viewUser": {
+        "message": "Betrachtet Benutzer:",
+        "description": ""
+    },
+    "general.viewing": {
+        "message": "Betrachtet:",
+        "description": ""
+    },
+    "general.watchingVid": {
+        "message": "Schaut ein Video",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "Schaut einen Livestream",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "Schaut:",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "Wunschliste:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "Datenschutzerklärung",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "Nutzungsbedingungen",
+        "description": "A page name"
     }
 }

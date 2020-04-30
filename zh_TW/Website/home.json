@@ -1,6 +1,6 @@
 {
   "home.introduction.paragraph": {
-    "message": "是一個簡單的可配置實用程序，可讓您以Discord現在播放狀態顯示您在瀏覽器上正在做什麼。",
+    "message": "**PreMiD** 是一個簡單的可配置實用程序，可讓您以Discord遊戲動態中顯示您在瀏覽器上正在做什麼。",
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
@@ -20,11 +20,15 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
   "home.examples.timestamp2": {
-    "message": "{0} 流逝",
+    "message": "過去{0} 了",
     "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.status.playing": {
     "message": "播放中",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "瀏覽中...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -44,7 +48,7 @@
     "description": "Features section button"
   },
   "home.features.simpleInterface.heading": {
-    "message": "簡單的用戶界面.",
+    "message": "簡潔的用戶界面",
     "description": "Features section subheading"
   },
   "home.features.simpleInterface.description": {
@@ -60,11 +64,11 @@
     "description": "Features section description point"
   },
   "home.features.simpleInterface.description.3": {
-    "message": "順類型排列",
+    "message": "按類別排序",
     "description": "Features section description point"
   },
   "home.features.quickSupport.heading": {
-    "message": "快捷客服.",
+    "message": "迅速的客服",
     "description": "Features section subheading"
   },
   "home.features.quickSupport.description": {

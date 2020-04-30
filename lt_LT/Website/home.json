@@ -19,8 +19,16 @@
     "message": "Liko {0}",
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
   },
-  "home.examples.playback.playing": {
+  "home.examples.timestamp2": {
+    "message": "{0} praėjo",
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+  },
+  "home.examples.status.playing": {
     "message": "Atkūrimas",
+    "description": "Discord Rich Presence -> small image text;"
+  },
+  "home.examples.status.browsing": {
+    "message": "Naršoma...",
     "description": "Discord Rich Presence -> small image text;"
   },
   "home.features.heading": {
@@ -70,5 +78,9 @@
   "home.features.quickSupport.button": {
     "message": "Apsilankykite mūsų serveryje",
     "description": "Features section button"
+  },
+  "home.languageSelector.tippy": {
+    "message": "Pasirinkite svetainės kalbą",
+    "description": "Tippy content of the language selector."
   }
 }

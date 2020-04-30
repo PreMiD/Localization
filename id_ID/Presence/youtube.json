@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Saat ini sedang menonton iklan",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Menjelajahi video",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Menjelajahi daftar putar",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Melihat pos komunitas",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "saluran:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Membaca tentang saluran:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Mencari melalui saluran: {0} untuk:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Melihat apa yang sedang tren",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Menjelajahi",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "langganan mereka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "perpustakaan mereka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "sejarah mereka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "pembelian mereka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Melihat riwayat laporan mereka",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Mengunggah sesuatu...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Melihat semua daftar putar mereka",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Melihat acara langsung mereka",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Melihat dasbor langsung mereka",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Melihat perpustakaan audio",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Melihat video mereka",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Mengedit video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Melihat analitik video:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Melihat komentar video:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Melihat terjemahan video:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Melihat mereka",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "analisis saluran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentar saluran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "terjemahan saluran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "halaman artis",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Melihat dasbo mereka",
+        "description": ""
+    }
+}

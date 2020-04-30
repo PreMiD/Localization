@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Melihat langganan",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Melihat adprefs mereka",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Melihat saldo mereka",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Melihat metode pembayaran",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Melihat alamat mereka",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Melihat hewan peliharaan mereka",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Melihat semua kategori",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Melihat Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Melihat mereka",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "sejarah pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "detail pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "kereta Belanja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "daftar harapan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kartu hadiah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Melihat direkomendasikan",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Melihat sejarah mereka",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Melihat toko:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Melihat Video Utama:",
+        "description": ""
+    }
+}

@@ -1,70 +1,86 @@
 {
-  "downloads.header.title": {
-    "message": "Il est temps de vous montrer à tout le monde.",
-    "description": "Title"
-  },
-  "downloads.header.subtitle": {
-    "message": "Commencez à utiliser PreMiD maintenant et montrez aux gens ce que vous faites, vous trouverez peut-être quelqu'un avec les mêmes centres d'intérêts.",
-    "description": "Subtitle for header"
-  },
-  "downloads.instructions.heading": {
-    "message": "Commencer",
-    "description": "Displayed at Downloads page above steps"
-  },
-  "downloads.instructions.step_1": {
-    "message": "Télécharger PreMiD.",
-    "description": "Heading for installing the application"
-  },
-  "downloads.instructions.step_2": {
-    "message": "Installer l'application PreMiD.",
-    "description": "Heading for installing the application"
-  },
-  "downloads.instructions.step_3": {
-    "message": "Installer l'extension pour votre navigateur.",
-    "description": "Heading for installing the application"
-  },
-  "downloads.instructions.step_4": {
-    "message": "Visitez la {0} et vérifiez si l'extension est connectée.",
-    "description": "{0} will be replaced by 'store' string translation"
-  },
-  "downloads.instructions.step_4_store": {
-    "message": "boutique",
-    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-  },
-  "downloads.appdownloading.header": {
-    "message": "Application",
-    "description": "Header above application download buttons."
-  },
-  "downloads.extdownloading.header": {
-    "message": "Extension",
-    "description": "Header above extension download buttons."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "message": "ATTENTION:",
-    "description": "First part of the message."
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Il n'y a pas d'installateur pour ce système d'exploitation. Cela signifie qu'il n'y a pas de support professionnel pour lui.",
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-  },
-  "downloads.mobile.errorMessage": {
-    "message": "Veuillez noter que PreMiD n'est actuellement pas pris en charge sur mobile.",
-    "description": "Downloads page warning when user is on mobile."
-  },
-  "downloads.mobile.showDownloads": {
-    "message": "Voir les téléchargements",
-    "description": "Little button on the downloads page for mobile users."
-  },
-  "downloads.mobile.hideDownloads": {
-    "message": "Cacher les téléchargements",
-    "description": "Little button on the downloads page for mobile users."
-  },
-  "downloads.warning.differentVersion": {
-    "message": "La version actuelle de cette plateforme est {0} (cette version est spécifique à Linux, et ne s'applique pas aux autres systèmes).",
-    "description": "Tippy message of the Linux card."
-  },
-  "downloads.warning.differentVersion2": {
-    "message": "Cette version est spécifique à Linux et ne s'applique pas aux autres systèmes. La version principale de l'application est {0}",
-    "description": "Tippy message of the version number when user is on Linux."
-  }
+	"downloads.header.title": {
+		"message": "Il est temps de vous montrer à tout le monde.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Commencez à utiliser PreMiD maintenant et montrez aux gens ce que vous faites, vous trouverez peut-être quelqu'un avec les mêmes centres d'intérêts.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Commencer",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Télécharger PreMiD.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Installer l'application PreMiD.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Installer l'extension pour votre navigateur.",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Visitez la {0} et vérifiez si l'extension est connectée.",
+		"description": "{0} will be replaced by 'store' string translation"
+	},
+	"downloads.instructions.step_4_store": {
+		"message": "boutique",
+		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Application",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Extension",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "ATTENTION:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Il n'y a pas d'installateur pour ce système d'exploitation. Cela signifie qu'il n'y a pas de support professionnel pour lui.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Veuillez noter que PreMiD n'est actuellement pas pris en charge sur mobile.",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Voir les téléchargements",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Cacher les téléchargements",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "La version actuelle de cette plateforme est {0} (cette version est spécifique à Linux, et ne s'applique pas aux autres systèmes).",
+		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Cette version est spécifique à Linux et ne s'applique pas aux autres systèmes. La version principale de l'application est {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Veuillez vous connecter afin de voir les téléchargements.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Oh oh, il semble que vous n'avez pas accès à la alpha/bêta :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Vous pouvez rejoindre notre programme bêta gratuitement **ici**. Dépêchez-vous ! Nous n'avons que {0} places disponibles (sur 200)",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Dernières versions",
+		"description": "Header above alpha/beta download buttons."
+	}
 }

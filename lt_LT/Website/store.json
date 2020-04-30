@@ -11,6 +11,10 @@
     "message": "Šis statusas yra labai populiarus tarp vartotojų.",
     "description": "Presence card popular flame"
   },
+  "store.cards.partner": {
+    "message": "Statusas oficialaus PreMiD partnerio.",
+    "description": "Presence card partner flame"
+  },
   "store.cards.extraStepsRequired": {
     "message": "Šiam statusui reikia papildomų veiksmų. Patikrinkite jo puslapį, kad gautumėte daugiau informacijos.",
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
@@ -46,6 +50,10 @@
   "store.category.filters.allowAdult": {
     "message": "Leisti turinį suaugusiesiems",
     "description": "Adult content checkbox"
+  },
+  "store.category.filters.likedOnly": {
+    "message": "Tik patikę statusai",
+    "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
     "message": "Kategorijos",

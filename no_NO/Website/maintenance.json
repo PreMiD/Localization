@@ -1,6 +1,6 @@
 {
   "maintenance.big": {
-    "message": "Maintenance Pågår",
+    "message": "Vedlikehold pågår",
     "description": "The big text on maintenance page"
   },
   "maintenance.heading": {
@@ -16,7 +16,7 @@
     "description": "Message on maintenance page"
   },
   "maintenance.statuspage": {
-    "message": "Status Side",
+    "message": "Statusside",
     "description": "Status Page link on maintenance page"
   },
   "maintenance.discordserver": {

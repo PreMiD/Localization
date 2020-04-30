@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Regarde les abonnements",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Visualisation de leurs adprefs",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Visualisation de leur solde",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Regarde les méthodes de paiement",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Regarde ses adresses",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Voir leurs animaux de compagnie",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Regarde toutes les catégories",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Regarde Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "En train de regarder leur",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historique des commandes",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "﻿Détails de la commande",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "panier",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "liste de souhaits",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "cartes-cadeaux",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Visualisation recommandée",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Visualisation de leur historique",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Vue de la boutique:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Regarde Prime Video :",
+        "description": ""
+    }
+}

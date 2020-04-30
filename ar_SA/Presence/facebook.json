@@ -1,1 +1,62 @@
-{}
+{
+    "facebook.call": {
+        "message": "في مكالمة مع:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "في مكالمة فيديو مع:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "شخص ما... (مخفي)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "يكتب رسالة",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "يقرئ عن المستخدم:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "يشاهد مجتمع المستخدم:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "يشاهد الصور المستخدم:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "يشاهد منشورات المستخدم:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "يشاهد متجر المستخدم:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "يشاهد أصدقاء المستخدم:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "يشاهد فيديوهات المستخدم:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "يتصفح من خلال:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "الفيديوهات المحفوظه",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "تم إضافتها حديثًا",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "يشاهد طقس اليوم",
+        "description": ""
+    }
+}

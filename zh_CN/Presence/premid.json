@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "浏览页面：",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "文档",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "查看 Presence：",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "首页",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "贡献者",
         "description": "A page name"
@@ -11,8 +27,24 @@
         "message": "Presence 市场",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Cookie 政策",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "隐私条款",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "服务条款",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "维基",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "关于",
         "description": "A page name"
     },
     "premid.pageSysReq": {
@@ -28,7 +60,7 @@
         "description": "A page name"
     },
     "premid.pageStart": {
-        "message": "正在开始",
+        "message": "入门指南",
         "description": "A page name"
     },
     "premid.pageApi": {

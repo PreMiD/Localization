@@ -1,4 +1,28 @@
 {
+  "store.search.notFound": {
+    "message": "Kami tidak dapat menemukan presence itu.",
+    "description": "Search result text when nothing's found"
+  },
+  "error.code.404": {
+    "message": "Maaf, kami tidak dapat menemukan halaman ini.",
+    "description": "Error (404) message"
+  },
+  "error.code.4": {
+    "message": "Maaf, kami tidak dapat menemukan halaman ini. Anda mencari presence yang tidak ada atau dihapus.",
+    "description": "Error (4) message"
+  },
+  "error.code.500": {
+    "message": "Kesalahan server internal telah terjadi.",
+    "description": "Error (500) message"
+  },
+  "error.page.details": {
+    "message": "Detail",
+    "description": "'Details' text on error page container"
+  },
+  "error.page.button": {
+    "message": "Kembali ke beranda",
+    "description": "Button on the error page"
+  },
   "user.notFound.heading": {
     "message": "Pengguna tersebut tidak dapat ditemukan. Coba pastikan:",
     "description": "Error when user couldn't be found."

@@ -1,70 +1,46 @@
 {
-  "contributors.headings.staff": {
-    "message": "スタッフ",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.supporters": {
-    "message": "サポーター",
-    "description": "Heading for group of users."
-  },
-  "contributors.headings.translators": {
-    "message": "翻訳者",
-    "description": "Heading for group of users."
-  },
-  "contributors.roles.creator": {
-    "message": "作者",
-    "description": "'Creator' title for contributors and user pages."
-  },
-  "contributors.roles.websiteDeveloper": {
-    "message": "ウェブサイトデベロッパー",
-    "description": "'Website Developer' title for contributors and user pages."
-  },
-  "contributors.roles.communityManager": {
-    "message": "コミュニティマネージャー",
-    "description": "'Community Manager' title for contributors and user pages."
-  },
-  "contributors.roles.headModerator": {
-    "message": "主任モデレーター",
-    "description": "'Head Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.moderator": {
-    "message": "モデレーター",
-    "description": "'Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.ticketManager": {
-    "message": "チケットマネージャー",
-    "description": "'Ticket Manager' title for contributors and user pages."
-  },
-  "contributors.roles.donator": {
-    "message": "寄付者",
-    "description": "'Donator' title for contributors page."
-  },
-  "contributors.roles.booster": {
-    "message": "Nitroブースター",
-    "description": "'Booster' title for contributors page and user pages."
-  },
-  "contributors.roles.translator": {
-    "message": "翻訳者",
-    "description": "'Translator' title for contributors page."
-  },
-  "contributors.roles.administrator": {
-    "message": "管理者",
-    "description": "'Administrator' title for contributors page."
-  },
-  "contributors.roles.asstCommunityManager": {
-    "message": "コミュニティマネージャーのアシスタント",
-    "description": "'Assisting Community Manager' title for contributors page."
-  },
-  "contributors.roles.asstHeadModerator": {
-    "message": "主任モデレーターのアシスタント",
-    "description": "'Assisting Head Moderator' title for contributors page."
-  },
-  "contributors.roles.jrModerator": {
-    "message": "ジュニアモデレーター",
-    "description": "'Junior Moderator' title for contributors and user pages."
-  },
-  "contributors.roles.proofreader": {
-    "message": "校正者",
-    "description": "'Proofreader' title for contributors and user pages."
-  }
+	"contributors.headings.staff": {
+		"message": "スタッフ",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "サポーター",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "翻訳者",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.creator": {
+		"message": "作者",
+		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "上級モデレーター",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "モデレーター",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "プレゼンステスター",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "校正者",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "寄付者",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Nitroブースター",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "翻訳者",
+		"description": "'Translator' title for contributors page."
+	}
 }

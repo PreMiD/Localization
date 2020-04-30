@@ -11,6 +11,10 @@
         "message": "Ürünler arasında dolaşıyor",
         "description": ""
     },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Son göz attıklarına bakıyor",
+        "description": "Part 1 of 2"
+    },
     "aliexpress.recentlyViewProducts2": {
         "message": "görüntülenmiş ürünler",
         "description": "Part 2 of 2"
@@ -26,6 +30,14 @@
     "aliexpress.orders": {
         "message": "Siparişlerine göz atıyor",
         "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Görüntülüyor",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "İadeler & İtirazlar",
+        "description": "Part 2 of \"Viewing their\""
     },
     "aliexpress.deletedOrders": {
         "message": "silinmiş siparişler",

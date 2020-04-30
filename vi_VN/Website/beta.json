@@ -1,4 +1,40 @@
 {
+  "beta.title": {
+    "message": "Bạn muốn những tính năng mới?",
+    "description": "Beta page title"
+  },
+  "beta.description.1": {
+    "message": "**PreMiD Beta** bây giờ đã có mặt cho mọi người!",
+    "description": "Section description"
+  },
+  "beta.description.2": {
+    "message": "Bạn sẽ được gì khi bạn đăng ký?",
+    "description": "Section description"
+  },
+  "beta.features.1": {
+    "message": "Những tính năng mới nhất",
+    "description": "Features list"
+  },
+  "beta.features.2": {
+    "message": "Truy cập vào những kênh chat riêng tư của PreMiD",
+    "description": "Features list"
+  },
+  "beta.features.3": {
+    "message": "Một role đặc biệt trong server Discord của chúng tôi",
+    "description": "Features list"
+  },
+  "beta.register.text": {
+    "message": "Sẵn sàng chưa? Gia nhập cùng {0} người dùng Beta khác!",
+    "description": "{0} will be replaced with the beta testers count -> is a variable"
+  },
+  "beta.register.button": {
+    "message": "Đăng ký ngay!",
+    "description": "Sign up button text"
+  },
+  "thankyou.title": {
+    "message": "Tuyệt vời! Bạn bây giờ là một người dùng Beta!",
+    "description": "Thank You page title"
+  },
   "thankyou.description": {
     "message": "Lũ khỉ của công ty chúng tôi đang cố gắng đưa bạn vào chương trình thử nghiệm trước nhanh nhất có thể. Cảm ơn bạn vì đã đăng ký!",
     "description": "Thank You page description"
