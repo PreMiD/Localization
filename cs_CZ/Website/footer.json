@@ -51,6 +51,10 @@
 		"message": "Přeložit",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Pracujte pro nás!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Pomoc",
 		"description": "Help section"
@@ -98,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "Web spravuje {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klikněte zde pro zobrazení ostatních partnerů a sponzorů.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
