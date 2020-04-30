@@ -1,86 +1,86 @@
 {
-	"downloads.header.title": {
-		"message": "זמן להראות אותך לכולם.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "התחל להשתמש בPreMiD עכשיו והראה לאחרים מה אתה עושה, אולי תמצא מישהו עם תחומי עניין משותפים.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "התחל",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "הורד את PreMiD.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "הורד את היישום של PreMiD.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "הורד את התוסף לדפדפן שלך.",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "בקר בדף ה{0} ובדוק אם התוסף מחובר.",
-		"description": "{0} will be replaced by 'store' string translation"
-	},
-	"downloads.instructions.step_4_store": {
-		"message": "חנות",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
-	},
-	"downloads.appdownloading.header": {
-		"message": "יישום",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "תוסף",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "אזהרה:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} אין התקנה עבור מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "לידיעתך, PreMiD אינו נתמך כרגע בנייד.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "להראות הורדות",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "להסתיר הורדות",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "הגרסה הנוכחית של פלטפורמה זו היא {0} (גרסה זו ספציפית ל- Linux ואינה חלה על מערכות אחרות).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "גרסה זו ספציפית לינוקס ואינה חלה על מערכות אחרות. הגרסה העיקרית של האפליקציה היא {0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "אנא התחבר כדי לראות את ההורדות.",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "או או, נראה שאיך לך גישה לbeta/alpha :)",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "תוכלו להצטרף לתכנית הבטא שלנו בחינם **כאן**. הזדרז! יש לנו רק {0} משבצות נוספות זמינות (מתוך 200)",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "גרסאות אחרונות",
-		"description": "Header above alpha/beta download buttons."
-	}
+  "downloads.header.title": {
+    "message": "זמן להראות אותך לכולם.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "התחל להשתמש בPreMiD עכשיו והראה לאחרים מה אתה עושה, אולי תמצא מישהו עם תחומי עניין משותפים.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "התחל",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "הורד את PreMiD.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "הורד את היישום של PreMiD.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "הורד את התוסף לדפדפן שלך.",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "בקר בדף ה{0} ובדוק אם התוסף מחובר.",
+    "description": "{0} will be replaced by 'store' string translation"
+  },
+  "downloads.instructions.step_4_store": {
+    "message": "חנות",
+    "description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+  },
+  "downloads.appdownloading.header": {
+    "message": "יישום",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "תוסף",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} אין התקנה עבור מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "לידיעתך, PreMiD אינו נתמך כרגע בנייד.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "להראות הורדות",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "להסתיר הורדות",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "הגרסה הנוכחית של פלטפורמה זו היא {0} (גרסה זו ספציפית ל- Linux ואינה חלה על מערכות אחרות).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "גרסה זו ספציפית לינוקס ואינה חלה על מערכות אחרות. הגרסה העיקרית של האפליקציה היא {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "אנא התחבר כדי לראות את ההורדות.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "או או, נראה שאיך לך גישה לbeta/alpha :)",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "תוכלו להצטרף לתכנית הבטא שלנו בחינם **כאן**. הזדרז! יש לנו רק {0} משבצות נוספות זמינות (מתוך 200)",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.button.done": {
+    "message": "בוצע",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "תודה רבה!",
+    "description": "Title of the advertisement section box."
+  }
 }
