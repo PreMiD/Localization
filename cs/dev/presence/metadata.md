@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2020-04-24T12:45:27.030Z
+date: 2020-04-24T12:45:27,030Z
 tags:
 ---
 
