@@ -19,10 +19,6 @@
     "message": "Partnerid",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "Sotsiaalmeedia",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "Arendajad",
     "description": "Developer section"
