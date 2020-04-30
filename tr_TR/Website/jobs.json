@@ -28,11 +28,11 @@
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Discord'umuza katıl",
+		"message": "Discord'umuza Katıl",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Başvuru yapabilmek için Discord sunucumuza katılmak zorundasın.Yoksa eğer seçilirsen seninle iletişim kuramayız!",
+		"message": "Başvuru yapabilmeniz için Discord sunucumuzda olmanız gerekmektedir. İletişim sunucumuzdan sağlanacaktır.",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
