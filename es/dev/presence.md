@@ -2,7 +2,7 @@
 title: Desarrollo de Presencias
 description:
 published: true
-date: 2020-04-29T13:00:50.370Z
+date: 2020-04-30T17:27:58.564Z
 tags:
 ---
 
@@ -75,7 +75,6 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
 - Confirme que los cambios funcionan antes de publicar. Do **NOT** create pull requests without knowing the outcome of your changes.
-- Maintain the language the Presence author used when writing the Presence. For example, do **NOT** delete typescript files and use the javascript files instead.
 
 # Verificación
 
