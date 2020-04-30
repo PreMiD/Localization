@@ -19,6 +19,10 @@
     "message": "Partnerler",
     "description": "Partner section"
   },
+  "footer.followUs.heading": {
+    "message": "Sosyal Medya",
+    "description": "Follow Us section"
+  },
   "footer.developers.heading": {
     "message": "Geliştiriciler",
     "description": "Developer section"
