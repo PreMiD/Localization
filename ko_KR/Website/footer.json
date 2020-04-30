@@ -19,10 +19,6 @@
     "message": "파트너",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "소셜",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "개발자들",
     "description": "Developer section"

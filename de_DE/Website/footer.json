@@ -19,10 +19,6 @@
     "message": "Partner",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "Soziale Netzwerke",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "Entwickler",
     "description": "Developer section"

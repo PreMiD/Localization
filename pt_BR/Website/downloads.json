@@ -39,6 +39,10 @@
     "message": "Extensão",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Atenção:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Não há instalador para este sistema operacional. Isso significa que não há suporte profissional para ele.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -72,19 +76,55 @@
     "description": "Error message if the user doesn't alpha/beta access."
   },
   "downloads.error.noaccess.description": {
-    "message": "Você pode entrar no no nosso programa beta de graça **aqui**. Se apresse! Nos apenas temos {0} slots disponíveis (de 200)",
+    "message": "Você pode entrar no nosso programa beta de graça **aqui**. Se apresse! Nos apenas temos {0} slots disponíveis (de 200)",
     "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.warning.title": {
+    "message": "Atenção",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Não se esqueça de habilitar a opção 'permitir extensões de outras lojas' nas configurações de extensão.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Você precisa instalar **esta extensão** para instalar o PreMiD da Chrome Webstore.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Pular",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Voltar",
+    "description": "Back button on the ads section"
   },
   "downloads.button.cancel": {
     "message": "Cancelar",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Okay",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Concluído",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Login",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Obrigado!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Nós usamos anúncios para dar suporte à nossa equipe e manter nossos servidores para oferecer a você a melhor experiência de usuário!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Por favor, desative seu adblock.",
+    "description": "Message next to pepe."
   }
 }

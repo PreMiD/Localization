@@ -19,10 +19,6 @@
     "message": "ผู้ร่วมมือ",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "โซเชียล",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "ผู้พัฒนา",
     "description": "Developer section"

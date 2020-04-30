@@ -19,10 +19,6 @@
     "message": "Socios",
     "description": "Partner section"
   },
-  "footer.socials.heading": {
-    "message": "Social",
-    "description": "Socials section"
-  },
   "footer.developers.heading": {
     "message": "Desarrolladores",
     "description": "Developer section"
