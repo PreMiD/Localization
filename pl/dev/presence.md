@@ -53,7 +53,7 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - The Presence **MUST** be related to the site you have chosen.
 - The Presence **MUST NOT** be of any illegal sites. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
+- Dołączone media (ikona/miniatura) **MUSZĄ** być powiązane z witryną i powinny być zrozumiałe pod względem wielkości i jakości.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
 - The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
 - If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
@@ -70,8 +70,8 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 
 In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
-- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- **NIE** możesz przepisywać Presence lub zmieniać jego autora. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- Każdy może udostępnić poprawki do naprawy błędów; jednak staraj się **NIE** wprowadzać zmian w kodzie, jeżeli **NIE** ma takiej potrzeby. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Skontaktuj się z `Weryfikatorem Presence`, aby uzyskać więcej informacji na ten temat.
 - Upewnij się, że zmiany są przydatne. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
 - Potwierdź, że zmiany działają przed publikacją. Do **NOT** create pull requests without knowing the outcome of your changes.
@@ -82,11 +82,11 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 
 For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Oto kilka rzeczy, na które należy zwrócić uwagę przy składaniu żądania "pull request".
 
-1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
+1. It takes two verifiers to confirm that your Presence is up to standards. Jeśli zdarzy ci się otrzymać prośbę o zmianę, podejmij odpowiedni wysiłek i dokonaj poprawek, w przeciwnym razie **NIE** zostanie ona dodana.
 2. Jeśli poprosimy o zmiany, a Twoje żądanie "pull request" przekroczy ** 7 dni nieaktywności ** bez wprowadzenia niezbędnych zmian, będziemy zmuszeni je zamknąć.
-3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (e.g., its author in case you can't access it for any reason).
+3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (np. jego autor, jeśli nie możesz uzyskać do niego dostępu z jakiegokolwiek powodu).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
-5. The provided screenshots should be real, **NOT** edited.
+5. Dostarczone zrzuty ekranu powinny być prawdziwe, **NIE** poddane edycji.
 6. Każdy wprowadzony kod, który zostanie połączony z tym repozytorium będzie licencjonowany na licencji **Mozilla Public License 2.0**.
 7. Presences for free domains or hosts (e.g., .TK, [all free Freenom domains], .RF.GD, etc) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
 8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
