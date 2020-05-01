@@ -39,6 +39,10 @@
     "message": "Розширення",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Увага:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Застосунок не має встановлювача для цієї операційної системи. Це означає, що для цієї ОС немає професійної підтримки.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -75,16 +79,56 @@
     "message": "Ви можете безкоштовно приєднатися до нашої бета-програми **тут**. Покваптесь! У нас є обмежена кількість слотів: {0}/200.",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "Отримувати Ранні Релізи",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Увага",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Не забудьте увімкнути «дозволити розширення з інших крамниць» в інших налаштуваннях розширення.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Ви повинні встановити **це** розширення для того, щоб встановити PreMiD із Chrome Webstore.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Пропустити",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Назад",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Скасувати",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Гаразд",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Зроблено",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Увійти",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Дякуємо!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Ми використовуємо рекламу, щоб підтримати нашу команду і підтримувати наші сервери, щоб пропонувати вам сервіс!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Будь ласка, вимкніть свій блокувач реклами.",
+    "description": "Message next to pepe."
   }
 }
