@@ -52,8 +52,8 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Laatste releases"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Alle releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Laatste releases"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub releases"></a></td>
   </tr>
 </table>
 
@@ -67,7 +67,7 @@ Technisch gezien kan elke distributie die Discord's [officiële](https://discord
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Het is niet bekend of oudere versies van andere distributies het ondersteunen, dus houd je distributie op de hoogte en gebruik **LTS (Long-Term Support)** releases als je distributie ze aanbiedt, als ze stabieler zijn (vermijd alpha releases).
 
 <a name="support"></a>
 
@@ -83,13 +83,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Credits
 
-Thanks to :
+Met dank aan:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (en een paar andere personen waarvan ik de namen ben vergeten) voor feedback over nightly releases.
+- @apriluwu voor het onderhouden van de Gentoo builds
+- @SlimShadyIAm en naka voor het onderhouden van de Arch User Repository pakketten
+- De Electron community voor verschillende pakketten
+- Iedereen die ooit op een of andere manier aan het project heeft bijgedragen.
 
 <a name="license"></a>
 
@@ -102,14 +102,14 @@ Thanks to :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Waarschijnlijk nooit, omdat Snap's natuur verhindert dat PreMiD, Discord en de extensie goed kan bereiken</br> Het zou worden gewaardeerd als iemand het kon doen, maar alle ideeën en PRs zijn welkom.</br> P.S: klassieke opsluiting werkt ook niet, dus maak er geen bezwaar tegen.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Het AppImage pakket is aanbevolen als Discord voor je werkt maar andere PreMiD pakketten (.deb, .rpm, etc) niet.
 
 <a name="appimageinstall"></a>
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Gewoon dubbelklikken of uitvoeren
 ./PreMiD*.AppImage
 ```
 
@@ -128,50 +128,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Aanvullende notities
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Ofwel als u PreMiD wilt proberen of wilt u het niet installeren, dit is de beste, het is altijd up to date maar _START NIET AUTOMATISCH MET HET SYSTEEM!_</br>Als je het moe wordt om het elke keer te moeten openen, gebruik dan de andere pakketten (volgens jouw distributie).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Arch Linux gebaseerde distributies
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Gebruikt [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Ondersteunde distributies zijn __, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS en [elke die installeren vanuit AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active) ondersteunt.
 
 <a name="archinstall"></a>
 
 ### Installatie instructies
 
 ```bash
-# Using yay (recommended)
+# Yay gebruiken (aanbevolen)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Met pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Met trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Met pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... je krijgt het punt
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+of handmatig vanuit de [Arch User Repository](https://aur.archlinux.org/packages/premid) als je weet wat je aan het doen bent.
 
 <a name="archnotes"></a>
 
 ### Aanvullende notities
 
-Als je distro pacman gebruikt, dan moet je eerst een van de helpers installeren. If you don't have any, Yay is recommended, run :
+Als je distro pacman gebruikt, dan moet je eerst een van de helpers installeren. Als je er geen hebt, wordt Yay aangeraden, voer uit :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,26 +181,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Andere AUR/Pacman helpers werken ook, hoewel ieders functionaliteit anders is waardoor je problemen kunt ondervinden tijdens het gebruik ervan.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Hetzelfde geldt voor de derivaten, zoals ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Installatie instructies
 
 ```bash
-# Add the overlay using layman
+# Voeg de overlay toe met behulp van layman
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Installeren via portage
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Aanvullende notities
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+Het getoonde installatiecommando gebruikt layman, het is in de officiële repositories via `app-portage/layman`.<br> Om updates te krijgen moet je af en toe de overlay synchroniseren, kun je dit doen met
 
 ```bash
 layman -S
