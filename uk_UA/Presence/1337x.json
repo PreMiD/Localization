@@ -19,6 +19,10 @@
         "message": "Переглядає популярне",
         "description": ""
     },
+    "1337x.animeTorrents": {
+        "message": "Переглядає торенти з аніме",
+        "description": ""
+    },
     "1337x.appTorrents": {
         "message": "Переглядає торенти з додатками",
         "description": ""
