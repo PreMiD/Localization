@@ -80,7 +80,7 @@
     "description": "More info if the user doesn't alpha/beta access."
   },
   "downloads.latest.header": {
-    "message": "Latest Releases",
+    "message": "Early Releases",
     "description": "Header above alpha/beta download buttons."
   },
   "downloads.warning.title": {
