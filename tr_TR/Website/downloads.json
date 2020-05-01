@@ -79,10 +79,6 @@
     "message": "Ücretsiz beta programımıza **buraya** tıklayarak katılabilirsin. Acele et sadece {0}/200 kişilik yer kaldı.",
     "description": "More info if the user doesn't alpha/beta access."
   },
-  "downloads.latest.header": {
-    "message": "Son Sürümler",
-    "description": "Header above alpha/beta download buttons."
-  },
   "downloads.warning.title": {
     "message": "Dikkat",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
