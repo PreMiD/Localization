@@ -79,6 +79,10 @@
     "message": "Je kunt **hier** gratis deelnemen aan ons bèta-programma. Schiet op! We hebben nog maar {0} slots beschikbaar (van de 200)",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "Vroegtijdige Releases",
+    "description": "Header above alpha/beta download buttons."
+  },
   "downloads.warning.title": {
     "message": "Waarschuwing",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
