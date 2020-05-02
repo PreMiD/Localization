@@ -4,7 +4,7 @@
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "ยืนยัน Presence ",
+		"message": "ผู้ตรวจสอบ Presence",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
@@ -28,11 +28,11 @@
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "คลิกที่นี่เพื่อแสดงพรีเซ้นที่ผู้ใช้คนนี้ได้สร้างขึ้น",
+		"message": "คลิกที่นี่เพื่อแสดง Presence ที่ผู้ใช้คนนี้ได้สร้างขึ้น",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "คลิกที่นี่เพื่อแสดงพรีเซ้นที่ผู้ใช้คนนี้ที่มีส่วนช่วยเหลือ",
+		"message": "คลิกที่นี่เพื่อแสดง Presence ที่ผู้ใช้คนนี้มีส่วนร่วม",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
