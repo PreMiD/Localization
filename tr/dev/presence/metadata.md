@@ -8,39 +8,38 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün içine bir `metadata.json` dosyası oluşturmalısınız.
 
 `metadata.json` için bir örnek dosyayı aşağıdan bulabilirsiniz.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS İSMİ",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
-  "url": "URL",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#45A8FC",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "url": "LİNK",
+  "version": "SÜRÜM",
+  "logo": "LOGO LİNKİ",
+  "thumbnail": "KÜÇÜK RESİM LİNKİ",
+  "color": "#HEX000",
+  "tags": ["ETİKET1", "ETİKET2"],
+  "category": "KATEGORİ",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": true
         },
         {
@@ -48,17 +47,17 @@ If you want to publish a presence to the store and load it via the extension, yo
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": "\"%şarkı%\", %sanatçı%",
+            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "vb."]
         }
     ]
 }
@@ -90,7 +89,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. İsim Discord etiketi (#0000) belirtilmeden yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
+      <td style="text-align:left">Servise katkıda bulunan kişilerin bilgilerinin olduğu, <code>name</code> ve <code>id</code> anahtarlarını içeren bir Object olmalıdır. İsim Discord etiketi (#0000) belirtilmeden yazılmalıdır. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
@@ -209,7 +208,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     <tr>
       <td style="text-align:left"><b>ayarlar</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Kullanıcıların değiştirebileceği ayarlar array'ı</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
@@ -234,54 +233,54 @@ Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz 
 
 PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geliştirilmiş bir servistir. Bu yüzden birden çok dili destekler. Desteklenen bilgileri [buradaki](https://api.premid.app/v2/langFile/list) bağlantı üzerinde bulabilirsiniz.
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Servis ayarları
+İnteraktif ayarlar oluşturarak kullanıcıların servisinizi düzenlemesini sağlayın!
 ```javascript
 "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "title": "AYAR BAŞLIĞI",
+            "icon": "FONTAWESOME FREE SİMGESİ", // Örneğin "fas fa-info"
+            "value": true // Belirtilen boolean değerinin kullanılacağı bir açma/kapama düğmesi ekler
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true // Eğer belirtilen ayar bu değeri karşılıyorsa (true/false/0/1/vb.), bu düğmeyi göster
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": "\"%şarkı%\", %sanatçı%", // Bir string verisi kullanmak ayarı bir giriş kutusuna çevirecektir. Bu sayede kullanıcılar özel şeyler belirtebilir.
+            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz" // Girilen herhangi bir yazı yoksa silik bir şekilde bu mesaj gözükecektir
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": 0, // Seçim menüsünün varsayılan değeri
+            "values": ["1", "2", "vb."] // İstediğinizi seçebileceğiniz bir seçim kutusu oluşturur
         }
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Ayarlara servisinizin içinden ulaşabilmek için aşağıdaki metodları kullanın:
 ### `getSetting(String)`
-Returns value of setting.
+Bir ayarın versini döner.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
+console.log(setting); // Konsola o ayarın verisinin çıktısını verecektir
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Belirtilen ayarı gizler.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Belirtilen ayarı gösterir (sadece önceden gizlenmişse çalışacaktır).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
 ```
 
 ## Servis kategorileri
