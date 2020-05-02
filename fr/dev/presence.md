@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-04-30T17:41:23.702Z
+date: 2020-04-27T12:41:23.261Z
 tags:
 ---
 
@@ -13,22 +13,22 @@ tags:
 La version `2.x` introduit le [magasin de présence](https://premid.app/store). Les utilisateurs ont maintenant la possibilité d'ajouter et de supprimer manuellement leurs présences favorites via l'interface utilisateur du [site web](https://premid.app/).
 
 # Lignes directrices
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+> Si vous ne suivez **PAS** les règles, un `Vérificateur de Présences` demandera les changements appropriés, ou devra le fermer dans certaines circonstances. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Lorsque vous faites des demandes d'ajout ou de modification de Presences existantes, vous **DEVEZ** inclure une capture d'écran. Cependant, les modifications apportées aux fichiers `metadata.json` ou `tsconfig.json` d'une présence ne nécessitent pas de capture d'écran. _Votre capture d'écran **DOIT** être directement téléchargée sur GitHub avec la pull request, ne **PAS** utiliser de sites tiers de partage d'images._ 
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Lors de la publication des présences sur ce GitHub, nous vous demandons de suivre un ensemble de directives. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera ainsi que les utilisateurs de faire face à n'importe quel problème.
 
 ## Création
-> Le code que vous écrivez DOIT être *bien écrit* et DOIT être *lisible*. `DeepScan` sur GitHub rapportera des problèmes de qualité de code à la `équipe de vérification de Presence`. Nous recommandons que votre fork soit à jour lorsque vous faites des pull requests, cela aidera à limiter les faux positifs. 
+> Le code que vous écrivez DOIT être *bien écrit* et DOIT être *lisible*. `DeepScan` sur GitHub rapportera des problèmes de qualité de code à l'`équipe de vérification de Presence`. Nous recommandons que votre fork soit à jour lorsque vous faites des pull requests, cela aidera à limiter les faux positifs. 
 > 
 > {.is-warning}
 
-- La pull request **DOIT** être complète, vous devez avoir une structure de fichier appropriée, les brouillons sont **PAS autorisés**. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- La pull request **DOIT** être complète, vous devez avoir une structure de fichier appropriée, les brouillons sont **PAS autorisés**. Inclure le dossier `dist` , le fichier `presence.js` et le fichier `metadata.json` qui sont représentés dans le schéma d'exemple suivant :
 ```bash
 presence
 ├── dist
@@ -37,7 +37,7 @@ presence
 ├── presence.ts
 └── tsconfig.json
 ```
-or if you're using `iframe`:
+ou si vous utilisez `iframe`:
 ```bash
 presence
 ├── dist
@@ -50,8 +50,8 @@ presence
 ```
 
 Avant de commencer à travailler sur votre présence, gardez à l'esprit la liste suivante.
-- The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. Celles-ci incluent des stress, des drogues, du porn infantile, etc.
+- La présence **DOIT** être liée au site Web que vous avez choisi.
+- La présence **NE DOIT PAS** être de sites illégaux. Celles-ci incluent des stress, des drogues, du porn infantile, etc.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
@@ -68,17 +68,17 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+Dans certaines situations, Presences peut se comporter de manière inattendue ou peut utiliser quelques modifications mineures pour améliorer ses fonctionnalités. Voici une liste compilée que vous **DEVEZ** suivre pour modifier les présences.
 
 - You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
 - Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
-- Assurez-vous que les modifications sont utiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
+- Assurez-vous que les modifications sont utiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
 - Confirmez que vos modifications fonctionnent avant de publier. Do **NOT** create pull requests without knowing the outcome of your changes.
 
 # Vérification
 
-> Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. All `Presence Verifiers` will have a unique role in their profile.
+> Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les `vérificateurs de Presence` auront un rôle unique sur leur profil.
 
 For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Ce sont quelques choses à surveiller lorsque vous faites votre pull request.
 
@@ -108,7 +108,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-It should **NOT** be this:
+Cela ne devrait **PAS** être ceci :
 
 ```ts
 presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
@@ -131,7 +131,7 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
 
 # Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
@@ -139,16 +139,16 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Installez [TypeScript](https://www.typescriptlang.org/index.html#download-links) (ouvrez un terminal et `npm installez -g typescript`).
 
 ## Dupliquer le projet
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Ouvrez un terminal et tapez `git clone https://github.com/PreMiD/Presences`.
 2. Choisissez un fichier de votre choix.
 3. Ouvrez-le dans votre éditeur de code.
 
 ## Création de dossiers et de fichiers
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
+1. Créez un dossier avec le **name** (pas une URL) du service que vous voulez supporter.
 2. Créez un fichier `presence.ts` et un fichier `tsconfig.json` à l'intérieur.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+3. Créer un dossier nommé `dist` à l'intérieur.
+4. Créer un fichier `metadata.json` dans le dossier `dist`.
 
 ## Remplir le fichier tsconfig.json
 Veuillez mettre le code suivant dans le fichier `tsconfig.json`.
@@ -459,13 +459,13 @@ Pour plus d'informations sur la classe Presence, cliquez [ici](/dev/presence/cla
 Beaucoup de sites web utilisent des [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ces balises html peuvent contenir plusieurs sources telles que des vidéos. Mais ils ne sont pas pertinents à chaque fois. Certains sont cachés ou tout simplement pas utilisés activement. Vérifiez si vous pouvez extraire, l'information dont vous avez besoin, sans eux avant de faire un travail inutile.
 
 1. Vérifiez les dans la console de vos navigateurs (assurez-vous que vous êtes sur l'onglet **Éléments**).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+2. Recherchez (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Exécutez `document.querySelectorAll("iframe")`.
 
 Si vous trouvez que vos données sont dans un iFrame vous devez faire ce qui suit :
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+1. Créer un fichier `iframe.ts`.
+2. Définissez iFrame à `true` dans votre fichier de métadonnées.
+3. Remplir votre fichier iFrame.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
@@ -479,7 +479,7 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Faire en sorte que votre fichier de présence reçoive les données du fichier iFrame.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
@@ -490,21 +490,21 @@ presence.on("iFrameData", data => {
 ## Compilation
 Ouvrez une console dans votre dossier et tapez `tsc -w` pour compiler le `presence.ts` dans le dossier `/dist`.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Chargement de la présence
+1. Ouvrez la fenêtre popup et maintenez le bouton <kbd>Maj</kbd> sur votre clavier.
+2. **Charger les présences** apparaîtra dans la section Présences.
+3. Cliquez dessus pendant que vous maintenez le bouton <kbd>Maj</kbd>.
+4. Sélectionnez le dossier /dist de votre présence.
 
-# Some helpful things
-## Hot-reloading
+# Quelques éléments utiles
+## Rechargement rapide
 Le site Web sur lequel vous développez est automatiquement rechargé chaque fois que vous enregistrez un fichier dans votre dossier.
 
-## Debugging
+## Débogage
 - Vous pouvez mettre `console.log("Test");` entre votre code et voir si votre console de navigateur vous donne cette sortie. Si oui, continuez et réessayez après la fonction suivante. Si ce n'est pas le cas, il y a une erreur ci-dessus.
 - Si cela ne vous aide pas non plus, demandez à un développeur de présence sur notre serveur [Discord](https://discord.gg/WvfVZ8T) pour obtenir de l'aide.
 
-# Files explained
+# Explications des fichiers
 - [Classe de présence](/dev/presence/class)
 - [Classe iFrame](/dev/presence/iframe)
 - [Fichier de métadonnées](/dev/presence/metadata)
