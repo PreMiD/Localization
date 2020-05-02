@@ -8,7 +8,7 @@
     "description": "Creator of a presence"
   },
   "store.cards.popular": {
-    "message": "พรีเซ้นนี้เป็นที่นิยมมากในหมู่ผู้ใช้",
+    "message": "Presence นี้เป็นที่นิยมมากในหมู่ผู้ใช้",
     "description": "Presence card popular flame"
   },
   "store.cards.partner": {
@@ -44,7 +44,7 @@
     "description": "Searh filters option at the store page"
   },
   "store.category.filters.mostUsed": {
-    "message": "คนใช้งานมากที่สุด",
+    "message": "คนใช้งานมากที่สุดก่อน",
     "description": "Most used first checkbox"
   },
   "store.category.filters.allowAdult": {
@@ -52,7 +52,7 @@
     "description": "Adult content checkbox"
   },
   "store.category.filters.likedOnly": {
-    "message": "ต้องเป็น Presences เท่านั้น",
+    "message": "Presences ที่ถูกใจเท่านั้น",
     "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
