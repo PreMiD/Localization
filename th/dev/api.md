@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: เข้าถึงทรัพยากรและดำเนินการต่าง ๆ โดยใช้ PreMiD API
 published: true
 date: 2020-04-22T17:59:55.315Z
 tags:
@@ -12,23 +12,23 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+## ระยะพัฒนา API
+> ขณะนี้ API และ Gateway บางเวอร์ชันที่เลิกใช้แล้วจะมีข้อความกำกับว่าเลิกใช้แล้วในตารางด้านล่างเพื่อแสดงว่าเป็นเวอร์ชันเก่า 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+การจะใช้ API ของ PreMiD ในเวอร์ชันอื่น ๆ ของเรา คุณสามารถระบุเวอร์ชันในพาธรีเควสเช่น `https://api.premid.app/v{version_number}` หากไม่ใส่หมายเลขเวอร์ชัน จะเป็นการคำขอไปยังเวอร์ชันเริ่มต้นปัจจุบัน (ที่กูกทำเครื่องหมายด้านล่าง)
 
-## Encryption
+## การเข้ารหัส
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+บริการ HTTP-layer ทั้งหมดรวมถึงโปรโตคอล (เช่น http) ที่ถูกใช้โดย API ของ PreMiD จะเข้ารหัสด้วย TLS 1.2
 
 # เอกสาร
-> Currently under construction! 
+> อยู่ระหว่างการพัฒนา! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+**เลือกเวอร์ชัน API:**
+- [v1 *เลิกใช้แล้ว*](/dev/api/v1)
+- [v2 *ยังใช้อยู่*](/dev/api/v2)
 {.links-list}
