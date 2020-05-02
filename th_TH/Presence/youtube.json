@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "ปัจจุบันดูโฆษณา",
+        "message": "กำลังดูโฆษณา",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -40,7 +40,7 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "ประวัติศาสตร์ของพวกเขา",
+        "message": "ประวัติการรับชมของเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
