@@ -15,6 +15,10 @@
 		"message": "Create {0} presenze.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Sviluppatore di Genius Presence",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
 	"user.geniusPresenceDev.message2": {
 		"message": "Oltre 100 Presence create!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
