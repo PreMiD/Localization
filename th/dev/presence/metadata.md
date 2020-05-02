@@ -223,7 +223,7 @@ If you want to publish a presence to the store and load it via the extension, yo
   </tbody>
 </table>
 
-## นิพจน์ทั่วไป
+## Regular Expressions
 
 ถ้าคุณต้องการเรียนรู้นิพจน์ทั่วไป, มาดูเว็บไซต์นี้สิ!
 
