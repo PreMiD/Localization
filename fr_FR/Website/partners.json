@@ -135,6 +135,14 @@
 		"message": "Le logiciel Wiki open source le plus puissant et extensible.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Une interface unifiée et conviviale pour les développeurs pour tous vos artefacts.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Derrière le meilleur du web.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
 		"description": "Partnership application modal title."
