@@ -7,24 +7,120 @@
         "message": "Cercando...",
         "description": ""
     },
+    "general.chapter": {
+        "message": "Capitolo",
+        "description": ""
+    },
+    "general.dj": {
+        "message": "DJ",
+        "description": ""
+    },
+    "general.editing": {
+        "message": "Modificando:",
+        "description": ""
+    },
     "general.episode": {
         "message": "Episodio",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "Forum",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "Genere",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "Ascoltando musica",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "Ascoltatori",
         "description": ""
     },
     "general.live": {
         "message": "In diretta",
         "description": ""
     },
+    "general.manga": {
+        "message": "Manga",
+        "description": ""
+    },
+    "general.page": {
+        "message": "Pagina",
+        "description": ""
+    },
+    "general.paused": {
+        "message": "In pausa",
+        "description": ""
+    },
+    "general.playing": {
+        "message": "In riproduzione",
+        "description": ""
+    },
+    "general.readingDM": {
+        "message": "Leggendo messaggi diretti da:",
+        "description": ""
+    },
+    "general.readingAbout": {
+        "message": "Leggendo di:",
+        "description": ""
+    },
+    "general.readingArticle": {
+        "message": "Leggendo l'articolo:",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "Leggendo nel canale:",
+        "description": ""
+    },
+    "general.readingPost": {
+        "message": "Leggendo il post:",
+        "description": ""
+    },
+    "general.readingThread": {
+        "message": "Leggendo la discussione:",
+        "description": ""
+    },
     "general.reading": {
         "message": "Leggendo",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "Alla ricerca di:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "Cercando qualcosa...",
         "description": ""
     },
     "general.search": {
         "message": "Cercando",
         "description": ""
     },
+    "general.shopCart": {
+        "message": "Carrello d'acquisto",
+        "description": ""
+    },
     "general.store": {
         "message": "Negozio",
+        "description": ""
+    },
+    "general.typeDM": {
+        "message": "Digitando messaggi diretti a:",
+        "description": ""
+    },
+    "general.typeChannel": {
+        "message": "Digitando nel canale:",
+        "description": ""
+    },
+    "general.viewAnime": {
+        "message": "Visualizzando anime:",
+        "description": ""
+    },
+    "general.viewCategory": {
+        "message": "Visualizzando categorie:",
         "description": ""
     }
 }
