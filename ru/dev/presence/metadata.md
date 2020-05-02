@@ -334,7 +334,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>прочее</b></td>
-    <td style="text-align:left"><b>Прочее</b></td>
+    <td style="text-align:left"><b>Прочие</b></td>
       <td style="text-align:left">Все, что не относится к конкретной категории, перечисленной выше.</td>
       </td>
     </tr>
