@@ -64,33 +64,33 @@ strings = await presence.getStrings({
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Bir ayarın versini döner.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
+console.log(setting); // Konsola o ayarın verisinin çıktısını verecektir
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Belirtilen ayarı gizler.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Belirtilen ayarı gösterir (sadece önceden gizlenmişse çalışacaktır).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Kullanıcının kullandığı eklentinin sürümünü verir.
 ```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
+getExtensionVersion(sadeceNumerik?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // konsola 210 çıktısı verecektir
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // konsola 2.1.0 çıktısı verecektir
 ```
 
 ### `getPageletiable(String)`

@@ -17,7 +17,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
   - [Gereksinimler](#requirements)
   - Örnekler (yakında)
   - SSS (yakında)
-  - Oluşturma (yakında)
+  - Derleme (yakında)
   - [Destek](#support)
   - [Katkıda Bulunanlar](#credits)
   - [Lisans](#license)
@@ -38,7 +38,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 ## Hakkında
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD**, Discord'un RP kütüphaneleri kullanarak internette (ve birkaç uygulamada) yaptığınız işleri Discord profilinize **yansıtan** basit ve ayarlanabilir bir araçtır.
 
 <a name="stats"></a>
 
@@ -53,7 +53,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Tüm Sürümler"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="En son sürüm"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github sürümleri"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="En son sürüm"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub sürümleri"></a></td>
   </tr>
 </table>
 
@@ -95,7 +95,7 @@ Teşekkürler:
 
 ### Lisans
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
+[![FOSSA Durumu](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
@@ -171,7 +171,7 @@ veya ne yaptığınızı biliyorsanız, manuel olarak [Arch User Repository](htt
 
 ### Ek notlar
 
-Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. Eğer birine sahip değilseniz, Yay kullanmanız önerilir, şunu çalıştırın :
+Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. Eğer birine sahip değilseniz, Yay kullanmanız önerilir, şunu çalıştırın:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,26 +181,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Diğer AUR/Pacman yardımcıları da işinize yarayabilir ancak hepsinin farklı çalışma biçimi olduğundan dolayı sizin için hangisi çalışırsa onu kullanabilirsiniz.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Bu, ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware [gibi](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects) dağıtımları için de geçerlidir.
 
 <a name="gentooinstall"></a>
 
 ### Kurulum Talimatları
 
 ```bash
-# Add the overlay using layman
+# layman kullanarak overlay'i yükleyin
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# portage ile yükleyin
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Ek notlar
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+Gösterilen yükleme komutu layman kullanır, resmi depolarda `app-portage/layman` belirtilir.<br> Güncellemeleri almak için aralıklarla senronize etmelisiniz, bunu yapmak için ise şu kodu kullanabilirsiniz
 
 ```bash
 layman -S
