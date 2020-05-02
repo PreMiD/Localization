@@ -39,6 +39,10 @@
     "message": "ดาวน์โหลดส่วนขยาย",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "คำเตือน:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "แอปพลิเคชันไม่มีตัวติดตั้งสำหรับระบบปฏิบัติการนี้ นั่นหมายความว่ายังไม่มีผู้เชี่ยวชาญดูแลมัน",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -75,16 +79,56 @@
     "message": "คุณสามารถเข้าร่วมโปรแกรมเบต้าได้ฟรี **ที่นี่**. เร็วเข้าหล่ะ! พวกเรามีที่ว่างเหลืออยู่ {0} (จากทั้งหมด 200)",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "รีลีสทดลอง",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "คำเตือน",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "อย่าลืมเปิดใช้งานตัวเลือก 'อนุญาตส่วนขยายจากร้านค้าอื่น' จากการตั้งค่าส่วนขยาย",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "คุณต้องติดตั้งส่วนขยาย**นี้**เพื่อติดตั้ง PreMiD จาก Chrome Webstore",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "ข้าม",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "ย้อนกลับ",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "ยกเลิก",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "ตกลง",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "เสร็จสิ้น",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "เข้าสู่ระบบ",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "ขอบคุณ!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "เราใช้โฆษณาเพื่อสนับสนุนทีมและดูแลเซิร์ฟเวอร์ของเรา เพื่อมอบประสบการณ์การใช้งานที่ดีที่สุดแก่คุณ!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "โปรดปิดการใช้งานตัวบล็อกโฆษณา",
+    "description": "Message next to pepe."
   }
 }
