@@ -1,29 +1,29 @@
 ---
-title: Presence Development
+title: การพัฒนา Presence
 description:
 published: true
 date: 2020-04-30T17:41:23.702Z
 tags:
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> ตอนนี้ Presence ทั้งหมดถูกเก็บไว้ที่นี่: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+เวอร์ชัน `2.x` แนะนำให้ใช้ Presence จาก[ร้านค้า](https://premid.app/store) ผู้ใช้สามาถรเพิ่มและลบ Presence ที่ชื่นชอบได้ในหน้า[เว็บไซต์](https://premid.app/)
 
-# Guidelines
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+# แนวทาง
+> หากคุณ**ไม่ปฏิบัติ**ตามแนวทาง`ผู้ตรวจสอบ Presence` จะร้องขอให้เปลี่ยนแปลงตามเหมาะสมหรืออาจถูกปิดขึ้นอยู่กับสถานการณ์ 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> เมื่อคุณทำการ Pull Request เพื่อเพิ่มหรือแก้ไข Presence ที่มีอยู่ คุณ**จะต้อง**ใส่ภาพสกรีนช็อตมาด้วย อย่างไรก็ตาม การแก้ไขไฟล์ `metadata.json` หรือ `tsconfig.json` ของ Presence **ไม่จำเป็นต้อง**ใส่ภาพสกรีนช็อตมาด้วย _ภาพสกรีนช็อตนั้น**จะต้อง**อัปโหลดโดยตรงไปยัง GitHub ด้วยการ Pull Request ห้ามใช้เว็บไซต์แบ่งปันภาพของบุคคลที่สาม**เด็ดขาด**_ 
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+เมื่อส่ง Presence ลงใน GitHub แล้ว เราต้องการให้คุณทำตามแนวทางนี้ สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป อย่างไรก็ตามการดำเนินการตามกฎเหล่านี้จะทำให้เราและผู้ใช้จะไม่พบเจอปัญหาใด ๆ
 
-## Creation
+## การสร้าง
 > The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
 > 
 > {.is-warning}
