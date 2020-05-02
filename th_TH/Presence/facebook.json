@@ -1,1 +1,34 @@
-{}
+{
+    "facebook.vcall": {
+        "message": "กำลังวิดีโอคอลกับ:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "กำลังดูรูปภาพของ:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "กำลังดูโพสต์ของ:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "กำลังดูร้านค้าของ:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "กำลังดูเพื่อนของ:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "กำลังดูวิดีโอของ:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "กำลังเรียกดู",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "วิดีโอที่บันทึกไว้",
+        "description": ""
+    }
+}
