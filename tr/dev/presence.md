@@ -13,11 +13,11 @@ tags:
 `2.x` sürümleri, [servis mağazası](https://premid.app/store) özelliği ile birlikte gelir. Kullanıcılar bundan sonra kendi oluşturdukları servisleri [mağazaya](https://premid.app/store) ekletebilecek ve diğer kullanıcıların kullanımına sunabilecek.
 
 # Kurallar
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+> Burada belirtilen kuralları takip **etmezseniz**, bir `Servis Onaylayıcısı` sizden gerekli değişiklikleri yapmanızı, gereken durumlarda da isteğinizi sonlandırma yetkisini kullanabilir. 
 > 
 > {.is-warning}
 
-> Eğer attığınız "pull request" yeni bir servis eklemek veya olan bir servis üzerinde değişiklikler yapmak için ise, açıklamanıza **MUTLAKA** ekran görüntüleri eklemelisiniz. `metadata.json` veya `tsconfig.json` dosyalarına yapılacak değişikliklerde ekran görüntülerine ihtiyaç yoktur. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Eğer attığınız "pull request" yeni bir servis eklemek veya olan bir servis üzerinde değişiklikler yapmak için ise, açıklamanıza **MUTLAKA** ekran görüntüleri eklemelisiniz. `metadata.json` veya `tsconfig.json` dosyalarına yapılacak değişikliklerde ekran görüntülerine ihtiyaç yoktur. _Ekran görüntüleriniz **mutlaka** GitHub'ın kendisine yüklenmelidir. Üçüncü parti resim yükleme siteleri kullanamazsınız._ 
 > 
 > {.is-warning}
 
@@ -56,22 +56,22 @@ Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri incel
 - Belirttiğiniz ikon ve küçük resim (thumbnail) servis ile alakalı olmalı ve kalitesi **okunabilir** olmalıdır.
 - Dosya sisteminiz **MUTLAKA** temiz, düzgün ve rastgele/gereksiz dosyalarla dolu olmamalıdır.
 - Servis güvensiz **hiçbir** amaç barındırmamalıdır. Bunlara veri çalma/sızdırma, sitenin işleyişini değiştirme gibi şeyler dahildir.
-- If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
+- Eğer servisinizi yaptığınız bir internet sitesi ileride değişim gösterir ve servisinizin çalışmasını engellerse, servisinizi tekrar çalışır duruma getirecek düzenlemeleri yapmak **zorundasınız**. Eğer gerekli değişiklikleri **7 gün** içerisinde yapmazsanız, başka bir geliştirici sizin yerinize kodunuzu düzenleyebilir.
 - Servis, incelemeye gönderilmeden önce **test edilmeli** ve her şeyin çalıştığına emin olunmalıdır.
 - Servisiniz, ne olursa olsun yetişkin içerik **barındırmayan** resimler içermelidir. Eğer servis uygunsuz içerikler barındırıyorsa, etiketlerinize `nsfw` etiketini de eklemeniz gerekmektedir.
 - Yaptığınız servis, tarayıcının yerel depolamasını (local storage) **kontrol edemez**.
-- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
+- Servisiniz veri saklamak için çerezleri kullanabilir, kullanacağınız tüm çerezlerin başına `pmd_` gelmelidir.
+- Servisinizin ismi, servisin klasörüyle **aynı isimde** olmalıdır. Örneğin, `Google Docs` adlı servisin klasörünün ismi de `/Google Docs/` olmalıdır (boşlukları, virgülleri, noktaları ve tüm özel karakterleri eklemelisiniz).
 
 ## Yapılandırma
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
+> **presence.ts**/**presence.js**  ya da **metadata.json** dosyalarından herhangi birine değişiklik yaparken, **metadata** dosyanızda belirtilen sürüm numarasını, daha üst bir sayıya güncellemelisiniz. 
 > 
 > {.is-warning}
 
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya 7 gün içerisinde herhangi bir değişiklik yapmadıysa, bir `Servis Onaylayıcısı` ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
-- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya 7 gün içerisinde herhangi bir değişiklik yapmadıysa, bir `Servis Onaylayıcısı` ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
+- Herhangi biri kodda önemli düzeltmeler yapabilir, yine de, düzeltme gerektirmeyen yerleri düzeltmek **mecburi değildir**. Geçerli düzeltmeler şunlar gibi olabilir; _eksik yollar_, _kelime hataları_, _geçersiz resimler_, vebenzeri.
 - Eğer düzenleme yaptığınız servisin **ÇEYREĞİNİ** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir `Servis Onaylayıcısı` ile iletişime geçebilirsiniz.
 - Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
 - Paylaşmadan önce değişikliklerinizin çalıştığından emin olmanız gerekir. Değişikliklerinizin neye sonuç açacağını bilmeden "pull request" açmayın.
@@ -86,51 +86,51 @@ Servisiniz, mağazada görücüye çıkabilmek için öncelikle GitHub üzerinde
 2. Eğer ekip üyesi sizden değişiklik talep eder ve **7 gün içerisinde** geri dönüş yapmazsanız, açtığınız "Pull Request" kapatılacaktır.
 3. Başka bir kullanıcının yardımıyla aldığınız ekran görüntülerini, kolaylık açısından yazınıza iliştirebilirsiniz (örn. erişemeyeceğiniz bir şeye erişebilen birini kullanmak).
 4. Eğer bir yenilik veya değişiklikler yaptıysanız, ekran görüntüleri bu değişiklikleri **içermelidir**, eskiden gönderilmiş ekran görüntülerini değil.
-5. The provided screenshots should be real, **NOT** edited.
+5. Belirtilen ekran görüntüleri gerçek olmalıdır, **düzenlenmiş değil**.
 6. Katkıda bulunulan ve onaylanan tüm kodlar **Mozilla Public License 2.0** lisansı altında saklanacaktır.
 7. Bedava alan adları (örn, .TK [tüm Freenom alan adları], .RF.GD gibi...) veya sağlayıcıları için bir servis **geliştiremezsiniz**, alan adı veya sağlayıcı için ödeme sağladıkları bilgiyi iletmeleri durumunda gerekli tolerans gösterilecektir.
 8. `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz ("oynatılıyor", "durduruldu" gibi) kısımlardır. Burada bir Discord hesabının reklamını yapamaz, PreMiD ile alakasız herhangi bir şey kullanamazsınız.
 9. Resimlerin oranı 1:1 (kare), 512 piksel boyutunda, küçük resimler ise [geniş promosyon kartları](https://i.imgur.com/3QfIc5v.jpg) veya bu seçenek servis için mümkün değilse [servisin ekran görüntüsü](https://i.imgur.com/OAcBmwW.png) olmalıdır.
-10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+10. Servisde en az bir adet etiket bulunmalıdır. Bu etiketlerde boşluk, taksim, tırnak işaretleri, Unicode karakterleri **bulunmamalı** ve her zaman küçük harflerden oluşmalıdır.
 11. `url` alanı, `http://` veya `https://` **içermemelidir** (`https://www.google.com/search?gws_rd=ssl` adresi için `url` kısmı, sadece `www.google.com` olmalıdır).
 12. Açıklamalar ve etiketler, sadece bir adet olsalar bile mutlaka array içerisinde olmalıdır. Sadece `url` kısmı eğer tek bir site içinse array dışına yazılabilir.
-13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
+13. Etiketler, mümkün olduğunda alternatif isimler olarak kullanılmalıdır. Örneğin bir Amazon Web Services servisinin, "amazon-web-services" ve "aws" diye iki ayrı etiketi bulunmalıdır.
 14. Sürekli API/alan adı değişiklikleri yapan stabil olmayan, rastgele HTML elementleriyle donatılmış olan veya ağır bir geliştirilme aşamasından geçen siteler kabul edilmeyecek ve marketten silinecektir.
-15. The logo and thumbnail on your Presence **MUST** either be `i.imgur.com`, from a CDN that **YOU** own, or from a CDN that gives you permission to **CHANGE** image files.
-16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code (which comes from an earlier version of ECMAScript), whether it's in Typescript or Javascript, and in addition to that, make sure the `UpdateData` event used is similar to this:
+15. Servisinizde belirteceğiniz resimler `i.imgur.com`'a veya kendinize ait bir resim servisinden olmalıdır, başka servisler kullanıyorsanız da servisin size bu resimleri düzenleme yetkisi verdiğinden emin olmanız gerekir.
+16. Onaylayıcılar servisinizin eski bir ECMAScript sürümünden gelen `__awaiter` koduna sahip olup olmadığını kontrol edecektir. TypeScript veya JavaScript dosyalarınızda bu kod şu şekilde olmalıdır:
 
 ```ts
 presence.on("UpdateData", async () => {
   /*...*/
-  // Always use await when using async in the event
+  // Eventlerde async'ı sadece await kullanacağınız zaman bulundurun
   data.smallImageText = (await strings).playing;
   /*...*/
 });
 ```
 
-It should **NOT** be this:
+Altta gördüğünüz ise **yanlış** kullanımıdır:
 
 ```ts
 presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
   /*...*/
-  // Never use yield
+  // Hiçbir zaman yield kullanmayın
   data.smallImageText = (yield strings).playing;
   /*...*/
 });
 ```
 
-17. When **Deepscan** throws a lot of errors (and it will), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
-18. Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme : `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **NOT** permitted.
-19. Low-quality Presences (or ones with one context) are **NOT** allowed (e.g., only showing the logo and some text but never changing again).
-20. **NEVER** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your Presences, you're free to use whatever you need if you do not find them listed in the docs.
-21. It is **NOT** recommended to use comments on Javascript Presences unless necessary (TypeScript ones or their compiled files are fine), as it reduces code readability and increases file sizes.
-22. Declare the Presence const **BEFORE** everything to avoid such rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-23. Presences that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
-24. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
+17. **DeepScan** isteğinizi bir çok hata ile yanıtlarsa, bu hatanın sebebi genellikle sizin depo kopyanızın senkronize olmadığı anlamına gelir. Bir istek yapmadan önce deponuzun senkronize olduğuna emin olun.
+18. Sürüm numaranızın her zaman [anlamlı sürüm standartları](https://semver.org)nı takip ettiğine emin olun, bu `<YENİ-ÖZELLİK>.<BÜYÜK-HATA-DÜZELTMESİ>.<KÜÇÜK-DEĞİŞİKLİKLER-VE-METADATA-DÜZENLEMESİ>` olabilir. Örneğin, `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` veya büyük bir değişiklik olmadığı halde `1.0.0`'ı `2.0.0` olarak değştirmek **yasaktır**.
+19. Düşük kaliteli (veya tek bir işlev gerçekleştiren) servislere **izin verilmemektedir**. Örneğin sadece sitenin simgesini ve hiçbir zaman değişmeyen bir yazı göstermek.
+20. **ASLA** [PreMiD'in içinde barındırdığı](https://docs.premid.app/dev/presence#files-explained) fonksiyonlarla yapılabilecek bir işlemi özel fonksiyonlar yazarak yaptırmaya çalışmayın. Belirtilen doküman sayfasında bulamadığınız herhangi bir fonksiyonu yazmakta özgürsünüz, ancak belirtilenlere ihtiyaç duyduğunuzda kendiniz yazamazsınız.
+21. JavaScript ile yazılan servislerde yorumlamalar, dosya boyutunu yükselttiği ve okunabilirliği zorlaştırdığı için kullanılmaları tavsiye edilmez (TypeScript ile yazılanlar otomatik olarak kaldırıldığı için bunlarda sorun teşkil etmemektedir).
+22. Servisinizin değişkenini her şeyden **ÖNCE** belirleyin. Bu sayede çok nadir oluşabilecek hatalardan kurtulabilirsiniz; bu madde tasarımsal bir gereklilik olmadığı için ileride kaldırılabilir.
+23. Tarayıcılara yerleşik sayfalar için yapılan servislere izin verilmemektedir (örneğin, Chrome Web Mağazası, `chrome://`, `about:` sayfaları gibi). Bu sayfalara kod enjekte edebilmek _gelişmiş bir ayar_ aktifleştirmeyi gerektirdiği ve tarayıcılara zarar verebileceğinden dolayı **yasaktır**.
+24. Servislere, yapıldığı internet sitesinin ana dilinin eklenmemesi **yasaktır**, mesela YouTube'un Türkçe ve İspanyolca kodlanması ancak İngilizce'yi desteklememesi gibi.
 
-After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
+Belirtilen tüm gereksinimleri karşıladığınızda ve servisiniz 2 ony aldığında, servisiniz mağazaya eklenecektir.
 
-# Structure
+# Yapı
 Tüm serivlser [TypeScript](https://www.typescriptlang.org/) ile kodlanır. [TypeScript](https://www.typescriptlang.org/)'in içerisinde bulundurduğu bir çok tanımlamalar ile kodunuzdaki hataları bulmak çok daha kolay olacaktır.
 
 ## Yükleme
@@ -168,32 +168,33 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS İSMİ",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
-  "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "url": "LİNK",
+  "version": "SÜRÜM",
+  "logo": "LOGO LİNKİ",
+  "thumbnail": "KÜÇÜK RESİM LİNKİ",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETİKET1", "ETİKET2"],
+  "category": "KATEGORİ",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": true
         },
         {
@@ -201,17 +202,17 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": "\"%şarkı%\", %sanatçı%",
+            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "vb."]
         }
     ]
 }
@@ -374,10 +375,9 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ayarlar</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Kullanıcıların değiştirebileceği ayarlar array'ı. Daha fazla bilgi için <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">buraya</a> gözatın.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Evet</code>
