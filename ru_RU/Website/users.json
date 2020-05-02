@@ -15,6 +15,10 @@
 		"message": "Создал {0} статусов.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Гениальный разработчик статусов",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
 	"user.geniusPresenceDev.message2": {
 		"message": "Создал более 100 статусов!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
