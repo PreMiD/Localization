@@ -135,6 +135,10 @@
 		"message": "Najpotężniejsze i rozszerzone oprogramowanie Wiki open source.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.fastly": {
+		"message": "Najlepsze w sieci.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "Wyślij zgłoszenie, aby zostać partnerem",
 		"description": "Partnership application modal title."
