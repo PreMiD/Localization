@@ -18,7 +18,7 @@ tags:
 # การโคลนโปรเจ็ค
 1. เปิดเทอร์มินัลแล้วพิมพ์ `git clone URL`  **แทนที่ URL ด้วยลิงก์ที่คุณต้องการโคลน** ปล. `git clone https://github.com/PreMiD/PreMiD`
 2. เลือกโฟลเดอร์ที่คุณต้องการ
-3. Open it in your code editor.
+3. เปิดในโปรแกรมแก้ไขโค้ด
 
 # การติดตั้ง dependencies
 > ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้ง[npm](https://www.npmjs.com/) (Node Package Manager) มันจะติดตั้งเองโดยอัตโนมัติหากคุณมี [Node](https://nodejs.org/en/) ที่ติดตั้งแล้ว 
@@ -28,7 +28,7 @@ tags:
 - เปิดเทอร์มินัลในที่เก็บของคุณแล้วพิมพ์ `npm i`.
 - หากต้องการอัปเดตประเภท  dependencies ให้พิมพ์  `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> โปรดทราบว่าการอัปเดตเวอร์ชันเสถียรอาจจะช้าหรือเร็วนั้นขึ้นอยู่กับการทดสอบ! 
 > 
 > {.is-danger}
 
