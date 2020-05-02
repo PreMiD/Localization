@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Votre présence libre",
+		"message": "Votre présence gratuite",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
@@ -24,7 +24,7 @@
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Être vérifié",
+		"message": "Devenez vérifié",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
@@ -40,7 +40,7 @@
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "Immortalisé",
+		"message": "Soyez immortalisé",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -132,7 +132,7 @@
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "Le logiciel Wiki open source le plus puissant et le plus extensible.",
+		"message": "Le logiciel Wiki open source le plus puissant et extensible.",
 		"description": "Description for WikiJS."
 	},
 	"partners.apply.title": {

@@ -19,6 +19,10 @@
     "message": "ผู้ร่วมมือ",
     "description": "Partner section"
   },
+  "footer.followUs.heading": {
+    "message": "ติดตามเรา",
+    "description": "Follow Us section"
+  },
   "footer.developers.heading": {
     "message": "ผู้พัฒนา",
     "description": "Developer section"

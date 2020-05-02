@@ -15,6 +15,30 @@
         "message": "DJ",
         "description": ""
     },
+    "general.editing": {
+        "message": "코드 편집:",
+        "description": ""
+    },
+    "general.episode": {
+        "message": "에피소드",
+        "description": ""
+    },
+    "general.forums": {
+        "message": "포럼",
+        "description": ""
+    },
+    "general.genre": {
+        "message": "장르",
+        "description": ""
+    },
+    "general.listeningMusic": {
+        "message": "음악 감상중",
+        "description": ""
+    },
+    "general.listeners": {
+        "message": "청취자",
+        "description": ""
+    },
     "general.live": {
         "message": "활성화",
         "description": ""
@@ -31,8 +55,20 @@
         "message": "일시 정지",
         "description": ""
     },
+    "general.playing": {
+        "message": "재생 중",
+        "description": ""
+    },
+    "general.readingChannel": {
+        "message": "다음 채널을 보는 중:",
+        "description": ""
+    },
     "general.reading": {
         "message": "불러오는중",
+        "description": ""
+    },
+    "general.searchFor": {
+        "message": "찾는 중:",
         "description": ""
     },
     "general.search": {
@@ -42,6 +78,26 @@
     "general.store": {
         "message": "상점",
         "description": ""
+    },
+    "general.watchingVid": {
+        "message": "동영상 시청",
+        "description": ""
+    },
+    "general.watchingLive": {
+        "message": "생방송 시청",
+        "description": ""
+    },
+    "general.watching": {
+        "message": "보는 중: {}",
+        "description": ""
+    },
+    "general.wishlist": {
+        "message": "찜 목록:",
+        "description": ""
+    },
+    "general.privacy": {
+        "message": "개인정보 보호 정책",
+        "description": "A page name"
     },
     "general.terms": {
         "message": "이용 약관",

@@ -19,6 +19,10 @@
     "message": "Partenaires",
     "description": "Partner section"
   },
+  "footer.followUs.heading": {
+    "message": "Suivez-nous",
+    "description": "Follow Us section"
+  },
   "footer.developers.heading": {
     "message": "Développeurs",
     "description": "Developer section"

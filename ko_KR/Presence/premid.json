@@ -31,6 +31,10 @@
         "message": "쿠키 정책",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "개인정보 보호 정책",
+        "description": "A page name"
+    },
     "premid.pageTerms": {
         "message": "이용 약관",
         "description": "A page name"

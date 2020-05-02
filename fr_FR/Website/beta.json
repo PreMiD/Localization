@@ -24,7 +24,7 @@
     "description": "Features list"
   },
   "beta.register.text": {
-    "message": "Prêt pour ça ? Rejoignez {0} autres bêta-testeurs !",
+    "message": "Prêt pour cela ? Rejoignez {0} autres bêta-testeurs !",
     "description": "{0} will be replaced with the beta testers count -> is a variable"
   },
   "beta.register.button": {
@@ -32,7 +32,7 @@
     "description": "Sign up button text"
   },
   "thankyou.title": {
-    "message": "Cool ! Vous êtes maintenant un utilisateur bêta!",
+    "message": "Cool ! Vous êtes désormais un utilisateur bêta!",
     "description": "Thank You page title"
   },
   "thankyou.description": {
