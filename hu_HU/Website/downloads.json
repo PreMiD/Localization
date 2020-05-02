@@ -39,6 +39,10 @@
     "message": "Bővítmény letöltése",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Figyelmeztetés:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -63,12 +67,48 @@
     "message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
     "description": "Tippy message of the version number when user is on Linux."
   },
+  "downloads.error.noaccess.title": {
+    "message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Korábbi verziók",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Figyelmeztetés",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.button.skip": {
+    "message": "Átugrás",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Vissza",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Mégse",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Rendben",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Kész",
     "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "Bejelentkezés",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Köszönjük!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Kérlek tiltsd le az adblock-ot.",
+    "description": "Message next to pepe."
   }
 }
