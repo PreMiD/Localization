@@ -67,12 +67,28 @@
         "message": "กำลังอ่านเกี่ยวกับ:",
         "description": ""
     },
+    "general.readingArticle": {
+        "message": "กำลังอ่านบทความ:",
+        "description": ""
+    },
     "general.reading": {
         "message": "กำลังอ่าน...",
         "description": ""
     },
+    "general.searchFor": {
+        "message": "กำลังค้นหา:",
+        "description": ""
+    },
+    "general.searchSomething": {
+        "message": "กำลังค้นหาอะไรบางอย่าง...",
+        "description": ""
+    },
     "general.search": {
         "message": "กำลังค้นหา...",
+        "description": ""
+    },
+    "general.shopCart": {
+        "message": "ตะกร้าสินค้า",
         "description": ""
     },
     "general.store": {
