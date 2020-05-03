@@ -2,7 +2,7 @@
 title: iFrame类
 description:
 published: true
-date: 2020-04-28T20:49:50.437Z
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -32,7 +32,7 @@ iframe.on("UpdateData", async () => {
 ### `发送(对象)`
 向存在发送数据。 使用这个方法将会抛出一个 `iFrameworkData` 事件。
 
-### `getUrl(String)`
+### `getUrl()`
 返回 `iframe` 的 URL。
 
 ## 事件
