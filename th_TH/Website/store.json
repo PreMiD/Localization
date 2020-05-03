@@ -92,7 +92,7 @@
     "description": "Little message next to the keys of search filters on the store."
   },
   "store.filters.added": {
-    "message": "แสดงรายการสิ่งที่เพิ่มเข้ามา",
+    "message": "แสดง Presence ที่ติดตั้งอยู่แล้ว",
     "description": "Store filter to display/not display already installed presences."
   },
   "store.search.removeFilter": {
