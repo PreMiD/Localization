@@ -2,7 +2,7 @@
 title: Класс iFrame
 description:
 published: true
-date: 2020-04-28T20:49:50.437Z
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -32,7 +32,7 @@ iframe.on("UpdateData", async () => {
 ### `отправить(Объект)`
 Отправляет данные в присутствие. С помощью этого метода можно сделать наличие `iFrameData`.
 
-### `getUrl(String)`
+### `getUrl()`
 Возвращает URL `iframe`.
 
 ## События
