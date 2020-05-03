@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Nasze małpki pracują nad tym aby dodać Cię do naszego beta programu tak szybko jak to możliwe. Dziękujemy za rejestrację!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Wygląda na to, że nie mamy już dostępnych miejsc dla beta testerów.",
+		"description": "Shows when the beta slots are full."
 	}
 }
