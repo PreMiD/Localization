@@ -2,7 +2,7 @@
 title: iFrame klass
 description:
 published: true
-date: 2020-04-28T20:49:50.437Z
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -32,7 +32,7 @@ iframe.on("UpdateData", async () => {
 ### `Skicka(Objekt)`
 Skickar data till närvaron. Genom att använda denna metod kommer närvaron att kasta en `iFrameData` -händelse.
 
-### `getUrl(String)`
+### `getUrl()`
 Returnerar URL:en till `iframe`.
 
 ## Händelser
