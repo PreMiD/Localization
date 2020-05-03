@@ -18,7 +18,7 @@ tags:
 # Clonando el proyecto
 1. Abre un terminal y escribe `git clone URL`. **Reemplace la URL con el enlace del repositorio al que desea contribuir** p.e. `git clone https://github.com/PreMiD/PreMiD`.
 2. Elija una carpeta de su elección.
-3. Open it in your code editor.
+3. Ábrelo en tu editor de código.
 
 # Instalando dependencias
 > Asegúrate de haber instalado [npm](https://www.npmjs.com/) (Node Package Manager) primero. Se instaló automáticamente si tienes [Nodo](https://nodejs.org/en/) instalado. 
@@ -28,7 +28,7 @@ tags:
 - Abra un terminal en su repositorio y escriba `npm i`.
 - Para actualizar las dependencias escriba `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Tenga en cuenta que la actualización de las dependencias podría romperse mucho, o no - ¡es necesario hacer pruebas! 
 > 
 > {.is-danger}
 
