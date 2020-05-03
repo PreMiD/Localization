@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "Vous voulez de nouvelles fonctionnalités ?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "La **bêta PreMiD** est maintenant disponible pour tout le monde !",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "Qu'obtiendrez-vous si vous vous inscrivez ?",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "Dernières fonctionnalités",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "Accès aux salons textuels super secrets de PreMiD",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "Un rôle spécial sur notre serveur Discord",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "Prêt pour cela ? Rejoignez {0} autres bêta-testeurs !",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "Inscrivez-vous dès maintenant !",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "Cool ! Vous êtes désormais un utilisateur bêta!",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "Nos singes travaillent à vous faire entrer dans notre programme bêta aussi vite que possible. Merci de vous être inscrit !",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "Vous voulez de nouvelles fonctionnalités ?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "La **bêta PreMiD** est maintenant disponible pour tout le monde !",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Qu'obtiendrez-vous si vous vous inscrivez ?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Dernières fonctionnalités",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Accès aux salons textuels super secrets de PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Un rôle spécial sur notre serveur Discord",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Prêt pour cela ? Rejoignez {0} autres bêta-testeurs !",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Inscrivez-vous dès maintenant !",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Cool ! Vous êtes désormais un utilisateur bêta!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Nos singes travaillent à vous faire entrer dans notre programme bêta aussi vite que possible. Merci de vous être inscrit !",
+		"description": "Thank You page description"
+	}
 }
