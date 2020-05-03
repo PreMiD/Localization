@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "Yeni özellikler mi istiyorsunuz?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiD Beta** artık kullanıma açık!",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "Kayıt olursanız ne kazanacaksınız?",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "En yeni özellikler",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "PreMiD'in süper gizli efsanevi sohbet kanallarına erişim",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "Discord sunucumuzda özel bir rol",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "Hazır mısın? Senin gibi {0} Beta Test Edicisi mevcut, hadi onlara katıl!",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "Şimdi kayıt ol!",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "Muhteşem! Artık bir beta kullanıcısısınız!",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "Yazılımcı maymunlarımız sizi beta programına kaydettirebilmek için elinden gelen her şeyi yapacaktır, kayıt olduğunuz için teşekkürler!",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "Yeni özellikler mi istiyorsunuz?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** artık kullanıma açık!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Kayıt olursanız ne kazanacaksınız?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "En yeni özellikler",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "PreMiD'in süper gizli efsanevi sohbet kanallarına erişim",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Discord sunucumuzda özel bir rol",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Hazır mısın? Senin gibi {0} Beta Test Edicisi mevcut, hadi onlara katıl!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Şimdi kayıt ol!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Muhteşem! Artık bir beta kullanıcısısınız!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Yazılımcı maymunlarımız sizi beta programına kaydettirebilmek için elinden gelen her şeyi yapacaktır, kayıt olduğunuz için teşekkürler!",
+		"description": "Thank You page description"
+	}
 }
