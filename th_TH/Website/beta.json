@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "อยากได้ฟีเจอร์ใหม่ๆ?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiD เบต้า** พร้อมให้ใช้งานทุกคนแล้ว!",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "สมัครแล้วจะได้อะไรบ้าง?",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "ฟีเจอร์ล่าสุด",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "เข้าถึงการแชท PreMiD แบบลับสุดยอด",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "บทบาทพิเศษในเซิร์ฟเวอร์ Discord",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "พร้อมที่จะเข้าหรือยัง? ตอนนี้ มีคนเข้าเบต้าอยู่ {0} คน",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "สมัครเดียวนี้!",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "สุดยอด! ตอนนี้คุณเป็นผู้ใช้เบต้าของเราแล้ว!",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "เรากำลังรีบลงทะเบียนให้คุณได้เข้าร่วมโปรแกรมเบต้าอย่างเร็วที่สุด ขอบคุณที่ลงทะเบียนกับเรา!",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "อยากได้ฟีเจอร์ใหม่ๆ?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD เบต้า** พร้อมให้ใช้งานทุกคนแล้ว!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "สมัครแล้วจะได้อะไรบ้าง?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "ฟีเจอร์ล่าสุด",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "เข้าถึงการแชท PreMiD แบบลับสุดยอด",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "บทบาทพิเศษในเซิร์ฟเวอร์ Discord",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "พร้อมที่จะเข้าหรือยัง? ตอนนี้ มีคนเข้าเบต้าอยู่ {0} คน",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "สมัครเดียวนี้!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "สุดยอด! ตอนนี้คุณเป็นผู้ใช้เบต้าของเราแล้ว!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "เรากำลังรีบลงทะเบียนให้คุณได้เข้าร่วมโปรแกรมเบต้าอย่างเร็วที่สุด ขอบคุณที่ลงทะเบียนกับเรา!",
+		"description": "Thank You page description"
+	}
 }
