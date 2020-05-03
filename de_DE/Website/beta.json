@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "Willst du neue Funktionen?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiD Beta** ist jetzt für alle verfügbar!",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "Was bekommst du, wenn du dich registrierst?",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "Neueste Funktionen",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "Zugriff auf PreMiD's supergeheime Textkanäle",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "Eine besondere Rolle auf unserem Discord Server",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "Bereit dafür? Trete {0} anderen Betatestern bei!",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "Jetzt registrieren!",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "Cool! Du bist jetzt Beta-Benutzer!",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "Unsere Affen arbeiten daran, dich so schnell wie möglich in unser Beta-Programm zu bringen. Vielen Dank für deine Registrierung!",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "Willst du neue Funktionen?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** ist jetzt für alle verfügbar!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Was bekommst du, wenn du dich registrierst?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Neueste Funktionen",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Zugriff auf PreMiD's supergeheime Textkanäle",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Eine besondere Rolle auf unserem Discord Server",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Bereit dafür? Trete {0} anderen Betatestern bei!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Jetzt registrieren!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Cool! Du bist jetzt Beta-Benutzer!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Unsere Affen arbeiten daran, dich so schnell wie möglich in unser Beta-Programm zu bringen. Vielen Dank für deine Registrierung!",
+		"description": "Thank You page description"
+	}
 }
