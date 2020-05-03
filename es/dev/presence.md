@@ -13,22 +13,22 @@ tags:
 La versión `2.x` introduce la [tienda de presencias](https://premid.app/store). Los usuarios ahora tienen la capacidad de añadir y eliminar manualmente sus presencias favoritas a través de la interfaz de usuario del sitio web [](https://premid.app/).
 
 # Directrices
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+> Si **NO** sigue las normas, un `Verificador de Presencias` solicitará los cambios adecuados, o tendrá que cerrarlo bajo ciertas circunstancias. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Cuando solicites un Pull Request para añadir o modificar presencias existentes, **DEBES** incluir una captura de pantalla. Sin embargo, las modificaciones en los archivos `metadata.json` o `tsconfig.json` **NOT** requieren una captura de pantalla. _Tu captura de pantalla **DEBE** ser subida directamente a GitHub mediante Pull Request, **NO** utilice sitios para compartir imágenes de terceros_ 
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Para algunos, estas reglas estrictas pueden parecer duras. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estas reglas estrictas pueden parecer duras. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
 
 ## Creación
 > El código que escribas DEBE estar *bien escrito* y DEBE ser *legible*. `DeepScan` en GitHub reportará problemas de calidad de código al `Equipo de Verificación de Presencias`. Recomendamos que su fork esté actualizado al solicitar un Pull Request, esto limitará falsos positivos. 
 > 
 > {.is-warning}
 
-- El pull request **DEBE** estar completo, necesita tener una estructura de archivos adecuada, los borradores **NO** están permitidos. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- El pull request **DEBE** estar completo, necesita tener una estructura de archivos adecuada, los borradores **NO** están permitidos. Incluyendo la carpeta `dist`, el archivo `presence.ts`, el archivo `tsconfig.json`, el archivo `presence.js` y el archivo `metadata.json`, como es representado en el siguiente esquema de ejemplo:
 ```bash
 presence
 ├── dist
@@ -37,7 +37,7 @@ presence
 ├── presence.ts
 └── tsconfig.json
 ```
-or if you're using `iframe`:
+o si utilizas `iframe`:
 ```bash
 presence
 ├── dist
@@ -50,27 +50,27 @@ presence
 ```
 
 Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
-- The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. Estos incluyen páginas estresantes, sustancias ilegales, pornografía infantil, etc.
-- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
-- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
-- If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
-- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
-- Your Presence **CANNOT** manipulate local storage on the browser.
-- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
+- La presencia **DEBE** estar relacionada con el sitio web que ha elegido.
+- La presencia **NO DEBE** ser de ningún sitio web ilegal. Estos incluyen páginas estresantes, sustancias ilegales, pornografía infantil, etc.
+- Los metadatos de una presencia **DEBEN** tener un formato correcto, incluyendo títulos válidos y descripciones.
+- Los archivos que incluyan (icono/miniatura) **DEBEN** estar relacionados con el sitio web y deben ser correctos en términos de tamaño y calidad.
+- La estructura de archivos **DEBE** ser limpia y controlada, **NO** debe haber archivos aleatorios que no proporcionen nada a la función de la presencia.
+- La presencia **NO DEBE** tener intenciones maliciosas. Estas incluyen robo/filtración de información privada, afectar negativamente al comportamiento del sitio web, etc.
+- Si diseña una presencia para un sitio que cambia en el futuro y como resultado, potencialmente rompe su presencia, usted **ES** responsable de actualizarlo para que funcione como se esperaba. Si **NO** se arreglase en un plazo de 7 días, otros desarrolladores de presencias pueden **CORREGIR** su presencia para incluir los cambios necesarios.
+- La presencia **DEBE** ser probada antes de publicarse para confirmar que todo funciona como se esperaba.
+- Su presencia **DEBE** tener imágenes y descripciones SFW independientemente de si es NSFW o no. Si su presencia es acerca de un sitio web con contenido NSFW, por favor agregue la etiqueta `nsfw` en sus metadatos.
+- Su presencia **NO PUEDE** manipular el almacenamiento local del navegador.
+- Tu presencia puede usar cookies para almacenar datos, tienes que prefijarlas todas con `pmd_`.
+- El nombre de tu presencia **DEBE** ser el nombre del directorio que usa la presencia. Por ejemplo, una presencia llamada `Google Docs` debe tener el directorio de `/Google Docs/`. (debes incluir todos los espacios, períodos, comas y cualquier otro carácter especial)
 
 ## Modificación
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
+> DEBES actualizar la versión en los **metadatos** a un valor mayor al de la versión anterior cuando hagas cambios en cualquiera de los archivos **presence.ts**/**presence.js** o **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **DEBE** tener en cuenta al modificar una presencia.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- Usted **NO** tiene permitido reescribir una presencia o cambiar su autor. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
 - Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
@@ -147,11 +147,11 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+3. Cree una carpeta llamada `dist` en su interior.
+4. Cree un archivo `metadata.json` dentro de la carpeta `dist`.
 
 ## Rellenar el archivo tsconfig.json
-Please put the following code inside of the `tsconfig.json` file.
+Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 ```javascript
 {
   "extends": "../tsconfig.json",
