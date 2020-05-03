@@ -2,7 +2,7 @@
 title: iFrame клас
 description:
 published: true
-date: 2020-04-28T20:49:50.437Z
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -32,7 +32,7 @@ iframe.on("UpdateData", async () => {
 ### `send(Об'єкт)`
 Надсилає дані присутності. Використання цього методу призведе до події `iFrameData`.
 
-### `getUrl(String)`
+### `getUrl()`
 Повертає URL для `iframe`.
 
 ## Події
