@@ -91,6 +91,10 @@
     "message": "按 Enter 鍵",
     "description": "Little message next to the keys of search filters on the store."
   },
+  "store.filters.added": {
+    "message": "顯示已添加的",
+    "description": "Store filter to display/not display already installed presences."
+  },
   "store.search.removeFilter": {
     "message": "點選以移除過濾器。",
     "description": "Remove message for active search filters."
