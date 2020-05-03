@@ -2,7 +2,7 @@
 title: iFrame Sınıfı
 description:
 published: true
-date: 2020-04-28T20:49:50.437Z
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -32,7 +32,7 @@ iframe.on("UpdateData", async () => {
 ### `send(Object)`
 Veriyi servis koduna gönderir. Bu metodu kullanmak servis kodunda bir `iFrameData` eventi çalıştıracaktır.
 
-### `getUrl(String)`
+### `getUrl()`
 `iframe`'in bağlantısını gösterir.
 
 ## Eventler/Eylemler
