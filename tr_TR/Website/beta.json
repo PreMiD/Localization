@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Yazılımcı maymunlarımız sizi beta programına kaydettirebilmek için elinden gelen her şeyi yapacaktır, kayıt olduğunuz için teşekkürler!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Görünüşe göre beta için daha fazla yerimiz kalmamış.",
+		"description": "Shows when the beta slots are full."
 	}
 }
