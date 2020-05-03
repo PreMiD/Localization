@@ -72,7 +72,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
-		"message": "ยืนยัน Presence ",
+		"message": "ผู้ตรวจสอบ Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
