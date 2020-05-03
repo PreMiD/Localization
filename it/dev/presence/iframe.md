@@ -2,7 +2,7 @@
 title: Classe iFrame
 description:
 published: vero
-date: 2020-04-28T20:49:50.437Z
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -32,7 +32,7 @@ iframe.on("UpdateData", async () => {
 ### `send(Object)`
 Manda dati alla presence. Usare questo metodo permetterà alla presence di lanciare un evento `iFrameData`.
 
-### `getUrl(String)`
+### `getUrl()`
 Ritorna l'URL dell'`iframe`.
 
 ## Eventi
