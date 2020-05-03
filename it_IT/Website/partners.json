@@ -119,6 +119,10 @@
 		"message": "Il Software Wiki open source più potente ed estensivo.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Un unica e amichevole interfaccia per tutti i tuoi artefatti.",
+		"description": "Description for PackageCloud."
+	},
 	"partners.apply.select.other": {
 		"message": "Altro",
 		"description": "Select 'Other' category."

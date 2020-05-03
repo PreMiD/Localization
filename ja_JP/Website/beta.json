@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "新機能が欲しいかい？",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiD Beta**が、誰でも使えるようになりました！",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "登録したら何がもらえるの？",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "最新の機能",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "PreMiDの超秘密のテキストチャンネル",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "Discordサーバー内での特別なロール",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "準備はいい？ {0}人のベータテスターに加わろう！",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "今すぐ登録しよう！",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "ベータユーザーになりました！",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "ベータプログラムに登録していただき、ありがとうございます！\n承認されるまでには時間がかかる場合があります。",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "新機能が欲しいかい？",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta**が、誰でも使えるようになりました！",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "登録したら何がもらえるの？",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "最新の機能",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "PreMiDの超秘密のテキストチャンネル",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Discordサーバー内での特別なロール",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "準備はいい？ {0}人のベータテスターに加わろう！",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "今すぐ登録しよう！",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "ベータユーザーになりました！",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "ベータプログラムに登録していただき、ありがとうございます！\n承認されるまでには時間がかかる場合があります。",
+		"description": "Thank You page description"
+	}
 }

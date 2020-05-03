@@ -1,14 +1,14 @@
 {
-  "beta.title": {
-    "message": "Soovid uusi võimalusi?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiDi Beeta** on saadaval kõigile!",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "Mida sa saad, kui sa registeerid?",
-    "description": "Section description"
-  }
+	"beta.title": {
+		"message": "Soovid uusi võimalusi?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiDi Beeta** on saadaval kõigile!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Mida sa saad, kui sa registeerid?",
+		"description": "Section description"
+	}
 }

@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "Wil je nieuwe functies?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiD Beta** is nu beschikbaar voor iedereen!",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "Wat krijg je als je je aanmeldt?",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "Nieuwste functies",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "Toegang tot PreMiD's super geheime tekstkanalen",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "Een speciale rol op onze Discord server",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "Klaar ervoor? Sluit je aan bij {0} andere Beta Testers!",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "Meld u nu aan!",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "Cool! Je bent nu een beta-gebruiker!",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "Onze apen proberen je zo snel mogelijk in ons beta-programma te krijgen. Bedankt voor het registreren!",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "Wil je nieuwe functies?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** is nu beschikbaar voor iedereen!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Wat krijg je als je je aanmeldt?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Nieuwste functies",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Toegang tot PreMiD's super geheime tekstkanalen",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Een speciale rol op onze Discord server",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Klaar ervoor? Sluit je aan bij {0} andere Beta Testers!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Meld u nu aan!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Cool! Je bent nu een beta-gebruiker!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Onze apen proberen je zo snel mogelijk in ons beta-programma te krijgen. Bedankt voor het registreren!",
+		"description": "Thank You page description"
+	}
 }
