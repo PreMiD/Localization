@@ -52,7 +52,7 @@
     "description": "Adult content checkbox"
   },
   "store.category.filters.likedOnly": {
-    "message": "Tylko polubione obecności",
+    "message": "Tylko polubione statusy",
     "description": "Liked presences only checkbox"
   },
   "store.category.heading": {
@@ -90,6 +90,10 @@
   "store.search.filters": {
     "message": "naciśnij klawisz enter",
     "description": "Little message next to the keys of search filters on the store."
+  },
+  "store.filters.added": {
+    "message": "Pokaż dodane statusy",
+    "description": "Store filter to display/not display already installed presences."
   },
   "store.search.removeFilter": {
     "message": "Kliknij, aby usunąć filtr.",
