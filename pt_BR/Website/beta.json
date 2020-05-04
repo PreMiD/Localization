@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Nossos macacos estão trabalhando para lhe colocar em nosso programa beta o mais rápido possível. Obrigado por se registrar!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Parece que não temos mais nenhum slot beta disponível.",
+		"description": "Shows when the beta slots are full."
 	}
 }
