@@ -78,5 +78,9 @@
     "general.store": {
         "message": "商店",
         "description": ""
+    },
+    "general.language": {
+        "message": "語言",
+        "description": "For choosing a language"
     }
 }
