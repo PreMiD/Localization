@@ -80,7 +80,7 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 
 > Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. Wszyscy `Weryfikatorzy Statusów` będą mieli specialną rolę na ich profilu.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Oto kilka rzeczy, na które należy zwrócić uwagę przy składaniu żądania "pull request".
+Aby twój status dotarł do sklepu, to **MUSI** on przejść przez proces na GitHub'ie aby potwierdzić, że działa tak jak powinnien. Oto kilka rzeczy, na które należy zwrócić uwagę przy składaniu żądania "pull request".
 
 1. It takes two verifiers to confirm that your Presence is up to standards. Jeśli zdarzy ci się otrzymać prośbę o zmianę, podejmij odpowiedni wysiłek i dokonaj poprawek, w przeciwnym razie **NIE** zostanie ona dodana.
 2. Jeśli poprosimy o zmiany, a Twoje żądanie "pull request" przekroczy ** 7 dni nieaktywności ** bez wprowadzenia niezbędnych zmian, będziemy zmuszeni je zamknąć.
