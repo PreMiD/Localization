@@ -22,5 +22,17 @@
     "general.store": {
         "message": "Presence 市场",
         "description": ""
+    },
+    "general.privacy": {
+        "message": "隐私条款",
+        "description": "A page name"
+    },
+    "general.terms": {
+        "message": "服务条款",
+        "description": "A page name"
+    },
+    "general.language": {
+        "message": "语言",
+        "description": "For choosing a language"
     }
 }
