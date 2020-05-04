@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Do'kon",
         "description": ""
+    },
+    "general.language": {
+        "message": "Til",
+        "description": "For choosing a language"
     }
 }
