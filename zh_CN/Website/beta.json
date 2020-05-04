@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "感谢您的加入！我们正在竭尽全力的把您添加到我们的测试程序当中。",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "看来我们没有更多的 Beta 名额了。",
+		"description": "Shows when the beta slots are full."
 	}
 }

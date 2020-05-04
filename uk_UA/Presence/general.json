@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Умови обслуговування",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Мова",
+        "description": "For choosing a language"
     }
 }

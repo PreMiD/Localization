@@ -70,5 +70,9 @@
     "general.wishlist": {
         "message": "Списък с желания:",
         "description": ""
+    },
+    "general.language": {
+        "message": "език",
+        "description": "For choosing a language"
     }
 }

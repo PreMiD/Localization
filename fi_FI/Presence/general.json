@@ -66,5 +66,9 @@
     "general.store": {
         "message": "Kauppa",
         "description": ""
+    },
+    "general.language": {
+        "message": "Kieli",
+        "description": "For choosing a language"
     }
 }

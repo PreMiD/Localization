@@ -90,5 +90,9 @@
     "general.terms": {
         "message": "Пользовательское соглашение",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Язык",
+        "description": "For choosing a language"
     }
 }

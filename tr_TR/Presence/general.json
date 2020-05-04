@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Kullanım Koşulları",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Dil",
+        "description": "For choosing a language"
     }
 }

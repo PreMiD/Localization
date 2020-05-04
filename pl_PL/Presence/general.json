@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Warunki korzystania z usług",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Język",
+        "description": "For choosing a language"
     }
 }

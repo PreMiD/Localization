@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Butik",
         "description": ""
+    },
+    "general.language": {
+        "message": "Språk",
+        "description": "For choosing a language"
     }
 }

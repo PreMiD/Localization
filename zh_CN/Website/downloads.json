@@ -39,6 +39,10 @@
     "message": "扩展程序",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "警告：",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} 没有为该操作系统创建的安装程序，这意味着您将没有技术支持。",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -75,16 +79,56 @@
     "message": "你可以免费加入我们的 **Beta 测试**。时间不多了！还剩最后 {0} 个名额 (总共200个)。",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "先遣测试版",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "警告",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "别忘了在扩展设置中打开“允许来自其他应用商店的扩展”。",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "您必须安装**本扩展程序**才能从 Chrome 网上应用店安装 PreMiD。",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "跳过",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "返回",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "取消",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "好的",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "完成",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "登录",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "感谢你!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "我们通过广告来维持我们的团队和服务器，来为您提供最好的用户体验！",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "请暂时停用您的广告拦截程序。",
+    "description": "Message next to pepe."
   }
 }

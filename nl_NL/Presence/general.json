@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Algemene voorwaarden",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Taal",
+        "description": "For choosing a language"
     }
 }

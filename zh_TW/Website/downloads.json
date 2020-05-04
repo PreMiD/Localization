@@ -88,7 +88,7 @@
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
   "downloads.warning.message.edge": {
-    "message": "不要忘記在擴展功能中的設置啟用“開發人員模式”選項。",
+    "message": "不要忘記在擴展功能中的設置啟用“允許來自其他存放區的擴充功能”選項。",
     "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
   },
   "downloads.warning.message.opera": {

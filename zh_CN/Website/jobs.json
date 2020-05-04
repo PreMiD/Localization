@@ -11,6 +11,10 @@
 		"message": "继续",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "加入",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "取消",
 		"description": "Cancel, button in the modal."
@@ -22,6 +26,14 @@
 	"jobs.modal.notice": {
 		"message": "PreMiD 是一个开源产品，这意味着我们是一个非营利团队，每笔捐赠都会回到产品中。 如果您在 PreMiD 申请职位，您会承认您是在团队中的志愿者，您的工作将不会得到报酬。",
 		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "加入我们的 Discord 服务器",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "您必须加入我们的 Discord 服务器才可以申请。否则，如果您最终被选中，我们将无法与您联系！",
+		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
 		"message": "为  PreMiD 工作。",

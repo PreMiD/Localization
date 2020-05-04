@@ -22,5 +22,9 @@
     "general.store": {
         "message": "Obchod",
         "description": ""
+    },
+    "general.language": {
+        "message": "Jazyk",
+        "description": "For choosing a language"
     }
 }

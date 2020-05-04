@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Trgovina",
         "description": ""
+    },
+    "general.language": {
+        "message": "Jezik",
+        "description": "For choosing a language"
     }
 }

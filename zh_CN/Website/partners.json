@@ -111,6 +111,26 @@
 		"message": "玩家赚取收入的平台。",
 		"description": "Description for iLoot."
 	},
+	"partners.apply.title": {
+		"message": "申请成为合作伙伴",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "已登入为 {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "不是您？",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "请选择",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "网站",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "其他",
 		"description": "Select 'Other' category."
@@ -119,8 +139,60 @@
 		"message": "名称",
 		"description": "Name filed."
 	},
+	"partners.apply.form.name.placeholder": {
+		"message": "例子: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "链接",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "例如：https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "简介：（最多100个字符）",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "功能说明",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "图片链接：(50x300，仅PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "例如：https://iimgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "关闭",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "申请",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "感谢您的申请！",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "请填写所有字段。",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "最多150个字符。",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "请添加一个链接（必须以 https:// 开头并以 .png 结尾）",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "您已经申请了成为合作伙伴。",
+		"description": "Error when already applied."
 	}
 }

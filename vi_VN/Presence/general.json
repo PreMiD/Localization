@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Điều khoản sử dụng",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Ngôn ngữ",
+        "description": "For choosing a language"
     }
 }

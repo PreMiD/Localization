@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "شروط الخدمة",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "اللغة",
+        "description": "For choosing a language"
     }
 }

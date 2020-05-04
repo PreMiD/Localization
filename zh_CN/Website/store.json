@@ -91,6 +91,10 @@
     "message": "按下回车键",
     "description": "Little message next to the keys of search filters on the store."
   },
+  "store.filters.added": {
+    "message": "已添加",
+    "description": "Store filter to display/not display already installed presences."
+  },
   "store.search.removeFilter": {
     "message": "点击删除过滤标签。",
     "description": "Remove message for active search filters."
