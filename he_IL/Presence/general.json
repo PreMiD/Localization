@@ -26,5 +26,9 @@
     "general.store": {
         "message": "חנות",
         "description": ""
+    },
+    "general.language": {
+        "message": "שפה",
+        "description": "For choosing a language"
     }
 }
