@@ -68,7 +68,7 @@
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
-		"message": "Nasza zapora",
+		"message": "Nasza zapora sieciowa",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
@@ -134,6 +134,10 @@
 	"partners.partner.wikijs": {
 		"message": "Najpotężniejsze i rozszerzone oprogramowanie Wiki open source.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Jednolity, przyjazny dla deweloperów interfejs dla wszystkich Twoich artefaktów.",
+		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
 		"message": "Najlepsze w sieci.",
