@@ -174,5 +174,9 @@
     "general.terms": {
         "message": "Felhasználási feltételek",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Nyelv",
+        "description": "For choosing a language"
     }
 }
