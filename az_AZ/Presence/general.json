@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Mağaza",
         "description": ""
+    },
+    "general.language": {
+        "message": "Dil",
+        "description": "For choosing a language"
     }
 }
