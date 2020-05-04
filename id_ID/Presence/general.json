@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Ketentuan Layanan",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Bahasa",
+        "description": "For choosing a language"
     }
 }
