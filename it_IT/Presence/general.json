@@ -122,5 +122,9 @@
     "general.viewCategory": {
         "message": "Visualizzando categorie:",
         "description": ""
+    },
+    "general.language": {
+        "message": "Lingua",
+        "description": "For choosing a language"
     }
 }
