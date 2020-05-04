@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Magazin",
         "description": ""
+    },
+    "general.language": {
+        "message": "Limbă",
+        "description": "For choosing a language"
     }
 }
