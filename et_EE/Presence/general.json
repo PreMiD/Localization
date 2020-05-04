@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Pood",
         "description": ""
+    },
+    "general.language": {
+        "message": "Keel",
+        "description": "For choosing a language"
     }
 }
