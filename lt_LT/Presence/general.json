@@ -214,5 +214,9 @@
     "general.terms": {
         "message": "Naudojimosi sąlygos",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "Kalba",
+        "description": "For choosing a language"
     }
 }
