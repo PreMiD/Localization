@@ -26,5 +26,9 @@
     "general.store": {
         "message": "Prodavnica",
         "description": ""
+    },
+    "general.language": {
+        "message": "Jezik",
+        "description": "For choosing a language"
     }
 }
