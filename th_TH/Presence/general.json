@@ -138,5 +138,9 @@
     "general.terms": {
         "message": "เงื่อนไขการใช้บริการ",
         "description": "A page name"
+    },
+    "general.language": {
+        "message": "ภาษา",
+        "description": "For choosing a language"
     }
 }
