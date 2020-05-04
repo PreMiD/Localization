@@ -28,7 +28,7 @@ When publishing Presences to this GitHub, we require you to follow a set of guid
 > 
 > {.is-warning}
 
-- Pull request **MUSI** być kompletny, musisz mieć prawidłową strukturę plików, szkice **NIE** dozwolone. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- Pull request **MUSI** być kompletny, musisz mieć prawidłową strukturę plików, szkice **NIE** dozwolone. Wliczając w to plik `presence.ts`, plik `tsconfig.json`, plik `presence.js`, plik `metadata.json` oraz folder `dist`, który jest reprezentowany w poniższym przykładowym schemacie:
 ```bash
 presence
 ├── dist
@@ -37,7 +37,7 @@ presence
 ├── presence.ts
 └── tsconfig.json
 ```
-or if you're using `iframe`:
+lub jeżeli używasz `iframe`:
 ```bash
 presence
 ├── dist
@@ -50,18 +50,18 @@ presence
 ```
 
 Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
-- The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp.
+- Status **MUSI** być związany z stroną, którą wybrałeś.
+- Status **NIE MOŻE** być związany z żadną nielegalną stroną. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - Dołączone media (ikona/miniatura) **MUSZĄ** być powiązane z witryną i powinny być zrozumiałe pod względem wielkości i jakości.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
 - The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
-- If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
-- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
+- Jeżeli projektujesz status dla witryny, która zmieni się w przyszłości, i przez to może zniszczyć twój status **JESTEŚ** odpowiedzialny za aktualizacje go, żeby działał tak jak oczekiwano. Jeżeli **NIE** naprawisz tego w ciągu 7 dni, inni deweloperzy statusów mają prawo do **NADPISANIA** statusu, aby działał tak jak powinien.
+- Status **MUSI** być testowany przed opublikowaniem, aby potwierdzić, że wszystko działa tak jak powinno.
 - Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
 - Your Presence **CANNOT** manipulate local storage on the browser.
 - Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
+- Nazwa twojego statusu **MUSI** być nazwą twojego katalogu statusu. Na przykład, Status nazwany `Google Docs` musi mieć katalog `/Google Docs/`. (Powinieneś zaliczyć w to wszystkie spacje, kropki, przecinki czy inne znaki)
 
 ## Modyfikacja
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
@@ -78,7 +78,7 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 
 # Weryfikacja
 
-> Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. All `Presence Verifiers` will have a unique role in their profile.
+> Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. Wszyscy `Weryfikatorzy Statusów` będą mieli specialną rolę na ich profilu.
 
 For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Oto kilka rzeczy, na które należy zwrócić uwagę przy składaniu żądania "pull request".
 
@@ -131,7 +131,7 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
 
 # Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Wszystkie statusy są kodowane w [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ma kilka dodatkowych definicji nad JavaScriptem, więc naprawianie i identyfikowanie błędów jest o wiele prostsze.
 
 ## Instalacja
 1. Zainstaluj program [Git](https://git-scm.com/).
@@ -139,7 +139,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz konsole i wpisz `npm install -g typescript`).
 
 ## Klonowanie projektu
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Otwórz terminal i wpisz `git clone https://github.com/PreMiD/Presences`.
 2. Wybierz folder.
 3. Otwórz go w twoim edytorze kodu.
 
@@ -491,16 +491,16 @@ presence.on("iFrameData", data => {
 Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować `presence.ts` w folderze `/dist`.
 
 # Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Otwórz okienko i przytrzymaj klawisz <kbd>Shift</kbd> na twojej klawiaturze.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# Kilka pomocnych rzeczy
 ## Hot-reloading
 Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem, gdy zapisujesz plik w folderze.
 
-## Debugging
+## Debugowanie
 - Możesz umieścić `console.log („Test”);` między kodem i sprawdzić, czy konsola przeglądarki daje ci taki wynik. Jeśli tak, kontynuuj i spróbuj ponownie po następnej funkcji. Jeśli nie, oznacza to błąd powyżej.
 - Jeśli to nie pomoże, poproś o pomoc programistę Presence na naszym [serwerze Discord](https://discord.gg/WvfVZ8T).
 
