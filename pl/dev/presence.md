@@ -73,7 +73,7 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 - **NIE** możesz przepisywać Presence lub zmieniać jego autora. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
 - Każdy może udostępnić poprawki do naprawy błędów; jednak staraj się **NIE** wprowadzać zmian w kodzie, jeżeli **NIE** ma takiej potrzeby. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Skontaktuj się z `Weryfikatorem Presence`, aby uzyskać więcej informacji na ten temat.
-- Upewnij się, że zmiany są przydatne. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
+- Upewnij się, że zmiany są przydatne. These may include fixes (code and typos), additions (descriptions and tags), etc. **NIE** zmieniaj obrazków, jeżeli nie są przestarzałe i mają przyzwoitą rozdzielczość.
 - Potwierdź, że zmiany działają przed publikacją. Do **NOT** create pull requests without knowing the outcome of your changes.
 
 # Weryfikacja
@@ -130,7 +130,7 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 
 After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
 
-# Structure
+# Struktura
 Wszystkie statusy są kodowane w [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ma kilka dodatkowych definicji nad JavaScriptem, więc naprawianie i identyfikowanie błędów jest o wiele prostsze.
 
 ## Instalacja
@@ -459,7 +459,7 @@ Aby uzyskać więcej informacji o klasie Presence, kliknij [tutaj](/dev/presence
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Sprawdź je w konsoli przeglądarki (upewnij się, że jesteś na karcie **Elementy**).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) albo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute `document.querySelectorAll("iframe")`.
 
 Jeśli okaże się, że Twoje dane znajdują się w ramce iFrame, wykonaj następujące czynności:
@@ -479,7 +479,7 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Zrobienie, by plik Statusu odbierał dane z pliku iFrame.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
@@ -493,8 +493,8 @@ Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować `presence.ts
 # Loading the presence
 1. Otwórz okienko i przytrzymaj klawisz <kbd>Shift</kbd> na twojej klawiaturze.
 2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+3. Kliknij na to, kiedy nadal przytrzymujesz przycisk <kbd>Shift</kbd>.
+4. Wybierz folder /dist twojego statusu.
 
 # Kilka pomocnych rzeczy
 ## Hot-reloading
