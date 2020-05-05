@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-04-30T17:41:23.702Z
+date: 2020-05-05T15:22:38.386Z
 tags:
 ---
 
@@ -426,10 +426,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", async () => {
     /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. This is called several times a second where possible.
 
-    Dianjurkan untuk mempersiapkan function lain diluar event function ini yang akan merubah nilai variabel dan melakukan kerja keras jika anda meminta data dari API
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData = {
-        largeImageKey: "key", /*Key (nama file) dari gambar besar pada presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
+    var presenceData: presenceData = {
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
         smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
