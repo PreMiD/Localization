@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-04-30T17:41:23.702Z
+date: 2020-05-05T15:22:38.386Z
 tags:
 ---
 
@@ -21,7 +21,7 @@ Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkowni
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Dla niektórych te surowe zasady mogą wydawać się surowe. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Kiedy publikujesz statusy do tego GitHuba, wymagamy przestrzegania zbioru wytycznych. Dla niektórych te surowe zasady mogą wydawać się surowe. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 ## Tworzenie
 > Kod, który zapisałeś MUSI być *dobrze napisany* i *czytelny*. `DeepScan` na GitHub zgłosi problemy z jakością kodu do `Zespołu Weryfikacji Prezentacji`. Zalecamy, aby Twój fork był aktualny podczas pobierania żądań, pomoże to ograniczyć fałszywe dodatnie. 
@@ -52,15 +52,15 @@ presence
 Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Status **MUSI** być związany z stroną, którą wybrałeś.
 - Status **NIE MOŻE** być związany z żadną nielegalną stroną. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp.
-- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
+- Metadata statusu **MUSI** zawierać dobrze napisaną treść, w tym tytuły i opisy.
 - Dołączone media (ikona/miniatura) **MUSZĄ** być powiązane z witryną i powinny być zrozumiałe pod względem wielkości i jakości.
-- The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
-- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
+- Struktura plików **MUSI** być czysta i zarządzana, **NIE MOŻE** mieć losowych plików, które nic nie wnoszą do funkcji statusu.
+- Status **NIE MOŻE** mieć żadnych złych intencji. Obejmują one kradzież/wyciek prywatnych informacji, negatywny wpływ na zachowanie strony itd.
 - Jeżeli projektujesz status dla witryny, która zmieni się w przyszłości, i przez to może zniszczyć twój status **JESTEŚ** odpowiedzialny za aktualizacje go, żeby działał tak jak oczekiwano. Jeżeli **NIE** naprawisz tego w ciągu 7 dni, inni deweloperzy statusów mają prawo do **NADPISANIA** statusu, aby działał tak jak powinien.
 - Status **MUSI** być testowany przed opublikowaniem, aby potwierdzić, że wszystko działa tak jak powinno.
-- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
-- Your Presence **CANNOT** manipulate local storage on the browser.
-- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
+- Twój status **MUSI** mieć zdjęcia i opisy SFW, nawet jeżeli jest NSFW. Jeżeli twój status jest o stronie NSFW, dodaj tag `nsfw` do twoich metadanych.
+- Twój status **NIE MOŻE** manipulować pamięcią lokalną w przeglądarce.
+- Twój status może używać ciasteczek do przechowywania informacji, musisz prefiksnąć wszystkie z nich za pomocą `pmd_`.
 - Nazwa twojego statusu **MUSI** być nazwą twojego katalogu statusu. Na przykład, Status nazwany `Google Docs` musi mieć katalog `/Google Docs/`. (Powinieneś zaliczyć w to wszystkie spacje, kropki, przecinki czy inne znaki)
 
 ## Modyfikacja
@@ -68,7 +68,7 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Oto lista, którą **MUSISZ** przestrzegać, aby modyfikować statusy.
 
 - **NIE** możesz przepisywać Presence lub zmieniać jego autora. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
 - Każdy może udostępnić poprawki do naprawy błędów; jednak staraj się **NIE** wprowadzać zmian w kodzie, jeżeli **NIE** ma takiej potrzeby. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
@@ -82,7 +82,7 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 
 Aby twój status dotarł do sklepu, to **MUSI** on przejść przez proces na GitHub'ie aby potwierdzić, że działa tak jak powinnien. Oto kilka rzeczy, na które należy zwrócić uwagę przy składaniu żądania "pull request".
 
-1. It takes two verifiers to confirm that your Presence is up to standards. Jeśli zdarzy ci się otrzymać prośbę o zmianę, podejmij odpowiedni wysiłek i dokonaj poprawek, w przeciwnym razie **NIE** zostanie ona dodana.
+1. Aby potwierdzić, że Twój status jest zgodny ze standardami, trzeba dwóch weryfikatorów. Jeśli zdarzy ci się otrzymać prośbę o zmianę, podejmij odpowiedni wysiłek i dokonaj poprawek, w przeciwnym razie **NIE** zostanie ona dodana.
 2. Jeśli poprosimy o zmiany, a Twoje żądanie "pull request" przekroczy ** 7 dni nieaktywności ** bez wprowadzenia niezbędnych zmian, będziemy zmuszeni je zamknąć.
 3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. (np. jego autor, jeśli nie możesz uzyskać do niego dostępu z jakiegokolwiek powodu).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
@@ -91,7 +91,7 @@ Aby twój status dotarł do sklepu, to **MUSI** on przejść przez proces na Git
 7. Presences for free domains or hosts (e.g., .TK, [all free Freenom domains], .RF.GD, etc) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
 8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
-10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+10. Presences should at least have one tag. Tagi **NIE** mogą zawierać spacji, ukośników, pojedynczych/podwójnych cudzysłowów, znaków Unicode i powinny zawsze być pisane z małej litery.
 11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
 12. Descriptions and tags should always be in an array, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
 13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
@@ -428,7 +428,7 @@ presence.on("UpdateData", async () => {
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData = {
+    var presenceData: presenceData = {
         largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
@@ -456,16 +456,16 @@ Aby uzyskać więcej informacji o klasie Presence, kliknij [tutaj](/dev/presence
 
 ## Nie można uzyskać pewnych danych?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Wiele stron używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Te tagi html mogą zawierać wiele źródeł, takich jak filmy. Ale nie są istotne za każdym razem. Niektóre z nich są ukryte albo po prostu nie są używane. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Sprawdź je w konsoli przeglądarki (upewnij się, że jesteś na karcie **Elementy**).
 2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) albo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute `document.querySelectorAll("iframe")`.
 
 Jeśli okaże się, że Twoje dane znajdują się w ramce iFrame, wykonaj następujące czynności:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+1. Stwórz plik `iframe.ts`.
+2. Ustaw iFrame na `true` w twoim pliku metadanych.
+3. Wypełnianie w twoim pliku iFrame.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
@@ -490,9 +490,9 @@ presence.on("iFrameData", data => {
 ## Kompilacja
 Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować `presence.ts` w folderze `/dist`.
 
-# Loading the presence
+# Ładowanie statusu
 1. Otwórz okienko i przytrzymaj klawisz <kbd>Shift</kbd> na twojej klawiaturze.
-2. **Load Presence** will appear in the Presences section.
+2. **Load Presence** pojawi się w sekcji Presences.
 3. Kliknij na to, kiedy nadal przytrzymujesz przycisk <kbd>Shift</kbd>.
 4. Wybierz folder /dist twojego statusu.
 
@@ -504,7 +504,7 @@ Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem
 - Możesz umieścić `console.log („Test”);` między kodem i sprawdzić, czy konsola przeglądarki daje ci taki wynik. Jeśli tak, kontynuuj i spróbuj ponownie po następnej funkcji. Jeśli nie, oznacza to błąd powyżej.
 - Jeśli to nie pomoże, poproś o pomoc programistę Presence na naszym [serwerze Discord](https://discord.gg/WvfVZ8T).
 
-# Files explained
+# Wyjaśnienie plików
 - [Klasa Presence](/dev/presence/class)
 - [Klasa iFrame](/dev/presence/iframe)
 - [Plik Metadata](/dev/presence/metadata)
