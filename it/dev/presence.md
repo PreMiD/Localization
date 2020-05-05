@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-04-30T17:41:23.702Z
+date: 2020-05-05T15:22:38.386Z
 tags:
 ---
 
@@ -430,7 +430,7 @@ presence.on("UpdateData", async () => {
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData = {
+    var presenceData: presenceData = {
         largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
