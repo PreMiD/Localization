@@ -135,6 +135,14 @@
 		"message": "En güçlü ve en gelişmiş Viki yazılımı.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Tüm eserleriniz için birleşik, geliştirici dostu arayüz.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Web'in en iyilerinin yanında.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "Partnerliğe başvur",
 		"description": "Partnership application modal title."

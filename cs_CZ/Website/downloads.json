@@ -39,6 +39,10 @@
     "message": "Rozšíření",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Varování:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Není zde žádný instalační soubor pro tenhle operační systém. To znamená, že pro něj není žádná profesionální podpora.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -74,6 +78,18 @@
   "downloads.error.noaccess.description": {
     "message": "Můžeš se připojit k našemu beta programu zdarma **zde**. Pospěšte si! Máme k dispozici pouze {0} slotů (z 200)",
     "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Předběžná vydání",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Varování",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Nezapomeňte zapnout nastavení \"Povolit rozšíření z dalších obchodů\" v nastavení rozšíření.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
   },
   "downloads.button.cancel": {
     "message": "Zrušit",

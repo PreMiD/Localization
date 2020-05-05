@@ -135,6 +135,14 @@
 		"message": "Nejvýkonnější a nejrozšířenější open source Wiki software.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Propojené, vývojářům otevřené rozhraní pro všechny vaše výtvory.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Za tím nejlepším z webu.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "Požádat o partnera",
 		"description": "Partnership application modal title."
