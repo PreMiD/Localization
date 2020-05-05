@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-04-27T12:41:23.261Z
+date: 2020-05-05T15:22:38.386Z
 tags:
 ---
 
@@ -426,10 +426,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 présence. n("UpdateData", async () => {
     /*UpdateData est toujours lancé, et donc devrait être utilisé comme votre cycle de rafraîchissement, ou `tick`. Cela est appelé plusieurs fois par seconde dans la mesure du possible.
 
-    Il est recommandé de configurer une autre fonction en dehors de cette fonction qui va changer les valeurs des variables et faire le chargement lourd si vous appelez des données à partir d'une API. /
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData = {
-        largeImageKey: "key", /*La clé (nom de fichier) de la grande image sur la présence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
+    var presenceData: presenceData = {
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
         smallImageKey: "key", /*La clé (nom de fichier) de la Grande Image sur présence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelé Art Assets*/
         smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image
         détails: "Nom de la page de navigation", //La section supérieure du texte de présence
