@@ -91,6 +91,10 @@
     "message": "Drücke Enter",
     "description": "Little message next to the keys of search filters on the store."
   },
+  "store.filters.added": {
+    "message": "Zeige bereits hinzugefügte",
+    "description": "Store filter to display/not display already installed presences."
+  },
   "store.search.removeFilter": {
     "message": "Klicke, um den Filter zu entfernen.",
     "description": "Remove message for active search filters."
