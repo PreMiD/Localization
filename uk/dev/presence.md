@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-04-30T17:41:23.702Z
+date: 2020-05-05T15:22:38.386Z
 tags:
 ---
 
@@ -426,10 +426,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", async () => {
     /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Це називається кілька разів вдруге, де це можливо.
 
-    Рекомендується встановити іншу функцію за межами цієї функції події, яка змінить значення змінної і зробить важкий підйом, якщо ви викликаєте дані з API. /
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData = {
-        largeImageKey: "key", /*Ключ (назва файлу) великого зображення присутності. Вони завантажені та названі у розділі Rich Presence у вашому додатку, під назвою Art Assets*/
+    var presenceData: presenceData = {
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Вони завантажені та названі у розділі Rich Presence у вашому додатку, під назвою Art Assets*/
         smallImageKey: "key", /*Ключ (ім'я файла) великого зображення на присутності. Вони завантажені та названі у розділі Rich Presence у вашому додатку, називається Art Assets*/
         smallImageText: "Деякий текст наведення", ///Текст, який відображається при наведенні над маленьким зображенням
         , детально: "Назва сторінки перегляду", ///The верхня частина тексту
