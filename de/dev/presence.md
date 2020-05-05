@@ -2,7 +2,7 @@
 title: Präsenzentwicklung
 description:
 published: true
-date: 2020-04-30T17:41:23.702Z
+date: 2020-05-05T15:22:38.386Z
 tags:
 ---
 
@@ -426,10 +426,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", async () => {
     /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
-    Es wird empfohlen, eine andere Funktion außerhalb dieser Ereignisfunktion einzurichten, die variable Werte ändert und das schwere Heben ausführt, wenn Sie Daten von einer API aufrufen. /
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData = {
-        largeImageKey: "key", /*Die Taste (Dateiname) des Großen Bildes auf der Anwesenheit. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+    var presenceData: presenceData = {
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
