@@ -39,6 +39,10 @@
     "message": "Browsererweiterung",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Warnung:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Es gibt keinen Installer für dieses Betriebssystem. Das bedeutet, dass es keine professionelle Unterstützung dafür gibt.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -75,16 +79,48 @@
     "message": "Du kannst unserem Beta-Programm **hier** kostenlos beitreten. Beeile dich! Wir haben nur noch {0} Plätze frei (von 200)",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.warning.title": {
+    "message": "Warnung",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Vergiss nicht, die Option 'Lassen Sie Erweiterungen aus anderen Stores zu' in den Erweiterungseinstellungen zu aktivieren.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.button.skip": {
+    "message": "Überspringen",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Zurück",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Abbrechen",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Okay",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Fertig",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Login",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Vielen Dank!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Wir nutzen Werbung um unser Team zu unterstützen und unsere Server zu verwalten um dir das beste Nutzererlebnis zu bieten!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Bitte deaktiviere deinen Ad Blocker.",
+    "description": "Message next to pepe."
   }
 }
