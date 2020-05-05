@@ -1,6 +1,6 @@
 ---
-title: Untitled Page
-description: Uma ajudinha para o TypeScript
+title: Página sem título
+description: Um pouco de ajuda para TypeScript
 published: true
 date: 2020-02-12T22:15:34.451Z
 tags:
@@ -10,13 +10,13 @@ tags:
 
 ## Introdução
 
-Quando você baixou e descompactou a workspace, você verá um arquivo chamado `tsconfig.js` no diretório raíz e nas pastas de presença, este arquivo é usado para configurar o compilador **TypeScript**. Já está configurado para você, então não se preocupe com isso.
+Quando você baixou e descompactou a área de trabalho, você verá um arquivo chamado `tsconfig. s` no diretório raiz e de pressão, este arquivo é usado para configurar o compilador **TypeScript**. Já está configurado para você, então não se preocupe com isso.
 
-Queremos apenas descrever algumas definições que você deveria conhecer.
+Queremos apenas descrever algumas definições que o senhor deputado deve conhecer.
 
-## Configuração da raíz
+## Configuração Raiz
 
-No arquivo de configuração raiz você verá algo assim.
+No arquivo de configuração raiz você verá algo como este.
 
 ```javascript
 {
@@ -37,15 +37,15 @@ No arquivo de configuração raiz você verá algo assim.
 | Propriedade                | Descrição                                                                                                                       |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Usado para configurar o compilador, a maioria das propriedades estão localizadas aqui.                                          |
-| module                     | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html).                                |
+| Módulo                     | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html).                                |
 | target                     | Define a versão de JavaScript que você está compilando.                                                                         |
-| removeComments             | Remover comentários de arquivos compilados.                                                                                     |
-| noFallthroughCasesInSwitch | Relatar erros para casos de queda na instrução do comando.                                                                      |
-| noUnusedLocals             | Reporta erros em locais não utilizados.                                                                                         |
-| noUnusedParameters         | Relatar erros em parâmetros não utilizados.                                                                                     |
-| inlineSourceMap            | Adiciona mapeamento de origem                                                                                                   |
-| typeRoots                  | Você pode ler mais sobre isso[aqui](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude**                | Aqui você pode definir as pastas que deseja excluir da futura compilação.                                                       |
+| removerComentários         | Removendo comentários de arquivos compilados.                                                                                   |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
+| inlineSourceMap            | Adds sourcemapping                                                                                                              |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
+| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
 
 ## Configuração de Presença
 
@@ -60,6 +60,6 @@ No arquivo de configuração raiz você verá algo assim.
 
 | Propriedade         | Descrição                                                                                                   |
 |:------------------- |:----------------------------------------------------------------------------------------------------------- |
-| **extends**         | Usado para estender o arquivo base `tsconfig` para várias tarefas.                                          |
+| **estende**         | Usado para estender o arquivo base `tsconfig` para várias tarefas.                                          |
 | **compilerOptions** | Consulte [**Configuração do root**](/dev/presence/tsconfig#root-configuration) para obter mais informações. |
-| outDir              | Define o diretório de saída para arquivos compilados.                                                       |
+| diretório externo   | Define o diretório de saída para arquivos compilados.                                                       |
