@@ -3,6 +3,14 @@
     "message": "Huoltokatko",
     "description": "The big text on maintenance page"
   },
+  "maintenance.heading": {
+    "message": "Valitettavasti meillä on teknisiä ongelmia. Palaamme pian. Anteeksi häiriöstä.",
+    "description": "Heading on maintenance page"
+  },
+  "maintenance.heading2": {
+    "message": "Palaa myöhemmin saadaksesi lisätietoja.",
+    "description": "Heading on maintenance page"
+  },
   "maintenance.statuspage": {
     "message": "Tilasivu",
     "description": "Status Page link on maintenance page"

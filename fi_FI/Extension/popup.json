@@ -15,6 +15,10 @@
 		"message": "Yleiset",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
+	"popup.headings.description": {
+		"message": "Kuvaus",
+		"description": "Title of the description area in the presence settings view."
+	},
 	"popup.setting.enabled": {
 		"message": "Päällä",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
@@ -43,6 +47,10 @@
 		"message": "Ei presencejä lisätty",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
+	"popup.presences.done": {
+		"message": "Valmis",
+		"description": "Done button"
+	},
 	"popup.presences.load": {
 		"message": "Lataa presence",
 		"description": "Load Presence button"
@@ -66,5 +74,37 @@
 	"popup.info.notConnected": {
 		"message": "Ei yhdistetty",
 		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD ei pystynyt muodostamaan yhteyttä sovellukseensa! Onko se asennettu ja käynnissä? *Troubleshooting*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Vanhentunut Sovellus",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Sinun PreMiD sovellus on vanhentunut. Päivitä se jatkaaksesi PreMiDin käyttöä.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.category.all": {
+		"message": "Kaikki",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Musiikki",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Pelit",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Muu",
+		"description": "Category name shown when you open tags"
 	}
 }

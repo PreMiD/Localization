@@ -135,6 +135,14 @@
 		"message": "De krachtigste en uitbreidbare open source Wiki software.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Een verenigde, ontwikkelaarsvriendelijke interface voor al je artefacten.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Achter het beste van het web.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "Solliciteer voor partner",
 		"description": "Partnership application modal title."

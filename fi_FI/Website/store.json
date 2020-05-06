@@ -23,8 +23,32 @@
     "message": "This presence is included in PreMiD by default, no need to install it.",
     "description": "The message that appears instead of the buttons."
   },
+  "store.category.heading": {
+    "message": "Kategoriat",
+    "description": "Category heading"
+  },
+  "store.category.all": {
+    "message": "Kaikki",
+    "description": "Category at the top"
+  },
+  "store.category.games": {
+    "message": "Pelit",
+    "description": "Category at the top"
+  },
+  "store.category.music": {
+    "message": "Musiikki",
+    "description": "Category at the top"
+  },
+  "store.category.other": {
+    "message": "Muu",
+    "description": "Category at the top"
+  },
   "store.search": {
     "message": "Etsi",
     "description": "Placeholder for presence search"
+  },
+  "store.search.filters": {
+    "message": "paina enter",
+    "description": "Little message next to the keys of search filters on the store."
   }
 }
