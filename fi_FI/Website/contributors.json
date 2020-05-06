@@ -14,5 +14,29 @@
 	"contributors.roles.creator": {
 		"message": "Tekijä",
 		"description": "'Creator' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Insinööri",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Graafinen suunnittelija",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderaattori",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Lahjoittaja",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.translator": {
+		"message": "Kääntäjä",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Käyttäjän ID kopioitu leikepöydällesi!",
+		"description": "Notification after user ID was copied."
 	}
 }
