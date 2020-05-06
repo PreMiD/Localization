@@ -13,7 +13,7 @@ tags:
 Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkownicy mają teraz możliwość ręcznego dodawania lub usuwania ich ulubionych statusów za pośrednictwem interfejsu użytkownika z [strony](https://premid.app/).
 
 # Wytyczne
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+> Jeśli **NIE** postępujesz zgodnie z wytycznymi, `Weryfikator Presence` zażąda odpowiednich zmian lub będzie musiał je zamknąć w określonych okolicznościach. 
 > 
 > {.is-warning}
 
