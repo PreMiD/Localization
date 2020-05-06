@@ -72,7 +72,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
@@ -298,7 +298,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">Category</th>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Kuvaus</th>
     </tr>
   </thead>
   <tbody>
@@ -310,13 +310,13 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-    <td style="text-align:left"><b>Games</b></td>
+    <td style="text-align:left"><b>Pelit</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-    <td style="text-align:left"><b>Music</b></td>
+    <td style="text-align:left"><b>Musiikki</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
@@ -334,7 +334,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>Other</b></td>
+    <td style="text-align:left"><b>Muu</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
