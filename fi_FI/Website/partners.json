@@ -1,1 +1,6 @@
-{}
+{
+	"partners.apply.select.other": {
+		"message": "Muu",
+		"description": "Select 'Other' category."
+	}
+}
