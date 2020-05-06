@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Onze apen proberen je zo snel mogelijk in ons beta-programma te krijgen. Bedankt voor het registreren!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Het lijkt erop dat we geen bèta-plaatsen meer hebben.",
+		"description": "Shows when the beta slots are full."
 	}
 }
