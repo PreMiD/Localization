@@ -76,7 +76,7 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 - Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
 - Confirm that your changes work before publishing. Do **NOT** create pull requests without knowing the outcome of your changes.
 
-# Verification
+# Vahvistus
 
 > If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role in their profile.
 
@@ -230,7 +230,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Kuvaus</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tyyppi</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
