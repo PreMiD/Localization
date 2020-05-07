@@ -1,34 +1,34 @@
 {
-    "general.anime": {
-        "message": "Anime",
-        "description": ""
-    },
-    "general.browsing": {
-        "message": "Brskanje...",
-        "description": ""
-    },
-    "general.episode": {
-        "message": "Epizoda",
-        "description": ""
-    },
-    "general.live": {
-        "message": "V živo",
-        "description": ""
-    },
-    "general.reading": {
-        "message": "Branje",
-        "description": ""
-    },
-    "general.search": {
-        "message": "Iskanje",
-        "description": ""
-    },
-    "general.store": {
-        "message": "Trgovina",
-        "description": ""
-    },
-    "general.language": {
-        "message": "Jezik",
-        "description": "For choosing a language"
-    }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Brskanje...",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Epizoda",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Jezik",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "V živo",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Branje",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Iskanje",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Trgovina",
+		"description": ""
+	}
 }
