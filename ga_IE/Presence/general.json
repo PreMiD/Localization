@@ -1,30 +1,30 @@
 {
-    "general.anime": {
-        "message": "Anime",
-        "description": ""
-    },
-    "general.browsing": {
-        "message": "Ag brabhsáil...",
-        "description": ""
-    },
-    "general.episode": {
-        "message": "Eachtra",
-        "description": ""
-    },
-    "general.live": {
-        "message": "Beo",
-        "description": ""
-    },
-    "general.reading": {
-        "message": "Léitheoireacht",
-        "description": ""
-    },
-    "general.search": {
-        "message": "Cuardach",
-        "description": ""
-    },
-    "general.store": {
-        "message": "Stór",
-        "description": ""
-    }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Ag brabhsáil...",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Eachtra",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Beo",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Léitheoireacht",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Cuardach",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Stór",
+		"description": ""
+	}
 }
