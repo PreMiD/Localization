@@ -27,6 +27,10 @@
 		"message": "Representante Global da Comunidade",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Engenheiro de Software",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.webDeveloper": {
 		"message": "Desenvolvedor de Web",
 		"description": "'Web Developer' title for contributors and user pages."
