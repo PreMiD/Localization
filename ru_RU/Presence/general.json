@@ -1,98 +1,98 @@
 {
-    "general.anime": {
-        "message": "Аниме",
-        "description": ""
-    },
-    "general.browsing": {
-        "message": "Смотрит...",
-        "description": ""
-    },
-    "general.dj": {
-        "message": "DJ",
-        "description": ""
-    },
-    "general.editing": {
-        "message": "Редактирует:",
-        "description": ""
-    },
-    "general.episode": {
-        "message": "Эпизод",
-        "description": ""
-    },
-    "general.listeners": {
-        "message": "Слушатели",
-        "description": ""
-    },
-    "general.live": {
-        "message": "Прямой эфир",
-        "description": ""
-    },
-    "general.page": {
-        "message": "Страница",
-        "description": ""
-    },
-    "general.playing": {
-        "message": "Играет",
-        "description": ""
-    },
-    "general.reading": {
-        "message": "Читать",
-        "description": ""
-    },
-    "general.search": {
-        "message": "Искать",
-        "description": ""
-    },
-    "general.store": {
-        "message": "Магазин",
-        "description": ""
-    },
-    "general.viewAnime": {
-        "message": "Смотрит аниме:",
-        "description": ""
-    },
-    "general.viewCategory": {
-        "message": "Смотрит категорию:",
-        "description": ""
-    },
-    "general.viewChannel": {
-        "message": "Смотрит канал:",
-        "description": ""
-    },
-    "general.viewEpisode": {
-        "message": "Смотрит эпизод:",
-        "description": ""
-    },
-    "general.viewing": {
-        "message": "Смотрит:",
-        "description": ""
-    },
-    "general.watchingVid": {
-        "message": "Смотрит видео",
-        "description": ""
-    },
-    "general.watchingLive": {
-        "message": "Смотрит трансляцию",
-        "description": ""
-    },
-    "general.watching": {
-        "message": "Смотрит:",
-        "description": ""
-    },
-    "general.wishlist": {
-        "message": "Избранное:",
-        "description": ""
-    },
-    "general.privacy": {
-        "message": "Политика конфиденциальности",
-        "description": "A page name"
-    },
-    "general.terms": {
-        "message": "Пользовательское соглашение",
-        "description": "A page name"
-    },
-    "general.language": {
-        "message": "Язык",
-        "description": "For choosing a language"
-    }
+	"general.anime": {
+		"message": "Аниме",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Смотрит...",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Редактирует:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Эпизод",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Язык",
+		"description": "For choosing a language"
+	},
+	"general.listeners": {
+		"message": "Слушатели",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Прямой эфир",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Страница",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Играет",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Читать",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Искать",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Магазин",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Смотрит аниме:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Смотрит категорию:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Смотрит канал:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Смотрит эпизод:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Смотрит:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Смотрит видео",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Смотрит трансляцию",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Смотрит:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Избранное:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Политика конфиденциальности",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Пользовательское соглашение",
+		"description": "A page name"
+	}
 }

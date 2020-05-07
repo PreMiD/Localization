@@ -39,6 +39,10 @@
     "message": "Extensão",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Aviso:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} A aplicação não tem um instalador para este sistema operativo. Isto significa que não há suporte oficial para o mesmo.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
