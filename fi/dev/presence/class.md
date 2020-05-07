@@ -113,7 +113,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Kuvaus</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tyyppi</th>
     </tr>
   </thead>
   <tbody>
