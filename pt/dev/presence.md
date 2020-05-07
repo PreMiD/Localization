@@ -61,7 +61,7 @@ Before you begin working on your presence, keep the following list in mind.
 - Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
 - Your Presence **CANNOT** manipulate local storage on the browser.
 - Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
+- The name of your Presence **MUST** be the name of your Presence's directory name. Por exemplo, uma Presença chamada `Google Docs` deve ter um diretório de `/Google Docs/`. (tu deves incluir todos os espaços, pontos, vírgulas e quaisquer outros caracteres especiais)
 
 ## Modificação
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
@@ -130,7 +130,7 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 
 After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
 
-# Structure
+# Estrutura
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Instalação
@@ -490,7 +490,7 @@ presence.on("iFrameData", data => {
 ## Compilar
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# A carregar a presença
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
@@ -504,7 +504,7 @@ The website you are developing on is automatically reloading every time you save
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
-# Files explained
+# Arquivos explicados
 - [Classe de presença](/dev/presence/class)
 - [Aula iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
