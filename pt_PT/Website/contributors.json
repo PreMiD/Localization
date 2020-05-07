@@ -55,6 +55,10 @@
 		"message": "Moderador Junior",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.supportAgent": {
+		"message": "Agente de Suporte",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Verificador de Presenças",
 		"description": "'Presence Verifier' title for contributors and user pages."
