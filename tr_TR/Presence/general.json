@@ -175,6 +175,10 @@
 		"message": "Şunun profiline bakıyor:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Dizilere bakıyor:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Şu diziye bakıyor:",
 		"description": ""
