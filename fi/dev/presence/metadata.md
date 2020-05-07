@@ -73,7 +73,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Kuvaus</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tyyppi</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -328,7 +328,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Videot & Striimit</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
