@@ -175,6 +175,10 @@
 		"message": "Bekijkt het profiel van:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Bekijkt serie:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Bekijkt show:",
 		"description": ""
