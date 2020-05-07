@@ -67,6 +67,10 @@
     "message": "Esta versão é específica para Linux, e não se aplica a outros sistemas. A versão principal da aplicação é {0}",
     "description": "Tippy message of the version number when user is on Linux."
   },
+  "downloads.warning.title": {
+    "message": "Aviso",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
   "downloads.button.cancel": {
     "message": "Cancelar",
     "description": "Button on the modal of Opera/Edge browsers."
@@ -75,8 +79,16 @@
     "message": "Feito",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Iniciar sessão",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Obrigado!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Por favor, desativa o teu bloqueador de anúncios.",
+    "description": "Message next to pepe."
   }
 }
