@@ -1,98 +1,98 @@
 {
-    "general.anime": {
-        "message": "アニメ",
-        "description": ""
-    },
-    "general.browsing": {
-        "message": "閲覧中...",
-        "description": ""
-    },
-    "general.chapter": {
-        "message": "チャプター",
-        "description": ""
-    },
-    "general.dj": {
-        "message": "DJ",
-        "description": ""
-    },
-    "general.editing": {
-        "message": "編集中:",
-        "description": ""
-    },
-    "general.episode": {
-        "message": "エピソード",
-        "description": ""
-    },
-    "general.forums": {
-        "message": "フォーラム",
-        "description": ""
-    },
-    "general.genre": {
-        "message": "ジャンル",
-        "description": ""
-    },
-    "general.listeningMusic": {
-        "message": "音楽を再生中",
-        "description": ""
-    },
-    "general.live": {
-        "message": "ライブ",
-        "description": ""
-    },
-    "general.manga": {
-        "message": "マンガ",
-        "description": ""
-    },
-    "general.page": {
-        "message": "ページ",
-        "description": ""
-    },
-    "general.paused": {
-        "message": "一時停止中",
-        "description": ""
-    },
-    "general.reading": {
-        "message": "閲覧中",
-        "description": ""
-    },
-    "general.search": {
-        "message": "検索中",
-        "description": ""
-    },
-    "general.shopCart": {
-        "message": "ショッピングカート",
-        "description": ""
-    },
-    "general.store": {
-        "message": "ストア",
-        "description": ""
-    },
-    "general.watchingVid": {
-        "message": "動画を視聴中",
-        "description": ""
-    },
-    "general.watchingLive": {
-        "message": "ライブを視聴中",
-        "description": ""
-    },
-    "general.watching": {
-        "message": "視聴中:",
-        "description": ""
-    },
-    "general.wishlist": {
-        "message": "ほしい物リスト",
-        "description": ""
-    },
-    "general.privacy": {
-        "message": "プライバシーポリシー",
-        "description": "A page name"
-    },
-    "general.terms": {
-        "message": "利用規約",
-        "description": "A page name"
-    },
-    "general.language": {
-        "message": "言語",
-        "description": "For choosing a language"
-    }
+	"general.anime": {
+		"message": "アニメ",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "閲覧中...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "チャプター",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "編集中:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "エピソード",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "フォーラム",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ジャンル",
+		"description": ""
+	},
+	"general.language": {
+		"message": "言語",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "音楽を再生中",
+		"description": ""
+	},
+	"general.live": {
+		"message": "ライブ",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "マンガ",
+		"description": ""
+	},
+	"general.page": {
+		"message": "ページ",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "一時停止中",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "閲覧中",
+		"description": ""
+	},
+	"general.search": {
+		"message": "検索中",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "ショッピングカート",
+		"description": ""
+	},
+	"general.store": {
+		"message": "ストア",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "動画を視聴中",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "ライブを視聴中",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "視聴中:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "ほしい物リスト",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "プライバシーポリシー",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "利用規約",
+		"description": "A page name"
+	}
 }
