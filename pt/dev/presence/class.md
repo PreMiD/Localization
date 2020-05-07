@@ -32,7 +32,7 @@ Você pode obtê-lo na sua [página de aplicativos](https://discordapp.com/devel
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Define a atividade do teu perfil de acordo com os dados fornecidos.
 
 First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
