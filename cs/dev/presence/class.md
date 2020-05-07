@@ -85,10 +85,10 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ### `getExtensionVersion(Boolean)`
 Returns version of the extension the user is using.
 ```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
+getExtensionVersion(onlyNumeric?: boolean): řetězec | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+konzola. og(numeric); // Will log 210
 var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
