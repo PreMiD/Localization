@@ -71,8 +71,20 @@
     "message": "Aviso",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
+  "downloads.button.skip": {
+    "message": "Avançar",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Voltar",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Cancelar",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Ok",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
