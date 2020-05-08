@@ -10,8 +10,8 @@ The installation of the extension is very important as the application can not d
 
 # Asenna
 ### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
+1. Mene meidän lataus sivulle [klikkaamalla tästä](https://premid.app/downloads).
+2. Valitse **Chromium**.
 3. Click on **Add to Chrome**.
 
 ### Opera
