@@ -134,11 +134,11 @@ After meeting all of the guidelines and having your Presence reviewed at least t
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Asenna [Git](https://git-scm.com/).
+2. Asenna [Node](https://nodejs.org/en/) (mukana tulee [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Cloning the project
+## Projektin Kloonaaminen
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
 3. Open it in you code editor.
