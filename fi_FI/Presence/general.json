@@ -11,6 +11,10 @@
 		"message": "Luku",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
 	"general.editing": {
 		"message": "Muokkaa:",
 		"description": ""
@@ -45,6 +49,10 @@
 	},
 	"general.manga": {
 		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
 		"description": ""
 	},
 	"general.page": {
