@@ -175,6 +175,10 @@
 		"message": "Wyświetla profil:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Przeglądanie serii:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Oglądanie programu:",
 		"description": ""
