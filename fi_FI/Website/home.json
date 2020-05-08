@@ -4,7 +4,7 @@
     "description": "First phrase that users read on our website"
   },
   "home.introduction.button.features": {
-    "message": "Meidän ominaisuudet",
+    "message": "Ominaisuudet",
     "description": "Introduction button"
   },
   "home.introduction.button.downloads": {
@@ -36,7 +36,7 @@
     "description": "Features section"
   },
   "home.features.presencesystem.heading": {
-    "message": "Löydä *sinun* presence.",
+    "message": "Löydä **sinun** presence.",
     "description": "Features section subheading"
   },
   "home.features.presencesystem.description": {
