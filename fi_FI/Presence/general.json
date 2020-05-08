@@ -71,6 +71,14 @@
 		"message": "Luetaan",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Etsii:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Etsii jotain...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Etsii",
 		"description": ""
@@ -82,5 +90,89 @@
 	"general.store": {
 		"message": "Kauppa",
 		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Kirjoittaa kanavalle:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Katsoo anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Katsoo katergoriaa:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Katso kanavaa:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Katsoo jaksoa:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Katsoo genreä:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Katsoo etusivua",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Katsoo jäsentä:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Katsoo elokuvaa:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Katsoo soittolistaa:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Katsoo tuotetta:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Katsoo sarjaa:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Katsoo ohjelmaa:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Katsoo käyttäjää:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Katsoo:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Katsoo videota",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Katsoo livestriimiä",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Katsoo:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Toivelista:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Yksityisyyskäytäntö",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Käyttöehdot",
+		"description": "A page name"
 	}
 }
