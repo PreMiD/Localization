@@ -1,5 +1,5 @@
 ---
-title: About PreMiD
+title: Tietoja PreMiD:istä
 description: The core features about PreMiD
 published: true
 date: 2020-02-12T22:05:04.843Z
