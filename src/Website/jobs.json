@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Are you ready to help out the biggest Rich-Presence library?",
+		"message": "Are you ready to help out the biggest Rich-Presence program?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
@@ -80,7 +80,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "With your contribution it is possible to run this project.",
+		"message": "With your contribution its possible to run this project.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
@@ -96,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Be able to test new features before anyone else.",
+		"message": "Test new features before anyone else.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
