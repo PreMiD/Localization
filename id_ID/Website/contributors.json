@@ -79,12 +79,8 @@
 		"message": "Penerjemah",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Klik untuk menyalin ID pengguna.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID Pengguna disalin ke clipboard Anda!",
-		"description": "Notification after user ID was copied."
 	}
 }
