@@ -27,10 +27,6 @@
 		"message": "العمل لحساب PreMiD",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "هل أنت مستعد لمساعدة أكبر مكتبة Rich-Presence",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "الوظائف الشاغرة",
 		"description": "Text before the available job positions cards."
@@ -67,10 +63,6 @@
 		"message": "دعم PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "مع مساعدتك من الممكن تشغيل هذا المشروع.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "انتهاء المهلة",
 		"description": "Benefit card title."
@@ -82,10 +74,6 @@
 	"jobs.benefit6.title": {
 		"message": "الوصول المبكر",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "كن قادراً على اختبار الميزات الجديدة قبل أي شخص آخر.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "شكرًا لك على تقديم الطلب!",
