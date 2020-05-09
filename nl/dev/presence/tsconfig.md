@@ -42,11 +42,11 @@ In het root configuratiebestand ziet u zoiets als deze.
 | target                     | Definieert de JavaScript-versie die u aan het compileren bent.                                                                                                      |
 | removeComments             | Verwijder reacties uit gecompileerde bestanden.                                                                                                                     |
 | noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
-| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| noFallthroughCasesInSwitch | Rapporteer fouten voor fallthrough gevallen in switch statements.                                                                                                   |
+| noUnusedLocals             | Rapporteer fouten bij ongebruikte localen.                                                                                                                          |
+| noUnusedParameters         | Rapporteer fouten bij ongebruikte parameters.                                                                                                                       |
+| inlineSourceMap            | Voegt sourcemapping toe                                                                                                                                             |
+| typeRoots                  | Je kunt er meer over lezen [hier](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                       |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Presence Configuratie
