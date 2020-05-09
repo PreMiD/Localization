@@ -2,7 +2,7 @@
 title: Başlıksız Sayfa
 description: TypeScript için ufak bir yardımcı
 published: true
-date: 2020-02-12T22:15:34.451Z
+date: 2020-05-09T14:32:40.832Z
 tags:
 ---
 
@@ -20,38 +20,40 @@ Kök yapılandırma (`tsconfig.js`) dosyasında böyle bir şeyle karşılaşaca
 
 ```javascript
 {
-    "compilerOptions": {
-        "module": "CommonJS",
-        "target": "ES2020",
-        "removeComments": true,
-        "noFallthroughCasesInSwitch": true,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "inlineSourceMap": true,
-        "typeRoots": ["@types"]
-    },
-    "exclude": ["node_modules"]
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "inlineSourceMap": true,
+    "typeRoots": ["@types"],
+    "esModuleInterop": true
+  }
 }
 ```
 
-| Özellik                    | Açıklama                                                                                                                                                |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                                                      |
-| module                     | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz.                                   |
-| target                     | Derleyeceğiniz JavaScript sürümünü belirler.                                                                                                            |
-| removeComments             | Derlenmiş dosyalardan yorumları kaldırır.                                                                                                               |
-| noFallthroughCasesInSwitch | Switch durumlarındaki hataları bildirir.                                                                                                                |
-| noUnusedLocals             | Kullanılmayan verileri bildirir.                                                                                                                        |
-| noUnusedParameters         | Kullanılmayan parametre verilerini bildirir.                                                                                                            |
-| inlineSourceMap            | Sourcemap desteği ekler.                                                                                                                                |
-| typeRoots                  | Bunun hakkında daha fazla bilgiyi [buradan](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types) okuyabilirsiniz. |
-| **exclude**                | Buraya derlemede işlenmeyecek klasörleri yazarak sonraki işlemleriniz için bu klasörleri göz ardı ettirebilirsiniz.                                     |
+| Özellik                    | Açıklama                                                                                                                                                            |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Derleyiciyi ayarlamak için kullanılan anahtar, çoğu ayar bunun altında belirlenir.                                                                                  |
+| module                     | [Buradan](https://www.typescriptlang.org/docs/handbook/modules.html) bunun hakkında daha fazla bilgi edinebilirsiniz.                                               |
+| target                     | Derleyeceğiniz JavaScript sürümünü belirler.                                                                                                                        |
+| removeComments             | Derlenmiş dosyalardan yorumları kaldırır.                                                                                                                           |
+| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
+| noFallthroughCasesInSwitch | Switch durumlarındaki hataları bildirir.                                                                                                                            |
+| noUnusedLocals             | Kullanılmayan verileri bildirir.                                                                                                                                    |
+| noUnusedParameters         | Kullanılmayan parametre verilerini bildirir.                                                                                                                        |
+| inlineSourceMap            | Sourcemap desteği ekler.                                                                                                                                            |
+| typeRoots                  | Bunun hakkında daha fazla bilgiyi [buradan](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types) okuyabilirsiniz.             |
+| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Servis Yapılandırması
 
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/"
   }

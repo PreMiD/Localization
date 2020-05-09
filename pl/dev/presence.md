@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-05-09T12:35:18.120Z
+date: 2020-05-09T14:26:01.038Z
 tags:
 ---
 
@@ -159,9 +159,9 @@ Wszystkie statusy są kodowane w [TypeScript](https://www.typescriptlang.org/). 
 Umieść następujący kod w pliku `tsconfig.json`.
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist"
+    "outDir": "./dist/"
   }
 }
 ```

@@ -2,7 +2,7 @@
 title: Strona bez tytułu
 description: Mały pomocnik do TypeScript
 published: tak
-date: 2020-02-12T22:15:34.451Z
+date: 2020-05-09T14:32:40.832Z
 tags:
 ---
 
@@ -20,38 +20,40 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 
 ```javascript
 {
-    "compilerOptions": {
-        "module": "CommonJS",
-        "target": "ES2020",
-        "removeComments": true,
-        "noFallthroughCasesInSwitch": true,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "inlineSourceMap": true,
-        "typeRoots": ["@types"]
-    },
-    "exclude": ["node_modules"]
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "inlineSourceMap": true,
+    "typeRoots": ["@types"],
+    "esModuleInterop": true
+  }
 }
 ```
 
-| Własność                   | Opis                                                                                                                            |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                                                |
-| module                     | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                 |
-| target                     | Określa wersję JavaScript, którą kompilujesz.                                                                                   |
-| removeComments             | Usuwanie komentarzy z skompilowanych plików.                                                                                    |
-| noFallthroughCasesInSwitch | Zgłasza błędy dla przypadków awaryjnych w instrukcji switch.                                                                    |
-| noUnusedLocals             | Zgłasza błędy na nieużywanych lokalnych.                                                                                        |
-| noUnusedParameters         | Zgłasza błędy dotyczące nieużywanych parametrów.                                                                                |
-| inlineSourceMap            | Dodaje sourcemapping                                                                                                            |
-| typeRoots                  | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude**                | Tutaj możesz zdefiniować foldery, które chcesz wykluczyć z przyszłej kompilacji.                                                |
+| Własność                   | Opis                                                                                                                                                                |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                                                                                    |
+| module                     | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
+| target                     | Określa wersję JavaScript, którą kompilujesz.                                                                                                                       |
+| removeComments             | Usuwanie komentarzy z skompilowanych plików.                                                                                                                        |
+| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
+| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Konfiguracja Presence
 
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/"
   }
