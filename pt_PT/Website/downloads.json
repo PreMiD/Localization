@@ -48,7 +48,7 @@
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
   "downloads.mobile.errorMessage": {
-    "message": "Por favor, esteja consciente de que o PreMid não é suportado actualmente no telemóvel.",
+    "message": "Por favor, esteja consciente de que o PreMiD não é suportado actualmente no telemóvel.",
     "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
@@ -92,7 +92,7 @@
     "description": "Button on the page when trying to download with adblocker on."
   },
   "downloads.button.login": {
-    "message": "Iniciar sessão",
+    "message": "Login",
     "description": "Login button on the downloads page."
   },
   "downloads.adsbox.thankyou.title": {
