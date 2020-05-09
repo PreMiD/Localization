@@ -3,6 +3,10 @@
 		"message": "**PreMiD** on yksinkertainen, konfiguroitavissa oleva apuohjelma, jonka avulla voit näyttää mitä teet verkossa Discordin pelaa tilalla.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Ominaisuudet",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Lataukset",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,9 +39,21 @@
 		"message": "Löydä **sinun** presence",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Teimm laajennuksemme tavalla, jonka avulla voit lisätä ja käyttää muiden luomia Presence:itä ja hallita niitä laajennuksessamme!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Vieraile kaupassa",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Yksinkertainen käyttöliittymä",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Oletko kyllästynyt monimutkaisiin käyttöliittymiin? Siksi teimme ja yritämme pitää käyttöliittymämme mahdollisimman yksinkertaisena ja hyödyllisenä tärkeillä ominaisuuksilla, kuten:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Sovellus- ja laajennus asetukset",
@@ -47,8 +63,20 @@
 		"message": "Presencen hallinta",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Lajittele luokan mukaan",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Nopea tuki",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Jokin on glitchaantunut, lähettää sinulle paljon virheitä tai yksinkertaisesti ei toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme, teimme myös oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Sivuston kieli",
+		"description": "Tippy content of the language selector."
 	}
 }
