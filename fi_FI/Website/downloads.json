@@ -1,7 +1,27 @@
 {
+	"downloads.header.title": {
+		"message": "Aika näyttää.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Käytä PreMiD:iä nyt ja näytä muille ihmisille mitä teet, ehkä löydät jonkun jolla on samat kiinnostukset kuin sinulla.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Alota Tästä",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Lataa PreMID",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Asenna meidän sovellus",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Lisää meidän laajennus selaimeesi",
+		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
 		"message": "Sovelluslataukset",

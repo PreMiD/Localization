@@ -11,6 +11,10 @@
 		"message": "Palaa myöhemmin takaisin saadaksesi lisätietoja.",
 		"description": "Heading on maintenance page"
 	},
+	"maintenance.message": {
+		"message": "Ennen kuin erikoiskehittäjämme korjaavat tämän, voit tutkia tämän paikan!",
+		"description": "Message on maintenance page"
+	},
 	"maintenance.statuspage": {
 		"message": "Tilasivu",
 		"description": "Status Page link on maintenance page"
