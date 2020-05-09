@@ -2,7 +2,7 @@
 title: Presence 개발
 description:
 published: true
-date: 2020-05-09T12:32:01.440Z
+date: 2020-05-09T12:35:18.120Z
 tags:
 ---
 
@@ -52,7 +52,7 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
 <br>
 당신이 Presence 작업을 시작하기 전, 아래 사항들을 참고해 주세요.
 - The Presence **MUST** be related to the site you have chosen.
