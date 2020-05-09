@@ -39,10 +39,6 @@
 		"message": "Práce pro PreMiD",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "Jste připraveni pomoci s největší knihovnou Rich-Presence?",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "Volná pracovní místa",
 		"description": "Text before the available job positions cards."
@@ -79,10 +75,6 @@
 		"message": "Podpora PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "S vaším příspěvkem je možné tento projekt spustit.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Časový limit",
 		"description": "Benefit card title."
@@ -94,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "Předběžný přístup",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Mějte možnost otestovat nové funkce před kýmkoli jiným.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Děkujeme vám za přihlášku!",
