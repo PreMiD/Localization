@@ -67,6 +67,10 @@
     "message": "Esta versão é específica para Linux, e não se aplica a outros sistemas. A versão principal da aplicação é {0}",
     "description": "Tippy message of the version number when user is on Linux."
   },
+  "downloads.error.noaccess.title": {
+    "message": "Uh oh, parece que tu não tens acesso alfa/beta :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
   "downloads.warning.title": {
     "message": "Aviso",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
