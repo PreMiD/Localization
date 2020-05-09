@@ -39,10 +39,6 @@
 		"message": "Trabalhe para o PreMiD",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "Você está pronto para ajudar a maior biblioteca Rich-Presence?",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "Aberturas de Emprego",
 		"description": "Text before the available job positions cards."
@@ -79,10 +75,6 @@
 		"message": "Ajude o PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "Com a sua contribuição, é possível executar este projeto.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Tempo-fora",
 		"description": "Benefit card title."
@@ -94,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "Acesso Antecipado",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Poder testar novos recursos antes de mais ninguém.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Obrigado por se inscrever!",
