@@ -83,7 +83,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Restituisce la versione dell'estensione in uso dall'utente.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
