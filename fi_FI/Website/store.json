@@ -1,4 +1,16 @@
 {
+	"store.category.filters.heading": {
+		"message": "Suodattimet",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Eniten käytetyt ensin",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Näytä NSFW",
+		"description": "Adult content checkbox"
+	},
 	"store.category.heading": {
 		"message": "Kategoriat",
 		"description": "Category heading"
