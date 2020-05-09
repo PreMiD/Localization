@@ -79,6 +79,10 @@
     "message": "Você pode entrar no nosso programa beta de graça **aqui**. Se apresse! Nos apenas temos {0} slots disponíveis (de 200)",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "Lançamentos antecipados",
+    "description": "Header above alpha/beta download buttons."
+  },
   "downloads.warning.title": {
     "message": "Atenção",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
