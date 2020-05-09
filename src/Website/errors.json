@@ -28,7 +28,7 @@
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
-		"message": "User's Id you're looking for is correct.",
+		"message": "User's ID you're looking for is correct.",
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
