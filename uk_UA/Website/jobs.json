@@ -39,10 +39,6 @@
 		"message": "Робота в PreMiD",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "Чи готові ви допомогти найбільшій бібліотеці Розширених присутностей?",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "Вакансії",
 		"description": "Text before the available job positions cards."
@@ -79,10 +75,6 @@
 		"message": "Підтримати PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "З вашим внеском можна запустити цей проект.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Час вийшов",
 		"description": "Benefit card title."
@@ -94,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "Ранній доступ",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Дякуємо, що подали заявку!",
