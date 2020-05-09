@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-05-09T12:35:18.120Z
+date: 2020-05-09T14:26:01.038Z
 tags:
 ---
 
@@ -159,9 +159,9 @@ Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.or
 Veuillez mettre le code suivant dans le fichier `tsconfig.json`.
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist"
+    "outDir": "./dist/"
   }
 }
 ```
