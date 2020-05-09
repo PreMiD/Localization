@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-05-09T12:35:18.120Z
+date: 2020-05-09T14:26:01.038Z
 tags:
 ---
 
@@ -158,9 +158,9 @@ Alle presences zijn gecodeerd in [TypeScript](https://www.typescriptlang.org/). 
 Plaats de volgende code in het `tsconfig.json` bestand.
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist"
+    "outDir": "./dist/"
   }
 }
 ```
