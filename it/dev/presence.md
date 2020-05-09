@@ -30,18 +30,18 @@ Quando pubblichiamo Presenze su questo GitHub, ti richiediamo di seguire un insi
 
 - La pull request <strong x-id "1">DEVE</strong> é completa, é necessario avere una struttura di file appropriata, le bozze sono **NON** consentite. Compreso il file `presence.ts`, file `tsconfig.json` `dist` cartella, `presence.js` file, e `metada.json` file, che è rappresentato nello schema di esempio seguente:
 ```bash
-websites
-└── {type}
-    └── presence
+siti web
+├── {type}
+    ├── presence
         ├── dist
-        │   ├── metadata.json
-        │   └── presence.js
+        ├── metadata.json
+        ├── presence.js
         ├── presence.ts
-        └── tsconfig.json
+        ├── tsconfig.json
 ```
 o se stai utilizzando `iframe`:
 ```bash
-websites
+siti web
 └── {type}
     └── presence
         ├── dist
@@ -52,7 +52,7 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
+- {type} sta per: Da A a Z, "#" per presenze di inizio non alfabetico e "0-9" per presenze che iniziano con i numeri.
 <br>
 Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elenco.
 - La presenza **DEVONO** essere correlata al sito che hai scelto.
