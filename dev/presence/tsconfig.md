@@ -2,7 +2,7 @@
 title: Untitled Page
 description: A little helper for TypeScript
 published: true
-date: 2020-02-12T22:15:34.451Z
+date: 2020-05-09T14:26:19.672Z
 tags: 
 ---
 
@@ -51,7 +51,7 @@ In the root configuration file you will see something like this.
 
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
     "outDir": "./dist/"
   }
