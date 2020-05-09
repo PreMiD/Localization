@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Yhteistyökumppanit",
+		"description": "Heading for page."
+	},
 	"partners.apply.select.other": {
 		"message": "Muu",
 		"description": "Select 'Other' category."
