@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,25 +30,30 @@ Bij het publiceren van presences naar GitHub, vragen we je om een set richtlijne
 
 - De pull-aanvraag **MOET** compleet zijn, u moet een goede bestandsstructuur hebben, concepten zijn **NIET** toegestaan. Inclusief het `presence.ts` bestand, `tsconfig.json` bestand, `dist` map, `presence.js` bestand en `metadata.json` bestand, dat wordt weergegeven in het volgende voorbeeld schema:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 of als je `iframe` gebruikt:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
 - De presence **MOET** gerelateerd zijn aan de website die je hebt gekozen.
 - De presence **MOET NIET** van illegale websites zijn. Hieronder vallen stressers, drugs, kinderporno, etc.

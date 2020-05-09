@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,28 +30,33 @@ Kiedy publikujesz statusy do tego GitHuba, wymagamy przestrzegania zbioru wytycz
 
 - Pull request **MUSI** być kompletny, musisz mieć prawidłową strukturę plików, szkice **NIE** dozwolone. Wliczając w to plik `presence.ts`, plik `tsconfig.json`, plik `presence.js`, plik `metadata.json` oraz folder `dist`, który jest reprezentowany w poniższym przykładowym schemacie:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 lub jeżeli używasz `iframe`:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Status **MUSI** być związany z stroną, którą wybrałeś.
-- Status **NIE MOŻE** być związany z żadną nielegalną stroną. Wliczając czynniki stresujące, narkotyki, dziecięcej pornografi, itp.
+- Status **NIE MOŻE** być związany z żadną nielegalną stroną. These include stressors, drugs, child porn, etc.
 - Metadata statusu **MUSI** zawierać dobrze napisaną treść, w tym tytuły i opisy.
 - Dołączone media (ikona/miniatura) **MUSZĄ** być powiązane z witryną i powinny być zrozumiałe pod względem wielkości i jakości.
 - Struktura plików **MUSI** być czysta i zarządzana, **NIE MOŻE** mieć losowych plików, które nic nie wnoszą do funkcji statusu.

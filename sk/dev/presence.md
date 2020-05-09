@@ -2,7 +2,7 @@
 title: Presence Development
 description:
 published: true
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,25 +30,30 @@ When publishing Presences to this GitHub, we require you to follow a set of guid
 
 - The pull request **MUST** be complete, you need to have a proper file structure, drafts are **NOT** allowed. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 or if you're using `iframe`:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Skôr ako začnete pracovať na svojej prítomnosti, majte na pamäti nasledujúci zoznam.
 - The Presence **MUST** be related to the site you have chosen.
 - The Presence **MUST NOT** be of any illegal sites. These include stressors, drugs, child porn, etc.

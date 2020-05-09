@@ -2,7 +2,7 @@
 title: Desarrollo de Presencias
 description:
 published: true
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,25 +30,30 @@ Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para 
 
 - El pull request **DEBE** estar completo, necesita tener una estructura de archivos adecuada, los borradores **NO** están permitidos. Incluyendo la carpeta `dist`, el archivo `presence.ts`, el archivo `tsconfig.json`, el archivo `presence.js` y el archivo `metadata.json`, como es representado en el siguiente esquema de ejemplo:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 o si utilizas `iframe`:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 - La presencia **DEBE** estar relacionada con el sitio web que ha elegido.
 - La presencia **NO DEBE** ser de ningún sitio web ilegal. Estos incluyen páginas estresantes, sustancias ilegales, pornografía infantil, etc.

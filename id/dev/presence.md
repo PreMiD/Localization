@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,25 +30,30 @@ When publishing Presences to this GitHub, we require you to follow a set of guid
 
 - Pull request **HARUS** lengkap, anda harus memiliki struktur file yang layak, draft **TIDAK** diperbolehkan. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 or if you're using `iframe`:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Sebelum anda memulai mengerjakan presence, selalu ingat daftar berikut.
 - The Presence **MUST** be related to the site you have chosen.
 - The Presence **MUST NOT** be of any illegal sites. Ini termasuk stresor, narkoba, pornografi dibawah umur, dll.
