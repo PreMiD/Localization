@@ -2,7 +2,7 @@
 title: Разработка присутствия
 description:
 published: true
-date: 2020-05-09T12:35:18.120Z
+date: 2020-05-09T14:26:01.038Z
 tags:
 ---
 
@@ -159,9 +159,9 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist"
+    "outDir": "./dist/"
   }
 }
 ```
