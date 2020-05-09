@@ -16,7 +16,7 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "Por favor, preenche todos os campos",
+		"message": "Por favor, preencha todos os campos",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {

@@ -68,7 +68,7 @@
     "description": "Tippy message of the version number when user is on Linux."
   },
   "downloads.error.noaccess.title": {
-    "message": "Uh oh, parece que tu não tens acesso alfa/beta :(",
+    "message": "Uh oh, parece que tu não tens acesso alpha/beta :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
   "downloads.warning.title": {
