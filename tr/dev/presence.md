@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-05-09T12:32:01.440Z
+date: 2020-05-09T12:35:18.120Z
 tags:
 ---
 
@@ -52,7 +52,7 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
 <br>
 Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri inceleyin ve aklınızda bulundurun.
 - Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
