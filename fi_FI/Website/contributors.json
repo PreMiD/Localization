@@ -15,6 +15,14 @@
 		"message": "Tekijä",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.webDeveloper": {
+		"message": "Web-kehittäjä",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Linux Ylläpitäjä",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
 	"contributors.roles.engineer": {
 		"message": "Insinööri",
 		"description": "'Engineer' title for contributors and user pages."
@@ -27,16 +35,24 @@
 		"message": "Moderaattori",
 		"description": "'Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.supportAgent": {
+		"message": "Tukiagentti",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
 	"contributors.roles.donator": {
 		"message": "Lahjoittaja",
 		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Boosteri",
+		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
 		"message": "Kääntäjä",
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Kopioi käyttäjän tunnus napsauttamalla.",
+		"message": "Kopioi käyttäjän ID napsauttamalla.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
