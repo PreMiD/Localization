@@ -39,10 +39,6 @@
 		"message": "爲我們工作",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "您準備好幫助最大的Rich-Presence庫嗎？",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "職位空缺",
 		"description": "Text before the available job positions cards."
@@ -79,10 +75,6 @@
 		"message": "支持 PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "通過您的貢獻，我們才可以成功執行此項目。",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "彈性工時",
 		"description": "Benefit card title."
@@ -94,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "搶先體驗",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "能夠在其他任何人之前測試新功能。",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "感謝您的申請!",

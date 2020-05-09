@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTNERZY",
+		"message": "Partnerzy",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "Co powiesz na pójście do nieba zamiast do piekła?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "Twój darmowy status Presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Nasz zespół zapewni ci status Presence twojej usługi internetowej.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Zostań zweryfikowany",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Integracja z Meta-tag",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automatycznie włącza twój status Presence, gdy ktoś odwiedza Twoją witrynę.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Uwiecznij się",
@@ -51,12 +39,8 @@
 		"message": "Bądź sławny",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "Polecane przez naszych socjalistów.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
-		"message": "WYMAGANIA",
+		"message": "Wymaganie",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -72,7 +56,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Obecnie podejmujemy różne wysiłki w naszym programie partnerskim. Każdy powinien mieć szansę zostać zauważonym. Twórcy Twitcha powinni mieć co najmniej 500 obserwujących i co najmniej 3 równoczesnych widzów. Musisz przesyłać strumieniowo co najmniej 1 raz w tygodniu.",
+		"message": "Obecnie podejmujemy różne wysiłki w naszym programie partnerskim. Każdy powinien mieć szansę zostać zauważonym. Twórcy Twitcha powinni mieć co najmniej 500 obserwujących i co najmniej 10 równoczesnych widzów. Musisz przesyłać strumieniowo co najmniej 1 raz w tygodniu.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -82,14 +66,6 @@
 	"partners.apply.disclaimer": {
 		"message": "Chodźmy razem do nieba!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Jeśli wolisz bezpośrednią pracę w PreMiD, zapoznaj się z naszą **ofertą pracy**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSORZY",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD nie byłby możliwy bez tych niesamowitych ludzi.",

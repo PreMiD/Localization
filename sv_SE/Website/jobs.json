@@ -27,10 +27,6 @@
 		"message": "Arbeta för PreMiD",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "Är du redo att hjälpa det största Rich-Presence biblioteket?",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "Lediga jobb",
 		"description": "Text before the available job positions cards."
@@ -67,10 +63,6 @@
 		"message": "Stötta PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "Med ditt bidrag är det möjligt att driva detta projekt.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Timeout",
 		"description": "Benefit card title."
@@ -82,10 +74,6 @@
 	"jobs.benefit6.title": {
 		"message": "Förhandstillgång",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Kunna testa nya funktioner före någon annan.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Tack för din ansökan!",

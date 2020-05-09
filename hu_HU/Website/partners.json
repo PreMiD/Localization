@@ -1,4 +1,12 @@
 {
+	"partners.header.title": {
+		"message": "Partnerek",
+		"description": "Heading for page."
+	},
+	"partners.requirements.title": {
+		"message": "Követelmények",
+		"description": "Heading for the requirements."
+	},
 	"partners.apply.select.other": {
 		"message": "Egyéb",
 		"description": "Select 'Other' category."

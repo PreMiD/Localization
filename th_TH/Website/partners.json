@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "พาร์ทเนอร์",
+		"message": "ผู้ร่วมมือ",
 		"description": "Heading for page."
 	},
 	"partners.why.benefit2.title": {
@@ -14,10 +14,6 @@
 	"partners.apply.button": {
 		"message": "สมัครตอนนี้!",
 		"description": "Button to apply for partner."
-	},
-	"partners.sponsors.title": {
-		"message": "ผู้สนับสนุน",
-		"description": "Heading for sponsors."
 	},
 	"partners.apply.notYou": {
 		"message": "ไม่ใช่คุณหรอ?",

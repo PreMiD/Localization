@@ -1,4 +1,12 @@
 {
+	"partners.header.title": {
+		"message": "Partneri",
+		"description": "Heading for page."
+	},
+	"partners.requirements.title": {
+		"message": "Požiadavky",
+		"description": "Heading for the requirements."
+	},
 	"partners.apply.select.other": {
 		"message": "Ostatné",
 		"description": "Select 'Other' category."

@@ -51,12 +51,8 @@
 		"message": "Kääntäjä",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Kopioi käyttäjän ID napsauttamalla.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Käyttäjän ID kopioitu leikepöydällesi!",
-		"description": "Notification after user ID was copied."
 	}
 }

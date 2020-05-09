@@ -1,10 +1,6 @@
 {
-  "error.code.404": {
-    "message": "Valitettavasti emme löydä tätä sivua.",
-    "description": "Error (404) message"
-  },
-  "error.page.details": {
-    "message": "Tiedot",
-    "description": "'Details' text on error page container"
-  }
+	"error.page.details": {
+		"message": "Tiedot",
+		"description": "'Details' text on error page container"
+	}
 }

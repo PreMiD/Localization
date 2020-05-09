@@ -91,12 +91,8 @@
 		"message": "מתרגם",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "תלחץ כאן בשביל להעתיק את הID של האיש.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "הID של האיש הועתק למקלדת!",
-		"description": "Notification after user ID was copied."
 	}
 }

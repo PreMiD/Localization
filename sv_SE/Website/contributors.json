@@ -91,12 +91,8 @@
 		"message": "Översättare",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Klicka för att kopiera användarens ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Användar-ID kopierades till ditt urklipp!",
-		"description": "Notification after user ID was copied."
 	}
 }

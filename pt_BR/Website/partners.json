@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARCEIROS",
+		"message": "Parceiros",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "Que tal irmos para o céu em vez do inferno?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "O Seu Rich Presence Gratuito",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Nossa equipe lhe fornecerá uma Presença do seu WebService.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Torne-se verificado",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Integração meta-tag",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Permite automaticamente a sua presença quando alguém visita seu site.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Seja imortalizado",
@@ -51,12 +39,8 @@
 		"message": "Seja famoso",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "Destaque em nossas redes sociais.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
-		"message": "REQUISITOS",
+		"message": "Requisitos",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -72,7 +56,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "No momento, estamos aceitando vários tipos de esforços em nosso programa de parceria. Qualquer pessoa deve ter a chance de ser notada. As emissoras do Twitch devem ter pelo menos 500 seguidores e pelo menos três espectadores simultâneos. Você deve transmitir pelo menos uma vez por semana.",
+		"message": "De momento, aceitamos vários tipos de esforço no nosso programa de parceria. Qualquer um deve ter a oportunidade de ser notado. Os tarnsmissores da Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espetadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -82,14 +66,6 @@
 	"partners.apply.disclaimer": {
 		"message": "Vamos juntos para o céu!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Se você está interessado em um trabalho direto no PreMiD, dê uma olhada no nosso ** anúncio de emprego **.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "PATROCINADORES",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "O PreMiD não seria possível, sem essas pessoas incríveis.",
