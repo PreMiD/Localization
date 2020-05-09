@@ -2,7 +2,7 @@
 title: Classe iFrame
 description:
 published: vrai
-date: 2020-05-03T20:17:51.982Z
+date: 2020-05-07T20:17:51.869Z
 tags:
 ---
 
