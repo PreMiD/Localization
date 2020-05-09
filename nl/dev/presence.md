@@ -51,7 +51,7 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
+- {type} staat voor: A tot Z, "#" voor niet alfabetische beginnende presences en "0-9" voor presences die beginnen met getallen.
 <br>
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
 - De presence **MOET** gerelateerd zijn aan de website die je hebt gekozen.
