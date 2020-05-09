@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,25 +30,30 @@ Quando pubblichiamo Presenze su questo GitHub, ti richiediamo di seguire un insi
 
 - La pull request <strong x-id "1">DEVE</strong> é completa, é necessario avere una struttura di file appropriata, le bozze sono **NON** consentite. Compreso il file `presence.ts`, file `tsconfig.json` `dist` cartella, `presence.js` file, e `metada.json` file, che è rappresentato nello schema di esempio seguente:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 o se stai utilizzando `iframe`:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elenco.
 - La presenza **DEVONO** essere correlata al sito che hai scelto.
 - La presenza **NON DEVE** essere di siti illegali. Tra questi, lo stressor, la droga, la pornografia infantile, eccetera.
