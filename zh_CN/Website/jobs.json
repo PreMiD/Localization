@@ -39,10 +39,6 @@
 		"message": "为  PreMiD 工作。",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "您准备好帮助开发最大的 Rich-Presence 库了吗？",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "工作机会",
 		"description": "Text before the available job positions cards."
@@ -79,10 +75,6 @@
 		"message": "支援 PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "您的贡献将帮助运行这个项目。",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "时间到！",
 		"description": "Benefit card title."
@@ -94,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "抢先体验",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "能够在任何人之前体验全新功能。",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "感谢您的申请！",
