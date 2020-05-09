@@ -2,7 +2,7 @@
 title: 无标题页面
 description: TypeScript 的小助手
 published: true
-date: 2020-02-12T22:15:34.451Z
+date: 2020-05-09T14:32:40.832Z
 tags:
 ---
 
@@ -20,39 +20,41 @@ tags:
 
 ```javascript
 {
-    "compilerOptions": {
-        "module": "CommonJS",
-        "target": "ES2020",
-        "removeComments": true,
-        "noFallthroughCasesInSwitch": true,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "inlineSourceMap": true,
-        "typeRoots": ["@types"]
-    },
-    "exclude": ["node_modules"]
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "inlineSourceMap": true,
+    "typeRoots": ["@types"],
+    "esModuleInterop": true
+  }
 }
 ```
 
-| 财产                         | 描述                                                                                                                              |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | 用于配置编译器，大多数属性都位于这里。                                                                                                             |
-| 模块                         | 您可以在这里阅读更多关于 [的信息](https://www.typescriptlang.org/docs/handbook/modules.html)。                                                  |
-| target                     | 定义您正在编译的 JavaScript 版本。                                                                                                         |
-| 删除评论                       | 从编译文件中删除评论。                                                                                                                     |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                        |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                 |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                             |
-| inlineSourceMap            | Adds sourcemapping                                                                                                              |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude**                | Here you can define the folders that you want to exclude from the future compilation.                                           |
+| 财产                         | 描述                                                                                                                                                                  |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | 用于配置编译器，大多数属性都位于这里。                                                                                                                                                 |
+| 模块                         | 您可以在这里阅读更多关于 [的信息](https://www.typescriptlang.org/docs/handbook/modules.html)。                                                                                      |
+| target                     | 定义您正在编译的 JavaScript 版本。                                                                                                                                             |
+| 删除评论                       | 从编译文件中删除评论。                                                                                                                                                         |
+| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
+| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
+| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
+| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
+| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
+| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## 存在配置
 
 ```javascript
-主席:
-  "extends": "../tsconfig.json",
-  "compilerOptions":
+{
+  "extends": "../../../tsconfig.json",
+  "compilerOptions": {
     "outDir": "./dist/"
   }
 }
