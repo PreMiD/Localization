@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "ПАРТНЕРЫ",
+		"message": "Партнеры",
 		"description": "Heading for page."
 	},
 	"partners.why.benefit2.title": {
@@ -12,16 +12,12 @@
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "ТРЕБОВАНИЯ",
+		"message": "Требования",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Что вы ищете?",
 		"description": "Heading for the first requirement."
-	},
-	"partners.sponsors.title": {
-		"message": "СПОНСОРЫ",
-		"description": "Heading for sponsors."
 	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
