@@ -175,6 +175,10 @@
 		"message": "Betrachtet ein Profil:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Schaut eine Serie:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Schaut eine Show:",
 		"description": ""
