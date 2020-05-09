@@ -75,10 +75,10 @@ Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elen
   <p spaces-before="0">DEVI modificare la versione nei metadi <strong x-id="1">metadata</strong> per essere un valore piu alto rispetto alla versione precedente quando effetui modifiche alla presenza <strong x-id'="1">presence.ts</strong>**presence.js</strong o **metadata.json**. </p>
 {.is-warning}</blockquote>
 
-In alcune situazioni, le Presence possono comportarsi in modo inaspettato o potrebbero utilizzare alcuni piccoli cambiamenti per miglioarne la funzionalità. Here is a compiled list that you **MUST** follow to modify Presences.
+In alcune situazioni, le Presence possono comportarsi in modo inaspettato o potrebbero utilizzare alcuni piccoli cambiamenti per miglioarne la funzionalità. Ecco un elenco compilato che **DEVI** seguire per modificare le Presenze.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
-- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- **NON** sei autorizzato a riscrivere una Presenza o a cambiare il suo autore. Se l'autore della Presenza è stato bannato dal server ufficiale o non ha apportato le modifiche richieste in sette giorni, puoi contattare un `Verificatore di Presenze` per vedere se è possibile riscrivere la Presenza di tua scelta.
+- Chiunque può fornire hotfix per correggere i bug; Tuttavia, prova a **NON** apportare modifiche al codice che **NON** hanno bisogno di essere corrette. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
 - Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
 - Confirm that your changes work before publishing. Do **NOT** create pull requests without knowing the outcome of your changes.
