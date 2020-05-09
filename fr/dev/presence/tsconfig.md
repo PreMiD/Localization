@@ -41,7 +41,7 @@ Dans le fichier de configuration racine, vous verrez quelque chose comme ça.
 | module                          | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/modules.html).                                                            |
 | target                          | Définit la version JavaScript que vous compilez.                                                                                                                    |
 | Supprimer les commentaires      | Suppression des commentaires des fichiers compilés.                                                                                                                 |
-| noEmitOnError                   | Do not emit outputs if any errors were reported.                                                                                                                    |
+| noEmitOnError                   | Ne pas émettre de sorties si des erreurs ont été signalées.                                                                                                         |
 | pas de casse dans les cassettes | Signaler les erreurs pour les cas de repli dans l'instruction switch.                                                                                               |
 | noUnusedLocals                  | Signaler des erreurs sur les locales inutilisées.                                                                                                                   |
 | noUnusedParameters              | Signaler les erreurs sur les paramètres inutilisés.                                                                                                                 |
