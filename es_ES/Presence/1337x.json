@@ -19,6 +19,10 @@
         "message": "Viendo las tendencias",
         "description": ""
     },
+    "1337x.animeTorrents": {
+        "message": "Viendo de torrents de Anime",
+        "description": ""
+    },
     "1337x.appTorrents": {
         "message": "Viendo Torrents de Aplicaciones",
         "description": ""
