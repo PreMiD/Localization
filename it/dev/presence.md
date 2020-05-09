@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-05-09T12:35:18.120Z
+date: 2020-05-09T14:26:01.038Z
 tags:
 ---
 
@@ -78,8 +78,8 @@ Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elen
 In alcune situazioni, le Presence possono comportarsi in modo inaspettato o potrebbero utilizzare alcuni piccoli cambiamenti per miglioarne la funzionalità. Ecco un elenco compilato che **DEVI** seguire per modificare le Presenze.
 
 - **NON** sei autorizzato a riscrivere una Presenza o a cambiare il suo autore. Se l'autore della Presenza è stato bannato dal server ufficiale o non ha apportato le modifiche richieste in sette giorni, puoi contattare un `Verificatore di Presenze` per vedere se è possibile riscrivere la Presenza di tua scelta.
-- Chiunque può fornire hotfix per correggere i bug; Tuttavia, prova a **NON** apportare modifiche al codice che **NON** hanno bisogno di essere corrette. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
+- Chiunque può fornire hotfix per correggere i bug; Tuttavia, prova a **NON** apportare modifiche al codice che **NON** hanno bisogno di essere corrette. Le modifiche valide sono, ma **NON** limitate a, _percorsi mancanti_, _errori_, _immagini mancanti_, ecc.
+- Se fai delle modifiche ad una Presenza e cambi almeno un **QUARTO** del codice base di riferimento della Presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un `Verificatore di Presenze` per ulteriori informazioni su questo argomento.
 - Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
 - Confirm that your changes work before publishing. Do **NOT** create pull requests without knowing the outcome of your changes.
 
@@ -158,19 +158,19 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4. Create a `metadata.json` file inside the `dist` folder.
 
 ## Riempimento nel file tsconfig.json
-Please put the following code inside of the `tsconfig.json` file.
+Per favore, inserisci il seguente codice all'interno del file `tsconfig.json`.
 ```javascript
 {
-  "extends": "../tsconfig.json",
+  "extends": "../../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist"
+    "outDir": "./dist/"
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Per ulteriori informazioni sulla configurazione di TypeScript, clicca [qui](/dev/presence/tsconfig).
 
 ## Compilazione nel file metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
 {
@@ -399,7 +399,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Guida introduttiva
 
