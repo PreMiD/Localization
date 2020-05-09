@@ -39,10 +39,6 @@
 		"message": "Legyél te is a PreMiD dolgozója",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "Készen állsz arra, hogy a legnagyobb Állapotüzenet könyvtárnak dolgozz?",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "Álláslehetőségek",
 		"description": "Text before the available job positions cards."
@@ -79,10 +75,6 @@
 		"message": "PreMiD támogatása",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "Hozzájárulásoddal lehetséges a projekt futtatása.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Időbeosztás",
 		"description": "Benefit card title."
@@ -94,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Tesztelj új funkciókat mindenki más előtt.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Köszönjük jelentkezésedet!",
