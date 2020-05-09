@@ -12,7 +12,7 @@ Laajennuksen asentaminen on erittäin tärkeää, koska sovellus ei voi tehdä m
 1. Mene meidän lataus sivulle [klikkaamalla tästä](https://premid.app/downloads).
 2. Valitse **Firefox**.
 3. Etsi `about:addons`.
-4. Click on the small gear icon in the upper right corner.
+4. Napauta oikeassa yläkulmassa olevaa rataskuvaketta.
 5. Choose **Install add-on from file**.
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
