@@ -17,7 +17,7 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. No entanto, modificações nos arquivos `metadata.json` ou `tsconfig.json` de uma presença **NÃO** precisam de uma captura de tela. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
 > 
 > {.is-warning}
 
@@ -56,7 +56,7 @@ websites
 <br>
 Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. These include stressors, drugs, child porn, etc.
+- The Presence **MUST NOT** be of any illegal sites. Estes incluem sites perturbadores, drogas, pornografia infantil, etc.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - O que você pôr de mídia (ícone/miniatura) **DEVE** estar relacionado ao site e deve ser compreensível em termos de tamanho e qualidade.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
