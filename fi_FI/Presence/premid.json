@@ -7,6 +7,10 @@
         "message": "Dokumentaatio",
         "description": "as in documents"
     },
+    "premid.viewPresence": {
+        "message": "Katsoo presenceä:",
+        "description": ""
+    },
     "premid.pageHome": {
         "message": "Kotisivu",
         "description": "A page name"
