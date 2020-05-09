@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,25 +30,30 @@ GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız
 
 - "Pull request"iniz **MUTLAKA** tamamlanmış olmalıdır, doğru dosya yolu biçimi ve gerekli kurallara uyulmuş olunmalıdır. Taslaklar **KESİNLİKLE** kabul edilmeyecektir. Servisinizin klasöründe , birer adet `presence.ts` ve `tsconfig.json` dosyası, `dist` klasörü, bunun içerisinde birer adet `presence.js` ve `metadata.json` dosyası olmalıdır. Dosya yolları gösterilen şekilde olmalıdır:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 veya eğer `iframe` kullanıyorsanız:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri inceleyin ve aklınızda bulundurun.
 - Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
 - Yaptığınız servis **KESİNLİKLE**, herhangi bir illegal siteninki olmamalıdır. Bunlara, uyuşturucular, çocuk pornografisi gibi siteler dahildir.
@@ -375,7 +380,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>ayarlar</b>
       </td>
       <td style="text-align:left">Kullanıcıların değiştirebileceği ayarlar array'ı. Daha fazla bilgi için <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">buraya</a> gözatın.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
