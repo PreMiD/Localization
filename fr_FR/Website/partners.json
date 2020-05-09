@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTENAIRES",
+		"message": "Partenaires",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "Que diriez-vous d'aller au paradis au lieu de l'enfer ?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "Votre présence gratuite",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Notre équipe vous fournira une présence de votre service web.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Devenez vérifié",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Intégration des méta-tags",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Active automatiquement votre Presence lorsque quelqu'un visite votre site Web.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Soyez immortalisé",
@@ -51,12 +39,8 @@
 		"message": "Soyez célèbre",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "Présenté sur nos réseaux sociaux.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
-		"message": "EXIGENCES",
+		"message": "Exigences",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -72,7 +56,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Nous acceptons actuellement divers types d'efforts dans notre programme de partenariat. N'importe qui devrait avoir la possibilité d'être remarqué. Les diffuseurs Twitch devraient avoir au moins 500 abonnés et au moins 3 téléspectateurs simultanés. Vous devez diffuser au moins une fois par semaine.",
+		"message": "Nous acceptons actuellement divers types d'efforts dans notre programme de partenariat. N'importe qui devrait avoir la possibilité d'être remarqué. Les diffuseurs Twitch devraient avoir au moins 500 abonnés et au moins 10 téléspectateurs simultanés. Vous devez diffuser au moins une fois par semaine.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -82,14 +66,6 @@
 	"partners.apply.disclaimer": {
 		"message": "Allons au paradis ensemble!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Si vous êtes plutôt intéressé par un emploi direct chez PreMiD, jetez un œil à notre **offre d'emploi**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSORS",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD ne serait pas possible sans ces gens incroyables.",
