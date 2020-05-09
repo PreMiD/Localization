@@ -2,7 +2,7 @@
 title: Desenvolvimento de Presenças
 description:
 published: true
-date: 2020-05-05T15:22:38.386Z
+date: 2020-05-09T12:32:01.440Z
 tags:
 ---
 
@@ -30,28 +30,33 @@ When publishing Presences to this GitHub, we require you to follow a set of guid
 
 - A solicitação de recebimento <strong x-id = "1"> DEVE </strong> está concluída, você precisa de uma estrutura de arquivos adequada, os rascunhos são <strong x-id = "1"> NÃO </strong> permitido. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   └── presence.js
-├── presence.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 or if you're using `iframe`:
 ```bash
-presence
-├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
-├── presence.ts
-├── iframe.ts
-└── tsconfig.json
+websites
+└── {type}
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
-
+- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+<br>
 Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - The Presence **MUST** be related to the site you have chosen.
-- The Presence **MUST NOT** be of any illegal sites. Estes incluem sites pertubadores, drogas, pornografia infantil, etc.
+- The Presence **MUST NOT** be of any illegal sites. These include stressors, drugs, child porn, etc.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
