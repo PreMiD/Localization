@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-05-09T12:30:07.732Z
+date: 2020-05-09T12:32:01.440Z
 tags: 
 ---
 
@@ -29,25 +29,25 @@ To some, these strict rules may seem harsh. However, the implementation of these
 ```bash
 websites
 └── {type}
-		└── presence
-				├── dist
-				│   ├── metadata.json
-				│   └── presence.js
-				├── presence.ts
-				└── tsconfig.json
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   └── presence.js
+        ├── presence.ts
+        └── tsconfig.json
 ```
 or if you're using `iframe`:
 ```bash
 websites
 └── {type}
-		└── presence
-				├── dist
-				│   ├── metadata.json
-				│   ├── presence.js
-				│   └── iframe.js
-				├── presence.ts
-				├── iframe.ts
-				└── tsconfig.json
+    └── presence
+        ├── dist
+        │   ├── metadata.json
+        │   ├── presence.js
+        │   └── iframe.js
+        ├── presence.ts
+        ├── iframe.ts
+        └── tsconfig.json
 ```
 - {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
 <br>
