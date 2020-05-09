@@ -91,12 +91,8 @@
 		"message": "Çevirmen",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "ID'yi kopyalamak için tıklayın.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Kullanıcının ID'si panonuza kopyalandı!",
-		"description": "Notification after user ID was copied."
 	}
 }
