@@ -2,7 +2,7 @@
 title: Untitled Page
 description: A little helper for TypeScript
 published: true
-date: 2020-05-09T14:26:19.672Z
+date: 2020-05-09T14:32:40.832Z
 tags: 
 ---
 
@@ -20,17 +20,18 @@ In the root configuration file you will see something like this.
 
 ```javascript
 {
-    "compilerOptions": {
-        "module": "CommonJS",
-        "target": "ES2020",
-        "removeComments": true,
-        "noFallthroughCasesInSwitch": true,
-        "noUnusedLocals": true,
-        "noUnusedParameters": true,
-        "inlineSourceMap": true,
-        "typeRoots": ["@types"]
-    },
-    "exclude": ["node_modules"]
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "inlineSourceMap": true,
+    "typeRoots": ["@types"],
+    "esModuleInterop": true
+  }
 }
 ```
 
@@ -40,12 +41,13 @@ In the root configuration file you will see something like this.
 | module | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html). |
 | target | Defines the JavaScript version you are compiling. |
 | removeComments | Removing comments from compiled files. |
+| noEmitOnError | Do not emit outputs if any errors were reported. |
 | noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement. |
 | noUnusedLocals | Report errors on unused locals. |
 | noUnusedParameters | Report errors on unused parameters. |
 | inlineSourceMap | Adds sourcemapping | 
 | typeRoots | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types). |
-| **exclude** | Here you can define the folders that you want to exclude from the future compilation. |
+| esModuleInterop | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility.|
 
 ## Presence Configuration
 
