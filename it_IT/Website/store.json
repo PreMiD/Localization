@@ -91,6 +91,10 @@
     "message": "premi invio",
     "description": "Little message next to the keys of search filters on the store."
   },
+  "store.filters.added": {
+    "message": "Mostra quelli aggiunti",
+    "description": "Store filter to display/not display already installed presences."
+  },
   "store.search.removeFilter": {
     "message": "Clicca per rimuovere il filtro.",
     "description": "Remove message for active search filters."

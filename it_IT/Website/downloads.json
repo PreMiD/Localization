@@ -39,6 +39,10 @@
     "message": "Estensione",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Attenzione:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Non c'è un installer per questo sistema operativo. Questo significa che non c'è supporto professionale per questo sistema.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
@@ -55,12 +59,72 @@
     "message": "Nascondi i Download",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.warning.differentVersion": {
+    "message": "La versione corrente di questa piattaforma è {0} (questa versione è specifica per Linux e non si applica ad altri sistemi).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "Questa versione è specifica per Linux e non si applica ad altri sistemi. La versione principale dell'applicazione è {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "Effettua il login per vedere i download.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Uh oh, sembra che tu non abbia accesso alfa/beta :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Puoi unirti al nostro programma beta gratuitamente **qui**. Sbrigati! Abbiamo solo {0} slot (su 200)",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Primi rilasci",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Attenzione",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Non dimenticare di abilitare l'opzione 'consenti estensioni da altri negozi' dalle impostazioni estensioni.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Devi installare **questa** estensione per installare PreMiD dal Chrome Webstore.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Salta",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Indietro",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "Ok",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.done": {
     "message": "Fatto",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Login",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Grazie!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Utilizziamo gli annunci per supportare il nostro team e mantenere i nostri server per offrirti la migliore esperienza utente!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Per favore disabilita il tuo adblock.",
+    "description": "Message next to pepe."
   }
 }
