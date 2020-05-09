@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-05-09T14:26:01.038Z
+date: 2020-05-09T14:26:01.832Z
 tags:
 ---
 
@@ -30,7 +30,7 @@ Lors de la publication des présences sur ce GitHub, nous vous demandons de suiv
 
 - La pull request **DOIT** être complète, vous devez avoir une structure de fichier appropriée, les brouillons sont **PAS autorisés**. Inclure le dossier `dist` , le fichier `presence.js` et le fichier `metadata.json` qui sont représentés dans le schéma d'exemple suivant :
 ```bash
-websites
+site web
 └── {type}
     └── presence
         ├── dist
@@ -41,7 +41,7 @@ websites
 ```
 ou si vous utilisez `iframe`:
 ```bash
-websites
+site web
 └── {type}
     └── presence
         ├── dist
@@ -60,13 +60,13 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
-- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
+- La présence **NE DOIT PAS** avoir d'intentions malveillantes. Celles-ci incluent le vol ou la fuite d'informations privées, affectant négativement le comportement du site, etc.
 - If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
-- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
-- Your Presence **CANNOT** manipulate local storage on the browser.
-- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. For example, a Presence named `Google Docs` must have a directory of `/Google Docs/`. (you should include all spaces, periods, commas, and any other special characters)
+- La présence **DOIT** être testée avant la publication pour confirmer que tout fonctionne comme prévu.
+- Votre présence **DOIT** avoir des images et des descriptions SFW, qu'elles soient NSFW ou non. Si votre Presence concerne un site NSFW, veuillez ajouter la balise `nsfw` à vos métadonnées.
+- Votre présence **NE PEUT PAS** manipuler le stockage local sur le navigateur.
+- Votre Presence peut utiliser des cookies pour stocker des données, vous devez tous les préfixer avec `pmd_`.
+- Le nom de votre Presence **DOIT** être le nom du dossier de votre Presence. Par exemple, une présence nommée `Google Docs` doit avoir comme dossier `/Google Docs/`. (vous devez inclure tous les espaces, points, virgules et autres caractères spéciaux)
 
 ## Modifications
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
@@ -75,10 +75,10 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 
 Dans certaines situations, Presences peut se comporter de manière inattendue ou peut utiliser quelques modifications mineures pour améliorer ses fonctionnalités. Voici une liste compilée que vous **DEVEZ** suivre pour modifier les présences.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- Vous n'êtes **PAS**autorisé à réécrire une Presence ou à modifier son auteur. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
 - Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
-- Assurez-vous que les modifications sont utiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
+- Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
 - Confirmez que vos modifications fonctionnent avant de publier. Do **NOT** create pull requests without knowing the outcome of your changes.
 
 # Vérification
@@ -431,10 +431,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 présence. n("UpdateData", async () => {
     /*UpdateData est toujours lancé, et donc devrait être utilisé comme votre cycle de rafraîchissement, ou `tick`. Cela est appelé plusieurs fois par seconde dans la mesure du possible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Il est recommandé de configurer une autre fonction en dehors de cette fonction qui va changer les valeurs des variables et faire le chargement lourd si vous appelez des données à partir d'une API. /
 
-    var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
+    var presenceData = {
+        largeImageKey: "key", /*La clé (nom de fichier) de la grande image sur la présence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
         smallImageKey: "key", /*La clé (nom de fichier) de la Grande Image sur présence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelé Art Assets*/
         smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image
         détails: "Nom de la page de navigation", //La section supérieure du texte de présence
