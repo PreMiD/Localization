@@ -91,12 +91,8 @@
 		"message": "Překladatel",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Kliknutím zkopírujete ID uživatele.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID uživatele zkopírováno do vaší schránky!",
-		"description": "Notification after user ID was copied."
 	}
 }
