@@ -80,7 +80,7 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "You can join our beta program for free **here**. Hurry up! We only have {0} more slots available",
+		"message": "You can join our beta program **here** for free. Hurry up! We only have {0} more slots available",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
