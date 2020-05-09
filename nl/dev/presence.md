@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-05-09T12:32:01.440Z
+date: 2020-05-09T12:35:18.120Z
 tags:
 ---
 
@@ -30,7 +30,6 @@ Bij het publiceren van presences naar GitHub, vragen we je om een set richtlijne
 
 - De pull-aanvraag **MOET** compleet zijn, u moet een goede bestandsstructuur hebben, concepten zijn **NIET** toegestaan. Inclusief het `presence.ts` bestand, `tsconfig.json` bestand, `dist` map, `presence.js` bestand en `metadata.json` bestand, dat wordt weergegeven in het volgende voorbeeld schema:
 ```bash
-websites
 └── {type}
     └── presence
         ├── dist
@@ -52,7 +51,7 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alfabetic starting presences and "0-9" for presences starting with numbers.
+- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
 <br>
 Houd de volgende lijst in gedachten voordat je begint met het maken van je presence.
 - De presence **MOET** gerelateerd zijn aan de website die je hebt gekozen.
