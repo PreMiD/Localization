@@ -94,5 +94,9 @@
 	"contributors.cards.copyUserID": {
 		"message": "Klicken, um Benutzer-ID zu kopieren.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIDCopied": {
+		"message": "Nutzer ID kopiert!",
+		"description": "Notification after user ID was copied."
 	}
 }
