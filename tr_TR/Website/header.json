@@ -19,6 +19,10 @@
 		"message": "Dili değiştir",
 		"description": "Button that switches language after click."
 	},
+	"header.loader.phrases": {
+		"message": "Kekler pişiriliyor...;Masa hazırlanıyor...;IP adresiniz çözümleniyor...;UwU;Kurallar kırılıyor...;Sabit diskiniz siliniyor...",
+		"description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, its used to separate phrases]"
+	},
 	"header.store": {
 		"message": "Mağaza",
 		"description": "Store tab"
