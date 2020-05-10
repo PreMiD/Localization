@@ -51,6 +51,10 @@
 		"message": "Tylko lubiane aktywności Presence",
 		"description": "Liked presences only checkbox"
 	},
+	"store.filters.added": {
+		"message": "Pokaż dodane Presence",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Kategorie",
 		"description": "Category heading"
