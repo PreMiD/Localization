@@ -3,6 +3,10 @@
 		"message": "**PreMiD** is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het internet aan het doen bent in uw Discord status.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Functies",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Downloads",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,9 +39,21 @@
 		"message": "Vind **je** presence",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presence toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Bezoek de winkel",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Eenvoudige gebruikersinterface",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Moe van ingewikkelde gebruikersinterfaces? Daarom hebben we onze UI zo eenvoudig en nuttig mogelijk gehouden met belangrijke functies zoals:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "App- en extensie instellingen",
@@ -47,12 +63,24 @@
 		"message": "Presence beheer",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sorteer op categorie",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Snelle ondersteuning",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Iets is glitched, je krijgt een heleboel fouten of het werkt gewoon niet? We helpen u om van deze problemen af te komen op onze Discord server. We hebben ook ons eigen ondersteuningssysteem gecreëerd dat ervoor zorgt dat uw probleem zo snel mogelijk wordt opgelost.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Join onze Discord",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Websitetaal",
+		"description": "Tippy content of the language selector."
 	}
 }

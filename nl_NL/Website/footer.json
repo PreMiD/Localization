@@ -3,6 +3,10 @@
 		"message": "Taal",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Klaar om PreMiD te gebruiken?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Doe mee met {0} andere gebruikers!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -51,6 +55,10 @@
 		"message": "Vertaal",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Werk met ons samen!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Help",
 		"description": "Help section"
@@ -98,5 +106,9 @@
 	"footer.copyright.line2": {
 		"message": "Website wordt onderhouden door {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klik hier om de rest van de partners en sponsors te zien.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
