@@ -32,11 +32,11 @@ Sie können es auf Ihrer [Bewerbungsseite](https://discordapp.com/developers/app
 
 ### `setActivity (presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Legt Ihre Profilaktivität gemäß den bereitgestellten Daten fest.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Der erste Parameter erfordert eine ` Präsenzdaten ` Schnittstelle, um alle Informationen abzurufen, die Sie in Ihrem Profil anzeigen möchten.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Der zweite Parameter definiert, wann Präsenz etwas spielt oder nicht. Verwenden Sie immer ` true `, wenn Sie Zeitstempel in ` presentData ` angeben.
 
 ### `clearActivity ()`
 
@@ -52,7 +52,7 @@ Sets the tray title on the Menubar.
 
 ### `getStrings (Objekt)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Ermöglicht das Abrufen übersetzter Zeichenfolgen aus der Erweiterung. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
