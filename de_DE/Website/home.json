@@ -3,6 +3,10 @@
 		"message": "**PreMiD** ist eine einfache, konfigurierbare Software, die dir erlaubt in deinem Discord-Status zu zeigen, was du im Web tust.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Funktionen",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Downloads",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,9 +39,21 @@
 		"message": "Finde **deine** Präsenz",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Präsenzen von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Store besuchen",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Einfache Benutzeroberfläche",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Müde von komplizierten Benutzeroberflächen? Deshalb haben wir unsere Benutzeroberfläche so einfach und nützlich wie möglich gehalten, mit wichtigen Funktionen wie:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "App- und Erweiterungseinstellungen",
@@ -47,6 +63,10 @@
 		"message": "Präsenzverwaltung",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Nach Kategorie sortieren",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Schneller Support",
 		"description": "Features section subheading"
@@ -54,5 +74,9 @@
 	"home.features.quickSupport.button": {
 		"message": "Tritt unserem Discord Server bei",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Website-Sprache",
+		"description": "Tippy content of the language selector."
 	}
 }
