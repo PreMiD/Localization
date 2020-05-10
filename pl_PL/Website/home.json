@@ -3,6 +3,10 @@
 		"message": "**PreMiD** to proste, konfigurowalne narzędzie pozwalające pokazać, co robisz w sieci w twoim Discordzie teraz.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Funkcje",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Pobieranie",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -47,6 +51,10 @@
 		"message": "Zarządzanie aktywnością",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortuj według kategorii",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Szybkie wsparcie",
 		"description": "Features section subheading"
@@ -54,5 +62,9 @@
 	"home.features.quickSupport.button": {
 		"message": "Dołącz do naszego Discorda",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Język strony",
+		"description": "Tippy content of the language selector."
 	}
 }
