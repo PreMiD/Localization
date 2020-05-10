@@ -3,6 +3,10 @@
         "message": "ツイートを閲覧中",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "DMを閲覧中",
+        "description": ""
+    },
     "twitter.notifs": {
         "message": "通知",
         "description": ""
