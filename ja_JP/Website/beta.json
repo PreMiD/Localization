@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "ベータプログラムに登録していただき、ありがとうございます！\n承認されるまでには時間がかかる場合があります。",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "ベータの空き枠が現在はないようです。",
+		"description": "Shows when the beta slots are full."
 	}
 }
