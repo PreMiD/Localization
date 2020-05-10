@@ -31,6 +31,26 @@
 		"message": "Präsenz entfernen",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.card.presence.included": {
+		"message": "Diese Präsenz wird automatisch aktiviert, wenn Sie ihre Website besuchen.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filter",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Meist verwendete zuerst",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "NSFW anzeigen",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Nur gemochte Präsenzen",
+		"description": "Liked presences only checkbox"
+	},
 	"store.filters.added": {
 		"message": "Nur hinzugefügte Präsenzen",
 		"description": "Store filter to display/not display already installed presences."
