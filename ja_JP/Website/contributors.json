@@ -15,6 +15,18 @@
 		"message": "作者",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.webDeveloper": {
+		"message": "Web開発者",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "エンジニア",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "グラフィックデザイナー",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "上級モデレーター",
 		"description": "'Senior Moderator' title for contributors and user pages."
@@ -22,6 +34,14 @@
 	"contributors.roles.moderator": {
 		"message": "モデレーター",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "ジュニアモデレーター",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "サポートエージェント",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "プレゼンステスター",
@@ -42,5 +62,13 @@
 	"contributors.roles.translator": {
 		"message": "翻訳者",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserID": {
+		"message": "クリックでユーザー名をコピー",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIDCopied": {
+		"message": "コピーした！",
+		"description": "Notification after user ID was copied."
 	}
 }
