@@ -3,6 +3,10 @@
 		"message": "Yhteistyökumppanit",
 		"description": "Heading for page."
 	},
+	"partners.sponsors.title": {
+		"message": "Sponsorit",
+		"description": "Heading for sponsors."
+	},
 	"partners.apply.select.other": {
 		"message": "Muu",
 		"description": "Select 'Other' category."

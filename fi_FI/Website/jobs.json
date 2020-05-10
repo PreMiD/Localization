@@ -1,1 +1,6 @@
-{}
+{
+	"jobs.benefit6.description": {
+		"message": "Testaa uusia ominaisuuksia ennen muita.",
+		"description": "Benefit card description."
+	}
+}
