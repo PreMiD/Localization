@@ -3,6 +3,10 @@
 		"message": "**PreMiD**, Discord oynuyor yerinizde internet sitelerinde neler yaptığınızı gösterebileceğiniz ayarlanabilir bir araçtır.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Özellikler",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "İNDİR",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -31,9 +35,25 @@
 		"message": "Bu özelliklere bayılacaksınız!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.heading": {
+		"message": "**Aradığınız** servisi bulun",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Eklentimizi, kullanıcıların kendi istedikleri servisleri ekleyebileceği ve yönetebileceği bir sistem üzerine kurduk!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Mağazaya git",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Basit arayüz",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Karmaşık kullanıcı arayüzlerinden bıktınız mı? Bu nedenle, kullanıcı arayüzümüzü aşağıdaki gibi önemli özelliklerle mümkün olduğunca basit ve kullanışlı tutmaya ve tutmaya çalıştık:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Uygulama ve Eklenti ayarları",
@@ -43,12 +63,24 @@
 		"message": "Servis yönetimi",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Kategoriye göre sırala",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Hızlı destek",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Bir şeyler aksatılıyor, size tonlarca hata gönderiyor veya basitçe çalışmıyor mu? Discord sunucumuzda bu sorunlardan kurtulmanıza yardımcı olacağız, ayrıca sorunun en kısa sürede çözülmesini sağlayacak kendi destek sistemimizi oluşturduk.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Discord'umuza Katıl",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Site Dili",
+		"description": "Tippy content of the language selector."
 	}
 }
