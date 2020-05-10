@@ -1,7 +1,27 @@
 {
+	"downloads.header.title": {
+		"message": "自己紹介のお時間です。",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "PreMiDを使って、見ているものや聞いているものを他の人に見せびらかしましょう。同じ趣味を持った人を見つけられるかも…？",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "はじめよう",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiDをダウンロード",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "アプリケーションをインストール",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "ブラウザに拡張機能を追加する",
+		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
 		"message": "アプリのダウンロード",
@@ -15,12 +35,32 @@
 		"message": "{0}アプリにはこのOS用のインストーラーがありません。 つまりこの環境に対しての専門的なサポートはありません。",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.error.noaccess.description": {
+		"message": "ベータプログラムに **ここから** 無料で参加できます！現在、{0} 個の空き枠があります！",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.button.skip": {
+		"message": "スキップ",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "戻る",
+		"description": "Back button on the ads section"
+	},
 	"downloads.button.done": {
 		"message": "完了",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "ログイン",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Thank you!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "広告ブロッカーを無効にしてください。",
+		"description": "Message next to pepe."
 	}
 }
