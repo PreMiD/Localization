@@ -3,6 +3,10 @@
 		"message": "Laajennusta ei ole yhdistetty.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.header.search": {
+		"message": "Etsi Presenceä",
+		"description": "Search bar text when nothing is stated"
+	},
 	"store.card.presence.add": {
 		"message": "Lisää Presence",
 		"description": "Button that will appear on hover after extension is installed."
