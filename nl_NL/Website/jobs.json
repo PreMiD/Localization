@@ -87,6 +87,10 @@
 		"message": "Vroegtijdige toegang",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit6.description": {
+		"message": "Test nieuwe functies voordat ze uit komen.",
+		"description": "Benefit card description."
+	},
 	"jobs.success.applied": {
 		"message": "Bedankt voor het solliciteren!",
 		"description": "Notification when applying."

@@ -19,6 +19,10 @@
 		"message": "Sprache wechseln",
 		"description": "Button that switches language after click."
 	},
+	"header.loader.phrases": {
+		"message": "Backe Pfannkuchen...;Platziere Container...;Lese IP-Adresse aus...;UwU;Breche Regeln...;Lösche Festplatte...",
+		"description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, its used to separate phrases]"
+	},
 	"header.store": {
 		"message": "Store",
 		"description": "Store tab"

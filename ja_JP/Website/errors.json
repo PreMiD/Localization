@@ -7,10 +7,6 @@
 		"message": "ページが見つかりませんでした。",
 		"description": "Error (404) message"
 	},
-	"error.code.4": {
-		"message": "削除されたか、もしくは存在しないプレゼンスです。",
-		"description": "Error (4) message"
-	},
 	"error.code.500": {
 		"message": "内部サーバーでエラーが発生しました。",
 		"description": "Error (500) message"
