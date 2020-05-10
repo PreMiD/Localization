@@ -2,7 +2,7 @@
 title: Klasa iFrame
 description:
 published: tak
-date: 2020-05-03T20:17:51.982Z
+date: 03.05.2020 20:17
 tags:
 ---
 
