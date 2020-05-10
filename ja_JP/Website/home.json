@@ -34,5 +34,9 @@
 	"home.features.presencesystem.description": {
 		"message": "この拡張機能は、自分や他の人が作ったプレゼンスを自由に追加できるようになっています！",
 		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "ウェブサイトの言語設定",
+		"description": "Tippy content of the language selector."
 	}
 }
