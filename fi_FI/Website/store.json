@@ -51,6 +51,10 @@
 		"message": "Musiikki",
 		"description": "Category at the top"
 	},
+	"store.category.socials": {
+		"message": "Sosiaaliset",
+		"description": "Category at the top"
+	},
 	"store.category.videos": {
 		"message": "Videot & Striimit",
 		"description": "Category at the top"
