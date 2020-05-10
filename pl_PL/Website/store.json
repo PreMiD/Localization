@@ -11,6 +11,10 @@
 		"message": "Ta aktywność Presence jest bardzo popularna wśród użytkowników.",
 		"description": "Presence card popular flame"
 	},
+	"store.cards.partner": {
+		"message": "Partnerskie Presence",
+		"description": "Presence card partner flame"
+	},
 	"store.cards.extraStepsRequired": {
 		"message": "Ta aktywność Presence wymaga dodatkowych kroków do działania, sprawdź stronę aby uzyskać więcej informacji.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
@@ -42,6 +46,10 @@
 	"store.category.filters.allowAdult": {
 		"message": "Pokaż NSFW",
 		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Tylko lubiane aktywności Presence",
+		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
 		"message": "Tylko dodane Presence",

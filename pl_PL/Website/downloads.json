@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "Czas do wyłączenia.",
+		"description": "Title"
+	},
 	"downloads.header.subtitle": {
 		"message": "Użyj teraz PreMiD i pochwal się znajomym, co robisz, być może znajdziesz kogoś o takich samych zainteresowaniach.",
 		"description": "Subtitle for header"
@@ -18,6 +22,10 @@
 	"downloads.instructions.step_3": {
 		"message": "Pobierz nasze rozszerzenie dla twojej przeglądarki",
 		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Odśwież stronę i sprawdź, czy rozszerzenie jest połączone",
+		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
 		"message": "Nadal masz problemy? {0}",
