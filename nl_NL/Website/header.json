@@ -19,6 +19,10 @@
 		"message": "Verwissel van taal",
 		"description": "Button that switches language after click."
 	},
+	"header.loader.phrases": {
+		"message": "Pannenkoeken bakken...;Containers plaatsen...;Je IP-adres parseren...;UwU;Regels overtreden...;Je harde schijf aan het wissen...",
+		"description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, its used to separate phrases]"
+	},
 	"header.store": {
 		"message": "Winkel",
 		"description": "Store tab"
