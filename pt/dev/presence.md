@@ -54,8 +54,8 @@ websites
 ```
 - {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
 <br>
-Before you begin working on your presence, keep the following list in mind.
-- The Presence **MUST** be related to the site you have chosen.
+Antes de começar a trabalhar na sua presença, tenha a seguinte lista em mente.
+- A Presença **DEVE** estar relacionada com site que você escolheu.
 - The Presence **MUST NOT** be of any illegal sites. These include stressors, drugs, child porn, etc.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
