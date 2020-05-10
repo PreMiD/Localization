@@ -3,6 +3,18 @@
 		"message": "Autor",
 		"description": "Creator of a presence"
 	},
+	"store.category.filters.heading": {
+		"message": "Filtry",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Najczęściej używane",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Pokaż NSFW",
+		"description": "Adult content checkbox"
+	},
 	"store.category.heading": {
 		"message": "Kategorie",
 		"description": "Category heading"
@@ -34,5 +46,9 @@
 	"store.search": {
 		"message": "Wyszukaj",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Zatwierdź",
+		"description": "Little message next to the keys of search filters on the store."
 	}
 }
