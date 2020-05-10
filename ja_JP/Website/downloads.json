@@ -23,6 +23,14 @@
 		"message": "ブラウザに拡張機能を追加する",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_4": {
+		"message": "このページを再読み込み(F5)して、拡張機能が接続されているか確認する。",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "まだ問題が解決しませんか？{0}",
+		"description": "{0} will be replaced with footer.link"
+	},
 	"downloads.appdownloading.header": {
 		"message": "アプリのダウンロード",
 		"description": "Header above application download buttons."
@@ -31,13 +39,37 @@
 		"message": "拡張機能のダウンロード",
 		"description": "Header above extension download buttons."
 	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "注意",
+		"description": "First part of the message."
+	},
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0}アプリにはこのOS用のインストーラーがありません。 つまりこの環境に対しての専門的なサポートはありません。",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.errorMessage": {
+		"message": "PreMiDはスマートフォンには対応していません。",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "表示する",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "非表示にする",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.error.login": {
+		"message": "これらのダウンロードを見るには、ログインしてください",
+		"description": "Error message if the user is not logged in."
+	},
 	"downloads.error.noaccess.description": {
 		"message": "ベータプログラムに **ここから** 無料で参加できます！現在、{0} 個の空き枠があります！",
 		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.warning.title": {
+		"message": "注意",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.button.skip": {
 		"message": "スキップ",
