@@ -15,6 +15,14 @@
 		"message": "Wie wäre es, in den Himmel, anstatt in die Hölle zu gehen?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Deine kostenlose Präsenz",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Unser Team wird dir eine Präsenz von deinem Webservice bereitstellen.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Werde verifiziert",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Meta-tag-Integration",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Aktiviert deine Präsenz automatisch, wenn jemand deine Website besucht.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Werde verewigt",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Sei berühmt",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "In sozialen Netzwerken bei uns vorgestellt werden.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Anforderungen",
@@ -66,6 +82,14 @@
 	"partners.apply.disclaimer": {
 		"message": "Lass uns gemeinsam in den Himmel gehen!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere ** Stellenanzeige ** an.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsoren",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "Ohne diese erstaunlichen Leute wäre PreMiD nicht möglich.",

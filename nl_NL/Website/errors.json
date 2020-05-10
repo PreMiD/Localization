@@ -1,4 +1,8 @@
 {
+	"error.code.4": {
+		"message": "Je zoekt naar een niet bestaande of verwijderde presence.",
+		"description": "Error (4) message"
+	},
 	"error.page.details": {
 		"message": "Foutbeschrijving",
 		"description": "'Details' text on error page container"

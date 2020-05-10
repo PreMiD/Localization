@@ -1,1 +1,18 @@
-{}
+{
+	"beta.title": {
+		"message": "Haluatko uusia ominaisuuksia?",
+		"description": "Beta page title"
+	},
+	"beta.features.1": {
+		"message": "Uusimmat ominaisuudet",
+		"description": "Features list"
+	},
+	"beta.register.button": {
+		"message": "Rekisteröidy nyt!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Hienoa! Olet nyt beta-käyttäjä!",
+		"description": "Thank You page title"
+	}
+}

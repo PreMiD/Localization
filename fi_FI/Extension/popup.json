@@ -103,6 +103,10 @@
 		"message": "Pelit",
 		"description": "Category name shown when you open tags"
 	},
+	"popup.category.socials": {
+		"message": "Sosiaaliset",
+		"description": "Category name shown when you open tags"
+	},
 	"popup.category.videos": {
 		"message": "Videot & Striimit",
 		"description": "Category name shown when you open tags"
