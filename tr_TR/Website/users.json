@@ -23,6 +23,14 @@
 		"message": "100'ün üzerinde servis geliştirmiş!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.switch.contributed": {
+		"message": "Kullanıcının [Servisleri/K. Bulundukları]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Kullanıcının yaptığı servisleri görmek için buraya tıklayın.",
+		"description": "Tippy content in user profile."
+	},
 	"user.presences.contributed": {
 		"message": "Kullanıcının yapımında katkısı bulunan servisleri görmek için buraya tıklayın.",
 		"description": "Tippy content (mode 2) in user profile."

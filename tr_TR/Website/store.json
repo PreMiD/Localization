@@ -47,6 +47,14 @@
 		"message": "NSFW göster",
 		"description": "Adult content checkbox"
 	},
+	"store.category.filters.likedOnly": {
+		"message": "Sadece beğenilen servisler",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Ekli olanları göster",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Kategoriler",
 		"description": "Category heading"
@@ -78,5 +86,13 @@
 	"store.search": {
 		"message": "Ara",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Onayla",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Filtreyi kaldırmak için tıkla.",
+		"description": "Remove message for active search filters."
 	}
 }
