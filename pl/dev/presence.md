@@ -56,7 +56,7 @@ websites
 <br>
 Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Status **MUSI** być związany z stroną, którą wybrałeś.
-- Status **NIE MOŻE** być związany z żadną nielegalną stroną. These include stressors, drugs, child porn, etc.
+- Status **NIE MOŻE** być związany z żadną nielegalną stroną. Należą do nich czynniki stresujące, narkotyki, pornografia dziecięca itp.
 - Metadata statusu **MUSI** zawierać dobrze napisaną treść, w tym tytuły i opisy.
 - Dołączone media (ikona/miniatura) **MUSZĄ** być powiązane z witryną i powinny być zrozumiałe pod względem wielkości i jakości.
 - Struktura plików **MUSI** być czysta i zarządzana, **NIE MOŻE** mieć losowych plików, które nic nie wnoszą do funkcji statusu.
