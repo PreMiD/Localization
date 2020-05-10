@@ -67,6 +67,10 @@
 		"message": "ベータプログラムに **ここから** 無料で参加できます！現在、{0} 個の空き枠があります！",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
+	"downloads.latest.header": {
+		"message": "早期リリース",
+		"description": "Header above alpha/beta download buttons."
+	},
 	"downloads.warning.title": {
 		"message": "注意",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
