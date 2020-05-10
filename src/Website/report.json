@@ -2,7 +2,11 @@
     "report.title": {
 		"message": "Report A Bug",
 		"description": "Text to indicate the page."
-    },
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Reports left",
+		"description": "Amount of bug reports user can send"
+	},
     "report.overview": {
 		"message": "Brief Overview",
 		"description": "Text for the user to write a breif of the bug information."
@@ -14,5 +18,17 @@
     "report.button": {
 		"message": "Report",
 		"description": "Button to send the information inputed."
+	},
+	"report.success": {
+		"message": "Bug Submitted",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "More Info required",
+		"description": "User needs to input more notification"
+	},
+	"report.toomany": {
+		"message": "You have too many active reports",
+		"description": "User has too many active reports"
 	}
 }
