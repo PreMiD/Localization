@@ -66,20 +66,20 @@ strings = await presence.getStrings({
 ### `getSetting(String)`
 ส่งกลับค่าต่างๆ ของการตั้งค่า
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
+console.log(setting); // คำสั่งนี้จะบันทึก "ค่าของการตั้งค่า"
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+ซ่อนการตั้งค่าที่กำหนด
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+แสดงผลการตั้งค่าที่กำหนด (จะทำงานก็ต่อเมื่อการตั้งค่าถูกซ่อนไว้อยู่)
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
 ```
 
 ### `getExtensionVersion(Boolean)`
