@@ -24,7 +24,7 @@ tags:
 เมื่อส่ง Presence ลงใน GitHub แล้ว เราต้องการให้คุณทำตามแนวทางนี้ สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป อย่างไรก็ตามการดำเนินการตามกฎเหล่านี้จะทำให้เราและผู้ใช้จะไม่พบเจอปัญหาใด ๆ
 
 ## การสร้าง
-> The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
+> โค้ดจะต้อง *ถูกเขียนอย่างดี* และจะต้อง *อ่านเข้าใจได้*. `DeepScan` บน GitHub จะรายงานคุณภาพของโค้ดไปยัง `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
 > 
 > {.is-warning}
 
@@ -39,7 +39,7 @@ websites
         ├── presence.ts
         └── tsconfig.json
 ```
-or if you're using `iframe`:
+หรือ ถ้าคุณใช้ `iframe`:
 ```bash
 websites
 └── {type}
