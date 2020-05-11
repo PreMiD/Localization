@@ -27,6 +27,10 @@
 		"message": "อื่นๆ",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "ชื่อ",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "ตัวอย่าง: PreMiD",
 		"description": "Name field's placeholder."
