@@ -1,4 +1,8 @@
 {
+	"jobs.modal.title": {
+		"message": "สมัครเป็น{0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
 	"jobs.modal.step": {
 		"message": "ขั้นตอนที่ {0} จาก 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
@@ -35,16 +39,72 @@
 		"message": "ทำงานกับ PreMiD",
 		"description": "First part of the jobs page."
 	},
+	"jobs.header.description": {
+		"message": "คุณพร้อมที่จะร่วมมือกับโปรแกรมที่มี Presence มากที่สุดหรือยัง",
+		"description": "The second part of the jobs page."
+	},
 	"jobs.openings.title": {
 		"message": "ตำแหน่งที่ว่าง",
 		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "สิ่งที่คุณจะได้รับ",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "เจอกับพวกเรา",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "ได้คุยกับคนที่อยู่เบื้องหลัง PreMiD",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "แอบดูเนื้อหาใหม่ๆ",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "ได้มีโอกาสดูเกี่ยวกับการพัฒนาและการตลาดของ PreMiD",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
 		"message": "มีเกียรติ",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.description": {
+		"message": "สิทธิ์ใน Discord อันทรงพลังและสีสันอันหลากหลาย",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
 		"message": "ช่วยเหลือ PreMiD",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "ด้วยการสนับสนุนของคุณ ทำให้โครงการนี้ดำเนินต่อไปได้",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "เวลาว่าง",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "ให้เวลากับมันหน่อย นี่เป็นงานอาสานะ",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "เข้าถึงเนื้อหาใหม่ก่อนใคร",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "ได้ลองฟีเจอร์ใหม่ๆ ก่อนใคร",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "ขอบคุณที่มาร่วมกับเรา!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "คุณเคยสมัครมาก่อนแล้ว!",
+		"description": "Notification when you applied already."
 	}
 }
