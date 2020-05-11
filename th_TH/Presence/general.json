@@ -139,6 +139,10 @@
 		"message": "กำลังดูตอน:",
 		"description": ""
 	},
+	"general.viewGenre": {
+		"message": "กำลังดูหมวดหมู่:",
+		"description": ""
+	},
 	"general.viewHome": {
 		"message": "กำลังดูหน้าหลัก:",
 		"description": ""
@@ -169,6 +173,18 @@
 	},
 	"general.viewProfile": {
 		"message": "กำลังดูโปรไฟล์ของ:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "กำลังดูซีรี่ย์:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "กำลังดูโชว์:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "กำลังดูแอคเคาท์ของเขาเอง",
 		"description": ""
 	},
 	"general.viewThread": {
