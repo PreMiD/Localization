@@ -1,6 +1,6 @@
 ---
 title: การแก้ปัญหา
-description: ทุกอย่างเพื่อแก้ปัญหาของคุณ
+description: ทุกอย่างเพื่อใช้แก้ปัญหาของคุณ
 published: true
 date: 2020-04-20T11:16:55.141Z
 tags:
@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### โหลดหน้านี้ใหม่
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+คุณสามารถกด <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) หรือ <kbd>CMD+R</kbd> (MacOS) บนแป้นพิมพ์ของคุณเพื่อรีโหลดหน้าเว็บ
 
 ### รีสตาร์ทบราวเซอร์ของคุณ
 <kbd>Alt</kbd>+<kbd>F4</kbd> (วินโดวส์) หรือ <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) ได้ผลเยี่ยมมากเหมือนกัน (คุณตัองเริ่มบราวเซอร์ใหม่อีกครั้งเพื่อความชัดเจน)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) คุณต้องรีสตาร์ท PreMiD หลังจากนั้น
 
 ### รีโหลด/รีสตาร์ท ดิสคอร์ด
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+กด <kbd>CTRL+R</kbd> (Windows) หรือ <kbd>CMD+R</kbd> (MacOS) บนแป้นพิมพ์ของคุณ หรือ รีสตาร์ท Discord ด้วยตัวเองก็ได้
 
 ### ต้องแน่ใจว่า Discord ไม่ได้เปิดแบบ Administrator
 สำคัญมากๆ Discord RPC จะไม่ทำงานถ้าคุณเปิด Discord แบบ Administrator
@@ -45,7 +45,7 @@ Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 <br>ระบบปฎิบัติการ MacOS: ไปที่ <code>~/users/USER/~Library/Application Support/<code> และลบโฟลเดอร์ `PreMiD ออกไป
 
 ### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+ถ้าคุณดาวน์โหลด Discord ผ่านทาง Snapcraft, RPC จะไม่ทำงาน You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### นั่นไม่ได้แก้ปัญหาของฉัน
 กรุณาเปิดตั๋วใน [#support](https://discord.gg/WvfVZ8T).
