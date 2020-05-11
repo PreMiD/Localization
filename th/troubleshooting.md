@@ -41,11 +41,10 @@ tags:
 บางครั้งมีบางอย่างผิดปกติกับไฟล์ ตัวอย่างสำหรับการติดตั้งดูได้[ที่นี่](/install)
 
 ### ลบข้อมูลด้วยตัวเอง
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-<br>ระบบปฎิบัติการ MacOS: ไปที่ <code>~/users/USER/~Library/Application Support/<code> และลบโฟลเดอร์ `PreMiD ออกไป
+สำหรับระบบปฎิบัติการ Windows: ไปที่    ` C:\Users\USER\AppData\Roaming\`` ` และลบโฟลเดอร์ `PreMiD` ออกไป <br>ระบบปฎิบัติการ MacOS: ไปที่ `~/users/USER/~Library/Application Support/<code> และลบโฟลเดอร์ `PreMiD ออกไป
 
 ### On Ubuntu/Debian based distros
-ถ้าคุณดาวน์โหลด Discord ผ่านทาง Snapcraft, RPC จะไม่ทำงาน You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+ถ้าคุณดาวน์โหลด Discord ผ่านทาง Snapcraft, RPC จะไม่ทำงาน คุณจะต้องถอนการติดตั้ง Discord เวอร์ชัน Snapcraft โดยการใช้คำสั่ง `sudo snap remove discord` บน Terminal แล้วดาวน์โหลด [Discord สำหรับ Linux](https://discordapp.com/api/download?platform=linux) ([หรือ Discord Canary](https://discordapp.comapi/canary/download?platform=linux)) หลังจากนั้น ไปยังตำแหน่งที่คุณดาวน์โหลด Discord ไว้ (ส่วนมากจะเป็น `$HOME/Downloads`) แล้วติดตั้งโดยใช้คำสั่ง `sudo dpkg -i discord-*.deb`
 
 ### นั่นไม่ได้แก้ปัญหาของฉัน
 กรุณาเปิดตั๋วใน [#support](https://discord.gg/WvfVZ8T).
