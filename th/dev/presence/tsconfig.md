@@ -6,7 +6,7 @@ date: 2020-05-09T14:32:40.832Z
 tags:
 ---
 
-# TypeScript Configuration
+# การกำหนดค่าไฟล์ Typescript
 
 ## แนะนำ
 
