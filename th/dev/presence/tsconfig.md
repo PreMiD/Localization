@@ -1,6 +1,6 @@
 ---
-title: Untitled Page
-description: A little helper for TypeScript
+title: หน้าไม่มีชื่อ
+description: ตัวช่วยเล็กๆ สำหรับ Typescript
 published: true
 date: 2020-05-09T14:32:40.832Z
 tags:
@@ -10,9 +10,9 @@ tags:
 
 ## แนะนำ
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+เมื่อคุณดาวน์โหลดและแตกไฟล์ออกมาแล้ว คุณจะพบกับไฟล์ชื่อ  `tsconfig.js` ในโฟลเดอร์ดั้งเดิมและโฟลเดอร์ Presence ไฟล์นี้จะใช้ในการตั้งค่า Complier ของ **TypeScript** จริงๆ แล้วมันได้ถูกตั้งค่าไว้แล้ว ดังนั้น คุณไม่จำเป็นที่ต้องกังวลกับมัน
 
-We just want to describe some settings that you should know.
+เราแค่ต้องการอธิบายการตั้งค่าบางอย่างที่คุณจำเป็นต้องรู้
 
 ## Root Configuration
 
@@ -38,7 +38,7 @@ In the root configuration file you will see something like this.
 | Property                   | คำอธิบาย                                                                                                                                                            |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
-| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
+| module                     | คุณสามารถอ่านข้อมูลเพิ่มเติมได้ [ที่นี่](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                |
 | target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
 | removeComments             | Removing comments from compiled files.                                                                                                                              |
 | noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
@@ -49,7 +49,7 @@ In the root configuration file you will see something like this.
 | typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
-## Presence Configuration
+## การตั้งค่า Presence
 
 ```javascript
 {
@@ -60,8 +60,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | คำอธิบาย                                                                               |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Property            | คำอธิบาย                                                                                     |
+|:------------------- |:-------------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                               |
+| **compilerOptions** | ดู [**Root Configuration**](/dev/presence/tsconfig#root-configuration) สำหรับข้อมูลเพิ่มเติม |
+| outDir              | กำหนดไดเร็กทอรีเอาต์พุตสำหรับไฟล์ที่คอมไพล์แล้ว                                              |
