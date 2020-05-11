@@ -78,5 +78,9 @@
 	"home.features.quickSupport.button": {
 		"message": "มาร่วม Discord ของเรา",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "ภาษาของเว็บไซต์",
+		"description": "Tippy content of the language selector."
 	}
 }
