@@ -94,5 +94,9 @@
 	"contributors.cards.copyUserID": {
 		"message": "คลิกเพื่อคัดลอก User ID",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIDCopied": {
+		"message": "คัดลอก User ID แล้ว!",
+		"description": "Notification after user ID was copied."
 	}
 }
