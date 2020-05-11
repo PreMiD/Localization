@@ -6,21 +6,21 @@ date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: เอกสารอยู่ในระหว่างการแปล บางหน้าอาจยังไม่สมบูรณ์หรือมีข้อมูลหายไป 
 > 
 > {.is-warning}
 
 # เกี่ยวกับ PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :mag: [ PreMiD คืออะไร?](/about) เจตนารมณ์เบื้องหลัง PreMiD และเหตุผลที่ต้องใช้ PreMiD
+- :link: [RPC คืออะไร?](https://discordapp.com/rich-presence) ทุกสิ่งเกี่ยวกับ Rich Presence และการทำงานของมัน
 
 # เริ่มต้น
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD สามารถติดตั้งได้ง่ายและรวดเร็ว คุณจะสามารถใช้โปรแกรมของเราได้ในระยะเวลาอันสั้น
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- อย่าลืมอ่าน[ความต้องการของระบบ](/install/requirements)ก่อนติดตั้ง
+- ทำตาม[ขั้นตอนการติดตั้ง](/install)ที่รวดเร็วและง่ายดาย
+- [คู่มือการแก้ปัญหา](/troubleshooting)จะช่วยคุณในการแก้ไขปัญหาที่เกิดขึ้น
 
 # ผู้พัฒนา
 
