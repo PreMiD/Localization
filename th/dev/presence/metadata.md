@@ -329,13 +329,13 @@ presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ข�
     <tr>
       <td style="text-align:left"><b>วิดีโอ</b></td>
         <td style="text-align:left"><b>วีดีโอและสตรีมมิ่ง</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">เว็บไซต์ที่ให้บริการวิดีโอและสตรีมสด</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>อื่นๆ</b></td>
     <td style="text-align:left"><b>อื่นๆ</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">สิ่งใดก็ตามที่ไม่อยู่ในหมวดหมู่เฉพาะที่ระบุไว้ข้างต้น</td>
       </td>
     </tr>
   </tbody>
