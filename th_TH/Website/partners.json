@@ -58,5 +58,9 @@
 	"partners.apply.form.button.close": {
 		"message": "ปิด",
 		"description": "Modal close button."
+	},
+	"partners.apply.success": {
+		"message": "ขอบคุณที่มาร่วมกับเรา!",
+		"description": "Success message when applying."
 	}
 }
