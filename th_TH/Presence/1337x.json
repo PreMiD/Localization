@@ -1,4 +1,36 @@
 {
+    "1337x.movieLibrary": {
+        "message": "กำลังดูคลังภาพยนตร์",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "กำลังดูคลังซีรีย์",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "กำลังดูตอนล่าสุด",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "กำลังดู 100 อันดับแรก",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
+        "description": ""
+    },
+    "1337x.upload": {
+        "message": "กำลังอัปโหลดอะไรบางอย่าง",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "กำลังอ่านกฎ",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "กำลังเขียนลงใน 1337x",
+        "description": ""
+    },
     "1337x.about": {
         "message": "กำลังอ่านเกี่ยวกับ 1337x",
         "description": ""
