@@ -3,13 +3,49 @@
 		"message": "ผู้ร่วมมือ",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "เข้าร่วมกับพวกเราและรับสิทธิพิเศษเฉพาะพาร์ทเนอร์ที่เอาไว้โชว์ว่าคุณเจ๋งแค่ไหน",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "ทีมที่ได้เข้าร่วมกับเราแล้ว",
+		"description": "Description for slideshow."
+	},
+	"partners.why.benefit1.title": {
+		"message": "รับ Presence ฟรี",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "ทีมของเราจะนำเสนอ Presence ที่เหมาะกับคุณ",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "ได้รับการยืนยันแล้ว",
 		"description": "Heading for the second benefit."
 	},
+	"partners.why.benefit2.description": {
+		"message": "บทบาทพิเศษในเซิร์ฟเวอร์ Discord จะถูกมอบให้กับคุณ",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "ใช้ Presence โดยอัตโนมัติเมื่อมีคนเข้าชมเว็บไซต์ของคุณ",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "กลายเป็นคนดัง",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "ได้ถูกกล่าวถึงบน Social Media ของเรา",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "ความต้องการ",
 		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "เราต้องการมองหาอะไร?",
+		"description": "Heading for the first requirement."
 	},
 	"partners.apply.button": {
 		"message": "สมัครตอนนี้!",
