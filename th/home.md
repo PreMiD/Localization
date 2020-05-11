@@ -24,15 +24,15 @@ PreMiD สามารถติดตั้งได้ง่ายและร�
 
 # ผู้พัฒนา
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[คู่มือสำหรับผู้เริ่มต้น](/dev) ของการพัฒนา PreMiD เป็นสิ่งแรกที่คุณควรอ่านก่อนเริ่มโค้ด
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): เข้าถึงทรัพยากรและดำเนินการต่างๆโดยใช้ PreMiD API
+- :wrench: [การพัฒนา Presence](/dev/presence): เรียนรู้วิธีการใช้ระบบ Presence ของเรา
 
 # เว็บไซต์
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [รายงานบัค](https://github.com/PreMiD): ช่วยพวกเราในการจัดการบัคน่ารำคาญพวกนั้น
+- :bulb: [นำเสนอฟีเจอร์ใหม่](https://discord.gg/WvfVZ8T): เรารอไอเดียของคุณอยู่นะ!
+- :heart: [บริจาค](https://www.patreon.com/Timeraa): บริจาคหรือเป็นผู้สนับสนุนของโปรเจ็คที่สวยงามนี้
+- :globe_with_meridians: [ช่วยแปลภาษา](https://translate.premid.app): ช่วยให้ผู้ใช้คนอื่นๆ สามารถใช้ PreMiD ในภาษาของพวกเขาได้
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
