@@ -1,6 +1,6 @@
 ---
 title: โครเมียม
-description: Getting started with a PreMiD installation on Chromium-based browsers
+description: เริ่มต้นใช้งาน PreMiD บนเบราว์เซอร์ Chrome
 published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
