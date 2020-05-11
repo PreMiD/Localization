@@ -30,5 +30,9 @@
 	"home.features.heading": {
 		"message": "คุณจะต้องรักฟีเจอร์พวกนี้!",
 		"description": "Features section"
+	},
+	"home.features.quickSupport.button": {
+		"message": "มาร่วม Discord ของเรา",
+		"description": "Features section button"
 	}
 }

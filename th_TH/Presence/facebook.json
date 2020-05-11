@@ -1,6 +1,26 @@
 {
+    "facebook.call": {
+        "message": "กำลังคอลกับ:",
+        "description": ""
+    },
     "facebook.vcall": {
         "message": "กำลังวิดีโอคอลกับ:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "ใครสักคน (ผู้ใช้ที่ซ่อนไว้)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "ร่างข้อความ",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "กำลังอ่านเกี่ยวกับผู้ใช้:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "กำลังดูโพสต์ชุมชนของผู้ใช้:",
         "description": ""
     },
     "facebook.userPics": {
@@ -29,6 +49,14 @@
     },
     "facebook.savedVids": {
         "message": "วิดีโอที่บันทึกไว้",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "เพิ่งเพิ่มเร็ว ๆ นี้",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "กำลังดูสภาพอากาศวันนี้",
         "description": ""
     }
 }

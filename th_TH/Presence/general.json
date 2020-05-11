@@ -51,6 +51,10 @@
 		"message": "มังงะ",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "สินค้า",
+		"description": ""
+	},
 	"general.page": {
 		"message": "หน้า",
 		"description": ""
@@ -73,6 +77,18 @@
 	},
 	"general.readingArticle": {
 		"message": "กำลังอ่านบทความ:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "กำลังอ่านในช่อง:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "กำลังอ่านโพสต์:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "กำลังอ่านเธรด:",
 		"description": ""
 	},
 	"general.reading": {
@@ -103,8 +119,32 @@
 		"message": "กำลังพิมพ์ใน DM ไปหา:",
 		"description": ""
 	},
+	"general.typeChannel": {
+		"message": "กำลังพิมพ์ในช่อง:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "กำลังดูอนิเมะ:",
+		"description": ""
+	},
 	"general.viewCategory": {
 		"message": "กำลังดูหมวดหมู่:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "กำลังดูช่อง:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "กำลังดูตอน:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "กำลังดูหน้าหลัก:",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "กำลังดูลิสต์ของ:",
 		"description": ""
 	},
 	"general.viewManga": {
@@ -113,6 +153,26 @@
 	},
 	"general.viewMember": {
 		"message": "กำลังดูสมาชิก:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "กำลังดูภาพยนตร์:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "กำลังดูเพลย์ลิสต์:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "กำลังดูสินค้า:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "กำลังดูโปรไฟล์ของ:",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "กำลังอ่านเธรด:",
 		"description": ""
 	},
 	"general.viewUser": {
@@ -133,6 +193,10 @@
 	},
 	"general.watching": {
 		"message": "กำลังดู:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "สิ่งที่อยากได้:",
 		"description": ""
 	},
 	"general.privacy": {
