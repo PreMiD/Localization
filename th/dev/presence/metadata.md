@@ -246,25 +246,25 @@ PreMiD เป็นบริการ polygot ซึ่งหมายควา�
         { 
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "icon": "FONTAWESOME FREE ICON", //ตัวอย่างเช่น "fas fa-info"
+            "value": true //ค่า Boolean จะทำหน้าที่เป็นสวิตช์เปิด/ปิดพร้อมกับค่าที่เป็นค่าเริ่มต้น
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //หากอีกการตั้งค่าหนึ่ง มีค่าเท่ากับค่านี้ (true/false/0/1/และอื่นๆ ) จากนั้นให้แสดงปุ่มนี้
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //การใส่ String จะทำให้การตั้งค่าเป็นอีกหนึ่ง Input, ซึ่งคุณสามารถใช้ Input ที่กำหนดเองได้
+            "placeholder": "ใช้ %song% หรือ %artist%" //เมื่อไม่มีข้อมูล Input ข้อความนี้จะเป็นสีเทา
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "value": 0, //ค่าพื้นฐานของ Selector
+            "values": ["1", "2", "etc."] // จะทำให้สามารถตั้งค่า Selector เป็นตัวที่คุณต้องการได้
         }
     ]
 ```
