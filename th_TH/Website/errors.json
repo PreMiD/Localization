@@ -1,6 +1,26 @@
 {
+	"store.search.notFound": {
+		"message": "พวกเราไม่เจอ Presence ดังกล่าว",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "ขออภัย เราหาหน้านี้ไม่เจอ",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Presence ที่คุณกำลังมองหาไม่มีอยู่หรือถูกลบไปแล้ว",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "เกิดข้อผิดพลาดภายในเซิร์ฟเวอร์",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "ราย​ละเอียด",
 		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "กลับไปยังหน้าแรก",
+		"description": "Button on the error page"
 	}
 }
