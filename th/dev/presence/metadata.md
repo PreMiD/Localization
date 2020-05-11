@@ -273,31 +273,31 @@ PreMiD เป็นบริการ polygot ซึ่งหมายควา�
 ### `getSetting(String)`
 ส่งกลับค่าต่างๆ ของการตั้งค่า
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
+console.log(setting); // คำสั่งนี้จะบันทึก "ค่าของการตั้งค่า"
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+ซ่อนการตั้งค่าที่กำหนด
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+แสดงผลการตั้งค่าที่กำหนด (จะทำงานก็ต่อเมื่อการตั้งค่าถูกซ่อนไว้อยู่)
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
 ```
 
-## Presence categories
+## หมวดหมู่ของ Presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+เมื่อคุณสร้าง Presence ขึ้น คุณจะต้องระบุหมวดหมู่ที่ Presence จะไปอยู่ นี่คือรายการหมวดหมู่ที่คุณสามารถใช้ได้ทั้งหมด
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">หมวดหมู่</th>
+      <th style="text-align:left">ชื่อ</th>
       <th style="text-align:left">คำอธิบาย</th>
     </tr>
   </thead>
@@ -305,19 +305,19 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>อนิเมะ</b></td>
       <td style="text-align:left"><b>อนิเมะ</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">ทุกอย่างที่เกี่ยวข้องกับอนิเมะ ตั้งแต่การะดานสนทนาไปจนถึงแพลตฟอร์มสตรีมมิ่งวิดีโอ</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>เกม</b></td>
     <td style="text-align:left"><b>เกม</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">ทุกเว็บไซต์ที่มีข้อมูลเกี่ยวกับเกม เช่น <code>Kahoot</code> หรือ <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>เพลง</b></td>
     <td style="text-align:left"><b>เพลง</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">พวกนี้เป็นเว็บไซต์ที่เกี่ยวข้องกับเพลง ไม่ว่าจะเป็นการฟังเพลงหรือดาวน์โหลดเพลง</td>
       </td>
     </tr>
     <tr>
