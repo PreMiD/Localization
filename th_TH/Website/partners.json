@@ -98,5 +98,9 @@
 	"partners.apply.success": {
 		"message": "ขอบคุณที่มาร่วมกับเรา!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error4": {
+		"message": "คุณได้สมัครเป็นพาร์ทเนอร์กับเราแล้ว",
+		"description": "Error when already applied."
 	}
 }
