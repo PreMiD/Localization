@@ -513,5 +513,5 @@ The website you are developing on is automatically reloading every time you save
 - [คลาส Presence](/dev/presence/class)
 - [คลาส iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+- [การกำหนดค่าไฟล์ Typescript](/dev/presence/tsconfig)
 {.links-list}
