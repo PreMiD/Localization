@@ -39,6 +39,42 @@
 		"message": "ตามหา**Presence**ที่เหมาะกับคุณ",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "เราสร้างส่วนขยายนี้ขึ้นเพื่อให้คุณได้เพิ่มและใช้ Presence ที่คนอื่นๆ สร้างขึ้น และคุณยังสามารถจัดการ Presence ผ่านส่วนขยายของเรา",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "เยี่ยมชมหน้าร้านค้า",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "อินเตอร์เฟสแบบเรียบง่าย",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "รู้สึกเหนื่อยกับอินเตอร์เฟสที่ยุ่งยากเหรอ? นั่นเป็นเหตุผลที่เราสร้างและพัฒนาให้อินเตอร์เฟสของเราดูง่ายที่สุด แต่ยังมีฟีเจอร์ที่สำคัญมากมาย อย่างเช่น",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "การตั้งค่าแอปและส่วนขยาย",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "การจัดการ Presence",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "การเรียงตามหมวดหมู่",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "การช่วยเหลือที่รวดเร็ว",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "มีบางอย่างพังเหรอ? เราจะช่วยคุณในการแก้ปัญหาเหล่านั้นผ่านทางเซิร์ฟเวอร์ Discord ของเรา นอกจากนี้ เราได้สร้างระบบรายงานปัญหาที่จะทำให้คุณมั่นใจได้ว่าปัญหาเหล่านั้นจะถูกแก้ไขอย่างรวดเร็วที่สุด",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "มาร่วม Discord ของเรา",
 		"description": "Features section button"
