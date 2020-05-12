@@ -52,11 +52,11 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-Позволяет вам получить переведенные строки из расширения. You must provide `Object` with keys being the key for string, `keyValue` is the string value. Вы можете найти некоторые строки, используя эту конечную точку: `https://api.premid.app/v2/langFIle/extension/ru`
+Позволяет вам получить переведенные строки из расширения. Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. Вы можете найти некоторые строки, используя эту конечную точку: `https://api.premid.app/v2/langFIle/extension/ru`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Возвращает `Playing` и `Paused` строки
+// из расширения.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -83,19 +83,19 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Возвращает версию расширения, которое использует пользователь.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Выглядит так log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Выглядит так log 2.1.0
 ```
 
 ### `getPageLetiable(String)`
 
-Returns a variable from the website if it exists.
+Возвращает переменную с сайта, если она существует.
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
