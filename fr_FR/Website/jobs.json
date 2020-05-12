@@ -79,6 +79,10 @@
 		"message": "Soutenir PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Avec votre contribution, il est possible de réaliser ce projet.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Délai d'attente",
 		"description": "Benefit card title."
@@ -90,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "Accès anticipé",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Testez les nouvelles fonctionnalités avant tout le monde.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Merci d'avoir postulé !",
