@@ -193,12 +193,12 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-There are few events available:
+Доступно несколько событие:
 
 #### `Обновить данные`
 
-This event is fired every time the presence is being updated.
+Это событие запускается каждый раз, когда присутствие обновляется.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Исправлена ошибка получения данных из скрипта iFrame.
