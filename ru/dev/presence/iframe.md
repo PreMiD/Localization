@@ -2,7 +2,7 @@
 title: Класс iFrame
 description:
 published: true
-date: 2020-05-03T20:17:51.982Z
+date: 03 мая 2020г. 20:17:51
 tags:
 ---
 
@@ -35,7 +35,7 @@ iframe.on("UpdateData", async () => {
 ### `getUrl()`
 Возвращает URL `iframe`.
 
-## События
+## Событие
 В `iframes`события работают аналогично тому, как они работают в классе `присутствия`.
 
 ```typescript
