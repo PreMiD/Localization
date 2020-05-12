@@ -36,7 +36,7 @@ let presence = new Presence({
 
 Первый параметр потребуется интерфейс `presenceData` для отрображения в вашем профиле.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Второй параметр определяет, что-нибудь presence играет или нет. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
