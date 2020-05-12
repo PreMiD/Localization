@@ -35,21 +35,21 @@ tags:
 }
 ```
 
-| Свойства                   | Описание                                                                                                                                                            |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Используется для настройки компилятора, большинство свойств находятся здесь.                                                                                        |
-| module                     | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                       |
-| target                     | Определяет компилируемую версию JavaScript.                                                                                                                         |
-| removeComments             | Удаление комментариев из собранных файлов.                                                                                                                          |
-| noEmitOnError              | Не выдавать выходы, если сообщалось об ошибках.                                                                                                                     |
-| noFallthroughCasesInSwitch | Сообщить об ошибках резервных случаях в операторе переключателя.                                                                                                    |
-| noUnusedLocals             | Сообщить об ошибках в неиспользуемых локалях.                                                                                                                       |
-| noUnusedParameters         | Сообщить об ошибках по неиспользованным параметрам.                                                                                                                 |
-| inlineSourceMap            | Добавляет исходное приложение                                                                                                                                       |
-| typeRoots                  | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                       |
-| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
+| Свойства                   | Описание                                                                                                                                                                       |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **compilerOptions**        | Используется для настройки компилятора, большинство свойств находятся здесь.                                                                                                   |
+| module                     | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                  |
+| target                     | Определяет компилируемую версию JavaScript.                                                                                                                                    |
+| removeComments             | Удаление комментариев из собранных файлов.                                                                                                                                     |
+| noEmitOnError              | Не выдавать выходы, если сообщалось об ошибках.                                                                                                                                |
+| noFallthroughCasesInSwitch | Сообщить об ошибках резервных случаях в операторе переключателя.                                                                                                               |
+| noUnusedLocals             | Сообщить об ошибках в неиспользуемых локалях.                                                                                                                                  |
+| noUnusedParameters         | Сообщить об ошибках по неиспользованным параметрам.                                                                                                                            |
+| inlineSourceMap            | Добавляет исходное приложение                                                                                                                                                  |
+| typeRoots                  | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                  |
+| esModuleInterop            | Вызов методы __importStar и __importDefault помощники для совместимости с babel среды выполнения и включите --allowSyntheticDefaultImports для совместимости типов систем. |
 
-## Конфигурация присутствия
+## Конфиг присутствия
 
 ```javascript
 {
