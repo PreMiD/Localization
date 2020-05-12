@@ -2,7 +2,7 @@
 title: Окна
 description: Начать установку PreMiD на Windows
 published: true
-date: 2020-02-12T22:08:41.501Z
+date: 12 февраля 2020г. 22:08:41
 tags:
 ---
 
