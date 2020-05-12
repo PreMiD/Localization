@@ -1,14 +1,14 @@
 ---
-title: Метадата.джсон
+title: Metadata.json
 description: Содержит основные данные о присутствии
 published: true
-date: 2020-04-24T12:45:27.030Z
+date: 24 апреля 2020 12:45:27
 tags:
 ---
 
-# Метадата.джсон
+# Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Если вы хотите опубликовать присутствие в магазине и загрузить его через расширение, вы должны создать файла `metadata.json` в папке `dist`.
 
 Пример этого файла можно найти ниже.
 
@@ -99,7 +99,7 @@ If you want to publish a presence to the store and load it via the extension, yo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>услуга</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Название услуги, которую поддерживает это присутствие.</td>
       <td style="text-align:left"><code>Строка</code>
@@ -334,7 +334,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>прочее</b></td>
-    <td style="text-align:left"><b>Прочие</b></td>
+    <td style="text-align:left"><b>Прочее</b></td>
       <td style="text-align:left">Все, что не относится к конкретной категории, перечисленной выше.</td>
       </td>
     </tr>
