@@ -15,32 +15,32 @@ tags:
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "ПОЛЬЗОВАТЕЛЬ",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "ПОЛЬЗОВАТЕЛЬ",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "СЕРВИС",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "ОПИСАНИЕ"
   },
-  "url": "URL",
+  "url": "ССЫЛКА",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "version": "ВЕРСИЯ",
+  "logo": "ССЫЛКА",
+  "thumbnail": "ССЫЛКА",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "КАТЕГОРИИ",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
             "value": true
         },
         {
@@ -48,15 +48,15 @@ tags:
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -64,7 +64,7 @@ tags:
 }
 ```
 
-## Понимание metadata.json
+## Описание файла metadata.json
 
 Этот пример выглядит странно, да? Не волнуйтесь, это не так трудно понять для каждой переменной.
 
