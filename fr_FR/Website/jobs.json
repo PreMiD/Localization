@@ -39,6 +39,10 @@
 		"message": "Travailler pour PreMiD",
 		"description": "First part of the jobs page."
 	},
+	"jobs.header.description": {
+		"message": "Êtes-vous prêts à aider le plus gros programme de Rich-Presence ?",
+		"description": "The second part of the jobs page."
+	},
 	"jobs.openings.title": {
 		"message": "Offres d'emploi",
 		"description": "Text before the available job positions cards."
