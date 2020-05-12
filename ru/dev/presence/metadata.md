@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Содержит основные данные о присутствии
 published: true
-date: 24 апреля 2020 12:45:27
+date: 24 апреля 2020г. 12:45:27
 tags:
 ---
 
@@ -83,7 +83,7 @@ tags:
       </td>
       <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
-      <td style="text-align:left"><code>Объект</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -93,7 +93,7 @@ tags:
       </td>
       <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
-      <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Да</code>
       </td>
@@ -112,7 +112,7 @@ tags:
       </td>
       <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
         , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. Можно посмотреть список категорию для языков присутствия. </td>
-      <td style="text-align:left"><code>Объект</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -120,10 +120,10 @@ tags:
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL сервиса.<br><b>Пример:</b><code>vk.com</code><br>
+        <b>Этот URL должен совпадать с URL сайта, так как он будет использоваться для определения сайта для вставки скрипта. Это может быть использовано в качестве массива только при наличии более URL's.</b>
       </td>
-      <td style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -165,7 +165,7 @@ tags:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>цвет</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
         , который поддерживает ваше присутствие.</td>
@@ -179,7 +179,7 @@ tags:
       </td>
       <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
       <td
-      style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
+      style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -214,8 +214,8 @@ tags:
     <tr>
       <td style="text-align:left"><b>настройки</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
+      <td style="text-align:left">Массив настроек, которые пользователь может изменить</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Да</code>
       </td>
@@ -223,21 +223,21 @@ tags:
   </tbody>
 </table>
 
-## Регулярные выражения
+## Регулярные выражения (Regex)
 
 Если вы хотите изучать регулярные выражения, вот несколько сайтов.
 
-#### Learning
+#### Обучение
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [RegexOne](https://regexone.com/) • [Регулярные выражения информация](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Проверка
 
-• [Регламент](https://regexr.com/) • [Регламент 101](https://regex101.com/)
+• [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Языки присутствия
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD - это полиусиленный сервис, что означает наличие множества языков, способных подключить пользователей по всему миру. Полный список языков можно найти на [конечной точке API](https://api.premid.app/v2/langFile/list).
 
 ## Presence settings
 Setup interactive settings so users can customize the presence!
