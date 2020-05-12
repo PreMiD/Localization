@@ -43,10 +43,10 @@ tags:
 | removeComments             | Удаление комментариев из собранных файлов.                                                                                                                          |
 | noEmitOnError              | Не выдавать выходы, если сообщалось об ошибках.                                                                                                                     |
 | noFallthroughCasesInSwitch | Сообщить об ошибках резервных случаях в операторе переключателя.                                                                                                    |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
-| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| noUnusedLocals             | Сообщить об ошибках в неиспользуемых локалях.                                                                                                                       |
+| noUnusedParameters         | Сообщить об ошибках по неиспользованным параметрам.                                                                                                                 |
+| inlineSourceMap            | Добавляет исходное приложение                                                                                                                                       |
+| typeRoots                  | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                       |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Конфигурация присутствия
