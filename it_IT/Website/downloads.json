@@ -99,6 +99,10 @@
 		"message": "Indietro",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Cancella",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
