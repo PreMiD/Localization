@@ -1,8 +1,8 @@
 ---
-title: Страница без названия
+title: TypeScript
 description: Маленький помощник для TypeScript
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 9 мая 2020г 14:32:40
 tags:
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 ## Введение
 
-Когда вы скачали и распаковали рабочую область, вы увидите файл с названием `tsconfig. s` в папках root и присутствия, этот файл используется для настройки компилятора **TypeScript**. Он уже настроен для вас, поэтому не беспокойтесь об этом.
+Когда вы скачали и распаковали рабочую область, вы увидите файл с названием `tsconfig.js` в папках root и присутствия, этот файл используется для настройки компилятора **TypeScript**. Он уже настроен для вас, поэтому не беспокойтесь об этом.
 
 Мы просто хотим описать некоторые параметры, которые вы должны знать.
 
@@ -38,11 +38,11 @@ tags:
 | Свойства                   | Описание                                                                                                                                                            |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Используется для настройки компилятора, большинство свойств находятся здесь.                                                                                        |
-| модуль                     | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                       |
+| module                     | Подробнее об этом [читайте здесь](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                       |
 | target                     | Определяет компилируемую версию JavaScript.                                                                                                                         |
-| удалить комментарии        | Удаление комментариев из собранных файлов.                                                                                                                          |
-| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
+| removeComments             | Удаление комментариев из собранных файлов.                                                                                                                          |
+| noEmitOnError              | Не выдавать выходы, если сообщалось об ошибках.                                                                                                                     |
+| noFallthroughCasesInSwitch | Сообщить об ошибках резервных случаях в операторе переключателя.                                                                                                    |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
 | noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
 | inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
