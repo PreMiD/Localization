@@ -36,7 +36,7 @@ let presence = new Presence({
 
 Первый параметр потребуется интерфейс `presenceData` для отрображения в вашем профиле.
 
-Второй параметр определяет, что-нибудь presence играет или нет. Always use `true` if you provide timestamps in `presenceData`.
+Второй параметр определяет, что-нибудь presence играет или нет. В данном случае, если вы поставите временные метки в метода `presenceData` - всегда используйте `true`.
 
 ### `clearActivity()`
 
@@ -48,11 +48,11 @@ let presence = new Presence({
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Устанавливает заголовок в идентификатор.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Позволяет вам получить переведенные строки из расширения. You must provide `Object` with keys being the key for string, `keyValue` is the string value. Вы можете найти некоторые строки, используя эту конечную точку: `https://api.premid.app/v2/langFIle/extension/ru`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
