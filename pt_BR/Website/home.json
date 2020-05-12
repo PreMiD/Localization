@@ -3,6 +3,10 @@
 		"message": "**PreMiD** é um utilitário simples e configurável que permite mostrar o que você está assistindo/ouvindo em seu status de \"jogando agora\" no Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Recursos",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Downloads",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,9 +39,21 @@
 		"message": "Encontre **sua** presença",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Criamos nossa extensão de uma maneira que permite adicionar e usar Presenças criadas por outras pessoas e gerenciá-las em nossa extensão!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Visitar Loja",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Simples interface de usuário",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Cansado de interfaces de usuário complicadas? Por isso, criamos e tentamos manter nossa interface do usuário o mais simples e útil possível, com recursos importantes como:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Configurações do App e Extensão",
@@ -47,12 +63,24 @@
 		"message": "Gerenciamento de presenças",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortear por categoria",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Suporte rápido",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Algo está com falha, enviando toneladas de erros ou simplesmente não está funcionando? Ajudaremos você a se livrar desses problemas em nosso servidor Discord, também criamos nosso próprio sistema de suporte que garantirá que o problema seja resolvido o mais rápido possível.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Junte-se ao nosso Discord",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Idioma do Site",
+		"description": "Tippy content of the language selector."
 	}
 }
