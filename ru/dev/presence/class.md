@@ -88,9 +88,9 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Выглядит так log 210
+console.log(numeric); // Сообщается номера "210" в логи
 var version = presence.getExtensionVersion(false);
-console.log(version); // Выглядит так log 2.1.0
+console.log(version); // Сообщается версии "2.1.0" в логи
 ```
 
 ### `getPageLetiable(String)`
@@ -99,7 +99,7 @@ console.log(version); // Выглядит так log 2.1.0
 
 ```typescript
 var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Сообщается "Переменное содержимое" в логи
 ```
 
 ## `presenceData` Интерфейс
