@@ -3,6 +3,10 @@
 		"message": "**PreMiD** est un utilitaire simple et configurable qui vous permet de montrer ce que vous faites sur le web dans votre statut Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Fonctionnalités",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Téléchargements",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,9 +39,21 @@
 		"message": "Trouvez **votre** présence",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Nous avons développé notre extension de manière à vous laisser ajouter, utiliser des Presences créées par d'autres utilisateurs et les gérer dans notre extension !",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Visiter la boutique",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Interface utilisateur simple",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Fatigué des interfaces utilisateur compliquées ? C'est pourquoi nous avons créé et essayons de garder notre interface aussi simple et utile que possible avec des fonctionnalités importantes comme :",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Paramètres de l’application et de l’extension",
@@ -45,6 +61,10 @@
 	},
 	"home.features.simpleInterface.description.2": {
 		"message": "Gestion de présences",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Trier par catégorie",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
