@@ -118,13 +118,13 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">подробнее</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">Первая строка в вашем присутствии, обычно используется в качестве заголовка.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">штат</td>
+      <td style="text-align:left">state</td>
       <td style="text-align:left">Вторая линия вашего присутствия.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
