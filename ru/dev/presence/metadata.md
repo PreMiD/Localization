@@ -239,8 +239,8 @@ tags:
 
 PreMiD - это полиусиленный сервис, что означает наличие множества языков, способных подключить пользователей по всему миру. Полный список языков можно найти на [конечной точке API](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Настройки присутствия
+Настройте интерактивные настройки, чтобы пользователи могли настраивать присутствие!
 ```javascript
 "settings": [
         { 
