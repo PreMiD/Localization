@@ -74,7 +74,7 @@ tags:
       <th style="text-align:left">Переменная</th>
       <th style="text-align:left">Описание</th>
       <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Опционально</th>
+      <th style="text-align:left">Необязательно</th>
     </tr>
   </thead>
   <tbody>
@@ -91,7 +91,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>участники</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
       </td>
@@ -111,7 +111,7 @@ tags:
       <td style="text-align:left"><b>описание</b>
       </td>
       <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
-        , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. View the category for presence languages for a list. </td>
+        , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. Можно посмотреть список категорию для языков присутствия. </td>
       <td style="text-align:left"><code>Объект</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
@@ -147,7 +147,7 @@ tags:
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>логотип</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
       <td style="text-align:left"><code>Строка</code>
