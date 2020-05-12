@@ -245,33 +245,33 @@ PreMiD - это полиусиленный сервис, что означает
 "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА", // Например "fas fa-info"
+            "value": true // Boolean значение сделает переключатель вкл/выкл с значением по умолчанию
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true // Если другое, то значение равно этому значению (true/false/0/1/etc.) затем показывать эту кнопку
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": "\"%song%\" от %artist%", // Ввод в строку сделает настройку ввода, где можно использовать пользовательские входы.
+            "placeholder": "Используйте %song% или %artist%" // Когда введено поле ввода пусто, оно будет показывать этот серый цвет
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": 0, // Значение по умолчанию селектора
+            "values": ["1", "2", "т.д."] // Выберете нужный селектор для этого параметра
         }
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Используйте следующие методы для получения информации о настройках в файлах присутствия:
 ### `getSetting(String)`
-Returns value of setting.
+Возвращает значение настройки.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting

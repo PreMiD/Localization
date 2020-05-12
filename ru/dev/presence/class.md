@@ -64,7 +64,7 @@ strings = await presence.getStrings({
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Возвращает значение настройки.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
