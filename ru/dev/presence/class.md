@@ -2,7 +2,7 @@
 title: Класс присутствия
 description: Основной класс для каждого присутствия PreMiD
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 8 апреля 2020г. 19:33:34
 tags:
 ---
 
@@ -32,15 +32,15 @@ let presence = new Presence({
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Устанавливает активностью профиля с соответствии с предоставленными данными.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Первый параметр потребуется интерфейс `presenceData` для отрображения в вашем профиле.
 
 Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Очищает вашу текущую активность, привязку клавиш и заголовок.
 
 ### `setTrayTitle(String)`
 
@@ -50,7 +50,7 @@ Clears your current activity, the keybinds and the tray title.
 
 Sets the tray title on the Menubar.
 
-### `getStrings(Объект)`
+### `getStrings(Object)`
 
 Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
