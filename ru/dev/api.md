@@ -1,18 +1,18 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: Доступ к ресурсам и выполнение действий с помощью PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 22 апреля 2020г. 17:59:55
 tags:
 ---
 
 # API
 
-> Базовый URL-адрес: https://api.premid.app 
+> Базовый URL: https://api.premid.app 
 > 
 > {.is-info}
 
-## API Versioning
+## Версия API
 > Некоторые версии API и Gateway устарели и помечены как прекращенные в таблице ниже для потомства. 
 > 
 > {.is-danger}
@@ -29,6 +29,6 @@ PreMiD раскрывает различные версии нашего API. В
 > {.is-danger}
 
 **Выберите версию API:**
-- [v1 *устарел*](/dev/api/v1)
+- [v1 *устарело*](/dev/api/v1)
 - [v2 *активен*](/dev/api/v2)
 {.links-list}
