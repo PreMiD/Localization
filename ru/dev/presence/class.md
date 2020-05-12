@@ -104,9 +104,9 @@ console.log(pageVar); // Сообщается "Переменное содерж
 
 ## `presenceData` Интерфейс
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+При использовании метода `setActivity()` рекомендуется использовать интерфейса `presenceData`.
 
-This interface has following variables, all of them are optional.
+Этот интерфейс содержит переменные, все они необязательными.
 
 <table>
   <thead>
@@ -173,23 +173,23 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Мой заголовок",
+    state: "Мои описание",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Вы меня подошли, а сейчас?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
 ```
 
-## События
+## Событие
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+События позволяют вам обнаруживать и обрабатывать некоторые изменения или вызовы. Вы можете подписаться на события с помощью метода `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Выполняйте что-то, когда данные обновляются.
 });
 ```
 
