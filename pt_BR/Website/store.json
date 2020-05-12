@@ -3,6 +3,26 @@
 		"message": "Autor(a)",
 		"description": "Creator of a presence"
 	},
+	"store.category.filters.heading": {
+		"message": "Filtros",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Mais usado primeiro",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Mostrar NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Apenas presenças gostadas",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Mostrar Presenças adicionadas",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Categorias",
 		"description": "Category heading"
@@ -34,5 +54,9 @@
 	"store.search": {
 		"message": "Pesquisar",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.removeFilter": {
+		"message": "Clique para remover o filtro",
+		"description": "Remove message for active search filters."
 	}
 }
