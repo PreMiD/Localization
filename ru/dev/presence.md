@@ -1,8 +1,8 @@
 ---
-title: Разработка присутствия
+title: Разработчик присутствия
 description:
 published: true
-date: 2020-05-09T14:26:01.038Z
+date: 9 мая 2020г. 14:26:01
 tags:
 ---
 
@@ -13,15 +13,15 @@ tags:
 Версия `2.x` представляет [магазин присутствия](https://premid.app/store). Пользователи теперь имеют возможность вручную добавлять и удалять свои любимые присутствия через пользовательский интерфейс [сайта](https://premid.app/).
 
 # Руководство
-> If you do **NOT** follow the guidelines, a `Presence Verifier` will request the proper changes, or will have to close it under certain circumstances. 
+> Если вы **НЕ** следуете инструкциям, то `Верификатор Наличия` запросит необходимые изменения или должен быть закрыт при определенных обстоятельствах. 
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Когда вы делаете запрос о добавлении или изменении существующих Присутствия, вы **ДОЛЖНЫ** сделать скриншот. Тем не менее, модификации metadata.json `файла Присутствия` или `tsconfig.json` файлов - **НЕ** требуют иметь скриншота. _Ваш скриншот **ДОЛЖНО** быть напрямую загружен в GitHub с запросом на слияние, **НЕ** использовать сайты обмена изображениями сторонних производителей._ 
 > 
 > {.is-warning}
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+При публикации Присутствия на GitHub, мы требуем, чтобы вы следовали правил. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 ## Создание
 > The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
@@ -236,7 +236,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <th style="text-align:left">Переменная</th>
       <th style="text-align:left">Описание</th>
       <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Опционально</th>
+      <th style="text-align:left">Необязательно</th>
     </tr>
   </thead>
   <tbody>
@@ -245,7 +245,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
       <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
-      <td style="text-align:left"><code>Объект</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -255,13 +255,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
       <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
-      <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Да</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>услуга</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Название услуги, которую поддерживает это присутствие. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>Строка</code>
@@ -274,7 +274,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
       <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
         , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
-      <td style="text-align:left"><code>Объект</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -290,7 +290,7 @@ You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 You could also use regExp also known as Regex for this task, explaned further below.
       </td>
-      <td style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -320,7 +320,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>логотип</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
       <td style="text-align:left"><code>Строка</code>
@@ -338,7 +338,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>цвет</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
         , который поддерживает ваше присутствие.</td>
@@ -352,7 +352,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
       <td
-      style="text-align:left"><code>Строка, массив&lt;String&gt;</code>
+      style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>Нет</code>
       </td>
@@ -389,7 +389,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Массив&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Да</code>
       </td>
