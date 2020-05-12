@@ -273,25 +273,25 @@ PreMiD - это полиусиленный сервис, что означает
 ### `getSetting(String)`
 Возвращает значение настройки.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Заменить pdexID идентификатором параметра
+console.log(setting); // Сообщается установка в логи
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Скрывает указанные настройки.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Заменить pdexID идентификатором настройки
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Показывают данные настройки (работает только если настройка была скрыта).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Заменить pdexID идентификатором настройки
 ```
 
-## Presence categories
+## Категории присутствия
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+При создании вашего присутствия, вы должны указать категорию, в которой находится присутствие. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
@@ -327,7 +327,7 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>видео</b></td>
+      <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Видео и Стримы</b></td>
       <td style="text-align:left">Веб-сайты, которые служат цели предоставления видео и потоков.</td>
       </td>
