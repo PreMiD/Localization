@@ -52,7 +52,7 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
+- {type} A'dan Z'ye, alfabetik olmayan başlangıçlar için "#" ve sayılarla başlayanlar için "0-9" dir.
 <br>
 Servisiniz üzerinde çalışmaya başlamadan önce aşağıdaki maddeleri inceleyin ve aklınızda bulundurun.
 - Yaptığınız servis, seçtiğiniz site ile alakalı olmak **zorundadır**.
