@@ -33,6 +33,7 @@ Kök yapılandırma (`tsconfig.js`) dosyasında böyle bir şeyle karşılaşaca
     "esModuleInterop": true
   }
 }
+
 ```
 
 | Özellik                    | Açıklama                                                                                                                                                            |
