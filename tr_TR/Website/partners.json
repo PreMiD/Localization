@@ -67,6 +67,10 @@
 		"message": "Hadi birlikte cennete gidelim!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.sponsors.title": {
+		"message": "Sponsorlar",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "Bu inanılmaz kişiler olmasaydı, PreMiD'de bugün burada olmazdı.",
 		"description": "Description for sponsors."
