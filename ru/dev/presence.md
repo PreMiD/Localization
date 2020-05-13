@@ -21,7 +21,7 @@ tags:
 > 
 > {.is-warning}
 
-При публикации Присутствия на GitHub, мы требуем, чтобы вы следовали правил. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+При публикации Присутствия на GitHub, мы требуем, чтобы вы следовали правил. Для некоторых эти строгие правила могут показаться тяжелыми. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 ## Создание
 > The code you write MUST be *well-written* and MUST be *readable*. `DeepScan` on GitHub will report code quality issues to the `Presence Verification Team`. We recommend that your fork is up to date when you make pull requests, it will help limit false positives. 
