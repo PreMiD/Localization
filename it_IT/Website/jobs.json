@@ -51,6 +51,10 @@
 		"message": "Incontra noi",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.title": {
+		"message": "Onore",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit4.title": {
 		"message": "Supporta PreMiD",
 		"description": "Benefit card title."
