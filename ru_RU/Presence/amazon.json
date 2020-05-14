@@ -1,4 +1,8 @@
 {
+    "amazon.viewTheir": {
+        "message": "Смотрит",
+        "description": "Part 1 of the next 5 strings"
+    },
     "amazon.store": {
         "message": "Смотрит магазина:",
         "description": ""
