@@ -3,6 +3,14 @@
         "message": "Читает о канале:",
         "description": ""
     },
+    "youtube.trending": {
+        "message": "Смотрит трендового",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Что-то загружается...",
+        "description": ""
+    },
     "youtube.studio.editVideo": {
         "message": "Редактирует видео:",
         "description": ""
