@@ -1,1 +1,34 @@
-{}
+{
+    "facebook.call": {
+        "message": "Звонит с:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Видеозвонок с:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "кого-нибудь... (Пользователь скрыт)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Создает сообщение",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Читает о пользователе:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Смотрит сообщества пользователя:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Смотрит фото пользователя:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Смотрит пост пользователя:",
+        "description": ""
+    }
+}
