@@ -175,6 +175,10 @@
 		"message": "Melihat profil:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Melihat serial:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Melihat acara:",
 		"description": ""
