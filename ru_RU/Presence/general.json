@@ -163,6 +163,30 @@
 		"message": "Смотрит кино:",
 		"description": ""
 	},
+	"general.viewPlaylist": {
+		"message": "Смотрит плейлиста:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Смотрит продукта:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Смотрит профиля:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Смотрит серии:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Смотрит шоу:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Смотрит учетной записи",
+		"description": ""
+	},
 	"general.viewThread": {
 		"message": "Смотрит темы:",
 		"description": ""
