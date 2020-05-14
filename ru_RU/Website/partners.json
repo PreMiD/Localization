@@ -32,7 +32,7 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "Прочие",
+		"message": "Прочее",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
@@ -54,6 +54,10 @@
 	"partners.apply.error1": {
 		"message": "Пожалуйста, заполните все поля.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error3": {
+		"message": "Пожалуйста, добавьте ссылку (должна начинаться с https:// и заканчиваться .png)",
+		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
 		"message": "Вы уже подали заявку на партнерство.",
