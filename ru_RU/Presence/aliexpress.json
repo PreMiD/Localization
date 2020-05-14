@@ -1,1 +1,14 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Смотрит магазина:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Центр сообщений",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Смотрит распродажа",
+        "description": ""
+    }
+}
