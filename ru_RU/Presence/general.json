@@ -51,6 +51,10 @@
 		"message": "Манга",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "Товары",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Страница",
 		"description": ""
@@ -67,8 +71,36 @@
 		"message": "Читает ЛС от:",
 		"description": ""
 	},
+	"general.readingAbout": {
+		"message": "Читает:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Читает статью:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Читает в канале:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Читает поста:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Читает темы:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Читать",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Ищет:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Ищет что-нибудь...",
 		"description": ""
 	},
 	"general.search": {
@@ -85,6 +117,10 @@
 	},
 	"general.typeDM": {
 		"message": "Печатает в ЛС для:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Печатает в канале:",
 		"description": ""
 	},
 	"general.viewAnime": {
@@ -105,6 +141,26 @@
 	},
 	"general.viewGenre": {
 		"message": "Смотрит раздел:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Смотрит домашней страницы",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Смотрит список:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Смотрит манга:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Смотрит пользователя:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Смотрит кино:",
 		"description": ""
 	},
 	"general.viewThread": {
