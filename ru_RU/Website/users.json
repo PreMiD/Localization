@@ -1,6 +1,6 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Разработчик Статусов",
+		"message": "Разработчик Присутствия",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
@@ -22,6 +22,14 @@
 	"user.geniusPresenceDev.message2": {
 		"message": "Создал более 100 статусов!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Пользователь [Присутствия/Взносы]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Нажмите здесь, чтобы показать Присутствия, которые этот пользователь создал.",
+		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
 		"message": "Нажмите здесь, чтобы показать присутствия, к которым присоединился пользователь.",
