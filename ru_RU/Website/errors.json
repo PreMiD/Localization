@@ -1,6 +1,6 @@
 {
 	"error.page.details": {
-		"message": "Детали",
+		"message": "Подробности",
 		"description": "'Details' text on error page container"
 	},
 	"user.notFound.heading": {
