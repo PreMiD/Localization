@@ -1,7 +1,27 @@
 {
+	"downloads.header.title": {
+		"message": "Время показа выключено.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Используйте PreMiD сейчас и покажите своим друзьям, что вы смотрите или слушаете, может быть вы найдете кого-нибудь со схожими интересами.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Начало работы",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Скачать PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Установить приложение",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Добавить расширение в свой браузера",
+		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
 		"message": "Скачать приложение",
