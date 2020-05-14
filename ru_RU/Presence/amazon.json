@@ -3,6 +3,26 @@
         "message": "Смотрит подписки",
         "description": ""
     },
+    "amazon.adprefs": {
+        "message": "Смотрит рекламных предпочтении",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Смотрит баланса",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Смотрит способов оплаты",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Смотрит адреса",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Смотрит питомцев",
+        "description": ""
+    },
     "amazon.catergoriesAll": {
         "message": "Смотрит все категории",
         "description": ""
@@ -14,6 +34,14 @@
     "amazon.viewTheir": {
         "message": "Смотрит",
         "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "история заказов",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "подробности заказа",
+        "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
         "message": "корзина",
@@ -37,6 +65,10 @@
     },
     "amazon.store": {
         "message": "Смотрит магазина:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Смотрит Prime видео:",
         "description": ""
     }
 }
