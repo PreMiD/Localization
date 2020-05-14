@@ -79,6 +79,22 @@
 		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.error.noaccess.description": {
+		"message": "Вы можете присоединиться к бета-программе **здесь** бесплатно. Поспешите! У нас есть еще {0} слотов",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Ранние выпуски",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Внимание",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.edge": {
+		"message": "Не забудьте включить опцию \"Разрешить расширения из других магазинов\" в настройках расширений.",
+		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+	},
 	"downloads.warning.message.opera": {
 		"message": "Вы должны установить **это** расширение для установки PreMiD с веб-магазина Chrome.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
