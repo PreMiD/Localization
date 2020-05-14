@@ -20,8 +20,12 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Добавить расширение в свой браузера",
+		"message": "Добавить расширение в Вашего браузера",
 		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Перезагрузите сайт и проверьте, подключено ли расширение",
+		"description": "I think you get what this is..."
 	},
 	"downloads.appdownloading.header": {
 		"message": "Скачать приложение",
