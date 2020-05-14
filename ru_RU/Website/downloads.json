@@ -67,20 +67,56 @@
 		"message": "Текущая версия этой платформы {0} (эта версия только Linux, не применяется к другим платформам).",
 		"description": "Tippy message of the Linux card."
 	},
+	"downloads.warning.differentVersion2": {
+		"message": "Эта версия специфична для Linux и не относится к другим системам. Основная версия приложения {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Войдите в систему, чтобы увидеть эти загрузки.",
+		"description": "Error message if the user is not logged in."
+	},
 	"downloads.error.noaccess.title": {
 		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.warning.message.opera": {
+		"message": "Вы должны установить **это** расширение для установки PreMiD с веб-магазина Chrome.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Пропустить",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Назад",
+		"description": "Back button on the ads section"
+	},
 	"downloads.button.cancel": {
 		"message": "Отменить",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Хорошо",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
 		"message": "Готово",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Войти",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Благодарим вас!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Мы используем рекламу для поддержки нашей команды и поддержки наших серверов, чтобы предложить вам наилучший пользовательский опыт!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Пожалуйста, отключите блокировщик рекламы.",
+		"description": "Message next to pepe."
 	}
 }
