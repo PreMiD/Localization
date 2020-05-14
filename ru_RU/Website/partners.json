@@ -83,6 +83,10 @@
 		"message": "Подать",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Спасибо за подачу заявки!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Пожалуйста, заполните все поля.",
 		"description": "Error when a field isn't filled."
