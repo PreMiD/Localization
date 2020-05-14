@@ -3,9 +3,37 @@
 		"message": "Партнеры",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Присоединяйтесь к фаму и получите некоторые преимущества только для партнеров, чтобы показать сколько у вас хватает.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Они уже принадлежат нам",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Как насчет того, чтобы пойти на небо вместо ад?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Ваши бесплатные Присутствия",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Наша команда предоставит Вам Присутствия Вашего сервиса.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Получите верификацию",
 		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Особая роль и большая честь будут предоставлены Вам на нашем сервере Discord.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Интеграция с Meta-тегами",
+		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit5.title": {
 		"message": "Будьте известными",
@@ -18,6 +46,10 @@
 	"partners.requirements.first.title": {
 		"message": "Что вы ищете?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.sponsors.title": {
+		"message": "Спонсоры",
+		"description": "Heading for sponsors."
 	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
@@ -54,6 +86,10 @@
 	"partners.apply.error1": {
 		"message": "Пожалуйста, заполните все поля.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "В описании максимум 150 символов.",
+		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
 		"message": "Пожалуйста, добавьте ссылку (должна начинаться с https:// и заканчиваться .png)",
