@@ -28,7 +28,35 @@
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "Смотрит пост пользователя:",
+        "message": "Смотрит посты пользователя:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Смотрит магазина пользователя:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Смотрит друзей пользователя:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Смотрит видео пользователя:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Смотрит через:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Сохраняет видео",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Недавно добавлено",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Смотрит текущей погоды",
         "description": ""
     }
 }
