@@ -94,5 +94,17 @@
 	"jobs.benefit6.title": {
 		"message": "Ранний доступ",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Протестируйте новые функции что-нибудь.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Спасибо за подачу заявки!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Вы уже подали заявку!",
+		"description": "Notification when you applied already."
 	}
 }
