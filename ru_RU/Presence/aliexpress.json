@@ -50,5 +50,9 @@
     "aliexpress.coupons": {
         "message": "Смотрит купонов",
         "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Смотрит адреса",
+        "description": ""
     }
 }
