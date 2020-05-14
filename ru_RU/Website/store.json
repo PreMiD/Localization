@@ -39,6 +39,10 @@
 		"message": "Фильтры",
 		"description": "Searh filters option at the store page"
 	},
+	"store.category.filters.mostUsed": {
+		"message": "Наиболее используемые",
+		"description": "Most used first checkbox"
+	},
 	"store.category.filters.allowAdult": {
 		"message": "Показать NSFW",
 		"description": "Adult content checkbox"
