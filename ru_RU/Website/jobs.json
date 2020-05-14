@@ -58,5 +58,41 @@
 	"jobs.benefit1.description": {
 		"message": "Свяжитесь с людьми за PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Крайние пики",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Ознакомьтесь с нашим маркетингом и разработкой.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Честь",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Мощные права на Discord и цветная роль.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Поддержка",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Благодаря вашему вкладу можно запустить этот проект.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Тайм-аут",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Займите свое время, это добровольная работа.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Ранний доступ",
+		"description": "Benefit card title."
 	}
 }
