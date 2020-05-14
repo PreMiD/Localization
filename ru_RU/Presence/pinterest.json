@@ -2,5 +2,9 @@
     "pinterest.board": {
         "message": "Смотрит доска:",
         "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Смотрит pin",
+        "description": ""
     }
 }
