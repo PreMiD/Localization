@@ -27,6 +27,10 @@
 		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.button.cancel": {
+		"message": "Отменить",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Готово",
 		"description": "Button on the page when trying to download with adblocker on."
