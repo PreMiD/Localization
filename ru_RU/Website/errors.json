@@ -3,8 +3,20 @@
 		"message": "Подробности",
 		"description": "'Details' text on error page container"
 	},
+	"error.page.button": {
+		"message": "Вернуться на главную",
+		"description": "Button on the error page"
+	},
 	"user.notFound.heading": {
 		"message": "Мы не нашли этого пользователя. Попробуйте убедиться, что",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message3": {
+		"message": "если другие столкнулись с такой же проблемой на нашем сервере Discord.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нами на [нашем сервере Discord].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
