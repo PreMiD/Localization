@@ -75,7 +75,7 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 
 Dans certaines situations, Presences peut se comporter de manière inattendue ou peut utiliser quelques modifications mineures pour améliorer ses fonctionnalités. Voici une liste compilée que vous **DEVEZ** suivre pour modifier les présences.
 
-- Vous n'êtes **PAS**autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un `Presence Verifier` pour voir si vous pouvez réécrire la présence de votre choix.
+- Vous n'êtes **PAS** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un `Presence Verifier` pour voir si vous pouvez réécrire la présence de votre choix.
 - N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **PAS** d'apporter des modifications au code n'ayant **PAS** besoin d'être corrigé. Les modifications valides sont, mais ne doivent **PAS** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
 - Si vous apportez des modifications à une présence et modifiez au moins un **QUART** de la base de code de la présence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
 - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
@@ -90,13 +90,13 @@ Pour que votre présence rejoigne notre store, il **DOIT** passer par un process
 1. Il faut deux vérificateurs pour confirmer que votre présence répond aux normes. Si vous obtenez des demandes de modification, faites l'effort nécessaire pour le corriger, ou la présence ne sera **PAS** ajouté.
 2. Si nous vous demandons des modifications et que votre pull request dépasse **7 jours d'inactivité** sans faire les nécessaires nous serons forcés de le fermer.
 3. Vous êtes autorisé à prendre des captures d'écran des changements effectués avec l'aide d'un autre utilisateur, et vous êtes autorisé à assembler des captures d'écran pour un plaisir visuel. (par exemple, son auteur dans le cas où vous ne pouvez pas y accéder pour une raison quelconque).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
+4. S'il s'agit d'une mise à jour ou d'un patch, la capture d'écran **DOIT** montrer les nouveaux ajouts qui fonctionnent, **pas** d'anciennes fonctionnalités des précédents pull requests.
 5. Les captures d'écran fournies doivent être réelles, **PAS** modifiées.
 6. Tout code contribué qui sera fusionné dans ce dépôt sera sous la licence **Mozilla Public License 2.0**.
 7. Présences pour des domaines ou des hôtes gratuits (par exemple, .TK, [tous les domaines libres de Freenom], .RF. D, etc) ne sont **PAS** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
 8. Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme "playing"/"pause" pour les sites de vidéos, « navigation» pour des sites réguliers et d'autres cas) non pas pour pas promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
-9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
-10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+9. Les exigences pour les logos sont 1:1 (Carré) en 512px, par contre, les vignettes doit être [ soit comme une carte promotionnelle large](https://i.imgur.com/3QfIc5v.jpg) ou simplement [une capture d'écran](https://i.imgur.com/OAcBmwW.png) si la première **n'est pas** disponible.
+10. Les présences doivent avoir au moins un tag. Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
 11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
 12. Descriptions and tags should always be in an array, even when it's only one element. Le champ `url` ne doit cependant être qu'une chaîne de caractères si c'est un domaine.
 13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
