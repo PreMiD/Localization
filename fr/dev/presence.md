@@ -57,7 +57,7 @@ site web
 Avant de commencer à travailler sur votre présence, gardez à l'esprit la liste suivante.
 - La présence **DOIT** être liée au site Web que vous avez choisi.
 - La présence **NE DOIT PAS** être de sites illégaux. Celles-ci incluent des stress, des drogues, du porn infantile, etc.
-- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
+- Les métadonnées de présence **DOIVENT** avoir un contenu bien écrit, y compris des titres valides, et des descriptions.
 - The media you include (icon/thumbnail) **MUST** be related to the site and should be understandable in terms of size and quality.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
 - La présence **NE DOIT PAS** avoir d'intentions malveillantes. Celles-ci incluent le vol ou la fuite d'informations privées, affectant négativement le comportement du site, etc.
