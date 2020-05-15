@@ -99,15 +99,15 @@ Pour que votre présence rejoigne notre store, il **DOIT** passer par un process
 10. Les présences doivent avoir au moins un tag. Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
 11. Le champ `url` **NE DOIT PAS** inclure `http://` ou `https://`, ni les paramètres (par ex. une présence pour `https://www.google.com/search?gws_rd=ssl` n'aura que `www.google.com` dans le champ `url`).
 12. Les descriptions et les balises doivent toujours être dans un tableau, même s'il ne s'agit que d'un élément. Le champ `url` ne doit cependant être qu'une chaîne de caractères si c'est un domaine.
-13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well (e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws").
-14. Unstable sites that constantly change APIs/domains, randomize HTML elements, or just still being in heavy development are not allowed and will be removed from the store.
-15. The logo and thumbnail on your Presence **MUST** either be `i.imgur.com`, from a CDN that **YOU** own, or from a CDN that gives you permission to **CHANGE** image files.
-16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code (which comes from an earlier version of ECMAScript), whether it's in Typescript or Javascript, and in addition to that, make sure the `UpdateData` event used is similar to this:
+13. Les tags doivent être utilisées comme noms alternatifs dans la mesure du possible, les versions abrégées doivent également être incluses (par ex : si une présence d'Amazon avait inclus le support AWS, il aurait des tags comme : "amazon-web-services" et "aws").
+14. Les sites instables qui changent constamment les API/domaines, qui changent aléatoirement des éléments HTML ou simplement en cours de développement intensif ne sont pas autorisés et seront retirés du magasin.
+15. Le logo et la vignette de votre Presence **DOIVENT** être `i.imgur. om`, à partir d'un CDN que **VOUS** possédez, ou à partir d'un CDN qui vous donne la permission de **CHANGER** les images.
+16. Les vérificateurs vérifieront si la présence contient une fonction `__awaiter` au début du code (qui provient d'une version antérieure d'ECMAScript), si c'est dans Typescript ou Javascript, et en plus de cela, assurez-vous que l'événement `UpdateData` utilisé est similaire à ceci :
 
 ```ts
 presence.on("UpdateData", async () => {
   /*...*/
-  // Always use await when using async in the event
+  //  Utilisez toujours await lorsque vous utilisez async 
   data.smallImageText = (await strings).playing;
   /*...*/
 });
