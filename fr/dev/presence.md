@@ -69,13 +69,13 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - Le nom de votre Presence **DOIT** être le nom du dossier de votre Presence. Par exemple, une présence nommée `Google Docs` doit avoir comme dossier `/Google Docs/`. (vous devez inclure tous les espaces, points, virgules et autres caractères spéciaux)
 
 ## Modifications
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
+> Vous DEVEZ changer la version dans les **métadonnées** pour être une valeur plus élevée de la version précédente lorsque vous effectuez des modifications soit à **presence.ts**/**presence.js** ou **metadata.json**. 
 > 
 > {.is-warning}
 
 Dans certaines situations, Presences peut se comporter de manière inattendue ou peut utiliser quelques modifications mineures pour améliorer ses fonctionnalités. Voici une liste compilée que vous **DEVEZ** suivre pour modifier les présences.
 
-- Vous n'êtes **PAS**autorisé à réécrire une Presence ou à modifier son auteur. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- Vous n'êtes **PAS**autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un `Presence Verifier` pour voir si vous pouvez réécrire la présence de votre choix.
 - Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
 - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
