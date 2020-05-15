@@ -128,15 +128,15 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 18. Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), qui se traduit par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ENORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Autre chose comme `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` ou changement de `1.0.0` à `2.0.` sur une correction de bug/petit changement n'est **PAS autorisé**.
 19. Les présences de faible qualité (ou celles n'ayant qu'un seul contexte) ne sont **PAS** autorisées (par ex : Afficher uniquement le logo et du texte mais ne plus jamais changer).
 20. **NE JAMAIS** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos présences, vous êtes libre d'utiliser tout ce dont vous avez besoin si vous ne les trouvez pas dans la documentation.
-21. It is **NOT** recommended to use comments on Javascript Presences unless necessary (TypeScript ones or their compiled files are fine), as it reduces code readability and increases file sizes.
-22. Declare the Presence const **BEFORE** everything to avoid such rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-23. Presences that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
-24. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
+21. Il n'est **PAS** recommandé d'utiliser des commentaires sur les présences Javascript sauf si nécessaire (Pas de problème pour les fichiers TypeScript ou leurs fichiers compilés), car il réduit la lisibilité du code et augmente la taille des fichiers.
+22. Déclarez le "const" de la présence **AVANT** tout pour éviter des problèmes aussi rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc il pourrait être supprimé dans le futur.
+23. Les présences qui ciblent les pages internes du navigateur (comme Chrome Web Store, `chrome://`, `à propos :` pages, etc) ne sont **PAS** autorisés car ils nécessitent un _drapeau expérimental_ pour être activés à la fin de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
+24. Il est **INTERDIT** de coder des présences pour un site sans ajouter de support à sa langue principale (ex : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même).
 
-After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
+Après avoir respecté toutes les directives et que votre présence ai été examinée au moins deux fois, votre présence sera fusionnée avec le store.
 
 # Structure
-Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) a quelques définitions de types supplémentaires épicés, donc la correction et l'identification des bugs est beaucoup plus facile.
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
