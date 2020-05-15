@@ -76,25 +76,25 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 Dans certaines situations, Presences peut se comporter de manière inattendue ou peut utiliser quelques modifications mineures pour améliorer ses fonctionnalités. Voici une liste compilée que vous **DEVEZ** suivre pour modifier les présences.
 
 - Vous n'êtes **PAS**autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un `Presence Verifier` pour voir si vous pouvez réécrire la présence de votre choix.
-- N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **PAS** d'apporter des modifications au code n'ayant **PAS** besoin d'être corrigé. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
+- N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **PAS** d'apporter des modifications au code n'ayant **PAS** besoin d'être corrigé. Les modifications valides sont, mais ne doivent **PAS** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
+- Si vous apportez des modifications à une présence et modifiez au moins un **QUART** de la base de code de la présence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
 - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
-- Confirmez que vos modifications fonctionnent avant de publier. Do **NOT** create pull requests without knowing the outcome of your changes.
+- Confirmez que vos modifications fonctionnent avant de publier. **Ne créez pas de demandes d'ajout** sans connaître le résultat de vos modifications.
 
 # Vérification
 
 > Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les `vérificateurs de Presence` auront un rôle unique sur leur profil.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Ce sont quelques choses à surveiller lorsque vous faites votre pull request.
+Pour que votre présence rejoigne notre store, il **DOIT** passer par un processus sur GitHub pour confirmer qu'il fonctionne comme prévu. Ce sont quelques choses à surveiller lorsque vous faites votre pull request.
 
-1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
+1. Il faut deux vérificateurs pour confirmer que votre présence répond aux normes. Si vous obtenez des demandes de modification, faites l'effort nécessaire pour le corriger, ou la présence ne sera **PAS** ajouté.
 2. Si nous vous demandons des modifications et que votre pull request dépasse **7 jours d'inactivité** sans faire les nécessaires nous serons forcés de le fermer.
-3. Vous êtes autorisé à prendre des captures d'écran des changements effectués avec l'aide d'un autre utilisateur, et vous êtes autorisé à assembler des captures d'écran pour le plaisir. (e.g., its author in case you can't access it for any reason).
+3. Vous êtes autorisé à prendre des captures d'écran des changements effectués avec l'aide d'un autre utilisateur, et vous êtes autorisé à assembler des captures d'écran pour un plaisir visuel. (par exemple, son auteur dans le cas où vous ne pouvez pas y accéder pour une raison quelconque).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
 5. Les captures d'écran fournies doivent être réelles, **PAS** modifiées.
 6. Tout code contribué qui sera fusionné dans ce dépôt sera sous la licence **Mozilla Public License 2.0**.
-7. Presences for free domains or hosts (e.g., .TK, [all free Freenom domains], .RF.GD, etc) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+7. Présences pour des domaines ou des hôtes gratuits (par exemple, .TK, [tous les domaines libres de Freenom], .RF. D, etc) ne sont **PAS** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
+8. Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme "playing"/"pause" pour les sites de vidéos, « navigation» pour des sites réguliers et d'autres cas) non pas pour pas promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
 10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters (e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field).
