@@ -61,7 +61,7 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - Le média que vous incluez (icône/vignette) **DOIT** être lié au site web et doit être compréhensible en termes de taille et de qualité.
 - La structure de fichier **DOIT** être propre et gérée, n'ayez **PAS** des fichiers aléatoires qui ne fournissent rien à la fonction de Presence.
 - La présence **NE DOIT PAS** avoir d'intentions malveillantes. Celles-ci incluent le vol ou la fuite d'informations privées, affectant négativement le comportement du site, etc.
-- Si vous concevez une Presence pour un site qui change dans le futur et en conséquence, potentiellement cassant votre Présence, vous **êtes** responsable de la mise à jour de votre Présence. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
+- Si vous concevez une Presence pour un site qui change dans le futur et en conséquence, potentiellement cassant votre Présence, vous **êtes** responsable de la mise à jour de votre Présence. Si vous **ne le corrigez pas** dans les 7 jours, d'autres développeurs de présence sont autorisés à **réécrire** votre présence pour se conformer aux changements.
 - La présence **DOIT** être testée avant la publication pour confirmer que tout fonctionne comme prévu.
 - Votre présence **DOIT** avoir des images et des descriptions SFW, qu'elles soient NSFW ou non. Si votre Presence concerne un site NSFW, veuillez ajouter la balise `nsfw` à vos métadonnées.
 - Votre présence **NE PEUT PAS** manipuler le stockage local sur le navigateur.
