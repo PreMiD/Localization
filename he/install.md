@@ -1,6 +1,6 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: התקנה
+description: איך להתקין PreMiD
 published: true
 date: 2020-02-12T22:05:12.168Z
 tags:
@@ -15,7 +15,7 @@ tags:
 > {.is-warning}
 
 **Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
+- [ווינדוס 7 או יותר מחודש.](/install/windows)
 - [macOS *10.11 or above*](/install/macos)
 - [Linux *4 or above*](/install/linux)
 {.links-list}
