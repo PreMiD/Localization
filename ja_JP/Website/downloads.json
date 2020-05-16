@@ -31,6 +31,10 @@
 		"message": "まだ問題が解決しませんか？{0}",
 		"description": "{0} will be replaced with footer.link"
 	},
+	"downloads.instructions.footer.link": {
+		"message": "お手伝いいたします",
+		"description": "Link to our discord"
+	},
 	"downloads.appdownloading.header": {
 		"message": "アプリのダウンロード",
 		"description": "Header above application download buttons."
@@ -58,6 +62,14 @@
 	"downloads.mobile.hideDownloads": {
 		"message": "非表示にする",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "このプラットフォームの現在のバージョンは {0} です(このバージョンは Linux に固有で、他のプラットフォームには適用されません)。",
+		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "このバージョンは Linux に固有で、他のシステムには適用されません。アプリケーションのメインバージョンは {0} です。",
+		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
 		"message": "これらのダウンロードを見るには、ログインしてください",
