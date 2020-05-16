@@ -12,7 +12,7 @@
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
-		"message": "Ortak Servisi",
+		"message": "Partner Servisi",
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
@@ -40,11 +40,11 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "En çok kullanılan başta",
+		"message": "En popülerler başta",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "NSFW göster",
+		"message": "Yetişkin içeriklileri göster",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
@@ -88,11 +88,11 @@
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
-		"message": "Onayla",
+		"message": "Enter",
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
-		"message": "Filtreyi kaldırmak için tıkla.",
+		"message": "Filtreyi kaldırmak için tıkla",
 		"description": "Remove message for active search filters."
 	}
 }
