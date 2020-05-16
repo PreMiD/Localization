@@ -11,6 +11,10 @@
 		"message": "Geçersiz veya silinmiş bir servis arıyorsunuz.",
 		"description": "Error (4) message"
 	},
+	"error.code.500": {
+		"message": "Sunucu taraflı bir hata oluştu.",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "Detaylar",
 		"description": "'Details' text on error page container"
@@ -22,6 +26,18 @@
 	"user.notFound.heading": {
 		"message": "Aradığınız kullanıcı bulunamadı. Lütfen alttaki maddeleri inceleyin",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "Aradığınız kullanıcının ID'sinin doğruluğundan emin olun.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "Kullanıcının bir profile sahip olabilmesi için yeterince servis yaptığına ve Discord sunucumuzda \"Presence Developer\" rolüne sahip olduğuna emin olun.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "Discord sunucumuzda diğerlerinin de bu sorunu yaşayıp yaşamadığına emin olun.",
+		"description": "Check if the error is also happening to others message."
 	},
 	"user.notFound.message4": {
 		"message": "Eğer bunun bir hata olduğunu düşünüyorsanız, bizimle [Discord sunucumuz]dan ile tişime geçin.",
