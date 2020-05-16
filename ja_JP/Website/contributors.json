@@ -15,9 +15,29 @@
 		"message": "作者",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "クリエイティブ ディレクター",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "アニメーションスーパーバイザー",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "グローバルコミュニティー代表",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "主要なソフトウェア・エンジニア",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.webDeveloper": {
 		"message": "Web開発者",
 		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Linux メンテナー",
+		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
 		"message": "エンジニア",
@@ -30,6 +50,14 @@
 	"contributors.roles.seniorModerator": {
 		"message": "上級モデレーター",
 		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "Presenceのリーダー確認",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "コミュニティー代表",
+		"description": "'Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "モデレーター",
