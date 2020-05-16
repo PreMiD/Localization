@@ -4,7 +4,7 @@
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "PreMiD'i şimdi kullanın ve arkadaşlarınıza ne yaptığınızı gösterin, belki aynı ilgi alanlarına sahip birini bulursunuz.",
+		"message": "PreMiD kullanmaya başlayın ve diğerlerine ne yaptığınızı gösterin, belki aynı zevkleri paylaştığınız bir kaç arkadaş edinirsiniz.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -12,23 +12,23 @@
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "PreMiD'i indir",
+		"message": "PreMiD'i indirin",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Uygulamamızı yükle",
+		"message": "Uygulamamızı yükleyin",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Tarayıcı eklentimizi ekleyin",
+		"message": "Tarayıcınız için uyumlu eklentiyi yükleyin",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Bu siteyi yenileyin ve uzantının bağlı olup olmadığını kontrol edin",
+		"message": "Eklentinin bağlı olup olmadığını kontrol etmek için sayfayı yenileyin",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
-		"message": "Hâlâ sorun mu yaşıyorsunuz? {0}",
+		"message": "Hala sorun mu yaşıyorsunuz? {0}",
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
@@ -52,7 +52,7 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "Lütfen PreMiD'in cep telefonlarında desteklenmediğini bilin.",
+		"message": "Lütfen PreMiD'in mobil üzerinde desteklenmediğini unutmayın.",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Bu platformun sürümü: {0} (bu sürüm sadece Linux için geçerli ve diğer platformlar için geçerli değildir).",
+		"message": "Bu platformun sürümü: {0} (bu sürüm sadece Linux için geçerli ve diğer sistemlere için geçerli değildir).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "Bu indirmeleri görmek için lütfen giriş yapın.",
+		"message": "İndirme linklerini görebilmek için lütfen giriş yapın.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -80,7 +80,7 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Beta programımıza **buradan** ücretsiz katılabilirsin. Acele et! Sadece {0} boş yerimiz var",
+		"message": "Ücretsiz beta programımıza **buraya** tıklayarak katılabilirsin. Acele et sadece {0}/ kişilik yer kaldı.",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
