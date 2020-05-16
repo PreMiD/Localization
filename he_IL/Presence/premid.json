@@ -18,5 +18,9 @@
     "premid.pageTroubleshooting": {
         "message": "פתרון תקלות",
         "description": "A page name"
+    },
+    "premid.pagePresenceDev": {
+        "message": "פיתוח תוסף",
+        "description": "A page name"
     }
 }

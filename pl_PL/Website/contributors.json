@@ -91,12 +91,12 @@
 		"message": "Tłumacz",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Kliknij by skopiować ID użytkownika.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID użytkownika zostało skopiowane do schowka!",
+	"contributors.cards.userIDCopied": {
+		"message": "Skopiowano ID użytkownika!",
 		"description": "Notification after user ID was copied."
 	}
 }

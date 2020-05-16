@@ -3,6 +3,14 @@
         "message": "ดูรายการพนักงาน",
         "description": ""
     },
+    "hypixel.watchThreads": {
+        "message": "กำลังดูเธรดเก่า",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "กำลังดูกระดานสนทนาเก่า",
+        "description": "Forum categories they get notifications from"
+    },
     "hypixel.dm": {
         "message": "กำลังดู DMs ของพวกเขา",
         "description": ""

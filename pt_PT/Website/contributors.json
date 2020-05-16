@@ -15,13 +15,53 @@
 		"message": "Criador(a)",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.executiveDirector": {
+		"message": "Diretor Executivo",
+		"description": "'Executive Director' title for contributors and user pages."
+	},
+	"contributors.roles.operationSupervisor": {
+		"message": "Supervisor de Operação",
+		"description": "'Operation Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Representante Global da Comunidade",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.headSoftwareEngineer": {
+		"message": "Engenheiro de Software",
+		"description": "'Head Software Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.webDeveloper": {
+		"message": "Desenvolvedor de Web",
+		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Engenheiro",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Designer Gráfico",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Moderador Senior",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Verificação do Chefe de Presença",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderador(a)",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Moderador Junior",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Agente de Suporte",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Verificador de Presenças",
@@ -43,12 +83,8 @@
 		"message": "Tradutor(a)",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Clique para copiar o ID do usuário.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID do usuário copiado para a área de transferência!",
-		"description": "Notification after user ID was copied."
 	}
 }

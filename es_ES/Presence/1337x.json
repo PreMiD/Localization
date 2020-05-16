@@ -12,7 +12,7 @@
         "description": ""
     },
     "1337x.top": {
-        "message": "Viendo los 100 mejores",
+        "message": "Viendo el top 100",
         "description": ""
     },
     "1337x.trending": {
@@ -20,7 +20,7 @@
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "Viendo de torrents de Anime",
+        "message": "Viendo de Torrents de Anime",
         "description": ""
     },
     "1337x.appTorrents": {

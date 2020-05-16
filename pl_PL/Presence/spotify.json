@@ -12,7 +12,7 @@
 		"description": ""
 	},
 	"spotify.genres": {
-		"message": "Przeglądanie poprzez gatunki",
+		"message": "Przeglądanie gatunków",
 		"description": ""
 	},
 	"spotify.latest": {
@@ -24,12 +24,32 @@
 		"description": ""
 	},
 	"spotify.browse": {
-		"message": "Przeglądanie przez",
+		"message": "Przegląda",
 		"description": "First section of the next 6 strings"
 	},
+	"spotify.podcastsLike": {
+		"message": "podcasty, które lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artystów, których lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albumy, które lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "piosenki, które lubi",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.madeForYou": {
-		"message": "\"Wykonano dla Ciebie\"",
+		"message": "\"Zrobione dla Ciebie\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "swoje playlisty",
+		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
 		"message": "Pobieranie Spotify",

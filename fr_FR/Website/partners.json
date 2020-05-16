@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTENAIRES",
+		"message": "Partenaires",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -16,15 +16,15 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Votre présence libre",
+		"message": "Votre Presence gratuite",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Notre équipe vous fournira une présence de votre service web.",
+		"message": "Notre équipe vous fournira une Presence pour votre site Web.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Être vérifié",
+		"message": "Devenez vérifié",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
@@ -36,11 +36,11 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Active automatiquement votre Presence lorsque quelqu'un visite votre site Web.",
+		"message": "Utilise automatiquement votre Presence lorsque quelqu'un visite votre site Web.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "Immortalisé",
+		"message": "Soyez immortalisé",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -56,7 +56,7 @@
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "EXIGENCES",
+		"message": "Exigences",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -72,7 +72,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Nous acceptons actuellement divers types d'efforts dans notre programme de partenariat. N'importe qui devrait avoir la possibilité d'être remarqué. Les diffuseurs Twitch devraient avoir au moins 500 abonnés et au moins 3 téléspectateurs simultanés. Vous devez diffuser au moins une fois par semaine.",
+		"message": "Nous acceptons actuellement divers types d'efforts dans notre programme de partenariat. N'importe qui devrait avoir la possibilité d'être remarqué. Les diffuseurs Twitch devraient avoir au moins 500 abonnés et au moins 10 téléspectateurs simultanés. Vous devez diffuser au moins une fois par semaine.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -84,11 +84,11 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Si vous êtes plutôt intéressé par un emploi direct chez PreMiD, jetez un œil à notre **offre d'emploi**.",
+		"message": "Si vous êtes plutôt intéressé par un emploi direct chez PreMiD, jetez un œil à nos **offres d'emploi**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
-		"message": "SPONSORS",
+		"message": "Sponsors",
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
@@ -111,6 +111,14 @@
 		"message": "La plateforme de gain du joueur.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio est la radio d'infotainment la plus réussie pour les jeux de simulation en Allemagne, en Autriche et en Suisse!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Recevez ce qui vous revient à juste titre. Diffusez Anime, Films, Hentai, Promotions et plus encore. Gratuitement, sans publicités et en haute définition!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "Un outil puissant et facile à utiliser de l'installateur multi-plateforme.",
 		"description": "Description for BitRock."
@@ -124,8 +132,16 @@
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "Le logiciel Wiki open source le plus puissant et le plus extensible.",
+		"message": "Le logiciel Wiki open source le plus puissant et extensible.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Une interface unifiée et conviviale pour les développeurs pour tous vos artefacts.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Derrière le meilleur du web.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",

@@ -63,12 +63,8 @@
 		"message": "Преводач",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Щракване за копиране на потребителския идент. №.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Потребителският идент. № е копиран в клипборда ви!",
-		"description": "Notification after user ID was copied."
 	}
 }

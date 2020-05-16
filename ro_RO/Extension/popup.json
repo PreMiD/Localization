@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD nu a putut să se conecteze la aplicație! Este instalată și rulează? *Troubleshooting*",
+		"message": "PreMiD nu a putut să se conecteze la aplicație! Este instalată și rulează? *Depanare*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {

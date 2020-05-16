@@ -19,6 +19,10 @@
 		"message": "Версия",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.users": {
+		"message": "Пользователи",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
 	"presence.sections.information.tags": {
 		"message": "Метки",
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"

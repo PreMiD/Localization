@@ -3,10 +3,6 @@
 		"message": "Язык",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "Готовы опробовать PreMiD?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.message": {
 		"message": "Присоеденитесь же к {0} пользователям прямо сейчас!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -29,7 +25,7 @@
 	},
 	"footer.developers.richpresence": {
 		"message": "Расширенные статусы",
-		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Поддержите нас",

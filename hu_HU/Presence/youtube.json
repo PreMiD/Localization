@@ -4,19 +4,23 @@
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Videókat böngész",
+        "message": "Böngészés videók között",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Lejátszási listákat böngész",
+        "message": "Böngészés lejátszási listák között",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Közösségi bejegyzéseket böngész",
+        "message": "Böngészés közösségi bejegyzések között",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
         "message": "Csatorna:",
         "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Csatorna névjegyének olvasása:",
+        "description": ""
     }
 }

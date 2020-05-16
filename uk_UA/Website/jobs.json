@@ -11,6 +11,10 @@
 		"message": "Наступний",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Приєднуйся",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Скасувати",
 		"description": "Cancel, button in the modal."
@@ -23,13 +27,17 @@
 		"message": "PreMiD — це проект з відкритим вихідним кодом, а це означає, що ми некомерційна команда, кожна пожертва та гроші вкладаються в наш продукт. Погоджуючись на посаду в PreMiD, ви підтверджуєте, що ви стаєте волонтером в команді і що вам нічого не заплатять.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Приєднуйтеся до нашого Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Щоб мати можливість працювати, приєднайтесь до нашого сервера Discord. В іншому випадку ми не зможемо з вами контактувати.",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Робота в PreMiD",
 		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "Чи готові ви допомогти найбільшій бібліотеці Розширених присутностей?",
-		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Вакансії",
@@ -67,10 +75,6 @@
 		"message": "Підтримати PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "З вашим внеском можна запустити цей проект.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Час вийшов",
 		"description": "Benefit card title."
@@ -82,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "Ранній доступ",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Дякуємо, що подали заявку!",

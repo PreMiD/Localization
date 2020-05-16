@@ -3,10 +3,6 @@
 		"message": "Мова",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "Готові спробувати PreMiD?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.message": {
 		"message": "Приєднуйтеся, вже понад {0} користувачів на сьогоднішній день!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -19,6 +15,10 @@
 		"message": "Партнери",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Слідуйте за нами",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "Розробники",
 		"description": "Developer section"
@@ -29,7 +29,7 @@
 	},
 	"footer.developers.richpresence": {
 		"message": "Розширена присутність",
-		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Підтримайте нас",
@@ -50,10 +50,6 @@
 	"footer.supportus.translate": {
 		"message": "Перекладати",
 		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "Працюйте для нас!",
-		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Допомога",
@@ -102,9 +98,5 @@
 	"footer.copyright.line2": {
 		"message": "Веб-сайт утримує {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	},
-	"footer.partners.more": {
-		"message": "Натисніть тут, щоб побачити решту партнерів і спонсорів.",
-		"description": "Button next to all listed partners on the footer."
 	}
 }

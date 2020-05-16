@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTNERS",
+		"message": "Partner",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "Che ne dici di andare in paradiso invece che all'inferno?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "La tua presenza libera",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Il nostro team ti fornirà una Presenza del tuo servizio web.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Diventa verificato",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Integrazione con Meta-tag",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Attiva automaticamente la tua presenza quando qualcuno visita il tuo sito Web.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Immortalati",
@@ -51,12 +39,8 @@
 		"message": "Diventa famoso",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "In primo piano sui nostri social.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
-		"message": "REQUISITI",
+		"message": "Requisiti",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -68,7 +52,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Attualmente stiamo accettando vari tipi di sforzi nel nostro programma di partenariato. Chiunque dovrebbe avere la possibilità di essere notato. Le emittenti Twitch dovrebbero avere almeno 500 follower e almeno 3 spettatori simultanei. Devi eseguire lo streaming almeno 1 volta a settimana.",
+		"message": "Attualmente stiamo accettando vari tipi di sforzi nel nostro programma di partenariato. Chiunque dovrebbe avere la possibilità di essere notato. Le emittenti Twitch dovrebbero avere almeno 500 follower e almeno 10 spettatori simultanei. Devi eseguire lo streaming almeno 1 volta a settimana.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -78,10 +62,6 @@
 	"partners.apply.disclaimer": {
 		"message": "Andiamo in paradiso insieme!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSOR",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD non sarebbe possibile senza queste persone straordinarie.",
@@ -118,6 +98,10 @@
 	"partners.partner.wikijs": {
 		"message": "Il Software Wiki open source più potente ed estensivo.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Un unica e amichevole interfaccia per tutti i tuoi artefatti.",
+		"description": "Description for PackageCloud."
 	},
 	"partners.apply.select.other": {
 		"message": "Altro",

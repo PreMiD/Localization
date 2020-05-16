@@ -11,6 +11,10 @@
 		"message": "Volgende",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Join",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Annuleren",
 		"description": "Cancel, button in the modal."
@@ -23,12 +27,20 @@
 		"message": "PreMiD is een open-source project, wat betekent dat we een non-profit team zijn, elk donatie of patreon geld gaat terug naar het product. Door te solliciteren bij PreMiD, erkent u dat u vrijwilliger bent in het team, u zult niet worden betaald voor uw werk.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Join onze Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "In order om te solliciteren moet u in onze Discord server zitten. Anders kunnen wij u niet contacteren als u wordt uitgekozen!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Werk voor PreMiD",
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Ben je klaar om de grootste Rich-Presence bibliotheek te helpen?",
+		"message": "Ben je klaar om de grootste Rich-Presence programma te helpen?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
@@ -84,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Je kunt nieuwe functies testen voordat ze uit komen.",
+		"message": "Test nieuwe functies voordat ze uit komen.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {

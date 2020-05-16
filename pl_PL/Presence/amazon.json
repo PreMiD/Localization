@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Przeglądanie subskrypcji",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Przegląda swoje preferencje reklamowe",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Przegląda swoje saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Przeglądanie metod płatności",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Wyświetla swój adres",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Przegląda swoje zamówienia",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Przeglądanie wszystkich kategorii",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Przeglądanie Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Przegląda swoje",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historię zamówień",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "szczegóły zamówienia",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "koszyk",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "lista życzeń",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "karty podarunkowe",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Przeglądanie rekomendowanych",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Wyświetlanie swojej historii",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Wyświetlanie sklepu:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Przeglądanie filmu premium:",
+        "description": ""
+    }
+}

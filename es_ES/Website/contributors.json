@@ -91,12 +91,8 @@
 		"message": "Traductor",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Haz clic para copiar la ID del usuario.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "¡ID de Usuario copiada a tu portapapeles!",
-		"description": "Notification after user ID was copied."
 	}
 }

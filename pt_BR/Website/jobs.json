@@ -11,6 +11,10 @@
 		"message": "Próximo",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Juntar-se",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Cancelar",
 		"description": "Cancel, button in the modal."
@@ -23,13 +27,17 @@
 		"message": "PreMiD é um projeto open-source (código-aberto), significando que não somos um time sem fins lucrativos, toda doação ou dinheiro dado com o Patreon irá voltar para o produto. Ao se candidatar a um emprego no PreMiD, você reconhece que estará se voluntariando na equipe, você não será pago pelo seu trabalho.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Junte-se ao nosso Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Para poder se candidatar, você deve entrar em nosso servidor do Discord. Caso contrário, não poderemos te contactar caso você seja selecionado!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Trabalhe para o PreMiD",
 		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "Você está pronto para ajudar a maior biblioteca Rich-Presence?",
-		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Aberturas de Emprego",
@@ -44,11 +52,15 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
-		"message": "Entre em contato com as pessoas por de trás do PreMiD.",
+		"message": "Entre em contato com as pessoas por trás do PreMiD.",
 		"description": "Benefit card description."
 	},
+	"jobs.benefit2.title": {
+		"message": "Testador Beta",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit2.description": {
-		"message": "Dê uma olhada em nosso Desenvolvimento e Marketing.",
+		"message": "Dê uma olhada no nosso Desenvolvimento e Marketing.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
@@ -56,35 +68,27 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Poderosas permissões no Discord e um cargo colorido.",
+		"message": "Permissões poderosas do Discord e um cargo com cor.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
-		"message": "Suporta PreMiD",
+		"message": "Ajude o PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "Com a sua contribuição é possível executar este projecto.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
-		"message": "Desconto de tempo",
+		"message": "Tempo-fora",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
-		"message": "Demore o tempo que quiser. Isto é trabalho voluntário.",
+		"message": "Demore o tempo que quiser. Isso é um trabalho voluntário.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
 		"message": "Acesso Antecipado",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit6.description": {
-		"message": "Seja capaz de testar novos recursos antes de qualquer outra pessoa.",
-		"description": "Benefit card description."
-	},
 	"jobs.success.applied": {
-		"message": "Obrigado por se candidatar!",
+		"message": "Obrigado por se inscrever!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {

@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "ปัจจุบันดูโฆษณา",
+        "message": "กำลังดูโฆษณา",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -27,6 +27,14 @@
         "message": "การค้นหาผ่านช่อง: {0} สำหรับ:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "กำลังเรียกดู",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "การสมัครสมาชิกของพวกเขา",
         "description": "Part two of \"Browsing through\""
@@ -36,11 +44,55 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "ประวัติศาสตร์ของพวกเขา",
+        "message": "ประวัติการรับชมของเขา",
         "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "เป็นแบบเสียเงิน",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "กำลังดูประวัติการรายงานของตัวเอง",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "กำลังอัปโหลดอะไรบางอย่าง",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "กำลังดูเพลย์ลิสทั้งหมดของตัวเอง",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "กำลังดูกิจกรรมแบบสด",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "กำลังดูข้อมูลแดชบอร์ดของตัวเอง",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "กำลังดูคลังเพลงและเสียง",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "กำลังดูวิดีโอของตัวเอง",
+        "description": ""
     },
     "youtube.studio.editVideo": {
         "message": "แก้ไขวีดีโอ:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "กำลังดูการวิเคราะห์วิดีโอ",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "กำลังดูคอมเม้นต์ของวิดีโอ",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "กำลังดูแปลภาษาของวิดีโอ",
         "description": ""
     },
     "youtube.studio.channelAnalytics": {
@@ -53,6 +105,10 @@
     },
     "youtube.studio.channelTranslations": {
         "message": "ช่องแปล",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "หน้าศิลปิน",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {

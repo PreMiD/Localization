@@ -7,6 +7,10 @@
         "message": "Dokumentaatio",
         "description": "as in documents"
     },
+    "premid.viewPresence": {
+        "message": "Katsoo presenceä:",
+        "description": ""
+    },
     "premid.pageHome": {
         "message": "Kotisivu",
         "description": "A page name"
@@ -27,8 +31,16 @@
         "message": "Evästekäytäntö",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Yksityisyyskäytäntö",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Käyttöehdot",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
-        "message": "Tieto",
+        "message": "Tietokirja",
         "description": "A page name"
     },
     "premid.pageAbout": {
@@ -37,6 +49,10 @@
     },
     "premid.pageTroubleshooting": {
         "message": "Apua",
+        "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
         "description": "A page name"
     }
 }

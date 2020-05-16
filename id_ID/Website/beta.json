@@ -1,1 +1,6 @@
-{}
+{
+	"beta.title": {
+		"message": "Mau fitur-fitur baru?",
+		"description": "Beta page title"
+	}
+}

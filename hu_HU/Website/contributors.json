@@ -51,6 +51,10 @@
 		"message": "Senior moderátor",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Vezető állapotüzenet ellenőrző",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
 	"contributors.roles.communityRepresentative": {
 		"message": "Közösségi képviselő",
 		"description": "'Community Representative' title for contributors and user pages."
@@ -87,12 +91,8 @@
 		"message": "Fordító",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Kattints a felhasználó azonosítójának másolásához.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Felhasználói azonosító vágólapra másolva!",
-		"description": "Notification after user ID was copied."
 	}
 }

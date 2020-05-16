@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTNERS",
+		"message": "Partners",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Your free presence",
+		"message": "Your free Presence",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Our team will provide you with a Presence of your webservice.",
+		"message": "Our team will provide you with a Presence of your service.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Automatically enables your Presence when someone is visiting your Website.",
+		"message": "Automatically uses your Presence when someone is visiting your Website.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -52,11 +52,11 @@
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.why.benefit5.description": {
-		"message": "Featured on our socials.",
+		"message": "Featured on our social media.",
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "REQUIREMENTS",
+		"message": "Requirements",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -72,7 +72,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "We are currently accepting various kinds of effort into our partnership program. Anyone should have the chance to be noticed. Twitch broadcasters should have at least 500 followers and at least 3 concurrent viewers. You must be streaming at least 1 time per week.",
+		"message": "We are currently accepting various kinds of effort into our partnership program. Anyone should have the chance to be noticed. Twitch broadcasters should have at least 500 followers and at least 10 concurrent viewers. You must be streaming at least 1 time per week.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -84,11 +84,11 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "If you are rather interesed in a direct job at PreMiD, then take a look at our **job advertisement**.",
+		"message": "If you are rather interesed in a direct job at PreMiD, then take a look at our **job advertisements**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
-		"message": "SPONSORS",
+		"message": "Sponsors",
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
@@ -111,6 +111,14 @@
 		"message": "The gamer earning platform.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio is the most successful infotainment radio for simulation games in Germany, Austria and Switzerland!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Get what's rightfully yours. Stream Anime, Movies, Hentai, Specials and more. Free, without any ads and in high definition!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "A powerful and easy to use cross platform installer creation tool.",
 		"description": "Description for BitRock."
@@ -126,6 +134,14 @@
 	"partners.partner.wikijs": {
 		"message": "The most powerful and extensible open source Wiki software.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "A unified, developer friendly interface for all of your artifacts.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Behind the best of the web.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Apply for partner",

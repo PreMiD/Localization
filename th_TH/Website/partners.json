@@ -1,27 +1,91 @@
 {
 	"partners.header.title": {
-		"message": "พาร์ทเนอร์",
+		"message": "ผู้ร่วมมือ",
 		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "เข้าร่วมกับพวกเราและรับสิทธิพิเศษเฉพาะพาร์ทเนอร์ที่เอาไว้โชว์ว่าคุณเจ๋งแค่ไหน",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "ทีมที่ได้เข้าร่วมกับเราแล้ว",
+		"description": "Description for slideshow."
+	},
+	"partners.why.benefit1.title": {
+		"message": "รับ Presence ฟรี",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "ทีมของเราจะนำเสนอ Presence ที่เหมาะกับคุณ",
+		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
 		"message": "ได้รับการยืนยันแล้ว",
 		"description": "Heading for the second benefit."
 	},
+	"partners.why.benefit2.description": {
+		"message": "บทบาทพิเศษในเซิร์ฟเวอร์ Discord จะถูกมอบให้กับคุณ",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "ใช้ Presence โดยอัตโนมัติเมื่อมีคนเข้าชมเว็บไซต์ของคุณ",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "กลายเป็นคนดัง",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "ได้ถูกกล่าวถึงบน Social Media ของเรา",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "ความต้องการ",
 		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "เราต้องการมองหาอะไร?",
+		"description": "Heading for the first requirement."
 	},
 	"partners.apply.button": {
 		"message": "สมัครตอนนี้!",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.jobs": {
+		"message": "ถ้าคุณสนใจในการสมัครงานโดยตรงกับ PreMiD กรุณาดูที่ **การประกาศรับสมัครงาน**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "ผู้สนับสนุน",
 		"description": "Heading for sponsors."
 	},
+	"partners.sponsors.description": {
+		"message": "PreMiD จะเกิดขึ้นไม่ได้เลย หากขาดผู้คนที่น่ารักเหล่านี้",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "นี่แหละวิธีการดูอนิเมะของคุณ",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings คือ PvP Arena แห่งอนาคตที่สามารถเล่นได้ผ่านเบราว์เซอร์ของคุณ",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.apply.title": {
+		"message": "ลงทะเบียนเป็นพาร์ทเนอร์",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "เข้าสู่ระบบในนาม {0}",
+		"description": "{0} will be replaced with user account."
+	},
 	"partners.apply.notYou": {
 		"message": "ไม่ใช่คุณหรอ?",
 		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "โปรดเลือกหนึ่งรายการ",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
 		"message": "เว็บไซต์",
@@ -30,6 +94,10 @@
 	"partners.apply.select.other": {
 		"message": "อื่นๆ",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "ชื่อ",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "ตัวอย่าง: PreMiD",
@@ -58,5 +126,29 @@
 	"partners.apply.form.button.close": {
 		"message": "ปิด",
 		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "ลงทะเบียน",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "ขอบคุณที่มาร่วมกับเรา!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "กรุณากรอกข้อมูลให้ครบ",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "คำอธิบายความยาวไม่เกิน 150 ตัวอักษร",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "กรุณาเพิ่มลิ้งก์ (ต้องเริ่มด้วย https:// และลงท้ายด้วย .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "คุณได้สมัครเป็นพาร์ทเนอร์กับเราแล้ว",
+		"description": "Error when already applied."
 	}
 }

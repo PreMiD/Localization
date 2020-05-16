@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "阅读推文：",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "查看私信中",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "查看以下推文：",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "查看包括回复的推文：",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "观看视频：",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "查看喜欢的人：",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "查看列表：",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "收藏夹",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "通知",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "探索",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "更改一些设置...",
+        "description": ""
+    }
+}

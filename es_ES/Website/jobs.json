@@ -11,6 +11,10 @@
 		"message": "Siguiente",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Unete",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Cancelar",
 		"description": "Cancel, button in the modal."
@@ -23,13 +27,17 @@
 		"message": "PreMiD es un proyecto de código abierto, lo que significa que somos un equipo sin ánimo de lucro, cada donativo o patreon se vuelve al producto. Al solicitar un puesto de trabajo en PreMiD usted reconoce que usted es voluntario en el equipo, no se le pagará por su trabajo.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Únete a nuestro Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Para poder aplicar debes haber entrado a nuestro servidor de Discord. De lo contrario, no podremos contestar si terminas siendo seleccionado!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Trabaja para PreMiD",
 		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "¿Estás listo para ayudar a la mayor biblioteca de Rich-Presence?",
-		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Puestos de Trabajo",
@@ -67,10 +75,6 @@
 		"message": "Apoya PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "Con tu contribución es posible ejecutar este proyecto.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Tiempo de espera",
 		"description": "Benefit card title."
@@ -82,10 +86,6 @@
 	"jobs.benefit6.title": {
 		"message": "Acceso Temprano",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Poder probar nuevas funciones antes que nadie.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "¡Gracias por aplicarte!",

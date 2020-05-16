@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTNEŘI",
+		"message": "Partneři",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "A co třeba jít do nebe místo pekla?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "Vaše bezplatná přítomnost",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Náš tým vám poskytne přítomnost vaší webové služby.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Staňte se ověřený",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Integrace meta-tagu",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automaticky povolí vaši Presence, když někdo navštíví váš web.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Buď nesmrtelný",
@@ -51,24 +39,24 @@
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "Budete sdílení na naších sociálních mediích.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
-		"message": "POŽADAVKY",
+		"message": "Požadavky",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Co přesně hledáme?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Sledujeme rostoucí komunity a vzrušující věci kolem internetu. TL;DR byste již měli používat PreMiD a být připraveni ho šířit do ještě více internetových svobod. Přijímání do programu je velmi kvalitativní a v jednotlivých kandidátech se bude lišit.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Naše firewall",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 3 aktivní diváky. Musíte streamovat alespoň 1 krát týdně.",
+		"message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 10 aktivní diváky. Musíte streamovat alespoň 1 krát týdně.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -78,10 +66,6 @@
 	"partners.apply.disclaimer": {
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONZOR",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
@@ -103,6 +87,14 @@
 		"message": "Platforma s plusy pro hráče.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio je nejúspěšnější infotainment rádio pro simulační hry v Německu, Rakousku a Švýcarsku!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Získejte, co je oprávněné. Stream Anime, filmy, Hentai, Speciály a další. Zdarma, bez reklam a ve vysoké definici!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
 		"description": "Description for BitRock."
@@ -115,6 +107,38 @@
 		"message": "Agile lokalizace pro technologické společnosti.",
 		"description": "Description for Crowdin."
 	},
+	"partners.partner.wikijs": {
+		"message": "Nejvýkonnější a nejrozšířenější open source Wiki software.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Propojené, vývojářům otevřené rozhraní pro všechny vaše výtvory.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Za tím nejlepším z webu.",
+		"description": "Description for Fastly."
+	},
+	"partners.apply.title": {
+		"message": "Požádat o partnera",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Přihlášen jako {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Nejste to vy?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Vyberte prosím jednu",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Webová stránka",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Ostatní",
 		"description": "Select 'Other' category."
@@ -122,5 +146,61 @@
 	"partners.apply.form.name": {
 		"message": "Jméno",
 		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Příklad: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Odkaz",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Příklad: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Popis: (maximálně 150 znaků)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Popis pro doporučené",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Odkaz na obrázek: (550x300, jen PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Příklad: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Zavřít",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Aplikovat",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Děkujeme vám za přihlášku!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Vyplňte prosím všechna pole.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maximálně 150 znaků.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Přidejte prosím odkaz (musí začínat https://// a končit .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "O partnera jste již požádali.",
+		"description": "Error when already applied."
 	}
 }

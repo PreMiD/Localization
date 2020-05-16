@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Смотрит страницу:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Документация",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Просматривает статус:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Главная страница",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Участники",
         "description": "A page name"
@@ -11,8 +27,24 @@
         "message": "Магазин",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Политика cookies",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Политика конфиденциальности",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Пользовательское соглашение",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Вики",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "О программе",
         "description": "A page name"
     },
     "premid.pageSysReq": {

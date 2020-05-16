@@ -1,23 +1,11 @@
 {
 	"partners.header.title": {
-		"message": "PARTNERE",
+		"message": "Partnere",
 		"description": "Heading for page."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Din gratis presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.requirements.title": {
-		"message": "KRAV",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Hva ser vi etter?",
 		"description": "Heading for the first requirement."
-	},
-	"partners.sponsors.title": {
-		"message": "SPONSORER",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",

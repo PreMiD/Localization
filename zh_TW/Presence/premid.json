@@ -22,5 +22,9 @@
     "premid.pageStart": {
         "message": "開始使用",
         "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
     }
 }

@@ -3,10 +3,6 @@
 		"message": "Língua",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "Pronto(a) para experimentar o PreMiD?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.message": {
 		"message": "Junta-te a {0} usuários hoje!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -19,6 +15,10 @@
 		"message": "Parceiros",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Siga-nos",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "Desenvolvedores",
 		"description": "Developer section"
@@ -29,7 +29,7 @@
 	},
 	"footer.developers.richpresence": {
 		"message": "Rich Presence",
-		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Apoia-nos",

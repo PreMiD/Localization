@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "المشاركين",
+		"message": "الشركاء",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "ماذا عن الذهاب إلى الجنة بدلا من الجحيم؟",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "presence المجاني الخاص بك",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "سيقوم فريقنا بتزويدك presence لخدمة الويب الخاصة بك.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "كن مُحققًا",
 		"description": "Heading for the second benefit."
@@ -35,10 +27,6 @@
 		"message": "تكامل الوسوم الوصفية",
 		"description": "Heading for the third benefit."
 	},
-	"partners.why.benefit3.description": {
-		"message": "تمكين الpresence الخاص بك تلقائياً عندما يقوم شخص بزيارة موقعك.",
-		"description": "Description for the third benefit."
-	},
 	"partners.why.benefit4.title": {
 		"message": "كن خالدا",
 		"description": "Heading for the fourth benefit."
@@ -50,14 +38,6 @@
 	"partners.why.benefit5.title": {
 		"message": "كن مشهوراً",
 		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "مميز على مواقع تواصلنا.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "المتطلبات",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "ما الذي نبحث عنه؟",
@@ -72,7 +52,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "نحن حاليا نقبل أنواعا مختلفة من الجهد في برنامجنا للشراكة. أي شخص ينبغي أن تتاح له الفرصة لأن يلاحظ. يجب أن يكون لمذيعي تويتش 500 تابع على الأقل و 3 مشاهدين متزامنين على الأقل. يجب أن تبث مرة واحدة على الأقل في الأسبوع.",
+		"message": "نحن حاليا نقبل أنواعا مختلفة من الجهد في برنامجنا للشراكة. أي شخص ينبغي أن تتاح له الفرصة لأن يلاحظ. يجب أن يكون لمذيعي تويتش 500 تابع على الأقل و 10 مشاهدين متزامنين على الأقل. يجب أن تبث مرة واحدة على الأقل في الأسبوع.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -82,14 +62,6 @@
 	"partners.apply.disclaimer": {
 		"message": "دعونا نذهب إلى السماء معاً!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "إذا كنت مهتما بوظيفة مباشرة في بريميد، إذن ألقي نظرة على **إعلاننا عن العمل**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "الداعمين",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD لن يكون ممكناً، بدون هؤلاء الناس المذهلين.",

@@ -3,10 +3,6 @@
 		"message": "Idioma",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "¿Listo para probar PreMiD?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.message": {
 		"message": "¡Únete a {0} usuarios hoy!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -19,6 +15,10 @@
 		"message": "Socios",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Síguenos",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "Desarrolladores",
 		"description": "Developer section"
@@ -28,8 +28,8 @@
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "Rich Presence",
-		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+		"message": "Presencia Enriquecida",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Apóyanos",
@@ -50,10 +50,6 @@
 	"footer.supportus.translate": {
 		"message": "Traducir",
 		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "¡Trabaja para nosotros!",
-		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Ayuda",
@@ -102,9 +98,5 @@
 	"footer.copyright.line2": {
 		"message": "Sitio web mantenido por {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	},
-	"footer.partners.more": {
-		"message": "Haz clic aquí para ver el resto de socios y patrocinadores.",
-		"description": "Button next to all listed partners on the footer."
 	}
 }

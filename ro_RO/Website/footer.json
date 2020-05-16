@@ -3,10 +3,6 @@
 		"message": "Limbă",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "Ești pregătit să încerci PreMiD?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.message": {
 		"message": "Alătură-te de peste {0} utilizatori astăzi!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -29,7 +25,7 @@
 	},
 	"footer.developers.richpresence": {
 		"message": "Prezență bogată",
-		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Susține-ne",

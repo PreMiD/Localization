@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "PARTNER",
+		"message": "Partner",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Aktiviert automatisch Deine Präsenz, wenn jemand Deine Website besucht.",
+		"message": "Aktiviert deine Präsenz automatisch, wenn jemand deine Website besucht.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -52,23 +52,27 @@
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.why.benefit5.description": {
-		"message": "Auf unseren sozialen Netzwerken ausgestellt werden.",
+		"message": "In sozialen Netzwerken bei uns vorgestellt werden.",
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "ANFORDERUNGEN",
+		"message": "Anforderungen",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Wonach suchen wir?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Wir halten Ausschau nach wachsenden Communities und aufregenden Dingen im Internet. TL; DR Sie sollten PreMiD bereits verwenden und bereit sein, es an noch mehr Internetfreaks weiterzugeben. Die Aufnahme in das Programm ist äußerst qualitativ und variiert von Kandidat zu Kandidat.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Unsere Firewall",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Wir nehmen zur Zeit verschiedene Anstrengungen in unser Partnerprogramm auf. Jeder sollte die Möglichkeit haben, beachtet zu werden. Twitch-Streamer sollten mindestens 500 Follower und mindestens 3 gleichzeitige Zuschauer haben. Du musst mindestens 1 Mal pro Woche streamen.",
+		"message": "Wir nehmen zur Zeit verschiedene Anstrengungen in unser Partnerprogramm auf. Jeder sollte die Möglichkeit haben, beachtet zu werden. Twitch-Streamer sollten mindestens 500 Follower und mindestens 10 gleichzeitige Zuschauer haben. Du musst mindestens 1 Mal pro Woche streamen.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -79,8 +83,12 @@
 		"message": "Lass uns gemeinsam in den Himmel gehen!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere ** Stellenanzeige ** an.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
-		"message": "SPONSOREN",
+		"message": "Sponsoren",
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
@@ -103,6 +111,14 @@
 		"message": "Die Verdienst-Plattform für Gamer.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio ist das erfolgreichste Infotainment-Radio für Simulationsspiele in Deutschland, Österreich und der Schweiz!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Holen Sie sich, was Ihnen rechtmäßig gehört. Streame Anime, Filme, Hentai, Specials und mehr. Kostenlos, ohne Werbung und in HD-Qualität!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "Ein leistungsstarkes und einfach zu bedienendes plattformübergreifendes Installations-Erstellungswerkzeug.",
 		"description": "Description for BitRock."
@@ -118,6 +134,14 @@
 	"partners.partner.wikijs": {
 		"message": "Die leistungsstärkste und erweiterbarste Open-Source-Wiki-Software.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Eine einheitliche, entwicklerfreundliche Oberfläche für alle deine Artefakte.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Hinter dem besten des Webs.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Partnerschaft anfragen",

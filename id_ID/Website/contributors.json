@@ -35,6 +35,14 @@
 		"message": "Perancang Web",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Pemelihara Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
+	},
+	"contributors.roles.engineer": {
+		"message": "Teknisi",
+		"description": "'Engineer' title for contributors and user pages."
+	},
 	"contributors.roles.graphicDesigner": {
 		"message": "Perancang Grafis",
 		"description": "'Graphic Designer' title for contributors and user pages."
@@ -79,12 +87,12 @@
 		"message": "Penerjemah",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Klik untuk menyalin ID pengguna.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID Pengguna disalin ke clipboard Anda!",
+	"contributors.cards.userIDCopied": {
+		"message": "ID user disalin!",
 		"description": "Notification after user ID was copied."
 	}
 }

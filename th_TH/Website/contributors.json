@@ -72,7 +72,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
-		"message": "ยืนยัน Presence ",
+		"message": "ผู้ตรวจสอบ Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
@@ -91,12 +91,12 @@
 		"message": "ผู้แปลภาษา",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "คลิกเพื่อคัดลอก User ID",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIdCopied": {
-		"message": "คัดลอก User ID ลงในคลิปบอร์ดเรียบร้อยแล้ว",
+	"contributors.cards.userIDCopied": {
+		"message": "คัดลอก User ID แล้ว!",
 		"description": "Notification after user ID was copied."
 	}
 }

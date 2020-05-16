@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Momentálně se zobrazuje reklama",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Prohlížení videí",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Prohlížení playlistů",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Prohlížení komunitních příspěvků",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanálu:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Čtení o kanálu:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Vyhledávání prostřednictvím kanálu: {0} pro:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Zobrazení co je populární",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Prohlížení",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "jejich předplatné",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "jejich knihovna",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "jejich historie",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "jejich nákupy",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Prohlížení historie jejich zpráv",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Nahrávám něco...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Zobrazení všech jejich playlistů",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Zobrazení jejich živých událostí",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Zobrazení jejich živého řídicího panelu",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Zobrazení zvukové knihovny",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Zobrazení jejich videí",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Úprava videa:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Zobrazení analýzy videa:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Zobrazení komentářů videa:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Zobrazení překladů videa:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Zobrazení jejich",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "Analytika kanálů",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentáře kanálu",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "překlady kanálů",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "Stránka umělce",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Zobrazení jejich živého řídicího panelu",
+        "description": ""
+    }
+}

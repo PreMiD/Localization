@@ -15,6 +15,10 @@
         "message": "Viki",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Quraşdırma",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Həll et",
         "description": "A page name"

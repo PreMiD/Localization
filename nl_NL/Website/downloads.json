@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "Tijd om jezelf aan iedereen te laten zien.",
+		"message": "Tijd om te gaan opscheppen.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Begin nu PreMiD te gebruiken en laat andere mensen zien wat je aan het doen bent, misschien vind je iemand met dezelfde interesses.",
+		"message": "Gebruik PreMiD nu en laat aan je vrienden zien wat je aan het doen bent, misschien vind je iemand met dezelfde interesses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -12,24 +12,28 @@
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "PreMiD downloaden.",
+		"message": "Download PreMiD",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Installeer de PreMiD applicatie.",
+		"message": "Installeer onze applicatie",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Installeer de extensie voor jouw browser.",
+		"message": "Voeg onze extensie toe aan je browser",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Ga naar de {0} pagina en controleer of de extensie is aangesloten.",
-		"description": "{0} will be replaced by 'store' string translation"
+		"message": "Herlaad deze site en controleer of de extensie is aangesloten",
+		"description": "I think you get what this is..."
 	},
-	"downloads.instructions.step_4_store": {
-		"message": "winkel",
-		"description": "Be sure that you understand the context! This string will be included in `downloads.instructions.step_4` instead of {0}"
+	"downloads.instructions.footer": {
+		"message": "Nog steeds problemen? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "We zijn er om je te helpen!",
+		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
 		"message": "Applicatie",
@@ -40,7 +44,7 @@
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
-		"message": "WAARSCHUWING:",
+		"message": "Waarschuwing:",
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
@@ -48,7 +52,7 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "Wees er alstublieft van bewust dat PreMiD momenteel niet wordt ondersteund op mobiele apparaten.",
+		"message": "Wees er alstublieft van bewust dat PreMiD niet wordt ondersteund op mobiele apparaten.",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
@@ -60,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Huidige versie van dit platform is {0} (deze versie is specifiek voor Linux en is niet van toepassing op andere systemen).",
+		"message": "Huidige versie van dit platform is {0} (deze versie is specifiek voor Linux en is niet van toepassing op andere platformen).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -76,11 +80,59 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Je kunt **hier** gratis deelnemen aan ons bèta-programma. Schiet op! We hebben nog maar {0} slots beschikbaar (van de 200)",
+		"message": "Je kunt **hier** gratis deelnemen aan ons bèta-programma. Schiet op! We hebben nog maar {0} slots beschikbaar",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Laatste releases",
+		"message": "Vroegtijdige Releases",
 		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Waarschuwing",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.edge": {
+		"message": "Vergeet niet om 'Extensies van andere winkels toestaan' optie in te schakelen in de extensie instellingen.",
+		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+	},
+	"downloads.warning.message.opera": {
+		"message": "U moet **deze** extensie installeren om PreMiD te installeren van Chrome Webstore.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Sla over",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Terug",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "Annuleren",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Oké",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Klaar",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "Login",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Bedankt!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "We gebruiken advertenties om ons team te ondersteunen en onze servers te onderhouden om je de beste gebruikerservaring te bieden!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Schakel uw adblock alstublieft uit.",
+		"description": "Message next to pepe."
 	}
 }

@@ -15,13 +15,13 @@
 		"message": "Vytvořeno {0} přítomností.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
-	"user.switch.contributed": {
-		"message": "Uživatel [předvolby/příspěvky]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	"user.geniusPresenceDev.message1": {
+		"message": "Geniální Vývojář Přítomností",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
-	"user.presences.created": {
-		"message": "Klikněte zde pro zobrazení přítomností, které tento uživatel vytvořil.",
-		"description": "Tippy content in user profile."
+	"user.geniusPresenceDev.message2": {
+		"message": "Vytvořeno {0} přítomností!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.presences.contributed": {
 		"message": "Kliknutím zde zobrazíte přítomnosti, k nimž tento uživatel přispěl.",

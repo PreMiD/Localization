@@ -27,8 +27,28 @@
         "message": "チャンネル {0} 内の検索中:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.subscriptions": {
+        "message": "登録チャンネル",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "ライブラリ",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.history": {
         "message": "履歴",
         "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "購入済み",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "報告履歴を閲覧中",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "再生リストを閲覧中",
+        "description": ""
     }
 }

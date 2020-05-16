@@ -24,11 +24,11 @@
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "Użytkownik [statusy/wkłady]",
+		"message": "Użytkownik [Presence/wkład]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Kliknij tutaj, aby wyświetlić statusy, które użytkownik utworzył.",
+		"message": "Kliknij tutaj, aby wyświetlić statusy Presence utworzone przez tego użytkownika.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {

@@ -11,6 +11,10 @@
 		"message": "Next",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Join",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Cancel",
 		"description": "Cancel, button in the modal."
@@ -23,12 +27,20 @@
 		"message": "PreMiD is an open-source project, meaning we are a non-profit team, every donation or patreon money goes back into the product. By applying for a job position at PreMiD you acknowledge that you are volunteering in the team, you will not be payed for your work.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Join our Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "To be able to apply you must have joined our Discord server. Otherwise we won't be able to contant you if you end up beaing selected!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Work for PreMiD",
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Are you ready to help out the biggest Rich-Presence library?",
+		"message": "Are you ready to help out the biggest Rich-Presence program?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
@@ -68,7 +80,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "With your contribution it is possible to run this project.",
+		"message": "With your contribution it's possible to run this project.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
@@ -84,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Be able to test new features before anyone else.",
+		"message": "Test new features before anyone else.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {

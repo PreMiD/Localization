@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "Atualmente a ver um anúncio",
+        "message": "Actualmente a ver um anúncio",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -79,6 +79,10 @@
         "message": "Editando vídeo:",
         "description": ""
     },
+    "youtube.studio.videoAnalytics": {
+        "message": "A ver as estatísticas do vídeo:",
+        "description": ""
+    },
     "youtube.studio.videoComments": {
         "message": "A ver comentários do vídeo:",
         "description": ""
@@ -90,6 +94,10 @@
     "youtube.studio.viewTheir": {
         "message": "A ver os(as) seus(suas)",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "estatísticas do canal",
+        "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
         "message": "comentários do canal",

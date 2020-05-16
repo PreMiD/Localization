@@ -39,12 +39,8 @@
 		"message": "Phiên dịch viên",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Bấm vào để copy ID người dùng.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID người dùng đã được copy!",
-		"description": "Notification after user ID was copied."
 	}
 }

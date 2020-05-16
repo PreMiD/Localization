@@ -91,12 +91,8 @@
 		"message": "翻译",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "单击以复制用户ID。",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "用户ID已复制到剪贴板！",
-		"description": "Notification after user ID was copied."
 	}
 }

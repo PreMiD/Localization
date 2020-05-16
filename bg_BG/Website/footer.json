@@ -3,10 +3,6 @@
 		"message": "език",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "Готови ли сте да опитате PreMiD?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.button": {
 		"message": "Инсталирай",
 		"description": "Install button under the promotional message"
@@ -25,7 +21,7 @@
 	},
 	"footer.developers.richpresence": {
 		"message": "Богато присъствие",
-		"description": "Rich Presence -> redirects to discordapp.com/rich-presence"
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Подкрепи ни",
@@ -46,10 +42,6 @@
 	"footer.supportus.translate": {
 		"message": "Превеждам",
 		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "Работете за нас!",
-		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Помогне",

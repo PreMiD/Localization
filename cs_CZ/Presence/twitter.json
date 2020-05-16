@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Čtení tweetu:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "Prohlížení jejich přímých zpráv",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Zobrazení tweetů:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Zobrazení tweetů (s odpověďmi):",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Zobrazení médií:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Zobrazení se líbí:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Seznam zobrazení:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Záložky",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Oznámení",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Prozkoumat",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Změna nastavení...",
+        "description": ""
+    }
+}

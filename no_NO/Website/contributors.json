@@ -4,11 +4,11 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Tilhengere",
+		"message": "Støttere",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "Oversettere/Tolker",
+		"message": "Oversettere/Tolkere",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.creator": {
@@ -35,12 +35,8 @@
 		"message": "Oversetter",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserId": {
+	"contributors.cards.copyUserID": {
 		"message": "Klikk for å kopiere brukeren sin ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Brukeren sin ID har blitt kopiert til utklippstavlen!",
-		"description": "Notification after user ID was copied."
 	}
 }

@@ -7,6 +7,26 @@
         "message": "กำลังดู DMs ของพวกเขา",
         "description": ""
     },
+    "twitter.viewTweets": {
+        "message": "กำลังดูทวีตของ :",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "กำลังดูทวีต (และการตอบกลับ) ของ :",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "กำลังดูสื่อของ :",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "กำลังดูการถูกใจของ :",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "กำลังดูลิสต์ :",
+        "description": ""
+    },
     "twitter.bookmarks": {
         "message": "บุ๊คมาร์ค",
         "description": ""
@@ -17,6 +37,10 @@
     },
     "twitter.explore": {
         "message": "สำรวจ",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "กำลังเปลี่ยนการตั้งค่า...",
         "description": ""
     }
 }

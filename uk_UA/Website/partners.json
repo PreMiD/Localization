@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "ПАРТНЕРИ",
+		"message": "Партнери",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,14 +15,6 @@
 		"message": "Як щодо того, щоб потрапити на рай замість пекла?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "Ваша безкоштовна присутність",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Наша команда надасть вам присутність вашого веб-сервісу.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Станьте перевіреним",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Інтеграція з мета-тегами",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Автоматично вмикає Присутність під час відвідування вашого сайту.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Відокремте",
@@ -51,12 +39,8 @@
 		"message": "Будь відомим",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "Рекомендовано нашими соціальними мережами.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
-		"message": "ВИМОГИ",
+		"message": "Вимоги",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -72,7 +56,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "В даний час ми приймаємо різні зусилля щодо нашої програми партнерства. Будь-хто повинен мати можливість бути помічений. Стрімери Twitch повинні мати принаймні 500 послідовників і принаймні 3-ох одночасних глядачів. Ви повинні транслювати принаймні 1 раз на тиждень.",
+		"message": "В даний час ми приймаємо різні зусилля щодо нашої програми партнерства. Будь-хто повинен мати можливість бути помічений. Стрімери Twitch повинні мати принаймні 500 послідовників і принаймні 10-ох одночасних глядачів. Ви повинні транслювати принаймні 1 раз на тиждень.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -82,14 +66,6 @@
 	"partners.apply.disclaimer": {
 		"message": "Ходімо до раю разом!",
 		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте нашу рекламу про роботу**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "СПОНСОРИ",
-		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD не став би можливим без цих дивовижних людей.",
@@ -110,6 +86,14 @@
 	"partners.partner.iLoot": {
 		"message": "Ігрова платформа для заробітку.",
 		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio — це найуспішніше інформаційне радіо для ігор у жанрі симуляції в Німеччині, Австрії та Швейцарії!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Отримайте що справедливо для вас. Потокове Аніме, Фільми, Гентай, Особливе та багато іншого. Безкоштовно, без рекламних оголошень і у високій роздільній здатності!",
+		"description": "Description for AniWatch."
 	},
 	"partners.partner.bitRock": {
 		"message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача.",

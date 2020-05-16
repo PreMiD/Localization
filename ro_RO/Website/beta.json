@@ -1,42 +1,42 @@
 {
-  "beta.title": {
-    "message": "Vrei funcționalități noi?",
-    "description": "Beta page title"
-  },
-  "beta.description.1": {
-    "message": "**PreMiD Beta** este acum disponibil pentru toată lumea!",
-    "description": "Section description"
-  },
-  "beta.description.2": {
-    "message": "Ce vei obține dacă te înscrii?",
-    "description": "Section description"
-  },
-  "beta.features.1": {
-    "message": "Ultimele funcționalități",
-    "description": "Features list"
-  },
-  "beta.features.2": {
-    "message": "Acces la canalele text super secrete ale PreMiD",
-    "description": "Features list"
-  },
-  "beta.features.3": {
-    "message": "Un rol special pe serverul nostru de Discord",
-    "description": "Features list"
-  },
-  "beta.register.text": {
-    "message": "Ești pregătit? Alătură-te celorlalți {0} Beta Testeri!",
-    "description": "{0} will be replaced with the beta testers count -> is a variable"
-  },
-  "beta.register.button": {
-    "message": "Inregistrează-te acum!",
-    "description": "Sign up button text"
-  },
-  "thankyou.title": {
-    "message": "Super! Ești utilizator beta!",
-    "description": "Thank You page title"
-  },
-  "thankyou.description": {
-    "message": "Maimuțele noastre lucrează ca tu să intrii în programul nostru cât mai repede posibil. Îți mulțumim pentru înregistrare!",
-    "description": "Thank You page description"
-  }
+	"beta.title": {
+		"message": "Vrei funcționalități noi?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** este acum disponibil pentru toată lumea!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Ce vei obține dacă te înscrii?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Ultimele funcționalități",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Acces la canalele text super secrete ale PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Un rol special pe serverul nostru de Discord",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Ești pregătit? Alătură-te celorlalți {0} Beta Testeri!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Inregistrează-te acum!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Super! Ești utilizator beta!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Maimuțele noastre lucrează ca tu să intrii în programul nostru cât mai repede posibil. Îți mulțumim pentru înregistrare!",
+		"description": "Thank You page description"
+	}
 }

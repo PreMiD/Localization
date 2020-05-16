@@ -15,14 +15,6 @@
 		"message": "Създадени {0} присъствия.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
-	"user.switch.contributed": {
-		"message": "Потребител [присъства / вноски]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "Кликнете тук, за да покажете присъстващите, които този потребител е създал.",
-		"description": "Tippy content in user profile."
-	},
 	"user.presences.contributed": {
 		"message": "Кликнете тук, за да покажете присъстващите, които този потребител е създал.",
 		"description": "Tippy content (mode 2) in user profile."

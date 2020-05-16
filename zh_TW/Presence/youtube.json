@@ -1,1 +1,34 @@
-{}
+{
+    "youtube.ad": {
+        "message": "正在看廣告",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "遊覽影片中",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "遊覽播放清單中",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "正在看社群貼文",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "的頻道",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.browsingThrough": {
+        "message": "遊覽中",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.history": {
+        "message": "他們的記錄",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "藝人專頁",
+        "description": "Part two of \"Viewing their\""
+    }
+}

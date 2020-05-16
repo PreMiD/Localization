@@ -27,10 +27,6 @@
 		"message": "Darbas „PreMiD“",
 		"description": "First part of the jobs page."
 	},
-	"jobs.header.description": {
-		"message": "Ar esate pasirengęs padėti didžiausiai Rich Presence bibliotekai?",
-		"description": "The second part of the jobs page."
-	},
 	"jobs.openings.title": {
 		"message": "Darbo vietos",
 		"description": "Text before the available job positions cards."
@@ -67,10 +63,6 @@
 		"message": "Palaikykite PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "Su jūsų indėliu galima vykdyti šį projektą.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Laikas baigėsi",
 		"description": "Benefit card title."
@@ -82,10 +74,6 @@
 	"jobs.benefit6.title": {
 		"message": "Ankstyvas priėjimas",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Galėkite išbandyti naujas funkcijas prieš nieką kitą.",
-		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Ačiū, kad kreipėtės!",
