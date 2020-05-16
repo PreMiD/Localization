@@ -81,7 +81,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>מחבר</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. השם שלך בדיסקורד בלי מזהה (#0000) לדוגמא. User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
@@ -91,7 +91,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>תורמים</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. השם שלך בדיסקורד בלי מזהה (#0000) לדוגמא. User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
@@ -99,7 +99,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>שירות</b>
       </td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code>
@@ -110,8 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>תיאור</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+      <td style="text-align:left">תיאור קטן של הנוכחות, אתה יכול להשתמש בתיאור של השירות אם אתה חסר רעיונות. Your description must have key pair values which indicate the language, and the description in that specific language. תעשה תיאורים בלי השפות שאתה יודע, המתרגמים שלנו יעשו את השינויים לקובץ שלך. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -289,15 +288,15 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## Presence categories
+## קטגוריות נוכחות
 
 When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">קטגוריה</th>
+      <th style="text-align:left">שם</th>
       <th style="text-align:left">תיאור</th>
     </tr>
   </thead>
@@ -305,25 +304,25 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>אנימה</b></td>
       <td style="text-align:left"><b>אנימה</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">כל דבר שקשור לאנימה, מהפורומים לשידור לייבים בפלטפורמות.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>משחקים</b></td>
     <td style="text-align:left"><b>משחקים</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">כל אתר שיש בו משחק שקשור לתוכן, כמו קהוט או סקריבל</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>מוזיקה</b></td>
     <td style="text-align:left"><b>מוזיקה</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">האתר האלה מציעים מוזיקה שקשורה לתוכן, או כאלה שאפשר לשדר אותם או להורדה.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>חברתי</b></td>
         <td style="text-align:left"><b>חברתי</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">אתרים שמשתמשים לכוונה של יצירת או שיתוף תוכן או בשביל להשתתף בצורות אחרות של חברתיות.</td>
       </td>
     </tr>
     <tr>
