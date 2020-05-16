@@ -21,7 +21,7 @@ Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkowni
 > 
 > {.is-warning}
 
-Kiedy publikujesz statusy do tego GitHuba, wymagamy przestrzegania zbioru wytycznych. Dla niektórych te surowe zasady mogą wydawać się surowe. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Kiedy publikujesz statusy do tego GitHuba, wymagamy przestrzegania zbioru wytycznych. Dla niektórych te surowe zasady mogą wydawać się surowe. Jednak wdrożenie tych zestawów reguł powstrzyma nas i użytkowników od problemów.
 
 ## Tworzenie
 > Kod, który zapisałeś MUSI być *dobrze napisany* i *czytelny*. `DeepScan` na GitHub zgłosi problemy z jakością kodu do `Zespołu Weryfikacji Prezentacji`. Zalecamy, aby Twój fork był aktualny podczas pobierania żądań, pomoże to ograniczyć fałszywe dodatnie. 
