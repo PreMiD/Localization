@@ -96,7 +96,7 @@
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIDCopied": {
-		"message": "Kullanıcı IDsi kopyalandı!",
+		"message": "Kullanıcı ID'si kopyalandı!",
 		"description": "Notification after user ID was copied."
 	}
 }
