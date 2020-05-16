@@ -28,7 +28,7 @@
 		"description": "User needs to input more notification"
 	},
 	"report.toomany": {
-		"message": "You have too many active reports",
+		"message": "You have too many active reports.",
 		"description": "User has too many active reports"
 	}
 }
