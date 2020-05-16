@@ -15,6 +15,14 @@
 		"message": "Cehennem yerine cennete gitmeye ne dersiniz?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Ücretsiz Servis'iniz",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Ekibimiz sizin projenize özel bir Servis hazırlayacak.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Onaylı olun",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Meta etiket entegrasyonu",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Bir kullanıcı sizin sitenizi ziyaret ettiğinde otomatik olarak sizin servisinizi çalıştırır.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Ölümsüz olun",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Ünlü olun",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Sosyal medya hesaplarımızda öne çıkın.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Gereksinimler",
@@ -66,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "Hadi birlikte cennete gidelim!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Eğer PreMiD'de bir iş arıyorsanız, **iş sayfamıza** göz atın.",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "Sponsorlar",

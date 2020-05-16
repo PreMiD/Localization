@@ -80,7 +80,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Site Dili",
+		"message": "Site dili",
 		"description": "Tippy content of the language selector."
 	}
 }
