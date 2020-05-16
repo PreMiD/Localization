@@ -54,9 +54,5 @@
   "header.logout": {
     "message": "Logout",
     "description": "Logout button"
-  },
-  "header.dashboard": {
-    "message": "Dashboard",
-    "description": "Dashboard button"
   }
 }
