@@ -7,6 +7,10 @@
 		"message": "{count}/3 Reports left",
 		"description": "Amount of bug reports user can send"
 	},
+	"report.info": {
+		"message": "Reporting bugs are for bugs within the PreMiD site and the PreMiD Discord Server. Bugs for a presence are to be reported to the creator of the presence. Only report bugs in English.",
+		"description": "Tells the user about submitting a bug"
+	},
     "report.overview": {
 		"message": "Brief Overview",
 		"description": "Text for the user to write a breif of the bug information."
@@ -19,6 +23,10 @@
 		"message": "Report",
 		"description": "Button to send the information inputed."
 	},
+	"report.toomany": {
+		"message": "You have too many active reports.",
+		"description": "User has too many active reports"
+	},
 	"report.success": {
 		"message": "Bug Submitted",
 		"description": "Success notification"
@@ -27,8 +35,8 @@
 		"message": "More Info required",
 		"description": "User needs to input more notification"
 	},
-	"report.toomany": {
-		"message": "You have too many active reports.",
-		"description": "User has too many active reports"
+	"report.activebugs":{
+		"message": "Active Bugs",
+		"description": "Lists users active bugs"
 	}
 }
