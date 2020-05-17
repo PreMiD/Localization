@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-05-17T00:54:47.699Z
+date: 2020-05-17T14:23:17.252Z
 tags:
 ---
 
@@ -133,19 +133,20 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 });
 ```
 
-17. When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
-18. The version in your metadata **MUST** start with `1.0.0` unless specified, any other version will **NOT** be permitted.
+17.  When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork before making a Pull Request.
+18. If your Presence is new, it **MUST** start with version `1.0.0`, any other version will **NOT** be permitted.
 19. Low-quality Presences ( or ones with one context ) are **NOT** allowed ( e.g., only showing the logo and some text but never changing again ).
 20. **NE JAMAIS** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos présences, vous êtes libre d'utiliser tout ce dont vous avez besoin si vous ne les trouvez pas dans la documentation.
 21. Déclarez le "const" de la présence **AVANT** tout pour éviter des problèmes aussi rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc il pourrait être supprimé dans le futur.
 22. Presences that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
 23. Il est **INTERDIT** de coder des présences pour un site sans ajouter de support à sa langue principale (ex : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même).
-24. You **MUST** compile all `TypeScript` files in your presence before making a pull request.
+24. Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), qui se traduit par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ENORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Autre chose comme `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` ou changement de `1.0.0` à `2.0.` sur une correction de bug/petit changement n'est **PAS autorisé**.
 25. Declare the presence variable before anything, ( can cause some users issues that can be prevented ).
 26. Do **NOT** edit the `tsconfig.json` file, use exactly what is specified on the [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
 27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
 28. All presences **MUST**  include an English description, including websites that aren't natively English.
-
+29. Presences for the Tor network's websites (.ONION TLDs) are **NOT** allowed at all.
+30. Always make sure to start your Presence in the most appropriate folder, if its name starts with any Latin letter then it must be under its alphabetical match ( e.g. `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **MUST** be under the "#" folder ( e.g. `#/巴哈姆特` ) and numbers under the "0-9" folder ( e.g. `0-9/4anime` ).
 
 Après avoir respecté toutes les directives et que votre présence ai été examinée au moins deux fois, votre présence sera fusionnée avec le store.
 
