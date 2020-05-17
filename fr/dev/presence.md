@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-05-09T14:26:01.832Z
+date: 2020-05-17T00:54:47.699Z
 tags:
 ---
 
@@ -58,7 +58,7 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - La présence **DOIT** être liée au site Web que vous avez choisi.
 - La présence **NE DOIT PAS** être de sites illégaux. Celles-ci incluent des stress, des drogues, du porn infantile, etc.
 - Les métadonnées de présence **DOIVENT** avoir un contenu bien écrit, y compris des titres valides, et des descriptions.
-- Le média que vous incluez (icône/vignette) **DOIT** être lié au site web et doit être compréhensible en termes de taille et de qualité.
+- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
 - La structure de fichier **DOIT** être propre et gérée, n'ayez **PAS** des fichiers aléatoires qui ne fournissent rien à la fonction de Presence.
 - La présence **NE DOIT PAS** avoir d'intentions malveillantes. Celles-ci incluent le vol ou la fuite d'informations privées, affectant négativement le comportement du site, etc.
 - Si vous concevez une Presence pour un site qui change dans le futur et en conséquence, potentiellement cassant votre Présence, vous **êtes** responsable de la mise à jour de votre Présence. Si vous **ne le corrigez pas** dans les 7 jours, d'autres développeurs de présence sont autorisés à **réécrire** votre présence pour se conformer aux changements.
@@ -66,7 +66,7 @@ Avant de commencer à travailler sur votre présence, gardez à l'esprit la list
 - Votre présence **DOIT** avoir des images et des descriptions SFW, qu'elles soient NSFW ou non. Si votre Presence concerne un site NSFW, veuillez ajouter la balise `nsfw` à vos métadonnées.
 - Votre présence **NE PEUT PAS** manipuler le stockage local sur le navigateur.
 - Votre Presence peut utiliser des cookies pour stocker des données, vous devez tous les préfixer avec `pmd_`.
-- Le nom de votre Presence **DOIT** être le nom du dossier de votre Presence. Par exemple, une présence nommée `Google Docs` doit avoir comme dossier `/Google Docs/`. (vous devez inclure tous les espaces, points, virgules et autres caractères spéciaux)
+- Le nom de votre Presence **DOIT** être le nom du dossier de votre Presence. Par exemple, une présence nommée `Google Docs` doit avoir comme dossier `/Google Docs/`. ( Vous devez inclure tous les espaces, points, virgules et autres caractères spéciaux. )
 
 ## Modifications
 > Vous DEVEZ changer la version dans les **métadonnées** pour être une valeur plus élevée de la version précédente lorsque vous effectuez des modifications soit à **presence.ts**/**presence.js** ou **metadata.json**. 
@@ -78,10 +78,19 @@ Dans certaines situations, Presences peut se comporter de manière inattendue ou
 - Vous n'êtes **PAS** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un `Presence Verifier` pour voir si vous pouvez réécrire la présence de votre choix.
 - N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **PAS** d'apporter des modifications au code n'ayant **PAS** besoin d'être corrigé. Les modifications valides sont, mais ne doivent **PAS** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
 - Si vous apportez des modifications à une présence et modifiez au moins un **QUART** de la base de code de la présence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un `Vérificateur Presence` pour plus d'informations sur ce sujet.
-- Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
+- Assurez-vous que les modifications sont utiles. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Ne changez **PAS** les images si elles ne sont pas obsolètes et ont une résolution décente.
 - Confirmez que vos modifications fonctionnent avant de publier. **Ne créez pas de demandes d'ajout** sans connaître le résultat de vos modifications.
+- When you make changes to a presence, modify the `presence.ts` file and compile it, do not make changes to the `presence.js` file directly.
 
 # Vérification
+
+> ⚠️ **Warning**: Presence developers are now required to use `TypeScript`, the option for `JavaScript` presences has been completely removed. 
+> 
+> {.is-warning}
+
+> **Confirm** that your presence's [metadata](https://docs.premid.app/en/dev/presence/metadata) is valid and has all of the necessary fields before making a pull request. If your metadata contains an optional variable that is set to the default value, remove it ( Presence Verifiers will request you to remove them ). 
+> 
+> {.is-warning}
 
 > Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les `vérificateurs de Presence` auront un rôle unique sur leur profil.
 
@@ -89,20 +98,20 @@ Pour que votre présence rejoigne notre store, il **DOIT** passer par un process
 
 1. Il faut deux vérificateurs pour confirmer que votre présence répond aux normes. Si vous obtenez des demandes de modification, faites l'effort nécessaire pour le corriger, ou la présence ne sera **PAS** ajouté.
 2. Si nous vous demandons des modifications et que votre pull request dépasse **7 jours d'inactivité** sans faire les nécessaires nous serons forcés de le fermer.
-3. Vous êtes autorisé à prendre des captures d'écran des changements effectués avec l'aide d'un autre utilisateur, et vous êtes autorisé à assembler des captures d'écran pour un plaisir visuel. (par exemple, son auteur dans le cas où vous ne pouvez pas y accéder pour une raison quelconque).
+3. Vous êtes autorisé à prendre des captures d'écran des changements effectués avec l'aide d'un autre utilisateur, et vous êtes autorisé à assembler des captures d'écran pour un plaisir visuel. ( par exemple, son auteur dans le cas où vous ne pouvez pas y accéder pour une raison quelconque ).
 4. S'il s'agit d'une mise à jour ou d'un patch, la capture d'écran **DOIT** montrer les nouveaux ajouts qui fonctionnent, **pas** d'anciennes fonctionnalités des précédents pull requests.
 5. Les captures d'écran fournies doivent être réelles, **PAS** modifiées.
 6. Tout code contribué qui sera fusionné dans ce dépôt sera sous la licence **Mozilla Public License 2.0**.
-7. Présences pour des domaines ou des hôtes gratuits (par exemple, .TK, [tous les domaines libres de Freenom], .RF. D, etc) ne sont **PAS** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
+7. Presences for free domains or hosts ( e.g., .TK, [all free Freenom domains], .RF.GD, etc ) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
 8. Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme "playing"/"pause" pour les sites de vidéos, « navigation» pour des sites réguliers et d'autres cas) non pas pour pas promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 9. Les exigences pour les logos sont 1:1 (Carré) en 512px, par contre, les vignettes doit être [ soit comme une carte promotionnelle large](https://i.imgur.com/3QfIc5v.jpg) ou simplement [une capture d'écran](https://i.imgur.com/OAcBmwW.png) si la première **n'est pas** disponible.
 10. Les présences doivent avoir au moins un tag. Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
-11. Le champ `url` **NE DOIT PAS** inclure `http://` ou `https://`, ni les paramètres (par ex. une présence pour `https://www.google.com/search?gws_rd=ssl` n'aura que `www.google.com` dans le champ `url`).
+11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters ( e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field ).
 12. Les descriptions et les balises doivent toujours être dans un tableau, même s'il ne s'agit que d'un élément. Le champ `url` ne doit cependant être qu'une chaîne de caractères si c'est un domaine.
-13. Les tags doivent être utilisées comme noms alternatifs dans la mesure du possible, les versions abrégées doivent également être incluses (par ex : si une présence d'Amazon avait inclus le support AWS, il aurait des tags comme : "amazon-web-services" et "aws").
+13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well ( e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws" ).
 14. Les sites instables qui changent constamment les API/domaines, qui changent aléatoirement des éléments HTML ou simplement en cours de développement intensif ne sont pas autorisés et seront retirés du magasin.
 15. Le logo et la vignette de votre Presence **DOIVENT** être `i.imgur. om`, à partir d'un CDN que **VOUS** possédez, ou à partir d'un CDN qui vous donne la permission de **CHANGER** les images.
-16. Les vérificateurs vérifieront si la présence contient une fonction `__awaiter` au début du code (qui provient d'une version antérieure d'ECMAScript), si c'est dans Typescript ou Javascript, et en plus de cela, assurez-vous que l'événement `UpdateData` utilisé est similaire à ceci :
+16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code ( which comes from an earlier version of ECMAScript ), and in addition to that, make sure the `UpdateData` event used is similar to this:
 
 ```ts
 presence.on("UpdateData", async () => {
@@ -124,14 +133,19 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 });
 ```
 
-17. Quand **Deepscan** lance beaucoup d'erreurs (et il le fera), c'est surtout un problème avec votre branche qui n'est plus à jour, toujours mettre à jour votre "fork GitHub" lorsque vous faites des pull requests.
-18. Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), qui se traduit par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ENORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Autre chose comme `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` ou changement de `1.0.0` à `2.0.` sur une correction de bug/petit changement n'est **PAS autorisé**.
-19. Les présences de faible qualité (ou celles n'ayant qu'un seul contexte) ne sont **PAS** autorisées (par ex : Afficher uniquement le logo et du texte mais ne plus jamais changer).
+17. When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
+18. The version in your metadata **MUST** start with `1.0.0` unless specified, any other version will **NOT** be permitted.
+19. Low-quality Presences ( or ones with one context ) are **NOT** allowed ( e.g., only showing the logo and some text but never changing again ).
 20. **NE JAMAIS** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos présences, vous êtes libre d'utiliser tout ce dont vous avez besoin si vous ne les trouvez pas dans la documentation.
-21. Il n'est **PAS** recommandé d'utiliser des commentaires sur les présences Javascript sauf si nécessaire (Pas de problème pour les fichiers TypeScript ou leurs fichiers compilés), car il réduit la lisibilité du code et augmente la taille des fichiers.
-22. Déclarez le "const" de la présence **AVANT** tout pour éviter des problèmes aussi rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc il pourrait être supprimé dans le futur.
-23. Les présences qui ciblent les pages internes du navigateur (comme Chrome Web Store, `chrome://`, `à propos :` pages, etc) ne sont **PAS** autorisés car ils nécessitent un _drapeau expérimental_ pour être activés à la fin de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
-24. Il est **INTERDIT** de coder des présences pour un site sans ajouter de support à sa langue principale (ex : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même).
+21. Déclarez le "const" de la présence **AVANT** tout pour éviter des problèmes aussi rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc il pourrait être supprimé dans le futur.
+22. Presences that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
+23. Il est **INTERDIT** de coder des présences pour un site sans ajouter de support à sa langue principale (ex : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même).
+24. You **MUST** compile all `TypeScript` files in your presence before making a pull request.
+25. Declare the presence variable before anything, ( can cause some users issues that can be prevented ).
+26. Do **NOT** edit the `tsconfig.json` file, use exactly what is specified on the [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
+27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
+28. All presences **MUST**  include an English description, including websites that aren't natively English.
+
 
 Après avoir respecté toutes les directives et que votre présence ai été examinée au moins deux fois, votre présence sera fusionnée avec le store.
 
