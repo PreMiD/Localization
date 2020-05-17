@@ -15,6 +15,10 @@
         "message": "וויקי",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "התקנה",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "פתרון תקלות",
         "description": "A page name"
