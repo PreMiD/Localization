@@ -112,7 +112,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
-		"message": "Прочие",
+		"message": "Прочее",
 		"description": "Category name shown when you open tags"
 	}
 }
