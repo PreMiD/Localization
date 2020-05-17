@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-05-17T00:54:47.699Z
+date: 2020-05-17T14:23:17.252Z
 tags:
 ---
 
@@ -133,19 +133,20 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 });
 ```
 
-17. When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
-18. The version in your metadata **MUST** start with `1.0.0` unless specified, any other version will **NOT** be permitted.
+17.  When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork before making a Pull Request.
+18. If your Presence is new, it **MUST** start with version `1.0.0`, any other version will **NOT** be permitted.
 19. Low-quality Presences ( or ones with one context ) are **NOT** allowed ( e.g., only showing the logo and some text but never changing again ).
 20. **ASLA** [PreMiD'in içinde barındırdığı](https://docs.premid.app/dev/presence#files-explained) fonksiyonlarla yapılabilecek bir işlemi özel fonksiyonlar yazarak yaptırmaya çalışmayın. Belirtilen doküman sayfasında bulamadığınız herhangi bir fonksiyonu yazmakta özgürsünüz, ancak belirtilenlere ihtiyaç duyduğunuzda kendiniz yazamazsınız.
 21. Servisinizin değişkenini her şeyden **ÖNCE** belirleyin. Bu sayede çok nadir oluşabilecek hatalardan kurtulabilirsiniz; bu madde tasarımsal bir gereklilik olmadığı için ileride kaldırılabilir.
 22. Presences that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
 23. Servislere, yapıldığı internet sitesinin ana dilinin eklenmemesi **yasaktır**, mesela YouTube'un Türkçe ve İspanyolca kodlanması ancak İngilizce'yi desteklememesi gibi.
-24. You **MUST** compile all `TypeScript` files in your presence before making a pull request.
+24. Sürüm numaranızın her zaman [anlamlı sürüm standartları](https://semver.org)nı takip ettiğine emin olun, bu `<YENİ-ÖZELLİK>.<BÜYÜK-HATA-DÜZELTMESİ>.<KÜÇÜK-DEĞİŞİKLİKLER-VE-METADATA-DÜZENLEMESİ>` olabilir. Örneğin, `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` veya büyük bir değişiklik olmadığı halde `1.0.0`'ı `2.0.0` olarak değştirmek **yasaktır**.
 25. Declare the presence variable before anything, ( can cause some users issues that can be prevented ).
 26. Do **NOT** edit the `tsconfig.json` file, use exactly what is specified on the [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
 27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
 28. All presences **MUST**  include an English description, including websites that aren't natively English.
-
+29. Presences for the Tor network's websites (.ONION TLDs) are **NOT** allowed at all.
+30. Always make sure to start your Presence in the most appropriate folder, if its name starts with any Latin letter then it must be under its alphabetical match ( e.g. `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **MUST** be under the "#" folder ( e.g. `#/巴哈姆特` ) and numbers under the "0-9" folder ( e.g. `0-9/4anime` ).
 
 Belirtilen tüm gereksinimleri karşıladığınızda ve servisiniz 2 ony aldığında, servisiniz mağazaya eklenecektir.
 
