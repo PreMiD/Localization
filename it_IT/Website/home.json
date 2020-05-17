@@ -24,7 +24,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Cercando...",
+		"message": "Navigando...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
