@@ -42,11 +42,5 @@
 	"user.notFound.message4": {
 		"message": "If you believe this was a mistake, please contact us at [our Discord server].",
 		"description": "Bottom line for the error page. Do not edit brackets."
-	},
-	"test1": {
-		"message": "dont translate this string. it's for testing purposes."
-	},
-	"test2": {
-		"message": "dont translate this string. it's for testing 2 purposes."
 	}
 }

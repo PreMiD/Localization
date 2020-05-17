@@ -106,8 +106,5 @@
 	"jobs.errors.alreadyApplied": {
 		"message": "You already applied before!",
 		"description": "Notification when you applied already."
-	},
-	"test6": {
-		"message": "dont translate this string. it's for testing 6 purposes."
 	}
 }
