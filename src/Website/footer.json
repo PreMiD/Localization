@@ -110,14 +110,5 @@
 	"footer.partners.more": {
 		"message": "Click here to see the rest of our partners & sponsors.",
 		"description": "Button next to all listed partners on the footer."
-	},
-	"test3": {
-		"message": "dont translate this string. it's for testing 3 purposes."
-	},
-	"test4": {
-		"message": "dont translate this string. it's for testing 4 purposes."
-	},
-	"test5": {
-		"message": "dont translate this string. it's for testing 5 purposes."
 	}
 }
