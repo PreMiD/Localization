@@ -79,6 +79,10 @@
 		"message": "Uh oh, parece que você não tem acesso ao alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.error.noaccess.description": {
+		"message": "Você pode entrar no nosso programa beta de graça **aqui**. Se apresse! Nós apenas temos {0} slots disponíveis",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
 	"downloads.latest.header": {
 		"message": "Lançamentos antecipados",
 		"description": "Header above alpha/beta download buttons."
