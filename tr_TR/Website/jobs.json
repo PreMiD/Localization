@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "En büyük Rich-Presence kütüphanesine yardım etmeye hazır mısın?",
+		"message": "En büyük RPC kütüphanesine yardım etmeye hazır mısın?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
