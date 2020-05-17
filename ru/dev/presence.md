@@ -237,11 +237,11 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `участники`
+- `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `настройки`
+- `settings`
 
 **Clarifying some value presets:**
 <table>
@@ -255,7 +255,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>автор</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
@@ -265,7 +265,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>участники</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Должен содержать Объект с <code>именем</code> и <code>id</code> от разработчика присутствия. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
@@ -284,7 +284,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>описание</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
         , если вы не в идеях. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
@@ -325,7 +325,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>версия</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Версия вашего присутствия.</td>
       <td style="text-align:left"><code>Строка</code>
@@ -362,7 +362,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>метки</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
       <td
@@ -372,7 +372,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>категория</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Строка, используемая для представления категории присутствия. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>Строка</code>
@@ -399,7 +399,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>настройки</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
