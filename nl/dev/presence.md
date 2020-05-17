@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-05-09T14:26:01.038Z
+date: 2020-05-17T00:54:47.699Z
 tags:
 ---
 
@@ -57,7 +57,7 @@ Houd de volgende lijst in gedachten voordat je begint met het maken van je prese
 - De presence **MOET** gerelateerd zijn aan de website die je hebt gekozen.
 - De presence **MOET NIET** van illegale websites zijn. Hieronder vallen stressers, drugs, kinderporno, etc.
 - De presence metadata **MOET** een goed beschreven inhoud hebben, inclusief geldige titels, en beschrijvingen.
-- De media die je toevoegt (icoon/thumbnail) **MOET** gerelateerd zijn aan de website en moet begrijpelijk zijn in termen van grootte en kwaliteit.
+- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
 - De bestandsstructuur **MOET** schoon en beheerd zijn, en mag **GEEN** willekeurige bestanden hebben die niks met de functie van de presence te maken hebben.
 - De presence **MAG GEEN** kwaadaardige bedoelingen hebben. Dit zijn onder andere het stelen/lekken van privé-informatie, het negatief beïnvloeden van het gedrag van de website, etc.
 - Als je een Presence ontwerpt voor een website die in de toekomst verandert en als gevolg daarvan de presence breekt, ben **JIJ** verantwoordelijk voor het bijwerken ervan zodat het weer werkt zoals verwacht. Als je het **NIET** repareert binnen zeven dagen, mogen andere presence ontwikkelaars jouw presence **overschrijven** om aan de wijzigingen te voldoen.
@@ -65,7 +65,7 @@ Houd de volgende lijst in gedachten voordat je begint met het maken van je prese
 - Uw presence **MOET** bestaan uit SFW-afbeeldingen en -beschrijvingen, ongeacht of het NSFW is of niet. Als jouw presence van een NSFW website is, voeg dan de `nsfw` tag toe aan je metadata.
 - Uw presence**MAG NIET** de lokale opslag van de browser manipuleren.
 - Uw Presence kan cookies gebruiken om gegevens op te slaan, u moet ze allemaal voorvoegsel `pmd_` geven.
-- De naam van uw presence **MOET** de dezelfde naam hebben als de map van uw presence. Bijvoorbeeld, een presence met de naam `Google Docs` moet een map van `/Google Docs/` hebben. (u dient alle spaties, periodes, komma's en andere speciale tekens toe te voegen)
+- De naam van uw presence **MOET** de dezelfde naam hebben als de map van uw presence. Bijvoorbeeld, een presence met de naam `Google Docs` moet een map van `/Google Docs/` hebben. ( U dient alle spaties, periodes, komma's en andere speciale tekens toe te voegen. )
 
 ## Wijzigen
 > U MOET de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.ts**/**presence.js** of **metadata.json**. 
@@ -77,10 +77,19 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 - U bent **NIET** toegestaan om een Presence te herschrijven of de auteur aan te passen. Als de auteur van de presence is verbannen van de officiële server of geen wijzigingen heeft aangebracht in een periode van zeven dagen, dan kunt u contact opnemen met een `Presence Verifier` om te zien of u van toepassing bent om de presence van keuze te herschrijven.
 - Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **NIET** wijzigingen aan te brengen in de code die **NIET** moet worden gecorrigeerd. Geldige wijzigingen zijn, maar **NIET** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc.
 - Als je wijzigingen aanbrengt in de presence en ten minste een **KWART** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een `Presence Verifier` voor meer informatie over dit onderwerp.
-- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander de beelden **NIET** als ze niet verouderd zijn en een fatsoenlijke resolutie hebben.
+- Zorg dat de wijzigingen nuttig zijn. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Verander de beelden **NIET** als ze niet verouderd zijn en een fatsoenlijke resolutie hebben.
 - Bevestig dat jouw wijzigingen werken voordat je het publiceert. Maak **GEEN** pull-aanvragen zonder dat je het resultaat van je wijzigingen kent.
+- When you make changes to a presence, modify the `presence.ts` file and compile it, do not make changes to the `presence.js` file directly.
 
 # Verificatie
+
+> ⚠️ **Warning**: Presence developers are now required to use `TypeScript`, the option for `JavaScript` presences has been completely removed. 
+> 
+> {.is-warning}
+
+> **Confirm** that your presence's [metadata](https://docs.premid.app/en/dev/presence/metadata) is valid and has all of the necessary fields before making a pull request. If your metadata contains an optional variable that is set to the default value, remove it ( Presence Verifiers will request you to remove them ). 
+> 
+> {.is-warning}
 
 > Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle `Presence Verifiers` zullen een unieke rol hebben op hun profiel.
 
@@ -88,20 +97,20 @@ Om te zorgen dat jouw presence in de winkel komt, **MOET** het door een proces o
 
 1. Er zijn twee verificateurs nodig om te bevestigen dat je presence voldoet aan de normen. Als je wijzigingsaanvragen krijgt, zorg dan dat je de juiste wijzigingen maakt, of het zal **NIET** toegevoegd worden.
 2. Als wij wijzigingen aanvragen en als jouw pull-aanvraag meer dan **7 dagen inactief is** zonder de benodigde wijzigingen te maken, zullen we het sluiten.
-3. Je mag screenshots maken van wijzigingen die gemaakt zijn met behulp van een andere gebruiker, en je mag screenshots bij elkaar plakken. (bijv. de auteur in het geval dat je het niet kan benaderen).
+3. Je mag screenshots maken van wijzigingen die gemaakt zijn met behulp van een andere gebruiker, en je mag screenshots bij elkaar plakken. ( bijv. de auteur in het geval dat je het niet kan benaderen ).
 4. Als het een update of patch is, **MOET** de schermafbeelding de nieuwe toevoegingen werkend laten zien, **NIET** oude functies van eerdere pull-aanvragen.
 5. De meegeleverde schermafbeeldingen moeten echt zijn, **NIET** bijgewerkt.
 6. Alle toegevoegde code die samengevoegd wordt met deze repository zal gelicentieerd worden onder de **Mozilla Public License 2.0**.
-7. Presences voor gratis domeinen of hosts (bijv. .TK, [alle gratis Freenom domeinen], .RF.GD, etc...) zijn **NIET** toegestaan, uitzonderingen kunnen worden gemaakt als een bewijs wordt gepresenteerd dat aantoont dat ze voor het domein hebben betaald.
+7. Presences for free domains or hosts ( e.g., .TK, [all free Freenom domains], .RF.GD, etc ) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
 8. De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra / secundaire context te bieden (zoals "afspelen"/"gepauzeerd" voor videosites, "bladeren" voor reguliere sites) niet voor het adverteren van uw Discord profile of iets wat niet gerelateerd is aan PreMiD.
 9. Vereisten voor logo's zijn 1:1 (vierkant) in 512px, thumbnails moeten echter [brede promotiekaartjes](https://i.imgur.com/3QfIc5v.jpg) zijn of [screenshots](https://i.imgur.com/OAcBmwW.png) als de eerste **NIET** beschikbaar is.
 10. Presences moeten ten minste één tag hebben. Tags moeten **NIET** spaties bevatten, slashes, enkel- of dubbele aanhalingstekens, Unicode-tekens en moeten altijd kleine letters zijn.
-11. Het `url` veld **MAG GEEN** `http://` of `https://`bevatten, ook de parameters niet (bijv. een presence voor `https://www.google.com/search?gws_rd=ssl` heeft alleen `www.google.com` in de `url` veld).
+11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters ( e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field ).
 12. Omschrijvingen en tags moeten altijd in arrays staan, zelfs als het maar één element is. Het `url` veld, mag echter alleen een string zijn als het één domein is.
-13. Tags moeten waar mogelijk als alternatieve namen worden gebruikt, en verkorte versies moeten ook worden opgenomen (bijv. Als een Amazon Presence AWS ondersteuning had inbegrepen, had het zijn tags zoals "amazon-web-services" en "aws").
+13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well ( e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws" ).
 14. Onstabiele sites die voortdurend API/domeinen wijzigen HTML-elementen willekeurig maken of nog steeds in volle ontwikkeling zijn, zijn niet toegestaan en zullen worden verwijderd uit de winkel.
 15. Het logo en de thumbnail van uw presence **MOETEN** zijn van `i.imgur.com`, van een CDN die **JIJ** hebt, of vanuit een CDN dat je toestemming geeft om afbeeldingsbestanden te **bewerken**.
-16. Verifiers controleren of de presence een `__awaiter` functie bevat aan het begin van de code (die afkomstig is van een eerdere versie van ECMAScript), of het nu in Typescript of Javascript is, en daarnaast zorg ervoor dat de `UpdateData` event die wordt gebruikt vergelijkbaar is met dit:
+16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code ( which comes from an earlier version of ECMAScript ), and in addition to that, make sure the `UpdateData` event used is similar to this:
 
 ```ts
 presence.on("UpdateData", async () => {
@@ -123,14 +132,19 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 });
 ```
 
-17. Wanneer **Deepscan** veel fouten gooit (en dat zal gebeuren), is het meestal een probleem waarbij je branch verouderd is, update altijd je GitHub fork bij het doen van pull-aanvragen.
-18. Zorg er altijd voor dat het versienummer [semantische versienormen](https://semver.org)volgt, die naar het volgende schema vertaalt: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. iets anders zoals `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` of verander `1.0.0` naar `2.0.` op een bug fix/small change is **NIET** toegestaan.
-19. Presences van lage kwaliteit (of presences met een enkele context) zijn **NIET** toegestaan (bijv. alleen het weergeven van het logo en sommige tekst maar nooit meer veranderen).
+17. When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork when making pull requests.
+18. The version in your metadata **MUST** start with `1.0.0` unless specified, any other version will **NOT** be permitted.
+19. Low-quality Presences ( or ones with one context ) are **NOT** allowed ( e.g., only showing the logo and some text but never changing again ).
 20. Gebruik **NOOIT** aangepaste functies wanneer [native varianten beschikbaar zijn](https://docs.premid.app/dev/presence#files-explained); dit zorgt ervoor dat fixes op extensie niveau ook van toepassing zijn op uw presences. Je kunt gebruik maken van alles wat je nodig hebt als je ze niet vermeld zijn in de documenten.
-21. Het wordt **NIET** aanbevolen om reacties op Javascript presences te gebruiken tenzij dit nodig is (TypeScript of hun gecompileerde bestanden zijn prima), omdat het de leesbaarheid van de code vermindert en de bestandsgrootte verhoogt.
-22. Verklaar de presence const **VOOR** alles om dergelijke zeldzame problemen die kunnen optreden te voorkomen; Dit is geen vereiste voor ontwerp, zodat het in de toekomst kan worden verwijderd.
-23. Presences die gericht zijn op interne browserpagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's etc) zijn **NIET** toegestaan omdat ze een _experimentele vlag_ vereisen om aan het einde van de gebruiker aan te zetten en kunnen schade aan de browser veroorzaken.
-24. Het is **FORBIDDEN** om Presences voor een site te coderen zonder ondersteuning toe te voegen aan de hoofdtaal (bijvoorbeeld, een YouTube Presence gecodeerd met steun voor Portugees en Japanners, maar niet voor Engels zelf).
+21. Verklaar de presence const **VOOR** alles om dergelijke zeldzame problemen die kunnen optreden te voorkomen; Dit is geen vereiste voor ontwerp, zodat het in de toekomst kan worden verwijderd.
+22. Presences that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
+23. Het is **FORBIDDEN** om Presences voor een site te coderen zonder ondersteuning toe te voegen aan de hoofdtaal (bijvoorbeeld, een YouTube Presence gecodeerd met steun voor Portugees en Japanners, maar niet voor Engels zelf).
+24. You **MUST** compile all `TypeScript` files in your presence before making a pull request.
+25. Declare the presence variable before anything, ( can cause some users issues that can be prevented ).
+26. Do **NOT** edit the `tsconfig.json` file, use exactly what is specified on the [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
+27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
+28. All presences **MUST**  include an English description, including websites that aren't natively English.
+
 
 Nadat u alle richtlijnen heeft gehaald en uw presence ten minste twee keer is geëvalueerd, wordt uw presence toegevoegd aan de winkel.
 

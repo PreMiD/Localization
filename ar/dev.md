@@ -16,9 +16,10 @@ tags:
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
 # استنساخ المشروع
-1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. <strong x-id = "1"> استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.
-2. اختيار مجلد من اختيارك.
-3. Open it in your code editor.
+1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. ** استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.</p></li>
+2
+اختيار مجلد من اختيارك.
+3 Open it in your code editor.</ol>
 
 # تثبيت الإعتمادات
 > تأكد من تثبيت [ npm ](https://www.npmjs.com/) (مدير حزمة العقدة) أولاً. يتم تثبيته تلقائيًا إذا كنت قد قمت بتثبيت [ Node ](https://nodejs.org/en/). 

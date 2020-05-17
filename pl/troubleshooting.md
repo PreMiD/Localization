@@ -17,7 +17,7 @@ Możesz również nacisnąć <kbd>CTRL + R</kbd>/<kbd>F5</kbd> (Windows) lub <kb
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) również wykonuje dobrą pracę. (Musisz oczywiście ponownie uruchomić przeglądarkę.)
 
 ### Upewnij się, że w ustawieniach włączono Discord Game Activity
-<strong x-id = "1">Ustawienia użytkownika</strong> > <strong x-id = "1">Aktywność w grze</strong> ![[PLACEHOLDER] gameactivity_edited.png](/gameactivity_edited.png)
+**Ustawienia użytkownika** > **Aktywność w grze** ![[PLACEHOLDER] gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Uruchom ponownie PreMiD (aplikacja)
 ![quit.png](/quit.png) Następnie musisz ponownie uruchomić PreMiD.
