@@ -132,8 +132,8 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 });
 ```
 
-17.  When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork before making a Pull Request.
-18. If your Presence is new, it **MUST** start with version `1.0.0`, any other version will **NOT** be permitted.
+17.  Wanneer **Deepscan** veel fouten gooit (en dat zal gebeuren), is het meestal een probleem waarbij je branch verouderd is, update altijd je GitHub fork voor het maken van pull-aanvragen.
+18. De versie van uw metadata **MOET** starten met `1.0.0` als uw presence nieuw is, elke andere versie zal **NIET** zijn toegestaan.
 19. Presences van lage kwaliteit (of presences met een enkele context) zijn **NIET** toegestaan (bijv. alleen het weergeven van het logo en sommige tekst maar nooit meer veranderen ).
 20. Gebruik **NOOIT** aangepaste functies wanneer [native varianten beschikbaar zijn](https://docs.premid.app/dev/presence#files-explained); dit zorgt ervoor dat fixes op extensie niveau ook van toepassing zijn op uw presences. Je kunt gebruik maken van alles wat je nodig hebt als je ze niet vermeld zijn in de documenten.
 21. Verklaar de presence const **VOOR** alles om dergelijke zeldzame problemen die kunnen optreden te voorkomen; Dit is geen vereiste voor ontwerp, zodat het in de toekomst kan worden verwijderd.
@@ -144,8 +144,8 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 26. Bewerk **NIET** het `tsconfig.json` bestand, gebruik precies wat gespecificeerd is in de [documentatie](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
 27. Presences met ondersteuning alleen voor een enkel subdomein zullen **NIET** toegestaan zijn, omdat ze mogelijk gebroken lijken voor andere pagina's (zoals de homepage), uitzonderingen kunnen worden gemaakt voor beleid en contactpagina's (inhoud die niet vaak gebruikt) of sites waar de andere inhoud niet gerelateerd is ( bv. wikia pagina's).
 28. Alle presences **MOETEN**  een Engelse beschrijving bevatten, inclusief websites die niet speciaal Engels zijn.
-29. Presences for the Tor network's websites (.ONION TLDs) are **NOT** allowed at all.
-30. Always make sure to start your Presence in the most appropriate folder, if its name starts with any Latin letter then it must be under its alphabetical match ( e.g. `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **MUST** be under the "#" folder ( e.g. `#/巴哈姆特` ) and numbers under the "0-9" folder ( e.g. `0-9/4anime` ).
+29. Presences voor de websites van het Tor netwerk (.ONION TLD's) zijn **NIET** toegestaan.
+30. Zorg er altijd voor dat je Presence in de meest geschikte map begint, als de naam begint met een Latijnse letter dan moet het onder de alfabetische overeenkomst vallen ( bijv. `D/dアニメストア` of `G/Google` ). Alle andere Unicode/niet-Latijnse tekens **MOETEN** onder de map "#" staan (bijvoorbeeld `#/巴哈姆特` ) en nummers onder de "0-9" map (bijvoorbeeld `0-9/4anime`).
 
 Nadat u alle richtlijnen heeft gehaald en uw presence ten minste twee keer is geëvalueerd, wordt uw presence toegevoegd aan de winkel.
 
