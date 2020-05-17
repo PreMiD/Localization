@@ -68,7 +68,7 @@
         "description": "A page name"
     },
     "premid.pagePresenceDev": {
-        "message": "Разработка присутствия",
+        "message": "Разработчик присутствия",
         "description": "A page name"
     }
 }
