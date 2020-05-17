@@ -8,7 +8,7 @@
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "Мы не нашли этого пользователя. Попробуйте убедиться, что",
+		"message": "Этот пользователь не найден. Попробуйте убедиться",
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message3": {
