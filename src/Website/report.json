@@ -24,6 +24,10 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
+		"message": "You have too many active reports. Wait for your submitted reports to be reviewed. Reports are checked on a daily weekly basis, be patient.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
 		"message": "You have too many active reports.",
 		"description": "User has too many active reports"
 	},
