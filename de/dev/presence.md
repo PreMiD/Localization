@@ -92,7 +92,7 @@ In some situations, Presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-warning}
 
-> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role in their profile.
+> Falls du dich mit jemandem kontaktieren musst, tritt unserem offiziellen Discord Server bei. All `Presence Verifiers` will have a unique role in their profile.
 
 For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
 

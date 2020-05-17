@@ -58,7 +58,7 @@ Before you begin working on your presence, keep the following list in mind.
 - The Presence **MUST** be related to the site you have chosen.
 - The Presence **MUST NOT** be of any illegal sites. These include stressors, drugs, child porn, etc.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
+- الوسائط التي تضمنها (أيقونة / صورة مصغرة ) **MUST** يجب أن تكون مرتبطة بالموقع وينبغي أن تكون مفهومة من حيث الحجم والجودة.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
 - The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
 - If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
