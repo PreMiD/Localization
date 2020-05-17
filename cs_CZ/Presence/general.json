@@ -175,6 +175,10 @@
 		"message": "Prohlížení profilu:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Zobrazení série:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Zobrazení show:",
 		"description": ""
