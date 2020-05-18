@@ -3,6 +3,10 @@
 		"message": "Készítő",
 		"description": "Creator of a presence"
 	},
+	"store.filters.added": {
+		"message": "Hozzáadott állapotüzenetek megjelenítése",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Kategóriák",
 		"description": "Category heading"
@@ -34,5 +38,13 @@
 	"store.search": {
 		"message": "Keresés",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Kattints ide a szűrő eltávolításához",
+		"description": "Remove message for active search filters."
 	}
 }
