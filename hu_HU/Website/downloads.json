@@ -1,7 +1,27 @@
 {
+	"downloads.header.subtitle": {
+		"message": "Próbáld ki a PreMiD-et és oszd meg másokkal, amit éppen csinálsz, így talán hasonló érdeklődésű személyeket is felfedezhetsz.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Kezdő lépések",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD alkalmazás letöltése",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Alkalmazás telepítése",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.footer": {
+		"message": "Továbbra is problémáid vannak? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Azért vagyunk, hogy segítsünk!",
+		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
 		"message": "Alkalmazás letöltése",
@@ -19,6 +39,10 @@
 		"message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.errorMessage": {
+		"message": "Felhívjuk figyelmedet, hogy a PreMiD jelenleg nem támogatott mobilon.",
+		"description": "Downloads page warning when user is on mobile."
+	},
 	"downloads.mobile.showDownloads": {
 		"message": "Letöltések megjelenítése",
 		"description": "Little button on the downloads page for mobile users."
@@ -30,6 +54,10 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Kérlek jelentkezz be a letöltések megjelenítéséhez.",
+		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
 		"message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :(",
