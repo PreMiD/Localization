@@ -2,7 +2,7 @@
 title: Untitled Page
 description: Uma ajudinha para o TypeScript
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 2020-05-09T14:32:40,832Z
 tags:
 ---
 

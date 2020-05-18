@@ -17,7 +17,7 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. No entanto, modificações nos arquivos `metadata.json` ou `tsconfig.json` de uma presença **NÃO** requerem uma captura de tela. _Sua captura de tela **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use outros sites de compartilhamento de imagem._ 
+> Ao fazer pull requests sobre como adicionar ou modificar presenças existentes, você **DEVE** incluir uma captura de tela. No entanto, modificações nos arquivos `metadata.json` ou `tsconfig.json` de uma presença **NÃO** requerem uma captura de tela. _Sua captura de tela **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use outros sites de compartilhamento de imagem._ 
 > 
 > {.is-warning}
 
