@@ -21,7 +21,7 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 > 
 > {.is-warning}
 
-Ao publicar Presenças neste GitHub, exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Ao publicar Presenças neste GitHub, exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. No entanto, a implementação desses conjuntos de regras impedirá nós e nossos usuários de encontrar problemas.
 
 ## Criação
 > O código que você escreve DEVE ser * bem escrito * e DEVE ser * legível *. O ` DeepScan ` no GitHub reportará problemas de qualidade do código à ` Equipe de Verificação de Presença `. Recomendamos que seu fork seja atualizado quando você fizer solicitações pull, isso ajudará a limitar os falsos positivos. 
@@ -56,7 +56,7 @@ websites
 <br>
 Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - A Presença **DEVE** estar relacionada com site que você escolheu.
-- The Presence **MUST NOT** be of any illegal sites. Estes incluem sites perturbadores, drogas, pornografia infantil, etc.
+- A presença **NÃO DEVE** ser de nenhum site ilegal. Estes incluem sites perturbadores, drogas, pornografia infantil, etc.
 - The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
 - The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
 - The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
@@ -469,7 +469,7 @@ Muitos sites estão usando [iframes](https://developer.mozilla.org/en-US/docs/We
 3. Execute `document.querySelectorAll("iframe")`.
 
 Se perceber que seus dados estão em um iFrame, você precisa fazer o seguinte:
-1. Create a `iframe.ts` file.
+1. Crie um arquivo `iframe.ts`.
 2. Defina o iFrame como `true` no seu arquivo de metadados.
 3. Preenchendo o seu arquivo iFrame.
 ```javascript
