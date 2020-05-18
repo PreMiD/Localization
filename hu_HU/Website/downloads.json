@@ -71,6 +71,10 @@
 		"message": "Köszönjük!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "A hirdetéseket csapatunk támogatására és szervereink fenntartására használjuk, hogy a lehető legjobb felhasználói élményt biztosítsuk!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Kérlek tiltsd le az adblock-ot.",
 		"description": "Message next to pepe."
