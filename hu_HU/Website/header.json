@@ -19,6 +19,10 @@
 		"message": "Nyelv váltása",
 		"description": "Button that switches language after click."
 	},
+	"header.loader.phrases": {
+		"message": "Palacsinták megsütése...;Konténerek elhelyezése...;IP cím elemzése...;UwU;Szabályok megszegése...;Merevlemez törlése...",
+		"description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, its used to separate phrases]"
+	},
 	"header.store": {
 		"message": "Áruház",
 		"description": "Store tab"
