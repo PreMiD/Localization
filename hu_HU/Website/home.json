@@ -3,6 +3,10 @@
 		"message": "A **PreMiD** egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett tevékenységeket a Discord játék tevékenységi felületen.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Funkciók",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Letöltések",
 		"description": "Downloads button -> redirects to /downloads page"
