@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Majmaink rajta vannak, hogy minél hamarabb bekerülj a beta programba. Köszönjük a regisztrálást!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Úgy tűnik jelenleg nincs elérhető beta férőhelyünk.",
+		"description": "Shows when the beta slots are full."
 	}
 }
