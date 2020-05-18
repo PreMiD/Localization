@@ -71,6 +71,10 @@
 		"message": "Gyors segítség",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Valami nem működik, hibaüzenetek sokaságával áraszt el? Segítünk neked Discord szerverünkön. Egyedi támogatási rendszerünk célja, hogy problémádat a lehető leghamarabb megoldjuk.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Csatlakozz Discord szerverünkre",
 		"description": "Features section button"
