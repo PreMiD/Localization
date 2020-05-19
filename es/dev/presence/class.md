@@ -2,7 +2,7 @@
 title: Clase de presencia
 description: La clase principal para cada presencia PreMiD
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -93,13 +93,13 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 Devuelve una variable desde el sitio web si existe.
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Esto mostrará en consola el valor de la variable "pageVar"
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Interfaz
