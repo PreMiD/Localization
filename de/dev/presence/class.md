@@ -99,7 +99,7 @@ Returns a variable from the website if it exists.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dies protokolliert den "Variableninhalt"
 ```
 
 ## `PresenceData` Schnittstelle
