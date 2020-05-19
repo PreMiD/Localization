@@ -61,13 +61,13 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 ### Anforderungen
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Technisch gesehen kann jede Distribution, die Discord's [offizielle](https://discordapp.com/download) **App** ausführen kann (nicht die Web- oder die Snap-Version), auch PreMiD ausführen;</br> Wie Sie vielleicht in den letzten Jahren bemerkt haben, haben einige Linux-Distributionen begonnen, die Unterstützung für die 32-Bit-Architekturen (ia32/i686/i386/x86) fallen zu lassen, und infolgedessen haben wir das auch getan. Sie können jedoch versuchen, die Anwendung selbst zu erstellen, wenn Sie sie unbedingt auf einer 32-Bit-Distribution verwenden müssen.</br> Da wir Electron derzeit als Engine verwenden (Discord tut auch!), gelten seine Anforderungen auch für diese App:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Es ist unbekannt, ob ältere Versionen anderer Distributionen es unterstützen, also halten Sie einfach Ihre Distribution auf dem neuesten Stand und verwenden Sie **LTS (Long-Term Support)** Releases, wenn Ihre Distribution diese anbietet, da sie stabiler sind (vermeiden Sie Alpha-Releases).
 
 <a name="support"></a>
 
@@ -83,7 +83,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Mitwirkende
 
-Ein großes Dankeschön an:
+Danke an:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (und ein paar andere von dem ich den Namen vergessen habe) die Feedback zu den neuesten Versionen geben.
 - @apriluwu zur Wartung der Gentoo-Builds
@@ -102,14 +102,14 @@ Ein großes Dankeschön an:
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Wahrscheinlich nie, da die Natur der Snap PreMiD davon abhält, Discord und die Erweiterung richtig zu erreichen,</br> Es wäre schön, wenn es jemand tun könnte, aber alle Ideen oder PRs sind willkommen.</br> P.S.: Die klassische Gefangenschaft funktioniert auch nicht, also machen Sie sich nicht die Mühe, einen Vorschlag dazu zu machen.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Das Paket AppImage wird empfohlen, wenn Discord bei Ihnen funktioniert, andere PreMiD-Pakete (.deb, .rpm usw.) jedoch nicht.
 
 <a name="appimageinstall"></a>
 
