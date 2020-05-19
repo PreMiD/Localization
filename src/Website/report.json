@@ -12,11 +12,19 @@
 		"description": "Tells the user about submitting a bug"
 	},
     "report.overview": {
-		"message": "Brief Overview",
+		"message": "Brief Overview - Provide a clear and concise description of what the bug is.",
 		"description": "Text for the user to write a breif of the bug information."
-    },
+	},
+	"report.os": {
+		"message": "Select your Operating System and version",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Select your Browser and version - You can get the version by visiting about:support on Firefox or chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
     "report.description": {
-		"message": "Description (Include steps to repeat)",
+		"message": "Description - Provide a link to a live example or an unambiguous set of steps to reproduce this bug.",
 		"description": "Text for the user to write information about the bug."
     },
     "report.button": {
