@@ -2,7 +2,7 @@
 title: Trieda Prítomnosti
 description: Hlavná trieda pre každú prítomnosť PreMiD
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -98,7 +98,7 @@ console.log(version); // Will log 2.1.0
 Returns a variable from the website if it exists.
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
+var pageVar = getPageletiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 

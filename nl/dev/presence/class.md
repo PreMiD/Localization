@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -93,13 +93,13 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Geeft terug: 2.1.0
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 Retourneert een variabele van de website als deze bestaat.
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // Dit zal de "Variabele content" loggen
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Interface

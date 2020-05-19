@@ -2,7 +2,7 @@
 title: Presenceクラス
 description: すべてのPreMIDのプレゼンスのメインクラス
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -98,8 +98,8 @@ console.log(version); // Will log 2.1.0
 ウェブサイトから変数を取得する(存在する場合)
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // "変数の中身" をログに出力する
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` インターフェース
