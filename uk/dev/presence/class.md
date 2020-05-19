@@ -2,7 +2,7 @@
 title: Клас присутності
 description: Основний клас для кожної присутності PreMiD
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -93,13 +93,13 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
-### `getPageLetiable(рядок)`
+### `getPageletiable(String)`
 
 Повертає змінну з веб-сайту, якщо вона існує.
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(page); // Це закриє "Variable content"
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Інтерфейс
