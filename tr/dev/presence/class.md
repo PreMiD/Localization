@@ -2,7 +2,7 @@
 title: Presence Sınıfı
 description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
-date: 2020-04-08T19:33:34.075Z
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -98,8 +98,8 @@ console.log(version); // konsola 2.1.0 çıktısı verecektir
 Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
-let pageVar = getPageLetiable('degisken');
-console.log(pageVar); // Bu 'degisken' değişkeninin içeriğini konsola yazdırır.
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Arayüzü
