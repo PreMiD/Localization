@@ -6,7 +6,7 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Das Umschalten der Autostartfunktion unter Linux ist jetzt über die App statt über die Erweiterung verfügbar.{.is-warning}
 
 Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht funktionieren würde.
 
@@ -52,8 +52,8 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Neueste Versionen"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Alle Veröffentlichungen"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Neueste Versionen"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github Veröffentlichungen"></a></td>
   </tr>
 </table>
 
@@ -127,50 +127,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Zusätzliche Bemerkungen
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Wenn du PreMiD ausprobieren möchtest oder es nicht installieren möchtest, dieses ist das beste, es ist immer aktuell, aber _KANN NICHT MIT DEM SYSTEM AUTO-STARTEN!_</br>Wenn Sie keine Lust haben, es jedes Mal öffnen zu müssen, verwenden Sie die anderen Pakete (entsprechend Ihrer Distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Arch Linux basierte Distributionen
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Verwendet [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Unterstützte Distributionen sind _selbst_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS und [alle, die die Installation von AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active) unterstützen.
 
 <a name="archinstall"></a>
 
 ### Installationsanleitung:
 
 ```bash
-# Using yay (recommended)
+# Verwendung von yay (empfohlen)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Verwendung von pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
-trizen -S premid
+# Verwendung von Trizen
+Trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Verwendung von pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... du hast den Punkt erreicht
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+oder manuell aus dem [Arch User Repository](https://aur.archlinux.org/packages/premid) wenn Sie wissen, was Sie tun.
 
 <a name="archnotes"></a>
 
 ### Zusätzliche Bemerkungen
 
-Wenn deine Distribution Pacman verwendet, musst du zuerst einen der Helfer installieren. If you don't have any, Yay is recommended, run :
+Wenn deine Distribution Pacman verwendet, musst du zuerst einen der Helfer installieren. Wenn Sie keine haben, wird Yay empfohlen, führe aus:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -180,26 +180,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Andere AUR/Pacman-Helfer funktionieren ebenfalls, obwohl jeder von ihnen eine andere Funktionalität hat, so dass Sie bei ihrer Verwendung auf Probleme stoßen können.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Dasselbe gilt für seine Derivate, wie z.B. ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Installationsanleitung:
 
 ```bash
-# Add the overlay using layman
-layman -S && layman -a apriluwu
+# Füge das Overlay mit layman
+layman -S && layman -a apriluwu hinzu
 ```
 
 ```bash
-# Install via portage
+# Mit Portage installieren
 emerge -av app-misc/premid
 ```
 
@@ -207,7 +207,7 @@ emerge -av app-misc/premid
 
 ### Zusätzliche Bemerkungen
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+Der gezeigte Installationsbefehl verwendet layman, er befindet sich in den offiziellen Repositories durch `app-portage/layman`.<br> Um Updates zu erhalten, müssen Sie das Overlay von Zeit zu Zeit synchronisieren, dies können Sie mit
 
 ```bash
 layman -S
