@@ -2,7 +2,7 @@
 title: คลาส Presence
 description: คลาสหลักสำหรับทุก PreMiD Presence
 published: true
-date: 08 ก.พ 2563 19:33 น.
+date: 2020-05-19T01:04:06.641Z
 tags:
 ---
 
@@ -93,13 +93,13 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // จะเป็น log 2.1.0
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 คืนค่าตัวแปรจากเว็บไซต์ถ้ามันมีอยู่จริง
 
 ```typescript
-var pageVar = getPageLetiable('.pageVar');
-console.log(pageVar); // สิ่งนี้จะบันทึก "เนื้อหาของตัวแปร"
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` อินเตอร์เฟซ
