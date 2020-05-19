@@ -99,7 +99,7 @@ Zwraca zmienną ze strony internetowej, jeśli istnieje.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // To będzie logować "zawartość zmiennej"
 ```
 
 ## Interfejs `presenceData`
