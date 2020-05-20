@@ -1,7 +1,11 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém Discordu právě hrajete.",
+		"message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém Discordu právě hraješ.",
 		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funkce",
+		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
 		"message": "Stáhnout",
@@ -47,6 +51,10 @@
 		"message": "Spravování přítomností",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Seřadit podle kategorie",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Rychlá podpora",
 		"description": "Features section subheading"
@@ -54,5 +62,9 @@
 	"home.features.quickSupport.button": {
 		"message": "Připojte se k našemu Discordu",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Jazyk webové stránky",
+		"description": "Tippy content of the language selector."
 	}
 }
