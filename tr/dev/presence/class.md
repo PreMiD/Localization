@@ -2,7 +2,7 @@
 title: Presence Sınıfı
 description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -29,6 +29,10 @@ let presence = new Presence({
 Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
 ## Metodlar
+
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -63,6 +67,26 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getPageletiable(String)`
+
+Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
+```
+
+### `getExtensionVersion(Boolean)`
+Kullanıcının kullandığı eklentinin sürümünü verir.
+```typescript
+getExtensionVersion(sadeceNumerik?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // konsola 210 çıktısı verecektir
+var version = presence.getExtensionVersion(false);
+console.log(version); // konsola 2.1.0 çıktısı verecektir
+```
+
 ### `getSetting(String)`
 Bir ayarın versini döner.
 ```typescript
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar il
 Belirtilen ayarı gösterir (sadece önceden gizlenmişse çalışacaktır).
 ```typescript
 presence.showSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
-```
-
-### `getExtensionVersion(Boolean)`
-Kullanıcının kullandığı eklentinin sürümünü verir.
-```typescript
-getExtensionVersion(sadeceNumerik?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // konsola 210 çıktısı verecektir
-var version = presence.getExtensionVersion(false);
-console.log(version); // konsola 2.1.0 çıktısı verecektir
-```
-
-### `getPageletiable(String)`
-
-Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Arayüzü
