@@ -4,7 +4,7 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Připojte se ke skupině a získejte některé výhody pouze pro partnery, abyste ukázali, kolik swagu máte.",
+		"message": "Připoj se ke skupině a získej některé výhody pouze pro partnery, abys ukázali, kolik swagu máš.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
@@ -68,7 +68,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.sponsors.description": {
-		"message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
+		"message": "PreMiD by nebyl možný, bez těchto úžasných lidí.",
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
@@ -128,7 +128,7 @@
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
-		"message": "Nejste to vy?",
+		"message": "Nejsi to ty?",
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
