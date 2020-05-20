@@ -19,6 +19,42 @@
 		"message": "需要额外步骤",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
+	"store.header.search": {
+		"message": "搜索",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "添加",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "已添加",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "这个 Presence 会自动激活",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "筛选",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "按热门度排序",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "限制级(R-18)",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "我的喜欢",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "已添加",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "分类",
 		"description": "Category heading"
@@ -50,5 +86,13 @@
 	"store.search": {
 		"message": "搜索",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "输入",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "点击以移除标签",
+		"description": "Remove message for active search filters."
 	}
 }
