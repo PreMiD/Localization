@@ -32,7 +32,7 @@ Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applicati
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Geeft als resultaat een `presenceData` object van wat de presence die wordt weergegeven.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -73,7 +73,7 @@ Retourneert een variabele van de website als deze bestaat.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dit zal de "Variabele content" loggen
 ```
 
 ### `getExtensionVersion(Boolean)`
