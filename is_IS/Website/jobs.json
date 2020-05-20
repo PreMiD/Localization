@@ -18,5 +18,41 @@
 	"jobs.modal.buttons.cancel": {
 		"message": "Hætta",
 		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Vinsamlegast fylltu alla reiti",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD er opið verkefni sem þýðir að við erum sjálfseignarhópur, hvert framlag eða verndarfé fer aftur í vöruna. Með því að sækja um starf hjá PreMiD viðurkennir þú að þú ert sjálfboðaliði í teyminu, þér verður ekki borgað fyrir vinnu þína.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Taktu þátt á Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Til að geta sótt um vinnu þarftu að hafa tekið þátt á Discord server-inum okkar. Annars getum við ekki haft samband við þig ef þú verður valinn!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Vinna fyrir PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Ertu tilbúinn til að hjálpa til við stærsta Rich-Presence forritið?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Atvinnu tækifæri",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "High-End Kostir",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Hittu okkur",
+		"description": "Benefit card title."
 	}
 }
