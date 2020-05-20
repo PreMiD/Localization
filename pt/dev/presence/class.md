@@ -2,7 +2,7 @@
 title: Classe de presença
 description: A classe principal para cada presença do PreMiD
 published: true
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -30,6 +30,10 @@ Você pode obtê-lo na sua [página de aplicativos](https://discordapp.com/devel
 
 ## Métodos
 
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
+
 ### `setActivity(presenceData, Boolean)`
 
 Define a atividade do teu perfil de acordo com os dados fornecidos.
@@ -50,7 +54,7 @@ Clears your current activity, the keybinds and the tray title.
 
 Sets the tray title on the Menubar.
 
-### `getStrings(Objeto)`
+### `getStrings(Object)`
 
 Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -61,6 +65,26 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+```
+
+### `getPageletiable(String)`
+
+Returns a variable from the website if it exists.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
+```
+
+### `getExtensionVersion(Boolean)`
+Returns version of the extension the user is using.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 Shows given setting (Only works if the setting was already hidden).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
-```
-
-### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
-```
-
-### `getPageletiable(String)`
-
-Returns a variable from the website if it exists.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `Interface de presençaDados`
