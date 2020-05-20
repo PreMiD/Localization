@@ -2,7 +2,7 @@
 title: Klasa Presence
 description: Główna klasa dla każdej obecności PreMiD
 published: tak
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -30,6 +30,10 @@ Możesz to uzyskać na [stronie aplikacji](https://discordapp.com/developers/app
 
 ## Metody
 
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
+
 ### `setActivity(presenceData, Boolean)`
 
 Ustawia aktywność profilu zgodnie z podanymi danymi.
@@ -50,7 +54,7 @@ Usuwa obecną aktywność, skróty klawiszowe i tytuł zasobnika.
 
 Ustawia tytuł zasobnika na pasku menu.
 
-### `getStrings(Obiekt)`
+### `getStrings(Object)`
 
 Pozwala na otrzymywanie przetłumaczonych ciągów z rozszerzenia. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. Część ciągów można znaleźć za pomocą tego linku: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -61,6 +65,26 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+```
+
+### `getPageletiable(String)`
+
+Zwraca zmienną ze strony internetowej, jeśli istnieje.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // To będzie logować "zawartość zmiennej"
+```
+
+### `getExtensionVersion(Boolean)`
+Zwraca wersję rozszerzenia, którego używa użytkownik.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Loguje 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Loguje 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); //Zamień pdexID na id ustawienia
 Pokazuje podane ustawienie (działa tylko, jeśli ustawienie było już ukryte).
 ```typescript
 presence.showSetting("pdexID"); //Zamień pdexID na id ustawienia
-```
-
-### `getExtensionVersion(Boolean)`
-Zwraca wersję rozszerzenia, którego używa użytkownik.
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Loguje 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // Loguje 2.1.0
-```
-
-### `getPageletiable(String)`
-
-Zwraca zmienną ze strony internetowej, jeśli istnieje.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // To będzie logować "zawartość zmiennej"
 ```
 
 ## Interfejs `presenceData`
