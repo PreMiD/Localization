@@ -2,7 +2,7 @@
 title: คลาส Presence
 description: คลาสหลักสำหรับทุก PreMiD Presence
 published: true
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -29,6 +29,10 @@ let presence = new Presence({
 คุณสามารถเข้าไปดูได้ที่ [หน้าแอปพลิเคชัน](https://discordapp.com/developers/applications)
 
 ## วิธีการ
+
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -63,6 +67,26 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getPageletiable(String)`
+
+คืนค่าตัวแปรจากเว็บไซต์ถ้ามันมีอยู่จริง
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
+```
+
+### `getExtensionVersion(Boolean)`
+คืนค่าเวอร์ชันของส่วนขยายที่ผู้ใช้ใช้อยู่
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // จะเป็น log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // จะเป็น log 2.1.0
+```
+
 ### `getSetting(String)`
 ส่งกลับค่าต่างๆ ของการตั้งค่า
 ```typescript
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); //แทนที่ pdexID ด้วย id ข�
 แสดงผลการตั้งค่าที่กำหนด (จะทำงานก็ต่อเมื่อการตั้งค่าถูกซ่อนไว้อยู่)
 ```typescript
 presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ของการตั้งค่า
-```
-
-### `getExtensionVersion(Boolean)`
-คืนค่าเวอร์ชันของส่วนขยายที่ผู้ใช้ใช้อยู่
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // จะเป็น log 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // จะเป็น log 2.1.0
-```
-
-### `getPageletiable(String)`
-
-คืนค่าตัวแปรจากเว็บไซต์ถ้ามันมีอยู่จริง
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` อินเตอร์เฟซ
