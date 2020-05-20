@@ -2,7 +2,7 @@
 title: Präsenzenklasse
 description: Die Hauptklasse für jede PreMiD-Präsenz
 published: true
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -30,7 +30,11 @@ Sie können es auf Ihrer [Bewerbungsseite](https://discordapp.com/developers/app
 
 ## Methoden
 
-### `setActivity (presenceData, Boolean)`
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
+
+### `setActivity(presenceData, Boolean)`
 
 Legt Ihre Profilaktivität gemäß den bereitgestellten Daten fest.
 
@@ -38,11 +42,11 @@ Der erste Parameter erfordert eine ` Präsenzdaten ` Schnittstelle, um alle Info
 
 Der zweite Parameter definiert, wann Präsenz etwas spielt oder nicht. Verwenden Sie immer ` true `, wenn Sie Zeitstempel in ` presentData ` angeben.
 
-### `clearActivity ()`
+### `clearActivity()`
 
 Löscht Ihre aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
 
-### `setTrayTitle (String)`
+### `setTrayTitle(String)`
 
 > Diese Methode funktioniert nur unter Mac OS. 
 > 
@@ -50,7 +54,7 @@ Löscht Ihre aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
 
 Sets the tray title on the Menubar.
 
-### `getStrings (Objekt)`
+### `getStrings(Object)`
 
 Ermöglicht das Abrufen übersetzter Zeichenfolgen aus der Erweiterung. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -61,6 +65,26 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+```
+
+### `getPageletiable(String)`
+
+Returns a variable from the website if it exists.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // Dies protokolliert den "Variableninhalt"
+```
+
+### `getExtensionVersion(Boolean)`
+Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 Shows given setting (Only works if the setting was already hidden).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
-```
-
-### `getExtensionVersion(Boolean)`
-Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
-```
-
-### `getPageletiable(String)`
-
-Returns a variable from the website if it exists.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // Dies protokolliert den "Variableninhalt"
 ```
 
 ## `PresenceData` Schnittstelle
