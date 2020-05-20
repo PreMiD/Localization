@@ -32,7 +32,7 @@ let presence = new Presence({
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+คืนค่าออบเจกต์ `presenceData` ของ Presence ที่กำลังแสดงผลอยู่
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -73,7 +73,7 @@ strings = await presence.getStrings({
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // สิ่งนี้จะบันทึก "เนื้อหาของตัวแปร"
 ```
 
 ### `getExtensionVersion(Boolean)`
