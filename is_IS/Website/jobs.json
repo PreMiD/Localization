@@ -54,5 +54,57 @@
 	"jobs.benefit1.title": {
 		"message": "Hittu okkur",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Hafðu samband við fólkið á bak við PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sneak Peeks",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Skoðaðu þróun okkar og markaðssetningu.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Heiður",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Öflugar Discord heimildir og litríkt role.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Styðja PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Með framlagi þínu er mögulegt að keyra þetta verkefni.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Hlé",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Taktu þinn tíma. Þetta er sjálfboðavinna.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Snemmur aðgangur",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Prófaðu nýja eiginleika áður en einhver annar.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Takk fyrir að sækja um!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Þú hefur þegar sótt um áður!",
+		"description": "Notification when you applied already."
 	}
 }
