@@ -67,6 +67,10 @@
 		"message": "Eitthvað er bilað, sendir þér helling af villum eða einfaldlega virkar ekki? Við munum hjálpa þér að losa þig við þessi mál á Discord server-inum okkar, við bjuggum til okkar eigið stuðningskerfi sem mun tryggja að vandamálið þitt leysist eins fljótt og hægt er.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Taktu þátt á Discord",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Tungumál",
 		"description": "Tippy content of the language selector."
