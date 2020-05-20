@@ -2,7 +2,7 @@
 title: Класс присутствия
 description: Основной класс для каждого присутствия PreMiD
 published: true
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -29,6 +29,10 @@ let presence = new Presence({
 Вы можете получить это на [странице приложений](https://discordapp.com/developers/applications).
 
 ## Методы
+
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -63,6 +67,26 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getPageletiable(String)`
+
+Возвращает переменную с сайта, если она существует.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
+```
+
+### `getExtensionVersion(Boolean)`
+Возвращает версию расширения, которое использует пользователь.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Сообщается номера "210" в логи
+var version = presence.getExtensionVersion(false);
+console.log(version); // Сообщается версии "2.1.0" в логи
+```
+
 ### `getSetting(String)`
 Возвращает значение настройки.
 ```typescript
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); // Заменить pdexID идентифика�
 Показывают данные настройки (работает только если настройка была скрыта).
 ```typescript
 presence.showSetting("pdexID"); // Заменить pdexID идентификатором настройки
-```
-
-### `getExtensionVersion(Boolean)`
-Возвращает версию расширения, которое использует пользователь.
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Сообщается номера "210" в логи
-var version = presence.getExtensionVersion(false);
-console.log(version); // Сообщается версии "2.1.0" в логи
-```
-
-### `getPageletiable(String)`
-
-Возвращает переменную с сайта, если она существует.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Интерфейс
