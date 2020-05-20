@@ -32,7 +32,7 @@ Sie können es auf Ihrer [Bewerbungsseite](https://discordapp.com/developers/app
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Gibt ein `Präsenzdaten` Objekt zurück, in dem die Präsenz angezeigt wird.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -52,11 +52,11 @@ Löscht Ihre aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Legt den Tray-Titel in der Menüleiste fest.
 
-### `getStrings(Object)`
+### `getStrings(Objekt)`
 
-Ermöglicht das Abrufen übersetzter Zeichenfolgen aus der Erweiterung. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Ermöglicht das Abrufen übersetzter Zeichenfolgen aus der Erweiterung. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. Du kannst die Zeichenketten finden, die diesen Endpunkt verwenden: `https://api.premid.app/v2/langFIle/extension/de`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
@@ -69,22 +69,23 @@ strings = await presence.getStrings({
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Gibt eine Variable von der Webseite zurück, falls sie vorhanden ist.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
 console.log(pageVar); // Dies protokolliert den "Variableninhalt"
 ```
 
-### `getExtensionVersion(Boolean)`
+### `getExtensionVersion(Boolean)
+`
 Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console. og(numeric); // Log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Log 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -108,9 +109,9 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ## `PresenceData` Schnittstelle
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Die `presenceData` Schnittstelle wird empfohlen, wenn Sie die `setActivity()` Methode verwenden.
 
-This interface has following variables, all of them are optional.
+Diese Schnittstelle hat folgende Variablen, die alle optional sind.
 
 <table>
   <thead>
@@ -189,7 +190,7 @@ var presenceData: presenceData = {
 
 ## Veranstaltungen
 
-Events allow you to detect and handle some changes or calls that were made. Sie können Ereignisse mit der Methode `auf` abonnieren.
+Ereignisse ermöglichen es Ihnen, einige Änderungen oder Anrufe zu erkennen und zu bearbeiten. Sie können Ereignisse mit der Methode `auf` abonnieren.
 
 ```typescript
 presence.on("UpdateData", async () => {    // Tun Sie etwas, wenn Daten aktualisiert werden.
@@ -204,4 +205,4 @@ Dieses Ereignis wird jedes Mal aktualisiert, wenn die Anwesenheit ebenfalls aktu
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Wird ausgelöst, wenn Daten vom iFrame Skript empfangen werden.
