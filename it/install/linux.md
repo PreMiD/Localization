@@ -10,13 +10,13 @@ tags:
 
 L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
 
-## Table of Contents
+## Pagina dei Contenuti
 
 - **[About](#about)**
-  - [Stats](#stats)
+  - [Statistiche](#stats)
   - [Requisiti](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - Esempi (Soon™)
+  - FAQ (soon™)
   - Building (soon)
   - [Support](#support)
   - [Crediti](#credits)
@@ -42,7 +42,7 @@ L'installazione dell'applicazione è molto importante, poiché l'estensione non 
 
 <a name="stats"></a>
 
-### Stats
+### Statistiche
 
 <table>
   <tr>
