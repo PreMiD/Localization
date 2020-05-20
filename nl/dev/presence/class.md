@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -29,6 +29,10 @@ Er zijn twee eigenschappen beschikbaar voor `Presence` class.
 Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
 
 ## Methodes
+
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -63,6 +67,26 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getPageletiable(String)`
+
+Retourneert een variabele van de website als deze bestaat.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
+```
+
+### `getExtensionVersion(Boolean)`
+Geeft als resultaat de extensie versie die de gebruiker gebruikt.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Geeft terug: 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Geeft terug: 2.1.0
+```
+
 ### `getSetting(String)`
 Retourneert de waarde van de instelling.
 ```typescript
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); ///vervang pdexID met het id van de instelling
 Toont gegeven instelling (werkt alleen als de instelling al verborgen was).
 ```typescript
 presence.showSetting("pdexID"); ///vervang pdexID met het id van de instelling
-```
-
-### `getExtensionVersion(Boolean)`
-Geeft als resultaat de extensie versie die de gebruiker gebruikt.
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Geeft terug: 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // Geeft terug: 2.1.0
-```
-
-### `getPageletiable(String)`
-
-Retourneert een variabele van de website als deze bestaat.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## `presenceData` Interface
