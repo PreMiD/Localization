@@ -2,7 +2,7 @@
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
 published: vero
-date: 2020-05-19T01:04:06.641Z
+date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
@@ -29,6 +29,10 @@ La Proprietà `clientId` deve essere inserita affinché la tua presence funzioni
 Puoi ottenerlo nella tua [pagina di applicazioni](https://discordapp.com/developers/applications).
 
 ## Metodi
+
+### `getActivity()`
+
+Returns a `presenceData` object of what the presence is displaying.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -63,6 +67,26 @@ strings = await presence.getStrings({
 });
 ```
 
+### `getPageletiable(String)`
+
+Ritorna una variabile dal sito, se esiste.
+
+```typescript
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // This will log the "Variable content"
+```
+
+### `getExtensionVersion(Boolean)`
+Restituisce la versione dell'estensione in uso dall'utente.
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+var version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
+```
+
 ### `getSetting(String)`
 Returns value of setting.
 ```typescript
@@ -80,26 +104,6 @@ presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 Shows given setting (Only works if the setting was already hidden).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
-```
-
-### `getExtensionVersion(Boolean)`
-Restituisce la versione dell'estensione in uso dall'utente.
-```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
-
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
-```
-
-### `getPageletiable(String)`
-
-Ritorna una variabile dal sito, se esiste.
-
-```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
 ```
 
 ## Interfaccia `presenceData`
