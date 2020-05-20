@@ -54,5 +54,21 @@
 	"home.features.simpleInterface.description.2": {
 		"message": "Presence stjórnun",
 		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Raða eftir flokkum",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Hjálp",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Eitthvað er bilað, sendir þér helling af villum eða einfaldlega virkar ekki? Við munum hjálpa þér að losa þig við þessi mál á Discord server-inum okkar, við bjuggum til okkar eigið stuðningskerfi sem mun tryggja að vandamálið þitt leysist eins fljótt og hægt er.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Tungumál",
+		"description": "Tippy content of the language selector."
 	}
 }
