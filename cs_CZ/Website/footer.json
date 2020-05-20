@@ -15,6 +15,10 @@
 		"message": "Partneři",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Sleduj nás",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "Vývojáři",
 		"description": "Developer section"
@@ -46,6 +50,10 @@
 	"footer.supportus.translate": {
 		"message": "Přeložit",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Pracuj s námi!",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Pomoc",
