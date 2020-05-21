@@ -309,14 +309,14 @@ Ayrıca isterseniz regExp kısmını da kullanabilirsiniz, ileride açıklaması
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      <td style="text-align:left">Bir regex, URL'leri daha kolay yakalamakta kullanılır.<br>
+      regExp seçeneği eğer sitenin çok fazla alt domaini varsa çok kullanışlıdır.<br>
+Böyle durumlarda regExp olarak bunu kullanabilirsiniz:<br>
+<code>([a-z0-9]+)[.]domain[.]TLD"</code><br> 
+TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br> 
+<code>([a-z0-9]+)</code> a'dan z'ye, 0'dan 9'a anlamına gelir.<br>
+        <a href="https://youtu.be/sXQxhojSdZM">Buraya</a> tıklayarak güzel bir eğitim videosunu izleyebilirsiniz.<br>
+        regExp'inizi <a href="https://regex101.com/">Regex101</a> sitesinde test edebilirsiniz.
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
