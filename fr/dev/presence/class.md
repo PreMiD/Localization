@@ -73,7 +73,7 @@ Retourne une variable du site web si elle existe.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Cela enregistrera le « contenu variable »
 ```
 
 ### `getExtensionVersion(Boolean)`
