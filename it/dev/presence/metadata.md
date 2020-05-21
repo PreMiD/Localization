@@ -15,32 +15,32 @@ L'esempio di quel file può essere trovato di seguito.
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVIZIO",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIZIONE"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSIONE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIA",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO MOSTRATO",
+            "icon": "ICONA GRATUITA DI FONTAWESOME",
             "value": true
         },
         {
@@ -48,15 +48,15 @@ L'esempio di quel file può essere trovato di seguito.
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "TITOLO MOSTRATO",
+            "icon": "ICONA GRATUITA DI FONTAWESOME",
+            "value": "\"%song%\" di %artist%",
+            "placeholder": "usa %song% oppure %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO MOSTRATO",
+            "icon": "ICONA GRATUITA DI FONTAWESOME",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -91,7 +91,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>collaboratori</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
+      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
         dello sviluppatore e facendo click destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code>
       </td>
@@ -111,7 +111,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
       <td style="text-align:left"><b>descrizione</b>
       </td>
       <td style="text-align:left">Breve descrizione della presenza, puoi usare la descrizione del servizio
-        se non hai idee. La tua descrizione deve avere valori di coppia chiave che indicano la lingua, e la descrizione in quella specifica lingua. Crea descrizioni con le lingue <i>che conosci</i>, i nostri traduttori modificheranno il file di metadati. View the category for presence languages for a list. </td>
+        se non hai idee. La tua descrizione deve avere valori di coppia chiave che indicano la lingua, e la descrizione in quella specifica lingua. Crea descrizioni con le lingue <i>che conosci</i>, i nostri traduttori modificheranno il file di metadati. Vedi la categoria per le lingue delle presence per una lista. </td>
       <td style="text-align:left"><code>Oggetto</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -120,8 +120,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL del servizio.<br><b>Ad Esempio:</b><code>vk.com</code><br><b>Questo url deve essere uguale a quello del sito siccome verrà utilizzato per controllare se lo script deve essere iniettato in questo sito. Questo può solo essere usato come un array quando ci sono più di un url.</b>
       </td>
       <td style="text-align:left"><code>Stringa, Schieramento&lt;String&gt;</code>
       </td>
@@ -214,7 +213,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>impostazioni</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Un array di settaggi che l'utente può cambiare</td>
       <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>sì</code>
