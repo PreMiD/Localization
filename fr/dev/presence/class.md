@@ -1,16 +1,16 @@
 ---
-title: Classe de présence
-description: La classe principale pour chaque présence PreMiD
+title: Classe de presence
+description: La classe principale pour chaque presence PreMiD
 published: vrai
 date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
-# Classe de présence
+# Classe de presence
 
 ## Introduction
 
-La classe `Presence` est très utile car elle possède des méthodes de base dont nous avons besoin pour créer une présence.
+La classe `Presence` est très utile car elle possède des méthodes de base dont nous avons besoin pour créer une presence.
 
  Lorsque vous créez une classe, vous devez spécifier la propriété `clientId`.
 
@@ -24,7 +24,7 @@ Il y a deux propriétés disponibles pour la classe `Presence`.
 
 #### `clientId`
 
-La propriété `clientId` doit être fournie pour que votre présence fonctionne, car elle utilise votre identifiant d'application pour afficher son logo et ses actifs.
+La propriété `clientId` doit être fournie pour que votre presence fonctionne, car elle utilise votre identifiant d'application pour afficher son logo et ses actifs.
 
 Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
 
@@ -32,15 +32,15 @@ Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/devel
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Retourne un objet `presenceData` de ce que la présence affiche.
 
 ### `setActivity(presenceData, Boolean)`
 
 Définit l'activité de votre profil en fonction des données fournies.
 
-Le premier paramètre nécessite une interface `présenceData` pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
+Le premier paramètre nécessite une interface `presenceData` pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
 
-Le deuxième paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `présenceData`.
+Le deuxième paramètre définit quand la presence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `presenceData`.
 
 ### `clearActivity()`
 

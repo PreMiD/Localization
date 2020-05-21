@@ -527,7 +527,7 @@ Le site Web sur lequel vous développez est automatiquement rechargé chaque foi
 - Si cela ne vous aide pas non plus, demandez à un développeur de présence sur notre serveur [Discord](https://discord.gg/WvfVZ8T) pour obtenir de l'aide.
 
 # Explications des fichiers
-- [Classe de présence](/dev/presence/class)
+- [Classe de presence](/dev/presence/class)
 - [Classe iFrame](/dev/presence/iframe)
 - [Fichier de métadonnées](/dev/presence/metadata)
 - [Configuration TypeScript](/dev/presence/tsconfig)
