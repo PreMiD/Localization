@@ -1,4 +1,12 @@
 {
+	"footer.language": {
+		"message": "Tungumál",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Tilbúinn að nota PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.supportus.donate": {
 		"message": "Styrkja",
 		"description": "Donate -> redirects to patreon.com/timeraa"
