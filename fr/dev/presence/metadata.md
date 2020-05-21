@@ -2,7 +2,7 @@
 title: Métadonnées.json
 description: Contient des données de base sur la Presence
 published: vrai
-date: 2020-04-24T12:45:27.030Z
+date: 2020-05-21T16:01:05.836Z
 tags:
 ---
 
@@ -230,7 +230,7 @@ Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
 #### Apprentissage
 
-• [RegexOne](https://regexone.com/) • [Informations sur les expressions régulières](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### En Test
 
