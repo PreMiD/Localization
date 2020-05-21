@@ -8,7 +8,7 @@ tags:
 
 # Metadario
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Se vuoi publicare una presence nello store e caricarla per mezzo dell'estensione, dovresti create il file `metadata.json` nella tua cartella `dist`.
 
 L'esempio di quel file può essere trovato di seguito.
 
