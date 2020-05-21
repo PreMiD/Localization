@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contém dados básicos sobre a Presença
 published: true
-date: 2020-04-24T12:45:27.030Z
+date: 2020-05-21T16:01:05.836Z
 tags:
 ---
 
@@ -225,7 +225,7 @@ Se você quer aprender expressões regulares, aqui estão alguns sites.
 
 #### Aprendendo
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Testando
 
