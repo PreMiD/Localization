@@ -2,7 +2,7 @@
 title: Développement de la présence
 description:
 published: vrai
-date: 2020-05-17T14:23:17.252Z
+date: 2020-05-21T15:59:59.864Z
 tags:
 ---
 
@@ -313,13 +313,15 @@ Vous pouvez également utiliser regExp aussi connu sous le nom de Regex pour cet
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Une chaîne d'expression rationnelle utilisée pour faire correspondre les URL.<br>
-      regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site web a plusieurs sous-domaines.<br>
-Vous pouvez utiliser le regExp suivant pour cela :<br>
-<code>([a-z0-9]+)[.]domaine[.]TLD"</code><br>
-TLD représentant le domaine de niveau supérieur pour axample: . om .net<br> 
-<code>([a-z0-9]+ )</code> signifie n'importe quoi de a à z et de 0 à 9.<br>
-        Vous pouvez tester votre regExp sur <a href="https://regex101.com/">Regex101</a></td>
+      <td style="text-align:left">A regular expression string used to match urls.<br>
+      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
+You could use the following regExp for that:<br>
+<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+TLD standing for Top Level Domain for axample: .com .net<br> 
+<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
+        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
+        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      </td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
