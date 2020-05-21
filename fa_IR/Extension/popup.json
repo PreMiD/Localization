@@ -1,1 +1,6 @@
-{}
+{
+	"popup.headings.description": {
+		"message": "شرح",
+		"description": "Title of the description area in the presence settings view."
+	}
+}
