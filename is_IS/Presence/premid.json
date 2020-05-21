@@ -1,1 +1,10 @@
-{}
+{
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Leysa vandamál",
+        "description": "A page name"
+    }
+}
