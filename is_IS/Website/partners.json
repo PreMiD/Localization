@@ -19,6 +19,14 @@
 		"message": "Ókeypis Presence",
 		"description": "Heading for the first benefit."
 	},
+	"partners.why.benefit1.description": {
+		"message": "Lið okkar mun veita þér Presence fyrir þjónustu þína.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Vertu staðfestur",
+		"description": "Heading for the second benefit."
+	},
 	"partners.apply.success": {
 		"message": "Takk fyrir að sækja um!",
 		"description": "Success message when applying."
