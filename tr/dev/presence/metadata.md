@@ -223,7 +223,7 @@ Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz 
 
 #### Öğrenme
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Hızlı Başlangıç Videosu](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expression Hakkında Bilgi](https://www.regular-expressions.info/tutorial.html)
 
 #### Test Etme
 
