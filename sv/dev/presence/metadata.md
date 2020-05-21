@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Innehåller grundläggande data om Presence
 published: true
-date: 2020-04-24T12:45:27.030Z
+date: 2020-05-21T16:01:05.836Z
 tags:
 ---
 
@@ -229,7 +229,7 @@ Om du vill lära dig reguljära uttryck, här är några webbplatser.
 
 #### Learning
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Testing
 
