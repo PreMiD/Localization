@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
 published: tak
-date: 24.04.2020 12:45
+date: 2020-05-21T16:01:05.836Z
 tags:
 ---
 
@@ -229,7 +229,7 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 #### Nauka
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Testowanie
 

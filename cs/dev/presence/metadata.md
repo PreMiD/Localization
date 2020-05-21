@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základní údaje o přítomnosti
 published: true
-date: 2020-04-24T12:45:27,030Z
+date: 2020-05-21T16:01:05.836Z
 tags:
 ---
 
@@ -229,7 +229,7 @@ Pokud se chcete naučit regulární výrazy, zde je několik webových stránek.
 
 #### Učení
 
-• [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Testing
 

@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-05-17T14:23:17.252Z
+date: 2020-05-21T15:59:59.864Z
 tags:
 ---
 
@@ -66,7 +66,7 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Twój status **MUSI** mieć zdjęcia i opisy SFW, nawet jeżeli jest NSFW. Jeżeli twój status jest o stronie NSFW, dodaj tag `nsfw` do twoich metadanych.
 - Twój status **NIE MOŻE** manipulować pamięcią lokalną w przeglądarce.
 - Twój status może używać ciasteczek do przechowywania informacji, musisz prefiksnąć wszystkie z nich za pomocą `pmd_`.
-- Nazwa twojego statusu **MUSI** być nazwą twojego katalogu statusu. Na przykład, Status nazwany `Google Docs` musi mieć katalog `/Google Docs/`. ( You should include all spaces, periods, commas, and any other special characters. )
+- Nazwa twojego statusu **MUSI** być nazwą twojego katalogu statusu. Na przykład, Status nazwany `Google Docs` musi mieć katalog `/Google Docs/`. ( Powinieneś zaliczyć w to wszystkie spacje, kropki, przecinki czy inne znaki. )
 
 ## Modyfikacja
 > You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
@@ -98,7 +98,7 @@ Aby twój status dotarł do sklepu, to **MUSI** on przejść przez proces na Git
 
 1. Aby potwierdzić, że Twój status jest zgodny ze standardami, trzeba dwóch weryfikatorów. Jeśli zdarzy ci się otrzymać prośbę o zmianę, podejmij odpowiedni wysiłek i dokonaj poprawek, w przeciwnym razie **NIE** zostanie ona dodana.
 2. Jeśli poprosimy o zmiany, a Twoje żądanie "pull request" przekroczy ** 7 dni nieaktywności ** bez wprowadzenia niezbędnych zmian, będziemy zmuszeni je zamknąć.
-3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( e.g., its author in case you can't access it for any reason ).
+3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( np. jego autor, jeśli nie możesz uzyskać do niego dostępu z jakiegokolwiek powodu ).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
 5. Dostarczone zrzuty ekranu powinny być prawdziwe, **NIE** poddane edycji.
 6. Każdy wprowadzony kod, który zostanie połączony z tym repozytorium będzie licencjonowany na licencji **Mozilla Public License 2.0**.
@@ -319,7 +319,9 @@ You could use the following regExp for that:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
 TLD standing for Top Level Domain for axample: .com .net<br> 
 <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
+        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
+        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      </td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
