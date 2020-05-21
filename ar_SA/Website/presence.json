@@ -7,6 +7,10 @@
 		"message": "الوصف",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "سجل التغييرات",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "المعلومات",
 		"description": "The title of the information section."
