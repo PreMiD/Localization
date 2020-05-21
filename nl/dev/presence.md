@@ -312,14 +312,14 @@ U kunt regExp ook bekend als Regex gebruiken voor deze taak, word hier onder ver
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
+      <td style="text-align:left">Een reguliere expressie die word gebruikt om URLs te vergelijken.<br>
+      regExp ook bekend als Regex, kan worden gebruikt als een website meerdere subdomeinen heeft.<br>
+U kunt de volgende regExp daarvoor gebruiken:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+TLD staat voor Top Level Domain bijvoorbeeld: .com .net<br> 
+<code>([a-z0-9]+)</code> betekent alles van a tot z en van 0 tot 9.<br>
+        Je kunt een handleiding video kijken <a href="https://youtu.be/sXQxhojSdZM">hier</a><br>
+        Je kunt uw regExp testen bij <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>String</code>
       </td>

@@ -229,7 +229,7 @@ Als je reguliere expressies wilt leren, zijn hier enkele websites.
 
 #### Leren
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Handleiding Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Reguliere Expressies Informatie](https://www.regular-expressions.info/tutorial.html)
 
 #### Testen
 
