@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Samstarfsaðilar",
+		"description": "Heading for page."
+	},
 	"partners.apply.success": {
 		"message": "Takk fyrir að sækja um!",
 		"description": "Success message when applying."
