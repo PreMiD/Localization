@@ -27,6 +27,38 @@
 		"message": "Vertu staðfestur",
 		"description": "Heading for the second benefit."
 	},
+	"partners.why.benefit2.description": {
+		"message": "Sérstakt hlutverk og mikill heiður verður þér veitt á Discord netþjóninum okkar.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integration",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Notar sjálfkrafa Presence þína þegar einhver er að heimsækja vefsíðuna þína.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Vertu ódauðlegur",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Ógeðslegur staður á félagasíðunni okkar.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Vertu frægur",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Er á samfélagsmiðlum okkar.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "Hvað erum við að leita að?",
+		"description": "Heading for the first requirement."
+	},
 	"partners.apply.success": {
 		"message": "Takk fyrir að sækja um!",
 		"description": "Success message when applying."
