@@ -32,7 +32,7 @@ Puoi ottenerlo nella tua [pagina di applicazioni](https://discordapp.com/develop
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Ritorna un oggetto `presenceData` circa che cosa la presence sta mostrando.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -73,7 +73,7 @@ Ritorna una variabile dal sito, se esiste.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Questo scriverà nel log il "Contenuto della Variabile"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -82,9 +82,9 @@ Restituisce la versione dell'estensione in uso dall'utente.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Scriverà nel log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Scriverà nel log 2.1.0
 ```
 
 ### `getSetting(String)`
