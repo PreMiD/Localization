@@ -2,7 +2,7 @@
 title: Desenvolvimento de Presenças
 description:
 published: true
-date: 2020-05-17T14:23:17.252Z
+date: 2020-05-21T15:59:59.864Z
 tags:
 ---
 
@@ -308,13 +308,15 @@ Você também pode usar regExp também conhecida como Regex para esta tarefa, ex
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Uma string de expressão regular usada para combinar urls.<br>
-      regExp ou mais conhecido como Regex, pode ser usado se um website tiver múltiplos subdomínios.<br>
-Você pode usar o seguinte regExp para isso:<br>
+      <td style="text-align:left">A regular expression string used to match urls.<br>
+      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
+You could use the following regExp for that:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD que signfica Domínio de Topo (ou Top Level Domain em inglês) por exemplo: .com .net<br> 
-<code>([a-z0-9]+)</code> significa qualquer coisa de A á Z e de 0 á 9.<br>
-        Você pode testar sua regExp na <a href="https://regex101.com/">Regex101</a></td>
+TLD standing for Top Level Domain for axample: .com .net<br> 
+<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
+        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
+        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      </td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sim</code>
