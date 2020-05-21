@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.creator": {
-		"message": "创建者",
+		"message": "创始人",
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.executiveDirector": {
@@ -36,7 +36,7 @@
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "Linux 维护者",
+		"message": "Linux 维护员",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
