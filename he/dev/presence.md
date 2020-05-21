@@ -2,7 +2,7 @@
 title: פיתוח תוסף
 description:
 published: true
-date: 2020-05-17T14:23:17.252Z
+date: 2020-05-21T15:59:59.864Z
 tags:
 ---
 
@@ -318,7 +318,9 @@ You could use the following regExp for that:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
 TLD standing for Top Level Domain for axample: .com .net<br> 
 <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a></td>
+        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
+        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      </td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -371,7 +373,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>קטגוריה</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code>
