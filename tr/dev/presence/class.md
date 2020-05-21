@@ -32,7 +32,7 @@ Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Geçerli durumun bilgisini içeren `presenceData` verisi döner.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -73,7 +73,7 @@ Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Değişkenin içeriğini gösterecektir
 ```
 
 ### `getExtensionVersion(Boolean)`
