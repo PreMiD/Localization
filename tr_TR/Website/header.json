@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Giriş Yap",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Şu hesabı kullanıyorsunuz:",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Hata bildir",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Kontrol Paneli",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Çıkış",
+    "description": "Logout button"
   }
 }
