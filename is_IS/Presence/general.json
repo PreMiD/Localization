@@ -18,5 +18,9 @@
 	"general.search": {
 		"message": "Leitar",
 		"description": ""
+	},
+	"general.store": {
+		"message": "Verslun",
+		"description": ""
 	}
 }

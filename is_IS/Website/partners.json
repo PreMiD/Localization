@@ -3,6 +3,22 @@
 		"message": "Samstarfsaðilar",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Vertu með í frægðinni og fáðu ávinning af einni félaga til að sýna fram á hversu mikið þú hefur af þér.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Þau tilheyra okkur þegar",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Hvernig væri að fara til himna í stað helvítis?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Ókeypis Presence",
+		"description": "Heading for the first benefit."
+	},
 	"partners.apply.success": {
 		"message": "Takk fyrir að sækja um!",
 		"description": "Success message when applying."
