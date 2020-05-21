@@ -3,6 +3,10 @@
 		"message": "Skoðar...",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Tungumál",
+		"description": "For choosing a language"
+	},
 	"general.live": {
 		"message": "Útsending",
 		"description": ""
