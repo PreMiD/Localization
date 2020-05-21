@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Содержит основные данные о присутствии
 published: true
-date: 24 апреля 2020г. 12:45:27
+date: 2020-05-21T16:01:05.836Z
 tags:
 ---
 
@@ -229,7 +229,7 @@ tags:
 
 #### Обучение
 
-• [RegexOne](https://regexone.com/) • [Регулярные выражения информация](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Проверка
 
