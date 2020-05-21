@@ -47,6 +47,10 @@
 		"message": "More Info required",
 		"description": "User needs to input more notification"
 	},
+	"report.error.unauth": {
+		"message": "Discord account needs to be verified",
+		"description": "Users Discord not verified"
+	},
 	"report.activebugs":{
 		"message": "Active Bugs",
 		"description": "Lists users active bugs"
