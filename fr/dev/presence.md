@@ -142,11 +142,11 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 23. Il est **INTERDIT** de coder des présences pour un site sans ajouter de support à sa langue principale (ex : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même).
 24. Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), qui se traduit par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ENORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Autre chose comme `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` ou changement de `1.0.0` à `2.0.` sur une correction de bug/petit changement n'est **PAS autorisé**.
 25. Déclarer la variable de presence avant quoi que ce soit ( peut causer des problèmes d'utilisateurs qui peuvent être empêchés ).
-26. Do **NOT** edit the `tsconfig.json` file, use exactly what is specified on the [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
-27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
-28. All presences **MUST**  include an English description, including websites that aren't natively English.
-29. Presences for the Tor network's websites (.ONION TLDs) are **NOT** allowed at all.
-30. Always make sure to start your Presence in the most appropriate folder, if its name starts with any Latin letter then it must be under its alphabetical match ( e.g. `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **MUST** be under the "#" folder ( e.g. `#/巴哈姆特` ) and numbers under the "0-9" folder ( e.g. `0-9/4anime` ).
+26. **NE PAS** éditer le fichier `tsconfig.json` , utilisez exactement ce qui est spécifié dans la [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
+27. Les presences avec support uniquement pour un seul sous-domaine ne seront **PAS autorisées** , car ils peuvent sembler cassés pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour la politique et les pages de contact ( contenu qui n'est pas beaucoup utilisé ) ou les sites où l'autre contenu n'est pas lié ( e. pages wikia ).
+28. Toutes les presences **DOIVENT**  inclure une description anglaise, y compris les sites Web qui ne sont pas nativement anglais.
+29. Les presences pour les sites web du réseau Tor (.ONION TLDs) ne sont pas du tout autorisées ****.
+30. Assurez-vous toujours de démarrer votre Presence dans le dossier le plus approprié, si son nom commence par une lettre latine, alors il doit être sous sa correspondance alphabétique ( e.g. `D/dアニメストア` or `G/Google` ). Tous les autres caractères Unicode/non-Latin **DOIT** être sous le dossier ( e.g. `#/巴哈姆特`) et les numéros sous le dossier «0-9» ( e.g. `0-9/4anime` ).
 
 Après avoir respecté toutes les directives et que votre présence ai été examinée au moins deux fois, votre présence sera fusionnée avec le store.
 
