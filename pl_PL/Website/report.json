@@ -6,5 +6,29 @@
     "report.bugcount": {
         "message": "Pozostało {count}/3 raportów",
         "description": "Amount of bug reports user can send"
+    },
+    "report.info": {
+        "message": "Zgłaszanie błędów dotyczy błędów na stronie PreMiD oraz na serwerze Discord PreMiD. Błędy występujące w aktywności Presence mają być zgłaszane ich twórcy. Zgłoś błędy pisząc w języku angielskim.",
+        "description": "Tells the user about submitting a bug"
+    },
+    "report.overview": {
+        "message": "Krótki przegląd - Podaj jasny i zwięzły opis tego, co jest błędem.",
+        "description": "Text for the user to write a breif of the bug information."
+    },
+    "report.os": {
+        "message": "Wybierz swój system operacyjny i wersję",
+        "description": "Select Box for the user to select their operating system"
+    },
+    "report.browser": {
+        "message": "Wybierz swoją przeglądarkę i wersję - aby wyświetlić nr wersji w przeglądarce Firefox, odwiedź about:support, w Google Chrome - chrome://help",
+        "description": "Select Box for the user to select their browser"
+    },
+    "report.button": {
+        "message": "Zgłoś",
+        "description": "Button to send the information inputed."
+    },
+    "report.toomany": {
+        "message": "Masz zbyt wiele aktywnych raportów. Poczekaj na sprawdzenie przesłanych raportów. Raporty są sprawdzane codziennie, bądź cierpliwy.",
+        "description": "User has too many active reports"
     }
 }
