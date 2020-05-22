@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Login",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Eingeloggt als",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Melde einen Fehler",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Ausloggen",
+    "description": "Logout button"
   }
 }
