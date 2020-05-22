@@ -6,7 +6,7 @@ date: 2020-05-21T15:59:59.864Z
 tags:
 ---
 
-> Wszystkie statusy są trzymane tutaj: https://github.com/PreMiD/Presences 
+> Wszystkie aktywności Presence przechowywane są tutaj: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
