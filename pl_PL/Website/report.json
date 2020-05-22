@@ -1,1 +1,10 @@
-{}
+{
+    "report.title": {
+        "message": "Zgłoś błąd",
+        "description": "Text to indicate the page."
+    },
+    "report.bugcount": {
+        "message": "Pozostało {count}/3 raportów",
+        "description": "Amount of bug reports user can send"
+    }
+}
