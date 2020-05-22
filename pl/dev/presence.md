@@ -69,13 +69,13 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Nazwa twojego statusu **MUSI** być nazwą twojego katalogu statusu. Na przykład, Status nazwany `Google Docs` musi mieć katalog `/Google Docs/`. ( Powinieneś zaliczyć w to wszystkie spacje, kropki, przecinki czy inne znaki. )
 
 ## Modyfikacja
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
+> MUSISZ zmienić wersję w **metadanych** aby była wyższą wartością niż poprzednia wersja podczas wprowadzania zmian do **presence.ts**/**presence.js** lub **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Oto lista, którą **MUSISZ** przestrzegać, aby modyfikować statusy.
+W niektórych sytuacjach Presence mogą zachowywać się niespodziewanie lub mogą wykorzystywać pewne drobne zmiany w celu poprawy ich funkcjonowania. Oto lista, którą **MUSISZ** przestrzegać, aby modyfikować statusy.
 
-- **NIE** możesz przepisywać Presence lub zmieniać jego autora. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- **NIE** możesz przepisywać Presence lub zmieniać jego autora. Jeśli autor Presence został zbanowany z oficjalnego serwera lub nie wprowadził wymaganych zmian w ciągu siedmiu dni, możesz skontaktować się z `Weryfikatorem Presence`, aby sprawdzić, czy możesz przepisać wybraną przez siebie Presence.
 - Każdy może udostępnić poprawki do naprawy błędów; jednak staraj się **NIE** wprowadzać zmian w kodzie, jeżeli **NIE** ma takiej potrzeby. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Skontaktuj się z `Weryfikatorem Presence`, aby uzyskać więcej informacji na ten temat.
 - Upewnij się, że zmiany są przydatne. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. **NIE** zmieniaj obrazków, jeżeli nie są przestarzałe i mają przyzwoitą rozdzielczość.
