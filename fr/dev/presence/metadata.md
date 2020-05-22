@@ -1,6 +1,6 @@
 ---
 title: Métadonnées.json
-description: Contient des données de base sur la Presence
+description: Contient des données de base sur la Présence
 published: vrai
 date: 2020-05-21T16:01:05.836Z
 tags:
