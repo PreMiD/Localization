@@ -13,15 +13,7 @@
     },
     "report.overview": {
         "message": "Kurze Zusammenfassung - Gebe uns eine klase und präzise Beschreibung des Fehlers.",
-        "description": "Text for the user to write a breif of the bug information."
-    },
-    "report.os": {
-        "message": "Wähle dein Betriebssystem und die Version aus",
-        "description": "Select Box for the user to select their operating system"
-    },
-    "report.browser": {
-        "message": "Wähle deinen Browser und die Version aus - Du kannst die Version herausfinden indem du about:support in Firefox oder chrome://help öffnest",
-        "description": "Select Box for the user to select their browser"
+        "description": "Text for the user to write a brief of the bug information."
     },
     "report.description": {
         "message": "Beschreibung - Gebe uns einen Link zu einem Live-Beispiel oder eine Schritt-für-Schritt Erklärung, wie man diesen Fehler reproduzieren kann.",
@@ -38,10 +30,6 @@
     "report.success": {
         "message": "Fehler gemeldet",
         "description": "Success notification"
-    },
-    "report.error": {
-        "message": "Mehr Informationen benötigt",
-        "description": "User needs to input more notification"
     },
     "report.error.unauth": {
         "message": "Dein Discord Konto muss verifiziert sein",
