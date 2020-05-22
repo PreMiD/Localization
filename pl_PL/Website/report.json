@@ -30,5 +30,25 @@
     "report.toomany": {
         "message": "Masz zbyt wiele aktywnych raportów. Poczekaj na sprawdzenie przesłanych raportów. Raporty są sprawdzane codziennie, bądź cierpliwy.",
         "description": "User has too many active reports"
+    },
+    "report.toomany.alert": {
+        "message": "Masz zbyt wiele aktywnych raportów.",
+        "description": "User has too many active reports"
+    },
+    "report.success": {
+        "message": "Błąd zgłoszony",
+        "description": "Success notification"
+    },
+    "report.error": {
+        "message": "Wymagane więcej informacji",
+        "description": "User needs to input more notification"
+    },
+    "report.error.unauth": {
+        "message": "Konto Discord musi zostać zweryfikowane",
+        "description": "Users Discord not verified"
+    },
+    "report.activebugs": {
+        "message": "Aktywne błędy",
+        "description": "Lists users active bugs"
     }
 }
