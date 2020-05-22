@@ -10,7 +10,7 @@ tags:
 
 Si vous souhaitez publier une présence dans la boutique et la charger via l'extension, vous devez créer le fichier ` metadata.json ` dans votre dossier ` dist `.
 
-L'exemple de ce fichier peut être trouvé ci-dessous.
+Un exemple de ce fichier peut être trouvé ci-dessous:
 
 ```javascript
 {
