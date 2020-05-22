@@ -17,11 +17,11 @@ Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkowni
 > 
 > {.is-warning}
 
-> When you make pull requests about adding or modifying existing Presences, you **MUST** include a screenshot. However, modifications to a Presence's `metadata.json` or `tsconfig.json` files do **NOT** require a screenshot. _Your screenshot **MUST** be directly uploaded to GitHub with the pull request, do **NOT** use third-party image sharing sites._ 
+> Podczas wysyłania pull requestów o dodawanie lub modyfikowanie istniejących Presences, **MUSISZ** dołączyć zrzut ekranu. Jednakże, modyfikacje plików `metadata.json` lub `tsconfig.json` **NIE** wymagają zrzutu ekranu. _Twój zrzut ekranu **MUSI** zostać przesłany bezpośrednio na GitHub wraz z wysłaniem Pull Request, **NIE** używaj stron udostępniania zdjęć innych firm._ 
 > 
 > {.is-warning}
 
-Kiedy publikujesz statusy do tego GitHuba, wymagamy przestrzegania zbioru wytycznych. Dla niektórych te surowe zasady mogą wydawać się surowe. Jednak wdrożenie tych zestawów reguł powstrzyma nas i użytkowników od problemów.
+Podczas publikowania Presence w serwisie GitHub wymagamy przestrzegania zbioru wytycznych. Dla niektórych te ścisłe zasady mogą wydawać się surowe. Jednak wdrożenie tych zestawów reguł powstrzyma nas i użytkowników od problemów.
 
 ## Tworzenie
 > Kod, który zapisałeś MUSI być *dobrze napisany* i *czytelny*. `DeepScan` na GitHub zgłosi problemy z jakością kodu do `Zespołu Weryfikacji Prezentacji`. Zalecamy, aby Twój fork był aktualny podczas pobierania żądań, pomoże to ograniczyć fałszywe dodatnie. 
@@ -58,7 +58,7 @@ Zanim zaczniesz tworzyć swoj status, pamietaj o następującej liście.
 - Status **MUSI** być związany z stroną, którą wybrałeś.
 - Status **NIE MOŻE** być związany z żadną nielegalną stroną. Należą do nich czynniki stresujące, narkotyki, pornografia dziecięca itp.
 - Metadata statusu **MUSI** zawierać dobrze napisaną treść, w tym tytuły i opisy.
-- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
+- Dołączone media ( ikona/miniatura ) **MUSZĄ** być powiązane z witryną i powinny być zrozumiałe pod względem wielkości i jakości.
 - Struktura plików **MUSI** być czysta i zarządzana, **NIE MOŻE** mieć losowych plików, które nic nie wnoszą do funkcji statusu.
 - Status **NIE MOŻE** mieć żadnych złych intencji. Obejmują one kradzież/wyciek prywatnych informacji, negatywny wpływ na zachowanie strony itd.
 - Jeżeli projektujesz status dla witryny, która zmieni się w przyszłości, i przez to może zniszczyć twój status **JESTEŚ** odpowiedzialny za aktualizacje go, żeby działał tak jak oczekiwano. Jeżeli **NIE** naprawisz tego w ciągu 7 dni, inni deweloperzy statusów mają prawo do **NADPISANIA** statusu, aby działał tak jak powinien.
