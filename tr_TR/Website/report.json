@@ -15,6 +15,10 @@
         "message": "Açıklama - Hata hakkında anlaşılır ve detaylı bir açıklama girin.",
         "description": "Text for the user to write a brief of the bug information."
     },
+    "report.os": {
+        "message": "İşletim sisteminizi ve sürümünü seçin",
+        "description": "Select Box for the user to select their operating system"
+    },
     "report.description": {
         "message": "Açıklama - Örneklerinizi ve hatayı nasıl aldığınızı açıklayın.",
         "description": "Text for the user to write information about the bug."
@@ -30,6 +34,10 @@
     "report.success": {
         "message": "Hata Bildirildi",
         "description": "Success notification"
+    },
+    "report.error": {
+        "message": "Daha Fazla Bilgi Gerekli",
+        "description": "User needs to input more notification"
     },
     "report.error.unauth": {
         "message": "Discord hesabınızın doğrulanmış olması gerekmektedir",
