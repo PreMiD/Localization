@@ -19,10 +19,6 @@
         "message": "Bugi Lähetetty",
         "description": "Success notification"
     },
-    "report.error": {
-        "message": "Lisää tietoja tarvitaan",
-        "description": "User needs to input more notification"
-    },
     "report.error.unauth": {
         "message": "Discord-tili on vahvistettava",
         "description": "Users Discord not verified"
