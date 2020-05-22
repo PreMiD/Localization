@@ -71,6 +71,10 @@
 		"message": "Schneller Support",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Irgendwas ist fehlerhaft, gibt dir tonnenweise Fehlermeldungen oder funktioniert nicht? Wir helfen dir auf unserem Discord Server, diese Probleme zu beseitigen. Wir haben auch unser eigenes Supportsystem erstellt, um sicher zu stellen, dass dein Problem schnellstmöglich behoben wird.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Tritt unserem Discord Server bei",
 		"description": "Features section button"

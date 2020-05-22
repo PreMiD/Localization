@@ -51,6 +51,10 @@
 		"message": "Nur gemochte Präsenzen",
 		"description": "Liked presences only checkbox"
 	},
+	"store.filters.added": {
+		"message": "Nur hinzugefügte Präsenzen",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Kategorien",
 		"description": "Category heading"
