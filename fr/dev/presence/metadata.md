@@ -230,7 +230,7 @@ Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
 #### Apprentissage
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Vidéo de démarrage rapide](https://youtu.be /sXQxhojSdZM) • [ RegexOne](https://regexone.com/) • [In formations sur les expressions régulières](https://www.regular- expressions.info/tut orial.html)
 
 #### En Test
 
