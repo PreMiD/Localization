@@ -102,7 +102,7 @@ Pour que votre présence rejoigne notre store, il **DOIT** passer par un process
 4. S'il s'agit d'une mise à jour ou d'un patch, la capture d'écran **DOIT** montrer les nouveaux ajouts qui fonctionnent, **pas** d'anciennes fonctionnalités des précédents pull requests.
 5. Les captures d'écran fournies doivent être réelles, **PAS** modifiées.
 6. Tout code contribué qui sera fusionné dans ce dépôt sera sous la licence **Mozilla Public License 2.0**.
-7. Presences for free domains or hosts ( e.g., .TK, [all free Freenom domains], .RF.GD, etc ) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
+7. Présences pour des domaines ou des hôtes gratuits (par exemple, .TK, [tous les domaines libres de Freenom], .RF. D, etc) ne sont **PAS** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
 8. Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme "playing"/"pause" pour les sites de vidéos, « navigation» pour des sites réguliers et d'autres cas) non pas pour pas promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 9. Les exigences pour les logos sont 1:1 (Carré) en 512px, par contre, les vignettes doit être [ soit comme une carte promotionnelle large](https://i.imgur.com/3QfIc5v.jpg) ou simplement [une capture d'écran](https://i.imgur.com/OAcBmwW.png) si la première **n'est pas** disponible.
 10. Les présences doivent avoir au moins un tag. Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
