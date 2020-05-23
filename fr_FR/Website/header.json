@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Se connecter",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Connecté(e) en tant que",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Signaler un bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Tableau de bord",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Se déconnecter",
+    "description": "Logout button"
   }
 }
