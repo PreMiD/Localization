@@ -15,21 +15,9 @@
 		"message": "Создатель",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Исполнительный директор",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "Руководитель операции",
-		"description": "'Operation Supervisor' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Главный комьюнити-менеджер",
 		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Старший разработчик ПО",
-		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Веб-разработчик",

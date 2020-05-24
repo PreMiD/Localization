@@ -15,21 +15,9 @@
 		"message": "创始人",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "执行董事",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "运营主管",
-		"description": "'Operation Supervisor' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "全局社区代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "首席软件工程师",
-		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "网页开发",
