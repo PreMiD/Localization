@@ -80,11 +80,11 @@ En algunas situaciones, las presencias pueden comportarse inesperadamente o podr
 - Si haces modificaciones a una presencia y cambias al menos un **UN CUARTO** del código base de la misma, puedes añadirte como colaborador. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (De código o tipográficas), añadidos (Descripciones y etiquetas), etc. No cambien las imágenes a menos de que estén desactualizadas y tengan una mala resolución.
 - Confirme que los cambios funcionan antes de publicar. Do **NOT** create pull requests without knowing the outcome of your changes.
-- When you make changes to a presence, modify the `presence.ts` file and compile it, do not make changes to the `presence.js` file directly.
+- Cuando hagas cambios a una presencia, modifica el archivo `presence.ts` y compilalo, no hagas cambios en el archivo `presence.js` directamente.
 
 # Verificación
 
-> ⚠️ **Warning**: Presence developers are now required to use `TypeScript`, the option for `JavaScript` presences has been completely removed. 
+> ⚠ **Advertencia**: Los desarrolladores de presencias ahora deben usar `TypeScript`, la opción para presencias `JavaScript` ha sido completamente eliminada. 
 > 
 > {.is-warning}
 
@@ -92,9 +92,9 @@ En algunas situaciones, las presencias pueden comportarse inesperadamente o podr
 > 
 > {.is-warning}
 
-> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. All `Presence Verifiers` will have a unique role in their profile.
+> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. Todos los `Presence Verifiers` tendrán un rol único en su perfil.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Estas son algunas cosas a tener en cuenta al enviar un Pull Request.
+Para que tu presencia llegue a la tienda, **DEBE** pasar un proceso en GitHub para confirmar que funciona como se espera. Estas son algunas cosas a tener en cuenta al enviar un Pull Request.
 
 1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
 2. Si se solicitan cambios y su Pull Request excede **7 días de inactividad** sin llevarlos a cabo, nos veremos obligados a cerrar dicho Pull Request.
