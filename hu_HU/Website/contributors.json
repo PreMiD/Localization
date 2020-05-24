@@ -15,21 +15,9 @@
 		"message": "Készítő",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Ügyvezető igazgató",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "Műveleti felügyelő",
-		"description": "'Operation Supervisor' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Globális közösségi képviselő",
 		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Vezető szoftvermérnök",
-		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Webfejlesztő",
