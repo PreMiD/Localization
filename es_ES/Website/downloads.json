@@ -1,6 +1,10 @@
 {
+	"downloads.header.title": {
+		"message": "Hora de presumir.",
+		"description": "Title"
+	},
 	"downloads.header.subtitle": {
-		"message": "Empieza a usar PreMiD ahora y muéstrale a tus amigos que estás haciendo, tal vez encuentres a alguien con tus mismos intereses.",
+		"message": "Empieza a usar PreMiD ahora y presumele a tus amigos que estás haciendo, tal vez encuentres a alguien con tus mismos intereses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -74,6 +78,10 @@
 	"downloads.error.noaccess.title": {
 		"message": "Oh, parece que no tienes acceso alfa ni beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Puedes unirte a nuestro programa beta gratis **aquí**. ¡Apurate! Solo tenemos {0} espacios disponibles.",
+		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
 		"message": "Ultimas versiones",
