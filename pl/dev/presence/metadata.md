@@ -229,7 +229,7 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 #### Nauka
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Szybki start wideo](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Informacje o regularnych wyrażeniach](https://www.regular-expressions.info/tutorial.html)
 
 #### Testowanie
 
