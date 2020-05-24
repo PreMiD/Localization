@@ -3,6 +3,18 @@
 		"message": "Empecemos",
 		"description": "Displayed at Downloads page above steps"
 	},
+	"downloads.instructions.step_1": {
+		"message": "Descarga PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Instala nuestra aplicación",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Agrega nuestra extensión a tú navegador",
+		"description": "Heading for installing the application"
+	},
 	"downloads.appdownloading.header": {
 		"message": "Aplicación",
 		"description": "Header above application download buttons."
