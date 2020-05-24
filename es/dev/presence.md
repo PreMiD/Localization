@@ -76,9 +76,9 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **DEBE** tener en cuenta al modificar una presencia.
 
 - Usted **NO** tiene permitido reescribir una presencia o cambiar su autor. Si la el autor de la Presencia fue baneado del servidor oficial o no hizo los requeridos cambios en un periodo de siete (7) días, puedes contactar con un `Presence Verifier` para ver si puedes reescribir la Presencia.
-- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
-- Asegúrese de que las modificaciones son útiles. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
+- Cualquiera puede proporcionar hotfixes para corregir errores; sin embargo, prueba **NO** para hacer cambios en el código que **NO** necesitan ser corregidos. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- Si haces modificaciones a una presencia y cambias al menos un **UN CUARTO** del código base de la misma, puedes añadirte como colaborador. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
+- Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (De código o tipográficas), añadidos (Descripciones y etiquetas), etc. No cambien las imágenes a menos de que estén desactualizadas y tengan una mala resolución.
 - Confirme que los cambios funcionan antes de publicar. Do **NOT** create pull requests without knowing the outcome of your changes.
 - When you make changes to a presence, modify the `presence.ts` file and compile it, do not make changes to the `presence.js` file directly.
 
