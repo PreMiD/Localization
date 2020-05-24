@@ -32,7 +32,7 @@ Możesz to uzyskać na [stronie aplikacji](https://discordapp.com/developers/app
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Zwraca obiekt `presenceData` o tym, co jest wyświetlane.
 
 ### `setActivity(presenceData, Boolean)`
 
