@@ -15,21 +15,9 @@
 		"message": "作者",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "クリエイティブ ディレクター",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "アニメーションスーパーバイザー",
-		"description": "'Operation Supervisor' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "グローバルコミュニティー代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "主要なソフトウェア・エンジニア",
-		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Web開発者",
