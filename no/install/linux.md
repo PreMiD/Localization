@@ -59,9 +59,9 @@ Installasjonen av denne extensionen er veldig viktig grunnet applikasjonen ikke 
 
 <a name="requirements"></a>
 
-### Requirements
+### System krav
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Teknisk sett så kan alle distribusjoner som kan kjøre Discord's [ offisiele](https://discordapp.com/download)**app** (ikke web eller snap versjonen) kan også kjøre PreMiD;</br> Som du kanskje har lagt merke til i de siste årene så har noen Linux distribusjoner sluttet med å utvikle support for 32-bit architectures, og som et result så har vi også. Du kan da, uansett prøve å lage en app for deg selv, selv hvis du virkelig trenger å bruke det på en 32-bit distribusjon</br> Siden vi bruker Electron som en engine (Discord gjør også det!), så er det et krav også på denne appen.
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
