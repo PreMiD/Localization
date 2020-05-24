@@ -58,7 +58,7 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 - La presencia **DEBE** estar relacionada con el sitio web que ha elegido.
 - La presencia **NO DEBE** ser de ningún sitio web ilegal. Estos incluyen páginas estresantes, sustancias ilegales, pornografía infantil, etc.
 - Los metadatos de una presencia **DEBEN** tener un formato correcto, incluyendo títulos válidos y descripciones.
-- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
+- Los archivos que incluyas (Iconos/miniaturas) **DEBEN** estar relacionados con el sitio y debe ser correctos en términos de tamaño y calidad.
 - La estructura de archivos **DEBE** ser limpia y controlada, **NO** debe haber archivos aleatorios que no proporcionen nada a la función de la presencia.
 - La presencia **NO DEBE** tener intenciones maliciosas. Estas incluyen robo/filtración de información privada, afectar negativamente al comportamiento del sitio web, etc.
 - Si diseña una presencia para un sitio que cambia en el futuro y como resultado, potencialmente rompe su presencia, usted **ES** responsable de actualizarlo para que funcione como se esperaba. Si **NO** se arreglase en un plazo de 7 días, otros desarrolladores de presencias pueden **CORREGIR** su presencia para incluir los cambios necesarios.
@@ -75,7 +75,7 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 
 En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **DEBE** tener en cuenta al modificar una presencia.
 
-- Usted **NO** tiene permitido reescribir una presencia o cambiar su autor. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
+- Usted **NO** tiene permitido reescribir una presencia o cambiar su autor. Si la el autor de la Presencia fue baneado del servidor oficial o no hizo los requeridos cambios en un periodo de siete (7) días, puedes contactar con un `Presence Verifier` para ver si puedes reescribir la Presencia.
 - Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
