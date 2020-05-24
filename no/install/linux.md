@@ -67,7 +67,7 @@ Teknisk sett så kan alle distribusjoner som kan kjøre Discord's [ offisiele](h
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Der er ikke kjent om eldre versjoner av andre distribusjoner har støtte for det, så bare ha distribusjonene dine oppdatert og bruk **LTS (Long Term Support**releases hvis din distribusjon støtter det, grunnet at det er mer stabilt (unngå alpha releases).
 
 <a name="support"></a>
 
@@ -83,13 +83,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Credits
 
-Thanks to :
+Takk til:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (og noen andre folk som jeg glemte navnet til) for å tilby feedback på utgivelser.
+- @apriluwu for å vedlikeholde Genoo bygger
+- @SlimShadyIAm og naka for tidligere å vedlikeholde Arch User Respository pakkene.
+- Electron community'et for diverse pakker.
+- Alle andre som har bidratt til prosjektet på noe måte.
 
 <a name="license"></a>
 
@@ -102,14 +102,14 @@ Thanks to :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Sannsynligvis aldri, fordi Snap's nature blokkerer PreMiD fra å koble Discord og ekstensjonen riktig</br>Det ville vært fantastisk om noen kunne ha gjort det da, andre ideer eller PR's er velkommen</br> PS.:. klassisk innføring fungerer heller ikke så ikke bruk tid på å lage et forslag til det.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+AppImage pakken er anbefalt om Discord fungerer for deg men ikke andre PreMiD pakker (.deb, .rpm, osv).
 
 <a name="appimageinstall"></a>
 
@@ -120,15 +120,15 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Bare dobbeltklikk den eller kjør
 ./PreMiD*.AppImage
 ```
 
 <a name="appimagenotes"></a>
 
-### Flere notater
+### Andre notater
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Enten du vil prøve PreMiD eller om du bare ikke vil installere det, så er dette den beste, den er alltid oppdatert men _DEN AUTO-STARTER IKKE MED SYSTEMET!</br> Om du blir lei av å måte åpne det hver gang, så bruk andre pakker (avhengig av din distribusjon.)
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
