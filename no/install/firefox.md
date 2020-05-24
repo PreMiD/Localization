@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: Kom igang med PreMiD installasjonen på Firefox
 published: sant
 date: 2020-02-12T22:08:32.409Z
 tags:
@@ -15,7 +15,7 @@ Installasjonen av denne extensionen er veldig viktig grunnet applikasjonen ikke 
 4. Klikk på den små lille gear ikonet øverst i høyre hjørne.
 5. Velg **Installer add-on fra fil**.
 6. Velg filen du lastet ned nylig.
-7. Accept the installation by clicking on **Add**.
+7. Godta installasjonen ved å klikke på **Legg til**.
 
 > Ikke glem å [legge til** applikasjonen**](/install). 
 > 
