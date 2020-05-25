@@ -120,7 +120,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>        <b>This URL debe coincidir con la URL del sitio web ya que se utilizará para detectar donde y donde no este sitio web inyecta scripts. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>        <b>This URL debe coincidir con la URL del sitio web ya que se utilizará para detectar donde y donde no este sitio web inyecta scripts. Esto solo puede utilizarse como un arreglo cuando hay más de una URrl</b>
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
