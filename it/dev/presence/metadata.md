@@ -244,31 +244,31 @@ Configura le impostazioni interattive in modo che gli utenti possano personalizz
 "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "title": "TITOLO IN MOSTRA",
+            "icon": "ICONA GRATIS FONTAWESOME", //Esempio "fas fa-info"
+            "value": true //Il valore Boolean lo renderà un interruttore on/off con il valore come valore default
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //Se un'altra impostazione è uguale a questo valore (true/false/0/1/etc.) allora mostra questo pulsante
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "title": "TITOLO IN MOSTRA",
+            "icon": "ICONA GRATIS FONTAWESOME",
+            "value": "\"%song%\" di %artist%", //Inserendo una stringa renderà l'impostazione una di input, dove è possibile utilizzare un input personalizzato.
+            "placeholder": "use %song% or %artist%" //Quando l'input è vuoto mostrerà questo grigio
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "titolo": "TITOLO IN MOSTRA"
+            "icon": "ICONA GRATIS FONTAWESOME",
+            "value": 0, //Valore predefinito del selettore
+            "valori": ["1", "2", "ecc. ] //Renderà l'impostazione un selettore dove selezioni quello che vuoi
         }
-    ]
+]
 ```
 
-Use the following methods to get settings info in your presence files:
+Utilizzare i seguenti metodi per ottenere informazioni sulle impostazioni nei file della presenza:
 ### `getSetting(String)`
 Returns value of setting.
 ```typescript
