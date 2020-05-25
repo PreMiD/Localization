@@ -105,13 +105,13 @@ Para sua Presence chegar nas lojas, ela **DEVE** passar por um processo no GitHu
 7. Presences para domínios ou hosts gratuitas (por exemplo, .TK, [todos os domínios gratuitos da Freenom], .RF.GD, etc ) **NÃO** são permitidas, exceções podem ser feitas se uma prova for apresentada mostrando que eles pagaram pelo domínio.
 8. Os fields `smallImageKey` e `smallImageText` destinam-se a fornecer contexto adicional/secundário (tais como "play"/"paused" para sites de vídeo, "browsing" para sites regulares, e outros casos) não para promover perfis Discord ou qualquer coisa não relacionada ao PreMiD.
 9. Os requisitos para as logos são 1:1 (Quadrado) em 512px, as thumbnails, no entanto, devem ser [cartões promocionais largos](https://i.imgur.com/3QfIc5v.jpg) ou simplesmente uma [screenshot](https://i.imgur.com/OAcBmwW.png), se o primeiro **NÃO** estiver disponível.
-10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters ( e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field ).
-12. Descriptions and tags should always be in an array, even when it's only one element. O campo `url`, no entanto, só deve ser uma string se for um domínio.
-13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well ( e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws" ).
-14. Unstable sites that constantly change APIs/domains, randomize HTML elements, or just still being in heavy development are not allowed and will be removed from the store.
-15. The logo and thumbnail on your Presence **MUST** either be `i.imgur.com`, from a CDN that **YOU** own, or from a CDN that gives you permission to **CHANGE** image files.
-16. Verifiers will check if the Presence contains an `__awaiter` function at the beginning of the code ( which comes from an earlier version of ECMAScript ), and in addition to that, make sure the `UpdateData` event used is similar to this:
+10. Presences devem ter pelo menos uma tag. As tags **NÃO** devem incluir espaços, barra, aspas simples/duplas, caracteres Unicode, e devem ser sempre em minúsculas.
+11. A field `url` **NÃO DEVE** incluir `http://` ou `https://`, nem os parâmetros (por exemplo, uma Presence para `https://www.google.com/search?gws_rd=ssl` só terá `www.google.com` na field `url`).
+12. As descrições e tags devem estar sempre em um array, mesmo quando se trata de apenas um elemento. O campo `url`, no entanto, só deve ser uma string se for um domínio.
+13. As tags devem ser usadas como nomes alternativos sempre que possível, e versões reduzidas também devem ser incluídas ( por exemplo, se uma Presence Amazon tivesse incluído suporte AWS, ela teria suas tags como "amazon-web-services" e "aws" ).
+14. Sites instáveis que mudam constantemente as APIs/domínios, randomizam elementos HTML, ou simplesmente ainda estão em desenvolvimento pesado não são permitidos e serão removidos da loja.
+15. A logo e a thumbnail em sua Presence **DEVEM** ser senão `i.imgur.com`, de um CDN que **VOCÊ** possui, ou de um CDN que lhe dá permissão para **MUDAR** os arquivos de imagem.
+16. Os Verifiers irão verificar se a Presence contém uma função `__awaiter` no início do código ( que vem de uma versão anterior do ECMAScript ), e além disso, verificar se o evento `UpdateData` utilizado é similar a este:
 
 ```ts
 presence.on("UpdateData", async () => {
@@ -134,9 +134,9 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 ```
 
 17.  Quando o **Deepscan** enviar um monte de erros ( e isso vai acontecer ), a maioria é um problema com a sua brach estando desatualizada, sempre atualize seu fork GitHub antes de fazer um Pull Request.
-18. If your Presence is new, it **MUST** start with version `1.0.0`, any other version will **NOT** be permitted.
-19. Low-quality Presences ( or ones with one context ) are **NOT** allowed ( e.g., only showing the logo and some text but never changing again ).
-20. **NEVER** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your Presences, you're free to use whatever you need if you do not find them listed in the docs.
+18. Se a sua Presence for nova, **DEVE** começar com a versão `1.0.0`, qualquer outra versão **NÃO** será permitida.
+19. Presences de baixa qualidade ( ou com um contexto ) **NÃO** são permitidas ( por exemplo, apenas mostrando o logotipo e algum texto, mas nunca mudando novamente ).
+20. **NUNCA** utilize funções personalizadas quando [variantes nativas estiverem disponíveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível de extensão também se aplicam às suas Presences, você está livre para utilizar o que precisar se não as encontrar listadas nos documentos.
 21. Declare the Presence const **BEFORE** everything to avoid such rare issues that may occur; this is not a requirement by design so it could be removed in the future.
 22. Presences that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
 23. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
