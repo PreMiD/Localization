@@ -8,7 +8,7 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Si quieres publicar una presencia a la tienda y cargarla a través de la extensión, deberías crear el archivo `metadata.json` en tu carpeta `dist`.
 
 El ejemplo de ese archivo se puede encontrar a continuación.
 
@@ -91,7 +91,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>contribuidores</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debería contener un objeto con <code>name</code> e <code>id</code> del colaborador. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
         del desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
       </td>
@@ -111,7 +111,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas. View the category for presence languages for a list. </td>
+        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas. Mira la categoría para una lista para los lenguajes de una presencia. </td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
       <td style="text-align:left"><code>Nu</code>
@@ -120,8 +120,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>        <b>This URL debe coincidir con la URL del sitio web ya que se utilizará para detectar donde y donde no este sitio web inyecta scripts. This may only be used as an array when there are more than one urls.</b>
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
