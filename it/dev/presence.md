@@ -90,19 +90,19 @@ In alcune situazioni, le Presence possono comportarsi in modo inaspettato o potr
 > 
 > {.is-warning}
 
-> **Conferma** che i [metadati](https://docs.premid.app/en/dev/presence/metadata) della tua presenza sono validi e hanno tutti i campi necessari prima di fare una richiesta di pull. If your metadata contains an optional variable that is set to the default value, remove it ( Presence Verifiers will request you to remove them ). 
+> **Conferma** che i [metadati](https://docs.premid.app/en/dev/presence/metadata) della tua presenza sono validi e hanno tutti i campi necessari prima di fare una richiesta di pull. Se i tuoi metadati contengono una variabile opzionale impostata al valore predefinito, rimuovili ( I Verificatori di Presenze ti richiederanno di rimuoverli ). 
 > 
 > {.is-warning}
 
-> If you need to contact someone, please use our official Discord server. All `Presence Verifiers` will have a unique role in their profile.
+> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. Tutti i `Verificatori di Presenze` avranno un ruolo unico nel loro profilo.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. These are a few things to look out for when making your pull request.
+Affinché la tua presenza raggiunga i negozi, **DEVE** passare attraverso un processo su GitHub per confermare che funziona come previsto. Queste sono alcune cose a cui fare attenzione quando si fa la vostra richiesta di pull.
 
-1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
-2. If we request changes and your pull request exceeds **7 days of inactivity** without making the necessary ones, we'll be forced to close it.
-3. You are allowed to take screenshots of changes made with the help of another user, and you are allowed to stitch screenshots for viewing pleasure. ( e.g., its author in case you can't access it for any reason ).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
-5. The provided screenshots should be real, **NOT** edited.
+1. Ci vogliono due verificatori per confermare che la vostra presenza è all'altezza degli standard. Se ti capita di ottenere richieste di modifica, fare lo sforzo corretto per risolverle, o **NON** sarà aggiunta.
+2. Se richiediamo modifiche e la tua richiesta di pull supera **7 giorni di inattività** senza effettuarne quelle necessarie, saremo costretti a chiuderla.
+3. Ti è permesso di fare screenshot di modifiche fatte con l'aiuto di un altro utente, e ti è permesso di mettere screenshot insieme per una visualizzazione piacevole. (es., il suo autore nel caso in cui non sia possibile accedervi per qualsiasi motivo).
+4. Se si tratta di un aggiornamento o patch, lo screenshot **DEVE** mostrare le nuove aggiunte funzionanti, **NON** vecchie funzionalità dalle precedenti richieste di pull.
+5. Gli screenshot forniti devono essere reali, **NON** modificati.
 6. Qualsiasi codice contribuito che viene unito a questo repository sarà concesso in licenza sotto **Mozilla Public License 2.0**.
 7. Presences for free domains or hosts ( e.g., .TK, [all free Freenom domains], .RF.GD, etc ) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
 8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
