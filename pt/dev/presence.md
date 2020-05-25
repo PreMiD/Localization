@@ -17,7 +17,7 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 > 
 > {.is-warning}
 
-> Quando você fizer pull requests sobre adicionar ou modificar Presences existentes, você **DEVE** incluir uma captura de tela. No entanto, modificações para um arquivo de Presence `metadata.json` ou `tsconfig.json` **NÃO** requerem uma captura de tela. _Sua captura de tela **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use outros sites de compartilhamento de imagem._ 
+> Quando você fizer pull requests sobre adicionar ou modificar Presences existentes, você **DEVE** incluir uma captura de tela. No entanto, modificações para um arquivo de Presence `metadata.json` ou `tsconfig.json` **NÃO** requerem uma screenshot. _Sua screenshot **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use sites terceiros de compartilhamento de imagem._ 
 > 
 > {.is-warning}
 
@@ -99,12 +99,12 @@ Para sua Presence chegar nas lojas, ela **DEVE** passar por um processo no GitHu
 1. São preciso dois verifiers para confirmar que a sua Presence está à altura dos padrões. Se por acaso você receber pedidos de mudança, faça o esforço adequado para consertá-la, ou ela **NÃO** será adicionada.
 2. Se solicitarmos mudanças e seu pull request exceder **7 dias de inatividade** sem fazer as necessárias mudanças, seremos forçados a fechá-lo.
 3. Você pode tirar screenshots de alterações feitas com a ajuda de outro usuário, e você pode costurar screenshots para ser prazeroso de se ver. ( por exemplo, seu autor, caso você não possa acessá-lo pelo motivo que seja ).
-4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
-5. The provided screenshots should be real, **NOT** edited.
+4. Se isso for uma atualização ou patch, a captura de tela **DEVE** mostrar as novas adições funcionando, **NÃO** quaisquer recursos antigos de pull requests anteriores.
+5. As capturas de tela fornecidas devem ser reais, **NÃO** editadas.
 6. Qualquer código contribuído que for mesclado a este repositório será licenciado sob a **Mozilla Public License 2.0**.
-7. Presences for free domains or hosts ( e.g., .TK, [all free Freenom domains], .RF.GD, etc ) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
+7. Presences para domínios ou hosts gratuitas (por exemplo, .TK, [todos os domínios gratuitos da Freenom], .RF.GD, etc ) **NÃO** são permitidas, exceções podem ser feitas se uma prova for apresentada mostrando que eles pagaram pelo domínio.
+8. Os fields `smallImageKey` e `smallImageText` destinam-se a fornecer contexto adicional/secundário (tais como "play"/"paused" para sites de vídeo, "browsing" para sites regulares, e outros casos) não para promover perfis Discord ou qualquer coisa não relacionada ao PreMiD.
+9. Os requisitos para as logos são 1:1 (Quadrado) em 512px, as thumbnails, no entanto, devem ser [cartões promocionais largos](https://i.imgur.com/3QfIc5v.jpg) ou simplesmente uma [screenshot](https://i.imgur.com/OAcBmwW.png), se o primeiro **NÃO** estiver disponível.
 10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters ( e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field ).
 12. Descriptions and tags should always be in an array, even when it's only one element. O campo `url`, no entanto, só deve ser uma string se for um domínio.
