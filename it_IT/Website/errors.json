@@ -6,5 +6,13 @@
 	"user.notFound.heading": {
 		"message": "Questo utente non è stato trovato. Prova ad assicurarti che",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message3": {
+		"message": "Controlla se altri stanno riscontrando lo stesso problema sul nostro server Discord.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Se ritieni che questo sia stato un errore, per favore contattaci nel [nostro server Discord].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
