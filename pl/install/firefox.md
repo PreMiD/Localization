@@ -14,7 +14,7 @@ Instalacja rozszerzenia jest bardzo ważna, ponieważ aplikacja nie może zrobi�
 3. Wyszukaj `about:addons`.
 4. Kliknij ikonę koła zębatego w prawym górnym rogu.
 5. Wybierz **Zainstaluj dodatek z pliku**.
-6. Wybierz plik, który ostatnio pobrałeś.
+6. Wybierz plik, który pobrałeś.
 7. Zaakceptuj instalację klikając **Dodaj**.
 
 > Nie zapomnij [zainstalować **aplikacji**](/install). 
