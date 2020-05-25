@@ -17,7 +17,7 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 > 
 > {.is-warning}
 
-> Quando você fizer pull requests sobre adicionar ou modificar Presences existentes, você **DEVE** incluir uma captura de tela. No entanto, modificações para um arquivo de Presence `metadata.json` ou `tsconfig.json` **NÃO** requerem uma screenshot. _Sua screenshot **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use sites terceiros de compartilhamento de imagem._ 
+> Quando você fizer pull requests sobre adicionar ou modificar Presences existentes, você **DEVE** incluir uma screenshot. No entanto, modificações para um arquivo de Presence `metadata.json` ou `tsconfig.json` **NÃO** requerem uma screenshot. _Sua screenshot **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use sites terceiros de compartilhamento de imagem._ 
 > 
 > {.is-warning}
 
@@ -99,8 +99,8 @@ Para sua Presence chegar nas lojas, ela **DEVE** passar por um processo no GitHu
 1. São preciso dois verifiers para confirmar que a sua Presence está à altura dos padrões. Se por acaso você receber pedidos de mudança, faça o esforço adequado para consertá-la, ou ela **NÃO** será adicionada.
 2. Se solicitarmos mudanças e seu pull request exceder **7 dias de inatividade** sem fazer as necessárias mudanças, seremos forçados a fechá-lo.
 3. Você pode tirar screenshots de alterações feitas com a ajuda de outro usuário, e você pode costurar screenshots para ser prazeroso de se ver. ( por exemplo, seu autor, caso você não possa acessá-lo pelo motivo que seja ).
-4. Se isso for uma atualização ou patch, a captura de tela **DEVE** mostrar as novas adições funcionando, **NÃO** quaisquer recursos antigos de pull requests anteriores.
-5. As capturas de tela fornecidas devem ser reais, **NÃO** editadas.
+4. Se isso for uma atualização ou patch, a screenshot **DEVE** mostrar as novas adições funcionando, **NÃO** quaisquer recursos antigos de pull requests anteriores.
+5. As screenshots fornecidas devem ser reais, **NÃO** editadas.
 6. Qualquer código contribuído que for mesclado a este repositório será licenciado sob a **Mozilla Public License 2.0**.
 7. Presences para domínios ou hosts gratuitas (por exemplo, .TK, [todos os domínios gratuitos da Freenom], .RF.GD, etc ) **NÃO** são permitidas, exceções podem ser feitas se uma prova for apresentada mostrando que eles pagaram pelo domínio.
 8. Os fields `smallImageKey` e `smallImageText` destinam-se a fornecer contexto adicional/secundário (tais como "play"/"paused" para sites de vídeo, "browsing" para sites regulares, e outros casos) não para promover perfis Discord ou qualquer coisa não relacionada ao PreMiD.
