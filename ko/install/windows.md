@@ -11,9 +11,9 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # 설치
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
+1. [이곳](https://premid.app/downloads) 을 눌러 다운로드 하세요!
+2. **Windows**를 선택하세요.
+3. 설치파일을 여세요!
 4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 The application will start automatically. Check for the symbol in your system tray.
