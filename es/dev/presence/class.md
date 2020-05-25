@@ -88,22 +88,22 @@ console.log(version); // Registrará 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Regresa el valor del ajuste.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+console.log(setting); // Esto registrará el valor del ajuste
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Oculta la configuración dada.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Muestra la configuración dada (Solo funciona si el ajuste estaba ya oculto).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
 ```
 
 ## `presenceData` Interfaz
