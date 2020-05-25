@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Visualizzando pagina:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Documenti",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Guardando presenza:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Home page",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Collaboratori",
         "description": "A page name"
@@ -11,8 +27,24 @@
         "message": "Negozio",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Informativa sui Cookie",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Politica sulla privacy",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Termini del servizio",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Info su",
         "description": "A page name"
     },
     "premid.pageSysReq": {

@@ -126,5 +126,93 @@
 	"general.viewCategory": {
 		"message": "Visualizzando categorie:",
 		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Guardando episodio:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Visualizzando genere:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Visualizzando home page",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Visualizzando elenco di:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Visualizzando manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Visualizzando membro:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Guardando film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Guardando playlist:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Visualizzando prodotto:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Guardando il profilo di:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Guardando serie:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Guardando show:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Visualizzando il proprio account",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Visualizzando thread:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Visualizzando utente:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Guardando:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Guardando un video",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Guardando una livestream",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Guardando:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Lista dei desideri:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Politica sulla privacy",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Termini del servizio",
+		"description": "A page name"
 	}
 }
