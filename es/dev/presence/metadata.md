@@ -226,71 +226,71 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
 
 Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
-#### Learning
+#### Aprendiendo
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Probando
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Idioma de una Presence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD es un servicio Polygot, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios de todo el mundo. La lista de idiomas completa puede encontrarse en esta [API endpoint](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Configuraciones de una Presence
+¡Configura ajustes interactivos para que los usuarios puedan personalizar la Presence!
 ```javascript
 "settings": [
         { 
             "id": "ID",
             "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "icon": "FONTAWESOME FREE ICON", //Ejemplo "fas fa-info"
+            "value": true //El valor del Boolean hará un encendido/apagado con el valor como el valor predeterminado.
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //Si otro ajuste equivale a este valor (true/false/0/1/etc.) se mostrará este botón
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //Poniendolo en una String hará el ajuste una Input One, donde podrás personalizar tu Input.
+            "placeholder": "use %song% or %artist%" //Cuando la input está vacía mostrará este Grayed out.
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "values": ["1", "2", "etc."] //Mostrará el ajuste a un selector donde podrías elegir cual quieres.
         }
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Usando los siguientes métodos para conseguir la información de tus ajustes en tus archivos de Presence:
 ### `getSetting(String)`
-Returns value of setting.
+Regresa el valor del ajuste.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+console.log(setting); // Esto registrará el valor del ajuste
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Oculta la configuración dada.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Muestra la configuración dada (Solo funciona si el ajuste estaba ya oculto).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
 ```
 
-## Presence categories
+## Categorias de una Presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Cuando haces tu Presence, debes especificar de que categoría es tu Presence. Esta es una lista de las categorias que puedes usar.
 
 <table>
   <thead>
