@@ -116,24 +116,24 @@ Para sua Presence chegar nas lojas, ela **DEVE** passar por um processo no GitHu
 ```ts
 presence.on("UpdateData", async () => {
   /*...*/
-  // Always use await when using async in the event
+  // Use sempre await quando usar async no evento
   data.smallImageText = (await strings).playing;
   /*...*/
 });
 ```
 
-It should **NOT** be this:
+Isso **NÃO** deveria ser isto:
 
 ```ts
 presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
   /*...*/
-  // Never use yield
+  // Nunca use yield
   data.smallImageText = (yield strings).playing;
   /*...*/
 });
 ```
 
-17.  When **Deepscan** throws a lot of errors ( and it will ), it is mostly an issue with your branch being outdated, always update your GitHub fork before making a Pull Request.
+17.  Quando o **Deepscan** enviar um monte de erros ( e isso vai acontecer ), a maioria é um problema com a sua brach estando desatualizada, sempre atualize seu fork GitHub antes de fazer um Pull Request.
 18. If your Presence is new, it **MUST** start with version `1.0.0`, any other version will **NOT** be permitted.
 19. Low-quality Presences ( or ones with one context ) are **NOT** allowed ( e.g., only showing the logo and some text but never changing again ).
 20. **NEVER** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your Presences, you're free to use whatever you need if you do not find them listed in the docs.
