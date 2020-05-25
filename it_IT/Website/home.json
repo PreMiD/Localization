@@ -39,9 +39,21 @@
 		"message": "Cerca la **tua** presenza",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Abbiamo sviluppato la nostra estensione in modo che ti permetta di aggiungere ed utilizzare Presenze create da altri utenti e gestirle direttamente in essa!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Visita lo store",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Semplice interfaccia utente",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Stanco di complesse interfacce utenti? Ecco perché abbiamo creato e cerchiamo di mantenere la nostra interfaccia utente il più semplice e utile possibile con caratteristiche importanti come:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Impostazioni dell'Applicazione e dell'Estensione",
@@ -49,6 +61,10 @@
 	},
 	"home.features.simpleInterface.description.2": {
 		"message": "Gestore di presenze",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Ordina per categoria",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
