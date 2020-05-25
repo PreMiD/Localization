@@ -62,21 +62,21 @@ Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - A estrutura do arquivo **DEVE** estar limpa e gerenciada, **NÃO** tenha arquivos aleatórios que não forneçam nada para a função da Presence.
 - A Presence **NÃO DEVE** ter quaisquer intenções maliciosas. Estes incluem roubar/vazar informações particulares, afetando negativamente o comportamento do site, etc.
 - Se você projetar uma Presence para um site que por acaso mude no futuro e como resultado, potencialmente quebrando a sua Presence, você **É** responsável por atualizá-la para que funcione como esperado. Se você **NÃO** consertar dentro de sete dias, outros Presence developers são permitidos para **SOBRESCREVÊ-LO** para cumprir com as mudanças.
-- The Presence **MUST** be tested before publishing to confirm that everything works as expected.
-- Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
-- Your Presence **CANNOT** manipulate local storage on the browser.
-- Your Presence may use cookies to store data, you have to prefix all of them with `pmd_`.
-- The name of your Presence **MUST** be the name of your Presence's directory name. Por exemplo, uma Presença chamada `Google Docs` deve ter um diretório de `/Google Docs/`. ( Tu deves incluir todos os espaços, pontos, vírgulas e quaisquer outros caracteres especiais. )
+- A Presence **DEVE** ser testada antes da publicação para confirmar que tudo funciona conforme o esperado.
+- Sua Presence **DEVE** ter imagens e descrições SFW, independentemente de ser NSFW ou não. Se sua Presence é sobre um site NSFW, por favor adicione a tag `nsfw` para a sua metadata.
+- Sua Presence **NÃO PODE** manipular o armazenamento local no navegador.
+- Sua Presence pode usar cookies para armazenar dados, você tem que prefixar todos eles com `pmd_`.
+- O nome da sua Presence **DEVE** ser o nome do diretório da sua Presence. Por exemplo, uma Presence chamada `Google Docs` deve ter um diretório de `/Google Docs/`. ( Você deve incluir todos os espaços, pontos, vírgulas, e quaisquer outros caracteres especiais. )
 
 ## Modificação
-> You MUST change the version in the **metadata** to be a higher value from previous version when making changes to either the **presence.ts**/**presence.js** or **metadata.json**. 
+> Você DEVE alterar a versão no **metadata** para ser um valor maior do que a versão anterior ao fazer alterações tanto no **presence.ts**/**presence.js** quanto no **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, Presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a compiled list that you **MUST** follow to modify Presences.
+Em algumas situações, as Precences podem se comportar de forma inesperada ou podem utilizar algumas pequenas alterações para melhorar a sua funcionalidade. Aqui está uma lista compilada que você **DEVE** seguir para modificar Presences.
 
-- You are **NOT** allowed to rewrite a Presence or change its author. If the Presence author was banned from the official server or hasn't made the required changes in seven days, you may contact a `Presence Verifier` to see if you can to rewrite the Presence of your choice.
-- Anyone may provide hotfixes to fix bugs; however, try **NOT** to make changes to code that does **NOT** need to be fixed. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- Você **NÃO** tem permissão para reescrever uma Presence ou mudar seu autor. Se o autor da Presence foi banido do servidor oficial ou não fez as alterações necessárias em sete dias, você pode entrar em contato com um `Presence Verifier` para ver se você pode reescrever a Presença de sua escolha.
+- Qualquer pessoa pode fornecer hotfixes para corrigir bugs; no entanto, tente **NÃO** fazer alterações no código que **NÃO** precisa ser corrigido. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Entre em contato com um ` Presence Verifier ` para obter mais informações sobre este assunto.
 - Certifique-se de que as modificações são úteis. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
 - Confirme que suas alterações funcionam antes de publicar. Do **NOT** create pull requests without knowing the outcome of your changes.
