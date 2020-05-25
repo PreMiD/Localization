@@ -22,5 +22,33 @@
     "report.browser": {
         "message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help",
         "description": "Select Box for the user to select their browser"
+    },
+    "report.button": {
+        "message": "Reportar",
+        "description": "Button to send the information inputed."
+    },
+    "report.toomany": {
+        "message": "Tiene demasiados reportes activos. Espere a que sus reportes presentados sean revisados. Los reportes se revisan semanalmente, sea paciente.",
+        "description": "User has too many active reports"
+    },
+    "report.toomany.alert": {
+        "message": "Tienes demasiados reportes activos.",
+        "description": "User has too many active reports"
+    },
+    "report.success": {
+        "message": "Error enviado",
+        "description": "Success notification"
+    },
+    "report.error": {
+        "message": "Se requiere más información",
+        "description": "User needs to input more notification"
+    },
+    "report.error.unauth": {
+        "message": "Las cuentas de Discord necesitan ser verificadas",
+        "description": "Users Discord not verified"
+    },
+    "report.activebugs": {
+        "message": "Errores activos",
+        "description": "Lists users active bugs"
     }
 }

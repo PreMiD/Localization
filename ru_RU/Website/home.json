@@ -3,6 +3,10 @@
 		"message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Возможности",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Загрузки ",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -34,6 +38,14 @@
 	"home.features.presencesystem.heading": {
 		"message": "Найдите **свой** статус",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences в том числе от других пользователей!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Посетить магазин",
+		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "Простой интерфейс для пользователей",
