@@ -18,5 +18,29 @@
     "report.button": {
         "message": "Segnala",
         "description": "Button to send the information inputed."
+    },
+    "report.toomany": {
+        "message": "Hai troppe segnalazioni attive. Attendi che le tue segnalazioni siano revisionate. Le segnalazioni sono controllate settimanalmente, sii paziente.",
+        "description": "User has too many active reports"
+    },
+    "report.toomany.alert": {
+        "message": "Hai troppe segnalazioni attive.",
+        "description": "User has too many active reports"
+    },
+    "report.success": {
+        "message": "Bug Inviato",
+        "description": "Success notification"
+    },
+    "report.error": {
+        "message": "Ulteriori informazioni richieste",
+        "description": "User needs to input more notification"
+    },
+    "report.error.unauth": {
+        "message": "L'account Discord deve essere verificato",
+        "description": "Users Discord not verified"
+    },
+    "report.activebugs": {
+        "message": "Bug Attivi",
+        "description": "Lists users active bugs"
     }
 }
