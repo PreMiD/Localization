@@ -1,5 +1,5 @@
 ---
-title: Untitled Page
+title: 제목없음
 description: A little helper for TypeScript
 published: true
 date: 2020-05-09T14:32:40.832Z
