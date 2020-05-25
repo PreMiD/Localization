@@ -15,11 +15,11 @@
 		"message": "Creator",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
+	"contributors.roles.projectManager": {
 		"message": "Project Manager",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
+	"contributors.roles.operationsSupervisor": {
 		"message": "Operations Supervisor",
 		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
@@ -27,7 +27,7 @@
 		"message": "Global Community Representative",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
+	"contributors.roles.systemAdministrator": {
 		"message": "System Administrator",
 		"description": "'System Administrator' title for contributors and user pages."
 	},
