@@ -1,1 +1,22 @@
-{}
+{
+    "report.overview": {
+        "message": "Breve Panoramica - Fornire una descrizione chiara e concisa di cosa è il bug.",
+        "description": "Text for the user to write a brief of the bug information."
+    },
+    "report.os": {
+        "message": "Seleziona il tuo Sistema Operativo e Versione",
+        "description": "Select Box for the user to select their operating system"
+    },
+    "report.browser": {
+        "message": "Selezionare il browser e la versione - È possibile ottenere la versione visitando about:support su Firefox o chrome://help",
+        "description": "Select Box for the user to select their browser"
+    },
+    "report.description": {
+        "message": "Descrizione - Fornire un link ad un esempio diretto o un insieme univoco di passaggi per riprodurre questo bug.",
+        "description": "Text for the user to write information about the bug."
+    },
+    "report.button": {
+        "message": "Segnala",
+        "description": "Button to send the information inputed."
+    }
+}
