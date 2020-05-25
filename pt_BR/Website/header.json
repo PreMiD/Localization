@@ -38,5 +38,13 @@
   "header.login": {
     "message": "Login",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Logado(a) como",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Reportar um bug",
+    "description": "Report a bug button"
   }
 }
