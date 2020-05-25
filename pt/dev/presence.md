@@ -61,7 +61,7 @@ Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - A mídia que você incluir ( icon/thumbnail ) **DEVE** estar relacionada ao site e deve ser compreensível em termos de tamanho e qualidade.
 - A estrutura do arquivo **DEVE** estar limpa e gerenciada, **NÃO** tenha arquivos aleatórios que não forneçam nada para a função da Presence.
 - A Presence **NÃO DEVE** ter quaisquer intenções maliciosas. Estes incluem roubar/vazar informações particulares, afetando negativamente o comportamento do site, etc.
-- If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
+- Se você projetar uma Presence para um site que por acaso mude no futuro e como resultado, potencialmente quebrando a sua Presence, você **É** responsável por atualizá-la para que funcione como esperado. Se você **NÃO** consertar dentro de sete dias, outros Presence developers são permitidos para **SOBRESCREVÊ-LO** para cumprir com as mudanças.
 - The Presence **MUST** be tested before publishing to confirm that everything works as expected.
 - Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
 - Your Presence **CANNOT** manipulate local storage on the browser.
