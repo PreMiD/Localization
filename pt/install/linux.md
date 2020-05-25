@@ -10,7 +10,7 @@ tags:
 
 A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
 
-## Table of Contents
+## Tabela de Conteúdos
 
 - **[Sobre](#about)**
   - [Estatísticas](#stats)
@@ -83,7 +83,7 @@ Não se sabe se versões antigas de outras distribuições o suportam, por isso 
 
 ### Créditos
 
-Thanks to :
+Agradecimentos para :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
 - @apriluwu for maintaining the Gentoo builds
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Notas adicionais
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+O comando de instalação mostrado usa layman, isso está nos repositórios oficiais entre `app-portage/layman`.<br> Para obter atualizações você terá que sincronizar a overlay de tempos em tempos, você pode fazer isso com
 
 ```bash
 layman -S
