@@ -3,6 +3,10 @@
 		"message": "**PreMiD** es simple y configurable que te permite mostrar lo que estás haciendo en la web como estado de jugando ahora en tu Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Características",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Descargas",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -34,6 +38,10 @@
 	"home.features.presencesystem.heading": {
 		"message": "Encuentra **tu** presencia",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar presencias creadas por otros usuarios y gestionarlas en nuestra extensión!",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "Interfaz de usuario simple",
