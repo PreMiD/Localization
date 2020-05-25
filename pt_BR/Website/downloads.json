@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "Hora de aparecer.",
+		"message": "Hora de ostentar.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Comece a usar o PreMiD agora e mostre para as outras pessoas o que você está fazendo, talvez você irá encontrar alguém com os mesmos interesses.",
+		"message": "Use PreMiD agora e mostre para seus amigos o que você está fazendo, talvez você encontre alguém com os mesmos interesses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -16,11 +16,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Instale o nosso aplicativo",
+		"message": "Instale nosso aplicativo",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Instale a nossa extensão para o seu navegador",
+		"message": "Adicione nossa Extensão para seu navegador",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
