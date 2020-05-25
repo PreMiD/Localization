@@ -104,11 +104,11 @@ Affinché la tua presenza raggiunga i negozi, **DEVE** passare attraverso un pro
 4. Se si tratta di un aggiornamento o patch, lo screenshot **DEVE** mostrare le nuove aggiunte funzionanti, **NON** vecchie funzionalità dalle precedenti richieste di pull.
 5. Gli screenshot forniti devono essere reali, **NON** modificati.
 6. Qualsiasi codice contribuito che viene unito a questo repository sarà concesso in licenza sotto **Mozilla Public License 2.0**.
-7. Presences for free domains or hosts ( e.g., .TK, [all free Freenom domains], .RF.GD, etc ) are **NOT** allowed at all, exceptions can be made if a proof is presented showing that they paid for the domain.
-8. The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as "playing"/"paused" for video sites, "browsing" for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-9. The requirements for logos are 1:1 (Square) in 512px, thumbnails, however, should either be [wide promotional cards](https://i.imgur.com/3QfIc5v.jpg) or simply [screenshots](https://i.imgur.com/OAcBmwW.png) if the first is **NOT** available.
-10. Presences should at least have one tag. Tags must **NOT** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-11. The `url` field **MUST NOT** include `http://` or `https://`, neither the parameters ( e.g. a Presence for `https://www.google.com/search?gws_rd=ssl` will only have `www.google.com` in the `url` field ).
+7. Presenze per domini o host gratuiti (es., .TK, [tutti i domini Freenom gratis], .RF.GD, etc ) **NON** sono consentiti affatto, possono essere fatte eccezioni se viene presentata una prova che dimostri di aver pagato per il dominio.
+8. I campi `smallImageKey` e `smallImageText` sono intesi a fornire un contesto aggiuntivo/secondario (come "riproduzione"/"in pausa" per i siti video, "navigando" per siti regolari, e altri casi) non per promuovere profili Discord o qualsiasi cosa non correlata a PreMiD.
+9. I requisiti per i loghi sono 1:1 (Quadrato) in 512px, le miniature, tuttavia, dovrebbero essere [carte promozionali](https://i.imgur.com/3QfIc5v.jpg) o semplicemente [screenshot](https://i.imgur.com/OAcBmwW.png) se la prima **NON** è disponibile.
+10. Le presenze devono avere almeno un tag. I tag devono **NON** includere spazi, slash, virgolette singole/doppie, caratteri Unicode, e dovrebbero essere sempre minuscoli.
+11. Il campo `url` **NON DEVE** includere `http://` o `https://`, né i parametri ( ad es. una Presenza per `https://www.google.com/search?gws_rd=ssl` avrà solo `www.google.com` nel campo `url`).
 12. Descriptions and tags should always be in an array, even when it's only one element. The `url` field, however, should only be a string if it's one domain.
 13. Tags should be used as alternate names whenever possible, and shortened versions must be included as well ( e.g., if an Amazon Presence had included AWS support, it would have its tags like "amazon-web-services" and "aws" ).
 14. Unstable sites that constantly change APIs/domains, randomize HTML elements, or just still being in heavy development are not allowed and will be removed from the store.
