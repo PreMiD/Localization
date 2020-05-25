@@ -472,65 +472,65 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Puoi copiare questo nel tuo file `presence.ts` e modificare i valori. L'impostazione di tutti i valori viene eseguita all'interno dell'evento updataData.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Per esempi suggeriamo di esaminare il codice di presenze come: 1337x o 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Per maggiori informazioni sulla classe della presenza clicca [qui](/dev/presence/class).
 
 ## Impossibile ottenere alcuni dati?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Molti siti web usano [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Questi tag html possono contenere sorgenti multiple come video. Ma non sono pertinenti ogni volta. Alcune sono nascoste o semplicemente non utilizzate attivamente. Verifica se è possibile estrarre le informazioni di cui hai bisogno senza di loro, prima di fare lavoro inutile.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Controllali nella tua browser console (assicurati di essere nella scheda **Elementi**).
+2. Cerca (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Esegui `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Se riscontri che i tuoi dati sono in un iFrame devi fare quanto segue:
+1. Crea un file `iframe.ts`.
+2. Imposta iFrame a `true` nel tuo file di metadati.
+3. Riempimento del file iFrame.
 ```javascript
 var iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+iframe. n("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Ottiene tutti i dati di cui hai bisogno dall'iFrame salvandoli nelle variabili
+  e poi li invia usando iframe.end
   */
-  iframe.send({ //sending data
+  iframe.send({ //invio di dati
     video: video,
     time: video.duration
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Fare in modo che il file della presenza riceva dati dal file iFrame.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
+**Nota:** Questo deve essere posizionato al di fuori dell'evento updateData.
 ## Compilazione
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Apri una console nella tua cartella e digita `tsc -w` per compilare il `presence.ts` nella cartella `/dist`.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Caricamento della presenza
+1. Apri il popup e tieni premuto il pulsante <kbd>Maiusc</kbd> sulla tastiera.
+2. **Carica presenza** apparirà nella sezione Presenze.
+3. Fai clic su di esso mentre tieni ancora premuto il pulsante <kbd>Maiusc</kbd>.
+4. Seleziona la cartella /dist della tua presenza.
 
-# Some helpful things
+# Alcune cose utili
 ## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Il sito Web su cui si sta sviluppando si ricarica automaticamente ogni volta che si salva un file nella cartella.
 
 ## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- Puoi mettere `console.log("Test");` tra il tuo codice e vedere se la console del browser ti dà quell'output. Se sì poi andare avanti e riprovare dopo la funzione successiva. Se no allora c'è un errore sopra.
+- Se questo ancora non ti aiuta, allora chiedi aiuto a uno sviluppatore di presenze sul nostro [server Discord](https://discord.gg/WvfVZ8T).
 
-# Files explained
+# File spiegati
 - [Classe Presenza](/dev/presence/class)
 - [Classe iFrame](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [File dei metadati](/dev/presence/metadata)
 - [Configurazione TypeScript](/dev/presence/tsconfig)
 {.links-list}
