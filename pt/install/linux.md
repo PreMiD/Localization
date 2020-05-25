@@ -61,13 +61,13 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 
 ### Requisitos
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Tecnicamente toda distribuição que pode executar o **aplicativo** [oficial](https://discordapp.com/download) do Discord (não a versão web ou snap) também pode executar o PreMiD;</br> Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas 32-bit (ia32/i686/i386/x86), e como resultado, nós também. Você pode, no entanto, tente build o aplicativo você mesmo se você precisar desesperadamente usá-lo em uma distribuição de 32 bits.</br> Como atualmente usamos Electron como um engine (Discord também!), seus requisitos também se aplicam a este aplicativo :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Não se sabe se versões antigas de outras distribuições o suportam, por isso basta manter sua distribuição atualizada e usar versões **LTS (Long-Term Support)** se sua distribuição as oferecer, pois elas são mais estáveis (evite versões alfa).
 
 <a name="support"></a>
 
@@ -181,14 +181,14 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Outros AUR/Pacman helpers também funcionam bem, embora a funcionalidade de cada um deles seja diferente para que você possa enfrentar problemas enquanto os utiliza.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+O mesmo se aplica a seus derivados, como ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
