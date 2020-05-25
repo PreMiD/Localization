@@ -58,7 +58,7 @@ Prima di iniziare a lavorare sulla tua presenza, tieni in mente il seguente elen
 - La presenza **DEVONO** essere correlata al sito che hai scelto.
 - La presenza **NON DEVE** essere di siti illegali. Tra questi, lo stressor, la droga, la pornografia infantile, eccetera.
 - I metadati di Presence **DEVE** hanno contenuti ben scritti, inclusi titoli e descrizioni validi.
-- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
+- I media che includi (icona/miniatura) **DEVONO** essere correlati al sito e dovrebbero essere comprensibili in termini di dimensioni e qualità.
 - La struttura del file <strong x-id='"1">DEVONO</strong> essere pulita e gestita, <strong x-id="1">NON</strong> ha file casuali che non forniscono nulla alla funzione di Presence.</li>
 <li>La presenza <strong x-id="1">NON DEVE</strong> essere di siti illegali. Queste includono informazioni private, impatto negativa sul comportamento del sito, ecc.</li>
 <li>Se si progetta una Presence per un sito che cambia in futuro e di conseguenza potenzialmente rompendo la tua Presence, tu <strong x-id="1">SONO</strong> sei responsabile di aggiornarla per funzionare come previsto. Se non lo corregi <strong x-id="1">NON</strong> entro sette giorni, gli altri sviluppatori di. Presence sono autorizzati a <strong x-id="1">OVERWRITE</strong> per conformarsi alle modifiche.</li>
@@ -80,17 +80,17 @@ In alcune situazioni, le Presence possono comportarsi in modo inaspettato o potr
 - **NON** sei autorizzato a riscrivere una Presenza o a cambiare il suo autore. Se l'autore della Presenza è stato bannato dal server ufficiale o non ha apportato le modifiche richieste in sette giorni, puoi contattare un `Verificatore di Presenze` per vedere se è possibile riscrivere la Presenza di tua scelta.
 - Chiunque può fornire hotfix per correggere i bug; Tuttavia, prova a **NON** apportare modifiche al codice che **NON** hanno bisogno di essere corrette. Le modifiche valide sono, ma **NON** limitate a, _percorsi mancanti_, _errori_, _immagini mancanti_, ecc.
 - Se fai delle modifiche ad una Presenza e cambi almeno un **QUARTO** del codice base di riferimento della Presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un `Verificatore di Presenze` per ulteriori informazioni su questo argomento.
-- Make sure the modifications are useful. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
-- Confirm that your changes work before publishing. Do **NOT** create pull requests without knowing the outcome of your changes.
-- When you make changes to a presence, modify the `presence.ts` file and compile it, do not make changes to the `presence.js` file directly.
+- Assicurati che le modifiche siano utili. Questi possono includere correzioni ( codice e errori di battitura ), aggiunte ( descrizioni e etichette ), ecc. **NON** cambiare le immagini se non sono obsolete e hanno una risoluzione decente.
+- Conferma che le modifiche funzionano prima della pubblicazione. **NON** creare richieste di pull senza conoscere il risultato delle tue modifiche.
+- Quando si apportano modifiche a una presenza, modificare il file `presence.ts` e compilalo, non apportare modifiche al file `presence.js` direttamente.
 
 # Verifica
 
-> ⚠️ **Warning**: Presence developers are now required to use `TypeScript`, the option for `JavaScript` presences has been completely removed. 
+> ⚠ **Attenzione**: Gli sviluppatori di Presence sono ora tenuti ad utilizzare `TypeScript`, l'opzione per presenze in `JavaScript` è stata completamente rimossa. 
 > 
 > {.is-warning}
 
-> **Confirm** that your presence's [metadata](https://docs.premid.app/en/dev/presence/metadata) is valid and has all of the necessary fields before making a pull request. If your metadata contains an optional variable that is set to the default value, remove it ( Presence Verifiers will request you to remove them ). 
+> **Conferma** che i [metadati](https://docs.premid.app/en/dev/presence/metadata) della tua presenza sono validi e hanno tutti i campi necessari prima di fare una richiesta di pull. If your metadata contains an optional variable that is set to the default value, remove it ( Presence Verifiers will request you to remove them ). 
 > 
 > {.is-warning}
 
