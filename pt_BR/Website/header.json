@@ -47,6 +47,10 @@
     "message": "Reportar um bug",
     "description": "Report a bug button"
   },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
   "header.logout": {
     "message": "Deslogar",
     "description": "Logout button"
