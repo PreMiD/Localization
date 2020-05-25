@@ -12,7 +12,7 @@ L'installazione dell'applicazione è molto importante, poiché l'estensione non 
 
 ## Pagina dei Contenuti
 
-- **[About](#about)**
+- **[Info su](#about)**
   - [Statistiche](#stats)
   - [Requisiti](#requirements)
   - Esempi (Soon™)
@@ -36,7 +36,7 @@ L'installazione dell'applicazione è molto importante, poiché l'estensione non 
 
 <a name="about"></a>
 
-## About
+## Info su
 
 **PreMiD** è semplice, utilità configurabile che utilizza la libreria RP di Discord ( Rich Presence ) che ti permette di mostrare ciò che stai facendo sul web ( e alcuni programmi ) nel tuo profilo di Discord come **stato di gioco**.
 
