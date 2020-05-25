@@ -15,9 +15,21 @@
 		"message": "Créateur",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "Chef de projet",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Responsable des Opérations",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Représentant Global de la Communauté",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Administrateur Système",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Développeur Web",
