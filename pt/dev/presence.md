@@ -24,11 +24,11 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 Publicando Presences a este GitHub, nós requeremos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras evitará que nós e os usuários nos deparemos com qualquer problema.
 
 ## Criação
-> O código que você escrever DEVE ser *bem escrito* e PRECISA ser *legível*. O ` DeepScan ` no GitHub reportará problemas de qualidade do código à ` Equipe de Verificação de Presença `. Recomendamos que seu fork seja atualizado quando você fizer solicitações pull, isso ajudará a limitar os falsos positivos. 
+> O código que você escrever DEVE ser *bem escrito* e PRECISA ser *legível*. No GitHub `DeepScan` reportará problemas de qualidade de código à `Equipe de Verificação de Presença`. Recomendamos que seu fork seja atualizado quando você criar pull requests, isso ajudará a limitar falsos positivos. 
 > 
 > {.is-warning}
 
-- A solicitação de recebimento ** DEVE ** está concluída, você precisa de uma estrutura de arquivos adequada, os rascunhos são ** NÃO ** permitido. Including the `presence.ts` file, `tsconfig.json` file ,`dist` folder, `presence.js` file, and `metadata.json` file, which is represented in the following example schema:
+- O pull request **DEVE** ser completa, você precisa ter uma estrutura de arquivo apropriada, rascunhos **NÃO** são permitidos. Incluindo o arquivo `presence.ts`, o arquivo `tsconfig.json`, a pasta `dist`, o arquivo `presence.js`, e o arquivo `metadata.json`, que é representado no exemplo de esquema a seguir:
 ```bash
 websites
 └── {type}
