@@ -3,6 +3,10 @@
         "message": "트윗 보는중:",
         "description": ""
     },
+    "twitter.viewMedia": {
+        "message": "영상 시청중",
+        "description": ""
+    },
     "twitter.viewList": {
         "message": "리스트 보는중:",
         "description": ""
