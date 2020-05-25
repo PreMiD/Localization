@@ -96,9 +96,9 @@ Em algumas situações, as Precences podem se comportar de forma inesperada ou p
 
 Para sua Presence chegar nas lojas, ela **DEVE** passar por um processo no GitHub para confirmar que funciona como esperado. Essas são algumas dicas a serem observadas ao fazer sua solicitação de recebimento.
 
-1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
-2. Se solicitarmos alterações e sua solicitação de recebimento exceder ** 7 dias de inatividade ** sem fazer as necessárias, seremos forçados a fechá-la.
-3. Você pode fazer capturas de tela de alterações feitas com a ajuda de outro usuário, e pode costurar capturas de tela para visualização. ( e.g., its author in case you can't access it for any reason ).
+1. São preciso dois verifiers para confirmar que a sua Presence está à altura dos padrões. Se por acaso você receber pedidos de mudança, faça o esforço adequado para consertá-la, ou ela **NÃO** será adicionada.
+2. Se solicitarmos mudanças e seu pull request exceder **7 dias de inatividade** sem fazer as necessárias mudanças, seremos forçados a fechá-lo.
+3. Você pode tirar screenshots de alterações feitas com a ajuda de outro usuário, e você pode costurar screenshots para ser prazeroso de se ver. ( por exemplo, seu autor, caso você não possa acessá-lo pelo motivo que seja ).
 4. If it is an update or patch, the screenshot **MUST** show the new additions working, **NOT** any old features from previous pull requests.
 5. The provided screenshots should be real, **NOT** edited.
 6. Qualquer código contribuído que for mesclado a este repositório será licenciado sob a **Mozilla Public License 2.0**.
