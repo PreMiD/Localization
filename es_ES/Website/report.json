@@ -14,5 +14,13 @@
     "report.overview": {
         "message": "Resumen breve - Proporcione una descripción clara y concisa de lo que es el error.",
         "description": "Text for the user to write a brief of the bug information."
+    },
+    "report.os": {
+        "message": "Selecciona tu sistema operativo y versión",
+        "description": "Select Box for the user to select their operating system"
+    },
+    "report.browser": {
+        "message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help",
+        "description": "Select Box for the user to select their browser"
     }
 }
