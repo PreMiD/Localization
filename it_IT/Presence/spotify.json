@@ -1,1 +1,30 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Brani in evidenza",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Migliori podcast",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Visualizzando le chart",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Navigando tra i generi",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Guardando le ultime uscite",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Scoprendo nuovi brani",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Navigando tra",
+		"description": "First section of the next 6 strings"
+	}
+}
