@@ -226,20 +226,20 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
 
 Se vuoi imparare le espressioni regolari, ecco alcuni siti web.
 
-#### Learning
+#### Apprendimento
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Video iniziale rapido](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Informazioni sulle espressioni regolari](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Verifica
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Lingue della presenza
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD è un servizio poliglotto, significa che ci sono una moltitudine di lingue coinvolte per collegare gli utenti in tutto il mondo. Un elenco completo di lingue può essere trovato con questo [endpoint API](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Impostazioni presenza
+Configura le impostazioni interattive in modo che gli utenti possano personalizzare la presenza!
 ```javascript
 "settings": [
         { 
