@@ -143,15 +143,15 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 24. Certifique-se sempre que o número da versão segue os [padrões de versão semântica](https://semver.org), o que se traduz no seguinte esquema: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. qualquer outra coisa como `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` ou mudar `1.0.0` para `2.0.0` em uma correção de bug/alteração pequena **NÃO** é permitida.
 25. Declare a variável da presence antes de qualquer coisa, ( pode causar alguns problemas aos usuários que podem ser evitados ).
 26. **NÃO** edite o arquivo `tsconfig.json`, use exatamente o que está especificado na [documentação](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
-27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
-28. All presences **MUST**  include an English description, including websites that aren't natively English.
-29. Presences for the Tor network's websites (.ONION TLDs) are **NOT** allowed at all.
-30. Always make sure to start your Presence in the most appropriate folder, if its name starts with any Latin letter then it must be under its alphabetical match ( e.g. `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **MUST** be under the "#" folder ( e.g. `#/巴哈姆特` ) and numbers under the "0-9" folder ( e.g. `0-9/4anime` ).
+27. Presence com suporte apenas para um único subdomínio **NÃO** serão permitidas, pois podem parecer quebradas para outras páginas ( como a homepage ), exceções podem ser feitas para políticas e páginas de contato ( conteúdo que não é muito utilizado ) ou sites onde o outro conteúdo não está relacionado ( por exemplo, páginas wikia ).
+28. Todas as presences **DEVEM** incluir uma descrição em Inglês, incluindo sites que não são nativamente em Inglês.
+29. Presence para os sites da rede Tor (.ONION TLDs) **NÃO** são permitidas de forma alguma.
+30. Certifique-se sempre de iniciar sua Presence na pasta mais apropriada, se seu nome começa com qualquer letra latina então deve estar sob sua correspondência alfabética ( ex. `D/dアニメストア` ou `G/Google` ). Quaisquer outros caracteres Unicode/não latinos **DEVEM** estar sob a pasta "#" ( ex. `#/巴哈姆特` ) e números sob a pasta "0-9" ( ex. `0-9/4anime` ).
 
-After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
+Após atender a todas as diretrizes e ter sua Presence revisada pelo menos duas vezes, sua Presence será fundida com a loja.
 
 # Estrutura
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Todas as Presences são codificadas em [TypeScript](https://www.typescriptlang.org/). O [TypeScript](https://www.typescriptlang.org/) tem algumas definições de tipo extra apimentadas sobre o JavaScript, portanto, corrigir e identificar bugs é muito mais fácil.
 
 ## Instalação
 1. Instale o [Git](https://git-scm.com/).
