@@ -52,15 +52,15 @@ websites
         ├── iframe.ts
         └── tsconfig.json
 ```
-- {type} standing for: A to Z, "#" for non alphabetic starting presences and "0-9" for presences starting with numbers.
+- {type} referente para: A a Z, "#" para presences começando com não alfabético e "0-9" para presences começando com números.
 <br>
 Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 - A Presença **DEVE** estar relacionada com site que você escolheu.
 - A presença **NÃO DEVE** ser de nenhum site ilegal. Estes incluem sites perturbadores, drogas, pornografia infantil, etc.
-- The Presence metadata **MUST** have well-written content, including valid titles, and descriptions.
-- The media you include ( icon/thumbnail ) **MUST** be related to the site and should be understandable in terms of size and quality.
-- The file structure **MUST** be clean and managed, do **NOT** have random files that provide nothing to the Presence's function.
-- The Presence **MUST NOT** have any malicious intentions. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
+- O metadata da Presence **DEVE** haver conteúdo bem escrito, incluindo títulos válidos, e descrições.
+- A mídia que você incluir ( icon/thumbnail ) **DEVE** estar relacionada ao site e deve ser compreensível em termos de tamanho e qualidade.
+- A estrutura do arquivo **DEVE** estar limpa e gerenciada, **NÃO** tenha arquivos aleatórios que não forneçam nada para a função da Presence.
+- A Presence **NÃO DEVE** ter quaisquer intenções maliciosas. These include stealing/leaking private information, negatively affecting the behavior of the site, etc.
 - If you design a Presence for a site that happens to change in the future and as a result, potentially breaking your Presence, you **ARE** responsible for updating it to work as expected. If you do **NOT** fix it within seven days, other Presence developers are allowed to **OVERWRITE** it to comply with the changes.
 - The Presence **MUST** be tested before publishing to confirm that everything works as expected.
 - Your Presence **MUST** have SFW images and descriptions regardless if it is NSFW or not. If your Presence is about an NSFW site, please add the `nsfw` tag to your metadata.
