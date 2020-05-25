@@ -39,7 +39,7 @@ websites
         ├── presence.ts
         └── tsconfig.json
 ```
-or if you're using `iframe`:
+ou se você estiver usando `iframe`:
 ```bash
 websites
 └── {type}
