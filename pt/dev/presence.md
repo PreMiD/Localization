@@ -137,12 +137,12 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 18. Se a sua Presence for nova, **DEVE** começar com a versão `1.0.0`, qualquer outra versão **NÃO** será permitida.
 19. Presences de baixa qualidade ( ou com um contexto ) **NÃO** são permitidas ( por exemplo, apenas mostrando o logotipo e algum texto, mas nunca mudando novamente ).
 20. **NUNCA** utilize funções personalizadas quando [variantes nativas estiverem disponíveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível de extensão também se aplicam às suas Presences, você está livre para utilizar o que precisar se não as encontrar listadas nos documentos.
-21. Declare the Presence const **BEFORE** everything to avoid such rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-22. Presences that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **NOT** allowed as they require an _experimental flag_ to be enabled on the user's end and could potentially cause damage to their browsers.
-23. It is **FORBIDDEN** to code Presences for a site without adding support to its main language (e.g., a YouTube Presence coded with support for Portuguese and Japanese, but not English itself).
-24. Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme : `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **NOT** permitted.
-25. Declare the presence variable before anything, ( can cause some users issues that can be prevented ).
-26. Do **NOT** edit the `tsconfig.json` file, use exactly what is specified on the [documentation](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
+21. Declare a Presence const **ANTES** de tudo para evitar problemas tão raros que possam ocorrer; isto não é um requisito por projeto para que possa ser removido no futuro.
+22. Presences que visam páginas internas do navegador (como Chrome Web Store, `chrome://`, `about:` pages, etc) **NÃO** são permitidas, pois requerem uma _bandeira experimental_ para serem habilitadas no lado do usuário e podem potencialmente causar danos aos seus navegadores.
+23. É **PROIBIDO** codificar Presences para um site sem adicionar suporte ao seu idioma principal (por exemplo, uma Presence no YouTube codificada com suporte ao Português e Japonês, mas não ao inglês em si).
+24. Certifique-se sempre que o número da versão segue os [padrões de versão semântica](https://semver.org), o que se traduz no seguinte esquema: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. qualquer outra coisa como `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` ou mudar `1.0.0` para `2.0.0` em uma correção de bug/alteração pequena **NÃO** é permitida.
+25. Declare a variável da presence antes de qualquer coisa, ( pode causar alguns problemas aos usuários que podem ser evitados ).
+26. **NÃO** edite o arquivo `tsconfig.json`, use exatamente o que está especificado na [documentação](https://docs.premid.app/en/dev/presence/tsconfig#presence-configuration).
 27. Presences with support only for a single subdomain will **NOT** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for policy and contact pages ( content that isn't used much ) or sites where the other content is unrelated ( e.g wikia pages ).
 28. All presences **MUST**  include an English description, including websites that aren't natively English.
 29. Presences for the Tor network's websites (.ONION TLDs) are **NOT** allowed at all.
