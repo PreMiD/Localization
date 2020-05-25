@@ -17,11 +17,11 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuá
 > 
 > {.is-warning}
 
-> Quando você fizer pull requests sobre adicionar ou modificar Presences existentes, você **DEVE** incluir uma captura de tela. No entanto, modificações nos arquivos `metadata.json` ou `tsconfig.json` de uma presença **NÃO** requerem uma captura de tela. _Sua captura de tela **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use outros sites de compartilhamento de imagem._ 
+> Quando você fizer pull requests sobre adicionar ou modificar Presences existentes, você **DEVE** incluir uma captura de tela. No entanto, modificações para um arquivo de Presence `metadata.json` ou `tsconfig.json` **NÃO** requerem uma captura de tela. _Sua captura de tela **DEVE** ser diretamente enviada para o GitHub com o pull request, **NÃO** use outros sites de compartilhamento de imagem._ 
 > 
 > {.is-warning}
 
-Ao publicar Presenças neste GitHub, exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. No entanto, a implementação desses conjuntos de regras impedirá nós e nossos usuários de encontrar problemas.
+Publicando Presences a este GitHub, nós requeremos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. No entanto, a implementação desses conjuntos de regras impedirá nós e nossos usuários de encontrar problemas.
 
 ## Criação
 > O código que você escreve DEVE ser * bem escrito * e DEVE ser * legível *. O ` DeepScan ` no GitHub reportará problemas de qualidade do código à ` Equipe de Verificação de Presença `. Recomendamos que seu fork seja atualizado quando você fizer solicitações pull, isso ajudará a limitar os falsos positivos. 
