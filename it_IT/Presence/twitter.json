@@ -1,1 +1,6 @@
-{}
+{
+    "twitter.viewDms": {
+        "message": "Guardando i loro DM",
+        "description": ""
+    }
+}
