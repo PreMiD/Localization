@@ -450,10 +450,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", async () => {
     /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Si consiglia di impostare un'altra funzione al di fuori di questa funzione evento che cambierà i valori variabili e farà il sollevamento pesante se si chiamano i dati da un'API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*La chiave (nome del file) dell'immagine grande sulla presenza. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
