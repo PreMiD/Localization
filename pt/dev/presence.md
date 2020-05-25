@@ -76,25 +76,25 @@ Antes de começar a trabalhar na sua Presença, tenha a seguinte lista em mente.
 Em algumas situações, as Precences podem se comportar de forma inesperada ou podem utilizar algumas pequenas alterações para melhorar a sua funcionalidade. Aqui está uma lista compilada que você **DEVE** seguir para modificar Presences.
 
 - Você **NÃO** tem permissão para reescrever uma Presence ou mudar seu autor. Se o autor da Presence foi banido do servidor oficial ou não fez as alterações necessárias em sete dias, você pode entrar em contato com um `Presence Verifier` para ver se você pode reescrever a Presença de sua escolha.
-- Qualquer pessoa pode fornecer hotfixes para corrigir bugs; no entanto, tente **NÃO** fazer alterações no código que **NÃO** precisa ser corrigido. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a Presence and change at least a **QUARTER** of the Presence's codebase, you are allowed to add yourself as a contributor. Entre em contato com um ` Presence Verifier ` para obter mais informações sobre este assunto.
-- Certifique-se de que as modificações são úteis. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **NOT** change images if they are not outdated and have a decent resolution.
-- Confirme que suas alterações funcionam antes de publicar. Do **NOT** create pull requests without knowing the outcome of your changes.
-- When you make changes to a presence, modify the `presence.ts` file and compile it, do not make changes to the `presence.js` file directly.
+- Qualquer pessoa pode fornecer hotfixes para corrigir bugs; no entanto, tente **NÃO** fazer alterações no código que **NÃO** precisa ser corrigido. As modificações válidas são, mas **NÃO** limitadas a, _faltando paths_, _erros de digitação_, _faltando imagens_, etc.
+- Se você fizer modificações em uma Presence e mudar pelo menos um **QUARTO** da base de códigos desta Presence, você está autorizado a se adicionar como um contribuidor. Entre em contato com um ` Presence Verifier ` para obter mais informações sobre este assunto.
+- Certifique-se de que as modificações são úteis. Estes podem incluir correções ( código e erros de digitação ), adições ( descrições e tags ), etc. **NÃO** altere as imagens se elas não estiverem desatualizadas e tiverem uma resolução decente.
+- Confirme que suas alterações funcionam antes de publicar. **NÃO** crie pull requests sem saber o resultado das suas alterações.
+- Quando você fizer alterações em uma Presence, modificar o arquivo `presence.ts` e compilar ele, não faça alterações no arquivo `presence.js` diretamente.
 
 # Verificação
 
-> ⚠️ **Warning**: Presence developers are now required to use `TypeScript`, the option for `JavaScript` presences has been completely removed. 
+> ⚠️ **Aviso**: Os Presence developers agora são obrigados a usar `TypeScript`, a opção para presences em `JavaScript` foi completamente removida. 
 > 
 > {.is-warning}
 
-> **Confirm** that your presence's [metadata](https://docs.premid.app/en/dev/presence/metadata) is valid and has all of the necessary fields before making a pull request. If your metadata contains an optional variable that is set to the default value, remove it ( Presence Verifiers will request you to remove them ). 
+> **Confirme** que a [metadata](https://docs.premid.app/en/dev/presence/metadata) da sua presence é valida e tem todas as fields necessárias antes de criar um pull request. Se no seu metadata contêm uma variável opcional que está definida para o valor padrão, remova-a ( os Presence Verifiers irão solicitar que você os remova ). 
 > 
 > {.is-warning}
 
-> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. All `Presence Verifiers` will have a unique role in their profile.
+> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. Todos os `Presence Verifiers` terão uma role única em seus perfis.
 
-For your Presence to reach the stores, it **MUST** go through a process on GitHub to confirm that it works as expected. Essas são algumas dicas a serem observadas ao fazer sua solicitação de recebimento.
+Para sua Presence chegar nas lojas, ela **DEVE** passar por um processo no GitHub para confirmar que funciona como esperado. Essas são algumas dicas a serem observadas ao fazer sua solicitação de recebimento.
 
 1. It takes two verifiers to confirm that your Presence is up to standards. If you happen to get change requests, make the proper effort to fix it, or it will **NOT** be added.
 2. Se solicitarmos alterações e sua solicitação de recebimento exceder ** 7 dias de inatividade ** sem fazer as necessárias, seremos forçados a fechá-la.
