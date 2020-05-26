@@ -63,6 +63,10 @@
 		"message": "Eikime į dangų kartu!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.sponsors.title": {
+		"message": "Rėmėjai",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "„PreMiD“ nebūtų įmanomas be šių nuostabių žmonių.",
 		"description": "Description for sponsors."

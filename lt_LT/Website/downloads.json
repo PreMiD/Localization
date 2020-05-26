@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "Laikas pasirodyti.",
+		"description": "Title"
+	},
 	"downloads.header.subtitle": {
 		"message": "Pradėkite naudotis PreMiD dabar ir parodykite kitiems kuo užsiimate, galbūt rasite ką nors su tokiais pačiais pomėgiais.",
 		"description": "Subtitle for header"
@@ -66,6 +70,34 @@
 	"downloads.warning.differentVersion2": {
 		"message": "Ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms. Pagrindinė programos versija yra {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Prašome prisijungti norint pamatysi šiuos atsisiuntimus.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Uh, oh, atrodo, kad jūs neturite alpha/beta prieigos :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Jūs galite prisidėti prie mūsų beta programos **čia** nemokamai. Paskubėkite! Mes turime tik {0} laisvų vietų",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Ankstyvūs leidiniai",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Įspėjimas",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.edge": {
+		"message": "Nepamirškite aktyvuoti \"Leisti plėtinius iš kitų parduotuvių\" pasirinkimo papildinių nustatymuose.",
+		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Jūs turite įsidiegti **šį** papildinį norint įsidiegti PreMiD iš Chrome internet. parduotuvės.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
 		"message": "Praleisti",
