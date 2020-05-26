@@ -46,5 +46,13 @@
     "report.error": {
         "message": "Mais informações requeridas",
         "description": "User needs to input more notification"
+    },
+    "report.error.unauth": {
+        "message": "Conta Discord precisa ser verificada",
+        "description": "Users Discord not verified"
+    },
+    "report.activebugs": {
+        "message": "Bugs Ativos",
+        "description": "Lists users active bugs"
     }
 }
