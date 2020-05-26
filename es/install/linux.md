@@ -86,10 +86,10 @@ Se desconoce si las versiones antiguas de otras distribuciones lo soportan, así
 Gracias a:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (Y algunos otros chicos los cuales olvidé sus nombres) por propocionar su feedback sobre lanzamientos nocturnos.
-- @apriluwu por mantener las versiones de Gentoo
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @apriluwu por mantener las Gentoo builds
+- @SlimShadyIAm y naka por mantener previamente los Repository Packages de la arquitectura del usuario
+- La comunidad de Electron por varios paquetes
+- Cualquier otra persona que haya contribuido al proyecto de alguna manera.
 
 <a name="license"></a>
 
@@ -102,14 +102,14 @@ Gracias a:
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Probablemente nunca, ya que la naturaleza de Snap impide a PreMiD llegar a Discord y a la extensión correctamente,</br> agradecería que alguien lo hiciera, cualquier idea o PRs son bienvenidos.</br> PD: La classic confinement tampoco funciona, así que no te molestes en hacer una sugerencia al respecto.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+El paquete AppImage es el recomendado si Discord funciona para ti pero otros paquetes de PreMiD (.deb, .rpm, etc) no.
 
 <a name="appimageinstall"></a>
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Solo haz doble click en él o "Ejecutar"
 ./PreMiD*.AppImage
 ```
 
@@ -128,7 +128,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Notas adicionales
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Si quieres probar PreMiD o simplemente no quieres instalarlo, este es el mejor, está siempre actualizado pero _¡NO SE INICIA AUTOMÁTICAMENTE CON EL SISTEMA!_</br> Si te cansas de tener que abrirlo cada vez, usa los otros paquetes (de acuerdo a tu distribución).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
