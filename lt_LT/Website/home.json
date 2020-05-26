@@ -50,5 +50,9 @@
 	"home.features.quickSupport.heading": {
 		"message": "Greita pagalba",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Prisidėkite prie mūsų Discord",
+		"description": "Features section button"
 	}
 }
