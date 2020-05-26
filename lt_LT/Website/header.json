@@ -34,5 +34,25 @@
   "header.contributors": {
     "message": "Pagalbininkai",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Prisijungti",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Esate prisijungę kaip",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Pranešti apie klaidą",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Prietaisų skydas",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Atsijungti",
+    "description": "Logout button"
   }
 }
