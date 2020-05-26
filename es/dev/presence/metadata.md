@@ -81,18 +81,18 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Debe contener un objeto con <code>nombre</code> y <code>id</code> del desarrollador de presencia. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
-        del desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debe contener un object con <code>nombre</code> y <code>id</code> del desarrollador de la presence. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). La <code>id</code> del usuario puede copiarse de Discord habilitando el modo
+        desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contribuidores</b>
       </td>
-      <td style="text-align:left">Debería contener un objeto con <code>name</code> e <code>id</code> del colaborador. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). El usuario <code>id</code> puede copiarse de Discord habilitando el modo
-        del desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debería contener un objeto con <code>name</code> e <code>id</code> del colaborador. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). La <code>id</code> del usuario puede copiarse de Discord habilitando el modo
+        desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
@@ -104,17 +104,17 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left">El título del servicio que soporta esta presencia.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si estás fuera de las ideas. Su descripción debe tener valores de par clave que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadatas. Mira la categoría para una lista para los lenguajes de una presencia. </td>
+        si no se te ocurre nada. Tu descripción debe tener Key Pair Values que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
       <td style="text-align:left"><code>Objeto</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -124,7 +124,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left">Versión de su presencia.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left">Enlace al tipo de logotipo de servicio&apos;s.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -160,7 +160,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left">Enlace a su presencia.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -170,7 +170,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
         que tu presencia soporta.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td
       style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Nu</code>
+      <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
