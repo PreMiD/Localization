@@ -46,7 +46,7 @@ En el archivo de configuración raíz verá algo como esto.
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
 | noUnusedLocals             | Report errors on unused parameters.                                                                                                                                 |
 | inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| typeRoots                  | Puedes leer más acerca de eso [aquí](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                    |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Configuración de presencia
