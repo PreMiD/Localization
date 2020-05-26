@@ -95,6 +95,10 @@
 		"message": "Ankstyvas priėjimas",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit6.description": {
+		"message": "Išbandykite naujas funkcijas prieš kitus.",
+		"description": "Benefit card description."
+	},
 	"jobs.success.applied": {
 		"message": "Ačiū, kad kreipėtės!",
 		"description": "Notification when applying."
