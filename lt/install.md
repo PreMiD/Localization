@@ -1,6 +1,6 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: Instaliacija
+description: Kaip įdiegti PreMiD
 published: true
 date: 2020-02-12T22:05:12.168Z
 tags:
