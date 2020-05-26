@@ -3,6 +3,18 @@
 		"message": "Autorius",
 		"description": "Creator of a presence"
 	},
+	"store.category.filters.heading": {
+		"message": "Filtrai",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Rodyti NSFW turinį",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Tik patikusius Statusus",
+		"description": "Liked presences only checkbox"
+	},
 	"store.category.heading": {
 		"message": "Kategorijos",
 		"description": "Category heading"
