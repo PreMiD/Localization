@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Peržiūri puslapį:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dokumentacija",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Peržiūri statusą:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Pagrindinis puslapis",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Pagalbininkai",
         "description": "A page name"
@@ -11,6 +27,10 @@
         "message": "Parduotuvė",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Slapukų Naudojimo Politika",
+        "description": "A page name"
+    },
     "premid.pagePrivacy": {
         "message": "Privatumo politika",
         "description": "A page name"
@@ -21,6 +41,10 @@
     },
     "premid.pageWiki": {
         "message": "Wikipedija",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Apie",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
