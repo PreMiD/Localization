@@ -10,5 +10,9 @@
     "pinterest.follow": {
         "message": "Peržiūri savo sekėjus",
         "description": ""
+    },
+    "pinterest.home": {
+        "message": "Redaguoja nuosavą pagrindinį puslapį",
+        "description": ""
     }
 }
