@@ -6,23 +6,23 @@ date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Prieš einant pirmyn, įsitikinkite, kad jūsų sistema atitinka visus [reikalavimus](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Yra būtina** įsidiegti **** **programą**, bei **naršyklės papildinį**! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**Pasirinkite savo operacinę sistemą:**
+- [Windows *7 arba aukščiau*](/install/windows)
+- [macOS *10.11 arba aukščiau*](/install/macos)
+- [Linux *4 arba aukščiau*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Pasirinkite savo naršyklę:**
+- [Chromium *v76 arba aukščiau*](/install/chromium)
+- [Firefox *v69 arba aukščiau*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
