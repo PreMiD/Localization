@@ -175,6 +175,10 @@
 		"message": "Visualizando perfil de:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Vendo séries:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Visualizando série:",
 		"description": ""
