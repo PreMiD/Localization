@@ -61,13 +61,13 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
 
 ### Requisitos
 
-Tecnicamente, toda distribución que pueda correr la **aplicación** [oficial](https://discordapp.com/download) de Discord (No la web o la versión de la Snap Store) puede correr PreMiD también; si has notado que en los últimos años algunas distribuciones de Linux dejan de tener soporte para las arquitecturas de 32-bits (ia32/i686/i386/x86), probablemente lo haremos también. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Tecnicamente, toda distribución que pueda correr la **aplicación** [oficial](https://discordapp.com/download) de Discord (No la web o la versión de la Snap Store) puede correr PreMiD también; si has notado que en los últimos años algunas distribuciones de Linux dejan de tener soporte para las arquitecturas de 32-bits (ia32/i686/i386/x86), probablemente lo haremos también. Sin embargo, puedes intentar construir la aplicación tu mismo, si necesitas usarla en una distribución de 32-bits desesperadamente.</br> Puesto que actualmente utilizamos Electron como motor (¡Discord también lo hace!), sus requisitos también se aplican a esta aplicación:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Se desconoce si las versiones antiguas de otras distribuciones lo soportan, así que simplemente mantén actualizada tu distribución y usa actualizaciones **LTS (Long-Term Support)** si tu distribución las ofrece, ya que son más estables (Evitan lanzamientos de versiones alpha).
 
 <a name="support"></a>
 
@@ -83,10 +83,10 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Créditos
 
-Thanks to :
+Gracias a:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (Y algunos otros chicos los cuales olvidé sus nombres) por propocionar su feedback sobre lanzamientos nocturnos.
+- @apriluwu por mantener las versiones de Gentoo
 - @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
 - The Electron community for various packages
 - Anyone else who has ever contributed to the project in any way.
