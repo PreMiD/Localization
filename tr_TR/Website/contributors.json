@@ -19,9 +19,17 @@
 		"message": "Proje Yöneticisi",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Operasyon Koordinatörü",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Küresel Topluluk Temsilcisi",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Sistem Yöneticisi",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Site Geliştiricisi",
