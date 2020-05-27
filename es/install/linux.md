@@ -52,8 +52,8 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Versión más reciente"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Todas las versiones"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Versión más reciente"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Versiones de Github"></a></td>
   </tr>
 </table>
 
@@ -188,19 +188,19 @@ Otros ayudantes de AUR/Pacman también funcionan, aunque la funcionalidad de cad
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Lo mismo se aplica a sus derivados, como ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware[etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Instrucciones de instalación
 
 ```bash
-# Add the overlay using layman
-layman -S && layman -a apriluwu
+# Agrega el overlay usando Layman
+layman -S && layman -a apriluw
 ```
 
 ```bash
-# Install via portage
+# Instalar a través de portage
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Notas adicionales
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+El comando de instalación mostrado usa Layman, este está en los repositorios oficiales a través de `app-portage/layman`.<br> Para obtener actualizaciones tendrás que sincronizar el overlay de vez en cuando, esto se hace con
 
 ```bash
 layman -S
