@@ -3,8 +3,24 @@
         "message": "ดูสถานะการสมัครเป็นสมาชิก",
         "description": ""
     },
+    "amazon.adprefs": {
+        "message": "กำลังดูการตั้งค่าโฆษณาของเขา",
+        "description": ""
+    },
     "amazon.balance": {
         "message": "กำลังดูยอดเงินคงเหลือของเขา",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "กำลังดูวิธีชำระเงินต่างๆ",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "กำลังดูที่อยู่ของเขา",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "กำลังดูสัตว์เลี้ยงของเขา",
         "description": ""
     },
     "amazon.catergoriesAll": {
