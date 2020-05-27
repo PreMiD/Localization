@@ -3,6 +3,14 @@
         "message": "ดูสถานะการสมัครเป็นสมาชิก",
         "description": ""
     },
+    "amazon.balance": {
+        "message": "กำลังดูยอดเงินคงเหลือของเขา",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "กำลังดูหมวดหมู่ทั้งหมด",
+        "description": ""
+    },
     "amazon.prime": {
         "message": "กำลังดู Amazon Prime",
         "description": ""
