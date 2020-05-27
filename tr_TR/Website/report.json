@@ -19,6 +19,10 @@
         "message": "İşletim sisteminizi ve sürümünü seçin",
         "description": "Select Box for the user to select their operating system"
     },
+    "report.browser": {
+        "message": "Tarayıcınızı ve Sürümünüzü Seçin. Firefox'da about:support, Chrome'da ise chrome://help sayfalarından sürümünüzü öğrenebilirsiniz.",
+        "description": "Select Box for the user to select their browser"
+    },
     "report.description": {
         "message": "Açıklama - Örneklerinizi ve hatayı nasıl aldığınızı açıklayın.",
         "description": "Text for the user to write information about the bug."
@@ -26,6 +30,10 @@
     "report.button": {
         "message": "Bildir",
         "description": "Button to send the information inputed."
+    },
+    "report.toomany": {
+        "message": "Çok fazla aktif raporunuz var. Gönderdiğiniz raporların incelenmesini bekleyin. Raporlar haftalık olarak kontrol edilir, sabırlı olun.",
+        "description": "User has too many active reports"
     },
     "report.toomany.alert": {
         "message": "Aktif sayıda çok fazla raporunuz bulunuyor.",
