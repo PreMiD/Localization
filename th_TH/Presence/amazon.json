@@ -3,6 +3,22 @@
         "message": "ดูสถานะการสมัครเป็นสมาชิก",
         "description": ""
     },
+    "amazon.prime": {
+        "message": "กำลังดู Amazon Prime",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "ประวัติการสั่งซื้อ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "รายละเอียดคำสั่งซื้อ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "ตะกร้าสินค้า",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.wishlist": {
         "message": "สิ่งที่อยากได้",
         "description": "Part 2 of the string: \"Viewing their\""
@@ -21,6 +37,10 @@
     },
     "amazon.store": {
         "message": "กำลังดูสินค้า:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "กำลังดูวิดีโอ Prime:",
         "description": ""
     }
 }
