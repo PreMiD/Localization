@@ -22,7 +22,7 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
   - [Créditos](#credits)
   - [Licencia](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ TM️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+- **[Portable AppImage](#portable-appimage)** (_RECOMENDADA_)
   - [Instrucciones de instalación](#installation-instructions)
   - [Notas adicionales](#additional-notes)
 - **Distribuciones basadas en Red Hat Enterprise Linux (RHEL)** (Pronto, usa [esto](#portable-appimage) por ahora)
@@ -135,43 +135,43 @@ Si quieres probar PreMiD o simplemente no quieres instalarlo, este es el mejor, 
 
 ## Distribuciones basadas en arquitectura Linux
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Usa la [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Las distribuciones soportadas son _las mismas_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS y [cualquiera que soporte instalación desde AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Instrucciones de instalación
 
 ```bash
-# Using yay (recommended)
+# Usando yay (Recomendado)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Usando pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Usando trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Usando pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... Bueno, ¿Entendiste el punto, no?
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+O manualmente desde la [Arch User Repository](https://aur.archlinux.org/packages/premid) si tu sabes que estás haciendo.
 
 <a name="archnotes"></a>
 
 ### Notas adicionales
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Si tu distro usa pacman, entonces tienes que instalar uno de los ayudantes primero. Si tu no tienes ninguna, se recomienda Yay, lo ejecutas:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,7 +181,7 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Otros ayudantes de AUR/Pacman también funcionan, aunque la funcionalidad de cada uno es diferente para que puedes experimentar problemas mientras los usas.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
