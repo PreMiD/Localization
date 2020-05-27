@@ -156,7 +156,7 @@ Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/).
 ## Instalación
 1. Install [Git](https://git-scm.com/).
 2. Instala [Nodo](https://nodejs.org/en/) (viene con [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (Abre un terminal y escribe `npm install -g typescript`).
 
 ## Clonando el proyecto
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
@@ -165,8 +165,8 @@ Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/).
 
 ## Creando carpetas y archivos
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
+1. Cree una carpeta con el **nombre** (no una URL) del servicio que desea soportar.
+2. Crea un archivo de `presence.ts` y `tsconfig.json` dentro.
 3. Cree una carpeta llamada `dist` en su interior.
 4. Cree un archivo `metadata.json` dentro de la carpeta `dist`.
 
@@ -180,9 +180,9 @@ Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Para obtener más información sobre la configuración de TypeScript haga clic [aquí](/dev/presence/tsconfig).
 
-## Rellenar el archivo metadata.json
+## Llenando un archivo metadata.json
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```javascript
@@ -244,7 +244,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `iFrameRegExp`
 - `ajustes`
 
-**Clarifying some value presets:**
+**Aclarando unos valores predefinidos:**
 <table>
   <thead>
     <tr>
@@ -512,13 +512,13 @@ presence.on("iFrameData", data => {
 ## Compilando
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# Cargando la Presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# Algunos consejos útiles
 ## Hot-reloading
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
@@ -526,9 +526,9 @@ The website you are developing on is automatically reloading every time you save
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
-# Files explained
+# Explicación de archivos
 - [Clase de presencia](/dev/presence/class)
 - [Clase iFrame](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [Archivo de Metadata](/dev/presence/metadata)
 - [Configuración de TypeScript](/dev/presence/tsconfig)
 {.links-list}
