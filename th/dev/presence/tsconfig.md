@@ -35,7 +35,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | คำอธิบาย                                                                                                                                                            |
+| คุณสมบัติ                  | คำอธิบาย                                                                                                                                                            |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
 | module                     | คุณสามารถอ่านข้อมูลเพิ่มเติมได้ [ที่นี่](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                |
@@ -60,7 +60,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | คำอธิบาย                                                                                     |
+| คุณสมบัติ           | คำอธิบาย                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                               |
 | **compilerOptions** | ดู [**Root Configuration**](/dev/presence/tsconfig#root-configuration) สำหรับข้อมูลเพิ่มเติม |
