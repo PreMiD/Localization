@@ -1,4 +1,24 @@
 {
+    "amazon.subscriptions": {
+        "message": "ดูสถานะการสมัครเป็นสมาชิก",
+        "description": ""
+    },
+    "amazon.wishlist": {
+        "message": "สิ่งที่อยากได้",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "บัตรของขวัญ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "กำลังดูรายการแนะนำ",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "กำลังดูรายการประวัติของเขา",
+        "description": ""
+    },
     "amazon.store": {
         "message": "กำลังดูสินค้า:",
         "description": ""
