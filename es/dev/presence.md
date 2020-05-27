@@ -76,10 +76,10 @@ Antes de empezar a trabajar en su presencia, tenga en cuenta la siguiente lista.
 En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **DEBE** tener en cuenta al modificar una presencia.
 
 - Usted **NO** tiene permitido reescribir una presencia o cambiar su autor. Si la el autor de la Presencia fue baneado del servidor oficial o no hizo los requeridos cambios en un periodo de siete (7) días, puedes contactar con un `Presence Verifier` para ver si puedes reescribir la Presencia.
-- Cualquiera puede proporcionar hotfixes para corregir errores; sin embargo, prueba **NO** para hacer cambios en el código que **NO** necesitan ser corregidos. Valid modifications are, but **NOT** limited to, _missing paths_, _typos_, _missing images_, etc.
+- Cualquiera puede proporcionar hotfixes para corregir errores; sin embargo, prueba **NO** para hacer cambios en el código que **NO** necesitan ser corregidos. Las modificaciones válidas puedes ser, pero **NO** limitadas a eso, _rutas faltantes_, _errores tipográficos_, _imágenes faltantes_, etc.
 - Si haces modificaciones a una presencia y cambias al menos un **UN CUARTO** del código base de la misma, puedes añadirte como colaborador. Póngase en contacto con un `Verificador de Presencias` para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (De código o tipográficas), añadidos (Descripciones y etiquetas), etc. No cambien las imágenes a menos de que estén desactualizadas y tengan una mala resolución.
-- Confirme que los cambios funcionan antes de publicar. Do **NOT** create pull requests without knowing the outcome of your changes.
+- Confirme que los cambios funcionan antes de publicar. **No**cree un Pull Request sin conocer el resultado de sus cambios.
 - Cuando hagas cambios a una presencia, modifica el archivo `presence.ts` y compilalo, no hagas cambios en el archivo `presence.js` directamente.
 
 # Verificación
@@ -122,7 +122,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-It should **NOT** be this:
+**NO** debe ser esto:
 
 ```ts
 presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
@@ -150,8 +150,8 @@ presence.on("UpdateData", () => __awaiter(this, void 0, void 0, function* () {
 
 After meeting all of the guidelines and having your Presence reviewed at least twice, your Presence will be merged with the store.
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Estructura
+Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tiene algunos tipos definiciones más que JavaScript, así que corregir e identificar errores es mucho más fácil.
 
 ## Instalación
 1. Install [Git](https://git-scm.com/).
