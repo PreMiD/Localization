@@ -17,7 +17,7 @@ Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 2. Pasirinkite **OS X**.
 3. Išarchyvuokite archyvą jeigu yra būtinybė.
 4. Atsidarykite įdiegimo programą.
-5. **Apsaugos įspėjimas** pasirodys, jeigu instaliuojate PreMiD pirmą kartą. Eikite į savo **Nuostatas** > **Apsauga** > **Pagrindinis** > **Atsidaryti vistiek**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+5. **Apsaugos įspėjimas** pasirodys, jeigu instaliuojate PreMiD pirmą kartą. Eikite į savo **Nuostatas** > **Apsauga** > **Pagrindinis** > **Atsidaryti vistiek**. [Sužinokite daugiau](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) apie nepasirašytas aplikacijas.
 > Tai yra dėl to, jog mes neturime kodo pasirašymo sertifikato (CSC). [Paremkite mus](https://www.patreon.com/Timeraa) jog pratęsti PreMiD veiklą.{.is-info}
 6. Pasirinkite atsidaryti, kai būsite paraginti.
 7. Suteikti prieiga prisijungimams naudojantis **Ugniasienę** ir valdyti **Sistemos įvykius** kai būsite paraginti.
