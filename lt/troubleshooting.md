@@ -1,32 +1,32 @@
 ---
 title: Nesklandumų sprendimas
-description: Everything to solve your problem
+description: Viskas kas padės jums sutaisyti jūsų problemą
 published: true
 date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Įsitinkite jog esate įsidiegę papildinį **taipogi** ir aplikaciją! 
 > 
 > {.is-warning}
 
-### Reload the page
+### Perkraukite tinklalapį
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Restart your browser
+### Perkraukite naršyklę
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### Make sure that you have enabled Discord Game Activity in settings
+### Įsitikinkite jog turite įsijungę Discord žaidimų veiklumą savo nustatymuose
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Perkrauti PreMiD (aplikaciją)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+![quit.png](/quit.png) Jūs turite perkrauti PreMiD.
 
 ### Perkrauti Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Įsitikinkite jog Discord nėra įjungtas naudojantis administratoriaus teisėmis
-Really important. Discord RPC will not work if you run Discord as an administrator.
+Įtin svarbu. Discord RPC neveiks jeigu jūs esate įsijungę Discord naudojantis administratoriaus teisėmis.
 
 ### Patikrinkite ar turite aktyvią antivirusinę ar ugniasienę savo kompiuteryje
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
@@ -35,7 +35,7 @@ Sometimes antivirus programs and firewalls are blocking applications which are c
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
 ### Kompiuterio perkrovimas
-I hope you know how to restart a computer.
+Tikiuosi žinote kaip perkrauti savo kompiuterį.
 
 ### Reinstaliacija PreMiD
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
