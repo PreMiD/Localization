@@ -12,10 +12,10 @@ Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 1. Eikite į mūsų atsisiuntimų puslapį [spustelėdami čia](https://premid.app/downloads).
 2. Pasirinkite **Firefox**.
 3. Ieškokite `apie:priedai`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+4. Nuspauskite ant mažos mechanizmo ikonėlės viršutiniame dešiniajame kampe.
+5. Pasirinkite **Įrašyti papildinį iš failo**.
+6. Pasirinkite failą kurį jūs nesenai atsisiuntėte.
+7. Sutikite su įdiegimo nuspausdami **Pridėti**.
 
 > Nepamirškite  pridėti ** aplikacijos </a>. </p> 
 > 

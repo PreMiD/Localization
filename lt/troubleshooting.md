@@ -23,7 +23,7 @@ Jūs galite paspausti <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) arba <kbd>CMD+R<
 ![quit.png](/quit.png) Jūs turite perkrauti PreMiD.
 
 ### Perkrauti Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Spauskite <kbd>CTRL+R</kbd> (Windows) arba <kbd>CMD+R</kbd> (MacOS) naudodamiesi savo klaviatūra arba perkraukite Discord savarankiškai.
 
 ### Įsitikinkite jog Discord nėra įjungtas naudojantis administratoriaus teisėmis
 Įtin svarbu. Discord RPC neveiks jeigu jūs esate įsijungę Discord naudojantis administratoriaus teisėmis.

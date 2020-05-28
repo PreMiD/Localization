@@ -14,7 +14,7 @@ The installation of the application is very important as the extension can not d
 
 - **[Apie](#about)**
   - [Stats](#stats)
-  - [Requirements](#requirements)
+  - [Reikalavimai](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
@@ -59,7 +59,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="requirements"></a>
 
-### Requirements
+### Reikalavimai
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 

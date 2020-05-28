@@ -1,29 +1,29 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: Reikalavimai
+description: Reikalavimai jog įsidiegti PreMiD
 published: true
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---
 
-# System Requirements
+# Sistemos reikalavimai
 
-> This data relate to the application only. 
+> Šie duomenys skirti tik aplikacijai. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD virtualiai veikia bet kurioje sistemoje. Tai reiškia jog ji veikia ant: **Linux**, **macOS**, **Windows** ir taip pat **Linux modifikacijose**.
 
-### CPU
-PreMiD runs perfectly fine on a single CPU core.
+### Procesorius
+PreMiD veikia puikiai ant vieno procesoriaus branduolio.
 
 ### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+Linux sistemos turėtų turėti **bent jau 20MB RAM** jog veiktų PreMiD. Windows ir macOS sistemos dažniausiai reikalauja truputėlį daugiau RAM.
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### Talpa
+PreMiD užima maždaug: **150MB** fizinės talpos. Vis dėl to **200MB** talpos turėjimas skirti PreMiD būtų rekomenduojama.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### Interneto prieiga
+Interneto prieiga yra reikalinga PreMiD veikimui. PreMiD automatiškai patikrins naujų atnaujinimų, kalbos, Statusų atnaujinimų, t. t. laikas nuo laiko.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
