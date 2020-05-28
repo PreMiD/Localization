@@ -32,7 +32,7 @@ Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard o
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
 ### Papildinių išjungimas
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+Deaktyvuokite visus savo papildinius ir patikrinkite jog veikia. Jeigu taip, pabandykite aktyvuoti savo papildinius pažingsniui ir praneškite kuris papildinys sugadino PreMiD.
 
 ### Kompiuterio perkrovimas
 Tikiuosi žinote kaip perkrauti savo kompiuterį.
