@@ -47,6 +47,10 @@
         "message": "Apie",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "Sistemos reikalavimai",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Nesklandumų sprendimas",
         "description": "A page name"
