@@ -15,6 +15,14 @@
 		"message": "¿Qué tal ir al cielo en lugar del infierno?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Tu presencia gratuita",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Nuestro equipo le proporcionará una presencia de su servicio web.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Verifícate",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Integración de Meta-tag",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Activa automáticamente tu Presencia cuando alguien visita tu Sitio Web.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Ser inmortalizado",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Se famoso",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Destacado en nuestras redes sociales.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Requisitos",
@@ -67,6 +83,14 @@
 		"message": "¡Vamos al cielo juntos!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Si está interesado en un trabajo directo en PreMiD, eche un vistazo a nuestro **anuncio de trabajo**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Patrocinadores",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD no sería posible sin esta gente asombrosa.",
 		"description": "Description for sponsors."
@@ -87,6 +111,14 @@
 		"message": "La plataforma de ganancia para jugadores.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio es la radio de información más exitosa para juegos de simulación en Alemania, Austria y Suiza!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Obtén lo que es correctamente tuyo. Stream Anime, Películas, Hentai, Especiales y más. ¡Gratis, sin anuncios y en alta definición!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.bitRock": {
 		"message": "Una herramienta de creación de instalador multiplataforma potente y fácil de usar.",
 		"description": "Description for BitRock."
@@ -102,6 +134,10 @@
 	"partners.partner.wikijs": {
 		"message": "El software Wiki más potente y extensible de código abierto.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Una interfaz unificada y amigable para desarrolladores para todos tus artefactos.",
+		"description": "Description for PackageCloud."
 	},
 	"partners.apply.title": {
 		"message": "Solicitar la colaboración",

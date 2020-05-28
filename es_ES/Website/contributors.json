@@ -15,9 +15,17 @@
 		"message": "Creador",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Supervisor de Operaciones",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Representante Global de la Comunidad",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Administrador del sistema",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Desarrollador Web",
@@ -82,5 +90,9 @@
 	"contributors.cards.copyUserID": {
 		"message": "Haz clic para copiar la ID del usuario.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIDCopied": {
+		"message": "¡ID de usuario copiado!",
+		"description": "Notification after user ID was copied."
 	}
 }

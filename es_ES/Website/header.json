@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Iniciar sesión",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Conectado como",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Informa de un fallo",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Panel de control",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Desconectar",
+    "description": "Logout button"
   }
 }
