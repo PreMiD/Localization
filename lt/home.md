@@ -1,33 +1,33 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Pagrindinis
+description: Oficiali dokumentacija
 published: true
 date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: Dokumentacija yra visdar ruošiama! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+# Apie PreMiD
+- :mag: [Kas yra PreMiD?](/about) PreMiD tikslas ir kodėl jūs turėtumėte jį naudoti.
+- :link: [Kas yra RPC?](https://discordapp.com/rich-presence) Viskas apie Statusus ir jų funkcijas.
 
-# Getting Started
+# Pradžia
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD yra greitai ir lengvai įdiegiamas. Jūs turėtumėte būti pasirengę ir veikti nedelsiant.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- Įsitikinkite jog perskaitėte [Sistemos reikalavimus](/install/requirements).
+- Sekite greitą ir paprastą [instaliacijos gidą](/install).
+- [Problemų sprendimas](/troubleshooting) Padės jums rasti išeitis į dažniausiai kylančias bėdas.
 
 # Kūrėjai
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Pradžia](/dev) for PreMiD kūrybai yra jūsų pirmasis žingsnis prieš koduojant kai kuriuos dalykus.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): Pasiekite resursus ir atlikite veiksmus naudojantis PreMiD API.
+- :wrench: [Statusų kūrimas](/dev/presence): Išmokite naudotis mūsų Statusų sistema.
 
 # Prisidėkite
 - :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.

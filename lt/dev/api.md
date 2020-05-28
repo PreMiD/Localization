@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: Pasiekite išteklius ir atlikite veiksmus naudodami PreMiD API
 published: true
 date: 2020-04-22T17:59:55.315Z
 tags:
@@ -17,7 +17,7 @@ tags:
 > 
 > {.is-danger}
 
-PreMiD pateikia skirtingas mūsų API versijas. Galite nurodyti versiją įtraukdami ją į užklausos kelią, pvz., `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD pateikia skirtingas mūsų API versijas. Galite nurodyti versiją įtraukdami ją į užklausos kelią, pvz., `https://api.premid.app/v{version_number}`. Gaudami versijos numerį iš užklausos, išsiųs užklausas dabartiniai pagrindinei versijai (pažymėta apačioje atitinkamai).
 
 ## Šifravimas
 
@@ -29,6 +29,6 @@ Visos PreMiD API HTTP lygmens paslaugos ir protokolai (pvz., Http) naudoja TLS 1
 > {.is-danger}
 
 **Pasirinkite API versiją:**
-- [v1 *deprecated*](/dev/api/v1)
-- [v2 *active*](/dev/api/v2)
+- [v1 *pasenusi*](/dev/api/v1)
+- [v2 *aktyvi*](/dev/api/v2)
 {.links-list}
