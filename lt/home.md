@@ -30,9 +30,9 @@ PreMiD yra greitai ir lengvai įdiegiamas. Jūs turėtumėte būti pasirengę ir
 - :wrench: [Statusų kūrimas](/dev/presence): Išmokite naudotis mūsų Statusų sistema.
 
 # Prisidėkite
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [Praneškite klaidą](https://github.com/PreMiD): Padėkite mums sunaikinti šias erzinančias klaidas.
+- :bulb: [Pasiūlykite naują sistemą](https://discord.gg/WvfVZ8T): Mums reikia jūsų įdėjų!
+- :heart: [Donate](https://www.patreon.com/Timeraa): Padarykite mažą paramą arba tapkite sponsoriumi šio nuostabaus projekto!
+- :globe_with_meridians: [Kalbos](https://translate.premid.app): Leiskite kitiems naudotis PreMiD jų gimtąją kalba.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
