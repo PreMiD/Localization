@@ -528,7 +528,7 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 - [Presence klasė](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
+- [iFrame klasė](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)
 {.links-list}
