@@ -2,7 +2,7 @@
 title: API
 description: PreMiD'in API'sini kullanarak kaynaklara erişin ve bir şey gerçekleştirin
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Sürümleri
-> Bazı API sürümleri yürürlükten kaldırılmıştır ve aşağıdaki tabloda belirtilmiştir. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ PreMiD API'de bulunan HTTP ve buna ait tüm protokoller TLS 1.2 şifreleme siste
 > {.is-danger}
 
 **API sürümünü seçin:**
-- [v1 *yürürlükte değil*](/dev/api/v1)
 - [v2 *aktif*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
