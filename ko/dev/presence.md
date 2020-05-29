@@ -2,7 +2,7 @@
 title: Presence 개발
 description:
 published: true
-date: 2020-05-29T21:30:07.305Z
+date: 2020-05-29T21:55:04.008Z
 tags:
 ---
 
@@ -323,8 +323,9 @@ To learn more about TypeScript configuration click [here](/dev/presence/tsconfig
 ## Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
-```javascript
+```json
 {
+    "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
