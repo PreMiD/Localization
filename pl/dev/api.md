@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## Wersja API
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1 zostało wycofane, każda prośba powinna być przekazana do aktualnie aktywnej wersji 
 > 
 > {.is-danger}
 
@@ -30,5 +30,5 @@ Wszystkie usługi i protokoły warstwy HTTP (np. http) w API PreMiD używają TL
 
 **Wybierz wersję API:**
 - [v2 *aktywne*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *praca w toku*](/dev/api/v3)
 {.links-list}
