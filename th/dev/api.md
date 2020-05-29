@@ -2,7 +2,7 @@
 title: API
 description: เข้าถึงทรัพยากรและดำเนินการต่าง ๆ โดยใช้ PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## ระยะพัฒนา API
-> ขณะนี้ API และ Gateway บางเวอร์ชันที่เลิกใช้แล้วจะมีข้อความกำกับว่าเลิกใช้แล้วในตารางด้านล่างเพื่อแสดงว่าเป็นเวอร์ชันเก่า 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ tags:
 > {.is-danger}
 
 **เลือกเวอร์ชัน API:**
-- [v1 *เลิกใช้แล้ว*](/dev/api/v1)
 - [v2 *ยังใช้อยู่*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
