@@ -2,7 +2,7 @@
 title: API
 description: Доступ к ресурсам и выполнение действий с помощью PreMiD API
 published: true
-date: 22 апреля 2020г. 17:59:55
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## Версия API
-> Некоторые версии API и Gateway устарели и помечены как прекращенные в таблице ниже для потомства. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ PreMiD раскрывает различные версии нашего API. В
 > {.is-danger}
 
 **Выберите версию API:**
-- [v1 *устарело*](/dev/api/v1)
 - [v2 *активен*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}

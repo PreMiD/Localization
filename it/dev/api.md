@@ -2,7 +2,7 @@
 title: API
 description: Accedi alle fonti ed esegui azioni usando l'API di PreMiD
 published: vero
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Alcune versioni API e Gateway sono ora deprecate e sono etichettate come interrotte nella tabella sottostante per la posterità. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Tutti i servizi e i protocolli HTTP-layer (ad es. http) all'interno dell'API Pre
 > {.is-danger}
 
 **Scegli la versione API:**
-- [v1 *deprecato*](/dev/api/v1)
-- [v2 *attivo*](/dev/api/v2)
+- [v2 *active*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}

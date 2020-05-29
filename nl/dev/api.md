@@ -2,7 +2,7 @@
 title: API
 description: Toegang tot bronnen en acties uitvoeren met behulp van de PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versiebeheer
-> Sommige API en Gateway versies zijn nu verouderd en zijn gelabeld als beëindigd in het tabel hieronder. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Alle HTTP-laag diensten en protocollen (bijvoorbeeld http) binnen de PreMiD API 
 > {.is-danger}
 
 **Kies de API-versie:**
-- [v1 *verouderd*](/dev/api/v1)
 - [v2 *actief*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}

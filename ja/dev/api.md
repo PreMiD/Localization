@@ -2,7 +2,7 @@
 title: API
 description: Access resources and perform actions using the PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## APIのバージョン
-> 現在、いくつかのAPIやGatewayのバージョンは非推奨で、以下の表にて 廃止 と表記されています。 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ PreMiD内のすべてのHTTPレイヤーのサービスやプロトコル (例: 
 > {.is-danger}
 
 **APIのバージョンを選んでください:**
-- [v1 *非推奨*](/dev/api/v1)
 - [v2 *推奨*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}

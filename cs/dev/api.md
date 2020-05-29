@@ -2,7 +2,7 @@
 title: API
 description: Access resources and perform actions using the PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Některé verze API a Gateway jsou nyní zastaralé a jsou označeny jako ukončené v tabulce níže pro plakáty. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Všechny služby a protokoly HTTP (např. http) v rámci PreMiD API používají
 > {.is-danger}
 
 **Vyberte verzi APL:**
-- [v1 *zastaralé*](/dev/api/v1)
 - [v2 *aktivní*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}

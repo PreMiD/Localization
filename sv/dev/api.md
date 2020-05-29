@@ -2,7 +2,7 @@
 title: API
 description: Access resources and perform actions using the PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Vissa API- och Gateway-versioner är nu föråldrade och är märkta som nedlagda i tabellen nedan för eftervärlden. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Alla HTTP-lager-tjänster och protokoll (t.ex. http) inom PreMiD API använder T
 > {.is-danger}
 
 **Välj API-versionen:**
-- [v1 *föråldrad*](/dev/api/v1)
 - [v2 *aktiv*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
