@@ -16,7 +16,7 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.projectManager": {
-		"message": "Chef de projet",
+		"message": "Gérant du projet",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.operationsSupervisor": {
