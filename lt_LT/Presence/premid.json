@@ -51,6 +51,10 @@
         "message": "Sistemos reikalavimai",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Instaliacija",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Nesklandumų sprendimas",
         "description": "A page name"
