@@ -2,7 +2,7 @@
 title: API
 description: Uzyskuj dostęp do zasobów i wykonuj działania za pomocą PreMiD API
 published: tak
-date: 22.04.2020 17:59
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## Wersja API
-> Niektóre wersje API i Gateway są teraz przestarzałe i są oznaczone jako wycofane w poniższej tabeli. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Wszystkie usługi i protokoły warstwy HTTP (np. http) w API PreMiD używają TL
 > {.is-danger}
 
 **Wybierz wersję API:**
-- [v1 *przestarzałe*](/dev/api/v1)
 - [v2 *aktywne*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
