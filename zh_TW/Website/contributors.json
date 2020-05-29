@@ -15,6 +15,10 @@
 		"message": "創建者",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "項目管理",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "全球社區代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
