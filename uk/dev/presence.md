@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-05-29T21:30:07.305Z
+date: 2020-05-29T21:55:04.008Z
 tags:
 ---
 
@@ -323,8 +323,9 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## Заповнення в файлі metadata.json
 Ми зробили `metadata.json` творець файлу для ледачих привілей [тут](https://eggsy.codes/projects/premid/mdcreator). Прочитайте цю тему, щоб ви знали, як вона працює.
 
-```javascript
+```json
 {
+    "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
