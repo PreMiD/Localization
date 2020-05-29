@@ -25,7 +25,7 @@ Le regole generali di sviluppo della presenza sono le seguenti:
 - La struttura del file deve essere pulita e gestita, non includere i file che non sono specificati. ( per esempio, cartelle vscode e git, file di immagine e di testo, ecc. )
 - Devi avere una corretta struttura dei file, le bozze non **sono** permesse.
 - Presenze per siti con ( TLD `.onion` ) o siti con domini/host gratis (per esempio `.TK` [tutti i domini gratis Freenom], `.RF`, `.GD`, ecc. ) non **sono** permessi, eccezioni possono essere fatte se viene presentata prova che hanno pagato per il dominio.
-- Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
+- Le presenze mirate a pagine browser interne ( come Chrome Web Store, pagine come `chrome://`, `about:`, ecc ) **non** sono permesse dato che richiedono che una flag esperimentale sia abilitata dall'utente e che potrebbe potenzialmente danneggiare il loro browser.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
 - Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
