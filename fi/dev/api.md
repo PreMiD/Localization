@@ -2,7 +2,7 @@
 title: API
 description: Access resources and perform actions using the PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Some API and Gateway versions are now deprecated and are labeled as discontinued in the table below for posterity. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 
 > {.is-danger}
 
 **Valitse API-versio:**
-- [v1 *vanhentunut*](/dev/api/v1)
 - [v2 *aktiivinen*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
