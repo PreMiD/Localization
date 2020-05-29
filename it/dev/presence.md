@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-05-29T21:30:07.305Z
+date: 2020-05-29T21:55:04.008Z
 tags:
 ---
 
@@ -14,17 +14,17 @@ La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). 
 
 # Linee guida
 
-Quando pubblichiamo Presenze su questo GitHub, ti richiediamo di seguire un insieme di linee guida. To some, these strict rules may seem harsh. Tuttavia, l'attuazione di queste regole impedirà a noi e agli utenti di affrontare qualsiasi questione.
+Quando pubblichiamo Presenze su questo GitHub, ti richiediamo di seguire un insieme di linee guida. Per alcuni, queste regole severe possono sembrare dure. Tuttavia, l'attuazione di queste regole impedirà a noi e agli utenti di affrontare qualsiasi questione.
 
 ## Creazione
 
-The general rules of presence development are as follows:
+Le regole generali di sviluppo della presenza sono le seguenti:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
-- The file structure must be clean and managed, do not include files which are not specified. ( for e.g., vscode and git folders, image and text files, etc. )
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- Le presenze **DEVONO** essere correlate al sito che hai scelto.
+- Le presenze **non possono** essere fatte per siti web illegali. ( per esempio, stressanti, marketing della droga, pornografia infantile, ecc. )
+- La struttura del file deve essere pulita e gestita, non includere i file che non sono specificati. ( per esempio, cartelle vscode e git, file di immagine e di testo, ecc. )
+- Devi avere una corretta struttura dei file, le bozze non **sono** permesse.
+- Presenze per siti con ( TLD `.onion` ) o siti con domini/host gratis (per esempio `.TK` [tutti i domini gratis Freenom], `.RF`, `.GD`, ecc. ) non **sono** permessi, eccezioni possono essere fatte se viene presentata prova che hanno pagato per il dominio.
 - Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
 - Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
@@ -323,8 +323,9 @@ Per ulteriori informazioni sulla configurazione di TypeScript, clicca [qui](/dev
 ## Filling in the metadata.json file
 Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
-```javascript
+```json
 {
+    "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
