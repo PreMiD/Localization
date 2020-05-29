@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "Hora de ostentar.",
+		"message": "Hora de se exibir.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Use PreMiD agora e mostre para seus amigos o que você está fazendo, talvez você encontre alguém com os mesmos interesses.",
+		"message": "Use o PreMiD agora e mostre para seus amigos o que você está fazendo, talvez você encontre alguém com os mesmos interesses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "Por favor logue-se em ordem para ver esses downloads.",
+		"message": "Por favor faça login em ordem para ver estes downloads.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
