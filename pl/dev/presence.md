@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-05-29T21:30:07.305Z
+date: 2020-05-29T21:55:04.008Z
 tags:
 ---
 
@@ -323,8 +323,9 @@ Aby uzyskać więcej informacji na temat konfiguracji TypeScript, kliknij [tutaj
 ## Wypełnianie w pliku metadata.json
 Stworzyliśmy kreator plików `metadata.json` dla leniwych użytkowników [tutaj](https://eggsy.codes/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
 
-```javascript
+```json
 {
+    "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
