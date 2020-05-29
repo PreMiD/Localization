@@ -2,7 +2,7 @@
 title: API
 description: Pasiekite išteklius ir atlikite veiksmus naudodami PreMiD API
 published: true
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Kai kurios API ir Gateway versijos dabar nebenaudojamos ir toliau nurodytos lentelės etiketėms nurodytos kaip nutrauktos. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Visos PreMiD API HTTP lygmens paslaugos ir protokolai (pvz., Http) naudoja TLS 1
 > {.is-danger}
 
 **Pasirinkite API versiją:**
-- [v1 *pasenusi*](/dev/api/v1)
 - [v2 *aktyvi*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
