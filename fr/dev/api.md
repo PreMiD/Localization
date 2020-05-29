@@ -2,7 +2,7 @@
 title: API
 description: Accéder aux ressources et effectuer des actions à l'aide de l'API PreMiD
 published: vrai
-date: 2020-04-22T17:59:55.315Z
+date: 2020-05-29T17:28:31.083Z
 tags:
 ---
 
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> Certaines versions de l'API et de la passerelle sont maintenant obsolètes et sont marquées comme discontinuées dans le tableau ci-dessous pour la postérité. 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Tous les services et protocoles de couche HTTP (par exemple http) dans l'API Pre
 > {.is-danger}
 
 **Choisissez la version de l'API :**
-- [v1 *obsolète*](/dev/api/v1)
 - [v2 *actif*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
