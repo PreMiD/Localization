@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versiebeheer
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1 is gestopt, elk verzoek wordt doorgestuurd naar de op dit moment actieve versie 
 > 
 > {.is-danger}
 
@@ -30,5 +30,5 @@ Alle HTTP-laag diensten en protocollen (bijvoorbeeld http) binnen de PreMiD API 
 
 **Kies de API-versie:**
 - [v2 *actief*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *werk in uitvoering*](/dev/api/v3)
 {.links-list}
