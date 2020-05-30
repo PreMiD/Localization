@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Recarga la página
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Puedes presionar <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en tu teclado en vez de buscar el botón de recargar.
 
 ### Reinicia el navegador
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) también funcionará. (Obviamente tienes que volver a iniciar el navegador)
@@ -20,28 +20,28 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 **Ajustes de usuario** > **Actividad de juegos** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Reinicia PreMiD (Aplicación)
-![quit.png](/quit.png) Tienes que reiniciar después PreMiD.
+![quit.png](/quit.png) Luego debes reiniciar PreMiD.
 
 ### Recarga/Reinicia Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Presiona <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en tu teclado o reinicia Discord manualmente.
 
 ### Asegúrate de que Discord NO se esté ejecutando como administrador
 Muy importante. Discord RPC no funcionará si ejecutas Discord como administrador.
 
-### Comprueba si tienes antivirus o cortafuegos ejecutando en el ordenador
-A veces los antivirus o cortafuegos pueden bloquear aplicaciones que están creando/alojando servidores o que se conectan a Internet. Utilizamos un servidor local para recibir y pasar los datos entre la aplicación y la extensión, por tanto si no podrás utilizar PreMiD si bloqueas la habilidad de pasar los datos entre ellos.
+### Comprueba si tienes antivirus o cortafuegos ejecutándose en el ordenador
+A veces los antivirus o cortafuegos pueden bloquear aplicaciones que están creando/alojando servidores o que se conectan a Internet. Utilizamos un servidor local para recibir y pasar los datos entre la aplicación y la extensión, por tanto no podrás utilizar PreMiD si bloqueas la habilidad de pasar los datos entre ellos.
 
-### Des-habilita tus complementos
-Des-habilita todos tus complementos y mira si funciona. Si es así, ve habilitando los complementos uno a uno e indícanos qué complemento es el que causa la incompatibilidad a PreMiD.
+### Deshabilita tus complementos
+Deshabilita todos tus complementos y mira si funciona. Si es así, ve habilitando los complementos uno a uno e indícanos qué complemento es el que causa la incompatibilidad a PreMiD.
 
 ### Reiniciar el ordenador
-Espero que sepas como realizar esta acción.
+Espero que sepas como reiniciar un computador.
 
-### Reinstala PreMiD
-A veces hay algún problema con los archivos... Puedes encontrar indicaciones [aquí](/install).
+### Reinstalando PreMiD
+A veces hay algún problema con los archivos... Tutoriales para la instalación se pueden encontrar [aquí](/install).
 
 ### Eliminación manual
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows: ` C:\Usuarios\USUARIO\AppData\Roaming\`` ` y elimina la carpeta </code>PreMiD`.
 MacOS: <code>~/users/USUSARIO/~Library/Applicaion Support/` y elimina el directorio `PreMiD`.
 
 ### En distribuciones basadas en Ubuntu/Debian
