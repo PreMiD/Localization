@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: vrai
-date: 2020-05-29T21:55:04.008Z
+date: 2020-05-09T14:55:04.832Z
 tags:
 ---
 
@@ -14,7 +14,7 @@ La version `2.x` introduit le [magasin de presence](https://premid.app/store). L
 
 # Lignes directrices
 
-Lors de la publication des presences sur ce GitHub, nous vous demandons de suivre un ensemble de directives. To some, these strict rules may seem harsh. Cependant, la mise en œuvre de ces règles nous empêchera ainsi que les utilisateurs de faire face à n'importe quel problème.
+Lors de la publication des presences sur ce GitHub, nous vous demandons de suivre un ensemble de directives. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera ainsi que les utilisateurs de faire face à n'importe quel problème.
 
 ## Création
 
