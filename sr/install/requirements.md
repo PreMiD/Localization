@@ -1,18 +1,18 @@
 ---
 title: Requirements
-description: Prerequisites to install PreMiD
+description: Preduslovi za instaliranje PreMiD-a
 published: true
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---
 
-# System Requirements
+# Sistemski zahtevi
 
-> This data relate to the application only. 
+> Ovi podaci se odnose samo na aplikaciju. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD radi na gotovo svim sistemima. Ovo znači da radi na sistemima **Linux**, **macOS**, **Windows** i na još neke **Linux Modifikacije**.
 
 ### CPU
 PreMiD runs perfectly fine on a single CPU core.
