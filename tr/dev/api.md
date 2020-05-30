@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Sürümleri
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1 sürümü geçerliliğini yitirmiştir, bu sürüme yapılan isteklerin tümü geçerli sürüme yapılmalıdır. 
 > 
 > {.is-danger}
 
