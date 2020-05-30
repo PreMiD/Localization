@@ -14,17 +14,17 @@ Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkowni
 
 # Wytyczne
 
-Podczas publikowania Presence w serwisie GitHub wymagamy przestrzegania zbioru wytycznych. To some, these strict rules may seem harsh. Jednak wdrożenie tych zestawów reguł powstrzyma nas i użytkowników od problemów.
+Podczas publikowania Presence w serwisie GitHub wymagamy przestrzegania zbioru wytycznych. Dla niektórych te surowe zasady mogą wydawać się surowe. Jednak wdrożenie tych zestawów reguł powstrzyma nas i użytkowników od problemów.
 
 ## Tworzenie
 
-The general rules of presence development are as follows:
+Ogólne zasady rozwoju statusów są następujące:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
-- The file structure must be clean and managed, do not include files which are not specified. ( for e.g., vscode and git folders, image and text files, etc. )
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- Statusy **muszą** być powiązane z wybraną witryną.
+- Statusy **nie mogą** być tworzone dla nielegalnych stron internetowych. ( np. stresory, handel narkotykami, dziecięca pornografia, itp. )
+- Struktura plików musi być czysta i zarządzana, nie zawierać plików, które nie są określone. ( np. foldery VS Code i Git, pliki graficzne i tekstowe itp. )
+- Musisz mieć odpowiednią strukturę plików, wersje robocze **są niedozwolone**.
+- Statusy dla stron z (domeną najwyższego poziomu `.onion`) lub stron z darmowymi domenami/hostami (np. `.TK` [wszystkie bezpłatne domeny Freenom], `.RF`, `.GD`, itp.) są **niedozwolone**, można zrobić wyjątek, jeśli zostanie przedstawiony dowód, że zapłacono za domenę.
 - Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
 - Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
