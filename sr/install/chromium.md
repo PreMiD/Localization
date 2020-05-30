@@ -15,10 +15,10 @@ Instalacija ekstenzije je veoma bitna jer aplikacija ne može sama učiniti niš
 3. Kliknite na **Dodaj u Chrome**.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Dodajte **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Dodajte [našu ekstenziju](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Ne zaboravite da [dodate **aplikaciju**](/install). 
 > 
 > {.is-warning}
 
