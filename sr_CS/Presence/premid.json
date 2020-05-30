@@ -1,1 +1,6 @@
-{}
+{
+    "premid.pageSysReq": {
+        "message": "Sistemski zahtevi",
+        "description": "A page name"
+    }
+}
