@@ -14,7 +14,7 @@ Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebrui
 
 # Richtlijnen
 
-Bij het publiceren van presences naar GitHub, vragen we je om een set richtlijnen te volgen. To some, these strict rules may seem harsh. De tenuitvoerlegging van deze regels zal er echter voor zorgen dat wij en onze gebruikers zich niet met problemen bezighouden.
+Bij het publiceren van presences naar GitHub, vragen we je om een set richtlijnen te volgen. Voor sommigen lijken deze strenge regels misschien zwaar. De tenuitvoerlegging van deze regels zal er echter voor zorgen dat wij en onze gebruikers zich niet met problemen bezighouden.
 
 ## Aanmaak
 
