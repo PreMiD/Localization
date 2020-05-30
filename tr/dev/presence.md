@@ -208,22 +208,22 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> `tsconfig.json` dosyasını [doküman](https://docs.premid.app/en/dev/presence/tsconfig) sayfasında gösterilenin dışında herhangi bir şekilde düzenlemeyin. 
 > 
 > {.is-warning}
 
 ## Yapılandırma
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> **presence.ts**, **iframe.ts**  veya **metadata.json** dosyalarından herhangi birine değişiklik yaparken, **metadata** dosyanızda belirtilen sürüm numarasını, daha üst bir sayıya güncellemelisiniz. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Değişiklikler yararlı olmalıdır. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **not** change images if they are not outdated and are in specifications.
+- Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya bir ay içerisinde herhangi bir değişiklik yapmadıysa, bir Servis Onaylayıcısı ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
+- Herhangi biri kodda önemli düzeltmeler yapabilir, yine de, düzeltme gerektirmeyen yerleri düzeltmek **mecburi değildir**. Geçerli düzeltmeler şunlar gibi olabilir; _eksik yollar_, _kelime hataları_, _geçersiz resimler_, vb.
+- Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.
+- Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
 
 # Onaylanma
 
@@ -238,7 +238,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Servis Onaylayıcıları</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -258,7 +258,7 @@ A few things you should know after opening a pull request:
 
 ## `Checks`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Kontroller](https://i.imgur.com/bk0A1iY.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
@@ -271,7 +271,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Contributions
+# Katkılar
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
@@ -324,34 +324,35 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 
 ```json
 {
-    "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS İSMİ",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
-  "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "url": "LİNK",
+  "version": "SÜRÜM",
+  "logo": "LOGO LİNKİ",
+  "thumbnail": "KÜÇÜK RESİM LİNKİ",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETİKET1", "ETİKET2"],
+  "category": "KATEGORİ",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": true
         },
         {
@@ -359,17 +360,17 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": "\"%şarkı%\", %sanatçı%",
+            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "vb."]
         }
     ]
 }
@@ -654,7 +655,7 @@ Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız her
 
 ## Hata ayıklama
 - Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş veya hiç bu satıra ulaşamamış demektir.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- Eğer bunların hiçbiri işinize yaramazsa [Discord sunucumuza](https://discord.gg/WvfVZ8T) katılıp diğer geliştiricilerden yardım talep edebilirsiniz.
 
 # Dosyaların açıklamaları
 - [Presence Sınıfı](/dev/presence/class)
