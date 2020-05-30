@@ -28,7 +28,7 @@ Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 - Tarayıcılara yerleşik sayfalar için yapılan servislere izin verilmemektedir (örneğin, Chrome Web Mağazası, `chrome://`, `about:` sayfaları gibi). Bu sayfalara kod enjekte edebilmek gelişmiş bir ayar aktifleştirmeyi gerektirdiği ve tarayıcılara zarar verebileceğinden dolayı **yasaktır**.
 - Yalnızca tek bir sayfa için desteğe sahip varlıklara izin **verilmeyecektir**, çünkü diğer sayfalar için bozuk görünebilirler (örneğin ana sayfa), politika ve iletişim sayfaları (sık kullanılmayan içerik) veya sitelerin diğer ilgisiz içerikleri. (ör. wiki sayfaları)
 - Düşük kaliteli (veya tek bir işlev gerçekleştiren) servislere **izin verilmemektedir**. Örneğin sadece sitenin simgesini ve hiçbir zaman değişmeyen bir yazı göstermek. )
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- ` dist ` klasörü, ` presence.ts ` dosyası, ` iframe.ts ` dosyası ve ` metadata.json ` dosyası zorunludur sonuç aşağıdaki şemada temsil edilenler olacaktır:
 
 ```bash
 presence
@@ -39,7 +39,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+veya eğer `iframe` kullanıyorsanız:
 
 ```bash
 presence
@@ -54,7 +54,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
+> Varlık geliştiricilerimizin rahatlığı için bütünlüğü doğrulamak için kullanabileceğiniz bir şema sağladık ` metadata ` dosyanızın. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir.
 
 > It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
 > 
