@@ -2,7 +2,7 @@
 title: Präsenz-Entwickler
 description:
 published: true
-date: 2020-05-29T21:55:04.008Z
+date: 2020-05-19T23:55:04.088Z
 tags:
 ---
 
@@ -666,7 +666,7 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
 # Files explained
-- [Präsenzenklasse](/dev/presence/class)
+- [Präsenz-Klasse](/dev/presence/class)
 - [iFrame-Klasse](/dev/presence/iframe)
 - [Metadatendatei](/dev/presence/metadata)
 - [TypeScript-Konfiguration](/dev/presence/tsconfig)
