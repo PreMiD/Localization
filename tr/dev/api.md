@@ -30,5 +30,5 @@ PreMiD API'de bulunan HTTP ve buna ait tüm protokoller TLS 1.2 şifreleme siste
 
 **API sürümünü seçin:**
 - [v2 *aktif*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *yapım aşamasında*](/dev/api/v3)
 {.links-list}
