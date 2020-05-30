@@ -18,12 +18,12 @@ GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız
 
 ## Oluşturma
 
-The general rules of presence development are as follows:
+Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
-- The file structure must be clean and managed, do not include files which are not specified. ( for e.g., vscode and git folders, image and text files, etc. )
-- You need to have a proper file structure, drafts are **not** allowed.
+- Yaptığınız servisler, seçtiğiniz site ile alakalı olmak **zorundadır**.
+- Yaptığınız servis **Kesinlikle**, herhangi bir illegal siteninki olmamalıdır. (örn. uyuşturucu satıcılığı, çocuk pornografisi vb. )
+- Dosya yapısı temiz ve yönetilmeli, belirtilmeyen dosyaları içermemelidir. (örn. vscode ve git klasörleri, reism ve metin dosyaları, vb. )
+- Uygun bir dosya yapısına sahip olmanız gerekir, taslaklar kabul **edilemez**.
 - Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
