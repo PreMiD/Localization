@@ -40,7 +40,7 @@
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
-		"message": "Parece que no tenemos más ranuras beta disponibles.",
+		"message": "Parece que no tenemos más espacios beta disponibles.",
 		"description": "Shows when the beta slots are full."
 	}
 }
