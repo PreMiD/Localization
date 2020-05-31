@@ -74,8 +74,8 @@ Non è noto se le vecchie versioni di altre distribuzioni lo supportano, quindi 
 ### Supporto
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Unisciti al nostro Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Unisciti al nostro Discord!">
   </a>
 </div>
 
