@@ -21,10 +21,10 @@ Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para 
 Las reglas generales del desarrollo de una Presence son las siguientes:
 
 - Las Presences **deben** estar relacionadas con el sitio web que has elegido.
-- Las Presences **No Pueden** ser para sitios ilegales. (Por ejemplo: estresantes, mercado de drogas, pornografía infantil, etc. )
+- Las Presences **no pueden** ser para sitios ilegales. (Por ejemplo: estresantes, mercado de drogas, pornografía infantil, etc. )
 - La estructura de los archivos debe ser limpia y gestionada, no incluyas archivos que no estén especificados. (Por ejemplo: vscode y carpetas git, archivos de texto e imágenes, etc. )
 - Necesitas tener una estructura de archivo adecuada, los borradores **no** permitidos.
-- Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- Las Presences para sitios web con (`.onion` TLDs) o sitios web con dominios/host gratuitos (Por ejemplo: `.TK` [Todos los dominios gratuitos de Freenom], `.RF`, `GD`, etc.) **no** están permitidos. Se pueden hacer excepciones si se presenta un comprobante de que se pagó por el dominio.
 - Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
 - Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
