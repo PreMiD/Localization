@@ -50,5 +50,9 @@
 	"spotify.playlists": {
 		"message": "le loro playlist",
 		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Scaricando Spotify",
+		"description": ""
 	}
 }
