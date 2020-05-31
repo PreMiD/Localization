@@ -1,1 +1,10 @@
-{}
+{
+  "header.language": {
+    "message": "Engleski",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Mi podržavamo Vaš jezik, želite li da se prebacite?",
+    "description": "Heading of the language notification when user has different language."
+  }
+}
