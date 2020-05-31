@@ -51,6 +51,10 @@
 		"message": "Manga",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "Merce",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Pagina",
 		"description": ""
@@ -125,6 +129,10 @@
 	},
 	"general.viewCategory": {
 		"message": "Visualizzando categorie:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Canale visualizzato:",
 		"description": ""
 	},
 	"general.viewEpisode": {
