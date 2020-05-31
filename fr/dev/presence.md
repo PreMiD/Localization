@@ -18,7 +18,7 @@ Lors de la publication des presences sur ce GitHub, nous vous demandons de suivr
 
 ## Création
 
-The general rules of presence development are as follows:
+Les règles générales de développement de la présence sont les suivantes:
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
