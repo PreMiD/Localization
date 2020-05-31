@@ -18,5 +18,29 @@
     "facebook.userAbout": {
         "message": "Leggendo di:",
         "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Visualizzando il negozio dell'utente:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Visualizzando gli amici dell'utente:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Navigando tra:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Video salvati",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Aggiunti di recente",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Visualizzando il meteo di oggi",
+        "description": ""
     }
 }
