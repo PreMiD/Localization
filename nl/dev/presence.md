@@ -22,11 +22,11 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 
 - Presences **moeten** gerelateerd zijn aan de website van de keuze.
 - Presences **mogen niet** worden gemaakt voor illegale websites. ( bijvoorbeeld, stressors, drugshandel, kinderpornografie, enz. )
-- The file structure must be clean and managed, do not include files which are not specified. ( for e.g., vscode and git folders, image and text files, etc. )
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
+- De bestandsstructuur moet "clean" en beheerd zijn, bevat geen bestanden die niet gespecificeerd zijn. (bijvoorbeeld, vscode en git mappen, afbeeldingen en tekstbestanden, etc. )
+- Je moet een juiste bestandsstructuur hebben, concepten zijn **niet** toegestaan.
+- Presences voor websites met ( `.onion` TLD's) of websites met gratis domeinen / hosts ( voor eb. ., `.TK` [alle gratis Freenom domeinen], `.RF`, `GD`, etc ) zijn **niet** toegestaan uitzonderingen kunnen worden gemaakt als een bewijs wordt gepresenteerd waaruit blijkt dat ze betaald hebben voor het domein.
+- Presences die gericht zijn op interne browser pagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's, enz) zijn ** niet** toegestaan omdat ze een experimentele vlag nodig hebben, die door de gebruiker moet worden ingeschakeld en mogelijk schade kunnen toebrengen aan hun browsers.
+- Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( bijvoorbeeld wikia-pagina's)
 - Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
