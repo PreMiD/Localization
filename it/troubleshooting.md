@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Ricarica la pagina
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Puoi anche premere <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera invece di cercare il pulsante di aggiornamento.
 
 ### Riavvia il tuo browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) fa un buon lavoro. (È necessario riavviare il browser ovviamente.)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) È necessario riavviare PreMiD in seguito.
 
 ### Ricarica/riavvia Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Premi <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera o riavvia Discord manualmente.
 
 ### Assicurati che Discord non stia funzionando come amministratore
 Davvero importante. Discord RPC non funzionerà se esegui Discord come amministratore.
@@ -41,11 +41,11 @@ Spero che tu sappia come riavviare un computer.
 A volte c'è qualcosa che non va con i file... I tutorial per l'installazione possono essere trovati [qui](/install).
 
 ### Rimozione manuale
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\USER\AppData\Roaming\`` ed elimina la cartella`PreMiD`.
 MacOS:`~/users/USER/~Libreria/Supporto Applicazioni/`ed elimina la cartella`PreMiD``.
 
 ### Sulle distros basate su Ubuntu/Debian
 Se hai scaricato Discord tramite Snapcraft, RPC non funzionerà. È necessario disinstallare la versione di Snapcraft eseguendo `sudo snap remove discord` su un terminale, scarica [versione Linux di Discord](https://discordapp.com/api/download?platform=linux) ([o Canario di Discord](https://discordapp.com/api/canary/download?platform=linux)), poi vai alla directory nella quale hai scaricato Discord (di solito `$HOME/Downloads`), poi installare il pacchetto usando `sudo dpkg -i discord-*. eb`.
 
 ### Non ha risolto il mio problema
-Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
+Si prega di aprire un ticket in [#supporto](https://discord.gg/WvfVZ8T).
