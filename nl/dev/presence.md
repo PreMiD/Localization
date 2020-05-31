@@ -26,7 +26,7 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 - Je moet een juiste bestandsstructuur hebben, concepten zijn **niet** toegestaan.
 - Presences voor websites met ( `.onion` TLD's) of websites met gratis domeinen / hosts ( voor eb. ., `.TK` [alle gratis Freenom domeinen], `.RF`, `GD`, etc ) zijn **niet** toegestaan uitzonderingen kunnen worden gemaakt als een bewijs wordt gepresenteerd waaruit blijkt dat ze betaald hebben voor het domein.
 - Presences die gericht zijn op interne browser pagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's, enz) zijn ** niet** toegestaan omdat ze een experimentele vlag nodig hebben, die door de gebruiker moet worden ingeschakeld en mogelijk schade kunnen toebrengen aan hun browsers.
-- Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( bijvoorbeeld wikia-pagina's)
+- Presences met ondersteuning alleen voor een enkel doel zullen **NIET** toegestaan zijn, omdat ze mogelijk gebroken lijken voor andere pagina's (zoals de homepagina), uitzonderingen kunnen worden gemaakt voor beleid en contactpagina's (inhoud die niet vaak gebruikt) of sites waar de andere inhoud niet gerelateerd is ( bv. wikia pagina's). ( bijvoorbeeld wikia-pagina's)
 - Lage kwaliteit presences (of degenen met weinig context ) zijn **niet** toegestaan ( bijvb: alleen een logo en tekst tonen maar het verandert later nooit meer. )
 - Inclusief de `dist` map, `presence.ts` bestand, `iframe.ts` en `metadata.json` bestand is verplicht dus het resultaat zou zijn wat er in de volgende regeling wordt weergegeven:
 
@@ -56,11 +56,11 @@ presence
 
 > For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Alles wat niet aan de specificaties voldoet **zal niet** toegestaan zijn. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Elke presentie heeft een beschrijvingsbestand genaamd `metadata.json`, de metadata heeft een strenge norm en een voorbeeld van dit bestand kan hieronder worden weergegeven:
 
 ```json
 {
@@ -266,11 +266,11 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
-## `Additional Rules`
+## `Aanvullende Regels`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match ( for e.g., `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **must** be under the `#` folder ( for e.g., `#/巴哈姆特` ) and numbers under the `0-9` folder ( for e.g., `0-9/4anime` ).
+- Zorg er **altijd** voor dat je Presence in de meest geschikte map begint, als de naam begint met een Latijnse letter dan moet het onder de alfabetische overeenkomst vallen ( bijv. `D/dアニメストア` of `G/Google` ). Any other Unicode/non-Latin characters **must** be under the `#` folder ( for e.g., `#/巴哈姆特` ) and numbers under the `0-9` folder ( for e.g., `0-9/4anime` ).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Nadat u aan alle richtlijnen voldoet en uw presence ten minste twee keer is geëvalueerd, wordt uw presence toegevoegd aan de winkel.
 
 # Bijdrages
 
