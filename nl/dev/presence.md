@@ -28,7 +28,7 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 - Presences die gericht zijn op interne browser pagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's, enz) zijn ** niet** toegestaan omdat ze een experimentele vlag nodig hebben, die door de gebruiker moet worden ingeschakeld en mogelijk schade kunnen toebrengen aan hun browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( bijvoorbeeld wikia-pagina's)
 - Lage kwaliteit presences (of degenen met weinig context ) zijn **niet** toegestaan ( bijvb: alleen een logo en tekst tonen maar het verandert later nooit meer. )
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Inclusief de `dist` map, `presence.ts` bestand, `iframe.ts` en `metadata.json` bestand is verplicht dus het resultaat zou zijn wat er in de volgende regeling wordt weergegeven:
 
 ```bash
 presence
@@ -39,7 +39,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+of als je `iframe.ts` gebruikt:
 
 ```bash
 presence
