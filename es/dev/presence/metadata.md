@@ -213,7 +213,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>ajustes</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Una variedad de configuraciones que el usuario puede cambiar</td>
       <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
