@@ -1,1 +1,18 @@
-{}
+{
+	"general.browsing": {
+		"message": "Pregledavanje...",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Uživo",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Čitanje",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Traženje",
+		"description": ""
+	}
+}
