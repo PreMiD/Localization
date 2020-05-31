@@ -54,7 +54,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
+> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Questo è assolutamente facoltativo e non è richiesto durante il processo di revisione.
 
 > It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
 > 
@@ -150,7 +150,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`Url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- The url **must** be a string if the website only uses one domain. Se il sito web utilizza un multiplo, rendilo un array e specifica ciascuno di essi.
 - Do **not** include protocols in the url ( for e.g., `http` or `https` ), and do not include query parameters in the url ( for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com/`)
 
 ### **`versione`**
@@ -170,7 +170,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 ### **`colore`**
 
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
-- The color string **must** be prepended with a hash symbol.
+- La stringa del colore **deve** essere preceduta da un simbolo hash.
 
 ### **`tag`**
 
@@ -185,7 +185,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Le espressioni regolari **devono** essere valide. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`impostazioni`**
 
@@ -200,7 +200,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 Here is a list of rules you must follow when writing your `presence.ts` file:
 
 - **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
 - It is **forbidden** to code presences for a site without adding support to its primary language ( for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself. )
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context ( such as `playing/paused` for video sites, `browsing` for regular sites, and other cases ) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
@@ -232,7 +232,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
+> **Always** have an up-to-date fork before creating your pull request. Questo aiuterà a limitare i falsi positivi da `DeepScan`. 
 > 
 > {.is-warning}
 
@@ -254,16 +254,16 @@ Alcune cose che dovresti sapere dopo aver aperto una richiesta di pull:
 
 - Ci vogliono 2 revisionatori per unire una richiesta di pull.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
+- Tutti i controlli **devono** essere passati per unirsi.
 - ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
 ## `Controlli`
 
 ![Controlli](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Attualmente, una presenza passa attraverso 2 stadi separati di controlli. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `DeepScan` è un bot che verifica la qualità del codice. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
 ## `Regole Aggiuntive`
@@ -280,7 +280,7 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Revisione 1` è stata mantenuta dai seguenti individui:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -304,9 +304,9 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## Creazione cartelle e file
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
+2. Crea un file `presence.ts` e `tsconfig.json` all'interno.
 3. Crea una cartella chiamata `dist` all'interno.
-4. Create a `metadata.json` file inside the `dist` folder.
+4. Crea un file `metadata.json` all'interno della cartella `dist`.
 
 ## Riempimento del file tsconfig.json
 Per favore, inserisci il seguente codice all'interno del file `tsconfig.json`.
@@ -417,7 +417,7 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
     <tr>
       <td style="text-align:left"><b>servizio</b>
       </td>
-      <td style="text-align:left">Il titolo del servizio che supporta questa presenza. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Il titolo del servizio che supporta questa presenza. <br>(Deve essere lo stesso nome della cartella dove si trova tutto)</td>
       <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
