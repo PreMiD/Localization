@@ -1,4 +1,12 @@
 {
+    "report.title": {
+        "message": "Segnala un bug",
+        "description": "Text to indicate the page."
+    },
+    "report.bugcount": {
+        "message": "{count}/3 Rapporti rimasti",
+        "description": "Amount of bug reports user can send"
+    },
     "report.overview": {
         "message": "Breve Panoramica - Fornire una descrizione chiara e concisa di cosa è il bug.",
         "description": "Text for the user to write a brief of the bug information."
