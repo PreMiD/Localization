@@ -3,6 +3,10 @@
 		"message": "Pregledavanje...",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Jezik",
+		"description": "For choosing a language"
+	},
 	"general.live": {
 		"message": "Uživo",
 		"description": ""
@@ -13,6 +17,10 @@
 	},
 	"general.search": {
 		"message": "Traženje",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Prodavnica",
 		"description": ""
 	}
 }
