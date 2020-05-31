@@ -18,10 +18,10 @@ Bij het publiceren van presences naar GitHub, vragen we je om een set richtlijne
 
 ## Aanmaak
 
-The general rules of presence development are as follows:
+De algemene regels voor de ontwikkeling van een presence zijn:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
+- Presences **moeten** gerelateerd zijn aan de website van de keuze.
+- Presences **mogen niet** worden gemaakt voor illegale websites. ( bijvoorbeeld, stressors, drugshandel, kinderpornografie, enz. )
 - The file structure must be clean and managed, do not include files which are not specified. ( for e.g., vscode and git folders, image and text files, etc. )
 - You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
@@ -259,7 +259,7 @@ A few things you should know after opening a pull request:
 
 ## `Checks`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Controles](https://i.imgur.com/bk0A1iY.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
@@ -272,15 +272,15 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Contributions
+# Bijdrages
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Revisie 2` van de richtlijnen is geschreven en is bijgedragen door de volgende personen:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Revisie 1` werd onderhouden door de volgende personen:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -663,7 +663,7 @@ De website waar je mee bezig bent wordt automatisch herladen wanneer je een best
 
 ## Foutopsporing
 - Je kunt `console.log("Test");` tussen je code zetten en kijken of je browserconsole je die uitvoer geeft. Zo ja, ga dan verder en probeer het opnieuw na de volgende functie. Zo niet, dan is er een fout hierboven.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- Als dat je ook niet helpt, vraag dan een presence-ontwikkelaar in onze [Discord-server](https://discord.gg/WvfVZ8T) voor hulp.
 
 # Uitleg van bestanden
 - [Presence Klasse](/dev/presence/class)

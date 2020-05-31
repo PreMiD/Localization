@@ -223,7 +223,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
+- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verifica
@@ -250,7 +250,7 @@ The most important process of presence development is getting your presence on t
 
 ## `Revisione`
 
-A few things you should know after opening a pull request:
+Alcune cose che dovresti sapere dopo aver aperto una richiesta di pull:
 
 - Ci vogliono 2 revisionatori per unire una richiesta di pull.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
@@ -308,7 +308,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Crea una cartella chiamata `dist` all'interno.
 4. Create a `metadata.json` file inside the `dist` folder.
 
-## Filling in the tsconfig.json file
+## Riempimento del file tsconfig.json
 Per favore, inserisci il seguente codice all'interno del file `tsconfig.json`.
 ```javascript
 {
@@ -320,7 +320,7 @@ Per favore, inserisci il seguente codice all'interno del file `tsconfig.json`.
 ```
 Per ulteriori informazioni sulla configurazione di TypeScript, clicca [qui](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Riempimento del file metadata.json
 Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator). Si consiglia comunque di leggere questo in modo da sapere come funziona.
 
 ```json
