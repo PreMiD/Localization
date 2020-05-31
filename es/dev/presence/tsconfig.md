@@ -43,9 +43,9 @@ En el archivo de configuración raíz verá algo como esto.
 | eliminar comentarios       | Eliminando comentarios de archivos compilados.                                                                                                                      |
 | noEmitOnError              | No emita outputs si se reporta algún error.                                                                                                                         |
 | noFallthroughCasesInSwitch | Reporta errores para los casos fallidos en reportes de cambios.                                                                                                     |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
-| noUnusedLocals             | Report errors on unused parameters.                                                                                                                                 |
-| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
+| noUnusedLocals             | Reportar errores en unused locals.                                                                                                                                  |
+| noUnusedParameters         | Reportar errores en unused parameters.                                                                                                                              |
+| inlineSourceMap            | Agrega sourcemapping                                                                                                                                                |
 | typeRoots                  | Puedes leer más acerca de eso [aquí](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                    |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 

@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> La API v1 ha sido descontinuada, cualquier solicitud debe ser enviada a la versión activa 
 > 
 > {.is-danger}
 
@@ -29,6 +29,6 @@ Todos los servicios y protocolos de la capa de HTTP (por ejemplo, http) dentro d
 > {.is-danger}
 
 **Elija la versión API:**
-- [v2 *active*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v2 *activa*](/dev/api/v2)
+- [v3*trabajo en progreso*](/dev/api/v3)
 {.links-list}
