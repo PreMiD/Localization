@@ -288,9 +288,9 @@ Mostra l'impostazione data (funziona solo se l'impostazione è stata precedentem
 presence.showSetting("pdexID"); //Sostituisci pdexID con l'id dell'impostazione
 ```
 
-## Presence categories
+## Categorie di presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Quando fai la tua presence, è necessario specificare una categoria in cui la presence rientra. Questo è un elenco compilato delle categorie che puoi usare.
 
 <table>
   <thead>
