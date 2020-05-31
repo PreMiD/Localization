@@ -14,11 +14,11 @@ La versión `2.x` introduce la [tienda de presencias](https://premid.app/store).
 
 # Directrices
 
-Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. To some, these strict rules may seem harsh. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
+Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estas reglas pueden parecer estrictas. Sin embargo, estas reglas nos evitará encontrarnos a nosotros y a los usuarios con cualquier problema.
 
 ## Creación
 
-The general rules of presence development are as follows:
+Las reglas generales del desarrollo de una Presence son las siguientes:
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
