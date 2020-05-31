@@ -35,17 +35,17 @@ Nel file di configurazione root vedrai qualcosa di simile.
 }
 ```
 
-| ProprietÃ                  | Descrizione                                                                                                                                                         |
+| Proprietà                  | Descrizione                                                                                                                                                         |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Utilizzato per configurare il compilatore, la maggior parte delle proprietà si trova qui.                                                                           |
-| Modulo                     | Puoi leggere di più su questo [qui](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
+| module                     | Puoi leggere di più su questo [qui](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
 | target                     | Definisce la versione JavaScript che stai compilando.                                                                                                               |
 | rimuoviCommenti            | Rimozione commenti dai file compilati.                                                                                                                              |
-| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
+| noEmitOnError              | Non emettere output se sono stati segnalati eventuali errori.                                                                                                       |
+| noFallthroughCasesInSwitch | Segnala errori per casi non andati a buon fine nell'istruzione switch.                                                                                              |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
-| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
+| noUnusedParameters         | Segnala errori sui parametri inutilizzati.                                                                                                                          |
+| inlineSourceMap            | Aggiunge il sourcemapping                                                                                                                                           |
 | typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
@@ -60,7 +60,7 @@ Nel file di configurazione root vedrai qualcosa di simile.
 }
 ```
 
-| ProprietÃ           | Descrizione                                                                                          |
+| Proprietà           | Descrizione                                                                                          |
 |:------------------- |:---------------------------------------------------------------------------------------------------- |
 | **estende**         | Utilizzato per estendere il file base `tsconfig` per varie attività.                                 |
 | **compilerOptions** | Vedi [**Configurazione Root**](/dev/presence/tsconfig#root-configuration) per maggiori informazioni. |
