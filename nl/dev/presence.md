@@ -27,7 +27,7 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 - Presences voor websites met ( `.onion` TLD's) of websites met gratis domeinen / hosts ( voor eb. ., `.TK` [alle gratis Freenom domeinen], `.RF`, `GD`, etc ) zijn **niet** toegestaan uitzonderingen kunnen worden gemaakt als een bewijs wordt gepresenteerd waaruit blijkt dat ze betaald hebben voor het domein.
 - Presences die gericht zijn op interne browser pagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's, enz) zijn ** niet** toegestaan omdat ze een experimentele vlag nodig hebben, die door de gebruiker moet worden ingeschakeld en mogelijk schade kunnen toebrengen aan hun browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( bijvoorbeeld wikia-pagina's)
-- Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
+- Lage kwaliteit presences (of degenen met weinig context ) zijn **niet** toegestaan ( bijvb: alleen een logo en tekst tonen maar het verandert later nooit meer. )
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
