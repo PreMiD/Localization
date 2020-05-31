@@ -34,5 +34,9 @@
     "twitter.explore": {
         "message": "Esplora",
         "description": ""
+    },
+    "twitter.settings": {
+        "message": "Cambiando alcune impostazioni...",
+        "description": ""
     }
 }
