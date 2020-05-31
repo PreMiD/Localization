@@ -43,6 +43,10 @@
 		"message": "Sei pronto ad aiutare il più grande programma del Rich Presence?",
 		"description": "The second part of the jobs page."
 	},
+	"jobs.openings.title": {
+		"message": "Lavori disponibili",
+		"description": "Text before the available job positions cards."
+	},
 	"jobs.benefits.title": {
 		"message": "Benefici di Grande Livello",
 		"description": "Text before the benefits cards."
@@ -51,17 +55,53 @@
 		"message": "Incontra noi",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit1.description": {
+		"message": "Mettiti in contatto con le persone dietro PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Anticipazioni",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Dai un'occhiata al nostro Sviluppo e Marketing.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit3.title": {
 		"message": "Onore",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Efficaci autorizzazioni su Discord e un ruolo colorato.",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
 		"message": "Supporta PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Con il tuo contributo è possibile eseguire questo progetto.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Tempo scaduto",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Prenditi il tuo tempo. Si tratta di lavoro volontario.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Accesso anticipato",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit6.description": {
 		"message": "Testa nuove funzioni prima di qualcun altro.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Grazie per esserti candidato!",
+		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
 		"message": "Ti sei già applicato precedentemente!",

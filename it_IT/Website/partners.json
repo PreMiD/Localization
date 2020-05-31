@@ -207,6 +207,10 @@
 		"message": "Applica",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Grazie per esserti candidato!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Per favore, completa tutti i campi.",
 		"description": "Error when a field isn't filled."
