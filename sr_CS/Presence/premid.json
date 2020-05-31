@@ -1,4 +1,16 @@
 {
+    "premid.pageContributors": {
+        "message": "Pomoćnici",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Preuzimanja",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Prodavnica",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
