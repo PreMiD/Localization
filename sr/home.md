@@ -1,18 +1,18 @@
 ---
-title: Home
-description: Official Documentation for v2
-published: true
+title: Početna stranica
+description: Zvanična dokumentacija za v2
+published: tačno
 date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: Dokumentacija se i dalje uređuje! Neke stranice mogu biti nedovršene ili nedostaju. 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+# O PreMiD-u
+- :mag: [Šta je PreMiD?](/about) Namere koje stoje iza PreMiD-a i zašto biste ga trebali koristiti.
+- :link: [Šta je RPC?](https://discordapp.com/rich-presence) Sve o "Rich Presence" i njegovim funkcijama.
 
 # Getting Started
 
