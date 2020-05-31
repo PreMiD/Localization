@@ -26,7 +26,7 @@ Le regole generali di sviluppo della presenza sono le seguenti:
 - Devi avere una corretta struttura dei file, le bozze non **sono** permesse.
 - Presenze per siti con ( TLD `.onion` ) o siti con domini/host gratis (per esempio `.TK` [tutti i domini gratis Freenom], `.RF`, `.GD`, ecc. ) non **sono** permessi, eccezioni possono essere fatte se viene presentata prova che hanno pagato per il dominio.
 - Le presenze mirate a pagine browser interne ( come Chrome Web Store, pagine come `chrome://`, `about:`, ecc ) **non** sono permesse dato che richiedono che una flag esperimentale sia abilitata dall'utente e che potrebbe potenzialmente danneggiare il loro browser.
-- Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
+- Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( per esempio, pagine wikia )
 - Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
@@ -39,7 +39,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+o se stai usando un file `iframe.ts`:
 
 ```bash
 presence
@@ -125,7 +125,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`$schema`**
 
@@ -239,7 +239,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificatori</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -248,31 +248,31 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `Revisione`
 
 A few things you should know after opening a pull request:
 
-- It takes 2 reviewers to merge a pull request.
+- Ci vogliono 2 revisionatori per unire una richiesta di pull.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
-## `Checks`
+## `Controlli`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Controlli](https://i.imgur.com/bk0A1iY.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
-## `Additional Rules`
+## `Regole Aggiuntive`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match ( for e.g., `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **must** be under the `#` folder ( for e.g., `#/巴哈姆特` ) and numbers under the `0-9` folder ( for e.g., `0-9/4anime` ).
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Contributions
+# Contributi
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
@@ -288,7 +288,7 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-# Structure
+# Struttura
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installazione
@@ -301,11 +301,11 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. Scegli una cartella a tua scelta.
 3. Aprilo con l'editor di codice.
 
-## Creating folders and files
+## Creazione cartelle e file
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
+3. Crea una cartella chiamata `dist` all'interno.
 4. Create a `metadata.json` file inside the `dist` folder.
 
 ## Filling in the tsconfig.json file
@@ -321,7 +321,7 @@ Per favore, inserisci il seguente codice all'interno del file `tsconfig.json`.
 Per ulteriori informazioni sulla configurazione di TypeScript, clicca [qui](/dev/presence/tsconfig).
 
 ## Filling in the metadata.json file
-Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator). Si consiglia comunque di leggere questo in modo da sapere come funziona.
 
 ```json
 {
@@ -376,14 +376,14 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 }
 ```
 
-Copia il codice qui sopra e inseriscilo nel file `metadata.json`. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è necessario modificare i valori delle proprietà. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `collaboratori`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `impostazioni`
 
-**Clarifying some value presets:**
+**Chiarimento di alcuni valori preimpostati:**
 <table>
   <thead>
     <tr>
@@ -534,7 +534,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Un selettore di espressione regolare che seleziona gli iframe da inserire. See regExp for more info.</td>
+      <td style="text-align:left">Un selettore di espressione regolare che seleziona gli iframe da inserire. Vedi regExp per maggiori informazioni.</td>
       <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>sì</code>
@@ -555,7 +555,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Primi passi
 
 ```javascript
 var presence = new Presence({
@@ -585,7 +585,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Questo è chiamato più volte al secondo dove possibile.
 
     Si consiglia di impostare un'altra funzione al di fuori di questa funzione evento che cambierà i valori variabili e farà il sollevamento pesante se si chiamano i dati da un'API.*/
 
@@ -615,7 +615,7 @@ Per esempi suggeriamo di esaminare il codice di presenze come: 1337x o 9GAG.
 
 Per maggiori informazioni sulla classe della presenza clicca [qui](/dev/presence/class).
 
-## Can't get certain data?!
+## Impossibile ottenere alcuni dati?!
 
 Molti siti web usano [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Questi tag html possono contenere sorgenti multiple come video. Ma non sono pertinenti ogni volta. Alcune sono nascoste o semplicemente non utilizzate attivamente. Verifica se è possibile estrarre le informazioni di cui hai bisogno senza di loro, prima di fare lavoro inutile.
 
@@ -648,7 +648,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Nota:** Questo deve essere posizionato al di fuori dell'evento updateData.
-## Compiling
+## Compilando
 Apri una console nella tua cartella e digita `tsc -w` per compilare il `presence.ts` nella cartella `/dist`.
 
 # Caricamento della presenza
