@@ -14,9 +14,9 @@ tags:
 - :mag: [Šta je PreMiD?](/about) Namere koje stoje iza PreMiD-a i zašto biste ga trebali koristiti.
 - :link: [Šta je RPC?](https://discordapp.com/rich-presence) Sve o "Rich Presence" i njegovim funkcijama.
 
-# Getting Started
+# Početak
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD je brz i lak za instaliranje. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
