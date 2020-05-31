@@ -10,7 +10,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# Install
+# Instaliraj
 1. Idite na našu stranicu za preuzimanja [klikom ovde](https://premid.app/downloads).
 2. Choose **Windows**.
 3. Open the installer.
