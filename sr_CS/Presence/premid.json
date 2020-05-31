@@ -1,6 +1,14 @@
 {
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    },
     "premid.pageSysReq": {
         "message": "Sistemski zahtevi",
+        "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Rešavanje problema",
         "description": "A page name"
     }
 }
