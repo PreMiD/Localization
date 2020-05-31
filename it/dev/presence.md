@@ -141,7 +141,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`servizio`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Il nome del servizio **deve** essere il nome della directory della presence. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 
 ### **`descrizione`**
 
@@ -203,8 +203,8 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 - **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
 - It is **forbidden** to code presences for a site without adding support to its primary language ( for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself. )
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context ( such as `playing/paused` for video sites, `browsing` for regular sites, and other cases ) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
+- **Non** sei autorizzato ad accedere a `localStorage`.
+- Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
 - Making requests to external domains is **not** allowed unless you can specify why you are needing to do so.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
@@ -224,11 +224,11 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
-- Assicurati che le modifiche siano utili. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **not** change images if they are not outdated and are in specifications.
+- Assicurati che le modifiche siano utili. Questi possono includere correzioni ( codice e errori di battitura ), aggiunte ( descrizioni e tags ), ecc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verifica
 
-> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. All verifiers will have the `Presence Verifier` role on their profile.
+> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. Tutti i verificatori avranno il ruolo `Presence Verifier` sul loro profilo.
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
@@ -250,10 +250,10 @@ The most important process of presence development is getting your presence on t
 
 ## `Revisione`
 
-Alcune cose che dovresti sapere dopo aver aperto una richiesta di pull:
+Alcune cose che dovresti sapere dopo aver aperto una pull request:
 
 - Ci vogliono 2 revisionatori per unire una richiesta di pull.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
+- Se una pull request è inattiva per un periodo di 7 giorni, verrà immediatamente chiusa.
 - Tutti i controlli **devono** essere passati per unirsi.
 - ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
@@ -289,7 +289,7 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 </div>
 
 # Struttura
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installazione
 1. Installa [Git](https://git-scm.com/).
@@ -297,7 +297,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Clonando il progetto
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
 2. Scegli una cartella a tua scelta.
 3. Aprilo con l'editor di codice.
 
