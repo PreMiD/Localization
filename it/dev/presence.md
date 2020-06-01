@@ -56,7 +56,7 @@ presence
 
 > For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Questo è assolutamente facoltativo e non è richiesto durante il processo di revisione.
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Qualsiasi cosa non organizzata secondo le specifiche **non** sarà permessa. 
 > 
 > {.is-warning}
 
@@ -133,7 +133,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`autore`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- L'ID _valore_ **deve** essere il tuo Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
 ### **`collaboratori`**
 
@@ -161,7 +161,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 ### **`logo`**
 
 - The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- The image is **required** to have a minimum resolution of `512x512` pixels. Puoi ingrandire l'immagine usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
@@ -221,7 +221,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
+- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. Questi possono includere correzioni ( codice e errori di battitura ), aggiunte ( descrizioni e tags ), ecc. Do **not** change images if they are not outdated and are in specifications.
@@ -232,11 +232,11 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
-> **Always** have an up-to-date fork before creating your pull request. Questo aiuterà a limitare i falsi positivi da `DeepScan`. 
+> Avere **sempre** un fork aggiornato prima di creare la tua pull request. Questo aiuterà a limitare i falsi positivi da `DeepScan`. 
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificatori</h2>
