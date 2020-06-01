@@ -117,7 +117,7 @@ Elke presentie heeft een beschrijvingsbestand genaamd `metadata.json`, de metada
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. ( for e.g., a presence without iframe support would not need the `iframe` field. ) 
+> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) en uw    presence gebruikt de standaardwaarde ervoor, neem deze niet op in het ` metadata ` -bestand. ( for e.g., a presence without iframe support would not need the `iframe` field. ) 
 > 
 > {.is-warning}
 
