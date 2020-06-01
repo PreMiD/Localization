@@ -150,7 +150,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`Url`**
 
-- The url **must** be a string if the website only uses one domain. Se il sito web utilizza un multiplo, rendilo un array e specifica ciascuno di essi.
+- L'url **deve** essere una stringa se il sito web utilizza solo un dominio. Se il sito web utilizza un multiplo, rendilo un array e specifica ciascuno di essi.
 - Do **not** include protocols in the url ( for e.g., `http` or `https` ), and do not include query parameters in the url ( for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com/`)
 
 ### **`versione`**
@@ -197,7 +197,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 > 
 > {.is-warning}
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 
 - **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
 - **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
