@@ -117,7 +117,7 @@ Elke presentie heeft een beschrijvingsbestand genaamd `metadata.json`, de metada
 }
 ```
 
-> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) en uw    presence gebruikt de standaardwaarde ervoor, neem deze niet op in het ` metadata ` -bestand. ( for e.g., a presence without iframe support would not need the `iframe` field. ) 
+> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) en uw    presence gebruikt de standaardwaarde ervoor, neem deze niet op in het ` metadata ` -bestand. ( bijv. een presence zonder iframe ondersteuning heeft het veld `iframe` niet nodig. ) 
 > 
 > {.is-warning}
 
@@ -125,7 +125,7 @@ Elke presentie heeft een beschrijvingsbestand genaamd `metadata.json`, de metada
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`$schema`**
 
@@ -239,7 +239,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificateurs</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -248,16 +248,16 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `Beoordelen`
 
 A few things you should know after opening a pull request:
 
-- It takes 2 reviewers to merge a pull request.
+- Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
-## `Checks`
+## `Controles`
 
 ![Controles](https://i.imgur.com/bk0A1iY.png)
 
