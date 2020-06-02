@@ -116,15 +116,15 @@ Her servisin kendine ait açıklayıcı bir `metadata.json` dosyası vardır, bu
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. ( for e.g., a presence without iframe support would not need the `iframe` field. ) 
+> Eğer bu alanlardan biri [dokümanda](https://docs.premid.app/en/dev/presence/metadata) opsiyonel olarak işaretlenmişse ve değeriniz, varsayılan değer ile aynıysa, `metadata` dosyanızda bu değeri belirtmeyin (örneğin, iframe kullanmayan servislerin `iframe` alanına sahip olmaması gerekir ) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> ` metadata ` dosyasındaki tüm resimlerin ` i.imgur.com ` üzerinde veya bir CDN de bulunmalıdır.Bize ** değişiklik**  yetkisi verilmelidir. Sitenin kendisinde barındırılan resimlere izin verilmemektedir, çünkü bu resimler istemsizde olsa bazen değişiklik gösterebilir. 
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`$schema`**
 
@@ -247,9 +247,9 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `İnceleme`
 
-A few things you should know after opening a pull request:
+Bir EGGSY DÜZENLE isteği açtıktan sonra bilmeniz gereken birkaç şey:
 
 - It takes 2 reviewers to merge a pull request.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
@@ -265,11 +265,11 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
-## `Additional Rules`
+## `Ek Kurallar`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match ( for e.g., `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **must** be under the `#` folder ( for e.g., `#/巴哈姆特` ) and numbers under the `0-9` folder ( for e.g., `0-9/4anime` ).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Tüm yönergeleri uygun gözden geçirmeler ve kontrollerle karşıladıktan sonra, servisiniz mağazaya eklenecektir.
 
 # Katkılar
 
