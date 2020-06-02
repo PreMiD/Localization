@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API Sürümleri
-> API v1 sürümü geçerliliğini yitirmiştir, bu sürüme yapılan isteklerin tümü geçerli sürüme yapılmalıdır. 
+> API sürümü 1 geçerliliğini yitirmiştir, bu sürüme yapılan isteklerin tümü geçerli sürüme yapılmalıdır. 
 > 
 > {.is-danger}
 
