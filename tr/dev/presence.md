@@ -154,22 +154,22 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`version`**
 
-- Sürüm numaranızın her zaman [anlamsal sürümlendirme standartlarını](https://semver.org) takip ettiğine emin olun. Bu, sürüm isimlerinizi `<YENİ-ÖZELLİK>.<BÜYÜK-HATA-DÜZELTMESİ>.<KÜÇÜK-VE-METADATA-DÜZELTMELERİ>` şeklidir. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- Sürüm numaranızın her zaman [anlamsal sürümlendirme standartlarını](https://semver.org) takip ettiğine emin olun. Bu, sürüm isimlerinizi `<YENİ-ÖZELLİK>.<BÜYÜK-HATA-DÜZELTMESİ>.<KÜÇÜK-VE-METADATA-DÜZELTMELERİ>` şeklidir. Bunların dışında herhangi bir biçimlendirme (`1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` vb.) ve ufak bir hata için sürüm numarasını `1.0.0`'dan `2.0.0`'a değiştirmeye izin verilmemektedir.
+- Sürüm numarası ilk yayımda her zaman `1.0.0` olmalıdır, aksi belirtilmediği sürece bunu değiştirmek yasaktır.
 
 ### **`logo`**
 
-- Logo, ` 1:1 ` en boy oranına sahip kare bir resim **olmalıdır**.
-- Minimum ` 512x512 ` piksel çözünürlüğe sahip resim ** gereklidir **. Bir araç kullanarak resminizi büyütebilirsiniz [ waifu2x ](http://waifu2x.udp.jp/) gibi.
+- Logo, `1:1` en boy oranına sahip kare bir resim **olmalıdır**.
+- Resim en az `512x512` piksel çözünürlüğünde olmalıdır. [waifu2x](http://waifu2x.udp.jp/) gibi araçlar kullanarak resminizi boyutlandırabilirsiniz.
 
 ### **`thumbnail`**
 
-- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
+- Önizleme resmi (thumbnail), **tercihen** siteyi tanıtan bir afiş olmalıdır, bunun sağlanamadığı durumlarda [sitenin ekran görüntüsü](https://i.imgur.com/OAcBmwW.png) kullanılmalıdır.
 
 ### **`color`**
 
-- Renk **mutlaka** hex değeri olmalıdır `#000000` ve `#FFFFFF` arasında.
-- Renk **mutlaka** dizesine bir hash eklenmelidir.
+- Renk **mutlaka** hex değeri olmalıdır ve seçtiğiniz renk `#000000` ile `#FFFFFF` arasında olmalıdır.
+- Bu alanın içine yazacağınız string, **mutlaka** hash işaretiyle (#) başlamalıdır.
 
 ### **`tags`**
 
