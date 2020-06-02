@@ -173,8 +173,8 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`tags`**
 
-- **Tüm** servisler en az _bir_ etikete sahip olmalıdır.
-- Bu etiketlerde boşluk, taksim(/), tırnak işaretleri, Unicode karakterleri **bulunmamalı** ve her zaman küçük harflerden oluşmalıdır.
+- **Tüm** servisler en az _bir adet_ etikete sahip olmalıdır.
+- Bu etiketlerde boşluk, taksim (/), tırnak işaretleri, unicode karakterleri gibi karakterler **bulundurmamalı** ve her zaman küçük harflerden oluşmalıdır.
 - Tags **should** preferably include alternate service names to make searching easier ( for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws` )
 - NSFW servisler için `NSFW` etiketi **eklemelisin**.
 
@@ -184,9 +184,9 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Regex verisi **mutlaka** geçerli olmalıdır. Lütfen buraya yazdığınız değeri, [doküman sayfamızda](https://docs.premid.app/en/dev/presence/metadata#testing) belirtilen araçlarla deneyip çalıştığına emin olun.
 
-### **`ayarlar`**
+### **`settings`**
 
 - If you decide to make a format string ( for e.g., `%song% by %artist%` ), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 
