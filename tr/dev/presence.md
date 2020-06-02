@@ -21,12 +21,12 @@ GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız
 Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 
 - Yaptığınız servisler, seçtiğiniz site ile alakalı olmak **zorundadır**.
-- Yaptığınız servis **Kesinlikle**, herhangi bir illegal siteninki olmamalıdır. (örn. uyuşturucu satıcılığı, çocuk pornografisi vb. )
-- Dosya yapısı temiz ve yönetilmeli, belirtilmeyen dosyaları içermemelidir. (örn. vscode ve git klasörleri, reism ve metin dosyaları, vb. )
+- Yaptığınız servis **Kesinlikle**, herhangi bir illegal siteninki olmamalıdır. (örneğin, uyuşturucu satıcılığı, çocuk pornografisi vb. )
+- Dosya yapısı temiz ve yönetilmeli, belirtilmeyen dosyaları içermemelidir. (örn. vscode ve git klasörleri, resim ve metin dosyaları, vb. )
 - Uygun bir dosya yapısına sahip olmanız gerekir, taslaklar kabul **edilemez**.
-- Servisler ( `.onion` ) bulunan websiteleri ve bedava alan adları (örn, `.TK ` [tüm Freenom alan adları], `.RF` `.GD` gibi...) veya sağlayıcıları için bir servis **geliştiremezsiniz**, alan adı veya sağlayıcı için ödeme sağladıkları bilgiyi iletmeleri durumunda gerekli tolerans gösterilecektir.
+- Servisler ( `.onion` ) bulunan internet siteleri ve bedava alan adları (örn, `.TK ` [tüm Freenom alan adları], `.RF` `.GD` gibi...) veya sağlayıcıları için bir servis **geliştiremezsiniz**, alan adı veya sağlayıcı için ödeme sağladıkları bilgiyi iletmeleri durumunda gerekli tolerans gösterilecektir.
 - Tarayıcılara yerleşik sayfalar için yapılan servislere izin verilmemektedir (örneğin, Chrome Web Mağazası, `chrome://`, `about:` sayfaları gibi). Bu sayfalara kod enjekte edebilmek gelişmiş bir ayar aktifleştirmeyi gerektirdiği ve tarayıcılara zarar verebileceğinden dolayı **yasaktır**.
-- Yalnızca tek bir sayfa için desteğe sahip varlıklara izin **verilmeyecektir**, çünkü diğer sayfalar için bozuk görünebilirler (örneğin ana sayfa), politika ve iletişim sayfaları (sık kullanılmayan içerik) veya sitelerin diğer ilgisiz içerikleri. (ör. wiki sayfaları)
+- Yalnızca tek bir sayfa için desteğe sahip varlıklara izin **verilmeyecektir**, çünkü diğer sayfalar için bozuk görünebilirler (örneğin ana sayfa), politika ve iletişim sayfaları (sık kullanılmayan içerik) veya sitelerin diğer ilgisiz içerikleri. (ör. viki sayfaları)
 - Düşük kaliteli (veya tek bir işlev gerçekleştiren) servislere **izin verilmemektedir**. Örneğin sadece sitenin simgesini ve hiçbir zaman değişmeyen bir yazı göstermek. )
 - ` dist ` klasörü, ` presence.ts ` dosyası, ` iframe.ts ` dosyası ve ` metadata.json ` dosyası zorunludur sonuç aşağıdaki şemada temsil edilenler olacaktır:
 
@@ -39,7 +39,7 @@ presence
 └── tsconfig.json
 ```
 
-veya eğer `iframe` kullanıyorsanız:
+veya eğer `iframe.ts` kullanıyorsanız:
 
 ```bash
 presence
@@ -54,7 +54,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Varlık geliştiricilerimizin rahatlığı için bütünlüğü doğrulamak için kullanabileceğiniz bir şema sağladık ` metadata ` dosyanızın. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir.
+> `metadata` dosyasınızın doğruluğunu kontrol ettirip geliştiricilere kolaylık sağlamak amacıyla sizlere bir şema sunuyoruz. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir.
 
 > `metadata` dosyanızı burada gösterildiği şekilde organize etmeniz şiddetle tavsiye edilir. Bu dosyadaki servis isimleri, açıklamalar, etiketler ve ayarlar yazım kurallarına uygun olarak yazılmalıdır. Düzgün bir şekilde biçimlendirmemiş hiçbir şey kabul edilmeyecektir. 
 > 
@@ -120,7 +120,7 @@ Her servisin kendine ait açıklayıcı bir `metadata.json` dosyası vardır, bu
 > 
 > {.is-warning}
 
-> ` metadata ` dosyasındaki tüm resimlerin ` i.imgur.com ` üzerinde veya bir CDN de bulunmalıdır.Bize ** değişiklik**  yetkisi verilmelidir. Sitenin kendisinde barındırılan resimlere izin verilmemektedir, çünkü bu resimler istemsizde olsa bazen değişiklik gösterebilir. 
+> `metadata` dosyasında belirtilen tüm resimler `i.imgur.com` veya size direkt bir erişim sunan bir CDN'de barındırılmalıdır. Sitenin kendisinde barındırılan resimlere izin verilmemektedir, çünkü bu resimler istemsizde olsa bazen değişiklik gösterebilir. 
 > 
 > {.is-warning}
 
@@ -176,11 +176,11 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - **Tüm** servisler en az _bir adet_ etikete sahip olmalıdır.
 - Bu etiketlerde boşluk, taksim (/), tırnak işaretleri, unicode karakterleri gibi karakterler **bulundurmamalı** ve her zaman küçük harflerden oluşmalıdır.
 - Etiketler, tercihen servis için alternatif isimler içermelidir. Bu sayede aramalarda çıkması daha kolaylaşır (örneğin, eğer YouTube servisi yapıyorsanız, etiketlerde `youtube` ve `video` etiketlerini belirtebilirsiniz)
-- NSFW servisler için `NSFW` etiketi **eklemelisin**.
+- NSFW servisler için `NSFW` etiketi eklemeniz **gerekmektedir**.
 
 ### **`category`**
 
-- Kategori **mutlaka** aşağıda listelenenlerden biri olmalı [belge](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- Seçtiğiniz kategori, [bu doküman yazısında](https://docs.premid.app/en/dev/presence/metadata#presence-categories) belirtilen kategorilerden birisi **olmalıdır**.
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -196,7 +196,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 > 
 > {.is-warning}
 
-` presence.ts ` dosyanızı yazarken izlemeniz gereken kuralların listesi:
+`presence.ts` dosyanızı yazarken izlemeniz gereken kuralların listesi:
 
 - `Presence` sınıfının tanımını, nadir görülen hatalardan kurtulmak için, **her zaman** herhangi bir değişkenden önce belirtin; bu bir kural olmadığı için ileride bu listeden kaldırılabilir.
 - [Eklentinin içerisinde bulunan fonksiyonlar](https://docs.premid.app/dev/presence#files-explained) ile yapabileceğiniz şeyi kendi fonksiyonlarınızı yazarak **yapmayın**; bu şekilde eklenti ile iletişimde sorun çekmezsiniz. Dokümanda görmediğiniz herhangi bir fonksiyonu kendiniz yazmakta özgürsünüz.
@@ -273,13 +273,13 @@ Tüm yönergeleri uygun gözden geçirmeler ve kontrollerle karşıladıktan son
 
 # Katkılar
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+Bu kılavuzun `ikinci nesli` aşağıdaki şahıslar tarafından hazırlanmıştır:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Birinci nesli` ise aşağıdaki kişiler tarafından yönetilmiştir:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
