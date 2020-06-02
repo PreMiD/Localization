@@ -150,17 +150,17 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`url`**
 
 - Adres, eğer internet sitesi tek bir alan adına sahipse string türünde olmalıdır. Eğer site birden fazla alan adı kullanıyorsa, bu veri, her birini belirttiğiniz bir array olmalıdır.
-- Do **not** include protocols in the url ( for e.g., `http` or `https` ), and do not include query parameters in the url ( for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com/`)
+- Bu alanda HTTP protokollerini (örneğin, `http` veya `https`), parametreleri (örneğin,  `www.google.com/search?gws_rd=ssl` -bu değerin doğrusu `www.google.com` olacaktır) belirtmeyin.
 
 ### **`version`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
+- Sürüm numaranızın her zaman [anlamsal sürümlendirme standartlarını](https://semver.org) takip ettiğine emin olun. Bu, sürüm isimlerinizi `<YENİ-ÖZELLİK>.<BÜYÜK-HATA-DÜZELTMESİ>.<KÜÇÜK-VE-METADATA-DÜZELTMELERİ>` şeklidir. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
 ### **`logo`**
 
 - Logo, ` 1:1 ` en boy oranına sahip kare bir resim **olmalıdır**.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Minimum ` 512x512 ` piksel çözünürlüğe sahip resim ** gereklidir **. Bir araç kullanarak resminizi büyütebilirsiniz [ waifu2x ](http://waifu2x.udp.jp/) gibi.
 
 ### **`thumbnail`**
 
@@ -168,19 +168,19 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`color`**
 
-- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
-- The color string **must** be prepended with a hash symbol.
+- Renk **mutlaka** hex değeri olmalıdır `#000000` ve `#FFFFFF` arasında.
+- Renk **mutlaka** dizesine bir hash eklenmelidir.
 
 ### **`tags`**
 
-- **All** presences are required to have at least _one_ tag.
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+- **Tüm** servisler en az _bir_ etikete sahip olmalıdır.
+- Bu etiketlerde boşluk, taksim(/), tırnak işaretleri, Unicode karakterleri **bulunmamalı** ve her zaman küçük harflerden oluşmalıdır.
 - Tags **should** preferably include alternate service names to make searching easier ( for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws` )
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- NSFW servisler için `NSFW` etiketi **eklemelisin**.
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- Kategori **mutlaka** aşağıda listelenenlerden biri olmalı [belge](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
