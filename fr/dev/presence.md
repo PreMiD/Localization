@@ -156,12 +156,12 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`version`**
 
 - Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), se traduisant par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ÉNORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Autre chose comme `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` ou changement de `1.0.0` à `2.0.` sur une correction de bug/petit changement n'est **pas** autorisé.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- La version **doit** toujours commencé à `1.0.0` à moins que l'on vous dise le contraire, les autres versions ne seront **pas** autorisés.
 
 ### **`Logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Le logo **doit** être une image carrée de `1:1` comme aspect de ratio.
+- La résolution minimale **requise** est de `512x512` pixels. Vous pouvez agrandir l'image en utilisant un outil comme [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
