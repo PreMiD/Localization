@@ -209,7 +209,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **N'écrivez pas** votre propre fichier `tsconfig.json`, utilisez ce qui a été fourni dans la [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
@@ -239,7 +239,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Vérificateurs</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -248,9 +248,9 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `Révision`
 
-A few things you should know after opening a pull request:
+Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
 - It takes 2 reviewers to merge a pull request.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
