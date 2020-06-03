@@ -321,7 +321,7 @@ Isi kode berikut kedalam file `tsconfig.json`.
 Untuk mempelajari lebih lanjut tentang konfgurasi TypeScript klik [disini](/dev/presence/tsconfig).
 
 ## Mengisi file metadata.json
-Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](https://eggsy.codes/projects/premid/mdcreator). Dianjurkan untuk membaca secara seksama agar anda mengerti bagaimana caranya.
 
 ```json
 {
@@ -376,14 +376,14 @@ Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus merubah value dari properti tersebut. Harap diingat bahwa properti berikut adalah opsional dalam file `metadata.json` anda, jika anda tidak berniat menggunakannya anda harus menghapusnya.
 - `kontributor`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `pengaturan`
 
-**Clarifying some value presets:**
+**Memperjelas beberapa preset value:**
 <table>
   <thead>
     <tr>
@@ -417,7 +417,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">The title of the service that this presence supports. <br>(harus memiliki nama sama dengan folder dimana semuanya terletak)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
