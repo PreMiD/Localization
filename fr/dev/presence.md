@@ -176,20 +176,20 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - **Toutes **les presences sont requises pour avoir au moins _un_ tag.
 - Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
-- Tags **should** preferably include alternate service names to make searching easier ( for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws` )
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- Les tags **devraient** de préférence inclure des noms de service alternatifs pour faciliter la recherche (par exemple, si une présence Amazon a inclus le support AWS, il aurait ses balises comme `amazon-web-services` et `aws`)
+- Vous êtes **tenus** d'ajouter un tag `NSFW` si la presence est pour un site Web NSFW.
 
 ### **`Catégorie`**
 
-- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- La catégorie **doit** être l'une des catégories suivantes listées sur la documentation [](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Les expressions régulières **doivent** être valides. Veuillez tester vos expressions avec les outils listés sur la documentation [](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`réglages`**
 
-- If you decide to make a format string ( for e.g., `%song% by %artist%` ), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- Si vous décidez de créer une chaîne de format (par exemple, `%song% par %artist%` ), vous devez avoir les variables entourées d'un signe pour cent de chaque côté. Les variables tels que `%var`, `var%`ou `%%var%%` et tout ce qui se situe entre les deux **n'est pas autorisé** dans un but de normalisation.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
