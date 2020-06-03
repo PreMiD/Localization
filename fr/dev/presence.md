@@ -197,10 +197,10 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 > 
 > {.is-warning}
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Voici une liste de règles que vous devez suivre lors de l'écriture de votre fichier `presence.ts` :
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Toujours** déclarer une nouvelle instance de la classe `Presence` avant toute autre variable pour éviter des problèmes rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc cela pourrait être supprimé dans le futur.
+- **Ne jamais** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos presences. You're free to use whatever you need if you do not find them listed in the docs.
 - It is **forbidden** to code presences for a site without adding support to its primary language ( for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself. )
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context ( such as `playing/paused` for video sites, `browsing` for regular sites, and other cases ) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
@@ -248,18 +248,18 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Révision`
+## `En examen`
 
-Quelques choses que vous devriez savoir après avoir ouvert un pull request :
+A few things you should know after opening a pull request:
 
 - It takes 2 reviewers to merge a pull request.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
-## `Checks`
+## `Vérifications`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Vérifications](https://i.imgur.com/bk0A1iY.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
@@ -308,7 +308,7 @@ Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.or
 3. Créer un dossier nommé `dist` à l'intérieur.
 4. Créer un fichier `metadata.json` dans le dossier `dist`.
 
-## Filling in the tsconfig.json file
+## Remplir le fichier tsconfig.json
 Veuillez mettre le code suivant dans le fichier `tsconfig.json`.
 ```javascript
 {
@@ -320,7 +320,7 @@ Veuillez mettre le code suivant dans le fichier `tsconfig.json`.
 ```
 Pour en savoir plus sur la configuration de TypeScript, cliquez [ici](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Remplir le fichier metadata.json
 Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eggsy.codes/projects/premid/mdcreator). Il est toujours suggéré de lire ceci afin que vous sachiez comment cela fonctionne.
 
 ```json
@@ -555,7 +555,7 @@ TLD représente le domaine de niveau supérieur pour exemple: . com .net<br>
 
 Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Pour commencer
 
 ```javascript
 var presence = new Presence({
@@ -615,7 +615,7 @@ Pour des exemples nous suggérons de regarder le code des présences comme : 133
 
 Pour plus d'informations sur la classe Presence, cliquez [ici](/dev/presence/class).
 
-## Can't get certain data?!
+## Impossible d'obtenir certaines données?!
 
 Beaucoup de sites web utilisent des [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Ces balises html peuvent contenir plusieurs sources telles que des vidéos. Mais ils ne sont pas pertinents à chaque fois. Certains sont cachés ou tout simplement pas utilisés activement. Vérifiez si vous pouvez extraire, l'information dont vous avez besoin, sans eux avant de faire un travail inutile.
 
@@ -648,7 +648,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Remarque :** Ceci doit être placé en dehors de l'événement updateData.
-## Compiling
+## Compilation
 Ouvrez une console dans votre dossier et tapez `tsc -w` pour compiler le `presence.ts` dans le dossier `/dist`.
 
 # Chargement de la présence
