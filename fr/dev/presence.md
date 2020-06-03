@@ -165,17 +165,17 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 ### **`thumbnail`**
 
-- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
+- La vignette **devrait** préférablement être une [ large carte promotionnelle](https://i.imgur.com/3QfIc5v.jpg) ou une [capture d'écran](https://i.imgur.com/OAcBmwW.png) si la première option **n'est pas **disponible.
 
 ### **`couleur`**
 
-- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
-- The color string **must** be prepended with a hash symbol.
+- La couleur **doit être** une valeur hexadécimale entre `#000000` et `#FFFFFF`.
+- La chaîne de couleur **doit** être précédée d'un symbole de hachage.
 
 ### **`tags`**
 
-- **All** presences are required to have at least _one_ tag.
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+- **Toutes **les presences sont requises pour avoir au moins _un_ tag.
+- Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
 - Tags **should** preferably include alternate service names to make searching easier ( for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws` )
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
