@@ -25,10 +25,10 @@ Peraturan umum pembuatan presence sebagai berikut:
 - Struktur file harus bersih dan teratur, jangan memasukkan file yang tidak ditentukan. ( misal, vscode dan git folders, image and text files, dll. )
 - Anda harus memilki struktur file yang baik, draft **tidak** diperbolehkan.
 - Presence untuk website dengan (`.onion` TLD ) atau website dengan domain/host gratis (misal, `.TK` [all free Freenomdomains], `.RF`, `GD`, dll. ) **tidak** diizinkan, pengecualian dapat dibuat jika bukti pembayaran domain dapat ditunjukkan.
-- Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
-- Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Presence yang mengarah pada halaman internal browser (seperti Chrome Web Store `chrome://`, `about:` pages, etc ) **tidak** diperbolehkan sebab membutuhkan flag experimental diaktifkan oleh pengguna dan bisa menyebabkan kerusakan pada browser.
+- Presence dengan dukungan hanya satu halaman **tidak** diperbolehkan, sebab akan terlihat rusak bagi halaman lain ( seperti homepage ) pengecualian dapat dibuat untuk halaman kebijakan dan kontak (konten yang jarang digunakan ) atau website yang konten lainnya tidak berhubungan. ( misal, halaman wikia )
+- Presence kualitas rendah ( atau yang memilki sedikit konteks ) **tidak** diperbolehkan (misal, hanya menampilkan logo dan teks tapi tidak pernah diganti). )
+- Wajib mencantumkan folder `dist`, file `presence.ts`, file `iframe.ts`, dan file `metadata.json` agar hasil sesuai dengan skema berikut:
 
 ```bash
 presence
@@ -39,7 +39,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+atau jika anda menggunakan file `iframe.ts`:
 
 ```bash
 presence
