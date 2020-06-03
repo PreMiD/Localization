@@ -255,11 +255,11 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 - Dibutuhkan 2 reviewer untuk merge sebuah pull request.
 - Jika pull request tidak aktif selama 7 hari, pull request tersebut akan segera ditutup.
 - Semua pemeriksaan **harus** berhasil untuk merge.
-- ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ Anda **harus** memberi screenshot baru, tidak dimodifikasi diambil ( diambil oleh anda ) menunjukkan perbandingan side-by-side dari profilmu dan websitenya untuk membuktikan presencemu bekerja. _Anda diperbolehkan menggabungkan screenshot untuk kemudahan melihat_ Ini berlaku baik dalam pembuatan dan perubahan.
 
-## `Checks`
+## `Pemeriksaan`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Pemeriksaan](https://i.imgur.com/bk0A1iY.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
