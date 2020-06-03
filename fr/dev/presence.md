@@ -230,13 +230,13 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 
 > Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les vérificateurs auront le rôle `Presence Verifier` sur leur profil.
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
+> **Tout** le code contribué au magasin sera sous la licence `Mozilla Public License 2.0`.
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
+> **Toujours** avoir une branche à jour avant de créer votre pull request. Cela aidera à limiter les faux positifs de `DeepScan`. 
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un pull request [](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos vérificateurs confirmeront que votre présence est conforme aux normes et celle-ci sera ajouté au magasin.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Vérificateurs</h2>
@@ -250,11 +250,11 @@ The most important process of presence development is getting your presence on t
 
 ## `En examen`
 
-A few things you should know after opening a pull request:
+Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
+- Il faut 2 examinateurs pour fusionner un pull request.
+- Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
+- Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
 - ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
 ## `Vérifications`
