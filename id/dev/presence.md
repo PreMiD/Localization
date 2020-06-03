@@ -54,13 +54,13 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
+> Untuk kemudahan para pengembang presence, kami telah menyediakan skema yang bisa digunakan untuk memeriksa keutuhan  dari file `metadata`. Ini sepenuhnya opsional dan tidak wajib dalam proses review.
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> Sangat dianjurkan untuk mengorganisir file `metadata` pada format dibawah ini, dan anda harus memiliki  nama layanan yang benar secara tata bahasa, deskripsi, tag, dan bidang pengaturan. Apapun yang tidak terorganisir menurut spesifikasi  **tidak** diperbolehkan. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Setiap presence memiliki file descriptor bernama `metadata.json`, metadata memilki standar yang ketat contoh file bisa dilihat sebagai berikut:
 
 ```json
 {
