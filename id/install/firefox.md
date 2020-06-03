@@ -15,7 +15,7 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 4. Klik pada ikon gir kecil pada pojok kanan atas.
 5. Pilih **Install add-on from file**.
 6. Pilih file yang baru saja diunduh.
-7. Accept the installation by clicking on **Add**.
+7. Setujui instalasi dengan mengklik tombol **Add**.
 
 > Jangan lupa [memasang**aplikasi**](/install). 
 > 
