@@ -23,12 +23,12 @@ Las reglas generales del desarrollo de una Presencia son las siguientes:
 - Las Presencias **deben** estar relacionadas con el sitio web que has elegido.
 - Las Presencias **no pueden** ser para sitios ilegales. (Por ejemplo: estresantes, mercado de drogas, pornografía infantil, etc. )
 - La estructura de los archivos debe ser limpia y gestionada, no incluyas archivos que no estén especificados. (Por ejemplo: vscode y carpetas git, archivos de texto e imágenes, etc. )
-- Necesitas tener una estructura de archivo adecuada, los borradores **no** permitidos.
+- Necesitas tener una estructura de archivo adecuada, los borradores **no** están permitidos.
 - Las Presences para sitios web con (`.onion` TLDs) o sitios web con dominios/host gratuitos (Por ejemplo: `.TK` [Todos los dominios gratuitos de Freenom], `.RF`, `GD`, etc.) **no** están permitidos. Se pueden hacer excepciones si se presenta un comprobante de que se pagó por el dominio.
 - Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single will **not** be permitted, as they may seem broken for other pages ( like the homepage ), exceptions can be made for the policy and contact pages ( content that isn't used often ) or sites where the other content is unrelated. ( for e.g., wikia pages )
-- Low quality presences ( or ones with little context ) are **not** allowed ( for e.g., only showing a logo and text but never changing it again. )
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Presencias de baja calidad ( o con poco contexto ) **no** están permitidas. ( Por ejemplo solo mostrando un logo y texto pero nunca cambiándolo de nuevo ). )
+- Incluyendo la carpeta `dist`, los archivos `presence.tx, iframe.ts` y `metadata.json` son obligatorios para que el resultado sea lo que se representa en el siguiente esquema:
 
 ```bash
 presence
