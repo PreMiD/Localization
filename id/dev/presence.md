@@ -137,20 +137,20 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 ### **`kontributor`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **Jangan** menambahkan diri anda sebagai kontributor dan jangan menambahkan orang lain sebagai kontributor kecualimereka membantu dengan pembuatan presence.
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Nama layanan **harus** sesuai dengan nama dari direktori presence. Contohnya, jika presence terletak di `/websites/Y/YouTube/`, nama layanan harus `YouTube`.
 
 ### **`deskripsi`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **Semua** presence **diharuskan** memilki deskripsi berbahasa inggris terlepas dari bahasa dari website.
+- **Jangan** mencoba menerjemahkan deskripsi sendiri kecuali anda mengerti bahasa tersebut, penerjemah akan merubah `metadata.json` dan merubah deskripsi jika diperlukan.
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- Url **harus** berupa string jika website hanya menggunakan satu domain. Jika website menggunakan lebih dari satu, jadikan array dan tentukan masing-masing.
 - Do **not** include protocols in the url ( for e.g., `http` or `https` ), and do not include query parameters in the url ( for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com/`)
 
 ### **`versi`**
