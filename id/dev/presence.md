@@ -261,9 +261,9 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 
 ![Pemeriksaan](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu verifier untuk menentukan apakah presencemu cocok untuk peluncuran.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `DeepScan` adalah bot yang memeriksa kualitas kode. Jika anda menemui eror pada issue baru, anda **diharuskan** untuk memperbaikinya.
 - `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
 ## `Additional Rules`
