@@ -17,7 +17,7 @@ L'installazione dell'estensione è molto importante in quanto l'applicazione non
 6. Seleziona il file scaricato di recente.
 7. Accetta l'installazione cliccando su **Add**.
 
-> Non dimenticare di [aggiungere l'applicazione ****](/install). 
+> Non dimenticare di [aggiungere l'**applicazione**](/install). 
 > 
 > {.is-warning}
 
