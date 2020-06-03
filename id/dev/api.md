@@ -17,18 +17,18 @@ tags:
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. Anda dapat menentukan versi dengan mencantumkannya pada request path seperti `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD memberikan beberapa versi API. Anda dapat menentukan versi dengan mencantumkannya pada request path seperti `https://api.premid.app/v{version_number}`. Menghilangkan nomer versi akan mengarahkannya ke versi default (tertanda dibawah).
 
-## Encryption
+## Enkripsi
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Semua layanan HTTP-layer dan protokol (misal http) dalam API PreMiD menggunakan TLS 1.2.
 
 # Dokumentasi
-> Currently under construction! 
+> Sedang dibangun! 
 > 
 > {.is-danger}
 
 **Pilih versi API:**
-- [v2 *active*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v2 *aktif*](/dev/api/v2)
+- [v3 *dalam proses pengerjaan*](/dev/api/v3)
 {.links-list}
