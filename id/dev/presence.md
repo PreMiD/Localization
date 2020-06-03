@@ -585,21 +585,21 @@ presence.on("UpdateData", async () => {
 
     var presenceData: presenceData = {
         largeImageKey: "key", /*Key (nama file) dari gambar besar pada presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
-        smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. Berikut adalah yang diupload dan dinamai pada bagian Rich Presence dari aplikasimu, bernama Art Assets*/
+        smallImageText: "Some hover text", //Teks yang akan terlihat ketika hover pada gambar kecil
+        details: "Browsing Page Name", //Bagian atas dari teks presence
+        state: "Reading section A", //Bagian bawah dari teks presence
+        startTimestamp: 1577232000, //Unix epoch timestamp untuk mulai menghitung
+        endTimestamp: 1577151472000 //Jika anda ingin menampilkan waktu tersisa dari pada waktu berlalu, ini adalah unix epoch timestamp dimana hitung mundur selesai
+    }; /*Secara opsional anda dapat mengatur largeimagekey disini dan merubahnya sebagai subproperti variabel, contohnya presenceSata.type = "blahblah"; type examples: details, state, etc.*/
 
     if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+        //Ini akan dijalankan jika anda tidak mengatur detail presence
+        presence.setTrayTitle(); //Bersihkan tray title untuk pengguna mac
+        presence.setActivity(); /*Update presence tanpa data, akan membersihkannya dan membuat gambar besar menjadi gambar Aplikasi Discord, dan teks menjadi nama Aplikasi Discord*/
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        //Ini akan dijalankan jika anda mengatur detail dari presence
+        presence.setActivity(presenceData); //Update presence dengan semua value dari presenceData object
     }
 });
 ```
@@ -613,20 +613,20 @@ Untuk informasi lebih lanjut tentang presence klik [disini](/dev/presence/class)
 
 Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+1. Periksa didalam konsol browser (pastikan anda berada pada tab **Elements**).
 2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Jalankan `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Jika data anda ditemukan pada iFrame anda harus melakukan hal berikut:
+1. Buatlah file `iframe.ts`.
+2. Atur iFrame menjadi `true` pada file metadata.
+3. Isi file iFrame anda.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Ambil semua data yang anda butuhkan dari iFrame dan simpan dalam variable
+  kemudian kirim menggunakan iframe.send
   */
   iframe.send({ //sending data
     video: video,
@@ -634,34 +634,34 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Membuat file presence anda menerima data dari file iFrame.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Catatan:** Ini harus diletakkan diluar dari event updateData.
+## Penyusunan
+Buka konsol dalam folder anda dan ketik `tsc -w` untuk mengcompile `presence.ts` menjadi folder `/dist`.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Memuat presence
+1. Buka popup dan tahan tombol<kbd>Shift</kbd> pada keyboard.
+2. **Load Presence** akan muncul pada bagian presence.
+3. Klik sambil menahan tombol <kbd>Shift</kbd>.
+4. Pilih folder /dist dari presence anda.
 
-# Some helpful things
+# Beberapa hal berguna
 ## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyimpan file pada folder.
 
 ## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- Anda dapat memberi `console.log("Test");` diantara kode dan melihat apakah konsol browser memberi output tersebut. Jika iya lanjutkan dan ulangi pada function selanjutnya. Jika tidak berarti terdapat eror diatas.
+- Jika itu tidak membantu anda dapat bertanya pengembang presence pada [server Discord kami](https://discord.gg/WvfVZ8T) untuk meminta bantuan.
 
-# Files explained
+# File dijelaskan
 - [Kelas Presence](/dev/presence/class)
 - [Kelas iFrame](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [File Metadata](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)
 {.links-list}
