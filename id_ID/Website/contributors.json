@@ -15,9 +15,21 @@
 		"message": "Pembuat",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "Manajer Proyek",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Pengawas Operasi",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Perwakilan Komunitas Global",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Administrator Sistem",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Perancang Web",
