@@ -436,13 +436,9 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">URL dari layanan <br><b>contoh:</b><code>vk.com</code><br>        <b>URL ini harus sama dengan URL yang dimiliki website sebab itu akan mendeteksi apakah ini adalah website yang akan diinject script. </b><br><b>JANGAN</b> menambahkan <code>https://</code> or <code>http://</code> kedalam URL atau garis miring diakhir: <code>https://premid.app/</code> -> <code>premid.app</code><br>
+<b>Catatan</b>: beberapa URL mungkin memiliki <code>www.</code> atau sesuatu didepan domainnya. <b>JANGAN</b> lupa untuk menambahkannya <br>Anda dapat menambahkan beberapa URL dengan melakukan hal berikut:<br><code>["URL1", "URL2", "ETC."]</code><br>
+Anda juga bisa menggunakan regExp juga dikenal sebagai Regex, dijelaskan lebih lanjut dibawah.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -452,14 +448,12 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
+      <td style="text-align:left">Sebuah string regular expression untuk mencocokkan beberapa url. <br>      regExp atau dikenal sebagai Regex, dapat digunakan jika sebuah website memiliki beberapa subdomain.<br>
+Anda dapat menggunakan regExp yang telah disebut untuk itu:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</code> berarti apapun dari a sampai z dan 0 sampai 9<br>
+        Anda bisa mendapatkan dasarnya dengan menonton <a href="https://youtu.be/sXQxhojSdZM">video ini</a><br> 
+        Anda dapat menguji regExp pada <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -516,7 +510,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. Lihat semua kategori valid <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">disini</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -534,7 +528,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Lihat regExp untuk informasi lebih lanjut.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -543,8 +537,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>pengaturan</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Sebuah susunan pengaturan yang dapat dirubah oleh pengguna.<br>
+      Baca lebih lanjut tentang pengaturan presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">disini</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -587,10 +581,10 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 presence.on("UpdateData", async () => {
     /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. This is called several times a second where possible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Disarankan untuk mengatur function lainnya diluar event function tersebut yang akan merubah variable value dan melakukan kerja keras jika anda meminta data dari sebuah API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
+        largeImageKey: "key", /*Key (nama file) dari gambar besar pada presence. Ini diupload dan dinamai pada bagian Rich Presence dari aplikasi anda, bernama Art Assets*/
         smallImageKey: "key", /*Key (nama file) dari gambar besar pada presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
