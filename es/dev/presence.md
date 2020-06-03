@@ -185,7 +185,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Las expresiones regulares **deben** ser válidas. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Las expresiones regulares **deben** ser válidas. Por favor prueba tus expresiones con las herramientas listadas en la [documentación](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`ajustes`**
 
@@ -193,14 +193,14 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct ( grammar errors on websites can be ignored ). 
+> El código que escribes **debe** estar _bien escrito_ y **debe** ser _legible_ y todas las líneas deben ser gramaticalmente correctas ( Errores gramáticos en los sitios web se pueden ignorar ). 
 > 
 > {.is-warning}
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `presence.ts`:
 
 - **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Eres libre de usar lo que sea que necesites si no los encuentras listados en la documentación.
 - It is **forbidden** to code presences for a site without adding support to its primary language ( for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself. )
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context ( such as `playing/paused` for video sites, `browsing` for regular sites, and other cases ) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
