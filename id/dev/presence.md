@@ -264,23 +264,23 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu verifier untuk menentukan apakah presencemu cocok untuk peluncuran.
 
 - `DeepScan` adalah bot yang memeriksa kualitas kode. Jika anda menemui eror pada issue baru, anda **diharuskan** untuk memperbaikinya.
-- `Schema Validation` akan mengscan file `metadata.json` mencari eror ( misal, missing fields, invalid value types, dll. ). Jika anda menemukan isu baru anda juga **diharuskan** memperbaikinya. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
+- `Schema Validation` akan mengscan file `metadata.json` mencari eror ( misal, missing fields, invalid value types, dll. ). Jika anda menemukan isu baru anda juga **diharuskan** memperbaikinya. Menambahkan bidang schema ke file `metadata.json` akan memungkinkan editor teks anda ( jika didukung ) untuk menunjukkan eror pada pengembangan.
 
-## `Additional Rules`
+## `Peraturan tambahan`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match ( for e.g., `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **must** be under the `#` folder ( for e.g., `#/巴哈姆特` ) and numbers under the `0-9` folder ( for e.g., `0-9/4anime` ).
+- **Selalu** pastikan untuk memulai presence dengan folder yang sesuai, jika namanya dimulai dengan huruf latin _apapun_ maka harus harus sesuai urutan abjad ( misal, `D/dアニメストア` atau `G/Google` ). Karakter unicode/non-latin **harus** dalam folder `#` folder ( misal, `#/巴哈姆特` ) dan nomer dalam folder `0-9` folder ( for e.g., `0-9/4anime` ).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Setelah memenuhi semua peraturan dengan review dan pemeriksaan yang sesuai, presence anda akan di merge dengan toko.
 
-# Contributions
+# Kontribusi
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Revisi 2` dari peraturan tertulis dan dikontribusikan oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Revisi 1` diurus oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -288,8 +288,8 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Struktur
+Semua presence ditulis dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) memiliki tipe definisi tambahan dari JavaScript, jadi identifikasi dan perbaikan bug menjadi lebih mudah.
 
 ## Instalasi
 1. Install [Git](https://git-scm.com/).
