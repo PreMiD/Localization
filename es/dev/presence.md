@@ -145,8 +145,8 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`descripción`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **Todas** las presencias **requieren** una descripción en Inglés sin importar el idioma del sitio web.
+- **No** intentes traducir la descripción por ti mismo a menos que sepas el idioma, los traductores modificarán tu `metadata.json` y cambiarán las descripciones de ser necesario.
 
 ### **`url`**
 
@@ -156,12 +156,12 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`versión`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- La versión **debe** empezar siempre con `1.0.0` a menos que se diga lo contrario, otras versiones **no** serán permitidas.
 
 ### **`logotipo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- El logo **debe** ser una imagen cuadrada con una relación de aspecto `1:1`.
+- La imagen **requiere** una resolución mínima de `512x512` pixeles. Puedes aumentar el tamaño de la imagen usando una herramienta como [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
