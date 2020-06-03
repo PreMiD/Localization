@@ -201,7 +201,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 - **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
 - **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Eres libre de usar lo que sea que necesites si no los encuentras listados en la documentación.
-- It is **forbidden** to code presences for a site without adding support to its primary language ( for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself. )
+- Está **prohibido** escribir presencias para un sitio sin añadir soporte para su idioma principal ( por ejemplo, una presencia de YouTube escrita con soporte solo para Portugués y Japonés, pero no para Ingés ). )
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context ( such as `playing/paused` for video sites, `browsing` for regular sites, and other cases ) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
 - When accessing cookies for stored data, please prefix the key with `PMD_`.
@@ -209,7 +209,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **No** escribas tu propio archivo `tsconfig.json`, usa lo que se ha proporcionado en la [documentación](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
