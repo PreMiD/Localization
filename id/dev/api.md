@@ -12,12 +12,12 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+## Versi API
+> API v1 telah dihentikan, permintaan apapun sebaiknya diteruskan ke versi aktif sekarang 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD exposes different versions of our API. Anda dapat menentukan versi dengan mencantumkannya pada request path seperti `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
 ## Encryption
 
