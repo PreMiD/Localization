@@ -18,7 +18,7 @@ Lors de la publication des presences sur ce GitHub, nous vous demandons de suivr
 
 ## Création
 
-Les règles générales de développement de la présence sont les suivantes:
+Les règles générales de développement de la presence sont les suivantes:
 
 - Les presences **doivent être liées à** au site Web que vous avez choisi.
 - Les presences **ne peuvent pas être faites** pour les sites Web illégaux. ( par exemple, stresseurs, marketing de drogues, pédopornographie, etc. )
@@ -54,13 +54,13 @@ presence
 
 ## [**metada.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Pour la commodité de nos développeurs de présence, nous avons fourni un schéma que vous pouvez utiliser pour valider l'intégrité de votre fichier `metadata`. Cette option est entièrement facultative et n'est pas nécessaire pendant le processus de révision.
+> Pour la commodité de nos développeurs de presence, nous avons fourni un schéma que vous pouvez utiliser pour valider l'intégrité de votre fichier `metadata`. Cette option est entièrement facultative et n'est pas nécessaire pendant le processus de révision.
 
 > Il est fortement recommandé d'organiser votre fichier `metadata` dans le format indiqué ci-dessous, et vous devez avoir des noms de service grammaticalement corrects, descriptions, balises et champs de paramètres. Tout ce qui n'est pas organisé selon les spécifications ne sera **pas autorisé**. 
 > 
 > {.is-warning}
 
-Chaque présence a un fichier de description appelé `metadata.json`, les métadonnées ont un standard strict et un exemple de ce fichier peut paraître ci-dessous:
+Chaque presence a un fichier de description appelé `metadata.json`, les métadonnées ont un standard strict et un exemple de ce fichier peut paraître ci-dessous:
 
 ```json
 {
@@ -176,7 +176,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - **Toutes **les presences sont requises pour avoir au moins _un_ tag.
 - Les tags ne **doivent pas** inclure d'espaces, de slashs, de guillemets, de caractères uni-codes et doivent toujours être en minuscule.
-- Les tags **devraient** de préférence inclure des noms de service alternatifs pour faciliter la recherche (par exemple, si une présence Amazon a inclus le support AWS, il aurait ses balises comme `amazon-web-services` et `aws`)
+- Les tags **devraient** de préférence inclure des noms de service alternatifs pour faciliter la recherche (par exemple, si une presence Amazon a inclus le support AWS, il aurait ses balises comme `amazon-web-services` et `aws`)
 - Vous êtes **tenus** d'ajouter un tag `NSFW` si la presence est pour un site Web NSFW.
 
 ### **`Catégorie`**
@@ -193,7 +193,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct ( grammar errors on websites can be ignored ). 
+> Le code que vous écrivez **doit** être _bien écrit_ et **doit** être _lisible_ et toutes les chaînes doivent être grammaticalement correctes (les erreurs de grammaire sur les sites Web peuvent être ignorées). 
 > 
 > {.is-warning}
 
