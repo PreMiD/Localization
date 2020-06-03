@@ -8,9 +8,9 @@ tags:
 
 > Menyalakan auto-launch pada linux sekarang tersedia pada aplikasi bukan pada ekstensi.{.is-warning}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
-## Table of Contents
+## Daftar Isi
 
 - **[Tentang](#about)**
   - [Stats](#stats)
