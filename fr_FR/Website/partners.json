@@ -119,6 +119,10 @@
 		"message": "Recevez ce qui vous revient à juste titre. Diffusez Anime, Films, Hentai, Promotions et plus encore. Gratuitement, sans publicités et en haute définition!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Commencez à créer votre propre communauté avec nos superbes modèles. Construisez votre propre royaume.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Un outil puissant et facile à utiliser de l'installateur multi-plateforme.",
 		"description": "Description for BitRock."
