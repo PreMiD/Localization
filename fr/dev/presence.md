@@ -255,7 +255,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Il faut 2 examinateurs pour fusionner un pull request.
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
-- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écran ( prises par vous ) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre Presence fonctionne. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écran ( prises par vous ) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre Presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle _ Ceci s'applique à la fois pour la création et la modification.
 
 ## `Vérifications`
 
@@ -264,13 +264,13 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les vérificateurs à déterminer si votre Presence est adaptée au déploiement.
 
 - `DeepScan` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux tickets, vous êtes **tenus** de les corriger.
-- `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toute erreur (par exemple, champs manquants, types de valeur invalides, etc. ). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
+- `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toute erreur (par exemple, champs manquants, types de valeur invalides, etc. ). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. L'ajout d'un champ de schéma à `metadata.json` permettra à votre éditeur de texte ( si pris en charge ) de vous montrer ces erreurs pendant le développement.
 
-## `Additional Rules`
+## `Règles supplémentaires`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match ( for e.g., `D/dアニメストア` or `G/Google` ). Any other Unicode/non-Latin characters **must** be under the `#` folder ( for e.g., `#/巴哈姆特` ) and numbers under the `0-9` folder ( for e.g., `0-9/4anime` ).
+- **Assurez-vous toujours** de démarrer votre Presence dans le dossier le plus approprié, si son nom commence par _n'importe quel_ lettre latine, alors il doit être sous sa correspondance alphabétique ( pex exemple, `D/dアニメストア` ou `G/Google` ). Tous les autres caractères unicode/non-Latin **doivent** être dans le dossier `#` ( par exemple, `#/巴哈姆特`) et les numéros dans le dossier `0-9` ( par exemple, `0-9/4anime` ).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Après avoir respecté toutes les directives et que votre présence ai été examinée au moins deux fois, votre Presence sera fusionnée avec le store.
 
 # Contributions
 
