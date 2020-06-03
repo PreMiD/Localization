@@ -70,5 +70,9 @@
 	"home.features.quickSupport.description": {
 		"message": "Sesuatu bermasalah, memberimu banyak eror atau tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
 		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Bahasa halaman",
+		"description": "Tippy content of the language selector."
 	}
 }
