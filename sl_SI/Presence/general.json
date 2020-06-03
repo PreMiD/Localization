@@ -7,16 +7,44 @@
 		"message": "Brskanje...",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Epizoda",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forumi",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Jezik",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Poslušanje glasbe",
+		"description": ""
+	},
 	"general.live": {
 		"message": "V živo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Stran",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "V premoru",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Predvajam",
 		"description": ""
 	},
 	"general.reading": {
