@@ -203,9 +203,9 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - **Ne jamais** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos presences. Vous êtes libre d'utiliser tout ce dont vous avez besoin si vous ne les trouvez pas listés dans la documentation.
 - Il est **interdit** de coder des presences pour un site sans ajouter de support à sa langue principale (exemple : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même. )
 - Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- Making requests to external domains is **not** allowed unless you can specify why you are needing to do so.
+- Vous n'êtes **pas autorisé** à accéder à `localStorage`.
+- Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
+- Faire des requêtes à des domaines externes est **non autorisé** sauf si vous pouvez spécifier pourquoi vous en avez besoin.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -215,20 +215,20 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 
 ## Modifications
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> Vous **devez** changer la version dans les **métadonnées** pour être une valeur plus élevée de la version précédente lorsque vous effectuez des modifications soit à **presence.ts**/**presence.js** ou **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+Dans certaines situations, les presences peuvent se comporter de manière inattendue ou peuvent utiliser quelques modifications mineures pour améliorer leurs fonctionnalités. Voici une liste compilée que vous **devez** suivre pour modifier des presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Assurez-vous que les modifications sont utiles. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **not** change images if they are not outdated and are in specifications.
+- Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un vérificateur pour voir si vous pouvez réécrire la Presence de votre choix.
+- N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **pas** d'apporter des modifications au code n'ayant **pas** besoin d'être corrigé. Les modifications valides le sont, mais ne doivent **pas** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
+- Si vous apportez des modifications à une Presence et modifiez au moins un **quart** de la base de code de la Presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.
+- Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et tags), etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
 
 # Vérification
 
-> Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. All verifiers will have the `Presence Verifier` role on their profile.
+> Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les vérificateurs auront le rôle `Presence Verifier` sur leur profil.
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
