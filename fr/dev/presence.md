@@ -255,16 +255,16 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Il faut 2 examinateurs pour fusionner un pull request.
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
-- ⚠️ You **must** provide new, unaltered screenshots ( taken by you ) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écran ( prises par vous ) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre Presence fonctionne. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 
 ## `Vérifications`
 
 ![Vérifications](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les vérificateurs à déterminer si votre Presence est adaptée au déploiement.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
+- `DeepScan` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux tickets, vous êtes **tenus** de les corriger.
+- `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toute erreur (par exemple, champs manquants, types de valeur invalides, etc. ). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
 ## `Additional Rules`
 
