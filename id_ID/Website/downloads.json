@@ -71,9 +71,25 @@
 		"message": "Versi ini khusus untuk Linux, dan tidak berlaku untuk sistem lain. Versi utama aplikasi adalah {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
+	"downloads.error.login": {
+		"message": "Silahkan login untuk melihat unduhan.",
+		"description": "Error message if the user is not logged in."
+	},
 	"downloads.error.noaccess.title": {
 		"message": "Uh oh, sepertinya kamu tidak memiliki akses alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Kamu dapat mengikuti program beta **disini** secara gratis. Cepat! tersisa {0} tempat",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Rilisan Awal",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Peringatan",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.button.cancel": {
 		"message": "Batal",
