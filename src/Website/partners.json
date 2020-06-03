@@ -119,6 +119,10 @@
 		"message": "Get what's rightfully yours. Stream Anime, Movies, Hentai, Specials and more. Free, without any ads and in high definition!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Start creating your own community with our awesome templates. Build your own kingdom.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "A powerful and easy to use cross platform installer creation tool.",
 		"description": "Description for BitRock."
