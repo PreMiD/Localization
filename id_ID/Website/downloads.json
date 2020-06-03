@@ -91,16 +91,48 @@
 		"message": "Peringatan",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
+	"downloads.warning.message.edge": {
+		"message": "Jangan lupa untuk mengaktifkan opsi 'allow extensions from other stores' di pengaturan ekstensi.",
+		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Kamu harus menginstal ekstensi **ini** untuk menginstal PreMiD dari Chrome Webstore.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Lewati",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Kembali",
+		"description": "Back button on the ads section"
+	},
 	"downloads.button.cancel": {
 		"message": "Batal",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Oke",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
 		"message": "Selesai",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Masuk",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Terima Kasih!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Kami menggunakan iklan untuk membantu tim dan membiayai server kami untuk memberikan kamu pengalaman yang terbaik!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Harap matikan adblock.",
+		"description": "Message next to pepe."
 	}
 }

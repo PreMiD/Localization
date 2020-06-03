@@ -34,5 +34,9 @@
   "header.contributors": {
     "message": "Kontributor",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Masuk",
+    "description": "Login Button"
   }
 }

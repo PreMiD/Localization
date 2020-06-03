@@ -3,6 +3,10 @@
 		"message": "Bahasa",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Siap untuk menggunakan PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Bergabung {0} pengguna sekarang!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "Mitra",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Ikuti Kami",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "Pengembangan",
