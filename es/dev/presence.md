@@ -176,16 +176,16 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 - **Todas** las presencias requieren por lo menos _una_ etiqueta.
 - Las etiquetas **no** deben tener espacios, barras oblicuas, comillas simples o dobles, caracteres Unicode y siempre deberían ser en minúscula.
-- Tags **should** preferably include alternate service names to make searching easier ( for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws` )
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- Las etiquetas **deberían** incluir preferiblemente nombres de servicio alternativos para hacer su búsqueda mas fácil ( por ejemplo, si una presencia Amazon hubiese incluido soporte para AWS, debería tener sus etiquetas como `amazon-web-services` y `aws` )
+- Estás **obligado** a añadir una etiqueta `NSFW` si la presencia es para un sitio web NSFW.
 
 ### **`categoría`**
 
-- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- La categoría **debe** ser una de las siguientes listadas en la [documentación](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Las expresiones regulares **deben** ser válidas. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`ajustes`**
 
