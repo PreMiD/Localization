@@ -215,7 +215,7 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 
 ## Perubahan
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> Anda **harus** merubah versi di **metadata** menjadi lebih tinggi dari versi sebelumnya ketika membuat perubahan  pada **presence.ts**,**iframe** atau **metadata**. 
 > 
 > {.is-warning}
 
