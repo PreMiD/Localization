@@ -119,6 +119,10 @@
 		"message": "Senin olana sahip ol. Anime, film, hentai, özel içerikler ve dahası. Ücretsiz, reklamız ve yüksek kalitede!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
 		"description": "Description for BitRock."
