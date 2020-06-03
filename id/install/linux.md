@@ -1,12 +1,12 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Memulai dengan instalasi PreMiD pada Linux
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Menyalakan auto-launch pada linux sekarang tersedia pada aplikasi bukan pada ekstensi.{.is-warning}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
