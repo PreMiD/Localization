@@ -264,7 +264,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu verifier untuk menentukan apakah presencemu cocok untuk peluncuran.
 
 - `DeepScan` adalah bot yang memeriksa kualitas kode. Jika anda menemui eror pada issue baru, anda **diharuskan** untuk memperbaikinya.
-- `Schema Validation` will scan your `metadata.json` file for any errors ( for e.g., missing fields, invalid value types, etc. ). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
+- `Schema Validation` akan mengscan file `metadata.json` mencari eror ( misal, missing fields, invalid value types, dll. ). Jika anda menemukan isu baru anda juga **diharuskan** memperbaikinya. Adding a schema field to your `metadata.json` file will allow your text editor ( if supported ) to show you these errors during development.
 
 ## `Additional Rules`
 
