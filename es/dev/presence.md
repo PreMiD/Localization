@@ -121,27 +121,27 @@ Cada presencia tiene un archivo descriptor llamado `metadata.json`, el metadata 
 > 
 > {.is-warning}
 
-> Todas las imágenes en el archivo `metadata` debe ser alojado en `i.imgur.com` o en una CDN que te de los permisos para **cambiar** archivos de imágenes. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> Todas las imágenes en el archivo `metadata` debe ser alojado en `i.imgur.com` o en una CDN que te de los permisos para **cambiar** archivos de imágenes. Contenido alojado en el sitio web en sí ** no** está permitido, puesto que pueden cambiar su ubicación sin querer. 
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _Como se ha mencionado anteriormente, no necesitas incluir un esquema, pero si lo incluyes debes tomar esto en cuenta._
 
 ### **`autor`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- The ID _value_ **must** be your Discord snowflake ID. Puedes obtenerlo activando el [modo desarrollador](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
 ### **`contribuidores`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **No** te añadas a ti mismo como contribuidor, y no añadas a alguien mas como contribuidor a menos que hayan ayudado con la presencia.
 
 ### **`servicio`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta ubicada en `/websites/Y/YouTube/`, el nombre del servicio debe ser `YouTube`.
 
 ### **`descripción`**
 
