@@ -117,15 +117,15 @@ Setiap presence memiliki file descriptor bernama `metadata.json`, metadata memil
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. ( for e.g., a presence without iframe support would not need the `iframe` field. ) 
+> Jika bidang terdaftar sebagai opsional pada [dokumentasi](https://docs.premid.app/en/dev/presence/metadata) dan  presence anda menggunakan value default, jangan mencantumkannya pada file `metadata`. ( misal, presence tanpa  iframe support tidak memerlukan bidang `iframe`. ) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> Semua gambar pada file `metadata` harus dihost di `i.imgur.com` atau pada CDN yang memberi izin untuk **merubah** file gambar. Konten yang dihost pada website itu sendiri **tidak** diperbolehkan sebab mereka dapat merubah lokasi tersebut. 
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Daftar bidang dan peraturannya tertulis dibawah:
 
 ### **`$schema`**
 
