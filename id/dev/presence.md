@@ -222,13 +222,13 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar aturan yang **harus** diikuti ketika merubah presence.
 
 - Anda **tidak** diperbolehkan untuk menulis ulang sebuah presence atau merubah penciptanya. Jika pencipta presence terkena ban dari server resmi atau belum membuat perubahan yang dibutuhkan dalam waktu satu bulan, anda dapat menghubungi verifier untuk meminta menulis ulang presence tersebut.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Pastikan perubahan memiliki fungsi. These may include fixes ( code and typos ), additions ( descriptions and tags ), etc. Do **not** change images if they are not outdated and are in specifications.
+- Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, usahakan **tidak** merubah kode yang **tidak** memerlukan perbaikan. Modifikasi valid adalah, dan **tidak** terbatas pada _missing paths_, _typo_, _missing images_, dll.
+- Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.
+- Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan ( kode dan typo ), penambahan ( deskripsi dan tag ), dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.
 
 # Verifikasi
 
-> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. All verifiers will have the `Presence Verifier` role on their profile.
+> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. Semua verifier memiliki role   `Presence Verifier` di profilnya.
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
