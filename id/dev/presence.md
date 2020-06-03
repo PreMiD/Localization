@@ -14,15 +14,15 @@ Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna s
 
 # Aturan
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Saat menerbitkan presence ke GitHub, kami mengharuskan anda mengikuti beberapa aturan. Bagi beberapa, peraturan ini mungkin terlihat kejam. Tapi, penerapan aturan ini bertujuan untuk menjaga kami dan pengguna dari masalah.
 
 ## Pembuatan
 
-The general rules of presence development are as follows:
+Peraturan umum pembuatan presence sebagai berikut:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. ( for e.g., stressors, drug marketing, child pornography, etc. )
-- The file structure must be clean and managed, do not include files which are not specified. ( for e.g., vscode and git folders, image and text files, etc. )
+- Presence **harus** berhubungan dengan website yang dipilih.
+- Presence **harus tidak** dibuat untuk website ilegal. ( misal stressors, drug marketing, child pornography, etc.). )
+- Struktur file harus bersih dan teratur, jangan memasukkan file yang tidak ditentukan. ( for e.g., vscode and git folders, image and text files, etc. )
 - You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with ( `.onion` TLDs ) or websites with free domains/hosts ( for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc ) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages ( like Chrome Web Store, `chrome://`, `about:` pages, etc ) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
