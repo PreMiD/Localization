@@ -38,5 +38,21 @@
   "header.login": {
     "message": "登入",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "登入為",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "回報錯誤",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "控制面板",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "登出",
+    "description": "Logout button"
   }
 }
