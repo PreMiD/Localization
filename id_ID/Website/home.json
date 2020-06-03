@@ -66,5 +66,9 @@
 	"home.features.quickSupport.heading": {
 		"message": "Dukungan cepat",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Sesuatu bermasalah, memberimu banyak eror atau tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
+		"description": "Features section description"
 	}
 }
