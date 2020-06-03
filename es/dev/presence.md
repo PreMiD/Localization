@@ -56,11 +56,11 @@ presence
 
 > Para la conveniencia de nuestros desarrolladores de presencias, hemos proporcionado un esquema que puedes usar para validar la integridad de tu archivo `metadata`. Esto es completamente opcional y no es requerido durante el proceso de revisión.
 
-> Es altamente recomendado que organices tu archivo `metadata` en el formato mostrado abajo, y debes tener nombres de servicio, descripciones, etiquetas y campos de ajustes gramaticalmente correctos. Anything not organized to specifications will **not** be permitted. 
+> Es altamente recomendado que organices tu archivo `metadata` en el formato mostrado abajo, y debes tener nombres de servicio, descripciones, etiquetas y campos de ajustes gramaticalmente correctos. Cualquier cosa que no este organizada según las especificaciones **no** será permitida. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Cada presencia tiene un archivo descriptor llamado `metadata.json`, el metadata tiene un estándar estricto y un ejemplo de este archivo se puede ver abajo:
 
 ```json
 {
@@ -117,11 +117,11 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. ( for e.g., a presence without iframe support would not need the `iframe` field. ) 
+> Si un campo esta marcado como opcional en la  [documentación](https://docs.premid.app/en/dev/presence/metadata) y tu presencia usa el valor predeterminado, no lo incluyas en el archivo  `metadata`. ( por ejemplo, una presencia sin soporte iframe no necesitaría el campo `iframe`. ) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> Todas las imágenes en el archivo `metadata` debe ser alojado en `i.imgur.com` o en una CDN que te de los permisos para **cambiar** archivos de imágenes. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
 > 
 > {.is-warning}
 
