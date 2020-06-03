@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 # Pasang
 1. Kunjungi halaman unduhan kami [klik disini](https://premid.app/downloads).
