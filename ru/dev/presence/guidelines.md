@@ -218,21 +218,21 @@ presence
 В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
 - Вы ** не** можете переписать свой presence или сменить его автора. Если автор presence был заблокирован на официальном сервере или не внес необходимых изменений в течение месяца, вы можете связаться с проверяющим, чтобы узнать, можете ли вы перезаписать presence.
-- Любой может предоставить исправления для исправления ошибок; однако старайтесь ** не**, вносить изменения в код, который ** не ** нужно исправлять. Допустимые изменения, но ** не**, ограничены <em x-i ="4"> отсутствующими путями</em>, _ опечатки _, _ отсутствующие изображения _ и т. д.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
+- Любой может предоставить исправления для исправления ошибок; однако старайтесь ** не**, вносить изменения в код, который ** не ** нужно исправлять. Допустимые изменения, но **не** ограничены, _отсутствующим путям_, _, опечатки_, _отсутствующие изображения_ и т. д.
+- Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Свяжитесь с верификатором для получения дополнительной информации по этому вопросу.
+- Убедитесь, что изменения полезны. Они могут включать исправления (коды и опечатки), дополнения (описания и теги) и т. д. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
 
 # Проверка
 
-> If you need to contact someone, please use our official Discord server. All verifiers will have the `Presence Verifier` role on their profile. 
+> Если вам нужно связаться с кем-либо, пожалуйста, используйте наш официальный сервер Discord. Все верификаторы будут иметь роль ` Presence Verifier ` в своем профиле. 
 > 
 > {.is-info}
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> ** Весь ** код, добавленный в магазин, будет лицензирован в соответствии с `Mozilla Public License 2.0`. 
 > 
 > {.is-info}
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
+> ** Всегда ** имейте актуальную ветвь перед созданием запроса. Это поможет ограничить ложные срабатывания от `DeepScan`. 
 > 
 > {.is-warning}
 
