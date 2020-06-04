@@ -2,7 +2,7 @@
 title: Kurallar
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T00:46:59.107Z
+date: 2020-06-04T01:18:35.215Z
 tags:
 ---
 
@@ -48,9 +48,13 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir.
+> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir. 
+> 
+> {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> 
+> {.is-warning}
 
 Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
 
@@ -109,9 +113,13 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.)
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> 
+> {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Sitenin kendisinde barındırılan resimlere izin verilmemektedir, çünkü bu resimler istemsizde olsa bazen değişiklik gösterebilir.
+> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Sitenin kendisinde barındırılan resimlere izin verilmemektedir, çünkü bu resimler istemsizde olsa bazen değişiklik gösterebilir. 
+> 
+> {.is-warning}
 
 Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
@@ -181,7 +189,9 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored).
+> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> 
+> {.is-warning}
 
 `presence.ts` dosyanızı yazarken izlemeniz gereken kuralların listesi:
 
@@ -195,11 +205,15 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig).
+> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> 
+> {.is-warning}
 
 ## Yapılandırma
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
+> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> 
+> {.is-warning}
 
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
 
@@ -210,11 +224,17 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 
 # Onaylanma
 
-> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. All verifiers will have the `Presence Verifier` role on their profile.
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. All verifiers will have the `Presence Verifier` role on their profile. 
+> 
+> {.is-info}
 
-> Katkıda bulunulan kodların **hepis** `Mozilla Public License 2.0` adı altında saklanacaktır.
+> Katkıda bulunulan kodların **hepis** `Mozilla Public License 2.0` adı altında saklanacaktır. 
+> 
+> {.is-info}
 
-> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. This will help limit false positives from `DeepScan`.
+> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. This will help limit false positives from `DeepScan`. 
+> 
+> {.is-warning}
 
 Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
