@@ -67,7 +67,7 @@ Secara teknis setiap distribution yang dapat menjalankan [Aplikasi ](https://dis
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Masih belum diketahui apakah versi lama dari distribution lain mendukungnya, jadi tetap update distribution anda dan gunakan rilisan **LTS(Long-Term Support)** jika tersedia, sebab akan lebih stabil (hindari rilisan alpha).
 
 <a name="support"></a>
 
