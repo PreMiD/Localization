@@ -1,1 +1,10 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Đang xem cửa hàng:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Trung tâm tin nhắn",
+        "description": "Meaning Direct messages"
+    }
+}
