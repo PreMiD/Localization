@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web di status now playin Discord.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Fitur",
 		"description": "Introduction button"
@@ -48,7 +52,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Bosan dengan tampilan yang rumit? Itu sebabnya kami membuat dan berusaha menjadikan tampilan kami simpel dan berguna dengan fitur seperti:",
+		"message": "Bosan dengan tampilan yang rumit? Itu sebabnya kami membuat dan berusaha menjadikan tampilan kami simpel dan seberguna mungkin dengan fitur seperti:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -68,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Sesuatu bermasalah, memberimu banyak eror atau tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
+		"message": "Sesuatu bermasalah, mendapat banyak eror atau sama sekali tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
 		"description": "Features section description"
 	},
 	"home.languageSelector.tippy": {
