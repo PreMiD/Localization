@@ -1,38 +1,38 @@
 ---
 title: Linux
-description: Primeiros passos com a instalação do PreMiD no Linux
+description: Primeiros passos para a instalação do PreMiD no Linux
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Alternar o auto-launch no Linux está agora disponível a partir do aplicativo em vez da extensão.{.is-warning}
+> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
 
-A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
+A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
-## Tabela de Conteúdos
+## Table of Contents
 
 - **[Sobre](#about)**
-  - [Estatísticas](#stats)
+  - [Stats](#stats)
   - [Requisitos](#requirements)
-  - Exemplos (em breve)
-  - Perguntas Frequentes (em breve)
-  - Construção (em breve)
-  - [Suporte](#support)
+  - Examples (soon)
+  - FAQs (soon)
+  - Building (soon)
+  - [Support](#support)
   - [Créditos](#credits)
-  - [Licença](#license)
+  - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Instruções de instalação](#installation-instructions)
-  - [Notas adicionais](#additional-notes)
+  - [Installation instructions](#installation-instructions)
+  - [Additional notes](#additional-notes)
 - **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
 - **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
 - **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Instruções de instalação](#installation-instructions-1)
-  - [Notas adicionais](#additional-notes-1)
+  - [Installation instructions](#installation-instructions-1)
+  - [Additional notes](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Instruções de instalação](#installation-instructions-2)
-  - [Notas adicionais](#additional-notes-2)
+  - [Installation instructions](#installation-instructions-2)
+  - [Additional notes](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -42,7 +42,7 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 
 <a name="stats"></a>
 
-### Estatísticas
+### Stats
 
 <table>
   <tr>
@@ -61,21 +61,21 @@ A instalação do aplicativo é muito importante, uma vez que a extensão não p
 
 ### Requisitos
 
-Tecnicamente toda distribuição que pode executar o **aplicativo** [oficial](https://discordapp.com/download) do Discord (não a versão web ou snap) também pode executar o PreMiD;</br> Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas 32-bit (ia32/i686/i386/x86), e como resultado, nós também. Você pode, no entanto, tente build o aplicativo você mesmo se você precisar desesperadamente usá-lo em uma distribuição de 32 bits.</br> Como atualmente usamos Electron como um engine (Discord também!), seus requisitos também se aplicam a este aplicativo :
+Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-Não se sabe se versões antigas de outras distribuições o suportam, por isso basta manter sua distribuição atualizada e usar versões **LTS (Long-Term Support)** se sua distribuição as oferecer, pois elas são mais estáveis (evite versões alfa).
+It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
 
 <a name="support"></a>
 
-### Suporte
+### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Junte-se ao nosso Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Junte-se ao nosso Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
@@ -83,7 +83,7 @@ Não se sabe se versões antigas de outras distribuições o suportam, por isso 
 
 ### Créditos
 
-Agradecimentos para :
+Thanks to :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
 - @apriluwu for maintaining the Gentoo builds
@@ -93,7 +93,7 @@ Agradecimentos para :
 
 <a name="license"></a>
 
-### Licença
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Instruções de instalação
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,9 +126,9 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Notas adicionais
+### Additional notes
 
-Se você quer experimentar o PreMiD ou simplesmente não quer instalá-lo, este é o melhor, está sempre atualizado mas _NÃO AUTO-INICIE COM O SISTEMA!_</br>Se você ficar cansado de ter que abrir cada vez, use os outros pacotes (de acordo com sua distribuição).
+Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Instruções de instalação
+### Installation instructions
 
 ```bash
 # Using yay (recommended)
@@ -169,9 +169,9 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Notas adicionais
+### Additional notes
 
-Se sua distribuição usa pacman, você deve instalar um dos ajudantes primeiro. Se você não tiver nenhum, é recomendado o Yay, execute :
+If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,18 +181,18 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Outros AUR/Pacman helpers também funcionam bem, embora a funcionalidade de cada um deles seja diferente para que você possa enfrentar problemas enquanto os utiliza.
+Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-O mesmo se aplica a seus derivados, como ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
-### Instruções de instalação
+### Installation instructions
 
 ```bash
 # Add the overlay using layman
@@ -206,9 +206,9 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Notas adicionais
+### Additional notes
 
-O comando de instalação mostrado usa layman, isso está nos repositórios oficiais entre `app-portage/layman`.<br> Para obter atualizações você terá que sincronizar a overlay de tempos em tempos, você pode fazer isso com
+The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
 ```bash
 layman -S
