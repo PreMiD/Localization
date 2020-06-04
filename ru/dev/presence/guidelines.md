@@ -209,13 +209,13 @@ presence
 > 
 > {.is-warning}
 
-## Modification
+## Модификация
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> Вы ** должны ** изменить версию в ** metadata ** на более высокое значение по сравнению с предыдущей версией при внесении изменений либо в **sence.ts **, ** iframe.ts ** или ** metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
