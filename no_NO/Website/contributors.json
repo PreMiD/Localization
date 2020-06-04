@@ -35,7 +35,7 @@
 		"message": "Oversetter",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Klikk for å kopiere brukeren sin ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}

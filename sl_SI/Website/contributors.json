@@ -35,7 +35,7 @@
 		"message": "Prevajalec",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Klikni za kopiranje ID uporabnika.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}
