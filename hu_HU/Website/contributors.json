@@ -91,11 +91,11 @@
 		"message": "Fordító",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Kattints a felhasználó azonosítójának másolásához.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "Felhasználó ID kimásolva!",
 		"description": "Notification after user ID was copied."
 	}
