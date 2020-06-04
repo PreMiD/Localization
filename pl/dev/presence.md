@@ -379,7 +379,7 @@ presence.on("iFrameData", data => {
 });
 ```
 **Uwaga:** Należy to umieścić poza zdarzeniem updateData.
-## Compiling
+## Kompilacja
 Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować `presence.ts` w folderze `/dist`.
 
 # Ładowanie statusu
@@ -389,7 +389,7 @@ Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować `presence.ts
 4. Wybierz folder /dist twojego statusu.
 
 # Kilka pomocnych rzeczy
-## Hot-reloading
+## Przeładowanie
 Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem, gdy zapisujesz plik w folderze.
 
 ## Debugowanie
