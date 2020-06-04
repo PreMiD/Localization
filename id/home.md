@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Official Documentation for v2
+description: Dokumentasi resmi untuk v2
 published: true
 date: 2020-02-24T12:26:14.934Z
 tags:
