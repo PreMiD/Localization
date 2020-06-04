@@ -3,6 +3,14 @@
         "message": "Đang xem quảng cáo",
         "description": ""
     },
+    "youtube.trending": {
+        "message": "Đang xem cái gì đang hot",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Đang tải lên cái gì đấy...",
+        "description": ""
+    },
     "youtube.studio.editVideo": {
         "message": "Chỉnh sửa video:",
         "description": ""
