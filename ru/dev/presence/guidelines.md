@@ -217,8 +217,8 @@ presence
 
 В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
+- Вы ** не** можете переписать свой presence или сменить его автора. Если автор presence был заблокирован на официальном сервере или не внес необходимых изменений в течение месяца, вы можете связаться с проверяющим, чтобы узнать, можете ли вы перезаписать presence.
+- Любой может предоставить исправления для исправления ошибок; однако старайтесь ** не**, вносить изменения в код, который ** не ** нужно исправлять. Допустимые изменения, но ** не**, ограничены <em x-i ="4"> отсутствующими путями</em>, _ опечатки _, _ отсутствующие изображения _ и т. д.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
 - Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
