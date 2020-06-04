@@ -6,7 +6,7 @@ date: 2020-02-24T12:26:14.934Z
 tags:
 ---
 
-> :warning: The documentation is still being edited! Some pages may be incomplete or missing. 
+> :warning: Dokumentasi berikut masih dirubah! Beberapa halaman mungking tidak selesai atau hilang. 
 > 
 > {.is-warning}
 
