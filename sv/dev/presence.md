@@ -2,7 +2,7 @@
 title: Presence Utveckling
 description:
 published: true
-date: 2020-06-04T00:54:40.370Z
+date: 2020-06-04T04:38:18.022Z
 tags:
 ---
 
@@ -56,7 +56,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 ```json
 {
-    "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
