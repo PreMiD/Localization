@@ -15,30 +15,30 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 - **[Tentang](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Contoh (segera)
+  - FAQ (segera)
+  - Building (segera)
+  - [Bantuan](#support)
   - [Kredit](#credits)
-  - [License](#license)
+  - [Lisensi](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
+- **[Portable AppImage](#portable-appimage)** (_DIANJURKAN_)
+  - [Petunjuk instalasi](#installation-instructions)
+  - [Catatan tambahan](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (segera, gunakan [ini](#portable-appimage) sementara)
+- **Debian and Ubuntu based distributions** (segera, gunakan [ini](#portable-appimage) sementara)
 - **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+  - [Petunjuk instalasi](#installation-instructions-1)
+  - [Catatan tambahan](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [Petunjuk instalasi](#installation-instructions-2)
+  - [Catatan tambahan](#additional-notes-2)
 
 <a name="about"></a>
 
 ## Tentang
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** adalah utilitas simpel yang menggunakan Discord RP (Rich Presence) yang memungkinkan anda menampilkan apa yang sedang anda lakukan di web ( dan beberapa program ) di profil Discord sebagai **playing status**.
 
 <a name="stats"></a>
 
@@ -46,14 +46,14 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Peluncuran</th>
+    <th>Total Unduhan</th>
+    <th>Rilis terbaru</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Rilis terbaru"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -61,7 +61,7 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 ### Requirements
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Secara teknis setiap distribution yang dapat menjalankan [Aplikasi ](https://discordapp.com/download)**Resmi** Discord ( bukan versi web atau versi snap ) bisa menjalankan PreMiD juga;</br> Seperti yang anda perhatikan dalam beberapa tahun terakhir, beberapa Linux distribution mulai tidak mendukung untuk architecture 32-bit (ia32/i686/i386/x86) dan alhasil, kami juga. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Bantuan
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Lisensi
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Petunjuk instalasi
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,7 +126,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Catatan tambahan
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Petunjuk instalasi
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Catatan tambahan
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Petunjuk instalasi
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Catatan tambahan
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
