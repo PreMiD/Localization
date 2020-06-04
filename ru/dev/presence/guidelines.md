@@ -8,15 +8,15 @@ tags:
 
 # Руководство
 
-При публикации Presence на GitHub, мы требуем, чтобы вы следовали правил. Для некоторых эти строгие правила могут показаться тяжелыми. However, the implementation of these rulesets will keep us and the users from running into any issues.
+При публикации Presence на GitHub, мы требуем, чтобы вы следовали правил. Для некоторых эти строгие правила могут показаться тяжелыми. Тем не менее, осуществление этих правил не позволит нам и пользователям столкнуться с какими-либо проблемами.
 
 # Создание
 
-The general rules of presence development are as follows:
+Основные правила развития presence заключаются в следующем:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- Presences **должны** быть связанным с выбранным веб-сайтом.
+- Presences **не могут** быть сделаны для незаконных веб-сайтов. (например, стрессоры, маркетинг наркотиков, детская порнография и т.д.)
+- Структура файла должна быть чистой и управляемой, не включать файлы, которые не указаны. (например, папки vscode и git, файлы изображений и текста и т. д.)
 - You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
