@@ -107,7 +107,7 @@ Hemos hecho un creador de archivos `metadata.json` para la gente perezosa [here]
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora necesitas saber los valores de las propiedades. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `contribuidores`
 - `regExp`
 - `iframe`
