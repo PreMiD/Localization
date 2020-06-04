@@ -1,6 +1,6 @@
 ---
 title: Lignes directrices
-description: Rules all presence developers must follow to have their presence added.
+description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
 published: vrai
 date: 2020-06-04T01:18:35.215Z
 tags:
@@ -16,13 +16,13 @@ Les règles générales de développement de la presence sont les suivantes:
 
 - Les presences **doivent être liées à** au site Web que vous avez choisi.
 - Les presences **ne peuvent pas être faites** pour les sites Web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
-- La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (for e.g., vscode and git folders, image and text files, etc.)
+- La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
 - Vous devez avoir une structure de fichier appropriée, les brouillons sont **non autorisés**.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Les presences pour des sites webs avec ( `.onion` en fin d'url) ou des sites webs avec des domaines/hôtes gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `. D`, etc) ne sont **PAS** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
+- Les presences qui ciblent les pages internes du navigateur (comme Chrome Web Store, `chrome://`, `about:` pages, etc) ne sont **pas** autorisés car ils nécessitent un drapeau expérimental pour être activés à la fin de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
+- Les presences avec prise en charge pour seulement une seule page **ne seront pas autorisées** , car ils pourraient sembler cassés pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour les pages de politique de confidentialité et de contact ( contenu qui n'est pas souvent utilisé ) ou les sites où l'autre contenu n'est pas lié. (par exemple, les pages wikia )
+- Les presences de faible qualité (ou celles n'ayant qu'un seul contexte) **ne sont pas** autorisées (par exemple : Afficher uniquement le logo et du texte et ne plus jamais les changer.)
+- Inclure le dossier `dist` , le fichier `presence.ts` , `fichier iframe.ts` et `metadata.json` est obligatoire afin que le résultat soit ce qui est représenté dans le schéma suivant :
 
 ```bash
 presence
@@ -48,15 +48,15 @@ presence
 
 ## [**metada.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Cette option est entièrement facultative et n'est pas nécessaire pendant le processus de révision. 
+> Pour la commodité de nos développeurs de presence, nous avons fourni un schéma que vous pouvez utiliser pour valider l'intégrité de votre fichier `metadata`. Cette option est entièrement facultative et n'est pas nécessaire pendant le processus de révision. 
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> Il est fortement recommandé d'organiser votre fichier `metadata` dans le format indiqué ci-dessous, et vous devez avoir des noms de service grammaticalement corrects, descriptions, balises et champs de paramètres. Tout ce qui n'est pas organisé selon les spécifications **ne sera pas autorisé**. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Chaque presence a un fichier de description appelé `metadata.json`, les métadonnées ont un standard strict et un exemple de ce fichier peut paraître ci-dessous:
 
 ```json
 {
