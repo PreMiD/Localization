@@ -79,7 +79,7 @@
 		"message": "Översättare",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Klicka för att kopiera användarens ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}
