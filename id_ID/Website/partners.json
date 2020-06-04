@@ -15,6 +15,14 @@
 		"message": "Bagaimana kalau pergi ke surga bukannya ke neraka?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Presence gratismu",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Tim kami akan menyediakan presence sesuai layanan kamu.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Menjadi diverifikasi",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Integrasi meta-tag",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Otomatis gunakan presencemu ketika seseorang mengunjungi Website.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Dapatkan diabadikan",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Menjadi terkenal",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Ditampilkan pada sosial media kami.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Persyaratan",
