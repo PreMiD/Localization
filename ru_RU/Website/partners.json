@@ -88,7 +88,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Спасибо за подачу заявки!",
+		"message": "Спасибо, что подали заявку!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
