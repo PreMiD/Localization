@@ -102,14 +102,14 @@ Thanks to :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Mungkin tidak pernah, sejak sifat Snap yang menghalangi PreMiD untuk menghubungi Discord atau ekstensi dengan tepat,</br> Akan sangat dihargai jika seseorang dapat melakuknannya, ide atau PR apapun dipersilahkan.</br> P.S.: classic confinement tidak berhasil jadi tidak usah membuat saran tentang itu.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Paket AppImage sangat disarankan jika Discord bisa bekerja tapi paket PreMiD lainnya tidak (.deb, .rpm, etc).
 
 <a name="appimageinstall"></a>
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Klik 2 kali atau run
 ./PreMiD*.AppImage
 ```
 
@@ -128,50 +128,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Catatan tambahan
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Antara anda ingin mencoba PreMiD atau tidak ingin menginstalnya, ini salah satu cara terbaik, selalu up to date tapi _TIDAK MULAI BERSAMA SISTEM!_</br>Jika anda lelah dengan harus membukanya setiap waktu, gunakan paket lain (berdasar disttribution anda).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Arch Linux based distributions
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Gunakan [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Distribution yang didukung adalah _ini sendiri_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS dan [setiap distribution yang mendukung instal dari AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Petunjuk instalasi
 
 ```bash
-# Using yay (recommended)
+# Menggunakan yay (dianjurkan)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Menggunakan pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Menggunakan trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Menggunakan pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... anda pasti mengerti
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+atau secara manual dari [Arch User Repository](https://aur.archlinux.org/packages/premid) jika anda mengerti apa yang anda lakukan.
 
 <a name="archnotes"></a>
 
 ### Catatan tambahan
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Jika distro anda menggunakan pacman, maka anda harus instal salah satu helper terlebih dahulu. Jika tidak ada, Yay dianjurkan, jalankan:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,7 +181,7 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Helper AUR/Pacman lain juga bisa digunakan, tapi fungsi masing-masing berbeda jadi anda mungkin bisa menghadapi masalah saat menggunakannya.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
