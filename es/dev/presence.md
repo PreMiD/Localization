@@ -107,7 +107,7 @@ Hemos hecho un creador de archivos `metadata.json` para la gente perezosa [here]
 }
 ```
 
-Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora necesitas saber los valores de las propiedades. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora necesitas saber los valores de las propiedades. Ten en cuenta que las siguientes propiedades para poner en tu archivo `metadata.json` son opcionales, si no tienes planeado usarlos necesitas eliminarlos.
 - `contribuidores`
 - `regExp`
 - `iframe`
@@ -167,10 +167,10 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo: </b><code>vk.com</code><br>
+        <b>This URL debe coincidir con la URL del sitio web ya que se detectará si es o no el sitio web al que se inyecta el script. </b><br><b>NO</b> agregues <code>https://</code> o <code>http://</code> dentro de la URL ni un slash al final:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+<b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. Do <b>NOT</b> forget to add it!<br>
 You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 You could also use regExp also known as Regex for this task, explaned further below.
