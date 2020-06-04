@@ -119,6 +119,10 @@
 		"message": "Krijg waar je recht tot hebt. Stream Anime, Films, Hentai, Specials en meer. Gratis zonder advertenties en in hoge definitie!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Begin uw eigen community met onze geweldige templates. Bouw uw eigen koninkrijk.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Een krachtig en eenvoudig te gebruiken platform installatietool voor de creatie van platformen.",
 		"description": "Description for BitRock."
