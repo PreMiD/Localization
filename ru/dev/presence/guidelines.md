@@ -236,10 +236,10 @@ presence
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Наиболее важным процессом развития presence является получение Вашего presence в магазине. Это делается путем создания [ запроса ](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) на GitHub в хранилище ` PreMiD/Presences `. Наши проверяющие подтвердят, что ваше presence соответствует стандартам, и оно будет отправлено в магазин.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Проверяющие</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -248,31 +248,31 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `Проверяется`
 
-A few things you should know after opening a pull request:
+Несколько вещей, которые вы должны знать после открытия запроса:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- Требуется 2 рецензента, чтобы объединить запрос.
+- Если запрос неактивен в течение 7 дней, он будет незамедлительно закрыт.
+- Все проверки ** должны** быть пройдены для объединения.
+- ⚠️ Вы ** должны ** предоставить новые, без изменений скриншоты (сделанные вами), показывающие параллельное сравнение вашего профиля и веб-сайта, чтобы доказать, что ваше presence работает. _Вам разрешено склеивать скриншоты для удобства просмотра _ Это относится как к созданию, так и к модификации.
 
-## `Checks`
+## `Проверки`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Проверки](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+В настоящее время presence проходит 2 отдельных этапа проверки. Все эти проверки помогают проверяющим определить, подходит ли ваше presence для развертывания.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `DeepScan` - это бот, который проверяет качество кода. Если вы когда-либо получаете ошибки по новым проблемам, Вым ** необходимо ** их исправить.
+- `Проверка схемы` просканирует файл `metadata.json` для любых ошибок (например, отсутствующие поля, недопустимые типы значений и т.д.). Если вы когда-нибудь увидите какие-либо новые проблемы, Вам также ** необходимо ** исправить их. Добавление поля схемы в файл `metadata.json` позволит вашему текстовому редактору (если поддерживается) показать вам эти ошибки во время разработки.
 
-## `Additional Rules`
+## `Дополнительные правила`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Всегда** убеждайтесь, что вы запускаете ваше presence в наиболее подходящей папке, если его имя начинается с _любой_ Латинской буквы, то он должен находиться в его алфавитном матче (например, `D/dアニメストア` or `G/Google`). Любые другие Unicode / нелатинские символы ** должны ** находиться в папке ` # ` (например, `#/ 巴哈姆特 `) и номера в папке ` 0-9 ` (например, ` 0-9/4anime `).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+После того, как вы соблюдаете все руководящие принципы с соответствующими проверками, ваше presence будет объединено с магазином.
 
-# Contributions
+# Вклад
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
