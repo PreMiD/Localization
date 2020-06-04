@@ -79,7 +79,7 @@
 		"message": "مترجم",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "انقر لنسخ ID المستخدم.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}
