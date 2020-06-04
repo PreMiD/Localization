@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: vrai
-date: 2020-06-04T00:54:40.370Z
+date: 2020-06-04T04:38:18.022Z
 tags:
 ---
 
@@ -56,7 +56,7 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
 
 ```json
 {
-    "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
