@@ -12,7 +12,7 @@ tags:
 
 La version `2.x` introduit le [magasin de presence](https://premid.app/store). Les utilisateurs ont maintenant la possibilité d'ajouter et de supprimer manuellement leurs presences favorites via l'interface utilisateur du [site web](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Avant de commencer, il est fortement recommandé de consulter nos directives par rapport aux Presences. 
 > 
 > {.is-warning}
 
@@ -58,11 +58,11 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "UTILISATEUR",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UTILISATEUR",
     "id": "ID"
   }],
   "service": "SERVICE",
@@ -75,15 +75,15 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATÉGORIE",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITRE D'AFFICHAGE",
+            "icon": "ICÔNE LIBRE SUR FONTAWESOME ",
             "value": true
         },
         {
@@ -91,15 +91,15 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITRE D'AFFICHAGE",
+            "icon": "ICÔNE LIBRE SUR FONTAWESOME",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITRE D'AFFICHAGE",
+            "icon": "ICÔNE LIBRE SUR FONTAWESOME",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
