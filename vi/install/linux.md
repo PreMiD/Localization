@@ -12,7 +12,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 ## Table of Contents
 
-- **[About](#about)**
+- **[Về](#about)**
   - [Stats](#stats)
   - [Yêu cầu hệ thống](#requirements)
   - Examples (soon)
@@ -36,7 +36,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 <a name="about"></a>
 
-## About
+## Về
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 

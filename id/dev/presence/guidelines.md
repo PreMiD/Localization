@@ -2,7 +2,7 @@
 title: Aturan
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T00:46:59.107Z
+date: 2020-06-04T01:18:35.215Z
 tags:
 ---
 
@@ -48,9 +48,13 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Ini sepenuhnya opsional dan tidak wajib dalam proses review.
+> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Ini sepenuhnya opsional dan tidak wajib dalam proses review. 
+> 
+> {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> 
+> {.is-warning}
 
 Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
 
@@ -109,9 +113,13 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.)
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> 
+> {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Konten yang dihost pada website itu sendiri **tidak** diperbolehkan sebab mereka dapat merubah lokasi tersebut.
+> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Konten yang dihost pada website itu sendiri **tidak** diperbolehkan sebab mereka dapat merubah lokasi tersebut. 
+> 
+> {.is-warning}
 
 Daftar bidang dan peraturannya tertulis dibawah:
 
@@ -181,7 +189,9 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored).
+> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> 
+> {.is-warning}
 
 Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 
@@ -195,11 +205,15 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig).
+> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> 
+> {.is-warning}
 
 ## Perubahan
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
+> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> 
+> {.is-warning}
 
 Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar aturan yang **harus** diikuti ketika merubah presence.
 
@@ -210,11 +224,17 @@ Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhka
 
 # Verifikasi
 
-> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. All verifiers will have the `Presence Verifier` role on their profile.
+> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. All verifiers will have the `Presence Verifier` role on their profile. 
+> 
+> {.is-info}
 
-> **Semua** kode yang dikontribusi ke toko akan terlisensi dengan `Mozilla Public License 2.0`.
+> **Semua** kode yang dikontribusi ke toko akan terlisensi dengan `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
-> **Selalu** miliki fork yang up-to-date sebelum membuat pull request. This will help limit false positives from `DeepScan`.
+> **Selalu** miliki fork yang up-to-date sebelum membuat pull request. This will help limit false positives from `DeepScan`. 
+> 
+> {.is-warning}
 
 Proses yang penting dalam pengembangan presence adalah memasang presencemu di toko. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
