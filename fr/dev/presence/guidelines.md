@@ -195,36 +195,36 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 Voici une liste de règles que vous devez suivre lors de l'écriture de votre fichier `presence.ts` :
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+- **Toujours** déclarer une nouvelle instance de la classe `Presence` avant toute autre variable pour éviter des problèmes rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc cela pourrait être supprimé dans le futur.
+- **Ne jamais** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos presences. Vous êtes libre d'utiliser tout ce dont vous avez besoin si vous ne les trouvez pas listés dans la documentation.
+- Il est **interdit** de coder des presences pour un site sans ajouter de support à sa langue principale (exemple : une présence YouTube codée avec le support pour en portugais et en japonais, mais pas en anglais lui-même.)
+- Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- Vous êtes nombreux à ne faire que des requêtes HTTP/HTTPS à `premid.app` ou à l'API du site Web de présence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **N'écrivez pas** votre propre fichier `tsconfig.json`, utilisez ce qui a été fourni dans la [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
 ## Modifications
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> Vous **devez** changer la version dans la **métadonnée** pour que celle-ci soit une valeur plus élevée que la version précédente lorsque vous effectuez des modifications soit à **presence.ts**/**presence.js** ou **metadata.json**. 
 > 
 > {.is-warning}
 
 Dans certaines situations, les presences peuvent se comporter de manière inattendue ou peuvent utiliser quelques modifications mineures pour améliorer leurs fonctionnalités. Voici une liste compilée que vous **devez** suivre pour modifier des presences.
 
-- Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Les modifications valides le sont, mais ne doivent **pas** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contactez un vérificateur pour plus d'informations sur ce sujet.
+- Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période de 7 jours, vous pouvez contacter un vérificateur pour voir si vous pouvez réécrire la presence de votre choix.
+- N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **pas** d'apporter des modifications au code n'ayant **pas** besoin d'être corrigé. Les modifications valides le sont, mais ne doivent **pas** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
+- Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.
 - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
 
 # Vérification
 
-> Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. All verifiers will have the `Presence Verifier` role on their profile. 
+> Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les vérificateurs auront le rôle `Presence Verifier` sur leur profil. 
 > 
 > {.is-info}
 
@@ -232,11 +232,11 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 > 
 > {.is-info}
 
-> **Toujours** avoir une branche à jour avant de créer votre pull request. This will help limit false positives from `DeepScan`. 
+> **Toujours** avoir une branche à jour avant de créer votre pull request. Cela aidera à limiter les faux positifs de `DeepScan`. 
 > 
 > {.is-warning}
 
-Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos vérificateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Vérificateurs</h2>
@@ -255,32 +255,32 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Il faut 2 examinateurs pour fusionner un pull request.
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle_ Ceci s'applique à la fois pour la création et la modification.
 
 ## `Vérifications`
 
 ![Vérifications](https://i.imgur.com/bk0A1iY.png)
 
-Actuellement, une Presence passe par deux étapes distinctes de vérification. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les vérificateurs à déterminer si votre presence est adaptée au déploiement.
 
-- `DeepScan` est un bot qui vérifie la qualité du code. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `DeepScan` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
+- `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toutes erreurs (par exemple, champs manquants, types de valeurs invalides, etc.). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. L'ajout d'un champ de schéma à `metadata.json` permettra à votre éditeur de texte (si pris en charge) de vous montrer ces erreurs pendant le développement.
 
 ## `Règles supplémentaires`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Assurez-vous toujours** de démarrer votre presence dans le dossier le plus approprié, si son nom commence par _n'importe quel_ lettre latine, alors il doit être sous sa correspondance alphabétique (par exemple, `D/dアニメストア` ou `G/Google`). Tous les autres caractères unicode/non-Latin **doivent** être dans le dossier `#` (par exemple, `#/巴哈姆特`) et les numéros dans le dossier `0-9` (par exemple, `0-9/4anime`).
 
 Après avoir respecté toutes les directives et que votre présence ai été examinée au moins deux fois, votre Presence sera fusionnée avec le store.
 
 # Contributions
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`La 2ème révision 2` des directives a été écrite et a et a bénéficié de la contribution des personnes suivantes :
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`La 1ère révision ` a été maintenue par les personnes suivantes :
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
