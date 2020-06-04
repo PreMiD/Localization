@@ -1,12 +1,12 @@
 ---
-title: Kurallar
+title: Yönergeler
 description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-06-04T01:18:35.215Z
 tags:
 ---
 
-# Kurallar
+# Yönergeler
 
 GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız bulunmaktadır. Bazıları için bu kurallar zorlayıcı görünebilir. Ancak bu ayarlamalar ve kurallar sunucularımızın düzgün bir biçimde çalışması için bize yardımcı olacaktır.
 
@@ -15,8 +15,8 @@ GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız
 Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 
 - Yaptığınız servisler, seçtiğiniz site ile alakalı olmak **zorundadır**.
-- Yaptığınız servis **Kesinlikle**, herhangi bir illegal siteninki olmamalıdır. (for e.g., stressors, drug marketing, child pornography, etc.)
-- Dosya yapısı temiz ve yönetilmeli, belirtilmeyen dosyaları içermemelidir. (for e.g., vscode and git folders, image and text files, etc.)
+- Yaptığınız servis **Kesinlikle**, herhangi bir illegal siteninki olmamalıdır. (örneğin, uyuşturucu satıcılığı, çocuk pornografisi vb.)
+- Dosya yapısı temiz ve yönetilmeli, belirtilmeyen dosyaları içermemelidir. (örn. vscode ve git klasörleri, resim ve metin dosyaları, vb.)
 - Uygun bir dosya yapısına sahip olmanız gerekir, taslaklar kabul **edilemez**.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
@@ -224,7 +224,7 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 
 # Onaylanma
 
-> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. All verifiers will have the `Presence Verifier` role on their profile. 
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm doğrulayıcıların profilinde `Presence Verifier` rolü vardır. 
 > 
 > {.is-info}
 
@@ -232,11 +232,11 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 > 
 > {.is-info}
 
-> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. This will help limit false positives from `DeepScan`. 
+> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. Böylelikle `DeepScan`'in vereceği hatalardan kurtulabilirsiniz. 
 > 
 > {.is-warning}
 
-Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Servis inceleme ekibimizdekiler, servisiniz mağazaya eklenmeden önce, servisinizin kodunu inceleyecek ve standartlara uyup uymadığını kontrol edecektir.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Servis Onaylayıcıları</h2>
@@ -255,16 +255,16 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 - Pull request'inizin birleştirilmesi, ekipten 2 kişinin onayıyla gerçekleşir.
 - Eğer bir pull request, 7 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
 - Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz.
 
 ## `Kontroller`
 
 ![Kontroller](https://i.imgur.com/bk0A1iY.png)
 
-Şu anda, bir servis, 2 adet otomatik doğrulama aşamasından geçmektedir. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Şu anda, bir servis, 2 adet otomatik doğrulama aşamasından geçmektedir. Bu iki doğrulama, servis onaylayıcısının kodunuzun çalışmaya hazır olup olmadığını ayırt etmesinde kolaylık sağlar.
 
-- `DeepScan` kod kalitesini kontrol eden bir otomattır. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Eğer burada da bir hata ile karşılaşırsanız, o hatayı da düzeltmelisiniz. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `DeepScan` kod kalitesini kontrol eden bir otomattır. Hata almanız durumunda, aldığınız hatayı düzeltmekle **yükümlüsünüz**.
+- `Schmea Validation` ise `metadata.json` dosyanızı tarayıp, hatalı veya eksik veriler olup olmadığını kontrol etmek için vardır. Eğer burada da bir hata ile karşılaşırsanız, o hatayı da düzeltmelisiniz. `metadata.json` dosyanıza bir şema değeri eklemek, kodlama sırasında (eğer destekliyorsa) editörünüzün size hatalarını belirtmesini sağlar.
 
 ## `Ek Kurallar`
 
