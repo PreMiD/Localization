@@ -79,11 +79,11 @@
 		"message": "翻訳者",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "クリックでユーザー名をコピー",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "コピーした！",
 		"description": "Notification after user ID was copied."
 	}
