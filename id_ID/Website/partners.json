@@ -39,6 +39,10 @@
 		"message": "Menjadi terkenal",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "Persyaratan",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Apa yang kita cari?",
 		"description": "Heading for the first requirement."
