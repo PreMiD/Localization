@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Sebelum melanjutkan, pastikan sistem anda memenuhi semua [persyaratan](/install/requirements). 
 > 
 > {.is-info}
 
@@ -14,17 +14,17 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 # Pasang
 1. Kunjungi halaman unduhan kami [klik disini](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+2. Pilih **OS X**.
+3. Ekstrak archive jika diperlukan.
+4. Buka installer.
+5. Sebuah **peringatan keamanan** akan muncul, jika anda menginstal PreMiD pertama kali. Buka **Preferences** > **Security** > **General** > **Open Anyway**. [Pelajari lebih lanjut](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) tentang unsigned applications.
+> Ini dikarenakan kami tidak memiliki Code Signing Certificate (CSC). [Dukung kami](https://www.patreon.com/Timeraa) untuk membiayai.{.is-info}
+6. Pilih open ketika diminta.
+7. Beri akses untuk terhubung melewati **Firewall** dan **System Events** ketika diminta.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikasi akan mulai otomatis. Periksa simbolnya pada menu bar.
 
-> Do not forget to [add the **extension**](/install). 
+> Jangan lupa [menambahkan** ekstensi**](/install). 
 > 
 > {.is-warning}
 
