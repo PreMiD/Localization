@@ -2,7 +2,7 @@
 title: แนวทาง
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T00:45:51.205Z
+date: 2020-06-04T00:46:59.107Z
 tags:
 ---
 
