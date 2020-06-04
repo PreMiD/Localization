@@ -1,14 +1,14 @@
 ---
 title: Руководство
-description: Rules all presence developers must follow to have their presence added.
+description: Правила, которым должны следовать все разработчики presence, чтобы добавить свое presence.
 published: true
-date: 2020-06-04T01:18:35.215Z
+date: 4 июня 2020г. 18:35:21
 tags:
 ---
 
 # Руководство
 
-При публикации Присутствия на GitHub, мы требуем, чтобы вы следовали правил. Для некоторых эти строгие правила могут показаться тяжелыми. However, the implementation of these rulesets will keep us and the users from running into any issues.
+При публикации Presence на GitHub, мы требуем, чтобы вы следовали правил. Для некоторых эти строгие правила могут показаться тяжелыми. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Создание
 

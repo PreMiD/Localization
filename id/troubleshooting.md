@@ -1,26 +1,26 @@
 ---
 title: Troubleshooting
-description: Everything to solve your problem
+description: Segalanya untuk menyelesaikan masalah anda
 published: true
 date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Pastikan anda sudah menginstal ekstensi **dan** aplikasi! 
 > 
 > {.is-warning}
 
-### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### Muat ulang halaman
+Anda bisa menekan <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada keyboard daripada mencari tombol refresh.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Mulai ulang browser
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) bekerja juga. (Sudah jelas anda harus membukanya lagi.)
 
-### Make sure that you have enabled Discord Game Activity in settings
+### Pastikan anda sudah mengaktifkan Discord Game Activity pada pengaturan
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Memulai ulang PreMiD (Aplikasi)
+![quit.png](/quit.png) Anda harus memulai ulang PreMiD setelah itu.
 
 ### Reload/restart Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
