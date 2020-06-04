@@ -2,7 +2,7 @@
 title: Guidelines
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T01:17:14.622Z
+date: 2020-06-04T01:18:35.215Z
 tags: 
 ---
 
