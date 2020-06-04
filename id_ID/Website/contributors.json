@@ -67,6 +67,10 @@
 		"message": "Moderator Junior",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.supportAgent": {
+		"message": "Agen Support",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Pemeriksa Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."
