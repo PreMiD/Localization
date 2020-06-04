@@ -56,7 +56,7 @@ presence
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Каждое presence имеет файл дескриптора с именем ` metadata.json`, метаданные имеют строгий стандарт, и пример этого файла может быть представлен ниже:
 
 ```json
 {
