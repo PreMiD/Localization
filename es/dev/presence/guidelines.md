@@ -1,8 +1,8 @@
 ---
 title: Directrices
-description: Rules all presence developers must follow to have their presence added.
+description: Reglas que todos los desarrolladores de Presences deben seguir para que su Presence sea añadida.
 published: true
-date: 2020-06-04T00:46:59.107Z
+date: 2020-06-04T01:18:35.215Z
 tags:
 ---
 
@@ -15,8 +15,8 @@ Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para 
 Las reglas generales del desarrollo de una Presencia son las siguientes:
 
 - Las Presencias **deben** estar relacionadas con el sitio web que has elegido.
-- Las Presencias **no pueden** ser para sitios ilegales. (for e.g., stressors, drug marketing, child pornography, etc.)
-- La estructura de los archivos debe ser limpia y gestionada, no incluyas archivos que no estén especificados. (for e.g., vscode and git folders, image and text files, etc.)
+- Las Presencias **no pueden** ser para sitios ilegales. (Por ejemplo: Estresores, marketing de drogas, pornografía infantil, etc.)
+- La estructura de los archivos debe ser limpia y gestionada, no incluyas archivos que no estén especificados. (Por ejemplo: Vscode y capetas git, imágenes y archivos de texto, etc.)
 - Necesitas tener una estructura de archivo adecuada, los borradores **no** están permitidos.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
@@ -48,9 +48,13 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Esto es completamente opcional y no es requerido durante el proceso de revisión.
+> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. Esto es completamente opcional y no es requerido durante el proceso de revisión. 
+> 
+> {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> 
+> {.is-warning}
 
 Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
 
@@ -109,9 +113,13 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.)
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> 
+> {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Contenido alojado en el sitio web en sí ** no** está permitido, puesto que pueden cambiar su ubicación sin querer.
+> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Contenido alojado en el sitio web en sí ** no** está permitido, puesto que pueden cambiar su ubicación sin querer. 
+> 
+> {.is-warning}
 
 Una lista de los campos y sus reglas están listadas abajo:
 
@@ -181,7 +189,9 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored).
+> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> 
+> {.is-warning}
 
 Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `presence.ts`:
 
@@ -195,11 +205,15 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig).
+> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> 
+> {.is-warning}
 
 ## Modification
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
+> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> 
+> {.is-warning}
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
 
@@ -210,11 +224,17 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 # Verificación
 
-> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. All verifiers will have the `Presence Verifier` role on their profile.
+> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. All verifiers will have the `Presence Verifier` role on their profile. 
+> 
+> {.is-info}
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
+> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`.
+> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
+> 
+> {.is-warning}
 
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
