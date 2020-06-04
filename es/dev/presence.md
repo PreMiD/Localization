@@ -12,7 +12,7 @@ tags:
 
 La versión `2.x` introduce la [tienda de presencias](https://premid.app/store). Los usuarios ahora tienen la capacidad de añadir y eliminar manualmente sus presencias favoritas a través de la interfaz de usuario del sitio web [](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Antes de empezar, es muy recomendable que mires nuestras pautas para presences. 
 > 
 > {.is-warning}
 
@@ -32,7 +32,7 @@ Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/).
 2. Elija una carpeta de su elección.
 3. Ábrelo en tu editor de código.
 
-## Creating folders and files
+## Creando carpetas y archivos
 
 1. Cree una carpeta con el **nombre** (no una URL) del servicio que desea soportar.
 2. Crea un archivo de `presence.ts` y `tsconfig.json` dentro.
@@ -52,7 +52,7 @@ Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 Para obtener más información sobre la configuración de TypeScript haga clic [aquí](/dev/presence/tsconfig).
 
 ## Llenando un archivo metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Hemos hecho un creador de archivos `metadata.json` para la gente perezosa [here](https://eggsy.codes/projects/premid/mdcreator). Aun así, se sugiere leerlo para que sepas como funciona.
 
 ```json
 {
@@ -148,7 +148,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>servicio</b>
       </td>
-      <td style="text-align:left">El título del servicio que soporta esta presencia. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">El título del servicio que soporta esta presencia. <br>(Debe ser el mismo nombre que la carpeta en donde está todo)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -284,7 +284,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Hemos hecho un creador de archivos `metadata.json` para la gente perezosa [here](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Getting started
 
