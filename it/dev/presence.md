@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-06-04T00:54:40.370Z
+date: 2020-06-04T04:38:18.022Z
 tags:
 ---
 
@@ -56,7 +56,7 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 
 ```json
 {
-    "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"

@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-06-04T00:54:40.370Z
+date: 2020-06-04T04:38:18.022Z
 tags:
 ---
 
@@ -56,7 +56,7 @@ Stworzyliśmy kreator plików `metadata.json` dla leniwych użytkowników [tutaj
 
 ```json
 {
-    "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
