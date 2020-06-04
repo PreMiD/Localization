@@ -14,7 +14,7 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 - **[Tentang](#about)**
   - [Stats](#stats)
-  - [Requirements](#requirements)
+  - [Persyaratan](#requirements)
   - Contoh (segera)
   - FAQ (segera)
   - Building (segera)
@@ -59,7 +59,7 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 <a name="requirements"></a>
 
-### Requirements
+### Persyaratan
 
 Secara teknis setiap distribution yang dapat menjalankan [Aplikasi ](https://discordapp.com/download)**Resmi** Discord ( bukan versi web atau versi snap ) bisa menjalankan PreMiD juga;</br> Seperti yang anda perhatikan dalam beberapa tahun terakhir, beberapa Linux distribution mulai tidak mendukung untuk architecture 32-bit (ia32/i686/i386/x86) dan alhasil, kami juga. Anda bisa mencoba untuk membangun sendiri aplikasi jika anda sangat butuh menggunakannya pada distribution 32-bit.</br> Karena kami menggunakan Electron sebagai engine (Discord juga!) kebutuhannya juga berlaku pada aplikasi berikut :
 
