@@ -79,7 +79,7 @@
 		"message": "번역자",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "클릭하여 유저의 ID를 복사하세요.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}
