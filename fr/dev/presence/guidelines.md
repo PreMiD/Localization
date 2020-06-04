@@ -62,12 +62,12 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "UTILISATEUR",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "UTLISATEUR",
       "id": "ID"
     }
   ],
@@ -81,15 +81,15 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITRE D'AFFICHAGE",
+      "icon": "ICONE GRATUITE SUR FONTAWESOME",
       "value": true
     },
     {
@@ -97,15 +97,15 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITRE D'AFFICHAGE",
+      "icon": "ICONE GRATUITE SUR FONTAWESOME",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITRE D'AFFICHAGE",
+      "icon": "ICONE GRATUITE SUR FONTAWESOME",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -113,11 +113,11 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Si un champ est listé comme facultatif sur la [documentation](https://docs.premid.app/en/dev/presence/metadata) et que votre presence utilise la valeur par défaut pour celle-ci, ne l'incluez pas dans le fichier `metadata`. (par exemple, une presence sans le support iframe n'aurait pas besoin du champ `iframe`.) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Le contenu hébergé sur le site web lui-même n'est **pas autorisé** car il peut changer les emplacements de façon non désirée. 
+> Toutes les images dans le fichier `metadata` doivent être hébergées sur `i.imgur. om` ou sur un CDN qui vous donne les permissions de **modifier** les fichiers d'images. Le contenu hébergé sur le site web lui-même n'est **pas autorisé** car il peut changer les emplacements de façon non désirée. 
 > 
 > {.is-warning}
 
@@ -125,33 +125,33 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- Le schéma _clé_ **doit** inclure un signe dollar au début de celui-ci, cela signalera à votre éditeur de texte que vous voulez valider votre fichier JSON par rapport à un modèle. _Comme indiqué précédemment, vous n'avez pas besoin d'inclure un schéma, mais si vous l'incluez, vous devez en tenir compte._
 
 ### **`auteur`**
 
-- La _valeur_ de l'ID **doit** être votre ID snowflake Discord. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Veuillez **ne pas confondre** ceci avec l'ID de votre d'application, qui n'est que pour votre presence._
+- La _valeur_ de l'ID **doit** être votre ID snowflake Discord. Vous pouvez l'obtenir en activant le [mode développeur](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Veuillez **ne pas confondre** ceci avec l'ID de votre d'application, qui n'est que pour votre presence._
 
 ### **`contributeurs`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **Ne vous ajoutez pas** en tant que contributeur, et n'ajoutez pas quelqu'un d'autre en tant que contributeur à moins qu'il ait aidé à la presence.
 
 ### **`Service`**
 
-- Le nom du service **doit être** le nom du répertoire de presence. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Le nom du service **doit être** le nom du répertoire de presence. Par exemple, si la presence est située à `/websites/Y/YouTube/`, le nom du service doit être `YouTube`.
 
 ### **`description`**
 
 - **Toutes les** presences sont **requises** pour avoir une description anglaise quelle que soit la langue préférée du site web.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- N'essayez pas de traduire la description vous-même **** à moins que vous ne connaissiez cette langue, les traducteurs modifieront votre `metadata.json` et modifieront les descriptions si nécessaire.
 
 ### **`Url`**
 
-- L'url **doit être** une chaîne de caractères si le site n'utilise qu'un seul domaine. If the website uses multiple, make this an array and specify each one.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- L'url **doit être** une chaîne de caractères si le site n'utilise qu'un seul domaine. Si le site Web en utilise plusieurs, faites un tableau et spécifiez chacune des chaînes de caractères.
+- **N'incluez pas** les protocoles dans l'url (par exemple, `http` or `https` ), et ne pas inclure les paramètres de la requête dans l'url (par exemple, `www.google.com/search?gws_rd=ssl` qui devrait être `www.google.com/`)
 
 ### **`version`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
+- Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), se traduisant par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ÉNORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - La version **doit** toujours commencé à `1.0.0` à moins que l'on vous dise le contraire, les autres versions ne seront **pas** autorisés.
 
 ### **`Logo`**
