@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-06-04T00:54:40.370Z
+date: 2020-06-04T04:38:18.022Z
 tags:
 ---
 
@@ -58,33 +58,32 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVİS İSMİ",
+  "service": "SERVICE",
   "description": {
-    "en": "AÇIKLAMA",
-    "tr": "TÜRKÇE AÇIKLAMA"
+    "en": "DESCRIPTION"
   },
-  "url": "LİNK",
-  "version": "SÜRÜM",
-  "logo": "LOGO LİNKİ",
-  "thumbnail": "KÜÇÜK RESİM LİNKİ",
+  "url": "URL",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["ETİKET1", "ETİKET2"],
-  "category": "KATEGORİ",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -92,17 +91,17 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
             "if": {
                 "ID": true
             },
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
-            "value": "\"%şarkı%\", %sanatçı%",
-            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
-            "values": ["1", "2", "vb."]
+            "values": ["1", "2", "etc."]
         }
     ]
 }
