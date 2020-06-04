@@ -45,7 +45,7 @@ Windows:    `C:\Users\USER\AppData\Roaming\`` dan hapus folder `PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`dan hapus folder`PreMiD``.
 
 ### Pada distro berbasis Ubuntu/Debian
-JIka anda mengunduh Discord melewati Snapcraft, RPC tidak bekerja. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+JIka anda mengunduh Discord melewati Snapcraft, RPC tidak bekerja. Anda harus menghapus versi Snapcraft dengan menjalankan `sudo snap remove discord` pada terminal, unduh [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([atau Discord Canary](https://discordapp.com/api/canary/download?platform=linux)) kemudian mengarah ke direktori unduhan Discord (biasanya `$HOME/Downloads`), kemudian instal paket menggunakan `sudo dpkg -i discord-*.deb`.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
+### Masalahku belum terselesaikan
+Harap mengirim tiket ke [#support](https://discord.gg/WvfVZ8T).
