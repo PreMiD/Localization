@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-06-04T00:54:40.370Z
+date: 2020-06-04T04:37:56.115Z
 tags: 
 ---
 
@@ -56,7 +56,7 @@ It's still suggested to read this through so you know how it works.
 
 ```json
 {
-	"$schema": "https://schemas.premid.app/metadata/1.0",
+"$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
