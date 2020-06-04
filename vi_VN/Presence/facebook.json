@@ -1,1 +1,62 @@
-{}
+{
+    "facebook.call": {
+        "message": "Đang trong một cuộc gọi thoại với:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Đang trong một cuộc gọi video với:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "ai đó... (Tên tài khoản đã ẩn)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Đang soạn tin nhắn",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Đang đọc về người dùng:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Đang xem cộng đồng của người dùng:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Đang xem ảnh của người dùng:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Đang xem bài viết của người dùng:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Đang xem cửa hàng của người dùng:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Đang xem bạn bè của người dùng:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Đang xem video của người dùng:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Đang duyệt qua:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Videos đã lưu",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Đã thêm gần đây",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Đang xem thời tiết ngày hôm nay",
+        "description": ""
+    }
+}
