@@ -2,7 +2,7 @@
 title: Guidelines
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T00:44:51.869Z
+date: 2020-06-04T00:45:51.205Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
-## Creation
+# Creation
 
 The general rules of presence development are as follows:
 
