@@ -119,6 +119,10 @@
 		"message": "Obtén lo que es correctamente tuyo. Stream Anime, Películas, Hentai, Especiales y más. ¡Gratis, sin anuncios y en alta definición!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Empieza A Crear Tu Propia Comunidad Con Tus Increíbles Plantillas, Crea Tu Propio Reino.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Una herramienta de creación de instalador multiplataforma potente y fácil de usar.",
 		"description": "Description for BitRock."
@@ -138,6 +142,10 @@
 	"partners.partner.packageCloud": {
 		"message": "Una interfaz unificada y amigable para desarrolladores para todos tus artefactos.",
 		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Detrás De Lo Mejor De La Web.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Solicitar la colaboración",
