@@ -389,8 +389,8 @@ Abra una consola en su carpeta y escriba ` tsc -w ` para compilar ` presencia.ts
 4. Select the /dist folder of your presence.
 
 # Algunos consejos útiles
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+## Recarga Sobrecalientada
+El sitio web en el que está desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
 
 ## Debugging
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
