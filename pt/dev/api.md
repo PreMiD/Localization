@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## Versionamento da API
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> A API v1 foi descontinuada, qualquer request feito deve ser redirecionado para a versão atual 
 > 
 > {.is-danger}
 
