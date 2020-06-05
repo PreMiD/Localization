@@ -119,6 +119,10 @@
 		"message": "Zdobądź to, na co zasłużyłeś. Streamuj anime, filmy, hentai, promocje i nie tylko. Bezpłatnie, bez reklam i w wysokiej rozdzielczości!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Zacznij tworzyć własną społeczność, korzystając z naszych niesamowitych szablonów. Zbuduj swoje własne królestwo.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Potężne i łatwe w użyciu narzędzie do tworzenia instalatora na wielu platformach.",
 		"description": "Description for BitRock."
