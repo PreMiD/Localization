@@ -265,7 +265,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar. See regExp for more info.</td>
+      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar. Mira regEx para más información.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
@@ -346,15 +346,15 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## ¿No puede obtener ciertos datos?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Muchos sitios web están utilizando [ iframes ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inline Frames ](https: / /en.wikipedia.org/wiki/HTML_element#Frames)). Estas etiquetas html pueden contener múltiples fuentes, como videos. Pero aveces no son relevantes. Algunos están ocultos o simplemente no se usan activamente. Compruebe si puede extraer la información que necesita sin ellos antes de realizar un trabajo innecesario.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Verifíquelos en la consola de su navegador (asegúrese de estar en la pestaña ** Elementos **).
+2. Buscar (<kbd> CTRL </kbd> + <kbd> F </kbd> (Windows) o <kbd> CMD </kbd> + <kbd> F </kbd> (MacOS)).
+3. Ejecute ` document.querySelectorAll ("iframe") `.
 
-If you find that your data is in a iFrame you need to do the following:
+Si encuentra que sus datos están en un iFrame, debe hacer lo siguiente:
 1. Create a `iframe.ts` file.
 2. Set iFrame to `true` in your metadata file.
 3. Filling in your iFrame file.
@@ -379,8 +379,8 @@ presence.on("iFrameData", data => {
 });
 ```
 **Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+## Compilando
+Abra una consola en su carpeta y escriba ` tsc -w ` para compilar ` presencia.ts ` en la carpeta ` / dist `.
 
 # Cargando la Presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
