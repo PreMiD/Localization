@@ -23,6 +23,10 @@
         "message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help",
         "description": "Select Box for the user to select their browser"
     },
+    "report.description": {
+        "message": "Descripción: proporcione un enlace a un ejemplo con los pasos para reproducir este fallo.",
+        "description": "Text for the user to write information about the bug."
+    },
     "report.button": {
         "message": "Reportar",
         "description": "Button to send the information inputed."
