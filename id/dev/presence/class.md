@@ -1,5 +1,5 @@
 ---
-title: Kelas Presence
+title: Kelas Presensi
 description: Kelas utama untuk setiap presence PreMiD
 published: true
 date: 2020-05-20T00:15:59.349Z
