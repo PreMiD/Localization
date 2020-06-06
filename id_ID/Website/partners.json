@@ -63,6 +63,10 @@
 		"message": "Apa yang kita cari?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Kami memantau berkembangnya komunitas dan hal-hal menarik di internet. TL;DR anda harusnya telah menggunakan PreMiD dan bersiaplah untuk menyebarkannya kepada lebih banyak internet freaks. Penerimaan ke dalam program kami sangat kualitatif dan berbeda antar kandidat.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "Firewall kami",
 		"description": "Heading for the second requirement."
@@ -78,6 +82,14 @@
 	"partners.apply.disclaimer": {
 		"message": "Mari kita pergi ke surga bersama!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jika Anda agak tertarik pada pekerjaan langsung di PreMiD, lihat iklan pekerjaan kami**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsor",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD tidak akan mungkin terjadi, tanpa orang-orang hebat ini.",
@@ -98,6 +110,18 @@
 	"partners.partner.iLoot": {
 		"message": "Platform penghasilan gamer.",
 		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio merupakan radio infotainmen untuk permainan simulasi tersukses di Jerman, Austria dan Swiss!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Dapatkan apa yang seharusnya anda dapatkan. Steam Anime, Film, Hentai, Acara Spesial, dan lainnya. Gratis, tanpa iklan dan berkualitas tinggi!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Mulai membuat komunitas anda sendiri dengan templat mengagumkan kami. Bangun kerajaan anda sendiri.",
+		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.bitRock": {
 		"message": "Alat pembuat lintas platform yang kuat dan mudah digunakan.",
