@@ -16,7 +16,7 @@ tags:
 > 
 > {.is-warning}
 
-- [Kurallar](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Yönergeler](https://docs.premid.app/e/en/dev/presence/guidelines)
 {.links-list}
 
 # Yapı
@@ -58,32 +58,33 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVİS İSMİ",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
-  "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "url": "LİNK",
+  "version": "SÜRÜM",
+  "logo": "LOGO LİNKİ",
+  "thumbnail": "KÜÇÜK RESİM LİNKİ",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETİKET1", "ETİKET2"],
+  "category": "KATEGORİ",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": true
         },
         {
@@ -91,17 +92,17 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": "\"%şarkı%\", %sanatçı%",
+            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "vb."]
         }
     ]
 }
