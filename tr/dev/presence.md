@@ -12,7 +12,7 @@ tags:
 
 `2.x` sürümleri, [servis mağazası](https://premid.app/store) özelliği ile birlikte gelir. Kullanıcılar bundan sonra kendi oluşturdukları servisleri [mağazaya](https://premid.app/store) ekletebilecek ve diğer kullanıcıların kullanımına sunabilecek.
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Başlamadan önce servis kılavuzlarına uymanız şiddetle tavsiye edilir. 
 > 
 > {.is-warning}
 
