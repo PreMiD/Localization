@@ -18,5 +18,41 @@
 	"jobs.modal.error": {
 		"message": "Silakan isi semua kolom",
 		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD adalah proyek sumber terbuka, yang artinya kami adalah tim non-profit, setiap donasi atau uang dari Patreon kembali ke produk. Dengan melamar posisi pekerjaan di PreMiD anda menyatakan bahwa anda secara sukarela berada di dalam tim, anda tidak akan dibayar untuk apa yang anda kerjakan.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Bergabunglah di Discord kami",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Untuk dapat melamar anda harus bergabung di server Discord kami. Jika tidak maka kami tidak akan bisa mengontak anda apabila anda lolos seleksi!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Bekerja untuk PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Apakah anda siap membantu program Rich-Presence terbesar?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Lowongan Pekerjaan",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Keuntungan Kelas Atas",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Temui kami",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Berhubungan dengan orang dibalik PreMiD.",
+		"description": "Benefit card description."
 	}
 }
