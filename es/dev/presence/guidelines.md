@@ -1,14 +1,14 @@
 ---
 title: Directrices
-description: Reglas que todos los desarrolladores de Presences deben seguir para que su Presence sea añadida.
-published: true
+description: Reglas que todos los desarrolladores de Presencias deben seguir para que su Presencia sea añadida.
+published: verdadero
 date: 2020-06-04T01:18:35.215Z
 tags:
 ---
 
 # Directrices
 
-Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estas reglas estrictas pueden parecer duras. Sin embargo, estas reglas nos evitará encontrarnos a nosotros y a los usuarios con cualquier problema.
+Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estas reglas estrictas pueden parecer duras. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
 
 # Creación
 
