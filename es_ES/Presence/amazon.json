@@ -4,7 +4,7 @@
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Viendo su dirección",
+        "message": "Viendo sus preferencias de anuncios",
         "description": ""
     },
     "amazon.balance": {
@@ -32,15 +32,15 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Viendo su",
+        "message": "Viendo sus",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
-        "message": "historial de pedido",
+        "message": "historial de pedidos",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "detalle de pedido",
+        "message": "detalles del pedido",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
