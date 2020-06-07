@@ -212,7 +212,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "¡Gracias por aplicarte!",
+		"message": "¡Gracias por aplicar!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
