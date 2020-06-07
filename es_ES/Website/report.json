@@ -24,7 +24,7 @@
         "description": "Select Box for the user to select their browser"
     },
     "report.description": {
-        "message": "Descripción: proporcione un enlace a un ejemplo con los pasos para reproducir este fallo.",
+        "message": "Descripción: proporcione un enlace a un ejemplo o los pasos a seguir para reproducir este fallo.",
         "description": "Text for the user to write information about the bug."
     },
     "report.button": {
@@ -48,7 +48,7 @@
         "description": "User needs to input more notification"
     },
     "report.error.unauth": {
-        "message": "Las cuentas de Discord necesitan ser verificadas",
+        "message": "La cuenta de Discord necesita estar verificada",
         "description": "Users Discord not verified"
     },
     "report.activebugs": {
