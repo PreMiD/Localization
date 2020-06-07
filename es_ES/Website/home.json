@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** es simple y configurable que te permite mostrar lo que estás haciendo en la web como estado de jugando ahora en tu Discord.",
+		"message": "**PreMiD** es una utilidad simple y configurable que te permite mostrar lo que estás haciendo en la web como estado en tu Discord.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -40,7 +40,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "¡Creamos nuestra extensión de forma que te permita añadir y usar presencias creadas por otros usuarios y gestionarlas en nuestra extensión!",
+		"message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar presencias creadas por otros usuarios y gestionarlas en nuestra extensión!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,7 +52,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "¿Cansado de las complicadas interfaces de usuario? Es por eso que hemos creado e intentado de mantener nuestra UI simple y lo más útil posible con características importantes como:",
+		"message": "¿Cansado de las complicadas interfaces de usuario? Es por eso que hemos creado e intentado de mantener nuestra IU simple y lo más útil posible con características importantes como:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -72,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "¿Algo está mal, enviandote toneladas de errores o simplemente no funciona? Te ayudaremos a deshacerte de esos errores en nuestro servidor de Discord donde también hemos creado nuestro propio sistema de soporte que asegurará que tu problema sea resuelto lo más pronto posible.",
+		"message": "¿Algo está mal, mostrándote montón de errores o simplemente no funciona? Te ayudaremos a deshacerte de esos errores en nuestro servidor de Discord donde hemos creado nuestro propio sistema de soporte que asegurará que tu problema sea resuelto lo más pronto posible.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
@@ -80,7 +80,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Lenguaje de la página",
+		"message": "Idioma del sitio web",
 		"description": "Tippy content of the language selector."
 	}
 }
