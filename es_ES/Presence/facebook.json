@@ -4,7 +4,7 @@
         "description": ""
     },
     "facebook.vcall": {
-        "message": "En video llamada con:",
+        "message": "En una video llamada con:",
         "description": ""
     },
     "facebook.userHidden": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "facebook.weather": {
-        "message": "Viendo el clima de hoy",
+        "message": "Ver el tiempo de hoy",
         "description": ""
     }
 }

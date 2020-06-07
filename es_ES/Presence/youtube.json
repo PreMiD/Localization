@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "Actualmente viendo un anuncio",
+        "message": "Viendo un anuncio",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Viendo publicaciones de comunidad",
+        "message": "Viendo publicaciones de la comunidad",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Viendo su",
+        "message": "Viendo sus",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
