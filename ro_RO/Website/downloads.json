@@ -118,5 +118,9 @@
 	"downloads.adsbox.thankyou.message": {
 		"message": "Folosim reclame pentru a sprijini echipa noastră și a ne menține serverele pentru a vă oferi cea mai bună experiență de utilizator!",
 		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Vă rugăm să vă dezactivaţi adblock-ul.",
+		"description": "Message next to pepe."
 	}
 }
