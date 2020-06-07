@@ -1,10 +1,22 @@
 {
+	"downloads.header.subtitle": {
+		"message": "Folosește PreMid acum și arată-le prietenilor tăi ce folosești, probabil vei găsi pe cineva cu aceleași interesuri.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Începe",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
 		"message": "Descarcă PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Instalează aplicația noastra",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Instalează extensia pentru browser-ul tău",
 		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
@@ -19,12 +31,36 @@
 		"message": "{0} Aplicația nu are instalator pentru acest sistem de operare. Aceasta înseamnă că nu există nici un sprijin profesional pentru aceasta.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.warning.message.opera": {
+		"message": "Trebuie să instalați **această** extensie pentru a instala PreMid pentru Chrome WebStore.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Omiteți",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Înapoi",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.okay": {
+		"message": "Okay",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Terminat",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Loghează-te",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Mulțumim!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Folosim reclame pentru a sprijini echipa noastră și a ne menține serverele pentru a vă oferi cea mai bună experiență de utilizator!",
+		"description": "Message of the advertisement section box."
 	}
 }
