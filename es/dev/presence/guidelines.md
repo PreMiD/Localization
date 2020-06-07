@@ -20,8 +20,8 @@ Las reglas generales del desarrollo de una Presencia son las siguientes:
 - Necesitas tener una estructura de archivo adecuada, los borradores **no** están permitidos.
 - Presencias para sitios web con (`.onion ` TLDs) o sitios web con dominios gratuitos/ hosts gratuitos (por ejemplo, `.TK ` [todos los dominios Freenom gratuitos], `.RF </ 0>, <code> GD `, etc.) ** no ** están permitidos, se pueden hacer excepciones si se presenta una prueba que demuestre que pagaron por el dominio.
 - La presencia de páginas de navegador internas de destino (como Chrome Web Store, `chrome://`, páginas `about:`, etc.) **no** están permitidas ya que requieren que se habilite un indicador experimental en el extremo del usuario y podría causar daños a sus navegadores.
-- Las presencias con soporte para un solo subdominio no se permitirán ** **, ya que pueden parecer rotas para otras páginas (como la página de inicio), se pueden hacer excepciones para la política y las paginas de contacto (contenido que no se usa con frecuencia) o sitios donde el otro contenido no este relacionado. (para e.g., paginas de la wiki)
-- Las presencias de baja calidad (o las que tienen poco contexto) están ** no ** permitidas (por ejemplo, mostrar solo un logotipo y texto pero nunca volver a cambiarlo)
+- Las presencias con soporte para un solo subdominio **no** se permitirán, ya que pueden parecer rotas para otras páginas (como la página de inicio), se pueden hacer excepciones para la política y las paginas de contacto (contenido que no se usa con frecuencia) o sitios donde el otro contenido no este relacionado. (por ejemplo, paginas de wikia)
+- Las presencias de baja calidad (o las que tienen poco contexto) ** no ** están permitidas (por ejemplo, mostrar solo un logotipo y texto pero nunca volver a cambiarlo)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
@@ -141,7 +141,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`descripción`**
 
-- **Todas** las presencias **requieren** una descripción en Inglés sin importar el idioma del sitio web.
+- **Todas** las presencias **requieren** una descripción en Inglés sin importar el idioma preferido del sitio web.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
@@ -152,12 +152,12 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`versión`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- La versión **debe** empezar siempre con `1.0.0` a menos que se diga lo contrario, otras versiones **no** serán permitidas.
+- La versión **debe** empezar siempre en `1.0.0` a menos que se diga lo contrario, otras versiones **no** serán permitidas.
 
 ### **`logotipo`**
 
 - El logo **debe** ser una imagen cuadrada con una relación de aspecto `1:1`.
-- La imagen **requiere** una resolución mínima de `512x512` pixeles. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- La imagen **requiere** una resolución mínima de `512x512` píxeles. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
