@@ -52,7 +52,7 @@
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "Desconectar",
+    "message": "Cerrar sesión",
     "description": "Logout button"
   }
 }
