@@ -12,7 +12,7 @@
 		"description": "Next button in the modal."
 	},
 	"jobs.modal.buttons.join": {
-		"message": "Unete",
+		"message": "Unirse",
 		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {
@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD es un proyecto de código abierto, lo que significa que somos un equipo sin ánimo de lucro, cada donativo o patreon se vuelve al producto. Al solicitar un puesto de trabajo en PreMiD usted reconoce que usted es voluntario en el equipo, no se le pagará por su trabajo.",
+		"message": "PreMiD es un proyecto de código abierto, lo que significa que somos un equipo sin ánimo de lucro, cada donativo o patreon vuelve al producto. Al solicitar un puesto de trabajo en PreMiD reconoces ser voluntario en el equipo, no se te pagará por tu trabajo.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "¿Estás listo para ayudarnos con el programa de Rich-Presence más grande?",
+		"message": "¿Estás listo para ayudarnos con el programa de Presencias-Enriquecidas más grande?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
@@ -56,7 +56,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
-		"message": "Pónte en contacto con las personas detrás de PreMiD.",
+		"message": "Ponte en contacto con las personas detrás de PreMiD.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.title": {
