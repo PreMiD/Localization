@@ -1,4 +1,8 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
 	"general.browsing": {
 		"message": "Pregledavanje...",
 		"description": ""
