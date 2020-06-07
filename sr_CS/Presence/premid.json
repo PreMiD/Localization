@@ -19,6 +19,10 @@
         "message": "Sistemski zahtevi",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Instalacija",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Rešavanje problema",
         "description": "A page name"
