@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Si está interesado en un trabajo directo en PreMiD, eche un vistazo a nuestro **anuncio de trabajo**.",
+		"message": "Si estas interesado en trabajar en PreMiD, echa un vistazo a nuestro **anuncio de trabajo**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -100,7 +100,7 @@
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings es un Juego Arena PvP de última generación que se juega desde navegador.",
+		"message": "Arena of Kings es un Juego Arena PvP de última generación que se juega desde el navegador.",
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
@@ -116,15 +116,15 @@
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
-		"message": "Obtén lo que es correctamente tuyo. Stream Anime, Películas, Hentai, Especiales y más. ¡Gratis, sin anuncios y en alta definición!",
+		"message": "Obtén lo que es tuyo por derecho. Ve Anime, Películas, Hentai, Especiales y más. ¡Gratis, sin anuncios y en alta definición!",
 		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
-		"message": "Empieza A Crear Tu Propia Comunidad Con Tus Increíbles Plantillas, Crea Tu Propio Reino.",
+		"message": "Empieza a crear tu propia comunidad con nuestras impresionantes plantillas. Construye tu propio reino.",
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.bitRock": {
-		"message": "Una herramienta de creación de instalador multiplataforma potente y fácil de usar.",
+		"message": "Una herramienta de creación de instaladores multiplataforma potente y fácil de usar.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
@@ -132,7 +132,7 @@
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
-		"message": "Localización ágil para empresas tecnológicas.",
+		"message": "La solución de localización ágil para empresas de tecnología.",
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
@@ -152,7 +152,7 @@
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "Inició sesión como %@",
+		"message": "Conectado como {0}",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -228,7 +228,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Usted ya solicitó una asociación.",
+		"message": "Ya has solicitado ser partner.",
 		"description": "Error when already applied."
 	}
 }
