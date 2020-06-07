@@ -15,7 +15,7 @@ Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para 
 Las reglas generales del desarrollo de una Presencia son las siguientes:
 
 - Las Presencias **deben** estar relacionadas con el sitio web que has elegido.
-- Las Presencias **no pueden** ser para sitios ilegales. (Por ejemplo: Estresores, marketing de drogas, pornografía infantil, etc.)
+- Las Presencias **no pueden** ser para sitios ilegales. (Por ejemplo: Stressors, marketing de drogas, pornografía infantil, etc.)
 - La estructura de los archivos debe ser limpia y gestionada, no incluyas archivos que no estén especificados. (Por ejemplo: Vscode y capetas git, imágenes y archivos de texto, etc.)
 - Necesitas tener una estructura de archivo adecuada, los borradores **no** están permitidos.
 - Presencias para sitios web con (`.onion ` TLDs) o sitios web con dominios gratuitos/ hosts gratuitos (por ejemplo, `.TK ` [todos los dominios Freenom gratuitos], `.RF </ 0>, <code> GD `, etc.) ** no ** están permitidos, se pueden hacer excepciones si se presenta una prueba que demuestre que pagaron por el dominio.
