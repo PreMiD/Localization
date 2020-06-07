@@ -4,11 +4,11 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Únete a la fam y obtén algunos beneficios exclusivos de los socios para demostrar cuánta ingesta tiene.",
+		"message": "Únete y obtén algunos beneficios exclusivos de los socios para demostrar cuánto swag tienes.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estos ya nos pertenecen",
+		"message": "Estos ya están con nosotros",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -20,15 +20,15 @@
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Nuestro equipo le proporcionará una presencia de su servicio web.",
+		"message": "Nuestro equipo le proporcionará una presencia para su servicio web.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Verifícate",
+		"message": "Se verificado",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Un rol especial y un gran honor se le dará en nuestro servidor de Discord.",
+		"message": "Se te otorgará honor y un rol especial en nuestro servidor de Discord.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
