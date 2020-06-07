@@ -1,6 +1,98 @@
 {
+	"popup.navigation.settings": {
+		"message": "Podešavanja",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Zasluge",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Podešavanja",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Opšte",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
 	"popup.headings.description": {
 		"message": "Opis",
 		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Omogućeno",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Kontrola Medija",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Automatski pokret",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Prisustvo",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Upravljajte",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Gotovo",
+		"description": "Done button"
+	},
+	"popup.buttons.help": {
+		"message": "Treba vam pomoć?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Oh ne!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Greška pri učitavanju zasluga",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Niste povezani",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Zastarela Aplikacija",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Vaša PreMiD aplikacija je zastarela. Molimo ažurirajte aplikaciju da nastavite koristenje PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.category.all": {
+		"message": "Sve",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Muzika",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Igre",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Društvene mreže",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Videi i Lajvovi",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Drugo",
+		"description": "Category name shown when you open tags"
 	}
 }
