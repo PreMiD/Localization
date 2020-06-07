@@ -32,7 +32,7 @@
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
-		"message": "Integración de Meta-tag",
+		"message": "Integración de etiquetas meta",
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
@@ -40,7 +40,7 @@
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "Ser inmortalizado",
+		"message": "Se inmortalizado",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -52,7 +52,7 @@
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.why.benefit5.description": {
-		"message": "Destacado en nuestras redes sociales.",
+		"message": "Se destacado en nuestras redes sociales.",
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
@@ -64,7 +64,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Estamos atentos a las comunidades en crecimiento y las cosas interesantes en Internet. TL;DR ya debería estar usando PreMiD y estar listo para difundirlo a más fanáticos de Internet. La aceptación en el programa es extremadamente cualitativa y variará de un candidato a otro.",
+		"message": "Estamos atentos a las comunidades en crecimiento y las cosas interesantes en Internet. TL;DR deberías estar usando PreMiD y listo para difundirlo a más fanáticos de Internet. La aceptación en el programa es extremadamente cualitativo y variará de un candidato a otro.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -76,11 +76,11 @@
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "¡Aplicar ahora!",
+		"message": "¡Solicitar ahora!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
-		"message": "¡Vamos al cielo juntos!",
+		"message": "¡Vayamos al cielo juntos!",
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
