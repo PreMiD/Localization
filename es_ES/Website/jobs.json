@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Potentes permisos de Discord y un papel colorido.",
+		"message": "Potentes permisos de Discord y un colorido rol.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
@@ -92,7 +92,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
-		"message": "Acceso Temprano",
+		"message": "Acceso Anticipado",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
@@ -100,11 +100,11 @@
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "¡Gracias por aplicarte!",
+		"message": "¡Gracias por aplicar!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "¡Ya has aplicado anteriormente!",
+		"message": "¡Ya has aplicado antes!",
 		"description": "Notification when you applied already."
 	}
 }
