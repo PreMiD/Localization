@@ -1,6 +1,6 @@
 {
 	"store.search.notFound": {
-		"message": "No podemos encontrar esta presencia...",
+		"message": "No pudimos encontrar esa presencia...",
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
