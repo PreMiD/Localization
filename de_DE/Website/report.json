@@ -1,42 +1,34 @@
 {
-    "report.title": {
-        "message": "Melde einen Fehler",
-        "description": "Text to indicate the page."
-    },
-    "report.bugcount": {
-        "message": "{count}/3 Fehlermeldungen übrig",
-        "description": "Amount of bug reports user can send"
-    },
-    "report.info": {
-        "message": "Melde Fehler innerhalb der PreMiD Website und des PreMiD Discord Server. Fehler für eine Präsenz sollten an den Ersteller der jeweiligen Präsenz gemeldet werden. Bitte melde Bugs nur auf Englisch.",
-        "description": "Tells the user about submitting a bug"
-    },
-    "report.overview": {
-        "message": "Kurze Zusammenfassung - Gebe uns eine klase und präzise Beschreibung des Fehlers.",
-        "description": "Text for the user to write a brief of the bug information."
-    },
-    "report.description": {
-        "message": "Beschreibung - Gebe uns einen Link zu einem Live-Beispiel oder eine Schritt-für-Schritt Erklärung, wie man diesen Fehler reproduzieren kann.",
-        "description": "Text for the user to write information about the bug."
-    },
-    "report.button": {
-        "message": "Melden",
-        "description": "Button to send the information inputed."
-    },
-    "report.toomany.alert": {
-        "message": "Du hast zu viele aktive Meldungen.",
-        "description": "User has too many active reports"
-    },
-    "report.success": {
-        "message": "Fehler gemeldet",
-        "description": "Success notification"
-    },
-    "report.error.unauth": {
-        "message": "Dein Discord Konto muss verifiziert sein",
-        "description": "Users Discord not verified"
-    },
-    "report.activebugs": {
-        "message": "Aktive Fehler",
-        "description": "Lists users active bugs"
-    }
+	"report.title": {
+		"message": "Melde einen Fehler",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Fehlermeldungen übrig",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Melde Fehler innerhalb der PreMiD Website und des PreMiD Discord Server. Fehler für eine Präsenz sollten an den Ersteller der jeweiligen Präsenz gemeldet werden. Bitte melde Bugs nur auf Englisch.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.button": {
+		"message": "Melden",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany.alert": {
+		"message": "Du hast zu viele aktive Meldungen.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Fehler gemeldet",
+		"description": "Success notification"
+	},
+	"report.error.unauth": {
+		"message": "Dein Discord Konto muss verifiziert sein",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktive Fehler",
+		"description": "Lists users active bugs"
+	}
 }
