@@ -1,6 +1,6 @@
 {
-    "report.title": {
-        "message": "回报 Bug",
-        "description": "Text to indicate the page."
-    }
+	"report.title": {
+		"message": "回报 Bug",
+		"description": "Text to indicate the page."
+	}
 }
