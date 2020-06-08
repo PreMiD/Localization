@@ -11,6 +11,10 @@
 		"message": "Les rapports de bugs concernent les bugs du site PreMiD et du serveur PreMiD Discord. Les bugs de présence doivent être signalés au créateur de la présence. Ne signalez les bugs qu'en anglais.",
 		"description": "Tells the user about submitting a bug"
 	},
+	"report.overview": {
+		"message": "Fournissez une description claire et concise du bug.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "Sélectionnez votre système d'exploitation et la version",
 		"description": "Select Box for the user to select their operating system"
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Sélectionnez votre navigateur et votre version - Vous pouvez obtenir la version en visitant about:support sur Firefox ou chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Fournissez un lien vers un exemple en direct ou un ensemble d'étapes sans ambiguïté pour reproduire ce bug.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Signaler",
