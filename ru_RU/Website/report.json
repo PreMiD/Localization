@@ -1,10 +1,10 @@
 {
-    "report.title": {
-        "message": "Сообщить об ошибке",
-        "description": "Text to indicate the page."
-    },
-    "report.bugcount": {
-        "message": "Осталось {count}/3 отчёта",
-        "description": "Amount of bug reports user can send"
-    }
+	"report.title": {
+		"message": "Сообщить об ошибке",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "Осталось {count}/3 отчёта",
+		"description": "Amount of bug reports user can send"
+	}
 }
