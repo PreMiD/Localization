@@ -11,6 +11,10 @@
 		"message": "Los reportes de errores son para errores dentro del sitio PreMiD y el Servidor PreMiD de Discord. Los bugs para una presencia deberán ser reportados al creador de la presencia. Sólo reportar errores en inglés.",
 		"description": "Tells the user about submitting a bug"
 	},
+	"report.overview": {
+		"message": "Proporciona una descripción clara y concisa de lo que es el error.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "Selecciona tu sistema operativo y versión",
 		"description": "Select Box for the user to select their operating system"
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Proporciona un enlace a un ejemplo o un claro conjunto de pasos para reproducir este error.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Reportar",
