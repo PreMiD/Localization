@@ -167,10 +167,10 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
     <tr>
       <td style="text-align:left"><b>Url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">URL del servizio.<br><b>Esempio:</b><code>vk.com</code><br>
+        <b>Questo URL deve corrispondere all'URL del sito web in quanto rileverà se questo è o meno il sito web in cui inserire lo script.</b><br><b>NON</b> aggiungere <code>https://</code> o <code>http://</code> all'interno dell'URL né una barra alla fine:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. <b>Non</b> dimenticare di aggiungerlo!<br>
+<b>Nota</b>: Alcuni URL possono avere <code>www.</code> o qualcos'altro davanti al loro dominio. <b>Non</b> dimenticare di aggiungerlo!<br>
 È possibile aggiungere più URL facendo quanto segue:<br>
 <code>["URL1", "URL2", "ECC."]</code><br>
 È anche possibile utilizzare regExp conosciuto anche come Regex per questo compito, spiegato più avanti.
