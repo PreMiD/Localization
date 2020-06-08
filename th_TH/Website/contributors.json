@@ -15,9 +15,21 @@
 		"message": "ผู้สร้าง",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "ผู้จัดการโครงการ",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "หัวหน้างานดำเนินการ",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "ผู้แทนชุมชนทั่วโลก",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "ผู้ดูแลระบบ",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "นักพัฒนาเว็บไซต์",

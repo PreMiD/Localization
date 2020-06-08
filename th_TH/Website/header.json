@@ -38,5 +38,21 @@
   "header.login": {
     "message": "เข้าสู่ระบบ",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "เข้าสู่ระบบในชื่อ",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "รายงานข้อบกพร่อง",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "แดชบอร์ด",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "ออกจากระบบ",
+    "description": "Logout button"
   }
 }
