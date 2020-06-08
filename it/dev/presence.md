@@ -12,7 +12,7 @@ tags:
 
 La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). Gli utenti ora hanno la possibilità di aggiungere e rimuovere manualmente le loro presenze preferite tramite l'interfaccia utente del [sito web](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Prima di iniziare, è vivamente consigliato guardare le nostre linee guida per le presence. 
 > 
 > {.is-warning}
 
@@ -25,7 +25,7 @@ Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/).
 ## Installazione
 1. Installa [Git](https://git-scm.com/).
 2. Installa [Nodo](https://nodejs.org/en/) (viene fornito con [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Installa [TypeScript](https://www.typescriptlang.org/index.html#download-links) (apri un terminale e `npm install -g typescript`).
 
 ## Clonando il progetto
 1. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
@@ -34,7 +34,7 @@ Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/).
 
 ## Creazione cartelle e file
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
+1. Crea una cartella con il **nome** (non un URL) del servizio che vuoi supportare.
 2. Crea un file `presence.ts` e `tsconfig.json` all'interno.
 3. Crea una cartella chiamata `dist` all'interno.
 4. Crea un file `metadata.json` all'interno della cartella `dist`.
@@ -247,7 +247,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>Categoria</b>
       </td>
-      <td style="text-align:left">Una stringa utilizzata per rappresentare la categoria sotto la quale la presenza cade See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Una stringa utilizzata per rappresentare la categoria sotto la quale la presenza cade Vedi le categorie valide <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">qui</a>.</td>
       <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
