@@ -11,6 +11,10 @@
 		"message": "Zgłaszanie błędów dotyczy błędów na stronie PreMiD oraz na serwerze Discord PreMiD. Błędy występujące w aktywności Presence mają być zgłaszane ich twórcy. Zgłoś błędy pisząc w języku angielskim.",
 		"description": "Tells the user about submitting a bug"
 	},
+	"report.overview": {
+		"message": "Podaj jasny i zwięzły opis błędu.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "Wybierz swój system operacyjny i wersję",
 		"description": "Select Box for the user to select their operating system"
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Wybierz swoją przeglądarkę i wersję - aby wyświetlić nr wersji w przeglądarce Firefox, odwiedź about:support, w Google Chrome - chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Podaj link do ukazania błędu lub podaj kroki, które musimy wykonać, aby wywołać błąd.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Zgłoś",
