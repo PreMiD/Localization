@@ -31,10 +31,6 @@
 		"message": "Připojte se k našemu Discordu",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
-	"jobs.guild.explanation": {
-		"message": "Abys mohl použít musíš se připojit na náš Discord server. V opačném případě Vás nebudeme schopni kontaktovat, pokud si nakonec vyberete bití!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
 	"jobs.header.title": {
 		"message": "Práce pro PreMiD",
 		"description": "First part of the jobs page."
