@@ -57,32 +57,32 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
 <pre><code class="json">{
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVICIO",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCIÓN"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIÓN",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORÍA",
+  "regExp": "EXPRESIÓN REGULAR",
+  "iFrameRegExp": "EXPRESIÓN REGULAR",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
             "value": true
         },
         {
@@ -90,15 +90,15 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "value": "\"%song%\" por %artist%",
+            "placeholder": "usa %song% o %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -185,10 +185,10 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
       <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>
         <b>Esta URL debe coincidir con la URL del sitio web ya que se detectará si es o no el sitio web al que se inyecta el script.</b><br><b>NO</b> agregues <code>https://</code> o <code>http://</code> dentro de la URL ni un slash al final:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
+<b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. <b>NO</b> olvides añadirlos!<br>
+Puedes añadir múltiples URLs haciendo lo siguiente:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+También puedes usar expresiones regulares para esta tarea, explicadas más adelante.
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
@@ -198,14 +198,14 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
+      <td style="text-align:left">Una expresión regular en string es para buscar URLs<br>
+      expresión regular o también llamada Regex puede ser usada en un sitio web con múltiples subdominios.<br>
+Puedes usar la siguiente expresión regular para eso:<br>
 <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+TLD significa Top Level Domain, por ejemplo: .com .net<br>
+<code>([a-z0-9]+)</code> significa cualquier cosa de la A a la Z y desde el 0 al 9.<br>
+        Puedes tener un vistazo rápido viendo este <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
+        Puedes probar tu expresión regular en <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -262,7 +262,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>categoría</b>
       </td>
-      <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia. Mira las categorías válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aquí</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -289,8 +289,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>ajustes</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Un array con configuraciones del usuario puede cambiar.<br>
+      Lee más acerca configuración de presencias <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aquí</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
@@ -307,7 +307,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   
 
 <h2 spaces-before="0">
-  Getting started
+  Empezando
 </h2>
 
 <pre><code class="javascript">var presence = new Presence({
