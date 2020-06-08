@@ -16,7 +16,7 @@ Le regole generali di sviluppo della presenza sono le seguenti:
 
 - Le presenze **DEVONO** essere correlate al sito che hai scelto.
 - Le presenze **non possono** essere fatte per siti web illegali. (per esempio, stressanti, marketing della droga, pornografia infantile, ecc.)
-- La struttura del file deve essere pulita e gestita, non includere i file che non sono specificati. (for e.g., vscode and git folders, image and text files, etc.)
+- La struttura del file deve essere pulita e gestita, non includere i file che non sono specificati. (ad esempio, cartelle vscode e git, immagini e file di testo, ecc.)
 - Devi avere una corretta struttura dei file, le bozze non **sono** permesse.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
@@ -196,7 +196,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 
 - **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
 - It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - **Non** sei autorizzato ad accedere a `localStorage`.
@@ -232,7 +232,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-info}
 
-> Avere **sempre** un fork aggiornato prima di creare la tua pull request. This will help limit false positives from `DeepScan`. 
+> Avere **sempre** un fork aggiornato prima di creare la tua pull request. Questo aiuterà a limitare i falsi positivi di `DeepScan`. 
 > 
 > {.is-warning}
 
