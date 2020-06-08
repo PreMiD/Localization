@@ -29,7 +29,7 @@ iframe.on("UpdateData", async () => {
 
 ## Métodos
 
-### `enviar(objeto)`
+### `send(Object)`
 Envía datos a la presencia. Usar este método hará que la presencia arroje un evento de `iFrameData`.
 
 ### `getUrl()`
