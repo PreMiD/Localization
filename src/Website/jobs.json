@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "To be able to apply you must have joined our Discord server. Otherwise we won't be able to contant you if you end up beaing selected!",
+		"message": "To be able to apply you must have joined our Discord server. Otherwise we won't be able to contact you if you end up beaing selected!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
