@@ -58,32 +58,32 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVIZIO",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIZIONE"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIONE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO DA MOSTRARE",
+            "icon": "ICONA GRATIS DA FONTAWESOME",
             "value": true
         },
         {
@@ -91,17 +91,17 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "TITOLO DA MOSTRARE",
+            "icon": "ICONA GRATIS DA FONTAWESOME",
+            "value": "\"%song%\" di %artist%",
+            "placeholder": "usa %song% o %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO DA MOSTRARE",
+            "icon": "ICONA GRATIS DA FONTAWESOME",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "ecc."]
         }
     ]
 }
@@ -290,33 +290,33 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //L'ID del client dell'Applicazione creata su https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    //È possibile utilizzare questo per ottenere stringhe tradotte
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Prendi ed elabora tutti i tuoi dati qui
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // richiami ad elementi //
+    // chiamate di API //
+    // set di variabili //
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Esegui la funzione separata dall'evento UpdateData ogni 10 secondi per ottenere e impostare le variabili che UpdateData raccoglie
 
 */
 
 
-presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Questo è chiamato più volte al secondo dove possibile.
+presenza. n("UpdateData", async () => {
+    /*UpdateData è sempre attiva, e quindi dovrebbe essere usata come ciclo di aggiornamento, o `tick`. Questo è chiamato più volte al secondo dove possibile.
 
     Si consiglia di impostare un'altra funzione al di fuori di questa funzione evento che cambierà i valori variabili e farà il sollevamento pesante se si chiamano i dati da un'API.*/
 
