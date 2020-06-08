@@ -119,6 +119,10 @@
 		"message": "Gaukite tai, kas teisėtai jūsų. Transliuokite Animacija, Filmus, Hentai, Specialius ir daugiau. Nemokamai, be jokių reklamų ir aukštoje kokybėje!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Pradėkite kurti savo bendruomenę su mūsų šauniu šablonu. Statykite savo nuosavą karalystę.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis.",
 		"description": "Description for BitRock."
