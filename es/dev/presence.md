@@ -311,39 +311,39 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
 </h2>
 
 <pre><code class="javascript">var presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //La ID del cliente de la aplicación creada en https://discord.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
+    //Puedes usar esto para obtener strings traducidas
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Agarra y procesa toda la información aquí
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // agarra objetos //
+    // llamados a la API //
+    // definición de variables //
 }
 
 setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Ejecuta la función separada del evento cada 10 segundos para obtener y establecer variables que UpdateData agarró
 
 */
 
 
 presence.on("UpdateData", async () =&gt; {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData está siempre ejecutándose, y debería ser usado como tu ciclo de refresco o `tick`. Esto se llama varias veces por segundo cuando es posible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Es recomendado establecer una función afuera de la función del evento la cual cambiará los valores de las variables y harán las cosas más fáciles si estás obteniendo información de una API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en la presencia. Estos se suben y se nombran en la sección Rich Presence de tu aplicación, llamada Art Assets*/
+        smallImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en tu presencia. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -363,15 +363,15 @@ presence.on("UpdateData", async () =&gt; {
 </code></pre>
 
 <p spaces-before="0">
-  You can copy this into your <code>presence.ts</code> file and edit the values. Setting all the values is done inside of the updataData event.
+  Puedes copiar esto dentro de tu archivo <code>presence.ts</code> y editar los valores. Configura todos los valores que están afuera del evento updateData.
 </p>
 
 <p spaces-before="0">
-  For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+  Para ejemplos sugerimos mirar el código de presencias como: 1337x o 9GAG.
 </p>
 
 <p spaces-before="0">
-  For more information about the Presence class click <a href="/dev/presence/class">here</a>.
+  Para más información sobre la clase Presence haz clic <a href="/dev/presence/class">aquí</a>.
 </p>
 
 
@@ -404,15 +404,15 @@ presence.on("UpdateData", async () =&gt; {
 
 <ol start="1">
   <li>
-    Create a <code>iframe.ts</code> file.
+    Crea un archivo <code>iframe.ts</code>.
   </li>
   
   <li>
-    Set iFrame to <code>true</code> in your metadata file.
+    Establece iFrame a <code>true</code> en tu archivo de metadata.
   </li>
   
   <li>
-    Filling in your iFrame file.
+    Llenando tu archivo iFrame.
   </li>
 </ol>
 
@@ -431,7 +431,7 @@ iframe.on("UpdateData", async () =&gt; {
 
 <ol start="4">
   <li>
-    Making your presence file receive data from the iFrame file. 
+    Haciendo que tu archivo de la presencia reciba datos del archivo iFrame. 
   </li>
 </ol>
 
@@ -442,7 +442,7 @@ iframe.on("UpdateData", async () =&gt; {
 </code></pre>
 
 <p spaces-before="0">
-  <strong x-id="1">Note:</strong> This needs to be placed outside of the updateData event.
+  <strong x-id="1">Nota:</strong> Esto debe colocarse fuera del evento updateData.
 </p>
 
 
@@ -462,19 +462,19 @@ iframe.on("UpdateData", async () =&gt; {
 
 <ol start="1">
   <li>
-    Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
+    Abre la ventana emergente y mantén pulsado el botón <kbd>Shift</kbd> de tu teclado.
   </li>
   
   <li>
-    <strong x-id="1">Load Presence</strong> will appear in the Presences section.
+    <strong x-id="1">Cargar presencia</strong> aparecerá en la sección presencias.
   </li>
   
   <li>
-    Click on it while you are still holding the <kbd>Shift</kbd> button.
+    Haz clic en él mientras mantienes pulsado el botón <kbd>Shift</kbd>.
   </li>
   
   <li>
-    Select the /dist folder of your presence.
+    Selecciona la carpeta /dist de tu presencia.
   </li>
 </ol>
 
@@ -496,15 +496,15 @@ iframe.on("UpdateData", async () =&gt; {
 
 
 <h2 spaces-before="0">
-  Debugging
+  Depurando
 </h2>
 
 <ul>
   <li>
-    You can put <code>console.log("Test");</code> between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
+    Puedes poner <code>console.log("Prueba");</code> entre tu código y ver si la consola de tu navegador te da esa salida. Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
   </li>
   <li>
-    If that doesn't help you either then ask a presence developer on our <a href="https://discord.gg/WvfVZ8T">Discord server</a> for help.
+    Si eso no te ayuda entonces pregunta por ayuda a un desarrollador presente en nuestro <a href="https://discord.gg/WvfVZ8T">servidor de Discord</a>.
   </li>
 </ul>
 
