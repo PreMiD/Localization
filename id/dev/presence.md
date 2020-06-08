@@ -391,7 +391,7 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 - Jika itu tidak membantu anda dapat bertanya pengembang presence pada [server Discord kami](https://discord.gg/WvfVZ8T) untuk meminta bantuan.
 
 # File dijelaskan
-- [Kelas Presence](/dev/presence/class)
+- [Kelas Presensi](/dev/presence/class)
 - [Kelas iFrame](/dev/presence/iframe)
 - [File Metadata](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)
