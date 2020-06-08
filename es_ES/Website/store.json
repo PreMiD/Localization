@@ -40,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Mas usadas primero",
+		"message": "Más usadas primero",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -80,7 +80,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "Otros",
+		"message": "Otras",
 		"description": "Category at the top"
 	},
 	"store.search": {
