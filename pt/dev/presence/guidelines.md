@@ -18,9 +18,9 @@ As regras gerais de desenvolvimento de presences são as seguintes:
 - As Presencses **não devem** ser feitas para websites ilegais. (por exemplo, estressores, comércio de drogas, pornografia infantil, etc.)
 - A estrutura do arquivo deve ser limpa e estruturada, não inclua arquivos que não estiverem especificados. (por exemplo, pastas de vscode e git, imagens, arquivos de texto, etc.)
 - Você precisa ter uma estrutura de arquivos adequada, rascunhos **não são** permitidos.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
+- Presences para websites com (domíno de topo `.onion`) ou websites com domínios/hospedagens gratuitas (por exemplo, `.TK` [todos os domínios grátis da Freenom], `.RF`, `.GD`, etc.) **não são** permitidos, exceções poderão ser feitas se houver uma prova mostrando que eles pagarem pelo domínio.
+- Presences sobre páginas internas de navegadores (como a Chrome Web Store, `chrome://`, páginas `about:`, etc) **não são** permitidas por requererem uma bandeira experimental a ser ativada no lado do usuário e que poderia potencialmente causar dano aos seus navegadores.
+- Presences com suporte apenas para um único subdomínio **não serão** permitidas, visto que elas podem parecer quebradas em outras páginas (como a página principal), exceções podem ser feitas para as páginas de políticas e de contato (conteúdo que não é usado com frequência) ou sites onde o outro conteúdo não é relacionado. (por exemplo, páginas da Wikia)
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
