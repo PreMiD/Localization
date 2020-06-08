@@ -30,5 +30,5 @@ Visos PreMiD API HTTP lygmens paslaugos ir protokolai (pvz., Http) naudoja TLS 1
 
 **Pasirinkite API versiją:**
 - [v2 *aktyvi*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *kūrimo procese*](/dev/api/v3)
 {.links-list}

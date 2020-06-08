@@ -1,38 +1,38 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Pradžia su PreMiD diegimu Linux operacinėje sistemoje
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Įjungiamas automatiškas paleidimas Linux operacinėje sistemoje yra nuo šiol galimas paspaudus ant programėles vietoj naršyklės plėtinio{.is-warning}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padaryti.
 
-## Table of Contents
+## Turinys
 
 - **[Apie](#about)**
-  - [Stats](#stats)
+  - [Statistika](#stats)
   - [Reikalavimai](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Pavyzdžiai (jau greitai)
+  - Dažniausiai užduodami klausimai (jau greitai)
+  - Statymas (jau greitai)
+  - [Pagalba](#support)
   - [Padėkos](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+  - [Licencija](#license)
+- **[Snapcraft](#snapcraft)** (TL;DR : _niekada_ ™️)
+- **[Portable AppImage](#portable-appimage)** (_SIŪLOMA_)
+  - [Diegimo instrukcija](#installation-instructions)
+  - [Papildomos pastabos](#additional-notes)
+- **Red Hat Enterprise Linux (RHEL) based distributions** (jau greitai, naudokite [šitai](#portable-appimage) kolkas)
+- **Debian and Ubuntu based distributions** (jau greitai, naudokite [šitai](#portable-appimage) pakolkas)
+- **[Arch Linux distribucijos](#arch-linux-based-distributions)**
+  - [Diegimo instrukcija](#installation-instructions-1)
+  - [Papildomos pastabos](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [Diegimo instrukcija](#installation-instructions-2)
+  - [Papildomos pastabos](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -42,7 +42,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="stats"></a>
 
-### Stats
+### Statistika
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Pagalba
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Licencija
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Diegimo instrukcija
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,20 +126,20 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Papildomos pastabos
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arch Linux distribucijos
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Diegimo instrukcija
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Papildomos pastabos
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Diegimo instrukcija
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Papildomos pastabos
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
