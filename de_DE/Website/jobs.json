@@ -31,10 +31,6 @@
 		"message": "Tritt unserem Discord Server bei",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
-	"jobs.guild.explanation": {
-		"message": "Um sich bewerben zu können, musst du unserem Discord-Server beigetreten sein. Andernfalls können wir dich nicht herausfordern, wenn du am Ende ausgewählt wirst!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
 	"jobs.header.title": {
 		"message": "Arbeite für PreMiD",
 		"description": "First part of the jobs page."

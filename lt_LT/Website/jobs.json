@@ -31,10 +31,6 @@
 		"message": "Prisidėkite prie mūsų Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
-	"jobs.guild.explanation": {
-		"message": "Jog galėtumete užpildyti anketą, pirma turite būti prisijungę prie mūsų Discord serverio. Antraip negalėsime su jumis susisiekti, jeigu jūs būsite išrinkti pozicijai!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
 	"jobs.header.title": {
 		"message": "Darbas „PreMiD“",
 		"description": "First part of the jobs page."
