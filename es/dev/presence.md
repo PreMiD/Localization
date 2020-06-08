@@ -52,7 +52,7 @@ Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 Para obtener más información sobre la configuración de TypeScript haga clic [aquí](/dev/presence/tsconfig).
 
 ## Llenando un archivo metadata.json
-Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezosa. Aun así, se sugiere leerlo para que sepas como funciona.</p> 
+Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezosa. Aún así se sugiere leerlo para que sepas cómo funciona.</p> 
 
 <pre><code class="json">{
   "$schema": "https://schemas.premid.app/metadata/1.0",
@@ -107,7 +107,7 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
 </code></pre>
 
 <p spaces-before="0">
-  Por favor copia el código anterior y ponlo en tu archivo <code>metadata.json</code>. Ahora necesitas saber los valores de las propiedades. Ten en cuenta que las siguientes propiedades para poner en tu archivo <code>metadata.json</code> son opcionales, si no tienes planeado usarlos necesitas eliminarlos.
+  Por favor copia el código anterior y ponlo en tu archivo <code>metadata.json</code>. Ahora necesitas saber los valores de las propiedades. Ten en cuenta que las siguientes propiedades son opcionales para poner en tu archivo <code>metadata.json</code>, si no tienes planeado usarlos necesitas eliminarlos.
 </p>
 
 <ul>
@@ -182,8 +182,8 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL del servicio. <br><b>Ejemplo: </b><code>vk.com</code><br>
-        <b>This URL debe coincidir con la URL del sitio web ya que se detectará si es o no el sitio web al que se inyecta el script. </b><br><b>NO</b> agregues <code>https://</code> o <code>http://</code> dentro de la URL ni un slash al final:
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>
+        <b>Esta URL debe coincidir con la URL del sitio web ya que se detectará si es o no el sitio web al que se inyecta el script.</b><br><b>NO</b> agregues <code>https://</code> o <code>http://</code> dentro de la URL ni un slash al final:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
 <b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. Do <b>NOT</b> forget to add it!<br>
 You can add multiple URLs by doing the following:<br>
@@ -280,7 +280,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar. Mira regEx para más información.</td>
+      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar. Mira expresiones regulares para más información.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
@@ -377,29 +377,29 @@ presence.on("UpdateData", async () =&gt; {
 
 
 <h2 spaces-before="0">
-  ¿No puede obtener ciertos datos?!
+  ¡¿No puedes obtener cierta información?!
 </h2>
 
 <p spaces-before="0">
-  Muchos sitios web están utilizando <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe"> iframes </a> (<a href = "https: / /en.wikipedia.org/wiki/HTML_element#Frames">Inline Frames </a>). Estas etiquetas html pueden contener múltiples fuentes, como videos. Pero aveces no son relevantes. Algunos están ocultos o simplemente no se usan activamente. Compruebe si puede extraer la información que necesita sin ellos antes de realizar un trabajo innecesario.
+  Muchos sitios web están utilizando <a href="https://developer.mozilla.org/es/docs/Web/HTML/Elemento/iframe">iframes</a> (<a href="https://en.wikipedia.org/wiki/HTML_element#Frames">Inlineframes</a>). Esas etiquetas HTML pueden contener múltiples fuentes como videos. Pero a veces no son relevantes. Algunos están ocultos o simplemente no se usan activamente. Comprueba si se puede extraer la información que necesitas, sin ellos antes de que hagas un trabajo innecesario.
 </p>
 
 <ol start="1">
   <li>
-    Verifíquelos en la consola de su navegador (asegúrese de estar en la pestaña <strong x-id="1"> Elementos </strong>).
+    Verifícalos en la consola de tu navegador (asegúrate de estar en la pestaña <strong x-id="1">Elementos</strong>).
   </li>
   
   <li>
-    Buscar (<kbd> CTRL </kbd> + <kbd> F </kbd> (Windows) o <kbd> CMD </kbd> + <kbd> F </kbd> (MacOS)).
+    Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
   </li>
   
   <li>
-    Ejecute <code> document.querySelectorAll ("iframe") </code>.
+    Ejecuta <code>document.querySelectorAll("iframe")</code>.
   </li>
 </ol>
 
 <p spaces-before="0">
-  Si encuentra que sus datos están en un iFrame, debe hacer lo siguiente:
+  Si encuentras que los datos están en un iFrame, debes hacer lo siguiente:
 </p>
 
 <ol start="1">
@@ -451,7 +451,7 @@ iframe.on("UpdateData", async () =&gt; {
 </h2>
 
 <p spaces-before="0">
-  Abra una consola en su carpeta y escriba <code> tsc -w </code> para compilar <code> presencia.ts </code> en la carpeta <code> / dist </code>.
+  Abre una consola en tu carpeta y escribe <code>tsc -w</code> para compilar <code>presence.ts</code> en la carpeta <code>/dist</code>.
 </p>
 
 
@@ -486,11 +486,11 @@ iframe.on("UpdateData", async () =&gt; {
 
 
 <h2 spaces-before="0">
-  Recarga Sobrecalientada
+  Recarga en caliente
 </h2>
 
 <p spaces-before="0">
-  El sitio web en el que está desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
+  El sitio web en el que estás desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
 </p>
 
 
