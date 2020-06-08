@@ -25,18 +25,18 @@ tags:
 > 
 > {.is-warning}
 
-- Abra un terminal en su repositorio y escriba `npm i`.
-- Para actualizar las dependencias escriba `npm update`.
+- Abre un terminal en el proyecto y escribe `npm i`.
+- Para actualizar las dependencias escribe `npm update`.
 
-> Tenga en cuenta que la actualización de las dependencias podría romperse mucho, o no - ¡es necesario hacer pruebas! 
+> Ten en cuenta que la actualización de las dependencias podría romper mucho o no - ¡es necesario hacer pruebas! 
 > 
 > {.is-danger}
 
 # Codificando tu visión
-Por favor, mantenga la estructura. No queremos desorganizar nuestro proyecto. Los archivos caóticos no pueden ser aceptados.
+Por favor, mantén la estructura. No queremos desorganizar nuestro proyecto. Los archivos caóticos no pueden ser aceptados.
 
 # Enviando tu sueño
-Simplemente abra una Pull Request en uno de nuestros [repositorios de GitHub](https://github.com/PreMiD/) en los que desea contribuir. Nosotros nos encargaremos de su bebé, no se preocupe. Si esta es la primera vez que haces un pull request, echa un vistazo a este [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+Simplemente abre un Pull Request en uno de nuestros [repositorios de GitHub](https://github.com/PreMiD/) en los que deseas contribuir. Nosotros nos encargaremos de tu bebé, no te preocupes. Si esta es la primera vez que haces un pull request, echa un vistazo a este [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Obteniendo aprobados
 Nuestro principal objetivo es trabajar con los usuarios para tratar de ser tan amistoso, respetuoso e informativo como sea posible. Simplemente mencionando a un desarrollador en nuestro [servidor de Discord](https://discord.gg/WvfVZ8T) para obtener aprobación en GitHub, o no. Depende de la calidad del código, la apariencia de los activos y la funcionalidad regular.
