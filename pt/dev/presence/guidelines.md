@@ -21,8 +21,8 @@ As regras gerais de desenvolvimento de presences são as seguintes:
 - Presences para websites com (domíno de topo `.onion`) ou websites com domínios/hospedagens gratuitas (por exemplo, `.TK` [todos os domínios grátis da Freenom], `.RF`, `.GD`, etc.) **não são** permitidos, exceções poderão ser feitas se houver uma prova mostrando que eles pagarem pelo domínio.
 - Presences sobre páginas internas de navegadores (como a Chrome Web Store, `chrome://`, páginas `about:`, etc) **não são** permitidas por requererem uma bandeira experimental a ser ativada no lado do usuário e que poderia potencialmente causar dano aos seus navegadores.
 - Presences com suporte apenas para um único subdomínio **não serão** permitidas, visto que elas podem parecer quebradas em outras páginas (como a página principal), exceções podem ser feitas para as páginas de políticas e de contato (conteúdo que não é usado com frequência) ou sites onde o outro conteúdo não é relacionado. (por exemplo, páginas da Wikia)
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Presences de baixa qualidade (ou com pouco contexto) **não são** permitidos (por exemplo, apenas mostrar uma logo e um texto mas nunca mudá-los de novo.)
+- Incluir a pasta `dist`, o arquivo `presence.ts`, o arquivo `iframe.ts` e o arquivo `metadata.json` é mandatório, então o resultado seria o que está representado no seguinte esquema:
 
 ```bash
 presence
@@ -33,7 +33,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+ou, se você estiver usando um arquivo `iframe.ts`:
 
 ```bash
 presence
@@ -48,15 +48,15 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process. 
+> Para a conveniência de nossos desenvolvedores de Presence, nós providenciamos um esquema que você pode usar para validar a integridade do seu arquivo de `metadata`. Isso é inteiramente opcional e não é necessário durante o processo de revisão. 
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> É altamente recomendado que você organize seu arquivo de `metadata` no formato mostrado abaixo, e você deve escrever os nomes dos serviços, descrições, tags e campos de configuração gramaticamente corretos. Tudo aquilo que não estiver organizado nessas especificações **não será** permitido. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados tem um padrão estrito e um exemplo desse arquivo pode ser encontrado abaixo:
 
 ```json
 {
@@ -113,15 +113,15 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Se algum campo for listado como opcional na [documentação](https://docs.premid.app/en/dev/presence/metadata) e a sua presence usar o valor padrão, não o inclua no arquivo de `metadata`. (por exemplo, uma presence sem suporte iframe não precisaria de um campo `iframe`.) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> Todas as imagens no arquivo de `metadata` devem estar hospedadas no `i.imgur.com` ou em um CDN que lhê dê permissões para **mudar** arquivos de imagens. Conteúdo hospedado no site em si **não é** permitido visto que ele pode mudar de posição de forma indesejada. 
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ### **`$schema`**
 
