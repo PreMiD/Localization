@@ -285,12 +285,12 @@ presence.hideSetting("pdexID"); //Reemplaza pdexID con el ID de la configuració
 ### `showSetting(String)`
 Muestra la configuración dada (Solo funciona si el ajuste estaba ya oculto).
 ```typescript
-presence.showSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
+presence.showSetting("pdexID"); //Reemplaza pdexID con el ID de la configuración
 ```
 
-## Categorias de una Presence
+## Categorias de una presencia
 
-Cuando haces tu Presence, debes especificar de que categoría es tu Presence. Esta es una lista de las categorias que puedes usar.
+Cuando haces tu presencia, debes especificar de que categoría es tu presencia. Esta es una lista de las categorias que puedes usar.
 
 <table>
   <thead>
@@ -310,7 +310,7 @@ Cuando haces tu Presence, debes especificar de que categoría es tu Presence. Es
     <tr>
       <td style="text-align:left"><b>juegos</b></td>
     <td style="text-align:left"><b>Juegos</b></td>
-      <td style="text-align:left">Cualquier sitio web que tenga contenido relacionado con el juego, como <code>Kahoot</code> o <code>Skribbl.io</code></td>
+      <td style="text-align:left">Cualquier sitio web que tenga contenido relacionado con juegos como <code>Kahoot</code> o <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
@@ -322,13 +322,13 @@ Cuando haces tu Presence, debes especificar de que categoría es tu Presence. Es
     <tr>
       <td style="text-align:left"><b>sociales</b></td>
         <td style="text-align:left"><b>Social</b></td>
-      <td style="text-align:left">Sitios web que se utilizan con el propósito de crear y compartir contenidos o para participar en otras formas de redes sociales.</td>
+      <td style="text-align:left">Sitios web que se utilizan con el propósito de crear y compartir contenido o para participar en otras formas de redes sociales.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>vídeos</b></td>
+      <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Vídeos y Transmisiones</b></td>
-      <td style="text-align:left">Sitios web que sirven el propósito de proporcionar videos y streams.</td>
+      <td style="text-align:left">Sitios web que sirven con propósito de proporcionar videos y streams.</td>
       </td>
     </tr>
     <tr>
