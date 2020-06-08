@@ -20,7 +20,7 @@ La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). 
 {.links-list}
 
 # Struttura
-Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ha alcune definizioni extra interessanti rispetto a JavaScript, quindi correggere e identificare i bug è molto più facile.
 
 ## Installazione
 1. Installa [Git](https://git-scm.com/).
@@ -107,7 +107,7 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 }
 ```
 
-Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è necessario modificare i valori delle proprietà. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è necessario modificare i valori delle proprietà. Si prega di notare che le seguenti proprietà sono facoltative da avere nel tuo file `metadata.json`, se non prevedi di utilizzarli è necessario rimuoverli.
 - `collaboratori`
 - `regExp`
 - `iframe`
@@ -170,10 +170,10 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
         <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. <b>Non</b> dimenticare di aggiungerlo!<br>
+È possibile aggiungere più URL facendo quanto segue:<br>
+<code>["URL1", "URL2", "ECC."]</code><br>
+È anche possibile utilizzare regExp conosciuto anche come Regex per questo compito, spiegato più avanti.
       </td>
       <td style="text-align:left"><code>Stringa, Schieramento&lt;String&gt;</code>
       </td>
@@ -274,8 +274,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>impostazioni</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Un vettore di impostazioni che l'utente può modificare.<br>
+      Leggi di più sulle impostazioni delle presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">qui</a>.</td>
       <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>sì</code>
