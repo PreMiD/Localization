@@ -46,7 +46,7 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
 
 <table>
   <tr>
-    <th>Deployment</th>
+    <th>Despliegue</th>
     <th>Descargas totales</th>
     <th>Versión más reciente</th>
   </tr>
