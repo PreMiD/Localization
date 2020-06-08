@@ -24,11 +24,11 @@
 		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Representante Global de la Comunidad",
+		"message": "Representante global de la comunidad",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.systemAdministrator": {
-		"message": "Administrador de sistemas",
+		"message": "Administrador del sistema",
 		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
@@ -48,11 +48,11 @@
 		"description": "'Graphic Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
-		"message": "Moderador Experimentado",
+		"message": "Moderador experimentado",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Jefe de Verificación de Presencias",
+		"message": "Jeve de verificadoción de presencias",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
@@ -64,7 +64,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.juniorModerator": {
-		"message": "Moderador Principiante",
+		"message": "Moderador principiante",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
