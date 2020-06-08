@@ -234,52 +234,52 @@ Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Idioma de una Presence
+## Idiomas de la presencia
 
-PreMiD es un servicio Polygot, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios de todo el mundo. La lista de idiomas completa puede encontrarse en esta [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios en todo el mundo. La lista de idiomas completa puede encontrarse en este [endpoint del API](https://api.premid.app/v2/langFile/list).
 
-## Configuraciones de una Presence
-¡Configura ajustes interactivos para que los usuarios puedan personalizar la Presence!
+## Configuraciones de una presencia
+¡Configura ajustes interactivos para que los usuarios puedan personalizar la presencia!
 ```javascript
 "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Ejemplo "fas fa-info"
-            "value": true //El valor del Boolean hará un encendido/apagado con el valor como el valor predeterminado.
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS", //Ejemplo "fas fa-info"
+            "value": true //Un valor booleano hará que esté encendido/apagado con el valor como por defecto
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //Si otro ajuste equivale a este valor (true/false/0/1/etc.) se mostrará este botón
+                "ID": true //Si otra configuración equivale a este valor (true/false/0/1/etc.) entonces mostrará este botón
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Poniendolo en una String hará el ajuste una Input One, donde podrás personalizar tu Input.
-            "placeholder": "use %song% or %artist%" //Cuando la input está vacía mostrará este Grayed out.
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "value": "\"%song%\" por %artist%", //Colocando una string va a hacer que la configuración un input que puedes usarlo como personalizado.
+            "placeholder": "usa %song% o %artist%" //Cuando la entrada está vacía mostrará esto en gris
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Mostrará el ajuste a un selector donde podrías elegir cual quieres.
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "value": 0, //Valor por defecto del selector
+            "values": ["1", "2", "etc."] //Hará la configuración un selector en donde podrás elegir lo que quieras
         }
     ]
 ```
 
-Usando los siguientes métodos para conseguir la información de tus ajustes en tus archivos de Presence:
+Usando los siguientes métodos para conseguir la información de tus ajustes en tus archivos de la presencia:
 ### `getSetting(String)`
 Regresa el valor del ajuste.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // Esto registrará el valor del ajuste
+var setting = await presence.getSetting("pdexID"); //Cambia pdexID con la ID de la configuración
+console.log(setting); // Esto mostrará el valor de la configuración
 ```
 
 ### `hideSetting(String)`
 Oculta la configuración dada.
 ```typescript
-presence.hideSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
+presence.hideSetting("pdexID"); //Reemplaza pdexID con el ID de la configuración
 ```
 
 ### `showSetting(String)`
