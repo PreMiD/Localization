@@ -26,11 +26,11 @@ PreMiD es fácil y rápido de instalar. Terminarás en un abrir y cerrar de ojos
 
 [Comenzando](/dev) es tu primer paso antes de comenzar con el desarrollo de algunas cosas para PreMiD.
 
-- :computer:[API](/dev/api): Accede a recursos y realiza acciones por medio de la API de PreMiD.
-- :wrench:[Desarrollo de Presencias](/dev/presence): Aprende a usar nuestro sistema de Presencias.
+- :computer: [API](/dev/api): Accede a recursos y realiza acciones por medio de la API de PreMiD.
+- :wrench: [Desarrollo de presencias](/dev/presence): Aprende a usar nuestro sistema de presencias.
 
 # Contribuir
-- :bug:[Informar de un error](https://github.com/PreMiD): Ayudanos a acabar con esos molestos errores.
+- :bug: [Informar de un error](https://github.com/PreMiD): Ayúdanos a acabar con esos molestos errores.
 - :bulb:[Sugiere nuevas funciones](https://discord.gg/WvfVZ8T): ¡Necesitamos tus ideas!
 - :heart: [Donar](https://www.patreon.com/Timeraa): ¡Haz una pequeña donación o hazte patrocinador de este maravilloso proyecto!
 - :globe_with_meridians: [Traducciones](https://translate.premid.app): Permite a otros usuarios usar PreMiD en su idioma nativo.
