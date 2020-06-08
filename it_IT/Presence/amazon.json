@@ -3,6 +3,10 @@
         "message": "Visualizzando sottoscrizioni",
         "description": ""
     },
+    "amazon.adprefs": {
+        "message": "Visualizzando le loro preferenze pubblicitarie",
+        "description": ""
+    },
     "amazon.balance": {
         "message": "Visualizzando il loro saldo",
         "description": ""
@@ -41,6 +45,10 @@
     },
     "amazon.wishlist": {
         "message": "lista dei desideri",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "buoni regalo",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {

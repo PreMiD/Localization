@@ -83,6 +83,10 @@
         "message": "Modificando il video:",
         "description": ""
     },
+    "youtube.studio.videoAnalytics": {
+        "message": "Visualizzando l'analitica del video:",
+        "description": ""
+    },
     "youtube.studio.videoComments": {
         "message": "Visualizzando i commenti del video:",
         "description": ""
@@ -95,12 +99,20 @@
         "message": "Visualizzando i loro",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.studio.channelAnalytics": {
+        "message": "analisi del canale",
+        "description": "Part two of \"Viewing their\""
+    },
     "youtube.studio.channelComments": {
         "message": "commenti del canale",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
         "message": "traduzioni del canale",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "pagina dell'artista",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
