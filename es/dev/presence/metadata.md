@@ -8,39 +8,39 @@ tags:
 
 # Metadata.json
 
-Si quieres publicar una presencia a la tienda y cargarla a través de la extensión, deberías crear el archivo `metadata.json` en tu carpeta `dist`.
+Si quieres publicar una presencia en la tienda y cargarla a través de la extensión deberías crear el archivo `metadata.json` en tu carpeta `dist`.
 
 El ejemplo de ese archivo se puede encontrar a continuación.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SERVICIO",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCIÓN"
   },
   "url": "URL",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "regExp": "EXPRESIÓN REGULAR",
+  "iFrameRegExp": "EXPRESIÓN REGULAR",
+  "version": "VERSIÓN",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORÍA",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
             "value": true
         },
         {
@@ -48,15 +48,15 @@ El ejemplo de ese archivo se puede encontrar a continuación.
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "value": "\"%song%\" por %artist%",
+            "placeholder": "usa %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ÍCONO DE FONTAWESOME GRATIS",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -64,7 +64,7 @@ El ejemplo de ese archivo se puede encontrar a continuación.
 }
 ```
 
-## Subrayando el metadata.json
+## Entendiendo el metadata.json
 
 Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil entender para qué sirve cada variable.
 
@@ -81,9 +81,9 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Debe contener un object con <code>nombre</code> y <code>id</code> del desarrollador de la presence. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). La <code>id</code> del usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presencia. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
-      <td style="text-align:left"><code>Objeto</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -91,9 +91,9 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>contribuidores</b>
       </td>
-      <td style="text-align:left">Debería contener un objeto con <code>name</code> e <code>id</code> del colaborador. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). La <code>id</code> del usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debería contener un Object con <code>name</code> e <code>id</code> del colaborador. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
-      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
       </td>
@@ -111,8 +111,8 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si no se te ocurre nada. Tu descripción debe tener Key Pair Values que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
-      <td style="text-align:left"><code>Objeto</code>
+        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -214,7 +214,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>ajustes</b>
       </td>
       <td style="text-align:left">Una variedad de configuraciones que el usuario puede cambiar</td>
-      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
       </td>
@@ -228,7 +228,7 @@ Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
 #### Aprendiendo
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Video rápido para empezar](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Información de expresiones regulares](https://www.regular-expressions.info/tutorial.html)
 
 #### Probando
 
