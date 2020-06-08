@@ -143,9 +143,9 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Debe contener un object con <code>nombre</code> y <code>id</code> del desarrollador de la presence. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). La <code>id</code> del usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presencia. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
-      <td style="text-align:left"><code>Objeto</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -153,9 +153,9 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
     <tr>
       <td style="text-align:left"><b>contribuidores</b>
       </td>
-      <td style="text-align:left">Debe contener un object con <code>nombre</code> y <code>id</code> del desarrollador de la presence. Nombre es tu nombre de usuario de Discord sin el identificador(#0000). La <code>id</code> del usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presencia. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
-      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
       </td>
@@ -173,8 +173,8 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si no se te ocurre nada. Tu descripción debe tener Key Pair Values que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
-      <td style="text-align:left"><code>Objeto</code>
+        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -291,7 +291,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Arreglo&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
       </td>
