@@ -10,13 +10,13 @@ tags:
 
 ## Introducción
 
-Cuando descargaste y desempaquetaste el espacio de trabajo, verás un archivo llamado `tsconfig. s` en carpetas raíz y presencia, este archivo se utiliza para configurar el compilador **TypeScript**. Ya está configurado para usted, así que no te preocupes por eso.
+Cuando descarges y desempaquetes el espacio de trabajo, verás un archivo llamado `tsconfig.js` en la carpeta principal y carpetas de presencia, este archivo se utiliza para configurar el compilador de **TypeScript**. Ya está configurado para ti, así que no te preocupes por eso.
 
-Sólo queremos describir algunos ajustes que deberías conocer.
+Solo queremos describir algunos ajustes que deberías conocer.
 
-## Configuración de root
+## Configuración de raíz
 
-En el archivo de configuración raíz verá algo como esto.
+En el archivo de configuración raíz verás algo como esto.
 
 ```javascript
 {
@@ -38,10 +38,10 @@ En el archivo de configuración raíz verá algo como esto.
 | Propiedad                  | Descripción                                                                                                                                                                               |
 |:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Utilizado para configurar el compilador, la mayoría de las propiedades se encuentran aquí.                                                                                                |
-| módulo                     | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                              |
+| module                     | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                              |
 | target                     | Define la versión JavaScript que está compilando.                                                                                                                                         |
-| eliminar comentarios       | Eliminando comentarios de archivos compilados.                                                                                                                                            |
-| noEmitOnError              | No emita outputs si se reporta algún error.                                                                                                                                               |
+| removeComments             | Eliminando comentarios de archivos compilados.                                                                                                                                            |
+| noEmitOnError              | No emitir si se reporta algún error.                                                                                                                                                      |
 | noFallthroughCasesInSwitch | Reporta errores para los casos fallidos en reportes de cambios.                                                                                                                           |
 | noUnusedLocals             | Reportar errores en unused locals.                                                                                                                                                        |
 | noUnusedParameters         | Reportar errores en unused parameters.                                                                                                                                                    |
