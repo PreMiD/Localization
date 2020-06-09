@@ -12,7 +12,7 @@ tags:
 
 Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkownicy mają teraz możliwość ręcznego dodawania lub usuwania ich ulubionych statusów za pośrednictwem interfejsu użytkownika z [strony](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Zanim zaczniesz, należy przyjrzeć się naszym wytycznym dotyczącym tworzenia Presence. 
 > 
 > {.is-warning}
 
@@ -32,7 +32,7 @@ Wszystkie statusy są kodowane w [TypeScript](https://www.typescriptlang.org/). 
 2. Wybierz folder.
 3. Otwórz go w twoim edytorze kodu.
 
-## Creating folders and files
+## Tworzenie katalogów i plików
 
 1. Utwórz folder o **nazwie** (nie URL) usługi, którą chcesz obsługiwać.
 2. Stwórz wewnątrz plik `presence.ts` i `tsconfig.json`.
