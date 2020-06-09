@@ -48,7 +48,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process. 
+> Dla wygody naszych deweloperów Presence dostarczyliśmy schemat, którego możesz użyć do weryfikacji integralności pliku `metadata`. This is entirely optional and is not required during the review process. 
 > 
 > {.is-info}
 
