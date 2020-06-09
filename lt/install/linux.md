@@ -128,50 +128,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Papildomos pastabos
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Jeigu jūs norite išbandyti PreMiD ar jūs nenorite jos instaliuoti, ši yra geriausia, ji visada yra atnaujinama, bet _AUTOMATIŠKAI NĖRA PALEIDŽIAMA SU OPERACINE SISTEMA!_</br>Jeigu jums nusibodo kiekvieną kartą ją įjunginėti, naudokite kitą komplektą (package) (atitinkantį jūsų distribuciją).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Arch Linux distribucijos
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Naudoja[Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Palaikomos distribucijos yra _ji pati_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS ir [kiekviena kita kuri palaiko įdiegimą iš AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Diegimo instrukcija
 
 ```bash
-# Using yay (recommended)
+# Naudoti yay (rekomenduojama)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Naudoti pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Naudoti trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Naudoti pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... jūs suprantate mintį
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+arba savarankiškai iš [Arch User Repository](https://aur.archlinux.org/packages/premid) jeigu jūs žinote ką darote.
 
 <a name="archnotes"></a>
 
 ### Papildomos pastabos
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Jeigu jūsų distribucija naudoja pacman, tada jūs turite įsidiegti vieną iš pagalbininkų pirma. Jeigu jūs jų neturite, Yay yra rekomenduojama, paleiskite :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,7 +181,7 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Kiti AUR/Pacman pagalbininkai veikia taipogi, bet kiekvienos funkcionalumas yra skirtingas, tad jūs galite susidurti su sunkumais juos naudojant.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
