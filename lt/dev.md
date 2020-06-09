@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Pradžia
+description: Mažas patarimas tiems kurie nesenai pradėjo koduoti
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
