@@ -286,7 +286,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 Stworzyliśmy kreator plików `metadata.json` dla leniwych użytkowników [tutaj](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Wprowadzenie
 
 ```javascript
 var presence = new Presence({
@@ -352,7 +352,7 @@ Wiele stron używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/E
 
 1. Sprawdź je w konsoli przeglądarki (upewnij się, że jesteś na karcie **Elementy**).
 2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) albo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+3. Wykonaj `document.querySelectorAll("iframe")`.
 
 Jeśli okaże się, że Twoje dane znajdują się w ramce iFrame, wykonaj następujące czynności:
 1. Stwórz plik `iframe.ts`.
