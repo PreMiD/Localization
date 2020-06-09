@@ -16,7 +16,7 @@ Ogólne zasady rozwoju statusów są następujące:
 
 - Statusy **muszą** być powiązane z wybraną witryną.
 - Statusy **nie mogą** być tworzone dla nielegalnych stron internetowych. (np. stresory, handel narkotykami, dziecięca pornografia, itp.)
-- Struktura plików musi być czysta i zarządzana, nie zawierać plików, które nie są określone. (for e.g., vscode and git folders, image and text files, etc.)
+- Struktura plików musi być czysta i zarządzana, nie zawierać plików, które nie są określone. (np. foldery vscode i git, pliki graficzne i tekstowe itp.)
 - Musisz mieć odpowiednią strukturę plików, wersje robocze **są niedozwolone**.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
@@ -266,7 +266,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Additional Rules`
+## `Reguły dodatkowe`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
