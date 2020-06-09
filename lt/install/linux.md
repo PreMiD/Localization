@@ -188,19 +188,19 @@ Kiti AUR/Pacman pagalbininkai veikia taipogi, bet kiekvienos funkcionalumas yra 
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Tai pat taikoma ir jos pakaitiniams, tokiems kaip: ColverOS, Clip-OS, Sabayon, Bicom Systems, PBXware, [t.t.](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Diegimo instrukcija
 
 ```bash
-# Add the overlay using layman
+# Pridėti apdangą naudojant layman
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Įdiegti naudojant portage
 emerge -av app-misc/premid
 ```
 
