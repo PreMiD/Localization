@@ -8,7 +8,7 @@ tags:
 
 > Alternar o auto-launch no Linux está agora disponível a partir do aplicativo em vez da extensão.{.is-warning}
 
-A instalação do aplicativo é muito importante, uma vez que a extensão não pode fazer nada por si só.
+A instalação do aplicativo é muito importante, já que a extensão não pode fazer nada por si só.
 
 ## Tabela de Conteúdos
 
@@ -85,11 +85,11 @@ Não se sabe se versões antigas de outras distribuições o suportam, por isso 
 
 Agradecimentos para :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (e alguns outros que eu esqueci os nomes) por fornecer feedback sobre lançamentos noturnos.
+- @apriluwu para manter as compilações de Gentoo
+- @SlimShadyIAm e naka por manter os pacotes do Repositório do Usuário Arch
+- A comunidade Electron por vários pacotes
+- Qualquer outra pessoa que tenha contribuído para o projeto de alguma forma.
 
 <a name="license"></a>
 
