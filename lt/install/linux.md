@@ -87,9 +87,9 @@ Ačiū šiems asmenims :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (ir kai kuriems kitiems asmenims kurių vardus aš užmiršau) už atsakus į naktinius leidinius.
 - @apriluwu už palaikymą Gentoo leidiniams
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @SlimShadyIAm ir naka už ankščiau palaikant Arch User Repository packages
+- Electron bendruomenę už įvairius komplektus (packages)
+- Ir visus kitus kurie kaip nors prisidėjo prie projekto.
 
 <a name="license"></a>
 
@@ -102,14 +102,14 @@ Ačiū šiems asmenims :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Tikriausiai niekada, kadangi Snap iš prigimties blokuoja PreMiD nuo to, jo pasiektų Discord ir jos papildinius tinkamai,</br> Būtų malonu jeigu kas nors galėtų tai atlikti, visos įdėjos ar PR (pull request) yra laukiami.</br> P.S.: klasikiniai apribojimai neveikia taipogi, tad nesivarginkite rašydami pasiūlymą apie tai.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
-## Portable AppImage
+## Portatyvus Applmage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Applmage komplektas (package) yra rekomenduojamas jeigu Discord veikia jums, bet kiti PreMiD komplektai (.deb, .rpm, etc) neveikia.
 
 <a name="appimageinstall"></a>
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Tiesiog du kartus nuspauskite ant jo arba paleiskite
 ./PreMiD*.AppImage
 ```
 
