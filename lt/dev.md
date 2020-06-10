@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-# Installing the requirements
+# Reikalingų programų įdiegimas
 1. Įdiegkite [Git](https://git-scm.com/).
 2. Įdiegkite [Node](https://nodejs.org/en/) (atkeliauja kartu su [npm](https://www.npmjs.com/)).
 3. Įdiegkite [TypeScript](https://www.typescriptlang.org/index.html#download-links) (atsidarykite terminalą ir rašykite `npm install -g typescript`).
@@ -32,11 +32,11 @@ tags:
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Savo vizijos kodavimas
+Prašome laikytis struktūros. Mes nenorime dezorganizuoti savo projekto. Chaotiški failai gali būti nepriimami.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Savo svajonės pateikimas
+Tiesiog atidarykite PR (Pull Request) viename iš mūsų [Github repozitorijų](https://github.com/PreMiD/) jeigu norite prisidėti prie projekto. Mes pasirūpinsime jūsų mažyliu, nesijaudinkite. Jeigu tai yra jūsų pirmasis kartas darant PR (Pull Request), peržvelkite šią [pamoką](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Patvirtinimas
+Mūsų pagrindinis tikslas yra dirbti su vartotojais ir būtų kuo labiau draugiškais, pagarbiais ir kuo labiau informatyvesniais. Tiesiog išsiųskite žinote koduotojui mūsų [Discord serveryje](https://discord.gg/WvfVZ8T) jog peržvelgtų Github, arba ne. Viskas priklauso nuo kodo kokybės, turinio išvaizdos ir funkcionalumo.
