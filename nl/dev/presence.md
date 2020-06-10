@@ -12,7 +12,7 @@ tags:
 
 Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Voordat u aan de slag gaat, is het zeer aan te raden om onze aanwezigheidsrichtlijnen te bekijken. 
 > 
 > {.is-warning}
 
