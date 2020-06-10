@@ -31,6 +31,10 @@
 		"message": "Join onze Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Om te kunnen solliciteren moet u zich hebben aangesloten bij onze Discord-server. Anders kunnen we geen contact met u opnemen als u uiteindelijk wordt geselecteerd!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Werk voor PreMiD",
 		"description": "First part of the jobs page."

@@ -11,6 +11,10 @@
 		"message": "Bugs rapporteren is voor bugs op de PreMiD website en de PreMiD Discord Server. Voor bugs in presences rapporteer het aan de maker van de presence. Meld bugs alleen in Engels.",
 		"description": "Tells the user about submitting a bug"
 	},
+	"report.overview": {
+		"message": "Geef een duidelijke en beknopte beschrijving van wat de bug is.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "Selecteer uw besturingssysteem en versie",
 		"description": "Select Box for the user to select their operating system"
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Selecteer uw browser en versie - U kunt de versie verkrijgen door about:support te bezoeken op Firefox of chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Geef een link naar een levend voorbeeld of een reeks ondubbelzinnige stappen om deze bug te reproduceren.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Rapporteer",
