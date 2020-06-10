@@ -6,29 +6,29 @@ date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Atvirojo kodo redagavimo programa yra reikalinga. Mes rekomenduojame Visual Studio Code. 
 > 
 > {.is-info}
 
 # Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+1. Įdiegkite [Git](https://git-scm.com/).
+2. Įdiegkite [Node](https://nodejs.org/en/) (atkeliauja kartu su [npm](https://www.npmjs.com/)).
+3. Įdiegkite [TypeScript](https://www.typescriptlang.org/index.html#download-links) (atsidarykite terminalą ir rašykite `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+# Projekto klonavimas
+1. Atsidarykite terminalą ir rašykite `git clone URL`. **Apkeiskite URL su repozitorijos adresu jeigu norite prisidėti prie** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+2. Pasirinkite jūsų norimą aplankalą.
+3. Atsidarykite jį su savo kodo redagavimo programa.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Priklausomybių įdiegimas
+> Įsitikinkite, jog esate įsidiegę [npm](https://www.npmjs.com/) (Node Package Manager) visų pirma. Ji įsidiegs savę automatiškai jeigu jūs turite [Node](https://nodejs.org/en/) jau įsidiegę. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Atsidarykite terminalą savo repozitorijoje ir įrašykite `npm i`.
+- Jog atnaujinti priklausomybes, rašykite `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Norime įspėti jog priklausomybių atnaujinimas gali daug ką sugadinti arba nesugadinti - reikalingas testavimas! 
 > 
 > {.is-danger}
 
