@@ -10,13 +10,13 @@ tags:
 
 ## Įvadas
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Kai jūs parsisiunčiate ir atpakuojate savo darbovietę, jūs pamatysitę failą pavadinimu`tsconfig.js` root ir presence aplankaluose, šis failas yra naudojamas konfigūruojant **TypeScript** kompiliuotoją. Jis jums jau yra sukonfigūruotas, tad dėl to jaudintis nereikia.
 
-We just want to describe some settings that you should know.
+Mes norime paaiškinti keletą nustatymų kuriuos jūs turėtumėte žinoti.
 
-## Root Configuration
+## Root Konfigūracija
 
-In the root configuration file you will see something like this.
+Root konfigūracijos faile jūs pamatysite kažką panašaus į tai.
 
 ```javascript
 {
