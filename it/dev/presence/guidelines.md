@@ -2,8 +2,9 @@
 title: Linee guida
 description: Rules all presence developers must follow to have their presence added.
 published: vero
-date: 2020-06-04T01:18:35.215Z
+date: 2020-06-11T18:43:52.440Z
 tags:
+editor: markdown
 ---
 
 # Linee guida
@@ -53,6 +54,10 @@ presence
 > {.is-info}
 
 > It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> 
+> {.is-warning}
+
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
@@ -209,7 +214,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 > 
 > {.is-warning}
 
-## Modifica
+# Modifica
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
@@ -222,7 +227,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verifica
+# Verification
 
 > Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. All verifiers will have the `Presence Verifier` role on their profile. 
 > 
@@ -255,7 +260,7 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 - Ci vogliono 2 revisionatori per unire una richiesta di pull.
 - Se una pull request è inattiva per un periodo di 7 giorni, verrà immediatamente chiusa.
 - Tutti i controlli **devono** essere passati per unirsi.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
 ## `Controlli`
 
