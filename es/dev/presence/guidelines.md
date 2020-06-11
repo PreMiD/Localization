@@ -237,7 +237,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-info}
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
+> Ten **siempre** un fork actualizado antes de crear el pull request. Esto facilitará falsos positivos de `DeepScan`. 
 > 
 > {.is-warning}
 
@@ -253,7 +253,7 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `Revisiones`
 
 A few things you should know after opening a pull request:
 
@@ -271,13 +271,13 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Additional Rules`
+## `Reglas adicionales`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Contributions
+# Contribuidores
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
