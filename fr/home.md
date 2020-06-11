@@ -2,11 +2,12 @@
 title: Accueil
 description: Document officiel pour la v2
 published: vrai
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: La documentation est en cours de modification ! Certaines pages peuvent être incomplètes ou manquantes. 
+> The documentation is still being edited! Certaines pages peuvent être incomplètes ou manquantes. 
 > 
 > {.is-warning}
 
