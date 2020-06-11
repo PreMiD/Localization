@@ -57,7 +57,7 @@ presence
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Presencias de sitios web que tienen contenido explícito **debed** tener la etiqueta `nsfw` y el logo y etiqueta **no** deben contener contenido explícito. 
 > 
 > {.is-warning}
 
@@ -118,11 +118,11 @@ Cada presencia tiene un archivo para describirla llamado `metadata.json`, el met
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Si un campo está estipulado como opcional en la [documentación](https://docs.premid.app/en/dev/presence/metadata) y tu presencia usa el valor por defecto para ella, no la incluyas en el archivo `metadata`. (por ejemplo, una presencia sin soporte para iframe no debe contener el campo `iframe`.) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Contenido alojado en el sitio web en sí ** no** está permitido, puesto que pueden cambiar su ubicación sin querer. 
+> Todas las imágenes en el archivo `metadata` deben estar guardadas en `i.imgur.com` o en un CDN el cual te de permiso para poder **editar** imágenes. Contenido alojado en el sitio web en sí ** no** está permitido, puesto que pueden cambiar su ubicación sin querer. 
 > 
 > {.is-warning}
 
