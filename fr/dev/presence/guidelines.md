@@ -2,8 +2,9 @@
 title: Lignes directrices
 description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
 published: vrai
-date: 2020-06-04T01:18:35.215Z
+date: 2020-06-11T18:43:52.440Z
 tags:
+editor: markdown
 ---
 
 # Lignes directrices
@@ -53,6 +54,10 @@ presence
 > {.is-info}
 
 > Il est fortement recommandé d'organiser votre fichier `metadata` dans le format indiqué ci-dessous, et vous devez avoir des noms de service grammaticalement corrects, descriptions, balises et champs de paramètres. Tout ce qui n'est pas organisé selon les spécifications **ne sera pas autorisé**. 
+> 
+> {.is-warning}
+
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
@@ -209,7 +214,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 > 
 > {.is-warning}
 
-## Modifications
+# Modifications
 
 > Vous **devez** changer la version dans la **métadonnée** pour que celle-ci soit une valeur plus élevée que la version précédente lorsque vous effectuez des modifications soit à **presence.ts**/**presence.js** ou **metadata.json**. 
 > 
@@ -255,7 +260,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Il faut 2 examinateurs pour fusionner un pull request.
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
-- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle_ Ceci s'applique à la fois pour la création et la modification.
+- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
 ## `Vérifications`
 
