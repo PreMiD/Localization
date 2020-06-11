@@ -2,8 +2,9 @@
 title: Presence Utveckling
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Alla närvaron lagras nu här: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Version `2.x` introducerar [närvarobutik](https://premid.app/store). Användare
 > 
 > {.is-warning}
 
-- [Riktlinjer](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Riktlinjer](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure
