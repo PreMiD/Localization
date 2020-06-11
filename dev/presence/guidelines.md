@@ -2,8 +2,9 @@
 title: Guidelines
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T01:18:35.215Z
+date: 2020-06-11T18:41:47.618Z
 tags: 
+editor: markdown
 ---
 
 # Guidelines
@@ -52,6 +53,9 @@ presence
 {.is-info}
 
 > It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+{.is-warning}
+
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content.
 {.is-warning}
 
 Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
