@@ -2,8 +2,9 @@
 title: Präsenz-Entwickler
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Alle Präsenzen werden jetzt hier gespeichert: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutze
 > 
 > {.is-warning}
 
-- [Richtlinien](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Richtlinien](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure
