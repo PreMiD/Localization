@@ -2,8 +2,9 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Wszystkie aktywności Presence przechowywane są tutaj: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkowni
 > 
 > {.is-warning}
 
-- [Wytyczne](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Wytyczne](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Struktura

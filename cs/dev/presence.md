@@ -2,8 +2,9 @@
 title: Vývoj přítomnosti
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Všechny přítomnosti jsou nyní uloženy zde: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživa
 > 
 > {.is-warning}
 
-- [Pokyny](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Pokyny](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure

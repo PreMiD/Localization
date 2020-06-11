@@ -2,11 +2,12 @@
 title: Domů
 description: Úřední dokumentace pro v2
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: Dokumentace je stále upravována! Některé stránky mohou být neúplné nebo chybí. 
+> The documentation is still being edited! Některé stránky mohou být neúplné nebo chybí. 
 > 
 > {.is-warning}
 

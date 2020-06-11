@@ -2,8 +2,9 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Semua presence disimpan disini: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna s
 > 
 > {.is-warning}
 
-- [Aturan](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Aturan](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Struktur

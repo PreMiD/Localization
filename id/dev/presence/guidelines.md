@@ -2,8 +2,9 @@
 title: Aturan
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-04T01:18:35.215Z
+date: 2020-06-11T18:43:52.440Z
 tags:
+editor: markdown
 ---
 
 # Aturan
@@ -53,6 +54,10 @@ presence
 > {.is-info}
 
 > It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> 
+> {.is-warning}
+
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
@@ -209,7 +214,7 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 > 
 > {.is-warning}
 
-## Perubahan
+# Perubahan
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
@@ -255,7 +260,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 - Dibutuhkan 2 reviewer untuk merge sebuah pull request.
 - Jika pull request tidak aktif selama 7 hari, pull request tersebut akan segera ditutup.
 - Semua pemeriksaan **harus** berhasil untuk merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
 ## `Pemeriksaan`
 

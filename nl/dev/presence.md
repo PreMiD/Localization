@@ -2,8 +2,9 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Alle presences worden hier bewaard: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebrui
 > 
 > {.is-warning}
 
-- [Richtlijnen](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Richtlijnen](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structuur

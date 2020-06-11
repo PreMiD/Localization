@@ -2,11 +2,12 @@
 title: Homepage
 description: Documentazione ufficiale per v2
 published: vero
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: La documentazione è ancora in fase di modifica! Alcune pagine potrebbero essere incomplete o mancanti. 
+> The documentation is still being edited! Alcune pagine potrebbero essere incomplete o mancanti. 
 > 
 > {.is-warning}
 

@@ -2,11 +2,12 @@
 title: Home
 description: Officiële documentatie voor v2
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: De documentatie wordt nog steeds bewerkt! Sommige pagina's kunnen onvolledig zijn of ontbreken. 
+> The documentation is still being edited! Sommige pagina's kunnen onvolledig zijn of ontbreken. 
 > 
 > {.is-warning}
 

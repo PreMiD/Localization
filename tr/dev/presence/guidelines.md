@@ -2,8 +2,9 @@
 title: Yönergeler
 description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
 published: true
-date: 2020-06-04T01:18:35.215Z
+date: 2020-06-11T18:43:52.440Z
 tags:
+editor: markdown
 ---
 
 # Yönergeler
@@ -53,6 +54,10 @@ presence
 > {.is-info}
 
 > `metadata` dosyanızı burada gösterildiği şekilde organize etmeniz şiddetle tavsiye edilir. Bu dosyadaki servis isimleri, açıklamalar, etiketler ve ayarlar yazım kurallarına uygun olarak yazılmalıdır. Düzgün bir şekilde biçimlendirmemiş hiçbir şey kabul edilmeyecektir. 
+> 
+> {.is-warning}
+
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
@@ -211,7 +216,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 > 
 > {.is-warning}
 
-## Yapılandırma
+# Yapılandırma
 
 > **presence.ts**, **iframe.ts**  veya **metadata.json** dosyalarından herhangi birine değişiklik yaparken, **metadata** dosyanızda belirtilen sürüm numarasını, daha üst bir sayıya güncellemelisiniz. 
 > 
@@ -257,7 +262,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 - Pull request'inizin birleştirilmesi, ekipten 2 kişinin onayıyla gerçekleşir.
 - Eğer bir pull request, 7 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
 - Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
-- ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz.
+- ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
 ## `Kontroller`
 

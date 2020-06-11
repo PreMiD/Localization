@@ -2,11 +2,12 @@
 title: Hem
 description: Officiell dokumentation för v2
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: Dokumentationen redigeras fortfarande! Vissa sidor kan vara ofullständiga eller saknas. 
+> The documentation is still being edited! Vissa sidor kan vara ofullständiga eller saknas. 
 > 
 > {.is-warning}
 

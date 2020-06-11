@@ -2,11 +2,12 @@
 title: Početna stranica
 description: Zvanična dokumentacija za v2
 published: tačno
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: Dokumentacija se i dalje uređuje! Neke stranice mogu biti nedovršene ili nedostaju. 
+> The documentation is still being edited! Neke stranice mogu biti nedovršene ili nedostaju. 
 > 
 > {.is-warning}
 

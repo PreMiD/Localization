@@ -2,11 +2,12 @@
 title: หน้าหลัก
 description: เอกสารอย่างเป็นทางการรุ่น v2
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: เอกสารอยู่ในระหว่างการแปล บางหน้าอาจยังไม่สมบูรณ์หรือมีข้อมูลหายไป 
+> The documentation is still being edited! บางหน้าอาจยังไม่สมบูรณ์หรือมีข้อมูลหายไป 
 > 
 > {.is-warning}
 

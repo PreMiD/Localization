@@ -2,8 +2,9 @@
 title: プレゼンスの開発
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > すべてのプレゼンスはここに保管されています。 https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 > 
 > {.is-warning}
 
-- [ガイドライン](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [ガイドライン](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure

@@ -2,11 +2,12 @@
 title: Startseite
 description: Offizielle Dokumentation für v2
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: Die Dokumentation wird noch bearbeitet! Einige Seiten sind möglicherweise unvollständig oder fehlen. 
+> The documentation is still being edited! Einige Seiten sind möglicherweise unvollständig oder fehlen. 
 > 
 > {.is-warning}
 

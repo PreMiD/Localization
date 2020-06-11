@@ -2,11 +2,12 @@
 title: Inicio
 description: Documentación oficial para v2
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: ¡Esta documentación aún está siendo editada! Algunas páginas pueden estar incompletas o no disponibles. 
+> The documentation is still being edited! Algunas páginas pueden estar incompletas o no disponibles. 
 > 
 > {.is-warning}
 

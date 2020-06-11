@@ -2,11 +2,12 @@
 title: 首頁
 description: 官方文件
 published: 是
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: 此文檔還在編輯狀態中。 某些頁面可能未完成或缺失 
+> The documentation is still being edited! 某些頁面可能未完成或缺失 
 > 
 > {.is-warning}
 
