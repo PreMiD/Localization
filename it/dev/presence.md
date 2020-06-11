@@ -2,8 +2,9 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Tutte le presenze sono ora memorizzate qui: https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). 
 > 
 > {.is-warning}
 
-- [Linee guida](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Linee guida](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Struttura
