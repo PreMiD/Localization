@@ -2,7 +2,7 @@
 title: Guidelines
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-11T18:42:43.901Z
+date: 2020-06-11T18:43:52.440Z
 tags: 
 editor: markdown
 ---
@@ -249,7 +249,7 @@ A few things you should know after opening a pull request:
 - It takes 2 reviewers to merge a pull request.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
 ## `Checks`
 
