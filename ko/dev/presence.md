@@ -2,8 +2,9 @@
 title: Presence 개발
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > 모든 Presence들은 이곳에 저장되어 있습니다. https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ tags:
 > 
 > {.is-warning}
 
-- [지침](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [지침](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure
