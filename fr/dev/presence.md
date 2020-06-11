@@ -2,8 +2,9 @@
 title: Développement de la presence
 description:
 published: vrai
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Toutes les presences sont maintenant stockées ici : https://github.com/PreMiD/Presences 
@@ -16,7 +17,7 @@ La version `2.x` introduit le [magasin de presence](https://premid.app/store). L
 > 
 > {.is-warning}
 
-- [Lignes directrices](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Lignes directrices](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure
