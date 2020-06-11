@@ -2,7 +2,7 @@
 title: Guidelines
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-06-11T18:41:47.618Z
+date: 2020-06-11T18:42:43.901Z
 tags: 
 editor: markdown
 ---
@@ -207,7 +207,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 > Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig).
 {.is-warning}
 
-## Modification
+# Modification
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
 {.is-warning}
