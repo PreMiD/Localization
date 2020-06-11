@@ -57,7 +57,7 @@ presence
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Les presences de sites web ayant du contenu explicite **doit** avoir le tag `nsfw`, et le logo/vignette **ne doit pas** contenir ce genre de contenu. 
 > 
 > {.is-warning}
 
@@ -260,7 +260,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Il faut 2 examinateurs pour fusionner un pull request.
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
-- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle_ Ceci s'applique à la fois pour la création et la modification.
 
 ## `Vérifications`
 
