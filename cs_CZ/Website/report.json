@@ -1,1 +1,18 @@
-{}
+{
+	"report.success": {
+		"message": "Chyba odeslána",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Další požadované informace",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord účet musí být ověřen",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktivní chyby",
+		"description": "Lists users active bugs"
+	}
+}
