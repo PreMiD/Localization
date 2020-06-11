@@ -2,8 +2,9 @@
 title: Directrices
 description: Reglas que todos los desarrolladores de Presencias deben seguir para que su Presencia sea añadida.
 published: verdadero
-date: 2020-06-04T01:18:35.215Z
+date: 2020-06-11T18:43:52.440Z
 tags:
+editor: markdown
 ---
 
 # Directrices
@@ -53,6 +54,10 @@ presence
 > {.is-info}
 
 > Es altamente recomendado que organices tu archivo `metadata` en el formato mostrado abajo, y debes tener nombres de servicio, descripciones, etiquetas y campos de ajustes gramaticalmente correctos. Cualquier cosa que no este organizada según las especificaciones, **no** será permitida. 
+> 
+> {.is-warning}
+
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
@@ -209,7 +214,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 > 
 > {.is-warning}
 
-## Modification
+# Modification
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
@@ -222,7 +227,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
 - Asegúrese de que las modificaciones son útiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verificación
+# Verification
 
 > Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. All verifiers will have the `Presence Verifier` role on their profile. 
 > 
@@ -255,7 +260,7 @@ A few things you should know after opening a pull request:
 - It takes 2 reviewers to merge a pull request.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
 ## `Checks`
 
