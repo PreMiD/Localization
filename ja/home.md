@@ -2,11 +2,12 @@
 title: ホーム
 description: v2の公式ドキュメント
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: このドキュメントはまだ編集中です！ いくつかのページは完成していません。 
+> The documentation is still being edited! いくつかのページは完成していません。 
 > 
 > {.is-warning}
 
