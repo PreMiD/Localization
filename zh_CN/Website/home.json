@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "我们的功能",
+		"message": "功能",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
@@ -40,7 +40,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "我们的拥有超过 **510** 个 Presence 供你挑选，大部分来自我们的用户开发，您也可以参与其中！",
+		"message": "我们拥有超过 510 个 Presence 供你挑选，大部分来自我们的用户开发，您也可以参与其中！",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
