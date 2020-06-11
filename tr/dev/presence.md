@@ -2,8 +2,9 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-06-04T04:38:18.022Z
+date: 2020-06-11T18:39:51.561Z
 tags:
+editor: markdown
 ---
 
 > Tüm servisler artık [https://github.com/PreMiD/Presences](https://github.com/PreMiD/Presences) adresinde saklanmaktadır. 
@@ -16,7 +17,7 @@ tags:
 > 
 > {.is-warning}
 
-- [Yönergeler](https://docs.premid.app/e/en/dev/presence/guidelines)
+- [Yönergeler](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Yapı
