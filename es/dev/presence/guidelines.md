@@ -194,7 +194,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> El código que escribas **debe** estar _bien escrito_ y **debe** ser _entendible_ y todas las palabras deben ser gramaticalemente correctas (errores gramaticales de páginas wen pueden ser ignoradas). 
 > 
 > {.is-warning}
 
@@ -210,13 +210,13 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **No** escribas tu propio `tsconfig.json`, usa el proporcionado en la [documentación](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
-# Modification
+# Modificación
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> **Debes** cambiar la versión en **metadata.json** a un valor mayor de la versión anterior cuando hagas cambios en los archivos **presence.ts**, **iframe.ts** o**metadata.json**. 
 > 
 > {.is-warning}
 
@@ -227,13 +227,13 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
 - Asegúrese de que las modificaciones son útiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Verificación
 
-> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. All verifiers will have the `Presence Verifier` role on their profile. 
+> Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. Todos los verificadores tienen el rol `Presence Verifier` en su perfil. 
 > 
 > {.is-info}
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> **Todo** código contribuido será bajo la licencia `Mozilla Public License 2.0`. 
 > 
 > {.is-info}
 
