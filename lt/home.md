@@ -2,11 +2,12 @@
 title: Pagrindinis
 description: Oficiali dokumentacija
 published: true
-date: 2020-02-24T12:26:14.934Z
+date: 2020-06-11T18:38:43.041Z
 tags:
+editor: markdown
 ---
 
-> :warning: Dokumentacija yra visdar ruošiama! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
+> The documentation is still being edited! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
 > 
 > {.is-warning}
 
