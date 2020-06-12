@@ -87,6 +87,10 @@
         "message": "Gleda prevode videa:",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "Gleda svoje",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
         "message": "analitiku kanala",
         "description": "Part two of \"Viewing their\""
