@@ -13,35 +13,35 @@ editor: markdown
 
 Verzija `2.x` sada uvodi [presence prodavnicu](https://premid.app/store). Korisnici sada imaju mogućnost da ručno dodaju i sklone njihove omiljene presence-e kroz user interfejs [vebsajta](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Pre nego što počnete, preporučujemo da pogledate smernice za presence-e. 
 > 
 > {.is-warning}
 
 - [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Struktura
+Svi presence-i su kodirani u [TypeScript-u](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ima neke extra definicije tipova preko JavaScript-a, tako da popravljanje i identifikovanje bugova je bilo puno lakše.
 
 ## Instalacija
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Install [Typescript](https://www.typescriptlang.org/index.html#download-links) (otvori terminal i `npm install -g typescript`).
 
 ## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Otvorite terminal i napišite `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
-3. Open it in you code editor.
+3. Otvorite ga u svom editoru koda.
 
-## Creating folders and files
+## Pravljenje foldera i fajlova
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Napravi folder sa **imenom** (ne URL) servisa koji želite da podržite.
+2. Napravite `presence.ts` i `tsconfig.json` fajlove unutra.
+3. Napravite folder nazvan `dist` unutra.
+4. Napravite `metadata.json` fajl unutar `dist` foldera.
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## Popunjavanje tsconfig.json fajla
+Molimo vas da stavite sledeći kod unutar `tsconfig.json` fajla.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -50,7 +50,7 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Da naučite više o TypeScript konfiguracijama kliknite [ovde](/dev/presence/tsconfig).
 
 ## Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
