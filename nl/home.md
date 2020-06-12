@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Sommige pagina's kunnen onvolledig zijn of ontbreken. 
+> De documentatie wordt nog steeds bewerkt! Sommige pagina's kunnen onvolledig zijn of ontbreken. 
 > 
 > {.is-warning}
 
