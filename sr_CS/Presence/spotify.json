@@ -1,1 +1,38 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Izabrane pesme",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Najbolji podkast",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Gleda grafikone",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Pretražuje žanrove",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Gleda najnovija izdanja",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Otkriva nove pesme",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Pretražuje kroz",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podkastove koje vole",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artiste koje vole",
+		"description": "\"Browsing through\" + this"
+	}
+}
