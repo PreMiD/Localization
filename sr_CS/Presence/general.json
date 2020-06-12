@@ -114,5 +114,109 @@
 	"general.store": {
 		"message": "Prodavnica",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Piše u DM-ovima za:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Piše u kanalu:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Gleda anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Gleda kategoriju:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Gleda kanal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Gleda epitodu:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Gleda žanr:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Gleda glavnu stranu",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Gleda listu:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Gleda mangu:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Gleda film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Gleda plejlistu:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Gleda proizvod:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Gleda profil od:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Gleda serijal:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Gleda šou:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Gleda sopstveni profil",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Gleda skup:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Gleda korisnika:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Gleda:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Gleda video",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Gleda uživo prikaz",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Gleda:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Lista želja:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Principi zaštite ličnih podataka",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Uslovi korišćenja",
+		"description": "A page name"
 	}
 }
