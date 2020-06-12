@@ -6,7 +6,7 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Alternar o auto-launch no Linux está agora disponível a partir do aplicativo em vez da extensão.{.is-warning}
+> Alternar o auto-launch no Linux está agora disponível a partir do aplicativo em vez da extensão.
 
 A instalação do aplicativo é muito importante, já que a extensão não pode fazer nada por si só.
 
@@ -22,12 +22,12 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
   - [Créditos](#credits)
   - [Licença](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+- **[Portable AppImage](#portable-appimage)** (_RECOMENDADO_)
   - [Instruções de instalação](#installation-instructions)
   - [Notas adicionais](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+- **Distribuições baseadas em Red Hat Enterprise Linux (RHEL)** (em breve, use [isto](#portable-appimage) por enquanto)
+- **Distribuições baseadas em Red Hat Enterprise Linux (RHEL)** (em breve, use [isto](#portable-appimage) por enquanto)
+- **[Arch Linux baseadas em distribuições Linux](#arch-linux-based-distributions)**
   - [Instruções de instalação](#installation-instructions-1)
   - [Notas adicionais](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
@@ -38,7 +38,7 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 ## Sobre
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** um simples, utilitário configurável que usa a biblioteca RP (Rich Presence) do Discord, que permite que você mostre o que está fazendo na web (e alguns programas) no seu perfil do Discord como **status de jogo**.
 
 <a name="stats"></a>
 
@@ -46,14 +46,14 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Implementação</th>
+    <th>Total de downloads</th>
+    <th>Última versão</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Todas as versões"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Última versão"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Versões do Github"></a></td>
   </tr>
 </table>
 
@@ -102,7 +102,7 @@ Agradecimentos para :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Provavelmente nunca, já que a natureza do Snap's bloqueia o PreMiD de se Conectar ao Discord e à extensão corretamente, Seria apreciado se alguém pudesse fazer isso, quaisquer idéias ou PRs são bem-vindas. Obs: Confinamento clássico não funciona, então não se preocupe em fazer uma sugestão sobre isso.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
@@ -133,39 +133,39 @@ Se você quer experimentar o PreMiD ou simplesmente não quer instalá-lo, este 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arch Linux baseadas em distribuições Linux
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Usando o [repositório do usuário Arch](https://aur.archlinux.org/packages/premid);</br> Distribuições suportadas são _em si_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS e [todos que suportam a instalação por AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Instruções de instalação
 
 ```bash
-# Using yay (recommended)
+# Usando yay (recomendado)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Usando o pagkku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Usando trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Usando pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... você entende o ponto
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+ou manualmente do [Repositório de Usuários Arch](https://aur.archlinux.org/packages/premid) se você for um usuário experiente.
 
 <a name="archnotes"></a>
 
@@ -188,7 +188,7 @@ Outros AUR/Pacman helpers também funcionam bem, embora a funcionalidade de cada
 
 ## Gentoo Linux
 
-O mesmo se aplica a seus derivados, como ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+O mesmo se aplica a seus derivados, como ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc...](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
