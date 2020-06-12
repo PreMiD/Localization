@@ -34,5 +34,25 @@
 	"spotify.artistsLike": {
 		"message": "artiste koje vole",
 		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albume koje vole",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "pesme koje vole",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Napravljeno za vas\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "njihove plejliste",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Preuzima Spotify",
+		"description": ""
 	}
 }
