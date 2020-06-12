@@ -1,1 +1,42 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Čita tvit:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Gleda tvitove od:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Gleda tvitove (sa odgovorima) od:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Gleda mediju od:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Gleda lajkove:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Gleda listu:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Obeleživač",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Obaveštenja",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Istraži",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Menja neka podesavanja...",
+        "description": ""
+    }
+}

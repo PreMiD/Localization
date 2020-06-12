@@ -46,5 +46,65 @@
     "youtube.purchases": {
         "message": "njihove kupovine",
         "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Gleda njihovu istoriju izveštaja",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Gleda sve njihove plejliste",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Gleda njihove uživo događaje",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Gleda svoju kontrolnu tablu za uživo prenos",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Pregleda audio biblioteku",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Gleda svoje video snimke",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Edituje video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Gleda analitiku videa:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Gleda komentare videa:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Gleda prevode videa:",
+        "description": ""
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "analitiku kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentare kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "prevode kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "stranu artiste",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Gleda svoju kontrolnu tablu",
+        "description": ""
     }
 }
