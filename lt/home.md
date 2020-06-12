@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
+> Dokumentacija yra visdar ruošiama! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
 > 
 > {.is-warning}
 
