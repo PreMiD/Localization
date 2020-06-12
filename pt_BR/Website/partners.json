@@ -119,6 +119,10 @@
 		"message": "Pegue o que é seu por direito. Transmitir anime, filmes, Hentai, Specials e muito mais. Grátis, sem anúncios e em alta definição!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Comece a criar sua própria comunidade com nossos incríveis modelos. Construa o seu próprio reino.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Uma ferramenta de criação de instaladores de plataforma cruzada poderosa e fácil de usar.",
 		"description": "Description for BitRock."
