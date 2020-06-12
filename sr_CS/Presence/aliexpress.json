@@ -1,1 +1,46 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Gleda prodavnicu:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Cеntar za porukе",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.orders": {
+        "message": "Gleda svoje porudžbine",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Gleda svoje",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "povraćaje novca i sporove",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "obirsane porudžbine",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Tržni Centar",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Gleda svoje kupone",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Gleda svoje adrese",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Centar Za Pomoć",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Prodajni Centar",
+        "description": ""
+    }
+}
