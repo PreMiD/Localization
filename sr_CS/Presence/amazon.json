@@ -1,1 +1,18 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Gleda preplate",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Gleda svoje preference reklama",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Gleda svoj balans",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Gleda metode plaćanja",
+        "description": ""
+    }
+}
