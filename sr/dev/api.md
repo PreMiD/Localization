@@ -8,27 +8,27 @@ tags:
 
 # API
 
-> Base URL: https://api.premid.app 
+> Početni URL: https://api.premid.app 
 > 
 > {.is-info}
 
-## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+## API Verzije
+> API v1 je prekinuta, bilo koji zahtev treba da se prenese na trenutno aktivnu verziju 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD izlaže različite verzije našeg API-a. Možete da izaberete verziju tako što je uključujete u path-u kao `https://api.premid.app/v{version_number}`. Izostavljanje broja verzije iz rute će da prenese zahtev na trenutnu podrazumevanu verziju (dole označenu).
 
-## Encryption
+## Enkripcija
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Svi HTTP servisi i protokoli (npr. http) u PreMiD API-u koriste TLS 1.2.
 
 # Dokumentacija
-> Currently under construction! 
+> Trenutno u izradi! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v2 *active*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+**Izaberite verziju API-a:**
+- [v2 *aktivna*](/dev/api/v2)
+- [v3 *u izradi*](/dev/api/v3)
 {.links-list}
