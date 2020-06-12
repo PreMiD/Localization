@@ -58,5 +58,9 @@
     "premid.pageTroubleshooting": {
         "message": "Rešavanje problema",
         "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
     }
 }
