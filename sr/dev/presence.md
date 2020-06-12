@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Pravljenje Presence-a
 description:
 published: true
 date: 2020-06-11T18:39:51.561Z
@@ -7,11 +7,11 @@ tags:
 editor: markdown
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Svi presence-i su sada sačuvani ovde: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Verzija `2.x` sada uvodi [presence prodavnicu](https://premid.app/store). Korisnici sada imaju mogućnost da ručno dodaju i sklone njihove omiljene presence-e kroz user interfejs [vebsajta](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
