@@ -170,7 +170,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`color`**
 
-- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
+- De kleur **moet** een hexadecimale waarde zijn tussen `#000000` en `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
 ### **`tags`**
@@ -186,7 +186,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Regelmatige expressies **moeten** geldig zijn. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`settings`**
 
@@ -255,7 +255,7 @@ The most important process of presence development is getting your presence on t
 
 ## `Beoordelen`
 
-A few things you should know after opening a pull request:
+Enkele dingen die je moet weten voordat je een pull request opent:
 
 - Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
