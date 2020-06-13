@@ -229,7 +229,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 # Verification
 
-> Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. All verifiers will have the `Presence Verifier` role on their profile. 
+> Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. Wszyscy weryfikatorzy będą mieli rolę `Presence Verifier`. 
 > 
 > {.is-info}
 
