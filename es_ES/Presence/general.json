@@ -84,7 +84,7 @@
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "Leyendo publicación:",
+		"message": "Leyendo post:",
 		"description": ""
 	},
 	"general.readingThread": {
@@ -164,7 +164,7 @@
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Viendo lista de reprodución:",
+		"message": "Viendo lista de reproducción:",
 		"description": ""
 	},
 	"general.viewProduct": {
