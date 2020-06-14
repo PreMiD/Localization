@@ -63,6 +63,10 @@
 		"message": "パートナーになりましょう！",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.sponsors.title": {
+		"message": "スポンサー",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。",
 		"description": "Description for sponsors."
@@ -94,6 +98,22 @@
 	"partners.partner.crowdin": {
 		"message": "企業のための翻訳加速装置。",
 		"description": "Description for Crowdin."
+	},
+	"partners.apply.title": {
+		"message": "パートナーに応募する",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} としてログインしています",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "あなたではありませんか？",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "選択してください",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.other": {
 		"message": "その他",
