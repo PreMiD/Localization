@@ -420,10 +420,10 @@ presence.on("UpdateData", async () =&gt; {
 <pre><code class="javascript">var iframe = new iFrame();
 iframe.on("UpdateData", async () =&gt; {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Obtenga todos los datos que necesita del iframe y guárdelos en variables
+   y luego envíalo usando iframe.send
   */
-  iframe.send({ //sending data
+  iframe.send({ //Enviando datos
     video: video,
     time: video.duration
   }); 
