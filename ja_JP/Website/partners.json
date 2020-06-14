@@ -115,6 +115,10 @@
 		"message": "選択してください",
 		"description": "Select default placeholder."
 	},
+	"partners.apply.select.website": {
+		"message": "Webサイト",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "その他",
 		"description": "Select 'Other' category."
@@ -122,5 +126,37 @@
 	"partners.apply.form.name": {
 		"message": "名前",
 		"description": "Name filed."
+	},
+	"partners.apply.form.link": {
+		"message": "リンク",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "例: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.button.close": {
+		"message": "閉じる",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "適用",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "すべての項目を入力してください。",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "150 文字まで概要を入力できます。",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "リンクを追加してください (https:// で始まっていて、 .png で終わっている必要があります。）",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "あなたは既にパートナーに応募しています。",
+		"description": "Error when already applied."
 	}
 }
