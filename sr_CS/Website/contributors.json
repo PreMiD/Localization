@@ -14,5 +14,9 @@
 	"contributors.roles.projectManager": {
 		"message": "Menadžer projekta",
 		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Presence Verifikator",
+		"description": "'Presence Verifier' title for contributors and user pages."
 	}
 }
