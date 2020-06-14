@@ -1,1 +1,38 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Presence Developer",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence Verifikator",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Važan Presnece Developer",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Napravio {0} presence-a.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Genijalan Presence Developer",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Napravio preko 100 Presence-a!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Korisnik [Presence-i/doprinosi]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Kliknite ovde da vidite Presence-e koje je ovaj korisnik napravio.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Kliknite ovde da vidite presence-e na koje je ovaj korisnik doprineo.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}
