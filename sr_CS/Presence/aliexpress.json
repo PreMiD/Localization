@@ -7,6 +7,22 @@
         "message": "Cеntar za porukе",
         "description": "Meaning Direct messages"
     },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Gleda svoje nedavno",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "pregledane proizvode",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Gleda svoj AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpres Povratne Informacije",
+        "description": ""
+    },
     "aliexpress.orders": {
         "message": "Gleda svoje porudžbine",
         "description": ""
