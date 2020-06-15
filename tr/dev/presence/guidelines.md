@@ -57,7 +57,7 @@ presence
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Çıplaklık içeren sitelerin servisleri **mutlaka** `nsfw` tagı içermelidir, ayrıca logo/kapak fotoğrafları bu içerikleri kesinlikle **barındırmamalıdır**. 
 > 
 > {.is-warning}
 
@@ -262,7 +262,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 - Pull request'inizin birleştirilmesi, ekipten 2 kişinin onayıyla gerçekleşir.
 - Eğer bir pull request, 7 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
 - Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
-- ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz_. Bu izin, hem servisi oluştururken, hem de servisi güncellerken kullanılabilir.
 
 ## `Kontroller`
 
