@@ -11,6 +11,10 @@
 		"message": "Hata bildirimleri sadece PreMiD sitesi ve PreMiD Discord sunucusu içerisindeki hataları kapsamaktadır. Servis hataları için servisin yapımcısına ulaşmanız gerekmektedir. Hata bildirimleri sadece İngilizce olmalıdır.",
 		"description": "Tells the user about submitting a bug"
 	},
+	"report.overview": {
+		"message": "Hatanın ne olduğuna dair açık ve özlü bir açıklama belirtiniz.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "İşletim sisteminizi ve sürümünü seçin",
 		"description": "Select Box for the user to select their operating system"
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Tarayıcınızı ve Sürümünüzü Seçin. Firefox'da about:support, Chrome'da ise chrome://help sayfalarından sürümünüzü öğrenebilirsiniz.",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Hatanın canlı bir örneğine dair bir bağlantı sağlayınız veya hatanın nasıl tekrar üretilebileceğine dair kesin ve açık bir şekilde yazılmış adımlar yazınız.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Bildir",
