@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-06-11T18:39:51.561Z
+date: 2020-06-21T15:39:51.864Z
 tags:
 editor: markdown
 ---
