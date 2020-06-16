@@ -123,6 +123,10 @@
 		"message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.statusBot": {
+		"message": "Web sitelerini, oyunları izlemenizi ve daha birçok özellik sunmanızı sağlayan güçlü bir bot.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
 		"description": "Description for BitRock."
