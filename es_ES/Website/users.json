@@ -16,7 +16,7 @@
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Desarrollador de presencias inteligente",
+		"message": "Desarrollador de Presencias único",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
@@ -24,11 +24,11 @@
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "[Presencias/Contribuciones] del usuario",
+		"message": "Usuario [Presences/contributions]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Clic aquí para mostrar las presencias que ha creado este usuario.",
+		"message": "Click aquí para mostrar las presencias que ha creado este usuario.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
