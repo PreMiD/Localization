@@ -1,6 +1,6 @@
 ---
 title: ガイドライン
-description: Rules all presence developers must follow to have their presence added.
+description: プレゼンスを公開するために必要なルール
 published: true
 date: 2020-06-11T18:43:52.440Z
 tags:
@@ -9,7 +9,7 @@ editor: markdown
 
 # ガイドライン
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+GitHubにプレゼンスをPublishする場合は、このガイドラインに従う必要があります。 To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # 作成
 
