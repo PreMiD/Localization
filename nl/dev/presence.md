@@ -13,7 +13,7 @@ editor: markdown
 
 Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
-> Voordat u aan de slag gaat, is het zeer aan te raden om onze aanwezigheidsrichtlijnen te bekijken. 
+> Voordat u aan de slag gaat, is het zeer aan te raden om onze presence richtlijnen te bekijken. 
 > 
 > {.is-warning}
 
@@ -68,23 +68,23 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
   }],
   "service": "SERVICE",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "BESCHRIJVING"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "DISPLAY TITEL",
+            "icon": "FONTAWESOME GRATIS ICOON",
             "value": true
         },
         {
@@ -92,15 +92,15 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "DISPLAY TITEL",
+            "icon": "FONTAWESOME GRATIS ICOON",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "DISPLAY TITEL",
+            "icon": "FONTAWESOME GRATIS ICOON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
