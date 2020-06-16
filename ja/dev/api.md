@@ -30,5 +30,5 @@ PreMiD内のすべてのHTTPレイヤーのサービスやプロトコル (例: 
 
 **APIのバージョンを選んでください:**
 - [v2 *推奨*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *作成中…*](/dev/api/v3)
 {.links-list}
