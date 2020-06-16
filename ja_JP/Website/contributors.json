@@ -32,7 +32,7 @@
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "Linux メンテナー",
+		"message": "Linuxメンテナー",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
