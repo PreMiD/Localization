@@ -85,11 +85,11 @@ It is unknown whether older versions of other distributions support it, so just 
 
 クレジット:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (それとちょっとの名前を忘れてしまった人)　フィードバックを提供してくれました。
+- @apriluwu Gentoo buildを維持してくれてます。
+- @SlimShadyIAm, naka　ArchユーザーのResipotoryのパッケージをメンテナンスしてました。
+- Erectron community　パッケージを作るのに協力してくれました。
+- あとプロジェクトに関わってくれた人全員。
 
 <a name="license"></a>
 
