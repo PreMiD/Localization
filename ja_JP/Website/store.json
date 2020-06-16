@@ -3,6 +3,14 @@
 		"message": "作者",
 		"description": "Creator of a presence"
 	},
+	"store.header.search": {
+		"message": "プレゼンスを探す",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "プレゼンスを追加する",
+		"description": "Button that will appear on hover after extension is installed."
+	},
 	"store.category.heading": {
 		"message": "カテゴリー",
 		"description": "Category heading"
