@@ -85,10 +85,10 @@ It is unknown whether older versions of other distributions support it, so just 
 
 クレジット:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (それとちょっとの名前を忘れてしまった人)　フィードバックを提供してくれました。
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (それとちょっとの名前を忘れてしまった人) /フィードバックを提供してくれました。
 - @apriluwu /Gentoo buildを維持してくれてます。
 - @SlimShadyIAm, naka /ArchユーザーのResipotoryのパッケージをメンテナンスしてました。
-- Erectron community　パッケージを作るのに協力してくれました。
+- Erectron community /パッケージを作るのに協力してくれました。
 - あとプロジェクトに関わってくれた人全員。
 
 <a name="license"></a>
