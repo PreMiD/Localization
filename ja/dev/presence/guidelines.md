@@ -16,7 +16,7 @@ GitHubにプレゼンスをPublish(公開)する場合は、このガイドラ�
 プレゼンスのルールは以下のとおりです。
 
 - プレゼンスは選択されたサイトに関連付けされている必要があります。
-- プレゼンスは不当なウェブサイトの場合、公開することはできません。 (ブラウザクラッシャーや、違法薬物の取引サイト、児童ポルノが公開されているサイトなど)
+- プレゼンスは不当なサイトに対して公開することはできません。 (ブラウザクラッシャーや、違法薬物の取引サイト、児童ポルノが公開されているサイトなど)
 - ファイル構造はきれいに管理されている必要があります。指定されていないファイルは含めないでください。 (vscodeやgit folder、画像・テキストなど)
 - 確実なファイル構造が必要です。下書きやテストは公開するには適していません。
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
