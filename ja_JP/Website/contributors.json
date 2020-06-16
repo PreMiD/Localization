@@ -48,7 +48,7 @@
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Presenceのリーダー確認",
+		"message": "プレゼンステスターのリーダー",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
