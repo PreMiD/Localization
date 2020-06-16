@@ -135,6 +135,10 @@
 		"message": "例: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "例: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
 	"partners.apply.form.button.close": {
 		"message": "閉じる",
 		"description": "Modal close button."
