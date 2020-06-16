@@ -24,7 +24,7 @@
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Se verificado",
+		"message": "Sé verificado",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
@@ -40,7 +40,7 @@
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "Se inmortalizado",
+		"message": "Sé inmortalizado",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -104,7 +104,7 @@
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "UpBeat es una radio internacional sin ánimo de lucro que se esfuerza por proporcionar una radio sin fin, calidad y entretenimiento de noticias.",
+		"message": "UpBeat es una radio internacional sin ánimo de lucro que se esfuerza por proporcionar una radio sin fin de calidad y noticias.",
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.iLoot": {
@@ -122,6 +122,14 @@
 	"partners.partner.discordTemplates": {
 		"message": "Empieza a crear tu propia comunidad con nuestras impresionantes plantillas. Construye tu propio reino.",
 		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "¡Taiga es un Bot de Discord que procura ofrecer todas características que puedas necesitar a la vez!",
+		"description": "Description for Taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Un poderoso bot que permite monitorizar sitios web, juegos y muchas otras características.",
+		"description": "Description for Statusbot."
 	},
 	"partners.partner.bitRock": {
 		"message": "Una herramienta de creación de instaladores multiplataforma potente y fácil de usar.",
@@ -176,7 +184,7 @@
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
-		"message": "Ex: PreMiD",
+		"message": "Ej: PreMiD",
 		"description": "Name field's placeholder."
 	},
 	"partners.apply.form.link": {
