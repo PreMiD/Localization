@@ -8,7 +8,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Navegando a través de listas de reproducción",
+        "message": "Navegando a través de playlists",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Viendo todas sus listas de reproducción",
+        "message": "Viendo todas sus playlists",
         "description": ""
     },
     "youtube.viewLiveEvents": {
