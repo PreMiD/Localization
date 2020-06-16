@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! いくつかのページは完成していません。 
+> このドキュメントは編集中です。 いくつかのページは完成していません。 
 > 
 > {.is-warning}
 
