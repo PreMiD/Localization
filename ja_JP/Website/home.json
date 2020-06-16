@@ -3,6 +3,10 @@
 		"message": "**PreMiD**はブラウザ内で何をしているかをDiscordのゲームプレイステータスに表示できるようにするアプリです。",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "機能を見る",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "ダウンロードする",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -34,6 +38,14 @@
 	"home.features.presencesystem.description": {
 		"message": "この拡張機能は、自分や他の人が作ったプレゼンスを自由に追加できるようになっています！",
 		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "プレゼンスの管理",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "素早いサポート",
+		"description": "Features section subheading"
 	},
 	"home.languageSelector.tippy": {
 		"message": "ウェブサイトの言語設定",
