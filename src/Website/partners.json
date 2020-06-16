@@ -123,6 +123,14 @@
 		"message": "Start creating your own community with our awesome templates. Build your own kingdom.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.taigaBot": {
+		"message": "Taiga is a Discord Bot trying to offer all the features you may need at once!",
+		"description": "Description for Taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "A powerful bot that allows you to monitor websites, games, and presents many more features.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "A powerful and easy to use cross platform installer creation tool.",
 		"description": "Description for BitRock."
