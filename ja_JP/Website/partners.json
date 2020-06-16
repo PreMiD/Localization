@@ -156,7 +156,7 @@
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "リンクを追加してください (https:// で始まっていて、 .png で終わっている必要があります。）",
+		"message": "リンクを追加してください (https:// で始まり .png で終わる必要があります。)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
