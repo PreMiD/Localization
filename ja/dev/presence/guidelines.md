@@ -9,16 +9,16 @@ editor: markdown
 
 # ガイドライン
 
-GitHubにプレゼンスをPublishする場合は、このガイドラインに従う必要があります。 To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+GitHubにプレゼンスをPublish(公開)する場合は、このガイドラインに従う必要があります。 厳しいように見えるかもしれませんが、 このガイドラインは問題を回避するために作られています。
 
 # 作成
 
-The general rules of presence development are as follows:
+プレゼンスのルールは以下のとおりです。
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
+- プレゼンスは選択されたサイトに関連付けされている必要があります。
+- プレゼンスは不当なウェブサイトの場合、公開することはできません。 (ブラウザクラッシャーや、違法薬物の取引サイト、児童ポルノが公開されているサイトなど)
+- ファイル構造はきれいに管理されている必要があります。指定されていないファイルは含めないでください。 (vscodeやgit folder、画像・テキストなど)
+- 確実なファイル構造が必要です。下書きやテストは公開するには適していません。
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
@@ -138,7 +138,7 @@ A list of fields and their rules are listed below:
 
 ### **`contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- 自分を「contributor」（協力した人、貢献者）として追加しないでください。他の誰かと協力した場合のみ追加できます。
 
 ### **`service`**
 
