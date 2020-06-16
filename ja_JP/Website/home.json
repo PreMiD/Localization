@@ -39,8 +39,24 @@
 		"message": "この拡張機能は、自分や他の人が作ったプレゼンスを自由に追加できるようになっています！",
 		"description": "Features section description"
 	},
+	"home.features.presencesystem.button": {
+		"message": "ストアに行く",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "シンプルな見た目",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "アプリと拡張機能の設定",
+		"description": "Features section description point"
+	},
 	"home.features.simpleInterface.description.2": {
 		"message": "プレゼンスの管理",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "カテゴリーごとの並べ替え",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
