@@ -72,7 +72,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Sociales",
+		"message": "Social",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -80,7 +80,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "Otras",
+		"message": "Otros",
 		"description": "Category at the top"
 	},
 	"store.search": {
