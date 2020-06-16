@@ -32,7 +32,7 @@ let presence = new Presence({
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+プレゼンスが何を表示しているかの `presenceData` を返します。
 
 ### `setActivity(presenceData, Boolean)`
 
