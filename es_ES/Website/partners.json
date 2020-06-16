@@ -124,8 +124,8 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "¡Taiga es un Bot de Discord que procura ofrecer todas características que puedas necesitar a la vez!",
-		"description": "Description for Taigabot."
+		"message": "¡taiga es un Bot de Discord que procura ofrecer todas características que puedas necesitar a la vez!",
+		"description": "Description for taigabot."
 	},
 	"partners.partner.statusBot": {
 		"message": "Un poderoso bot que permite monitorizar sitios web, juegos y muchas otras características.",
