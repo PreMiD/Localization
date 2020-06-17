@@ -20,11 +20,11 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Postoje dvije osobine za klasu `Prisutnost`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Vlasništvo `clientId` mora vam biti omogućeno da vaše prisustvo radi, jer on koristi vaš Id aplikacije za prikaz logotipa i assets.
 
 You can get it on your [applications page](https://discordapp.com/developers/applications).
 
