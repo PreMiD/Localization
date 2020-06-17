@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Pregleda ploču:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Pregled pribadača",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Pregled njihovih sljedovanih",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Uređivanje njihove početne stranice",
+        "description": ""
+    }
+}
