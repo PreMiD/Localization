@@ -13,31 +13,33 @@ editor: markdown
 
 Verzija ` 2.x ` uvodi trgovinu [ prisutnosti ](https://premid.app/store). Korisnici sada mogu ručno dodavati i uklanjati svoje omiljene prezentacije putem korisničkog sučelja [ web stranice ](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Prije početka, visoko je preporučljivo da pogledate naše smjernice o prisutnosti. 
 > 
 > {.is-warning}
 
 - [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Strukture
+Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ TypeScript ](https://www.typescriptlang.org/) ima neke ekstra pikantne definicije tipa preko JavaScripta, pa je ispravljanje i identifikacija grešaka mnogo jednostavnija.
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Instalirajte [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (otvorite terminal i ` npm install -g typecript `).
 
 ## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in you code editor.
+1. Otvorite terminal i upišite ` git clone https://github.com/PreMiD/Presences </code. </li>
+<li>Choose a folder of your choice.</li>
+<li>Otvorite ga u uređivaču koda.</li>
+</ol>
 
-## Creating folders and files
+<h2 spaces-before="0">Pravljenje foldera i fajlova</h2>
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
+<ol start="1">
+<li>Napravite folder sa <strong x-id = "1"> ime </strong> (nije URL) usluge koju želite podržati.</li>
+<li>Kreirajte <code> presence.ts ` i datoteku ` tsconfig.json `.
+3. Kreirajte folder pod nazivom ` dist ` inside.
 4. Create a `metadata.json` file inside the `dist` folder.
 
 ## Filling in the tsconfig.json file
