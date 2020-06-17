@@ -6,13 +6,13 @@ date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
-# Presence Class
+# Klasa prisutnosti
 
-## Introduction
+## Uvod
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Klasa `Prisutnost` je vrlo korisna jer ima osnovne metode koje su nam potrebne za stvaranje prisutnosti.
 
- When you create a class you must specify `clientId` property.
+ Kada kreirate klasu morate navesti svojstvo `clientId`.
 
 ```typescript
 let presence = new Presence({
