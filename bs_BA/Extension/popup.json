@@ -63,12 +63,16 @@
 		"message": "Treba pomoći?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
+	"popup.credits.error.heading": {
+		"message": "Oh ne!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
 	"popup.credits.error.message": {
 		"message": "Greška prilikom učitavanja kredita",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
-		"message": "Nije povezan",
+		"message": "Nije povezano",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
@@ -104,7 +108,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Videa i Stimovi",
+		"message": "Videos & Strimovi",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
