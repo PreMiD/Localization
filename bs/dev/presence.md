@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Verzija ` 2.x ` uvodi trgovinu [ prisutnosti ](https://premid.app/store). Korisnici sada mogu ručno dodavati i uklanjati svoje omiljene prezentacije putem korisničkog sučelja [ web stranice ](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
