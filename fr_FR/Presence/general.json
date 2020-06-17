@@ -36,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "Écouter de la musique",
+		"message": "Écoute de la musique",
 		"description": ""
 	},
 	"general.listeners": {
@@ -64,7 +64,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "En train de jouer",
+		"message": "Joue à",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -116,11 +116,11 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Tapez vos MP à:",
+		"message": "Écris un message à:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "Taper dans le canal:",
+		"message": "Écrit dans le salon:",
 		"description": ""
 	},
 	"general.viewAnime": {
