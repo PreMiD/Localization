@@ -1,4 +1,12 @@
 {
+    "premid.viewPage": {
+        "message": "Stranica za pregled:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dokumenti",
+        "description": "as in documents"
+    },
     "premid.pageContributors": {
         "message": "Saradnici",
         "description": "A page name"
