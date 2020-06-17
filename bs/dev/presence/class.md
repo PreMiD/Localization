@@ -28,19 +28,19 @@ Vlasništvo `clientId` mora vam biti omogućeno da vaše prisustvo radi, jer on 
 
 You can get it on your [applications page](https://discordapp.com/developers/applications).
 
-## Methods
+## Metode
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Vraća objekt `presenceData` onoga što presence prikazuje.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Postavlja vašu aktivnost na profilu u skladu s dobivenim podacima.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Prvi parametar zahtijeva interfejs `presenceData` da biste dobili sve informacije koje želite prikazati na svom profilu.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Drugi parametar definira kada prisutnost nešto svira ili ne. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
