@@ -10,13 +10,13 @@ tags:
 
 ## Perkenalan
 
-Ketika anda telah mendownload dan mengunpack ruang kerja, anda akan melihat file bernama `tsconfig.js` pada root dan folder presence, file ini digunakan untuk mengatur compiler **TypeScript**. It is already configured for you, so don't worry about that.
+Ketika anda telah mendownload dan mengunpack ruang kerja, anda akan melihat file bernama `tsconfig.js` pada root dan folder presence, file ini digunakan untuk mengatur compiler **TypeScript**. Itu sudah terkonfigurasi untuk anda, jadi tidak perlu khawatir.
 
-We just want to describe some settings that you should know.
+Kami hanya ingin menjelaskan beberapa pengaturan yang harus anda ketahui.
 
-## Root Configuration
+## Konfigurasi Root
 
-In the root configuration file you will see something like this.
+Pada file konfigurasi root anda akan melihat hal seperti ini.
 
 ```javascript
 {
