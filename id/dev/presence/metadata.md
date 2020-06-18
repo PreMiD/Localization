@@ -223,9 +223,9 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
 
 ## Regular Expressions
 
-If you want to learn regular expressions, here are a few websites.
+Jika anda ingin mempelajari regular expression, berikut beberapa website.
 
-#### Learning
+#### Mempelajari
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
@@ -233,36 +233,36 @@ If you want to learn regular expressions, here are a few websites.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Bahasa Presence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD merupakan layanan polygot, artinya terdapat banyak bahasa yang terlibat untuk menghubungkan pengguna diseluruh dunia. Daftar penuh bahasa dapat dilihat dengan [API endpoint](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Pengaturan presence
+Buat pengaturan interaktif agar pengguna dapat mengatur presencenya!
 ```javascript
 "settings": [
         { 
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-            "value": true //Boolean value will make it an on/off switch with the value as the default value
+            "value": true //value Boolean akan membuatnya sebagai switch on/off dengan value sebagai default value
         },
         {
             "id": "ID",
             "if": {
-                "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+                "ID": true //Jika ada aturan yang setara dengan value ini (true/false/0/1/etc.) maka tampilkan tombol ini
             },
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-            "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+            "value": "\"%song%\" by %artist%", //Menempatkan pada string akan membuat aturan menjadi satu, dimana anda dapat menggunakan input custom.
+            "placeholder": "use %song% or %artist%" //Ketika input kosong ini akan tampil berwarna abu-abu
         },
         {
             "id": "ID",
             "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": 0, //Default value of the selector
-            "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+            "values": ["1", "2", "etc."] //Akan membuat pengaturan sebagai pemilih dimana anda memilih mana yang anda inginkan
         }
     ]
 ```
