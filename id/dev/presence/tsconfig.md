@@ -1,16 +1,16 @@
 ---
 title: Untitled Page
-description: A little helper for TypeScript
+description: Bantuan kecil untuk TypeScript
 published: true
 date: 2020-05-09T14:32:40.832Z
 tags:
 ---
 
-# TypeScript Configuration
+# Konfigurasi TypeScript
 
 ## Perkenalan
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Ketika anda telah mendownload dan mengunpack ruang kerja, anda akan melihat file bernama `tsconfig.js` pada root dan folder presence, file ini digunakan untuk mengatur compiler **TypeScript**. It is already configured for you, so don't worry about that.
 
 We just want to describe some settings that you should know.
 
