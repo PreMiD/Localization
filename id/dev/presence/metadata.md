@@ -315,25 +315,25 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     <tr>
       <td style="text-align:left"><b>musik</b></td>
     <td style="text-align:left"><b>Musik</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Website ini menawarkan konten yang berhubungan dengan musik, streaming atau download.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sosial</b></td>
         <td style="text-align:left"><b>Sosial</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Website yang dibuat untuk membuat dan membagikan konten atau berpartisipasi dalam social network dalam bentuk apapun.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>videos</b></td>
+      <td style="text-align:left"><b>video</b></td>
         <td style="text-align:left"><b>Video dan Stream</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Website yang berguna untuk menyediakan video dan stream.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>lain-lain</b></td>
     <td style="text-align:left"><b>Lainnya</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Apapun yang tidak termasuk kategori diatas.</td>
       </td>
     </tr>
   </tbody>

@@ -393,5 +393,5 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 - [Kelas Presensi](/dev/presence/class)
 - [Kelas iFrame](/dev/presence/iframe)
 - [File Metadata](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+- [Konfigurasi TypeScript](/dev/presence/tsconfig)
 {.links-list}
