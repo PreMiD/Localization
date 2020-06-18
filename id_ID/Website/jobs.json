@@ -31,6 +31,10 @@
 		"message": "Bergabunglah di Discord kami",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Untuk dapat melamar kamu harus sudah masuk ke Server Discord kami. Jika tidak kami tidak bisa menghubungi kamu jika kamu terpilih!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Bekerja untuk PreMiD",
 		"description": "First part of the jobs page."

@@ -11,6 +11,10 @@
 		"message": "Melaporkan bug hanya untuk bug yang mencakup situs PreMiD dan Server Discord PreMiD. Presence bug hanya dilaporkan kepada kreator presence. Laporkan bug hanya dalam Bahasa Inggris.",
 		"description": "Tells the user about submitting a bug"
 	},
+	"report.overview": {
+		"message": "Memberikan penjelasan singkat dan jelas tentang bug yang terjadi.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "Pilih Sistem Operasi dan Versimu",
 		"description": "Select Box for the user to select their operating system"
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Pilih Peramban dan Versimu - Kamu bisa lihat versi dengan mengunjungi about:support di Firefox atau chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Memberikan link ke contoh langsung atau langkah-langkah yang jelas untuk merekayasa bug tersebut.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Laporkan",
