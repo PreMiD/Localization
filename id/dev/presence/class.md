@@ -90,20 +90,20 @@ console.log(version); // Will log 2.1.0
 ### `getSetting(String)`
 Mengembalikan value dari pengaturan.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
+console.log(setting); // Ini akan mencatat value dari pengaturan
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Sembunyikan pengaturan yang diberikan.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Menampilkan setting yang diberikan (Hanya bekerja jika pengaturan telah disembunyikan).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
 ```
 
 ## `presenceData` Antarmuka
