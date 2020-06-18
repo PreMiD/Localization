@@ -171,6 +171,10 @@
 		"message": "Lainnya",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "Nama",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Contoh: PreMiD",
 		"description": "Name field's placeholder."
