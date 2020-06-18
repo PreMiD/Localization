@@ -1,6 +1,6 @@
 ---
 title: Wytyczne
-description: Rules all presence developers must follow to have their presence added.
+description: Reguły, których muszą przestrzegać wszyscy programiści Presence, aby ich Presence został zaakceptowany.
 published: tak
 date: 2020-06-11T18:43:52.440Z
 tags:
@@ -49,7 +49,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Dla wygody naszych deweloperów Presence dostarczyliśmy schemat, którego możesz użyć do weryfikacji integralności pliku `metadata`. This is entirely optional and is not required during the review process. 
+> Dla wygody naszych deweloperów Presence dostarczyliśmy schemat, którego możesz użyć do weryfikacji integralności pliku `metadata`. Jest to całkowicie opcjonalne i nie jest wymagane w procesie przeglądu. 
 > 
 > {.is-info}
 
@@ -126,7 +126,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Lista pól i ich zasad znajduje się poniżej:
 
 ### **`$schema`**
 
@@ -198,7 +198,7 @@ A list of fields and their rules are listed below:
 > 
 > {.is-warning}
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Oto lista zasad, których musisz przestrzegać podczas pisania pliku `presence.ts`:
 
 - **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
 - **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
@@ -214,7 +214,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 > 
 > {.is-warning}
 
-# Modification
+# Zmiany
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
@@ -227,7 +227,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
 - Upewnij się, że zmiany są przydatne. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Weryfikacja
 
 > Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. Wszyscy weryfikatorzy będą mieli rolę `Presence Verifier`. 
 > 
@@ -244,7 +244,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Weryfikatorzy</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
