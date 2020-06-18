@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Berisi data dasar tentang presence
 published: true
 date: 2020-05-21T16:01:05.836Z
 tags:
@@ -8,9 +8,9 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Jika anda ingin menerbitkan presence ke toko dan memuatnya lewat ektensi, anda harus membuat file `metadata.json` pada folder `dist` anda.
 
-The example of that file can be found below.
+Contoh dari file tersebut dapat dilihat dibawah.
 
 ```javascript
 {
@@ -64,9 +64,9 @@ The example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Memahami metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak terlalu sulit.
 
 <table>
   <thead>
@@ -74,14 +74,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Deskripsi</th>
       <th style="text-align:left">Tipe</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Opsional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>penulis</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
@@ -91,7 +91,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>kontributor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Nama adalah username Discord anda tanpa identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
