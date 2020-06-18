@@ -13,11 +13,11 @@ tags:
 
 ## Uvod
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+U nekim će slučajevima možda biti potrebno da pristupite elementima unutar `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Kod koji upišete unutar datoteke `iframe.ts` ubacuje se u svaki iframe na stranici.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Kao i prisutnosti, `iframes` imaju vlastite časove osmišljene za automatsko ažuriranje podataka.
 
 ```typescript
 let iframe = new iFrame();
@@ -30,7 +30,7 @@ iframe.on("UpdateData", async () => {
 ## Metode
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Šalje podatke prisutnosti. Korištenjem ove metode natjerat će se na prisustvo `iFrameData`.
 
 ### `getUrl()`
 Returns the URL of the `iframe`.
