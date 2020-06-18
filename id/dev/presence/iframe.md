@@ -7,7 +7,7 @@ tags:
 ---
 
 # Kelas iFrame
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Sistem iframe pada PreMiD kadang bermasalah dan dapat berperilaku tidak terduga, gunakan dengan hati-hati. 
 > 
 > {.is-danger}
 
@@ -17,7 +17,7 @@ Dalam beberapa skenario, presence Anda mungkin perlu mengakses elemen di dalam `
 
 Kode yang Anda tulis di dalam file `iframe.ts` Anda akan disuntikkan ke setiap iframe pada halaman.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Seperti presence, `iframes` memiliki kelasnya tersendiri yang dirancang untuk memperbarui data secara otomatis.
 
 ```typescript
 let iframe = new iFrame();
@@ -48,4 +48,4 @@ Berikut adalah daftar semua acara:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Event ini akan diluncurkan setiap kali iframe diperbarui.
