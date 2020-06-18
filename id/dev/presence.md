@@ -194,7 +194,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>versi</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Versi dari presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -203,7 +203,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link ke logotype dari layanan.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -212,7 +212,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link ke thumbnail presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -221,8 +221,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> value. Kami menganjurkan untuk menggunakan warna utama layanan         yang didukung oleh presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -231,7 +230,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>tag</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Himpunan dengan tag, ini akan membantu pengguna untuk mencari presence anda pada website.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -241,7 +240,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. Lihat semua kategori valid <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">disini</a>.</td>
+      <td style="text-align:left">String yang digunakan untuk mewakili kategori yang dimilki presence. Lihat semua kategori valid <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">disini</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -250,7 +249,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Menentukan apakah <code>iFrames</code> digunakan</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -259,7 +258,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Lihat regExp untuk informasi lebih lanjut.</td>
+      <td style="text-align:left">Penentu regular expression yang memilih iframe yang di inject. Lihat regExp untuk informasi lebih lanjut.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>

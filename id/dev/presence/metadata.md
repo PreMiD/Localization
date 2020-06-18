@@ -110,7 +110,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>deskripsi</b>
       </td>
-      <td style="text-align:left">Sedikit deskripsi tentang presence, anda dapat menggunakan deskripsi dari layanan tersebut        jika anda kehabisan ide. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Sedikit deskripsi tentang presence, anda dapat menggunakan deskripsi dari layanan tersebut        jika anda kehabisan ide. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda. Lihat kategori untuk bahasa presence untuk daftarnya. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -119,8 +119,8 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL layanan. <br><b>Misal:</b><code>vk.com</code><br>
+        <b>Url ini harus sama dengan url dari website karena akan digunakan untuk mendeteksi apakah ini adalah website yang benar untuk inject script. Ini bisa digunakan sebagai kesatuan ketika ada lebih dari satu url.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -130,7 +130,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Regular expression string yang digunakan untuk mencocokkan url.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -139,7 +139,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>versi</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Versi dari presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -148,7 +148,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>logo</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link ke logotype dari layanan.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -157,7 +157,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link ke thumbnail presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -166,8 +166,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> value. Kami menganjurkan untuk menggunakan warna utama layanan         yang didukung oleh presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -176,7 +175,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>tag</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Himpunan dengan tag, ini akan membantu pengguna untuk mencari presence anda pada website.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -186,7 +185,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">String yang digunakan untuk mewakili kategori yang dimilki presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -195,7 +194,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Menentukan apakah <code>iFrames</code> digunakan</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -204,7 +203,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Penentu regular expression yang memilih iframe yang di inject.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -213,7 +212,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>pengaturan</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Kumpulan pengaturan yang bisa dirubah pengguna</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
