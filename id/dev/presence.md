@@ -13,7 +13,7 @@ editor: markdown
 
 Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna sekarang bisa menambah dan menghapus presence favorit lewat tampilan pengguna [website](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Sebelum memulai, sangat dianjurkan untuk melihat aturan presence kami. 
 > 
 > {.is-warning}
 
