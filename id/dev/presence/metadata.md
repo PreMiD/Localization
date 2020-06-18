@@ -267,9 +267,9 @@ Buat pengaturan interaktif agar pengguna dapat mengatur presencenya!
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Gunakan metode berikut untuk mendapat info pengaturan pada file presence:
 ### `getSetting(String)`
-Returns value of setting.
+Mengembalikan value dari pengaturan.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
