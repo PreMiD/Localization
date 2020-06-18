@@ -81,8 +81,8 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>penulis</b>
       </td>
-      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+        mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -91,8 +91,8 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>kontributor</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Nama adalah username Discord anda tanpa identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari kontributor. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+        mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -101,7 +101,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Judul dari layanan yang didukung oleh presence tersebut.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -110,8 +110,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     <tr>
       <td style="text-align:left"><b>deskripsi</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Sedikit deskripsi tentang presence, anda dapat menggunakan deskripsi dari layanan tersebut        jika anda kehabisan ide. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
