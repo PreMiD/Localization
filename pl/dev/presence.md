@@ -168,13 +168,13 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">Adres URL usługi. <br><b>Przykład:</b><code>vk.com</code><br>
+        <b>Ten adres URL musi pasować do adresu URL witryny, ponieważ wykryje czy jest to strona do wprowadzenia skryptu.</b><br><b>NIE DODAWAJ</b> <code>https://</code> lub <code>http://</code> wewnątrz adresu URL ani ukośnika na końcu adresu:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Uwaga</b>: Niektóre adresy URL mogą mieć <code>www.</code> lub coś innego przed ich domeną. <b>NIE</b> zapomnij go dodać!<br>
+Możesz dodać wiele adresów URL wykonując następujące czynności:<br>
+<code>["URL1", "URL2", "ETC. "]</code><br>
+Możesz również użyć regExp znanego również jako Regex dla tego zadania, objaśnionego poniżej.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -184,14 +184,14 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowania adresów URL.<br>
+      RegExp lub znany również jako Regex, może być użyty, jeśli strona ma wiele subdomen.<br>
+Możesz użyć następującego regExp:<br>
+<code>([a-z0-9]+)[.]domena[.]TLD"</code><br>
+Nazwa TLD dla domeny najwyższego poziomu, na przykład: .com .net<br> 
+<code>([a-z0-9]+)</code> oznacza cokolwiek od 0 do 9.<br>
+        Możesz uzyskać szybki start, oglądając to <a href="https://youtu.be/sXQxhojSdZM">wideo</a><br>
+        Możesz przetestować swój regExp na <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
@@ -341,15 +341,15 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Możesz skopiować to do pliku `presence.ts` i edytować wartości. Ustawienie wszystkich wartości jest wykonywane wewnątrz zdarzenia updataData.
 
 Dla przykładów sugerujemy przyjrzeć się kodom Presence, takim jak: 1337x lub 9GAG.
 
 Aby uzyskać więcej informacji o klasie Presence, kliknij [tutaj](/dev/presence/class).
 
-## Can't get certain data?!
+## Nie można uzyskać określonych danych?!
 
-Wiele stron używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Te tagi html mogą zawierać wiele źródeł, takich jak filmy. Ale nie są istotne za każdym razem. Niektóre z nich są ukryte albo po prostu nie są używane. Check if you can extract, the information you need, without them before you do unnecessary work.
+Wiele stron używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Te tagi html mogą zawierać wiele źródeł, takich jak filmy. Ale nie są istotne za każdym razem. Niektóre z nich są ukryte albo po prostu nie są używane. Sprawdź, czy potrafisz wyodrębnić potrzebne informacje, zanim wykonasz niepotrzebną pracę.
 
 1. Sprawdź je w konsoli przeglądarki (upewnij się, że jesteś na karcie **Elementy**).
 2. Szukaj (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) albo <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
