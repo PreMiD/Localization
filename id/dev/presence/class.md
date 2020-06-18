@@ -32,7 +32,7 @@ Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/develope
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Mengembalikan `presenceData` objek yang ditampilkan presence.
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -73,11 +73,11 @@ Mengembalikan variabel dari situs web jika ada.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Ini akan mencatat "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Mengembalikan versi dari ekstensi yang digunakan pengguna.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -201,8 +201,8 @@ Ada beberapa acara yang tersedia:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Event ini akan diluncurkan setiap kali presence diperbarui.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Diluncurkan saat menerima data dari iFrame script.
