@@ -186,11 +186,11 @@ Lista pól i ich zasad znajduje się poniżej:
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Regular expressions **must** be valid. Proszę przetestować swoje wyrażenia za pomocą narzędzi wymienionych w [dokumentacji](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`ustawienia`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- Jeśli zdecydujesz się utworzyć ciąg formatu (np. `%song% by %artist%`), musisz mieć zmienne otoczone znakiem procentowym po obu stronach. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -200,7 +200,7 @@ Lista pól i ich zasad znajduje się poniżej:
 
 Oto lista zasad, których musisz przestrzegać podczas pisania pliku `presence.ts`:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
+- **Zawsze** deklaruj nową instancję klasy `Presence` przed jakąkolwiek inną zmienną, aby uniknąć problemów, które mogą wystąpić; nie jest to wymóg konstrukcyjny, więc w przyszłości można go usunąć.
 - **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
 - It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
