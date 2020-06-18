@@ -123,6 +123,14 @@
 		"message": "Mulai membuat komunitas anda sendiri dengan templat mengagumkan kami. Bangun kerajaan anda sendiri.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.taigaBot": {
+		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Bot hebat yang dapat mengamati website, game, dan masih banyak fitur.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Alat pembuat lintas platform yang kuat dan mudah digunakan.",
 		"description": "Description for BitRock."
