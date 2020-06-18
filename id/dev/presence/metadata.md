@@ -271,31 +271,31 @@ Gunakan metode berikut untuk mendapat info pengaturan pada file presence:
 ### `getSetting(String)`
 Mengembalikan value dari pengaturan.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
+console.log(setting); // Ini akan mencatat value dari pengaturan
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Sembunyikan pengaturan yang diberikan.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Menampilkan setting yang diberikan (Hanya bekerja jika pengaturan telah disembunyikan).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
 ```
 
-## Presence categories
+## Kategori presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Saat membuat presence, anda harus menentukan kategori dimana presence berada. Berikut adalah daftar dari kategori yang bisa digunakan.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategori</th>
+      <th style="text-align:left">Nama</th>
       <th style="text-align:left">Deskripsi</th>
     </tr>
   </thead>
@@ -303,13 +303,13 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Apapun yang berhubungan dengan anime, dari forum hingga platform streaming video.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>permainan</b></td>
     <td style="text-align:left"><b>Game</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Website apapun yang memiliki konten tentang game, seperti <code>Kahoot</code> atau <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
