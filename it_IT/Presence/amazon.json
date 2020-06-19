@@ -19,6 +19,10 @@
         "message": "Visualizzando i loro indirizzi",
         "description": ""
     },
+    "amazon.pets": {
+        "message": "Visualizzando i loro animali domestici",
+        "description": ""
+    },
     "amazon.catergoriesAll": {
         "message": "Visualizzando tutte le categorie",
         "description": ""
