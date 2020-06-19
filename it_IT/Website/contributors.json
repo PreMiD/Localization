@@ -16,11 +16,11 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.projectManager": {
-		"message": "Manager del progetto",
+		"message": "Responsabile di progetto",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.operationsSupervisor": {
-		"message": "Supervisore Operazioni",
+		"message": "Supervisore Operativo",
 		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
