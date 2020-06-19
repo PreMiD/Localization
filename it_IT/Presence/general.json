@@ -72,7 +72,7 @@
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "Leggendo di:",
+		"message": "Leggendo a proposito di:",
 		"description": ""
 	},
 	"general.readingArticle": {
@@ -156,7 +156,7 @@
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Visualizzando membro:",
+		"message": "Visualizzando un membro:",
 		"description": ""
 	},
 	"general.viewMovie": {
@@ -164,7 +164,7 @@
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Guardando playlist:",
+		"message": "Visualizzando playlist:",
 		"description": ""
 	},
 	"general.viewProduct": {
@@ -176,19 +176,19 @@
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Guardando serie:",
+		"message": "Guardando una serie:",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Guardando show:",
+		"message": "Guardando uno show:",
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Visualizzando il proprio account",
+		"message": "Visualizzando il loro account",
 		"description": ""
 	},
 	"general.viewThread": {
-		"message": "Visualizzando thread:",
+		"message": "Visualizzando il thread:",
 		"description": ""
 	},
 	"general.viewUser": {
@@ -204,7 +204,7 @@
 		"description": ""
 	},
 	"general.watchingLive": {
-		"message": "Guardando una livestream",
+		"message": "Guardando una diretta streaming",
 		"description": ""
 	},
 	"general.watching": {
