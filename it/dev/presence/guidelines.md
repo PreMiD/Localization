@@ -1,6 +1,6 @@
 ---
 title: Linee guida
-description: Rules all presence developers must follow to have their presence added.
+description: Regole che tutti gli sviluppatori di presenze devono seguire per aggiungere la loro presenza.
 published: vero
 date: 2020-06-11T18:43:52.440Z
 tags:
@@ -227,7 +227,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Verifica
 
 > Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. All verifiers will have the `Presence Verifier` role on their profile. 
 > 
