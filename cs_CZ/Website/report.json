@@ -1,4 +1,12 @@
 {
+	"report.title": {
+		"message": "Nahlásit Chybu",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 nahlášení zbývají",
+		"description": "Amount of bug reports user can send"
+	},
 	"report.success": {
 		"message": "Chyba odeslána",
 		"description": "Success notification"
