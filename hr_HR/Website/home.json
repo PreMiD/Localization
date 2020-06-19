@@ -1,1 +1,18 @@
-{}
+{
+	"home.introduction.button.features": {
+		"message": "Značajke",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Preuzimanja",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortirajte po kategoriji",
+		"description": "Features section description point"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Jezik web-stranice",
+		"description": "Tippy content of the language selector."
+	}
+}
