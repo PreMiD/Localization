@@ -62,5 +62,17 @@
 	"downloads.warning.differentVersion": {
 		"message": "Trenutačna vezija za ovu platformu je {0} (ovo verzija je specifična Linux-u, i ne odnosi se na ostale platforme).",
 		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Ovo verzija je specifična Linux-u, i ne odnosi se na ostale sustave. Glavna verzija programa je {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Prijavi se kako bi vidio preuzimanja.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Uh oh, čini se da nemaš pristup alphi/beti :(",
+		"description": "Error message if the user doesn't alpha/beta access."
 	}
 }
