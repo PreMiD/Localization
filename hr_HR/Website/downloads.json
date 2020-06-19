@@ -1,1 +1,62 @@
-{}
+{
+	"downloads.header.subtitle": {
+		"message": "Koristi PreMiD sada i pokaži svojim prijateljima što radš, možda pronađeš nekoga sa istim interestima.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Započnimo",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Preuzmi PreMid",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Instaliraj našu aplikaciju",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Dodaj naš extension svome browser-u",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Ponovno učitaj ovu stranicu i projevri jeli extension povezan",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "I dalje imaš problema? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Ovdje smo da bismo ti pomogli!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Aplikacija",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Extension",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "Upozorenje:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Ne postoji instalacijski program za ovaj operativni sustav. To znači da nema profesionalne podrške za taj OS.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Imaj na umu da PreMiD nije podržan na mobilnim telefonima.",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Prikaži Preuzimanja",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Sakrij Preuzimanja",
+		"description": "Little button on the downloads page for mobile users."
+	}
+}

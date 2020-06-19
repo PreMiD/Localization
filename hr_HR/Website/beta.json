@@ -35,6 +35,10 @@
 		"message": "Zakon! Sada si beta korisnik!",
 		"description": "Thank You page title"
 	},
+	"thankyou.description": {
+		"message": "Naši majmunčići rade na tome da vas što prije uvedete u naš beta program. Hvala ti što si se prijavo!",
+		"description": "Thank You page description"
+	},
 	"error.noslots": {
 		"message": "Čini se da nemamo više mjesta za beta testere.",
 		"description": "Shows when the beta slots are full."
