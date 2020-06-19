@@ -58,5 +58,9 @@
 	"downloads.mobile.hideDownloads": {
 		"message": "Sakrij Preuzimanja",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "Trenutačna vezija za ovu platformu je {0} (ovo verzija je specifična Linux-u, i ne odnosi se na ostale platforme).",
+		"description": "Tippy message of the Linux card."
 	}
 }
