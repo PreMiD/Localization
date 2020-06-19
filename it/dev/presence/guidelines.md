@@ -151,7 +151,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`Url`**
 
-- L'url **deve** essere una stringa se il sito web utilizza solo un dominio. If the website uses multiple, make this an array and specify each one.
+- L'url **deve** essere una stringa se il sito web utilizza solo un dominio. Se il sito web ne utilizza multipli, fanne un vettore e specifica ciascuno di essi.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
 ### **`versione`**
@@ -225,7 +225,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
-- Assicurati che le modifiche siano utili. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
+- Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verifica
 
