@@ -79,7 +79,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>penulis</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
@@ -89,7 +89,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kontributor</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari kontributor. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
@@ -108,7 +108,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>deskripsi</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Sedikit deskripsi tentang presence, anda dapat menggunakan deskripsi dari layanan tersebut        jika anda kehabisan ide. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda. Lihat kategori untuk bahasa presence untuk daftarnya. </td>
       <td style="text-align:left"><code>Object</code>
@@ -137,7 +137,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versi</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Versi dari presence anda.</td>
       <td style="text-align:left"><code>String</code>
@@ -210,7 +210,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>pengaturan</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">Kumpulan pengaturan yang bisa dirubah pengguna</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>

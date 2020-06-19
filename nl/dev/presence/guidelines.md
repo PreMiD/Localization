@@ -118,11 +118,11 @@ Elke presentie heeft een beschrijvingsbestand genaamd `metadata.json`, de metada
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) en uw presence gebruikt de standaardwaarde ervoor, neem deze niet op in het ` metadata ` -bestand. (bijv. een presence zonder iframe ondersteuning heeft het veld `iframe` niet nodig.) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> Alle afbeeldingen in het `metadata` bestand moeten gehost zijn op `imgur.com` of op een CDN dat u rechten geeft om **** afbeeldingsbestanden te wijzigen. Inhoud die wordt gehost op de website zelf is **niet** toegestaan, omdat ze de locaties uit het niets kunnen veranderen. 
 > 
 > {.is-warning}
 
@@ -130,11 +130,11 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- De schema _key_ **moet** een dollarteken aan het begin ervan bevatten, dit geeft aan dat je je JSON-bestand wilt valideren tegen een model. _Zoals eerder gezegd, hoeft u geen schema toe te voegen, maar als u het toevoegt, moet u dit in aanmerking nemen._
 
 ### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- De ID _waarde_ **moet** uw Discord "snowflake" ID zijn. Je kunt het krijgen door de [ontwikkelaarsmodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) in te schakelen. _Please do **not** confuse this with your application ID, which is only for your presence._
 
 ### **`contributors`**
 
