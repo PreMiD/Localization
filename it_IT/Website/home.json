@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "Funzioni",
+		"message": "Caratteristiche",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
@@ -40,7 +40,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Abbiamo sviluppato la nostra estensione in modo che ti permetta di aggiungere ed utilizzare Presenze create da altri utenti e gestirle direttamente in essa!",
+		"message": "Abbiamo sviluppato la nostra estensione in modo che ti permetta di aggiungere, utilizzare e gestire le Presence create da altri utenti direttamente in PreMiD!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,7 +52,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Stanco di complesse interfacce utenti? Ecco perché abbiamo creato e cerchiamo di mantenere la nostra interfaccia utente il più semplice e utile possibile con caratteristiche importanti come:",
+		"message": "Stanco di complesse interfacce utenti? Per questo motivo abbiamo creato e cerchiamo di mantenere la nostra interfaccia utente il più semplice e utile possibile con caratteristiche importanti come:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {

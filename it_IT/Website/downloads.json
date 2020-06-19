@@ -128,11 +128,11 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "Utilizziamo gli annunci per supportare il nostro team e mantenere i nostri server per offrirti la migliore esperienza utente!",
+		"message": "Utilizziamo annunci pubblicitari per supportare il nostro team e mantenere i nostri server per offrirti la migliore esperienza utente!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Per favore disabilita il tuo adblock.",
+		"message": "Per favore disattiva il tuo adblock.",
 		"description": "Message next to pepe."
 	}
 }
