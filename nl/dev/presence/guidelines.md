@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
+## [**metadata.json**](https://docs.premid.app/nl/dev/presence/metadata)
 
 > Voor het gemak van onze presence ontwikkelaars, hebben we een schema gegeven dat u kunt gebruiken om de integriteit van uw `metadata` bestand te valideren. Dit is geheel optioneel en niet nodig tijdens het review proces. 
 > 
@@ -192,7 +192,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 - Als u besluit om een opgemaakte string te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
 
-## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
+## [**presence.ts**](https://docs.premid.app/nl/dev/presence/class)
 
 > De code die u schrijft **moet** _goed geschreven_ en **moet** leesbaar zijn __ en alle strings moeten grammatisch correct zijn (fouten van grammatica op websites kunnen worden genegeerd). 
 > 
@@ -208,7 +208,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 - Bij het openen van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
 - Je mag alleen HTTP/HTTPS verzoeken naar `premid.app` of de website API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
 
-## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
+## [**tsconfig.json**](https://docs.premid.app/nl/dev/presence/tsconfig)
 
 > Schrijf **niet** je eigen `tsconfig.json` bestand, gebruik wat geleverd is in deze [documentatie](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
@@ -259,17 +259,17 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 
 - Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
 - Als een pull-aanvraag voor een periode van 7 dagen niet actief is, zal deze worden gesloten.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- Alle controles **moeten** voldaan zijn voordat er gemerged kan worden.
+- ⚠ U **moet** nieuw, ongewijzigde screenshots (gemaakt door jou) geven die een zijdelings vergelijking van je profiel en de website tonen om te bewijzen dat je presence werkt. _Je mag screenshots samen stikken zodat het makkelijker te bekijken is._ Dit geldt zowel voor het aanmaken van je presence als voor aanpassing in de presence.
 
 ## `Controles`
 
 ![Controles](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Op dit moment wordt de presence in twee afzonderlijke fasen gecontroleerd. Al deze controles helpen de verificateurs te bepalen of uw presence geschikt is voor implementatie.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `DeepScan` is een bot die controleert op coderingskwaliteit. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen.
+- `Schema Validation` zal uw `metadata.json` bestand scannen op fouten (bijvoorbeeld ontbrekende velden, ongeldige waarde types, etc.). Als je ooit nieuwe problemen ziet, ben je ook **verplicht** om die op te lossen. Het toevoegen van een schemaveld aan je `metadata.json` bestand zal je tekstverwerker (indien ondersteund) toestaan om deze fouten te tonen tijdens de ontwikkeling van je presence.
 
 ## `Aanvullende Regels`
 
