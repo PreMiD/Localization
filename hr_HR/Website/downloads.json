@@ -74,5 +74,37 @@
 	"downloads.error.noaccess.title": {
 		"message": "Uh oh, čini se da nemaš pristup alphi/beti :(",
 		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Možeš se prijaviti našem beta programu **ovdje**. Požuri! Imamo samo još {0} mjesta dostupnih",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.warning.title": {
+		"message": "Upozorenje",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.button.skip": {
+		"message": "Preskoči",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Nazad",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.okay": {
+		"message": "U redu",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.login": {
+		"message": "Prijavi se",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Hvala ti!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Isključi adblock.",
+		"description": "Message next to pepe."
 	}
 }
