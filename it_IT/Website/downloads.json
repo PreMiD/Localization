@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "Tempo di mostrarsi.",
+		"message": "È ora di mettersi in mostra.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Usa PreMiD ora e mostra ai tuoi amici cosa stai facendo, forse puoi trovare qualcuno con gli stessi interessi.",
+		"message": "Inizia ad usare ora PreMiD e mostra ai tuoi amici cosa stai facendo, forse potrai trovare qualcuno con i tuoi stessi interessi.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -28,7 +28,7 @@
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
-		"message": "Hai ancora dei problemi? {0}",
+		"message": "Incontri ancora problemi? {0}",
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
@@ -52,7 +52,7 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "Per favore, ricorda che PreMiD non è supportato su dispositivi mobili.",
+		"message": "Si prega di notare che PreMiD non è attualmente supportato su dispositivi mobili.",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "La version attuale di questa piattaforma è {0} (questa versione è solo per Linux, e non si applica alle altre piattaforme).",
+		"message": "La version attuale di questa piattaforma è {0} (questa versione è specifica per Linux, e non si applica ad altre piattaforme).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -76,27 +76,27 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Uh oh, sembra che tu non abbia accesso alfa/beta :(",
+		"message": "Uh oh, sembra che tu non abbia l'accesso all'alfa/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Puoi partecipare al nostro programma beta **qui** gratuitamente. Affrettati! Abbiamo solo altri {0} slots disponibili",
+		"message": "Puoi partecipare al nostro programma beta **qui** gratuitamente. Affrettati! Abbiamo solo altri {0} posti disponibili",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Primi rilasci",
+		"message": "Rilasci anticipati",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
-		"message": "Attenzione",
+		"message": "Avvertenza",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.warning.message.edge": {
-		"message": "Non dimenticare di abilitare l'opzione 'consenti estensioni da altri negozi' dalle impostazioni estensioni.",
+		"message": "Non dimenticare di abilitare l'opzione \"consenti estensioni da altri store\" nelle impostazioni dell'estensione.",
 		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
 	"downloads.warning.message.opera": {
-		"message": "Devi installare **questa** estensione per installare PreMiD dal Chrome Webstore.",
+		"message": "Devi installare **questa** estensione dal Chrome Webstore per poter installare PreMiD.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
@@ -120,7 +120,7 @@
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
-		"message": "Login",
+		"message": "Accedi",
 		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
