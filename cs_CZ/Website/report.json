@@ -1,4 +1,16 @@
 {
+	"report.title": {
+		"message": "Nahlásit Chybu",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 nahlášení zbývají",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Nahlašování chyb slouží pro nahlášení chyb na stránce PreMiD a PreMiD Discord Serveru. Chyby v presence se nahlašují autorovi presence. Nahlašujte chyby jen v angličtině.",
+		"description": "Tells the user about submitting a bug"
+	},
 	"report.success": {
 		"message": "Chyba odeslána",
 		"description": "Success notification"

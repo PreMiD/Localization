@@ -123,6 +123,14 @@
 		"message": "Inizia a creare la tua comunità con i nostri fantastici modelli. Costruisci il tuo regno.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.taigaBot": {
+		"message": "taiga è un bot di Discord che cerca di offrire tutte le funzionalità di cui hai bisogno in una volta!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Un potente bot che consente di monitorare siti web, giochi e presenta molte altre funzionalità.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Uno strumento di creazione di programmi di installazione multipiattaforma potente e facile da usare.",
 		"description": "Description for BitRock."

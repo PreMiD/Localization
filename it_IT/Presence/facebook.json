@@ -19,12 +19,28 @@
         "message": "Leggendo di:",
         "description": ""
     },
+    "facebook.userCommunity": {
+        "message": "Visualizzando la comunità dell'utente:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Visualizzando foto per utente:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Visualizzando post per utente:",
+        "description": ""
+    },
     "facebook.userShop": {
         "message": "Visualizzando il negozio dell'utente:",
         "description": ""
     },
     "facebook.userFriends": {
         "message": "Visualizzando gli amici dell'utente:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Visualizzando video per utente:",
         "description": ""
     },
     "facebook.browse": {
