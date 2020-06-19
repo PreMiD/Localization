@@ -1,1 +1,6 @@
-{}
+{
+  "header.login": {
+    "message": "Prijavi se",
+    "description": "Login Button"
+  }
+}
