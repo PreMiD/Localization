@@ -40,7 +40,7 @@
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "Loggato come",
+    "message": "Accesso effettuato come",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
@@ -52,7 +52,7 @@
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "Esci",
+    "message": "Disconnettiti",
     "description": "Logout button"
   }
 }
