@@ -210,38 +210,38 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> Schrijf **niet** je eigen `tsconfig.json` bestand, gebruik wat geleverd is in deze [documentatie](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
 # Wijzigen
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> U **moet** de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.ts**, **iframe.ts** of **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een lijst met regels die je **moet** volgen tijdens het wijzigen van presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Do **not** change images if they are not outdated and are in specifications.
+- U bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server is verbannen of niet de vereiste wijzigingen heeft aangebracht binnen een maand, kunt u contact opnemen met een verificateur om te zien of u de presence kunt herschrijven.
+- Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **niet** wijzigingen aan te brengen in de code die **niet** moet worden gecorrigeerd. Geldige wijzigingen zijn, maar **niet** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc.
+- Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.
+- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.
 
 # Verificatie
 
-> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. All verifiers will have the `Presence Verifier` role on their profile. 
+> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle verificateurs hebben de rol `Presence Verifier` op hun profiel. 
 > 
 > {.is-info}
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> **Alle** code die aan de winkel is bijgedragen zal een licentie krijgen onder de `Mozilla Public License 2.0`. 
 > 
 > {.is-info}
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
+> Heb **altijd** een up-to-date fork voordat je een pull-aanvraag aanmaakt. Dit zal valse positieven van `DeepScan` te beperken. 
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en dat deze in de winkel zal worden gepusht.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificateurs</h2>
@@ -258,7 +258,7 @@ The most important process of presence development is getting your presence on t
 Enkele dingen die je moet weten voordat je een pull request opent:
 
 - Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
+- Als een pull-aanvraag voor een periode van 7 dagen niet actief is, zal deze worden gesloten.
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
