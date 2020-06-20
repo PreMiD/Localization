@@ -9,13 +9,13 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # 설치
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+1. 오른쪽의 링크를 눌러 다운로드 페이지로 들어가세요. [페이지로 이동](https://premid.app/downloads)
+2. **Firefox**를 선택하세요.
+3. `about:addons`을 찾아보세요.
+4. 오른쪽 상단 구석쪽에 위치한 조그만 기어 버튼을 클릭하세요.
+5. **Install add-on from file**(파일에서 에드온 설치하기)를 선택하세요.
+6. 아까 다운로드한 파일을 선택하세요.
+7. **Add**를 클릭해 설치에 동의하세요.
 
 > Do not forget to [add the **application**](/install). 
 > 
