@@ -13,7 +13,7 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # 설치
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. 오른쪽의 링크를 눌러 다운로드 페이지로 들어가세요. [페이지로 이동](https://premid.app/downloads)
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
