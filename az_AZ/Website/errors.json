@@ -38,5 +38,9 @@
 	"user.notFound.message3": {
 		"message": "discord serverimizdə istifadəçilərin də eyni problemi yaşayıb yaşamadıqlarına baxın.",
 		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Bir xəta olduğunu düşünürsünüzsə, [Discord Serverimizə] qatılaraq bizimlə əlaqə saxlayın.",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
