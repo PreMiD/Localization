@@ -23,16 +23,16 @@ The installation of the application is very important as the extension can not d
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
+  - [설치 방법](#installation-instructions)
+  - [추가 사항](#additional-notes)
 - **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
 - **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
 - **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+  - [설치 방법](#installation-instructions-1)
+  - [추가 사항](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [설치 방법](#installation-instructions-2)
+  - [추가 사항](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -74,8 +74,8 @@ It is unknown whether older versions of other distributions support it, so just 
 ### 지원
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="저희 디스코드에 참여하세요!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="저희 디스코드에 참여하세요!">
   </a>
 </div>
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### 설치 방법
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,7 +126,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### 추가 사항
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### 설치 방법
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### 추가 사항
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### 설치 방법
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### 추가 사항
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
