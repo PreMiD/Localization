@@ -51,9 +51,25 @@
 		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Varlığı Təsdiqləyən",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "İcma Nümayəndəsi",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Gənc Moderator",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Dəstək Agenti",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Korrektor",
@@ -70,5 +86,13 @@
 	"contributors.roles.translator": {
 		"message": "Tərcüməçi",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "İstifadəçinin ID nömrəsini kopyalamaq üçün kilkləyin.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "İstifadəçinin ID nömrəsi kopyalandı!",
+		"description": "Notification after user ID was copied."
 	}
 }
