@@ -1,1 +1,10 @@
-{}
+{
+	"report.title": {
+		"message": "버그 신고",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3건의 신고가 남아있습니다",
+		"description": "Amount of bug reports user can send"
+	}
+}
