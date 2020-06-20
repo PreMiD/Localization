@@ -82,5 +82,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "Kliknutím zkopírujete ID uživatele.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID uživatele zkopírováno!",
+		"description": "Notification after user ID was copied."
 	}
 }
