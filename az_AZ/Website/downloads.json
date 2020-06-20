@@ -1,7 +1,23 @@
 {
+	"downloads.header.title": {
+		"message": "Göstəriş vaxtı.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "İndi PreMiD istifadə edin və nə etdiyinizi dostlarınıza göstərin, bəlkə eyni maraqları olan birini taparsınız.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Başlat",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD Yükləyin",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Tətbiqimizi quraşdırın",
+		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
 		"message": "Applikasiya",
