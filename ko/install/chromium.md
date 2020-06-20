@@ -15,10 +15,10 @@ The installation of the extension is very important as the application can not d
 3. **Add to Chrome**(크롬에 추가)를 선택하세요.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. **[Chrome 확장 프로그램 설치](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**를 추가하세요.
+2. [저희의 확장 프로그램](https://premid.app/downloads)을 추가하세요.
 
-> Do not forget to [add the **application**](/install). 
+> [**이 앱을** 추가](/install)하는 것도 잊지 마세요. 
 > 
 > {.is-warning}
 
