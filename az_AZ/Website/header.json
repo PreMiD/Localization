@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Daxil ol",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Daxil olundu",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Səhv barədə bizə bildirin",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "İdarəetmə Paneli",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Çıxış",
+    "description": "Logout button"
   }
 }
