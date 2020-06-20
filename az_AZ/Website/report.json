@@ -1,1 +1,10 @@
-{}
+{
+	"report.title": {
+		"message": "Səhv bildir",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Səhv qaldı",
+		"description": "Amount of bug reports user can send"
+	}
+}
