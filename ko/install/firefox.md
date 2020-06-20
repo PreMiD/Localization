@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. 아까 다운로드한 파일을 선택하세요.
 7. **Add**를 클릭해 설치에 동의하세요.
 
-> Do not forget to [add the **application**](/install). 
+> [**이 앱을** 추가](/install)하는 것도 잊지 마세요. 
 > 
 > {.is-warning}
 
