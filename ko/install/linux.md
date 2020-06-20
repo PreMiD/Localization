@@ -6,11 +6,11 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Linux의 자동 설치 기능을 킴으로써 이제 확장 프로그램 대신 앱에서 사용할 수 있습니다.{.is-warning}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-## Table of Contents
+## 차례
 
 - **[정보](#about)**
   - [Stats](#stats)
@@ -18,7 +18,7 @@ The installation of the application is very important as the extension can not d
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
-  - [Support](#support)
+  - [지원](#support)
   - [제작진](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
@@ -46,14 +46,14 @@ The installation of the application is very important as the extension can not d
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>개발</th>
+    <th>총 다운로드 횟수</th>
+    <th>최신 버전</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="최신 버전"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### 지원
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
