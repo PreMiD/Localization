@@ -34,5 +34,9 @@
   "header.contributors": {
     "message": "Töhfə verənlər",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Daxil ol",
+    "description": "Login Button"
   }
 }
