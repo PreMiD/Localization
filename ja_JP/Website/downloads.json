@@ -95,6 +95,10 @@
 		"message": "拡張設定から「他のストアからの拡張機能を許可する」オプションを有効にするのを忘れないでください！",
 		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
+	"downloads.warning.message.opera": {
+		"message": "ストアからPreMiDをインストールするには、**この拡張機能**をインストールする必要があります。",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
 	"downloads.button.skip": {
 		"message": "スキップ",
 		"description": "Skip button on the ads section"
@@ -102,6 +106,10 @@
 	"downloads.button.back": {
 		"message": "戻る",
 		"description": "Back button on the ads section"
+	},
+	"downloads.button.okay": {
+		"message": "OK",
+		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
 		"message": "完了",
