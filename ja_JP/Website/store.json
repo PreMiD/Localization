@@ -23,6 +23,14 @@
 		"message": "プレゼンスを削除",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.card.presence.included": {
+		"message": "このプレゼンスはサイトにアクセスした際、自動的に有効になります。",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "フィルター",
+		"description": "Searh filters option at the store page"
+	},
 	"store.category.filters.mostUsed": {
 		"message": "最も使用されているもの順",
 		"description": "Most used first checkbox"
@@ -70,6 +78,10 @@
 	"store.search": {
 		"message": "検索",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
 		"message": "クリックして絞り込みを外す。",
