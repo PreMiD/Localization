@@ -30,5 +30,9 @@
 	"user.notFound.message1": {
 		"message": "da je Korisnički ID kojeg tražiš točan.",
 		"description": "Check user ID message."
+	},
+	"user.notFound.message4": {
+		"message": "Ako smatrate da je ovo pogreška, kontaktirajte nas na [našem Discord serveru].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
