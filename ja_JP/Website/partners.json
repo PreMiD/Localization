@@ -15,6 +15,14 @@
 		"message": "私達のパートナーになってみませんか？",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "あなたのサイト専用のプレゼンス",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "私達のチームが、あなたのサイトのプレゼンスを作成します。",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "パートナー専用のロールを手に入れる",
 		"description": "Heading for the second benefit."
@@ -26,6 +34,10 @@
 	"partners.why.benefit3.title": {
 		"message": "サイトとの紐付け",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "誰かがあなたのサイトを見ている時に、プレゼンスを自動的に有効にします。",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "記念される。",
@@ -39,6 +51,10 @@
 		"message": "有名になる。",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "私達のSNSで宣伝します。",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "必要条件",
 		"description": "Heading for the requirements."
@@ -46,6 +62,10 @@
 	"partners.requirements.first.title": {
 		"message": "私達が求めているもの",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "私たちは成長するコミュニティとインターネットの刺激的なものに目を光らせています。\nもし私達と同じ考えならば、PreMiDを使用してさらなるインターネットの人々へ拡散すべきです。パートナープログラムは、あなたの形に合うように一つ一つを考慮しながら進めていきます。",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "私たちのファイヤウォール",
@@ -62,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "パートナーになりましょう！",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "直接PreMiDの仕事に関わりたい場合は、**こちらを**ご覧ください。",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "スポンサー",
@@ -99,6 +123,10 @@
 		"message": "企業のための翻訳加速装置。",
 		"description": "Description for Crowdin."
 	},
+	"partners.partner.wikijs": {
+		"message": "最も強力で、拡張可能なオープンソースのWikiソフトウェア。",
+		"description": "Description for WikiJS."
+	},
 	"partners.apply.title": {
 		"message": "パートナーに応募する",
 		"description": "Partnership application modal title."
@@ -134,6 +162,10 @@
 	"partners.apply.form.link.placeholder": {
 		"message": "例: https://premid.app",
 		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "画像のリンク: (550x300、 PNGファイルのみ)",
+		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {
 		"message": "例: https://i.imgur.com/clun1ID.png",
