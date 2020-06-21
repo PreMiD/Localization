@@ -136,7 +136,7 @@
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
-		"message": "あなたではありませんか？",
+		"message": "別人ですか？",
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
@@ -156,12 +156,16 @@
 		"description": "Name filed."
 	},
 	"partners.apply.form.link": {
-		"message": "リンク",
+		"message": "URL",
 		"description": "Link field."
 	},
 	"partners.apply.form.link.placeholder": {
 		"message": "例: https://premid.app",
 		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "説明(最大150文字まで入力できます。):",
+		"description": "Description field."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "画像のリンク: (550x300、 PNGファイルのみ)",
