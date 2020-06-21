@@ -109,11 +109,11 @@ Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](
 ```
 
 Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus merubah value dari properti tersebut. Harap diingat bahwa properti berikut adalah opsional dalam file `metadata.json` anda, jika anda tidak berniat menggunakannya anda harus menghapusnya.
-- `kontributor`
+- `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `pengaturan`
+- `settings`
 
 **Memperjelas beberapa preset value:**
 <table>
@@ -127,7 +127,7 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>penulis</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
@@ -137,7 +137,7 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kontributor</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
@@ -156,7 +156,7 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>deskripsi</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Sedikit deskripsi tentang presence, anda dapat menggunakan deskripsi dari layanan tersebut        jika anda kehabisan ide. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda.</td>
       <td style="text-align:left"><code>Object</code>
@@ -192,7 +192,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versi</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Versi dari presence anda.</td>
       <td style="text-align:left"><code>String</code>
@@ -265,7 +265,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>pengaturan</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">Sebuah susunan pengaturan yang dapat dirubah oleh pengguna.<br>
       Baca lebih lanjut tentang pengaturan presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">disini</a>.</td>
