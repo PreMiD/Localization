@@ -1,7 +1,31 @@
 {
+	"jobs.modal.title": {
+		"message": "{0}として応募する",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "ステップ {0}/2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "次へ",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "参加",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "戻る",
+		"description": "Cancel, button in the modal."
+	},
 	"jobs.guild.required": {
 		"message": "Discordに参加する",
 		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.header.title": {
+		"message": "PreMiDで働く",
+		"description": "First part of the jobs page."
 	},
 	"jobs.errors.alreadyApplied": {
 		"message": "すでに申し込み済みです！",
