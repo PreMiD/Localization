@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "Tempo di mostrarsi.",
+		"description": "Title"
+	},
 	"downloads.header.subtitle": {
 		"message": "Usa PreMiD ora e mostra ai tuoi amici cosa stai facendo, forse puoi trovare qualcuno con gli stessi interessi.",
 		"description": "Subtitle for header"

@@ -1,1 +1,6 @@
-{}
+{
+	"presence.sections.description.title": {
+		"message": "شرح",
+		"description": "The title of the description section."
+	}
+}

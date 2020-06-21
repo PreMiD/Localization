@@ -1,1 +1,26 @@
-{}
+{
+	"general.browsing": {
+		"message": "Skoðar...",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Tungumál",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "Útsending",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Lestur",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Leitar",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Verslun",
+		"description": ""
+	}
+}

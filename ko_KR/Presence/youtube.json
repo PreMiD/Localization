@@ -55,12 +55,56 @@
         "message": "그들의 모든 재생목록을 보는 중",
         "description": ""
     },
+    "youtube.viewLiveEvents": {
+        "message": "생방송 보는중",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "대쉬보드 보는중",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "음악 라이브러리 보는중",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "영상 보는중",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "영상 편집중",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "영상 분석중",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "댓글보는중",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "영상 번역중",
+        "description": ""
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "채널 분석중",
+        "description": "Part two of \"Viewing their\""
+    },
     "youtube.studio.channelComments": {
         "message": "채널 댓글들",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "채널 번역중",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
         "message": "아티스트 페이지",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "대쉬보드 보는중",
+        "description": ""
     }
 }

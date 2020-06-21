@@ -7,6 +7,10 @@
 		"message": "概要",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "更新履歴",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "情報",
 		"description": "The title of the information section."

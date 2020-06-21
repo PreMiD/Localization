@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "我們的管理員正在以最快的速度審核你的注冊，使您盡快進入我們的Beta計劃。 感謝您註冊！",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "看來我們沒有更多Beta版的名額了",
+		"description": "Shows when the beta slots are full."
 	}
 }

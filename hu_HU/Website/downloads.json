@@ -15,6 +15,10 @@
 		"message": "Alkalmazás telepítése",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_3": {
+		"message": "Bővítmény hozzádása a böngészőhöz",
+		"description": "Heading for installing the application"
+	},
 	"downloads.instructions.footer": {
 		"message": "Továbbra is problémáid vannak? {0}",
 		"description": "{0} will be replaced with footer.link"
@@ -62,6 +66,10 @@
 	"downloads.error.noaccess.title": {
 		"message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :(",
 		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Csatlakozz **itt** a beta programba teljesen ingyen.\nSiess! Már csak {0} hely elérhető.",
+		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
 		"message": "Korai verziók",

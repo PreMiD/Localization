@@ -1,0 +1,26 @@
+{
+    "report.title": {
+        "message": "Informar de un fallo",
+        "description": "Text to indicate the page."
+    },
+    "report.bugcount": {
+        "message": "{count}/3 Informes restantes",
+        "description": "Amount of bug reports user can send"
+    },
+    "report.info": {
+        "message": "Los errores de reporte son para errores dentro del sitio PreMiD y el Servidor PreMiD de Discord. Los bugs para una presencia deberan ser reportados al creador de la presencia. Sólo reportar errores en inglés.",
+        "description": "Tells the user about submitting a bug"
+    },
+    "report.overview": {
+        "message": "Resumen breve - Proporcione una descripción clara y concisa de lo que es el error.",
+        "description": "Text for the user to write a brief of the bug information."
+    },
+    "report.os": {
+        "message": "Selecciona tu sistema operativo y versión",
+        "description": "Select Box for the user to select their operating system"
+    },
+    "report.browser": {
+        "message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help",
+        "description": "Select Box for the user to select their browser"
+    }
+}

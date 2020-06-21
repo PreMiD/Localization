@@ -3,6 +3,10 @@
 		"message": "Cur síos",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "Athruite logail",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "Eolas",
 		"description": "The title of the information section."
