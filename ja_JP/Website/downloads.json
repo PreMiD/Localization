@@ -107,6 +107,10 @@
 		"message": "戻る",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "戻る",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "OK",
 		"description": "Button on the modal of Opera/Edge browsers."
