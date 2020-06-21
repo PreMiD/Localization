@@ -1,1 +1,6 @@
-{}
+{
+	"jobs.errors.alreadyApplied": {
+		"message": "すでに申し込み済みです！",
+		"description": "Notification when you applied already."
+	}
+}
