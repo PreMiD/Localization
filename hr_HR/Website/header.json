@@ -1,4 +1,8 @@
 {
+  "header.language": {
+    "message": "Hrvatski",
+    "description": "Replace English with the name of YOUR language!"
+  },
   "header.login": {
     "message": "Prijavi se",
     "description": "Login Button"
