@@ -132,7 +132,7 @@
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "{0} としてログインしています",
+		"message": "{0}としてサインイン中",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -188,7 +188,7 @@
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
-		"message": "最大150文字までです。",
+		"message": "説明は最大150文字までです。",
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
