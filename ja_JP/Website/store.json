@@ -23,6 +23,10 @@
 		"message": "プレゼンスを削除",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.category.filters.mostUsed": {
+		"message": "最も使用されているもの順",
+		"description": "Most used first checkbox"
+	},
 	"store.category.filters.allowAdult": {
 		"message": "アダルトコンテンツを表示",
 		"description": "Adult content checkbox"
