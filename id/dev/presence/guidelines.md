@@ -135,11 +135,11 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 - Skema _key_ **harus** memuat tanda dollar pada awalan, hal ini menandakan editor teksmu untuk memeriksa file JSON pada suatu model. _ seperti yang telah disebutkan sebelumnya, anda tidak perlu mencantumkan skema, tapi jika anda mencantumkannya anda harus memperhitungkan itu _
 
-### **`penulis`**
+### **`author`**
 
 - ID _value_ **harus** ID snowflake Discordmu. Bisa didapatkan dengan mengaktifkan [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _harap **tidak** disamakan dengan ID aplikasimu, yang hanya digunakan untuk Presence._
 
-### **`kontributor`**
+### **`contributors`**
 
 - **Jangan** menambahkan diri anda sebagai kontributor dan jangan menambahkan orang lain sebagai kontributor kecuali mereka membantu dengan pembuatan presence.
 
@@ -147,7 +147,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 - Nama layanan **harus** sesuai dengan nama dari direktori presence. Contohnya, jika presence terletak di `/websites/Y/YouTube/`, nama layanan harus `YouTube`.
 
-### **`deskripsi`**
+### **`description`**
 
 - **Semua** presence **diharuskan** memilki deskripsi berbahasa inggris terlepas dari bahasa dari website.
 - **Jangan** mencoba menerjemahkan deskripsi sendiri kecuali anda mengerti bahasa tersebut, penerjemah akan merubah `metadata.json` dan merubah deskripsi jika diperlukan.
@@ -157,7 +157,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 - Url **harus** berupa string jika website hanya menggunakan satu domain. Jika website menggunakan lebih dari satu, jadikan array dan tentukan masing-masing.
 - **Jangan** mencantumkan protokol pada url (misal, `http` atau `https`), dan jangan memasukkan query parameter pada url (contoh, `www.google.com/search?gws_rd=ssl` yang seharusnya `www.google.com/`)
 
-### **`versi`**
+### **`version`**
 
 - Selalu pastikan versi mengikuti [semantic versioning standards](https://semver.org), yang diterjemahkan ke skema berikut: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Hal lain seperti `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` atau merubah `1.0.0` to `2.0.0` pada perbaikan bug/perubahan kecil **tidak** diperbolehkan.
 - Versi **harus** dimulai dengan `1.0.0` kecuali diberitahu lainnya, versi lain **tidak** diperbolehkan.
@@ -191,7 +191,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 - Regular expressions**harus** valid. Periksa expression menggunakan alat yang dicantumkan pada [dokumentasi](https://docs.premid.app/en/dev/presence/metadata#testing).
 
-### **`pengaturan`**
+### **`settings`**
 
 - Jika anda memutuskan untuk membuat string format ( misal, `%song% by %artist%`), anda harus membuat variabel dengan tanda persen diawal dan diakhir. Variabel seperti `%var`, `var%`, atau `%%var%%` dan apapun diantaranya **tidak** diperbolehkan demi standardisasi.
 
