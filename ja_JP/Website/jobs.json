@@ -1,4 +1,8 @@
 {
+	"jobs.guild.required": {
+		"message": "Discordに参加する",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
 	"jobs.errors.alreadyApplied": {
 		"message": "すでに申し込み済みです！",
 		"description": "Notification when you applied already."

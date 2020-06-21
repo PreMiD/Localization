@@ -75,6 +75,10 @@
 		"message": "何かがバグってたり、大量のエラーが出たりしたら…？\nDiscordサーバーで問題を解決する手助けをします。",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Discordに参加する",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "ウェブサイトの言語設定",
 		"description": "Tippy content of the language selector."
