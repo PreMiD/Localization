@@ -9,7 +9,7 @@ editor: markdown
 
 # Directrices
 
-Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estas reglas estrictas pueden parecer duras. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
+Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
 
 # Creación
 
@@ -130,7 +130,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- La _llave_ del esquema **debe** incluir un signo de dolar al inicio, esto indicará a su editor de texto que tu quieres validar tu archivo JSON contra un modelo. _Tal y como se ha dicho anteriormente, no necesitas incluir un esquema, pero en caso de que lo hagas, debes tomar esto en cuenta._
 
 ### **`autor`**
 
