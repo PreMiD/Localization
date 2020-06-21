@@ -128,7 +128,7 @@
 		"description": "Description for WikiJS."
 	},
 	"partners.apply.title": {
-		"message": "パートナーに応募する",
+		"message": "パートナーに申請する",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
@@ -184,7 +184,7 @@
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
-		"message": "150 文字まで概要を入力できます。",
+		"message": "最大150文字までです。",
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
@@ -192,7 +192,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "あなたは既にパートナーに応募しています。",
+		"message": "すでに申し込み済みです！",
 		"description": "Error when already applied."
 	}
 }
