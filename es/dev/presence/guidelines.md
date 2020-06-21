@@ -138,7 +138,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`contribuidores`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **No** te agregues ni a ti, ni a nadie más como contribuidores al menos que hayan ayudado con la presence.
 
 ### **`servicio`**
 
@@ -262,9 +262,9 @@ A few things you should know after opening a pull request:
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 
-## `Checks`
+## `Verificaciones`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Verificaciones](https://i.imgur.com/bk0A1iY.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
@@ -279,13 +279,13 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 
 # Contribuidores
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+La `revisión 2` de las indicaciones fue escrita y contribuida por los siguientes individuos:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+La `revisión 1` fue mantenida por los siguientes individuos:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
