@@ -27,6 +27,10 @@
 		"message": "Globale Community Vertegenwoordiger",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.storeManager": {
+		"message": "Winkelbeheerder",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "Systeembeheerder",
 		"description": "'System Administrator' title for contributors and user pages."
