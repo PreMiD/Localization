@@ -77,7 +77,7 @@ console.log(pageVar); // This will log the "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+ユーザーが使用している拡張機能のバージョンを取得する
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
