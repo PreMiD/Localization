@@ -15,6 +15,26 @@
 		"message": "Skaper",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "Prosjektleder",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Operasjonsansvarlig",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Representant for verdenssamfunnet",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "Butikkansvarlig",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Systemadministrator",
+		"description": "'System Administrator' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Seniormoderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
