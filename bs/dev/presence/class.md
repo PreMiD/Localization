@@ -40,7 +40,7 @@ Postavlja vašu aktivnost na profilu u skladu s dobivenim podacima.
 
 Prvi parametar zahtijeva interfejs `presenceData` da biste dobili sve informacije koje želite prikazati na svom profilu.
 
-Drugi parametar definira kada prisutnost nešto svira ili ne. Always use `true` if you provide timestamps in `presenceData`.
+Drugi parametar definira kada prisutnost nešto svira ili ne. Uvek koristite `true` ako navedete vremenske oznake u `presenceData`.
 
 ### `clearActivity()`
 
