@@ -1,6 +1,6 @@
 ---
 title: Aturan
-description: Rules all presence developers must follow to have their presence added.
+description: Peraturan yang harus ditaati oleh developer presence agar presencenya ditambahkan.
 published: true
 date: 2020-06-11T18:43:52.440Z
 tags:
