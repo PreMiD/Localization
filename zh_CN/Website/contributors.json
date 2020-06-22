@@ -16,7 +16,7 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.projectManager": {
-		"message": "项目经理",
+		"message": "项目管理",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.operationsSupervisor": {
@@ -26,6 +26,10 @@
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "全局社区代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "Presence 市场管理",
+		"description": "'Store Manager' title for contributors and user pages."
 	},
 	"contributors.roles.systemAdministrator": {
 		"message": "系统管理员",
