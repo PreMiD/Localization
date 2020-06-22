@@ -38,5 +38,21 @@
   "header.login": {
     "message": "登录",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "已登入为",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "反馈 Bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "主页",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "登出",
+    "description": "Logout button"
   }
 }
