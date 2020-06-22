@@ -72,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "有些东西给你带来了成吨错误或根本没有用？ 加入我们的 Discord 服务器来取得帮助。 我们还在服务器中建立了我们自己的客服系统，确保你的问题尽快得到解决。",
+		"message": "成吨的错误向你袭来？加入我们的 Discord 服务器来取得帮助。我们还在服务器中建立了我们自己的工单系统，确保你的问题尽快得到解决！",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
