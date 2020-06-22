@@ -8,7 +8,7 @@
 		"description": "Section description"
 	},
 	"beta.description.2": {
-		"message": "那么您会得到什么呢？",
+		"message": "那么你会得到什么呢？",
 		"description": "Section description"
 	},
 	"beta.features.1": {
@@ -32,11 +32,11 @@
 		"description": "Sign up button text"
 	},
 	"thankyou.title": {
-		"message": "酷！您现在是 Beta 用户了！",
+		"message": "酷！你现在是 Beta 用户了！",
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
-		"message": "感谢您的加入！我们正在竭尽全力的把您添加到我们的测试程序当中。",
+		"message": "感谢你的加入！我们正在竭尽全力的把你添加到我们的测试程序当中。",
 		"description": "Thank You page description"
 	},
 	"error.noslots": {

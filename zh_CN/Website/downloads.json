@@ -20,7 +20,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "将我们的扩展添加到您的浏览器",
+		"message": "将我们的扩展添加到你的浏览器",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "请登录 Discord 账户来让我们确定您的测试资格",
+		"message": "请登录 Discord 账户来让我们确定你的测试资格",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -96,7 +96,7 @@
 		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
 	"downloads.warning.message.opera": {
-		"message": "您必须安装**本扩展程序**才能从 Chrome 网上应用店安装 PreMiD。",
+		"message": "你必须安装**本扩展程序**才能从 Chrome 网上应用店安装 PreMiD。",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {

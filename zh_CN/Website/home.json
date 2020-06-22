@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** 是一个简单、可配置的工具，可以让您在您的 Discord游戏动态 上显示您在网页上做的事情。",
+		"message": "**PreMiD** 是一个简单、可配置的工具，可以让你在 Discord 游戏动态 上显示你在网页上做的事情。",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -40,7 +40,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "我们拥有超过 510 个 Presence 供你挑选，大部分来自我们的用户开发，您也可以参与其中！",
+		"message": "我们拥有超过 510 个 Presence 供你挑选，大部分来自我们的用户开发，你也可以参与其中！",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
