@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "是时候展示你自己了！",
+		"message": "是时候展现自己了！",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "现在开始使用 PreMiD，并告诉其他人你在做什么，也许你会找到一个志同道合的朋友。",
+		"message": "开始使用 PreMiD，并告诉其他人你在做什么，也许你会找到一个志同道合的朋友。",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "请登录来让我们确定您的权限",
+		"message": "请登录 Discord 账户来让我们确定您的测试资格",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -80,7 +80,7 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "你可以免费加入我们的 **Beta 测试**。时间不多了！还剩最后 {0} 个名额 ！",
+		"message": "你可以免费加入到我们的 **Beta 测试** 当中。时间不多了！还剩最后 {0} 个名额 ！",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
@@ -128,7 +128,7 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "我们通过广告来维持我们的团队和服务器，来为您提供最好的用户体验！",
+		"message": "我们通过广告来维持我们的团队和服务器，以为您提供最好的用户体验！",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
