@@ -15,6 +15,14 @@
 		"message": "这里到底是第几层",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "完全免费",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "我们的团队将为您的服务免费开发 Presence 。",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "获得验证",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "自动集成",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "当有人访问您的网站时，自动启用您的 Presence 。",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "让人铭记",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "脱颖而出",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "成为我们的精选应用",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "B. 所需经费",
@@ -66,6 +82,14 @@
 	"partners.apply.disclaimer": {
 		"message": "让我们一起来到最高层！",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "如果您对在 PreMiD 的直接作业感兴趣，请查看我们的 **工作机会**。",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "赞助商",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "如果没有这些惊人的事物，PreMiD 不可能存在。",
@@ -128,7 +152,7 @@
 		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
-		"message": "简介：（最多100个字符）",
+		"message": "简介：（最多150个字符）",
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
