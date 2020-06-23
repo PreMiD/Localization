@@ -26,5 +26,13 @@
 	"user.notFound.heading": {
 		"message": "Tohoto uživatele se nepodařilo najít. Ujistěte se že",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "ID uživatele, kterého hledáte, je správné.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "uživatel vytvořil dostatek Presence a má roli \"Presence Developer\" na našem Discord serveru.",
+		"description": "Check the presence amount of the developer created message."
 	}
 }
