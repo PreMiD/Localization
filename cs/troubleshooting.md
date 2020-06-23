@@ -42,10 +42,10 @@ Někdy je na souborech něco špatně... Návody pro instalaci naleznete [zde](/
 
 ### Ruční odstranění
 Windows:    `C:\Users\UZIVATEL\AppData\Roaming\`` a smažte složku`PreMiD`.
-MacOS:`~/users/USER/~Knihovna/Podpora aplikací/`a smažte složku`PreMiD``.
+MacOS:`~/users/USER/~Library/Application Support/`a smažte složku`PreMiD``.
 
 ### Na distros Ubuntu/Debianu
 Pokud jsi stáhl Discord přes Snapcraft, RPC nebude fungovat. Musíš odinstalovat verzi Snapcraft spuštěním `sudo snap snap remove discord` na terminálu, stáhnout [Discord Linux build](https://discordapp.com/api/download?platform=linux) ([nebo Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), poté přejděte do adresáře, do kterého jste si stáhli Discord (obvykle `$HOME/Downloads`), pak nainstalujete pomocí `sudo dpkg -i discord-*. únor`.
 
 ### To můj problém nevyřešilo
-Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
+Prosím otevřte si tiket v [#support](https://discord.gg/WvfVZ8T).
