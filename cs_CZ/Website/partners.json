@@ -15,6 +15,14 @@
 		"message": "A co třeba jít do nebe místo pekla?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Váš bezplatný Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Náš tým vám poskytne Presence pro vaší službu.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Staňte se ověřený",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Integrace meta-tagu",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Automaticky začne používat váš Presence jakmile někdo navštíví vaši stránku.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Buď nesmrtelný",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Budete sdíleni na našich sociálních médiích.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Požadavky",
@@ -67,6 +83,14 @@
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Jestli máte radši zájem přímo pracovat pro PreMid, tak se podívejte na naše **nabídky práce**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzoři",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD by nebyl možný, bez těchto úžasných lidí.",
 		"description": "Description for sponsors."
@@ -94,6 +118,18 @@
 	"partners.partner.aniWatch": {
 		"message": "Získej co je oprávněné. Streamuj Anime, filmy, Hentai, Speciály a další. Zdarma, bez reklam a ve vysoké definici!",
 		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Začněte vytvářet svou komunitu s úžasnými šablonami. Postavte si své vlastní království.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga je Discord Bot, který se snaží nabídnou všechny funkce, které byste mohli využít, najednou!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Silný bot, který monitoruje stránky, hry a nabízí mnohem více funkcí.",
+		"description": "Description for Statusbot."
 	},
 	"partners.partner.bitRock": {
 		"message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
