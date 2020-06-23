@@ -140,7 +140,7 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "選択してください",
+		"message": "どれか一つを選択してください。",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
