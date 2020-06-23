@@ -1,4 +1,8 @@
 {
+	"store.search.notFound": {
+		"message": "Tento Presence jsme nenašli...",
+		"description": "Search result text when nothing's found"
+	},
 	"error.code.404": {
 		"message": "Promiň, tuhle stránku jsme nenašli.",
 		"description": "Error (404) message"
