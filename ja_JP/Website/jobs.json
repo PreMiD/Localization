@@ -27,6 +27,10 @@
 		"message": "PreMiDで働く",
 		"description": "First part of the jobs page."
 	},
+	"jobs.benefit5.description": {
+		"message": "ボランティアなので、暇な時にいつでもできます。",
+		"description": "Benefit card description."
+	},
 	"jobs.errors.alreadyApplied": {
 		"message": "すでに申し込み済みです！",
 		"description": "Notification when you applied already."
