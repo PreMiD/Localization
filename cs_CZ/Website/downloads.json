@@ -1,7 +1,31 @@
 {
+	"downloads.header.title": {
+		"message": "Čas se předvést.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Použij PreMiD a ukaž svým přátelům co děláš, možná najdeš někoho se stejnými zájmy.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Jak Začít",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Stáhnout PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Nainstaluj si naši aplikaci",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Přidej si naše rozšiření do prohlížeče",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Znovu si načti tuhle stránku a zkontroluj, jestli je rozšíření připojené",
+		"description": "I think you get what this is..."
 	},
 	"downloads.appdownloading.header": {
 		"message": "Aplikace",
