@@ -9,7 +9,7 @@ editor: markdown
 
 # Pokyny
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Při publikování Presence na tento GitHub, požadujeme, abyste dodržovali tyto pokyny. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Vytváření
 
