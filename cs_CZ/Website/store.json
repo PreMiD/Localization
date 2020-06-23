@@ -15,6 +15,10 @@
 		"message": "Partnerská Presence",
 		"description": "Presence card partner flame"
 	},
+	"store.cards.extraStepsRequired": {
+		"message": "Tato presence vyžaduje další kroky, aby mohla pracovat, prosím zkontrolujte její stránku pro více informací.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
 	"store.header.search": {
 		"message": "Hledat Presence",
 		"description": "Search bar text when nothing is stated"
@@ -42,6 +46,10 @@
 	"store.category.filters.allowAdult": {
 		"message": "Zobrazit NSFW",
 		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Pouze Presence označené \"Líbí se\"",
+		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
 		"message": "Zobrazovat již pridané Presence",
@@ -78,6 +86,10 @@
 	"store.search": {
 		"message": "Hledat",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Vložit",
+		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
 		"message": "Klikněte pro odstranení filtru",

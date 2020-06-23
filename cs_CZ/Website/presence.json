@@ -23,6 +23,10 @@
 		"message": "Verze",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.likes": {
+		"message": "Líbí se",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
 	"presence.sections.information.users": {
 		"message": "Uživatelé",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"

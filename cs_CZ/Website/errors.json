@@ -34,5 +34,13 @@
 	"user.notFound.message2": {
 		"message": "uživatel vytvořil dostatek Presence a má roli \"Presence Developer\" na našem Discord serveru.",
 		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "i ostatní mají stejný problém na našem Discord serveru.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Pokud věříte, že se jedná o chybu, prosím kontaktujte nás na našem [Discord serveru].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
