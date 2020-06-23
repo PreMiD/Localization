@@ -14,7 +14,7 @@ tags:
 Můžete stisknout <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) nebo <kbd>CMD+R</kbd> (MacOS) na vaší klávesnici místo hledání tlačítka obnovit.
 
 ### Restartujte prohlížeč
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) dělá dobrou práci také. (Musíte spustit prohlížeč znovu samozřejmě.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) dělá také dobrou práci. (Musíte samozřejmě spustit prohlížeč znovu.)
 
 ### Ujistěte se, že jste povolili Discord herní aktivitu v nastavení
 **Uživatelské nastavení** > **Herní aktivita** ![herní aktivita_upraveno.png](/gameactivity_edited.png)
@@ -41,7 +41,7 @@ Doufám, že víte, jak restartovat počítač.
 Někdy je na souborech něco špatně... Návody pro instalaci naleznete [zde](/install).
 
 ### Ruční odstranění
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\UZIVATEL\AppData\Roaming\`` a smažte složku`PreMiD`.
 MacOS:`~/users/USER/~Knihovna/Podpora aplikací/`a smažte složku`PreMiD``.
 
 ### Na distros Ubuntu/Debianu
