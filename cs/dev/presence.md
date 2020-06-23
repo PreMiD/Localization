@@ -398,7 +398,7 @@ The website you are developing on is automatically reloading every time you save
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
 # Files explained
-- [Třída přítomnosti](/dev/presence/class)
+- [Třída Presence](/dev/presence/class)
 - [iFrame Třída](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [Konfigurace TypeSkriptu](/dev/presence/tsconfig)
