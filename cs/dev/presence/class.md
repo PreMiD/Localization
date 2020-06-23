@@ -1,22 +1,22 @@
 ---
-title: Třída přítomnosti
-description: Hlavní třída pro každou přítomnost PreMiD
+title: Třída Presence
+description: Hlavní třída pro každou presence PreMiD
 published: true
 date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
-# Třída přítomnosti
+# Třída Presence
 
 ## Úvod
 
-Třída `Presence` je velmi užitečná, protože má základní metody, které potřebujeme k vytvoření přítomnosti.
+Třída `Presence` je velmi užitečná, protože má základní metody, které potřebujeme k vytvoření presence.
 
  Při vytváření třídy musíte zadat `klientské Id`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Příklad clientId
 });
 ```
 
@@ -26,13 +26,13 @@ Jsou k dispozici dvě vlastnosti pro `Presence` třídu.
 
 Musí být poskytnuta vlastnost `klientských Id` , aby vaše přítomnost fungovala, protože používá ID vaší aplikace k zobrazení jejího loga a majetku.
 
-Můžete to získat na stránce [aplikací](https://discordapp.com/developers/applications).
+Můžete ji získat na vaší [stránce aplikace](https://discordapp.com/developers/applications).
 
 ## Metody
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Vrátí `presenceData` objekt toho, co presence zobrazuje.
 
 ### `setActivity(presenceData, Boolean)`
 
