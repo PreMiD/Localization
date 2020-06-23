@@ -1,18 +1,18 @@
 {
     "youtube.ad": {
-        "message": "Momentálně se zobrazuje reklama",
+        "message": "Momentálně sleduje reklamu",
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Prohlížení videí",
+        "message": "Prohlíží videa",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Prohlížení playlistů",
+        "message": "Prohlíží playlisty",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Prohlížení komunitních příspěvků",
+        "message": "Prohlíží komunitní příspěvky",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -20,11 +20,11 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Čtení o kanálu:",
+        "message": "Čte si o kanálu:",
         "description": ""
     },
     "youtube.searchChannel": {
-        "message": "Vyhledávání prostřednictvím kanálu: {0} pro:",
+        "message": "Prohledává kanál {0} pro:",
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
@@ -36,7 +36,7 @@
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "jejich předplatné",
+        "message": "své odběry",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
@@ -52,7 +52,7 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Prohlížení historie jejich zpráv",
+        "message": "Prohlíží si svou historii nahlášení",
         "description": ""
     },
     "youtube.upload": {
@@ -60,35 +60,35 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Zobrazení všech jejich playlistů",
+        "message": "Prohlíží si své playlisty",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "Zobrazení jejich živých událostí",
+        "message": "Prohlíží si své živé události",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "Zobrazení jejich živého řídicího panelu",
+        "message": "Kouká se na svůj live dashboard",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Zobrazení zvukové knihovny",
+        "message": "Dívá se na svou audio knihovnu",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Zobrazení jejich videí",
+        "message": "Kouká se na svá videa",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Úprava videa:",
+        "message": "Upravuje video:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Zobrazení analýzy videa:",
+        "message": "Kouká na analytiku videa:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Zobrazení komentářů videa:",
+        "message": "Dívá se na komentáře pod videem:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
@@ -100,7 +100,7 @@
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
-        "message": "Analytika kanálů",
+        "message": "analytiku kanálu",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
@@ -116,7 +116,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Zobrazení jejich živého řídicího panelu",
+        "message": "Kouká na svůj řídící panel",
         "description": ""
     }
 }
