@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Znovu načíst stránku
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Můžete stisknout <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) nebo <kbd>CMD+R</kbd> (MacOS) na vaší klávesnici místo hledání tlačítka obnovit.
 
 ### Restartujte prohlížeč
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) dělá dobrou práci také. (Musíte spustit prohlížeč znovu samozřejmě.)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) Poté musíte restartovat PreMiD.
 
 ### Znovu načíst/restartovat Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Stiskněte <kbd>CTRL+R</kbd> (Windows) nebo <kbd>CMD+R</kbd> (MacOS) na vaší klávesnici nebo restartujte Discord ručně.
 
 ### Ujistěte se, že Discord neběží jako správce
 Skutečně důležité. Discord RPC nebude fungovat, pokud spustíte Discord jako správce.
