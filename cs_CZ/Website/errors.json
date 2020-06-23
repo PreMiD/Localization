@@ -1,4 +1,8 @@
 {
+	"store.search.notFound": {
+		"message": "Tento Presence jsme nenašli...",
+		"description": "Search result text when nothing's found"
+	},
 	"error.code.404": {
 		"message": "Promiň, tuhle stránku jsme nenašli.",
 		"description": "Error (404) message"
@@ -22,5 +26,13 @@
 	"user.notFound.heading": {
 		"message": "Tohoto uživatele se nepodařilo najít. Ujistěte se že",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "ID uživatele, kterého hledáte, je správné.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "uživatel vytvořil dostatek Presence a má roli \"Presence Developer\" na našem Discord serveru.",
+		"description": "Check the presence amount of the developer created message."
 	}
 }
