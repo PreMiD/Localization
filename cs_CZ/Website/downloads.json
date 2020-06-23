@@ -119,8 +119,20 @@
 		"message": "Hotovo",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Přihlásit se",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Děkujeme!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Používáme reklamy na podporu našeho týmu a údržbu našich serverů, abychom vám mohli nabídnout co nejlepší zážitek!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Prosím vypněte svůj blokovač reklam.",
+		"description": "Message next to pepe."
 	}
 }
