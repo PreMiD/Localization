@@ -7,17 +7,17 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Některé stránky mohou být neúplné nebo chybí. 
+> Dokumentaci stále upravujeme! Některé stránky mohou být neúplné nebo chybí. 
 > 
 > {.is-warning}
 
 # O PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [Co je PreMiD?](/about) Úmysly za PreMiD a proč bys ho měl používat.
 - :link: [Co je RPC?](https://discordapp.com/rich-presence) Všechno o Rich Presence a jeho funkcích.
 
 # Začínáme
 
-PreMiD je rychlý a snadno nainstalovatelný. Měli byste být aktivní a běžet za žádný čas.
+PreMiD je rychlý a snadno nainstalovatelný. S instalací byste měli být hned hotoví.
 
 - Ujistěte se, že jste si přečetli [systémové požadavky](/install/requirements).
 - Postupujte podle rychlého a jednoduchého [instalačního průvodce](/install).
@@ -31,9 +31,9 @@ PreMiD je rychlý a snadno nainstalovatelný. Měli byste být aktivní a běže
 - :wrench: [Presence Development](/dev/presence): Zjistěte, jak používat náš systém Presence.
 
 # Přispět
-- :bug: [Nahlásit chybu](https://github.com/PreMiD): Pomozte nám tyto chyby rozptýlit.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
-- :heart: [Přispějte](https://www.patreon.com/Timeraa): udělejte malý příspěvek nebo se stane sponzorem tohoto úžasného projektu!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Nechte ostatní uživatele používat PreMiD ve svém rodném jazyce.
+- :bug: [Nahlásit chybu](https://github.com/PreMiD): Pomozte nám tyto chyby zničit.
+- :bulb: [Navrhněte novou funkci](https://discord.gg/WvfVZ8T): Potřebujeme vaše nápady!
+- :heart: [Přispějte](https://www.patreon.com/Timeraa): udělejte malý příspěvek nebo se staňte sponzorem tohoto úžasného projektu!
+- :globe_with_meridians: [Jazyky](https://translate.premid.app): Nechte ostatní uživatele používat PreMiD ve svém rodném jazyce.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
