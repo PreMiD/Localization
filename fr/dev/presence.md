@@ -59,14 +59,15 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "UTILISATEUR",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "UTILISATEUR",
+    "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -76,15 +77,15 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATÉGORIE",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "TITRE D'AFFICHAGE",
-            "icon": "ICÔNE LIBRE SUR FONTAWESOME ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -92,15 +93,15 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
             "if": {
                 "ID": true
             },
-            "title": "TITRE D'AFFICHAGE",
-            "icon": "ICÔNE LIBRE SUR FONTAWESOME",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "TITRE D'AFFICHAGE",
-            "icon": "ICÔNE LIBRE SUR FONTAWESOME",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -153,6 +154,16 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Non</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Oui</code>
       </td>
     </tr>
     <tr>
