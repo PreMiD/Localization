@@ -77,6 +77,7 @@ Elke presence heeft een beschrijvingsbestand genaamd `metadata.json`, de metadat
     }
   ],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "BESCHRIJVING"
   },
@@ -143,6 +144,10 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`service`**
 
 - De servicenaam **moet** de naam van de presence map zijn. Als de presence zich bijvoorbeeld bevindt op `/websites/Y/YouTube/`moet de servicenaam `YouTube` zijn.
+
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 
