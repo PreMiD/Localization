@@ -1,1 +1,42 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "映画ライブラリーを見る",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "最新のエピソードを見る",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "トップ100を見る",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "トレンドを見る",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "アニメトレントを見る",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "アプリのトレントを見る",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "ドキュメントのトレントを見る",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "ゲームのトレントを見る",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "映画のトレントを見る",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "音楽のトレントを表示",
+        "description": ""
+    }
+}

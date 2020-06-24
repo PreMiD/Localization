@@ -27,6 +27,10 @@
         "message": "チャンネル {0} 内の検索中:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "トレンドを見る",
+        "description": ""
+    },
     "youtube.subscriptions": {
         "message": "登録チャンネル",
         "description": "Part two of \"Browsing through\""
