@@ -67,34 +67,35 @@ presence
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "ПОЛЬЗОВАТЕЛЬ",
+      "name": "USER",
       "id": "ID"
     }
   ],
-  "service": "СЕРВИС",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "ОПИСАНИЕ"
+    "en": "DESCRIPTION"
   },
-  "url": "ССЫЛКА",
-  "version": "ВЕРСИЯ",
-  "logo": "ССЫЛКА",
-  "thumbnail": "ССЫЛКА",
+  "url": "URL",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "КАТЕГОРИЯ",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "ОТОБРАЗИТЬ НАЗВАНИЕ",
-      "icon": "БЕСПЛАТНЫЕ ИКОНКИ FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
       "value": true
     },
     {
@@ -102,15 +103,15 @@ presence
       "if": {
         "ID": true
       },
-      "title": "ОТОБРАЗИТЬ НАЗВАНИЕ",
-      "icon": "БЕСПЛАТНЫЕ ИКОНКИ FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "ОТОБРАЗИТЬ НАЗВАНИЕ",
-      "icon": "БЕСПЛАТНЫЕ ИКОНКИ FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -143,6 +144,10 @@ presence
 ### **`service`**
 
 - Имя службы ** должно ** быть именем каталога presence. Например, если presence находится на `/websites/Y/YouTube/`, название сервиса должно быть `YouTube`.
+
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 

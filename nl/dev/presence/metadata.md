@@ -23,6 +23,7 @@ Het voorbeeld van dat bestand kan hieronder worden gevonden.
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -105,6 +106,16 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
@@ -340,3 +351,4 @@ Bij het maken van je presence moet je een categorie opgeven waaronder de presenc
     </tr>
   </tbody>
 </table>
+
