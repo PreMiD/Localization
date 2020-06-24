@@ -15,31 +15,33 @@ Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün için
 ```javascript
 {
   "author": {
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVİS İSMİ",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "AÇIKLAMA",
-    "tr": "TÜRKÇE AÇIKLAMA"
+    "en": "DESCRIPTION"
   },
-  "url": "LİNK",
-  "version": "SÜRÜM",
-  "logo": "LOGO LİNKİ",
-  "thumbnail": "KÜÇÜK RESİM LİNKİ",
-  "color": "#HEX000",
-  "tags": ["ETİKET1", "ETİKET2"],
-  "category": "KATEGORİ",
+  "url": "URL",
+  "regExp": "REGEXP",
+  "iFrameRegExp": "REGEXP",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
+  "color": "#45A8FC",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -47,17 +49,17 @@ Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün için
             "if": {
                 "ID": true
             },
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
-            "value": "\"%şarkı%\", %sanatçı%",
-            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
-            "values": ["1", "2", "vb."]
+            "values": ["1", "2", "etc."]
         }
     ]
 }
@@ -102,6 +104,16 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Hayır</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -206,7 +218,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ayarlar</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">Kullanıcıların değiştirebileceği ayarlar array'ı</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
@@ -334,3 +346,4 @@ Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmeli
     </tr>
   </tbody>
 </table>
+
