@@ -139,7 +139,7 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ### **`contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- Do **not** adicione-se como colaborador e não adicione outra pessoa como colaborador, a menos que tenha ajudado na presença.
 
 ### **`service`**
 
