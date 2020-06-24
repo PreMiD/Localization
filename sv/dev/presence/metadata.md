@@ -23,6 +23,7 @@ Exemplet med den filen kan hittas nedan.
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -108,6 +109,16 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ja</code>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>beskrivning</b>
       </td>
       <td style="text-align:left">Liten beskrivning av närvaron, du kan använda beskrivning av tjänsten
@@ -131,7 +142,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">En linjär uttryckssträng som används för att matcha webbadresser.</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>Sträng</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -340,3 +351,4 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
   </tbody>
 </table>
+
