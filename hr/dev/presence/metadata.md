@@ -23,6 +23,7 @@ The example of that file can be found below.
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -89,7 +90,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>prinosnici</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -105,6 +106,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>
@@ -309,7 +320,7 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>igre</b></td>
     <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
@@ -321,7 +332,7 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socials</b></td>
+      <td style="text-align:left"><b>društvene mreže</b></td>
         <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
@@ -333,10 +344,11 @@ When making your presence, you must specify a category which the presence falls 
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>ostalo</b></td>
     <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
   </tbody>
 </table>
+

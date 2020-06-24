@@ -58,32 +58,33 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
 <pre><code class="json">{
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVICIO",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPCIÓN"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSIÓN",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["ETIQUETA1", "ETIQUETA2"],
-  "category": "CATEGORÍA",
-  "regExp": "EXPRESIÓN REGULAR",
-  "iFrameRegExp": "EXPRESIÓN REGULAR",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
+  "regExp": "REGEXP",
+  "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "TÍTULO PARA MOSTRAR",
-            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -91,15 +92,15 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
             "if": {
                 "ID": true
             },
-            "title": "TÍTULO PARA MOSTRAR",
-            "icon": "ÍCONO DE FONTAWESOME GRATIS",
-            "value": "\"%song%\" por %artist%",
-            "placeholder": "usa %song% o %artist%"
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "TÍTULO PARA MOSTRAR",
-            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -168,6 +169,16 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Sí</code>
       </td>
     </tr>
     <tr>

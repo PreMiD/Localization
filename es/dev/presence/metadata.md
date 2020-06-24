@@ -15,32 +15,33 @@ El ejemplo de ese archivo se puede encontrar a continuación.
 ```javascript
 {
   "author": {
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVICIO",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPCIÓN"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
-  "regExp": "EXPRESIÓN REGULAR",
-  "iFrameRegExp": "EXPRESIÓN REGULAR",
-  "version": "VERSIÓN",
+  "regExp": "REGEXP",
+  "iFrameRegExp": "REGEXP",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["ETIQUETA1", "ETIQUETA2"],
-  "category": "CATEGORÍA",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "TÍTULO PARA MOSTRAR",
-            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -48,15 +49,15 @@ El ejemplo de ese archivo se puede encontrar a continuación.
             "if": {
                 "ID": true
             },
-            "title": "TÍTULO PARA MOSTRAR",
-            "icon": "ÍCONO DE FONTAWESOME GRATIS",
-            "value": "\"%song%\" por %artist%",
-            "placeholder": "usa %song% or %artist%"
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "TÍTULO PARA MOSTRAR",
-            "icon": "ÍCONO DE FONTAWESOME GRATIS",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -108,6 +109,16 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Sí</code>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
@@ -130,7 +141,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Una cadena de expresión regular usada para coincidir con las urls.</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
@@ -339,3 +350,4 @@ Cuando haces tu presencia, debes especificar de que categoría es tu presencia. 
     </tr>
   </tbody>
 </table>
+

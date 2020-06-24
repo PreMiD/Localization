@@ -77,6 +77,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
     }
   ],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -136,13 +137,17 @@ A list of fields and their rules are listed below:
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`prinosnici`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
 ### **`service`**
 
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 

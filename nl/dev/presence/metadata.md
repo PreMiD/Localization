@@ -15,33 +15,33 @@ Het voorbeeld van dat bestand kan hieronder worden gevonden.
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "BESCHRIJVING"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSIE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "DISPLAY TITEL",
+            "icon": "FONTAWESOME GRATIS ICOON",
             "value": true
         },
         {
@@ -49,15 +49,15 @@ Het voorbeeld van dat bestand kan hieronder worden gevonden.
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "DISPLAY TITEL",
+            "icon": "FONTAWESOME GRATIS ICOON",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "DISPLAY TITEL",
+            "icon": "FONTAWESOME GRATIS ICOON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -111,7 +111,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Wees in staat om de presence te zoeken met een alternatieve naam. <br>Bedoeld voor presences met verschillende namen in verschillende talen (bijv. Pokémon en 포켓몬스몬).<br>Je kunt het ook gebruiken voor presences met speciale tekens, zodat je die niet hoeft te typen (bijv. Pokémon en Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>

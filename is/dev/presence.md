@@ -67,6 +67,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -109,7 +110,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 ```
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
-- `contributors`
+- `þátttakendur`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -127,7 +128,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>höfundur</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -137,7 +138,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>þátttakendur</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
@@ -153,6 +154,16 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Yes</code>
       </td>
     </tr>
     <tr>

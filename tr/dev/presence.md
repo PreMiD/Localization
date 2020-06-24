@@ -59,33 +59,33 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVİS İSMİ",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "AÇIKLAMA",
-    "tr": "TÜRKÇE AÇIKLAMA"
+    "en": "DESCRIPTION"
   },
-  "url": "LİNK",
-  "version": "SÜRÜM",
-  "logo": "LOGO LİNKİ",
-  "thumbnail": "KÜÇÜK RESİM LİNKİ",
+  "url": "URL",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["ETİKET1", "ETİKET2"],
-  "category": "KATEGORİ",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -93,17 +93,17 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
             "if": {
                 "ID": true
             },
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
-            "value": "\"%şarkı%\", %sanatçı%",
-            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
-            "values": ["1", "2", "vb."]
+            "values": ["1", "2", "etc."]
         }
     ]
 }
@@ -114,7 +114,7 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `ayarlar`
+- `settings`
 
 **Bu veriler hakkında daha fazla bilgi istiyorsanız:**
 <table>
@@ -152,6 +152,16 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Hayır</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Evet</code>
       </td>
     </tr>
     <tr>
@@ -268,7 +278,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ayarlar</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">Kullanıcıların değiştirebileceği ayarlar array'ı. Daha fazla bilgi için <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">buraya</a> gözatın.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>

@@ -77,6 +77,7 @@ Cada presencia tiene un archivo para describirla llamado `metadata.json`, el met
     }
   ],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -144,6 +145,10 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 - El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+
 ### **`descripción`**
 
 - **Todas** las presencias **requieren** una descripción en Inglés sin importar el idioma preferido del sitio web.
@@ -157,7 +162,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`versión`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- La versión **debe** empezar siempre en `1.0.0` a menos que se diga lo contrario, otras versiones **no** serán permitidas.
+- La versión **debe** empezar siempre con `1.0.0` a menos que se diga lo contrario, otras versiones **no** serán permitidas.
 
 ### **`logotipo`**
 

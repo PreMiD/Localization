@@ -6,7 +6,7 @@ date: 2020-04-20T11:16:55.141Z
 tags:
 ---
 
-> Ujistěte se, že máte rozšíření **a** nainstalovanou aplikaci! 
+> Ujistěte se, že máte rozšíření **a** aplikaci nainstalovanou! 
 > 
 > {.is-warning}
 
@@ -17,7 +17,7 @@ Můžete stisknout <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) nebo <kbd>CMD+R</kb
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) dělá také dobrou práci. (Musíte samozřejmě spustit prohlížeč znovu.)
 
 ### Ujistěte se, že jste povolili Discord herní aktivitu v nastavení
-**Uživatelské nastavení** > **Herní aktivita** ![herní aktivita_upraveno.png](/gameactivity_edited.png)
+**Uživatelské nastavení** > **Herní aktivita** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Restartovat PreMiD (Aplikace)
 ![quit.png](/quit.png) Poté musíte restartovat PreMiD.

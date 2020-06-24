@@ -20,16 +20,16 @@ Kód, který píšete uvnitř vašeho `iframe.ts` souboru se vloží do každéh
 Stejně jako přítomnost, `iframy` mají své vlastní třídy určené k automatické aktualizaci dat.
 
 ```typescript
-let iframe = nový iFrame();
+let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code zde ...
+    // Kód zde...
 });
 ```
 
 ## Metody
 
-### `send(objekt)`
+### `send(Object)`
 Odešle data do přítomnosti. Pomocí této metody se díky přítomnosti hodí událost `iFrameData`.
 
 ### `getUrl()`

@@ -67,16 +67,17 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "UTILISATEUR",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "UTLISATEUR",
+      "name": "USER",
       "id": "ID"
     }
   ],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -86,15 +87,15 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORIE",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "TITRE D'AFFICHAGE",
-      "icon": "ICONE GRATUITE SUR FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
       "value": true
     },
     {
@@ -102,15 +103,15 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
       "if": {
         "ID": true
       },
-      "title": "TITRE D'AFFICHAGE",
-      "icon": "ICONE GRATUITE SUR FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TITRE D'AFFICHAGE",
-      "icon": "ICONE GRATUITE SUR FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -143,6 +144,10 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`Service`**
 
 - Le nom du service **doit être** le nom du répertoire de presence. Par exemple, si la presence est située à `/websites/Y/YouTube/`, le nom du service doit être `YouTube`.
+
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 

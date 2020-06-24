@@ -15,32 +15,33 @@ Příklad tohoto souboru je uveden níže.
 ```javascript
 {
   "author": {
-    "name": "UŽIVATEL",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "UŽIVATEL",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SLUŽBA",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "POPIS"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERZE",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "KATEGORIE",
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "NÁZEV",
-            "icon": "FONTAWESOME FREE IKONA",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -48,15 +49,15 @@ Příklad tohoto souboru je uveden níže.
             "if": {
                 "ID": true
             },
-            "title": "NÁZEV",
+            "title": "DISPLAY TITLE",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" od %artist%",
-            "placeholder": "použij %song% nebo %artist%"
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "NÁZEV",
-            "icon": "FONTAWESOME FREE IKONA",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -108,6 +109,16 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ano</code>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>popis</b>
       </td>
       <td style="text-align:left">Malý popis presence, můžete použít popis služby
@@ -131,7 +142,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Regulární výraz řetězec používaný pro odpovídající URL adresy.</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
       <td style="text-align:left"><code>Ano</code>
@@ -340,3 +351,4 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
   </tbody>
 </table>
+

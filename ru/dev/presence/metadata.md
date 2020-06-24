@@ -15,32 +15,33 @@ tags:
 ```javascript
 {
   "author": {
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "СЕРВИС",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "ОПИСАНИЕ"
+    "en": "DESCRIPTION"
   },
-  "url": "ССЫЛКА",
+  "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "ВЕРСИЯ",
-  "logo": "ССЫЛКА",
-  "thumbnail": "ССЫЛКА",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "КАТЕГОРИИ",
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -48,15 +49,15 @@ tags:
             "if": {
                 "ID": true
             },
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
@@ -108,6 +109,16 @@ tags:
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Да</code>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание сервиса
@@ -131,7 +142,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Строка регулярных выражений, используемая для совпадения с url.</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Да</code>
@@ -340,3 +351,4 @@ presence.showSetting("pdexID"); // Заменить pdexID идентифика�
     </tr>
   </tbody>
 </table>
+
