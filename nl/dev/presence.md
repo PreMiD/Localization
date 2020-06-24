@@ -67,6 +67,7 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "BESCHRIJVING"
   },
@@ -153,6 +154,16 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Wees in staat om de presence te zoeken met een alternatieve naam. <br>Bedoeld voor presences met verschillende namen in verschillende talen (bijv. Pokémon en 포켓몬스몬).<br>Je kunt het ook gebruiken voor presences met speciale tekens, zodat je die niet hoeft te typen (bijv. Pokémon en Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Ja</code>
       </td>
     </tr>
     <tr>
