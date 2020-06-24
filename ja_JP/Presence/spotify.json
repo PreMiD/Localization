@@ -1,1 +1,26 @@
-{}
+{
+	"spotify.charts": {
+		"message": "チャートを閲覧中",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "ジャンルを閲覧中",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "最新リリースを閲覧中",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "新しい曲を発見中",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "閲覧中",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.download": {
+		"message": "Spotifyをダウンロード中",
+		"description": ""
+	}
+}
