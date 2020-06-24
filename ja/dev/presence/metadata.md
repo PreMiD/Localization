@@ -23,6 +23,7 @@ If you want to publish a presence to the store and load it via the extension, yo
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -103,6 +104,16 @@ If you want to publish a presence to the store and load it via the extension, yo
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>不可</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>可</code>
       </td>
     </tr>
     <tr>
@@ -336,3 +347,4 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     </tr>
   </tbody>
 </table>
+
