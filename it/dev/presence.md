@@ -59,32 +59,33 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "UTENTE",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "UTENTE",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVIZIO",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIZIONE"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSIONE",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORIA",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "TITOLO DA MOSTRARE",
-            "icon": "ICONA GRATIS DA FONTAWESOME",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
         {
@@ -92,17 +93,17 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
             "if": {
                 "ID": true
             },
-            "title": "TITOLO DA MOSTRARE",
-            "icon": "ICONA GRATIS DA FONTAWESOME",
-            "value": "\"%song%\" di %artist%",
-            "placeholder": "usa %song% o %artist%"
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "TITOLO DA MOSTRARE",
-            "icon": "ICONA GRATIS DA FONTAWESOME",
+            "title": "DISPLAY TITLE",
+            "icon": "FONTAWESOME FREE ICON",
             "value": 0,
-            "values": ["1", "2", "ecc."]
+            "values": ["1", "2", "etc."]
         }
     ]
 }
@@ -153,6 +154,16 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
       <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>No</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>sì</code>
       </td>
     </tr>
     <tr>
