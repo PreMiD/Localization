@@ -6,54 +6,54 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Zapnutí automatického spuštění na Linuxu je nyní dostupné z aplikace místo rozšíření.{.is-warning}
 
 Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
 
-## Table of Contents
+## Obsah
 
 - **[Podrobnosti](#about)**
-  - [Stats](#stats)
+  - [Statistiky](#stats)
   - [Požadavky](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Příklady (brzy)
+  - Časté dotazy (brzy)
+  - Sestavování (brzy)
+  - [Podpora](#support)
   - [Poděkování](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+  - [Licence](#license)
+- **[Snapcraft](#snapcraft)** (TL;DR : _nikdy_ ™️)
+- **[Přenosný AppImage ](#portable-appimage)** (_DOPORUŘENO_)
+  - [Návod k instalaci](#installation-instructions)
+  - [Dodatečné poznámky](#additional-notes)
+- **Distribuce založené na Red Hat Enterprise Linux (RHEL)** (již brzy, prozatím použijte [tohle](#portable-appimage))
+- **Distribuce založené na Debian a Ubuntu** (Již brzy, prozatím použijte [tohle](#portable-appimage))
+- **[Distribuce založené ne Arch Linuxu](#arch-linux-based-distributions)**
+  - [Návod k instalaci](#installation-instructions-1)
+  - [Dodatečné poznámky](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [Návod k instalaci](#installation-instructions-2)
+  - [Dodatečné poznámky](#additional-notes-2)
 
 <a name="about"></a>
 
 ## Podrobnosti
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** je jednoduchý, konfigurovatelný nástroj, který používá Discord RP (Rich Presence) knihovnu, což vám umožňuje zobrazit co děláte na webu (a v pár programech) na svém Discord profilu jako **"Právě hraje" status**.
 
 <a name="stats"></a>
 
-### Stats
+### Statistiky
 
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Celkový počet stažení</th>
+    <th>Poslední verze</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Všechny vydání"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub vydání"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Poslední verze"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub vydání"></a></td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Podpora
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Připojte se k našemu Discordu!">
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Licence
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Návod k instalaci
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,20 +126,20 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Dodatečné poznámky
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Distribuce založené ne Arch Linuxu
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Návod k instalaci
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Dodatečné poznámky
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### Návod k instalaci
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### Dodatečné poznámky
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
