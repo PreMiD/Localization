@@ -61,7 +61,7 @@ Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o 
 
 ### Požadavky
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Technicky každá distribuce, na které lze spustit [oficiální](https://discordapp.com/download) Discord **aplikace** (ne webová nebo snap verze), může spustit i PreMiD;</br> Jak jste si možná mohli všimnou v posledních letech, některé Linuxové distribuce začaly rušit podporu 32-bitových (ia32/i686/i386/x86) architektur, a proto jsme se rozhodli tak také učinit. Můžete se však pokusit sestavit aplikaci sami, pokud ji zoufale potřebujete používat na 32-bitové distribuci.</br>Jelikož používáme Electron jako engine (Discord taky!), jeho požadavky se také vztahují na tuto aplikaci :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
