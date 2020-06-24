@@ -23,6 +23,7 @@ tags:
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -105,6 +106,16 @@ tags:
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>ไม่</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>ใช่</code>
       </td>
     </tr>
     <tr>
@@ -340,3 +351,4 @@ presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ข�
     </tr>
   </tbody>
 </table>
+
