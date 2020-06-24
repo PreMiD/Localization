@@ -23,6 +23,7 @@ Przykład tego pliku można znaleźć poniżej.
     "id": "ID"
   }],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -108,6 +109,16 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>altnames</b>
+      </td>
+      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      </td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      </td>
+      <td style="text-align:left"><code>Tak</code>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left"><b>opis</b>
       </td>
       <td style="text-align:left">Mały opis obecności, możesz użyć opisu usługi
@@ -131,7 +142,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowania adresów URL.</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
@@ -340,3 +351,4 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
     </tr>
   </tbody>
 </table>
+
