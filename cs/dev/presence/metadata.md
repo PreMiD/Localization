@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Obsahuje základní údaje o přítomnosti
+description: Obsahuje základní údaje o Presence
 published: true
 date: 2020-05-21T16:01:05.836Z
 tags:
@@ -8,39 +8,39 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Pokud chcete publikovat presence do obchodu a načíst ji pomocí našeho rozšíření, měli byste vytvořit soubor `metadata.json` ve vaší `dist` složce.
 
 Příklad tohoto souboru je uveden níže.
 
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "UŽIVATEL",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UŽIVATEL",
     "id": "ID"
   }],
-  "service": "SERVICE",
+  "service": "SLUŽBA",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "POPIS"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERZE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "KATEGORIE",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "NÁZEV",
+            "icon": "FONTAWESOME FREE IKONA",
             "value": true
         },
         {
@@ -48,15 +48,15 @@ Příklad tohoto souboru je uveden níže.
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
+            "title": "NÁZEV",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "value": "\"%song%\" od %artist%",
+            "placeholder": "použij %song% nebo %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "NÁZEV",
+            "icon": "FONTAWESOME FREE IKONA",
             "value": 0,
             "values": ["1", "2", "etc."]
         }
