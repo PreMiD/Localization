@@ -77,6 +77,7 @@ Setiap presence memiliki file descriptor bernama `metadata.json`, metadata memil
     }
   ],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -116,9 +117,6 @@ Setiap presence memiliki file descriptor bernama `metadata.json`, metadata memil
     }
   ]
 }
-    }
-  ]
-}
 ```
 
 > Jika bidang terdaftar sebagai opsional pada [dokumentasi](https://docs.premid.app/en/dev/presence/metadata) dan presence anda menggunakan value default, jangan mencantumkannya pada file `metadata`. (misal, presence tanpa iframe support tidak memerlukan bidang `iframe`.) 
@@ -146,6 +144,10 @@ Daftar bidang dan peraturannya tertulis dibawah:
 ### **`service`**
 
 - Nama layanan **harus** sesuai dengan nama dari direktori presence. Contohnya, jika presence terletak di `/websites/Y/YouTube/`, nama layanan harus `YouTube`.
+
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 
