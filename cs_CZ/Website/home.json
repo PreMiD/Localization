@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém Discordu právě hraješ.",
+		"message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém \"Právě Hraješ\" statusu na Discordu.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -36,11 +36,11 @@
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Najdi **svou** přítomnost",
+		"message": "Najdi **svou** presence",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Naše rozšíření jsme vyvinuli způsobem který ti umožňuje přidávat a používat přítomnosti vytvořené jinými uživateli a spravovat je v našem rozšíření!",
+		"message": "Naše rozšíření jsme vyvinuli způsobem který ti umožňuje přidávat a používat presence vytvořené jinými uživateli a spravovat je v našem rozšíření!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -60,7 +60,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Spravování přítomností",
+		"message": "Spravování presence",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
