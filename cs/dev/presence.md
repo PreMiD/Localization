@@ -129,7 +129,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+      <td style="text-align:left">Mělo by obsahovat objekt se <code>jménem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
@@ -139,7 +139,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>přispěvatelé</b>
       </td>
-      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+      <td style="text-align:left">Mělo by obsahovat objekt se <code>jménem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
       <td style="text-align:left"><code>Pole&lt;Object&gt;</code>
       </td>
@@ -149,7 +149,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>služba</b>
       </td>
-      <td style="text-align:left">Název služby, kterou tato přítomnost podporuje. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Název služby, kterou tato presence podporuje. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
       <td style="text-align:left"><code>Ne</code>
@@ -158,8 +158,8 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>popis</b>
       </td>
-      <td style="text-align:left">Malý popis přítomnosti, můžete použít popis služby
-        , pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
+      <td style="text-align:left">Malý popis presence, můžete použít popis služby
+         pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Ne</code>

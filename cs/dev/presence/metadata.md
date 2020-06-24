@@ -81,7 +81,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>autor</b>
       </td>
-      <td style="text-align:left">Mělo by obsahovat objekt s <code>názvem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
+      <td style="text-align:left">Mělo by obsahovat objekt se <code>jménem</code> a <code>id</code> vývojáře přítomnosti. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
@@ -101,7 +101,7 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>služba</b>
       </td>
-      <td style="text-align:left">Název služby, kterou tato přítomnost podporuje.</td>
+      <td style="text-align:left">Název služby, kterou tato presence podporuje.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
       <td style="text-align:left"><code>Ne</code>
@@ -110,8 +110,8 @@ Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké
     <tr>
       <td style="text-align:left"><b>popis</b>
       </td>
-      <td style="text-align:left">Malý popis přítomnosti, můžete použít popis služby
-        , pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Malý popis presence, můžete použít popis služby
+         pokud nemáte nápady. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Objekt</code>
       </td>
       <td style="text-align:left"><code>Ne</code>
