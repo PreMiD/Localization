@@ -77,6 +77,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
     }
   ],
   "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
     "en": "DESCRIPTION"
   },
@@ -143,6 +144,10 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 ### **`servizio`**
 
 - Il nome del servizio **deve** essere il nome della directory della presence. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+
+### **`altnames`**
+
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`descrizione`**
 
