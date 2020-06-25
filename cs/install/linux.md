@@ -83,13 +83,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Poděkování
 
-Thanks to :
+Poděkování:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (a pár dalších lidí, kterých jsem zapomněl jméno) za poskyování zpětné vazby u nightly verzí.
+- @apriluwu za udržování verze pro Gentoo
+- @SlimShadyIAm a naka za dřívejší údržbu balíčků Uživatelského Repozitáře Arch
+- Komunitu Electronu za různé balíčky
+- Komukoliv jinému kdo jakýmkoliv způsobem přispěl projektu.
 
 <a name="license"></a>
 
