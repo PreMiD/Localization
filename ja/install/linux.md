@@ -21,7 +21,7 @@ tags:
   - [Support](#support)
   - [貢献者](#credits)
   - [ライセンス](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Snapcraft](#snapcraft)** (要約:_ない_)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
   - [インストール手順](#installation-instructions)
   - [その他のメモ](#additional-notes)
