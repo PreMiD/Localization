@@ -112,7 +112,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Être en mesure de rechercher la présence en utilisant un autre nom. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Être en mesure de rechercher la présence en utilisant un autre nom. <br>Cela veut dire être utilisé pour les présences qui ont des noms différents dans différentes langues (par ex. Pokémon et 포켓몬스터).<br>Vous pouvez également l'utiliser pour les présences qui ont des caractères spéciaux afin que vous n'ayez pas à les taper (par ex. Pokémon et Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -143,7 +143,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Une chaîne d'expression régulière utilisée pour faire correspondre les URLs.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
       <td style="text-align:left"><code>Oui</code>
