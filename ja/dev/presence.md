@@ -21,7 +21,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 {.links-list}
 
 # Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+すべてのプレゼンスは[TypeScript](https://www.typescriptlang.org/)で書かれています。 [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## インストール
 1. [Git](https://git-scm.com/)をインストールする。
