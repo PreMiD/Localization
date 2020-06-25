@@ -39,10 +39,6 @@
 		"message": "音楽を再生中",
 		"description": ""
 	},
-	"general.listeners": {
-		"message": "リスナー",
-		"description": ""
-	},
 	"general.live": {
 		"message": "ライブ",
 		"description": ""
@@ -96,7 +92,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "何かを検索中...",
+		"message": "何かを検索しています...",
 		"description": ""
 	},
 	"general.search": {
@@ -116,7 +112,7 @@
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "チャンネルで入力:",
+		"message": "チャンネルで入力中:",
 		"description": ""
 	},
 	"general.viewAnime": {
@@ -148,7 +144,7 @@
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "漫画を閲覧中:",
+		"message": "マンガを閲覧中:",
 		"description": ""
 	},
 	"general.viewMember": {
