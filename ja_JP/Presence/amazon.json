@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "サブスクリプションを閲覧中",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "広告設定を閲覧中",
         "description": ""
