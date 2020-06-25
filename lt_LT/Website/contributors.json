@@ -27,6 +27,10 @@
 		"message": "Visuomeninis bendruomenės atstovas",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.storeManager": {
+		"message": "Parduotuvės vadybininkas (-ė)",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "Sistemos Administratorius",
 		"description": "'System Administrator' title for contributors and user pages."
