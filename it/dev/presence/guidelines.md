@@ -147,7 +147,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). Le versioni *abbreviate* dei nomi dei servizi vanno sotto `tags`.
 
 ### **`descrizione`**
 
@@ -211,7 +211,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - **Non** sei autorizzato ad accedere a `localStorage`.
 - Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -234,7 +234,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 # Verifica
 
-> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. All verifiers will have the `Presence Verifier` role on their profile. 
+> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. Tutti i verificatori avranno il ruolo `Presence Verifier` sul loro profilo. 
 > 
 > {.is-info}
 
