@@ -19,6 +19,10 @@
         "message": "Visualizzando i media di:",
         "description": ""
     },
+    "twitter.viewLiked": {
+        "message": "Visualizzando i mi piace di:",
+        "description": ""
+    },
     "twitter.viewList": {
         "message": "Visualizzando lista:",
         "description": ""
