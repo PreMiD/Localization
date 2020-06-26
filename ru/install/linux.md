@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Начните установку PreMiD на Linux
+description: Начнём установку PreMiD на Linux
 published: true
 date: 27 апреля 2020г. 12:52:46
 tags:
@@ -61,13 +61,13 @@ tags:
 
 ### Требования
 
-Технически каждый дистрибутив, который может запускать [официальное](https://discordapp.com/download) **приложение** (не веб или привязка) может запускать PreMiD;</br> Как вы можете заметить в последние годы, некоторые дистрибутивы Linux начали отказываться от поддержки архитектур (ia32/i686/i386/x86) и, как следствие, мы также сделали это. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Технически каждый дистрибутив, который может запускать [официальное](https://discordapp.com/download) **приложение** (не веб или привязка) может запускать PreMiD;</br> Как вы можете заметить в последние годы, некоторые дистрибутивы Linux начали отказываться от поддержки архитектур (ia32/i686/i386/x86) и, как следствие, мы также сделали это. Однако вы можете попробовать создать приложение самостоятельно, если вам отчаянно нужно использовать его на 32-битном распределении.</br> Поскольку мы в настоящее время используем Electron в качестве движка (Discord тоже!), его требования также применимы к этому приложению:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Не известно, поддерживают ли старые версии других дистрибутивов, так что просто обновите ваш дистрибутив и используйте релизы **LTS (Long-Term Support)** если ваш дистрибутив предлагает его, , так как они более стабильны (избегайте альфа-релизов).
 
 <a name="support"></a>
 
@@ -83,13 +83,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Команда
 
-Thanks to :
+Благодарности :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (и несколько других парней, которых я забыл их имена) для получения обратной связи о ночных выпусках.
+- @apriluwu для поддержки сборки Gentoo
+- @SlimShadyIAm и naka за прежнее обслуживание пакетов репозитория пользователей Arch
+- Сообщество Electron для различных пакетов
+- Любой другой, кто когда-либо принимал участие в проекте.
 
 <a name="license"></a>
 
@@ -102,14 +102,14 @@ Thanks to :
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Вероятно никогда, так как природа Snap, блокирует PreMiD получить Discord и расширение должным образом,</br> Было бы признательно, если бы кто-то мог это сделать, однако любые идеи или PR-сообщения приветствуются.</br> P.S.: классическое помещение не работает, так что не беспокойтесь о предложении.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
-## Portable AppImage
+## Портативная версия (Appimage)
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Пакет AppImage рекомендуется, если Discord работает для вас, а другие пакеты PreMiD (.deb, .rpm и т. д.) не рекомендуются.
 
 <a name="appimageinstall"></a>
 
@@ -128,50 +128,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Дополнительно
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Либо если вы хотите попробовать PreMiD или просто не хотите его установить, это самый лучший, он всегда в курсе, но DOESN'T AUTO-START С СИСТЕМНЫМИ!</br>Если вы устали открывать его каждый раз, используйте другие пакеты (в зависимости от вашего дистрибутива).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Системные дистрибутивы на основе Linux
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Использует [Системный Репозиторий пользователя](https://aur.archlinux.org/packages/premid);</br> Поддерживаемые дистрибутивы: _себя,_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS и [каждый из них, который поддерживает установку из AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Инструкция по установке
 
 ```bash
-# Using yay (recommended)
+# Использование yay (рекомендуется)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Использование pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Используя trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
-pacaur -S premid
+# Использование pakku
+pakku -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... ну вы поняли.
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+или вручную из [Arch User Repository](https://aur.archlinux.org/packages/premid) , если вы знаете, что вы делаете.
 
 <a name="archnotes"></a>
 
 ### Дополнительно
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Если ваш дистрибутив использует pacman, то вы должны сначала установить одного из помощников. Если у вас нет такого, рекомендуется запустить Yay:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,26 +181,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Другие помощники AUR/Pacman тоже работают, хотя каждый из них отличается друг от друга, поэтому вы можете столкнуться с проблемами при их использовании.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+То же самое относится и к его производным, таким как ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [и т.д.](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Инструкция по установке
 
 ```bash
-# Add the overlay using layman
+# Добавьте оверлей используя слой
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Установка через portage
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Дополнительно
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+Данная команда установки использует layman, она находится в официальных репозиториях через `app-portage/layman`.<br> Чтобы получать обновления, вам придется время от времени синхронизировать накладываемое изображение, вы можете сделать это
 
 ```bash
 layman -S

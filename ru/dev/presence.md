@@ -13,35 +13,35 @@ editor: markdown
 
 Версия `2.x` представляет [магазин присутствия](https://premid.app/store). Пользователи теперь имеют возможность вручную добавлять и удалять свои любимые присутствия через пользовательский интерфейс [сайта](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Перед началом работы настоятельно рекомендуется ознакомиться с нашими правилами. 
 > 
 > {.is-warning}
 
 - [Руководство](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Структура
+Все присутствие кодируется в [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) имеет некоторые острые определения типов на JavaScript, так что исправление и идентификация ошибок проще.
 
 ## Установка
 1. Install [Git](https://git-scm.com/).
 2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Установка [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и введите `npm install -g typescript`).
 
 ## Клонирование проекта
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Откройте терминал и введите `git clone https://github.com/PreMiD/Presences`.
 2. Выберите папку по вашему выбору.
-3. Open it in you code editor.
+3. Откройте её в редакторе кода.
 
-## Creating folders and files
+## Создание папок и файлов
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.
+2. Создайте `presence.ts` и файл `tsconfig.json` внутри.
+3. Создайте папку с именем `dist` внутри.
+4. Создайте файл `metadata.json` внутри папки `dist`.
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## Заполнение файла tsconfig.json
+Пожалуйста, поместите следующий код в файл `tsconfig.json`.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -50,10 +50,10 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Чтобы узнать больше о настройке TypeScript, нажмите [здесь](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## Заполнение файла metadata.json
+Мы создали `metadata.json` создатель файла для ленивых [здесь](https://eggsy.codes/projects/premid/mdcreator). Все еще предлагается прочитать это, чтобы вы знали, как это работает.
 
 ```json
 {
@@ -109,14 +109,14 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Пожалуйста, скопируйте код выше и поместите его в файл `metadata.json`. Теперь нужно изменить значения свойств. Пожалуйста, обратите внимание, что следующие свойства необязательны для использования в метаданных `. son` файл, если вы не планируете его использовать.
 - `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `settings`
 
-**Clarifying some value presets:**
+**Уточнение некоторых конфигураций значений:**
 <table>
   <thead>
     <tr>
@@ -150,7 +150,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">Название услуги, которую поддерживает это присутствие. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Название услуги, которую поддерживает это присутствие. <br>(должно быть тем же именем, что и папка, в которой находится всё в папке)</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
@@ -159,7 +159,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Возможность поиска присутствия с использованием альтернативного имени. <br>Среднее значение для присутствия, имеющего разные имена на разных языках (например, Pokéмон и <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ).<br>Вы также можете использовать его для присутствия со специальными символами, так что вам не обязательно вводить их (например, Pokémon и Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -179,13 +179,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
+        <b>Этот URL должен соответствовать URL сайта, так как он определит, является ли это сайт инъекцией скрипта.</b><br> Do <b>NOT</b> add <code>https://</code> или <code>http://</code> внутри URL или слэш в конце:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. <b>НЕ</b> забудьте добавить его!<br>
+Вы можете добавить несколько URL-адресов, выполнив следующие действия:<br>
+<code>["URL1", "URL2", "ETC. ]</code><br>
+Вы также можете использовать регулярное выражение, также известное как Regex для этой задачи, разъяснение ниже.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -195,14 +195,14 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      <td style="text-align:left">Строка регулярных выражений, используемая для совпадения с url.<br>
+      регулярное выражение, или также известное как Regex, может быть использовано, если веб-сайт имеет несколько субдоменов.<br>
+Вы можете использовать следующее регулярное выражение:<br>
+<code>([a-z0-9]+)[.]домен[.]TLD"</code><br>
+TLD стойка для домена верхнего уровня для осевой сети: . om .net<br> 
+<code>([a-z0-9]+)</code> означает что-либо от 0 до 9.<br>
+        Вы можете получить быстрый стартер, посмотрев это <a href="https://youtu.be/sXQxhojSdZM">видео</a><br>
+        Вы можете протестировать ваше регулярное выражение на <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>Строка</code>
       </td>
@@ -259,7 +259,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">Строка, используемая для представления категории присутствия. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Строка, используемая для представления категории присутствия. Смотрите действительные катергории <a href="https://docs. premid. app/dev/presence/metadata#presence-categories">здесь</a>.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Нет</code>
@@ -277,7 +277,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. See regExp for more info.</td>
+      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. Подробнее см. в regExp.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Да</code>
@@ -286,8 +286,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Массив настроек, которые пользователь может изменить.<br>
+      Подробнее о настройках присутствия <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">здесь</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Да</code>
@@ -296,9 +296,9 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Мы создали `metadata.json` создатель файла для ленивых [здесь](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Начало работы
 
 ```javascript
 var presence = new Presence({
@@ -352,24 +352,24 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Вы можете скопировать это в `присутствие.` файл и изменить значения. Установка всех значений производится внутри события updataData.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+Для получения дополнительной информации о классе Presence нажмите [здесь](/dev/presence/class).
 
-## Can't get certain data?!
+## Не удается получить определенные данные?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или просто неактивно используемые. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Проверить их в консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
+2. Поиск (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Выполнить `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
+1. Создайте файл `iframe.ts`.
+2. Установите iFrame в `true` в вашем файле метаданных.
+3. Заполнение файла iFrame.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
@@ -383,32 +383,32 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Создание файла присутствия позволяет получать данные из файла iFrame .
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
-**Note:** This needs to be placed outside of the updateData event.
-## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+**Примечание:** Это должно быть расположено вне события updateData.
+## Компиляция
+Откройте консоль в вашей папке и введите `tsc -w` для компиляции `присутствия.ts` в папку `/dist`.
 
-# Loading the presence
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+# Загрузка присутствия
+1. Откройте всплывающее окно и удерживайте кнопку <kbd>Shift</kbd> на клавиатуре.
+2. **Load Presence** появится в секции Prestions.
+3. Нажмите на неё, пока вы все еще держите кнопку <kbd>Shift</kbd>.
+4. Выберите папку /dist вашего присутствия.
 
-# Some helpful things
-## Hot-reloading
-The website you are developing on is automatically reloading every time you save a file in your folder.
+# Полезные советы
+## Горячая загрузка
+Веб-сайт, на котором вы находитесь, автоматически перезагружается каждый раз, когда вы сохраняете файл в вашей папке.
 
-## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+## Отладка
+- Вы можете поместить `console.log("Тест");` между вашим кодом и посмотреть, выводит ли консоль вашего браузера. Если да, то войдите и повторите попытку после следующей функции. Если нет, то произошла ошибка выше.
+- Если это не поможет вам, то попросите разработчика присутствия на нашем [сервере Discord](https://discord.gg/WvfVZ8T) для помощи.
 
-# Files explained
+# Больше информации
 - [Класс присутствия](/dev/presence/class)
 - [Класс iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
