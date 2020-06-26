@@ -21,7 +21,7 @@ tags:
   - [Поддержка](#support)
   - [Команда](#credits)
   - [Лицензия](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Snapcraft](#snapcraft)** (TL;DR : _никогда_ TM️)
 - **[Портативная AppImage](#portable-appimage)** (_РЕКОМЕНДУЕТСЯ_)
   - [Инструкция по установке](#installation-instructions)
   - [Дополнительно](#additional-notes)
@@ -52,8 +52,8 @@ tags:
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Последние релизы"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Все релизы"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Последние релизы"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub<br />релизы"></a></td>
   </tr>
 </table>
 
@@ -74,8 +74,8 @@ tags:
 ### Поддержка
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Присоединяйтесь к нашему Discord серверу!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Присоединяйтесь к нашему Discord серверу!">
   </a>
 </div>
 
