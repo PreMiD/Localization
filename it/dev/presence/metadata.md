@@ -15,33 +15,33 @@ L'esempio di quel file può essere trovato di seguito.
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVIZIO",
+  "altnames": ["SERVIZIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIZIONE"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSIONE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIA",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
             "value": true
         },
         {
@@ -49,17 +49,17 @@ L'esempio di quel file può essere trovato di seguito.
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
+            "value": "\"%song%\" di %artist%",
+            "placeholder": "usa %song% o %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "ecc."]
         }
     ]
 }
@@ -141,7 +141,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Una stringa di espressione regolare usata per abbinare gli url.</td>
       <td style="text-align:left"><code>Stringa</code>
       </td>
       <td style="text-align:left"><code>sì</code>

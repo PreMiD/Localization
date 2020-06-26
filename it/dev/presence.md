@@ -59,33 +59,33 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVIZIO",
+  "altnames": ["SERVIZIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIZIONE"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIONE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
             "value": true
         },
         {
@@ -93,17 +93,17 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
+            "value": "\"%song%\" di %artist%",
+            "placeholder": "usa %song% o %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "ecc."]
         }
     ]
 }
