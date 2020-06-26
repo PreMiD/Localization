@@ -2,7 +2,7 @@
 title: О PreMiD
 description: Основные функции PreMiD
 published: true
-date: 2020-02-12T22:05:04.843Z
+date: 12 февраля 2020г. 22:05:37
 tags:
 ---
 
