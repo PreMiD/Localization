@@ -2,7 +2,7 @@
 title: Firefox
 description: Приступая к установке PreMiD на Firefox
 published: true
-date: 2020-02-12T22:08:32.409Z
+date: 12 февраля 2020г. 22:08:37
 tags:
 ---
 
