@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: Pristupite izvorima i izvodite radnje pomoću PreMiD API-ja
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
