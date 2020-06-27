@@ -53,7 +53,7 @@ presence
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Qualsiasi cosa non organizzata in base alle specifiche non **** sarà permessa. 
 > 
 > {.is-warning}
 
@@ -119,7 +119,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (per esempio, una presence senza supporto iframe non avrebbe bisogno del campo `iframe`.) 
 > 
 > {.is-warning}
 
@@ -166,8 +166,8 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Il logo **deve** essere un'immagine quadrata con rapporto `1:1`.
+- The image is **required** to have a minimum resolution of `512x512` pixels. Puoi modificare l'immagine usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
@@ -180,7 +180,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`tag`**
 
-- **All** presences are required to have at least _one_ tag.
+- **Tutte** le presence devono avere almeno _un_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
@@ -211,7 +211,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - **Non** sei autorizzato ad accedere a `localStorage`.
 - Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
+- Molti fanno solo richieste HTTP/HTTPS a `premid.app` o all'API del sito web delle presence. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -274,7 +274,7 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 Attualmente, una presenza passa attraverso 2 stadi separati di controlli. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
 - `DeepScan` è un bot che verifica la qualità del codice. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Se mai vedessi nuovi problemi, **devi** anche risolverli. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Regole Aggiuntive`
 
