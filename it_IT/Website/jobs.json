@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Sei pronto ad aiutare il più grande programma del Rich Presence?",
+		"message": "Sei pronto a dare una mano al più grande programma di Rich Presence?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
@@ -48,11 +48,11 @@
 		"description": "Text before the available job positions cards."
 	},
 	"jobs.benefits.title": {
-		"message": "Benefici di Grande Livello",
+		"message": "Benefici di qualità",
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
-		"message": "Incontra noi",
+		"message": "Incontraci",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
@@ -96,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Testa nuove funzioni prima di qualcun altro.",
+		"message": "Prova nuove funzioni prima di qualcun altro.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
@@ -104,7 +104,7 @@
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "Ti sei già applicato precedentemente!",
+		"message": "Ti sei già candidato precedentemente!",
 		"description": "Notification when you applied already."
 	}
 }
