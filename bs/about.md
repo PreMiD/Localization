@@ -6,13 +6,13 @@ date: 2020-02-12T22:05:04.843Z
 tags:
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you are watching/listening in your Discord now playing status. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
+PreMiD je jednostavan, konfigurirajući uslužni program koji vam omogućava da prikažete šta gledate / slušate u svom statusu na Discordu. Podržava mnogo različitih platformi i podržat će više korisnika koji gledaju isti sadržaj istovremeno u nadolazećem ažuriranju.
 
-# Why you should download PreMiD
-- We save absolutely no user data, so you don't have to worry about your privacy.
-- Our whole project is open-source! We want to work with our users - not against them.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+# Zašto bi ste trebali instalirati PreMiD
+- Spremamo apsolutno nikakve korisničke podatke, tako da ne morate brinuti o svojoj privatnosti.
+- Čitav naš projekat je open-source! Želimo raditi s našim korisnicima - a ne protiv njih.
+- Velika značajka, koja se zove WatchParties, dolazi u PreMiD. Uz pozivnice za igru i istovremeno gledanje i slušanje. Powered by [Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# Suštinske karakteristike
+- Prikazuje vašu trenutnu web uslugu u Discord kao svoj status.
+- Omogućuje potpunu kontrolu nad Presencesom.
