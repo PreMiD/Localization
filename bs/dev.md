@@ -16,7 +16,7 @@ tags:
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
 # Kloniranje projekta
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+1. Otvorite terminal i upišite `git clone URL`. **Zamijenite URL vezom spremišta koje želite pridonijeti** npr. `git clone https://github.com/PreMiD/PreMiD`.
 2. Izaberite folder po vašem izboru.
 3. Otvorite ga u uređivaču koda.
 
@@ -28,15 +28,15 @@ tags:
 - Otvorite terminal u vašem spremištu i otkucajte ` npm i `.
 - Da biste ažurirali zavisnosti, unesite ` npm update `.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Budite svjesni da bi ažuriranje ovisnosti moglo puno slomiti ili ne - potrebno je testiranje! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Kodiranje vaše vizije
+Molimo zadržite strukturu. Ne želimo dezorganizirati naš projekat. Kaotične datoteke možda nisu prihvaćene.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Predavanje vašeg sna
+Jednostavno otvorite Zahtjev za povlačenje u jednom od naših [ GitHub spremišta ](https://github.com/PreMiD/) kojem želite pridonijeti. Mi ćemo se pobrinuti za vašu bebu, ne brinite. Ako vam je prvi put zahtjev za povlačenjem, pogledajte ovaj [ tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Odobrenje
+Naš glavni cilj je raditi s korisnicima, zato pokušajte biti što je moguće prijateljski, uvažavajući i informativniji. Jednostavno pingujte programera na naš [ Discord Server ](https://discord.gg/WvfVZ8T) da biste dobili taj pregled na GitHub-u ili ne. Ovisi o kvaliteti koda, izgledu imovine i redovnoj funkcionalnosti.
