@@ -46,5 +46,9 @@
     "premid.pageStart": {
         "message": "Prvi koraci",
         "description": "A page name"
+    },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
     }
 }
