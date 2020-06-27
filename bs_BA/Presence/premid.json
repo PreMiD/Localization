@@ -42,5 +42,9 @@
     "premid.pageTroubleshooting": {
         "message": "Rešavanje problema",
         "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Prvi koraci",
+        "description": "A page name"
     }
 }
