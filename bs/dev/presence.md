@@ -28,9 +28,9 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Instalirajte [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (otvorite terminal i ` npm install -g typecript `).
 
-## Cloning the project
+## Kloniranje projekta
 1. Otvorite terminal i upišite ` git clone https://github.com/PreMiD/Presences </code. </li>
-<li>Choose a folder of your choice.</li>
+<li>Izaberite folder po vašem izboru.</li>
 <li>Otvorite ga u uređivaču koda.</li>
 </ol>
 

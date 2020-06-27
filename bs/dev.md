@@ -1,32 +1,32 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Prvi koraci
+description: Mali savjet za one koji su se nedavno upustili u kodiranje
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Potreban je uređivač izvornog koda. Mi predlažemo Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Instaliranje zahtjeva
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
-# Cloning the project
+# Kloniranje projekta
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Izaberite folder po vašem izboru.
+3. Otvorite ga u uređivaču koda.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Instaliranje ovisnosti
+> Budite sigurni da ste instalirali [npm](https://www.npmjs.com/) (Node Package Manager) first. Automatski se instaliralo ako imate [Node](https://nodejs.org/en/) installed. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Otvorite terminal u vašem spremištu i otkucajte ` npm i `.
+- Da biste ažurirali zavisnosti, unesite ` npm update `.
 
 > Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
