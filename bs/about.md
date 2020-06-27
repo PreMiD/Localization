@@ -11,7 +11,7 @@ PreMiD je jednostavan, konfigurirajući uslužni program koji vam omogućava da 
 # Zašto bi ste trebali instalirati PreMiD
 - Spremamo apsolutno nikakve korisničke podatke, tako da ne morate brinuti o svojoj privatnosti.
 - Čitav naš projekat je open-source! Želimo raditi s našim korisnicima - a ne protiv njih.
-- Velika značajka, koja se zove WatchParties, dolazi u PreMiD. Uz pozivnice za igru i istovremeno gledanje i slušanje. Powered by [Discord](https://discordapp.com/).
+- Velika značajka, koja se zove WatchParties, dolazi u PreMiD. Uz pozivnice za igru i istovremeno gledanje i slušanje. Pokreće [Discord](https://discordapp.com/).
 
 # Suštinske karakteristike
 - Prikazuje vašu trenutnu web uslugu u Discord kao svoj status.
