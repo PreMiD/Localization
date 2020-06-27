@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD è un progetto open-source, vuol dire che siamo un team no-profit, ogni donazione o patreon, i soldi vanno nel prodotto. Applicandoti per una posizione di lavoro a PreMiD, acconsenti che tu stia come volontario nel team, non verrai pagato per il tuo lavoro.",
+		"message": "PreMiD è un progetto open-source, ovvero un team no-profit. Per ogni donazione o patreon il ricavato verrà investito nel prodotto. Candidandoti per una posizione di lavoro a PreMiD, acconsenti di partecipare volontariamente nel team, poiché non verrà assegnato alcun compenso per il lavoro svolto.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Efficaci autorizzazioni su Discord e un ruolo colorato.",
+		"message": "Efficaci autorizzazioni su Discord ed un ruolo colorato.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
@@ -80,7 +80,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "Con il tuo contributo è possibile eseguire questo progetto.",
+		"message": "Con il tuo contributo è possibile proseguire con questo progetto.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
@@ -88,7 +88,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
-		"message": "Prenditi il tuo tempo. Si tratta di lavoro volontario.",
+		"message": "Prenditi il tuo tempo. Si tratta di un lavoro volontario.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
