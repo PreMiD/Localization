@@ -225,12 +225,12 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Ecco un elenco di regole che **devi** seguire durante la modifica delle presence.
 
 - **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
-- Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. Do **not** change images if they are not outdated and are in specifications.
+- Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
 
 # Verifica
 
@@ -246,7 +246,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-warning}
 
-Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. I nostri verificatori confermeranno che la tua presence sia all'altezza degli standard e sarà inserita nel negozio.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificatori</h2>
@@ -271,9 +271,9 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 
 ![Controlli](https://i.imgur.com/bk0A1iY.png)
 
-Attualmente, una presenza passa attraverso 2 stadi separati di controlli. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti questi controlli aiutano i verificatori a determinare se la tua presence è adatta alla distribuzione.
 
-- `DeepScan` è un bot che verifica la qualità del codice. If you ever receive errors for new issues, you are **required** to fix them.
+- `DeepScan` è un bot che verifica la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Se mai vedessi nuovi problemi, **devi** anche risolverli. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Regole Aggiuntive`
