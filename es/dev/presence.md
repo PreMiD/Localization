@@ -24,8 +24,8 @@ La versión `2.x` introduce la [tienda de presencias](https://premid.app/store).
 Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tiene algunos tipos definiciones más que JavaScript, así que corregir e identificar errores es mucho más fácil.
 
 ## Instalación
-1. Install [Git](https://git-scm.com/).
-2. Instala [Nodo](https://nodejs.org/en/) (viene con [npm](https://www.npmjs.com/)).
+1. Instala [Git](https://git-scm.com/).
+2. Instala [Node](https://nodejs.org/en/) (viene con [npm](https://www.npmjs.com/)).
 3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (Abre un terminal y escribe `npm install -g typescript`).
 
 ## Clonando el proyecto
