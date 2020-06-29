@@ -40,12 +40,12 @@ En el archivo de configuración raíz verás algo como esto.
 | **compilerOptions**        | Utilizado para configurar el compilador, la mayoría de las propiedades se encuentran aquí.                                                                                                |
 | module                     | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                              |
 | target                     | Define la versión JavaScript que está compilando.                                                                                                                                         |
-| removeComments             | Eliminando comentarios de archivos compilados.                                                                                                                                            |
+| removeComments             | Elimina comentarios de archivos compilados.                                                                                                                                               |
 | noEmitOnError              | No emitir si se reporta algún error.                                                                                                                                                      |
 | noFallthroughCasesInSwitch | Reporta errores para los casos fallidos en reportes de cambios.                                                                                                                           |
-| noUnusedLocals             | Reportar errores en unused locals.                                                                                                                                                        |
-| noUnusedParameters         | Reportar errores en unused parameters.                                                                                                                                                    |
-| inlineSourceMap            | Agrega sourcemapping                                                                                                                                                                      |
+| noUnusedLocals             | Reportar errores de locales no utilizados.                                                                                                                                                |
+| noUnusedParameters         | Reportar errores en parámetros no usados.                                                                                                                                                 |
+| inlineSourceMap            | Agrega mapeados de código fuente                                                                                                                                                          |
 | typeRoots                  | Puedes leer más acerca de eso [aquí](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                          |
 | esModuleInterop            | Emita ayudantes __importStar e __importDefault para la compatibilidad del runtime babel ecosystem y habilita --allowSyntheticDefaultImports para la compatibilidad con el typesystem. |
 
@@ -60,8 +60,8 @@ En el archivo de configuración raíz verás algo como esto.
 }
 ```
 
-| Propiedad           | Descripción                                                                                      |
-|:------------------- |:------------------------------------------------------------------------------------------------ |
-| **extensión**       | Utilizado para extender el archivo base `tsconfig` para varias tareas.                           |
-| **compilerOptions** | Ver [**Configuración de root**](/dev/presence/tsconfig#root-configuration) para más información. |
-| fuera de Dir        | Define el directorio de salida para archivos compilados.                                         |
+| Propiedad           | Descripción                                                                                   |
+|:------------------- |:--------------------------------------------------------------------------------------------- |
+| **extensión**       | Utilizado para extender el archivo base `tsconfig` para varias tareas.                        |
+| **compilerOptions** | Ver [**configuración base**](/dev/presence/tsconfig#root-configuration) para más información. |
+| outdir              | Define el directorio de salida para archivos compilados.                                      |
