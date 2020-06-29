@@ -143,7 +143,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`servicio`**
 
-- El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta unicada en `/websites/Y/Youtube/`, el nombre del servicio debe ser `YouTube`.
+- El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta ubicada en `/websites/Y/Youtube/`, el nombre del servicio debe ser `YouTube`.
 
 ### **`altnames`**
 
