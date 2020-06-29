@@ -147,7 +147,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- **Solo** use esto en el caso que el sitio web aparezca bajo distintos nombres (e.j. Pokémon ó 포켓몬스터) para buscar mas fácil la presencia sin usar caracteres especiales (e.j. Pokémon ó Pokemon). *Shortened* versiones del servicio apareceran como `tags`.
 
 ### **`descripción`**
 
