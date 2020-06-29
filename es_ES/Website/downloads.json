@@ -134,5 +134,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Por favor, deshabilite Adblock.",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "No quiero apoyar.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "¿Estás seguro?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "¿En serio?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-por favor apoya :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Te necesito :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Vale, vale...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Mostrar descargas beta",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(no necesario si únicamente deseas descargar la versión normal)",
+    "description": "Small text under the show beta title."
   }
 }
