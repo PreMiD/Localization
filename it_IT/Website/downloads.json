@@ -162,5 +162,9 @@
   "downloads.showbeta.message": {
     "message": "Mostra i download delle beta",
     "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(non necessario se sei qui solo per scaricare la normale applicazione)",
+    "description": "Small text under the show beta title."
   }
 }
