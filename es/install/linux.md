@@ -6,7 +6,7 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> El inicio automático en Linux está ahora disponible desde la aplicación en lugar de la extensión.{.is-warning}
+> Ahora puedes activar/desactivar el inicio automático en Linux desde la aplicación en lugar de la extensión.{.is-warning}
 
 La instalación de la aplicación es muy importante, ya que la extensión no puede hacer nada por sí misma.
 
@@ -21,13 +21,13 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
   - [Soporte](#support)
   - [Créditos](#credits)
   - [Licencia](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ TM️)
+- **[Snapcraft](#snapcraft)** (TL;DR : _nunca_ TM️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMENDADA_)
   - [Instrucciones de instalación](#installation-instructions)
   - [Notas adicionales](#additional-notes)
 - **Distribuciones basadas en Red Hat Enterprise Linux (RHEL)** (Pronto, usa [esto](#portable-appimage) por ahora)
 - **Distribuciones basadas en Debian y Ubuntu** (Pronto, usa [esto](#portable-appimage) por ahora)
-- **[Distribuciones basadas en arquitectura Linux](#arch-linux-based-distributions)**
+- **[Distribuciones basadas en arquitectura Arch Linux](#arch-linux-based-distributions)**
   - [Instrucciones de instalación](#installation-instructions-1)
   - [Notas adicionales](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
@@ -38,7 +38,7 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
 
 ## Acerca de
 
-**PreMiD** es una simple y configurable herramienta que usa la RP (RIch Presence) de la librería de Discord, la cual te permite mostrar que estás haciendo en tu navegador (Y algunos programas) en el **estado** de tu perfil de Discord.
+**PreMiD** es una herramienta simple y configurable que usa la RP (Rich Presence) de la librería de Discord, la cual te permite mostrar qué estás haciendo en tu navegador (Y algunos programas) en el **estado** de tu perfil de Discord.
 
 <a name="stats"></a>
 
@@ -61,7 +61,7 @@ La instalación de la aplicación es muy importante, ya que la extensión no pue
 
 ### Requisitos
 
-Tecnicamente, toda distribución que pueda correr la **aplicación** [oficial](https://discordapp.com/download) de Discord (No la web o la versión de la Snap Store) puede correr PreMiD también; si has notado que en los últimos años algunas distribuciones de Linux dejan de tener soporte para las arquitecturas de 32-bits (ia32/i686/i386/x86), probablemente lo haremos también. Sin embargo, puedes intentar construir la aplicación tu mismo, si necesitas usarla en una distribución de 32-bits desesperadamente.</br> Puesto que actualmente utilizamos Electron como motor (¡Discord también lo hace!), sus requisitos también se aplican a esta aplicación:
+Tecnicamente, toda distribución que pueda correr la **aplicación** [oficial](https://discordapp.com/download) de Discord (No la web o la versión de la Snap Store) puede también correr PreMiD; si has notado que en los últimos años algunas distribuciones de Linux dejan de tener soporte para las arquitecturas de 32-bits (ia32/i686/i386/x86), probablemente lo haremos también. Sin embargo, puedes intentar compilar la aplicación tu mismo, si necesitas usarla en una distribución de 32-bits desesperadamente.</br> Puesto que actualmente utilizamos Electron como motor (¡Discord también lo hace!), sus requisitos también se aplican a esta aplicación:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -85,9 +85,9 @@ Se desconoce si las versiones antiguas de otras distribuciones lo soportan, así
 
 Gracias a:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (Y algunos otros chicos los cuales olvidé sus nombres) por propocionar su feedback sobre lanzamientos nocturnos.
-- @apriluwu por mantener las Gentoo builds
-- @SlimShadyIAm y naka por mantener previamente los Repository Packages de la arquitectura del usuario
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (Y algunos otros chicos los cuales olvidé sus nombres) por propocionar su feedback sobre lanzamientos alpha/beta.
+- @apriluwu por mantener las versiones de Gentoo
+- @SlimShadyIAm y naka por mantener previamente los Arch User Repository Packages
 - La comunidad de Electron por varios paquetes
 - Cualquier otra persona que haya contribuido al proyecto de alguna manera.
 
@@ -133,7 +133,7 @@ Si quieres probar PreMiD o simplemente no quieres instalarlo, este es el mejor, 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Distribuciones basadas en arquitectura Linux
+## Distribuciones basadas en arquitectura Arch Linux
 
 Usa la [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Las distribuciones soportadas son _las mismas_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS y [cualquiera que soporte instalación desde AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
@@ -171,7 +171,7 @@ O manualmente desde la [Arch User Repository](https://aur.archlinux.org/packages
 
 ### Notas adicionales
 
-Si tu distro usa pacman, entonces tienes que instalar uno de los ayudantes primero. Si tu no tienes ninguna, se recomienda Yay, lo ejecutas:
+Si tu distro usa pacman, entonces tienes que instalar primero uno de los helpers. Si no tienes ninguna, se recomienda Yay, lo ejecutas:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
