@@ -1,10 +1,10 @@
 {
     "9gag.gag": {
-        "message": "Przeglądanie gag:",
+        "message": "Przegląda gag'a:",
         "description": ""
     },
     "9gag.hot": {
-        "message": "Przeglądanie tego, co jest na topie",
+        "message": "Przegląda to, co jest na topie",
         "description": ""
     },
     "9gag.trending": {
@@ -12,7 +12,7 @@
         "description": ""
     },
     "9gag.fresh": {
-        "message": "Przeglądanie świeżych treści",
+        "message": "Przegląda nowych treści",
         "description": ""
     },
     "9gag.tag": {
