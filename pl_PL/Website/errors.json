@@ -1,6 +1,6 @@
 {
 	"store.search.notFound": {
-		"message": "Nie możemy znaleźć tego Presence...",
+		"message": "Nie możemy znaleźć tej aktywności Presence...",
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
@@ -32,7 +32,7 @@
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "że użytkownik utworzył wystarczającą liczbę aktywności Presence i ma rolę Presence Developer na naszym serwerze Discord.",
+		"message": "że użytkownik utworzył wystarczającą liczbę aktywności Presence i ma rolę Presence Developera na naszym serwerze Discord.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
