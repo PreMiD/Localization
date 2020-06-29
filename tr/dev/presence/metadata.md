@@ -15,33 +15,32 @@ Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün için
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "KULLANICI ADI",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVİS İSMİ",
+  "altnames": ["ALTERNATİF SERVİS İSMİ"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
-  "url": "URL",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#45A8FC",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "url": "LİNK",
+  "version": "SÜRÜM",
+  "logo": "LOGO LİNKİ",
+  "thumbnail": "KÜÇÜK RESİM LİNKİ",
+  "color": "#HEX000",
+  "tags": ["ETİKET1", "ETİKET2"],
+  "category": "KATEGORİ",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": true
         },
         {
@@ -49,17 +48,17 @@ Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün için
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
+            "value": "\"%şarkı%\", %sanatçı%",
+            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
+            "title": "BAŞLIK",
+            "icon": "FONTAWESOME FREE SİMGESİ",
             "value": 0,
-            "values": ["1", "2", "etc."]
+            "values": ["1", "2", "vb."]
         }
     ]
 }
