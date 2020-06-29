@@ -52,7 +52,7 @@
 		"description": ""
 	},
 	"general.merch": {
-		"message": "Handel",
+		"message": "Produkty",
 		"description": ""
 	},
 	"general.page": {
@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Czytanie DM od:",
+		"message": "Czytanie PW od:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Pisanie w wiadomości prywatnej do:",
+		"message": "Pisanie wiadomości prywatnej do:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -196,11 +196,11 @@
 		"description": ""
 	},
 	"general.viewing": {
-		"message": "Przeglądanie:",
+		"message": "Przegląda:",
 		"description": ""
 	},
 	"general.watchingVid": {
-		"message": "Ogląda wideo",
+		"message": "Ogląda film",
 		"description": ""
 	},
 	"general.watchingLive": {
