@@ -1,1 +1,10 @@
-{}
+{
+	"report.title": {
+		"message": "รายงานข้อบกพร่อง",
+		"description": "Text to indicate the page."
+	},
+	"report.button": {
+		"message": "รายงาน",
+		"description": "Button to send the information inputed."
+	}
+}
