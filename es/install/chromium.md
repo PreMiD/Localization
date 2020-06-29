@@ -10,8 +10,8 @@ La instalación de la extensión es muy importante, ya que la aplicación no pue
 
 # Instalar
 ### Chrome, Edge, etc.
-1. Ve a nuestra página de descargar [pulsando aquí](https://premid.app/downloads).
-2. Elegir **Chromium**.
+1. Ve a nuestra página de descargas [pulsando aquí](https://premid.app/downloads).
+2. Elige **Chromium**.
 3. Haz clic en **Añadir a Chrome**.
 
 ### Opera
