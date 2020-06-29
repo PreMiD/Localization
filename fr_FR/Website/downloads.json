@@ -134,5 +134,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Veuillez désactiver votre bloqueur de publicités.",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Je ne veux pas soutenir.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Êtes-vous sûr(e) ?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Etes-vous sûr de vouloir continuer ?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "S-support s'il vous plaît :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "J'ai besoin de vous :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "D'accord, d'accord ...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Afficher les téléchargements bêta",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(pas nécessaire si vous êtes seulement ici pour télécharger l'application normale)",
+    "description": "Small text under the show beta title."
   }
 }
