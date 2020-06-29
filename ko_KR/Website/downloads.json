@@ -1,38 +1,38 @@
 {
-	"downloads.instructions.heading": {
-		"message": "시작하기",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Application downloads",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Extension downloads",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "다운로드한 파일 보여주기",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "다운로드한 파일 숨기기",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "죄송하지만, 당신은 알파/베타 버전에 엑세스할 권한이 없습니다 :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.button.done": {
-		"message": "완료",
-		"description": "Button on the page when trying to download with adblocker on."
-	}
+  "downloads.instructions.heading": {
+    "message": "시작하기",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Application downloads",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Extension downloads",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "다운로드한 파일 보여주기",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "다운로드한 파일 숨기기",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "죄송하지만, 당신은 알파/베타 버전에 엑세스할 권한이 없습니다 :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.button.done": {
+    "message": "완료",
+    "description": "Button on the page when trying to download with adblocker on."
+  }
 }
