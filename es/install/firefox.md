@@ -9,11 +9,11 @@ tags:
 La instalación de la extensión es muy importante, ya que la aplicación no puede hacer nada por sí misma.
 
 # Instalar
-1. Ve a nuestra página de descargar [pulsando aquí](https://premid.app/downloads).
-2. Elegir **Firefox**.
+1. Ve a nuestra página de descargas [pulsando aquí](https://premid.app/downloads).
+2. Elige **Firefox**.
 3. Busca `about:addons`.
 4. Haz clic en la pequeña tuerca en la esquina superior derecha.
-5. Selecciona **Installar extensión desde archivos**.
+5. Selecciona **Instalar extensión desde archivos**.
 6. Selecciona el archivo descargado recientemente.
 7. Acepta la instalación pulsando sobre **Añadir**.
 
