@@ -1,26 +1,30 @@
 {
-	"downloads.instructions.heading": {
-		"message": "Alusta",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Rakendus",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Lisa",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Selle operatsioonisüsteemi jaoks pole installerit. See tähendab seda, et siin pole professionaalset tuge selle jaoks.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.button.done": {
-		"message": "Valmis",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "Tänan!",
-		"description": "Title of the advertisement section box."
-	}
+  "downloads.instructions.heading": {
+    "message": "Alusta",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Lae PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Rakendus",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Lisa",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Selle operatsioonisüsteemi jaoks pole installerit. See tähendab seda, et siin pole professionaalset tuge selle jaoks.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.button.done": {
+    "message": "Valmis",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Tänan!",
+    "description": "Title of the advertisement section box."
+  }
 }
