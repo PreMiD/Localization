@@ -152,7 +152,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`descripción`**
 
 - **Todas** las presencias **requieren** una descripción en Inglés sin importar el idioma preferido del sitio web.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **No** intentes traducir la descripción por tu cuenta a menos que conozcas el idioma, traductores modificaran tu `metadata.json.` y cambiaran la descripción de ser necesario.
 
 ### **`url`**
 
