@@ -124,7 +124,7 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga size hemen gereken her özelliği sunmaya çalışan bir Discord Botudur!",
+		"message": "taiga size gereken her özelliği, anında sunmaya çalışan bir Discord Botudur!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.statusBot": {
