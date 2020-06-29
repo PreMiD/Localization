@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "Gleda tablu:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Gleda pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Gleda svoje praćenje",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Izmenjuju svoju glavnu stranu",
+        "description": ""
+    }
+}

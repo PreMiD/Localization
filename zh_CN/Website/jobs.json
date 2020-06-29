@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD 是一个开源产品，这意味着我们是一个非营利团队，每笔捐赠都会回到产品中。 如果您在 PreMiD 申请职位，您会承认您是在团队中的志愿者，您的工作将不会得到报酬。",
+		"message": "PreMiD 是一个开源产品，这意味着我们是一个非营利团队，每笔捐赠都会回到产品中。 如果你在 PreMiD 申请职位，你会承认你是在团队中的志愿者，你的工作将不会得到报酬。",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -32,12 +32,16 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "您必须加入我们的 Discord 服务器才可以申请。否则，如果您最终被选中，我们将无法与您联系！",
+		"message": "你必须加入我们的 Discord 服务器才可以申请。否则，如果最终被选中，我们将无法与你联系！",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
 		"message": "为  PreMiD 工作。",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "准备好帮助开发最大的 Rich-Presence 库了吗？",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "工作机会",
@@ -75,24 +79,32 @@
 		"message": "支援 PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "你的贡献将帮助运行这个项目。",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "时间到！",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
-		"message": "这会花费您自己的时间。因为这是志愿工作。",
+		"message": "这会花费你自己的时间。因为这是志愿工作。",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
 		"message": "抢先体验",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit6.description": {
+		"message": "在任何人之前体验全新功能。",
+		"description": "Benefit card description."
+	},
 	"jobs.success.applied": {
-		"message": "感谢您的申请！",
+		"message": "感谢你的申请！",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "您之前已经申请过了！",
+		"message": "你之前已经申请过了！",
 		"description": "Notification when you applied already."
 	}
 }

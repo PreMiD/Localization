@@ -15,28 +15,32 @@
 		"message": "Creador",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Director Ejecutivo",
-		"description": "'Executive Director' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "Gerente del Proyecto",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
+	"contributors.roles.operationsSupervisor": {
 		"message": "Supervisor de Operaciones",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Representante Global de la Comunidad",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Jefe Ingeniero de Software",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.storeManager": {
+		"message": "Gerente de la tienda",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Administrador de sistemas",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Desarrollador Web",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "Mantenimiento de Linux",
+		"message": "Mantenedor de Linux",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
@@ -48,11 +52,11 @@
 		"description": "'Graphic Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
-		"message": "Moderador Mayor",
+		"message": "Moderador Experimentado",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Jefe de Verificación de Presencia",
+		"message": "Jefe de Verificación de Presencias",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
@@ -64,7 +68,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.juniorModerator": {
-		"message": "Moderador Menor",
+		"message": "Moderador Principiante",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
@@ -91,8 +95,12 @@
 		"message": "Traductor",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Haz clic para copiar la ID del usuario.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "¡ID de usuario copiado!",
+		"description": "Notification after user ID was copied."
 	}
 }

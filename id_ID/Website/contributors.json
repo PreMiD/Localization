@@ -15,21 +15,21 @@
 		"message": "Pembuat",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Direktur Eksekutif",
-		"description": "'Executive Director' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "Manajer Proyek",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
+	"contributors.roles.operationsSupervisor": {
 		"message": "Pengawas Operasi",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Perwakilan Komunitas Global",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Kepala Perancang Software",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.systemAdministrator": {
+		"message": "Administrator Sistem",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Perancang Web",
@@ -67,6 +67,10 @@
 		"message": "Moderator Junior",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.supportAgent": {
+		"message": "Agen Support",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Pemeriksa Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."
@@ -87,11 +91,11 @@
 		"message": "Penerjemah",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Klik untuk menyalin ID pengguna.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "ID user disalin!",
 		"description": "Notification after user ID was copied."
 	}

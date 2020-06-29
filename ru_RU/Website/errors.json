@@ -1,4 +1,20 @@
 {
+	"store.search.notFound": {
+		"message": "Нам не удалось найти Presence...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Извините, нам не удалось найти такую страницу.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Вы ищите несуществующее или удаленное Presence.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Произошла внутренняя ошибка сервера.",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "Подробности",
 		"description": "'Details' text on error page container"
@@ -10,6 +26,14 @@
 	"user.notFound.heading": {
 		"message": "Этот пользователь не найден. Попробуйте убедиться",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "ID пользователя корректен.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "пользователь создал достаточное количество Presences и обладает ролью Presence-разработчика на нашем Discord сервере.",
+		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
 		"message": "если другие столкнулись с такой же проблемой на нашем сервере Discord.",

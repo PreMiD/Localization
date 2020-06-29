@@ -15,21 +15,13 @@
 		"message": "創建者",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "執行董事",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "運營主管",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "項目管理",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "全球社區代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "首席軟件工程師",
-		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "網站開發者",
@@ -91,8 +83,12 @@
 		"message": "翻譯員",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "按一下來複製用戶id",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "用戶ID已複製",
+		"description": "Notification after user ID was copied."
 	}
 }

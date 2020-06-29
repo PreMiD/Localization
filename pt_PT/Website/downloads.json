@@ -1,7 +1,39 @@
 {
+	"downloads.header.title": {
+		"message": "Hora de se mostrar.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Usa o PreMiD agora e mostra aos teus amigos o que tu estás a fazer, talvez tu encontres alguém com os mesmos interesses.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Começa já",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Transfere o PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Instala a nossa aplicação",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Adiciona a nossa extensão ao teu navegador",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Recarrega este site e verifica se a extensão está conectada",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "Ainda estás com problemas? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Estamos aqui para te ajudar!",
+		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
 		"message": "Aplicação",

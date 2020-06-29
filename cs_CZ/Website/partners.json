@@ -4,7 +4,7 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Připojte se ke skupině a získejte některé výhody pouze pro partnery, abyste ukázali, kolik swagu máte.",
+		"message": "Připoj se ke skupině a získej některé výhody pouze pro partnery, abys ukázali, kolik swagu máš.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
@@ -14,6 +14,14 @@
 	"partners.why.title": {
 		"message": "A co třeba jít do nebe místo pekla?",
 		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Váš bezplatný Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Náš tým vám poskytne Presence pro vaší službu.",
+		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
 		"message": "Staňte se ověřený",
@@ -27,6 +35,10 @@
 		"message": "Integrace meta-tagu",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Automaticky začne používat váš Presence jakmile někdo navštíví vaši stránku.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Buď nesmrtelný",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Budete sdíleni na našich sociálních médiích.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Požadavky",
@@ -56,7 +72,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 10 aktivní diváky. Musíte streamovat alespoň 1 krát týdně.",
+		"message": "V současné době přijímáme různé druhy úsilí do našeho programu partnerství. Každý by měl mít šanci se projevit. Vysílátelé na Twitchi by měli mít alespoň 500 sledujících a alespoň 10 aktivní diváky. Musíš streamovat alespoň 1 krát týdně.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -67,8 +83,16 @@
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Jestli máte radši zájem přímo pracovat pro PreMid, tak se podívejte na naše **nabídky práce**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzoři",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
-		"message": "PreMiD by nebyl možný, nebýt těchto úžasných lidí.",
+		"message": "PreMiD by nebyl možný, bez těchto úžasných lidí.",
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
@@ -92,15 +116,27 @@
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
-		"message": "Získejte, co je oprávněné. Stream Anime, filmy, Hentai, Speciály a další. Zdarma, bez reklam a ve vysoké definici!",
+		"message": "Získej co je oprávněné. Streamuj Anime, filmy, Hentai, Speciály a další. Zdarma, bez reklam a ve vysoké definici!",
 		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Začněte vytvářet svou komunitu s úžasnými šablonami. Postavte si své vlastní království.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga je Discord Bot, který se snaží nabídnou všechny funkce, které byste mohli využít, najednou!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Silný bot, který monitoruje stránky, hry a nabízí mnohem více funkcí.",
+		"description": "Description for Statusbot."
 	},
 	"partners.partner.bitRock": {
 		"message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Lehce zdělte status v reálném čase pro vaše uživatele.",
+		"message": "Lehce zdělte status v reálném čase pro tvé uživatele.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
@@ -128,7 +164,7 @@
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
-		"message": "Nejste to vy?",
+		"message": "Nejsi to ty?",
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
@@ -184,19 +220,19 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Děkujeme vám za přihlášku!",
+		"message": "Děkujeme ti za přihlášku!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
-		"message": "Vyplňte prosím všechna pole.",
+		"message": "Vyplň prosím všechna pole.",
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
-		"message": "Maximálně 150 znaků.",
+		"message": "Maximálně 150 znaků popisu.",
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Přidejte prosím odkaz (musí začínat https://// a končit .png)",
+		"message": "Přidej prosím odkaz (musí začínat https://// a končit .png)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {

@@ -15,21 +15,25 @@
 		"message": "Maker",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Uitvoerend Directeur",
-		"description": "'Executive Director' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "Projectbeheerder",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
-		"message": "Operatie Toezichthouder",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+	"contributors.roles.operationsSupervisor": {
+		"message": "Operaties Toezichthouder",
+		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Globale Community Vertegenwoordiger",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Hoofd Software Ontwikkelaar",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.storeManager": {
+		"message": "Winkelbeheerder",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Systeembeheerder",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Web Ontwikkelaar",
@@ -91,11 +95,11 @@
 		"message": "Vertaler",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Klik om gebruikers-ID te kopiëren.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "Gebruikers-ID gekopieerd!",
 		"description": "Notification after user ID was copied."
 	}

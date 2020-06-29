@@ -119,6 +119,18 @@
 		"message": "Recevez ce qui vous revient à juste titre. Diffusez Anime, Films, Hentai, Promotions et plus encore. Gratuitement, sans publicités et en haute définition!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Commencez à créer votre propre communauté avec nos superbes modèles. Construisez votre propre royaume.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga est un bot Discord qui essaie d'offrir toutes les fonctionnalités dont vous pourriez avoir besoin en même temps !",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Un bot puissant qui vous permet de surveiller des sites web, des jeux et présente bien d'autres fonctionnalités.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Un outil puissant et facile à utiliser de l'installateur multi-plateforme.",
 		"description": "Description for BitRock."

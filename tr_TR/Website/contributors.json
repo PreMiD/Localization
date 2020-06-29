@@ -15,21 +15,25 @@
 		"message": "Yapımcı",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Yapım Yönetmeni",
-		"description": "'Executive Director' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "Proje Yöneticisi",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
-		"message": "Operasyon Gözetmeni",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+	"contributors.roles.operationsSupervisor": {
+		"message": "Operasyon Koordinatörü",
+		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Küresel Topluluk Temsilcisi",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Baş Yazılım Mühendisi",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.storeManager": {
+		"message": "Mağaza Yöneticisi",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Sistem Yöneticisi",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Site Geliştiricisi",
@@ -91,11 +95,11 @@
 		"message": "Çevirmen",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "ID'yi kopyalamak için tıklayın.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "Kullanıcı ID'si kopyalandı!",
 		"description": "Notification after user ID was copied."
 	}

@@ -40,7 +40,7 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "Detaily objednávky",
+        "message": "podrobnosti k objednávce",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {

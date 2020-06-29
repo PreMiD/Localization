@@ -8,11 +8,11 @@
         "description": ""
     },
     "pinterest.follow": {
-        "message": "Viendo a quienes sigue",
+        "message": "Viendo a quién sigue",
         "description": ""
     },
     "pinterest.home": {
-        "message": "Editando su página principal",
+        "message": "Editando su página de inicio",
         "description": ""
     }
 }

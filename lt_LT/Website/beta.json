@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Mūsų beždžionės stengiasi kuo greičiau įtraukti jus į mūsų beta versiją. Ačiū, kad užsiregistravote!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Panašu, kad nebeturime laisvų beta versijos vietų.",
+		"description": "Shows when the beta slots are full."
 	}
 }

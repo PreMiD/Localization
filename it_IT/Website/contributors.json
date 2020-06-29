@@ -15,21 +15,25 @@
 		"message": "Creatore",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Direttore esecutivo",
-		"description": "'Executive Director' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "Responsabile di progetto",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
+	"contributors.roles.operationsSupervisor": {
 		"message": "Supervisore Operativo",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Rappresentante globale della Comunità",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Capo Ingegnere Software",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.storeManager": {
+		"message": "Gestore Negozio",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Amministratore di sistema",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Web Developer",
@@ -44,7 +48,7 @@
 		"description": "'Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.graphicDesigner": {
-		"message": "Designer Grafico",
+		"message": "Grafico",
 		"description": "'Graphic Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
@@ -91,11 +95,11 @@
 		"message": "Traduttore",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Clicca per copiare l’ID dell'utente.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "ID dell'utente copiato!",
 		"description": "Notification after user ID was copied."
 	}

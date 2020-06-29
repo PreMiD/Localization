@@ -15,6 +15,14 @@
 		"message": "O jeigu eiti į dangų, o ne į pragarą?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Jūsų laisvas statusas",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Mūsų komanda pateiks jums statusą jūsų interneto paslaugai.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Tapk patvirtintas",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Meta-tag integracija",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Automatiškai įjungia jūsų statusą, kai kas nors lankosi jūsų svetainėje.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Tapkite įamžinti",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,14 @@
 	"partners.why.benefit5.title": {
 		"message": "Būti įžimiu",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Paminėjimas mūsų socialiniuose tinkluose.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Reikalavimai",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Ko mes ieškome?",
@@ -63,6 +83,14 @@
 		"message": "Eikime į dangų kartu!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Jei jus labiau domina tiesioginis darbas PreMiD, tada pasižiūrėkite į mūsų **darbo skelbimą**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Rėmėjai",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "„PreMiD“ nebūtų įmanomas be šių nuostabių žmonių.",
 		"description": "Description for sponsors."
@@ -83,6 +111,18 @@
 		"message": "Žaidėjų uždirbimo platforma.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio yra labiausiai pasisekusi informacinė radijo stotis simuliaciniams žaidimams Vokietijoje, Austrijoje ir Šveicarijoje!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Gaukite tai, kas teisėtai jūsų. Transliuokite Animacija, Filmus, Hentai, Specialius ir daugiau. Nemokamai, be jokių reklamų ir aukštoje kokybėje!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Pradėkite kurti savo bendruomenę su mūsų šauniu šablonu. Statykite savo nuosavą karalystę.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.bitRock": {
 		"message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis.",
 		"description": "Description for BitRock."
@@ -98,6 +138,14 @@
 	"partners.partner.wikijs": {
 		"message": "Pati galingiausia ir išplėstinė atvirojo kodo „Wiki“ programinė įranga.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Bendra, koduotojam patogi vartotojo sąsaja visiems jūsų artefaktams.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Už geriausios interneto pusės.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Tapkite partneriu",

@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Đang xem bảng tin:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Đang xem mã pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Đang xem những thứ họ theo dõi",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Đang chỉnh sửa trang chủ của họ",
+        "description": ""
+    }
+}

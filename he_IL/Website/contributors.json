@@ -15,21 +15,9 @@
 		"message": "יוצר",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "מפיק בפועל",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "מפקח על מבצע",
-		"description": "'Operation Supervisor' title for contributors and user pages."
-	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "נציג קהילה עולמי",
 		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "מהנדס תוכנה ראש",
-		"description": "'Head Software Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "מפתח אינטרנט",
@@ -91,7 +79,7 @@
 		"message": "מתרגם",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "תלחץ כאן בשביל להעתיק את הID של האיש.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}

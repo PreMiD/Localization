@@ -1,0 +1,114 @@
+{
+    "youtube.ad": {
+        "message": "Trenutno gleda reklame",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Pregledavanje videa",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Pregledavanje plejliste",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Gleda zajednicu",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "od kanala:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Čita o kanalu:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Traži kroz kanal: {0} za:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.browsingThrough": {
+        "message": "Pretražuje kroz",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "njihove pretplate",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "njihova biblioteka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "njihovu istoriju",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "njihove kupovine",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Gleda njihovu istoriju izveštaja",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Gleda sve njihove plejliste",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Gleda njihove uživo događaje",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Gleda svoju kontrolnu tablu za uživo prenos",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Pregleda audio biblioteku",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Gleda svoje video snimke",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Edituje video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Gleda analitiku videa:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Gleda komentare videa:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Gleda prevode videa:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Gleda svoje",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "analitiku kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentare kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "prevode kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "stranu artiste",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Gleda svoju kontrolnu tablu",
+        "description": ""
+    }
+}

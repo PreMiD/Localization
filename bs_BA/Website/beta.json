@@ -1,1 +1,46 @@
-{}
+{
+	"beta.title": {
+		"message": "Zelite li nove funkcije?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** je sada dostupna za sve!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Sta cete dobiti ukoliko se prijavite?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Najnovije funkcije",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Pristup PreMiD's super tajnim text kanalima",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Specijalni role na nasem Discord serveru",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Spremni za to? Pridruzite se i ostalim Beta Testerima!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Prijavite se sada!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Cool! Sada ste beta korisnik!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Naši majmuni rade na tome da vas što brže uđe u naš beta program. Hvala što ste se prijavili!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Izgleda da nemamo vise slobodnih beta slotova.",
+		"description": "Shows when the beta slots are full."
+	}
+}

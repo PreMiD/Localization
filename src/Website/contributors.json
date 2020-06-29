@@ -15,21 +15,25 @@
 		"message": "Creator",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "Executive Director",
-		"description": "'Executive Director' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "Project Manager",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
-	"contributors.roles.operationSupervisor": {
-		"message": "Operation Supervisor",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+	"contributors.roles.operationsSupervisor": {
+		"message": "Operations Supervisor",
+		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Global Community Representative",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Head Software Engineer",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.storeManager": {
+		"message": "Store Manager",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "System Administrator",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Web Developer",
@@ -91,11 +95,11 @@
 		"message": "Translator",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Click to copy user's ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "User ID copied!",
 		"description": "Notification after user ID was copied."
 	}

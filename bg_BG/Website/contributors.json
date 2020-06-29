@@ -15,10 +15,6 @@
 		"message": "създател",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "Главен софтуерен инженер",
-		"description": "'Head Software Engineer' title for contributors and user pages."
-	},
 	"contributors.roles.webDeveloper": {
 		"message": "Уеб-разработчик",
 		"description": "'Web Developer' title for contributors and user pages."
@@ -63,7 +59,7 @@
 		"message": "Преводач",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "Щракване за копиране на потребителския идент. №.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	}

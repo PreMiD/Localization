@@ -4,31 +4,43 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Únete a la fam y obtén algunos beneficios exclusivos de los socios para demostrar cuánta ingesta tiene.",
+		"message": "Únete y obtén algunos beneficios exclusivos de los socios para demostrar cuánto swag tienes.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estos ya nos pertenecen",
+		"message": "Estos ya están con nosotros",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
 		"message": "¿Qué tal ir al cielo en lugar del infierno?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Tu presencia gratuita",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Nuestro equipo le proporcionará una presencia para su servicio web.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
-		"message": "Verifícate",
+		"message": "Sé verificado",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Un rol especial y un gran honor se le dará en nuestro servidor de Discord.",
+		"message": "Se te otorgará honor y un rol especial en nuestro servidor de Discord.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
-		"message": "Integración de Meta-tag",
+		"message": "Integración de etiquetas meta",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Activa automáticamente tu Presencia cuando alguien visita tu Sitio Web.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
-		"message": "Ser inmortalizado",
+		"message": "Sé inmortalizado",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -36,8 +48,12 @@
 		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
-		"message": "Se famoso",
+		"message": "Sé famoso",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Destacado en nuestras redes sociales.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Requisitos",
@@ -48,7 +64,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Estamos atentos a las comunidades en crecimiento y las cosas interesantes en Internet. TL;DR ya debería estar usando PreMiD y estar listo para difundirlo a más fanáticos de Internet. La aceptación en el programa es extremadamente cualitativa y variará de un candidato a otro.",
+		"message": "Estamos atentos a las comunidades en crecimiento y las cosas interesantes en Internet. TL;DR deberías estar usando PreMiD y listo para difundirlo a más fanáticos de Internet. La aceptación en el programa es extremadamente cualitativo y variará de un candidato a otro.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -56,16 +72,24 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Actualmente estamos aceptando varios tipos de esfuerzo en nuestro programa de asociación. Cualquiera debería tener la oportunidad de ser notado. Las emisoras de Twitch deben tener al menos 500 seguidores y al menos 10 espectadores concurrentes. Debe transmitir al menos 1 vez por semana.",
+		"message": "Actualmente estamos aceptando varios tipos de asociados. Cualquiera debería tener la oportunidad de serlo. Los streamers de Twitch deben tener al menos 500 seguidores y 10 espectadores concurrentes. Debe transmitir al menos 1 vez por semana.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "¡Aplicar ahora!",
+		"message": "¡Solicitar ahora!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
-		"message": "¡Vamos al cielo juntos!",
+		"message": "¡Vayamos al cielo juntos!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Si estas interesado en trabajar en PreMiD, echa un vistazo a nuestro **anuncio de trabajo**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Patrocinadores",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD no sería posible sin esta gente asombrosa.",
@@ -76,19 +100,39 @@
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings es un Juego Arena PvP de última generación que se juega desde navegador.",
+		"message": "Arena of Kings es un Juego Arena PvP de última generación que se juega desde el navegador.",
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "UpBeat es una radio internacional sin ánimo de lucro que se esfuerza por proporcionar una radio sin fin, calidad y entretenimiento de noticias.",
+		"message": "UpBeat es una radio internacional sin ánimo de lucro que se esfuerza por proporcionar una radio sin fin de calidad y noticias.",
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.iLoot": {
 		"message": "La plataforma de ganancia para jugadores.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio es la radio de información más exitosa para juegos de simulación en Alemania, Austria y Suiza!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Obtén lo que es tuyo por derecho. Ve Anime, Películas, Hentai, Especiales y más. ¡Gratis, sin anuncios y en alta definición!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Empieza a crear tu propia comunidad con nuestras impresionantes plantillas. Construye tu propio reino.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "¡taiga es un Bot de Discord que procura ofrecer todas características que puedas necesitar a la vez!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Un poderoso bot que permite monitorizar sitios web, juegos y muchas otras características.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
-		"message": "Una herramienta de creación de instalador multiplataforma potente y fácil de usar.",
+		"message": "Una herramienta de creación de instaladores multiplataforma potente y fácil de usar.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
@@ -96,19 +140,27 @@
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
-		"message": "Localización ágil para empresas tecnológicas.",
+		"message": "La solución de localización ágil para empresas de tecnología.",
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
 		"message": "El software Wiki más potente y extensible de código abierto.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Una interfaz unificada y amigable para desarrolladores para todos tus artefactos.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Conozca lo mejor de la web.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "Solicitar la colaboración",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "Inició sesión como %@",
+		"message": "Conectado como {0}",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -132,7 +184,7 @@
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
-		"message": "Ex: PreMiD",
+		"message": "Ej: PreMiD",
 		"description": "Name field's placeholder."
 	},
 	"partners.apply.form.link": {
@@ -168,7 +220,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "¡Gracias por aplicarte!",
+		"message": "¡Gracias por aplicar!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
@@ -184,7 +236,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Usted ya solicitó una asociación.",
+		"message": "Ya has solicitado ser partner.",
 		"description": "Error when already applied."
 	}
 }

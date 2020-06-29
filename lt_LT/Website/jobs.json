@@ -11,6 +11,10 @@
 		"message": "Tęsti",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Prisidėkite",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Atšaukti",
 		"description": "Cancel, button in the modal."
@@ -23,9 +27,21 @@
 		"message": "„PreMiD“ yra atvirojo kodo produktas, reiškiantis, kad esame ne pelno siekianti komanda, kiekvienas paaukojimas bei patreon pinigai grąžinami į produktą. Kreipdamiesi dėl darbo „PreMiD“, jūs pripažįstate, kad savanoriaujate komandoje, jums nebus mokama už darbą.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Prisidėkite prie mūsų Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Jog galėtumete užpildyti anketą, pirma turite būti prisijungę prie mūsų Discord serverio. Antraip negalėsime su jumis susisiekti, jeigu jūs būsite išrinkti pozicijai!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Darbas „PreMiD“",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Ar jūs esate pasirenge padėti didžiausiai Discord Rich-Presence programai?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Darbo vietos",
@@ -63,6 +79,10 @@
 		"message": "Palaikykite PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Su jūsų prisidėjimu, tampa toliau įmanoma plėsti šį projektą.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Laikas baigėsi",
 		"description": "Benefit card title."
@@ -74,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "Ankstyvas priėjimas",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Išbandykite naujas funkcijas prieš kitus.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Ačiū, kad kreipėtės!",

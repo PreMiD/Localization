@@ -1,10 +1,10 @@
 {
 	"beta.title": {
-		"message": "Vuoi provare le nuove funzionalità?",
+		"message": "Desideri nuove funzionalità?",
 		"description": "Beta page title"
 	},
 	"beta.description.1": {
-		"message": "**PreMiD Beta** è ora disponibile a tutti!",
+		"message": "**PreMiD Beta** è ora disponibile per tutti!",
 		"description": "Section description"
 	},
 	"beta.description.2": {
@@ -12,15 +12,15 @@
 		"description": "Section description"
 	},
 	"beta.features.1": {
-		"message": "Le ultime funzionalità",
+		"message": "Ultime funzionalità",
 		"description": "Features list"
 	},
 	"beta.features.2": {
-		"message": "Accesso ai canali di testo PreMiD super segreti",
+		"message": "Accesso ai canali di testo super segreti di PreMiD",
 		"description": "Features list"
 	},
 	"beta.features.3": {
-		"message": "Un ruolo speciale nel nostro server di Discord",
+		"message": "Un ruolo speciale nel nostro server Discord",
 		"description": "Features list"
 	},
 	"beta.register.text": {
@@ -28,7 +28,7 @@
 		"description": "{0} will be replaced with the beta testers count -> is a variable"
 	},
 	"beta.register.button": {
-		"message": "Iscriviti ora!",
+		"message": "Registrati ora!",
 		"description": "Sign up button text"
 	},
 	"thankyou.title": {
@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Le nostre scimmie stanno lavorando per farti entrare nel nostro programma beta il più velocemente possibile. Grazie per esserti registrato!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Sembra che non abbiamo più posti beta disponibili.",
+		"description": "Shows when the beta slots are full."
 	}
 }

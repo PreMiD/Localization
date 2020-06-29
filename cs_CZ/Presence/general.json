@@ -36,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "Poslouchám hudbu",
+		"message": "Poslouchá hudbu",
 		"description": ""
 	},
 	"general.listeners": {
@@ -52,7 +52,7 @@
 		"description": ""
 	},
 	"general.merch": {
-		"message": "Sloučit",
+		"message": "Merch",
 		"description": ""
 	},
 	"general.page": {

@@ -51,6 +51,10 @@
 		"message": "Manga",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "Merce",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Pagina",
 		"description": ""
@@ -68,7 +72,7 @@
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "Leggendo di:",
+		"message": "Leggendo a proposito di:",
 		"description": ""
 	},
 	"general.readingArticle": {
@@ -126,5 +130,97 @@
 	"general.viewCategory": {
 		"message": "Visualizzando categorie:",
 		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Canale visualizzato:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Guardando episodio:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Visualizzando genere:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Visualizzando home page",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Visualizzando elenco di:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Visualizzando manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Visualizzando un membro:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Guardando film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Visualizzando playlist:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Visualizzando prodotto:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Guardando il profilo di:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Guardando una serie:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Guardando uno show:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Visualizzando il loro account",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Visualizzando il thread:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Visualizzando utente:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Guardando:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Guardando un video",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Guardando una diretta streaming",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Guardando:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Lista dei desideri:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Politica sulla privacy",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Termini del servizio",
+		"description": "A page name"
 	}
 }

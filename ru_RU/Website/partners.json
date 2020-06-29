@@ -35,6 +35,10 @@
 		"message": "Интеграция с Meta-тегами",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматически использовать ваше Presence, когда кто-то посещает ваш веб-сайт.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "Будьте известными",
 		"description": "Heading for the fifth benefit."
@@ -84,7 +88,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Спасибо за подачу заявки!",
+		"message": "Спасибо, что подали заявку!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

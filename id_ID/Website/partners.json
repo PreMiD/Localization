@@ -15,6 +15,14 @@
 		"message": "Bagaimana kalau pergi ke surga bukannya ke neraka?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Presence gratismu",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Tim kami akan menyediakan presence sesuai layanan kamu.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Menjadi diverifikasi",
 		"description": "Heading for the second benefit."
@@ -26,6 +34,10 @@
 	"partners.why.benefit3.title": {
 		"message": "Integrasi meta-tag",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Otomatis gunakan presencemu ketika seseorang mengunjungi Website.",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Dapatkan diabadikan",
@@ -39,9 +51,21 @@
 		"message": "Menjadi terkenal",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Ditampilkan pada sosial media kami.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Persyaratan",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Apa yang kita cari?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Kami memantau berkembangnya komunitas dan hal-hal menarik di internet. TL;DR anda harusnya telah menggunakan PreMiD dan bersiaplah untuk menyebarkannya kepada lebih banyak internet freaks. Penerimaan ke dalam program kami sangat kualitatif dan berbeda antar kandidat.",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Firewall kami",
@@ -58,6 +82,14 @@
 	"partners.apply.disclaimer": {
 		"message": "Mari kita pergi ke surga bersama!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jika Anda agak tertarik pada pekerjaan langsung di PreMiD, lihat iklan pekerjaan kami**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsor",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD tidak akan mungkin terjadi, tanpa orang-orang hebat ini.",
@@ -79,6 +111,26 @@
 		"message": "Platform penghasilan gamer.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio merupakan radio infotainmen untuk permainan simulasi tersukses di Jerman, Austria dan Swiss!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Dapatkan apa yang seharusnya anda dapatkan. Steam Anime, Film, Hentai, Acara Spesial, dan lainnya. Gratis, tanpa iklan dan berkualitas tinggi!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Mulai membuat komunitas anda sendiri dengan templat mengagumkan kami. Bangun kerajaan anda sendiri.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Bot hebat yang dapat mengamati website, game, dan masih banyak fitur.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Alat pembuat lintas platform yang kuat dan mudah digunakan.",
 		"description": "Description for BitRock."
@@ -94,6 +146,14 @@
 	"partners.partner.wikijs": {
 		"message": "Perangkat lunak sumber terbuka Wiki yang paling kuat dan dapat dikembangkan.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Sebuah antarmuka berkesatuan, ramah pengembang untuk semua artefak anda.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Dibalik yang terbaik di web.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Melamar mitra",
@@ -118,6 +178,10 @@
 	"partners.apply.select.other": {
 		"message": "Lainnya",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nama",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Contoh: PreMiD",
@@ -155,6 +219,10 @@
 		"message": "Terapkan",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Terima kasih telah melamar!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Silakan lengkapi semua bidang.",
 		"description": "Error when a field isn't filled."
@@ -166,5 +234,9 @@
 	"partners.apply.error3": {
 		"message": "Harap tambahkan tautan (harus dimulai dengan https:// dan akhiri dengan .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Anda telah melamar sebelumnya.",
+		"description": "Error when already applied."
 	}
 }

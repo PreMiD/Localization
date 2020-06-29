@@ -1,0 +1,34 @@
+{
+  "header.language": {
+    "message": "Enska",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Við styðjum tungumálið þitt, viltu skipta?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Vefsíða okkar hefur verið þýdd á þitt tungumál. Þetta gæti hjálpað til ef þú talar ekki ensku voða vel.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nei, takk",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Skipta um tungumál",
+    "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "Verslun",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Niðurhöl",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Þátttakendur",
+    "description": "Contributors tab"
+  }
+}

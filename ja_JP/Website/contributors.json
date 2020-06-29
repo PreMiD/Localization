@@ -15,28 +15,24 @@
 		"message": "作者",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.executiveDirector": {
-		"message": "クリエイティブ ディレクター",
-		"description": "'Executive Director' title for contributors and user pages."
-	},
-	"contributors.roles.operationSupervisor": {
-		"message": "アニメーションスーパーバイザー",
-		"description": "'Operation Supervisor' title for contributors and user pages."
+	"contributors.roles.projectManager": {
+		"message": "プロジェクトマネージャー",
+		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "グローバルコミュニティー代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
-	"contributors.roles.headSoftwareEngineer": {
-		"message": "主要なソフトウェア・エンジニア",
-		"description": "'Head Software Engineer' title for contributors and user pages."
+	"contributors.roles.systemAdministrator": {
+		"message": "システム管理者",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Web開発者",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "Linux メンテナー",
+		"message": "Linuxメンテナー",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
@@ -52,7 +48,7 @@
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Presenceのリーダー確認",
+		"message": "プレゼンステスターのリーダー",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
@@ -91,11 +87,11 @@
 		"message": "翻訳者",
 		"description": "'Translator' title for contributors page."
 	},
-	"contributors.cards.copyUserID": {
+	"contributors.cards.copyUserId": {
 		"message": "クリックでユーザー名をコピー",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
-	"contributors.cards.userIDCopied": {
+	"contributors.cards.userIdCopied": {
 		"message": "コピーした！",
 		"description": "Notification after user ID was copied."
 	}

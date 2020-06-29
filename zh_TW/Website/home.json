@@ -3,6 +3,10 @@
 		"message": "**PreMiD** 是一個簡單的可配置實用程序，可讓您以Discord遊戲動態中顯示您在瀏覽器上正在做什麼。",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "功能",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "下載",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -34,6 +38,14 @@
 	"home.features.presencesystem.heading": {
 		"message": "尋找 **您的** 狀態",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "我們開發的擴展程序有方式允許您添加和使用其他用戶創建的狀態, 並可在擴展程序中對其進行管理",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "前往店鋪",
+		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "簡單的用戶界面",

@@ -119,6 +119,18 @@
 		"message": "Krijg waar je recht tot hebt. Stream Anime, Films, Hentai, Specials en meer. Gratis zonder advertenties en in hoge definitie!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Begin uw eigen community met onze geweldige templates. Bouw uw eigen koninkrijk.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga is een Discord Bot die probeert alle functies aan te bieden die je mogelijk in één keer nodig hebt!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Een krachtige bot waarmee je websites en spellen kunt monitoren en het heeft veel meer mogelijkheden.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Een krachtig en eenvoudig te gebruiken platform installatietool voor de creatie van platformen.",
 		"description": "Description for BitRock."

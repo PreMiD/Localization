@@ -7,6 +7,10 @@
 		"message": "Opis",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "Lista zmian",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "Informacje",
 		"description": "The title of the information section."
@@ -18,6 +22,10 @@
 	"presence.sections.information.version": {
 		"message": "Wersja",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Polubienia",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
 		"message": "Użytkownicy",

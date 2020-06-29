@@ -84,7 +84,7 @@
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "Leyendo publicación:",
+		"message": "Leyendo post:",
 		"description": ""
 	},
 	"general.readingThread": {
@@ -108,7 +108,7 @@
 		"description": ""
 	},
 	"general.shopCart": {
-		"message": "Carrito de la compra",
+		"message": "Cesta de la compra",
 		"description": ""
 	},
 	"general.store": {
@@ -164,7 +164,7 @@
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Viendo álbum:",
+		"message": "Viendo lista de reproducción:",
 		"description": ""
 	},
 	"general.viewProduct": {
@@ -173,6 +173,10 @@
 	},
 	"general.viewProfile": {
 		"message": "Viendo perfil de:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Viendo series:",
 		"description": ""
 	},
 	"general.viewShow": {
@@ -208,7 +212,7 @@
 		"description": ""
 	},
 	"general.wishlist": {
-		"message": "Lista de deseos:",
+		"message": "Lista de deseados:",
 		"description": ""
 	},
 	"general.privacy": {

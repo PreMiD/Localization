@@ -119,6 +119,18 @@
 		"message": "Senin olana sahip ol. Anime, film, hentai, özel içerikler ve dahası. Ücretsiz, reklamız ve yüksek kalitede!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga size hemen gereken her özelliği sunmaya çalışan bir Discord Botudur!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Web sitelerini, oyunları izlemenizi ve daha birçok özellik sunmanızı sağlayan güçlü bir bot.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
 		"description": "Description for BitRock."

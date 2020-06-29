@@ -48,7 +48,7 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Tylko lubiane aktywności Presence",
+		"message": "Tylko ulubione",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
@@ -72,7 +72,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Media Społecznościowe",
+		"message": "Społeczność",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {

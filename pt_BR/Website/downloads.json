@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "Hora de aparecer.",
+		"message": "Hora de se exibir.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Comece a usar o PreMiD agora e mostre para as outras pessoas o que você está fazendo, talvez você irá encontrar alguém com os mesmos interesses.",
+		"message": "Use o PreMiD agora e mostre para seus amigos o que você está fazendo, talvez você encontre alguém com os mesmos interesses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -16,11 +16,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Instale o nosso aplicativo",
+		"message": "Instale nosso aplicativo",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Instale a nossa extensão para o seu navegador",
+		"message": "Adicione nossa Extensão para seu navegador",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux e não se aplica a outros sistemas).",
+		"message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux, e não se aplica a outras plataformas).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "Por favor, faça login para ver os downloads.",
+		"message": "Por favor faça login em ordem para ver estes downloads.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -80,11 +80,11 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Você pode entrar no nosso programa beta de graça **aqui**. Se apresse! Nós apenas temos {0} slots disponíveis",
+		"message": "Você pode participar do nosso programa beta **aqui** de graça. Se apresse! Nós temos apenas mais {0} slots disponíveis",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Lançamentos antecipados",
+		"message": "Lançamentos Antecipados",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {

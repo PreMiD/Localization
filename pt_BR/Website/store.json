@@ -40,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Mais usado primeiro",
+		"message": "Mostrar mais usados primeiro",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -48,11 +48,11 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Apenas presenças gostadas",
+		"message": "Apenas presenças curtidas",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "Mostrar Presenças adicionadas",
+		"message": "Mostrar presenças adicionadas",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {

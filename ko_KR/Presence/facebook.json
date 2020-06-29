@@ -1,1 +1,10 @@
-{}
+{
+    "facebook.call": {
+        "message": "통화중 : ",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "영상 통화중 : ",
+        "description": ""
+    }
+}

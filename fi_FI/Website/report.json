@@ -1,0 +1,30 @@
+{
+	"report.title": {
+		"message": "Ilmoita virheestä",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 raportteja jäljellä",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.button": {
+		"message": "Raportoi",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany.alert": {
+		"message": "Sinulla on liian monta aktiivista raporttia.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Bugi Lähetetty",
+		"description": "Success notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord-tili on vahvistettava",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktiiviset Bugit",
+		"description": "Lists users active bugs"
+	}
+}

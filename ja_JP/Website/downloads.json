@@ -72,8 +72,12 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "これらのダウンロードを見るには、ログインしてください",
+		"message": "これらのダウンロードを見るには、ログインしてください。",
 		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Alpha/Betaテストに参加する権限がありません。",
+		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
 		"message": "ベータプログラムに **ここから** 無料で参加できます！現在、{0} 個の空き枠があります！",
@@ -87,6 +91,14 @@
 		"message": "注意",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
+	"downloads.warning.message.edge": {
+		"message": "拡張設定から「他のストアからの拡張機能を許可する」オプションを有効にするのを忘れないでください！",
+		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+	},
+	"downloads.warning.message.opera": {
+		"message": "ストアからPreMiDをインストールするには、**この拡張機能**をインストールする必要があります。",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
 	"downloads.button.skip": {
 		"message": "スキップ",
 		"description": "Skip button on the ads section"
@@ -94,6 +106,14 @@
 	"downloads.button.back": {
 		"message": "戻る",
 		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "戻る",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "OK",
+		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
 		"message": "完了",

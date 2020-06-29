@@ -1,0 +1,58 @@
+{
+	"report.title": {
+		"message": "Xəta bildir",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Xəta qaldı",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Xətaları yalnız PreMiD saytı və PreMiD-in Discord serverindən bildirə bilərsiniz. Xətanı Status yaradıcısına bildirməlisiniz. Xətaları yalnız ingilis dilində bildirin.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Xətanın nə olduğunu dəqiq və qısaca izah edin.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Əməliyyat sisteminizi və versiyasını seçin",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Brauzerinizi və versiyasını seçin - Brauzernizin versiyasını örgənmək üçün Firefox about:support və ya chorme://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Bu xətanı əldə etmək üçün bir canlı örnəyi olan bir mənalı link verin.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Bildir",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Aktif hesabatınız çoxdur. Təqdim olunan hesabatınızın nəzərdən keçirilməsini gözləyin. Hesabatlar hər həftə yoxlanır, səbr edin.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Aktiv hesabatlarınız çoxdur.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Xəta Göndərildi",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Daha çox məlumat tələb edilir",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord hesabınız təstiqlənməlidir",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktif Xətalar",
+		"description": "Lists users active bugs"
+	}
+}

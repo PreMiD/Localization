@@ -3,6 +3,10 @@
 		"message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Возможности",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Загрузки ",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,9 +39,21 @@
 		"message": "Найдите **свой** статус",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences в том числе от других пользователей!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Посетить магазин",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Простой интерфейс для пользователей",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Устали от сложных пользовательских интерфейсов? Мы разработали и стараемся сохранить наш интерфейс как можно более простым и полезным включив такие важные функции как:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Настройки приложения и расширения",
@@ -47,12 +63,24 @@
 		"message": "Управление статусами",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Сортировка по категории",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Быстрая поддержка",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Что-то зависает, отправляя тонну ошибок или просто не работает? Мы поможем избавиться от этих проблем на нашем Discord сервере. Кроме того, создана система поддержки, которая позволит решить вашу проблему как можно скорее.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Присоединяйтесь к нашему Discord серверу",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Язык",
+		"description": "Tippy content of the language selector."
 	}
 }

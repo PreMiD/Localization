@@ -3,6 +3,10 @@
 		"message": "Língua",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Pronto para usar o PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Junta-te a {0} usuários hoje!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -50,6 +54,10 @@
 	"footer.supportus.translate": {
 		"message": "Traduzir",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Trabalha connosco!",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Ajuda",

@@ -3,6 +3,10 @@
 		"message": "**PreMiD** é um utilitário simples e configurável que permite mostrar o que você está fazendo na web no seu status de jogo no Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Recursos",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Downloads",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,6 +39,10 @@
 		"message": "Encontre **sua** presença",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.button": {
+		"message": "Visitar a loja",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Interface de utilizador simples",
 		"description": "Features section subheading"
@@ -54,5 +62,9 @@
 	"home.features.quickSupport.button": {
 		"message": "Entra no nosso servidor de Discord",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Idioma do Site",
+		"description": "Tippy content of the language selector."
 	}
 }

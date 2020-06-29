@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Чтобы подать заявку, Вы должны вступить на наш сервер Discord. Иначе мы не сможем Вас поддержать, если Вы в конце концов выбрали!",
+		"message": "Чтобы подать заявку, Вы должны вступить на наш сервер Discord. Иначе мы не сможем связаться с вами, если Вы были выбраны!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Готовы ли Вы помочь крупнейшей программе Статус-Присутствия?",
+		"message": "Готовы ли Вы помочь крупнейшей программе Rich-Presence?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
@@ -100,11 +100,11 @@
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "Спасибо за подачу заявки!",
+		"message": "Спасибо, что подали заявку!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "Вы уже подали заявку!",
+		"message": "Вы уже подали заявку ранее!",
 		"description": "Notification when you applied already."
 	}
 }

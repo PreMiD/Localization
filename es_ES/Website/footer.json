@@ -3,6 +3,10 @@
 		"message": "Idioma",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "¿Listo para usar PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "¡Únete a {0} usuarios hoy!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -51,6 +55,10 @@
 		"message": "Traducir",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "¡Trabaja con nosotros!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Ayuda",
 		"description": "Help section"
@@ -98,5 +106,9 @@
 	"footer.copyright.line2": {
 		"message": "Sitio web mantenido por {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Haz clic aquí para ver el resto de socios y patrocinadores.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

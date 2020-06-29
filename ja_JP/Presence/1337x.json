@@ -1,1 +1,74 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "映画ライブラリーを見る",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "最新のエピソードを見る",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "トップ100を見る",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "トレンドを見る",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "アニメトレントを見る",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "アプリのトレントを見る",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "ドキュメントのトレントを見る",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "ゲームのトレントを見る",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "映画のトレントを見る",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "音楽のトレントを見る",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "他のトレントを見る",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "テレビのトレントを見る",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "不健全トレントを見る",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "何かをアップロード中...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "ルールを読む",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "1337xに書く",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "1337x の読書について",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "トレントを見る:",
+        "description": ""
+    }
+}

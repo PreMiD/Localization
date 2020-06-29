@@ -3,6 +3,22 @@
 		"message": "Autor(a)",
 		"description": "Creator of a presence"
 	},
+	"store.card.presence.remove": {
+		"message": "Remover presença",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.category.filters.heading": {
+		"message": "Filtros",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Mostrar conteúdo adulto",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Apenas Presenças gostadas",
+		"description": "Liked presences only checkbox"
+	},
 	"store.category.heading": {
 		"message": "Categorias",
 		"description": "Category heading"

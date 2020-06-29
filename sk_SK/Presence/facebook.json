@@ -1,1 +1,14 @@
-{}
+{
+    "facebook.call": {
+        "message": "V hovore s:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Vo videohovore s:",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nedávno pridané",
+        "description": ""
+    }
+}

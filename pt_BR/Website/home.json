@@ -40,11 +40,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Criamos nossa extensão de uma maneira que permite adicionar e usar Presenças criadas por outras pessoas e gerenciá-las em nossa extensão!",
+		"message": "Nós criamos nossa extensão de uma maneira que permite você adicionar e usar Presenças criadas por outras pessoas e gerenciá-las em nossa extensão!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
-		"message": "Visitar Loja",
+		"message": "Visitar loja",
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
@@ -64,7 +64,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Sortear por categoria",
+		"message": "Ordenar por categoria",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
@@ -72,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Algo está com falha, enviando toneladas de erros ou simplesmente não está funcionando? Ajudaremos você a se livrar desses problemas em nosso servidor Discord, também criamos nosso próprio sistema de suporte que garantirá que o problema seja resolvido o mais rápido possível.",
+		"message": "Algo está falhando, enviando toneladas de erros ou simplesmente não está funcionando? Ajudaremos você a se livrar destes problemas em nosso servidor do Discord, também criamos nosso próprio sistema de suporte que garantirá que o problema seja resolvido o mais rápido possível.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
@@ -80,7 +80,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Idioma do Site",
+		"message": "Idioma do website",
 		"description": "Tippy content of the language selector."
 	}
 }

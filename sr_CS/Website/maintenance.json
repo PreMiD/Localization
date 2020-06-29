@@ -1,0 +1,26 @@
+{
+	"maintenance.big": {
+		"message": "Oh ne!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Nažalost, imamo nekih tehničkih poteškoća. Uskoro ćemo se vratiti. Veoma nam je žao.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Molimo dođite kasnije za više informacija.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Dok naši specijalni programeri ne reše ovo, slobodno pogledajte ovde!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Statusna stranica",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord Server",
+		"description": "Discord Server link on maintenance page"
+	}
+}

@@ -1,6 +1,6 @@
 {
     "9gag.gag": {
-        "message": "Viendo etiqueta:",
+        "message": "Viendo gag:",
         "description": ""
     },
     "9gag.hot": {
@@ -20,7 +20,7 @@
         "description": ""
     },
     "9gag.about": {
-        "message": "Leyendo todo sobre 9GAG",
+        "message": "Leyendo sobre 9GAG",
         "description": ""
     },
     "9gag.store": {

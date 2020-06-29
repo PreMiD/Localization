@@ -1,1 +1,42 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Đang đọc tweet:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Đang xem tweet của:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Đang xem tweet (với trả lời) của:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Đang xem media của:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Đang xem những lượt thích bởi:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Đang xem danh sách:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Dấu trang",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Thông báo",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Khám phá",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Đang thay đổi một số cài đặt...",
+        "description": ""
+    }
+}

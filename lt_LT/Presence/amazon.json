@@ -19,6 +19,10 @@
         "message": "Adresų peržiūra",
         "description": ""
     },
+    "amazon.pets": {
+        "message": "Peržiūri gyvūnus",
+        "description": ""
+    },
     "amazon.catergoriesAll": {
         "message": "Visų kategorijų peržiūra",
         "description": ""

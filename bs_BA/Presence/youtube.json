@@ -1,1 +1,106 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Trenutno gleda oglas",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Pregledavanje videozapisa",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Pregledavanje popisa za reprodukciju",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Pregledavanje postova u zajednici",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "od kanala:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Čitanje o kanalu:",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Pregledavanje kroz",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "njihove pretplate",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "njihova biblioteka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "njihova historija",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "njihove kupovine",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Pregled njihovih izvještaja",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Pregled svih njihovih popisa za reprodukciju",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Gledajući njihove događaje uživo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Pregledavanje njihove nadzorne ploče uživo",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Pregledavanje audio biblioteke",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Pregledavanje njihovih videozapisa",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Uređivanje videa:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Pregled analitike videozapisa:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Pregled komentara na videu:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Pregled prijevoda videa:",
+        "description": ""
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "analitika kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentari kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "prevodi kanala",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "stranica umjetnika",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Pregledavajući njihovu komandnu ploču",
+        "description": ""
+    }
+}

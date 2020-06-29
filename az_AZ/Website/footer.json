@@ -3,6 +3,10 @@
 		"message": "Dil",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "PreMiD istifadə etməyə hazırsınız?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "{0} istifadəçiyə qoşulun!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "Partnerlər",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Bizi İzləyin",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "İnkişaf etdiricilər",
@@ -46,6 +54,10 @@
 	"footer.supportus.translate": {
 		"message": "Tərcümə et",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Bizimlə işləyin!",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Kömək",
@@ -94,5 +106,9 @@
 	"footer.copyright.line2": {
 		"message": "Veb sayt {0} tərəfindən idarə olunur",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Tərəfdaşlarımızı və sponsorlarımızı görmək üçün bura klikləyin.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

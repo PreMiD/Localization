@@ -55,8 +55,44 @@
 		"message": "一時停止中",
 		"description": ""
 	},
+	"general.playing": {
+		"message": "再生中",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DMを閲覧中:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "読んでいます:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "記事を読んでいます:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "チャンネルを読んでいます:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "投稿を読んでいます:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "スレッドを閲覧中:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "閲覧中",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "検索中:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "何かを検索しています...",
 		"description": ""
 	},
 	"general.search": {
@@ -69,6 +105,86 @@
 	},
 	"general.store": {
 		"message": "ストア",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DMを送っています:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "チャンネルで入力中:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "アニメを閲覧中:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "カテゴリを閲覧中:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "チャンネルを閲覧中:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "エピソードを閲覧中:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "ジャンルを閲覧中:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "ホームページを閲覧中",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "リストを閲覧中:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "マンガを閲覧中:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "メンバーを閲覧中:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "映画を閲覧中:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "プレイリストを閲覧中:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "商品を閲覧中:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "プロフィールを閲覧中:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "シリーズを閲覧中:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "アカウントを閲覧中",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "スレッドを閲覧中:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "ユーザーを閲覧中:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "閲覧中:",
 		"description": ""
 	},
 	"general.watchingVid": {

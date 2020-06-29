@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Başvuru yapabilmeniz için Discord sunucumuzda olmanız gerekmektedir. İletişim sunucumuzdan sağlanacaktır.",
+		"message": "Başvurabilmek için Discord sunucumuza katılmış olmanız gerekir. Aksi takdirde, seçilmeniz durumunda sizinle iletişime geçemeyiz!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {

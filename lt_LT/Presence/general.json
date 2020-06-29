@@ -136,7 +136,7 @@
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Peržiūros serija:",
+		"message": "Peržiūrima serija:",
 		"description": ""
 	},
 	"general.viewGenre": {
@@ -173,6 +173,10 @@
 	},
 	"general.viewProfile": {
 		"message": "Peržiūrimas profilis:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Peržiūrimas serialas:",
 		"description": ""
 	},
 	"general.viewShow": {

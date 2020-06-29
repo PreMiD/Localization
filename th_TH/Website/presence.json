@@ -7,6 +7,10 @@
 		"message": "คำอธิบาย",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "การเปลี่ยนแปลง",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "ข้อมูล",
 		"description": "The title of the information section."
@@ -18,6 +22,10 @@
 	"presence.sections.information.version": {
 		"message": "เวอร์ชัน",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "ถูกใจ",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
 		"message": "ผู้ใช้",

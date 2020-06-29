@@ -1,7 +1,15 @@
 {
+	"presence.page.buttons.sourceCode": {
+		"message": "Izvorni Kod",
+		"description": "Source Code button on presence pages."
+	},
 	"presence.sections.description.title": {
 		"message": "Deskripcija",
 		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Popis izmjena",
+		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
 		"message": "Informacija",
@@ -14,6 +22,14 @@
 	"presence.sections.information.version": {
 		"message": "Verzija",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Lajkovi",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Korisnici",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
 		"message": "Tagovi",

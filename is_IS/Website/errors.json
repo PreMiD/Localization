@@ -1,0 +1,46 @@
+{
+	"store.search.notFound": {
+		"message": "Við gátum ekki fundið þá Presence...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Því miður gátum við ekki fundið þessa síðu.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Þú ert að leita að Presence sem ekki er til eða var eytt.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Villa kom upp við innri netþjón.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Upplýsingar",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Til baka til heimasíðuna",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Ekki var hægt að finna þann notanda. Reyndu að ganga úr skugga um það",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "að auðkenni notandans sem þú ert að leita að sé rétt.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "að notandinn hafi búið til nóg af Presences og hafi Presence Developer role á Discord netþjóninum okkar.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "ef aðrir lenda í sama vandræðum á Discord netþjóninum okkar.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Ef þú telur að þetta hafi verið mistök, vinsamlegast hafðu samband við okkur á [okkar Discord server].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}
