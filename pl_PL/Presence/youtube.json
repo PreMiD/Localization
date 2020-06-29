@@ -4,7 +4,7 @@
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Przeglądanie filmów",
+        "message": "Przegląda filmy",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Przeglądanie postów społeczności",
+        "message": "Przegląda posty społeczności",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Przeglądanie trendów",
+        "message": "Przegląda aktualne trendy",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -52,11 +52,11 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Przeglądanie historii zgłoszenia",
+        "message": "Przegląda historii zgłoszeń",
         "description": ""
     },
     "youtube.upload": {
-        "message": "Przesyłanie czegoś...",
+        "message": "Przesyła coś...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "Wyświetla swoje wydarzenia \"na żywo\"",
+        "message": "Wyświetla swoje wydarzenia na żywo",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
@@ -116,7 +116,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Wyświetla swój panel kanału",
+        "message": "Wyświetla panel swojego kanału",
         "description": ""
     }
 }
