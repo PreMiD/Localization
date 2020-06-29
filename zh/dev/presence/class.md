@@ -117,7 +117,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">說明</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">種類</th>
     </tr>
   </thead>
   <tbody>
