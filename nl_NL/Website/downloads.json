@@ -134,5 +134,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Schakel uw adblock alstublieft uit.",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Ik wil geen steun geven.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Weet u het zeker?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Echt?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-Please steun ons :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Ik heb je nodig :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Oké, oké...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Toon bèta-downloads",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(niet nodig als u alleen hier bent om de normale applicatie te downloaden)",
+    "description": "Small text under the show beta title."
   }
 }
