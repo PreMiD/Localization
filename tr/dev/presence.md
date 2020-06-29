@@ -156,9 +156,9 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altadlar</b>
+      <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Bir alternatif isim kullanarak presence arayabilme. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Alternatif isimler, servisinizin bulunmasını kolaylaştırır. <br>Farklı diller için, farklı isimleri olan servislerin kullanması için yapılmıştır (örneğin, Pokémon -> 포켓몬스터).<br>Aynı  zamanda, içerisinde özel harfler içeren servisler için de kullanılabilir (örneğin, Pokémon -> Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
