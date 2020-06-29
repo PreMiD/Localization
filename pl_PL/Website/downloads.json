@@ -32,7 +32,7 @@
     "description": "{0} will be replaced with footer.link"
   },
   "downloads.instructions.footer.link": {
-    "message": "Jesteśmy tu, aby Ci pomóc!",
+    "message": "Jesteśmy tutaj, aby Ci pomóc!",
     "description": "Link to our discord"
   },
   "downloads.appdownloading.header": {
@@ -128,11 +128,43 @@
     "description": "Title of the advertisement section box."
   },
   "downloads.adsbox.thankyou.message": {
-    "message": "Używamy reklam, aby wspierać nasz zespół i utrzymywać nasze serwery, ponadto w celu zapewnienia najlepszej jakości obsługi!",
+    "message": "Używamy reklam, aby wspierać nasz zespół i utrzymywać nasze serwery, oraz aby zapewnienia najlepszej jakości obsługi!",
     "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
     "message": "Wyłącz proszę blokadę reklam. (AdBlock)",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Nie chcę wspierać.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Czy jesteś pewien?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Napewno?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-proszę wesprzyj nas :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Potrzebuję cię :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Okej, okej...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Pokaż pliki beta",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(nie potrzebne jeśli jesteś tutaj pobrać podstawową aplikacje)",
+    "description": "Small text under the show beta title."
   }
 }
