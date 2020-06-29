@@ -156,7 +156,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- La url **debe** ser una conexión si el sitio web solo usa un dominio. Si el sitio web usa múltiples, haga esto una matriz y especifique cada una.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
 ### **`versión`**
