@@ -157,7 +157,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`url`**
 
 - La url **debe** ser un "string" si el sitio web solo usa un dominio. Si el sitio web usa múltiples, haga esto una matriz y especifique cada una.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- **No** incluya protocolos en la url (por ej.`http` ó `https`, y no incluya parámetros "query" en la url (por ej.,`www.google.com/search?gws_rd=ssl` which should be `www.google.com`
 
 ### **`versión`**
 
