@@ -15,8 +15,8 @@ Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, kt�
  Podczas tworzenia klasy musisz określić właściwość `Id klienta`.
 
 ```typescript
-let obecność = nowa prezentacja({
-    clientId: "514271496134389561" // Przykład klientId
+let presence = new Presence({
+    clientId: "514271496134389561" // Przykład Id klient
 });
 ```
 
