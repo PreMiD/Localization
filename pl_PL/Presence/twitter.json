@@ -1,6 +1,6 @@
 {
     "twitter.readTweet": {
-        "message": "Czytanie tweet'a:",
+        "message": "Czyta tweeta:",
         "description": ""
     },
     "twitter.viewDms": {
@@ -8,23 +8,23 @@
         "description": ""
     },
     "twitter.viewTweets": {
-        "message": "Wyświetlanie tweetów:",
+        "message": "Przegląda tweety:",
         "description": ""
     },
     "twitter.viewTweetsWithReplies": {
-        "message": "Wyświetlanie tweetów (z odpowiedziami):",
+        "message": "Przegląda tweety (z odpowiedziami):",
         "description": ""
     },
     "twitter.viewMedia": {
-        "message": "Wyświetlanie multimediów:",
+        "message": "Przegląda multimedia:",
         "description": ""
     },
     "twitter.viewLiked": {
-        "message": "Wyświetlanie polubionych przez:",
+        "message": "Przegląda polubienia:",
         "description": ""
     },
     "twitter.viewList": {
-        "message": "Przeglądanie list",
+        "message": "Przegląda listę:",
         "description": ""
     },
     "twitter.bookmarks": {
