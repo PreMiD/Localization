@@ -10,9 +10,9 @@ tags:
 
 ## Wprowadzanie
 
-Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, których potrzebujemy do stworzenia obecności.
+Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, których potrzebujemy do stworzenia Presence.
 
- Podczas tworzenia klasy musisz określić właściwość `ID klienta`.
+ Podczas tworzenia klasy musisz określić właściwość `Id klienta`.
 
 ```typescript
 let obecność = nowa prezentacja({
@@ -123,21 +123,21 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
   <tbody>
     <tr>
       <td style="text-align:left">szczegóły</td>
-      <td style="text-align:left">Pierwsza linia w twojej obecności, zazwyczaj używana jako nagłówek.</td>
+      <td style="text-align:left">Pierwsza linia w twoim Presence, zazwyczaj używana jako nagłówek.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">województwo</td>
-      <td style="text-align:left">Drugi wiersz w twojej obecności.</td>
+      <td style="text-align:left">stan</td>
+      <td style="text-align:left">Drugi wiersz w twoim Presence.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Definiuje aktualny czas.<br>
-        Używany, jeśli chcesz wyświetlić ile <code>godzin: minut: sekundy</code> pozostało.
-          <br>Musisz przekonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
+        Używany, jeśli chcesz wyświetlić ile <code>godzin: minut: sekund</code> pozostało.
+          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
           odliczanie.
       </td>
       <td style="text-align:left"><code>Numer</code>
@@ -147,7 +147,7 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Określa cały czas trwania.
         <br>Używane jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
-          <br>Musisz przekonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
+          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
           odliczanie.
       </td>
       <td style="text-align:left"><code>Numer</code>
