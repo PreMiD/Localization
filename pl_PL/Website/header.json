@@ -52,7 +52,7 @@
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "Wyloguj",
+    "message": "Wyloguj się",
     "description": "Logout button"
   }
 }
