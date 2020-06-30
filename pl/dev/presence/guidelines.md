@@ -161,13 +161,13 @@ Lista pól i ich zasad znajduje się poniżej:
 
 ### **`wersja`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- Zawsze upewnij się, że numer wersji spełnia [semantyczne standardy wersjonowania](https://semver.org), co przekłada się na następujący schemat: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
+- Wersja **musi** zawsze zaczynać się od `1.0.0`, inne wersje **nie** będą dozwolone.
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Logo **musi** być kwadratowym obrazem o proporcjach `1: 1`.
+- Obraz **musi** mieć minimalną rozdzielczość `512x512` pikseli. Możesz zmienić rozmiar obrazu za pomocą narzędzia takiego jak [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
