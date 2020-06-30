@@ -142,7 +142,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowywania adresów URL.</td>
       <td style="text-align:left"><code>Ciąg znaków</code>
       </td>
       <td style="text-align:left"><code>Tak</code>
