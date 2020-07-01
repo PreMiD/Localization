@@ -27,6 +27,10 @@
 		"message": "Perwakilan Komunitas Global",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.storeManager": {
+		"message": "Manajer toko",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "Administrator Sistem",
 		"description": "'System Administrator' title for contributors and user pages."
