@@ -123,7 +123,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Il contenuto ospitato sul sito web stesso **non** è consentito in quanto può cambiare le posizioni malvolentieri. 
 > 
 > {.is-warning}
 
@@ -143,7 +143,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`servizio`**
 
-- Il nome del servizio **deve** essere il nome della directory della presence. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Il nome del servizio **deve** essere il nome della directory della presence. Per esempio, se la presence si trova in `/websites/Y/YouTube/`, il nome del servizio deve essere `YouTube`.
 
 ### **`altnames`**
 
@@ -167,7 +167,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 ### **`logo`**
 
 - Il logo **deve** essere un'immagine quadrata con rapporto `1:1`.
-- The image is **required** to have a minimum resolution of `512x512` pixels. Puoi modificare l'immagine usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
+- L'immagine **deve** avere una risoluzione minima di `512x512` pixel. Puoi modificare l'immagine usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
@@ -175,7 +175,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`colore`**
 
-- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
+- Il colore **deve** essere un valore esadecimale compreso tra `#000000` e `#FFFFFF`.
 - La stringa del colore **deve** essere preceduta da un simbolo hash.
 
 ### **`tag`**
@@ -183,7 +183,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 - **Tutte** le presence devono avere almeno _un_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- **Devi** aggiungere un tag `NSFW` se la presence è per un sito web NSFW.
 
 ### **`Categoria`**
 
@@ -225,7 +225,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Ecco un elenco di regole che **devi** seguire durante la modifica delle presence.
+In alcune situazioni, le presence possono comportarsi in modo inaspettato o potrebbero usare alcune modifiche minori per migliorare la loro funzionalità. Ecco un elenco di regole che **devi** seguire durante la modifica delle presence.
 
 - **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
@@ -238,7 +238,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-info}
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> **Tutto** il codice che ha contribuito al negozio sarà autorizzato sotto la `Licenza Pubblica Mozilla 2.0`. 
 > 
 > {.is-info}
 
@@ -280,11 +280,11 @@ Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti 
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Dopo aver seguito tutte le linee guida con le opportune revisioni e controlli, la presence sarà inserita nel negozio.
 
 # Contributi
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Revisione 2` delle linee guida è stata scritta ed hanno contribuito i seguenti individui:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
