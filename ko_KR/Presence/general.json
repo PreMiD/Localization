@@ -63,8 +63,16 @@
 		"message": "재생 중",
 		"description": ""
 	},
+	"general.readingDM": {
+		"message": "DM을 보는 중:",
+		"description": ""
+	},
 	"general.readingChannel": {
 		"message": "다음 채널을 보는 중:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "스레드 읽는 중:",
 		"description": ""
 	},
 	"general.reading": {
@@ -79,8 +87,64 @@
 		"message": "검색중",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "장바구니",
+		"description": ""
+	},
 	"general.store": {
 		"message": "상점",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DM을 적는 중:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "카테고리 보는 중:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "에피소드 보는 중:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "장르 보는 중:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "홈페이지 보는 중",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "망가 보는 중:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "영화 보는 중:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "플레이리스트 보는 중:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "제품 보는 중:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "시리즈 보는 중:",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "스레드 보는 중:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "유저 보는 중:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "보는 중:",
 		"description": ""
 	},
 	"general.watchingVid": {
