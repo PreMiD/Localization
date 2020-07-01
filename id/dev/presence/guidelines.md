@@ -147,7 +147,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- **Hanya** gunakan ini jika website menggunakan beberapa nama resmi (misal Pokémon dan 포켓몬스터) atau untuk memudahkan mencari presence tanpa menggunakan karakter spesial (misal Pokémon dan Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 

@@ -159,7 +159,7 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Dapat mencari presence menggunakan nama alternatif. <br>Dimaksudkan untuk presence yang memiliki nama berbeda pada bahasa berbeda (misal Pokémon and 포켓몬스터). <br> Anda dapat juga menggunakannya untuk presence yang memilki karakter spesial agar anda tidak harus mengetiknya (misal Pokémon and Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -320,7 +320,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. This is called several times a second where possible.
+    /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. Ini dinamakan beberapa kali dalam sedetik jika mungkin.
 
     Disarankan untuk mengatur function lainnya diluar event function tersebut yang akan merubah variable value dan melakukan kerja keras jika anda meminta data dari sebuah API.*/
 
