@@ -1,12 +1,12 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: 파이어폭스로 PreMiD 설치를 시작해 봅시다.
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+애플리케이션만으로는 아무것도 할 수 없기에 확장 프로그램 설치가 매우 중요합니다.
 
 # 설치
 1. 오른쪽의 링크를 눌러 다운로드 페이지로 들어가세요. [페이지로 이동](https://premid.app/downloads)

@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: 리눅스로 PreMiD 설치를 시작해 봅시다.
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:

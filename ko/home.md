@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: 홈
+description: 공식 문서 v2
 published: true
 date: 2020-06-11T18:38:43.041Z
 tags:
@@ -17,7 +17,7 @@ editor: markdown
 
 # 시작하기
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMid 설치는 빠르고 쉽습니다. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
