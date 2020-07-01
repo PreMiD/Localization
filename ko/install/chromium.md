@@ -1,12 +1,12 @@
 ---
 title: 크로미움
-description: Getting started with a PreMiD installation on Chromium-based browsers
+description: 크로미움 기반의 브라우저로 PreMiD 설치를 시작해 봅시다.
 published: true
-date: 2020-04-22T20:13:07.598Z
+date: 2020-04-22 20시 13분 7초
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+애플리케이션만으로는 아무것도 할 수 없기에 확장 프로그램 설치가 매우 중요합니다.
 
 # 설치
 ### Chrome, Edge 등의 브라우저
