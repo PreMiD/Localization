@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Đăng nhập",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Đăng nhập bằng",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Báo lỗi",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Bảng điều khiển",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Đăng xuất",
+    "description": "Logout button"
   }
 }
