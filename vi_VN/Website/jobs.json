@@ -1,6 +1,6 @@
 {
 	"jobs.modal.title": {
-		"message": "Áp dụng cho {0}",
+		"message": "Ứng tuyển cho {0}",
 		"description": "Jobs apply modal title, {0} will be replaced with the job name."
 	},
 	"jobs.modal.step": {
@@ -11,6 +11,10 @@
 		"message": "Tiếp theo",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Tham gia",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Hủy",
 		"description": "Cancel, button in the modal."
@@ -19,9 +23,25 @@
 		"message": "Hãy hoàn thành các mẫu điền",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Tham gia Discord của chúng tôi",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Để có thể ứng tuyển bạn phải tham gia máy chủ Discord của chúng tôi. Nếu không, chúng tôi sẽ không thể liên lạc với bạn nếu bạn được chọn!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Làm việc tại PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Bạn đã sẵn sàng để giúp đỡ chương trình Rich-Presence lớn nhất chưa?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Tuyển việc làm",
@@ -59,6 +79,10 @@
 		"message": "Hỗ trợ PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Với sự đóng góp của bạn, chúng tôi có thể tiếp tục vận hành dự án này.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Hết giờ",
 		"description": "Benefit card title."
@@ -70,5 +94,17 @@
 	"jobs.benefit6.title": {
 		"message": "Tiếp cận sớm",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Kiểm tra các tính năng mới trước người khác.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Cảm ơn bạn đã ứng tuyển!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Bạn đã ứng tuyển rồi!",
+		"description": "Notification when you applied already."
 	}
 }
