@@ -1,1 +1,30 @@
-{}
+{
+	"report.title": {
+		"message": "Báo cáo lỗi",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 báo cáo còn lại",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Báo cáo lỗi là các lỗi trong trang web PreMiD và máy chủ Discord PreMiD. Lỗi của Presence sẽ được báo cáo cho người tạo ra Presence. Chỉ có thể báo lỗi bằng tiếng Anh.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Cung cấp một mô tả rõ ràng và súc tích về lỗi là gì.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Chọn hệ điều hành và phiên bản của bạn",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Chọn trình duyệt và phiên bản của bạn - Bạn có thể tìm thấy phiên bản bằng cách truy cập about:support ở Firefox hoặc chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.button": {
+		"message": "Báo cáo",
+		"description": "Button to send the information inputed."
+	}
+}

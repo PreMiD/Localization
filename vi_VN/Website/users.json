@@ -23,6 +23,14 @@
 		"message": "Tạo hơn 100 trạng thái!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.switch.contributed": {
+		"message": "Người dùng [Presences/đóng góp]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Ấn vào đây để hiển thị Presence mà người dùng này đã tạo.",
+		"description": "Tippy content in user profile."
+	},
 	"user.presences.contributed": {
 		"message": "Bấm vào đây để hiện trạng thái người dùng này đã đóng góp.",
 		"description": "Tippy content (mode 2) in user profile."
