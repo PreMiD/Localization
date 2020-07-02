@@ -34,5 +34,9 @@
   "header.contributors": {
     "message": "Người đóng góp",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Đăng nhập",
+    "description": "Login Button"
   }
 }
