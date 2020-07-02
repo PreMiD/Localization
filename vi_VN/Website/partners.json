@@ -207,6 +207,10 @@
 		"message": "Áp dụng",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Cảm ơn bạn đã ứng tuyển!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Hãy hoàn thành các mẫu điền.",
 		"description": "Error when a field isn't filled."
