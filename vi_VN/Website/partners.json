@@ -19,6 +19,10 @@
 		"message": "Presence miễn phí của bạn",
 		"description": "Heading for the first benefit."
 	},
+	"partners.why.benefit1.description": {
+		"message": "Đội ngũ của chúng tôi sẽ cung cấp Presence dành riêng cho dịch vụ của bạn.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Trở thành người được xác minh",
 		"description": "Heading for the second benefit."
@@ -31,6 +35,10 @@
 		"message": "Tích hợp thẻ Meta",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Tự động hiển thị Presence khi có ai đó truy cập website của bạn.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Trở nên bất tử",
 		"description": "Heading for the fourth benefit."
@@ -42,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Trở nên nổi tiếng",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Được giới thiệu trên phương tiện truyền thông của chúng tôi.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Yêu cầu hệ thống",
@@ -67,6 +79,14 @@
 		"message": "Hãy đi thăng thiên cùng nhau nào!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Nếu bạn khá quan tâm đến công việc trực tiếp tại PreMiD, hãy thử xem **quảng cáo việc làm** của chúng tôi.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Các nhà tài trợ",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD sẽ không có thể nếu không có những con người tuyệt vời này.",
 		"description": "Description for sponsors."
@@ -87,6 +107,26 @@
 		"message": "Nền tảng lợi nhuận cho game thủ.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio là đài phát thanh thông tin giải trí thành công nhất cho các trò chơi mô phòng ở Đức, Áo và Thuỵ Sĩ!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Chọn những gì phù hợp với bạn. Anime, Movies, Hentai trực tuyến và nhiều hơn nữa. Tất cả đều miễn phí và không có bất kỳ quảng cáo nào!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Bắt đầu xây dựng cộng đồng của riêng bạn với các mẫu tuyệt vời của chúng tôi. Hãy xây dựng vương quốc riêng của bạn.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga là một Discord Bot đang cố gắng cung cấp tất cả các tính năng mà bạn có thể cần cùng một lúc!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Một con Bot tuyệt vời cho phép bạn giám sát các trang web, trò chơi và nhiều tính năng nữa.",
+		"description": "Description for Statusbot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Một nền tảng mạnh mẽ và dễ dùng trong việc tạo những gói cài đặt đa nền tảng.",
 		"description": "Description for BitRock."
@@ -102,6 +142,10 @@
 	"partners.partner.wikijs": {
 		"message": "Phần mềm Wiki mã nguồn mở mạnh và mở rộng rất.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "Đằng sau những điều tốt nhất của trang web.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Đăng ký cho đối tác",
@@ -174,5 +218,9 @@
 	"partners.apply.error3": {
 		"message": "Hãy thêm một link (phải bắt đầu bằng https:// và kết thúc với .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Bạn đã ứng cử trở thành đối tác.",
+		"description": "Error when already applied."
 	}
 }
