@@ -26,5 +26,29 @@
 	"report.button": {
 		"message": "Báo cáo",
 		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Bạn có quá nhiều báo cáo đang được xử lý. Hãy chờ các báo cáo của bạn được xem xét. Những báo cáo sẽ được kiểm tra hàng tuần, hãy kiên nhẫn.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Bạn có quá nhiều báo cáo đang chờ.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Lỗi đã được gửi",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Cần thêm thông tin",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Tài khoản Discord cần được xác minh",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Lỗi đang chờ",
+		"description": "Lists users active bugs"
 	}
 }
