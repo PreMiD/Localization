@@ -20,7 +20,7 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Lesen über Kanal:",
+        "message": "Liest über Kanal:",
         "description": ""
     },
     "youtube.searchChannel": {
@@ -40,7 +40,7 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "dessen Bibliothek",
+        "message": "dessen Mediathek",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
@@ -84,15 +84,15 @@
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Schaut die Analyse des Videos:",
+        "message": "Betrachtet die Analyse des Videos: ",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Schaut die Kommentare des Videos:",
+        "message": "Liest die Kommentare des Videos:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Schaut sich die Übersetzung von den Video:",
+        "message": "Schaut sich die Übersetzungen von den Video:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
