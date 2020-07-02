@@ -39,9 +39,37 @@
 		"message": "Nhà phát triển website",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
+	"contributors.roles.engineer": {
+		"message": "Kỹ sư",
+		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.graphicDesigner": {
+		"message": "Thiết kế đồ hoạ",
+		"description": "'Graphic Designer' title for contributors and user pages."
+	},
+	"contributors.roles.seniorModerator": {
+		"message": "Người điều hành cấp cao",
+		"description": "'Senior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.verificationHead": {
+		"message": "Trưởng phòng xác minh Presence",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Đại diện cộng đồng",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Điều hành viên",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Người điều hành cấp thấp",
+		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Nhân viên hỗ trợ",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Người xác nhận trạng thái",
@@ -66,5 +94,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "Bấm vào để copy ID người dùng.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID của người dùng đã được sao chép!",
+		"description": "Notification after user ID was copied."
 	}
 }
