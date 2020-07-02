@@ -13,7 +13,7 @@ When publishing Presences to this GitHub, we require you to follow a set of guid
 
 # Erstellung
 
-The general rules of presence development are as follows:
+Die allgemeinen Regeln der Präsenzentwicklung lauten wie folgt:
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
