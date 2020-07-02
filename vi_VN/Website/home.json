@@ -75,6 +75,10 @@
 		"message": "Có gì đó trục trặc, gửi cho bạn hàng đống lỗi hoặc đơn giản là không hoạt động? Chúng tôi sẽ giúp bạn loại bỏ những vấn đề đó trên máy chủ Discord của chúng tôi, chúng tôi cũng tạo ra hệ thống hỗ trợ rất riêng để đảm bảo vấn đề của bạn được giải quyết càng sớm càng tốt.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Tham gia Discord của chúng tôi",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Ngôn ngữ website",
 		"description": "Tippy content of the language selector."
