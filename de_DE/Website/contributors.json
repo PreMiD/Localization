@@ -68,7 +68,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.juniorModerator": {
-		"message": "Senior Moderator",
+		"message": "Junior-Moderator",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
