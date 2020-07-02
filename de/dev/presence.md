@@ -33,7 +33,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. Wähle einen Ordner Deiner Wahl.
 3. Öffne es in Deinem Quellcode-Editor.
 
-## Creating folders and files
+## Ordner und Dateien werden erstellt
 
 1. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
 2. Erstelle eine `presence.ts` und eine `tsconfig.json` Datei im Inneren.
