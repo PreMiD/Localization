@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Lũ khỉ của công ty chúng tôi đang cố gắng đưa bạn vào chương trình thử nghiệm trước nhanh nhất có thể. Cảm ơn bạn vì đã đăng ký!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Có vẻ như chúng tôi không còn slot beta nào nữa.",
+		"description": "Shows when the beta slots are full."
 	}
 }
