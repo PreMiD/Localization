@@ -91,16 +91,80 @@
     "message": "Cảnh báo",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
+  "downloads.warning.message.edge": {
+    "message": "Đừng quên bật tuỳ chọn 'cho phép tiện ích mở rộng từ các cửa hàng khác' ở mục cài đặt Extension.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Bạn phải cài đặt Extension **này** để có thể cài đặt PreMiD từ Cửa hàng trực tuyến Chrome.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Bỏ qua",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Trở lại",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Hủy",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Okay",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Xong",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Đăng nhập",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Cảm ơn!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Chúng tôi đặt quảng cáo để hỗ trợ nhóm có thể duy trì máy chủ và cung cấp cho bạn trải nghiệm tốt nhất!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Vui lòng tắt trình chặn quảng cáo của bạn.",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Tôi không cần hỗ trợ.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Bạn có chắc không?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Thật chứ?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "X-xin hãy hỗ trợ :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Tôi cần bạn :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Okay, okay...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Hiển thị beta downloads",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(không cần nếu bạn chỉ ở đây để tải xuống ứng dụng thông thường)",
+    "description": "Small text under the show beta title."
   }
 }
