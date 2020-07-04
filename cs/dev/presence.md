@@ -20,7 +20,7 @@ Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživa
 - [Pokyny](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Struktura
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Instalace
@@ -33,7 +33,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji v editoru kódu.
 
-## Creating folders and files
+## Vytváření složek a souborů
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
