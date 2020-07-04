@@ -134,5 +134,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Prosím vypněte svůj blokovač reklam.",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Nechci podporovat.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Jste si jisti?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Opravdu?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-prosím podpora :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Potřebuji tě :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Dobře, v pořádku...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Zobrazit beta stahování",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(nevyžaduje se, pokud jste pouze zde, abyste si stáhli běžnou aplikaci)",
+    "description": "Small text under the show beta title."
   }
 }
