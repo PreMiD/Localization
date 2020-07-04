@@ -9,7 +9,7 @@ editor: markdown
 
 # Pokyny
 
-Při publikování Presence na tento GitHub, požadujeme, abyste dodržovali tyto pokyny. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Při publikování Presence na tento GitHub, požadujeme, abyste dodržovali tyto pokyny. Některým se tato přísná pravidla mohou zdát tvrdá. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Vytváření
 
@@ -232,7 +232,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
 - Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Ověření
 
 > If you need to contact someone, please use our official Discord server. All verifiers will have the `Presence Verifier` role on their profile. 
 > 
