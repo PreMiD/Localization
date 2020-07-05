@@ -147,7 +147,7 @@ presence
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- Используйте это **только** тогда, когда веб-сайт имеет несколько официальных называний (например, Pokémon и 포켓몬스터) или упростить поиск presence без использования специальных символов (например, Pokémon и Pokemon). *Сокращенные* версии названий сервисов идут под `tags`.
 
 ### **`description`**
 
