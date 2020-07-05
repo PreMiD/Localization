@@ -174,7 +174,7 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Es para ser utilizado para presencias que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presencias con caracteres especiales para que no tengas que escribirlos (por ejemplo, Pokémon y Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
