@@ -31,6 +31,10 @@
 		"message": "Melden",
 		"description": "Button to send the information inputed."
 	},
+	"report.toomany": {
+		"message": "Sie haben zu viele aktive Berichte. Warten Sie, bis Ihre eingereichten Berichte überprüft werden. Berichte werden wöchentlich überprüft, haben Sie Geduld.",
+		"description": "User has too many active reports"
+	},
 	"report.toomany.alert": {
 		"message": "Du hast zu viele aktive Meldungen.",
 		"description": "User has too many active reports"
@@ -38,6 +42,10 @@
 	"report.success": {
 		"message": "Fehler gemeldet",
 		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Weitere Informationen benötigt",
+		"description": "User needs to input more notification"
 	},
 	"report.error.unauth": {
 		"message": "Dein Discord Konto muss verifiziert sein",
