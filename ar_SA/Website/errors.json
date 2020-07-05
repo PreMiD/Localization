@@ -6,5 +6,9 @@
 	"user.notFound.heading": {
 		"message": "لم يتم العثور على هذا المطور، تأكد من",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message4": {
+		"message": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بنا على [خادم ديسكورد].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
