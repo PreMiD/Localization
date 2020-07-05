@@ -1,11 +1,27 @@
 {
+	"error.code.404": {
+		"message": "عذراً، لا يمكننا العثور على هذه الصفحة.",
+		"description": "Error (404) message"
+	},
+	"error.code.500": {
+		"message": "هوناك خطاء في الخادم.",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "التفاصيل",
 		"description": "'Details' text on error page container"
 	},
+	"error.page.button": {
+		"message": "الذهاب الي الصفحة الرئسية",
+		"description": "Button on the error page"
+	},
 	"user.notFound.heading": {
 		"message": "لم يتم العثور على هذا المطور، تأكد من",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "أن ID المطور الذي تبحث عنه صحيح.",
+		"description": "Check user ID message."
 	},
 	"user.notFound.message3": {
 		"message": "تفضل لي الديسكورد الخاص بنا الي كي ترا من يوجه المشكلة معك",

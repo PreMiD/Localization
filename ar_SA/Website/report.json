@@ -1,1 +1,18 @@
-{}
+{
+	"report.title": {
+		"message": "الابلاغ عن الاخطاء",
+		"description": "Text to indicate the page."
+	},
+	"report.button": {
+		"message": "الابلاغ",
+		"description": "Button to send the information inputed."
+	},
+	"report.error": {
+		"message": "معلومات جانبية",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "الرجاء التحقق من حسابك في الدسكورد",
+		"description": "Users Discord not verified"
+	}
+}
