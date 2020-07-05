@@ -9,7 +9,7 @@ editor: markdown
 
 # Indicaciones
 
-Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
+Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, estas reglas nos evitarán encontrarnos a nosotros y a los usuarios con algún tipo de problema.
 
 # Creación
 
@@ -53,11 +53,11 @@ presence
 > 
 > {.is-info}
 
-> Es altamente recomendado que organices tu archivo `metadata` en el formato mostrado abajo, y debes tener nombres de servicio, descripciones, etiquetas y campos de ajustes gramaticalmente correctos. Cualquier cosa que no este organizada según las especificaciones, **no** será permitida. 
+> Es altamente recomendado que organices tu archivo `metadata` en el formato mostrado abajo, y debes tener nombres de servicio, descripciones, etiquetas y campos de ajustes gramaticalmente correctos. Cualquier cosa que no esté organizada según las especificaciones, **no** será permitida. 
 > 
 > {.is-warning}
 
-> Presencias de sitios web que tienen contenido explícito **debed** tener la etiqueta `nsfw` y el logo y etiqueta **no** deben contener contenido explícito. 
+> Presencias de sitios web que tienen contenido explícito **deben** tener la etiqueta `nsfw` y el logo y etiqueta **no** deben contener contenido explícito. 
 > 
 > {.is-warning}
 
@@ -67,53 +67,53 @@ Cada presencia tiene un archivo para describirla llamado `metadata.json`, el met
 {
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
-  "contributors": [
-    {
-      "name": "USER",
-      "id": "ID"
-    }
-  ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "contributors": [{
+    "name": "USUARIO",
+    "id": "ID"
+  }],
+  "service": "SERVICIO",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCIÓN"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIÓN",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORÍA",
+  "regExp": "EXPRESIÓN REGULAR",
+  "iFrameRegExp": "EXPRESIÓN REGULAR",
   "iframe": false,
   "settings": [
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": true
-    },
-    {
-      "id": "ID",
-      "if": {
-        "ID": true
-      },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
-    },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": 0,
-      "values": ["1", "2", "etc."]
+        { 
+            "id": "ID",
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ICONO DE FONTAWESOME GRATIS",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ICONO DE FONTAWESOME GRATIS",
+            "value": "\"%song%\" por %artist%",
+            "placeholder": "usa %song% o %artist%"
+        },
+        {
+            "id": "ID",
+            "title": "TÍTULO PARA MOSTRAR",
+            "icon": "ICONO DE FONTAWESOME GRATIS",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
+}
     }
   ]
 }
