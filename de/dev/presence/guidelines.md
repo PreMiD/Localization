@@ -1,6 +1,6 @@
 ---
 title: Richtlinien
-description: Rules all presence developers must follow to have their presence added.
+description: Regeln, welche alle Entwickler beachten müssen, damit ihre Erweiterungen hinzugefügt werden.
 published: true
 date: 2020-06-11T18:43:52.440Z
 tags:
@@ -9,13 +9,13 @@ editor: markdown
 
 # Richtlinien
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Für manche mögen diese strengen Regeln hart erscheinen. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Wenn Sie Präsenzen auf diesem GitHub veröffentlichen, müssen Sie eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
 
 # Erstellung
 
 Die allgemeinen Regeln der Präsenzentwicklung lauten wie folgt:
 
-- Presences **must** be related to the website of choice.
+- Presences **muss** mit der von Dir ausgewählten Website zusammenhängen.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
 - The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
 - You need to have a proper file structure, drafts are **not** allowed.

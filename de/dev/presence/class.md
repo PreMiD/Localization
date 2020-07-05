@@ -59,8 +59,8 @@ Legt den Tray-Titel in der Menüleiste fest.
 Ermöglicht das Abrufen übersetzter Zeichenfolgen aus der Erweiterung. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. Du kannst die Zeichenketten finden, die diesen Endpunkt verwenden: `https://api.premid.app/v2/langFIle/extension/de`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Gibt `Playing` und `Paused` Strings
+// der Erweiterung wieder.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
