@@ -229,7 +229,7 @@ En algunas situaciones, las presencias pueden comportarse inesperadamente o podr
 
 - Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si la el autor de la Presencia fue baneado del servidor oficial o no ha hecho los cambios requeridos en un periodo de un mes, puedes contactar con un verificador de presencias para ver si puedes reescribir la Presencia.
 - Cualquiera puede proporcionar parches rápidos (hotfixes) para corregir errores; sin embargo, intente **no** hacer cambios en el código que **no** necesitan ser corregidos. Las modificaciones válidas puedes ser, pero **no** están limitadas a _rutas faltantes_, _errores tipográficos_, _imágenes faltantes_, etc.
-- Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Contact a verifier for more information about this subject.
+- Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Póngase en contacto con un verificador para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
 
 # Verificación
@@ -273,14 +273,14 @@ Algunas cosas que deberías saber después de abrir una solicitud de pull reques
 
 Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. Todos estos controles ayudan a que los verificadores determinen si su presencia es adecuada para su implementación.
 
-- `DeepScan` es un bot que comprueba la calidad del código. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `DeepScan` es un bot que comprueba la calidad del código. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
+- `Schema Validation` escaneará su archivo `metadata.json` en busca de cualquier error (por ejemplo, campos faltantes, tipos de valor no válidos, etc.). Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos. Añadir un campo de esquema a su archivo `metadata.json` permitirá a su editor de texto (si es compatible) mostrar estos errores durante el desarrollo.
 
 ## `Reglas adicionales`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Siempre** asegúrese de iniciar su presencia en la carpeta más apropiada, si su nombre comienza con _cualquier_ letra latina entonces debe estar bajo su coincidencia alfabética (p. ej. `D/dアニメストア` o `G/Google`). Cualquier otro carácter Unicode/no latino **debe** estar bajo la carpeta `#` (por ejemplo, `#/巴哈姆特.`) y números bajo la carpeta `0-9` (por ejemplo, `0-9/4anime`).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Después de cumplir con todas las directrices con las revisiones y comprobaciones adecuadas, su presencia se fusionará con la tienda.
 
 # Contribuidores
 
