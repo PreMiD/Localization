@@ -155,6 +155,10 @@
     "message": "Ich brauche dich :<",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
+  "downloads.skipanyway.message6": {
+    "message": "Okay, okay...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
   "downloads.showbeta.message": {
     "message": "Beta-Downloads anzeigen",
     "description": ""
