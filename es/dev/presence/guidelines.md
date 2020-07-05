@@ -227,9 +227,9 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **debe** tener en cuenta al modificar presencias.
 
-- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
+- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si la el autor de la Presencia fue baneado del servidor oficial o no ha hecho los cambios requeridos en un periodo de un mes, puedes contactar con un verificador de presencias para ver si puedes reescribir la Presencia.
+- Cualquiera puede proporcionar parches rápidos (hotfixes) para corregir errores; sin embargo, intente **no** hacer cambios en el código que **no** necesitan ser corregidos. Las modificaciones válidas puedes ser, pero **no** están limitadas a _rutas faltantes_, _errores tipográficos_, _imágenes faltantes_, etc.
+- Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Contact a verifier for more information about this subject.
 - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
 
 # Verificación
@@ -246,7 +246,7 @@ En algunas situaciones, las presencias pueden comportarse inesperadamente o podr
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmarán que su presencia está a la altura de los estándares y que será colocada en la tienda.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
