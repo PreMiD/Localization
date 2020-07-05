@@ -246,7 +246,7 @@ En algunas situaciones, las presencias pueden comportarse inesperadamente o podr
 > 
 > {.is-warning}
 
-El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmarán que su presencia está a la altura de los estándares y que será colocada en la tienda.
+El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmarán que su presencia está a la altura de los estándares y será colocada en la tienda.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
@@ -260,12 +260,12 @@ El proceso más importante de desarrollo de una presencia es publicar tu presenc
 
 ## `Revisiones`
 
-A few things you should know after opening a pull request:
+Algunas cosas que deberías saber después de abrir una solicitud de pull request:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- Se necesitan 2 revisores para combinar un pull request.
+- Si un pull request está inactivo durante un período de 7 días, será cerrado inmediatamente.
+- Todas las verificaciones **deben pasar** para combinar.
+- ⚠️Tú **debes** proporcionar, nuevas capturas de pantalla sin alterar (tomadas por ti) mostrando una comparación lado a lado de tu perfil y el sitio web para demostrar que tu presencia funciona. _Se le permite unir capturas de pantalla para el disfrute visual_ Esto se aplica tanto para la creación como para la modificación.
 
 ## `Verificaciones`
 
