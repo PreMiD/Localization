@@ -7,8 +7,12 @@
 		"message": "لم يتم العثور على هذا المطور، تأكد من",
 		"description": "Error when user couldn't be found."
 	},
+	"user.notFound.message3": {
+		"message": "تفضل لي الديسكورد الخاص بنا الي كي ترا من يوجه المشكلة معك",
+		"description": "Check if the error is also happening to others message."
+	},
 	"user.notFound.message4": {
-		"message": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بنا على [خادم ديسكورد].",
+		"message": "اذا كنت تتوقع ان هذا خطاء الرجاء التوجه الي الدسكورد",
 		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
