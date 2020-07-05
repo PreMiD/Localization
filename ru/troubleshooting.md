@@ -11,7 +11,7 @@ tags:
 > {.is-warning}
 
 ### Перезагрузить страницу
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Вы можете нажать <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре, вместо поиска кнопки обновления страницы.
 
 ### Перезапустите браузер
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) тоже хорошо работает. (Очевидно, вы должны снова запустить ваш браузер.)
@@ -23,7 +23,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) Вы должны перезапустить PreMiD.
 
 ### Перезагрузить/перезапустить Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Нажмите <kbd>CTRL+R</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре или перезапустите Discord самостоятельно.
 
 ### Убедитесь, что Discord не запущен как администратор
 Очень важно. Discord RPC не будет работать, если вы запускаете Discord от имени администратора.
@@ -41,11 +41,11 @@ Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard o
 Иногда что-то не так с файлами... Учебники по установке можно найти [здесь](/install).
 
 ### Ручное удаление
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows: `C:\Users\USER\AppData\Roaming\`` и удалите папку`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`PreMiD``.
 
 ### На Ubuntu/Debian дистрибутивах
 Если вы загрузили Discord через Snapcraft, RPC не будет работать. Вы должны удалить версию Snapcraft, выполнив `sudo snap удалить discord` на терминале, скачать [сборку Discord для Linux](https://discordapp.com/api/download?platform=linux) ([или Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), затем перейдите в каталог, в который вы скачали Discord (обычно `$HOME/Downloads`), затем установите пакет с помощью `sudo dpkg -i discord-*. eb`.
 
 ### Это не позволило решить мою проблему
-Please open a ticket in [#support](https://discord.gg/WvfVZ8T).
+Пожалуйста, оставьте заявку в [#support](https://discord.gg/WvfVZ8T).
