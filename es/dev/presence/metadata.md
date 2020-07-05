@@ -141,7 +141,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Una cadena de expresión regular utilizada para coincidir con las urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
