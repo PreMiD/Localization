@@ -1,5 +1,5 @@
 ---
-title: Directrices
+title: Indicaciones
 description: Reglas que todos los desarrolladores de Presencias deben seguir para que su Presencia sea añadida.
 published: verdadero
 date: 2020-06-11T18:43:52.440Z
@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-# Directrices
+# Indicaciones
 
 Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, la implementación de estas reglas nos impedirá a nosotros y a los usuarios encontrarnos con cualquier problema.
 
