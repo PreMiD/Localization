@@ -2,7 +2,7 @@
 title: Установка
 description: Как установить PreMiD
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 12 февраля 2020г. 22:05:12
 tags:
 ---
 
