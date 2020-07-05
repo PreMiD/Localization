@@ -51,6 +51,10 @@
         "message": "يشاهد تاريخ التقارير",
         "description": ""
     },
+    "youtube.upload": {
+        "message": "تحميل شيء...",
+        "description": ""
+    },
     "youtube.viewAllPlaylist": {
         "message": "يشاهد جميع قوائم التشغيل",
         "description": ""
