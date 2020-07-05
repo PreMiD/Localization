@@ -143,21 +143,21 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`servicio`**
 
-- El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta ubicada en `/websites/Y/Youtube/`, el nombre del servicio debe ser `YouTube`.
+- El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta ubicada en `/websites/Y/YouTube/`, el nombre del servicio debe ser `YouTube`.
 
 ### **`altnames`**
 
-- **Solo** use esto en el caso que el sitio web aparezca bajo distintos nombres (e.j. Pokémon ó 포켓몬스터) para buscar mas fácil la presencia sin usar caracteres especiales (e.j. Pokémon ó Pokemon). *Shortened* versiones del servicio apareceran como `tags`.
+- **Solo** use esto en el caso que el sitio web aparezca bajo distintos nombres (e.j. Pokémon ó 포켓몬스터) para buscar mas fácil la presencia sin usar caracteres especiales (e.j. Pokémon ó Pokemon). Versiones *acortadas* del servicio aparecerán como `etiquetas`.
 
 ### **`descripción`**
 
-- **Todas** las presencias **requieren** una descripción en Inglés sin importar el idioma preferido del sitio web.
+- **Todas** las presences **requieren** una descripción en Inglés sin importar el idioma preferido del sitio web.
 - **No** intentes traducir la descripción por tu cuenta a menos que conozcas el idioma, traductores modificaran tu `metadata.json.` y cambiaran la descripción de ser necesario.
 
 ### **`url`**
 
-- La url **debe** ser un "string" si el sitio web solo usa un dominio. Si el sitio web usa múltiples, haga esto una matriz y especifique cada una.
-- **No** incluya protocolos en la url (por ej.`http` ó `https`, y no incluya parámetros "query" en la url (por ej.,`www.google.com/search?gws_rd=ssl` which should be `www.google.com`
+- La url **debe** ser un "string" si el sitio web solo usa un dominio. Si el sitio web usa múltiples, usa un array y especifica cada una.
+- **No** incluya protocolos en la url (por ej.`http` ó `https`, y no incluya parámetros "query" en la url (por ej.,`www.google.com/search?gws_rd=ssl` devería ser `www.google.com`)
 
 ### **`versión`**
 
