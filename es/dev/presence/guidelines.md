@@ -195,7 +195,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`ajustes`**
 
-- Si decide crear una cadena de formato (p.e. `%song% por %artist%`), debe tener las variables rodeadas por un signo de porcentaje en cualquiera de los lados. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- Si decide crear una cadena de formato (p.e. `%song% por %artist%`), debe tener las variables rodeadas por un signo de porcentaje en cualquiera de los lados. Variables como `%var`, `var%`, o `%%var%%` y todo lo que esté entre intermedios **no** está permitido por el bien de la estandarización.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -205,13 +205,13 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `presence.ts`:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Siempre** declare una nueva instancia de la clase `Presence` antes de cualquier otra variable para evitar problemas raros que puedan ocurrir; no es un requisito por diseño para que pueda ser eliminado en el futuro.
+- **Nunca** utilice funciones personalizadas cuando [variantes nativas estén disponibles](https://docs.premid.app/dev/presence#files-explained); esto asegura que las correcciones en el nivel de extensión también se aplican a sus presencias. You're free to use whatever you need if you do not find them listed in the docs.
 - It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- **No** estás autorizado para acceder a `localStorage`.
+- Al acceder a las cookies de los datos almacenados, por favor prefije la clave con `PMD_`.
+- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. Si está utilizando dominios externos, tendrá que explicar por qué son necesarios.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
