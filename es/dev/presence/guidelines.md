@@ -206,12 +206,12 @@ Una lista de los campos y sus reglas están listadas abajo:
 Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `presence.ts`:
 
 - **Siempre** declare una nueva instancia de la clase `Presence` antes de cualquier otra variable para evitar problemas raros que puedan ocurrir; no es un requisito por diseño para que pueda ser eliminado en el futuro.
-- **Nunca** utilice funciones personalizadas cuando [variantes nativas estén disponibles](https://docs.premid.app/dev/presence#files-explained); esto asegura que las correcciones en el nivel de extensión también se aplican a sus presencias. You're free to use whatever you need if you do not find them listed in the docs.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+- **Nunca** utilice funciones personalizadas cuando [variantes nativas estén disponibles](https://docs.premid.app/dev/presence#files-explained); esto asegura que las correcciones en el nivel de extensión también se aplican a sus presencias. Eres libre de usar lo que sea que necesites, si no los encuentras listados en la documentación.
+- Está **prohibido** escribir presencias para un sitio sin añadir soporte para su idioma de origen (por ejemplo, una presencia de YouTube escrita con soporte solo para Portugués y Japonés, pero no para Ingés.)
+- Los campos `smallImageKey` y `smallImageText` están destinados a proporcionar contexto adicional/secundario (como `reproducir/pausado` para sitios de vídeo, `navegando` para sitios normales, y otros casos) no para promover perfiles de Discord ni nada que no esté relacionado con PreMiD.
 - **No** estás autorizado para acceder a `localStorage`.
 - Al acceder a las cookies de los datos almacenados, por favor prefije la clave con `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. Si está utilizando dominios externos, tendrá que explicar por qué son necesarios.
+- Solo podrás hacer peticiones HTTP/HTTPS a `premid.app` o el sitio para API de su presencia. Si está utilizando dominios externos, tendrá que explicar por qué son necesarios.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -225,12 +225,12 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **debe** tener en cuenta al modificar presencias.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
+- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Asegúrese de que las modificaciones son útiles. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
+- Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
 
 # Verificación
 
