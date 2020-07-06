@@ -13,15 +13,15 @@ editor: markdown
 
 Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/) hinzuzufügen und zu entfernen.
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Bevor Sie anfangen, sollten Sie sich unsere Präsenzrichtlinien anschauen. 
 > 
 > {.is-warning}
 
 - [Richtlinien](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Struktur
+Alle Anwesenden sind im [TypeScript](https://www.typescriptlang.org/) geschrieben. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders strenge Typdefinitionen, sodass das Beheben und Erkennen von Fehlern viel einfacher ist.
 
 ## Installation
 1. Installiere [Git](https://git-scm.com/).
@@ -157,9 +157,9 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>alternative Namen</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Sie können die Präsenz mit einem alternativen Namen suchen. <br>Mittel für Präsenzen, die unterschiedliche Namen in verschiedenen Sprachen haben (z.B. Pokémon und 포켓몬스터).<br>Sie können es auch für Präsenzen verwenden, die Sonderzeichen haben, damit Sie diese nicht eingeben müssen (z.B. Pokémon und Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
