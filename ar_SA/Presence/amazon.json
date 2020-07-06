@@ -31,6 +31,10 @@
         "message": "يشاهد أمازون برايم",
         "description": ""
     },
+    "amazon.viewTheir": {
+        "message": "عرض المستخدم",
+        "description": "Part 1 of the next 5 strings"
+    },
     "amazon.orderHistory": {
         "message": "سجل الطلبات",
         "description": "Part 2 of the string: \"Viewing their\""
