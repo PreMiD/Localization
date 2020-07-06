@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Наші мавпи працюють над тим, щоб додати вас до нашої бета-програми якомога швидше. Дякуємо за реєстрацію!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Схоже, ми більше не маємо доступних бета-слотів.",
+		"description": "Shows when the beta slots are full."
 	}
 }
