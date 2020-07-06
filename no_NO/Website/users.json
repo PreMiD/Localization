@@ -1,10 +1,10 @@
 {
 	"user.importantPresenceDev.message2": {
-		"message": "Lagde {0} presences.",
+		"message": "Laget {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Lagde over 100 presences!",
+		"message": "Laget over 100 presences!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	}
 }
