@@ -31,6 +31,10 @@
 		"message": "Інтеграція з мета-тегами",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматично використовує ваш Presence, коли хтось відвідує ваш веб-сайт.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Відокремте",
 		"description": "Heading for the fourth benefit."
@@ -102,6 +106,18 @@
 	"partners.partner.aniWatch": {
 		"message": "Отримайте що справедливо для вас. Потокове Аніме, Фільми, Гентай, Особливе та багато іншого. Безкоштовно, без рекламних оголошень і у високій роздільній здатності!",
 		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Почніть створювати власну спільноту з нашими дивовижними шаблонами. Побудуйте своє власне королівство.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga - це бот Discord, який намагається запропонувати всі функції, які вам можуть знадобитися відразу!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Потужний бот, який дозволяє контролювати веб-сайти, ігри, та надає багато інших функцій.",
+		"description": "Description for Statusbot."
 	},
 	"partners.partner.bitRock": {
 		"message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача.",
