@@ -2,5 +2,9 @@
     "9gag.gag": {
         "message": "يشاهد البوابة:",
         "description": ""
+    },
+    "9gag.trending": {
+        "message": "عرض الهام",
+        "description": ""
     }
 }
