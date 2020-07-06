@@ -71,6 +71,10 @@
 		"message": "Ходімо до раю разом!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.sponsors.title": {
+		"message": "Спонсори",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD не став би можливим без цих дивовижних людей.",
 		"description": "Description for sponsors."
