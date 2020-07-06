@@ -31,6 +31,14 @@
 		"message": "iD користувача яке ви шукаєте є правильним.",
 		"description": "Check user ID message."
 	},
+	"user.notFound.message2": {
+		"message": "користувач створив достатньо Presences та має роль розробника Presence на нашому Діскорд сервері.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "якщо інші зіткнулись з такою самою проблемою на нашому Діскорд сервері.",
+		"description": "Check if the error is also happening to others message."
+	},
 	"user.notFound.message4": {
 		"message": "Якщо ви вважаєте, що це була помилка, будь ласка, зв'яжіться з нами на [нашому Діскорд сервері].",
 		"description": "Bottom line for the error page. Do not edit brackets."
