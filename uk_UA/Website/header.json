@@ -48,7 +48,7 @@
     "description": "Report a bug button"
   },
   "header.staff": {
-    "message": "Головна панель",
+    "message": "Панель управління",
     "description": "Dashboard button"
   },
   "header.logout": {
