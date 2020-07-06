@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: Отримайте доступ до ресурсів і виконування дій використовуючи PreMiD API
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## Версія API
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1 було перервано, будь-який запит слід переслати до поточної активної версії 
 > 
 > {.is-danger}
 
@@ -30,5 +30,5 @@ PreMiD показує різні версії нашого API. Ви может�
 
 **Виберіть версію API:**
 - [v2 *активно*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *робота в процессі*](/dev/api/v3)
 {.links-list}
