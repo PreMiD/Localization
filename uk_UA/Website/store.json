@@ -31,6 +31,30 @@
 		"message": "Видалити Presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.card.presence.included": {
+		"message": "Цей Presence автоматично увімкнений після відвідування його сайту.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Фільтри",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Найбільш використовувані спочатку",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Показувати NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Тільки улюблені Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Показати додані Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Категорії",
 		"description": "Category heading"
@@ -62,5 +86,13 @@
 	"store.search": {
 		"message": "Пошук",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Введіть",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Натисніть, щоб видалити фільтр",
+		"description": "Remove message for active search filters."
 	}
 }
