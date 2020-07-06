@@ -8,7 +8,7 @@
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "Outomatiese opdatering is nou a ding",
+    "message": "Outomatiese opdatering is nou 'n ding",
     "description": ""
   },
   "extension.2.0.new4": {
@@ -29,6 +29,18 @@
   },
   "extension.2.0.new8": {
     "message": "Ons se nuwe API is 'n lopende dier",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "Die popup en tabs uitleg en styl is opgeknap",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "Baie (on)bekende foute het weggehardloop",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "Alles werk nou vinniger",
     "description": ""
   }
 }
