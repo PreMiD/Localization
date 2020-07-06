@@ -42,5 +42,9 @@
   "extension.2.0.fix2": {
     "message": "Alles werk nou vinniger",
     "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "'n Ou programfout was reggemaak, selfs al het u die nuutste een",
+    "description": ""
   }
 }
