@@ -4,7 +4,7 @@
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
-		"message": "Ви шукаєте не існуючий або видалений Presence.",
+		"message": "Ви шукаєте не існуюче або видалене Presence.",
 		"description": "Error (4) message"
 	},
 	"error.page.details": {
@@ -12,7 +12,7 @@
 		"description": "'Details' text on error page container"
 	},
 	"error.page.button": {
-		"message": "Повернутися на домашню сторінку",
+		"message": "Повернутися на головну сторінку",
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
