@@ -51,6 +51,10 @@
 		"message": "Простий користувацький інтерфейс",
 		"description": "Features section subheading"
 	},
+	"home.features.simpleInterface.description": {
+		"message": "Втомилися від складних користувацьких інтерфейсів? Ось чому ми створили й намагалися зберегти наш інтерфейс таким простим і корисним як можливо, з важливими функціями, як:",
+		"description": "Features section description"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Налаштування додатку і розширення",
 		"description": "Features section description point"
@@ -59,12 +63,24 @@
 		"message": "Управління Присутностями",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Сортувати за категорією",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Швидка підтримка",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Щось є зламаним, надсилаючи вам тони помилок або просто не працює? Ми допоможемо вам позбутися цих помилок на нашому Діскорд сервері, ми також створили нашу власну систему підтримки, це дозволить вирішити вашу проблему якнайшвидше.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Приєднуйтеся до нашого Discord",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Мова сайту",
+		"description": "Tippy content of the language selector."
 	}
 }
