@@ -15,9 +15,9 @@ tags:
  عند إنشاء صف دراسي، يجب تحديد `معرف العميل` الخاصية.
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
-});
+السماح بالوجود = وجود جديد ({
+    العميل معرف: "514271496134389561" // مثال العميل
+})؛
 ```
 
 There are two properties available for `Presence` class.
