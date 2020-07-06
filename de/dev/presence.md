@@ -179,13 +179,13 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">URL des Dienstes.<br><b>Beispiel:</b><code>vk.com</code><br>
+        <b>Diese URL muss mit der URL der Webseite übereinstimmen, da sie erkennt, ob dies die Webseite ist, der das Skript injiziert werden soll.</b><br> <b>Fügen sie <b> NICHT <code>https://</code> oder <code>http://</code> innerhalb der URL oder am Ende ein Slash hinzu!:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Notiz</b>: Einige URLs können <code>www.</code> oder etwas anderes vor ihrer Domain haben. <b>NICHT</b> vergessen, es hinzufügen!<br>
+Sie können mehrere URLs hinzufügen, indem Sie folgendes tun:<br>
+<code>["URL1", "URL2", "ETC.]</code><br>
+Sie können auch regExp verwenden, auch bekannt als Regex für diese Aufgabe, weiter unten erklärt.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
