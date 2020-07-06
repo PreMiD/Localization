@@ -48,7 +48,7 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Тільки улюблені Presences",
+		"message": "Тільки вподобані Presences",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
