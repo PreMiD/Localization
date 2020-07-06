@@ -1,18 +1,18 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: فئة الحضور
+description: الصف الرئيسي لكل وجود PreMiD
 published: true
 date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
-# Presence Class
+# فئة الحضور
 
 ## مقدمة
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+فئة `الحضور` مفيدة جدا لأن لديها الأساليب الأساسية التي نحتاج إليها لإنشاء وجود.
 
- When you create a class you must specify `clientId` property.
+ عند إنشاء صف دراسي، يجب تحديد `معرف العميل` الخاصية.
 
 ```typescript
 let presence = new Presence({
