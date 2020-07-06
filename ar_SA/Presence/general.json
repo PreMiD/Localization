@@ -175,6 +175,10 @@
 		"message": "يشاهد الملف الشخصي لـ:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "يشاهد:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "يشاهد العرض:",
 		"description": ""

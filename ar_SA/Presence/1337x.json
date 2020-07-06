@@ -3,8 +3,20 @@
         "message": "عرض المكتبة الافلام",
         "description": ""
     },
+    "1337x.seriesLibrary": {
+        "message": "عرض المكتبة الافلام",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "عرض الحلقة الاخيرة",
+        "description": ""
+    },
     "1337x.top": {
         "message": "عرض 100 الاول",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "عرض الهام",
         "description": ""
     },
     "1337x.animeTorrents": {
@@ -13,6 +25,10 @@
     },
     "1337x.appTorrents": {
         "message": "عرض تورينت التطبيقات",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "عرض الافلام",
         "description": ""
     },
     "1337x.gamesTorrents": {
@@ -35,12 +51,24 @@
         "message": "عرض تورينت التلفاز",
         "description": ""
     },
+    "1337x.xxxTorrents": {
+        "message": "عرض تورينت التطبيقات",
+        "description": "XXX as in NSFW"
+    },
     "1337x.upload": {
         "message": "تحميل شيء...",
         "description": ""
     },
     "1337x.rules": {
         "message": "قراءة القوانين",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "كتابة الي 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "قراءة 1337x",
         "description": ""
     },
     "1337x.viewTorrent": {
