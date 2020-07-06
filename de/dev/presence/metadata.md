@@ -109,9 +109,9 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>alternative Namen</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Sie können die Präsenz mit einem alternativen Namen suchen. <br>Mittel für Präsenzen, die unterschiedliche Namen in verschiedenen Sprachen haben (z.B. Pokémon und 포켓몬스터).<br>Sie können es auch für Präsenzen verwenden, die Sonderzeichen haben, damit Sie diese nicht eingeben müssen (z.B. Pokémon und Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
