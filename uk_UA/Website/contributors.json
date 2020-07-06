@@ -19,9 +19,21 @@
 		"message": "Менеджер проекту",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Керувальник операціями",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Глобальний представник спільноти",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "Менеджер магазину",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Системний Адміністратор",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Веб-розробник",
@@ -86,5 +98,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "Натисніть, щоб скопіювати ідентифікатор користувача.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID користувача скопійовано!",
+		"description": "Notification after user ID was copied."
 	}
 }
