@@ -15,16 +15,32 @@
 		"message": "יוצר",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "מנהל פרויקטים\n",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "מפקח מבצעים\n",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "נציג קהילה עולמי",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "מנהל חנות",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "מנהל מערכת",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "מפתח אינטרנט",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "תחזוקת לינוקס",
+		"message": "איש תחזוקת לינוקס",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
@@ -82,5 +98,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "תלחץ כאן בשביל להעתיק את הID של האיש.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ה-ID של המשתמש הועתק!",
+		"description": "Notification after user ID was copied."
 	}
 }
