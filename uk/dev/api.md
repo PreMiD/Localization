@@ -1,6 +1,6 @@
 ---
 title: API
-description: Отримайте доступ до ресурсів і виконування дій використовуючи PreMiD API
+description: Доступ до ресурсів і виконування дій використовуючи PreMiD API
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
