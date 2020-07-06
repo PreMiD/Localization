@@ -31,9 +31,17 @@
 		"message": "Приєднуйтеся до нашого Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Щоб мати можливість подати заявку, ви повинні приєднатися до нашого сервера Discord. Інакше ми не зможемо зв'язатися з вами, якщо ви будете обрані!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Робота в PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Готові допомогти найбільшій Rich-Presence програмі?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Вакансії",
@@ -71,6 +79,10 @@
 		"message": "Підтримати PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Завдяки вашому внеску можна запустити цей проект.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Час вийшов",
 		"description": "Benefit card title."
@@ -82,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "Ранній доступ",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Ви зможете протестувати нові функції раніше, ніж будь-хто інший.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Дякуємо, що подали заявку!",
