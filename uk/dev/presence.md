@@ -20,8 +20,8 @@ editor: markdown
 - [Керівні принципи](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Структура
+Всі presence є закодовані в [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Установлення
 1. Установіть[Git](https://git-scm.com/).
