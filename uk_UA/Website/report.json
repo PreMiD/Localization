@@ -6,5 +6,21 @@
 	"report.button": {
 		"message": "Повідомити",
 		"description": "Button to send the information inputed."
+	},
+	"report.success": {
+		"message": "Помилку надіслано",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Потрібно більше інформації",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Обліковий запис Discord потрібно перевірити",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Активні Помилки",
+		"description": "Lists users active bugs"
 	}
 }
