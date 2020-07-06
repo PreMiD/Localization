@@ -1,4 +1,12 @@
 {
+	"report.title": {
+		"message": "Повідомити про помилку",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "Залишилось {count}/3 звітів",
+		"description": "Amount of bug reports user can send"
+	},
 	"report.os": {
 		"message": "Виберіть вашу операційну систему та версію",
 		"description": "Select Box for the user to select their operating system"
@@ -6,6 +14,14 @@
 	"report.button": {
 		"message": "Повідомити",
 		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "У Вас занадто багато активних звітів. Дочекайтеся ваших поданих звітів, щоб їх переглянули. Звіти перевіряються щотижня, будьте терплячими.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "У вас занадто багато активних звітів.",
+		"description": "User has too many active reports"
 	},
 	"report.success": {
 		"message": "Помилку надіслано",
@@ -16,11 +32,11 @@
 		"description": "User needs to input more notification"
 	},
 	"report.error.unauth": {
-		"message": "Обліковий запис Discord потрібно перевірити",
+		"message": "Обліковий запис Discord повинен бути підтверджений",
 		"description": "Users Discord not verified"
 	},
 	"report.activebugs": {
-		"message": "Активні Помилки",
+		"message": "Активні помилки",
 		"description": "Lists users active bugs"
 	}
 }
