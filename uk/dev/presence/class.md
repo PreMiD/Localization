@@ -73,7 +73,7 @@ strings = await presence.getStrings({
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Це увійде в "Змінний контент"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -82,9 +82,9 @@ console.log(pageVar); // This will log the "Variable content"
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Повідомляється номера "210" в логи
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Повідомляється версії "2.1.0" в логи
 ```
 
 ### `getSetting(String)`
