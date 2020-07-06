@@ -3,6 +3,10 @@
 		"message": "Мова",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Готові використовувати PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Приєднуйтеся, вже понад {0} користувачів на сьогоднішній день!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
