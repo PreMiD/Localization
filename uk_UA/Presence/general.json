@@ -175,6 +175,10 @@
 		"message": "Переглядає профіль ",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Переглядає серії:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Переглядає серіал ",
 		"description": ""
