@@ -162,5 +162,9 @@
   "downloads.showbeta.message": {
     "message": "Показати бета-завантаження",
     "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(не потрібен якщо ви є тільки тут щоб завантажити звичайний додаток)",
+    "description": "Small text under the show beta title."
   }
 }
