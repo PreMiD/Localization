@@ -1,1 +1,34 @@
-{}
+{
+  "extension.2.0.new1": {
+    "message": "Gebruikers kan nou self presences byvoeg. *Voeg now 'n paar by*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "Vind 'n paar *nuwe presences* in hul natuurlike habitat",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "Outomatiese opdatering is nou a ding",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "Gebruikers kan nou presences skep",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "*Docs* vir daardie kreatiewe ontwikkelaars daar buite",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "Alle nuwe webwerf ontwerp",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "Meer funksies vir ons se Discord Bot",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "Ons se nuwe API is 'n lopende dier",
+    "description": ""
+  }
+}
