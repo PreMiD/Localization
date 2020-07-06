@@ -1,1 +1,10 @@
-{}
+{
+	"report.os": {
+		"message": "Виберіть вашу операційну систему та версію",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.button": {
+		"message": "Повідомити",
+		"description": "Button to send the information inputed."
+	}
+}

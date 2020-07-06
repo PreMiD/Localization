@@ -15,6 +15,10 @@
 		"message": "Як щодо того, щоб потрапити на рай замість пекла?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Ваш безкоштовний Presence",
+		"description": "Heading for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Станьте перевіреним",
 		"description": "Heading for the second benefit."
