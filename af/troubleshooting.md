@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting
+title: Probleemoplossing
 description: Everything to solve your problem
 published: true
 date: 2020-04-20T11:16:55.141Z
