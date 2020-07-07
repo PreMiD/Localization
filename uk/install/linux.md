@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Просто натисніть це два рази або запустіть
 ./PreMiD*.AppImage
 ```
 
