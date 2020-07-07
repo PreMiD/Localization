@@ -1,1 +1,6 @@
-{}
+{
+    "premid.pageWiki": {
+        "message": "Wiki",
+        "description": "A page name"
+    }
+}
