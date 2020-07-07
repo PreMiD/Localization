@@ -1,1 +1,10 @@
-{}
+{
+	"beta.title": {
+		"message": "Wil nuwe funksies hê?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** is nou beskikbaar vir almal!",
+		"description": "Section description"
+	}
+}
