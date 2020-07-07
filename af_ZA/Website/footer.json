@@ -1,1 +1,10 @@
-{}
+{
+	"footer.supportus.donate": {
+		"message": "Skenk",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	}
+}
