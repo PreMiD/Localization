@@ -321,31 +321,31 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-    <td style="text-align:left"><b>Games</b></td>
+    <td style="text-align:left"><b>Speletjies</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-    <td style="text-align:left"><b>Music</b></td>
+    <td style="text-align:left"><b>Musiek</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Sosiale</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Video's & Strome</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-    <td style="text-align:left"><b>Other</b></td>
+    <td style="text-align:left"><b>Ander</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
       </td>
     </tr>
