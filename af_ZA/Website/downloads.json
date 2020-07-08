@@ -1,4 +1,8 @@
 {
+  "downloads.header.title": {
+    "message": "Tyd om te spog.",
+    "description": "Title"
+  },
   "downloads.button.done": {
     "message": "Doen",
     "description": "Button on the page when trying to download with adblocker on."
