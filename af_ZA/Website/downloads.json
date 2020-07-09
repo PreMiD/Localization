@@ -3,6 +3,70 @@
     "message": "Tyd om te spog.",
     "description": "Title"
   },
+  "downloads.header.subtitle": {
+    "message": "Nou gebruik PreMiD en spog na u vriende om wat u doen, miskien vind jy iemand met dieselfde belange.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Begin",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Laai PreMiD af",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Installeer ons uitbreiding",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Voeg ons uitbreiding by u blaaier",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Herlaai hierdie webwerf en kyk of die uitbreiding konnekteer is",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "Nog steeds probleme? {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "Ons is hier om te hulp!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Aansoek",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Uitbreiding",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Waarskuwing:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Daar is geen installeerder vir hierdie bedryfstelsel nie. Dit beteken dat daar is geen professionele ondersteuning vir dit nie.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Wees asseblief bewus, dat PreMiD het geen selfone onderstuening nie.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Wys Aflaaie",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Versteek Aflaaie",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "Die huidige weergawe van hierdie platform is {0} (hierdie weergawe is spesifieke by Linux, en is nie van toepassing op ander platforms nie).",
+    "description": "Tippy message of the Linux card."
+  },
   "downloads.button.done": {
     "message": "Doen",
     "description": "Button on the page when trying to download with adblocker on."
