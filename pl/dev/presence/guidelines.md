@@ -151,7 +151,7 @@ Lista pól i ich zasad znajduje się poniżej:
 
 ### **`opis`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
+- **Wszystkie** presence **muszą** mieć angielski opis bez względu na preferowany język na stronie.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
@@ -282,7 +282,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Contributions
+# Wkład
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
