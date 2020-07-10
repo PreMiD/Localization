@@ -12,7 +12,7 @@ tags:
 
 `Presence` klasė yra labai naudinga, nes joje yra pagrindiniai metodai, kurių mums reikia norint sukurti presence.
 
- When you create a class you must specify `clientId` property.
+ Kurdami klasę turite nurodyti ` klientoID ` ypatybę.
 
 ```typescript
 let presence = new Presence({
@@ -24,15 +24,15 @@ let presence = new Presence({
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Kad jūsų presence veiktų, turi būti suteikta nuosavybė `klientoID `, nes ji naudoja jūsų programos Id, norėdama parodyti savo logotipą ir išteklius.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Galite jį gauti [ programų puslapyje ](https://discordapp.com/developers/applications).
 
-## Methods
+## Metodika
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Grąžina ` presenceData ` objektą kurį rodo presence.
 
 ### `setActivity(presenceData, Boolean)`
 
