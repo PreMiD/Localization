@@ -35,19 +35,19 @@ Pada file konfigurasi root anda akan melihat hal seperti ini.
 }
 ```
 
-| Property                   | Deskripsi                                                                                                                                                           |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Digunakan untuk mengatur compiler, sebagian besar dari property disimpan disini.                                                                                    |
-| module                     | Anda dapat membacanya lebih lanjut tentang hal tersebut [disini](https://www.typescriptlang.org/docs/handbook/modules.html).                                        |
-| target                     | Menentukan versi JavaScript yang sedang dicompile.                                                                                                                  |
-| removeComments             | Menghapus komentar dari file telah dicompile.                                                                                                                       |
-| noEmitOnError              | Tidak memberikan output jika ada eror yang terlaporkan.                                                                                                             |
-| noFallthroughCasesInSwitch | Melaporkan eror untuk fallthrough case di pernyataan peralihan.                                                                                                     |
-| noUnusedLocals             | Melaporkan eror pada unused locals.                                                                                                                                 |
-| noUnusedParameters         | Melaporkan eror pada unused parameter.                                                                                                                              |
-| inlineSourceMap            | Menambahkan sourcemapping                                                                                                                                           |
-| typeRoots                  | Anda bisa membacanya lebih lanjut [disini](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                              |
-| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
+| Property                   | Deskripsi                                                                                                                                                         |
+|:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Digunakan untuk mengatur compiler, sebagian besar dari property disimpan disini.                                                                                  |
+| module                     | Anda dapat membacanya lebih lanjut tentang hal tersebut [disini](https://www.typescriptlang.org/docs/handbook/modules.html).                                      |
+| target                     | Menentukan versi JavaScript yang sedang dicompile.                                                                                                                |
+| removeComments             | Menghapus komentar dari file telah dicompile.                                                                                                                     |
+| noEmitOnError              | Tidak memberikan output jika ada eror yang terlaporkan.                                                                                                           |
+| noFallthroughCasesInSwitch | Melaporkan eror untuk fallthrough case di pernyataan peralihan.                                                                                                   |
+| noUnusedLocals             | Melaporkan eror pada unused locals.                                                                                                                               |
+| noUnusedParameters         | Melaporkan eror pada unused parameter.                                                                                                                            |
+| inlineSourceMap            | Menambahkan sourcemapping                                                                                                                                         |
+| typeRoots                  | Anda bisa membacanya lebih lanjut [disini](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                            |
+| esModuleInterop            | Emit __importStar dan __importDefault helpers untuk kompatibilitas babel ecosystem dan enable --allowSyntheticDefaultImports untuk kompatibilitas typesystem. |
 
 ## Konfigurasi Presence
 

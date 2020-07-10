@@ -1,19 +1,19 @@
 ---
-title: Guidelines
-description: Rules all presence developers must follow to have their presence added.
+title: Gairės
+description: Taisyklės kurių turi laikytis visi presence kūrėjai tam kad jų presence būtų pridėtas.
 published: true
 date: 2020-06-11T18:43:52.440Z
 tags:
 editor: markdown
 ---
 
-# Guidelines
+# Gairės
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to this GitHub, we require you to follow a set of guidelines. Kai kuriems šios taisyklės gali atrodyti griežtos. Tačiau laikydamiesi šių taisyklių padės mums ir mūsų naudotojams nepatirti jokių problemų.
 
-# Creation
+# Kūrinys
 
-The general rules of presence development are as follows:
+Bendrosios presence kūrimo taisyklės yra šios:
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
