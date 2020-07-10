@@ -135,6 +135,10 @@
     "message": "Harap matikan adblock.",
     "description": "Message next to pepe."
   },
+  "downloads.skipanyway.message1": {
+    "message": "Saya tidak butuh bantuan.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
   "downloads.skipanyway.message2": {
     "message": "Apakah anda yakin?",
     "description": "Skip anyway messages (changes everytime you click it)."
@@ -158,5 +162,9 @@
   "downloads.showbeta.message": {
     "message": "Tampilkan unduhan beta",
     "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(tidak dibutuhkan jika anda kesini hanya untuk mengunduh aplikasi normal)",
+    "description": "Small text under the show beta title."
   }
 }
