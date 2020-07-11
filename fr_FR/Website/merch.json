@@ -22,5 +22,9 @@
 	"merch.item.added": {
 		"message": "{0} ajouté à votre panier",
 		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Aucun article à ajouter à votre panier",
+		"description": "Error message when no size selected"
 	}
 }
