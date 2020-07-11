@@ -1,0 +1,14 @@
+{
+	"merch.title": {
+		"message": "Bem-vindo à loja oficial de mercadorias do PreMiD!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Encontre seu **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.cart": {
+		"message": "Adicionar ao carrinho",
+		"description": "Add product to cart"
+	}
+}
