@@ -10,5 +10,17 @@
 	"merch.cart": {
 		"message": "Adicionar ao carrinho",
 		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Experienciando problemas com nossa loja ou pedido? Contate nosso {0}serviço de atendimento ao cliente{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} adicionado ao seu carrinho",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Nenhum item para adicionar ao seu carrinho",
+		"description": "Error message when no size selected"
 	}
 }
