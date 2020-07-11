@@ -17,7 +17,7 @@ La versión `2.x` introduce la [tienda de presencias](https://premid.app/store).
 > 
 > {.is-warning}
 
-- [Directrices](https://docs.premid.app/en/dev/presence/guidelines)
+- [Indicaciones](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Estructura
