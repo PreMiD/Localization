@@ -1,18 +1,18 @@
 {
     "amazon.subscriptions": {
-        "message": "Betrachtet seine Abonnements",
+        "message": "Betrachtet die Abonnements",
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Schaut sich seine Werbepräferenzen an",
+        "message": "Schaut sich die Werbepräferenzen an",
         "description": ""
     },
     "amazon.balance": {
-        "message": "Schaut sich sein Guthaben an",
+        "message": "Schaut nach dem Guthaben",
         "description": ""
     },
     "amazon.payment": {
-        "message": "Schaut sich seine Zahlungsmethoden an",
+        "message": "Schaut nach Zahlungsmethoden",
         "description": ""
     },
     "amazon.address": {
