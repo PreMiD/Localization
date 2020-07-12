@@ -1,1 +1,10 @@
-{}
+{
+	"merch.title": {
+		"message": "Willkommen im offiziellem **PreMiD** Merchandise Shop!",
+		"description": "Merch store title"
+	},
+	"merch.cart": {
+		"message": "In den Warenkorb",
+		"description": "Add product to cart"
+	}
+}
