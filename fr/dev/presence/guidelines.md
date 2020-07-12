@@ -61,7 +61,7 @@ presence
 > 
 > {.is-warning}
 
-Chaque presence a un fichier de description appelé `metadata.json`, les métadonnées ont un standard strict et un exemple de ce fichier peut paraître ci-dessous:
+Chaque presence a un fichier de description appelé `metadata.json`, les métadonnées ont un standard strict et un exemple de ce fichier est disponible ci-dessous:
 
 ```json
 {
