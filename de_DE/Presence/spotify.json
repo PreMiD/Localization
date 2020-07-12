@@ -28,19 +28,19 @@
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "Podcasts die ihm gefallen",
+		"message": "Podcasts die sie mögen",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
-		"message": "Künstler die ihm gefallen",
+		"message": "Künstler die sie mögen",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {
-		"message": "Alben die ihm gefallen",
+		"message": "Alben die sie mögen",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "lieder die ihm gefallen",
+		"message": "Lieder die sie mögen",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
