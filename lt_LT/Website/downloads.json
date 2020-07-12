@@ -135,6 +135,34 @@
     "message": "Prašome išjungti savo AdBlock.",
     "description": "Message next to pepe."
   },
+  "downloads.skipanyway.message1": {
+    "message": "Aš nenoriu remti.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Ar esate įsitikinę?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Ar tikrai?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-prašau paremkite : C",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Man reikia tavęs :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Gerai, gerai...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Rodyti beta atsisiuntimus",
+    "description": ""
+  },
   "downloads.showbeta.small": {
     "message": "(nebūtina, jei tik norite atsisiųsti įprastą programą)",
     "description": "Small text under the show beta title."
