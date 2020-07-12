@@ -26,7 +26,7 @@ Für die Klasse `Präsenz` stehen zwei Eigenschaften zur Verfügung.
 
 Es muss die Eigenschaft `clientId` werden, damit Ihre Anwesenheit funktioniert, da die Anwendungs-ID zum Anzeigen des Logos und der Elemente verwendet wird.
 
-Sie können es auf Ihrer [Bewerbungsseite](https://discordapp.com/developers/applications).
+Sie bekommen dies auf Ihrer [Bewerbungsseite](https://discordapp.com/developers/applications).
 
 ## Methoden
 
