@@ -75,6 +75,10 @@
         "message": "オーディオライブラリーを閲覧中",
         "description": ""
     },
+    "youtube.studio.viewVideos": {
+        "message": "動画を視聴中",
+        "description": ""
+    },
     "youtube.studio.editVideo": {
         "message": "動画を編集中:",
         "description": ""
