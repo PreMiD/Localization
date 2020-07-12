@@ -16,11 +16,11 @@
         "description": ""
     },
     "amazon.address": {
-        "message": "Betrachtet seine Adressen",
+        "message": "Schaut auf eigene Adressen",
         "description": ""
     },
     "amazon.pets": {
-        "message": "Schaut sich seine Tiere an",
+        "message": "Schaut nach den Tieren",
         "description": ""
     },
     "amazon.catergoriesAll": {
@@ -48,7 +48,7 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "Wuschliste",
+        "message": "Wunschliste",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
@@ -68,7 +68,7 @@
         "description": ""
     },
     "amazon.primeVid": {
-        "message": "Schaut ein Prime Video:",
+        "message": "Schaut Prime Video:",
         "description": ""
     }
 }
