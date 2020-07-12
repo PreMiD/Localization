@@ -8,7 +8,7 @@
         "description": "as in documents"
     },
     "premid.viewPresence": {
-        "message": "Peržiūri statusą:",
+        "message": "Peržiūri presence:",
         "description": ""
     },
     "premid.pageHome": {
