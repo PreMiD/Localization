@@ -15,11 +15,11 @@ Lors de la publication des presences sur ce GitHub, nous vous demandons de suivr
 
 Les règles générales de développement de la presence sont les suivantes:
 
-- Les presences **doivent être liées à** au site Web que vous avez choisi.
+- Les presences **doivent être liées** au site Web que vous avez choisi.
 - Les presences **ne peuvent pas être faites** pour les sites Web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
 - La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
 - Vous devez avoir une structure de fichier appropriée, les brouillons sont **non autorisés**.
-- Les presences pour des sites webs avec ( `.onion` en fin d'url) ou des sites webs avec des domaines/hôtes gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `. D`, etc) ne sont **PAS** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
+- Les presences pour des sites web avec ( `.onion` en fin d'url) ou des sites web avec des domaines/hôtes gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `. D`, etc) ne sont **pas** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
 - Les presences qui ciblent les pages internes du navigateur (comme Chrome Web Store, `chrome://`, `about:` pages, etc) ne sont **pas** autorisés car ils nécessitent un drapeau expérimental pour être activés à la fin de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
 - Les presences avec prise en charge pour seulement une seule page **ne seront pas autorisées** , car ils pourraient sembler cassés pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour les pages de politique de confidentialité et de contact ( contenu qui n'est pas souvent utilisé ) ou les sites où l'autre contenu n'est pas lié. (par exemple, les pages wikia )
 - Les presences de faible qualité (ou celles n'ayant qu'un seul contexte) **ne sont pas** autorisées (par exemple : Afficher uniquement le logo et du texte et ne plus jamais les changer.)
