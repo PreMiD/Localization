@@ -7,6 +7,10 @@
         "message": "ศูนย์ข้อความ",
         "description": "Meaning Direct messages"
     },
+    "aliexpress.sale": {
+        "message": "มองหาของลดราคา",
+        "description": ""
+    },
     "aliexpress.recentlyViewProducts2": {
         "message": "สินค้าที่เคยดูแล้ว",
         "description": "Part 2 of 2"
