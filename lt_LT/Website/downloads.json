@@ -134,5 +134,9 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Prašome išjungti savo AdBlock.",
     "description": "Message next to pepe."
+  },
+  "downloads.showbeta.small": {
+    "message": "(nebūtina, jei tik norite atsisiųsti įprastą programą)",
+    "description": "Small text under the show beta title."
   }
 }
