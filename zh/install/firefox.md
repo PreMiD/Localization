@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: 開始在FireFox上安裝PreMiD
 published: 是
 date: 2020-02-12T22:08:32.409Z
 tags:
@@ -15,7 +15,7 @@ tags:
 4. 點擊右上角的小齒輪圖示
 5. 選擇 **從檔案安裝擴充套件**
 6. 選擇你最近下載的檔案
-7. Accept the installation by clicking on **Add**.
+7. 點擊 **新增** 確認載入
 
 > 別忘記[新增**程式**](/install) 
 > 
