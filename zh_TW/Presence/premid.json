@@ -23,6 +23,10 @@
         "message": "維基",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "系統需求",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "疑難解答",
         "description": "A page name"
