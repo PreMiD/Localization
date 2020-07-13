@@ -32,7 +32,7 @@ tags:
 > 
 > {.is-danger}
 
-# Coding your vision
+# 為你的版本編碼
 Please keep the structure. We do not want to disorganize our project. 混雜的檔案將不接受。
 
 # 正在提交你的夢想
