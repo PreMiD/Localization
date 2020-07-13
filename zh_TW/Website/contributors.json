@@ -19,9 +19,21 @@
 		"message": "項目管理",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "操作管理員",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "全球社區代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "商店總管",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "系統管理員",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "網站開發者",
