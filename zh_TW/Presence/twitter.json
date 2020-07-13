@@ -3,8 +3,28 @@
         "message": "正在閲讀：",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "正在檢視他們的私訊",
+        "description": ""
+    },
     "twitter.viewTweets": {
         "message": "正在閱讀 <handle> 的 Tweets",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "正在檢視貼文(和回覆):",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "正在檢視媒體:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "正在檢視按讚:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "正在檢視列表:",
         "description": ""
     },
     "twitter.bookmarks": {
@@ -20,7 +40,7 @@
         "description": ""
     },
     "twitter.settings": {
-        "message": "更改設置...",
+        "message": "正在更改設置...",
         "description": ""
     }
 }

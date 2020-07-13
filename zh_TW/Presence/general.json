@@ -82,5 +82,57 @@
 	"general.store": {
 		"message": "商店",
 		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "正在檢視使用者個人資料:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "正在檢視系列:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "正在觀看節目:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "正在檢視他們的帳號",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "正在檢視貼文:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "正在檢視使用者:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "正在檢視:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "正在觀看影片",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "正在觀看直播",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "正在觀看:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "願望清單:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "隱私權政策",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "服務條款",
+		"description": "A page name"
 	}
 }

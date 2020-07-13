@@ -134,5 +134,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "請禁用廣告封鎖器",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "我不想幫忙。",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "你確定嗎？",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "真的?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "拜...拜託請幫忙  : (",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "我需要你 :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "好吧，好吧...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "顯示Beta下載",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(如果只是想在這下載一般的程式則不需要)",
+    "description": "Small text under the show beta title."
   }
 }

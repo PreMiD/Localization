@@ -11,8 +11,24 @@
         "message": "商店",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "隱私權政策",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "服務條款",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "維基",
+        "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "系統需求",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "下載",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
