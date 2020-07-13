@@ -156,7 +156,7 @@
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message6": {
-    "message": "わかった、わかったから",
+    "message": "わかりました…",
     "description": "Last message of the skip anyway messages (changes everytime you click it)."
   },
   "downloads.showbeta.message": {
