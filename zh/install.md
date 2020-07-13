@@ -1,16 +1,16 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: 下載
+description: 如何安裝 PreMiD
 published: 是
 date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> 在進一步的動作前，請確認您的系統都有達到[需求](/install/requirements)。 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **同時安裝** **程式** 和 **擴充功能** 是**必須的** 
 > 
 > {.is-warning}
 
