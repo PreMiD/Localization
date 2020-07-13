@@ -27,7 +27,7 @@ PreMiD 是一個快捷和容易安裝的插件。 你可以隨時開啟並運行
 
 PreMiD[開發入門](/dev) 是對某些事情進行編碼之前的第一步。
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer:[API](/dev/api): 使用PreMiD API的資源和狀態行動
 - :wrench:[擴充功能研發](/dev/presence): 了解如何使用我們的擴充功能系統
 
 # 貢獻
