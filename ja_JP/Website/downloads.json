@@ -127,6 +127,10 @@
     "message": "Thank you!",
     "description": "Title of the advertisement section box."
   },
+  "downloads.adsbox.thankyou.message": {
+    "message": "私たちは広告を使用して、最高のユーザーエクスペリエンスを提供しています！",
+    "description": "Message of the advertisement section box."
+  },
   "downloads.adsbox.disableAdblock": {
     "message": "広告ブロッカーを無効にしてください。",
     "description": "Message next to pepe."
