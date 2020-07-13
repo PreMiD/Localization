@@ -56,7 +56,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "再生中",
+		"message": "プレイ中",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "何かを検索しています...",
+		"message": "何かを検索中...",
 		"description": ""
 	},
 	"general.search": {
@@ -108,7 +108,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "DMを送っています:",
+		"message": "DMを入力中:",
 		"description": ""
 	},
 	"general.typeChannel": {
