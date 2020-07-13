@@ -11,6 +11,14 @@
         "message": "商店",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "隱私權政策",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "服務條款",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "維基",
         "description": "A page name"
