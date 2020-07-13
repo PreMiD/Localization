@@ -134,5 +134,25 @@
   "downloads.adsbox.disableAdblock": {
     "message": "広告ブロッカーを無効にしてください。",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "サポートしないでダウンロードする",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "本当によろしいですか？",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "本当に…？",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "わかった、わかったから",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "ベータ版のダウンロードを表示",
+    "description": ""
   }
 }
