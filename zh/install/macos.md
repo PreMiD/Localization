@@ -15,9 +15,9 @@ The installation of the application is very important as the extension can not d
 # 安裝
 1. [點此](https://premid.app/downloads)前往我們的下載頁面
 2. 選擇**OS X**
-3. Extract the archive if necessary.
-4. 開啟下載器。
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+3. 若必要的話請提取封存
+4. 開啟下載程式。
+5. 若你第一次安裝PreMiD時**安全警告**將會出現 Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
 > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
