@@ -1,6 +1,6 @@
 ---
 title: Lignes directrices
-description: Règles que tous les développeurs de présence doivent suivre pour avoir leur présence ajoutée.
+description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
 published: vrai
 date: 2020-06-11T18:43:52.440Z
 tags:
@@ -15,10 +15,10 @@ Lors de la publication des presences sur ce GitHub, nous vous demandons de suivr
 
 Les règles générales de développement de la presence sont les suivantes:
 
-- Les presences **doivent être liées** au site Web que vous avez choisi.
+- Les presences **doivent** être liées au site Web que vous avez choisi.
 - Les presences **ne peuvent pas être faites** pour les sites Web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
 - La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
-- Vous devez avoir une structure de fichier appropriée, les brouillons sont **non autorisés**.
+- Vous devez avoir une structure de fichier appropriée, les brouillons ne sont **pas** autorisés.
 - Les presences pour des sites web avec ( `.onion` en fin d'url) ou des sites web avec des domaines/hôtes gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `. D`, etc) ne sont **pas** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
 - Les presences qui ciblent les pages internes du navigateur (comme Chrome Web Store, les pages `chrome://`, `about:`, etc) ne sont **pas** autorisés car ils nécessitent un drapeau expérimental à activer du côté de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
 - Les presences avec prise en charge pour seulement une seule page **ne seront pas autorisées** , car ils pourraient sembler cassés pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour les pages de politique de confidentialité et de contact (contenu qui n'est pas souvent utilisé) ou les sites où l'autre contenu n'est pas lié. (par exemple, les pages wikia)
@@ -119,7 +119,7 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 }
 ```
 
-> Si un champ est listé comme facultatif sur la [documentation](https://docs.premid.app/en/dev/presence/metadata) et que votre presence utilise la valeur par défaut pour celle-ci, ne l'incluez pas dans le fichier `metadata`. (par exemple, une presence sans le support iframe n'aurait pas besoin du champ `iframe`.) 
+> Si un champ est listé comme facultatif sur la [documentation](https://docs.premid.app/en/dev/presence/metadata) et que votre presence utilise la valeur par défaut pour celui-ci, ne l'incluez pas dans le fichier `metadata`. (par exemple, une presence sans le support iframe n'aurait pas besoin du champ `iframe`.) 
 > 
 > {.is-warning}
 
