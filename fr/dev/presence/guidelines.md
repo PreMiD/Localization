@@ -16,7 +16,7 @@ Lors de la publication des presences sur ce GitHub, nous vous demandons de suivr
 Les règles générales de développement de la presence sont les suivantes:
 
 - Les presences **doivent** être liées au site Web que vous avez choisi.
-- Les presences **ne peuvent pas être faites** pour les sites Web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
+- Les presences **ne peuvent pas** être faites pour des sites Web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
 - La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
 - Vous devez avoir une structure de fichier appropriée, les brouillons ne sont **pas** autorisés.
 - Les presences pour des sites web avec ( `.onion` en fin d'url) ou des sites web avec des domaines/hôtes gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `. D`, etc) ne sont **pas** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
