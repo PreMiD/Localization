@@ -1,6 +1,6 @@
 {
 	"merch.title": {
-		"message": "Resmi **PreMiD** eşya mağazasına hoş geldiniz!",
+		"message": "Resmi **PreMiD** Dükkanı'na hoş geldiniz!",
 		"description": "Merch store title"
 	},
 	"merch.swag": {
@@ -16,7 +16,7 @@
 		"description": "Add product to cart"
 	},
 	"merch.help": {
-		"message": "Mağazamızla veya siparişle ilgili sorun mu yaşıyorsunuz? {0} müşteri desteğimize {1} başvurun",
+		"message": "Mağazamızla veya siparişle ilgili bir sorun mu yaşıyorsunuz? {0}Müşteri desteğimize{1} başvurun",
 		"description": "Link to customer support, {0}{1} is the replacement for the link"
 	},
 	"merch.item.added": {
