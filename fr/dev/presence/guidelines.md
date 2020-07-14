@@ -1,6 +1,6 @@
 ---
 title: Lignes directrices
-description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
+description: Règles que tous les développeurs de présence doivent suivre pour avoir leur présence ajoutée.
 published: vrai
 date: 2020-06-11T18:43:52.440Z
 tags:
