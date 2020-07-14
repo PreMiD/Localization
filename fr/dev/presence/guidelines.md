@@ -13,10 +13,10 @@ Lors de la publication des presences sur ce GitHub, nous vous demandons de suivr
 
 # Création
 
-Les règles générales de développement de la presence sont les suivantes:
+Les règles générales de développement de presence sont les suivantes:
 
-- Les presences **doivent** être liées au site Web que vous avez choisi.
-- Les presences **ne peuvent pas** être faites pour des sites Web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
+- Les presences **doivent** être liées au site web que vous avez choisi.
+- Les presences **ne peuvent pas** être faites pour des sites web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
 - La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
 - Vous devez avoir une structure de fichier appropriée, les brouillons ne sont **pas** autorisés.
 - Les presences pour des sites web avec ( `.onion` TLDs) ou des sites web avec des domaines/hébergeurs gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `GD`, etc) ne sont **pas** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
@@ -185,7 +185,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 - Les tags **devraient** de préférence inclure des noms de service alternatifs pour faciliter la recherche (par exemple, si une presence Amazon a inclus le support AWS, il aurait ses balises comme `amazon-web-services` et `aws`)
 - Vous êtes **tenus** d'ajouter un tag `NSFW` si la presence est pour un site Web NSFW.
 
-### **`Catégorie`**
+### **`catégorie`**
 
 - La catégorie **doit** être l'une des catégories suivantes listées sur la documentation [](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 
@@ -211,7 +211,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
-- Vous êtes nombreux à ne faire que des requêtes HTTP/HTTPS à `premid.app` ou à l'API du site Web de présence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
+- Vous êtes nombreux à ne faire que des requêtes HTTP/HTTPS à `premid.app` ou à l'API du site web de presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
