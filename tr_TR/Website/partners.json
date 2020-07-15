@@ -139,6 +139,10 @@
 		"message": "Servisinizin anlık durumunu kullanıcılara sunabileceğiniz platform.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Eğlenceli bir Discord Botu olarak oynayan bir tanrıça!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.crowdin": {
 		"message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
 		"description": "Description for Crowdin."
