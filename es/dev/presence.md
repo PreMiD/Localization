@@ -355,21 +355,21 @@ presence.on("UpdateData", async () =&gt; {
 
     var presenceData: presenceData = {
         largeImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en la presencia. Estos se suben y se nombran en la sección Rich Presence de tu aplicación, llamada Art Assets*/
-        smallImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en tu presencia. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+        smallImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en tu presencia. Estas son subidas y nombradas en la sección de Rich Precense de su aplicación, llamado Art Assets*/
+        smallImageText: "Some hover text", //El texto que se muestra al pasar el cursor sobre la imagen pequeña
+        detalles: "Navegando nombre de página", //La sección superior del texto de presencia
+        estado: "sección de lectura A", //La sección inferior del texto de presencia
+        startTimestamp: 1577232000, //La marca de tiempo de epoch de unix para cuando empezar a contar desde
+        endTimestamp: 1577151472000 //Si desea mostrar Tiempo izquierdo en lugar de transcurrido, esta es la marca de tiempo de epoch unix en la que termina el temporizador
+    }; /*Opcionalmente, puede establecer una largeImageKey aquí y cambiar el resto como subpropiedades de variables, por ejemplo presenceSata. type = "blahblah"; type examples: details, state, etc.*/
 
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    if (presenceData. etails == null) {
+        //Esto se disparará si no estableces presencia
+        presencia. etTrayTitle(); //Limpia el título de la bandeja para usuarios mac
+        presencia. etActivity(); /*Actualizar la presencia sin datos, por lo tanto limpiando y haciendo la imagen grande el icono de aplicación de Discord, y el texto del nombre de la aplicación de Discord*/
     } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+        //Esto se disparará si establece los detalles de presencia
+        presencia. etActivity(presenceData); //Actualizar la presencia con todos los valores del objeto PresenceData
     }
 });
 </code></pre>
