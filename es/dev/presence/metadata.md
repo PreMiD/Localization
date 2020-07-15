@@ -15,32 +15,32 @@ El ejemplo de ese archivo se puede encontrar a continuación.
 ```javascript
 {
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVICIO",
+  "altnames": ["SERVICIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCIÓN"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSIÓN",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORÍA",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
+            "title": "MOSTRAR TÍTULO",
             "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
@@ -49,14 +49,14 @@ El ejemplo de ese archivo se puede encontrar a continuación.
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
+            "title": "MOSTRAR TÍTULO",
             "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
+            "value": "\"%song%\"de %artist%",
+            "placeholder": "use %song% o %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
+            "title": "MOSTRAR TÍTULO",
             "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
@@ -109,7 +109,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>nombres alternativos</b>
       </td>
       <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Es para ser utilizado para presencias que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presencias con caracteres especiales para que no tengas que escribirlos (por ejemplo, Pokémon y Pokemon).
       </td>

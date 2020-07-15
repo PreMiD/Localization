@@ -58,32 +58,32 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
 <pre><code class="json">{
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVICIO",
+  "altnames": ["SERVICIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCIÓN"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIÓN",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORÍA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
   "settings": [
         { 
             "id": "ID",
-            "title": "DISPLAY TITLE",
+            "title": "MOSTRAR TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": true
         },
@@ -92,14 +92,14 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
             "if": {
                 "ID": true
             },
-            "title": "DISPLAY TITLE",
+            "title": "MOSTRAR TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": "\"%song%\" by %artist%",
             "placeholder": "use %song% or %artist%"
         },
         {
             "id": "ID",
-            "title": "DISPLAY TITLE",
+            "title": "MOSTRAR TITLE",
             "icon": "FONTAWESOME FREE ICON",
             "value": 0,
             "values": ["1", "2", "etc."]
@@ -172,7 +172,7 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>nombres alternativos</b>
       </td>
       <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Es para ser utilizado para presencias que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presencias con caracteres especiales para que no tengas que escribirlos (por ejemplo, Pokémon y Pokemon).
       </td>
