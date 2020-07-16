@@ -7,6 +7,10 @@
 		"message": "Temukan **Gayamu**",
 		"description": "Subtitle for store"
 	},
+	"merch.fit": {
+		"message": "**Pilih ukuranmu**",
+		"description": "Product sizes"
+	},
 	"merch.cart": {
 		"message": "Tambah ke keranjang",
 		"description": "Add product to cart"
