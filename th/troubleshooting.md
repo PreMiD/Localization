@@ -2,8 +2,9 @@
 title: การแก้ปัญหา
 description: ทุกอย่างเพื่อใช้แก้ปัญหาของคุณ
 published: true
-date: 2020-04-20T11:16:55.141Z
+date: 2020-07-17T19:49:29.170Z
 tags:
+editor: markdown
 ---
 
 > ตรวจสอบให้แน่ใจว่าคุณได้ติดตั้งส่วนขยาย ** และ ** แอปพลิเคชั่นแล้ว! 
@@ -45,6 +46,20 @@ tags:
 
 ### On Ubuntu/Debian based distros
 ถ้าคุณดาวน์โหลด Discord ผ่านทาง Snapcraft, RPC จะไม่ทำงาน คุณจะต้องถอนการติดตั้ง Discord เวอร์ชัน Snapcraft โดยการใช้คำสั่ง `sudo snap remove discord` บน Terminal แล้วดาวน์โหลด [Discord สำหรับ Linux](https://discordapp.com/api/download?platform=linux) ([หรือ Discord Canary](https://discordapp.comapi/canary/download?platform=linux)) หลังจากนั้น ไปยังตำแหน่งที่คุณดาวน์โหลด Discord ไว้ (ส่วนมากจะเป็น `$HOME/Downloads`) แล้วติดตั้งโดยใช้คำสั่ง `sudo dpkg -i discord-*.deb`
+
+### McAfee detected PreMiD as virus (Windows)
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+
+1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Click "Quarantined Items" (Second from the top).
+3. Expand it, and click the `>` icon before an item with the name "settings.dat".
+4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
+6. Click "Real-Time Scanning" (Third from the top).
+7. Expand it and click "Add file".
+8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### นั่นไม่ได้แก้ปัญหาของฉัน
 กรุณาเปิดตั๋วใน [#support](https://discord.gg/WvfVZ8T).
