@@ -2,7 +2,7 @@
 title: Riešenie problémov
 description: Všetko čo vyrieši váš problém
 published: true
-date: 2020-07-17T19:49:29.170Z
+date: 2020-07-17T19:53:39.991Z
 tags:
 editor: markdown
 ---
@@ -50,6 +50,10 @@ Ak ste si stiahli Discord cez Snapcraft, RPC vám nebude fungovať. Verziu Snapc
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+
+> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> 
+> {.is-warning}
 
 1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. Click "Quarantined Items" (Second from the top).
