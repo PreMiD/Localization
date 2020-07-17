@@ -2,8 +2,9 @@
 title: Вирішення проблем
 description: Усе для вирішення вашої проблеми
 published: true
-date: 2020-04-20T11:16:55.141Z
+date: 2020-07-17T19:49:29.170Z
 tags:
+editor: markdown
 ---
 
 > Переконайтеся, що у вас встановлено розширення **і** застосунок! 
@@ -46,6 +47,20 @@ MacOS:`~/users/USER/~Library/Application Support/`та видалити папк
 
 ### Дистрибутиви на основі Ubuntu/Debian
 Якщо ви завантажили Discord через Snapcraft, Розширена присутність не спрацює. Вам потрібно видалити версію Snapcraft, виконавши `sudo snap remove discord` в терміналі, завантажте версію [Linux Discord](https://discordapp.com/api/download?platform=linux) ([або Канару Discord](https://discordapp.com/api/canary/download?platform=linux)), потім перейдіть в каталог, в який ви завантажили Discord (зазвичай `$HOME/Downloads`), потім установіть пакету за допомогою `sudo dpkg -i discord-*. eb`.
+
+### McAfee detected PreMiD as virus (Windows)
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+
+1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Click "Quarantined Items" (Second from the top).
+3. Expand it, and click the `>` icon before an item with the name "settings.dat".
+4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
+6. Click "Real-Time Scanning" (Third from the top).
+7. Expand it and click "Add file".
+8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### Усе це не вирішило моєї проблеми
 Будь ласка, відкрийте тікет у [#support](https://discord.gg/WvfVZ8T).

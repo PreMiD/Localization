@@ -2,8 +2,9 @@
 title: トラブルシューティング
 description: 抱えている問題を解決する方法
 published: true
-date: 2020-04-20T11:16:55.141Z
+date: 2020-07-17T19:49:29.170Z
 tags:
+editor: markdown
 ---
 
 > 先に、**[拡張機能とアプリ](https://premid.app/downloads)**をダウンロードした状態にしてください！ 
@@ -45,6 +46,20 @@ Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`P
 
 ### Ubuntu/Debian基準の環境では
 Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 その場合、Snapcraft版Discordを `sudo snap remove discord` と実行してアンインストールし、[Discord Linux版](https://discordapp.com/api/download?platform=linux) (または[ Discord Canary Linux版](https://discordapp.com/api/canary/download?platform=linux)) をダウンロードした後、Discordをダウンロードした場所 (普通は`$HOME/Downloads`) に行き、 `sudo dpkg -i discord-*.deb` と実行してパッケージをインストールする必要がります。
+
+### McAfee detected PreMiD as virus (Windows)
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+
+1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Click "Quarantined Items" (Second from the top).
+3. Expand it, and click the `>` icon before an item with the name "settings.dat".
+4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
+6. Click "Real-Time Scanning" (Third from the top).
+7. Expand it and click "Add file".
+8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### 実行しても問題が解決しませんでしたか？
 PreMiDのDiscordサーバー内の[#support](https://discord.gg/WvfVZ8T)でチケットを開いてください。
