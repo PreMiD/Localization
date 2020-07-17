@@ -48,7 +48,7 @@ MacOS:`~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD``
 ### Op Ubuntu/Debian gebaseerde distro's
 Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigeer vervolgens naar de map die je Discord gedownload hebt naar (meestal `$HOME/Downloads`), daarna het installeren van het pakket met behulp van `sudo dpkg -i discord-*. eb`.
 
-### McAfee detected PreMiD as virus (Windows)
+### McAfee heeft PreMiD gedetecteerd als virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
