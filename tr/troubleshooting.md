@@ -58,7 +58,7 @@ This is a false positive from McAfee and we have reported the issue to them, for
 1. McAfee uygulamasını açın ve sağ üst taraftaki ayarlar simgesini tıklayın. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. "Karantinaya Alınan Öğeler" i tıklayın (üstten ikinci).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+4. Dosya yolundan emin olun. Eğer bu "AppData\Local\Temp\PreMiD" şekilde ise geri yükle düğmesine basın. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. Geri yüklendikten sonra "Karantinaya Alınmış Öğeler" penceresini kapatabilir ve sağ üstteki ayarlar simgesine tekrar basabilirsiniz.
 6. "Gerçek Zamanlı Tarama" ya tıklayın (üstten üçüncü).
 7. Genişletin ve "Dosya Ekle"ye tıklayın.
