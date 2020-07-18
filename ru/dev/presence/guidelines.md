@@ -2,7 +2,7 @@
 title: Руководство
 description: Правила, которым должны следовать все разработчики presence, чтобы добавить свое presence.
 published: true
-date: 11 июня 2020г. 18:43:52
+date: 2020-07-18T20:27:50.274Z
 tags:
 editor: markdown
 ---
@@ -188,6 +188,7 @@ presence
 ### **`category`**
 
 - Категория ** должна ** быть одной из следующих, перечисленных в [ документации ](https://docs.premid.app/en/dev/presence/metadata#presence- категории).
+- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -196,6 +197,7 @@ presence
 ### **`settings`**
 
 - Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `% var `, ` var% ` или ` %%var%% ` и всё что между ними, являются ** не ** допускаемым в целях стандартизации.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -211,7 +213,7 @@ presence
 - Поле `smallImageKey` и `smallImageText` предназначено для придания/вторичного контекста (например, `playing/paused` для видео-сайтов, `browsing` для обычных сайтов и других случаев) не рекламировать профили Discord или что-либо, не связанное с PreMiD.
 - Вам ** не разрешено ** получить доступ к ` localStorage `.
 - При доступе к файлам cookie для сохраненных данных, пожалуйста, префишите ключ с помощью `PMD_`.
-- Многие из вас делают HTTP/HTTPS запросы только к `premid.app ` или API веб-сайта presence. Если вы используете внешние домены, вам нужно будет объяснить, почему это необходимо.
+- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Если вы используете внешние домены, вам нужно будет объяснить, почему это необходимо.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -266,6 +268,7 @@ presence
 - Если запрос неактивен в течение 7 дней, он будет незамедлительно закрыт.
 - Все проверки ** должны** быть пройдены для объединения.
 - ⚠️ Вы ** должны ** предоставить новые, без изменений скриншоты (сделанные вами), показывающие параллельное сравнение вашего профиля и веб-сайта, чтобы доказать, что ваше presence работает. Вам разрешено смешивать скриншоты вместе для просмотра удовольствия.</em> Это относится и к созданию, и модификации.
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Проверки`
 
