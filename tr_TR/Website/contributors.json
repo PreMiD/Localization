@@ -47,10 +47,6 @@
 		"message": "Mühendis",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafik Tasarımcı",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Kıdemli Yetkili",
 		"description": "'Senior Moderator' title for contributors and user pages."
