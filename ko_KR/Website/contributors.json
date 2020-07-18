@@ -31,10 +31,6 @@
 		"message": "기술자",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "그래픽 디자이너",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "수석 관리자",
 		"description": "'Senior Moderator' title for contributors and user pages."
