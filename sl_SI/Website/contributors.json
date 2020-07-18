@@ -15,10 +15,6 @@
 		"message": "Avtor",
 		"description": "'Creator' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafični oblikovalec",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
