@@ -47,10 +47,6 @@
 		"message": "工程师",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "图形设计",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "高级版主",
 		"description": "'Senior Moderator' title for contributors and user pages."
