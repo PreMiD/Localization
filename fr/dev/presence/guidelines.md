@@ -268,7 +268,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
 - ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle_ Ceci s'applique à la fois pour la création et la modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠ Vous êtes également **tenu** d'inclure des captures d'écran des paramètres de Presence dans l'extension, si fourni. Voici un exemple : [ici](https://imgur.com/a/OD3sj5R).
 
 ## `Vérifications`
 
