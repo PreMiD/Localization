@@ -39,10 +39,6 @@
 		"message": "エンジニア",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "グラフィックデザイナー",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "上級モデレーター",
 		"description": "'Senior Moderator' title for contributors and user pages."
