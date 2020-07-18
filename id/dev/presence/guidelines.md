@@ -2,7 +2,7 @@
 title: Aturan
 description: Peraturan yang harus ditaati oleh developer presence agar presencenya ditambahkan.
 published: true
-date: 2020-06-11T18:43:52.440Z
+date: 2020-07-18T20:27:50.274Z
 tags:
 editor: markdown
 ---
@@ -188,6 +188,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 ### **`category`**
 
 - Kategori **diharuskan** salah satu dari yang tercantum pada [dokumentasi](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -196,6 +197,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 ### **`settings`**
 
 - Jika anda memutuskan untuk membuat string format ( misal, `%song% by %artist%`), anda harus membuat variabel dengan tanda persen diawal dan diakhir. Variabel seperti `%var`, `var%`, atau `%%var%%` dan apapun diantaranya **tidak** diperbolehkan demi standardisasi.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -211,7 +213,7 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 - Bidang `smallImageKey` dan `smallImageText` dimaksudkan untuk memberi konteks tambahan/konteks kedua ( seperti `putar/jeda` untuk website video, `browsing` untuk website biasa, dan hal lain) bukan untuk mempromosikan profil Discord atau apapun yang tidak berhubungan PreMiD.
 - Anda **tidak** diperbolehkan mengakses `localStorage`.
 - Saat mengakses cookie untuk data tersimpan, harap memberi prefix pada key dengan `PMD_`.
-- Anda hanya boleh membuat permintaan HTTP/HTTPS ke `premid.app` atau API dari website presence. Jika anda menggunakan domain eksternal, anda diharuskan untuk menjelaskan sebab kenapa hal itu dibutuhkan.
+- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Jika anda menggunakan domain eksternal, anda diharuskan untuk menjelaskan sebab kenapa hal itu dibutuhkan.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -266,6 +268,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 - Jika pull request tidak aktif selama 7 hari, pull request tersebut akan segera ditutup.
 - Semua pemeriksaan **harus** berhasil untuk merge.
 - ⚠️ Anda **harus** memberi screenshot baru, tidak dimodifikasi diambil ( diambil oleh anda) menunjukkan perbandingan side-by-side dari profilmu dan websitenya untuk membuktikan presencemu bekerja. _Anda diperbolehkan menggabungkan screenshot untuk kemudahan melihat_ Ini berlaku baik dalam pembuatan dan perubahan.
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Pemeriksaan`
 
