@@ -48,8 +48,8 @@
 		"description": "'Engineer' title for contributors and user pages."
 	},
 	"contributors.roles.graphicDesigner": {
-		"message": "Graphic Designer",
-		"description": "'Graphic Designer' title for contributors and user pages."
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior Moderator",
