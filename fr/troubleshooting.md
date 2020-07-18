@@ -49,21 +49,21 @@ MacOS :`~/users/USER/~Library/Application Support/`et supprimez le dossier`PreMi
 Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version de Snapcraft en exécutant `sudo snap remove discord` sur un terminal, télécharger la [version Linux de Discord](https://discordapp.com/api/download?platform=linux) ([ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), puis naviguant dans le répertoire vers lequel vous avez téléchargé Discord (généralement `$HOME/Downloads`), puis l'installation du paquet en utilisant `sudo dpkg -i discord-*. eb`.
 
 ### McAfee a détecté PreMiD comme un virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+C'est un faux positif de la part de McAfee et nous leur avons signalé le problème, pour l'instant, vous pouvez exclure PreMiD de l'analyse en effectuant les étapes suivantes :
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> Si vous ne vous sentez pas confiant de prendre ces mesures, n'hésitez pas à faire un ticket dans [#support](https://discord.gg/WvfVZ8T) et l'un de nos agents de support pourra vous aider ! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+1. Ouvrez l'application McAfee et cliquez sur l'icône Paramètres en haut à droite. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Cliquez sur "Objets en quarantaine" (Le second à partir du haut).
+3. Développez-le, et cliquez sur l'icône `>` avant un élément avec le nom "settings.dat".
+4. Assurez-vous que le chemin inclut "AppData\Local\Temp\PreMiD", si c'est le cas, sélectionnez-le et appuyez sur restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Une fois restauré, vous pouvez fermer la fenêtre pop-up "Éléments en quarantaine", puis appuyer à nouveau sur l'icône de paramètres en haut à droite.
+6. Cliquez sur "Analyse en temps réel" (Troisième à partir du haut).
+7. Développez-le et cliquez sur "Ajouter un fichier".
+8. Tapez "%appdata%" dans la barre URL du gestionnaire de fichiers et appuyez sur Entrer. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Ouvrez le dossier "PreMiD" et sélectionnez le fichier "PreMiD.exe" et cliquez sur Ouvrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### That has not solved my problem
