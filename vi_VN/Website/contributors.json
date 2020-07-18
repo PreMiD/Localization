@@ -43,10 +43,6 @@
 		"message": "Kỹ sư",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Thiết kế đồ hoạ",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Người điều hành cấp cao",
 		"description": "'Senior Moderator' title for contributors and user pages."
