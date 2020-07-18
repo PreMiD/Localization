@@ -43,10 +43,6 @@
 		"message": "Mérnök",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafikus",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior moderátor",
 		"description": "'Senior Moderator' title for contributors and user pages."
