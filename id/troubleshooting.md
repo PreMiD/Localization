@@ -49,7 +49,7 @@ MacOS:`~/users/USER/~Library/Application Support/`dan hapus folder`PreMiD``.
 JIka anda mengunduh Discord melewati Snapcraft, RPC tidak bekerja. Anda harus menghapus versi Snapcraft dengan menjalankan `sudo snap remove discord` pada terminal, unduh [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([atau Discord Canary](https://discordapp.com/api/canary/download?platform=linux)) kemudian mengarah ke direktori unduhan Discord (biasanya `$HOME/Downloads`), kemudian instal paket menggunakan `sudo dpkg -i discord-*.deb`.
 
 ### McAfee mendeteksi PreMiD sebagai virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mereka, untuk saat ini kamu bisa mengecualikan PreMiD dari scan dengan melakukan langkah berikut:
 
 > If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
 > 
