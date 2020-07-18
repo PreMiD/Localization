@@ -49,7 +49,7 @@ MacOS: <code>~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD 
 Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmayacaktır. Bunu çözebilmek için `sudo snap remove discord` kodu ile Snapcraft üzerinden yüklenen Discord'u silmeli ve [buradaki](https://discordapp.com/api/download?platform=linux) (veya [buradaki](https://discordapp.com/api/canary/download?platform=linux)) adresten Discord'un Linux dosyasını indirmeli, ardından yükleme konumuna (bu genellikle `$HOME/Downloads` olur) girerek `sudo dpkg -i discord-*.deb` kodu ile sisteminize yüklemelisiniz.
 
 ### McAfee PreMiD'i virüs olarak tespit etti (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+Bu McAfee'in yanlış bir pozitif sonucu ve sorunu onlara bildirdik, şimdilik aşağıdaki adımları uygulayarak PreMiD'i tarama dışında bırakabilirsiniz:
 
 > If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
 > 
