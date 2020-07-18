@@ -64,7 +64,7 @@ Bu McAfee'in yanlış bir pozitif sonucu ve sorunu onlara bildirdik, şimdilik a
 7. Genişletin ve "Dosya Ekle"ye tıklayın.
 8. Dosya gezgini URL çubuğuna "%appdata%" yazın ve Enter tuşuna basın. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. "PreMiD" klasörünü açın ve "PreMiD.exe" dosyasını seçin ve aç'a tıklayın. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+10. McAfee şimdi dosyamızı göz ardı etmeli, sadece uygulamamızı başlatın ve artık başlayabilirsiniz.
 
 ### Bunların hiçbiri sorununuzu çözmediyse
 [#support](https://discord.gg/WvfVZ8T) kanalından bir destek kaydı oluşturmayı deneyin.
