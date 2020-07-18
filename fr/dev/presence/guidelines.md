@@ -2,7 +2,7 @@
 title: Lignes directrices
 description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
 published: vrai
-date: 2020-06-11T18:43:52.440Z
+date: 2020-07-18T20:27:50.274Z
 tags:
 editor: markdown
 ---
@@ -188,6 +188,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`catégorie`**
 
 - La catégorie **doit** être l'une des catégories suivantes listées sur la documentation [](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -196,6 +197,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`réglages`**
 
 - Si vous décidez de créer une chaîne de format (par exemple, `%song% par %artist%` ), vous devez avoir les variables entourées d'un signe pour cent de chaque côté. Les variables tels que `%var`, `var%`ou `%%var%%` et tout ce qui se situe entre les deux **n'est pas autorisé** dans un but de normalisation.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -211,7 +213,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
-- Vous êtes nombreux à ne faire que des requêtes HTTP/HTTPS à `premid.app` ou à l'API du site web de presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
+- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -266,6 +268,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 - Si un pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
 - Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
 - ⚠ Vous **devez** fournir de nouvelles et intacts captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle_ Ceci s'applique à la fois pour la création et la modification.
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Vérifications`
 
