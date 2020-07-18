@@ -43,10 +43,6 @@
 		"message": "Inženjer",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafički Dizajner",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Viši Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."

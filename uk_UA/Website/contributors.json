@@ -47,10 +47,6 @@
 		"message": "Інженер",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Графічний дизайнер",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Старший модератор",
 		"description": "'Senior Moderator' title for contributors and user pages."

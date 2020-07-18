@@ -27,10 +27,6 @@
 		"message": "Insinööri",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Graafinen suunnittelija",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.moderator": {
 		"message": "Moderaattori",
 		"description": "'Moderator' title for contributors and user pages."

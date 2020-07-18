@@ -43,10 +43,6 @@
 		"message": "วิศวกร",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "นักออกแบบกราฟิก",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "ผู้ดูแลอาวุโส",
 		"description": "'Senior Moderator' title for contributors and user pages."

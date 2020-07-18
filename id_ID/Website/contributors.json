@@ -47,10 +47,6 @@
 		"message": "Teknisi",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Perancang Grafis",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Moderator Senior",
 		"description": "'Senior Moderator' title for contributors and user pages."

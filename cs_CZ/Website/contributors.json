@@ -31,10 +31,6 @@
 		"message": "Inženýr",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafický designér",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Vyšší moderátor",
 		"description": "'Senior Moderator' title for contributors and user pages."

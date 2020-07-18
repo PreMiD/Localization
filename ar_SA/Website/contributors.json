@@ -31,10 +31,6 @@
 		"message": "مهندس",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "مصمم جرافيك",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "كبير المشرفين",
 		"description": "'Senior Moderator' title for contributors and user pages."
