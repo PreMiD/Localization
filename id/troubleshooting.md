@@ -51,11 +51,11 @@ JIka anda mengunduh Discord melewati Snapcraft, RPC tidak bekerja. Anda harus me
 ### McAfee mendeteksi PreMiD sebagai virus (Windows)
 Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mereka, untuk saat ini kamu bisa mengecualikan PreMiD dari scan dengan melakukan langkah berikut:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> Jika kamu tidak ingin melakukan langkah berikut, silahkan membuat tiket pada [#support](https://discord.gg/WvfVZ8T) dan salah satu Agen Support akan membantumu! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+1. Buka aplikasi McAfee dan klik pada ikon pengaturan pada kanan atas. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. Click "Quarantined Items" (Second from the top).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
