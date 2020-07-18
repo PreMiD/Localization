@@ -2,7 +2,7 @@
 title: Wytyczne
 description: Reguły, których muszą przestrzegać wszyscy programiści Presence, aby ich Presence został zaakceptowany.
 published: tak
-date: 2020-06-11T18:43:52.440Z
+date: 2020-07-18T20:27:50.274Z
 tags:
 editor: markdown
 ---
@@ -188,6 +188,7 @@ Lista pól i ich zasad znajduje się poniżej:
 ### **`category`**
 
 - The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -196,6 +197,7 @@ Lista pól i ich zasad znajduje się poniżej:
 ### **`ustawienia`**
 
 - Jeśli zdecydujesz się utworzyć ciąg formatu (np. `%song% by %artist%`), musisz mieć zmienne otoczone znakiem procentowym po obu stronach. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -211,7 +213,7 @@ Oto lista zasad, których musisz przestrzegać podczas pisania pliku `presence.t
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
 - When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -266,6 +268,7 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 - If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Sprawdź`
 
