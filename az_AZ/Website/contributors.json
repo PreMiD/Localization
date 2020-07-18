@@ -43,10 +43,6 @@
 		"message": "Mühəndis",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Qrafik Dizayner",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
