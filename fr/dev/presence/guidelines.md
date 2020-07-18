@@ -188,7 +188,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`catégorie`**
 
 - La catégorie **doit** être l'une des catégories suivantes listées sur la documentation [](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- La présence doit utiliser une catégorie qui correspond au contenu du site web. (par exemple, n'utilisez pas `anime` lorsque le site n'est pas lié aux animes).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -197,7 +197,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`réglages`**
 
 - Si vous décidez de créer une chaîne de format (par exemple, `%song% par %artist%` ), vous devez avoir les variables entourées d'un signe pour cent de chaque côté. Les variables tels que `%var`, `var%`ou `%%var%%` et tout ce qui se situe entre les deux **n'est pas autorisé** dans un but de normalisation.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Le nom des paramètres **ne doit pas** être en toutes lettres majuscules. Par exemple, des noms tels que `Afficher le statut de navigation` ne seront **pas autorisés** ; cependant, les noms tels que `Afficher l'état de navigation` ou `Afficher l'état de navigation` sont autorisés.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -213,7 +213,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
+- Vous ne pouvez faire que des requêtes HTTP/HTTPS sur `premid.app` ou à l'API du site web de Presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 

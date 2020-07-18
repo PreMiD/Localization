@@ -188,7 +188,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`category`**
 
 - De categorie **moet** een van de volgende zijn die vermeld staat in deze [documentatie](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- De presence moet een categorie gebruiken die overeenkomt met de inhoud van de website. (bijvoorbeeld, gebruik niet `anime` wanneer de website niet gerelateerd is aan anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -197,7 +197,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`settings`**
 
 - Als u besluit om een opgemaakte string te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
 
 ## [**presence.ts**](https://docs.premid.app/nl/dev/presence/class)
 
@@ -213,7 +213,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 - De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra/secundaire context te bieden (zoals `afspelen/gepauzeerd` voor videosites, `bladeren` voor reguliere sites) niet voor het adverteren van uw Discord profile of iets wat niet gerelateerd is aan PreMiD.
 - U heeft **geen** toegang tot `localStorage`.
 - Bij het openen van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
+- Je mag alleen HTTP/HTTPS verzoeken naar `premid.app` of de website API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
 
 ## [**tsconfig.json**](https://docs.premid.app/nl/dev/presence/tsconfig)
 
@@ -268,7 +268,7 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 - Als een pull-aanvraag voor een periode van 7 dagen niet actief is, zal deze worden gesloten.
 - Alle controles **moeten** voldaan zijn voordat er gemerged kan worden.
 - ⚠ U **moet** nieuw, ongewijzigde screenshots (gemaakt door jou) geven die een zijdelings vergelijking van je profiel en de website tonen om te bewijzen dat je presence werkt. _Je mag screenshots samen stikken zodat het makkelijker te bekijken is._ Dit geldt zowel voor het aanmaken van je presence als voor aanpassing in de presence.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠ Je bent ook **verplicht** om schermafbeeldingen te maken van presence instellingen als je die hebt. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) zien.
 
 ## `Controles`
 
