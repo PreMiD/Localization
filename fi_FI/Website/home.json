@@ -75,6 +75,10 @@
 		"message": "Jokin on glitchaantunut, lähettää sinulle paljon virheitä tai yksinkertaisesti ei toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme, teimme myös oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Liity meidän Discordiin",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Sivuston kieli",
 		"description": "Tippy content of the language selector."
