@@ -128,50 +128,50 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Dodatne napomene
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Ako samo želite pokušati PreMiD ili ga samo ne želiš instalirati, ovaj je najboljim uvijek je ažuriran ali _SE NE AUTO-START-A SA SISTEMOM! _</br>Ako se umoriš od potrebe da ga otvoriš svaki put, upotrijebite ostale pakete (prema tvojoj distribuciji).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Distribucije bazirane na Arch Linux-u
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Koristi [Arch User Repository](https://aur.archlinux.org/packages/premid);</br>Podržane distribuciju su Arch (naravno), Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS i [ svaki drugi koji podržava instalaciju kroz AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### Upute za instalaciju
 
 ```bash
-# Using yay (recommended)
+# Koristeći yay (premorućeno)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Koristeći pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Koristeći trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Koristeći pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... skužio si već
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+ili ručno iz [Arch User Repository-a](https://aur.archlinux.org/packages/premid) ako znaš šta radiš.
 
 <a name="archnotes"></a>
 
 ### Dodatne napomene
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Ako ti distro koristi Pacman, prvo moraš instalirati jedan od helpera. </br> Ako nemaš ni jedan, Yay je preporučen, pokreni :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
