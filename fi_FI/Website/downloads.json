@@ -95,6 +95,10 @@
     "message": "Takaisin",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "Peruuta",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "Selvä",
     "description": "Button on the modal of Opera/Edge browsers."
