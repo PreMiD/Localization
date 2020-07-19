@@ -1,26 +1,26 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Klasa Presence-a
+description: Glavna klasa za svaki PreMiD presence
 published: true
 date: 2020-05-20T00:15:59.349Z
 tags:
 ---
 
-# Presence Class
+# Klasa Presence-a
 
-## Introduction
+## Uvod
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Klasa `Presence` vrlo je korisna jer ima osnovne metode koje su nam potrebne za stvaranje presence-a.
 
- When you create a class you must specify `clientId` property.
+ Prilikom stvaranja klase morate navesti svojstvo `clientId`.
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Primjer clientId
 });
 ```
 
-There are two properties available for `Presence` class.
+Za klasu `Presence` dostupna su dva svojstva.
 
 #### `clientId`
 
