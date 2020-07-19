@@ -102,14 +102,14 @@ Hvala:
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Najvjerojatnije nikad, pošto Snap blokira PreMiD-a od pristupanja Discord-a i proširenja,</br>Bilo bi cijenjeno ako bi netko moga ipak učiniti, bilo koja ideje PR-ova su dobrodošle.</br>P.S.: klasični confinement isto ne radi, pa se nemojte mučiti da dajte prijedloge o tome.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
-## Portable AppImage
+## Prijenosni AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+AppImage paket je preporučen ako Discord radi za tebe, ali drugi PreMiD paketi (.deb, .rpm, itd) ne.
 
 <a name="appimageinstall"></a>
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Samo dvaput klikni na to ili pokreni sa:
 ./PreMiD*.AppImage
 ```
 
