@@ -10,10 +10,10 @@ tags:
 
 Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
 
-## Table of Contents
+## Tablica sadržaja
 
 - **[About](#about)**
-  - [Stats](#stats)
+  - [Statistika](#stats)
   - [Requirements](#requirements)
   - Examples (soon)
   - FAQs (soon)
@@ -42,7 +42,7 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 
 <a name="stats"></a>
 
-### Stats
+### Statistika
 
 <table>
   <tr>
