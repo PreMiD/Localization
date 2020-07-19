@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Prvi koraci s PreMiD instalacijom na Linux-u
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
