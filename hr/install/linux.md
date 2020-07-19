@@ -6,9 +6,9 @@ date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Uključivanje auto-launch-a na Linux-u se sad može i iz programa umjesto proširenja.{.is-warning}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
 
 ## Table of Contents
 
