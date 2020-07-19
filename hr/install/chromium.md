@@ -16,9 +16,9 @@ Instalacija proširenja je jako važno jer program ne može ništa učiniti sam.
 
 ### Opera
 1. Dodaj **[Instaliraj Chrome Proširenje](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+2. Dodajte [naše proširenje](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Ne zaboravite [ dodati ** program**](/install). 
 > 
 > {.is-warning}
 
