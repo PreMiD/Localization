@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
 
 # Instaliraj
 1. Idite na našu stranicu za preuzimanje [klikom ovdje](https://premid.app/downloads).
