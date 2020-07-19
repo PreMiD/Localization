@@ -23,6 +23,10 @@
 		"message": "グローバルコミュニティー代表",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.storeManager": {
+		"message": "ストアマネージャー",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "システム管理者",
 		"description": "'System Administrator' title for contributors and user pages."
