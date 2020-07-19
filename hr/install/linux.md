@@ -52,8 +52,8 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Najnovija verzija"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Sve verzije"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Najnovija verzija"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github verzije"></a></td>
   </tr>
 </table>
 
@@ -74,8 +74,8 @@ Nije poznato podržavaju li ga starije verzije drugih distribucija, pa samo ažu
 ### Podrška
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Pridružite se našem Discord-u!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Pridružite se našem Discord-u!">
   </a>
 </div>
 
@@ -181,26 +181,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Drugi AUR/Pacman helperi isto rade, ali svaki funkcionira malo drugačije pa možda <br> naiđeš na neki problem.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Isto se odnosi i na njegove derivate, kao što su ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [ itd. ](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Upute za instalaciju
 
 ```bash
-# Add the overlay using layman
+# Dodaj overlay koristeći layman-a
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Instaliraj uz pomoć portage-a
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Dodatne napomene
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+Prikazana komanda za instalaciju koristi layman, nalazi se u službenim repository-ju <br> ` app-portage / laika `. <br> Da bi dobio ažuriranja, morat ćeš s vremena na vrijeme sinkronizirati overlay, što možeš sa:
 
 ```bash
 layman -S
