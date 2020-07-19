@@ -47,7 +47,7 @@
 		"message": "Engineer",
 		"description": "'Engineer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
+	"contributors.roles.designer": {
 		"message": "Designer",
 		"description": "'Designer' title for contributors and user pages."
 	},
