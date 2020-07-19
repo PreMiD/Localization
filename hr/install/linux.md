@@ -61,13 +61,13 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 
 ### Requirements
 
-Tehnički svaka distribucija može pokrenuti Discord-ov [službeni](https://discordapp.com/download)** program** (ne web ili snap verzija ) može pokrenuti i PreMiD;</br>Kao što ste možda primijetili posljednjih godinam, neke Linux distibucije su prestale s podrškom za 32-bitne (ia32/i686/i386/x86) arhitekture, i kao rezultat toga smo i mi. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Tehnički svaka distribucija može pokrenuti Discord-ov [službeni](https://discordapp.com/download)** program** (ne web ili snap verzija ) može pokrenuti i PreMiD;</br>Kao što ste možda primijetili posljednjih godinam, neke Linux distibucije su prestale s podrškom za 32-bitne (ia32/i686/i386/x86) arhitekture, i kao rezultat toga smo i mi. No, ako baš hoćeš, možeš pokušati build-ati program sam ako ga očajnički trebaš koristiti na 32-bit-noj distribuciji.</br> Pošto mi trenutačno koristimo Electron kao engine (Discord ga isto koristi.), njegovi zahtjevi isto vrijede i za ovu aplikaciju:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Nije poznato podržavaju li ga starije verzije drugih distribucija, pa samo ažurirajte distribuciju i koristite ** LTS (Long-Term Support) ** verziju ako ih vaša distribucija nudi, jer su one više stabilne (izbjegavajte alfa verzije).
 
 <a name="support"></a>
 
@@ -83,13 +83,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Credits
 
-Thanks to :
+Hvala:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (i još par likova od kojih sam zaboravio imena) za pružanje povratnih informacija o nightly verzijama.
+- @apriluwu za održavanje Gentoo build-ova
+- @SlimShadyIAm i naka za prijašnje održavanje Arch User Repository paketa
+- Elctron društvo za raznolike pakete
+- Svi koji su ikada na bilo koji način pridonijeli projektu.
 
 <a name="license"></a>
 
