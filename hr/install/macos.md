@@ -6,25 +6,25 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Prije nego što nastaviš, provjeri zadovoljava li vaš sustav sve [ zahtjeve](/install/requirements). 
 > 
 > {.is-info}
 
 Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
 
-# Instaliraj
+# Instalacija
 1. Idite na našu stranicu za preuzimanje [klikom ovdje](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+2. Izaberite **OS X**.
+3. Extreact-iraj arhivu ako potrebno.
+4. Otvori instaler.
+5. Pojavit će se **sigurnosno upozorenje**, ako prvi put instaliraš PreMiD. Idi u svoje **Postavke** > **Sigurnost** > **Općenito** > **Otvori svejedno**. [Saznaj više](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) o nepotpisanim aplikacijama.
+> To je zato što nemamo Code Signing Certificate (CSC). [Podržite nas](https://www.patreon.com/Timeraa) da to financiramo.{.is-info}
+6. Izaberi otvori kad se prikaže.
+7. Omogućite pristup vezama putem ** Firewall-a ** i kontrolu ** System Events-a ** kad se zatraži.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikacija će se pokrenuti automatski. Provjeri simbol na menu baru.
 
-> Do not forget to [add the **extension**](/install). 
+> Ne zaboravite [ dodati ** proširenje**](/install). 
 > 
 > {.is-warning}
 
