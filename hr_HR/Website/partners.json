@@ -2,5 +2,9 @@
 	"partners.header.title": {
 		"message": "Partneri",
 		"description": "Heading for page."
+	},
+	"partners.requirements.title": {
+		"message": "Zahtjevi",
+		"description": "Heading for the requirements."
 	}
 }
