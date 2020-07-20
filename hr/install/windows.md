@@ -14,10 +14,10 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 1. Idite na našu stranicu za preuzimanje [klikom ovdje](https://premid.app/downloads).
 2. Izaberite **Windows**.
 3. Otvori instaler.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Podržite nas](https://www.patreon.com/Timeraa) da to financiramo.{.is-info}
+4. Pojavit će se **Windows SmartScreen upozorenje**, ako prvi put instaliraš PreMiD. Klikni na <br>**Više Informacija** i izaberi **Svejedno Pokreni**. > To je zato što nemamo Code Signing Certificate (CSC). [Podržite nas](https://www.patreon.com/Timeraa) da to financiramo.{.is-info}
 
-Aplikacija će se pokrenuti automatski. Check for the symbol in your system tray.
+Aplikacija će se pokrenuti automatski. Provjeri simbol na system tray-u.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Ne zaboravite [ dodati ** proširenje**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
