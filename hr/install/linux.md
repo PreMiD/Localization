@@ -19,7 +19,7 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
   - FAQ-ovi (uskoro)
   - Building (uskoro)
   - [Podrška](#support)
-  - [Credits](#credits)
+  - [Zasluge](#credits)
   - [Licenca](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR :_nikad_™️)
 - **[Prijenosni AppImage](#portable-appimage)** (_PREPORUČENO_)
@@ -81,7 +81,7 @@ Nije poznato podržavaju li ga starije verzije drugih distribucija, pa samo ažu
 
 <a name="credits"></a>
 
-### Credits
+### Zasluge
 
 Hvala:
 
