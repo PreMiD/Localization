@@ -6,5 +6,9 @@
 	"partners.requirements.title": {
 		"message": "Zahtjevi",
 		"description": "Heading for the requirements."
+	},
+	"partners.apply.select.other": {
+		"message": "Ostalo",
+		"description": "Select 'Other' category."
 	}
 }
