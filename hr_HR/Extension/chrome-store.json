@@ -1,1 +1,6 @@
-{}
+{
+  "extension.description.short": {
+    "message": "Rich Presence za web usluge!",
+    "description": "Short description in extension store"
+  }
+}
