@@ -190,7 +190,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`category`**
 
 - Seçtiğiniz kategori, [bu doküman yazısında](https://docs.premid.app/en/dev/presence/metadata#presence-categories) belirtilen kategorilerden birisi **olmalıdır**.
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- Servis, web sitesinin içeriğine uyan bir kategori kullanmalıdır. (örneğin, web sitesi anime ile alakalı değilse `anime` kullanmayınız).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -199,7 +199,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`settings`**
 
 - Eğer bir değişken belirlerseniz (örneğin, `%sarki% -%sanatci%`), bu değişkenleri yüzde işaretleri arasına almalısınız. `%var`, `var%`, ya da `%%var%%` şeklinde yazılan değişkenlerin hiçbiri, standartlar gereği kabul edilmeyecektir.
-- Ayarların adlarının hepsi büyük harfle **olmamalıdır**. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Ayarların adlarının hepsi büyük harfle **olmamalıdır**. Örneğin, `GÖZ ATMA DURUMUNU GÖSTER` kabul **edilmeyecektir**; fakat, `Göz Atma Durumunu Göster` ya da `Göz atma durumunu göster` kabul edilecektir.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -215,7 +215,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz (oynatılıyor/durduruldu gibi) kısımlardır. Burada bir Discord hesabının reklamını yapamaz, PreMiD ile alakasız herhangi bir şey kullanamazsınız.
 - `localStorage`'a erişmenize **izin verilmemektedir**.
 - Çerezlerden bilgi alışverişi yaparken, çerezlerin başına her zaman `PMD_` ekini koyun.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
+- `premid.app` ya da servis web site API'sine sadece HTTP/HTTPS istekleri yapabilirsin. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -270,7 +270,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 - Eğer bir pull request, 7 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
 - Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
 - ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz_. Bu izin, hem servisi oluştururken, hem de servisi güncellerken kullanılabilir.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. [Burada](https://imgur.com/a/OD3sj5R) bir örneği görülebilir.
 
 ## `Kontroller`
 
