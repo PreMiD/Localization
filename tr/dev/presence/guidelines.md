@@ -199,7 +199,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`settings`**
 
 - Eğer bir değişken belirlerseniz (örneğin, `%sarki% -%sanatci%`), bu değişkenleri yüzde işaretleri arasına almalısınız. `%var`, `var%`, ya da `%%var%%` şeklinde yazılan değişkenlerin hiçbiri, standartlar gereği kabul edilmeyecektir.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Ayarların adlarının hepsi büyük harfle **olmamalıdır**. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
