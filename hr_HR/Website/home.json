@@ -7,6 +7,14 @@
 		"message": "Preuzimanja",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
+	"home.examples.status.playing": {
+		"message": "Reproducira se",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Pregledavanje...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.simpleInterface.description.3": {
 		"message": "Sortirajte po kategoriji",
 		"description": "Features section description point"
