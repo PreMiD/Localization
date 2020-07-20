@@ -14,7 +14,7 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 
 - **[About](#about)**
   - [Statistika](#stats)
-  - [Requirements](#requirements)
+  - [Zahtjevi](#requirements)
   - Primjeri (uskoro)
   - FAQ-ovi (uskoro)
   - Building (uskoro)
@@ -59,7 +59,7 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 
 <a name="requirements"></a>
 
-### Requirements
+### Zahtjevi
 
 Tehnički svaka distribucija može pokrenuti Discord-ov [službeni](https://discordapp.com/download)** program** (ne web ili snap verzija ) može pokrenuti i PreMiD;</br>Kao što ste možda primijetili posljednjih godinam, neke Linux distibucije su prestale s podrškom za 32-bitne (ia32/i686/i386/x86) arhitekture, i kao rezultat toga smo i mi. No, ako baš hoćeš, možeš pokušati build-ati program sam ako ga očajnički trebaš koristiti na 32-bit-noj distribuciji.</br> Pošto mi trenutačno koristimo Electron kao engine (Discord ga isto koristi.), njegovi zahtjevi isto vrijede i za ovu aplikaciju:
 
