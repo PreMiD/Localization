@@ -1,7 +1,27 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Pregledavanje...",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Jezik",
 		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "Uživo",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Čitanje",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Pretraživanje",
+		"description": ""
 	},
 	"general.store": {
 		"message": "Trgovina",
