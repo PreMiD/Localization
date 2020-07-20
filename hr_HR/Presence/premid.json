@@ -10,5 +10,9 @@
     "premid.pageStore": {
         "message": "Trgovina",
         "description": "A page name"
+    },
+    "premid.pageSysReq": {
+        "message": "Zahtjevi Sustava",
+        "description": "A page name"
     }
 }
