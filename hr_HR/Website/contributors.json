@@ -27,6 +27,10 @@
 		"message": "Predstavnik Globalne Zajednice",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.storeManager": {
+		"message": "Voditelj trgovine",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "Administrator Sustava",
 		"description": "'System Administrator' title for contributors and user pages."
@@ -42,6 +46,10 @@
 	"contributors.roles.engineer": {
 		"message": "Inženjer",
 		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Dizajner",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
 		"message": "Viši Moderator",
