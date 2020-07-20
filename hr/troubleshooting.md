@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting
+title: Rješavanje problema
 description: Everything to solve your problem
 published: true
 date: 2020-07-17T19:53:39.991Z
