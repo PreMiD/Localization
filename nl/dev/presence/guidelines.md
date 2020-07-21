@@ -215,7 +215,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 - U heeft **geen** toegang tot `localStorage`.
 - Bij het openen van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
 - Je mag alleen HTTP/HTTPS verzoeken naar `premid.app` of de website API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- Velden **niet** instellen in het presenceData object dat ongedefinieerd wordt nadat het is gedeclareerd, gebruik het `delete` sleutelwoord. (bijvoorbeeld, gebruik `delete data.startTimestamp` in plaats van `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/nl/dev/presence/tsconfig)
 
