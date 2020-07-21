@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os desenvolvedores de presence devem seguir para ter a sua presence adicionada.
 published: true
-date: 2020-07-21T19:47:35.079Z
+date: 2020-07-21T22:22:06.316Z
 tags:
 editor: markdown
 ---
@@ -215,6 +215,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 - You are **not** allowed to access `localStorage`.
 - When accessing cookies for stored data, please prefix the key with `PMD_`.
 - You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 

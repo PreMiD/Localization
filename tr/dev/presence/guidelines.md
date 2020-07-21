@@ -2,7 +2,7 @@
 title: Yönergeler
 description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
 published: true
-date: 2020-07-21T19:47:35.079Z
+date: 2020-07-21T22:22:06.316Z
 tags:
 editor: markdown
 ---
@@ -217,6 +217,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - `localStorage`'a erişmenize **izin verilmemektedir**.
 - Çerezlerden bilgi alışverişi yaparken, çerezlerin başına her zaman `PMD_` ekini koyun.
 - `premid.app` ya da servis web site API'sine sadece HTTP/HTTPS istekleri yapabilirsin. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
