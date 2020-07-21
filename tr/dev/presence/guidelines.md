@@ -146,7 +146,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`service`**
 
 - Servisin ismi, servisin içinde bulunduğu klasörle aynı isimde **olmalıdır**. Örneğin, eğer servisiniz `/website/Y/YouTube` yolunda bulunuyorsa, servisinizin ismi `YouTube` olmalıdır.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (örneğin, `youtube.com` kabul edilmez iken, `YouTube` kabul edilir çünkü bu resmi ismi ve tanımlayıcı. `Top` tanımlayıcı bir isim değil, bu sebeple `top.gg` url sini kullanmak **gerekir**.)
+- You **cannot** use the url as the service name unless the website uses the url as its official name. Eğer isim tanımlayıcı değilse ve belirsiz sayılabilecek ise, url yi kullanmak**gereklidir**. (örneğin, `youtube.com` kabul edilmez iken, `YouTube` kabul edilir çünkü bu resmi ismi ve tanımlayıcı. `Top` tanımlayıcı bir isim değil, bu sebeple `top.gg` url sini kullanmak **gereklidir**.)
 
 ### **`altnames`**
 
