@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os presence developers devem seguir para ter sua presence adicionada.
 published: true
-date: 2020-07-18T20:27:50.274Z
+date: 2020-07-21T19:47:35.079Z
 tags:
 editor: markdown
 ---
@@ -144,6 +144,7 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 ### **`service`**
 
 - O nome do serviço **deve** ser o nome do diretório da presence. Por exemplo, se a presence estiver localizada em `/websites/Y/YouTube/`, o nome do serviço deve ser `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
