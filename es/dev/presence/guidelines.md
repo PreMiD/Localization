@@ -2,7 +2,7 @@
 title: Indicaciones
 description: Reglas que todos los desarrolladores de Presencias deben seguir para que su Presencia sea añadida.
 published: verdadero
-date: 2020-07-18T20:27:50.274Z
+date: 2020-07-21T19:47:35.079Z
 tags:
 editor: markdown
 ---
@@ -144,6 +144,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`servicio`**
 
 - El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta ubicada en `/websites/Y/YouTube/`, el nombre del servicio debe ser `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
