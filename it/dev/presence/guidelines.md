@@ -2,7 +2,7 @@
 title: Linee guida
 description: Regole che tutti gli sviluppatori di presenze devono seguire per aggiungere la loro presenza.
 published: vero
-date: 2020-07-18T20:27:50.274Z
+date: 2020-07-21T19:47:35.079Z
 tags:
 editor: markdown
 ---
@@ -144,6 +144,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 ### **`servizio`**
 
 - Il nome del servizio **deve** essere il nome della directory della presence. Per esempio, se la presence si trova in `/websites/Y/YouTube/`, il nome del servizio deve essere `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
