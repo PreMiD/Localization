@@ -2,7 +2,7 @@
 title: Aturan
 description: Peraturan yang harus ditaati oleh developer presence agar presencenya ditambahkan.
 published: true
-date: 2020-07-21T19:47:35.079Z
+date: 2020-07-21T22:22:06.316Z
 tags:
 editor: markdown
 ---
@@ -215,6 +215,7 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 - Anda **tidak** diperbolehkan mengakses `localStorage`.
 - Saat mengakses cookie untuk data tersimpan, harap memberi prefix pada key dengan `PMD_`.
 - You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Jika anda menggunakan domain eksternal, anda diharuskan untuk menjelaskan sebab kenapa hal itu dibutuhkan.
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
