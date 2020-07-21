@@ -2,7 +2,7 @@
 title: ガイドライン
 description: プレゼンスを公開するために必要なルール
 published: true
-date: 2020-07-18T20:27:50.274Z
+date: 2020-07-21T19:47:35.079Z
 tags:
 editor: markdown
 ---
@@ -144,6 +144,7 @@ A list of fields and their rules are listed below:
 ### **`service`**
 
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
