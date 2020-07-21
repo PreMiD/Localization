@@ -217,7 +217,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - `localStorage`'a erişmenize **izin verilmemektedir**.
 - Çerezlerden bilgi alışverişi yaparken, çerezlerin başına her zaman `PMD_` ekini koyun.
 - `premid.app` ya da servis web site API'sine sadece HTTP/HTTPS istekleri yapabilirsin. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (örneğin, `data.startTimestamp = undefined` yerine `delete data.startTimestamp` kullanın)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
