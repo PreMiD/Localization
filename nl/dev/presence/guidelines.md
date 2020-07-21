@@ -2,7 +2,7 @@
 title: Richtlijnen
 description: Regels die alle presence-ontwikkelaars moeten volgen om hun presence te laten toevoegen.
 published: true
-date: 2020-07-18T20:27:50.274Z
+date: 2020-07-21T19:47:35.079Z
 tags:
 editor: markdown
 ---
@@ -144,6 +144,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`service`**
 
 - De servicenaam **moet** de naam van de presence map zijn. Als de presence zich bijvoorbeeld bevindt op `/websites/Y/YouTube/`moet de servicenaam `YouTube` zijn.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
