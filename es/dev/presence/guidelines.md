@@ -144,7 +144,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`servicio`**
 
 - El nombre del servicio **debe** ser el nombre de la ubicación de la presencia. Por ejemplo, si la presencia esta ubicada en `/websites/Y/YouTube/`, el nombre del servicio debe ser `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- **No puedes** usar la url como el nombre del servicio al menos que el sitio web use la url como su nombre oficial. If the name is not descriptive and can be considered vague, using the url is **required**. (Por ejm., `YouTube` es permitido porque este es el nombre oficial y es descriptivo, mientras que `youtube.com` no lo es. `Top` es un nombre no descriptivo, así que usar la url `top.gg` es **requerido**.)
 
 ### **`altnames`**
 
