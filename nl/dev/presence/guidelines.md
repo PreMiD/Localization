@@ -144,7 +144,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`service`**
 
 - De servicenaam **moet** de naam van de presence map zijn. Als de presence zich bijvoorbeeld bevindt op `/websites/Y/YouTube/`moet de servicenaam `YouTube` zijn.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- U kunt **niet** de URL gebruiken als de servicenaam, tenzij de website de URL als officiële naam gebruikt. Als de naam niet beschrijvend is en als vaag kan worden beschouwd, is het gebruik van de URL **verplicht**. (Bijv.: `YouTube` is toegestaan omdat dat de officiële naam is en beschrijvend is, terwijl `youtube.com` niet is toegestaan. `Top` is een niet-beschrijvende naam, dus het gebruik van de url `top.gg` is **vereist**.)
 
 ### **`altnames`**
 
