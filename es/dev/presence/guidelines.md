@@ -2,7 +2,7 @@
 title: Indicaciones
 description: Reglas que todos los desarrolladores de Presencias deben seguir para que su Presencia sea añadida.
 published: verdadero
-date: 2020-07-21T19:47:35.079Z
+date: 2020-07-21T22:22:06.316Z
 tags:
 editor: markdown
 ---
@@ -215,6 +215,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 - **No** estás autorizado para acceder a `localStorage`.
 - Al acceder a las cookies de los datos almacenados, por favor prefije la clave con `PMD_`.
 - Sólo puedes hacer solicitudes HTTP/HTTPS a `premid.app` o a la API de presences del sitio web. Si está utilizando dominios externos, tendrá que explicar por qué son necesarios.
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
