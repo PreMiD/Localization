@@ -7,6 +7,10 @@
 		"message": "Blaai...",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Taal",
+		"description": "For choosing a language"
+	},
 	"general.live": {
 		"message": "Regstreeks",
 		"description": ""
