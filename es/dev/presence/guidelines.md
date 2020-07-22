@@ -215,7 +215,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 - **No** estás autorizado para acceder a `localStorage`.
 - Al acceder a las cookies de los datos almacenados, por favor prefije la clave con `PMD_`.
 - Sólo puedes hacer solicitudes HTTP/HTTPS a `premid.app` o a la API de presences del sitio web. Si está utilizando dominios externos, tendrá que explicar por qué son necesarios.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- **No** establezcas campos de la instancia presence como undefined una vez declarado, utiliza en su lugar la palabra clave `delete`. (por ejemplo, usa `delete data.startTimestamp` en vez de `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
