@@ -7,6 +7,10 @@
 		"message": "Borge",
 		"description": "Heading for sponsors."
 	},
+	"partners.apply.title": {
+		"message": "Doen aansoek vir 'n vennootskap",
+		"description": "Partnership application modal title."
+	},
 	"partners.apply.loggedUser": {
 		"message": "Ingeteken as {0}",
 		"description": "{0} will be replaced with user account."
@@ -26,5 +30,9 @@
 	"partners.apply.form.link": {
 		"message": "Skakel",
 		"description": "Link field."
+	},
+	"partners.apply.error4": {
+		"message": "U het reeds om 'n vennootskap aansoek gedoen.",
+		"description": "Error when already applied."
 	}
 }
