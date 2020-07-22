@@ -3,6 +3,22 @@
 		"message": "Uitbreiding is nie verbind nie.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.popular": {
+		"message": "Die Presence is baie gewilde.",
+		"description": "Presence card popular flame"
+	},
+	"store.category.filters.heading": {
+		"message": "Filters",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Meeste gebruik eerste",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Wys NSFW",
+		"description": "Adult content checkbox"
+	},
 	"store.category.all": {
 		"message": "Alles",
 		"description": "Category at the top"
