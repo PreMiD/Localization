@@ -1,1 +1,10 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Presence Ontwikkelaar",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence Verifier",
+		"description": "'Presence Verifier' title for user pages."
+	}
+}
