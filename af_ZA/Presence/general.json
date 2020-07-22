@@ -18,5 +18,9 @@
 	"general.search": {
 		"message": "Soek",
 		"description": ""
+	},
+	"general.store": {
+		"message": "Winkel",
+		"description": ""
 	}
 }
