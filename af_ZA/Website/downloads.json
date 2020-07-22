@@ -67,6 +67,30 @@
     "message": "Die huidige weergawe van hierdie platform is {0} (hierdie weergawe is spesifieke by Linux, en is nie van toepassing op ander platforms nie).",
     "description": "Tippy message of the Linux card."
   },
+  "downloads.warning.differentVersion2": {
+    "message": "Hierdie weergawe is spesifiek na Linux en en is nie van toepassing op ander stelsels nie. Die hoofweergawe van die toepassing is {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "Meld asseblief aan om hierdie aflaaie te sien.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Ag nee, dit blyk dat jy het nie alfa/beta toegang nie :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "U kan **hier** gratis by ons beta-program aansluit. Maak gou! Ons het net {0} meer spasies oor",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Vroeë vrylatinge",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Waarskuwing",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
   "downloads.button.done": {
     "message": "Doen",
     "description": "Button on the page when trying to download with adblocker on."
