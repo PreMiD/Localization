@@ -1,4 +1,16 @@
 {
+    "premid.pageContributors": {
+        "message": "Bydraers",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Aflaaie",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Winkel",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
