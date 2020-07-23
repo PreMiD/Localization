@@ -57,7 +57,7 @@ presence
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Presenças de sites que têm conteúdo explícito **deve** ter a tag `nsfw`, e a logo/miniatura **não** contém qualquer deste conteúdo. 
 > 
 > {.is-warning}
 
