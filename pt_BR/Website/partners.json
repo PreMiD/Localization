@@ -139,6 +139,10 @@
 		"message": "Comunique facilmente o status em tempo real aos seus usuários.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Uma deusa que joga com um bot do discord divertido!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.crowdin": {
 		"message": "Localização ágil para empresas de tecnologia.",
 		"description": "Description for Crowdin."
