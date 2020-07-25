@@ -177,11 +177,11 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 var presenceData: presenceData = {
-    details: "My title",
-    state: "My description",
+    details: "Meu título",
+    state: "Minha Descrição",
     largeImageKey: "service_logo",
     smallImageKey: "small_service_icon",
-    smallImageText: "You hovered me, and what now?",
+    smallImageText: "Você me girou, e agora?",
     startTimestamp: 1564444631188,
     endTimestamp: 1564444634734
 };
