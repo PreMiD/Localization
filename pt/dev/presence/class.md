@@ -32,15 +32,15 @@ Você pode obtê-lo na sua [página de aplicativos](https://discordapp.com/devel
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Retorna `presenceData` objeto de o que a presença está apresentando.
 
 ### `setActivity(presenceData, Boolean)`
 
 Define a atividade do teu perfil de acordo com os dados fornecidos.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Primeiro parámetro requer `presenceData` interface para conseguir toda a informação para ver o que vai apresentar no seu perfil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+O segundo parâmetro define quando a presença está reproduzindo algo ou não. Sempre use `true` se você providenciar os timestamps em `presenceData`.
 
 ### `clearActivity()`
 
@@ -52,15 +52,15 @@ Clears your current activity, the keybinds and the tray title.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Defina o título tray na Menubar.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Permite você conseguir as linhas traduzidas pela extensão. Você deve providenciar `Object` com as chaves sendo uma chave para a linha, `keyValue` é o valor da linha. Você consegue achar algumas dessas linhas usando este endpoint:`https://api.premid.app/v2/langFIle/extension/pt`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Retorna `Jogando` e `Pausado` linhas
+// da extensão.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -69,15 +69,15 @@ strings = await presence.getStrings({
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Retorna a váriavel do website caso exista.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Isso registrará a "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Retorna a versão da extensão que o usuário está a usar.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -108,9 +108,9 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ## `Interface de presençaDados`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+A `presenceData` interface é recomendada para usar quando você está usando o método `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Esta interface está seguindo as váriaveis, todas elas são opcionais.
 
 <table>
   <thead>
