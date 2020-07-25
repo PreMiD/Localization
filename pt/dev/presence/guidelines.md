@@ -61,7 +61,7 @@ presence
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Cada presença tem um arquivo de descriptor chamado `metadata.json`, a metadata têm um padrão rigoroso e um exemplo deste arquivo pode aparecer abaixo:
 
 ```json
 {
@@ -219,7 +219,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **Não** escreva seu próprio ficheiro `tsconfig.json`, use quando deve ser providenciado na [documentação](https://docs.premid.app/pt/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
@@ -236,13 +236,13 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
 - Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Verificação
 
 > If you need to contact someone, please use our official Discord server. All verifiers will have the `Presence Verifier` role on their profile. 
 > 
 > {.is-info}
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> **Todos os** códigos contribuíram para a loja serão licenciados sob a `Mozilla Public License 2.0`. 
 > 
 > {.is-info}
 
@@ -250,10 +250,10 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Os nossos verificadores confirmarão que a sua presença está à altura das normas e que será puxada para a loja.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -262,40 +262,40 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Reviewing`
+## `Analisando`
 
-A few things you should know after opening a pull request:
+Algumas coisas que você deve saber após abrir uma pull request:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- São necessários 2 revisores para fazer o merge de um pull request.
+- Se um pull request estiver inativo por um período de 7 dias, ele será rapidamente fechado.
+- Todas as verificações **devem ser** passadas para merge.
+- ⚠ Você **deve** fornecer novas, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presença funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar o prazer._ Isso aplica-se tanto à criação quanto à modificação.
+- ⚠ Você também é **necessário** para incluir capturas de tela das configurações de presença na extensão, se fornecido. Um exemplo pode ser visto [aqui](https://imgur.com/a/OD3sj5R).
 
-## `Checks`
+## `Verificações`
 
-![Checks](https://i.imgur.com/bk0A1iY.png)
+![Verificações](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Actualmente, uma presença atravessa 2 fases distintas de controlos. Todas estas verificações ajudam os verificadores a determinar se sua presença é adequada para implantação.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `DeepScan` é um bot que verifica a qualidade do código. Se você receber erros para novas issues, é **necessário** para corrigi-los.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Additional Rules`
+## `Regras Adicionais`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Sempre** certifique-se de iniciar sua presença na pasta mais apropriada, se seu nome começa com _qualquer_ letra latina, então ela deve estar abaixo da correspondência alfabética (para e. Exemplo: `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não-Latinos **deve** estar abaixo da pasta `#` (por exemplo, `#/巴哈姆特`) e números abaixo da pasta `0-9` (por exemplo, `0-9/4anime`).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Depois de conhecer todas as diretrizes com as análises e verificações adequadas, sua presença estará na loja.
 
-# Contributions
+# Contribuições
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`A revisão 2` das diretrizes foi escrita e foi contribuída pelas seguintes pessoas:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`A revisão 1` foi mantida pelos seguintes indivíduos:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
