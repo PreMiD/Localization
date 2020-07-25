@@ -44,7 +44,7 @@ O segundo parâmetro define quando a presença está reproduzindo algo ou não. 
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Limpa sua atividade atual, os atalhos e tray títulos.
 
 ### `setTrayTitle(String)`
 
@@ -189,20 +189,20 @@ var presenceData: presenceData = {
 
 ## Eventos
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Os eventos permitem que você detecte e lide com algumas alterações ou chamadas que foram feitas. Você pode assinar eventos usando o método `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Faça algo quando os dados são atualizados.
 });
 ```
 
-There are few events available:
+Há poucos eventos disponíveis:
 
 #### `AtualizarDados`
 
-This event is fired every time the presence is being updated.
+Este evento é disparado toda vez que a presença é atualizada.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Disparado quando os dados são recebidos do script iFrame.
