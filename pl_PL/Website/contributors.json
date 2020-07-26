@@ -28,7 +28,7 @@
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.storeManager": {
-		"message": "Menadżer sklepu",
+		"message": "Menedżer sklepu",
 		"description": "'Store Manager' title for contributors and user pages."
 	},
 	"contributors.roles.systemAdministrator": {
@@ -46,6 +46,10 @@
 	"contributors.roles.engineer": {
 		"message": "Inżynier",
 		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Projektant",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
 		"message": "Starszy Moderator",
