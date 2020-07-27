@@ -189,7 +189,7 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 ### **`category`**
 
 - A categoria **deve ser** uma das seguintes listadas na [documentação](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- A presença deve utilizar uma categoria que corresponda ao conteúdo do site. (for e.g., don't use `anime` when the website isn't related to anime).
+- A presença deve utilizar uma categoria que corresponda ao conteúdo do site. (por exemplo, não utilize `anime` quando o site não é de anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
