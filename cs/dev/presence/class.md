@@ -69,7 +69,7 @@ strings = await presence.getStrings({
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Vrátí údaj ze stránky, pokud ten údaj existuje.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
@@ -77,7 +77,7 @@ console.log(pageVar); // This will log the "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Vrátí verzi rozšíření, kterou aktuálně uživatel má.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): řetězec | number;
 
