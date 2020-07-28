@@ -59,12 +59,12 @@ Ze strany McAfee je to chybné vyhodnocení a my jsme je o tom informovali. Proz
 2. Klikněte na "Karantované položky" (druhé od shora).
 3. Rozbalte a klikněte na `>` před položkou s názvem "settings.dat".
 4. Ujistěte se, že cesta obsahuje "AppData\Local\Temp\PreMiD". Pokud je to tak, vyberete ji a stiskněte tlačítko Obnovit. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+5. Po obnovení můžete zavřít vyskakovací okno "Karantované položky" a poté znovu stisknout ikonu nastavení v pravém horním rohu.
+6. Klikněte na "Skenování v reálném čase" (třetí od shora).
+7. Rozbalte a klepněte na tlačítko "Přidat soubor".
+8. Napište "%appdata% do adresního řádku správce souborů a stiskněte Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Otevřete složku "PreMiD", vyberte soubor "PreMiD.exe" a klikněte na tlačítko Otevřít. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee by nyní měl ignorovat náš soubor, stačí spustit naši aplikaci a měli byste být v pořádku.
 
-### That has not solved my problem
+### To můj problém nevyřešilo
 Prosím otevřte si tiket v [#support](https://discord.gg/WvfVZ8T).
