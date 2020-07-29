@@ -47,12 +47,20 @@
 		"message": "採用情報",
 		"description": "Text before the available job positions cards."
 	},
+	"jobs.benefit2.title": {
+		"message": "のぞき見",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "開発やマーケティング活動をのぞき見できる。",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit3.title": {
 		"message": "名誉",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "強力なDiscordの権限と色鮮やかな役職。",
+		"message": "Discordの権限と、色鮮やかな役職。",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
@@ -60,7 +68,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "あなたの貢献により、このプロジェクトを運営することができます。",
+		"message": "あなたの貢献で、このプロジェクトを運営することができます。",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
