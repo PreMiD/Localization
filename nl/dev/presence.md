@@ -182,10 +182,10 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
       <td style="text-align:left">URL van de service.<br><b>Bijvoorbeeld:</b><code>vk.com</code><br>
         <b>Deze URL moet de URL van de website zijn, aangezien dit er voor zorgt of de script word ingeladen of niet.</b><br> Voeg <b>NIET</b> <code>https://</code> of <code>http://</code> toe in de URL, ook niet een slash aan het einde:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Opmerking</b>: Sommige URLs hebben <code>www.</code> of iets anders voor hun domain naam. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+<b>Opmerking</b>: Sommige URLs hebben <code>www.</code> of iets anders voor hun domain naam. Vergeet <b>NIET</b> toe te voegen!<br>
+U kunt meerdere URL's toevoegen door het volgende te doen:<br>
+<code>["URL1", "URL2", "ETC.]</code><br>
+U kunt regExp ook bekend als Regex gebruiken voor deze taak, word hier onder verder uitgelegd.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
