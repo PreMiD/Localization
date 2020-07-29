@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-07-29T15:12:47.003Z
+date: 2020-07-29T15:12:55.925Z
 tags: 
 editor: markdown
 ---
@@ -42,14 +42,6 @@ Sets your profile activity according to provided data.
 First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
 Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
-
-# `getActivity()` {.tabset}
-## Details
-test
-## Usage
-test
-## Example
-test
 
 ### `clearActivity()`
 
