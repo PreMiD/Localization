@@ -2,8 +2,9 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:05:15.797Z
 tags: 
+editor: markdown
 ---
 
 # Presence Class
@@ -55,7 +56,7 @@ Sets the tray title on the Menubar.
 
 ### `getStrings(Object)`
 
-Allows you to get translated strings from extension.  
+An asyncronous method that allows you to get translated strings from extension.
 You must provide `Object` with keys being the key for string, `keyValue` is the string value.
 You can find the some of the strings using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
@@ -66,6 +67,8 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = (await strings).play // result: Playing back
 ```
 
 ### `getPageletiable(String)`
