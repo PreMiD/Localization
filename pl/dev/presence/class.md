@@ -2,8 +2,9 @@
 title: Klasa Presence
 description: Główna klasa dla każdej obecności PreMiD
 published: tak
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Klasa Presence
@@ -56,7 +57,7 @@ Ustawia tytuł zasobnika na pasku menu.
 
 ### `getStrings(Object)`
 
-Pozwala na otrzymywanie przetłumaczonych ciągów z rozszerzenia. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. Część ciągów można znaleźć za pomocą tego linku: `https://api.premid.app/v2/langFIle/extension/en`
+An asyncronous method that allows you to get translated strings from extension. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Zwraca ciągi znaków `Playing` i `Paused`
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`

@@ -2,8 +2,9 @@
 title: Presenceクラス
 description: すべてのPreMIDのプレゼンスのメインクラス
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Presenceクラス
@@ -56,7 +57,7 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-拡張機能から、翻訳された文字列を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 このエンドポイントを使用していくつかの文字列を見つけることができます: `https://api.premid.app/v2/langFIle/extension/en`
+An asyncronous method that allows you to get translated strings from extension. 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // '再生中' と '一時停止中' の文字列を
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`

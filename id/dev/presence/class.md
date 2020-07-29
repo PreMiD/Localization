@@ -2,8 +2,9 @@
 title: Kelas Presensi
 description: Kelas utama untuk setiap presence PreMiD
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Kelas Presence
@@ -56,7 +57,7 @@ Setel judul baki pada bilah Menu.
 
 ### `getStrings(Object)`
 
-Memungkinkan Anda mendapatkan string yang diterjemahkan dari ekstensi. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. Anda dapat menemukan beberapa string menggunakan titik akhir ini: `https://api.premid.app/v2/langFIle/extension/en`
+An asyncronous method that allows you to get translated strings from extension. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Mengembalikan string `Playing` dan` Paused`
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
