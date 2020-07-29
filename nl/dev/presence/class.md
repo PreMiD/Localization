@@ -57,7 +57,7 @@ Stelt de systeemtitel in op de menubalk.
 
 ### `getStrings(object)`
 
-An asyncronous method that allows you to get translated strings from extension. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Een asynrone methode waarmee u vertaalde strings uit de extensie kunt krijgen. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. Een compilatie van vertaalde strings kan worden gevonden met dit eindpunt: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Retourneert `Playing` en `Paused` strings
@@ -67,8 +67,8 @@ strings = await presence.getStrings({
     pause: "presence.playback.paused"
 });
 
-const playString = strings.play // result: Playing back
-const pauseString = strings.pause // result: Playback paused
+const playString = strings.play // resulteert: Playing back
+const pauseString = strings.pause // resulteert: Playback paused
 ```
 
 ### `getPageletiable(String)`
