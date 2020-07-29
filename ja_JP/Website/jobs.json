@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "あなたは最大のリッチプレゼンスプログラムを手伝うする準備ができていますか？",
+		"message": "私達と一緒に働いてみませんか？",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.benefit3.title": {
@@ -60,7 +60,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
-		"message": "時間切れ",
+		"message": "ノルマなし",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
