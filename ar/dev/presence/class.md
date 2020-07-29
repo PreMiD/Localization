@@ -28,7 +28,7 @@ tags:
 
 يمكنك الحصول عليه من [ صفحة التطبيقات ](https://discordapp.com/developers/applications).
 
-## Methods
+## الطرق
 
 ### `getActivity()`
 
@@ -123,7 +123,7 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">التفاصيل</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">السطر الأول في حضورك ، وعادة ما يستخدم كعنوان.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
