@@ -20,11 +20,11 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "すべての項目に入力してください",
+		"message": "すべての項目を入力してください。",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiDはオープンソースのプロジェクトであり、非営利チームであることを意味します。\nすべての募金やpatreonのお金はすべて商品に還元されます。\nPreMiDの求人に応募することで、チームでボランティア活動をしていることを認めたことになります。給料が支払わられることはありません。",
+		"message": "PreMiDは非営利のプロジェクトであり、すべての寄付やPatreonのお金はすべてPreMiDの開発やサーバー維持費に使用されます。\nPreMiDでの求人に応募することで、ボランティアとしての活動を同意することになります。\n給料が支払われることはありません。",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
