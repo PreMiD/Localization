@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: البدء مع تثبيت PreMiD على لينكس
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
@@ -8,31 +8,31 @@ tags:
 
 > Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
 
-The installation of the application is very important as the extension can not do anything by itself.
+وتركيب التطبيق مهم جدا لأن التمديد لا يمكن أن يفعل أي شيء في حد ذاته.
 
-## Table of Contents
+## جدول المحتويات
 
 - **[نبذة عنا](#about)**
-  - [Stats](#stats)
-  - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - [الحالة](#stats)
+  - [المتطلبات](#requirements)
+  - أمثلة (قريبا)
+  - الأسئلة الشائعة (قريبا)
+  - بناء (قريبا)
+  - [الدعم الفني](#support)
   - [المساهمون](#credits)
-  - [License](#license)
+  - [الترخيص](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
+  - [إرشادات التثبيت](#installation-instructions)
+  - [ملاحظات إضافية](#additional-notes)
 - **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
 - **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
 - **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+  - [إرشادات التثبيت](#installation-instructions-1)
+  - [ملاحظات إضافية](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [إرشادات التثبيت](#installation-instructions-2)
+  - [ملاحظات إضافية](#additional-notes-2)
 
 <a name="about"></a>
 
@@ -42,7 +42,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="stats"></a>
 
-### Stats
+### الحالة
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="requirements"></a>
 
-### Requirements
+### المتطلبات
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -71,11 +71,11 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### الدعم الفني
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="انضم الى الديسكورد الخاص بنا!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="انضم الى الديسكورد الخاص بنا!">
   </a>
 </div>
 
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### الترخيص
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### إرشادات التثبيت
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,7 +126,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### ملاحظات إضافية
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -139,7 +139,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### إرشادات التثبيت
 
 ```bash
 # Using yay (recommended)
@@ -169,9 +169,9 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### ملاحظات إضافية
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+If your distro uses pacman, then you have to install one of the helpers first. إذا لم يكن لديك أي شيء، يُنصح بتشغيل Yay:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### إرشادات التثبيت
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### ملاحظات إضافية
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 

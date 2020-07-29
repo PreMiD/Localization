@@ -23,7 +23,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 # Structure
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## Installation
+## تثبيت
 1. قم بتثبيت [ Git ](https://git-scm.com/).
 2. تثبيت [ Node ](https://nodejs.org/en/) (يأتي مع [ npm ](https://www.npmjs.com/)).
 3. قم بتثبيت [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (افتح محطة و ` npm install -g typescript `).
@@ -52,8 +52,8 @@ Please put the following code inside of the `tsconfig.json` file.
 ```
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## ملء ملف metadata.json
+لقد صنعنا `metadata.json` منشئ ملف للتلبيات الكسولة [هنا](https://eggsy.codes/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
 
 ```json
 {
@@ -109,14 +109,14 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+الرجاء نسخ الرمز أعلاه ووضعه في ملف `metadata.json`. تحتاج الآن إلى تعديل قيم الخواص. يرجى ملاحظة أن الخصائص التالية اختيارية للحصول عليها في `بيانات التعريف الخاصة بك. ابن` ملف، إذا كنت لا تخطط لاستخدامهم، تحتاج إلى إزالتهم.
 - `المساهمون`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `الإعدادات`
 
-**Clarifying some value presets:**
+**توضيح بعض المضبوطات المسبقة للقيم:**
 <table>
   <thead>
     <tr>
@@ -144,48 +144,48 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>نعم</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
+      <td style="text-align:left"><b>خدمة</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">The title of the service that this presence supports. <br>(يجب أن يكون نفس اسم المجلد حيث كل شيء)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>أسماء</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">كن قادراً على البحث عن وجود باستخدام اسم بديل. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>نعم</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>الوصف</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">وصف صغير للحضور، يمكنك استخدام وصف الخدمة
+        إذا كنت خارج الأفكار. يجب أن يحتوي الوصف الخاص بك على قيم أزواج رئيسية تشير إلى اللغة، والوصف في تلك اللغة المحددة. اصنع وصفاً باللغات <i>التي تعرفها</i>، سوف يقوم مترجمونا بإجراء تغييرات على ملف البيانات الوصفية الخاص بك.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
+      <td style="text-align:left"><b>رابط</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+      <td style="text-align:left">عنوان URL للخدمة.<br><b>مثال:</b><code>vk. om</code><br>
+        <b>عنوان URL هذا يجب أن يتطابق مع عنوان URL للموقع حيث أنه سيكشف ما إذا كان هذا الموقع لضخ البرنامج النصي أم لا.</b><br> لا <b>لا</b> يضيف <code>https://</code> أو <code>http://</code> داخل عنوان URL ولا بلاش في النهاية:
+<code>https://premid. p/</code> -> <code>Premid.app</code><br>
+<b>Note</b>: قد يكون لبعض عناوين URL <code>www.</code> أو شيء آخر أمام مجالهم. لا <b>لا</b> ننسى إضافتها!<br>
+يمكنك إضافة عناوين URL متعددة بالقيام بما يلي:<br>
+<code>["URL1"، "URL2"، "ETC.]</code><br>
+يمكنك أيضًا استخدام regExp المعروف أيضا بـ Regex لهذه المهمة، مع مزيد من التوضيح أدناه.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -195,31 +195,31 @@ You could also use regExp also known as Regex for this task, explaned further be
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      <td style="text-align:left">سلسلة تعبير عادية تستخدم لمطابقة عناوين urls.<br>
+      regExp أو المعروف أيضًا باسم Regex، يمكن استخدامه إذا كان الموقع يحتوي على عدة مجالات فرعية.<br>
+يمكنك استخدام regExp التالية من أجل:<br>
+<code>([a-z0-9]+)[.]نطاق[.]TLD"</code><br>
+TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br> 
+<code>([a-z0-9]+)</code> يعني أي شيء من 0 إلى 9 .<br>
+        يمكنك الحصول على بداية سريعة من خلال مشاهدة هذا <a href="https://youtu.be/sXQxhojSdZM">الفيديو</a><br>
+        يمكنك اختبار regExp الخاص بك في <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>نعم</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>الإصدار</b>
       </td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">نسخة من حضورك.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
+      <td style="text-align:left"><b>الشعار</b>
       </td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
@@ -239,8 +239,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> value. نوصي باستخدام لون أساسي من الخدمة
+        التي يدعمها وجودك.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -249,7 +249,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>التصنيفات</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">مصفوفة مع العلامات، ستساعد المستخدمين على البحث عن وجودك على الموقع.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -259,7 +259,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>category</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها. مشاهدة الأخاديد الصالحة <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">هنا</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -268,10 +268,10 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">يحدد ما إذا كان <code>iFrames</code> يستخدم</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>نعم</code>
       </td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>نعم</code>
       </td>
     </tr>
     <tr>
@@ -290,13 +290,13 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>نعم</code>
       </td>
     </tr>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+لقد صنعنا `metadata.json` منشئ ملف للتلبيات الكسولة [هنا](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Getting started
 
@@ -328,7 +328,7 @@ setInterval(10000, myOutsideHeavyLiftingFunction);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. يتم استدعاء هذا عدة مرات في الثانية حيثما أمكن.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
@@ -354,7 +354,7 @@ presence.on("UpdateData", async () => {
 ```
 You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+ومن الأمثلة على ذلك، نقترح النظر في مدونة أشكال الوجود مثل: 1337x أو 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
