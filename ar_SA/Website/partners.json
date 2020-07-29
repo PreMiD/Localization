@@ -39,6 +39,10 @@
 		"message": "كن مشهوراً",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "المتطلبات",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "ما الذي نبحث عنه؟",
 		"description": "Heading for the first requirement."
