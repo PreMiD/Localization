@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2020-07-29T15:07:14.421Z
+date: 2020-07-29T15:07:40.592Z
 tags: 
 editor: markdown
 ---
@@ -69,6 +69,7 @@ strings = await presence.getStrings({
 });
 
 const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
