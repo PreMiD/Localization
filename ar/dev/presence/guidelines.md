@@ -1,19 +1,19 @@
 ---
-title: Guidelines
-description: Rules all presence developers must follow to have their presence added.
+title: الإرشادات
+description: قواعد جميع مطوري التواجد يجب أن يتبعوها لإضافة وجودهم.
 published: true
 date: 2020-07-21T22:22:06.316Z
 tags:
 editor: markdown
 ---
 
-# Guidelines
+# الإرشادات
 
 When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Creation
 
-The general rules of presence development are as follows:
+القواعد العامة لتطوير الوجود هي كما يلي:
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
