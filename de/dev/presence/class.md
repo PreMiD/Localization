@@ -2,8 +2,9 @@
 title: Präsenz-Klasse
 description: Die Hauptklasse für jede PreMiD-Präsenz
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Präsenzklasse
@@ -56,7 +57,7 @@ Legt den Tray-Titel in der Menüleiste fest.
 
 ### `getStrings(Objekt)`
 
-Ermöglicht das Abrufen übersetzter Zeichenfolgen aus der Erweiterung. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. Du kannst die Zeichenketten finden, die diesen Endpunkt verwenden: `https://api.premid.app/v2/langFIle/extension/de`
+An asyncronous method that allows you to get translated strings from extension. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Gibt `Playing` und `Paused` Strings
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
