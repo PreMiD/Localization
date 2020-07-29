@@ -47,12 +47,24 @@
 		"message": "採用情報",
 		"description": "Text before the available job positions cards."
 	},
+	"jobs.benefits.title": {
+		"message": "こんな特典が！",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "私たちに会う",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiDを支えてる人たちに出会う。",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit2.title": {
 		"message": "のぞき見",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
-		"message": "開発やマーケティング活動をのぞき見できる。",
+		"message": "開発や、マーケティング活動をのぞき見できる。",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
@@ -86,6 +98,10 @@
 	"jobs.benefit6.description": {
 		"message": "他の人よりも先に新機能をテストする",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "応募していただき、ありがとうございます！",
+		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
 		"message": "すでに申し込み済みです！",
