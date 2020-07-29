@@ -3,6 +3,14 @@
 		"message": "أوه لا!",
 		"description": "The big text on maintenance page"
 	},
+	"maintenance.heading": {
+		"message": "للأسف نحن نواجه صعوبات تقنية. سوف نعود قريبا عذرا للإزعاج.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "يرجى العودة لاحقا لمزيد من المعلومات.",
+		"description": "Heading on maintenance page"
+	},
 	"maintenance.message": {
 		"message": "!حتى يقوم مطورونا الخاصون بإصلاح ذلك ، لا تتردد في إلقاء نظرة هنا",
 		"description": "Message on maintenance page"
