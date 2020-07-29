@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-06-21T15:39:51.864Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -178,10 +178,10 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
       <td style="text-align:left"><b>url</b>
       </td>
       <td style="text-align:left">Servisin URL'si.<br><b>Örneğin:</b><code>vk.com</code><br>        <b>Gireceğiniz URL servisin URL'si olmalıdır, kullanıcının sitede olup olmadığı böyle kontrol edilecektir.</b><br>URL'nin başına <b>SAKIN</b> <code>https://</code> veya <code>http://</code> eklemeyin:
-<code>https://premid.app/</code> -> <code>premid.app</code><br><b>Not</b>: Bazı URL'ler başlarında <code>www.</code> veya belli şeylerle başlar, bunları da yazmalısınız. Eklemeyi unutmazsınız herhalde.
-Aşağıdaki biçimi kullanarak birden fazla URL ekleyebilirsiniz:<br>
-<code>["URL1", "URL2", "GİBİ."]</code><br>
-Ayrıca isterseniz regExp kısmını da kullanabilirsiniz, ileride açıklaması yapılacaktır.
+<code>https://premid.app/</code> -> <code>premid.app</code><br><b>Not</b>: Bazı URL'ler başlarında <code>www.</code> veya belli şeylerle başlar, bunları da yazmalısınız. Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>

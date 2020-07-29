@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-06-11T18:39:51.561Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -182,10 +182,10 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       <td style="text-align:left">Adres URL usługi. <br><b>Przykład:</b><code>vk.com</code><br>
         <b>Ten adres URL musi pasować do adresu URL witryny, ponieważ wykryje czy jest to strona do wprowadzenia skryptu.</b><br><b>NIE DODAWAJ</b> <code>https://</code> lub <code>http://</code> wewnątrz adresu URL ani ukośnika na końcu adresu:
 <code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Uwaga</b>: Niektóre adresy URL mogą mieć <code>www.</code> lub coś innego przed ich domeną. <b>NIE</b> zapomnij go dodać!<br>
-Możesz dodać wiele adresów URL wykonując następujące czynności:<br>
-<code>["URL1", "URL2", "ETC. "]</code><br>
-Możesz również użyć regExp znanego również jako Regex dla tego zadania, objaśnionego poniżej.
+<b>Uwaga</b>: Niektóre adresy URL mogą mieć <code>www.</code> lub coś innego przed ich domeną. Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>

@@ -2,7 +2,7 @@
 title: Presence Development
 description:
 published: true
-date: 2020-06-11T18:39:51.561Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -40,7 +40,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Create a folder named `dist` inside.
 4. Create a `metadata.json` file inside the `dist` folder.
 
-## Filling in the tsconfig.json file
+## ملء ملف tsconfig.json
 Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
@@ -182,10 +182,10 @@ To learn more about TypeScript configuration click [here](/dev/presence/tsconfig
       <td style="text-align:left">عنوان URL للخدمة.<br><b>مثال:</b><code>vk. om</code><br>
         <b>عنوان URL هذا يجب أن يتطابق مع عنوان URL للموقع حيث أنه سيكشف ما إذا كان هذا الموقع لضخ البرنامج النصي أم لا.</b><br> لا <b>لا</b> يضيف <code>https://</code> أو <code>http://</code> داخل عنوان URL ولا بلاش في النهاية:
 <code>https://premid. p/</code> -> <code>Premid.app</code><br>
-<b>Note</b>: قد يكون لبعض عناوين URL <code>www.</code> أو شيء آخر أمام مجالهم. لا <b>لا</b> ننسى إضافتها!<br>
-يمكنك إضافة عناوين URL متعددة بالقيام بما يلي:<br>
-<code>["URL1"، "URL2"، "ETC.]</code><br>
-يمكنك أيضًا استخدام regExp المعروف أيضا بـ Regex لهذه المهمة، مع مزيد من التوضيح أدناه.
+<b>Note</b>: قد يكون لبعض عناوين URL <code>www.</code> أو شيء آخر أمام مجالهم. Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>

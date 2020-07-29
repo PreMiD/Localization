@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-06-11T18:39:51.561Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -182,10 +182,10 @@ editor: markdown
       <td style="text-align:left">URL-адреса послуги. <br> <b>Приклад:</b><code>vk.com</code><br>
          <b>Ця URL-адреса повинна відповідати URL-адресі веб-сайту, оскільки вона виявить, чи це веб-сайт, яким слід вводити сценарій.</b><br><b>НЕ</b>додавайте<code>https://</code>або<code> http://</code> всередину URL-адреси, і не косою рисою в кінці:
 <code https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Примітка</b>: Деякі URL-адреси можуть мати <code>www.</code> або щось інше перед своїм доменом. Зробіть <b>НЕ</b> забудьте додати його!<br>
-Ви можете додати декілька адрес, виконавши наступне:<br>
-<code>["URL1", "URL2", "ETC. ]</code><br><br>.
-, Ви можете також використовувати regExp також відоме як Regex для цього завдання, пояснюючи нижче.
+<b>Примітка</b>: Деякі URL-адреси можуть мати <code>www.</code> або щось інше перед своїм доменом. Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code>
       </td>

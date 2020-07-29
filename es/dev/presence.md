@@ -2,7 +2,7 @@
 title: Desarrollo de Presencias
 description:
 published: true
-date: 2020-06-11T18:39:51.561Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -197,10 +197,10 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
       <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>
         <b>Esta URL debe coincidir con la URL del sitio web ya que se detectará si es o no el sitio web al que se inyecta el script.</b><br><b>NO</b> agregues <code>https://</code> o <code>http://</code> dentro de la URL ni un slash al final:
 <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. <b>NO</b> olvides añadirlos!<br>
-Puedes añadir múltiples URLs haciendo lo siguiente:<br>
+<b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
-También puedes usar expresiones regulares para esta tarea, explicadas más adelante.
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
