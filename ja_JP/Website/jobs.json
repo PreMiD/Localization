@@ -43,6 +43,10 @@
 		"message": "私達と一緒に働いてみませんか？",
 		"description": "The second part of the jobs page."
 	},
+	"jobs.openings.title": {
+		"message": "採用情報",
+		"description": "Text before the available job positions cards."
+	},
 	"jobs.benefit3.title": {
 		"message": "名誉",
 		"description": "Benefit card title."
