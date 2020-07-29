@@ -2,8 +2,9 @@
 title: คลาส Presence
 description: คลาสหลักสำหรับทุก PreMiD Presence
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # คลาส Presence
@@ -56,7 +57,7 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-อนุญาติให้คุณรับสตริงที่แปลจากส่วนขยาย คุณต้องระบุ `Object` ด้วยคีย์ที่เป็นกุญแจสำหรับสตริง `keyValue` คือค่าสตริง คุณสามารถค้นหา strings บางส่วนโดยใช้ลิ้งค์นี้: `https://api.premid.app/v2/langFIle/extension/en`
+An asyncronous method that allows you to get translated strings from extension. คุณต้องระบุ `Object` ด้วยคีย์ที่เป็นกุญแจสำหรับสตริง `keyValue` คือค่าสตริง A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // คืนค่า `Playing` and `Paused` strings
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
