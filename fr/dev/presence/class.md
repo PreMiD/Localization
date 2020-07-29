@@ -57,7 +57,7 @@ Définit le titre de la barre de menus.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Méthode asynchrone qui vous permet d'obtenir des chaînes traduites depuis l'extension. Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une compilation de chaînes traduites peut être trouvée depuis ici : `https://api.premid.app/v2/langFIle/extension/fr`
 
 ```typescript
 // Retourne `Playing` et `Paused` chaînes
@@ -67,8 +67,8 @@ strings = await presence.getStrings({
     pause: "presence.playback.paused"
 });
 
-const playString = strings.play // result: Playing back
-const pauseString = strings.pause // result: Playback paused
+const playString = strings.play // Retourne : Lecture
+const pauseString = strings.pause // Retourne : Lecture en pause
 ```
 
 ### `getPageletiable(String)`
