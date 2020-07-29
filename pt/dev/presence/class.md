@@ -2,8 +2,9 @@
 title: Classe de presença
 description: A classe principal para cada presença do PreMiD
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Classe de presença
@@ -56,7 +57,7 @@ Defina o título tray na Menubar.
 
 ### `getStrings(Object)`
 
-Permite você conseguir as linhas traduzidas pela extensão. Você deve providenciar `Object` com as chaves sendo uma chave para a linha, `keyValue` é o valor da linha. Você consegue achar algumas dessas linhas usando este endpoint:`https://api.premid.app/v2/langFIle/extension/pt`
+An asyncronous method that allows you to get translated strings from extension. Você deve providenciar `Object` com as chaves sendo uma chave para a linha, `keyValue` é o valor da linha. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Retorna `Jogando` e `Pausado` linhas
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
