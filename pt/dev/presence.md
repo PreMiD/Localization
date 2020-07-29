@@ -2,7 +2,7 @@
 title: Desenvolvimento de Presenças
 description:
 published: true
-date: 2020-06-11T18:39:51.561Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -177,10 +177,10 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
       <td style="text-align:left"><b>url</b>
       </td>
       <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk.com</code><br>
-        <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que este seja ou não o site para injetar o script.</b> <b>NÃO ESQUEÇA</b> de adicioná-las<br>
-Você pode adicionar várias URLs fazendo o seguinte:<br>
+        <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que este seja ou não o site para injetar o script.</b> Do <b>NOT</b> forget to add it!<br>
+You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
-Você também pode usar regExp também conhecida como Regex para esta tarefa, explicada mais abaixo.
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
