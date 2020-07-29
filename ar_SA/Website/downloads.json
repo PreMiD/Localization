@@ -83,9 +83,21 @@
     "message": "يمكنك الانضمام إلى برنامجنا التجريبي ** هنا ** مجانًا. عجلوا! لدينا فقط {0} فتحات متاحة",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "احصل على إصدارات مبكرة",
+    "description": "Header above alpha/beta download buttons."
+  },
   "downloads.warning.title": {
     "message": "تحذير",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "لا تنس تمكين خيار \"السماح بالامتدادات من المتاجر الأخرى\" من إعدادات الامتداد.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "يجب تثبيت ** هذا ** من أجل تثبيت PreMiD من Chrome Webstore.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
   },
   "downloads.button.skip": {
     "message": "تخطي",

@@ -47,6 +47,14 @@
         "message": "نبذة عنا",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "متطلبات النظام",
+        "description": "A page name"
+    },
+    "premid.pageInstall": {
+        "message": "تثبيت",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "استكشاف الأخطاء وإصلاحها\n \n ",
         "description": "A page name"

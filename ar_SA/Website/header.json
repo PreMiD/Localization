@@ -38,5 +38,21 @@
   "header.login": {
     "message": "تسجيل دخول",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "تم تسجيل الدخول كـ",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "الإبلاغ عن خطأ",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "لوحة التحكم",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "تسجيل خروج",
+    "description": "Logout button"
   }
 }
