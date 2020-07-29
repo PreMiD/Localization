@@ -2,7 +2,7 @@
 title: Pravljenje Presence-a
 description:
 published: true
-date: 2020-06-11T18:39:51.561Z
+date: 2020-07-29T17:33:59.440Z
 tags:
 editor: markdown
 ---
@@ -114,7 +114,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `settings`
+- `podešavanja`
 
 **Clarifying some value presets:**
 <table>
@@ -185,7 +185,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
 You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explaned further below.
+You could also use regExp also known as Regex for this task, explained further below.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -284,7 +284,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b>
+      <td style="text-align:left"><b>podešavanja</b>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
