@@ -183,6 +183,10 @@
 		"message": "申請する",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "応募していただき、ありがとうございます！",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "すべての項目を入力してください。",
 		"description": "Error when a field isn't filled."
