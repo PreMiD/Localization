@@ -189,7 +189,7 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+تتيح لك الأحداث الكشف عن بعض التغييرات أو المكالمات التي أجريت والتعامل معها. You can subscribe to events using the `on` method.
 
 ```typescript
 presence.on("UpdateData", async () => {
