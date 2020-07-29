@@ -20,13 +20,13 @@ tags:
 })؛
 ```
 
-There are two properties available for `Presence` class.
+هناك خاصيتان متاحتان لفئة ` التواجد `.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+يجب توفير خاصية ` clientId ` لجعل حضورك يعمل ، لأنه يستخدم معرف التطبيق الخاص بك لعرض شعاره وأصوله.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+يمكنك الحصول عليه من [ صفحة التطبيقات ](https://discordapp.com/developers/applications).
 
 ## Methods
 
