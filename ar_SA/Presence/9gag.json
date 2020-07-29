@@ -3,8 +3,32 @@
         "message": "يشاهد البوابة:",
         "description": ""
     },
+    "9gag.hot": {
+        "message": "عرض ما هو ساخن",
+        "description": ""
+    },
     "9gag.trending": {
         "message": "عرض الهام",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "عرض ما هو الطازج",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "عرض العلامة:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "قراءة كل ما يدور حول 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "مشاهدة صفحة المتجر",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "يشاهد الاشتراكات:",
         "description": ""
     }
 }
