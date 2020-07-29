@@ -2,8 +2,9 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2020-05-20T00:15:59.349Z
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Presence Klasse
@@ -56,7 +57,7 @@ Stelt de systeemtitel in op de menubalk.
 
 ### `getStrings(object)`
 
-Maakt het mogelijk om vertaalde teksten van de extensie te krijgen. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. U kunt sommige teksten vinden met dit eindpunt: `https://api.premid.app/v2/langFIle/extension/en`
+An asyncronous method that allows you to get translated strings from extension. U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Retourneert `Playing` en `Paused` strings
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
