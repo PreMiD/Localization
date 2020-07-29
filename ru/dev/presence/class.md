@@ -2,8 +2,9 @@
 title: Класс присутствия
 description: Основной класс для каждого присутствия PreMiD
 published: true
-date: 20 мая 2020г. 15:59:34
+date: 2020-07-29T15:12:55.925Z
 tags:
+editor: markdown
 ---
 
 # Класс Presence
@@ -56,7 +57,7 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-Позволяет вам получить переведенные строки из расширения. Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. Вы можете найти некоторые строки, используя эту конечную точку: `https://api.premid.app/v2/langFIle/extension/ru`
+An asyncronous method that allows you to get translated strings from extension. Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Возвращает `Playing` и `Paused` строки
@@ -65,6 +66,9 @@ strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
 });
+
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(Строка)`
