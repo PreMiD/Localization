@@ -15,9 +15,25 @@
 		"message": "المطور",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "مدير المشروع",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "مشرف العمليات",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "الممثل العالمي للمجتمع",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "مدير المحل",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "مدير النظام",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "مطور الويب",
@@ -30,6 +46,10 @@
 	"contributors.roles.engineer": {
 		"message": "مهندس",
 		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "مصمم",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
 		"message": "كبير المشرفين",
@@ -78,5 +98,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "انقر لنسخ ID المستخدم.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "تم نسخ معرف المستخدم!",
+		"description": "Notification after user ID was copied."
 	}
 }
