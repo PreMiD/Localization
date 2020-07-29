@@ -1,12 +1,12 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: تثبيت
+description: كيفية تثبيت PreMiD
 published: true
 date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> تأكد من وجود ال[متطلبات الكافية](/install/requirements) لتشغيله على جهازك. 
 > 
 > {.is-info}
 
@@ -14,10 +14,10 @@ tags:
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**اختر نظام التشغيل الخاص بك:**
+- [ويندوز *7 أو أعلى*](/install/windows)
+- [*macOS 10.11 أو أعلى*](/install/macos)
+- [Linux *4 أو أعلى*](/install/linux)
 {.links-list}
 
 **Choose your browser:**
