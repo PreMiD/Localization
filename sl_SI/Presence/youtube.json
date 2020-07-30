@@ -1,4 +1,28 @@
 {
+    "youtube.ad": {
+        "message": "Trenutno gledanje oglasa",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Brskanje po videoposnetkih",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Brskanje po seznamih predvajanja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Ogledovanje skupnostne objave",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "od kanala:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Branje o kanalu:",
+        "description": ""
+    },
     "youtube.trending": {
         "message": "Ogledovanje kaj je popularno",
         "description": ""
