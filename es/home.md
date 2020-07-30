@@ -13,7 +13,7 @@ editor: markdown
 
 # Acerca de PreMiD
 - :mag: [¿Qué es PreMiD?](/about) Intenciones detrás de PreMiD y porqué deberías usarlo.
-- :link: [¿Qué es RPC?](https://discordapp.com/rich-presence) Todo acerca de las Presencias Enriquecidas y sus funciones.
+- :link: [¿Qué es RPC?](https://discordapp.com/rich-presence) Todo acerca de la Rich Presence y sus funciones.
 
 # Comenzando
 
@@ -28,7 +28,7 @@ PreMiD es fácil y rápido de instalar. Terminarás en un abrir y cerrar de ojos
 Tienes una guiía de [primeros pasos](/dev) antes de comenzar con el desarrollo de PreMiD.
 
 - :computer: [API](/dev/api): Accede a recursos y realiza acciones por medio de la API de PreMiD.
-- :wrench: [Desarrollo de presencias](/dev/presence): Aprende a usar nuestro sistema de presencias.
+- :wrench: [Desarrollo de Presences](/dev/presence): Aprende a usar nuestro sistema de Presences.
 
 # Contribuir
 - :bug: [Informar de un error](https://github.com/PreMiD): Ayúdanos a acabar con esos molestos errores.
