@@ -60,28 +60,28 @@ editor: markdown
 طريقة غير غريبة تسمح لك بالحصول على المقاطع المترجمة من الإضافة. يجب عليك توفير `Object` مع المفاتيح التي تكون مفتاح السلسلة،عندما`keyValue` هي قيمة السلسلة. يمكن العثور على مجموعة من المقاطع المترجمة باستخدام هذه النقطة النهائية: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
-strings = await presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+// ترجاع 'تشغيل' و 'موقف مؤقتا` سلاسل
+// من الإضافة.
+السلاسل = انتظر وجود الوقت.getStrings({
+    تشغيل: "presence.playback.playing",
+    توقف مؤقتاً: "presence.playback". تم إيقاف التشغيل"
 });
 
-const playString = strings.play // result: Playing back
-const pauseString = strings.pause // result: Playback paused
+تشغيل String = strings.play // result: إعادة التشغيل
+const stopuseString = strings.paus// result: Playback مؤقتًا مؤقتًا
 ```
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+يرجع متغير من الموقع إذا كان موجود.
 
 ```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+var pageVar = getPageletiable('.pageVar')؛
+console.log(pageVar)؛ // سيؤدي هذا إلى تسجيل "Variable conten"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+إرجاع إصدار الملحق الذي يستخدمه المستخدم.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -112,14 +112,14 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ## `presenceData` Interface
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+ينصح باستخدام واجهة `presenceData` عندما تستخدم طريقة `setActivity()`.
 
-This interface has following variables, all of them are optional.
+هذه الواجهة تحتوي على المتغيرات التالية، جميعها اختيارية.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">متغير</th>
       <th style="text-align:left">الوصف</th>
       <th style="text-align:left">اكتب</th>
     </tr>
@@ -128,52 +128,52 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">التفاصيل</td>
       <td style="text-align:left">السطر الأول في حضورك ، وعادة ما يستخدم كعنوان.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">الحالة</td>
+      <td style="text-align:left">السطر الثاني في البرزنس الخاص بك.</td>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">يحدد الوقت الحالي.<br>
+        يستخدم إذا كنت ترغب في عرض مقدار <code>ساعات:minutes:seconds</code> بقيت.
+          <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
+          عد تنازلي خاطئ.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>عدد</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">يحدد المدة الكاملة.
+        <br>يستخدم إذا كنت ترغب في عرض كم<code>hours:minutes:seconds</code> متبقية.
+          <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
+          عد تنازلي خاطئ.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>عدد</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">يحدد الشعار الخاص بالبرزنس.</td>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
     </tr>
   </tbody>
