@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Ogledovanje kaj je popularno",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Nalaganje nekaj...",
+        "description": ""
+    }
+}

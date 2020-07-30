@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Ogledovanje filmsko knjižnico",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Ogledovanje serijsko knjižnico",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Ogledovanje najnovejše epizode",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Ogledovanje top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Ogledovanje kaj je popularno",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Ogledovanje Anime Torrente",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Ogledovanje Aplikacijske Torrente",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Ogledovanje Dokumentacijske Torrente",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Ogledovanje Igre Torrente",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Ogledovanje Filmske Torrente",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Ogledovanje Glasbe Torrente",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Ogledovanje Druge Torrente",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Ogledovanje TV Torrente",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Ogledovanje XXX Torrente",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Nalaganje nekaj...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Branje pravil",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Pisanje za 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Branje o 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Ogledovanje torrenta:",
+        "description": ""
+    }
+}
