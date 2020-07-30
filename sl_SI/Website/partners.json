@@ -55,6 +55,10 @@
 		"message": "Omenjeni boste na naših družbenih medijah.",
 		"description": "Description for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "Zahteve",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Kaj pa mi iščemo?",
 		"description": "Heading for the first requirement."
@@ -179,6 +183,10 @@
 		"message": "Drugo",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "Ime",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Npr: PreMiD",
 		"description": "Name field's placeholder."
@@ -187,8 +195,44 @@
 		"message": "Link / Povezava",
 		"description": "Link field."
 	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Npr: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Opis: (Največ do 150 črk)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Opis za predstavo",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Slika linka / povezave: (550x300, samo PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Npr: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Zapri",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Prijava",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Hvala vam za prijavo!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Prosimo da, izpolnite vsa polja.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksimalno 150 črk opisa.",
+		"description": "Error when description exceeds character limit."
 	}
 }
