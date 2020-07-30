@@ -111,6 +111,30 @@
 		"message": "SimLiveRadio je najbolj uspešna informativna radio postaja za simulacijske igre v Nemčiji, Avstriji in Švici!",
 		"description": "Description for SimLoveRadio."
 	},
+	"partners.partner.aniWatch": {
+		"message": "Pridobite, kar je vaše. Streamanje Anime-jev, Film-i, Hentai-jev, Speciali in še več. Brezplačno, brez oglasov in v visoki ločljivosti!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Začni zgraditi svojo skupnost z našim odličnih predlogah. Zgradi svoje kraljestvo.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga je Discord Bot, ki ponuja vse funkcije ki jih rabite, vse v eno!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.statusBot": {
+		"message": "Močen bot ki vam omogoča vzdrževanje spletnih straneh, igric, in veliko več funkcij.",
+		"description": "Description for Statusbot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Močen in enostavno uporabljen cross-platform inštalacija orodje za ustvarjanje.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Enostavno komunicirajte v realnem času svoj status svojim uporabnikom.",
+		"description": "Description for StatusPage."
+	},
 	"partners.apply.select.other": {
 		"message": "Drugo",
 		"description": "Select 'Other' category."
