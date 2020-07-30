@@ -56,7 +56,7 @@
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Glavni nadzornik za Razširitve",
+		"message": "Glavni nadzornik za Dodatke",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
@@ -76,7 +76,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
-		"message": "Nadzornik za Razširitve",
+		"message": "Nadzornik za Dodatke",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
