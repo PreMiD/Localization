@@ -35,8 +35,40 @@
         "message": "Ogledovanje njegovih",
         "description": "Part 1 of the next 5 strings"
     },
+    "amazon.orderHistory": {
+        "message": "zgodovina naročil",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "podrobnosti naročila",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "nakupovalni voziček",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "seznam želja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "darilne kartice",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ogledovanje priporočljivo",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ogledovanje njegovih zgodovin",
+        "description": ""
+    },
     "amazon.store": {
         "message": "Ogledovanje trgovine:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ogledovanje Prime Videja:",
         "description": ""
     }
 }
