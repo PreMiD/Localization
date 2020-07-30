@@ -55,6 +55,10 @@
 		"message": "Glavni Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Glavni nadzornik za Razširitve",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
 	"contributors.roles.communityRepresentative": {
 		"message": "Predstavnik Skupnosti",
 		"description": "'Community Representative' title for contributors and user pages."
@@ -70,6 +74,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Podporni Agent",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.presenceVerifier": {
+		"message": "Nadzornik za Razširitve",
+		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Pregled prevodov",
