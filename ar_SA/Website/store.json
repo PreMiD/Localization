@@ -1,6 +1,6 @@
 {
 	"store.message.error": {
-		"message": "الأضافة غير متصل.",
+		"message": "الأضافة غير متصله.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
@@ -8,11 +8,11 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "هذا الpresence مشهور جدا بين المستخدمين.",
+		"message": "هذه الأضافة مشهوره جدا بين المستخدمين.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
-		"message": "وجود الشريك",
+		"message": "شريك في الأضافة",
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
@@ -20,7 +20,7 @@
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
-		"message": "واجهة ديسكورد",
+		"message": "البحث على اضافة",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
@@ -40,11 +40,11 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "تظهر الأكثر استخداما أولا",
+		"message": "أظهار الأكثر استخداما",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "إظهار الNSFW",
+		"message": "إظهار NSFW",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
