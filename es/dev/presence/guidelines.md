@@ -210,7 +210,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 - **Siempre** declare una nueva instancia de la clase `Presence` antes de cualquier otra variable para evitar problemas raros que puedan ocurrir; no es un requisito por diseño para que pueda ser eliminado en el futuro.
 - **Nunca** utilices funciones personalizadas cuando [variantes nativas estén disponibles](https://docs.premid.app/dev/presence#files-explained); esto asegura que las correcciones en el nivel de extensión también se aplican a tus presences. Eres libre de usar lo que sea que necesites, si no los encuentras listados en la documentación.
-- Está **prohibido** escribir presencias para un sitio sin añadir soporte para su idioma de origen (por ejemplo, una presencia de YouTube escrita con soporte solo para Portugués y Japonés, pero no para Ingés.)
+- Está **prohibido** programar presences para un sitio sin añadir soporte para su idioma de origen (p. ej., una presence de YouTube escrita con soporte solo para Portugués y Japonés, pero no para Inglés.)
 - Los campos `smallImageKey` y `smallImageText` están destinados a proporcionar contexto adicional/secundario (como `reproducir/pausado` para sitios de vídeo, `navegando` para sitios normales, y otros casos) no para promover perfiles de Discord ni nada que no esté relacionado con PreMiD.
 - **No** estás autorizado para acceder a `localStorage`.
 - Al acceder a las cookies de los datos almacenados, por favor prefije la clave con `PMD_`.
@@ -229,9 +229,9 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 > 
 > {.is-warning}
 
-En algunas situaciones, las presencias pueden comportarse inesperadamente o podrían realizarse cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que usted **debe** tener en cuenta al modificar presencias.
+En algunas situaciones, las presences pueden comportarse inesperadamente o podrían realizar cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que **debes** tener en cuenta al modificar presences.
 
-- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si la el autor de la Presencia fue baneado del servidor oficial o no ha hecho los cambios requeridos en un periodo de un mes, puedes contactar con un verificador de presencias para ver si puedes reescribir la Presencia.
+- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si el autor de la presence fue baneado del servidor oficial o no ha hecho los cambios requeridos en un periodo de un mes, puedes contactar con un verificador para ver si puedes reescribir la presence.
 - Cualquiera puede proporcionar parches rápidos (hotfixes) para corregir errores; sin embargo, intente **no** hacer cambios en el código que **no** necesitan ser corregidos. Las modificaciones válidas puedes ser, pero **no** están limitadas a _rutas faltantes_, _errores tipográficos_, _imágenes faltantes_, etc.
 - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Póngase en contacto con un verificador para más información sobre este tema.
 - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
