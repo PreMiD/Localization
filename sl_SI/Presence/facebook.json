@@ -22,5 +22,41 @@
     "facebook.userCommunity": {
         "message": "Ogledovanje skupnost od uporabnika:",
         "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Ogledovanje fotografij od uporabnika:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Ogledovanje objavo od uporabnika:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Ogledovanje trgovino od uporabnika:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Ogledovanje prijateljev od uporabnika:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Ogledovanje videja od uporabnika:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Brskanje po:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Shranjenih videoposnetkov",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nedavno dodano",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ogledovanje današnjega vremena",
+        "description": ""
     }
 }
