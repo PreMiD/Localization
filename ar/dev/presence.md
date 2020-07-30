@@ -159,7 +159,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). الآ�
     <tr>
       <td style="text-align:left"><b>أسماء</b>
       </td>
-      <td style="text-align:left">كن قادراً على البحث عن وجود باستخدام اسم بديل. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">كن قادراً على البحث عن وجود باستخدام اسم بديل. <br>يمكن استخدامها للوجود الذي له أسماء مختلفة بلغات مختلفة (على سبيل المثال البوكيو مون و <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>).<br>يمكنك أيضًا استخدامه للوجود الذي يحتوي على أحرف خاصة حتى لا تضطر لكتابة تلك الأحرف (على سبيل المثال بوكيو مون وبوكيمون).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -298,7 +298,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
 
 لقد صنعنا `metadata.json` منشئ ملف للتلبيات الكسولة [هنا](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## ابدء
 
 ```javascript
 var presence = new Presence({
