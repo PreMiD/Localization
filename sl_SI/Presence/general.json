@@ -7,8 +7,16 @@
 		"message": "Brskanje...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Poglavje",
+		"description": ""
+	},
 	"general.dj": {
 		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Urejanje:",
 		"description": ""
 	},
 	"general.episode": {
@@ -19,6 +27,10 @@
 		"message": "Forumi",
 		"description": ""
 	},
+	"general.genre": {
+		"message": "Zvrst",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Jezik",
 		"description": "For choosing a language"
@@ -27,12 +39,20 @@
 		"message": "Poslušanje glasbe",
 		"description": ""
 	},
+	"general.listeners": {
+		"message": "Poslušalci",
+		"description": ""
+	},
 	"general.live": {
 		"message": "V živo",
 		"description": ""
 	},
 	"general.manga": {
 		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Blago",
 		"description": ""
 	},
 	"general.page": {

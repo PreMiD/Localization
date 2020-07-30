@@ -234,5 +234,13 @@
 	"partners.apply.error2": {
 		"message": "Maksimalno 150 črk opisa.",
 		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Prosimo dodajte link / povezavo (se mora začeti z https:// in končati z .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Vi ste se že prijavili za partnerja.",
+		"description": "Error when already applied."
 	}
 }
