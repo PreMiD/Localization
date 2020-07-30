@@ -30,5 +30,17 @@
 	"user.notFound.message1": {
 		"message": "da je uporabniški ID, ki ga iščete, pravilni.",
 		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "da je uporabnik naredil dovolj Razširitev in ima Razvijalec Razširitev vlogo na našem Discord strežniku.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "če drugi imajo enako težavo v našem Discord strežniku.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Če mislite, da je to bila napaka, prosim kontaktirajte nas na [našem Discord strežniku].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
