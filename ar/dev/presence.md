@@ -120,7 +120,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). الآ�
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">متغير</th>
       <th style="text-align:left">الوصف</th>
       <th style="text-align:left">النوع</th>
       <th style="text-align:left">Optional</th>
@@ -151,7 +151,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). الآ�
       <td style="text-align:left"><b>خدمة</b>
       </td>
       <td style="text-align:left">The title of the service that this presence supports. <br>(يجب أن يكون نفس اسم المجلد حيث كل شيء)</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -204,7 +204,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
         يمكنك الحصول على بداية سريعة من خلال مشاهدة هذا <a href="https://youtu.be/sXQxhojSdZM">الفيديو</a><br>
         يمكنك اختبار regExp الخاص بك في <a href="https://regex101.com/">Regex101</a>
       </td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
       </td>
@@ -213,7 +213,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       <td style="text-align:left"><b>الإصدار</b>
       </td>
       <td style="text-align:left">نسخة من حضورك.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -222,7 +222,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       <td style="text-align:left"><b>الشعار</b>
       </td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -231,7 +231,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -241,7 +241,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       </td>
       <td style="text-align:left"><code>#HEX</code> value. نوصي باستخدام لون أساسي من الخدمة
         التي يدعمها وجودك.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -260,7 +260,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها. مشاهدة الأخاديد الصالحة <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">هنا</a>.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -278,7 +278,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
       </td>
