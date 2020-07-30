@@ -58,5 +58,25 @@
 	"jobs.benefit1.description": {
 		"message": "Spoznajte ljudi, ki delajo za PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Pokukaj",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Poglejte v naše Razvijanje in Trženje.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Čast",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Močna Discord dovoljenja in barvita vloga.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Podpiraj PreMiD",
+		"description": "Benefit card title."
 	}
 }
