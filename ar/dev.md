@@ -6,7 +6,7 @@ date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> مطلوب محرر كود المصدر. We recommend Visual Studio Code. 
+> مطلوب محرر كود المصدر. نحن ننصح باستخدام "فيجوال استديو كود". 
 > 
 > {.is-info}
 
@@ -19,7 +19,7 @@ tags:
 1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. ** استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.</p></li>
 2
 اختيار مجلد من اختيارك.
-3 Open it in your code editor.</ol>
+3 افتح علي محرر الكود الخاص بك.</ol>
 
 # تثبيت الإعتمادات
 > تأكد من تثبيت [ npm ](https://www.npmjs.com/) (مدير حزمة العقدة) أولاً. يتم تثبيته تلقائيًا إذا كنت قد قمت بتثبيت [ Node ](https://nodejs.org/en/). 
@@ -29,7 +29,7 @@ tags:
 - افتح محطة في مستودعك واكتب ` npm i `.
 - لتحديث التبعيات ، اكتب ` تحديث npm `.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> كن علي معرفة علي اننا نقوم بتحديث التبعيات التي يمكنها كسر الكثير او لا - يجب تجربتها اولا! 
 > 
 > {.is-danger}
 
