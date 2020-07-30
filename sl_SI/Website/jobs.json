@@ -78,5 +78,33 @@
 	"jobs.benefit4.title": {
 		"message": "Podpiraj PreMiD",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "S tvojim prispevkom je mogoče vzdrževati ta projekt.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Časovna omejitev",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Vzemi si čas, To je prostovoljna služba.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Zgodnji-Dostop",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Testiraj nove funkcije pred vsem drugim.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Hvala vam za prijavo!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Vi ste se že prijavili!",
+		"description": "Notification when you applied already."
 	}
 }
