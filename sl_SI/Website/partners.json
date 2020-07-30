@@ -135,9 +135,57 @@
 		"message": "Enostavno komunicirajte v realnem času svoj status svojim uporabnikom.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Boginja ki igra kot zabaven Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "Agilna lokalizacija za tehnološka podjetja.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Najmočnejši in razširjeni odprto-kodni Wiki program.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Poenotena, razvijalcu prijazen vmesnik za vse vaše artifakte.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Za najboljšimi v spletu.",
+		"description": "Description for Fastly."
+	},
+	"partners.apply.title": {
+		"message": "Vpiši se za partnerja",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Prijavljen(a) kot {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Niste vi?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Prosimo izberite eno",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Spletna stran",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Drugo",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Npr: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Link / Povezava",
+		"description": "Link field."
 	},
 	"partners.apply.success": {
 		"message": "Hvala vam za prijavo!",
