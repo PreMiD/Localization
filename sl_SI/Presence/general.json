@@ -64,7 +64,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "Predvajam",
+		"message": "Predvajanje",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -124,79 +124,103 @@
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Gledanje animeja:",
+		"message": "Ogledovanje animeja:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Gledanje kategorijo:",
+		"message": "Ogledovanje kategorijo:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Gledanje kanal:",
+		"message": "Ogledovanje kanal:",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Gledanje epizodo:",
+		"message": "Ogledovanje epizodo:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Gledanje zvrsti:",
+		"message": "Ogledovanje zvrsti:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Gledanje domačo stran",
+		"message": "Ogledovanje domačo stran",
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Gledanje listov od:",
+		"message": "Ogledovanje listov od:",
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "Gledanje mange:",
+		"message": "Ogledovanje mange:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Gledanje uporabnika:",
+		"message": "Ogledovanje uporabnika:",
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "Gledanje filma:",
+		"message": "Ogledovanje filma:",
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Gledanje seznam predvajanja:",
+		"message": "Ogledovanje seznam predvajanja:",
 		"description": ""
 	},
 	"general.viewProduct": {
-		"message": "Gledanje produkta:",
+		"message": "Ogledovanje produkta:",
 		"description": ""
 	},
 	"general.viewProfile": {
-		"message": "Gledanje profila od:",
+		"message": "Ogledovanje profila od:",
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Gledanje serijo:",
+		"message": "Ogledovanje serijo:",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Gledanje predstave:",
+		"message": "Ogledovanje predstave:",
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Gledanje njegovega računa",
+		"message": "Ogledovanje njegovega računa",
 		"description": ""
 	},
 	"general.viewThread": {
-		"message": "Gledanje objave:",
+		"message": "Ogledovanje objave:",
 		"description": ""
 	},
 	"general.viewUser": {
-		"message": "Gledanje uporabnika:",
+		"message": "Ogledovanje uporabnika:",
 		"description": ""
 	},
 	"general.viewing": {
+		"message": "Ogledovanje:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Gledanje videoposnetek",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Gledanje prenos v živo",
+		"description": ""
+	},
+	"general.watching": {
 		"message": "Gledanje:",
 		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Seznam želja:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Pravilnik o zasebnosti",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Pogoji uporabe",
+		"description": "A page name"
 	}
 }
