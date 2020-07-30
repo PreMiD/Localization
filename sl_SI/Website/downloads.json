@@ -107,6 +107,10 @@
     "message": "Nazaj",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "Prekliči",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "V redu",
     "description": "Button on the modal of Opera/Edge browsers."
@@ -122,5 +126,45 @@
   "downloads.adsbox.thankyou.title": {
     "message": "Hvala vam!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Mi uporabljamo oglase, da podpiramo našo ekipo in vzdržujemo naše strežnike, da vam prinašajo najboljše uporabniške izkušnje!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Prosim onemogočite vaš adblock.",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Nočem podpirati.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Ste prepričani?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Res?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-prosim podpirajte nas :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Rabimo te :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "V redu, V redu...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Pokaži beta prenose",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(ni potrebe če ste tukaj samo za prenesitev normalne aplikacije)",
+    "description": "Small text under the show beta title."
   }
 }
