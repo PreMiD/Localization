@@ -301,8 +301,8 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
     <tr>
       <td style="text-align:left"><b>ajustes</b>
       </td>
-      <td style="text-align:left">Un array con configuraciones del usuario puede cambiar.<br>
-      Lee más acerca configuración de presencias <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aquí</a>.</td>
+      <td style="text-align:left">Unas configuraciones que el usuario puede cambiar.<br>
+      Lea más sobre configuración de presences <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aquí</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
