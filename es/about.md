@@ -15,4 +15,4 @@ PreMiD es una utilidad simple y configurable que te permite mostrar lo que está
 
 # Características principales
 - Muestra tu servicio web actual en Discord como tu estado.
-- Otorga el control total de Presencias.
+- Otorga el control total de Presences.
