@@ -3,6 +3,62 @@
 		"message": "Partnerji",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Pridruži se familiji in pridobi partnerske koristi, da se lahko pokažeš drugim koliko swag si.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Te že pripadajo k nam",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Kaj pa če greš v nebesa namesto pekla?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Tvoj zastonj Dodatek",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Naša ekipa bo zagotovila dodatek po vaših pravilih.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Postani preverjen",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Dobili boste posebno vlogo in čast na našem Discord strežniku.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-oznak integracija",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Samodejno izbere tvoj Dodatek ko nekdo je na vaši spletni strani.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Postanite ovekovečeni",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Posebno mesto na naši spletni strani.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Postani slaven",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Omenjeni boste na naših družbenih medijah.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "Kaj pa mi iščemo?",
+		"description": "Heading for the first requirement."
+	},
 	"partners.apply.select.other": {
 		"message": "Drugo",
 		"description": "Select 'Other' category."
