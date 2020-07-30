@@ -1,6 +1,6 @@
 ---
 title: Indicaciones
-description: Reglas que todos los desarrolladores de Presencias deben seguir para que su Presencia sea añadida.
+description: Reglas que todos los desarrolladores de presences deben seguir para que su presence sea añadida.
 published: verdadero
 date: 2020-07-21T22:22:06.316Z
 tags:
@@ -15,14 +15,14 @@ Cuando publiques Presences en GitHub, debes seguir un conjunto de reglas. Para a
 
 Las reglas generales del desarrollo de una Presencia son las siguientes:
 
-- Las Presencias **deben** estar relacionadas con el sitio web que has elegido.
-- Las Presencias **no pueden** ser para sitios ilegales. (Por ejemplo: Stressors, marketing de drogas, pornografía infantil, etc.)
+- Las Presences **deben** estar relacionadas con el sitio web que has elegido.
+- Las Presences **no pueden** ser para sitios ilegales. (Por ejemplo: Stressors, marketing de drogas, pornografía infantil, etc.)
 - La estructura de los archivos debe ser limpia y gestionada, no incluyas archivos que no estén especificados. (Por ejemplo: Vscode y capetas git, imágenes y archivos de texto, etc.)
 - Necesitas tener una estructura de archivo adecuada, los borradores **no** están permitidos.
-- Presencias para sitios web con (`.onion ` TLDs) o sitios web con dominios gratuitos/ hosts gratuitos (por ejemplo, `.TK ` [todos los dominios Freenom gratuitos], `.RF </ 0>, <code> GD `, etc.) ** no ** están permitidos, se pueden hacer excepciones si se presenta una prueba que demuestre que pagaron por el dominio.
+- Presences para sitios web con (`.onion ` TLDs) o sitios web con dominios gratuitos/ hosts gratuitos (por ejemplo, `.TK ` [todos los dominios Freenom gratuitos], `.RF `, `GD`, etc.) ** no ** están permitidos, se pueden hacer excepciones si se presenta una prueba que demuestre que pagaron por el dominio.
 - La presencia de páginas de navegador internas de destino (como Chrome Web Store, `chrome://`, páginas `about:`, etc.) **no** están permitidas ya que requieren que se habilite un indicador experimental en el extremo del usuario y podría causar daños a sus navegadores.
-- Las presencias con soporte para un solo subdominio **no** se permitirán, ya que pueden parecer rotas para otras páginas (como la página de inicio), se pueden hacer excepciones para la política y las paginas de contacto (contenido que no se usa con frecuencia) o sitios donde el otro contenido no este relacionado. (por ejemplo, paginas de wikia)
-- Las presencias de baja calidad (o las que tienen poco contexto) ** no ** están permitidas (por ejemplo, mostrar solo un logotipo y texto pero nunca volver a cambiarlo)
+- Las Presences con soporte para un solo subdominio **no** se permitirán, ya que pueden parecer rotas para otras páginas (como la página de inicio), se pueden hacer excepciones para la política y las paginas de contacto (contenido que no se usa con frecuencia) o sitios donde el otro contenido no este relacionado. (por ejemplo, paginas de wikia)
+- Las presences de baja calidad (o las que tienen poco contexto) ** no ** están permitidas (p. ej., mostrar solo un logotipo y texto pero nunca volver a cambiarlo)
 - Incluyendo la carpeta `dist`, los archivos `presence.ts`, `iframe.ts` y `metadata.json` son obligatorios para que el resultado sea lo que se representa en el siguiente esquema:
 
 ```bash
@@ -49,7 +49,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Para la conveniencia de nuestros desarrolladores de presencias, hemos proporcionado un esquema que puedes usar para validar la integridad de tu archivo `metadata`. Esto es completamente opcional y no es requerido durante el proceso de revisión. 
+> Para la conveniencia de nuestros desarrolladores de presences, hemos proporcionado un esquema que puedes usar para validar la integridad de tu archivo `metadata`. Esto es completamente opcional y no es requerido durante el proceso de revisión. 
 > 
 > {.is-info}
 
@@ -57,7 +57,7 @@ presence
 > 
 > {.is-warning}
 
-> Presencias de sitios web que tienen contenido explícito **deben** tener la etiqueta `nsfw` y el logo y etiqueta **no** deben contener contenido explícito. 
+> Presences de sitios web que tienen contenido explícito **deben** tener la etiqueta `nsfw` y el logo y etiqueta **no** deben contener contenido explícito. 
 > 
 > {.is-warning}
 
@@ -181,7 +181,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`etiquetas`**
 
-- **Todas** las presencias requieren por lo menos _una_ etiqueta.
+- **Todas** las presences requieren por lo menos _una_ etiqueta.
 - Las etiquetas **no** deben tener espacios, slashes, comillas simples o dobles, caracteres Unicode y siempre deberían ser en minúscula.
 - Las etiquetas **deberían** incluir preferiblemente nombres de servicio alternativos para hacer su búsqueda mas fácil ( por ejemplo, si una presencia Amazon hubiese incluido soporte para AWS, debería tener sus etiquetas como `amazon-web-services` y `aws`)
 - Estás **obligado** a añadir una etiqueta `NSFW` si la presencia es para un sitio web NSFW.
