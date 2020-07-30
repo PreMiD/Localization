@@ -1,1 +1,18 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Branje tweet-a:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Ogledovanje tweet-a od:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Ogledovanje tweet-a (z odgovori) od:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Ogledovanje medijev od:",
+        "description": ""
+    }
+}
