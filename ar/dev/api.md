@@ -17,18 +17,18 @@ tags:
 > 
 > {.is-danger}
 
-يعرض PreMiD عدة نسخ و اصدارات من ال API الخاصة بنا. يمكنك تحديد الاصدار عبر ادخالها في مسار الطلب مثل " `https://api.premid.app/v{version_number}`.". Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+يعرض PreMiD عدة نسخ و اصدارات من ال API الخاصة بنا. يمكنك تحديد الاصدار عبر ادخالها في مسار الطلب مثل " `https://api.premid.app/v{version_number}`.". سيؤدي إهمال رقم الإصدار من المسار إلى توجيه الطلبات إلى الإصدار الافتراضي الحالي (المحدد أدناه وفقا لذلك).
 
-## Encryption
+## التشفير
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+جميع خدمات وبروتوكولات طبقة HTTP (على سبيل المثال http) داخل واجهة برمجة التطبيقات بريميد تستخدم TLS 1.2.
 
 # الوثائق
-> Currently under construction! 
+> قيد التشييد حاليا! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
+**اختر نسخة API:**
 - [v2 *active*](/dev/api/v2)
 - [v3 *work in progress*](/dev/api/v3)
 {.links-list}
