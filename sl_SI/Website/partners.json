@@ -59,6 +59,42 @@
 		"message": "Kaj pa mi iščemo?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Pazimo na naraščajoče skupnosti in zanimive stvari po internetu. TL; DR, morali bi že uporabljati PreMiD in ga razširiti do več internetnih čudakov. Sprejem v program je izredno kvaliteten in bo od kandidata do kandidata drugačen.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Naš požarni zid",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Mi za zdaj sprejemamo različne spretnosti na naš partnerski program. Vsak ima priložnost biti opažen. Twitch streamerji morajo imeti vsaj 500 sledilcev in vsaj 10 non-stop gledalcev in morajo streamati vsaj enkrat na teden.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Prijavi se zdaj!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Gremo skupaj v nebesa!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Če ste raje zainteresirani na direktno službo pri PreMiD, potem pridite pogledati na naše **službene oglase**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzorji",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD ne bi bil mogočen, brez teh odličnih ljudeh.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Tako gledaš anime.",
+		"description": "Description for AniFlix."
+	},
 	"partners.apply.select.other": {
 		"message": "Drugo",
 		"description": "Select 'Other' category."
