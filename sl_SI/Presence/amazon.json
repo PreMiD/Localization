@@ -1,4 +1,40 @@
 {
+    "amazon.subscriptions": {
+        "message": "Ogledovanje naročnin",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Ogledovanje njegovih oglaševalskih nastavitvih",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Ogledovanje njegovega stanja",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ogledovanje način plačila",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Ogledovanje njegovih naslovov",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Ogledovanje njegovih hišnih žival",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Ogledovanje vseh kategorijah",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Ogledovanje Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Ogledovanje njegovih",
+        "description": "Part 1 of the next 5 strings"
+    },
     "amazon.store": {
         "message": "Ogledovanje trgovine:",
         "description": ""
