@@ -1,1 +1,26 @@
-{}
+{
+    "facebook.call": {
+        "message": "V klicu s:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "V video klicu s:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "nekdo... (Uporabnik skrit)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Sestavljajo sporočilo",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Branje o uporabniku:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Ogledovanje skupnost od uporabnika:",
+        "description": ""
+    }
+}
