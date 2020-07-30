@@ -22,5 +22,41 @@
 	"jobs.modal.error": {
 		"message": "Prosimo da, izpolnite vsa polja",
 		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD je odprto-kodni projekt, ki pomeni da smo ne-profitna ekipa, vsaka donacija ali patreon denar gre v razvijanje produkta. Če se mislite prijaviti za pozicijo k PreMiD-u, vi priznate da pridete v ekipo prostovoljno, kar pomeni, da ne boste bili plačani za vaše delo.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Pridružite se našemu Discord-u",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Če se mislite prijaviti za službo, se morate pridružiti našemu Discord strežniku. Drugače vas ne moremo kontaktirati če vas izberemo!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Delaj za PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Ste pripravljeni pomagati največjem Rich-Presence programu?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Odprta Delovna Mesta",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Velike Koristi",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Spoznajte nas",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Spoznajte ljudi, ki delajo za PreMiD.",
+		"description": "Benefit card description."
 	}
 }
