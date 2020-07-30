@@ -79,9 +79,45 @@
     "message": "Oh ne, zgleda da nimate dostopa do alpha/beta verzije :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.error.noaccess.description": {
+    "message": "Lahko se pridružiš beta programu **tukaj** zastonj. Pohiti! Imamo še samo {0} slotov na voljo",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Zgodnje Izdaje",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Opozorilo",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Ne pozabite vklopiti 'dovoli razširitvam od drugih trgovin' opcijo v razširitvene nastavitve.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Rabite namestiti **to** razširitev, da lahko namestite PreMiD iz Chrome Spletne Trgovine.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Preskoči",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Nazaj",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "V redu",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.done": {
     "message": "Narejeno",
     "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "Vpis",
+    "description": "Login button on the downloads page."
   },
   "downloads.adsbox.thankyou.title": {
     "message": "Hvala vam!",
