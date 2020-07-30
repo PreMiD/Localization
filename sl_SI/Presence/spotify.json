@@ -1,1 +1,26 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Glavne pesmi",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Najboljši podcasti",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Ogledovanje grafikonov",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Brskanje po zvrsteh",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Ogledovanje najnovejše izdaje",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Odkrivanje novih pesmi",
+		"description": ""
+	}
+}
