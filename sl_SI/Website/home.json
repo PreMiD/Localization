@@ -1,4 +1,12 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** je preprost, nastavljiv pripomoček, ki ostalim pokaže kaj delate na spletu v programu Discord.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funkcije",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Prenosi",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -10,6 +18,10 @@
 	"home.examples.timestamp": {
 		"message": "{0} Preostali čas",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} preteklo",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
 		"message": "Predvajanje",
@@ -26,6 +38,22 @@
 	"home.features.presencesystem.heading": {
 		"message": "Poišči **svoj** dodatek",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Mi smo razvili našo razširitev tako, da lahko dodajate in uporabljate dodatke narejene od drugih uporabnikov in jih lahko upravljate v naši razširitvi!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Obišči trgovino",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Preprosti UI (Uporabniški Vmesnik)",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Ste naveličani od zapletenih uporabniških vmesnikih? Zato smo ustvarili svoj Uporabniški Vmesnik, ki deluje preprosto in uporabno z pomembnih lastnostih, kot so:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Aplikacijske in Razširitvene nastavitve",
