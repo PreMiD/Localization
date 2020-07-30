@@ -3,6 +3,10 @@
         "message": "Ogledovanje kaj je popularno",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "Brskanje po",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.upload": {
         "message": "Nalaganje nekaj...",
         "description": ""
