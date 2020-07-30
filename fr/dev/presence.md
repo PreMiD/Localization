@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: vrai
-date: 2020-07-29T17:33:59.440Z
+date: 2020-07-22T17:33:59.315Z
 tags:
 editor: markdown
 ---
@@ -182,10 +182,10 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
       <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk. om</code><br>
         <b>Cette URL doit correspondre à l'URL du site car elle détectera si oui ou non c'est le site Web auquel il faut injecter le script.</b><br> Ne pas <b>NON</b> ajoutez <code>https://</code> ou <code>http://</code> à l'intérieur de l'URL ni un slash à la fin :
 <code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Certaines URLs peuvent avoir <code>www.</code> ou quelque chose d'autre devant leur domaine. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
+<b>Note</b>: Certaines URLs peuvent avoir <code>www.</code> ou quelque chose d'autre devant leur domaine. N'oubliez <b>PAS</b> de l'ajouter !<br>
+Vous pouvez ajouter plusieurs URL de la manière suivante :<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+Vous pouvez aussi utiliser regExp aussi connu sous le nom de Regex pour cette tâche, expliquée plus loin.
       </td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code>
       </td>
