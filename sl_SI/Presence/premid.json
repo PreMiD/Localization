@@ -11,6 +11,14 @@
         "message": "Trgovina",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Pravilnik o zasebnosti",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Pogoji uporabe",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wikipedija",
         "description": "A page name"
