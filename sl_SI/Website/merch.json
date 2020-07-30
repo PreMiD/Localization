@@ -1,1 +1,18 @@
-{}
+{
+	"merch.title": {
+		"message": "Dobrodošli k uradni **PreMiD** Blagovski trgovini!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Poišči svoj **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Izberite svojo številko / črko**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Dodaj v košarico",
+		"description": "Add product to cart"
+	}
+}
