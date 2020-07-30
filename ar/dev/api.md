@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: الوصول الي الموارد و تنفيذ الاجرائات باستخدام "PreMiD API"
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
@@ -12,12 +12,12 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+## نسخ و اصدارات ال API
+> لقد توقف انتاج API v1, اي طلب يجب توجيهه الي نسخة ال API الحالية 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+يعرض PreMiD عدة نسخ و اصدارات من ال API الخاصة بنا. يمكنك تحديد الاصدار عبر ادخالها في مسار الطلب مثل " `https://api.premid.app/v{version_number}`.". Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
 ## Encryption
 
