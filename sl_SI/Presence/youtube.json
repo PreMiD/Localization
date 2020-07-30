@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Ogledovanje kaj je popularno",
+        "message": "Ogledovanje kar je popularno",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -96,11 +96,27 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Ogledovanje njegovih",
+        "message": "Ogledovanje njihovih",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "kanalska analitika",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanalski komentarji",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanalski prevodi",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "umetniško stran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Ogledovanje njihovih nadzornih plošč",
+        "description": ""
     }
 }
