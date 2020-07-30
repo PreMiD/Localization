@@ -23,6 +23,10 @@
         "message": "Branje o kanalu:",
         "description": ""
     },
+    "youtube.searchChannel": {
+        "message": "Iskanje po kanalu: {0} za:",
+        "description": "{0} will be replaced with the channel name"
+    },
     "youtube.trending": {
         "message": "Ogledovanje kaj je popularno",
         "description": ""
@@ -31,12 +35,72 @@
         "message": "Brskanje po",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "njihovih naročnin",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "njihovi knjižnici",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "njihovi zgodovini",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "njihovih nakupih",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Ogledovanje njihovih zgodovin prijav",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "Nalaganje nekaj...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Ogledovanje vseh njihovih seznamov predvajanja",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Ogledovanje njihovih dogodkov v živo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Ogledovanje njihovih nadzornih plošč",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Ogledovanje zvočne knjižnice",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Ogledovanje njihovih videoposnetkov",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Urejanje videoposnetek:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Ogledovanje analitike od videa:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Ogledovanje komentarjev od videoposnetka:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Ogledovanje prevodov od videa:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
         "message": "Ogledovanje njegovih",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanalska analitika",
+        "description": "Part two of \"Viewing their\""
     }
 }
