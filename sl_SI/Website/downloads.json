@@ -1,10 +1,22 @@
 {
+  "downloads.header.title": {
+    "message": "Čas je, da se pokažeš.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Začnite uporabljati PreMiD zdaj in pokažite ljudem kaj delate, mogoče boste tudi našli nekoga z enakimi interesi.",
+    "description": "Subtitle for header"
+  },
   "downloads.instructions.heading": {
     "message": "Začnite uporabljati",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
     "message": "Prenesi PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Namesti našo aplikacijo",
     "description": "Heading for installing the application"
   },
   "downloads.appdownloading.header": {
