@@ -15,9 +15,17 @@
 		"message": "Avtor",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Predstavnik Skupnosti",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.juniorModerator": {
+		"message": "Manjši Moderator",
+		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
 		"message": "Podporni Agent",
