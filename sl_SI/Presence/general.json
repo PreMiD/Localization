@@ -67,16 +67,136 @@
 		"message": "Predvajam",
 		"description": ""
 	},
+	"general.readingDM": {
+		"message": "Branje DM-ih od:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Branje o:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Branje artikla:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Branje v kanalu:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Branje objave:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Branje objave:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Branje",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Iskanje za:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Iskanje nečesa...",
 		"description": ""
 	},
 	"general.search": {
 		"message": "Iskanje",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "Nakupovalni voziček",
+		"description": ""
+	},
 	"general.store": {
 		"message": "Trgovina",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Tipkanje v DM-ih za:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Tipkanje v kanalu:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Gledanje animeja:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Gledanje kategorijo:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Gledanje kanal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Gledanje epizodo:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Gledanje zvrsti:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Gledanje domačo stran",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Gledanje listov od:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Gledanje mange:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Gledanje uporabnika:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Gledanje filma:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Gledanje seznam predvajanja:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Gledanje produkta:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Gledanje profila od:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Gledanje serijo:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Gledanje predstave:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Gledanje njegovega računa",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Gledanje objave:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Gledanje uporabnika:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Gledanje:",
 		"description": ""
 	}
 }
