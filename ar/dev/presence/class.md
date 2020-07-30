@@ -165,7 +165,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">يحدد الرمز الصغير بجوار شعارال presence&apos;s.</td>
       <td style="text-align:left"><code>سلسلة</code>
       </td>
     </tr>
