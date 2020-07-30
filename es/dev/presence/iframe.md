@@ -17,7 +17,7 @@ En algunos argumentos, tu presencia puede necesitar acceder a elementos dentro d
 
 El código que escribes dentro de tu archivo `iframe.ts` se inyecta en cada iframe de la página.
 
-Al igual que las presencias, `iframes` tienen sus propias clases diseñadas para actualizar automáticamente los datos.
+Al igual que las presences, `iframes` tienen sus propias clases diseñadas para actualizar automáticamente los datos.
 
 ```typescript
 let iframe = new iFrame();
