@@ -33,31 +33,31 @@ editor: markdown
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+يرجع `presenceData`كائن لما يعرضه البرزنس.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+يعين نشاط ملفك الشخصي وفقا للبيانات المقدمة.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+يتطلب المعلمة الأولى واجهة `presenceData` للحصول على جميع المعلومات التي تريد عرضها في ملفك الشخصي.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+المعلمة الثانية تحدد متي يكون البرزنس يلعب شيئاً أو لا. استخدم دائماً `true` إذا كنت تقدم علامات زمنية في `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+يقوم بمسح النشاط الحالي الخاص بك، وربط المفاتيح وعنوان العلامة.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> تعمل هذه الطريقة فقط على نظام تشغيل Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+يعين عنوان العلامة على المينوبار.
 
-### `getStrings(Object)`
+### `getStrings(كائن)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+طريقة غير غريبة تسمح لك بالحصول على المقاطع المترجمة من الإضافة. يجب عليك توفير `Object` مع المفاتيح التي تكون مفتاح السلسلة،عندما`keyValue` هي قيمة السلسلة. يمكن العثور على مجموعة من المقاطع المترجمة باستخدام هذه النقطة النهائية: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings

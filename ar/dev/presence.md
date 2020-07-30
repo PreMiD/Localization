@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: تطوير البرزنس
 description:
 published: true
 date: 2020-07-29T17:33:59.440Z
@@ -7,21 +7,21 @@ tags:
 editor: markdown
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> كل البرزنس الان تخزن هنا: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). الآن لدى المستخدمين القدرة على إضافة وحذف البرزنس المفضل لهم يدوياً من خلال واجهة المستخدم للموقع [](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> قبل البدء، يوصى بشدة بأن تنظروا إلى المبادئ التوجيهية للبرزنس الخاص بنا. 
 > 
 > {.is-warning}
 
 - [الإرشادات](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# الهيكل
+كل البرزنس مبرمجة علي [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) لديه بعض التعاريف الإضافية الساخنة علي تايب جافا سكريبت، لذلك فإن إصلاح وتحديد الأخطاء أسهل بكثير.
 
 ## تثبيت
 1. قم بتثبيت [ Git ](https://git-scm.com/).
@@ -29,19 +29,19 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. قم بتثبيت [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (افتح محطة و ` npm install -g typescript `).
 
 ## استنساخ المشروع
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. قم بفتح التيرمنال و اكتب `git clone https://github.com/PreMiD/Presences`.
 2. اختيار مجلد من اختيارك.
 3. فتحه في محرر لك رمز.
 
-## Creating folders and files
+## إنشاء المجلدات والملفات
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. إنشاء مجلد باسم **** (ليس عنوان URL) للخدمة التي تريد دعمها.
+2. قم بإنشاء ملف `presence.ts` و `tsconfig.json` داخله.
+3. إنشاء مجلد اسمه `dist` في الداخل.
+4. إنشاء ملف `metadata.json` داخل مجلد `dist`.
 
 ## ملء ملف tsconfig.json
-Please put the following code inside of the `tsconfig.json` file.
+الرجاء وضع التعليمات البرمجية التالية داخل ملف `tsconfig.json`.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -50,60 +50,60 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+لمعرفة المزيد حول تكوين TypeScript انقر [هنا](/dev/presence/tsconfig).
 
 ## ملء ملف metadata.json
 لقد صنعنا `metadata.json` منشئ ملف للتلبيات الكسولة [هنا](https://eggsy.codes/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.0",
-  "author": {
-    "name": "USER",
+  "$schema": "https://schemas.premid.app/metadata/1. ",
+  "الكاتب": {
+    "الاسم": "المستخدم",
     "id": "ID"
-  },
-  "contributors": [{
-    "name": "USER",
+  }،
+  "المساهمون": [{
+    "الاسم": "المستخدم"،
     "id": "ID"
-  }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
-  "description": {
-    "en": "DESCRIPTION"
-  },
-  "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
+  }]،
+  "الخدمة": "الخدمة"،
+  "الأسماء": ["سيرفيسي"]،
+  "وصف": {
+    "en": "الوصف"
+  }،
+  "url": "URL"،
+  "الإصدار": "VERSION"،
+  الشعار : "URL"،
+  "thumbnail": "URL"،
+  "color": "#HEX000"،
+  "العلامات": ["TAG1"، "TAG2"]،
+  "الفئة": "CATEGORY"،
+  "regExp": "REGEXP"،
+  "iFrameRegExp": "REGEXP"، و
   "iframe": false,
-  "settings": [
+  "الإعدادات": [
         { 
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": true
-        },
+            "id": "ID"،
+            "العنوان: "تلميح"،
+            "أيقونة": "إسم مجاني"،
+            "القيمة": true
+        }،
         {
-            "id": "ID",
+            "المعرفة": "ID"،
             "if": {
                 "ID": true
-            },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
-        },
+            }،
+            “title”: “DISPlayY TITLE”،
+            "أيقونة": "إسم مجاني"،
+            "قيمة": "\"%song%\" بواسطة %artist%",
+            ”العنصر النائب“: ”استخدم %song% أو %artist%“
+        }،
         {
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0,
-            "values": ["1", "2", "etc."]
+            "المعرفة": "ID"،
+            “title”: “DISPLAY TITLE”،
+            "أيقونة": "إسم مجاني"،
+            "قيمة": 0،
+            "القيم": ["1"، "2"، "إلخ. ]
         }
     ]
 }
@@ -405,12 +405,12 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
 ## Debugging
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- يمكنك وضع `console.log("اختبار")؛` بين التعليمات البرمجية الخاصة بك ومعرفة ما إذا كانت وحدة تحكم المتصفح الخاصة بك تعطيك المخرجات. إذا كان الجواب نعم، ثم حاول مرة أخرى بعد الدالة القادمة. إذا لم يكن فهناك خطأ أعلاه.
+- إذا كان ذلك لا يساعدك إمّا ان تسأل مطورالبرزنس على [خادم ديسكورد](https://discord.gg/WvfVZ8T) للحصول على المساعدة.
 
-# Files explained
+# الملفات الموضحة
 - [فئة الحضور](/dev/presence/class)
 - [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [ملف بيانات التعريف](/dev/presence/metadata)
 - [إعدادات TypeScript](/dev/presence/tsconfig)
 {.links-list}
