@@ -1,5 +1,5 @@
 ---
-title: Desarrollo de Presencias
+title: Desarrollo de Presences
 description:
 published: true
 date: 2020-07-29T17:33:59.440Z
@@ -7,13 +7,13 @@ tags:
 editor: markdown
 ---
 
-> Todas las presencias ahora se almacenan aquí: https://github.com/PreMiD/Presences 
+> Todas las presences ahora se almacenan aquí: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-La versión `2.x` introduce la [tienda de presencias](https://premid.app/store). Los usuarios ahora tienen la capacidad de añadir y eliminar manualmente sus presencias favoritas a través de la interfaz de usuario del [sitio web](https://premid.app/).
+La versión `2.x` introduce la [tienda de presences](https://premid.app/store). Los usuarios ahora tienen la capacidad de añadir y eliminar manualmente sus presences favoritas a través de la interfaz de usuario del [sitio web](https://premid.app/).
 
-> Antes de empezar es muy recomendable que mires nuestras pautas para presencias. 
+> Antes de empezar es muy recomendable que mires nuestras pautas para presences. 
 > 
 > {.is-warning}
 
@@ -174,7 +174,7 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
     <tr>
       <td style="text-align:left"><b>nombres alternativos</b>
       </td>
-      <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Es para ser utilizado para presencias que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presencias con caracteres especiales para que no tengas que escribirlos (por ejemplo, Pokémon y Pokemon).
+      <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Destinado a ser utilizado para presences que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (p. ej., Pokémon y Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -379,7 +379,7 @@ presence.on("UpdateData", async () =&gt; {
 </p>
 
 <p spaces-before="0">
-  Para ejemplos sugerimos mirar el código de presencias como: 1337x o 9GAG.
+  Para ejemplos sugerimos mirar el código de presences como: 1337x o 9GAG.
 </p>
 
 <p spaces-before="0">
@@ -478,7 +478,7 @@ iframe.on("UpdateData", async () =&gt; {
   </li>
   
   <li>
-    <strong x-id="1">Cargar presencia</strong> aparecerá en la sección presencias.
+    <strong x-id="1">Cargar Presence</strong> aparecerá en la sección Presences.
   </li>
   
   <li>
