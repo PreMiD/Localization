@@ -9,7 +9,7 @@ editor: markdown
 
 # Indicaciones
 
-Cuando publiques presencias en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, estas reglas nos evitarán encontrarnos a nosotros y a los usuarios con algún tipo de problema.
+Cuando publiques Presences en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, estas reglas nos evitarán encontrarnos a nosotros y a los usuarios con algún tipo de problema.
 
 # Creación
 
@@ -209,7 +209,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `presence.ts`:
 
 - **Siempre** declare una nueva instancia de la clase `Presence` antes de cualquier otra variable para evitar problemas raros que puedan ocurrir; no es un requisito por diseño para que pueda ser eliminado en el futuro.
-- **Nunca** utilice funciones personalizadas cuando [variantes nativas estén disponibles](https://docs.premid.app/dev/presence#files-explained); esto asegura que las correcciones en el nivel de extensión también se aplican a sus presencias. Eres libre de usar lo que sea que necesites, si no los encuentras listados en la documentación.
+- **Nunca** utilices funciones personalizadas cuando [variantes nativas estén disponibles](https://docs.premid.app/dev/presence#files-explained); esto asegura que las correcciones en el nivel de extensión también se aplican a tus presences. Eres libre de usar lo que sea que necesites, si no los encuentras listados en la documentación.
 - Está **prohibido** escribir presencias para un sitio sin añadir soporte para su idioma de origen (por ejemplo, una presencia de YouTube escrita con soporte solo para Portugués y Japonés, pero no para Ingés.)
 - Los campos `smallImageKey` y `smallImageText` están destinados a proporcionar contexto adicional/secundario (como `reproducir/pausado` para sitios de vídeo, `navegando` para sitios normales, y otros casos) no para promover perfiles de Discord ni nada que no esté relacionado con PreMiD.
 - **No** estás autorizado para acceder a `localStorage`.
