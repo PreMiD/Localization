@@ -111,7 +111,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>nombres alternativos</b>
       </td>
-      <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Es para ser utilizado para presencias que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presencias con caracteres especiales para que no tengas que escribirlos (por ejemplo, Pokémon y Pokemon).
+      <td style="text-align:left">Ser capaz de buscar la presencia usando un nombre alternativo. <br>Destinado a ser utilizado para presences que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (p. ej., Pokémon y Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
