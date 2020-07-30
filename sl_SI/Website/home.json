@@ -35,8 +35,24 @@
 		"message": "Upravljanje z dodatki",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Razvrsti po kategorijah",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Hitra pomoč",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Ali imate napake in vam nekaj ne dela? Mi vam bomo pomagali odstraniti te napake na našem Discord strežniku, mi smo tudi ustvarili našo podporno ekipo, ki vam bo odstranila napake takoj, ko bo možno.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Pridružite se našemu Discord-u",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Jezik spletne strani",
+		"description": "Tippy content of the language selector."
 	}
 }
