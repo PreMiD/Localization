@@ -2,7 +2,7 @@
 title: Desarrollo de Presences
 description:
 published: true
-date: 2020-07-29T17:33:59.440Z
+date: 2020-08-01T16:39:30.898Z
 tags:
 editor: markdown
 ---
@@ -323,33 +323,33 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
 </h2>
 
 <pre><code class="javascript">var presence = new Presence({
-    clientId: "000000000000000000" //La ID del cliente de la aplicación creada en https://discord.com/developers/applications
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //Puedes usar esto para obtener strings traducidas
+    //You can use this to get translated strings
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Agarra y procesa toda la información aquí
+    //Grab and process all your data here
 
-    // agarra objetos //
-    // llamados a la API //
-    // definición de variables //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Ejecuta la función separada del evento cada 10 segundos para obtener y establecer variables que UpdateData agarró
+setInterval(myOutsideHeavyLiftingFunction, 10000); 
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
 presence.on("UpdateData", async () =&gt; {
-    /*UpdateData está siempre ejecutándose, y debería ser usado como tu ciclo de refresco o `tick`. Esto se llama varias veces por segundo cuando es posible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Esto se llama varias veces por segundo cuando es posible.
 
     Es recomendado establecer una función afuera de la función del evento la cual cambiará los valores de las variables y harán las cosas más fáciles si estás obteniendo información de una API.*/
 

@@ -2,7 +2,7 @@
 title: Präsenz-Entwickler
 description:
 published: true
-date: 2020-07-29T17:33:59.440Z
+date: 2020-08-01T16:39:30.898Z
 tags:
 editor: markdown
 ---
@@ -321,8 +321,8 @@ function myOutsideHeavyLiftingFunction(){
     // variable sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(myOutsideHeavyLiftingFunction, 10000); 
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
