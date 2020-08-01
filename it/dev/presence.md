@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-07-29T17:33:59.440Z
+date: 2020-08-01T16:39:30.898Z
 tags:
 editor: markdown
 ---
@@ -302,33 +302,33 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000" //L'ID del client dell'Applicazione creata su https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //È possibile utilizzare questo per ottenere stringhe tradotte
+    //You can use this to get translated strings
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Prendi ed elabora tutti i tuoi dati qui
+    //Grab and process all your data here
 
-    // richiami ad elementi //
-    // chiamate di API //
-    // set di variabili //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Esegui la funzione separata dall'evento UpdateData ogni 10 secondi per ottenere e impostare le variabili che UpdateData raccoglie
+setInterval(myOutsideHeavyLiftingFunction, 10000); 
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-presenza. n("UpdateData", async () => {
-    /*UpdateData è sempre attiva, e quindi dovrebbe essere usata come ciclo di aggiornamento, o `tick`. Questo è chiamato più volte al secondo dove possibile.
+presence.on("UpdateData", async () => {
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Questo è chiamato più volte al secondo dove possibile.
 
     Si consiglia di impostare un'altra funzione al di fuori di questa funzione evento che cambierà i valori variabili e farà il sollevamento pesante se si chiamano i dati da un'API.*/
 
