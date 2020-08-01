@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-07-29T17:33:59.440Z
+date: 2020-08-01T16:39:30.898Z
 tags:
 editor: markdown
 ---
@@ -296,33 +296,33 @@ Kami telah membuat pembuat file `metadata.json` bagi mereka yang malas [disini](
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000" //Client ID dari Aplikasi yang dibuat di https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //Gunakan ini untuk mendapat terjemahan string
+    //You can use this to get translated strings
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Ambil dan olah data anda disini
+    //Grab and process all your data here
 
     // element grabs //
     // api calls //
     // variable sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Jalankan fungsi terpisah dari event UpdateData setiap 10 detik dan atur variabel yang diambil oleh UpdateData
+setInterval(myOutsideHeavyLiftingFunction, 10000); 
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData selalu berjalan, oleh karena itu sebaiknya digunakan sebagai refresh cycle, atau `tick`. Ini dinamakan beberapa kali dalam sedetik jika mungkin.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Ini dinamakan beberapa kali dalam sedetik jika mungkin.
 
     Disarankan untuk mengatur function lainnya diluar event function tersebut yang akan merubah variable value dan melakukan kerja keras jika anda meminta data dari sebuah API.*/
 
