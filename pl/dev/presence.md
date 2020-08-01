@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-07-29T17:33:59.440Z
+date: 2020-08-01T16:39:30.898Z
 tags:
 editor: markdown
 ---
@@ -302,33 +302,33 @@ Stworzyliśmy kreator plików `metadata.json` dla leniwych użytkowników [tutaj
 
 ```javascript
 var presence = new Presence({
-    clientId: "000000000000000000" //ID klienta aplikacji utworzonej na https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //Możesz użyć tego, aby uzyskać przetłumaczone ciągi
+    //You can use this to get translated strings
 });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Tutaj możesz pobrać i przetworzyć wszystkie swoje dane
+    //Grab and process all your data here
 
-    // zbieranie danych z stron //
-    // funkcje api //
-    // zmienne //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Uruchom funkcję oddzielną od zdarzenia UpdateData co 10 sekund, aby uzyskać i ustawić zmienne, które pobiera UpdateData
+setInterval(myOutsideHeavyLiftingFunction, 10000); 
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
 presence.on("UpdateData", async () => {
-    /*funkcja UpdateData zawsze działa i powinna być używana jako refresh funkcji. Wywołuje się ona co parę sekund, gdzie to możliwe.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Wywołuje się ona co parę sekund, gdzie to możliwe.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
