@@ -67,6 +67,10 @@
 		"message": "讓我們一起合作",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.sponsors.title": {
+		"message": "贊助者",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "沒有這些出色的人，PreMiD是不可能成功的。",
 		"description": "Description for sponsors."
@@ -106,6 +110,10 @@
 	"partners.partner.wikijs": {
 		"message": "最強大和可擴展的開源Wiki軟件。",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "最棒網站的背後",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "申請為合作夥伴",
