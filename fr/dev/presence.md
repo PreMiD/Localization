@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: vrai
-date: 2020-07-22T17:33:59.315Z
+date: 2020-08-01T16:39:30.898Z
 tags:
 editor: markdown
 ---
@@ -302,13 +302,13 @@ Nous avons créé un fichier `metadata.json` pour les paresseux [ici](https://eg
 
 ```javascript
 var presence = new Presence({
-    clientId: "00000000000000" //L'ID client de l'application créée sur https://discordapp. om/developers/applications
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
 strings = presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback. aused"
-    //Vous pouvez l'utiliser pour obtenir les chaînes traduites
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings
 });
 
 /*
@@ -318,17 +318,17 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // variables sets //
+    // variable sets //
 }
 
-setInterval(10000, myOutsideHeavyLiftingFunction); 
-//Exécuter la fonction séparée de l'événement UpdateData toutes les 10 secondes pour obtenir et définir les variables que UpdateData récupère
+setInterval(myOutsideHeavyLiftingFunction, 10000); 
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
 
-présence. n("UpdateData", async () => {
-    /*UpdateData est toujours lancé, et donc devrait être utilisé comme votre cycle de rafraîchissement, ou `tick`. Cela est appelé plusieurs fois par seconde dans la mesure du possible.
+presence.on("UpdateData", async () => {
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Cela est appelé plusieurs fois par seconde dans la mesure du possible.
 
     Il est recommandé de configurer une autre fonction en dehors de cette fonction qui va changer les valeurs des variables et faire le chargement lourd si vous appelez des données à partir d'une API. /
 
