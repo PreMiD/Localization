@@ -2,7 +2,7 @@
 title: Presence Development
 description: 
 published: true
-date: 2020-08-01T16:35:35.139Z
+date: 2020-08-01T16:39:30.898Z
 tags: 
 editor: markdown
 ---
@@ -324,7 +324,7 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000); 
-//Run the function seperate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
