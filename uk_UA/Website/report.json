@@ -7,6 +7,10 @@
 		"message": "Залишилось {count}/3 звітів",
 		"description": "Amount of bug reports user can send"
 	},
+	"report.info": {
+		"message": "Повідоми про помилки - це баґи у сайті PreMiD і сервері PreMiD у Discord. Баґи у присутностях повідомляйте розробникам цих присутностей. Про помилки повідомляйте лише англійською мовою.",
+		"description": "Tells the user about submitting a bug"
+	},
 	"report.overview": {
 		"message": "Надайте ясний і короткий опис того, що є помилкою.",
 		"description": "Text for the user to write a brief of the bug information."
@@ -18,6 +22,10 @@
 	"report.browser": {
 		"message": "Виберіть свій браузер і версію - Ти можеш отримати версію відвідавши about:support в Firefox або chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Надайте посилання на приклад наживо або однозначний набір кроків для відтворення цієї помилки.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Повідомити",
