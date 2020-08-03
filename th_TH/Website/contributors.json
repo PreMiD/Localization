@@ -27,6 +27,10 @@
 		"message": "ผู้แทนชุมชนทั่วโลก",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
+	"contributors.roles.storeManager": {
+		"message": "ผู้จัดการร้านค้า",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "ผู้ดูแลระบบ",
 		"description": "'System Administrator' title for contributors and user pages."
@@ -42,6 +46,10 @@
 	"contributors.roles.engineer": {
 		"message": "วิศวกร",
 		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "ผู้ออกแบบ",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
 		"message": "ผู้ดูแลอาวุโส",
