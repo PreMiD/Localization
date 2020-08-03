@@ -47,9 +47,17 @@
 		"message": "เราต้องการมองหาอะไร?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.second.title": {
+		"message": "ไฟล์วอลล์ของเรา",
+		"description": "Heading for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "สมัครตอนนี้!",
 		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "ไปสวรรค์ด้วยกัน",
+		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
 		"message": "ถ้าคุณสนใจในการสมัครงานโดยตรงกับ PreMiD กรุณาดูที่ **การประกาศรับสมัครงาน**.",
