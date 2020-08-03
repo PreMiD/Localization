@@ -19,6 +19,10 @@
 		"message": "Ваш безкоштовний Presence",
 		"description": "Heading for the first benefit."
 	},
+	"partners.why.benefit1.description": {
+		"message": "Наша команда надасть вам присутність вашого веб-сервісу.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Станьте перевіреним",
 		"description": "Heading for the second benefit."
@@ -47,6 +51,10 @@
 		"message": "Будь відомим",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Рекомендовано нашими соціальними мережами.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Вимоги",
 		"description": "Heading for the requirements."
@@ -74,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "Ходімо до раю разом!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте **наші пропозиції про роботу**.",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "Спонсори",
@@ -127,6 +139,10 @@
 		"message": "Легко спілкуйтеся в реальному часі зі своїми користувачами.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Богиня, що грає в веселому Discord Bot!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.crowdin": {
 		"message": "Рішення для гнучкої локалізації для технологічних компаній.",
 		"description": "Description for Crowdin."
@@ -134,6 +150,14 @@
 	"partners.partner.wikijs": {
 		"message": "Найбільш потужне та широкомасштабне програмне забезпечення для вікі джерела.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Єдиний, дружній інтерфейс для розробників і для всіх ваших артефактів.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "За найкращими веб-сторінками.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Застосувати до партнера",
