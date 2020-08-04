@@ -61,7 +61,7 @@ tags:
 
 ### Вимоги
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. Однак ви можете спробувати створити додаток самостійно, якщо вам відчайдушно потрібно використати його на 32-розрядній ОС.</br> Оскільки ми зараз використовуємо Electron в якості двигуна (Discord теж робить!), його вимоги також застосовуються до цього застосунку:
+Технічно кожен дистрибутив, що може запустити [офіційний](https://discordapp.com/download) **застосунок** Discord ( не веб- чи снапверсію) може запустити Premid теж;</br> Як ви могли помітити в останні декілька років, деякі дистрибутиви Linux почали припиняти підтримку 32-х бітної (ia32/i686/i386/x86) архетектури, і, як наслідок, ми теж. Однак ви можете спробувати створити додаток самостійно, якщо вам відчайдушно потрібно використати його на 32-розрядній ОС.</br> Оскільки ми зараз використовуємо Electron в якості двигуна (Discord теж робить!), його вимоги також застосовуються до цього застосунку:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -86,10 +86,10 @@ It is unknown whether older versions of other distributions support it, so just 
 Висловлюю величезну подяку наступним людям:
 
 - @nattadu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (і чималій кількості інших людей, яких я забув їх) за те, що вони дають зворотний зв'язок, коли я випускаю нічні релізи
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @apriluwu за підтримку збірок Gentoo
+- @SlimShadyIAm і naka за підтримки пакетів репозиторію Arch User
+- Спільнота Electron за різні пакети
+- Будь-кому іншому, хто будь-коли долучився до проекту.
 
 <a name="license"></a>
 
@@ -142,7 +142,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 ### Інструкції зі встановлення
 
 ```bash
-# Using yay (recommended)
+# Використовуючи yay (рекомендується)
 yay -S premid
 ```
 
@@ -188,19 +188,19 @@ yay -S premid
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Те саме стосується і похідних, таких як ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [і тому подібне](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Інструкції зі встановлення
 
 ```bash
-# Add the overlay using layman
+# Додати накладення, використовуючи layman
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Установлення через портування
 emerge -av app-misc/premid
 ```
 
