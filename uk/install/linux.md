@@ -67,7 +67,7 @@ tags:
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Невідомо, чи підтримують старіші версії інших дистрибутивів таким чином, просто підтримуючи оновлення вашого дистрибутива і використовуйте **LTS (з довгою підтримкою)** релізи, якщо ваш дистрибутив пропонує їм, оскільки вони більш стабільні (уникайте альфа-релізів).
 
 <a name="support"></a>
 
@@ -102,14 +102,14 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ## Snapcraft
 
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
+Напевно, ніколи, оскільки природа Snap блокує PreMiD від досягнення Discord та розширення належним чином, </br> Було б вдячно, якщо хтось міг би це зробити, будь-які ідеї або Pull Requetвітаються. </br> P.S.: класичне ув'язнення також не працює, тому не переймайтеся робити щось про це.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Портативний AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Пакет AppImage рекомендований якщо Discord працює для вас, але інші пакети PreMiD (.deb, .rpm тощо) не працюють.
 
 <a name="appimageinstall"></a>
 
@@ -128,14 +128,14 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Додаткові примітки
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Якщо ви хочете спробувати PreMiD, або просто не хочете його встановити, це найкраще, завжди актуальне, але _НЕ ДОДАВАЙТЕ В АВТОЗАПУСК!_</br>Якщо вам набридло відкривати щоразу, використовуйте інші пакети (згідно з вашим дистрибутивом).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Дистрибутиви на базі Arch Linux
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Використовуючи [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Підтримувані дистрибутиви: _Arch_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS і [кожен інший, що підтримує встановлення з AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
