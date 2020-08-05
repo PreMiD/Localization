@@ -127,10 +127,6 @@
 		"message": "taiga - це бот Discord, який намагається запропонувати всі функції, які вам можуть знадобитися відразу!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Потужний бот, який дозволяє контролювати веб-сайти, ігри, та надає багато інших функцій.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача.",
 		"description": "Description for BitRock."
