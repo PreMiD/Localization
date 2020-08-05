@@ -23,22 +23,22 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
   - [Lizenz](#license)
 - [Snapcraft](#snapcraft)</strong> (TL;DR : _never_™️)
 - **[Portable AppImage](#portable-appimage)**(_EMPFOHLEN_
-  - [Installationsanleitung:](#installation-instructions)
+  - [Installationsanleitung](#installation-instructions)
   - [Zusätzliche Bemerkungen](#additional-notes)
-- **ed Hat Enterprise Linux (RHEL) based distributions**(bald verfügbar, benutze [this](#portable-appimage)für jetzt)
-- **Debian und Ubuntu basierte Distributionen**(bald verfügbar, benutze [this](#portable-appimage)für jetzt)
+- **Red Hat Enterprise Linux (RHEL) based distributions**(bald verfügbar, benutze [dies](#portable-appimage)für jetzt)
+- **Debian und Ubuntu basierte Distributionen**(bald verfügbar, benutze [dies](#portable-appimage)für jetzt)
 - **[Arch Linux basierte Distributionen](#arch-linux-based-distributions)**
-  - [Installationsanleitung:](#installation-instructions-1)
+  - [Installationsanleitung](#installation-instructions-1)
   - [Zusätzliche Bemerkungen](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installationsanleitung:](#installation-instructions-2)
+  - [Installationsanleitung](#installation-instructions-2)
   - [Zusätzliche Bemerkungen](#additional-notes-2)
 
 <a name="about"></a>
 
 ## Über
 
-**PreMiD** ist ein einfaches, konfigurierbares Programm, das die RP-Bibliothek (Rich Presence) von Discord verwendet, mit der du in deinem Discord-Profil anzeigen kannst, was du im Web (und einigen Programmen) tust**Spielstatus**
+**PreMiD** ist ein einfaches, konfigurierbares Programm, das die RP-Bibliothek (Rich Presence) von Discord verwendet, mit der du in deinem Discord-Profil anzeigen kannst, was du im Web (und einigen Programmen) tust.
 
 <a name="stats"></a>
 
@@ -61,13 +61,13 @@ Die Installation der Anwendung ist sehr wichtig, da die Erweiterung allein nicht
 
 ### Anforderungen
 
-Technisch gesehen kann jede Distribution, die Discord's [offizielle](https://discordapp.com/download) **App** ausführen kann (nicht die Web- oder die Snap-Version), auch PreMiD ausführen;</br> Wie Sie vielleicht in den letzten Jahren bemerkt haben, haben einige Linux-Distributionen begonnen, die Unterstützung für die 32-Bit-Architekturen (ia32/i686/i386/x86) fallen zu lassen, und infolgedessen haben wir das auch getan. Sie können jedoch versuchen, die Anwendung selbst zu erstellen, wenn Sie sie unbedingt auf einer 32-Bit-Distribution verwenden müssen.</br> Da wir Electron derzeit als Engine verwenden (Discord tut auch!), gelten seine Anforderungen auch für diese App:
+Technisch gesehen kann jede Distribution, die Discord's [offizielle](https://discordapp.com/download) **App** ausführen kann (nicht die Web- oder die Snap-Version), auch PreMiD ausführen;</br> Wie Sie vielleicht in den letzten Jahren bemerkt haben, haben einige Linux-Distributionen begonnen, die Unterstützung für die 32-Bit-Architekturen (ia32/i686/i386/x86) fallen zu lassen, und infolgedessen haben wir das auch getan. Sie können jedoch versuchen, die Anwendung selbst zu erstellen, wenn Sie sie unbedingt auf einer 32-Bit-Distribution verwenden müssen.</br> Da wir Electron derzeit als Engine verwenden (Discord tut das auch!), gelten seine Anforderungen auch für diese App:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-Es ist unbekannt, ob ältere Versionen anderer Distributionen es unterstützen, also halten Sie einfach Ihre Distribution auf dem neuesten Stand und verwenden Sie **LTS (Long-Term Support)** Releases, wenn Ihre Distribution diese anbietet, da sie stabiler sind (vermeiden Sie Alpha-Releases).
+Es ist unbekannt, ob ältere Versionen anderer Distributionen es unterstützen, also halte einfach deine Distribution auf dem neuesten Stand und verwende **LTS (Long-Term Support)** Releases, wenn deine Distribution diese anbietet, da sie stabiler sind (vermeide Alpha-Releases).
 
 <a name="support"></a>
 
@@ -113,7 +113,7 @@ Das Paket AppImage wird empfohlen, wenn Discord bei Ihnen funktioniert, andere P
 
 <a name="appimageinstall"></a>
 
-### Installationsanleitung:
+### Installationsanleitung
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -138,7 +138,7 @@ Verwendet [Arch User Repository](https://aur.archlinux.org/packages/premid);</br
 
 <a name="archinstall"></a>
 
-### Installationsanleitung:
+### Installationsanleitung
 
 ```bash
 # Verwendung von yay (empfohlen)
@@ -191,7 +191,7 @@ Dasselbe gilt für seine Derivate, wie z.B. ColverOS, Clip-OS, Sabayon, Bicom Sy
 
 <a name="gentooinstall"></a>
 
-### Installationsanleitung:
+### Installationsanleitung
 
 ```bash
 # Füge das Overlay mit layman
