@@ -127,10 +127,6 @@
 		"message": "taiga je Discord Bot, ki ponuja vse funkcije ki jih rabite, vse v eno!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Močen bot ki vam omogoča vzdrževanje spletnih straneh, igric, in veliko več funkcij.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Močen in enostavno uporabljen cross-platform inštalacija orodje za ustvarjanje.",
 		"description": "Description for BitRock."
