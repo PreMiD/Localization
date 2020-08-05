@@ -194,8 +194,8 @@ Dasselbe gilt für seine Derivate, wie z.B. ColverOS, Clip-OS, Sabayon, Bicom Sy
 ### Installationsanleitung
 
 ```bash
-# Füge das Overlay mit layman
-layman -S && layman -a apriluwu hinzu
+# Füge das Overlay mit layman hinzu
+layman -S && layman -a apriluwu
 ```
 
 ```bash
