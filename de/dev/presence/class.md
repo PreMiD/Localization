@@ -77,7 +77,7 @@ Gibt eine Variable von der Webseite zurück, falls sie vorhanden ist.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dies protokolliert den "Variabelinhalt"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -86,9 +86,9 @@ Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // wird 210 protokollieren
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // wird 2.1.0 protokollieren
 ```
 
 ### `getSetting(String)`
@@ -141,8 +141,7 @@ Diese Schnittstelle hat folgende Variablen, die alle optional sind.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Legt die aktuelle Uhrzeit fest.<br>
         Wird verwendet, wenn du anzeigen möchtest, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
-          <br>Sie müssen Ihre Zeit in <code>Zeitstempel</code> umwandeln, sonst erhalten Sie einen falschen Countdown
-.
+          <br>Du musst deine Zeit in <code>Zeitstempel</code> umwandeln, sonst erhälst du einen falschen Countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -151,8 +150,7 @@ Diese Schnittstelle hat folgende Variablen, die alle optional sind.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definiert die volle Dauer.
         <br>Wird verwendet, wenn du anzeigen möchtest, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
-          <br>Sie müssen Ihre Zeit in <code>Zeitstempel</code> umwandeln, sonst erhalten Sie einen falschen Countdown
-.
+          <br>Du musst deine Zeit in <code>Zeitstempel</code> umwandeln, sonst erhälst du einen falschen Countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -191,21 +189,22 @@ var presenceData: presenceData = {
 };
 ```
 
-## Veranstaltungen
+## Events
 
-Ereignisse ermöglichen es Ihnen, einige Änderungen oder Anrufe zu erkennen und zu bearbeiten. Sie können Ereignisse mit der Methode `auf` abonnieren.
+Events ermöglicht dir, einige Änderungen oder Calls zu erkennen und zu bearbeiten. Du kannst Events mit der Methode `on` abonnieren.
 
 ```typescript
-presence.on("UpdateData", async () => {    // Tun Sie etwas, wenn Daten aktualisiert werden.
+presence.on("UpdateData", async () => {
+    // Tut etwas, wenn Daten aktualisiert werden.
 });
 ```
 
-Es sind einige Menüs verfügbar:
+Es sind einige Events verfügbar:
 
-#### `Daten aktualisieren`
+#### `UpdateData`
 
-Dieses Ereignis wird jedes Mal aktualisiert, wenn die Anwesenheit ebenfalls aktualisiert wird.
+Dieses Event wird jedes Mal aktualisiert, wenn die Presence ebenfalls aktualisiert wird.
 
 #### `iFrameData`
 
-Wird ausgelöst, wenn Daten vom iFrame Skript empfangen werden.
+Wird ausgelöst, wenn Daten vom iFrame-Skript empfangen werden.
