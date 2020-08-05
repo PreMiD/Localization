@@ -146,7 +146,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`service`**
 
 - Servisin ismi, servisin içinde bulunduğu klasörle aynı isimde **olmalıdır**. Örneğin, eğer servisiniz `/website/Y/YouTube` yolunda bulunuyorsa, servisinizin ismi `YouTube` olmalıdır.
-- Url yi web sitesi resmi adı olarak kullanmadığı sürece servis adı için url yi **kullanamazsın**. Eğer isim tanımlayıcı değilse ve belirsiz sayılabilecek ise, url yi kullanmak**gereklidir**. (örneğin, `youtube.com` kabul edilmez iken, `YouTube` kabul edilir çünkü bu resmi ismi ve tanımlayıcı. `Top` tanımlayıcı bir isim değil, bu sebeple `top.gg` url sini kullanmak **gereklidir**.)
+- Eğer site, adresini resmi ismi olarak kullanmıyorsa servis ismi olarak sitenin bağlantı adresini **kullanamazsınız**. Eğer isim tanımlayıcı değilse ve belirsiz sayılabilecek ise, bağlantı adresini kullanmak **gereklidir**. (örneğin, `youtube.com` kabul edilmez iken, `YouTube` kabul edilir çünkü bu resmi ve tanımlayıcı bir isimdir. `Top` tanımlayıcı bir isim olmadığından dolayı `top.gg` bağlantısını kullanmak **gereklidir**).
 
 ### **`altnames`**
 
@@ -191,7 +191,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`category`**
 
 - Seçtiğiniz kategori, [bu doküman yazısında](https://docs.premid.app/en/dev/presence/metadata#presence-categories) belirtilen kategorilerden birisi **olmalıdır**.
-- Servis, web sitesinin içeriğine uyan bir kategori kullanmalıdır. (örneğin, web sitesi anime ile alakalı değilse `anime` kullanmayınız).
+- Servis, servisin sitesinin içeriğine uyan bir kategori kullanmalıdır. (örneğin, servisin sitesi anime ile alakalı değilse `anime` kullanamazsınız).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -216,7 +216,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz (oynatılıyor/durduruldu gibi) kısımlardır. Burada bir Discord hesabının reklamını yapamaz, PreMiD ile alakasız herhangi bir şey kullanamazsınız.
 - `localStorage`'a erişmenize **izin verilmemektedir**.
 - Çerezlerden bilgi alışverişi yaparken, çerezlerin başına her zaman `PMD_` ekini koyun.
-- `premid.app` ya da servis web site API'sine sadece HTTP/HTTPS istekleri yapabilirsin. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
+- `premid.app` ya da servisin sitesinin API'sine sadece HTTP/HTTPS istekleri yapabilirsiniz. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (örneğin, `data.startTimestamp = undefined` yerine `delete data.startTimestamp` kullanın)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
@@ -272,7 +272,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 - Eğer bir pull request, 7 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
 - Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
 - ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz_. Bu izin, hem servisi oluştururken, hem de servisi güncellerken kullanılabilir.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. [Burada](https://imgur.com/a/OD3sj5R) bir örneği görülebilir.
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. [Buradan](https://imgur.com/a/OD3sj5R) bir örneğine ulaşabilirsiniz.
 
 ## `Kontroller`
 

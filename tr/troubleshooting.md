@@ -49,22 +49,22 @@ MacOS: <code>~/users/USER/~Library/ApplicationSupport/ konumuna girin ve PreMiD 
 Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmayacaktır. Bunu çözebilmek için `sudo snap remove discord` kodu ile Snapcraft üzerinden yüklenen Discord'u silmeli ve [buradaki](https://discordapp.com/api/download?platform=linux) (veya [buradaki](https://discordapp.com/api/canary/download?platform=linux)) adresten Discord'un Linux dosyasını indirmeli, ardından yükleme konumuna (bu genellikle `$HOME/Downloads` olur) girerek `sudo dpkg -i discord-*.deb` kodu ile sisteminize yüklemelisiniz.
 
 ### McAfee PreMiD'i virüs olarak tespit etti (Windows)
-Bu McAfee'in yanlış bir pozitif sonucu ve sorunu onlara bildirdik, şimdilik aşağıdaki adımları uygulayarak PreMiD'i tarama dışında bırakabilirsiniz:
+Bu sorun McAfee'nin PreMiD'e yanlış sonuç vermesinden kaynaklıdır, sorunu çözmeleri için onlarla iletişime geçtik, şimdilik siz aşağıdaki adımları takip ederek PreMiD'i tarama dışı bırakabilirsiniz:
 
 > If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
 > 
 > {.is-warning}
 
 1. McAfee uygulamasını açın ve sağ üst taraftaki ayarlar simgesini tıklayın. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. "Karantinaya Alınan Öğeler" i tıklayın (üstten ikinci).
+2. "Karantinaya Alınan Öğeler"e tıklayın (üstten ikinci seçenek).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Dosya yolundan emin olun. Eğer bu "AppData\Local\Temp\PreMiD" şekilde ise geri yükle düğmesine basın. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+4. Dosya yolunun "AppData\Local\Temp\PreMiD"  içerdiğine emin olun, bulduktan sonra geri yükle tuşuna basın. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. Geri yüklendikten sonra "Karantinaya Alınmış Öğeler" penceresini kapatabilir ve sağ üstteki ayarlar simgesine tekrar basabilirsiniz.
-6. "Gerçek Zamanlı Tarama" ya tıklayın (üstten üçüncü).
-7. Genişletin ve "Dosya Ekle"ye tıklayın.
+6. "Gerçek Zamanlı Tarama"ya tıklayın (üstten üçüncü seçenek).
+7. Genişletin ve "Dosya ekle"ye tıklayın.
 8. Dosya gezgini URL çubuğuna "%appdata%" yazın ve Enter tuşuna basın. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. "PreMiD" klasörünü açın ve "PreMiD.exe" dosyasını seçin ve aç'a tıklayın. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee şimdi dosyamızı göz ardı etmeli, sadece uygulamamızı başlatın ve artık başlayabilirsiniz.
+10. McAfee şimdi dosyamızı göz ardı etmeli, uygulamayı çalıştırın ve kullanmaya başlayın.
 
 ### Bunların hiçbiri sorununuzu çözmediyse
 [#support](https://discord.gg/WvfVZ8T) kanalından bir destek kaydı oluşturmayı deneyin.
