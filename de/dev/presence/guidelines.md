@@ -1,6 +1,6 @@
 ---
 title: Richtlinien
-description: Regeln, welche alle Entwickler beachten müssen, damit ihre Erweiterungen hinzugefügt werden.
+description: Regeln, die alle Entwickler beachten müssen, damit ihre Presences hinzugefügt werden.
 published: true
 date: 2020-07-21T22:22:06.316Z
 tags:
@@ -9,21 +9,21 @@ editor: markdown
 
 # Richtlinien
 
-Wenn Sie Präsenzen auf diesem GitHub veröffentlichen, müssen Sie eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
+Wenn du Presences auf diesem GitHub veröffentlichst, musst du eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
 
 # Erstellung
 
-Die allgemeinen Regeln der Präsenzentwicklung lauten wie folgt:
+Die allgemeinen Regeln der Presenceentwicklung lauten wie folgt:
 
-- Presences **muss** mit der von Dir ausgewählten Website zusammenhängen.
-- Präsenzen ** dürfen nicht für illegale Webseiten** gemacht werden. (z. B. Stressfaktoren, Verkauf von Drogen, Kinderpornographie usw.)
-- Die Dateistruktur muss sauber und verwaltet werden, ohne Dateien, die nicht angegeben wurden. (z. B. vscode und git Ordner, Bild- und Textdateien, usw.)
-- Du musst eine gute Dateistruktur aufweisen können, "Drafts" sind **nicht** erlaubt.
-- Präsenzen für Websites mit (`.onion` TLDs) oder Websites mit freien Domains/Hosts (für z.B. `.TK` [alle freien Freenom Domains], `.GD`, usw.) sind **nicht erlaubt**, eine Ausnahme kann gemacht werden, wenn ein Nachweis vorgelegt wird, dass sie für die Domain bezahlt haben.
-- Präsenzen interner Browserseiten (wie Chrome Web Store, `chrome://`, `über:` Seiten, usw.) sind **nicht erlaubt**, da ein experimentelles Flag am Ende des Benutzers aktiviert werden muss, welches möglicherweise Schaden an ihren Browsern anrichten könnte.
-- Präsenzen mit nur einer einzigen Subdomain sind **nicht zulässig,** da sie für andere Seiten (wie die Homepage) kaputt sein können. Ausnahmen können für die Richtlinien und Kontaktseiten (Inhalte, die nicht häufig verwendet werden) oder für Webseiten, bei denen die anderen Inhalte nicht miteinander in Beziehung stehen, gemacht werden. (für z.B. Wiki-Seiten)
-- Präsenzen mit niedriger Qualität (oder welche mit kleinem Kontext) sind **nicht** erlaubt (z.B. welche die nur ein Logo anzeigen, aber nie den Text ändern.)
-- Enthalten des `dist` Ordners, der `presence.ts` Datei, der `iframe. s` Datei und der `metadata.json` Datei ist obligatorisch, daher wäre das Ergebnis das, was im folgenden Schema dargestellt wird:
+- Presences **müssen** mit der von dir ausgewählten Website zusammenhängen.
+- Presences ** dürfen nicht für illegale Webseiten** gemacht werden. (z. B. Stressfaktoren, Verkauf von Drogen, Kinderpornographie usw.)
+- Die Dateistruktur muss sauber und verwaltet werden, beinhalten von Dateien, die nicht angegeben wurden ist untersagt. (z. B. vscode und git Ordner, Bild- und Textdateien, usw.)
+- Du musst eine gute Dateistruktur aufweisen können, Entwürfe sind **nicht** erlaubt.
+- Presences für Websites mit (`.onion` TLDs) oder Websites mit freien Domains/Hosts (für z.B. `.TK` [alle freien Freenom-Domains], `.RF`, `.GD`, usw.) sind **nicht erlaubt**, eine Ausnahme kann gemacht werden, wenn ein Nachweis vorgelegt wird, dass du für die Domain bezahlt hast.
+- Presences interner Browserseiten (wie Chrome Web Store, `chrome://`, `über:` Seiten, usw.) sind **nicht erlaubt**, da ein experimentelles Flag am Ende des Benutzers aktiviert werden muss, welches möglicherweise Schaden an ihren Browsern anrichten könnte.
+- Presences mit nur einer einzigen Subdomain sind **nicht zulässig,** da sie für andere Seiten (wie die Homepage) kaputt sein können. Ausnahmen können für die Richtlinien und Kontaktseiten (Inhalte, die nicht häufig verwendet werden) oder für Webseiten, bei denen die anderen Inhalte nicht miteinander in Beziehung stehen, gemacht werden. (für z.B. Wiki-Seiten)
+- Presences mit niedriger Qualität (oder welche mit kleinem Kontext) sind **nicht** erlaubt (z.B. welche die nur ein Logo anzeigen, aber nie den Text ändern.)
+- Enthalten des `dist`-Ordners, der `presence.ts`-Datei, der `iframe.ts`-Datei und `metadata.json`-Datei ist obligatorisch, daher wäre das Ergebnis das, was im folgenden Schema dargestellt wird:
 
 ```bash
 presence
@@ -34,7 +34,7 @@ presence
 └── tsconfig.json
 ```
 
-oder wenn Sie eine `iframe.ts` Datei verwenden:
+oder wenn du eine `iframe.ts`-Datei verwenden:
 
 ```bash
 presence
