@@ -102,14 +102,14 @@ Danke an:
 
 ## Snapcraft
 
-Wahrscheinlich nie, da die Natur der Snap PreMiD davon abhält, Discord und die Erweiterung richtig zu erreichen,</br> Es wäre schön, wenn es jemand tun könnte, aber alle Ideen oder PRs sind willkommen.</br> P.S.: Die klassische Gefangenschaft funktioniert auch nicht, also machen Sie sich nicht die Mühe, einen Vorschlag dazu zu machen.
+Wahrscheinlich nie, da die Natur der Snap PreMiD davon abhält, Discord und die Erweiterung richtig zu erreichen,</br> Es wäre schön, wenn es jemand tun könnte, alle Ideen oder PRs sind willkommen.</br> P.S.: Die klassische Gefangenschaft funktioniert auch nicht, also machen Sie sich nicht die Mühe, einen Vorschlag dazu zu machen.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
 ## Portable AppImage
 
-Das Paket AppImage wird empfohlen, wenn Discord bei Ihnen funktioniert, andere PreMiD-Pakete (.deb, .rpm usw.) jedoch nicht.
+Das Paket AppImage wird empfohlen, wenn Discord bei dir funktioniert, andere PreMiD-Pakete (.deb, .rpm usw.) jedoch nicht.
 
 <a name="appimageinstall"></a>
 
@@ -127,7 +127,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Zusätzliche Bemerkungen
 
-Wenn du PreMiD ausprobieren möchtest oder es nicht installieren möchtest, dieses ist das beste, es ist immer aktuell, aber _KANN NICHT MIT DEM SYSTEM AUTO-STARTEN!_</br>Wenn Sie keine Lust haben, es jedes Mal öffnen zu müssen, verwenden Sie die anderen Pakete (entsprechend Ihrer Distribution).
+Wenn du PreMiD ausprobieren möchtest oder es nicht installieren möchtest, ist dieses das beste, es ist immer aktuell, aber _KANN NICHT MIT DEM SYSTEM AUTO-STARTEN!_</br>Wenn Sie keine Lust haben, es jedes Mal öffnen zu müssen, verwenden Sie die anderen Pakete (entsprechend Ihrer Distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
@@ -164,13 +164,13 @@ pacaur -S premid
 # ... du hast den Punkt erreicht
 ```
 
-oder manuell aus dem [Arch User Repository](https://aur.archlinux.org/packages/premid) wenn Sie wissen, was Sie tun.
+oder manuell aus dem [Arch User Repository](https://aur.archlinux.org/packages/premid) wenn du weißt, was du tust.
 
 <a name="archnotes"></a>
 
 ### Zusätzliche Bemerkungen
 
-Wenn deine Distribution Pacman verwendet, musst du zuerst einen der Helfer installieren. Wenn Sie keine haben, wird Yay empfohlen, führe aus:
+Wenn deine Distribution Pacman verwendet, musst du zuerst einen der Helfer installieren. Wenn du keine hast, wird Yay empfohlen, führe aus:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -180,7 +180,7 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Andere AUR/Pacman-Helfer funktionieren ebenfalls, obwohl jeder von ihnen eine andere Funktionalität hat, so dass Sie bei ihrer Verwendung auf Probleme stoßen können.
+Andere AUR/Pacman-Helfer funktionieren ebenfalls, obwohl jeder von ihnen eine andere Funktionalität hat, sodass du bei ihrer Verwendung auf Probleme stoßen könntest.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
