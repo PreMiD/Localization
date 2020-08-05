@@ -132,7 +132,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
-      <td style="text-align:left"><code>Objekt</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
       </td>
@@ -171,7 +171,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
       <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
         wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor.</td>
-      <td style="text-align:left"><code>Objekt</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
       </td>
@@ -210,7 +210,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Ausführung</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Version Ihrer Anwesenheit.</td>
       <td style="text-align:left"><code>String</code>
@@ -228,7 +228,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Miniaturansicht</b>
+      <td style="text-align:left"><b>thumbnail</b>
       </td>
       <td style="text-align:left">Link zum Miniaturbild Ihrer Anwesenheit.</td>
       <td style="text-align:left"><code>String</code>

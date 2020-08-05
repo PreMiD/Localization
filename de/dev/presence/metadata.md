@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Enthält grundlegende Daten zur Präsenz
+description: Enthält grundlegende Daten zur Presence
 published: true
 date: 2020-05-21T16:01:05.836Z
 tags:
@@ -8,9 +8,9 @@ tags:
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Wenn du eine Presence im Shop veröffentlichen und über die Erweiterung laden möchten, solltest du die `metadata.json`-Datei in deinem `dist` Ordner erstellen.
 
-Das Beispiel für diese Datei finden Sie unten.
+Das Beispiel für diese Datei findest du unten.
 
 ```javascript
 {
@@ -65,7 +65,7 @@ Das Beispiel für diese Datei finden Sie unten.
 }
 ```
 
-## Grundlegendes zur Datei metadata.json
+## Grundlegendes zur metadata.json
 
 Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schwer zu verstehen, wofür jede Variable gedacht ist.
 
@@ -84,7 +84,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
-      <td style="text-align:left"><code>Objekt</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
       </td>
@@ -123,7 +123,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
       <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
         wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Objekt</code>
+      <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
       </td>
@@ -149,7 +149,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Ausführung</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Version Ihrer Anwesenheit.</td>
       <td style="text-align:left"><code>String</code>
@@ -167,7 +167,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Miniaturansicht</b>
+      <td style="text-align:left"><b>thumbnail</b>
       </td>
       <td style="text-align:left">Link zum Miniaturbild Ihrer Anwesenheit.</td>
       <td style="text-align:left"><code>String</code>

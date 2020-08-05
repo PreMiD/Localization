@@ -7,45 +7,45 @@ tags:
 ---
 
 # iFrame-Klasse
-> Das iframe-System mit PreMiD ist problematisch und kann unerwartetes Verhalten aufweisen. Seien Sie vorsichtig. 
+> Das iframe-System mit PreMiD ist problematisch und kann unerwartetes Verhalten aufweisen. Sei vorsichtig. 
 > 
 > {.is-danger}
 
 ## Einführung
 
-In einigen Szenarien muss Ihre Anwesenheit möglicherweise auf Elemente innerhalb von `iframes`zugreifen.
+In einigen Szenarien muss deine Presence möglicherweise auf Elemente innerhalb von `iframes` zugreifen.
 
-Der Code, den Sie in Ihre Datei `iframe.ts` schreiben, wird in jeden iframe auf der Seite eingefügt.
+Der Code, den du in deine Datei `iframe.ts` schreibst, wird in jeden iframe auf der Seite eingefügt.
 
-Wie bei Präsenzen haben `iframes` ihre eigenen Klassen, um Daten automatisch zu aktualisieren.
+Wie bei Presences haben `iframes` ihre eigenen Klassen, um Daten automatisch zu aktualisieren.
 
 ```typescript
-let iframe = new iFrame ();
+let iframe = new iFrame();
 
-iframe.on ("UpdateData", async () => {
-    // Code geht hierher ...
+iframe.on("UpdateData", async () => {
+    // Code goes here...
 });
 ```
 
 ## Methoden
 
-### `senden (Objekt)`
-Sendet Daten an die Anwesenheit. Bei Verwendung dieser Methode löst die Anwesenheit ein iFrameData</code> Ereignis mit `aus.</p>
+### `send(Object)`
+Sendet Daten an die Presence. Bei Verwendung dieser Methode löst die Presence ein `iFrameData`-Event aus.
 
-<h3 spaces-before="0"><code>getUrl()`</h3>
-Gibt die URL des `iframe`.
+### `getUrl()`
+Gibt die URL des `iframe` aus.
 
 ## Events
-In `iframes`funktionieren Ereignisse ähnlich wie in der Klasse `Presence`.
+In `iframes` funktionieren Events ähnlich wie in der Klasse `Presence`.
 
 ```typescript
-iframe.on ("UpdateData", async () => {
-    // Code geht hier ...
+iframe.on("UpdateData", async () => {
+    // Code goes here...
 });
 ```
 
-Hier ist eine Liste aller Veranstaltungen:
+Hier ist eine Liste aller Events:
 
 #### `UpdateData`
 
-Dieses Ereignis wird jedes Mal ausgelöst, wenn der Iframe aktualisiert wird.
+Dieses Event wird jedes Mal ausgelöst, wenn der iframe aktualisiert wird.
