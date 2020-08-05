@@ -409,7 +409,7 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
 
 # Files explained
-- [Präsenz-Klasse](/dev/presence/class)
+- [Presence-Klasse](/dev/presence/class)
 - [iFrame-Klasse](/dev/presence/iframe)
 - [Metadatendatei](/dev/presence/metadata)
 - [TypeScript-Konfiguration](/dev/presence/tsconfig)
