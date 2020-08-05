@@ -35,7 +35,7 @@ Sendet Daten an die Anwesenheit. Bei Verwendung dieser Methode löst die Anwesen
 <h3 spaces-before="0"><code>getUrl()`</h3>
 Gibt die URL des `iframe`.
 
-## Veranstaltungen
+## Events
 In `iframes`funktionieren Ereignisse ähnlich wie in der Klasse `Presence`.
 
 ```typescript
@@ -46,6 +46,6 @@ iframe.on ("UpdateData", async () => {
 
 Hier ist eine Liste aller Veranstaltungen:
 
-#### `Daten aktualisieren`
+#### `UpdateData`
 
 Dieses Ereignis wird jedes Mal ausgelöst, wenn der Iframe aktualisiert wird.
