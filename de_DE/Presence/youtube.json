@@ -88,11 +88,11 @@
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Liest die Kommentare des Videos:",
+        "message": "Betrachtet Kommentare des Videos:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Schaut sich die Übersetzungen von den Video:",
+        "message": "Betrachtet Übersetzungen von Video:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
@@ -116,7 +116,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Schaut sich dessen Kanal-Dashboard an",
+        "message": "Betrachtet Kanal-Dashboard",
         "description": ""
     }
 }
