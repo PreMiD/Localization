@@ -24,7 +24,7 @@
 		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Community-Vertreter",
+		"message": "Globaler Community-Vertreter",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.storeManager": {
@@ -47,12 +47,16 @@
 		"message": "Entwickler",
 		"description": "'Engineer' title for contributors and user pages."
 	},
+	"contributors.roles.designer": {
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "Leitung der Präsenzprüfung",
+		"message": "Leitung der Presenceprüfung",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
@@ -72,7 +76,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
-		"message": "Präsenz-Verifizierer",
+		"message": "Presence-Verifizierer",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
