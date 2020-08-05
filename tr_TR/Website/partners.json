@@ -127,10 +127,6 @@
 		"message": "taiga size gereken her özelliği, anında sunmaya çalışan bir Discord Botudur!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "İnternet sitelerini, oyunları izlemenizi ve daha birçok özellik sunmanızı sağlayan güçlü bir bot.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
 		"description": "Description for BitRock."
