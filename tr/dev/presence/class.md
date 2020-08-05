@@ -57,18 +57,18 @@ Menüdeki durum yazısını ayarlar.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Eklentiden belli çevirilere ulaşabileceğiniz asenkron yöntem. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Çevrilen yazıların birleşimine buradan ulaşabilirsiniz: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // `Oynatılıyor` ve `Durduruldu` çevirilerini
 // gösterir.
-strings = await presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+yazilar = await presence.getStrings({
+    oynatiliyor: "presence.playback.playing",
+    durduruldu: "presence.playback.paused"
 });
 
-const playString = strings.play // result: Playing back
-const pauseString = strings.pause // result: Playback paused
+const oynatiliyorYazi = yazilar.oynatiliyor // sonuç: Oynatılıyor
+const durdurulduYazi = yazilar.durduruldu // result: Duraklatıldı
 ```
 
 ### `getPageletiable(String)`
