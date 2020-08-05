@@ -1,18 +1,18 @@
 {
     "amazon.subscriptions": {
-        "message": "Betrachtet die Abonnements",
+        "message": "Betrachtet Abonnements",
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Schaut sich die Werbepräferenzen an",
+        "message": "Betrachtet seine Werbepräferenzen",
         "description": ""
     },
     "amazon.balance": {
-        "message": "Schaut nach dem Guthaben",
+        "message": "Betrachtet sein Guthaben",
         "description": ""
     },
     "amazon.payment": {
-        "message": "Schaut nach Zahlungsmethoden",
+        "message": "Betrachtet Zahlungsmethoden",
         "description": ""
     },
     "amazon.address": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "amazon.store": {
-        "message": "Betrachtet den Shop:",
+        "message": "Betrachtet Store:",
         "description": ""
     },
     "amazon.primeVid": {
