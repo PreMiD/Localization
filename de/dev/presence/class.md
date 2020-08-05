@@ -16,8 +16,8 @@ Die Klasse `Presence` ist sehr nützlich, da sie grundlegende Methoden zum Erste
  Wenn du eine Klasse erstellst, musst du die Eigenschaft `clientId` angeben.
 
 ```typescript
-let presence = new Presence ({
-    clientId: "514271496134389561" // Beispiel clientId
+let presence = new Presence({
+    clientId: "514271496134389561" // Example clientId
 });
 ```
 
@@ -86,16 +86,16 @@ Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // wird 210 protokollieren
+console.log(numeric); // Will log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // wird 2.1.0 protokollieren
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
 Gibt den Wert der Einstellung zurück.
 ```typescript
-var setting = await presence.getSetting("pdexID"); // Tausche pdexID mit der id der Einstellung
-console.log(setting); // Dies protokolliert den Wert der Einstellung
+var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
