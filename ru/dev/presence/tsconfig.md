@@ -1,9 +1,10 @@
 ---
-title: TypeScript
+title: Настройка TypeScript
 description: Маленький помощник для TypeScript
 published: true
-date: 9 мая 2020г 14:32:40
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # Настройка TypeScript
