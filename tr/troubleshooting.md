@@ -51,13 +51,13 @@ Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmay
 ### McAfee PreMiD'i virüs olarak tespit etti (Windows)
 Bu sorun McAfee'nin PreMiD'e yanlış sonuç vermesinden kaynaklıdır, sorunu çözmeleri için onlarla iletişime geçtik, şimdilik siz aşağıdaki adımları takip ederek PreMiD'i tarama dışı bırakabilirsiniz:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> Eğer bu adımları yapamıyorsanız, Discord sunucumuzdaki [#support](https://discord.gg/WvfVZ8T) kanalında bir destek talebi oluşturabilir, bir destekçinin yardım etmesini bekleyebilirsiniz. 
 > 
 > {.is-warning}
 
 1. McAfee uygulamasını açın ve sağ üst taraftaki ayarlar simgesini tıklayın. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. "Karantinaya Alınan Öğeler"e tıklayın (üstten ikinci seçenek).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
+3. Geniletin, ve "settings.dat" isimli bir elemandan önceki `>` işaretine tıklayın.
 4. Dosya yolunun "AppData\Local\Temp\PreMiD"  içerdiğine emin olun, bulduktan sonra geri yükle tuşuna basın. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. Geri yüklendikten sonra "Karantinaya Alınmış Öğeler" penceresini kapatabilir ve sağ üstteki ayarlar simgesine tekrar basabilirsiniz.
 6. "Gerçek Zamanlı Tarama"ya tıklayın (üstten üçüncü seçenek).
