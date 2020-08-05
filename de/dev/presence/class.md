@@ -11,9 +11,9 @@ editor: markdown
 
 ## Einführung
 
-Die Klasse `Präsenz` ist sehr nützlich, da sie grundlegende Methoden zum Erstellen einer Präsenz enthält.
+Die Klasse `Presence` ist sehr nützlich, da sie grundlegende Methoden zum Erstellen einer Presence enthält.
 
- Wenn Sie eine Klasse erstellen, müssen Sie die Eigenschaft `clientId` angeben.
+ Wenn du eine Klasse erstellst, musst du die Eigenschaft `clientId` angeben.
 
 ```typescript
 let presence = new Presence ({
@@ -21,31 +21,31 @@ let presence = new Presence ({
 });
 ```
 
-Für die Klasse `Präsenz` stehen zwei Eigenschaften zur Verfügung.
+Für die Klasse `Presence` stehen zwei Eigenschaften zur Verfügung.
 
 #### `clientId`
 
-Es muss die Eigenschaft `clientId` werden, damit Ihre Anwesenheit funktioniert, da die Anwendungs-ID zum Anzeigen des Logos und der Elemente verwendet wird.
+Es muss die Eigenschaft `clientId` werden, damit ihre Anwesenheit funktioniert, da die Anwendungs-ID zum Anzeigen des Logos und der Elemente verwendet wird.
 
-Sie bekommen dies auf Ihrer [Bewerbungsseite](https://discordapp.com/developers/applications).
+Du bekommst dies auf deiner[Anwendungsseite](https://discordapp.com/developers/applications).
 
 ## Methoden
 
 ### `getActivity()`
 
-Gibt ein `Präsenzdaten` Objekt zurück, in dem die Präsenz angezeigt wird.
+Gibt ein `presenceData` Objekt zurück, in dem die Presence angezeigt wird.
 
 ### `setActivity(presenceData, Boolean)`
 
-Legt Ihre Profilaktivität gemäß den bereitgestellten Daten fest.
+Legt deine Profilaktivität gemäß den bereitgestellten Daten fest.
 
-Der erste Parameter erfordert eine ` Präsenzdaten ` Schnittstelle, um alle Informationen abzurufen, die Sie in Ihrem Profil anzeigen möchten.
+Der erste Parameter erfordert eine `presenceData`-Schnittstelle, um alle Informationen abzurufen, die du in deinem Profil anzeigen möchtst.
 
-Der zweite Parameter definiert, wann Präsenz etwas spielt oder nicht. Verwenden Sie immer ` true `, wenn Sie Zeitstempel in ` presentData ` angeben.
+Der zweite Parameter definiert, wann die Presence etwas spielt oder nicht. Verwende immer `true`, wenn du Zeitstempel in `presentData` angibst.
 
 ### `clearActivity()`
 
-Löscht Ihre aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
+Löscht deine aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
 
 ### `setTrayTitle(String)`
 
@@ -55,9 +55,9 @@ Löscht Ihre aktuelle Aktivität, die Tastenkombinationen und den Tray-Titel.
 
 Legt den Tray-Titel in der Menüleiste fest.
 
-### `getStrings(Objekt)`
+### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Eine asynchrone Methode, mit der du übersetzte Zeichenketten von der Erweiterung erhalten kannst. Du musst `Object` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. `keyValue` ist der Zeichenfolgenwert. Eine Zusammenstellung der übersetzten Zeichenketten kann mit diesem Endpunkt gefunden werden: `https://api.premid.app/v2/langFIle/extension/de`
 
 ```typescript
 // Gibt `Playing` und `Paused` Strings
@@ -77,26 +77,25 @@ Gibt eine Variable von der Webseite zurück, falls sie vorhanden ist.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // Dies protokolliert den "Variableninhalt"
+console.log(pageVar); // This will log the "Variable content"
 ```
 
-### `getExtensionVersion(Boolean)
-`
+### `getExtensionVersion(Boolean)`
 Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console. og(numeric); // Log 210
+console.log(numeric); // Will log 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Log 2.1.0
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Gibt den Wert der Einstellung zurück.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Tausche pdexID mit der id der Einstellung
+console.log(setting); // Dies protokolliert den Wert der Einstellung
 ```
 
 ### `hideSetting(String)`
@@ -111,9 +110,9 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## `PresenceData` Schnittstelle
+## `PresenceData`-Schnittstelle
 
-Die `presenceData` Schnittstelle wird empfohlen, wenn Sie die `setActivity()` Methode verwenden.
+Die `presenceData`-Schnittstelle wird empfohlen, wenn du die `setActivity()`-Methode verwendest.
 
 Diese Schnittstelle hat folgende Variablen, die alle optional sind.
 
@@ -127,40 +126,40 @@ Diese Schnittstelle hat folgende Variablen, die alle optional sind.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Einzelheiten</td>
-      <td style="text-align:left">Die erste Zeile in Ihrer Anwesenheit, die normalerweise als Überschrift verwendet wird.</td>
+      <td style="text-align:left">details</td>
+      <td style="text-align:left">Die erste Zeile in deiner Presence, die normalerweise als Überschrift verwendet wird.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Zustand</td>
-      <td style="text-align:left">Zweite Zeile in Ihrer Gegenwart.</td>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Zweite Zeile in deiner Presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Legt die aktuelle Uhrzeit fest.<br>
-        Wird verwendet, wenn Sie anzeigen möchten, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
+        Wird verwendet, wenn du anzeigen möchtest, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
           <br>Sie müssen Ihre Zeit in <code>Zeitstempel</code> umwandeln, sonst erhalten Sie einen falschen Countdown
 .
       </td>
-      <td style="text-align:left"><code>Nummer</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definiert die volle Dauer.
-        <br>Wird verwendet, wenn Sie anzeigen möchten, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
+        <br>Wird verwendet, wenn du anzeigen möchtest, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
           <br>Sie müssen Ihre Zeit in <code>Zeitstempel</code> umwandeln, sonst erhalten Sie einen falschen Countdown
 .
       </td>
-      <td style="text-align:left"><code>Nummer</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Definiert das Logo für die Anwesenheit.</td>
+      <td style="text-align:left">Definiert das Logo für die Presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
