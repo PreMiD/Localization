@@ -1,9 +1,10 @@
 ---
-title: Без назви сторінки
+title: Налаштування TypeScript
 description: Маленький помічник для TypeScript
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # Налаштування TypeScript
@@ -46,7 +47,7 @@ tags:
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
 | noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
 | inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| typeRoots                  | Детальніше про це ви можете прочитати [тут](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                             |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Конфігурація Presence
