@@ -1,5 +1,5 @@
 ---
-title: Präsenz-Entwickler
+title: Presence-Entwicklung
 description:
 published: true
 date: 2020-08-01T16:39:30.898Z
@@ -7,13 +7,13 @@ tags:
 editor: markdown
 ---
 
-> Alle Präsenzen werden jetzt hier gespeichert: https://github.com/PreMiD/Presences 
+> Alle Presences werden jetzt hier gespeichert: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
 Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutzer haben jetzt die Möglichkeit, ihre Lieblingspräsenzen manuell über die Benutzeroberfläche der [Website](https://premid.app/) hinzuzufügen und zu entfernen.
 
-> Bevor Sie anfangen, sollten Sie sich unsere Präsenzrichtlinien anschauen. 
+> Bevor du anfängst, solltest du dir unsere Presencerichtlinien anschauen. 
 > 
 > {.is-warning}
 
@@ -21,7 +21,7 @@ Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutze
 {.links-list}
 
 # Struktur
-Alle Anwesenden sind im [TypeScript](https://www.typescriptlang.org/) geschrieben. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders strenge Typdefinitionen, sodass das Beheben und Erkennen von Fehlern viel einfacher ist.
+Alle Presences sind in [TypeScript](https://www.typescriptlang.org/) geschrieben. [TypeScript](https://www.typescriptlang.org/) enthält einige besonders strenge Typdefinitionen, sodass das Beheben und Erkennen von Fehlern viel einfacher ist.
 
 ## Installation
 1. Installiere [Git](https://git-scm.com/).
@@ -370,15 +370,15 @@ Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folge
 3. Fülle Deine iFrame-Datei aus.
 ```javascript
 var iframe = new iFrame();
-iframe. n("UpdateData", () => {
-    /*
-    Holen Sie sich alle Daten, die Sie aus dem iFrame benötigen, in Variablen
-    und senden Sie sie dann mit iframe ab. Ende
-    */
-    iframe. end({ //Daten senden
-        Video: Video,
-        Mal: Video. uration  
-    });
+iframe.on("UpdateData", async () => {
+  /*
+  Get all the data you need out of the iFrame save them in variables
+  and then sent them using iframe.send
+  */
+  iframe.send({ //sending data
+    video: video,
+    time: video.duration
+  }); 
 });
 ```
 4. Ermögliche Deiner Präsenz-Datei, Daten aus der iFrame-Datei zu empfangen.

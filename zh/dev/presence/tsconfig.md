@@ -1,9 +1,10 @@
 ---
-title: Untitled Page
+title: TypeScript Configuration
 description: A little helper for TypeScript
 published: 是
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: 標記
 ---
 
 # TypeScript Configuration

@@ -1,9 +1,10 @@
 ---
-title: Stránka bez názvu
+title: Konfigurace TypeSkriptu
 description: Malý pomocník pro TypeScript
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # Konfigurace TypeSkriptu
@@ -46,7 +47,7 @@ V kořenovém konfiguračním souboru uvidíte něco podobného.
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
 | noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
 | inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| typeRoots                  | Více o tom si můžete přečíst [zde](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                      |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## Nastavení Presenc

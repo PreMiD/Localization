@@ -1,9 +1,10 @@
 ---
-title: Untitled Page
+title: TypeScript Configuration
 description: A little helper for TypeScript
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # TypeScript Configuration
@@ -35,7 +36,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | Description                                                                                                                                                         |
+| Property                   | Opis                                                                                                                                                                |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
 | module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
@@ -60,7 +61,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Description                                                                            |
+| Property            | Opis                                                                                   |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
 | **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |

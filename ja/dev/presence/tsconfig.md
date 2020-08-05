@@ -1,9 +1,10 @@
 ---
-title: 無題のページ
+title: TypeScriptの構成
 description: TypeScriptのヘルパー
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # TypeScriptの構成
