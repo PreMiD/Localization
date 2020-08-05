@@ -217,7 +217,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - `localStorage`'a erişmenize **izin verilmemektedir**.
 - Çerezlerden bilgi alışverişi yaparken, çerezlerin başına her zaman `PMD_` ekini koyun.
 - `premid.app` ya da servisin sitesinin API'sine sadece HTTP/HTTPS istekleri yapabilirsiniz. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (örneğin, `data.startTimestamp = undefined` yerine `delete data.startTimestamp` kullanın)
+- Veri objesinin üzerindeki verileri "undefined" veya "null" olarak ayarlamak yerine `delete` aracını kullanın. (örneğin, `data.startTimestamp = undefined` yerine `delete data.startTimestamp` kullanın)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -272,7 +272,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 - Eğer bir pull request, 7 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
 - Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
 - ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz_. Bu izin, hem servisi oluştururken, hem de servisi güncellerken kullanılabilir.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. [Buradan](https://imgur.com/a/OD3sj5R) bir örneğine ulaşabilirsiniz.
+- ⚠️ Eğer ayarlar sekmesini kullanıyorsanız, ayrıca buranın da bir ekran görüntüsünü atmanız **gereklidir**. [Buradan](https://imgur.com/a/OD3sj5R) bir örneğine ulaşabilirsiniz.
 
 ## `Kontroller`
 
