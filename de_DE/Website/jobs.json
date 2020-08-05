@@ -24,15 +24,15 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD ist ein Open-Source-Projekt, das bedeutet, dass wir sind ein gemeinnütziges Team sind. Jede normale Spende oder Patreon-Spende fließt zurück in das Produkt. Wenn du dich für eine Stelle bei PreMiD bewerben willst, bestätige , dass du sich freiwillig im Team engagierst. Du wirst für Ihre Arbeit nicht bezahlt.",
+		"message": "PreMiD ist ein Open-Source-Projekt, das bedeutet, dass wir sind ein gemeinnütziges Team sind. Jede normale Spende oder Patreon-Spende fließt zurück in das Produkt. Wenn du dich für eine Stelle bei PreMiD bewerben willst, bestätige, dass du dich freiwillig im Team engagierst. Du wirst für Ihre Arbeit nicht bezahlt.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Tritt unserem Discord Server bei",
+		"message": "Trete unserem Discord-Server bei",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Um dich bewerben zu können, musst du unserem Discord beigetreten sein. Sonst könnten wir dich nicht kontaktieren, falls du am Ende ausgewählt wirst!",
+		"message": "Um dich bewerben zu können, musst du unserem Discord-Server beigetreten sein. Sonst könnten wir dich nicht kontaktieren, falls du am Ende ausgewählt wirst!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Mächtige Discord Berechtigungen und eine farbenfrohe Rolle.",
+		"message": "Mächtige Discord-Berechtigungen und eine farbenfrohe Rolle.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
@@ -92,7 +92,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
-		"message": "Early Access",
+		"message": "Early-Access",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
