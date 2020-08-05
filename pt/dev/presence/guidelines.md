@@ -1,6 +1,6 @@
 ---
 title: Diretrizes
-description: Regras que todos os presence developers devem seguir para ter sua presence adicionada.
+description: Regras que todos os desenvolvedores de presence devem seguir para ter a sua presence adicionada.
 published: true
 date: 2020-07-21T22:22:06.316Z
 tags:
@@ -9,21 +9,21 @@ editor: markdown
 
 # Diretrizes
 
-Publicando Presences a este GitHub, nós requeremos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras evitará que nós e os usuários nos deparemos com qualquer problema.
+Ao publicar Presences a este GitHub, exigimos que siga um conjunto de diretrizes. Para alguns, estas regras rígidas podem parecer duras. No entanto, a implementação destas regras impedir-nos-á a nós e aos utilizadores de se decompormos com quaisquer problemas.
 
 # Criação
 
-As regras gerais de desenvolvimento de presences são as seguintes:
+As regras gerais de desenvolvimento da presence são as seguintes:
 
-- As Presences **devem** estar relacionadas com o website escolhido.
-- As Presencses **não devem** ser feitas para websites ilegais. (por exemplo, estressores, comércio de drogas, pornografia infantil, etc.)
-- A estrutura do arquivo deve ser limpa e estruturada, não inclua arquivos que não estiverem especificados. (por exemplo, pastas de vscode e git, imagens, arquivos de texto, etc.)
-- Você precisa ter uma estrutura de arquivos adequada, rascunhos **não são** permitidos.
-- Presences para websites com (domíno de topo `.onion`) ou websites com domínios/hospedagens gratuitas (por exemplo, `.TK` [todos os domínios grátis da Freenom], `.RF`, `.GD`, etc.) **não são** permitidos, exceções poderão ser feitas se houver uma prova mostrando que eles pagarem pelo domínio.
-- Presences sobre páginas internas de navegadores (como a Chrome Web Store, `chrome://`, páginas `about:`, etc) **não são** permitidas por requererem uma bandeira experimental a ser ativada no lado do usuário e que poderia potencialmente causar dano aos seus navegadores.
-- Presences com suporte apenas para um único subdomínio **não serão** permitidas, visto que elas podem parecer quebradas em outras páginas (como a página principal), exceções podem ser feitas para as páginas de políticas e de contato (conteúdo que não é usado com frequência) ou sites onde o outro conteúdo não é relacionado. (por exemplo, páginas da Wikia)
-- Presences de baixa qualidade (ou com pouco contexto) **não são** permitidos (por exemplo, apenas mostrar uma logo e um texto mas nunca mudá-los de novo.)
-- Incluir a pasta `dist`, o arquivo `presence.ts`, o arquivo `iframe.ts` e o arquivo `metadata.json` é mandatório, então o resultado seria o que está representado no seguinte esquema:
+- Presences **deve** estar relacionado com o site de eleição.
+- Presenças **não** podem ser feitas para sites ilegais. (por exemplo, estresse, tráfico de drogas, pornografia infantil, etc.)
+- A estrutura do arquivo deve ser limpa e gerenciada, não inclui ficheiros que não são especificados. (por exemplo, vscode e pastas git, imagens e arquivos de texto, etc.)
+- Você precisa ter uma estrutura de arquivos correta, rascunhos **não são** permitidos.
+- Presenças para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
+- Presença que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
+- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
+- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
+- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
 presence
@@ -34,7 +34,7 @@ presence
 └── tsconfig.json
 ```
 
-ou, se você estiver usando um arquivo `iframe.ts`:
+ou se você estiver usando um arquivo `iframe.ts:`
 
 ```bash
 presence
@@ -49,19 +49,19 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Para a conveniência de nossos desenvolvedores de Presence, nós providenciamos um esquema que você pode usar para validar a integridade do seu arquivo de `metadata`. Isso é inteiramente opcional e não é necessário durante o processo de revisão. 
+> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process. 
 > 
 > {.is-info}
 
-> É altamente recomendado que você organize seu arquivo de `metadata` no formato mostrado abaixo, e você deve escrever os nomes dos serviços, descrições, tags e campos de configuração gramaticamente corretos. Tudo aquilo que não estiver organizado nessas especificações **não será** permitido. 
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
 > 
 > {.is-warning}
 
-> Presenças de sites que têm conteúdo explícito **deve** ter a tag `nsfw`, e a logo/miniatura **não** contém qualquer deste conteúdo. 
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
-Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados tem um padrão estrito e um exemplo desse arquivo pode ser encontrado abaixo:
+Cada presença tem um arquivo de descriptor chamado `metadata.json`, a metadata têm um padrão rigoroso e um exemplo deste arquivo pode aparecer abaixo:
 
 ```json
 {
@@ -119,83 +119,83 @@ Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados 
 }
 ```
 
-> Se algum campo for listado como opcional na [documentação](https://docs.premid.app/en/dev/presence/metadata) e a sua presence usar o valor padrão, não o inclua no arquivo de `metadata`. (por exemplo, uma presence sem suporte iframe não precisaria de um campo `iframe`.) 
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
 > 
 > {.is-warning}
 
-> Todas as imagens no arquivo de `metadata` devem estar hospedadas no `i.imgur.com` ou em um CDN que lhê dê permissões para **mudar** arquivos de imagens. Conteúdo hospedado no site em si **não é** permitido visto que ele pode mudar de posição de forma indesejada. 
+> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
 > 
 > {.is-warning}
 
-Uma lista de campos e de suas respectivas regras está listada abaixo:
+A list of fields and their rules are listed below:
 
 ### **`$schema`**
 
-- O schema _key_ **deve** incluir um sinal de dólar no início do mesmo, isto irá sinalizar ao seu editor de texto que você quer validar o seu arquivo JSON contra um modelo. _Como foi dito anteriormente, não é necessário incluir um schema, mas se o incluir, deve levar isto em conta._
+- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`author`**
+### **`autor(a)`**
 
-- O _valor_ ID **deve** ser o seu Discord snowflake ID. Você pode obtê-lo ativando o [modo desenvolvedor](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Por favor, **não** confunda isto com o seu application ID, que é apenas para a sua presence._
+- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`contribuidores(as)`**
 
-- Do **not** adicione-se como colaborador e não adicione outra pessoa como colaborador, a menos que tenha ajudado na presença.
+- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
-### **`service`**
+### **`serviço`**
 
-- O nome do serviço **deve** ser o nome do diretório da presence. Por exemplo, se a presence estiver localizada em `/websites/Y/YouTube/`, o nome do serviço deve ser `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (Por exemplo, `YouTube` é permitido  por que esse é o nome oficial e é descritivo, enquanto `youtube.com` não é. `Top` é um nome não descritivo, então use a url `top.gg` is **required**.)
+- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
-- **Só** use isso em cenários onde um site tem vários nomes oficiais (ex. Pokémon e 포켓몬스터) ir para ficar mais fácil de procurar a presence sem usar caracteres especiais (ex. Pokémon e Pokemon). *Shortened* versões em serviço, nomes vão embaixo `tags`.
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`description`**
+### **`descrição`**
 
-- **Todas** as presences tem a **obrigação** de ter uma descrição em inglês independentemente do idioma preferido do site.
-- **Não** tente traduzir a descrição você mesmo a menos que você conheça esse idioma, os tradutores irão modificar seu `metadata.json` e alterar as descrições se necessário.
+- **All** presences are **required** to have an English description regardless of the website's prefered language.
+- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
-### **`url`**
+### **`URL`**
 
-- A url **deve** ser uma string se o site usa apenas um domínio. Se o site utiliza vários, faça disso uma array e especifique cada um deles.
-- **Não** inclua protocolos na url (por exemplo, `http` ou `https`) e não inclua parâmetros query na url (por exemplo, `www.google.com/search?gws_rd=ssl` no qual deve ser `www.google.com`)
+- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`version`**
+### **`versão`**
 
-- Sempre tenha certeza de que o número da versão segue os [padrões de versionamento semântico](https://semver.org), o que se traduz no seguinte esquema: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Qualquer outra coisa como `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` ou mudar `1.0.0` para `2.0.0` em uma correção de bug/alteração pequena **não** é permitida.
-- A versão **deve** sempre começar na versão `1.0.0` a menos que se diga o contrário, outras versões **não** serão permitidas.
+- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
+- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
-### **`logo`**
+### **`Logotipo`**
 
-- A logo **deve** ser uma imagem quadrada com uma relação de aspecto `1:1`.
-- É **necessário** que a imagem tenha uma resolução mínima de `512x512` pixels. Você pode aumentar o tamanho da imagem usando uma ferramenta como [waifu2x](http://waifu2x.udp.jp/).
+- The logo **must** be a square image with a `1:1` aspect ratio.
+- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
-- A thumbnail **deve** ser de preferência um [cartão promocional](https://i.imgur.com/3QfIc5v.jpg) largo ou uma [screenshot](https://i.imgur.com/OAcBmwW.png) se a primeira opção **não** estiver disponível.
+- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
 
-### **`color`**
+### **`cor`**
 
-- A cor ** deve ** ser um valor hexadecimal entre `#000000` e `#FFFFFF`.
-- A string de cor **deve** ser precedida com um símbolo hash.
+- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
+- The color string **must** be prepended with a hash symbol.
 
-### **`tags`**
+### **`etiquetas`**
 
-- **Todas** presences precisam ter pelo menos _uma_ tag.
-- Tags **não** devem incluir nenhum espaço, barra, aspas, caracteres Unicodes, e devem sempre ser com letras minúsculas.
-- Tags **devem**, de preferência, incluir nomes de serviço alternativos para tornar a busca mais fácil (por exemplo, se uma presença da Amazon incluir o suporte para AWS, ele teria tags como `amazon-web services` e `aws`).
-- É **necessário** incluir a tag `NSFW` se a presença for para um site NSFW.
+- **All** presences are required to have at least _one_ tag.
+- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+- Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
+- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
-### **`category`**
+### **`Categoria`**
 
-- A categoria **deve ser** uma das seguintes listadas na [documentação](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- A presença deve utilizar uma categoria que corresponda ao conteúdo do site. (por exemplo, não utilize `anime` quando o site não é de anime).
+- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
 - Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
 
-### **`configurações`**
+### **`definições`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
@@ -219,7 +219,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **Não** escreva seu próprio ficheiro `tsconfig.json`, use quando deve ser providenciado na [documentação](https://docs.premid.app/pt/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
@@ -234,11 +234,11 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Certifique-se de que as modificações são úteis. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
+- Make sure the modifications are useful. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verificação
 
-> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. Todas as verificações terão a função `Verificar presença` no seu perfil. 
+> If you need to contact someone, please use our official Discord server. All verifiers will have the `Presence Verifier` role on their profile. 
 > 
 > {.is-info}
 
@@ -246,14 +246,14 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-info}
 
-> **Sempre** tem uma bifurcação atualizada antes de criar sua pull request. Isso ajudará a limitar falsos positivos de `DeepScan`. 
+> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from `DeepScan`. 
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Os nossos verificadores confirmarão que a sua presença está à altura das normas e que será puxada para a loja.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -262,30 +262,30 @@ The most important process of presence development is getting your presence on t
   <br />
 </div>
 
-## `Revisando`
+## `Analisando`
 
-A few things you should know after opening a pull request:
+Algumas coisas que você deve saber após abrir uma pull request:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- São necessários 2 revisores para fazer o merge de um pull request.
+- Se um pull request estiver inativo por um período de 7 dias, ele será rapidamente fechado.
+- Todas as verificações **devem ser** passadas para merge.
+- ⚠ Você **deve** fornecer novas, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presença funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar o prazer._ Isso aplica-se tanto à criação quanto à modificação.
+- ⚠ Você também é **necessário** para incluir capturas de tela das configurações de presença na extensão, se fornecido. Um exemplo pode ser visto [aqui](https://imgur.com/a/OD3sj5R).
 
 ## `Verificações`
 
 ![Verificações](https://i.imgur.com/bk0A1iY.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
+Actualmente, uma presença atravessa 2 fases distintas de controlos. Todas estas verificações ajudam os verificadores a determinar se sua presença é adequada para implantação.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `DeepScan` é um bot que verifica a qualidade do código. Se você receber erros para novas issues, é **necessário** para corrigi-los.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Notas Adicionais`
+## `Regras Adicionais`
 
-- Certifique-se sempre de iniciar sua presença na pasta mais apropriada, se seu nome começa com qualquer letra latina então deve estar sob sua correspondência alfabética ( ex. `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não latinos **Devem** estar sob a pasta "#" ( ex. `#/巴哈姆特`) e números sob a pasta "0-9" ( ex. `0-9/4anime`).
+- **Sempre** certifique-se de iniciar sua presença na pasta mais apropriada, se seu nome começa com _qualquer_ letra latina, então ela deve estar abaixo da correspondência alfabética (para e. Exemplo: `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não-Latinos **deve** estar abaixo da pasta `#` (por exemplo, `#/巴哈姆特`) e números abaixo da pasta `0-9` (por exemplo, `0-9/4anime`).
 
-Após atender a todas as diretrizes e ter sua Presence revisada pelo menos duas vezes, sua Presence será fundida com a loja.
+Depois de conhecer todas as diretrizes com as análises e verificações adequadas, sua presença estará na loja.
 
 # Contribuições
 
@@ -295,7 +295,7 @@ Após atender a todas as diretrizes e ter sua Presence revisada pelo menos duas 
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`A Revisão 1` foi mantida pelos seguintes indivíduos:
+`A revisão 1` foi mantida pelos seguintes indivíduos:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
