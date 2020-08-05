@@ -1,13 +1,13 @@
 ---
-title: Präsenz-Klasse
-description: Die Hauptklasse für jede PreMiD-Präsenz
+title: Presence-Klasse
+description: Die Hauptklasse für jede PreMiD-Presence
 published: true
 date: 2020-07-29T15:12:55.925Z
 tags:
 editor: markdown
 ---
 
-# Präsenzklasse
+# Presence-Klasse
 
 ## Einführung
 
