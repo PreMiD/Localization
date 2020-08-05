@@ -127,10 +127,6 @@
 		"message": "taiga ist ein Discord Bot mit dem Ziel, alle Funktionen die du gebrauchen kannst in einem Bot anzubieten!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Ein funktionsreicher Bot, der Ihnen erlaubt, Webseiten und Spiele mit vielen Funktionen zu überwachen.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Ein leistungsstarkes und einfach zu bedienendes plattformübergreifendes Installations-Erstellungswerkzeug.",
 		"description": "Description for BitRock."
@@ -138,6 +134,10 @@
 	"partners.partner.statusPage": {
 		"message": "Kommuniziere dein Echtzeit-Status mit deinen Benutzern.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Eine Göttin, die als lustiger Discord-Bot spielt!",
+		"description": "Description for Erisly."
 	},
 	"partners.partner.crowdin": {
 		"message": "Flexible Übersetzungslösung für Technologieunternehmen.",
@@ -200,7 +200,7 @@
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "Beschreibung vor vorgestellt",
+		"message": "Beschreibung für vorgestellt",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
@@ -232,7 +232,7 @@
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Bitte einen Link hinzufügen (muss mit https:// starten und .png enden)",
+		"message": "Bitte einen Link hinzufügen (muss mit https:// starten und mit .png enden)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
