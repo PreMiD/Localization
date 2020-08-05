@@ -80,7 +80,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Autor</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
@@ -90,7 +90,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mitwirkende</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
@@ -100,7 +100,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Bedienung</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt.</td>
       <td style="text-align:left"><code>String</code>
@@ -109,7 +109,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>alternative Namen</b>
+      <td style="text-align:left"><b>altnames</b>
       </td>
       <td style="text-align:left">Sie können die Präsenz mit einem alternativen Namen suchen. <br>Mittel für Präsenzen, die unterschiedliche Namen in verschiedenen Sprachen haben (z.B. Pokémon und 포켓몬스터).<br>Sie können es auch für Präsenzen verwenden, die Sonderzeichen haben, damit Sie diese nicht eingeben müssen (z.B. Pokémon und Pokemon).
       </td>
@@ -119,7 +119,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Beschreibung</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
         wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. View the category for presence languages for a list. </td>
@@ -158,7 +158,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logo</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Link zum Logo von Dienst&apos;.</td>
       <td style="text-align:left"><code>String</code>
@@ -176,7 +176,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Farbe</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code># HEX</code> Wert. Wir empfehlen, eine Primärfarbe des Dienstes
         , die Ihre Anwesenheit unterstützt.</td>
@@ -186,7 +186,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Stichworte</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Array mit Tags, sie helfen Benutzern, Ihre Präsenz auf der Website zu suchen.</td>
       <td
@@ -196,7 +196,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Kategorie</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt.</td>
       <td style="text-align:left"><code>String</code>
@@ -223,7 +223,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>einstellungen</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
