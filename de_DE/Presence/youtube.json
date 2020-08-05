@@ -20,7 +20,7 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Liest über Kanal:",
+        "message": "Liest Kanalbeschreibung:",
         "description": ""
     },
     "youtube.searchChannel": {
@@ -32,7 +32,7 @@
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Durchsuchen",
+        "message": "Durchstöbert",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
