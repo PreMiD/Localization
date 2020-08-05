@@ -110,11 +110,11 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 ```
 
 Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du musst jetzt die Werte der Eigenschaften bearbeiten. Beachte, dass die folgenden Eigenschaften in Deiner `metadata.json` optional sind. Wenn Du sie nicht verwenden möchten, musst Du sie entfernen.
-- `Mitwirkende`
+- `contributors`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
-- `einstellungen`
+- `settings`
 
 **Klarstellung einiger Wertvoreinstellungen:**
 <table>
@@ -128,7 +128,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Autor</b>
+      <td style="text-align:left"><b>author</b>
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
@@ -138,7 +138,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mitwirkende</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
         Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
@@ -148,7 +148,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Bedienung</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">Der Titel des Dienstes, den diese Präsenz unterstützt. <br>(Muss den gleichen Namen haben wie der Ordner, in dem sich alles befindet)</td>
       <td style="text-align:left"><code>String</code>
@@ -157,7 +157,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>alternative Namen</b>
+      <td style="text-align:left"><b>altnames</b>
       </td>
       <td style="text-align:left">Sie können die Präsenz mit einem alternativen Namen suchen. <br>Mittel für Präsenzen, die unterschiedliche Namen in verschiedenen Sprachen haben (z.B. Pokémon und 포켓몬스터).<br>Sie können es auch für Präsenzen verwenden, die Sonderzeichen haben, damit Sie diese nicht eingeben müssen (z.B. Pokémon und Pokemon).
       </td>
@@ -167,7 +167,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Beschreibung</b>
+      <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
         wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor.</td>
@@ -219,7 +219,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logo</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Link zum Logo von Dienst&apos;.</td>
       <td style="text-align:left"><code>String</code>
@@ -237,7 +237,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Farbe</b>
+      <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left"><code># HEX</code> Wert. Wir empfehlen, eine Primärfarbe des Dienstes
         , die Ihre Anwesenheit unterstützt.</td>
@@ -247,7 +247,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Stichworte</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Array mit Tags, sie helfen Benutzern, Ihre Präsenz auf der Website zu suchen.</td>
       <td
@@ -257,7 +257,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Kategorie</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
       <td style="text-align:left"><code>String</code>
@@ -284,7 +284,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>einstellungen</b>
+      <td style="text-align:left"><b>settings</b>
       </td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
