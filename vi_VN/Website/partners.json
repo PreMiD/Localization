@@ -123,10 +123,6 @@
 		"message": "taiga là một Discord Bot đang cố gắng cung cấp tất cả các tính năng mà bạn có thể cần cùng một lúc!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Một con Bot tuyệt vời cho phép bạn giám sát các trang web, trò chơi và nhiều tính năng nữa.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Một nền tảng mạnh mẽ và dễ dùng trong việc tạo những gói cài đặt đa nền tảng.",
 		"description": "Description for BitRock."
