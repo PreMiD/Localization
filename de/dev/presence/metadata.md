@@ -82,8 +82,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Sollte Objekt mit <code>Name</code> und <code>ID</code> des Präsenzentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
-        Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
+      <td style="text-align:left">Sollte Objekt mit <code>name</code> und <code>id</code> des Presenceentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner(#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -92,8 +91,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name ist Ihr Discord-Benutzername ohne den Bezeichner (# 0000). Benutzer <code>ID</code> kann aus Discord kopiert werden, indem der Entwickler
-        Modus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name ist Ihr Discord-Benutzername ohne den Bezeichner(#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -244,7 +242,7 @@ Wenn Sie reguläre Ausdrücke lernen möchten, finden Sie hier einige Websites.
 
 #### Testing
 
-• [Regex](https://regexr.com/) • [Regex101](https://regex101.com/)
+• [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
 ## Presence languages
 
@@ -314,37 +312,37 @@ When making your presence, you must specify a category which the presence falls 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
       <td style="text-align:left">Alles, was mit Anime zu tun hat, von Foren bis zu Video-Streaming-Plattformen.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Spiele</b></td>
+      <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Spiele</b></td>
       <td style="text-align:left">Jede Website mit spielbezogenen Inhalten, z. B. <code>Kahoot</code> oder <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Musik-</b></td>
+      <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>Musik</b></td>
       <td style="text-align:left">Hierbei handelt es sich um Websites, die musikbezogene Inhalte anbieten, unabhängig davon, ob diese gestreamt oder heruntergeladen werden.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Soziale</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Soziale Netzwerke</b></td>
       <td style="text-align:left">Websites, die zum Erstellen und Teilen von Inhalten oder zur Teilnahme an anderen Formen sozialer Netzwerke verwendet werden.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Videos</b></td>
+      <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Websites, die dem Zweck dienen, Videos und Streams bereitzustellen.</td>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>andere</b></td>
+      <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>Sonstige</b></td>
       <td style="text-align:left">Alles, was nicht unter eine der oben aufgeführten Kategorien fällt.</td>
       </td>
