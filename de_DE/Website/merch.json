@@ -3,6 +3,14 @@
 		"message": "Willkommen im offiziellem **PreMiD** Merchandise Shop!",
 		"description": "Merch store title"
 	},
+	"merch.swag": {
+		"message": "Finde Deinen **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Wähle deine Größe**",
+		"description": "Product sizes"
+	},
 	"merch.cart": {
 		"message": "In den Warenkorb",
 		"description": "Add product to cart"
