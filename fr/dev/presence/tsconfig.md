@@ -1,9 +1,10 @@
 ---
-title: Page sans titre
+title: Configuration TypeScript
 description: Un peu d'aide pour TypeScript
 published: vrai
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # Configuration TypeScript
