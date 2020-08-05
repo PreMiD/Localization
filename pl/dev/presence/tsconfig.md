@@ -1,9 +1,10 @@
 ---
-title: Strona bez tytułu
+title: Konfiguracja TypeScript
 description: Mały pomocnik do TypeScript
 published: tak
-date: 09.05.2020 14:32
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # Konfiguracja TypeScript
