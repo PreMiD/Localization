@@ -1,9 +1,10 @@
 ---
-title: หน้าไม่มีชื่อ
+title: การกำหนดค่าไฟล์ Typescript
 description: ตัวช่วยเล็กๆ สำหรับ Typescript
 published: true
-date: 2020-05-09T14:32:40.832Z
+date: 2020-08-05T16:25:22.812Z
 tags:
+editor: markdown
 ---
 
 # การกำหนดค่าไฟล์ Typescript
@@ -46,7 +47,7 @@ In the root configuration file you will see something like this.
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
 | noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
 | inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
+| typeRoots                  | คุณสามารถอ่านข้อมูลเพิ่มเติมได้ [ที่นี่](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
 ## การตั้งค่า Presence
