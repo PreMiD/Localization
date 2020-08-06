@@ -120,7 +120,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
-        wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. View the category for presence languages for a list. </td>
+        wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. Siehe die Kategorie für Presence-Sprachen für eine Liste. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -129,8 +129,8 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL des Services.<br><b>Beispiel:</b><code>vk.com</code><br>
+        <b>Die URL muss gleich der URL der Website sein, da sie genutzt wird um zu erkennen, ob es sich um die richtige Website handelt. Dies darf nur als Array benutzt werden, wenn es mehr als nur eine URL gibt.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -140,7 +140,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Ein Regex-String, welcher benutzt wird, um URLs zu vergleichen.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -223,7 +223,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Eine Reihe von Einstellungen, die der Nutzer ändern kann.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -236,20 +236,20 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
 
 Wenn Sie reguläre Ausdrücke lernen möchten, finden Sie hier einige Websites.
 
-#### Learning
+#### Lernen
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Schnellstarter-Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Reguläre-Ausdrücke-Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Testen
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Presence-Sprachen
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD ist ein mehrsprachiger Service, was bedeutet, dass es eine Reihe von Sprachen gibt, welche die Nutzer über den ganzen Globus verbinden. Eine vollständige Liste von Sprachen können mithilfe dieses [API-Endpunkts](https://api.premid.app/v2/langFile/list) gefunden werden.
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Presence-Einstellungen
+Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eingestellt werden kann.
 ```javascript
 "settings": [
         { 
@@ -278,27 +278,27 @@ Setup interactive settings so users can customize the presence!
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Benutze die folgenden Methoden, um eine Einstellungen-Info in deinen Presence-Dateien zu bekommen.
 ### `getSetting(String)`
-Returns value of setting.
+Gibt den Wert der Einstellung wieder.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Versteckt die definierte Einstellung.
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Zeigt definierte Einstellung (Funktioniert nur, wenn die Einstellung bereits versteckt war).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## Presence categories
+## Presence-Kategorien
 
 When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
 
