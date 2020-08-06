@@ -99,13 +99,13 @@ console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Versteckt die definierte Einstellung.
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Zeigt definierte Einstellung (Funktioniert nur, wenn die Einstellung bereits versteckt war).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
