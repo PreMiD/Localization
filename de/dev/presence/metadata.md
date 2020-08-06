@@ -300,7 +300,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ## Presence-Kategorien
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Wenn du deine Presence erstellst, musst du eine Kategorie definieren, welche der Presence entspricht. Dies ist eine zusammengestellte Liste der Kategorien, welche du benutzen kannst.
 
 <table>
   <thead>

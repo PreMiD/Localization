@@ -119,15 +119,15 @@ Jede Presence hat eine Deskriptor-Datei namens `metadata.json`, die Metadaten ha
 }
 ```
 
-> Falls ein Feld als Optional in der [Dokumentation](https://docs.premid.app/en/dev/presence/metadata) markiert ist und ihre Presence den Standardwert für dieses Feld verwendet, sollten sie es nicht in der `metadata`-Datei enhalten. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Falls ein Feld als Optional in der [Dokumentation](https://docs.premid.app/en/dev/presence/metadata) markiert ist und ihre Presence den Standardwert für dieses Feld verwendet, sollten sie es nicht in der `metadata`-Datei enhalten. (z.B. eine Presence ohne iframe-Unterstützung braucht das `Iframe-Feld` nicht.) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
+> Alle bilder in den `Metadaten-Datei` müssen auf `i.imgur.com` gehostet sein oder einer CDN, die dir erlaubt, Bilddateien **zu ändern** . Content hosted on the website itself is **not** permitted as they can change the locations unwillingly. 
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`$schema`**
 
