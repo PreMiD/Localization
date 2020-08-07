@@ -75,6 +75,14 @@
     "message": "Изглежда, че нямате достъп до алфа/бета версий :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.error.noaccess.description": {
+    "message": "Можеш да се присъединиш към бета програмата **here** безплатно. Побързай! Имаме само още {0} свободни места",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Ранни версий",
+    "description": "Header above alpha/beta download buttons."
+  },
   "downloads.warning.title": {
     "message": "Предупреждение",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
