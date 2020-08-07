@@ -179,10 +179,10 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
       <td style="text-align:left"><b>url</b>
       </td>
       <td style="text-align:left">URL dari layanan <br><b>contoh:</b><code>vk.com</code><br>        <b>URL ini harus sama dengan URL yang dimiliki website sebab itu akan mendeteksi apakah ini adalah website yang akan diinject script. </b><br><b>JANGAN</b> menambahkan <code>https://</code> or <code>http://</code> kedalam URL atau garis miring diakhir: <code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Catatan</b>: beberapa URL mungkin memiliki <code>www.</code> atau sesuatu didepan domainnya. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+<b>Catatan</b>: beberapa URL mungkin memiliki <code>www.</code> atau sesuatu didepan domainnya. <b>JANGAN</b> lupa untuk menambahkannya!<br>
+Kamu bisa menambahkan beberapa URL dengan cara seperti ini:<br>
+<code>["URL1", "URL2", "DLL."]</code><br>
+Kamu juga bisa menggunakan regExp juga dikenal sebagai Regex untuk hal ini, dijelaskan lebih lanjut di bawah.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
