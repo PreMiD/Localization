@@ -38,5 +38,21 @@
   "downloads.adsbox.thankyou.title": {
     "message": "Благодаря ти!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Наистина?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Трябваш ми :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Добре, добре...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Покажи бета изтегляния",
+    "description": ""
   }
 }
