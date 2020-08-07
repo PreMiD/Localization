@@ -189,7 +189,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 ### **`category`**
 
 - Kategori **diharuskan** salah satu dari yang tercantum pada [dokumentasi](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- Presence harus menggunakan kategori yang menyerupai konten situs web. (for e.g., don't use `anime` when the website isn't related to anime).
+- Presence harus menggunakan kategori yang menyerupai konten situs web. (untuk contoh, jangan gunakan `anime` ketika situs web tidak terkait dengan anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -198,7 +198,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 ### **`settings`**
 
 - Jika anda memutuskan untuk membuat string format ( misal, `%song% by %artist%`), anda harus membuat variabel dengan tanda persen diawal dan diakhir. Variabel seperti `%var`, `var%`, atau `%%var%%` dan apapun diantaranya **tidak** diperbolehkan demi standardisasi.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Nama pengaturan harus **tidak** menggunakan huruf kapital semuanya. Untuk contoh, nama seperti `PERLIHATKAN STATUS BROWSING` **tidak** diperbolehkan; namun, nama seperti `Perlihatkan Status Browsing` atau `Perlihatkan status browsing` diperbolehkan.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
