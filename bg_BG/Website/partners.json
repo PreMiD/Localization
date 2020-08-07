@@ -3,6 +3,10 @@
 		"message": "Партньори",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Нашето безплатно присъствие",
+		"description": "Heading for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Стани потвърден",
 		"description": "Heading for the second benefit."
@@ -19,9 +23,17 @@
 		"message": "Бъдете известен",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Представено на нашите социални медий.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.first.title": {
 		"message": "Какво търсим?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Нашата защитна стена",
+		"description": "Heading for the second requirement."
 	},
 	"partners.apply.button": {
 		"message": "Кандидатствай сега!",
@@ -35,17 +47,73 @@
 		"message": "Спонсори",
 		"description": "Heading for sponsors."
 	},
+	"partners.partner.fastly": {
+		"message": "Зад най-доброто от интернета.",
+		"description": "Description for Fastly."
+	},
+	"partners.apply.title": {
+		"message": "Кандидатствай за партньор",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Влезли като {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Не си ти?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Моля изберете едно",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Уебсайт",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "друг",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Пример: PreMiD",
+		"description": "Name field's placeholder."
 	},
 	"partners.apply.form.link": {
 		"message": "Линк",
 		"description": "Link field."
 	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Пример: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Описание: (Максимум 150 букви)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Описание на представените",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Линк към снимка: (550x300, само PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Пример: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Затвори",
 		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Кандидатствай",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "Моля, попълнете всички полета.",
+		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
 		"message": "Максимум 150 букви описание.",
