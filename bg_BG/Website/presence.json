@@ -23,6 +23,14 @@
 		"message": "версия",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.likes": {
+		"message": "Харесвания",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Потребители",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
 	"presence.sections.information.tags": {
 		"message": "маркирам",
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
