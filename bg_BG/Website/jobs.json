@@ -1,4 +1,8 @@
 {
+	"jobs.modal.title": {
+		"message": "Кандидатствай за {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
 	"jobs.modal.step": {
 		"message": "Стъпка {0} от 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
@@ -6,6 +10,10 @@
 	"jobs.modal.buttons.next": {
 		"message": "Напред",
 		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Присъедини се",
+		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Отказ",
@@ -15,13 +23,25 @@
 		"message": "Попълнете всички полета",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.guild.required": {
+		"message": "Присъединете се към нашия Дискорд сървър",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
 	"jobs.header.title": {
-		"message": "Работа за PreMiD",
+		"message": "Работи за PreMiD",
 		"description": "First part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Отворени работни места",
 		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Срещни се с нас",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.title": {
+		"message": "Подкрепете PreMiD",
+		"description": "Benefit card title."
 	},
 	"jobs.benefit5.title": {
 		"message": "Времето изтече",
@@ -30,5 +50,13 @@
 	"jobs.benefit6.title": {
 		"message": "Ранен достъп",
 		"description": "Benefit card title."
+	},
+	"jobs.success.applied": {
+		"message": "Благодарим ви, че кандидаствахте!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Вие вече сте подал заявка!",
+		"description": "Notification when you applied already."
 	}
 }
