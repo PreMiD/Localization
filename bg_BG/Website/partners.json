@@ -3,8 +3,60 @@
 		"message": "Партньори",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit2.title": {
+		"message": "Стани потвърден",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Бъди обезсмъртен",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Неприятно място на нашата партньорска страница.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Бъдете известен",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "Какво търсим?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.apply.button": {
+		"message": "Кандидатствай сега!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Нека да отидем в рая заедно!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "Спонсори",
+		"description": "Heading for sponsors."
+	},
 	"partners.apply.select.other": {
 		"message": "друг",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.link": {
+		"message": "Линк",
+		"description": "Link field."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Затвори",
+		"description": "Modal close button."
+	},
+	"partners.apply.error2": {
+		"message": "Максимум 150 букви описание.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Моля добавете линк (трябва да започва с https:// и да завършва с .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Ти вече си подал заявка за партньор.",
+		"description": "Error when already applied."
 	}
 }
