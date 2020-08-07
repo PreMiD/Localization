@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.browsingThrough": {
+        "message": "Търси в",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Гледа своите",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}

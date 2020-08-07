@@ -23,6 +23,10 @@
 		"message": "Попълнете всички полета",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD е open-source проект, което значи, че сме екип с нестопанска цел, всяко дарение или пари от патреон отиват обратно в продукта. При кандидатстване за работа в PreMiD вие знаете, че доброволствате в екипа, няма да бъдете заплащан за своята работа.",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "Присъединете се към нашия Дискорд сървър",
 		"description": "Title of the modal the user will see if it's not in Discord server."
@@ -35,13 +39,41 @@
 		"message": "Работи за PreMiD",
 		"description": "First part of the jobs page."
 	},
+	"jobs.header.description": {
+		"message": "Готов ли си да помогнеш в най-голямата Rich-Presence програма?",
+		"description": "The second part of the jobs page."
+	},
 	"jobs.openings.title": {
 		"message": "Отворени работни места",
 		"description": "Text before the available job positions cards."
 	},
+	"jobs.benefits.title": {
+		"message": "Предимства от висок клас",
+		"description": "Text before the benefits cards."
+	},
 	"jobs.benefit1.title": {
 		"message": "Срещни се с нас",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Свържи се с хората, които стоят зад PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sneak Peeks",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Погледни в нашето разработване и маркетинг.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Чест",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Силни Discord права и цветна роля.",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
 		"message": "Подкрепете PreMiD",
@@ -54,6 +86,10 @@
 	"jobs.benefit5.title": {
 		"message": "Времето изтече",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Отделете си време. Това е доброволен труд.",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
 		"message": "Ранен достъп",
