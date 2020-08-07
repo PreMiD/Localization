@@ -1,1 +1,10 @@
-{}
+{
+	"merch.cart": {
+		"message": "Добави в количката",
+		"description": "Add product to cart"
+	},
+	"merch.item.added": {
+		"message": "{0} добавени в количката",
+		"description": "{0} replaced with product name"
+	}
+}

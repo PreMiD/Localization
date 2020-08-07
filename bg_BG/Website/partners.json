@@ -31,6 +31,10 @@
 		"message": "Специална роля и почит ще ти бъда дадена в нашата Discord група.",
 		"description": "Description for the second benefit."
 	},
+	"partners.why.benefit3.title": {
+		"message": "Интеграция с мета-тагове",
+		"description": "Heading for the third benefit."
+	},
 	"partners.why.benefit3.description": {
 		"message": "Автоматично използва вашето присъствие, когато някой посещава вашия уебсайт.",
 		"description": "Description for the third benefit."
@@ -106,6 +110,14 @@
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio е най-успешно информационно-развлекателно радио за симулационни игри в Германия. Австрия и Швейцаря!",
 		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Получи каквото е твое. Стриймвай аниме, филми, хентай, специални и още. Безплатно, без никакви реклами в високо значение!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Започни да създаваш твоя собствена общност с страхотни шаблони. Построй твоето кралство.",
+		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
 		"message": "taiga е Discord бот, който се опитва да предлага всички функций, които ти трябват на веднъж!",
