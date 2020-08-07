@@ -46,5 +46,17 @@
     "facebook.browse": {
         "message": "Търси в:",
         "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Записани видеа",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Последно добавени",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Гледа днескашното време",
+        "description": ""
     }
 }
