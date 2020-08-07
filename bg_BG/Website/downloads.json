@@ -7,6 +7,26 @@
     "message": "Изтеглете PreMiD",
     "description": "Heading for installing the application"
   },
+  "downloads.instructions.step_2": {
+    "message": "Изтеглете нашата програма",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Добавете нашето разширение към вашият браузър",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Презаредете тази страница и проверете дали разширението е свързано",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "Все още имате проблеми? {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "Тук сме, за да помогнем!",
+    "description": "Link to our discord"
+  },
   "downloads.appdownloading.header": {
     "message": "Приложение",
     "description": "Header above application download buttons."
@@ -15,9 +35,17 @@
     "message": "разширение",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Предупреждение:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Няма инсталатор за тази операционна система. Това означава, че няма професионална подкрепа за това.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Знайте, че PreMiD не е поддържано на мобилни телефони.",
+    "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
     "message": "Показване на изтеглянията",
@@ -27,20 +55,64 @@
     "message": "Скриване на изтеглянията",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.error.login": {
+    "message": "Моля влезте си в профила, за да видите изтегленията.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.warning.title": {
+    "message": "Предупреждение",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.button.skip": {
+    "message": "Прескочи",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Назад",
+    "description": "Back button on the ads section"
+  },
   "downloads.button.cancel": {
     "message": "Отказ",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Добре",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.done": {
     "message": "Свършен",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Вход",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Благодаря ти!",
     "description": "Title of the advertisement section box."
   },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Ние използваме реклами, за да подкрепим екипът ни и да поддържаме нашите сървъри, за да ви предложим най-доброто преживяване!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Моля изключете вашият AdBlock-ър.",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Не искам да подкрепя.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Сигурни ли сте?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
   "downloads.skipanyway.message3": {
     "message": "Наистина?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "М-моля подкрепете ни :(",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message5": {
@@ -54,5 +126,9 @@
   "downloads.showbeta.message": {
     "message": "Покажи бета изтегляния",
     "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(ненужно, ако си тук, за да изтеглиш нормалната програма)",
+    "description": "Small text under the show beta title."
   }
 }
