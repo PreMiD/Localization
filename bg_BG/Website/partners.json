@@ -19,9 +19,21 @@
 		"message": "Нашето безплатно присъствие",
 		"description": "Heading for the first benefit."
 	},
+	"partners.why.benefit1.description": {
+		"message": "Нашият екип ще ви предостави присъствие от ваш избор.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Стани потвърден",
 		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Специална роля и почит ще ти бъда дадена в нашата Discord група.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматично използва вашето присъствие, когато някой посещава вашия уебсайт.",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Бъди обезсмъртен",
@@ -55,6 +67,10 @@
 		"message": "Нека да отидем в рая заедно!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Ако си или заинтересован в директна работа в PreMiD, тогава погледни към нашите **job advertisements**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Спонсори",
 		"description": "Heading for sponsors."
@@ -67,9 +83,21 @@
 		"message": "Това е как гледаш аниме.",
 		"description": "Description for AniFlix."
 	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings е следващо поколение, бързо-фазирана, Играч срещу Играч игра, играна в вашия браузър.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat е не профитно, интернационално радио, което се стреми да донесе нонстоп, качествено радио и новини развлечение.",
+		"description": "Description for UpBeatRadio."
+	},
 	"partners.partner.iLoot": {
 		"message": "Платформата за печелене на геймъри.",
 		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio е най-успешно информационно-развлекателно радио за симулационни игри в Германия. Австрия и Швейцаря!",
+		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.fastly": {
 		"message": "Зад най-доброто от интернета.",
