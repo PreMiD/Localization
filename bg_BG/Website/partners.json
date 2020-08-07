@@ -3,6 +3,18 @@
 		"message": "Партньори",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Присъедини се в семейството и получи някои бонуси специално за партньори и покажи колко си готин.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Тези вече принадлежат на нас",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Как ти звучи да отидеш в рая вместо в ада?",
+		"description": "Heading for benefits."
+	},
 	"partners.why.benefit1.title": {
 		"message": "Нашето безплатно присъствие",
 		"description": "Heading for the first benefit."
@@ -46,6 +58,18 @@
 	"partners.sponsors.title": {
 		"message": "Спонсори",
 		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD нямаше да е възможен, без тези уникални хора.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Това е как гледаш аниме.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.iLoot": {
+		"message": "Платформата за печелене на геймъри.",
+		"description": "Description for iLoot."
 	},
 	"partners.partner.fastly": {
 		"message": "Зад най-доброто от интернета.",
