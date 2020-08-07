@@ -57,7 +57,7 @@ Setel judul baki pada bilah Menu.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Metode asinkron yang memungkinkan kamu untuk mendapatkan string terjemahan dari extension. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. Kompilasi string terjemahan bisa ditemukan dengan menggunakan titik akhir ini: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Mengembalikan string `Playing` dan` Paused`
