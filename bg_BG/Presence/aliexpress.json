@@ -42,5 +42,25 @@
     "aliexpress.deletedOrders": {
         "message": "изтрити поръчки",
         "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress център за размяна",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Гледа своите купони",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Гледа своят адрес",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress помощен център",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress продавъчен център",
+        "description": ""
     }
 }
