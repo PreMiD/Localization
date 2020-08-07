@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Нашето безплатно присъствие",
+		"message": "Вашето безплатно присъствие",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
@@ -54,6 +54,10 @@
 	"partners.requirements.first.title": {
 		"message": "Какво търсим?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Гледаме за растящи общности и интересни неща по света.TL;DR трябва вече да използваш PreMiD и да си готов да го разпространиш към още повече привързаници на интернета. Приемането в програмата е екстремно качествено и ще варира от един кандидат към следващ.",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Нашата защитна стена",
@@ -102,6 +106,34 @@
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio е най-успешно информационно-развлекателно радио за симулационни игри в Германия. Австрия и Швейцаря!",
 		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga е Discord бот, който се опитва да предлага всички функций, които ти трябват на веднъж!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Мощен и лесен за използване cross платформа изтегляне-създаващ инсутрмент.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Лесно комуникирай статус в реално време към своите потребители.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Богиня, която играе като забавен Discord бот!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "Пъргава локализация за тек компаний.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Най-мощният и разтегателен, отворен source Wiki софтуер.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Обединено, приятно за разработчици интерфейс за всичките ви артифакти.",
+		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
 		"message": "Зад най-доброто от интернета.",
