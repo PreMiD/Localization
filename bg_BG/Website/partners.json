@@ -211,6 +211,10 @@
 		"message": "Кандидатствай",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Благодарим ви, че кандидаствахте!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Моля, попълнете всички полета.",
 		"description": "Error when a field isn't filled."
