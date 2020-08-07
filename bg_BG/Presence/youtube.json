@@ -1,4 +1,8 @@
 {
+    "youtube.trending": {
+        "message": "Гледа какво се покачва",
+        "description": ""
+    },
     "youtube.browsingThrough": {
         "message": "Търси в",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
