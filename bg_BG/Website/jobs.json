@@ -27,6 +27,10 @@
 		"message": "Присъединете се към нашия Дискорд сървър",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Да можете да кандидатстват трябва да сте в нашата Disord група. Ако не, няма да може да се свържем с вас, ако бъдете избран!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Работи за PreMiD",
 		"description": "First part of the jobs page."
@@ -43,6 +47,10 @@
 		"message": "Подкрепете PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "С твоите приноси е възможно да управляваме този проект.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Времето изтече",
 		"description": "Benefit card title."
@@ -50,6 +58,10 @@
 	"jobs.benefit6.title": {
 		"message": "Ранен достъп",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Тествай нови функций преди който и да е било.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Благодарим ви, че кандидаствахте!",
