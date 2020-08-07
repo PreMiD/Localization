@@ -31,6 +31,14 @@
         "message": "Политика на бисквитките",
         "description": "A page name"
     },
+    "premid.pagePrivacy": {
+        "message": "Политика за защита на личните данни",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Условия за Ползване",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
