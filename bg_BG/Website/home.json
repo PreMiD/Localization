@@ -3,6 +3,10 @@
 		"message": "** PreMiD ** е проста, конфигурируема програма, която ви позволява да показвате какво правите в мрежата в състоянието си на игра Discord сега.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Функций",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Downloads",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -14,6 +18,10 @@
 	"home.examples.timestamp": {
 		"message": "{0} наляво",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "изминало {0}",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
 		"message": "Възпроизвеждане назад",
@@ -31,12 +39,24 @@
 		"message": "Намерете ** вашето ** присъствие",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.button": {
+		"message": "Посетете магазина",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Настройки за приложения и разширения",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Сортирай по категория",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
 		"message": "Бърза поддръжка",
 		"description": "Features section subheading"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Език на уебсайта",
+		"description": "Tippy content of the language selector."
 	}
 }
