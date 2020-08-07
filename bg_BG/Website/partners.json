@@ -59,6 +59,10 @@
 		"message": "Нашата защитна стена",
 		"description": "Heading for the second requirement."
 	},
+	"partners.requirements.second.description": {
+		"message": "В момента приемаме различни видове усилие в нашата програма за партньори. Всеки ще има шанса да бъде забелязан. Twitch стриймърите трябва да имат поне 500 последователя и поне 10 гледащи средно. Трябва да стриймвате поне веднъж седмично.",
+		"description": "Description for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "Кандидатствай сега!",
 		"description": "Button to apply for partner."
