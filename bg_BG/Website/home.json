@@ -75,6 +75,10 @@
 		"message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези грешки в нашата Discord група, ние също създадохме наша собствена система за поддръжка, която ще се увери, че вашият проблем ще бъде решен колкото се може, по-скоро.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Присъединете се към нашия Дискорд сървър",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Език на уебсайта",
 		"description": "Tippy content of the language selector."
