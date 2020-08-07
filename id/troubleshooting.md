@@ -56,8 +56,8 @@ Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mer
 > {.is-warning}
 
 1. Buka aplikasi McAfee dan klik pada ikon pengaturan pada kanan atas. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
+2. Klik "Item Karantina" (Kedua dari atas).
+3. Perluas, dan klik ikon `>` sebelum item bernama "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
 6. Click "Real-Time Scanning" (Third from the top).
