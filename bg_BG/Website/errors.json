@@ -1,7 +1,15 @@
 {
+	"error.code.500": {
+		"message": "Възникна вътрешна грешка в сървъра.",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "детайли",
 		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Обратно към началната страница",
+		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
 		"message": "Този потребител не може да бъде намерен. Опитайте да се уверите",

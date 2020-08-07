@@ -19,6 +19,18 @@
 		"message": "Управител на проекта",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Началник на операцийте",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
+	"contributors.roles.globalCommunityRepresentative": {
+		"message": "Глобален представител на общността",
+		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "Ръководител на Магазина",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
 	"contributors.roles.systemAdministrator": {
 		"message": "Системен Администратор",
 		"description": "'System Administrator' title for contributors and user pages."
@@ -26,6 +38,10 @@
 	"contributors.roles.webDeveloper": {
 		"message": "Уеб-разработчик",
 		"description": "'Web Developer' title for contributors and user pages."
+	},
+	"contributors.roles.linuxMaintainer": {
+		"message": "Поддръжка на Linux",
+		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
 		"message": "Инженер",
@@ -39,6 +55,14 @@
 		"message": "Старши модератор",
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.verificationHead": {
+		"message": "Главен на проверките",
+		"description": "'Head of Presence Verifying' title for contributors and user pages."
+	},
+	"contributors.roles.communityRepresentative": {
+		"message": "Представител на общността",
+		"description": "'Community Representative' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "забавител",
 		"description": "'Moderator' title for contributors and user pages."
@@ -46,6 +70,10 @@
 	"contributors.roles.juniorModerator": {
 		"message": "Младши модератор",
 		"description": "'Junior Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Агент на поддръжките",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
 		"message": "Проверка на присъствието",
@@ -70,5 +98,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "Щракване за копиране на потребителския идент. №.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Потребителското ID бе копирано!",
+		"description": "Notification after user ID was copied."
 	}
 }
