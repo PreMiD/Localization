@@ -12,7 +12,7 @@
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
-		"message": "Играя игра",
+		"message": "Играе игра",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
