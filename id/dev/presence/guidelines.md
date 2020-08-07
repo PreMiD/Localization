@@ -214,8 +214,8 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 - Bidang `smallImageKey` dan `smallImageText` dimaksudkan untuk memberi konteks tambahan/konteks kedua ( seperti `putar/jeda` untuk website video, `browsing` untuk website biasa, dan hal lain) bukan untuk mempromosikan profil Discord atau apapun yang tidak berhubungan PreMiD.
 - Anda **tidak** diperbolehkan mengakses `localStorage`.
 - Saat mengakses cookie untuk data tersimpan, harap memberi prefix pada key dengan `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Jika anda menggunakan domain eksternal, anda diharuskan untuk menjelaskan sebab kenapa hal itu dibutuhkan.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- Kamu hanya membuat permintaan HTTP/HTTPS ke `premid.app` atau presence situs web API. Jika anda menggunakan domain eksternal, anda diharuskan untuk menjelaskan sebab kenapa hal itu dibutuhkan.
+- **Jangan** atur bidang di dalam data obyek presence ke undefined setelah dideklarasikan, gunakan kata kunci `delete` saja. (untuk contoh, gunakan `delete data.startTimestamp` dari pada `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -270,7 +270,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 - Jika pull request tidak aktif selama 7 hari, pull request tersebut akan segera ditutup.
 - Semua pemeriksaan **harus** berhasil untuk merge.
 - ⚠️ Anda **harus** memberi screenshot baru, tidak dimodifikasi diambil ( diambil oleh anda) menunjukkan perbandingan side-by-side dari profilmu dan websitenya untuk membuktikan presencemu bekerja. _Anda diperbolehkan menggabungkan screenshot untuk kemudahan melihat_ Ini berlaku baik dalam pembuatan dan perubahan.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠️ Kamu juga **harus** memasukkan tangkapan layar pengaturan presence di dalam extension jika disediakan. Contoh bisa dilihat [disini](https://imgur.com/a/OD3sj5R).
 
 ## `Pemeriksaan`
 
