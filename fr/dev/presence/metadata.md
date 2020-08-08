@@ -1,6 +1,6 @@
 ---
 title: Métadonnées.json
-description: Contient des données de base sur la Présence
+description: Contient des données de base sur la Presence
 published: vrai
 date: 2020-05-21T15:01:05.864Z
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Si vous souhaitez publier une présence dans la boutique et la charger via l'extension, vous devez créer le fichier ` metadata.json ` dans votre dossier ` dist `.
 
-Un exemple de ce fichier peut être trouvé ci-dessous:
+L'exemple de ce fichier peut être trouvé ci-dessous.
 
 ```javascript
 {
