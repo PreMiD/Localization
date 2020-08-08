@@ -67,4 +67,4 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 10. McAfee devrait maintenant ignorer notre dossier, lancez simplement notre application et cela devrait marcher.
 
 ### Cela n'a pas résolu mon problème
-Veuillez ouvrir un ticket dans <ahref="https://discord.gg/WvfVZ8T">#support</a>.
+Veuillez ouvrir un ticket dans [#support](https://discord.gg/WvfVZ8T).
