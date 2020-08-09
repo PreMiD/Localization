@@ -73,7 +73,7 @@ Sets the tray title on the Menubar.
 
 ### `getStrings(Object)`
 
-Asinhrona metoda koja vam omogućuje da dobijete prevedene žice iz proširenja. Morate osigurati `Object` s ključevima koji su ključ za niz, `keyValue` je vrijednost niza. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Asinhrona metoda koja vam omogućuje da dobijete prevedene žice iz proširenja. Morate osigurati `Object` s ključevima koji su ključ za niz, `keyValue` je vrijednost niza. Kompilacija prevedenih nizova može se pronaći pomoću ove krajnje točke: `https://api.premid.app/v2/langFIle/extension/en`
 
 
 
