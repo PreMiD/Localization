@@ -27,13 +27,21 @@ Postoje dvije osobine za klasu `Prisutnost`.
 
 Vlasništvo `clientId` mora vam biti omogućeno da vaše prisustvo radi, jer on koristi vaš Id aplikacije za prikaz logotipa i assets.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Možete ga dobiti na stranici s
+
+aplikacijama<0>.</p> 
+
+
 
 ## Metode
+
+
 
 ### `getActivity()`
 
 Vraća objekt `presenceData` onoga što presence prikazuje.
+
+
 
 ### `setActivity(presenceData, Boolean)`
 
@@ -43,11 +51,17 @@ Prvi parametar zahtijeva interfejs `presenceData` da biste dobili sve informacij
 
 Drugi parametar definira kada prisutnost nešto svira ili ne. Uvek koristite `true` ako navedete vremenske oznake u `presenceData`.
 
+
+
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Brisanje trenutne aktivnosti, veza tipki i naslova ladice.
+
+
 
 ### `setTrayTitle(String)`
+
+
 
 > This method works only on Mac OS. 
 > 
@@ -55,9 +69,13 @@ Clears your current activity, the keybinds and the tray title.
 
 Sets the tray title on the Menubar.
 
+
+
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Asinhrona metoda koja vam omogućuje da dobijete prevedene žice iz proširenja. Morate osigurati `Object` s ključevima koji su ključ za niz, `keyValue` je vrijednost niza. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+
+
 
 ```typescript
 // Returns `Playing` and `Paused` strings
@@ -71,17 +89,28 @@ const playString = strings.play // result: Playing back
 const pauseString = strings.pause // result: Playback paused
 ```
 
+
+
+
 ### `getPageletiable(String)`
 
 Returns a variable from the website if it exists.
+
+
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
+
+
+
 ### `getExtensionVersion(Boolean)`
+
 Returns version of the extension the user is using.
+
+
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -91,24 +120,45 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
+
+
+
 ### `getSetting(String)`
+
 Returns value of setting.
+
+
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
+
+
+
 ### `hideSetting(String)`
+
 Hides given setting.
+
+
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
+
+
+
 ### `showSetting(String)`
+
 Shows given setting (Only works if the setting was already hidden).
+
+
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
+
+
+
 
 ## `presenceData` Interface
 
@@ -191,9 +241,14 @@ var presenceData: presenceData = {
 };
 ```
 
+
+
+
 ## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+
+
 
 ```typescript
 presence.on("UpdateData", async () => {
@@ -201,11 +256,16 @@ presence.on("UpdateData", async () => {
 });
 ```
 
+
 There are few events available:
+
+
 
 #### `UpdateData`
 
 This event is fired every time the presence is being updated.
+
+
 
 #### `iFrameData`
 
