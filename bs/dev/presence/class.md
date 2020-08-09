@@ -94,7 +94,7 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Vraća varijablu sa web stranice ako postoji.
 
 
 
