@@ -2,7 +2,7 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-07-17T19:53:39.991Z
+date: 2020-08-10T20:42:48.586Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,11 @@ editor: markdown
 > Uzantıyı **ve** uygulamanın yüklü olduğundan emin olun! 
 > 
 > {.is-warning}
+
+### Are you using a presence with settings?
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+
+To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
 ### Sayfayı yenileyin
 Windows'daysanız <kbd>CTRL+R</kbd>/<kbd>F5</kbd>, Mac üzerindeyseniz ise <kbd>CMD+R</kbd> tuşlarını kullanarak sayfayı yenileyebilirsiniz.
