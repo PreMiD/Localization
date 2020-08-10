@@ -2,7 +2,7 @@
 title: トラブルシューティング
 description: 抱えている問題を解決する方法
 published: true
-date: 2020-07-17T19:53:39.991Z
+date: 2020-08-10T20:42:48.586Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,11 @@ editor: markdown
 > 先に、**[拡張機能とアプリ](https://premid.app/downloads)**をダウンロードした状態にしてください！ 
 > 
 > {.is-warning}
+
+### Are you using a presence with settings?
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+
+To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
 ### ページを再読み込みする
 <kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
