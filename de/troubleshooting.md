@@ -2,7 +2,7 @@
 title: Fehlerbehebung
 description: Alles, um dein Problem zu lösen
 published: true
-date: 2020-07-17T19:53:39.991Z
+date: 2020-08-10T20:42:48.586Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,11 @@ editor: markdown
 > Stelle sicher, dass du die Erweiterung **und** die Anwendung installiert hast! 
 > 
 > {.is-warning}
+
+### Are you using a presence with settings?
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+
+To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
 ### Die Seite neu laden
 Statt nach dem Aktualisieren-Knopf zu suchen, kannst du <kbd>STRG+R</kbd>/<kbd>F5</kbd>(für Windows) oder <kbd>CMD+R</kbd>(für MacOS) auf deiner Tastatur eingeben.

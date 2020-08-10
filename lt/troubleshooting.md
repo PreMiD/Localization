@@ -2,7 +2,7 @@
 title: Nesklandumų sprendimas
 description: Viskas kas padės jums sutaisyti jūsų problemą
 published: true
-date: 2020-07-17T19:53:39.991Z
+date: 2020-08-10T20:42:48.586Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,11 @@ editor: markdown
 > Įsitinkite jog esate įsidiegę papildinį **taipogi** ir aplikaciją! 
 > 
 > {.is-warning}
+
+### Are you using a presence with settings?
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+
+To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
 ### Perkraukite tinklalapį
 Jūs galite paspausti <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) arba <kbd>CMD+R</kbd> (MacOS) naudojantis savo klaviatūra, vietoj to, jog ieškoti atnaujinimo mygtuko.

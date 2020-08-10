@@ -2,7 +2,7 @@
 title: Решение проблем
 description: Всё для решения вашей проблемы
 published: true
-date: 2020-07-17T19:53:39.991Z
+date: 2020-08-10T20:42:48.586Z
 tags:
 editor: markdown
 ---
@@ -11,42 +11,47 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Перезагрузить страницу
+### Are you using a presence with settings?
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+
+To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+
+### Reload the page
 Вы можете нажать <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре, вместо поиска кнопки обновления страницы.
 
-### Перезапустите браузер
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) тоже хорошо работает. (Очевидно, вы должны снова запустить ваш браузер.)
+### Restart your browser
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### Убедитесь, что вы включили игру Discord в настройках
-**Настройки пользователя** > **Игровая активность** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Make sure that you have enabled Discord Game Activity in settings
+**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Перезапустить PreMiD (Приложение)
-![quit.png](/quit.png) Вы должны перезапустить PreMiD.
+### Restart PreMiD (Application)
+![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### Перезагрузить/перезапустить Discord
+### Reload/restart Discord
 Нажмите <kbd>CTRL+R</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре или перезапустите Discord самостоятельно.
 
-### Убедитесь, что Discord не запущен как администратор
-Очень важно. Discord RPC не будет работать, если вы запускаете Discord от имени администратора.
+### Be sure Discord is running NOT as administrator
+Really important. Discord RPC will not work if you run Discord as an administrator.
 
-### Проверьте, запущен ли на вашем компьютере антивирус или брандмауэр
-Иногда антивирусные программы и брандмауэры блокируют приложения, которые создают/хостинг или просто подключаются к Интернету. Мы используем локальный сервер для получения и передачи данных между нашим приложением и расширением, , поэтому если вы заблокируете возможность передачи данных, вы скорее всего не сможете использовать PreMiD.
+### Check if you have antivirus or firewall running on your computer
+Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Отключить аддоны
-Отключите все ваши аддоны и посмотрите, работает ли он. Если да, попробуйте включить аддоны пошагово и сообщите нам, какой аддон сломал PreMiD.
+### Disable your addons
+Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### Перезапуск компьютера
-Я надеюсь, что вы знаете, как перезагрузить компьютер.
+### Restarting your computer
+I hope you know how to restart a computer.
 
-### Переустановка предMiD
-Иногда что-то не так с файлами... Учебники по установке можно найти [здесь](/install).
+### Reinstalling PreMiD
+Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
-### Ручное удаление
+### Manual removal
 Windows: `C:\Users\USER\AppData\Roaming\`` и удалите папку`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`PreMiD``.
+MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
-### На Ubuntu/Debian дистрибутивах
-Если вы загрузили Discord через Snapcraft, RPC не будет работать. Вы должны удалить версию Snapcraft, выполнив `sudo snap удалить discord` на терминале, скачать [сборку Discord для Linux](https://discordapp.com/api/download?platform=linux) ([или Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), затем перейдите в каталог, в который вы скачали Discord (обычно `$HOME/Downloads`), затем установите пакет с помощью `sudo dpkg -i discord-*. eb`.
+### On Ubuntu/Debian based distros
+If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
