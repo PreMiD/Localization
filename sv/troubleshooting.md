@@ -2,7 +2,7 @@
 title: Felsökning
 description: Allt för att lösa ditt problem
 published: true
-date: 2020-07-17T19:53:39.991Z
+date: 2020-08-10T20:42:48.586Z
 tags:
 editor: markdown
 ---
@@ -11,42 +11,47 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Ladda om sidan
+### Are you using a presence with settings?
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+
+To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+
+### Reload the page
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Starta om din webbläsare
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) gör ett bra jobb också. (Du måste starta din webbläsare igen självklart.)
+### Restart your browser
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### Se till att du har aktiverat Discord-spelaktivitet i inställningarna
-**Användarinställningar** > **Spelaktivitet** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Make sure that you have enabled Discord Game Activity in settings
+**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Starta om PreMiD (program)
-![quit.png](/quit.png) Du måste starta om PreMiD efteråt.
+### Restart PreMiD (Application)
+![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### Ladda om/starta om Discord
+### Reload/restart Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### Var säker på att Discord inte körs som administratör
-Verkligen viktigt. Discord RPC fungerar inte om du kör Discord som administratör.
+### Be sure Discord is running NOT as administrator
+Really important. Discord RPC will not work if you run Discord as an administrator.
 
-### Kontrollera om du har antivirus eller brandvägg som körs på din dator
-Ibland blockerar antivirusprogram och brandväggar program som skapar / hosting-servrar eller bara ansluter till internet. Vi använder en lokal server för att ta emot och överföra data mellan vår app och förlängning, så om du blockerar appens förmåga att skicka data kommer du förmodligen inte att kunna använda PreMiD.
+### Check if you have antivirus or firewall running on your computer
+Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Inaktivera dina tillägg
-Inaktivera alla dina tillägg och se om det fungerar. Om ja, försök att aktivera dina tillägg steg för steg och berätta för oss vilken addon bröt PreMiD.
+### Disable your addons
+Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### Startar om datorn
-Jag hoppas att du vet hur man startar om en dator.
+### Restarting your computer
+I hope you know how to restart a computer.
 
-### Installera om PreMiD
-Ibland är det något fel med filerna... Handledningar för installationen finns [här](/install).
+### Reinstalling PreMiD
+Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
-### Manuell borttagning
+### Manual removal
 Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`och ta bort mappen`PreMiD``.
+MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
-### På Ubuntu/Debianbaserade distros
-Om du har hämtat Discord via Snapcraft fungerar inte RPC. Du måste avinstallera Snapcraft versionen genom att köra `sudo snap ta bort discord` på en terminal, Hämta [Discords Linux build](https://discordapp.com/api/download?platform=linux) ([eller Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigerar sedan till katalogen du hämtade Discord till (vanligtvis `$HOME/Nedladdningar`), installera sedan paketet med `sudo dpkg -i discord-*. eb`.
+### On Ubuntu/Debian based distros
+If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
