@@ -17,7 +17,7 @@ I vissa scenarier kan din presence behöva komma åt element inuti `iframes`.
 
 Koden som du skriver i din `iframe.ts` fil laddas i varje iframe på sidan.
 
-Liksom närvaro, `iframes` har sina egna klasser utformade för att automatiskt uppdatera data.
+Som presences, `iframes` har sina egna klasser tillvärkade för att automatiskt uppdatera data.
 
 ```typescript
 låt iframe = new iFrame();
@@ -30,10 +30,10 @@ iframe.on("UpdateData", async () => {
 ## Metoder
 
 ### `Skicka(Objekt)`
-Skickar data till närvaron. Genom att använda denna metod kommer närvaron att kasta en `iFrameData` -händelse.
+Skickar data till presencen. Genom att använda denna metod kommer presencen att kasta ett `iFrameData` event.
 
 ### `getUrl()`
-Returnerar URL:en till `iframe`.
+Returnerar URLen till `iframe`.
 
 ## Händelser
 I `iframes`, händelser fungerar på samma sätt som de arbetar i `närvaro` klassen.
