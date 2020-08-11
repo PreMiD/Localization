@@ -139,9 +139,9 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Definierar aktuell tid.<br>
-        Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> kvar.
-          <br>Du måste konvertera din tid till <code>tidsstämpel</code> annars får du en felaktig
+      <td style="text-align:left">Definierar den aktuella tiden.<br>
+        Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> du har  kvar.
+          <br>Du måste konvertera din tid till <code>timestamp</code> annars får du en felaktig
           nedräkning.
       </td>
       <td style="text-align:left"><code>Nummer</code>
@@ -149,9 +149,9 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Definierar hela varaktigheten.
-        <br>Används om du vill visa hur mycket <code>timmar:minutes:sekunder</code> kvar.
-          <br>Du måste konvertera din tid till <code>tidsstämpel</code> annars får du en felaktig
+      <td style="text-align:left">Definierar varaktigheten.
+        <br>Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> du har kvar.
+          <br>Du måste konvertera din tid till <code>timestamp</code> annars får du en felaktig
           nedräkning.
       </td>
       <td style="text-align:left"><code>Nummer</code>
@@ -159,7 +159,7 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
     </tr>
     <tr>
       <td style="text-align:left">Stor ImageKey</td>
-      <td style="text-align:left">Definierar logotypen för närvaron.</td>
+      <td style="text-align:left">Definierar logotypen för presencen.</td>
       <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
@@ -171,7 +171,7 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Definierar texten som kommer att visas för användaren när han kommer att sväva den lilla
+      <td style="text-align:left">Definierar texten som kommer att visas för användaren när han kommer att hålla den lilla
         ikonen.</td>
       <td style="text-align:left"><code>Sträng</code>
       </td>
@@ -193,7 +193,7 @@ var presenceData: presenceData = {
 
 ## Händelser
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Events gör så att du kan upptäcka och hantera vissa förändringar eller samtal som gjorts. Du kan lyssna på händelser med `on` metoden.
 
 ```typescript
 presence.on("UpdateData", async () => {
@@ -201,12 +201,12 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-There are few events available:
+Det finns några event:
 
 #### `Uppdateringsdata`
 
-This event is fired every time the presence is being updated.
+Detta event avfyras varje gång presencen uppdateras.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Avfyras när data tas emot från ett iFrame script.
