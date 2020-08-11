@@ -1,1 +1,10 @@
-{}
+{
+    "facebook.call": {
+        "message": "Puhelussa henkilön: :Kanssa",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Videopuhelussa henkilön: :kanssa",
+        "description": ""
+    }
+}
