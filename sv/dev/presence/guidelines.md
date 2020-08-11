@@ -1,6 +1,6 @@
 ---
 title: Riktlinjer
-description: Rules all presence developers must follow to have their presence added.
+description: Regler alla presenceutvecklare måste följa för att få sin presence tillagd.
 published: true
 date: 2020-07-21T22:22:06.316Z
 tags:

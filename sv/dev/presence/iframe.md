@@ -13,9 +13,9 @@ tags:
 
 ## Introduktion
 
-I vissa scenarier kan din närvaro behöva komma åt element inuti `iframes`.
+I vissa scenarier kan din presence behöva komma åt element inuti `iframes`.
 
-Koden som du skriver i din `iframe.ts` fil injiceras i varje iframe på sidan.
+Koden som du skriver i din `iframe.ts` fil laddas i varje iframe på sidan.
 
 Liksom närvaro, `iframes` har sina egna klasser utformade för att automatiskt uppdatera data.
 
