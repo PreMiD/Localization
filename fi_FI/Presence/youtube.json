@@ -1,1 +1,46 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Katselee Mainosta",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Selaa Videoita",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Selaa Soittolistoja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Katselee yhteisön julkaisuja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "heidän tilauksia",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "heidän kirjastoa",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "heidän historiaa",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "heidän ostokset",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Katselee heidän ilmianto historiaa",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Katselee heidän soittolistoja",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Katselee heidän live tapahtumia",
+        "description": ""
+    }
+}
