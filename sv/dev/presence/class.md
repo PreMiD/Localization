@@ -33,19 +33,19 @@ Du kan få det på din [applikationssida](https://discordapp.com/developers/appl
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Returnerar ett `presenceData` objekt av vad presencen visar.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Anger din profilaktivitet enligt angivna uppgifter.
 
 First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Den andra parametern definierar när presencen spelar något eller inte. Använd alltid `true` om du tillhandahåller tidsstämplar i `presenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Rensar din nuvarande aktivitet, tangentbinden och systemfälts ikonens titel.
 
 ### `setTrayTitle(String)`
 
@@ -53,15 +53,15 @@ Clears your current activity, the keybinds and the tray title.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Ställer in systemfälts ikonens titel.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+En async metod som gör att du kan få översatta strängar från förlängning. Du måste ange `Objekt` med nycklar som är nyckeln för sträng, `keyValue` är strängvärdet. En sammanställning av översatta strängar kan hittas med denna slutpunkt: `https://api.premid.app/v2/langFIle/extension/sv`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Returnerar `Playing` (spelar) och `Paused` (pausad) strängar
+// från förlängning.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -73,15 +73,15 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Returnerar en variabel från hemsidan om den finns.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Detta kommer att logga "Variabelt innehåll"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Returnerar versionen av tillägget du använder.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Returnerar värdet av inställningen.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -110,11 +110,11 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## `närvaroData` Gränssnitt
+## `presenceData` gränssnitt
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Gränssnittet `presenceData` rekommenderas att användas när du använder metoden `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Detta gränssnitt har följande variabler, alla av dem är frivilliga.
 
 <table>
   <thead>
@@ -127,7 +127,7 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">detaljer</td>
-      <td style="text-align:left">Den första raden i din närvaro, används vanligtvis som rubrik.</td>
+      <td style="text-align:left">Den första raden i din presence, används vanligtvis som rubrik.</td>
       <td style="text-align:left"><code>Sträng</code>
       </td>
     </tr>
