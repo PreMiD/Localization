@@ -1,6 +1,6 @@
 ---
 title: Začínáme
-description: Trochu poradit těm, kteří se nedávno dostali do kódování
+description: Trochu pomoci těm, kteří se kódování dostali teprve nedávno
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
@@ -11,14 +11,14 @@ tags:
 > {.is-info}
 
 # Instalace požadavků
-1. Install [Git](https://git-scm.com/).
-2. Nainstalujte [uzel](https://nodejs.org/en/) (přichází s [npm](https://www.npmjs.com/)).
-3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a typ `npm install -g typescript`).
+1. Nainstalujte [Git](https://git-scm.com/).
+2. Nainstalujte [Node](https://nodejs.org/en/) (obsahuje [npm](https://www.npmjs.com/)).
+3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a napište `npm install -g typescript`).
 
 # Klonování projektu
 1. Otevřete terminál a napište `git klonovat URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
 2. Vyberte složku dle vašeho výběru.
-3. Open it in your code editor.
+3. Otevřete ji ve svém editoru kódu.
 
 # Instalace závislostí
 > Ujistěte se, že jste nejdříve nainstalovali [npm](https://www.npmjs.com/) (Node Správce balíčků). Automaticky nainstalovala, pokud máte nainstalován [uzel](https://nodejs.org/en/). 
