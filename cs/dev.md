@@ -16,7 +16,7 @@ tags:
 3. Nainstalujte [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otevřete terminál a napište `npm install -g typescript`).
 
 # Klonování projektu
-1. Otevřete terminál a napište `git klonovat URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
+1. Otevřete terminál a napište `git clone URL`. **Nahraďte URL odkazem na repozitář, který chcete přispět na** např. `git klonování https://github.com/PreMiD/PreMiD`.
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji ve svém editoru kódu.
 
