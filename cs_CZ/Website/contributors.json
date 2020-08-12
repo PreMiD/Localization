@@ -15,9 +15,25 @@
 		"message": "Tvůrce",
 		"description": "'Creator' title for contributors and user pages."
 	},
+	"contributors.roles.projectManager": {
+		"message": "Správce Projektu",
+		"description": "'Project Manager' title for contributors and user pages."
+	},
+	"contributors.roles.operationsSupervisor": {
+		"message": "Operační Inspektor",
+		"description": "'Operations Supervisor' title for contributors and user pages."
+	},
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Zástupce globálního společenství",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "Správce Obchodu",
+		"description": "'Store Manager' title for contributors and user pages."
+	},
+	"contributors.roles.systemAdministrator": {
+		"message": "Správce Systému",
+		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
 		"message": "Vývojář webu",
