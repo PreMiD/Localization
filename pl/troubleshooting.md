@@ -65,11 +65,11 @@ Jest to fałszywy alarm ze strony McAfee i zgłosiliśmy im ten problem, na razi
 3. Rozwiń i kliknij ikonę `>` przed elementem o nazwie "settings.dat".
 4. Upewnij się, że ścieżka zawiera "AppData\Local\Temp\PreMiD", jeśli tak, wybierz ją i naciśnij przywracanie. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. Po przywróceniu możesz zamknąć wyskakujące okienko "Elementy kwarantannowe", a następnie ponownie naciśnij ikonę ustawień w prawym górnym rogu.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+6. Kliknij "Skanowanie w czasie rzeczywistym" (Trzecie od góry).
+7. Rozwiń i kliknij "Dodaj plik".
+8. Wpisz "%appdata%" w pasku adresu URL menedżera plików i naciśnij Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Otwórz folder "PreMiD" i wybierz plik "PreMiD.exe" i kliknij przycisk Otwórz. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
-### That has not solved my problem
+### To nie rozwiązało mojego problemu
 Otwórz zgłoszenie na kanale [#support](https://discord.gg/WvfVZ8T).
