@@ -1,6 +1,6 @@
 ---
-title: Installation
-description: How to install PreMiD
+title: Инсталация
+description: Как да инсталирате PreMiD
 published: true
 date: 2020-02-12T22:05:12.168Z
 tags:
@@ -15,12 +15,12 @@ tags:
 > {.is-warning}
 
 **Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+- [Windows *7 или нагоре*](/install/windows)
+- [macOS *10.11 или нагоре*](/install/macos)
+- [Linux *4 или нагоре*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
+**Изберете вашия браузър:**
 - [Chromium *v76 or above*](/install/chromium)
 - [Firefox *v69 or above*](/install/firefox)
 {.links-list}
