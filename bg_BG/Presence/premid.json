@@ -47,6 +47,10 @@
         "message": "Относно",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Инсталация",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Отстраняване на неизправности",
         "description": "A page name"
