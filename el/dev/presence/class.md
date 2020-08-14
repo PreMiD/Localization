@@ -9,11 +9,11 @@ editor: markdown
 
 # Τάξη Παρουσίας
 
-## Introduction
+## Εισαγωγή
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Η τάξη `Presence` (παρουσίας) είναι πολύ χρήσιμη καθώς περιέχει βασικές μεθόδους που χρειαζόμαστε για να φτιάξουμε μία παρουσία.
 
- When you create a class you must specify `clientId` property.
+ Όταν δημιουργείς μία τάξη πρέπει να προσδιορίσεις την ιδιοκτησία του `clientId`.
 
 ```typescript
 let presence = new Presence({
@@ -21,19 +21,19 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Υπάρχουν δύο ιδιοκτησίες διαθέσιμες για την ταξη `Presence` (παρουσίας).
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Η ιδιοκτησία του `clientId` πρέπει να προδίδεται για να φτιάξει την παρουσία (presence) να λειτουργεί, γιατί χρησιμοποιεί το id της εφαρμογής σας για να απεικονίσει το λογότυπό του και τα περιουσιακά στοιχεία του.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Μπορείς να το αποκτήσεις στην [σελίδα εφαρμογών](https://discordapp.com/developers/applications) σου.
 
-## Methods
+## Μέθοδοι
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Επιστρέφει ένα αντικείμενο `presenceData` με ότι απεικονίζει η παρουσία.
 
 ### `setActivity(presenceData, Boolean)`
 
