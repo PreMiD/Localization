@@ -1,13 +1,13 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Τάξη Παρουσίας
+description: Η κύρια τάξη γιά όλες τις PreMiD παρουσίες
 published: true
 date: 2020-07-29T15:12:55.925Z
 tags:
 editor: markdown
 ---
 
-# Presence Class
+# Τάξη Παρουσίας
 
 ## Introduction
 
