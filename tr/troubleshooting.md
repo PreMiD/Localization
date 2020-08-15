@@ -14,7 +14,7 @@ editor: markdown
 ### Bir servisi ayarlarla mı kullanıyorsunuz?
 Bazı servisler (`Twitch` ve `Soundcloud` buna dahildir) bir eklenti hatasından etkileniyor. Bu hata eklentinin varsayılan ayarları düzgün bir şekilde çekmesini engelliyor.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Bunu çözmek için, tek yapmanız gereken topmost seçeneğini aktif etmek: ![presencesettings.gif](/presencesettings.gif)
 
 ### Sayfayı yenileyin
 Windows'daysanız <kbd>CTRL+R</kbd>/<kbd>F5</kbd>, Mac üzerindeyseniz ise <kbd>CMD+R</kbd> tuşlarını kullanarak sayfayı yenileyebilirsiniz.
