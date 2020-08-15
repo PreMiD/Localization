@@ -41,7 +41,7 @@ let presence = new Presence({
 
 Η πρώτη παράμετρος χρειάζεται μια διεπαφή `presenceData` για να αποκτήσει όλες τις πληροφορίες που χρειάζεστε για να αποικονίσει στο προφίλ σας.
 
-Second parameter defines when presence is playing something or not. Να χρησιμοποιείτε παντα `true` εάν παρέχετε χρονικές συστάσεις σε `presenceData`.
+Η δεύτερη παράμετρος προσδιορίζει όταν η παρουσία - precence παίζει κάτι ή όχι. Να χρησιμοποιείτε πάντα `true` εάν παρέχετε χρονικές συστάσεις σε `presenceData`.
 
 ### `clearActivity()`
 
