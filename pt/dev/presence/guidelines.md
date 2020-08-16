@@ -211,15 +211,15 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 - **Sempre** declare uma nova instancia da classe `Presence` antes de qualquer variável para evitar problemas raros que podem acontecer; isso não é um requisito por design então ele pode ser removido no futuro.
 - **Nunca** use funções customizadas quando [variantes nativas estão disponiveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível da extensão também se apliquem às suas presenças. Você esta livre para usar oque quiser se você não achar ela listada nos documentos.
 - É **proibido** de escrever código de presença para um site sem adicionar suporte para seu idioma principal (por exemplo, uma presença pra o YouTube escrita apenas com suporte para Português e Japonês, mas sem suporte para inglês.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- Os campos `smallImageKey` e `smallImageText` providenciam contexto adicional/secundário (como `ouvindo/pausado` para sites de video, `navegando` para sites normais, e outros casos) não promova Perfis do Discord ou qualquer coisa não relacionada ao PreMID.
+- Você **não** tem permissão para acessar `localStorage`.
+- Ao acessar cookies para dados armazenados, por favor prefixe a chave com `PMD_`.
+- Você só pode fazer solicitações em HTTP/HTTPS para `premid.app` ou a API do site de presença. Se você estiver usando domínios externos, será necessário explicar por que é necessário.
+- **Não** deixe campos dos dados do objeto de presença em undefined após serem tido declarados, use `delete` invés disso. (por exemplo, use `delete data.startTimestamp` ao invés de `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **Não** escreva seu proprio `tsconfig.json`, use oque estiver sendo providenciado na [documentação](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
