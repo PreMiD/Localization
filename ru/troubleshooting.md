@@ -19,7 +19,7 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 ### Перезагрузите страницу
 Вы можете нажать <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре, вместо поиска кнопки обновления страницы.
 
-### Restart your browser
+### Перезапустите браузер
 Alt+F4 (Windows) или CMD+Q (MacOS) тоже отлично работают. (Очевидно, вам придется снова запустить браузер)
 
 ### Убедитесь, что вы включили Игровую активность Discord
@@ -69,7 +69,7 @@ MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`P
 7. Разверните его и нажмите "Добавить файл".
 8. Введите "%appdata%" в адресной строке файлового менеджера и нажмите Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. Откройте папку "PreMiD" и выберите файл "PreMiD.exe" и нажмите открыть. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+10. McAfee теперь должен проигнорировать наш файл, просто запустите наше приложение и всё должно быть хорошо.
 
-### That has not solved my problem
+### Это не решило мою проблему
 Пожалуйста, оставьте заявку в [#support](https://discord.gg/WvfVZ8T).
