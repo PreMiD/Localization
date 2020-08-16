@@ -8,7 +8,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "Diese Presencec ist sehr beliebt bei Benutzern.",
+		"message": "Diese Presence ist sehr beliebt bei Benutzern.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
