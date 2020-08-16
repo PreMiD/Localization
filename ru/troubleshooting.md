@@ -20,28 +20,28 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 Вы можете нажать <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре, вместо поиска кнопки обновления страницы.
 
 ### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+Alt+F4 (Windows) или CMD+Q (MacOS) тоже отлично работают. (Очевидно, вам придется снова запустить браузер)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Убедитесь, что вы включили Игровую активность Discord
+Настройки приложения > Игровая активность ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Перезапустить PreMiD (Приложение)
+![quit.png](/quit.png) Вы должны перезапустить PreMiD.
 
-### Reload/restart Discord
+### Перезагрузить/перезапустить Discord
 Нажмите <kbd>CTRL+R</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре или перезапустите Discord самостоятельно.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Убедитесь, что Discord запущен НЕ как администратор
+Очень важно. Discord RPC не будет работать, если вы запускаете Discord от имени администратора.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Проверьте, запущен ли на вашем компьютере антивирус или брандмауэр
+Иногда антивирусные программы и брандмауэры блокируют приложения, которые создают/хостинг или просто подключаются к Интернету. Мы используем локальный сервер для получения и передачи данных между нашим приложением и расширением, поэтому если вы заблокируете возможность передачи данных, вы скорее всего не сможете использовать PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Отключите ваши аддоны
+Отключите все ваши аддоны и посмотрите, работает ли он. Если да, то попробуйте включить аддоны пошагово и сообщите нам, какой аддон сломал PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Перезагрузите компьютер
+Я надеюсь, что вы знаете, как перезагрузить компьютер.
 
 ### Reinstalling PreMiD
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
