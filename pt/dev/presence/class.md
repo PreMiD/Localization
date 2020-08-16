@@ -57,7 +57,7 @@ Define o título da bandeja no Menubar.
 
 ### `getStrings(Objeto)`
 
-An asyncronous method that allows you to get translated strings from extension. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Um metodo assíncrono que permite que você pegue strings traduzidas da extenção. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Uma compilação de lihas traduzidas podem ser vistas usando esse endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Retorna strings `Playing` e `Paused`
