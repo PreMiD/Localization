@@ -57,7 +57,7 @@ Establece el título de la bandeja en la barra de menús.
 
 ### `getStrings(objeto)`
 
-Un metodo no sincronizado que te permite conseguir las strings traducidas de la extensión. Debe proporcionar `Objeto` con claves siendo la clave para la string, `valor clave` es el valor de la string. Una serie de strings traducidas pueden ser encontradas usando la siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
+Un método asíncrono que te permite conseguir las strings traducidas de la extensión. Debe proporcionar `Objeto` con claves siendo la clave para la string, `valor clave` es el valor de la string. Una serie de strings traducidas pueden ser encontradas usando la siguiente url: `https://api.premid.app/v2/langFIle/extension/es`
 
 ```typescript
 // Devuelve las strings `Playing` y `Paused`
