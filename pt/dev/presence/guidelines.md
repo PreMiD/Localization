@@ -198,19 +198,19 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 ### **`configurações`**
 
 - Se você decidir fazer uma string de formato (por exemplo, `%song% por %artist%`), você tem que ter as variáveis cercadas por um simbolo de porcentagem em cada lado. Variáveis como `%var`, `var%`, ou `%%var%%` e qualquer coisa parecida, **não** são permitidas, para fins de padronização.
-- O nome das configurações **não** devem ser em letras maiúsculas. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- O nome das configurações **não** devem ser em letras maiúsculas. Por exemplo, nomes como `MOSTRAR STATUS DE NAVEGAÇÃO` **não** serão permitidas; mas, nomes como `Mostrar Status de Navegação` ou `Mostrar status de navegação` serão permitidas.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> O código que você escrever **deve** ser _bem escrita_ e **deve** ser _legível_ e todas as linhas devem ser gramaticamente corretas(erros de gramatica nos sites podem ser ignoradas). 
 > 
 > {.is-warning}
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo seu arquivo `presence.ts`:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
+- **Sempre** declare uma nova instancia da classe `Presence` antes de qualquer variável para evitar problemas raros que podem acontecer; isso não é um requisito por design então ele pode ser removido no futuro.
+- **Nunca** use funções customizadas quando [variantes nativas estão disponiveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível da extensão também se apliquem às suas presenças. Você esta livre para usar oque quiser se você não achar ela listada nos documentos.
+- É **proibido** de escrever código de presença para um site sem adicionar suporte para seu idioma principal (por exemplo, uma presença pra o YouTube escrita apenas com suporte para Português e Japonês, mas sem suporte para inglês.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
 - When accessing cookies for stored data, please prefix the key with `PMD_`.
