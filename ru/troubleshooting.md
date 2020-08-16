@@ -16,7 +16,7 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Reload the page
+### Перезагрузите страницу
 Вы можете нажать <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре, вместо поиска кнопки обновления страницы.
 
 ### Restart your browser
