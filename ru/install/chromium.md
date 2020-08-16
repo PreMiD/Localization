@@ -1,6 +1,6 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromium-based browsers
+description: Начните пользоваться PreMID установив его в браузер на основе Chromium
 published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
