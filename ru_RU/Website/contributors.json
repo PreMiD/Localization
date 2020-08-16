@@ -47,6 +47,10 @@
 		"message": "Программист",
 		"description": "'Engineer' title for contributors and user pages."
 	},
+	"contributors.roles.designer": {
+		"message": "Разработчик",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior модератор",
 		"description": "'Senior Moderator' title for contributors and user pages."
