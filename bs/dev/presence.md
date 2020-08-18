@@ -25,7 +25,7 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+2. Install [Node](https://nodejs.org/en/) (dolazi sa [npm](https://www.npmjs.com/)).
 3. Instalirajte [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (otvorite terminal i ` npm install -g typecript `).
 
 ## Kloniranje projekta
