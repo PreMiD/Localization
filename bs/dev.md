@@ -13,7 +13,7 @@ tags:
 # Instaliranje zahtjeva
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (dolazi sa [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otvoriti terminal i napisati `npm install -g typescript`).
 
 # Kloniranje projekta
 1. Otvorite terminal i upišite `git clone URL`. **Zamijenite URL vezom spremišta koje želite pridonijeti** npr. `git clone https://github.com/PreMiD/PreMiD`.
