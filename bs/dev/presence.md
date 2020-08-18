@@ -43,7 +43,7 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 4. Kreirajte datoteku u `metadata.json` unutar mape `dist`.
 
 ## Popunite datoteku tsconfig.json
-Please put the following code inside of the `tsconfig.json` file.
+Sljedeći kod stavite u datoteku `tsconfig.json`.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -52,10 +52,10 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Da biste saznali više o TypeScript konfiguraciji, kliknite [ovde](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## Popunite datoteku metadata.json
+Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://eggsy.codes/projects/premid/mdcreator). Još je predloženo da ovo pročitate kako biste znali kako to funkcionira.
 
 ```json
 {
@@ -111,7 +111,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate urediti vrijednosti svojstava. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `saradnici`
 - `regExp`
 - `iframe`
@@ -298,7 +298,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Getting started
 
