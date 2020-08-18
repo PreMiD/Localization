@@ -12,15 +12,15 @@ editor: markdown
 > {.is-warning}
 
 ### Utilisez-vous une presence avec des paramètres ?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+De nombreuses presences (y compris `Twitch` et `SoundCloud`) sont affectées par un problème d'extension. Ce problème empêche l'extension de récupérer correctement les valeurs par défaut des paramètres.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Pour résoudre ce problème, il vous suffit d'activer/désactiver le paramètre le plus haut : ![presencesettings.gif](/presencesettings.gif)
 
-### Reload the page
+### Recharger la page
 Vous pouvez aussi appuyer sur <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) sur votre clavier au lieu de rechercher le bouton de rafraîchissement.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Redémarrez votre navigateur
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) fait également un bon travail. (Vous devez redémarrer votre navigateur de toute évidence.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
