@@ -42,7 +42,7 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 3. Kreirajte folder pod nazivom ` dist ` inside.
 4. Kreirajte datoteku u `metadata.json` unutar mape `dist`.
 
-## Filling in the tsconfig.json file
+## Popunite datoteku tsconfig.json
 Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
