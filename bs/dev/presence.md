@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Razvoj presence
 description:
 published: true
 date: 2020-08-01T16:39:30.898Z
@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Sve presence su sad pohranjene ovdje: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
@@ -40,7 +40,7 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 <li>Napravite folder sa <strong x-id = "1"> ime </strong> (nije URL) usluge koju želite podržati.</li>
 <li>Kreirajte <code> presence.ts ` i datoteku ` tsconfig.json `.
 3. Kreirajte folder pod nazivom ` dist ` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+4. Kreirajte datoteku u `metadata.json` unutar mape `dist`.
 
 ## Filling in the tsconfig.json file
 Please put the following code inside of the `tsconfig.json` file.
@@ -124,7 +124,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Deskripcija</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tip</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>

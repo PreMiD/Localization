@@ -12,8 +12,8 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+## Verzija API-ja
+> API v1 je obustavljen, svaki zahtjev treba proslijediti trenutno aktivnoj verziji 
 > 
 > {.is-danger}
 
