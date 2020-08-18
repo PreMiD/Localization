@@ -111,7 +111,7 @@ Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://e
 }
 ```
 
-Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate urediti vrijednosti svojstava. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate urediti vrijednosti svojstava. Imajte na umu da sljedeća svojstva su neobavezna vašoj `metadata.json` datoteci, ako ih ne planirate koristiti, morate ih ukloniti.
 - `saradnici`
 - `regExp`
 - `iframe`
