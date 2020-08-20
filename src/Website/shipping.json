@@ -1,0 +1,1502 @@
+{
+	"shipping.ad": {
+		"message": "Andorra",
+		"description": "Country name"
+	},
+	"shipping.ae": {
+		"message": "United Arab Emirates",
+		"description": "Country name"
+	},
+	"shipping.af": {
+		"message": "Afghanistan",
+		"description": "Country name"
+	},
+	"shipping.ag": {
+		"message": "Antigua and Barbuda",
+		"description": "Country name"
+	},
+	"shipping.ai": {
+		"message": "Anguilla",
+		"description": "Country name"
+	},
+	"shipping.al": {
+		"message": "Albania",
+		"description": "Country name"
+	},
+	"shipping.am": {
+		"message": "Armenia",
+		"description": "Country name"
+	},
+	"shipping.an": {
+		"message": "Netherlands Antilles",
+		"description": "Country name"
+	},
+	"shipping.ao": {
+		"message": "Angola",
+		"description": "Country name"
+	},
+	"shipping.aq": {
+		"message": "Antarctica",
+		"description": "Country name"
+	},
+	"shipping.ar": {
+		"message": "Argentina",
+		"description": "Country name"
+	},
+	"shipping.as": {
+		"message": "American Samoa",
+		"description": "Country name"
+	},
+	"shipping.at": {
+		"message": "Austria",
+		"description": "Country name"
+	},
+	"shipping.au": {
+		"message": "Australia",
+		"description": "Country name"
+	},
+	"shipping.au.ACT": {
+		"message": "Australian Capital Territory",
+		"description": "State name"
+	},
+	"shipping.au.NSW": {
+		"message": "New South Wales",
+		"description": "State name"
+	},
+	"shipping.au.NT": {
+		"message": "Northern Territory",
+		"description": "State name"
+	},
+	"shipping.au.QLD": {
+		"message": "Queensland",
+		"description": "State name"
+	},
+	"shipping.au.SA": {
+		"message": "South Australia",
+		"description": "State name"
+	},
+	"shipping.au.TAS": {
+		"message": "Tasmania",
+		"description": "State name"
+	},
+	"shipping.au.VIC": {
+		"message": "Victoria",
+		"description": "State name"
+	},
+	"shipping.au.WA": {
+		"message": "Western Australia",
+		"description": "State name"
+	},
+	"shipping.aw": {
+		"message": "Aruba",
+		"description": "Country name"
+	},
+	"shipping.az": {
+		"message": "Azerbaijan",
+		"description": "Country name"
+	},
+	"shipping.ba": {
+		"message": "Bosnia and Herzegovina",
+		"description": "Country name"
+	},
+	"shipping.bb": {
+		"message": "Barbados",
+		"description": "Country name"
+	},
+	"shipping.bd": {
+		"message": "Bangladesh",
+		"description": "Country name"
+	},
+	"shipping.be": {
+		"message": "Belgium",
+		"description": "Country name"
+	},
+	"shipping.bf": {
+		"message": "Burkina Faso",
+		"description": "Country name"
+	},
+	"shipping.bg": {
+		"message": "Bulgaria",
+		"description": "Country name"
+	},
+	"shipping.bh": {
+		"message": "Bahrain",
+		"description": "Country name"
+	},
+	"shipping.bi": {
+		"message": "Burundi",
+		"description": "Country name"
+	},
+	"shipping.bj": {
+		"message": "Benin",
+		"description": "Country name"
+	},
+	"shipping.bm": {
+		"message": "Bermuda",
+		"description": "Country name"
+	},
+	"shipping.bn": {
+		"message": "Brunei Darussalam",
+		"description": "Country name"
+	},
+	"shipping.bo": {
+		"message": "Bolivia",
+		"description": "Country name"
+	},
+	"shipping.br": {
+		"message": "Brazil",
+		"description": "Country name"
+	},
+	"shipping.bs": {
+		"message": "Bahamas",
+		"description": "Country name"
+	},
+	"shipping.bt": {
+		"message": "Bhutan",
+		"description": "Country name"
+	},
+	"shipping.bv": {
+		"message": "Bouvet Island",
+		"description": "Country name"
+	},
+	"shipping.bw": {
+		"message": "Botswana",
+		"description": "Country name"
+	},
+	"shipping.by": {
+		"message": "Belarus",
+		"description": "Country name"
+	},
+	"shipping.bz": {
+		"message": "Belize",
+		"description": "Country name"
+	},
+	"shipping.ca": {
+		"message": "Canada",
+		"description": "Country name"
+	},
+	"shipping.ca.AB": {
+		"message": "Alberta",
+		"description": "State name"
+	},
+	"shipping.ca.BC": {
+		"message": "British Columbia",
+		"description": "State name"
+	},
+	"shipping.ca.MB": {
+		"message": "Manitoba",
+		"description": "State name"
+	},
+	"shipping.ca.NB": {
+		"message": "New Brunswick",
+		"description": "State name"
+	},
+	"shipping.ca.NL": {
+		"message": "Newfoundland and Labrador",
+		"description": "State name"
+	},
+	"shipping.ca.NS": {
+		"message": "Nova Scotia",
+		"description": "State name"
+	},
+	"shipping.ca.NT": {
+		"message": "Northwest Territories",
+		"description": "State name"
+	},
+	"shipping.ca.NU": {
+		"message": "Nunavut",
+		"description": "State name"
+	},
+	"shipping.ca.ON": {
+		"message": "Ontario",
+		"description": "State name"
+	},
+	"shipping.ca.PE": {
+		"message": "Prince Edward Island",
+		"description": "State name"
+	},
+	"shipping.ca.QC": {
+		"message": "Quebec",
+		"description": "State name"
+	},
+	"shipping.ca.SK": {
+		"message": "Saskatchewan",
+		"description": "State name"
+	},
+	"shipping.ca.YT": {
+		"message": "Yukon",
+		"description": "State name"
+	},
+	"shipping.cc": {
+		"message": "Cocos (Keeling) Islands",
+		"description": "Country name"
+	},
+	"shipping.cd": {
+		"message": "Congo, the Democratic Republic of the",
+		"description": "Country name"
+	},
+	"shipping.cf": {
+		"message": "Central African Republic",
+		"description": "Country name"
+	},
+	"shipping.cg": {
+		"message": "Congo",
+		"description": "Country name"
+	},
+	"shipping.ch": {
+		"message": "Switzerland",
+		"description": "Country name"
+	},
+	"shipping.ci": {
+		"message": "Cote D'Ivoire",
+		"description": "Country name"
+	},
+	"shipping.ck": {
+		"message": "Cook Islands",
+		"description": "Country name"
+	},
+	"shipping.cl": {
+		"message": "Chile",
+		"description": "Country name"
+	},
+	"shipping.cm": {
+		"message": "Cameroon",
+		"description": "Country name"
+	},
+	"shipping.cn": {
+		"message": "China",
+		"description": "Country name"
+	},
+	"shipping.co": {
+		"message": "Colombia",
+		"description": "Country name"
+	},
+	"shipping.cr": {
+		"message": "Costa Rica",
+		"description": "Country name"
+	},
+	"shipping.cu": {
+		"message": "Cuba, Republic of",
+		"description": "Country name"
+	},
+	"shipping.cv": {
+		"message": "Cape Verde",
+		"description": "Country name"
+	},
+	"shipping.cw": {
+		"message": "Curacao",
+		"description": "Country name"
+	},
+	"shipping.cx": {
+		"message": "Christmas Island",
+		"description": "Country name"
+	},
+	"shipping.cy": {
+		"message": "Cyprus",
+		"description": "Country name"
+	},
+	"shipping.cz": {
+		"message": "Czech Republic",
+		"description": "Country name"
+	},
+	"shipping.de": {
+		"message": "Germany",
+		"description": "Country name"
+	},
+	"shipping.dj": {
+		"message": "Djibouti",
+		"description": "Country name"
+	},
+	"shipping.dk": {
+		"message": "Denmark",
+		"description": "Country name"
+	},
+	"shipping.dm": {
+		"message": "Dominica",
+		"description": "Country name"
+	},
+	"shipping.do": {
+		"message": "Dominican Republic",
+		"description": "Country name"
+	},
+	"shipping.dz": {
+		"message": "Algeria",
+		"description": "Country name"
+	},
+	"shipping.ec": {
+		"message": "Ecuador",
+		"description": "Country name"
+	},
+	"shipping.ee": {
+		"message": "Estonia",
+		"description": "Country name"
+	},
+	"shipping.eg": {
+		"message": "Egypt",
+		"description": "Country name"
+	},
+	"shipping.eh": {
+		"message": "Western Sahara",
+		"description": "Country name"
+	},
+	"shipping.er": {
+		"message": "Eritrea",
+		"description": "Country name"
+	},
+	"shipping.es": {
+		"message": "Spain",
+		"description": "Country name"
+	},
+	"shipping.et": {
+		"message": "Ethiopia",
+		"description": "Country name"
+	},
+	"shipping.fi": {
+		"message": "Finland",
+		"description": "Country name"
+	},
+	"shipping.fj": {
+		"message": "Fiji",
+		"description": "Country name"
+	},
+	"shipping.fk": {
+		"message": "Falkland Islands (Malvinas)",
+		"description": "Country name"
+	},
+	"shipping.fm": {
+		"message": "Micronesia, Federated States of",
+		"description": "Country name"
+	},
+	"shipping.fo": {
+		"message": "Faroe Islands",
+		"description": "Country name"
+	},
+	"shipping.fr": {
+		"message": "France",
+		"description": "Country name"
+	},
+	"shipping.ga": {
+		"message": "Gabon",
+		"description": "Country name"
+	},
+	"shipping.gb": {
+		"message": "United Kingdom",
+		"description": "Country name"
+	},
+	"shipping.gd": {
+		"message": "Grenada",
+		"description": "Country name"
+	},
+	"shipping.ge": {
+		"message": "Georgia",
+		"description": "Country name"
+	},
+	"shipping.gf": {
+		"message": "French Guiana",
+		"description": "Country name"
+	},
+	"shipping.gg": {
+		"message": "Guernsey",
+		"description": "Country name"
+	},
+	"shipping.gh": {
+		"message": "Ghana",
+		"description": "Country name"
+	},
+	"shipping.gi": {
+		"message": "Gibraltar",
+		"description": "Country name"
+	},
+	"shipping.gl": {
+		"message": "Greenland",
+		"description": "Country name"
+	},
+	"shipping.gm": {
+		"message": "Gambia",
+		"description": "Country name"
+	},
+	"shipping.gn": {
+		"message": "Guinea",
+		"description": "Country name"
+	},
+	"shipping.gp": {
+		"message": "Guadeloupe",
+		"description": "Country name"
+	},
+	"shipping.gq": {
+		"message": "Equatorial Guinea",
+		"description": "Country name"
+	},
+	"shipping.gr": {
+		"message": "Greece",
+		"description": "Country name"
+	},
+	"shipping.gs": {
+		"message": "South Georgia and the South Sandwich Islands",
+		"description": "Country name"
+	},
+	"shipping.gt": {
+		"message": "Guatemala",
+		"description": "Country name"
+	},
+	"shipping.gu": {
+		"message": "Guam",
+		"description": "Country name"
+	},
+	"shipping.gw": {
+		"message": "Guinea-Bissau",
+		"description": "Country name"
+	},
+	"shipping.gy": {
+		"message": "Guyana",
+		"description": "Country name"
+	},
+	"shipping.hk": {
+		"message": "Hong Kong",
+		"description": "Country name"
+	},
+	"shipping.hm": {
+		"message": "Heard Island and Mcdonald Islands",
+		"description": "Country name"
+	},
+	"shipping.hn": {
+		"message": "Honduras",
+		"description": "Country name"
+	},
+	"shipping.hr": {
+		"message": "Croatia",
+		"description": "Country name"
+	},
+	"shipping.ht": {
+		"message": "Haiti",
+		"description": "Country name"
+	},
+	"shipping.hu": {
+		"message": "Hungary",
+		"description": "Country name"
+	},
+	"shipping.id": {
+		"message": "Indonesia",
+		"description": "Country name"
+	},
+	"shipping.ie": {
+		"message": "Ireland",
+		"description": "Country name"
+	},
+	"shipping.il": {
+		"message": "Israel",
+		"description": "Country name"
+	},
+	"shipping.im": {
+		"message": "Isle of Man",
+		"description": "Country name"
+	},
+	"shipping.in": {
+		"message": "India",
+		"description": "Country name"
+	},
+	"shipping.io": {
+		"message": "British Indian Ocean Territory",
+		"description": "Country name"
+	},
+	"shipping.iq": {
+		"message": "Iraq",
+		"description": "Country name"
+	},
+	"shipping.ir": {
+		"message": "Iran, Islamic Republic of",
+		"description": "Country name"
+	},
+	"shipping.is": {
+		"message": "Iceland",
+		"description": "Country name"
+	},
+	"shipping.it": {
+		"message": "Italy",
+		"description": "Country name"
+	},
+	"shipping.je": {
+		"message": "Jersey",
+		"description": "Country name"
+	},
+	"shipping.jm": {
+		"message": "Jamaica",
+		"description": "Country name"
+	},
+	"shipping.jo": {
+		"message": "Jordan",
+		"description": "Country name"
+	},
+	"shipping.jp": {
+		"message": "Japan",
+		"description": "Country name"
+	},
+	"shipping.jp.01": {
+		"message": "Hokkaido",
+		"description": "State name"
+	},
+	"shipping.jp.02": {
+		"message": "Aomori",
+		"description": "State name"
+	},
+	"shipping.jp.03": {
+		"message": "Iwate",
+		"description": "State name"
+	},
+	"shipping.jp.04": {
+		"message": "Miyagi",
+		"description": "State name"
+	},
+	"shipping.jp.05": {
+		"message": "Akita",
+		"description": "State name"
+	},
+	"shipping.jp.06": {
+		"message": "Yamagata",
+		"description": "State name"
+	},
+	"shipping.jp.07": {
+		"message": "Fukushima",
+		"description": "State name"
+	},
+	"shipping.jp.08": {
+		"message": "Ibaraki",
+		"description": "State name"
+	},
+	"shipping.jp.09": {
+		"message": "Tochigi",
+		"description": "State name"
+	},
+	"shipping.jp.10": {
+		"message": "Gunma",
+		"description": "State name"
+	},
+	"shipping.jp.11": {
+		"message": "Saitama",
+		"description": "State name"
+	},
+	"shipping.jp.12": {
+		"message": "Chiba",
+		"description": "State name"
+	},
+	"shipping.jp.13": {
+		"message": "Tokyo",
+		"description": "State name"
+	},
+	"shipping.jp.14": {
+		"message": "Kanagawa",
+		"description": "State name"
+	},
+	"shipping.jp.15": {
+		"message": "Niigata",
+		"description": "State name"
+	},
+	"shipping.jp.16": {
+		"message": "Toyama",
+		"description": "State name"
+	},
+	"shipping.jp.17": {
+		"message": "Ishikawa",
+		"description": "State name"
+	},
+	"shipping.jp.18": {
+		"message": "Fukui",
+		"description": "State name"
+	},
+	"shipping.jp.19": {
+		"message": "Yamanashi",
+		"description": "State name"
+	},
+	"shipping.jp.20": {
+		"message": "Nagano",
+		"description": "State name"
+	},
+	"shipping.jp.21": {
+		"message": "Gifu",
+		"description": "State name"
+	},
+	"shipping.jp.22": {
+		"message": "Shizuoka",
+		"description": "State name"
+	},
+	"shipping.jp.23": {
+		"message": "Aichi",
+		"description": "State name"
+	},
+	"shipping.jp.24": {
+		"message": "Mie",
+		"description": "State name"
+	},
+	"shipping.jp.25": {
+		"message": "Shiga",
+		"description": "State name"
+	},
+	"shipping.jp.26": {
+		"message": "Kyoto",
+		"description": "State name"
+	},
+	"shipping.jp.27": {
+		"message": "Osaka",
+		"description": "State name"
+	},
+	"shipping.jp.28": {
+		"message": "Hyogo",
+		"description": "State name"
+	},
+	"shipping.jp.29": {
+		"message": "Nara",
+		"description": "State name"
+	},
+	"shipping.jp.30": {
+		"message": "Wakayama",
+		"description": "State name"
+	},
+	"shipping.jp.31": {
+		"message": "Tottori",
+		"description": "State name"
+	},
+	"shipping.jp.32": {
+		"message": "Shimane",
+		"description": "State name"
+	},
+	"shipping.jp.33": {
+		"message": "Okayama",
+		"description": "State name"
+	},
+	"shipping.jp.34": {
+		"message": "Hiroshima",
+		"description": "State name"
+	},
+	"shipping.jp.35": {
+		"message": "Yamaguchi",
+		"description": "State name"
+	},
+	"shipping.jp.36": {
+		"message": "Tokushima",
+		"description": "State name"
+	},
+	"shipping.jp.37": {
+		"message": "Kagawa",
+		"description": "State name"
+	},
+	"shipping.jp.38": {
+		"message": "Ehime",
+		"description": "State name"
+	},
+	"shipping.jp.39": {
+		"message": "Kochi",
+		"description": "State name"
+	},
+	"shipping.jp.40": {
+		"message": "Fukuoka",
+		"description": "State name"
+	},
+	"shipping.jp.41": {
+		"message": "Saga",
+		"description": "State name"
+	},
+	"shipping.jp.42": {
+		"message": "Nagasaki",
+		"description": "State name"
+	},
+	"shipping.jp.43": {
+		"message": "Kumamoto",
+		"description": "State name"
+	},
+	"shipping.jp.44": {
+		"message": "Oita",
+		"description": "State name"
+	},
+	"shipping.jp.45": {
+		"message": "Miyazaki",
+		"description": "State name"
+	},
+	"shipping.jp.46": {
+		"message": "Kagoshima",
+		"description": "State name"
+	},
+	"shipping.jp.47": {
+		"message": "Okinawa",
+		"description": "State name"
+	},
+	"shipping.ke": {
+		"message": "Kenya",
+		"description": "Country name"
+	},
+	"shipping.kg": {
+		"message": "Kyrgyzstan",
+		"description": "Country name"
+	},
+	"shipping.kh": {
+		"message": "Cambodia",
+		"description": "Country name"
+	},
+	"shipping.ki": {
+		"message": "Kiribati",
+		"description": "Country name"
+	},
+	"shipping.km": {
+		"message": "Comoros",
+		"description": "Country name"
+	},
+	"shipping.kn": {
+		"message": "Saint Kitts and Nevis",
+		"description": "Country name"
+	},
+	"shipping.kp": {
+		"message": "Korea, Democratic People's Republic of",
+		"description": "Country name"
+	},
+	"shipping.kr": {
+		"message": "Korea, Republic of",
+		"description": "Country name"
+	},
+	"shipping.kw": {
+		"message": "Kuwait",
+		"description": "Country name"
+	},
+	"shipping.ky": {
+		"message": "Cayman Islands",
+		"description": "Country name"
+	},
+	"shipping.kz": {
+		"message": "Kazakhstan",
+		"description": "Country name"
+	},
+	"shipping.la": {
+		"message": "Lao People's Democratic Republic",
+		"description": "Country name"
+	},
+	"shipping.lb": {
+		"message": "Lebanon",
+		"description": "Country name"
+	},
+	"shipping.lc": {
+		"message": "Saint Lucia",
+		"description": "Country name"
+	},
+	"shipping.li": {
+		"message": "Liechtenstein",
+		"description": "Country name"
+	},
+	"shipping.lk": {
+		"message": "Sri Lanka",
+		"description": "Country name"
+	},
+	"shipping.lr": {
+		"message": "Liberia",
+		"description": "Country name"
+	},
+	"shipping.ls": {
+		"message": "Lesotho",
+		"description": "Country name"
+	},
+	"shipping.lt": {
+		"message": "Lithuania",
+		"description": "Country name"
+	},
+	"shipping.lu": {
+		"message": "Luxembourg",
+		"description": "Country name"
+	},
+	"shipping.lv": {
+		"message": "Latvia",
+		"description": "Country name"
+	},
+	"shipping.ly": {
+		"message": "Libyan Arab Jamahiriya",
+		"description": "Country name"
+	},
+	"shipping.ma": {
+		"message": "Morocco",
+		"description": "Country name"
+	},
+	"shipping.mc": {
+		"message": "Monaco",
+		"description": "Country name"
+	},
+	"shipping.md": {
+		"message": "Moldova, Republic of",
+		"description": "Country name"
+	},
+	"shipping.me": {
+		"message": "Montenegro",
+		"description": "Country name"
+	},
+	"shipping.mf": {
+		"message": "Sint Maarten",
+		"description": "Country name"
+	},
+	"shipping.mg": {
+		"message": "Madagascar",
+		"description": "Country name"
+	},
+	"shipping.mh": {
+		"message": "Marshall Islands",
+		"description": "Country name"
+	},
+	"shipping.mk": {
+		"message": "North Macedonia, Republic of",
+		"description": "Country name"
+	},
+	"shipping.ml": {
+		"message": "Mali",
+		"description": "Country name"
+	},
+	"shipping.mm": {
+		"message": "Myanmar",
+		"description": "Country name"
+	},
+	"shipping.mn": {
+		"message": "Mongolia",
+		"description": "Country name"
+	},
+	"shipping.mo": {
+		"message": "Macao",
+		"description": "Country name"
+	},
+	"shipping.mp": {
+		"message": "Northern Mariana Islands",
+		"description": "Country name"
+	},
+	"shipping.mq": {
+		"message": "Martinique",
+		"description": "Country name"
+	},
+	"shipping.mr": {
+		"message": "Mauritania",
+		"description": "Country name"
+	},
+	"shipping.ms": {
+		"message": "Montserrat",
+		"description": "Country name"
+	},
+	"shipping.mt": {
+		"message": "Malta",
+		"description": "Country name"
+	},
+	"shipping.mu": {
+		"message": "Mauritius",
+		"description": "Country name"
+	},
+	"shipping.mv": {
+		"message": "Maldives",
+		"description": "Country name"
+	},
+	"shipping.mw": {
+		"message": "Malawi",
+		"description": "Country name"
+	},
+	"shipping.mx": {
+		"message": "Mexico",
+		"description": "Country name"
+	},
+	"shipping.my": {
+		"message": "Malaysia",
+		"description": "Country name"
+	},
+	"shipping.mz": {
+		"message": "Mozambique",
+		"description": "Country name"
+	},
+	"shipping.na": {
+		"message": "Namibia",
+		"description": "Country name"
+	},
+	"shipping.nc": {
+		"message": "New Caledonia",
+		"description": "Country name"
+	},
+	"shipping.ne": {
+		"message": "Niger",
+		"description": "Country name"
+	},
+	"shipping.nf": {
+		"message": "Norfolk Island",
+		"description": "Country name"
+	},
+	"shipping.ng": {
+		"message": "Nigeria",
+		"description": "Country name"
+	},
+	"shipping.ni": {
+		"message": "Nicaragua",
+		"description": "Country name"
+	},
+	"shipping.nl": {
+		"message": "Netherlands",
+		"description": "Country name"
+	},
+	"shipping.no": {
+		"message": "Norway",
+		"description": "Country name"
+	},
+	"shipping.np": {
+		"message": "Nepal",
+		"description": "Country name"
+	},
+	"shipping.nr": {
+		"message": "Nauru",
+		"description": "Country name"
+	},
+	"shipping.nu": {
+		"message": "Niue",
+		"description": "Country name"
+	},
+	"shipping.nz": {
+		"message": "New Zealand",
+		"description": "Country name"
+	},
+	"shipping.om": {
+		"message": "Oman",
+		"description": "Country name"
+	},
+	"shipping.pa": {
+		"message": "Panama",
+		"description": "Country name"
+	},
+	"shipping.pe": {
+		"message": "Peru",
+		"description": "Country name"
+	},
+	"shipping.pf": {
+		"message": "French Polynesia",
+		"description": "Country name"
+	},
+	"shipping.pg": {
+		"message": "Papua New Guinea",
+		"description": "Country name"
+	},
+	"shipping.ph": {
+		"message": "Philippines",
+		"description": "Country name"
+	},
+	"shipping.pk": {
+		"message": "Pakistan",
+		"description": "Country name"
+	},
+	"shipping.pl": {
+		"message": "Poland",
+		"description": "Country name"
+	},
+	"shipping.pm": {
+		"message": "Saint Pierre and Miquelon",
+		"description": "Country name"
+	},
+	"shipping.pn": {
+		"message": "Pitcairn",
+		"description": "Country name"
+	},
+	"shipping.pr": {
+		"message": "Puerto Rico",
+		"description": "Country name"
+	},
+	"shipping.ps": {
+		"message": "Palestinian Territory, Occupied",
+		"description": "Country name"
+	},
+	"shipping.pt": {
+		"message": "Portugal",
+		"description": "Country name"
+	},
+	"shipping.pw": {
+		"message": "Palau",
+		"description": "Country name"
+	},
+	"shipping.py": {
+		"message": "Paraguay",
+		"description": "Country name"
+	},
+	"shipping.qa": {
+		"message": "Qatar",
+		"description": "Country name"
+	},
+	"shipping.re": {
+		"message": "Reunion",
+		"description": "Country name"
+	},
+	"shipping.ro": {
+		"message": "Romania",
+		"description": "Country name"
+	},
+	"shipping.rs": {
+		"message": "Serbia",
+		"description": "Country name"
+	},
+	"shipping.ru": {
+		"message": "Russian Federation",
+		"description": "Country name"
+	},
+	"shipping.rw": {
+		"message": "Rwanda",
+		"description": "Country name"
+	},
+	"shipping.sa": {
+		"message": "Saudi Arabia",
+		"description": "Country name"
+	},
+	"shipping.sb": {
+		"message": "Solomon Islands",
+		"description": "Country name"
+	},
+	"shipping.sc": {
+		"message": "Seychelles",
+		"description": "Country name"
+	},
+	"shipping.sd": {
+		"message": "Sudan",
+		"description": "Country name"
+	},
+	"shipping.se": {
+		"message": "Sweden",
+		"description": "Country name"
+	},
+	"shipping.sg": {
+		"message": "Singapore",
+		"description": "Country name"
+	},
+	"shipping.sh": {
+		"message": "Saint Helena",
+		"description": "Country name"
+	},
+	"shipping.si": {
+		"message": "Slovenia",
+		"description": "Country name"
+	},
+	"shipping.sj": {
+		"message": "Svalbard and Jan Mayen",
+		"description": "Country name"
+	},
+	"shipping.sk": {
+		"message": "Slovakia",
+		"description": "Country name"
+	},
+	"shipping.sl": {
+		"message": "Sierra Leone",
+		"description": "Country name"
+	},
+	"shipping.sm": {
+		"message": "San Marino",
+		"description": "Country name"
+	},
+	"shipping.sn": {
+		"message": "Senegal",
+		"description": "Country name"
+	},
+	"shipping.so": {
+		"message": "Somalia",
+		"description": "Country name"
+	},
+	"shipping.sr": {
+		"message": "Suriname",
+		"description": "Country name"
+	},
+	"shipping.st": {
+		"message": "Sao Tome and Principe",
+		"description": "Country name"
+	},
+	"shipping.sv": {
+		"message": "El Salvador",
+		"description": "Country name"
+	},
+	"shipping.sy": {
+		"message": "Syrian Arab Republic",
+		"description": "Country name"
+	},
+	"shipping.sz": {
+		"message": "Eswatini",
+		"description": "Country name"
+	},
+	"shipping.tc": {
+		"message": "Turks and Caicos Islands",
+		"description": "Country name"
+	},
+	"shipping.td": {
+		"message": "Chad",
+		"description": "Country name"
+	},
+	"shipping.tf": {
+		"message": "French Southern Territories",
+		"description": "Country name"
+	},
+	"shipping.tg": {
+		"message": "Togo",
+		"description": "Country name"
+	},
+	"shipping.th": {
+		"message": "Thailand",
+		"description": "Country name"
+	},
+	"shipping.tj": {
+		"message": "Tajikistan",
+		"description": "Country name"
+	},
+	"shipping.tk": {
+		"message": "Tokelau",
+		"description": "Country name"
+	},
+	"shipping.tl": {
+		"message": "Timor-Leste",
+		"description": "Country name"
+	},
+	"shipping.tm": {
+		"message": "Turkmenistan",
+		"description": "Country name"
+	},
+	"shipping.tn": {
+		"message": "Tunisia",
+		"description": "Country name"
+	},
+	"shipping.to": {
+		"message": "Tonga",
+		"description": "Country name"
+	},
+	"shipping.tr": {
+		"message": "Turkey",
+		"description": "Country name"
+	},
+	"shipping.tt": {
+		"message": "Trinidad and Tobago",
+		"description": "Country name"
+	},
+	"shipping.tv": {
+		"message": "Tuvalu",
+		"description": "Country name"
+	},
+	"shipping.tw": {
+		"message": "Taiwan",
+		"description": "Country name"
+	},
+	"shipping.tz": {
+		"message": "Tanzania",
+		"description": "Country name"
+	},
+	"shipping.ua": {
+		"message": "Ukraine",
+		"description": "Country name"
+	},
+	"shipping.ug": {
+		"message": "Uganda",
+		"description": "Country name"
+	},
+	"shipping.um": {
+		"message": "United States Minor Outlying Islands",
+		"description": "Country name"
+	},
+	"shipping.us": {
+		"message": "United States",
+		"description": "Country name"
+	},
+	"shipping.us.AA": {
+		"message": "Armed Forces Americas (except Canada)",
+		"description": "State name"
+	},
+	"shipping.us.AE": {
+		"message": "Armed Forces",
+		"description": "State name"
+	},
+	"shipping.us.AK": {
+		"message": "Alaska",
+		"description": "State name"
+	},
+	"shipping.us.AL": {
+		"message": "Alabama",
+		"description": "State name"
+	},
+	"shipping.us.AP": {
+		"message": "Armed Forces Pacific",
+		"description": "State name"
+	},
+	"shipping.us.AR": {
+		"message": "Arkansas",
+		"description": "State name"
+	},
+	"shipping.us.AS": {
+		"message": "American Samoa",
+		"description": "State name"
+	},
+	"shipping.us.AZ": {
+		"message": "Arizona",
+		"description": "State name"
+	},
+	"shipping.us.CA": {
+		"message": "California",
+		"description": "State name"
+	},
+	"shipping.us.CO": {
+		"message": "Colorado",
+		"description": "State name"
+	},
+	"shipping.us.CT": {
+		"message": "Connecticut",
+		"description": "State name"
+	},
+	"shipping.us.DC": {
+		"message": "District of Columbia",
+		"description": "State name"
+	},
+	"shipping.us.DE": {
+		"message": "Delaware",
+		"description": "State name"
+	},
+	"shipping.us.FL": {
+		"message": "Florida",
+		"description": "State name"
+	},
+	"shipping.us.FM": {
+		"message": "Federated States of Micronesia",
+		"description": "State name"
+	},
+	"shipping.us.GA": {
+		"message": "Georgia",
+		"description": "State name"
+	},
+	"shipping.us.GU": {
+		"message": "Guam",
+		"description": "State name"
+	},
+	"shipping.us.HI": {
+		"message": "Hawaii",
+		"description": "State name"
+	},
+	"shipping.us.IA": {
+		"message": "Iowa",
+		"description": "State name"
+	},
+	"shipping.us.ID": {
+		"message": "Idaho",
+		"description": "State name"
+	},
+	"shipping.us.IL": {
+		"message": "Illinois",
+		"description": "State name"
+	},
+	"shipping.us.IN": {
+		"message": "Indiana",
+		"description": "State name"
+	},
+	"shipping.us.KS": {
+		"message": "Kansas",
+		"description": "State name"
+	},
+	"shipping.us.KY": {
+		"message": "Kentucky",
+		"description": "State name"
+	},
+	"shipping.us.LA": {
+		"message": "Louisiana",
+		"description": "State name"
+	},
+	"shipping.us.MA": {
+		"message": "Massachusetts",
+		"description": "State name"
+	},
+	"shipping.us.MD": {
+		"message": "Maryland",
+		"description": "State name"
+	},
+	"shipping.us.ME": {
+		"message": "Maine",
+		"description": "State name"
+	},
+	"shipping.us.MH": {
+		"message": "Marshall Islands",
+		"description": "State name"
+	},
+	"shipping.us.MI": {
+		"message": "Michigan",
+		"description": "State name"
+	},
+	"shipping.us.MN": {
+		"message": "Minnesota",
+		"description": "State name"
+	},
+	"shipping.us.MO": {
+		"message": "Missouri",
+		"description": "State name"
+	},
+	"shipping.us.MP": {
+		"message": "Northern Mariana Islands",
+		"description": "State name"
+	},
+	"shipping.us.MS": {
+		"message": "Mississippi",
+		"description": "State name"
+	},
+	"shipping.us.MT": {
+		"message": "Montana",
+		"description": "State name"
+	},
+	"shipping.us.NC": {
+		"message": "North Carolina",
+		"description": "State name"
+	},
+	"shipping.us.ND": {
+		"message": "North Dakota",
+		"description": "State name"
+	},
+	"shipping.us.NE": {
+		"message": "Nebraska",
+		"description": "State name"
+	},
+	"shipping.us.NH": {
+		"message": "New Hampshire",
+		"description": "State name"
+	},
+	"shipping.us.NJ": {
+		"message": "New Jersey",
+		"description": "State name"
+	},
+	"shipping.us.NM": {
+		"message": "New Mexico",
+		"description": "State name"
+	},
+	"shipping.us.NV": {
+		"message": "Nevada",
+		"description": "State name"
+	},
+	"shipping.us.NY": {
+		"message": "New York",
+		"description": "State name"
+	},
+	"shipping.us.OH": {
+		"message": "Ohio",
+		"description": "State name"
+	},
+	"shipping.us.OK": {
+		"message": "Oklahoma",
+		"description": "State name"
+	},
+	"shipping.us.OR": {
+		"message": "Oregon",
+		"description": "State name"
+	},
+	"shipping.us.PA": {
+		"message": "Pennsylvania",
+		"description": "State name"
+	},
+	"shipping.us.PR": {
+		"message": "Puerto Rico",
+		"description": "State name"
+	},
+	"shipping.us.PW": {
+		"message": "Palau",
+		"description": "State name"
+	},
+	"shipping.us.RI": {
+		"message": "Rhode Island",
+		"description": "State name"
+	},
+	"shipping.us.SC": {
+		"message": "South Carolina",
+		"description": "State name"
+	},
+	"shipping.us.SD": {
+		"message": "South Dakota",
+		"description": "State name"
+	},
+	"shipping.us.TN": {
+		"message": "Tennessee",
+		"description": "State name"
+	},
+	"shipping.us.TX": {
+		"message": "Texas",
+		"description": "State name"
+	},
+	"shipping.us.UT": {
+		"message": "Utah",
+		"description": "State name"
+	},
+	"shipping.us.VA": {
+		"message": "Virginia",
+		"description": "State name"
+	},
+	"shipping.us.VI": {
+		"message": "Virgin Islands",
+		"description": "State name"
+	},
+	"shipping.us.VT": {
+		"message": "Vermont",
+		"description": "State name"
+	},
+	"shipping.us.WA": {
+		"message": "Washington",
+		"description": "State name"
+	},
+	"shipping.us.WI": {
+		"message": "Wisconsin",
+		"description": "State name"
+	},
+	"shipping.us.WV": {
+		"message": "West Virginia",
+		"description": "State name"
+	},
+	"shipping.us.WY": {
+		"message": "Wyoming",
+		"description": "State name"
+	},
+	"shipping.uy": {
+		"message": "Uruguay",
+		"description": "Country name"
+	},
+	"shipping.uz": {
+		"message": "Uzbekistan",
+		"description": "Country name"
+	},
+	"shipping.va": {
+		"message": "Vatican City",
+		"description": "Country name"
+	},
+	"shipping.vc": {
+		"message": "Saint Vincent and the Grenadines",
+		"description": "Country name"
+	},
+	"shipping.ve": {
+		"message": "Venezuela",
+		"description": "Country name"
+	},
+	"shipping.vg": {
+		"message": "Virgin Islands, British",
+		"description": "Country name"
+	},
+	"shipping.vi": {
+		"message": "Virgin Islands, U.S.",
+		"description": "Country name"
+	},
+	"shipping.vn": {
+		"message": "Vietnam",
+		"description": "Country name"
+	},
+	"shipping.vu": {
+		"message": "Vanuatu",
+		"description": "Country name"
+	},
+	"shipping.wf": {
+		"message": "Wallis and Futuna",
+		"description": "Country name"
+	},
+	"shipping.ws": {
+		"message": "Samoa",
+		"description": "Country name"
+	},
+	"shipping.ye": {
+		"message": "Yemen",
+		"description": "Country name"
+	},
+	"shipping.yt": {
+		"message": "Mayotte",
+		"description": "Country name"
+	},
+	"shipping.za": {
+		"message": "South Africa",
+		"description": "Country name"
+	},
+	"shipping.zm": {
+		"message": "Zambia",
+		"description": "Country name"
+	},
+	"shipping.zw": {
+		"message": "Zimbabwe",
+		"description": "Country name"
+	}
+}
