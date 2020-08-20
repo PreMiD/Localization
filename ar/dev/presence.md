@@ -257,7 +257,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>الفئة</b>
       </td>
       <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها. مشاهدة الأخاديد الصالحة <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">هنا</a>.</td>
       <td style="text-align:left"><code>سلسلة</code>
