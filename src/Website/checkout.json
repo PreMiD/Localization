@@ -12,19 +12,19 @@
 		"description": "Understand what the form is about"
 	},
 	"checkout.fname": {
-		"message": "First Name",
+		"message": "First Name*",
 		"description": "User's first name"
 	},
 	"checkout.lname": {
-		"message": "Last Name",
+		"message": "Last Name*",
 		"description": "User's last name"
 	},
 	"checkout.email": {
-		"message": "E-Mail",
+		"message": "E-Mail*",
 		"description": "User's email"
 	},
 	"checkout.address": {
-		"message": "Address",
+		"message": "Address*",
 		"description": "User's shipping address"
 	},
 	"checkout.address2": {
@@ -32,15 +32,15 @@
 		"description": "User's second shipping address"
 	},
 	"checkout.country": {
-		"message": "Country",
+		"message": "Country*",
 		"description": "User's shipping country"
 	},
 	"checkout.state": {
-		"message": "State",
+		"message": "State*",
 		"description": "User's shipping state"
 	},
 	"checkout.zip": {
-		"message": "Zip",
+		"message": "Zip*",
 		"description": "User's shipping zip code"
 	},
 	"checkout.cart": {
