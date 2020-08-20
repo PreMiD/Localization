@@ -75,6 +75,10 @@
 		"message": "شيئًا ما مهلًا، يرسل لك أطنان من الأخطاء أو ببساطة لا تعمل؟ سوف نساعدك على التخلص من هذه المشكلات على خادم ديسكورد الخاص بنا، كما أنشأنا نظام الدعم الخاص بنا والذي سيتأكد من حل مشكلتك بأسرع ما يمكن.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "انضم إلى الديسكورد الخاص بنا",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "لغة الموقع",
 		"description": "Tippy content of the language selector."
