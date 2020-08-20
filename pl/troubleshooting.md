@@ -26,7 +26,7 @@ Możesz również nacisnąć <kbd>CTRL + R</kbd>/<kbd>F5</kbd> (Windows) lub <kb
 **Ustawienia użytkownika** > **Aktywność w grze** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Uruchom ponownie PreMiD (aplikacja)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+![quit.png](/quit.png) Następnie uruchom ponownie PreMiD.
 
 ### Odśwież/uruchom ponownie Discorda
 Naciśnij klawisze <kbd>CTRL + R</kbd> (Windows) lub <kbd>CMD + R</kbd> (MacOS) na klawiaturze albo ręcznie uruchom ponownie Discorda.

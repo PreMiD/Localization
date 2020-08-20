@@ -279,7 +279,7 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the verifiers determine whether your presence is suitable for deployment.
 
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Jeśli zobaczysz nowe problemy, **musisz** je także naprawić. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Reguły dodatkowe`
 
