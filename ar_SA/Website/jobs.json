@@ -11,6 +11,10 @@
 		"message": "التالي",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "إنضم",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "إلغاء",
 		"description": "Cancel, button in the modal."
@@ -23,9 +27,21 @@
 		"message": "بريميد هو مشروع مفتوح المصدر، بمعنى أننا فريق غير ربحي ، كل تبرع يعود إلى المنتج. عندما تتقدم بطلب الحصول على وظيفة في بريميد، فإنك تعترف بأنك تتطوع في الفريق، فلن تحصل على أجر عن عملك.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "انضم إلى الديسكورد الخاص بنا",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "لتتمكن من التطبيق يجب عليك الانضمام بسيرفر الديسكورد الخاص بنا. وإلا لن نتمكن من الاتصال بك إذا تم اختيارك في النهاية!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "العمل لحساب PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "هل انت مستعد لمساعدة اكبر مكتبة Rich-Presence؟",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "الوظائف الشاغرة",
@@ -63,6 +79,10 @@
 		"message": "دعم PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "مع مساعدتك يمكنك تشغيل هذا المشروع.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "انتهاء المهلة",
 		"description": "Benefit card title."
@@ -74,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "الوصول المبكر",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "اختبر الميزات الجديدة قبل أي شخص اخر.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "شكرًا لك على تقديم الطلب!",
