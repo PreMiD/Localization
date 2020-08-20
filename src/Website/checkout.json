@@ -3,6 +3,10 @@
 		"message": "Personal Information",
 		"description": "Form page title"
 	},
+	"checkout.shipping": {
+		"message": "**Shipping address**",
+		"description": "Title of shipping form"
+	},
 	"checkout.billing": {
 		"message": "**Billing address**",
 		"description": "Title of shipping form"
@@ -30,6 +34,10 @@
 	"checkout.address2": {
 		"message": "Address 2",
 		"description": "User's second shipping address"
+	},
+	"checkout.city": {
+		"message": "City/Town*",
+		"description": "User's City/Town"
 	},
 	"checkout.country": {
 		"message": "Country*",
