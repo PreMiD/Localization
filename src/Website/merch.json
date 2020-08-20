@@ -7,13 +7,33 @@
 		"message": "Find your **Swag**",
 		"description": "Subtitle for store"
 	},
+	"merch.colour": {
+		"message": "Choose your **colour**",
+		"description": "Product colours"
+	},
+	"merch.red": {
+		"message": "Red",
+		"description": "Colour Red"
+	},
+	"merch.blue": {
+		"message": "Blue",
+		"description": "Colour Blue"
+	},
+	"merch.white": {
+		"message": "White",
+		"description": "Colour White"
+	},
 	"merch.fit": {
-		"message": "Choose your fit",
+		"message": "Choose your **fit**",
 		"description": "Product sizes"
 	},
 	"merch.cart": {
 		"message": "Add to cart",
 		"description": "Add product to cart"
+	},
+	"merch.price": {
+		"message": "€{0}",
+		"description": "Use € as the currency, place € either before or after {0}, {0} is replaced with euro amount"
 	},
 	"merch.help": {
 		"message": "Experiencing problems with our store or an order? Contact our {0}customer support{1}",
