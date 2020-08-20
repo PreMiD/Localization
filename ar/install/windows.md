@@ -14,10 +14,10 @@ tags:
 1. انتقل إلى صفحة التنزيلات الخاصة بنا عن طريق [النقر هنا](https://premid.app/downloads).
 2. اختر **ويندوز**.
 3. افتح المثبت.
-4. **Windows SmartSscreen** سيظهر، إذا قمت بتثبيت PreMiD لأول مرة. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. **Windows SmartSscreen** سيظهر، إذا قمت بتثبيت PreMiD لأول مرة. Click on **More Info** and then select **Run Anyway**. > هذا لإنه ليس لدينا شهادة توقيع رمز (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+التطبيق سيبدأ تلقائياً. Check for the symbol in your system tray.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> لا تنسى [ إضافة الإضافة ****](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
