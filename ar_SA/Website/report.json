@@ -3,6 +3,22 @@
 		"message": "الابلاغ عن الاخطاء",
 		"description": "Text to indicate the page."
 	},
+	"report.bugcount": {
+		"message": "{count}/3 أخطاء متبقية",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "الإبلاغ عن الأخطاء هو للأخطاء الموجودة داخل موقع PreMiD وسيرفر ديسكورد PreMiD. يجب الإبلاغ عن الأخطاء الخاصة بالوجود لمنشئ الحضور. إبلاغ الأخطاء باللغة الإنجليزية فقط.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "فدم وصف واضح و موجز لماهو الخطأ.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "حدد نظام التشغيل الخاص بك والإصدار",
+		"description": "Select Box for the user to select their operating system"
+	},
 	"report.browser": {
 		"message": "حدد متصفحك وإصدارك - يمكنك الحصول على الإصدار بواسطة زيارة about:support على Firefox أو chrome://help",
 		"description": "Select Box for the user to select their browser"
