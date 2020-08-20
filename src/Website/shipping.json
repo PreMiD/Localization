@@ -55,35 +55,35 @@
 		"message": "Australia",
 		"description": "Country name"
 	},
-	"shipping.au.ACT": {
+	"shipping.au.act": {
 		"message": "Australian Capital Territory",
 		"description": "State name"
 	},
-	"shipping.au.NSW": {
+	"shipping.au.nsw": {
 		"message": "New South Wales",
 		"description": "State name"
 	},
-	"shipping.au.NT": {
+	"shipping.au.nt": {
 		"message": "Northern Territory",
 		"description": "State name"
 	},
-	"shipping.au.QLD": {
+	"shipping.au.qld": {
 		"message": "Queensland",
 		"description": "State name"
 	},
-	"shipping.au.SA": {
+	"shipping.au.sa": {
 		"message": "South Australia",
 		"description": "State name"
 	},
-	"shipping.au.TAS": {
+	"shipping.au.tas": {
 		"message": "Tasmania",
 		"description": "State name"
 	},
-	"shipping.au.VIC": {
+	"shipping.au.vic": {
 		"message": "Victoria",
 		"description": "State name"
 	},
-	"shipping.au.WA": {
+	"shipping.au.wa": {
 		"message": "Western Australia",
 		"description": "State name"
 	},
@@ -175,55 +175,55 @@
 		"message": "Canada",
 		"description": "Country name"
 	},
-	"shipping.ca.AB": {
+	"shipping.ca.ab": {
 		"message": "Alberta",
 		"description": "State name"
 	},
-	"shipping.ca.BC": {
+	"shipping.ca.bc": {
 		"message": "British Columbia",
 		"description": "State name"
 	},
-	"shipping.ca.MB": {
+	"shipping.ca.mb": {
 		"message": "Manitoba",
 		"description": "State name"
 	},
-	"shipping.ca.NB": {
+	"shipping.ca.nb": {
 		"message": "New Brunswick",
 		"description": "State name"
 	},
-	"shipping.ca.NL": {
+	"shipping.ca.nl": {
 		"message": "Newfoundland and Labrador",
 		"description": "State name"
 	},
-	"shipping.ca.NS": {
+	"shipping.ca.ns": {
 		"message": "Nova Scotia",
 		"description": "State name"
 	},
-	"shipping.ca.NT": {
+	"shipping.ca.nt": {
 		"message": "Northwest Territories",
 		"description": "State name"
 	},
-	"shipping.ca.NU": {
+	"shipping.ca.nu": {
 		"message": "Nunavut",
 		"description": "State name"
 	},
-	"shipping.ca.ON": {
+	"shipping.ca.on": {
 		"message": "Ontario",
 		"description": "State name"
 	},
-	"shipping.ca.PE": {
+	"shipping.ca.pe": {
 		"message": "Prince Edward Island",
 		"description": "State name"
 	},
-	"shipping.ca.QC": {
+	"shipping.ca.qc": {
 		"message": "Quebec",
 		"description": "State name"
 	},
-	"shipping.ca.SK": {
+	"shipping.ca.sk": {
 		"message": "Saskatchewan",
 		"description": "State name"
 	},
-	"shipping.ca.YT": {
+	"shipping.ca.yt": {
 		"message": "Yukon",
 		"description": "State name"
 	},
@@ -1187,251 +1187,251 @@
 		"message": "United States",
 		"description": "Country name"
 	},
-	"shipping.us.AA": {
+	"shipping.us.aa": {
 		"message": "Armed Forces Americas (except Canada)",
 		"description": "State name"
 	},
-	"shipping.us.AE": {
+	"shipping.us.ae": {
 		"message": "Armed Forces",
 		"description": "State name"
 	},
-	"shipping.us.AK": {
+	"shipping.us.ak": {
 		"message": "Alaska",
 		"description": "State name"
 	},
-	"shipping.us.AL": {
+	"shipping.us.al": {
 		"message": "Alabama",
 		"description": "State name"
 	},
-	"shipping.us.AP": {
+	"shipping.us.ap": {
 		"message": "Armed Forces Pacific",
 		"description": "State name"
 	},
-	"shipping.us.AR": {
+	"shipping.us.ar": {
 		"message": "Arkansas",
 		"description": "State name"
 	},
-	"shipping.us.AS": {
+	"shipping.us.as": {
 		"message": "American Samoa",
 		"description": "State name"
 	},
-	"shipping.us.AZ": {
+	"shipping.us.az": {
 		"message": "Arizona",
 		"description": "State name"
 	},
-	"shipping.us.CA": {
+	"shipping.us.ca": {
 		"message": "California",
 		"description": "State name"
 	},
-	"shipping.us.CO": {
+	"shipping.us.co": {
 		"message": "Colorado",
 		"description": "State name"
 	},
-	"shipping.us.CT": {
+	"shipping.us.ct": {
 		"message": "Connecticut",
 		"description": "State name"
 	},
-	"shipping.us.DC": {
+	"shipping.us.dc": {
 		"message": "District of Columbia",
 		"description": "State name"
 	},
-	"shipping.us.DE": {
+	"shipping.us.de": {
 		"message": "Delaware",
 		"description": "State name"
 	},
-	"shipping.us.FL": {
+	"shipping.us.fl": {
 		"message": "Florida",
 		"description": "State name"
 	},
-	"shipping.us.FM": {
+	"shipping.us.fm": {
 		"message": "Federated States of Micronesia",
 		"description": "State name"
 	},
-	"shipping.us.GA": {
+	"shipping.us.ga": {
 		"message": "Georgia",
 		"description": "State name"
 	},
-	"shipping.us.GU": {
+	"shipping.us.gu": {
 		"message": "Guam",
 		"description": "State name"
 	},
-	"shipping.us.HI": {
+	"shipping.us.hi": {
 		"message": "Hawaii",
 		"description": "State name"
 	},
-	"shipping.us.IA": {
+	"shipping.us.ia": {
 		"message": "Iowa",
 		"description": "State name"
 	},
-	"shipping.us.ID": {
+	"shipping.us.id": {
 		"message": "Idaho",
 		"description": "State name"
 	},
-	"shipping.us.IL": {
+	"shipping.us.il": {
 		"message": "Illinois",
 		"description": "State name"
 	},
-	"shipping.us.IN": {
+	"shipping.us.in": {
 		"message": "Indiana",
 		"description": "State name"
 	},
-	"shipping.us.KS": {
+	"shipping.us.ks": {
 		"message": "Kansas",
 		"description": "State name"
 	},
-	"shipping.us.KY": {
+	"shipping.us.ky": {
 		"message": "Kentucky",
 		"description": "State name"
 	},
-	"shipping.us.LA": {
+	"shipping.us.la": {
 		"message": "Louisiana",
 		"description": "State name"
 	},
-	"shipping.us.MA": {
+	"shipping.us.ma": {
 		"message": "Massachusetts",
 		"description": "State name"
 	},
-	"shipping.us.MD": {
+	"shipping.us.md": {
 		"message": "Maryland",
 		"description": "State name"
 	},
-	"shipping.us.ME": {
+	"shipping.us.me": {
 		"message": "Maine",
 		"description": "State name"
 	},
-	"shipping.us.MH": {
+	"shipping.us.mh": {
 		"message": "Marshall Islands",
 		"description": "State name"
 	},
-	"shipping.us.MI": {
+	"shipping.us.mi": {
 		"message": "Michigan",
 		"description": "State name"
 	},
-	"shipping.us.MN": {
+	"shipping.us.mn": {
 		"message": "Minnesota",
 		"description": "State name"
 	},
-	"shipping.us.MO": {
+	"shipping.us.mo": {
 		"message": "Missouri",
 		"description": "State name"
 	},
-	"shipping.us.MP": {
+	"shipping.us.mp": {
 		"message": "Northern Mariana Islands",
 		"description": "State name"
 	},
-	"shipping.us.MS": {
+	"shipping.us.ms": {
 		"message": "Mississippi",
 		"description": "State name"
 	},
-	"shipping.us.MT": {
+	"shipping.us.mt": {
 		"message": "Montana",
 		"description": "State name"
 	},
-	"shipping.us.NC": {
+	"shipping.us.nc": {
 		"message": "North Carolina",
 		"description": "State name"
 	},
-	"shipping.us.ND": {
+	"shipping.us.nd": {
 		"message": "North Dakota",
 		"description": "State name"
 	},
-	"shipping.us.NE": {
+	"shipping.us.ne": {
 		"message": "Nebraska",
 		"description": "State name"
 	},
-	"shipping.us.NH": {
+	"shipping.us.nh": {
 		"message": "New Hampshire",
 		"description": "State name"
 	},
-	"shipping.us.NJ": {
+	"shipping.us.nj": {
 		"message": "New Jersey",
 		"description": "State name"
 	},
-	"shipping.us.NM": {
+	"shipping.us.nm": {
 		"message": "New Mexico",
 		"description": "State name"
 	},
-	"shipping.us.NV": {
+	"shipping.us.nv": {
 		"message": "Nevada",
 		"description": "State name"
 	},
-	"shipping.us.NY": {
+	"shipping.us.ny": {
 		"message": "New York",
 		"description": "State name"
 	},
-	"shipping.us.OH": {
+	"shipping.us.oh": {
 		"message": "Ohio",
 		"description": "State name"
 	},
-	"shipping.us.OK": {
+	"shipping.us.ok": {
 		"message": "Oklahoma",
 		"description": "State name"
 	},
-	"shipping.us.OR": {
+	"shipping.us.or": {
 		"message": "Oregon",
 		"description": "State name"
 	},
-	"shipping.us.PA": {
+	"shipping.us.pa": {
 		"message": "Pennsylvania",
 		"description": "State name"
 	},
-	"shipping.us.PR": {
+	"shipping.us.pr": {
 		"message": "Puerto Rico",
 		"description": "State name"
 	},
-	"shipping.us.PW": {
+	"shipping.us.pw": {
 		"message": "Palau",
 		"description": "State name"
 	},
-	"shipping.us.RI": {
+	"shipping.us.ri": {
 		"message": "Rhode Island",
 		"description": "State name"
 	},
-	"shipping.us.SC": {
+	"shipping.us.sc": {
 		"message": "South Carolina",
 		"description": "State name"
 	},
-	"shipping.us.SD": {
+	"shipping.us.sd": {
 		"message": "South Dakota",
 		"description": "State name"
 	},
-	"shipping.us.TN": {
+	"shipping.us.tn": {
 		"message": "Tennessee",
 		"description": "State name"
 	},
-	"shipping.us.TX": {
+	"shipping.us.tx": {
 		"message": "Texas",
 		"description": "State name"
 	},
-	"shipping.us.UT": {
+	"shipping.us.ut": {
 		"message": "Utah",
 		"description": "State name"
 	},
-	"shipping.us.VA": {
+	"shipping.us.va": {
 		"message": "Virginia",
 		"description": "State name"
 	},
-	"shipping.us.VI": {
+	"shipping.us.vi": {
 		"message": "Virgin Islands",
 		"description": "State name"
 	},
-	"shipping.us.VT": {
+	"shipping.us.vt": {
 		"message": "Vermont",
 		"description": "State name"
 	},
-	"shipping.us.WA": {
+	"shipping.us.wa": {
 		"message": "Washington",
 		"description": "State name"
 	},
-	"shipping.us.WI": {
+	"shipping.us.wi": {
 		"message": "Wisconsin",
 		"description": "State name"
 	},
-	"shipping.us.WV": {
+	"shipping.us.wv": {
 		"message": "West Virginia",
 		"description": "State name"
 	},
-	"shipping.us.WY": {
+	"shipping.us.wy": {
 		"message": "Wyoming",
 		"description": "State name"
 	},
