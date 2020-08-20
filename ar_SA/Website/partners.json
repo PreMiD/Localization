@@ -15,6 +15,14 @@
 		"message": "ماذا عن الذهاب إلى الجنة بدلا من الجحيم؟",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "تواجد مجاني خاص بك",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "سيوفر لك فريقنا Presence لخدمتك.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "كن مُحققًا",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "تكامل الوسوم الوصفية",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "يستخدم Presence الخاص بك تلقائيًا عندما يقوم شخص ما بزيارة موقع الويب الخاص بك.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "كن خالدا",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "كن مشهوراً",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "مميز على وسائل التواصل الاجتماعي الخاص بنا.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "المتطلبات",
@@ -66,6 +82,14 @@
 	"partners.apply.disclaimer": {
 		"message": "دعونا نذهب إلى السماء معاً!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "إذا كنت ترغب في الحصول على وظيفة مباشرة في PreMiD ، فقم بإلقاء نظرة على **إعلانات الوظائف الخاصة بنا**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "داعمين",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD لن يكون ممكناً، بدون هؤلاء الناس المذهلين.",
@@ -102,6 +126,10 @@
 	"partners.partner.wikijs": {
 		"message": "برنامج ويكي المفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "خلف أفضل شبكة الويب.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "تقدم بطلب الشريك",
