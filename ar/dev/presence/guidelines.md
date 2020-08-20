@@ -9,15 +9,15 @@ editor: markdown
 
 # الإرشادات
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+عند نشر التواجد على GitHub هذا ، نطلب منك اتباع مجموعة من الإرشادات. قد تبدو هذه قواعد صارمة بالنسبة للبعض منها. مع ذلك، فإن تنفيذ هذه القواعد سوف سيمنعنا ويمنع المستخدمين من الوقوع في أي مشاكل.
 
-# Creation
+# إنشاء
 
 القواعد العامة لتطوير الوجود هي كما يلي:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- التواجد ** يجب أن يكون ** مرتبطة بـ الموقع الإكتروني المختار.
+- لا يمكن أن يكون وجود **** لمواقع إلكترونية غير القانونية. (على سبيل المثال، الضغوطات، تسويق الأدوية، المواد الإباحية للأطفال، إلخ.)
+- يجب أن يكون أساس الملف نظيف ومدار ، ولا تقم بتضمين الملفات التي لم يتم تحديدها. (على سبيل المثال، vscode ومجلدات git، وملفات الصور والنصوص الكتابية، إلخ.)
 - You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
