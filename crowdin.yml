@@ -4,4 +4,6 @@ files:
   - source: /src/Website/*.json
     translation: /%locale_with_underscore%/Website/%original_file_name%
   - source: /src/Presence/*.json
-    translation: /%locale_with_underscore%/Presence/%original_file_name%  
+    translation: /%locale_with_underscore%/Presence/%original_file_name%
+    - source: /src/MerchStore/*.json
+    translation: /%locale_with_underscore%/MerchStore/%original_file_name%
