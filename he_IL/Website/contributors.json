@@ -47,6 +47,10 @@
 		"message": "מהנדס",
 		"description": "'Engineer' title for contributors and user pages."
 	},
+	"contributors.roles.designer": {
+		"message": "מעצב",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.seniorModerator": {
 		"message": "Senior Moderator",
 		"description": "'Senior Moderator' title for contributors and user pages."
