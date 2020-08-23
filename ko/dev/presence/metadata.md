@@ -72,7 +72,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">변수</th>
       <th style="text-align:left">설명</th>
       <th style="text-align:left">유형</th>
       <th style="text-align:left">Optional</th>
