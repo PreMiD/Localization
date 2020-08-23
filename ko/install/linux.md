@@ -15,22 +15,22 @@ The installation of the application is very important as the extension can not d
 - **[정보](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - 예시 (준비중)
+  - 자주 하는 질문 (준비중)
   - Building (soon)
   - [지원](#support)
   - [제작진](#credits)
-  - [License](#license)
+  - [라이센스](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
+- **[포터블 AppImage](#portable-appimage)** (_추천_)
   - [설치 방법](#installation-instructions)
   - [추가 사항](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
+- **Red Hat 엔터프라이즈 리눅스 (RHEL) 기반 배포판** (준비중, 지금은 [이것을](#portable-appimage) 사용하세요.)
+- **데비안, 우분투 기반 배포판** (준비중, 지금은 [이것을](#portable-appimage) 사용하세요.)
+- **[아치 리눅스 기반 배포판](#arch-linux-based-distributions)**
   - [설치 방법](#installation-instructions-1)
   - [추가 사항](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
+- **[젠투 리눅스](#gentoo-linux)**
   - [설치 방법](#installation-instructions-2)
   - [추가 사항](#additional-notes-2)
 
@@ -83,9 +83,9 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### 제작진
 
-Thanks to :
+도움을 주신 분들:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (그리고 제가 이름을 까먹은 몇몇 친구들) nightly 릴리즈에 피드백을 준 사람들.
 - @apriluwu for maintaining the Gentoo builds
 - @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
 - The Electron community for various packages
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### 라이센스
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -107,7 +107,7 @@ Probably never, since Snap's nature blocks PreMiD from reaching Discord and the 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
 
-## Portable AppImage
+## 포터블 AppImage
 
 The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
 
@@ -133,9 +133,9 @@ Either if you want to try PreMiD or just don't want to install it, this one's th
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## 아치 리눅스 기반 배포판
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+[아치 사용자 레포지토리](https://aur.archlinux.org/packages/premid)를 사용하세요;</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
@@ -165,7 +165,7 @@ pacaur -S premid
 # ... you get the point
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+또는 뭘 해야할 지 안다면 [Arch User Repository](https://aur.archlinux.org/packages/premid)에서 수동 설치하세요.
 
 <a name="archnotes"></a>
 
@@ -186,7 +186,7 @@ Other AUR/Pacman helpers work as well, although each one's functionality is diff
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
-## Gentoo Linux
+## 젠투 리눅스
 
 Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
