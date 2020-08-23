@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: 모든 PreMid Presence들의 class
+description: 모든 PreMid Presence 클래스
 published: true
 date: 2020-07-29T15:12:55.925Z
 tags:
@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+설정 값을 반환합니다.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -119,7 +119,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">변수</th>
       <th style="text-align:left">설명</th>
       <th style="text-align:left">유형</th>
     </tr>
@@ -127,7 +127,7 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">헤더로 주로 쓰이는 presence의 첫번째 줄입니다.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
