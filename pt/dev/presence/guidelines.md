@@ -225,11 +225,11 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 
 # Modificação
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> Você **deve** alterar a versão nos **metadados** para ter um valor mais alto em relação à versão anterior ao fazer alterações em **presence.ts**, **iframe.ts** ou **metadata.json**. 
 > 
 > {.is-warning}
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+Em algumas situações, as presenças podem se comportar de forma inesperada ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Here is a list of rules that you **must** follow while modifiying presences.
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
