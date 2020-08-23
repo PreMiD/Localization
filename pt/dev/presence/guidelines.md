@@ -229,7 +229,7 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 > 
 > {.is-warning}
 
-Em algumas situações, as presenças podem se comportar de forma inesperada ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Here is a list of rules that you **must** follow while modifiying presences.
+Em algumas situações, as presenças podem se comportar de forma inesperada ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Aqui está uma lista de regras que você **deve** seguir enquanto modifica as presenças.
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
@@ -253,7 +253,7 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifiers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
