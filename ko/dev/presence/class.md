@@ -21,13 +21,13 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+`Presence` 클래스를 위한 두가지 속성이 있습니다.
 
 #### `clientId`
 
 `clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+[여기에서](https://discordapp.com/developers/applications) 얻을 수 있습니다.
 
 ## Methods
 
