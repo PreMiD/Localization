@@ -233,8 +233,8 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 
 - Você **não** é permitido a reescrever um Presence ou mudar seu autor. Se o autor de algum Presence foi banido do servidor oficial ou não fez as mudanças requeridas dentro de um mês, você pode contactá-lo e verificar se você pode reescrever o Presence.
 - Qualquer um pode sugerir correções para resolver bugs; Contudo, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. Modificações válidas são, mas **não** limitadas a, _falta de paths_, _erros de digitação_, _falta de imagens_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.
-- Certifique-se de que as modificações são úteis. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
+- Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.
+- Certifique-se de que as modificações são úteis. Estes podem incluir correções (código e erros de digitação), aditivos (descrições e tags), etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
 
 # Verificação
 
@@ -250,7 +250,7 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
