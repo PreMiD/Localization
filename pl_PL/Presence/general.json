@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Edycja:",
+		"message": "Edytowanie:",
 		"description": ""
 	},
 	"general.episode": {
@@ -184,7 +184,7 @@
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Wyświetla ich konto",
+		"message": "Ogląda swoje konto",
 		"description": ""
 	},
 	"general.viewThread": {
