@@ -16,7 +16,7 @@ Publicando Presences a este GitHub, nós requeremos que você siga um conjunto d
 As regras gerais de desenvolvimento de presences são as seguintes:
 
 - As Presences **devem** estar relacionadas com o website escolhido.
-- As Presencses **não devem** ser feitas para websites ilegais. (por exemplo, estressores, comércio de drogas, pornografia infantil, etc.)
+- As Presences **não devem** ser feitas para websites ilegais (por exemplo, estressores, comércio de drogas, pornografia infantil, etc.)
 - A estrutura do arquivo deve ser limpa e estruturada, não inclua arquivos que não estiverem especificados. (por exemplo, pastas de vscode e git, imagens, arquivos de texto, etc.)
 - Você precisa ter uma estrutura de arquivos adequada, rascunhos **não são** permitidos.
 - Presences para websites com (domíno de topo `.onion`) ou websites com domínios/hospedagens gratuitas (por exemplo, `.TK` [todos os domínios grátis da Freenom], `.RF`, `.GD`, etc.) **não são** permitidos, exceções poderão ser feitas se houver uma prova mostrando que eles pagarem pelo domínio.
@@ -250,7 +250,7 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 > 
 > {.is-warning}
 
-O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Our verifiers will confirm that your presence is up to standards and it will be pushed onto the store.
+O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Nossos verificadores irão confirmar que seu Presence está de acordo com os padrões e vão colocá-lo na loja.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
