@@ -47,6 +47,10 @@
         "message": "정보",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "시스템 요구 사항",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "문제 해결",
         "description": "A page name"
