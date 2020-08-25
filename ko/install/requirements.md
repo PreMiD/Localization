@@ -6,24 +6,24 @@ date: 2020-02-12T22:08:39.314Z
 tags:
 ---
 
-# System Requirements
+# 시스템 요구 사항
 
-> This data relate to the application only. 
+> 해당 요구사항은 애플리케이션에만 해당합니다. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD는 사실상 모든 시스템에서 작동합니다. 이는 **Linux**, **macOS**, **Windows**에서 뿐만 아니라 일부 **수정된 Linux들**에서도 잘 구동된다는 것을 의미합니다.
 
 ### CPU
-PreMiD runs perfectly fine on a single CPU core.
+PreMiD는 싱글 코어 CPU에서도 완벽하게 작동합니다.
 
-### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+### 램
+Linux의 경우 PreMiD를 구동하기 위해선 **최소 20MB의 램**을 필요로 합니다. Windows와 macOS에선 보통 더 많은 램을 필요로 합니다.
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### 용량
+PreMiD는 **약 150MB** 정도의 물리적인 저장공간을 차지합니다. 그러나 최소 **200MB**정도의 PreMiD를 위한 여유공간을 남기는 것을 권장합니다.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### 인터넷 액세스
+PreMiD를 구동하기 위해서는 인터넷 연결을 필요로 합니다. PreMiD는 자동으로 새로운 업데이트, 언어, Presence 업데이트 등을 체크할 것입니다. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
