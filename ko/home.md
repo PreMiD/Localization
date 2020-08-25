@@ -19,9 +19,9 @@ editor: markdown
 
 PreMid 설치는 빠르고 쉽습니다. You should be up and running in no time.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- [시스템 요구 사항](/install/requirements)을 꼭 읽어주세요.
+- 빠르고 간단한 [설치 가이드](/install)를 따르세요.
+- [문제 해결 가이드](/troubleshooting) 가 일반적인 문제들에 대한 해결방안을 제안해줍니다.
 
 # 개발자들
 
