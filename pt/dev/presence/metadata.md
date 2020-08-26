@@ -236,7 +236,7 @@ Se você quer aprender expressões regulares, aqui estão alguns sites.
 
 #### Aprendendo
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Vídeo Iniciante Rápido](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Informações da Regular Expressions](https://www.regular-expressions.info/tutorial.html)
 
 #### Testando
 
