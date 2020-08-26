@@ -279,7 +279,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 Atualmente, uma presença deve passar por 2 fases de checagem. Todas essas checagens ajudam os verificadores a determinar se sua presença é adequada para uso.
 
 - `DeepScan` é um bot que verifica a qualidade do código. Se você receber erros por novas issues, é **necessário** corrigi-los.
-- `Schema Validation` vai escanear seu arquivo `metadata.json` por qualquer erros (por exemplo, campos ausentes, tipos de valores inválidos, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Schema Validation` vai escanear seu arquivo `metadata.json` por qualquer erros (por exemplo, campos ausentes, tipos de valores inválidos, etc.). Se você ver novas issues, também será **necessário** corrigi-los. Adicionar um campo de esquema ao seu arquivo `metadata.json` permitirá que seu editor de texto (se suportado) mostre esses erros durante o desenvolvimento.
 
 ## `Notas Adicionais`
 
