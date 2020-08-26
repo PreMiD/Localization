@@ -36,19 +36,19 @@ No arquivo de configuração raiz você verá algo assim.
 }
 ```
 
-| Propriedade                | Descrição                                                                                                                                                           |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Usado para configurar o compilador, a maioria das propriedades estão localizadas aqui.                                                                              |
-| module                     | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                    |
-| target                     | Define a versão de JavaScript que você está compilando.                                                                                                             |
-| removeComments             | Remover comentários de arquivos compilados.                                                                                                                         |
-| noEmitOnError              | Não emite ouvintes de erro quando um erro é relatado.                                                                                                               |
-| noFallthroughCasesInSwitch | Relatar erros para casos de queda na instrução do comando.                                                                                                          |
-| noUnusedLocals             | Reporta erros em locais não utilizados.                                                                                                                             |
-| noUnusedParameters         | Relatar erros em parâmetros não utilizados.                                                                                                                         |
-| inlineSourceMap            | Adiciona mapeamento de origem                                                                                                                                       |
-| typeRoots                  | Você pode ler mais sobre isso[aqui](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
-| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
+| Propriedade                | Descrição                                                                                                                                                                               |
+|:-------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Usado para configurar o compilador, a maioria das propriedades estão localizadas aqui.                                                                                                  |
+| module                     | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                        |
+| target                     | Define a versão de JavaScript que você está compilando.                                                                                                                                 |
+| removeComments             | Remover comentários de arquivos compilados.                                                                                                                                             |
+| noEmitOnError              | Não emite ouvintes de erro quando um erro é relatado.                                                                                                                                   |
+| noFallthroughCasesInSwitch | Relatar erros para casos de queda na instrução do comando.                                                                                                                              |
+| noUnusedLocals             | Reporta erros em locais não utilizados.                                                                                                                                                 |
+| noUnusedParameters         | Relatar erros em parâmetros não utilizados.                                                                                                                                             |
+| inlineSourceMap            | Adiciona mapeamento de origem                                                                                                                                                           |
+| typeRoots                  | Você pode ler mais sobre isso[aqui](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                         |
+| esModuleInterop            | Emite __importStar e __importDefault helpers para compatibilidade com o ecossistema do babel runtime e habilite --allowSyntheticDefaultImports para compatibilidade com typesystem. |
 
 ## Configuração de Presença
 
