@@ -13,10 +13,10 @@ tags:
 # نصب
 1. [اینجا کلیک کنید](https://premid.app/downloads) که بری با صفحه دانلود.
 2. **Windows** انتخاب کنید.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+3. نصب را باز کنید.
+4. ****Windows Smart Screen نصب را باز کنید, اگر این اولین بار است که داره PreMiD را نصب می‌کنید. کلیک کنید رو **اطلاعات بیشتر** بد **به هر حال اجرا کنید**. > این به این دلیل است که ما چنین نداریم CSC) Code Signing Certificate). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+برنامه به طور خودکار شروع می شود. Check for the symbol in your system tray.
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
