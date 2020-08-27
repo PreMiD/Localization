@@ -30,5 +30,33 @@
 	"home.features.heading": {
 		"message": "당신은 아마도 이 기능들을 좋아할 것 같아요",
 		"description": "Features section"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "복잡한 인터페이스에 지쳤나요? 그것이 저희가 이것을 만든 이유입니다. 다음과 같은 중요한 기능을 통하여 UI를 최대한 단순하고 유용하게 유지하려고 합니다.",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "앱과 확장 기능 설정",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence 관리",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "카테고리별로 정렬",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "빠른 지원",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "무언가 문제가 있어, 프로그램이 작동하지 않거나 많은 오류가 발생하나요? 우리의 Discord 서버에서 이런 문제를 해결할 수 있도록 도와드릴 수 있으며, 또한 문제가 최대한 빨리 해결될 수 있도록 자체 지원 시스템을 구축하였습니다.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "웹사이트 언어",
+		"description": "Tippy content of the language selector."
 	}
 }
