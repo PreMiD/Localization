@@ -3,6 +3,14 @@
 		"message": "제작자",
 		"description": "Creator of a presence"
 	},
+	"store.category.filters.heading": {
+		"message": "필터",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "성인용 콘텐츠 보기",
+		"description": "Adult content checkbox"
+	},
 	"store.category.heading": {
 		"message": "목록들",
 		"description": "Category heading"
@@ -34,5 +42,9 @@
 	"store.search": {
 		"message": "검색",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.removeFilter": {
+		"message": "클릭하여 필터 삭제",
+		"description": "Remove message for active search filters."
 	}
 }
