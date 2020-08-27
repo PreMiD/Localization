@@ -5,5 +5,3 @@ files:
     translation: /%locale_with_underscore%/Website/%original_file_name%
   - source: /src/Presence/*.json
     translation: /%locale_with_underscore%/Presence/%original_file_name%
-    - source: /src/Website/MerchStore/*.json
-    translation: /%locale_with_underscore%/Website/MerchStore/%original_file_name%
