@@ -123,7 +123,7 @@ Ogni presenza ha un file descrittore chiamato `metadata. son`, i metadati hanno 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com` or on a CDN that gives you permissions to **change** image files. Il contenuto ospitato sul sito web stesso **non** è consentito in quanto può cambiare le posizioni malvolentieri. 
+> Tutte le immagini nel file `metadati` devono essere ospitate su `i.imgur. om` o su un CDN che ti dà i permessi per **cambiare** file di immagine. Il contenuto ospitato sul sito web stesso **non** è consentito in quanto può cambiare le posizioni malvolentieri. 
 > 
 > {.is-warning}
 
