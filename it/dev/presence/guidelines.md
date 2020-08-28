@@ -19,11 +19,11 @@ Le regole generali di sviluppo della presenza sono le seguenti:
 - Le presenze **non possono** essere fatte per siti web illegali. (per esempio, stressanti, marketing della droga, pornografia infantile, ecc.)
 - La struttura del file deve essere pulita e gestita, non includere i file che non sono specificati. (ad esempio, cartelle vscode e git, immagini e file di testo, ecc.)
 - Devi avere una corretta struttura dei file, le bozze non **sono** permesse.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (per esempio, pagine wikia)
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Presenze per siti con ( TLD `.onion`) o siti con domini/host gratis (per esempio `.TK` [tutti i domini gratis Freenom], `.RF`, `.GD`, ecc.) non **sono** permessi, eccezioni possono essere fatte se viene presentata prova che hanno pagato per il dominio.
+- Le presenze mirate a pagine browser interne ( come Chrome Web Store, pagine come `chrome://`, `about:`, ecc.) **non** sono permesse dato che richiedono che una flag sperimentale sia abilitata dall'utente e che potrebbe potenzialmente danneggiare il loro browser.
+- Le presenze con supporto solo per un singolo sottodominio **non ** saranno permesse, che possono sembrare danneggiate per altre pagine (come la homepage), possono essere fatte eccezioni per i criteri e le pagine di contatto (contenuti che non sono utilizzati spesso) o siti in cui l'altro contenuto non è correlato. (per esempio, pagine wikia)
+- Le presenze di bassa qualità (o quelle con poco contesto) **non** sono consentite (per es., mostrando solo un logo e un testo, ma mai più cambiarlo.)
+- Compresa la cartella `dist`, file `presence.ts`, file `iframe.ts`, e file `metadata.json` è obbligatorio, quindi il risultato sarebbe quello che è rappresentato nel seguente schema:
 
 ```bash
 presence
@@ -53,7 +53,7 @@ presence
 > 
 > {.is-info}
 
-> Si raccomanda vivamente di organizzare il file `metadati` nel formato mostrato di seguito, e di inserire nomi di servizio, descrizioni, tag e campi di impostazione grammaticalmente corretti. Qualsiasi cosa non organizzata in base alle specifiche non **** sarà permessa. 
+> Si raccomanda vivamente di organizzare il file `metadati` nel formato mostrato di seguito, e di inserire nomi di servizio, descrizioni, tag e campi di impostazione grammaticalmente corretti. Qualsiasi cosa non organizzata in base alle specifiche **non** sarà permessa. 
 > 
 > {.is-warning}
 
