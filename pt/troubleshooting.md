@@ -12,9 +12,9 @@ editor: markdown
 > {.is-warning}
 
 ### Você está usando uma presença com configurações?
-Muitas presenças (incluindo`Twitch` e `SoundCloud`) são afetadas por um problema na extenção. This issue causes the extension to not grab the default values of settings properly.
+Muitas presenças (incluindo `Twitch` e `SoundCloud`) são afetadas por um problema na extenção. Isso faz com que a extensão não consiga pegar os valores padrões de uma configuração corretamente.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Para resolver isso, tudo o que você precisa fazer é alternar a configuração mais importante: ![presencesettings.gif](/presencesettings.gif)
 
 ### Atualize a página
 Você pode pressionar <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado também, em vez de procurar pelo botão de atualização.
@@ -61,15 +61,15 @@ Isto é um falso positivo da parte do McAfee e nós comunicámo-los-emos a esse 
 > {.is-warning}
 
 1. Abra o aplicativo McAfee e clique no ícone de configurações no canto superior direito. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
+2. Clique em "Itens na quarentena" (segundo do topo).
 3. Expanda-a, e clique no ícone `>` antes de um item com o nome "settings.dat".
 4. Certifique-se de que o caminho inclui o "AppData\Local\Temp\PreMiD", se for o caso selecione-o e pressione restaurar. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+5. Depois de restaurado, você pode fechar a janela de "Itens na quarentena", depois pressione novamente o ícone de configurações no canto superior direito.
+6. Clique em "Verificação em tempo real" (Terceira do topo).
+7. Expanda-o e clique em "Adicionar arquivo".
+8. Digite "%appdata%" na barra de URL do gerenciador de arquivos e pressione Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Abra a pasta "PreMiD" e selecione o arquivo "PreMiD.exe" e clique em abrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. O McAfee agora deve ignorar nosso arquivo, apenas inicie nosso aplicativo e você deve estar pronto para começar.
 
 ### Isso não resolveu o meu problema
 Por favor abra um ticket no [#support](https://discord.gg/WvfVZ8T).
