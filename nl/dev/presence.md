@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -406,7 +406,7 @@ De website waar je mee bezig bent wordt automatisch herladen wanneer je een best
 
 ## Foutopsporing
 - Je kunt `console.log("Test");` tussen je code zetten en kijken of je browserconsole je die uitvoer geeft. Zo ja, ga dan verder en probeer het opnieuw na de volgende functie. Zo niet, dan is er een fout hierboven.
-- Als dat je ook niet helpt, vraag dan een presence-ontwikkelaar in onze [Discord-server](https://discord.gg/WvfVZ8T) voor hulp.
+- Als dat je ook niet helpt, vraag dan een presence-ontwikkelaar op onze [Discord-server](https://discord.premid.app/) voor hulp.
 
 # Uitleg van bestanden
 - [Presence Klasse](/dev/presence/class)
