@@ -33,7 +33,7 @@ PreMiD е бързо и лесно за изтегляне. Ще е пуснат
 # Принос
 - :bug: [Report a Bug](https://github.com/PreMiD): Помогни ни да премахнем тези бъгове.
 - :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): Трябват ни вашите идеи!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :heart: [Donate](https://www.patreon.com/Timeraa): Направи малко дарение или стани спонсор на този невероятен проект!
+- :globe_with_meridians: [Locales](https://translate.premid.app): Нека други потребители използват PreMiD в своя говорим език.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
