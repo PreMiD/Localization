@@ -2,7 +2,7 @@
 title: Начало
 description: Официална документация за v2
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ PreMiD е бързо и лесно за изтегляне. Ще е пуснат
 
 # Принос
 - :bug: [Report a Bug](https://github.com/PreMiD): Помогни ни да премахнем тези бъгове.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): Трябват ни вашите идеи!
+- :bulb: [Suggest a New Feature](https://discord.premid.app/): Трябват ни вашите идеи!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Направи малко дарение или стани спонсор на този невероятен проект!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Нека други потребители използват PreMiD в своя говорим език.
 
