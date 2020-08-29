@@ -1,19 +1,19 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Първи стъпки
+description: Малък съвет за тези, които са започнали да пишат кодове наскоро
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Изисква се редактьор на сурс кодове. Ние предпочитаме Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+# Изтегляне на изискванията
+1. Изтегли [Git](https://git-scm.com/).
+2. Изтегли [Node](https://nodejs.org/en/) (идва със [npm](https://www.npmjs.com/)).
+3. Изтегли [TypeScript](https://www.typescriptlang.org/index.html#download-links) (отворете терминал и напишете `npm install -g typescript`).
 
 # Cloning the project
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
