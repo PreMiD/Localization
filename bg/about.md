@@ -14,5 +14,5 @@ PreMiD е проста, конфигуруема програма, която в
 - Голяма функция, наречена WatchParties, излиза в PreMiD. Със покани за игри и симулационно гледане и слушане. Поддържано от [Discord](https://discordapp.com/).
 
 # Главни функций
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+- Показва настоящата ти уеб дейност като Discord статус.
+- Дава ви пълен контрол над присъствията.
