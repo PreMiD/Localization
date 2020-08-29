@@ -1,21 +1,21 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Начало
+description: Официална документация за v2
 published: true
 date: 2020-06-11T18:38:43.041Z
 tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Some pages may be incomplete or missing. 
+> Документацията все още е редактирана! Някои страници може да са недовършени или липсващи. 
 > 
 > {.is-warning}
 
 # За PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :mag: [Какво е PreMiD?](/about) Цели зад PreMiD и защо трябва да го ползваш.
+- :link: [Какво е RPC?](https://discordapp.com/rich-presence) Всичко за Rich Presence и неговите функций.
 
-# Getting Started
+# Първи стъпки
 
 PreMiD is quick and easy to install. You should be up and running in no time.
 
