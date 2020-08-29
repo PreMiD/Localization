@@ -25,14 +25,14 @@ PreMiD е бързо и лесно за изтегляне. Ще е пуснат
 
 # разработчиците
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Първи стъпки](/dev) към развитието на PreMiD е твоята първа стъпка преди кодирането на някои неща.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): Достъпи ресурси и извършвай действия с PreMiD API.
+- :wrench: [Presence Development](/dev/presence): Научи се как да използваш нашата система за присъствия.
 
 # Принос
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
+- :bug: [Report a Bug](https://github.com/PreMiD): Помогни ни да премахнем тези бъгове.
+- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): Трябват ни вашите идеи!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
 
