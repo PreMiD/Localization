@@ -76,7 +76,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "불러오는중",
+		"message": "불러오는 중",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -84,7 +84,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "검색중",
+		"message": "검색 중",
 		"description": ""
 	},
 	"general.shopCart": {
