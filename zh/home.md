@@ -2,7 +2,7 @@
 title: 首頁
 description: 官方文件
 published: 是
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: 標記
 ---
@@ -32,7 +32,7 @@ PreMiD[開發入門](/dev) 是對某些事情進行編碼之前的第一步。
 
 # 貢獻
 - :bug: [舉報Bug](https://github.com/PreMiD): 幫助我們抓住那些臭蟲
-- :bulb:[提供新功能的想法](https://discord.gg/WvfVZ8T): 我們需要你的點子!
+- :bulb:[提供新功能的想法](https://discord.premid.app/): 我們需要你的點子!
 - :heart:[捐助](https://www.patreon.com/Timeraa): 做一個小小的捐款或成為這個神奇計畫的金主!
 - :globe_with_meridians:[語言環境](https://translate.premid.app): 讓其他使用者能在他們的語言下使用PreMiD
 

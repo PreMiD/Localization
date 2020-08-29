@@ -2,7 +2,7 @@
 title: Presence-Entwicklung
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -165,7 +165,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>beschreibung</b>
       </td>
       <td style="text-align:left">Kleine Beschreibung der Anwesenheit, können Sie Beschreibung des Dienstes
         wenn Sie keine Ideen haben. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor.</td>
@@ -404,7 +404,7 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 
 ## Debugging
 - Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
 - [Presence-Klasse](/dev/presence/class)

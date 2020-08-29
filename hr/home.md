@@ -2,7 +2,7 @@
 title: Home
 description: Official Documentation for v2
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ PreMiD is quick and easy to install. You should be up and running in no time.
 
 # Pridonesite
 - :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.gg/WvfVZ8T): We need your ideas!
+- :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
 

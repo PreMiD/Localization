@@ -2,7 +2,7 @@
 title: Dépannage
 description: Tout pour résoudre votre problème
 published: vrai
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 10. McAfee devrait maintenant ignorer notre dossier, lancez simplement notre application et cela devrait marcher.
 
 ### Cela n'a pas résolu mon problème
-Veuillez ouvrir un ticket dans <ahref="https://discord.gg/WvfVZ8T">#support</a>.
+Veuillez ouvrir un ticket dans [#support](https://discord.premid.app/).

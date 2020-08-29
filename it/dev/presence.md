@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -406,7 +406,7 @@ Il sito Web su cui si sta sviluppando si ricarica automaticamente ogni volta che
 
 ## Debugging
 - Puoi mettere `console.log("Test");` tra il tuo codice e vedere se la console del browser ti dà quell'output. Se sì poi andare avanti e riprovare dopo la funzione successiva. Se no allora c'è un errore sopra.
-- Se questo ancora non ti aiuta, allora chiedi aiuto a uno sviluppatore di presenze sul nostro [server Discord](https://discord.gg/WvfVZ8T).
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # File spiegati
 - [Classe Presenza](/dev/presence/class)

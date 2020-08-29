@@ -2,7 +2,7 @@
 title: トラブルシューティング
 description: 抱えている問題を解決する方法
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -71,4 +71,4 @@ This is a false positive from McAfee and we have reported the issue to them, for
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### 実行しても問題が解決しませんでしたか？
-PreMiDのDiscordサーバー内の[#support](https://discord.gg/WvfVZ8T)でチケットを開いてください。
+PreMiDのDiscordサーバー内の[#support](https://discord.premid.app/)でチケットを開いてください。

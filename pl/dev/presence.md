@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -406,7 +406,7 @@ Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem
 
 ## Debugowanie
 - Możesz umieścić `console.log („Test”);` między kodem i sprawdzić, czy konsola przeglądarki daje ci taki wynik. Jeśli tak, kontynuuj i spróbuj ponownie po następnej funkcji. Jeśli nie, oznacza to błąd powyżej.
-- Jeśli to nie pomoże, poproś o pomoc programistę Presence na naszym [serwerze Discord](https://discord.gg/WvfVZ8T).
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Wyjaśnienie plików
 - [Klasa Presence](/dev/presence/class)

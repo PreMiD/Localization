@@ -2,7 +2,7 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -406,7 +406,7 @@ presence.on("iFrameData", data => {
 
 ## Відлагодження
 - Ви можете помістити `console.log("Test");` між вашим кодом і подивитися, чи ваша консоль браузеру дасть вам цей результат. Якщо так, то продовжуйте і спробуйте знову після наступної функції. Якщо не тоді, то зверху є помилка.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Файли пояснюються
 - [Клас присутності](/dev/presence/class)

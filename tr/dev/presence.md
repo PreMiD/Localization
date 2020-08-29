@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -399,7 +399,7 @@ Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız her
 
 ## Hata ayıklama
 - Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş veya hiç bu satıra ulaşamamış demektir.
-- Eğer bunların hiçbiri işinize yaramazsa [Discord sunucumuza](https://discord.gg/WvfVZ8T) katılıp diğer geliştiricilerden yardım talep edebilirsiniz.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Dosyaların açıklamaları
 - [Presence Sınıfı](/dev/presence/class)

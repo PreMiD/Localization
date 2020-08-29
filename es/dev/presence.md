@@ -2,7 +2,7 @@
 title: Desarrollo de Presences
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -516,7 +516,7 @@ iframe.on("UpdateData", async () =&gt; {
     Puedes poner <code>console.log("Prueba");</code> entre tu código y ver si la consola de tu navegador te da esa salida. Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
   </li>
   <li>
-    Si eso no te ayuda entonces pregunta por ayuda a un desarrollador presente en nuestro <a href="https://discord.gg/WvfVZ8T">servidor de Discord</a>.
+    If that doesn't help you either then ask a presence developer on our <a href="https://discord.premid.app/">Discord server</a> for help.
   </li>
 </ul>
 

@@ -2,7 +2,7 @@
 title: การแก้ปัญหา
 description: ทุกอย่างเพื่อใช้แก้ปัญหาของคุณ
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -71,4 +71,4 @@ This is a false positive from McAfee and we have reported the issue to them, for
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### นั่นไม่ได้แก้ปัญหาของฉัน
-กรุณาเปิดตั๋วใน [#support](https://discord.gg/WvfVZ8T).
+กรุณาเปิดตั๋วใน [#support](https://discord.premid.app/).

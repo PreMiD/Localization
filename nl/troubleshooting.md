@@ -2,7 +2,7 @@
 title: Probleemoplossen
 description: Alles om je probleem op te lossen
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ Dit is een valse positief van McAfee en we hebben hun hiervan op de hoogte geste
 10. McAfee zou nu ons bestand moeten negeren, lanceer gewoon onze applicatie en het zou nu gewoon moeten werken.
 
 ### Dat heeft mijn probleem niet opgelost
-Open een ticket in [#support](https://discord.gg/WvfVZ8T).
+Open een ticket in [#support](https://discord.premid.app/).

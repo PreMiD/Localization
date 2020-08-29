@@ -2,7 +2,7 @@
 title: Inicio
 description: Documentación oficial para v2
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ Tienes una guiía de [primeros pasos](/dev) antes de comenzar con el desarrollo 
 
 # Contribuir
 - :bug: [Informar de un error](https://github.com/PreMiD): Ayúdanos a acabar con esos molestos errores.
-- :bulb:[Sugiere nuevas funciones](https://discord.gg/WvfVZ8T): ¡Necesitamos tus ideas!
+- :bulb:[Sugiere nuevas funciones](https://discord.premid.app/): ¡Necesitamos tus ideas!
 - :heart: [Donar](https://www.patreon.com/Timeraa): ¡Haz una pequeña donación o hazte patrocinador de este maravilloso proyecto!
 - :globe_with_meridians: [Traducciones](https://translate.premid.app): Permite a otros usuarios usar PreMiD en su idioma nativo.
 

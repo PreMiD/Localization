@@ -2,7 +2,7 @@
 title: Řešení problémů
 description: Vše k vyřešení vašeho problému
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ Ze strany McAfee je to chybné vyhodnocení a my jsme je o tom informovali. Proz
 10. McAfee by nyní měl ignorovat náš soubor, stačí spustit naši aplikaci a měli byste být v pořádku.
 
 ### To můj problém nevyřešilo
-Prosím otevřte si tiket v [#support](https://discord.gg/WvfVZ8T).
+Prosím otevřte si tiket v [#support](https://discord.premid.app/).

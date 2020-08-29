@@ -2,7 +2,7 @@
 title: تطوير البرزنس
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -406,7 +406,7 @@ The website you are developing on is automatically reloading every time you save
 
 ## Debugging
 - يمكنك وضع `console.log("اختبار")؛` بين التعليمات البرمجية الخاصة بك ومعرفة ما إذا كانت وحدة تحكم المتصفح الخاصة بك تعطيك المخرجات. إذا كان الجواب نعم، ثم حاول مرة أخرى بعد الدالة القادمة. إذا لم يكن فهناك خطأ أعلاه.
-- إذا كان ذلك لا يساعدك إمّا ان تسأل مطورالبرزنس على [خادم ديسكورد](https://discord.gg/WvfVZ8T) للحصول على المساعدة.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # الملفات الموضحة
 - [فئة الحضور](/dev/presence/class)

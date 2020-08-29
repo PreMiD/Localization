@@ -2,7 +2,7 @@
 title: Ana Sayfa
 description: Sürüm 2 için resmi dokümantasyon
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ PreMiD için geliştirmeye [başlamak](/dev) bazı şeyleri kodlamadan önceki i
 
 # Katkıda Bulun
 - :bug: [Bir Hata Bildirin](https://github.com/PreMiD): Bu sinir bozucu böcekleri ezmemize yardım et.
-- :bulb: [Yeni Bir Özellik Öner](https://discord.gg/WvfVZ8T): Fikirlerinize ihtiyacımız var!
+- :bulb: [Yeni Bir Özellik Öner](https://discord.premid.app/): Fikirlerinize ihtiyacımız var!
 - :heart: [Bağış Yap](https://www.patreon.com/Timeraa): Küçük bir bağış yaparak projemize destek olun!
 - :globe_with_meridians: [Yerelleştirme](https://translate.premid.app): Diğer kullanıcıların PreMiD'i kendi dillerinde kullanmasına sağlayın.
 

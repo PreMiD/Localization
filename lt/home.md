@@ -2,7 +2,7 @@
 title: Pagrindinis
 description: Oficiali dokumentacija
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ PreMiD yra greitai ir lengvai įdiegiamas. Jūs turėtumėte būti pasirengę ir
 
 # Prisidėkite
 - :bug: [Praneškite klaidą](https://github.com/PreMiD): Padėkite mums sunaikinti šias erzinančias klaidas.
-- :bulb: [Pasiūlykite naują sistemą](https://discord.gg/WvfVZ8T): Mums reikia jūsų įdėjų!
+- :bulb: [Pasiūlykite naują sistemą](https://discord.premid.app/): Mums reikia jūsų įdėjų!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Padarykite mažą paramą arba tapkite sponsoriumi šio nuostabaus projekto!
 - :globe_with_meridians: [Kalbos](https://translate.premid.app): Leiskite kitiems naudotis PreMiD jų gimtąją kalba.
 

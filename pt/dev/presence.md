@@ -2,7 +2,7 @@
 title: Desenvolvimento de Presenças
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -390,7 +390,7 @@ O site que você está desenvolvendo está recarregando automaticamente toda vez
 
 ## Depuração
 - Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. Se sim, então continue e tente novamente depois da próxima função. Se não, então há um erro acima.
-- Se isso também não te ajudar, peça ajuda a um Presence Developer no nosso [servidor do Discord](https://discord.gg/WvfVZ8T).
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Arquivos explicados
 - [Classe Presence](/dev/presence/class)
