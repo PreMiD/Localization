@@ -2,7 +2,7 @@
 title: Home
 description: Dokumentasi resmi untuk v2
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ PreMiD mudah dan cepat untuk diinstal. Anda bisa langsung menggunakannya tanpa w
 
 # Kontribusi
 - :bug: [Laporkan bug](https://github.com/PreMiD): Bantu kami membasmi bug mengganggu.
-- :bulb: [Sarankan Fitur Baru](https://discord.gg/WvfVZ8T): Kami butuh idemu!
+- :bulb: [Sarankan Fitur Baru](https://discord.premid.app/): Kami butuh idemu!
 - :heart: [Donasi](https://www.patreon.com/Timeraa): Beri sedikit donasi atau menjadi sponsor dari proyek ini!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Bantu pengguna lain menggunakan PreMiD dalam bahasa asli mereka.
 
