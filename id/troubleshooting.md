@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Segalanya untuk menyelesaikan masalah anda
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mer
 10. McAfee sekarang seharusnya sudah mengabaikan file kita, luncurkan saja aplikasi kita dan seharusnya baik-baik saja.
 
 ### Masalahku belum terselesaikan
-Harap mengirim tiket ke [#support](https://discord.gg/WvfVZ8T).
+Harap mengirim tiket ke [#support](https://discord.premid.app/).
