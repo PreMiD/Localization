@@ -2,7 +2,7 @@
 title: Domov
 description: Oficiálna dokumentácia pre v2
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -38,7 +38,7 @@ PreMiD je rýchly a ľahko sa inštaluje. Mali by ste byť v prevádzke hneď.
 # Prispieť
 
 - :bug:[ Nahláste Chybu](https://github.com/PreMiD): Pomôžte nám rozdrviť tie otravné chyby.
-- :bulb:[Navrhnite Nové Funkcie](https://discord.gg/WvfVZ8T): Potrebujeme vaše nápady!
+- :bulb:[Navrhnite Nové Funkcie](https://discord.premid.app/): Potrebujeme vaše nápady!
 - :heart:[Prispejte](https://www.patreon.com/Timeraa): Poskytnite malý dar alebo sa staňte sa sponzorom tohto úžasného projektu!
 - :globe_with_meridians:[Miestny](https://translate.premid.app): Umožnite iným používateľom používať PreMiD v ich rodnom jazyku.
 
