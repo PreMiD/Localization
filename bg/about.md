@@ -11,8 +11,8 @@ PreMiD е проста, конфигуруема програма, която в
 # Защо трябва да изтеглите PreMiD
 - Ние не запазваме никакви потребителски данни, затова не трябва да се притеснявате за вашата поверителност.
 - Целият ни проект е отворен-сурс! Искаме да работим с нашите потребители - не срещу тях.
-- Голяма функция, наречена WatchParties, излиза в PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- Голяма функция, наречена WatchParties, излиза в PreMiD. Със покани за игри и симулационно гледане и слушане. Поддържано от [Discord](https://discordapp.com/).
 
-# Core features
+# Главни функций
 - Displays your current web service in Discord as your status.
 - Grants full control over Presences.
