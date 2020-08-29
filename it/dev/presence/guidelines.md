@@ -208,13 +208,13 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+- Dichiarare **sempre** una nuova istanza della classe `Presenza` prima di qualsiasi altra variabile per evitare problemi rari che possono verificarsi; questo non è un requisito per la progettazione in modo che possa essere rimosso in futuro.
+- **Mai** utilizzare funzioni personalizzate quando [varianti native sono disponibili](https://docs.premid.app/dev/presence#files-explained); questo fa in modo che le correzioni sul livello di estensione si applicano anche alle vostre presenze. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
+- È **vietato** codificare le presenze per un sito senza aggiungere supporto alla sua lingua primaria (per es., una presenza di YouTube codificata con supporto solo per Portoghese e Giapponese, ma non lo stesso Inglese.)
+- I campi `smallImageKey` e `smallImageText` sono intesi a fornire un contesto aggiuntivo/secondario (come `riproduzione/in pausa` per i siti video, `navigando` per siti regolari, e altri casi) non per promuovere profili Discord o qualsiasi cosa non correlata a PreMiD.
 - **Non** sei autorizzato ad accedere a `localStorage`.
 - Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
+- È possibile effettuare richieste HTTP/HTTPS solo per `premid.app` o per la presenza di API sito web. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
