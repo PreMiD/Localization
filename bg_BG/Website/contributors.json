@@ -36,7 +36,7 @@
 		"description": "'System Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.webDeveloper": {
-		"message": "Уеб-разработчик",
+		"message": "Уеб Разработчик",
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
@@ -88,7 +88,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "бустер",
+		"message": "Бустер",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
