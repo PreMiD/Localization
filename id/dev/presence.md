@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -400,7 +400,7 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 
 ## Debugging
 - Anda dapat memberi `console.log("Test");` diantara kode dan melihat apakah konsol browser memberi output tersebut. Jika iya lanjutkan dan ulangi pada function selanjutnya. Jika tidak berarti terdapat eror diatas.
-- Jika itu tidak membantu anda dapat bertanya pengembang presence pada [server Discord kami](https://discord.gg/WvfVZ8T) untuk meminta bantuan.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # File dijelaskan
 - [Kelas Presensi](/dev/presence/class)
