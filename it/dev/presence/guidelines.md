@@ -269,8 +269,8 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 - Ci vogliono 2 revisionatori per unire una richiesta di pull.
 - Se una pull request è inattiva per un periodo di 7 giorni, verrà immediatamente chiusa.
 - Tutti i controlli **devono** essere passati per unirsi.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠️ È **necessario** fornire nuovi screenshot inalterati (forniti da te) che mostrano un confronto fianco a fianco del tuo profilo e del sito, per dimostrare che la presence funziona. _Sei autorizzato a unire gli screenshot insieme per una visualizzazione migliore._ Questo vale sia per la creazione che per la modifica.
+- ⚠️ È anche **richiesto** includere screenshot delle impostazioni di presenza nell'estensione, se fornito. Un esempio può essere visto [qui](https://imgur.com/a/OD3sj5R).
 
 ## `Controlli`
 
@@ -279,11 +279,11 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti questi controlli aiutano i verificatori a determinare se la tua presence è adatta alla distribuzione.
 
 - `DeepScan` è un bot che verifica la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Se mai vedessi nuovi problemi, **devi** anche risolverli. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Validazione Schema` esegue la scansione del file `metadata.json` per rilevare eventuali errori (per es., campi mancanti, tipi di valori non validi, ecc.). Se mai vedessi nuovi problemi, è **necessario** anche risolverli. L'aggiunta di un campo schema al tuo file `metadata.json` permetterà al tuo editor di testo (se supportato) di mostrarti questi errori durante lo sviluppo.
 
 ## `Regole Aggiuntive`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- Assicurati **sempre** di iniziare la tua presenza nella cartella più appropriata, se il suo nome inizia con _qualsiasi_ lettera latina allora deve essere sotto la sua corrispondenza alfabetica (per es., `D/dアニメストア` o `G/Google`). Qualsiasi altro carattere Unicode/non-Latino **deve essere** sotto la cartella `#` (per es. `#/巴哈姆特`) e numeri sotto la cartella `0-9` (ad esempio, `0-9/4anime`).
 
 Dopo aver seguito tutte le linee guida con le opportune revisioni e controlli, la presence sarà inserita nel negozio.
 
