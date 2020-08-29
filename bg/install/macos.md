@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Преди да продължите, уверете се, че вашата система има всички [изисквания](/install/requirements). 
 > 
 > {.is-info}
 

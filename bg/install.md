@@ -6,23 +6,23 @@ date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Преди да продължите, уверете се, че вашата система има всички [изисквания](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Необходимо е** да се изтеглятl **и** **програмата** и **разширението**! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
+**Изберете вашата операционна система:**
 - [Windows *7 или нагоре*](/install/windows)
 - [macOS *10.11 или нагоре*](/install/macos)
 - [Linux *4 или нагоре*](/install/linux)
 {.links-list}
 
 **Изберете вашия браузър:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+- [Chromium *v76 или нагоре*](/install/chromium)
+- [Firefox *v69 или нагоре*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
