@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Przegląda posty społeczności",
+        "message": "Przeglądanie postów społeczności",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -76,15 +76,15 @@
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Wyświetla swoje filmy",
+        "message": "Przgląda swoje filmy",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Edytuje wideo:",
+        "message": "Edytowanie wideo:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Przeglądanie statystyk wideo:",
+        "message": "Przegląda statystyki wideo:",
         "description": ""
     },
     "youtube.studio.videoComments": {
