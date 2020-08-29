@@ -17,9 +17,9 @@ editor: markdown
 
 # Първи стъпки
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD е бързо и лесно за изтегляне. Ще е пуснато и ще работи за нула време.
 
-- Make sure you have read the [system requirements](/install/requirements).
+- Прочети [системните изисквания](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
