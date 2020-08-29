@@ -2,7 +2,7 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ Bu sorun McAfee'nin PreMiD'e yanlış sonuç vermesinden kaynaklıdır, sorunu �
 10. McAfee şimdi dosyamızı göz ardı etmeli, uygulamayı çalıştırın ve kullanmaya başlayın.
 
 ### Bunların hiçbiri sorununuzu çözmediyse
-[#support](https://discord.gg/WvfVZ8T) kanalından bir destek kaydı oluşturmayı deneyin.
+[#support](https://discord.premid.app/) kanalından bir destek kaydı oluşturmayı deneyin.
