@@ -2,7 +2,7 @@
 title: Вирішення проблем
 description: Усе для вирішення вашої проблеми
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ MacOS:`~/users/USER/~Library/Application Support/`та видалити папк
 10. McAfee повинна ігнорувати наш файл, просто запустіть нашу програму, і вам слід зробити її надійною.
 
 ### Усе це не вирішило моєї проблеми
-Будь ласка, відкрийте тікет у [#support](https://discord.gg/WvfVZ8T).
+Будь ласка, відкрийте тікет у [#support](https://discord.premid.app/).
