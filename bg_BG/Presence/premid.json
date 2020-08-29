@@ -54,5 +54,9 @@
     "premid.pageTroubleshooting": {
         "message": "Отстраняване на неизправности",
         "description": "A page name"
+    },
+    "premid.pageStart": {
+        "message": "Първи стъпки",
+        "description": "A page name"
     }
 }
