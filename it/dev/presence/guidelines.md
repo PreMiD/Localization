@@ -152,27 +152,27 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`descrizione`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **Tutte** le presenze sono **richieste** per avere una descrizione inglese indipendentemente dalla lingua preferita del sito.
+- **Non** provare a tradurre tu stesso la descrizione a meno che tu non sappia la lingua, i traduttori modificheranno il tuo `metadata.json` e modificheranno le descrizioni se necessario.
 
 ### **`Url`**
 
 - L'url **deve** essere una stringa se il sito web utilizza solo un dominio. Se il sito web ne utilizza multipli, fanne un vettore e specifica ciascuno di essi.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- **Non** includere protocolli nell'url (per es., `http` o `https`), e non includere i parametri di query nell'url (per es., `www.google.com/search?gws_rd=ssl` che dovrebbe essere `www.google.com`)
 
 ### **`versione`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- Assicurati sempre che il numero di versione segua [standard di versionamento semantico](https://semver.org), che si traduce nel seguente schema: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Qualsiasi altra cosa come `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` o modifica `1.0.0` a `2.0.` su una correzione di bug/piccolo cambiamento che **non** è permessa.
+- La versione **deve** iniziare sempre da `1.0.0` a meno che non sia stato detto diversamente, alle altre versioni **non** è permesso.
 
 ### **`logo`**
 
-- Il logo **deve** essere un'immagine quadrata con rapporto `1:1`.
+- Il logo **deve** essere un'immagine quadrata con aspect ratio `1:1`.
 - L'immagine **deve** avere una risoluzione minima di `512x512` pixel. Puoi modificare l'immagine usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
-- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
+- La miniatura **deve** preferibilmente essere una [carta promozionale](https://i.imgur.com/3QfIc5v.jpg) o una [schermata](https://i.imgur.com/OAcBmwW.png) se la prima è **non** disponibile.
 
 ### **`colore`**
 
@@ -181,28 +181,28 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`tag`**
 
-- **Tutte** le presence devono avere almeno _un_ tag.
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-- Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
-- **Devi** aggiungere un tag `NSFW` se la presence è per un sito web NSFW.
+- **Tutte** le presenze devono avere almeno _un_ tag.
+- I tag **non** devono includere spazi, slash, virgolette singole/doppie, caratteri Unicode, e dovrebbero essere sempre minuscoli.
+- I tag **devono** preferibilmente includere nomi di servizi alternativi per facilitare la ricerca (ad es. se una presenza di Amazon ha incluso il supporto AWS, avrebbe i suoi tag come `amazon-web-services` e `aws`)
+- **Devi** aggiungere un tag `NSFW` se la presenza è per un sito web NSFW.
 
 ### **`Categoria`**
 
-- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- La categoria **deve** essere una delle seguenti elencate nella [documentazione](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- La presenza deve utilizzare una categoria che corrisponda al contenuto del sito. (per es., non utilizzare `anime` quando il sito web non è correlato ad anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Le espressioni regolari **devono** essere valide. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Le espressioni regolari **devono** essere valide. Prova le tue espressioni con gli strumenti elencati nella [documentazione](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`impostazioni`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Se decidi di creare una stringa di formato (per es., `%song% da %artist%`), devi avere le variabili circondate da un segno percentuale su entrambi i lati. Variabili come `%var`, `var%`, o `%%var%%` e qualsiasi cosa in mezzo sono **non** consentite per motivi di standardizzazione.
+- Il nome delle impostazioni **non** devono essere in tutte le lettere maiuscole. Ad esempio, nomi come `MOSTRA STATO DI NAVIGAZIONE` **non** saranno permessi; tuttavia, nomi come `Mostra stato di navigazione` o `Mostra stato di navigazione` sono permessi.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> Il codice che scrivi **deve** essere _ben scritto_ e **deve** essere _leggibile_ e tutte le stringhe devono essere grammaticalmente corrette (gli errori grammaticali sui siti web possono essere ignorati). 
 > 
 > {.is-warning}
 
