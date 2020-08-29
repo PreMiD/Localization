@@ -2,7 +2,7 @@
 title: Nesklandumų sprendimas
 description: Viskas kas padės jums sutaisyti jūsų problemą
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ This is a false positive from McAfee and we have reported the issue to them, for
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### Tai nesutaisė mano problemos
-Prašome atidaryti bilietą mūsų discord [#support](https://discord.gg/WvfVZ8T) teksto kanale.
+Prašome atidaryti bilietą mūsų discord [#support](https://discord.premid.app/) teksto kanale.
