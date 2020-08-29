@@ -2,7 +2,7 @@
 title: Rozwiązywanie problemów
 description: Wszystko do rozwiązania twojego problemu
 published: tak
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ Jest to fałszywy alarm ze strony McAfee i zgłosiliśmy im ten problem, na razi
 10. McAfee powinno teraz ignorować nasz plik. Po prostu włącz naszą aplikację i wszystko powinno być gotowe.
 
 ### To nie rozwiązało mojego problemu
-Otwórz zgłoszenie na kanale [#support](https://discord.gg/WvfVZ8T).
+Otwórz zgłoszenie na kanale [#support](https://discord.premid.app/).
