@@ -215,25 +215,25 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 - **Non** sei autorizzato ad accedere a `localStorage`.
 - Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
 - È possibile effettuare richieste HTTP/HTTPS solo per `premid.app` o per la presenza di API sito web. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- **Non** impostare i campi nell'oggetto dati di presenza su undefined dopo che è stato dichiarato, utilizzare invece la parola chiave `delete`. (per es., usa `delete data.startTimestamp` invece di `data.startTimestamp = undefined`)
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **Non ** scrivere il tuo file `tsconfig.json`, usa quello che è stato fornito su [documentazione](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
 # Modifica
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
+> È **necessario** modificare la versione nei **metadati** ad un valore superiore rispetto alla versione precedente quando si apportano modifiche a **presence.ts**, **iframe.ts** o **metadata.json**. 
 > 
 > {.is-warning}
 
 In alcune situazioni, le presence possono comportarsi in modo inaspettato o potrebbero usare alcune modifiche minori per migliorare la loro funzionalità. Ecco un elenco di regole che **devi** seguire durante la modifica delle presence.
 
-- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a verifier to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contatta un verificatore per maggiori informazioni su questo argomento.
+- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. Se l'autore della presenza è stato bandito dal server ufficiale o non ha apportato le modifiche richieste entro un mese, è possibile contattare un verificatore per vedere se è possibile riscrivere la presenza.
+- Chiunque può fornire hotfix per correggere i bug; tuttavia, provare a **non** apportare modifiche al codice che **non** non deve essere corretto. Le modifiche sono valide, ma **Non** limitate a, _percorsi mancanti_, _errori_, _immagini mancanti_, ecc.
+- Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un verificatore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
 
 # Verifica
@@ -250,7 +250,7 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 > 
 > {.is-warning}
 
-Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. I nostri verificatori confermeranno che la tua presence sia all'altezza degli standard e sarà inserita nel negozio.
+Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. I nostri verificatori confermeranno che la tua presence sia all'altezza degli standard e sarà inserita nel negozio.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificatori</h2>
