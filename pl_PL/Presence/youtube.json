@@ -20,7 +20,7 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Czyta informacji o kanale:",
+        "message": "Czyta informację o kanale:",
         "description": ""
     },
     "youtube.searchChannel": {
@@ -52,11 +52,11 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Przegląda historii zgłoszeń",
+        "message": "Przegląda historię zgłoszeń",
         "description": ""
     },
     "youtube.upload": {
-        "message": "Przesyła coś...",
+        "message": "Coś przesyła...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -72,7 +72,7 @@
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Przeglądanie biblioteki audio",
+        "message": "Przegląda bibliotekę audio",
         "description": ""
     },
     "youtube.studio.viewVideos": {
@@ -88,7 +88,7 @@
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Przeglądanie komentarzy do filmu:",
+        "message": "Przegląda komentarze do filmu:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
@@ -108,7 +108,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "tłumaczenie kanału",
+        "message": "tłumaczenia kanału",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
