@@ -406,7 +406,7 @@ Le site Web sur lequel vous développez est automatiquement rechargé chaque foi
 
 ## Débogage
 - Vous pouvez mettre `console.log("Test");` entre votre code et voir si votre console de navigateur vous donne cette sortie. Si oui, continuez et réessayez après la fonction suivante. Si ce n'est pas le cas, il y a une erreur ci-dessus.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Si cela ne vous aide pas non plus, demandez à un développeur de presence sur notre serveur [Discord](https://discord.premid.app/) pour obtenir de l'aide.
 
 # Explications des fichiers
 - [Classe de presence](/dev/presence/class)
