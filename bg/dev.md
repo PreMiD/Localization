@@ -15,8 +15,8 @@ tags:
 2. Изтегли [Node](https://nodejs.org/en/) (идва със [npm](https://www.npmjs.com/)).
 3. Изтегли [TypeScript](https://www.typescriptlang.org/index.html#download-links) (отворете терминал и напишете `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+# Клониране на проекта
+1. Отворете терминал и напишете `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Choose a folder of your choice.
 3. Open it in your code editor.
 
