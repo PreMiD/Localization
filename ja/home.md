@@ -2,7 +2,7 @@
 title: ホーム
 description: v2の公式ドキュメント
 published: true
-date: 2020-06-11T18:38:43.041Z
+date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
@@ -32,7 +32,7 @@ PreMiDのインストールはとってもかんたん！ すぐに使えるよ�
 
 # 貢献する
 - :bug: [バグを報告する](https://github.com/PreMiD) 不具合を除去する手伝いをする。
-- :bulb: [新しい機能を提案する](https://discord.gg/WvfVZ8T) あなたのアイデアが必要です！
+- :bulb: [新しい機能を提案する](https://discord.premid.app/) あなたのアイデアが必要です！
 - :heart: [寄付をする](https://www.patreon.com/Timeraa) この素晴らしいプロジェクトを応援しましょう！
 - :globe_with_meridians: [翻訳する](https://translate.premid.app) 他の言語でPreMiDを使えるように手伝ってください！
 
