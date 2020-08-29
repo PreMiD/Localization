@@ -2,7 +2,7 @@
 title: Solución de problemas
 description: Todo para resolver tu problema
 published: true
-date: 2020-08-10T20:42:48.586Z
+date: 2020-08-29T21:41:02.545Z
 tags:
 editor: markdown
 ---
@@ -72,4 +72,4 @@ Esto es un falso positivo de McAfee y les hemos informado del problema por ahora
 10. Ahora McAfee debe ignorar nuestro archivo, sólo tienes que abrir nuestra aplicación.
 
 ### Esto no ha resuelto mi problema
-Por favor abre un ticket en [#support](https://discord.gg/WvfVZ8T).
+Por favor abre un ticket en [#support](https://discord.premid.app/).
