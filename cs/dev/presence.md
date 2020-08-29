@@ -2,7 +2,7 @@
 title: Vývoj přítomnosti
 description:
 published: true
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -24,8 +24,8 @@ Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživa
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Instalace
-1. Install [Git](https://git-scm.com/).
-2. Nainstalujte [uzel](https://nodejs.org/en/) (přichází s [npm](https://www.npmjs.com/)).
+1. Nainstalujte [Git](https://git-scm.com/).
+2. Nainstalujte [Node](https://nodejs.org/en/) (obsahuje [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Klonování projektu
@@ -161,7 +161,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
       <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
       </td>
-      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Pole&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>Ano</code>
       </td>
@@ -406,7 +406,7 @@ The website you are developing on is automatically reloading every time you save
 
 ## Debugging
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.gg/WvfVZ8T) for help.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
 - [Třída Presence](/dev/presence/class)
