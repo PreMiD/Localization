@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: vrai
-date: 2020-08-01T16:39:30.898Z
+date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown
 ---
@@ -406,7 +406,7 @@ Le site Web sur lequel vous développez est automatiquement rechargé chaque foi
 
 ## Débogage
 - Vous pouvez mettre `console.log("Test");` entre votre code et voir si votre console de navigateur vous donne cette sortie. Si oui, continuez et réessayez après la fonction suivante. Si ce n'est pas le cas, il y a une erreur ci-dessus.
-- Si cela ne vous aide pas non plus, demandez à un développeur de présence sur notre serveur [Discord](https://discord.gg/WvfVZ8T) pour obtenir de l'aide.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Explications des fichiers
 - [Classe de presence](/dev/presence/class)
