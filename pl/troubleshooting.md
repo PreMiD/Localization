@@ -11,19 +11,19 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Czy używasz aplikacji Discord?
+PreMiD **nie** działa w przeglądarce Discord, musisz pobrać aplikację [tutaj](https://discord.com/download).
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Aby rozwiązać ten problem, wystarczy przełączyć najwyższe ustawienie: ![presencesettings.gif](/presencesettings.gif)
 
 ### Odśwież stronę
 Możesz również nacisnąć <kbd>CTRL + R</kbd>/<kbd>F5</kbd> (Windows) lub <kbd>CMD + R</kbd> (MacOS) na klawiaturze zamiast szukać przycisku odświeżania.
 
 ### Uruchom ponownie przeglądarkę
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) lub <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) również dobrze się spisuje. (Oczywiście musisz ponownie uruchomić przeglądarkę.)
 
 ### Upewnij się, że w ustawieniach włączono Discord Game Activity
 **Ustawienia użytkownika** > **Aktywność w grze** ![gameactivity_edited.png](/gameactivity_edited.png)
