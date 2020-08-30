@@ -2,7 +2,7 @@
 title: Ongelmanratkaisu
 description: Everything to solve your problem
 published: true
-date: 2020-08-29T21:41:02.545Z
+date: 2020-08-30T17:14:32.108Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,9 @@ editor: markdown
 > Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
+
+### Are you using the using the Discord app?
+PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
