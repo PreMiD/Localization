@@ -16,23 +16,23 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Reload the page
+### Ricarica la pagina
 Puoi anche premere <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera invece di cercare il pulsante di aggiornamento.
 
-### Restart your browser
+### Riavvia il browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+![quit.png](/quit.png) È necessario riavviare PreMiD in seguito.
 
-### Reload/restart Discord
+### Ricarica/riavvia Discord
 Premi <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera o riavvia Discord manualmente.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Assicurati che Discord NON sia in esecuzione come amministratore
+Davvero importante. Discord RPC will not work if you run Discord as an administrator.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
