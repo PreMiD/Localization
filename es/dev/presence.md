@@ -516,7 +516,7 @@ iframe.on("UpdateData", async () =&gt; {
     Puedes poner <code>console.log("Prueba");</code> entre tu código y ver si la consola de tu navegador te da esa salida. Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
   </li>
   <li>
-    If that doesn't help you either then ask a presence developer on our <a href="https://discord.premid.app/">Discord server</a> for help.
+    Si eso no te ayuda entonces pregunta por ayuda a un desarrollador en nuestro <a href="https://discord.premid.app/">servidor de Discord</a>.
   </li>
 </ul>
 
