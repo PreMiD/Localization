@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Segalanya untuk menyelesaikan masalah anda
 published: true
-date: 2020-08-29T21:41:02.545Z
+date: 2020-08-30T17:14:32.108Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,9 @@ editor: markdown
 > Pastikan anda sudah menginstal ekstensi **dan** aplikasi! 
 > 
 > {.is-warning}
+
+### Are you using the using the Discord app?
+PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Apakah kamu menggunakan Presence dengan pengaturan?
 Banyak presence (termasuk `Twitch` dan `SoundCloud`) terpengaruh oleh masalah ekstensi. Masalah ini menyebabkan ekstensi tidak mendapat value default dari setting dengan benar.
