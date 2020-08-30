@@ -7,6 +7,10 @@
 		"message": "Trova il tuo **Swag**",
 		"description": "Subtitle for store"
 	},
+	"merch.fit": {
+		"message": "**Scegli la tua taglia**",
+		"description": "Product sizes"
+	},
 	"merch.cart": {
 		"message": "Aggiungi al carrello",
 		"description": "Add product to cart"
