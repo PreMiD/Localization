@@ -399,7 +399,7 @@ Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız her
 
 ## Hata ayıklama
 - Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş veya hiç bu satıra ulaşamamış demektir.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Eğer bunların hiçbiri işinize yaramazsa [Discord sunucumuza](https://discord.premid.app/) katılıp diğer geliştiricilerden yardım talep edebilirsiniz.
 
 # Dosyaların açıklamaları
 - [Presence Sınıfı](/dev/presence/class)
