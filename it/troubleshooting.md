@@ -12,7 +12,7 @@ editor: markdown
 > {.is-warning}
 
 ### Stai usando una presenza con le impostazioni?
-Molte presenze (tra cui `Twitch` e `SoundCloud`) sono affette da un problema di estensione. This issue causes the extension to not grab the default values of settings properly.
+Molte presenze (tra cui `Twitch` e `SoundCloud`) sono affette da un problema di estensione. Questo problema fa sì che l'estensione non controlli correttamente i valori predefiniti delle impostazioni.
 
 Per risolvere questo problema, tutto quello che devi fare è attivare/disattivare l'impostazione in cima: ![presencesettings.gif](/presencesettings.gif)
 
@@ -35,7 +35,7 @@ Premi <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera 
 Davvero importante. Discord RPC non funzionerà se si esegue Discord come amministratore.
 
 ### Controlla se hai antivirus o firewall in esecuzione sul tuo computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+A volte programmi antivirus e firewall bloccano le applicazioni che stanno creando/hostando server o semplicemente che si connettono ad Internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
 ### Disable your addons
 Disabilita tutti i tuoi addons e scopri se funziona. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
@@ -50,7 +50,7 @@ Sometimes there is something wrong with the files... Tutorials for the installat
 Windows:    `C:\Users\USER\AppData\Roaming\`` ed elimina la cartella`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
-### On Ubuntu/Debian based distros
+### Sulle distribuzioni basate su Ubuntu/Debian
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee ha rilevato PreMiD come virus (Windows)
