@@ -2,7 +2,7 @@
 title: Solução de problemas
 description: Tudo para resolver o seu problema
 published: true
-date: 2020-08-29T21:41:02.545Z
+date: 2020-08-30T17:14:32.108Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,9 @@ editor: markdown
 > Certifique-se de ter a extensão **e** o aplicativo instalado! 
 > 
 > {.is-warning}
+
+### Are you using the using the Discord app?
+PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Você está usando uma presença com configurações?
 Muitas presenças (incluindo `Twitch` e `SoundCloud`) são afetadas por um problema na extenção. Isso faz com que a extensão não consiga pegar os valores padrões de uma configuração corretamente.
