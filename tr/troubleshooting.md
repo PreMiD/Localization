@@ -2,7 +2,7 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-08-29T21:41:02.545Z
+date: 2020-08-30T17:14:32.108Z
 tags:
 editor: markdown
 ---
@@ -10,6 +10,9 @@ editor: markdown
 > Uzantıyı **ve** uygulamanın yüklü olduğundan emin olun! 
 > 
 > {.is-warning}
+
+### Are you using the using the Discord app?
+PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Bir servisi ayarlarla mı kullanıyorsunuz?
 Bazı servisler (`Twitch` ve `Soundcloud` buna dahildir) bir eklenti hatasından etkileniyor. Bu hata eklentinin varsayılan ayarları düzgün bir şekilde çekmesini engelliyor.
