@@ -57,7 +57,7 @@ Imposta il titolo del supporto nella barra del menu.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Devi procurare un `Object` con le chiavi a stringhe, `keyValue` è il valore della stringa. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Un metodo asincrono che consente di ottenere stringhe tradotte dall'estensione. Devi procurare un `Object` con le chiavi a stringhe, `keyValue` è il valore della stringa. Puoi trovare alcune linee di testo tradotte qui: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Ritorna le stringhe `Playing` e `Paused`
