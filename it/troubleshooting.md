@@ -37,21 +37,21 @@ Davvero importante. Discord RPC non funzionerà se si esegue Discord come ammini
 ### Controlla se hai antivirus o firewall in esecuzione sul tuo computer
 A volte programmi antivirus e firewall bloccano le applicazioni che stanno creando/hostando server o semplicemente che si connettono ad Internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Disable your addons
-Disabilita tutti i tuoi addons e scopri se funziona. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Disabilita i tuoi addons
+Disabilita tutti i tuoi addons e scopri se funziona. Se sì, prova ad abilitare i tuoi addons passo dopo passo e dirci quale addon ha corrotto PreMiD.
 
-### Restarting your computer
+### Riavvio del computer
 Spero che tu sappia riavviare un computer.
 
 ### Reinstallazione PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+A volte c'è qualcosa di sbagliato con i file... I tutorial per l'installazione possono essere trovati [qui](/install).
 
 ### Rimozione manuale
 Windows:    `C:\Users\USER\AppData\Roaming\`` ed elimina la cartella`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+MacOS:`~/users/USER/~Library/Application Support/`ed elimina la cartella`PreMiD``.
 
 ### Sulle distribuzioni basate su Ubuntu/Debian
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+Se hai scaricato Discord attraverso Snapcraft, RPC non funzionerà. Devi disinstallare la versione di Snapcraft eseguendo `sudo snap remove discord` su un terminale, scarica [Discord Linux build](https://discordapp.com/api/download?platform=linux) ([o Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), poi navigando nella directory scaricata su Discord (solitamente `$HOME/Downloads`), poi installando il pacchetto utilizzando `sudo dpkg -i discord-*.deb`.
 
 ### McAfee ha rilevato PreMiD come virus (Windows)
 Questo è un falso positivo da McAfee e abbiamo riferito loro il problema, per ora è possibile escludere PreMiD dalla scansione facendo i seguenti passaggi:
