@@ -12,7 +12,7 @@ editor: markdown
 > {.is-warning}
 
 ### Stai usando l'app di Discord?
-PreMiD **non** lavora sulla versione browser di Discord, devi scaricare l'app [qui](https://discord.com/download).
+PreMiD **non** è disponibile sulla versione del browser di Discord, è necessario scaricare l'app [qui](https://discord.com/download).
 
 ### Stai usando una presenza con le impostazioni?
 Molte presenze (tra cui `Twitch` e `SoundCloud`) sono affette da un problema di estensione. Questo problema fa sì che l'estensione non controlli correttamente i valori predefiniti delle impostazioni.
