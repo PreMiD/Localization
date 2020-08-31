@@ -125,7 +125,7 @@ Her servisin kendine ait açıklayıcı bir `metadata.json` dosyası vardır, bu
 > 
 > {.is-warning}
 
-> `metadata` dosyasında ki tüm görseller `i.imgur.com` da hostlanmak zorundadır. Sitenin kendisinde barındırılan resimlerin kullanımına **izin verilmemektedir**, çünkü bu resimler istemsiz de olsa bazen değişiklik gösterebilir. 
+> `metadata` dosyasında ki tüm görseller `i.imgur.com` da barındırılmak zorundadır. Sitenin kendisinde barındırılan resimlerin kullanımına **izin verilmemektedir**, çünkü bu resimler istemsiz de olsa bazen değişiklik gösterebilir. 
 > 
 > {.is-warning}
 
