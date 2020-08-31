@@ -400,7 +400,7 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 
 ## Debugging
 - Anda dapat memberi `console.log("Test");` diantara kode dan melihat apakah konsol browser memberi output tersebut. Jika iya lanjutkan dan ulangi pada function selanjutnya. Jika tidak berarti terdapat eror diatas.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Jika itu tidak membantu anda dapat bertanya pengembang presence pada [server Discord kami](https://discord.premid.app/) untuk meminta bantuan.
 
 # File dijelaskan
 - [Kelas Presensi](/dev/presence/class)
