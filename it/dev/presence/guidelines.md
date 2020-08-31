@@ -123,7 +123,7 @@ Ogni presenza ha un file descrittore chiamato `metadata. son`, i metadati hanno 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Tutte le immagini nel file `metadata` devono essere hostate su `i.imgur.com`. L'uso di contenuti hostati sul sito web **non è** consentito in quanto possono cambiare i percorsi e i file non volentieri. 
 > 
 > {.is-warning}
 
@@ -216,7 +216,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 - Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
 - È possibile effettuare richieste HTTP/HTTPS solo per `premid.app` o per la presenza di API sito web. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
 - **Non** impostare i campi nell'oggetto dati di presenza su undefined dopo che è stato dichiarato, utilizzare invece la parola chiave `delete`. (per es., usa `delete data.startTimestamp` invece di `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. Ciò include l'aggiunta, la cancellazione o la modifica degli elementi DOM.
+- **Non sei** autorizzato a scrivere presences che cambiano le funzionalità di un dato sito web. Ciò include l'aggiunta, la cancellazione o la modifica degli elementi DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -255,7 +255,7 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 > 
 > {.is-warning}
 
-Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
+Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. I nostri revisori confermeranno che la tua presence rispetta gli standard e verrà inserita nel negozio.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Revisori</h2>
@@ -273,9 +273,9 @@ Repetitive offenses such as breaking guidelines, spamming pull requests, threats
 
 In questo scenario, si verificheranno le seguenti modifiche:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- Le presences sotto la tua gestione verranno trasferite al bot PreMiD o ad un altro utente (decisione del revisore). L'id dell'applicazione per ogni presence verrà ricreato con il nome del nuovo proprietario.
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- I tickets con il tuo nome per quanto riguarda lo sviluppo di una presence verranno eliminati.
 
 
 ## `Revisione`
@@ -292,7 +292,7 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 
 ![Controlli](https://i.imgur.com/bk0A1iY.png)
 
-Attualmente, una presenza passa attraverso 2 stadi separati di controlli. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti questi controlli aiutano i revisori a determinare se la tua presence è adatta alla distribuzione.
 
 - `DeepScan` è un bot che verifica la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
 - `Validazione Schema` esegue la scansione del file `metadata.json` per rilevare eventuali errori (per es., campi mancanti, tipi di valori non validi, ecc.). Se mai vedessi nuovi problemi, è **necessario** anche risolverli. L'aggiunta di un campo schema al tuo file `metadata.json` permetterà al tuo editor di testo (se supportato) di mostrarti questi errori durante lo sviluppo.
