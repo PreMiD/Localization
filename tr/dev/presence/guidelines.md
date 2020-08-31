@@ -236,12 +236,12 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 
 - Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
 - Herhangi biri kodda önemli düzeltmeler yapabilir, yine de, düzeltme gerektirmeyen yerleri düzeltmek **mecburi değildir**. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Geçerli düzeltmeler şunlar gibi olabilir; _eksik yollar_, _kelime hataları_, _geçersiz resimler_, vb.
-- Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Contact a reviewer for more information about this subject.
+- Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Gözden Geçiren ile iletişime geçebilirsiniz.
 - Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.    - Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
 
 # Onaylanma
 
-> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. All reviewers will have the `Reviewer` role on their profile. 
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm gözden geçirenlerin profilinde `Reviewer` rolü vardır. 
 > 
 > {.is-info}
 
@@ -257,7 +257,7 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 > 
 > {.is-warning}
 
-Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
+Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Gözden geçirme ekibimizdekiler, servisiniz mağazaya eklenmeden önce, servisinizin kodunu inceleyecek ve standartlara uyup uymadığını kontrol edecektir.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
@@ -269,15 +269,15 @@ Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekle
   <br />
 </div>
 
-## `Restrictions`
+## `Kısıtlamalar`
 
 Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
 
-In this scenerio, the following changes will occur:
+Bu durumda, şu değişiklikler olur:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- Yönetiminiz altındaki servisler ya PreMiD botuna, ya da başka bir kullanıcıya transfer edilecektir (gözden geçiren kararı). Her servis için uygulama kimliği yeni sahibin adı altında yeniden oluşturulacaktır.
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Sizin adınıza oluşturulmuş, servis geliştiriciliği hakkındaki biletler silinecektir.
 
 
 ## `İnceleme`
