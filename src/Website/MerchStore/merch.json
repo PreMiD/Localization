@@ -15,6 +15,10 @@
 		"message": "Add to cart",
 		"description": "Add product to cart"
 	},
+	"merch.price":{
+		"message":"€{0}",
+		"description":"{0} Replaced with item price in euros, put euro sign before or after {0}"
+	},
 	"merch.help": {
 		"message": "Experiencing problems with our store or an order? Contact our {0}customer support{1}",
 		"description": "Link to customer support, {0}{1} is the replacement for the link"
