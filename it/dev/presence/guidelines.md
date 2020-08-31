@@ -216,7 +216,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 - Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
 - È possibile effettuare richieste HTTP/HTTPS solo per `premid.app` o per la presenza di API sito web. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario.
 - **Non** impostare i campi nell'oggetto dati di presenza su undefined dopo che è stato dichiarato, utilizzare invece la parola chiave `delete`. (per es., usa `delete data.startTimestamp` invece di `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- You are **not** allowed to write presences that change the functionality of a given website. Ciò include l'aggiunta, la cancellazione o la modifica degli elementi DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -234,12 +234,12 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 
 - **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
 - Chiunque può fornire hotfix per correggere i bug; tuttavia, provare a **non** apportare modifiche al codice che **non** non deve essere corretto. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Le modifiche sono valide, ma **Non** limitate a, _percorsi mancanti_, _errori_, _immagini mancanti_, ecc.
-- Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un verificatore per maggiori informazioni su questo argomento.   - Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contact a reviewer for more information about this subject.
+- Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un verificatore per maggiori informazioni su questo argomento.   - Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un revisore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.    - Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
 
 # Verifica
 
-> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. All reviewers will have the `Reviewer` role on their profile. 
+> Se hai bisogno di contattare qualcuno, per favore utilizza il nostro server ufficiale Discord. Tutti i revisori avranno il ruolo `Revisore` sul loro profilo. 
 > 
 > {.is-info}
 
@@ -258,7 +258,7 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Revisori</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -267,11 +267,11 @@ Il processo più importante di sviluppo della presence è mostrare la tua presen
   <br />
 </div>
 
-## `Restrictions`
+## `Restrizioni`
 
 Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
 
-In this scenerio, the following changes will occur:
+In questo scenario, si verificheranno le seguenti modifiche:
 
 - Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
