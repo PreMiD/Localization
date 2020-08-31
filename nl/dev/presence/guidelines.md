@@ -2,7 +2,7 @@
 title: Richtlijnen
 description: Regels die alle presence-ontwikkelaars moeten volgen om hun presence te laten toevoegen.
 published: true
-date: 2020-07-21T22:22:06.316Z
+date: 2020-08-31T02:26:49.039Z
 tags:
 editor: markdown
 ---
@@ -123,7 +123,7 @@ Elke presence heeft een beschrijvingsbestand genaamd `metadata.json`, de metadat
 > 
 > {.is-warning}
 
-> Alle afbeeldingen in het `metadata` bestand moeten gehost zijn op `imgur.com` of op een CDN dat u rechten geeft om **** afbeeldingsbestanden te wijzigen. Inhoud die wordt gehost op de website zelf is **niet** toegestaan, omdat ze de locaties uit het niets kunnen veranderen. 
+> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
@@ -216,6 +216,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 - Bij het openen van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
 - Je mag alleen HTTP/HTTPS verzoeken naar `premid.app` of de website API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
 - Velden **niet** instellen in het presenceData object dat ongedefinieerd wordt nadat het is gedeclareerd, gebruik het `delete` sleutelwoord. (bijvoorbeeld, gebruik `delete data.startTimestamp` in plaats van `data.startTimestamp = undefined`)
+- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
 ## [**tsconfig.json**](https://docs.premid.app/nl/dev/presence/tsconfig)
 
@@ -231,16 +232,20 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een lijst met regels die je **moet** volgen tijdens het wijzigen van presences.
 
-- U bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server is verbannen of niet de vereiste wijzigingen heeft aangebracht binnen een maand, kunt u contact opnemen met een verificateur om te zien of u de presence kunt herschrijven.
-- Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **niet** wijzigingen aan te brengen in de code die **niet** moet worden gecorrigeerd. Geldige wijzigingen zijn, maar **niet** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc.
-- Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.
-- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.
+- U bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **niet** wijzigingen aan te brengen in de code die **niet** moet worden gecorrigeerd. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Geldige wijzigingen zijn, maar **niet** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc.
+- Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.   - Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Contact a reviewer for more information about this subject.
+- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.    - Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.
 
 # Verificatie
 
-> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle verificateurs hebben de rol `Presence Verifier` op hun profiel. 
+> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. All reviewers will have the `Reviewer` role on their profile. 
 > 
 > {.is-info}
+
+> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> 
+> {.is-warning}
 
 > **Alle** code die aan de winkel is bijgedragen zal een licentie krijgen onder de `Mozilla Public License 2.0`. 
 > 
@@ -250,10 +255,10 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 > 
 > {.is-warning}
 
-Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en dat deze in de winkel zal worden gepusht.
+Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificateurs</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -262,12 +267,23 @@ Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in 
   <br />
 </div>
 
+## `Restrictions`
+
+Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+
+In this scenerio, the following changes will occur:
+
+- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
+- Tickets created under your name regarding presence development will be deleted.
+
+
 ## `Beoordelen`
 
 Enkele dingen die je moet weten voordat je een pull request opent:
 
 - Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
-- Als een pull-aanvraag voor een periode van 7 dagen niet actief is, zal deze worden gesloten.
+- Als een pull-aanvraag voor een periode van 14 dagen niet actief is, zal deze worden gesloten.
 - Alle controles **moeten** voldaan zijn voordat er gemerged kan worden.
 - ⚠ U **moet** nieuw, ongewijzigde screenshots (gemaakt door jou) geven die een zijdelings vergelijking van je profiel en de website tonen om te bewijzen dat je presence werkt. _Je mag screenshots samen stikken zodat het makkelijker te bekijken is._ Dit geldt zowel voor het aanmaken van je presence als voor aanpassing in de presence.
 - ⚠ Je bent ook **verplicht** om schermafbeeldingen te maken van presence instellingen als je die hebt. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) zien.
@@ -276,7 +292,7 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 
 ![Controles](https://i.imgur.com/bk0A1iY.png)
 
-Op dit moment wordt de presence in twee afzonderlijke fasen gecontroleerd. Al deze controles helpen de verificateurs te bepalen of uw presence geschikt is voor implementatie.
+Op dit moment wordt de presence in twee afzonderlijke fasen gecontroleerd. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
 - `DeepScan` is een bot die controleert op coderingskwaliteit. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen.
 - `Schema Validation` zal uw `metadata.json` bestand scannen op fouten (bijvoorbeeld ontbrekende velden, ongeldige waarde types, etc.). Als je ooit nieuwe problemen ziet, ben je ook **verplicht** om die op te lossen. Het toevoegen van een schemaveld aan je `metadata.json` bestand zal je tekstverwerker (indien ondersteund) toestaan om deze fouten te tonen tijdens de ontwikkeling van je presence.

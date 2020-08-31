@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os presence developers devem seguir para ter sua presence adicionada.
 published: true
-date: 2020-07-21T22:22:06.316Z
+date: 2020-08-31T02:26:49.039Z
 tags:
 editor: markdown
 ---
@@ -123,7 +123,7 @@ Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados 
 > 
 > {.is-warning}
 
-> Todas as imagens no arquivo de `metadata` devem estar hospedadas no `i.imgur.com` ou em um CDN que lhê dê permissões para **mudar** arquivos de imagens. Conteúdo hospedado no site em si **não é** permitido visto que ele pode mudar de posição de forma indesejada. 
+> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
@@ -216,6 +216,7 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 - Ao acessar cookies para dados armazenados, por favor prefixe a chave com `PMD_`.
 - Você só pode fazer solicitações em HTTP/HTTPS para `premid.app` ou a API do site de presença. Se você estiver usando domínios externos, será necessário explicar por que é necessário.
 - **Não** deixe campos dos dados do objeto de presença em undefined após serem tido declarados, use `delete` invés disso. (por exemplo, use `delete data.startTimestamp` ao invés de `data.startTimestamp = undefined`)
+- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -231,16 +232,20 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 
 Em algumas situações, as presenças podem se comportar de forma inesperada ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Aqui está uma lista de regras que você **deve** seguir enquanto modifica as presenças.
 
-- Você **não** é permitido a reescrever um Presence ou mudar seu autor. Se o autor de algum Presence foi banido do servidor oficial ou não fez as mudanças requeridas dentro de um mês, você pode contactá-lo e verificar se você pode reescrever o Presence.
-- Qualquer um pode sugerir correções para resolver bugs; Contudo, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. Modificações válidas são, mas **não** limitadas a, _falta de paths_, _erros de digitação_, _falta de imagens_, etc.
-- Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.
-- Certifique-se de que as modificações são úteis. Estes podem incluir correções (código e erros de digitação), aditivos (descrições e tags), etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
+- Você **não** é permitido a reescrever um Presence ou mudar seu autor. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- Qualquer um pode sugerir correções para resolver bugs; Contudo, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Modificações válidas são, mas **não** limitadas a, _falta de paths_, _erros de digitação_, _falta de imagens_, etc.
+- Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contact a reviewer for more information about this subject.
+- Certifique-se de que as modificações são úteis. Estes podem incluir correções (código e erros de digitação), aditivos (descrições e tags), etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.    - Certifique-se de que as modificações são úteis. Estes podem incluir correções (código e erros de digitação), aditivos (descrições e tags), etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
 
 # Verificação
 
-> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. Todas as verificações terão a função `Verificar presença` no seu perfil. 
+> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. All reviewers will have the `Reviewer` role on their profile. 
 > 
 > {.is-info}
+
+> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> 
+> {.is-warning}
 
 > **Todos os** códigos contribuíram para a loja serão licenciados sob a `Mozilla Public License 2.0`. 
 > 
@@ -250,10 +255,10 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 > 
 > {.is-warning}
 
-O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Nossos verificadores irão confirmar que seu Presence está de acordo com os padrões e vão colocá-lo na loja.
+O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -262,12 +267,23 @@ O processo mais importante no desenvolvimento de Presences é conseguir pôr seu
   <br />
 </div>
 
+## `Restrictions`
+
+Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+
+In this scenerio, the following changes will occur:
+
+- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
+- Tickets created under your name regarding presence development will be deleted.
+
+
 ## `Revisando`
 
 Algumas coisas que você deve saber após abrir uma pull request:
 
 - São necessários 2 revisores para implementar uma pull request.
-- Se um pull request estiver inativo por um período de 7 dias, ele será fechado.
+- Se um pull request estiver inativo por um período de 14 dias, ele será fechado.
 - Todas as verificações **devem** ser passadas para juntar o pull request.
 - ⚠️ Você **deve** fornecer novo, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presence funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar para deixar mais fácil._ Isso aplica-se tanto à criação quanto à modificação.
 - ⚠️ Também é **necessário** incluir capturas de tela das configurações da presença na extensão, se fornecido. Um exemplo pode ser vito [aqui](https://imgur.com/a/OD3sj5R).
@@ -276,7 +292,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 
 ![Verificações](https://i.imgur.com/bk0A1iY.png)
 
-Atualmente, uma presença deve passar por 2 fases de checagem. Todas essas checagens ajudam os verificadores a determinar se sua presença é adequada para uso.
+Atualmente, uma presença deve passar por 2 fases de checagem. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
 - `DeepScan` é um bot que verifica a qualidade do código. Se você receber erros por novas issues, é **necessário** corrigi-los.
 - `Schema Validation` vai escanear seu arquivo `metadata.json` por qualquer erros (por exemplo, campos ausentes, tipos de valores inválidos, etc.). Se você ver novas issues, também será **necessário** corrigi-los. Adicionar um campo de esquema ao seu arquivo `metadata.json` permitirá que seu editor de texto (se suportado) mostre esses erros durante o desenvolvimento.
