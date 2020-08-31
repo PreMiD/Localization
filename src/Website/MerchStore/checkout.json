@@ -78,5 +78,9 @@
 	"checkout.cart.promoapply": {
 		"message": "Apply",
 		"description": "Button title to apply promo code"
+	},
+	"checkout.total": {
+		"message": "Total (Euro)",
+		"description": "Users basket price in euros"
 	}
 }
