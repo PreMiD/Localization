@@ -232,7 +232,7 @@ Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 
 In alcune situazioni, le presence possono comportarsi in modo inaspettato o potrebbero usare alcune modifiche minori per migliorare la loro funzionalità. Ecco un elenco di regole che **devi** seguire durante la modifica delle presence.
 
-- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. Se l'autore della presence è stato bandito dal server ufficiale o non ha apportato le modifiche richieste entro un mese, puoi contattare un revisore per vedere se puoi riscrivere la presence.
 - Chiunque può fornire hotfix per correggere i bug; tuttavia, provare a **non** apportare modifiche al codice che **non** non deve essere corretto. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Le modifiche sono valide, ma **Non** limitate a, _percorsi mancanti_, _errori_, _immagini mancanti_, ecc.
 - Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un verificatore per maggiori informazioni su questo argomento.   - Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un revisore per maggiori informazioni su questo argomento.
 - Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.    - Assicurati che le modifiche siano utili. Questi possono includere correzioni (codice e errori di battitura), aggiunte (descrizioni e tags), ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
@@ -243,7 +243,7 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 > 
 > {.is-info}
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> Tieni presente che i revisori lavorano volontariamente e gestiscono altre repository oltre a questa, la tua richiesta di pull potrebbe non essere revisionata fino a ore o anche giorni successivi alla sua creazione. 
 > 
 > {.is-warning}
 
@@ -269,12 +269,12 @@ Il processo più importante di sviluppo della presence è mostrare la tua presen
 
 ## `Restrizioni`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Violazioni ripetitive come infrangere le linee guida, spam di richieste di pull, minacce, o comportamenti innapropriati ti vieteranno di creare presences.
 
 In questo scenario, si verificheranno le seguenti modifiche:
 
 - Le presences sotto la tua gestione verranno trasferite al bot PreMiD o ad un altro utente (decisione del revisore). L'id dell'applicazione per ogni presence verrà ricreato con il nome del nuovo proprietario.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
+- Tutti i tuoi problemi e richieste di pull (creazione di una presence, contributo ad una presence, ecc) create dopo il ban saranno prontamente chiuse.
 - I tickets con il tuo nome per quanto riguarda lo sviluppo di una presence verranno eliminati.
 
 
