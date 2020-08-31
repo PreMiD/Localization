@@ -123,7 +123,7 @@ Setiap presence memiliki file descriptor bernama `metadata.json`, metadata memil
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Semua gambar pada file `metadata` harus dihosting di `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
