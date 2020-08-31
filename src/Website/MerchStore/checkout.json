@@ -79,6 +79,10 @@
 		"message": "Apply",
 		"description": "Button title to apply promo code"
 	},
+	"checkout.price":{
+		"message":"€{0}",
+		"description":"{0} Replaced with item price in euros, put euro sign before or after {0}"
+	},
 	"checkout.total": {
 		"message": "Total (Euro)",
 		"description": "Users basket price in euros"
