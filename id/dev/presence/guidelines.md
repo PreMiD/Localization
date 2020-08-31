@@ -2,7 +2,7 @@
 title: Aturan
 description: Peraturan yang harus ditaati oleh developer presence agar presencenya ditambahkan.
 published: true
-date: 2020-07-21T22:22:06.316Z
+date: 2020-08-31T02:26:49.039Z
 tags:
 editor: markdown
 ---
@@ -123,7 +123,7 @@ Setiap presence memiliki file descriptor bernama `metadata.json`, metadata memil
 > 
 > {.is-warning}
 
-> Semua gambar pada file `metadata` harus dihost di `i.imgur.com` atau pada CDN yang memberi izin untuk **merubah** file gambar. Konten yang dihost pada website itu sendiri **tidak** diperbolehkan sebab mereka dapat merubah lokasi tersebut. 
+> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
@@ -216,6 +216,7 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 - Saat mengakses cookie untuk data tersimpan, harap memberi prefix pada key dengan `PMD_`.
 - Kamu hanya membuat permintaan HTTP/HTTPS ke `premid.app` atau presence situs web API. Jika anda menggunakan domain eksternal, anda diharuskan untuk menjelaskan sebab kenapa hal itu dibutuhkan.
 - **Jangan** atur bidang di dalam data obyek presence ke undefined setelah dideklarasikan, gunakan kata kunci `delete` saja. (untuk contoh, gunakan `delete data.startTimestamp` dari pada `data.startTimestamp = undefined`)
+- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -231,16 +232,20 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 
 Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar aturan yang **harus** diikuti ketika merubah presence.
 
-- Anda **tidak** diperbolehkan untuk menulis ulang sebuah presence atau merubah penciptanya. Jika pencipta presence terkena ban dari server resmi atau belum membuat perubahan yang dibutuhkan dalam waktu satu bulan, anda dapat menghubungi verifier untuk meminta menulis ulang presence tersebut.
-- Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, usahakan **tidak** merubah kode yang **tidak** memerlukan perbaikan. Modifikasi valid adalah, dan **tidak** terbatas pada _missing paths_, _typo_, _missing images_, dll.
-- Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.
-- Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.
+- Anda **tidak** diperbolehkan untuk menulis ulang sebuah presence atau merubah penciptanya. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, usahakan **tidak** merubah kode yang **tidak** memerlukan perbaikan. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Modifikasi valid adalah, dan **tidak** terbatas pada _missing paths_, _typo_, _missing images_, dll.
+- Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.   - Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Contact a reviewer for more information about this subject.
+- Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.    - Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.
 
 # Verifikasi
 
-> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. Semua verifier memiliki role `Presence Verifier` di profilnya. 
+> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. All reviewers will have the `Reviewer` role on their profile. 
 > 
 > {.is-info}
+
+> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> 
+> {.is-warning}
 
 > **Semua** kode yang dikontribusi ke toko akan terlisensi dengan `Mozilla Public License 2.0`. 
 > 
@@ -250,10 +255,10 @@ Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhka
 > 
 > {.is-warning}
 
-Proses yang penting dalam pengembangan presence adalah memasang presencemu di toko. Itu dapat dilakukan dengan membuat[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) di github pada repository `PreMiD/Presences`. Verifier kami akan mengkonfirmasi jika presencemu sesuai standar dan akan segera di pasang di toko.
+Proses yang penting dalam pengembangan presence adalah memasang presencemu di toko. Itu dapat dilakukan dengan membuat[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) di github pada repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verifier</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -262,12 +267,23 @@ Proses yang penting dalam pengembangan presence adalah memasang presencemu di to
   <br />
 </div>
 
+## `Restrictions`
+
+Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+
+In this scenerio, the following changes will occur:
+
+- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
+- Tickets created under your name regarding presence development will be deleted.
+
+
 ## `Memeriksa`
 
 Beberapa hal yang harus anda ketahui setelah membuka pull request:
 
 - Dibutuhkan 2 reviewer untuk merge sebuah pull request.
-- Jika pull request tidak aktif selama 7 hari, pull request tersebut akan segera ditutup.
+- Jika pull request tidak aktif selama 14 hari, pull request tersebut akan segera ditutup.
 - Semua pemeriksaan **harus** berhasil untuk merge.
 - ⚠️ Anda **harus** memberi screenshot baru, tidak dimodifikasi diambil ( diambil oleh anda) menunjukkan perbandingan side-by-side dari profilmu dan websitenya untuk membuktikan presencemu bekerja. _Anda diperbolehkan menggabungkan screenshot untuk kemudahan melihat_ Ini berlaku baik dalam pembuatan dan perubahan.
 - ⚠️ Kamu juga **harus** memasukkan tangkapan layar pengaturan presence di dalam extension jika disediakan. Contoh bisa dilihat [disini](https://imgur.com/a/OD3sj5R).
@@ -276,7 +292,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 
 ![Pemeriksaan](https://i.imgur.com/bk0A1iY.png)
 
-Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu verifier untuk menentukan apakah presencemu cocok untuk peluncuran.
+Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
 - `DeepScan` adalah bot yang memeriksa kualitas kode. Jika anda menemui eror pada issue baru, anda **diharuskan** untuk memperbaikinya.
 - `Schema Validation` akan mengscan file `metadata.json` mencari eror ( misal, missing fields, invalid value types, dll.). Jika anda menemukan isu baru anda juga **diharuskan** memperbaikinya. Menambahkan bidang schema ke file `metadata.json` akan memungkinkan editor teks anda ( jika didukung) untuk menunjukkan eror pada pengembangan.
