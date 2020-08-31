@@ -38,7 +38,7 @@ Premi <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera 
 Davvero importante. Discord RPC non funzionerà se si esegue Discord come amministratore.
 
 ### Controlla se hai antivirus o firewall in esecuzione sul tuo computer
-A volte programmi antivirus e firewall bloccano le applicazioni che stanno creando/hostando server o semplicemente che si connettono ad Internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+A volte programmi antivirus e firewall bloccano le applicazioni che stanno creando/hostando server o semplicemente che si connettono ad Internet. Usiamo un server locale per ricevere e passare i dati tra la nostra app e l'estensione, quindi se bloccassi l'abilità dell'app di passare i dati probabilmente non riusciresti ad usare PreMiD.
 
 ### Disabilita i tuoi addons
 Disabilita tutti i tuoi addons e scopri se funziona. Se sì, prova ad abilitare i tuoi addons passo dopo passo e dirci quale addon ha corrotto PreMiD.
