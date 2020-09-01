@@ -53,8 +53,8 @@ Czasami jest coś nie tak z plikami... Poradniki dotyczące instalacji można zn
 Windows:    `C:\Users\USER\AppData\Roaming\`` i usuń katalog `PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`i usuń katalog `PreMiD``.
 
-### On Ubuntu/Debian based distros
-Jeśli pobrałeś Discorda przez Snapcraft, RPC nie będzie działać. Musisz odinstalować wersję Snapcraft wykonując `sudo Snapp remove discord` na terminalu, pobierz [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([lub Discorda Canary](https://discordapp.com/api/canary/download?platform=linux)), następnie przejdź do katalogu, w którym pobrałeś Discorda (zwykle `$HOME/Downloads`), następnie zainstaluj pakiet za pomocą `sudo dpkg -i discord-*. eb`.
+### Na dystrybucjach Ubuntu/Debian
+Jeśli pobrałeś Discorda przez Snapcraft, RPC nie będzie działać. Musisz odinstalować wersję Snapcraft wykonując `sudo Snapp remove discord` w terminalu, pobierz [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([lub Discorda Canary](https://discordapp.com/api/canary/download?platform=linux)), następnie przejdź do katalogu, do którego pobrałeś Discorda (zwykle `$HOME/Downloads`), a następnie zainstaluj pakiet za pomocą `sudo dpkg -i discord-*. eb`.
 
 ### McAfee wykrył PreMiD jako wirus (Windows)
 Jest to fałszywy alarm ze strony McAfee i zgłosiliśmy im ten problem, na razie możesz wykluczyć PreMiD ze skanowania, wykonując następujące kroki:
