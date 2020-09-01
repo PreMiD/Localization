@@ -243,7 +243,7 @@ En algunas situaciones, las presences pueden comportarse inesperadamente o podr�
 > 
 > {.is-info}
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> Por favor ten en cuenta que el trabajo de los verificadores es voluntario y gestionan otros repositorios además de este, tu pull request puede no ser revisada hasta horas o días después de haber sido creada. 
 > 
 > {.is-warning}
 
