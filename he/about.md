@@ -2,14 +2,14 @@
 title: קצת מידע על PreMiD
 description: תכונות הליבה אודות PreMiD
 published: true
-date: 2020-02-12T22:05:04.843Z
+date: 2020-09-01T21:52:40.351Z
 tags:
+editor: markdown
 ---
 
-PreMiD הוא כלי פשוט להגדרה המאפשר לך להראות אם אתה watching/listening בסטטוס ה- Discord שלך כעת. היא תומכת בפלטפורמות רבות ושונות ותומכת במספר משתמשים הצופים באותו תוכן בו זמנית בעדכון הקרוב.
+PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. היא תומכת בפלטפורמות רבות ושונות ותומכת במספר משתמשים הצופים באותו תוכן בו זמנית בעדכון הקרוב.
 
 # למה אתה בחרת להוריד PreMiD
-- אנו לא שומרים שום נתוני משתמש, לכן אינך צריך לדאוג לפרטיותך.
 - כל הפרויקט שלנו הוא קוד פתוח! אנו רוצים לעבוד עם המשתמשים שלנו - לא נגדם.
 - A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
 
