@@ -59,15 +59,15 @@ Jeśli pobrałeś Discorda przez Snapcraft, RPC nie będzie działać. Musisz od
 ### McAfee wykrył PreMiD jako wirus (Windows)
 Jest to fałszywy alarm ze strony McAfee i zgłosiliśmy im ten problem, na razie możesz wykluczyć PreMiD ze skanowania, wykonując następujące kroki:
 
-> Jeśli nie czujesz się pewnie, że podejmując te kroki, możesz utworzyć bilet w [#support](https://discord.gg/WvfVZ8T) a jeden z naszych przedstawicieli pomocy technicznej będzie mógł Ci pomóc! 
+> Jeśli czujesz się niepewnie, podejmując te kroki, możesz utworzyć ticket na [#support](https://discord.gg/WvfVZ8T) a jeden z naszych agentów będzie mógł Ci pomóc! 
 > 
 > {.is-warning}
 
 1. Otwórz aplikację McAfee i kliknij ikonę ustawień w prawym górnym rogu. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Kliknij "Elementy kwarantannowe" (drugi od góry).
+2. Kliknij "Elementy w kwarantannie" (drugi od góry).
 3. Rozwiń i kliknij ikonę `>` przed elementem o nazwie "settings.dat".
-4. Upewnij się, że ścieżka zawiera "AppData\Local\Temp\PreMiD", jeśli tak, wybierz ją i naciśnij przywracanie. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. Po przywróceniu możesz zamknąć wyskakujące okienko "Elementy kwarantannowe", a następnie ponownie naciśnij ikonę ustawień w prawym górnym rogu.
+4. Upewnij się, że ścieżka zawiera "AppData\Local\Temp\PreMiD", jeśli tak, wybierz ją i naciśnij "Przywróć". <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Po przywróceniu możesz zamknąć wyskakujące okno "Elementy w kwarantannie", a następnie ponownie naciśnij ikonę ustawień w prawym górnym rogu.
 6. Kliknij "Skanowanie w czasie rzeczywistym" (Trzecie od góry).
 7. Rozwiń i kliknij "Dodaj plik".
 8. Wpisz "%appdata%" w pasku adresu URL menedżera plików i naciśnij Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
