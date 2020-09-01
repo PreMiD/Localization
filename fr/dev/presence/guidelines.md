@@ -1,7 +1,7 @@
 ---
 title: Lignes directrices
 description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
-published: vrai
+published: oui
 date: 2020-08-31T02:26:49.039Z
 tags:
 editor: markdown
