@@ -72,7 +72,7 @@ Jest to fałszywy alarm ze strony McAfee i zgłosiliśmy im ten problem, na razi
 7. Rozwiń i kliknij "Dodaj plik".
 8. Wpisz "%appdata%" w pasku adresu URL menedżera plików i naciśnij Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. Otwórz folder "PreMiD" i wybierz plik "PreMiD.exe" i kliknij przycisk Otwórz. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee powinno teraz ignorować nasz plik. Po prostu włącz naszą aplikację i wszystko powinno być gotowe.
+10. McAfee powinno teraz ignorować nasz plik. Po prostu uruchom aplikację i wszystko powinno być gotowe.
 
 ### To nie rozwiązało mojego problemu
 Otwórz zgłoszenie na kanale [#support](https://discord.premid.app/).
