@@ -255,10 +255,10 @@ En algunas situaciones, las presences pueden comportarse inesperadamente o podr�
 > 
 > {.is-warning}
 
-El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
+El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmaran que tu presence cumple los estándares y será colocada en la tienda.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -267,13 +267,13 @@ El proceso más importante de desarrollo de una presencia es publicar tu presenc
   <br />
 </div>
 
-## `Restrictions`
+## `Restricciones`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Ofensas repetitivas como romper las indicaciones, spamming de pull requests, amenazas o comportamiento inapropiado te impedirá el poder crear presences.
 
-In this scenerio, the following changes will occur:
+En este escenario, se producirán los siguientes cambios:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- Las presences bajo tu gestión serán transferidas al bot de PreMiD u otro usuario (Según decida el verificador). The application id for each presence will be recreated under the new owner's name.
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
 - Tickets created under your name regarding presence development will be deleted.
 
