@@ -11,10 +11,10 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
+### Czy używasz aplikacji Discord?
 PreMiD **nie** działa w przeglądarce Discord, musisz pobrać aplikację [tutaj](https://discord.com/download).
 
-### Are you using a presence with settings?
+### Czy używasz aktywności z ustawieniami?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 Aby rozwiązać ten problem, wystarczy przełączyć najwyższe ustawienie: ![presencesettings.gif](/presencesettings.gif)
