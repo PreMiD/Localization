@@ -12,7 +12,7 @@ editor: markdown
 > {.is-warning}
 
 # PreMiDについて
-- :mag: [PreMidってなに？](/about) PreMiDについて解説しているページです。
+- :mag: [PreMiDってなに？](/about) PreMiDについて解説しているページです。
 - :link: [RPCって？](https://discordapp.com/rich-presence) Rich Presence機能に関してです。
 
 # 使ってみる
