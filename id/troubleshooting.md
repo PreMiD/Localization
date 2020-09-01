@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Segalanya untuk menyelesaikan masalah anda
 published: true
-date: 2020-08-30T17:14:32.108Z
+date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Apakah kamu menggunakan aplikasi Discord?
+### Are you using the Discord app?
 PreMiD **tidak** bekerja pada discord versi browser, kamu harus mengunduh aplikasinya [disini](https://discord.com/download).
 
 ### Apakah kamu menggunakan Presence dengan pengaturan?
