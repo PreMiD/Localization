@@ -39,12 +39,20 @@
 		"message": "音楽を再生中",
 		"description": ""
 	},
+	"general.listeners": {
+		"message": "リスナー",
+		"description": ""
+	},
 	"general.live": {
 		"message": "ライブ",
 		"description": ""
 	},
 	"general.manga": {
 		"message": "マンガ",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "グッズ",
 		"description": ""
 	},
 	"general.page": {
@@ -169,6 +177,10 @@
 	},
 	"general.viewSeries": {
 		"message": "シリーズを閲覧中:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "閲覧中:",
 		"description": ""
 	},
 	"general.viewAccount": {
