@@ -17,7 +17,7 @@ PreMiDはブラウザ版のDiscordでは動作**しません。** [アプリ版�
 ### 追加設定がついているプレゼンスの場合
 多くのプレゼンス（`Twitch`や`SoundCloud`など。横に歯車のマークがついているもの）は、拡張機能の問題の影響を受ける場合があります。 問題が発生すると、拡張機能が設定の既定値を取得できない状態になります。
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+解消するためには、一番上の設定を切り替えてください。![presencesettings.gif](/presencesettings.gif)
 
 ### ページを再読み込みする
 <kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
@@ -55,22 +55,22 @@ Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`P
 ### Ubuntu/Debian基準の環境では
 Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 その場合、Snapcraft版Discordを `sudo snap remove discord` と実行してアンインストールし、[Discord Linux版](https://discordapp.com/api/download?platform=linux) (または[ Discord Canary Linux版](https://discordapp.com/api/canary/download?platform=linux)) をダウンロードした後、Discordをダウンロードした場所 (普通は`$HOME/Downloads`) に行き、 `sudo dpkg -i discord-*.deb` と実行してパッケージをインストールする必要がります。
 
-### McAfee detected PreMiD as virus (Windows)
+### McAfeeがPreMiDをウイルスとして検出する場合(windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> 実行するのに自信がない場合は、[#support](https://discord.gg/WvfVZ8T)でチケットを作ることも可能です。サポートがお手伝いします。 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+1. McAfeeを開き、右上の設定アイコンをクリックします。 <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. Click "Quarantined Items" (Second from the top).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
 6. Click "Real-Time Scanning" (Third from the top).
 7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+8. ファイルマネージャーのURLバーに "%appdata%" と入力し、Enterを押します。 <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. "PreMiD"フォルダーを開き、"PreMiD.exe"を選択して開きます。 <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
 ### 実行しても問題が解決しませんでしたか？
