@@ -1,8 +1,8 @@
 ---
 title: O PreMiD
-description: Postawowe funkcje PreMiD
+description: The core features of PreMiD
 published: tak
-date: 2020-09-01T21:52:40.351Z
+date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---
