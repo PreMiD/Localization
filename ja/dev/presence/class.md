@@ -92,7 +92,7 @@ console.log(version); // 2.1.0 と出力されます。
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+設定の値を返します。
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
