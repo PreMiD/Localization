@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
+### Discord uygulamasını mı kullanıyorsunuz?
 PreMiD, Discord'un tarayıcı sürümünde **çalışmaz**, [buradan](https://discord.com/download) uygulamayı indirmelisiniz.
 
 ### Bir servisi ayarlarla mı kullanıyorsunuz?
