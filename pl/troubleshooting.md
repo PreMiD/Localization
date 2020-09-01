@@ -15,7 +15,7 @@ editor: markdown
 PreMiD **nie** działa w przeglądarce Discord, musisz pobrać aplikację [tutaj](https://discord.com/download).
 
 ### Czy używasz aktywności z ustawieniami?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+Wiele aktywności (w tym `Twitch` i `SoundCloud`) jest dotkniętych przez problem rozszerzenia. This issue causes the extension to not grab the default values of settings properly.
 
 Aby rozwiązać ten problem, wystarczy przełączyć najwyższe ustawienie: ![presencesettings.gif](/presencesettings.gif)
 
