@@ -2,7 +2,7 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-08-30T17:14:32.108Z
+date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Discord uygulamasını mı kullanıyorsunuz?
+### Are you using the Discord app?
 PreMiD, Discord'un tarayıcı sürümünde **çalışmaz**, [buradan](https://discord.com/download) uygulamayı indirmelisiniz.
 
 ### Bir servisi ayarlarla mı kullanıyorsunuz?
