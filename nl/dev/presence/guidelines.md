@@ -123,7 +123,7 @@ Elke presence heeft een beschrijvingsbestand genaamd `metadata.json`, de metadat
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Alle afbeeldingen in het `metadata` bestand moeten worden gehost op `i.imgur.com`. Het gebruik van inhoud op de website zelf is **niet** toegestaan, omdat het ongewillig de paden en bestanden kan wijzigen. 
 > 
 > {.is-warning}
 
@@ -216,7 +216,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 - Bij het openen van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
 - Je mag alleen HTTP/HTTPS verzoeken naar `premid.app` of de website API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
 - Velden **niet** instellen in het presenceData object dat ongedefinieerd wordt nadat het is gedeclareerd, gebruik het `delete` sleutelwoord. (bijvoorbeeld, gebruik `delete data.startTimestamp` in plaats van `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- U bent **niet** toegestaan om presences te schrijven die de functionaliteiten van een bepaalde website wijzigen. This includes the addition, deletion, or modification of DOM elements.
 
 ## [**tsconfig.json**](https://docs.premid.app/nl/dev/presence/tsconfig)
 
