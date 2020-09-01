@@ -216,7 +216,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 - Al acceder a las cookies de los datos almacenados, por favor prefije la clave con `PMD_`.
 - Sólo puedes hacer solicitudes HTTP/HTTPS a `premid.app` o a la API de presences del sitio web. Si está utilizando dominios externos, tendrá que explicar por qué son necesarios.
 - **No** establezcas campos de la instancia presence como undefined una vez declarado, utiliza en su lugar la palabra clave `delete`. (por ejemplo, usa `delete data.startTimestamp` en vez de `data.startTimestamp = undefined`)
-- **No** tienes permitido escribir presences que puedan cambiar la funcionalidad de un sitio web. This includes the addition, deletion, or modification of DOM elements.
+- **No** tienes permitido escribir presences que puedan cambiar la funcionalidad de un sitio web. Esto incluye la adición, eliminación o modificación de los elementos DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -232,7 +232,7 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 
 En algunas situaciones, las presences pueden comportarse inesperadamente o podrían realizar cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que **debes** tener en cuenta al modificar presences.
 
-- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si el autor de la presence fue baneado del servidor oficial o no ha hecho los cambios requeridos en el periodo de un mes, puedes contactar con un verificador para ver si puedes reescribir la presence.
 - Cualquiera puede proporcionar parches rápidos (hotfixes) para corregir errores; sin embargo, intente **no** hacer cambios en el código que **no** necesitan ser corregidos. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Las modificaciones válidas puedes ser, pero **no** están limitadas a _rutas faltantes_, _errores tipográficos_, _imágenes faltantes_, etc.
 - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Póngase en contacto con un verificador para más información sobre este tema.   - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Contact a reviewer for more information about this subject.
 - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.    - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
