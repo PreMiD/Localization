@@ -1,8 +1,8 @@
 ---
 title: 關於 PreMiD
-description: PreMiD的核心功能
+description: The core features of PreMiD
 published: 是
-date: 2020-09-01T21:52:40.351Z
+date: 2020-09-01T22:07:41.029Z
 tags:
 editor: 標記
 ---

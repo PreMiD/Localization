@@ -1,8 +1,8 @@
 ---
 title: Over PreMiD
-description: De kernfuncties van PreMiD
+description: The core features of PreMiD
 published: true
-date: 2020-09-01T21:52:40.351Z
+date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---

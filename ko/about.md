@@ -1,8 +1,8 @@
 ---
 title: PreMid 더보기
-description: PreMiD의 중요 기능들.
+description: The core features of PreMiD
 published: true
-date: 2020-09-01T21:52:40.351Z
+date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---
