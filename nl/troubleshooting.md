@@ -2,7 +2,7 @@
 title: Probleemoplossen
 description: Alles om je probleem op te lossen
 published: true
-date: 2020-08-30T17:14:32.108Z
+date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
 ---

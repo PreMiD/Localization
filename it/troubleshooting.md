@@ -2,7 +2,7 @@
 title: Risoluzione problemi
 description: Tutto per risolvere il tuo problema
 published: vero
-date: 2020-08-30T17:14:32.108Z
+date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Stai usando l'app di Discord?
+### Are you using the Discord app?
 PreMiD **non** è disponibile sulla versione del browser di Discord, è necessario scaricare l'app [qui](https://discord.com/download).
 
 ### Stai usando una presenza con le impostazioni?

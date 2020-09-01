@@ -2,7 +2,7 @@
 title: Hibaelhárítás
 description: Minden ami megoldja a problémát
 published: true
-date: 2020-08-30T17:14:32.108Z
+date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
 ---
@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the using the Discord app?
+### Are you using the Discord app?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Are you using a presence with settings?
