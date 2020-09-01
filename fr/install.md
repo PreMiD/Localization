@@ -1,7 +1,7 @@
 ---
 title: Installation
 description: Comment installer PreMiD
-published: vrai
+published: oui
 date: 2020-02-12T22:05:12.168Z
 tags:
 ---

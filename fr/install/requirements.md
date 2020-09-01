@@ -1,7 +1,7 @@
 ---
 title: Exigences
 description: Prérequis pour installer PreMiD
-published: vrai
+published: oui
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---
