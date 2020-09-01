@@ -1,7 +1,7 @@
 ---
 title: Firefox
 description: Démarrage avec une installation PreMiD sur Firefox
-published: vrai
+published: oui
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
