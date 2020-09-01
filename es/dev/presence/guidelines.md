@@ -273,9 +273,9 @@ Ofensas repetitivas como romper las indicaciones, spamming de pull requests, ame
 
 En este escenario, se producirán los siguientes cambios:
 
-- Las presences bajo tu gestión serán transferidas al bot de PreMiD u otro usuario (Según decida el verificador). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Las presences bajo tu gestión serán transferidas al bot de PreMiD u otro usuario (Según decida el verificador). El ID de la aplicación para cada presence será recreado bajo el nombre del nuevo dueño.
+- Todos tus issues y pull requests (Creación, contribuición, etc. de presences) creados luego del ban serán cerrados.
+- Los tickets creados bajo tu nombre con respecto al desarrollo de presences serán eliminados.
 
 
 ## `Revisiones`
@@ -292,7 +292,7 @@ Algunas cosas que deberías saber después de abrir una solicitud de pull reques
 
 ![Verificaciones](https://i.imgur.com/bk0A1iY.png)
 
-Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. Todos estos controles ayudan a que los verificadores determinen si su presence es adecuada para su implementación.
 
 - `DeepScan` es un bot que comprueba la calidad del código. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
 - `Schema Validation` escaneará su archivo `metadata.json` en busca de cualquier error (por ejemplo, campos faltantes, tipos de valor no válidos, etc.). Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos. Añadir un campo de esquema a su archivo `metadata.json` permitirá a su editor de texto (si es compatible) mostrar estos errores durante el desarrollo.
