@@ -1,7 +1,7 @@
 ---
 title: Développement de la presence
 description:
-published: vrai
+published: oui
 date: 2020-08-29T21:39:03.946Z
 tags:
 editor: markdown

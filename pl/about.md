@@ -2,14 +2,14 @@
 title: O PreMiD
 description: Postawowe funkcje PreMiD
 published: tak
-date: 2020-02-12T22:05:04.843Z
+date: 2020-09-01T21:52:40.351Z
 tags:
+editor: markdown
 ---
 
-PreMiD jest prostym, konfigurowywalnym narzędziem umożliwiającym pokazywanie tego, co oglądasz/słuchasz na twoim profilu Discord. Wspiera wiele rożnorodnych platform oraz będzie wspierał wspólne oglądanie tego samego kontentu w następnej aktualizacji.
+PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. Wspiera wiele rożnorodnych platform oraz będzie wspierał wspólne oglądanie tego samego kontentu w następnej aktualizacji.
 
 # Dlaczego powinieneś pobrać PreMiD
-- Nie zapisujemy żadnych danych użytkownika, więc nie musisz się martwić o swoją prywatność.
 - Nasz cały projekt jest open-source! Chcemy współpracować z naszymi użytkownikami - nie przeciwko nim.
 - Wielka funkcja, zwana WatchParties, przybywa do PreMiD. Z funkcją zapraszaniem do gier i równoczesnym oglądaniem i słuchaniem. Wspierane przez [Discorda](https://discordapp.com/).
 

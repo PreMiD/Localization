@@ -1,7 +1,7 @@
 ---
 title: Accueil
 description: Document officiel pour la v2
-published: vrai
+published: oui
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
