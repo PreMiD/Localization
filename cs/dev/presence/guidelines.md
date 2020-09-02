@@ -157,13 +157,13 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 ### **`URL`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- Pokud webová stránka používá pouze jednu doménu, URL **musí** být řetězec. Pokud webová stránka využívá více domén, řetězec změňte na pole a vypište každou doménu.
+- **Nezahrnujte** protokoly do URL (například `http` nebo `https`) a do URL nezahrnujte parametry dotazu (například, `www.google.com/search?gws_rd=ssl` by mělo být `www.google.com`)
 
 ### **`verze`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- Vždy se ujistěte že číslo verze je dle [sémantického standartu verzování](https://semver.org), které se řídí následujícím schématem: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Cokoli jiného jako `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA`nebo změna `1.0.0` na `2.0.0` při opravě malé chyby/malé změny **není** povoleno.
+- Verzování **musí** vždy začínat s verzí `1.0.0`, dokud nebylo řečeno jinak. Jiné verzování **nebude** povoleno.
 
 ### **`logo`**
 
