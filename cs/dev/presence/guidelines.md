@@ -210,11 +210,11 @@ Zde je seznam pravidel, která musíte při psaní Vašeho souboru `presence.ts`
 
 - Pro předejitím vzácným chybám **vždy** před deklarováním jiných proměnných deklarujte novou instanci `Presence` třídy. Toto není vyžadováno designem, takže to v budoucnu můžete odstranit.
 - **Nikdy** nepoužívejte vlastní funkce, pokud [jsou dostupné jejich nativní varianty](https://docs.premid.app/dev/presence#files-explained). Tímto se ujišťuje, že změny v rozšíření se budou aplikovat i na Vaší presenci. Můžete používat cokoli jiného potřebujete, dokud to nenajdete v dokumentaci.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- Je **zakázáno** programovat presenci pro stránku a nepřidat podporu pro její primární jazyk (například, programovat YouTube presenci s podporou Portugalštiny a Japonštiny ale ne Angličtiny samotné).
+- Pole `smallImageKey` a `smallImageText` jsou zamýšlena pro poskytování dodatečného/sekundárního obsahu (jako je `přehrávání/pauza` pro webové stránky, `prohlížení` pro normální stránky a ostatní), ne pro reklamování Discord profilů nebo cokoli jiného, co nesouvicí s PreMiD.
+- **Nemáte** povoleno přistupovat k `localStorage`.
+- Při přistupování k souborům cookie pro uložená data prosím přidejte ke klíči předponu `PMD_`.
+- Pro `premid.app` nebo pro API webu presence můžete využívat pouze HTTP/HTTPS požadavky. Při používání externích domén budete muset vysvětlit proč.
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 - You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
