@@ -243,7 +243,7 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 > 
 > {.is-info}
 
-> Veuillez garder à l'esprit que les vérificateurs travaillent volontairement et gèrent d'autres repositories en plus de celui-ci, votre pull request peut ne pas être révisée avant des heures ou même des jours après sa création. 
+> Veuillez garder à l'esprit que les évaluateurs travaillent volontairement et gèrent d'autres repositories en plus de celui-ci, votre pull request peut ne pas être révisée avant des heures ou même des jours après sa création. 
 > 
 > {.is-warning}
 
@@ -255,7 +255,7 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 > 
 > {.is-warning}
 
-Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos vérificateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
+Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos évaluateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Évaluateurs</h2>
@@ -269,13 +269,13 @@ Le processus le plus important de développement de la Presence est d'avoir votr
 
 ## `Restrictions`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Les infractions répétitives telles que le non-respect des directives, le spam de pull requests, les menaces ou les comportements inappropriés vous feront interdire de créer des presences.
 
-In this scenerio, the following changes will occur:
+Dans ce scénario, les changements suivants se produiront :
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Les presences sous votre direction seront transférées au bot PreMiD ou à un autre utilisateur (décision de l'évaluateur). L'identifiant de l'application pour chaque presence sera recréé sous le nom du nouveau propriétaire.
+- Tout vos problèmes et pull requests (création de presence, contribution de presence, etc.) créées après le bannissement seront rapidement fermées.
+- Les tickets créés sous votre nom concernant le développement de la presence seront supprimés.
 
 
 ## `En examen`
@@ -292,7 +292,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
 ![Vérifications](https://i.imgur.com/bk0A1iY.png)
 
-Actuellement, une Presence passe par deux étapes distinctes de vérification. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est adaptée au déploiement.
 
 - `DeepScan` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
 - `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toutes erreurs (par exemple, champs manquants, types de valeurs invalides, etc.). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. L'ajout d'un champ de schéma à `metadata.json` permettra à votre éditeur de texte (si pris en charge) de vous montrer ces erreurs pendant le développement.

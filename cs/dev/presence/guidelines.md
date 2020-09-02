@@ -181,28 +181,28 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 ### **`štítky`**
 
-- **All** presences are required to have at least _one_ tag.
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-- Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- **Všechny** presence musí mít alespoň _jeden_ tag.
+- Tagy **nesmí** obsahovat žádné mezery, lomítka, uvozovky, Unicode znaky a měli by vždy být napsány s malými písmeny.
+- Tagy by **měli** obsahovat alternativní jména služby, aby bylo presence snazší dohledat (Například, pokud presence Amazonu má podporu AWS, měla by mít tagy jako `amazon-web-services` a `aws`).
+- ProMáte **povinnost** zahrnout `NSFW` tag, pokud presence je pro NSFW stránku.
 
 ### **`Kategorie`**
 
-- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- Kategorie **musí** být jedna ze seznamu v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- Presence musí používat kategorii, která se shoduje s obsahem webové stránky (Například, nepoužívejte `anime` pokud stránka nemá s anime nic společného).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Regulární výrazy **musí** být platné. Prosím, otestuje Vaše výrazy s nástroji, které jsou sepsané v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`nastavení`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Pokud se rozhodnete vytvořit formátovaný řetězec (například `%song% od %artist%`), musíte proměnné obalit s značkou procenta na obou stranách. Proměnné jako `%var`, `var%` nebo `%%var%%` a podobné **nejsou** povoleny z důvodu standardizace.
+- Jména nastavení **nesmí** být napsána velkými písmeny. Například, jména jako `SHOW BROWSING STATUS` **nejsou** povolena, ale jména jako `Show Browsing Status` nebo `Show browsing status` povolena jsou.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> Kód, který napíšete, **musí** být _přehledný_, _čitelný_ a všechny řetězce musí být gramaticky správně (gramatické chyby na webových stránkách mohou být ignorovány). 
 > 
 > {.is-warning}
 
