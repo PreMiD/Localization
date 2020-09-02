@@ -224,7 +224,7 @@ Zde je seznam pravidel, která musíte při psaní Vašeho souboru `presence.ts`
 > 
 > {.is-warning}
 
-# Modification
+# Úpravy
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
