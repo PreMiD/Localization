@@ -11,8 +11,8 @@ PreMiD est un utilitaire simple et configurable qui vous permet de montrer ce qu
 
 # Pourquoi télécharger PreMiD
 - Notre projet est entièrement open-source ! Nous voulons travailler avec nos utilisateurs - pas contre eux.
-- Une énorme et nouvelle fonctionnalité, appelée WatchParties, arrive sur PreMiD. Avec des invitations à jouer et le visionnage ainsi que l'écoute simultanées. Propulsé par [Discord](https://discordapp.com/).
+- Une nouvelle fonctionnalité appelée WatchParties arrivera bientôt sur PreMiD. Avec des invitations à jouer et le visionnage ainsi que l'écoute simultanées. Propulsé par [Discord](https://discordapp.com/).
 
 # Caractéristiques principales
 - Affiche votre site web actuel dans Discord en tant que statut.
-- Accorde un contrôle total de Presences.
+- Accorde un contrôle total des Presences.
