@@ -215,12 +215,12 @@ Zde je seznam pravidel, která musíte při psaní Vašeho souboru `presence.ts`
 - **Nemáte** povoleno přistupovat k `localStorage`.
 - Při přistupování k souborům cookie pro uložená data prosím přidejte ke klíči předponu `PMD_`.
 - Pro `premid.app` nebo pro API webu presence můžete využívat pouze HTTP/HTTPS požadavky. Při používání externích domén budete muset vysvětlit proč.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- Po deklaraci data objectu presence **nenastavujte** pole v data objectu presence na undefined, namísto toho použijte klíčové slovo `delete` (například, namísto použití `data.startTimestamp = undefined` použijte `delete data.startTimestamp`).
+- Je **zakázáno** programování presence, která mění funkčnost dané webové stránky. Toto se vztahuje na přidání, smazání nebo modifikování DOM prvků.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> **Nesepisujte** vlastní `tsconfig.json` soubor. Použijte to, co bylo poskytnuto v [dokumentaci](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
