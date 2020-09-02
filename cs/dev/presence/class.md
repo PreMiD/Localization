@@ -193,20 +193,20 @@ var presenceData: presenceData = {
 
 ## Události
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Události Vám umožňují detekovat a řešit některé uskutečněné změny či volání. Události můžete odebírat pomocí metody `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Něco vykoná při změně dat.
 });
 ```
 
-There are few events available:
+Je k dispozici několik událostí:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Tato událost je provedena vždy při aktualizaci presence.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Provedena při obdržení dat z iFrame skriptu.
