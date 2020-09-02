@@ -167,17 +167,17 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Logo **musí** být čtvercový obrázek s poměrem stran `1:1`.
+- Obrázek **musí** mít minimální rozlišení `512x512` pixelů. Obrázek může zvětšit pomocí nástroje jako je [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`náhled`**
 
-- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
+- Thumbnail by **měl** být jako [široká promo karta](https://i.imgur.com/3QfIc5v.jpg) nebo [snímek obrazovky](https://i.imgur.com/OAcBmwW.png), pokud to první **není** dostupné.
 
 ### **`barva`**
 
-- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
-- The color string **must** be prepended with a hash symbol.
+- Barva **musí** být hexadecimální hodnota mezi `#000000` a `#FFFFFF`.
+- Řetezec s barvou **musí** být předsazen hash symbolem.
 
 ### **`štítky`**
 
