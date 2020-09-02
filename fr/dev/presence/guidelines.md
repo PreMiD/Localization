@@ -123,7 +123,7 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 > 
 > {.is-warning}
 
-> Toutes les images dans le fichier `metadata` doivent être hébergées sur `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Toutes les images dans le fichier `metadata` doivent être hébergées sur `i.imgur.com`. Utiliser le contenu hébergé sur le site web lui-même n'est **pas**autorisé car il peut changer les emplacements et les fichiers de façon non désirée. 
 > 
 > {.is-warning}
 
@@ -216,7 +216,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
 - Vous ne pouvez faire que des requêtes HTTP/HTTPS sur `premid.app` ou à l'API du site web de Presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
 - **Ne** définissez **pas** des champs des données de l'objet presence par undefined, utilisez plutôt le mot-clé `delete`. (par ex., utilisez `delete data.startTimestamp` au lieu de `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- Vous n'êtes **pas** autorisé à écrire des presences qui modifient la fonctionnalité d'un site Web donné. Cela inclut l'ajout, la suppression ou la modification des éléments DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -232,7 +232,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 
 Dans certaines situations, les presences peuvent se comporter de manière inattendue ou peuvent utiliser quelques modifications mineures pour améliorer leurs fonctionnalités. Voici une liste compilée que vous **devez** suivre pour modifier des presences.
 
-- Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période d'un mois, vous pouvez contacter un vérificateur pour voir si vous pouvez réécrire la presence de votre choix.
 - N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **pas** d'apporter des modifications au code n'ayant **pas** besoin d'être corrigé. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Les modifications valides le sont, mais ne doivent **pas** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
 - Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.   - Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contact a reviewer for more information about this subject.
 - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.    - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
