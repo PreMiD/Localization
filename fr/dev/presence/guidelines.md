@@ -123,7 +123,7 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Toutes les images dans le fichier `metadata` doivent être hébergées sur `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
