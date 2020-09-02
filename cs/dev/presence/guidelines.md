@@ -148,12 +148,12 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- Toto používejte **pouze** v případě, pokud stránka využívá více oficiálních jmen (například Pokémon a 포켓몬스터), nebo pokud to umožňuje snazší vyhledání presence bez speciálních znaků (například Pokémon a Pokemon). *Zkrácená* jména služby patří pod `tags`.
 
 ### **`popis`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **Všechny** presence **musí** mít anglický popis, nehledě na jazyk webové stránky.
+- **Nesnažte** se popisek překládat sami, dokud daný jazyk neovládáte. Pokud to bude nutné, překladatelé upraví Váš `metadata.json` soubor a změní popisek sami.
 
 ### **`URL`**
 
