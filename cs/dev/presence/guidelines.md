@@ -206,10 +206,10 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 > 
 > {.is-warning}
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Zde je seznam pravidel, která musíte při psaní Vašeho souboru `presence.ts` dodržet:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- Pro předejitím vzácným chybám **vždy** před deklarováním jiných proměnných deklarujte novou instanci `Presence` třídy. Toto není vyžadováno designem, takže to v budoucnu můžete odstranit.
+- **Nikdy** nepoužívejte vlastní funkce, pokud [jsou dostupné jejich nativní varianty](https://docs.premid.app/dev/presence#files-explained). Tímto se ujišťuje, že změny v rozšíření se budou aplikovat i na Vaší presenci. Můžete používat cokoli jiného potřebujete, dokud to nenajdete v dokumentaci.
 - It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
