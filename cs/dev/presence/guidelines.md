@@ -21,7 +21,7 @@ Základní pravidla vyvíjení presence jsou následující:
 - Musíte mít řádnou strukturu souboru, koncepty **nejsou** povoleny.
 - Presence pro webové stránky s TLD `.onion` nebo stránky s doménou/hostingem zdarma (například `.TK` (Všechny Freenom domény), `.RF`, `.GD`) **není povolena**, ale mohou být uděleny výjimky, pokud bude poskytnut důkaz že za doménu bylo zaplaceno.
 - Presence, které cílí na interní stránky prohlížeče (jako je internetový obchod Chrome, stránky `chrome://`, stránky `about:` a podobně...) **nejsou** povoleny, jelikož po uživatelovi vyžadují aktivování zkušebních funkcí a mohli by potencionálně způsobit škodu na jejich prohlížečích.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
+- Presence podporující jedinou subdoménu **nebudou** povoleny, jelikož se na ostatních stránkách (například na domovské stránce) mohou zdát rozbité. Mohou být uděleny výjimky pro stránky s kontakty nebo se zásadami o ochraně osobních údajů (obsah, který není často využíván), či pro stránky, jejž obsah je nepodstatný (například wikia stránky).
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
