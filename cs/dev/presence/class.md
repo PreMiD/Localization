@@ -53,11 +53,11 @@ Vymaže vaši aktuální aktivitu, klávesové zkratky a název lišty.
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Nastaví název v nástrojovém panelu.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Asynchroní metoda, která Vám umožňí získávat z Vašeho rozšíření přeložené řetězce. `Objektu` musíte poskytnout klíč řetězce. `keyValue` je hodnota řetězce. Sbírku přeložených řetězců můžete získat použitím tohoto endpointu: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
@@ -77,7 +77,7 @@ Vrátí údaj ze stránky, pokud ten údaj existuje.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Toto zaznamená "Obsah proměnné"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Vrátí hodnotu nastavení.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -112,9 +112,9 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 ## `přítomnostiData` Rozhraní
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Rozhraní `presenceData` se doporučuje využívat při použití metody `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Rohraní má následující proměnné, žádná z nich není povinná.
 
 <table>
   <thead>
