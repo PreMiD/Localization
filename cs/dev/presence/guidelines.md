@@ -135,16 +135,16 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 ### **`autor`**
 
-- _Hodnota_ ID **musí** být Vaše Discord snowflake ID. Můžete ho získat aktivováním [developer módu](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- _Hodnota_ ID **musí** být Vaše Discord snowflake ID. Můžete ho získat aktivováním [developer módu](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Prosím, **nepleťte** si toto s ID Vaší aplikace, které je pouze pro Vaší presenci._
 
 ### **`přispěvatelé`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **Nepřidávejte** sebe jako contributora. **Nepřidávejte** jako contributora někoho, kdo s vývojem presence nepomáhal.
 
 ### **`služba`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Jméno služby **musí** být jménem složky presence. Například, pokud je presence umístěna ve složce `/websites/Y/YouTube/`, jméno služby musí také být `YouTube`.
+- URL **nemůžete** použít jako název služby, dokud služba nevyužívá její URL jakož oficiální název. Pokud jméno není dostatečně deskriptivní a může být považováno jako vágní, je **zapotřebí** použít URL (například, `YouTube` je povoleno, protože je to oficiální jméno a je deskriptivní, zatímco `youtube.com` není. `Top` není deskriptivní jméno, takže je **nutné** použít URL `top.gg`
 
 ### **`altnames`**
 
