@@ -1,6 +1,6 @@
 ---
 title: Pokyny
-description: Rules all presence developers must follow to have their presence added.
+description: Pravidla, která musí všichni vývojáři dodržovat, aby byla jejich presence přidána.
 published: true
 date: 2020-08-31T02:26:49.039Z
 tags:
@@ -9,18 +9,18 @@ editor: markdown
 
 # Pokyny
 
-Při publikování Presence na tento GitHub, požadujeme, abyste dodržovali tyto pokyny. Některým se tato přísná pravidla mohou zdát tvrdá. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Při publikování Presence na tento GitHub, požadujeme, abyste dodržovali tyto pokyny. Některým se tato přísná pravidla mohou zdát tvrdá. avšak zavedení těchto pravidel nám umožňuje zamezit uživatelům, aby narazili na jakékoli problémy.
 
 # Vytváření
 
-The general rules of presence development are as follows:
+Základní pravidla vyvíjení presence jsou následující:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
+- Presence se **musí** vztahovat k vybranému webu.
+- Presence **nesmí** být vytvářena pro nelegální weby (například stresory, obchod s drogami, dětská pornografie a podobně...).
+- Struktura souboru musí být čistá a udržována. Nepřikládejte soubory, které nejsou specifikovány (například vscode a git složky, obrázky, textové soubory a podobně).
+- Musíte mít řádnou strukturu souboru, koncepty **nejsou** povoleny.
+- Presence pro webové stránky s TLD `.onion` nebo stránky s doménou/hostingem zdarma (například `.TK` (Všechny Freenom domény), `.RF`, `.GD`) **není povolena**, ale mohou být uděleny výjimky, pokud bude poskytnut důkaz že za doménu bylo zaplaceno.
+- Presence, které cílí na interní stránky prohlížeče (jako je internetový obchod Chrome, stránky `chrome://`, stránky `about:` a podobně...) **nejsou** povoleny, jelikož po uživatelovi vyžadují aktivování zkušebních funkcí a mohli by potencionálně způsobit škodu na jejich prohlížečích.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
