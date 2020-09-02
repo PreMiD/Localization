@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
+### Stai usando l'app di Discord?
 PreMiD **non** è disponibile sulla versione del browser di Discord, è necessario scaricare l'app [qui](https://discord.com/download).
 
 ### Stai usando una presenza con le impostazioni?
