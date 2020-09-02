@@ -22,8 +22,8 @@ Základní pravidla vyvíjení presence jsou následující:
 - Presence pro webové stránky s TLD `.onion` nebo stránky s doménou/hostingem zdarma (například `.TK` (Všechny Freenom domény), `.RF`, `.GD`) **není povolena**, ale mohou být uděleny výjimky, pokud bude poskytnut důkaz že za doménu bylo zaplaceno.
 - Presence, které cílí na interní stránky prohlížeče (jako je internetový obchod Chrome, stránky `chrome://`, stránky `about:` a podobně...) **nejsou** povoleny, jelikož po uživatelovi vyžadují aktivování zkušebních funkcí a mohli by potencionálně způsobit škodu na jejich prohlížečích.
 - Presence podporující jedinou subdoménu **nebudou** povoleny, jelikož se na ostatních stránkách (například na domovské stránce) mohou zdát rozbité. Mohou být uděleny výjimky pro stránky s kontakty nebo se zásadami o ochraně osobních údajů (obsah, který není často využíván), či pro stránky, jejž obsah je nepodstatný (například wikia stránky).
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Presence nízké kvality (nebo ty s nedostatečným obsahem) **nejsou** povoleny (například zobrazení loga a textu bez další změny).
+- Zahrnutí složky `dist` a souborů `presence.ts`, `iframe.ts` a `metadata.json` je povinné a rozvržení souborů musí odpovídat následujícímu schématu:
 
 ```bash
 presence
@@ -34,7 +34,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+nebo pokud používáte soubor `iframe.ts`:
 
 ```bash
 presence
@@ -49,7 +49,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process. 
+> Pro pohodlí našich vývojářů presencí jsme poskytli schéma, které mohou použít pro kontrolu integrity souboru `metadata`. Tento krok je zcela dobrovolný a není vyžadován během procesu kontroly. 
 > 
 > {.is-info}
 
