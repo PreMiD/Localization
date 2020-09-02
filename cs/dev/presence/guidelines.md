@@ -53,15 +53,15 @@ presence
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> Je důrazně doporučeno zorganizovat Váš `metadata` soubor dle níže zobrazeného vzoru. Pole s jménem služby, popisky, tagy a pole s nastavením musí být bez gramatických chyb. Cokoliv co nebude zorganizováno dle specifikací **nebude** povoleno. 
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Presence webových stránek s explicitním obsahem **musí** mít tag `nsfw` a logo/thumbnail **nesmí** zobrazovat obsah těchto stránek. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Každá presence má soubor `metadata.json` s popiskami. Tyto metadata mají striktní formát, který nalznete níže:
 
 ```json
 {
@@ -119,15 +119,15 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Pokud je pole v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata) označeno jako nepovinné a Vaše presence pro něj využívá výchozí hodnotu, nezahrnujte ho do souboru `metadata` (například presence s podporou iframe nepotřebuje pole `iframe`). 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Všechny obrázky v souboru `metadata` musí být nahrány na hostingu `i.imgur.com`. Využívání obsahu z webových stránek **není** povoleno, jelikož tyto stránky mohou měnit cesty k těmto souborům a soubory samotné. 
 > 
 > {.is-warning}
 
-A list of fields and their rules are listed below:
+Seznam polí a jejich pravidla jsou uvedena níže:
 
 ### **`$schema`**
 
