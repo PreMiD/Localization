@@ -267,13 +267,13 @@ Proses yang penting dalam pengembangan presence adalah memasang presencemu di to
   <br />
 </div>
 
-## `Restrictions`
+## `Larangan`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Pelanggaran berulang seperti melanggar aturan, spam pull request, pengancaman, atau perilaku tidak pantas akan membuat anda dilarang membuat presence.
 
-In this scenerio, the following changes will occur:
+Pada kejadian seperti ini, perubahan berikut akan terjadi:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- Presence yang anda urus akan dipindahkan pada bot PreMiD atau pengguna lainnya (keputusan reviewer). The application id for each presence will be recreated under the new owner's name.
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
 - Tickets created under your name regarding presence development will be deleted.
 
