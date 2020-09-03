@@ -60,8 +60,8 @@ Nastaví název v nástrojovém panelu.
 Asynchroní metoda, která Vám umožňí získávat z Vašeho rozšíření přeložené řetězce. `Objektu` musíte poskytnout klíč řetězce. `keyValue` je hodnota řetězce. Sbírku přeložených řetězců můžete získat použitím tohoto endpointu: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+//Z rozšíření vrací řetězce
+// 'Playing' a 'Paused'
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -73,7 +73,7 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Vrátí údaj ze stránky, pokud ten údaj existuje.
+Vrátí údaj ze stránky, pokud existuje.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
@@ -81,7 +81,7 @@ console.log(pageVar); // Toto zaznamená "Obsah proměnné"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Vrátí verzi rozšíření, kterou aktuálně uživatel má.
+Vrátí aktuálně používanou verzi rozšíření.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): řetězec | number;
 
@@ -110,7 +110,7 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## `přítomnostiData` Rozhraní
+## Rozhraní `presenceData`
 
 Rozhraní `presenceData` se doporučuje využívat při použití metody `setActivity()`.
 
@@ -127,13 +127,13 @@ Rohraní má následující proměnné, žádná z nich není povinná.
   <tbody>
     <tr>
       <td style="text-align:left">Podrobnosti</td>
-      <td style="text-align:left">První řádek v přítomnosti, obvykle používaný jako záhlaví.</td>
+      <td style="text-align:left">První řádek v presence, obvykle používaný jako záhlaví.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">stav</td>
-      <td style="text-align:left">Druhá linie v přítomnosti.</td>
+      <td style="text-align:left">Druhý řádek v presence.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
@@ -141,25 +141,25 @@ Rohraní má následující proměnné, žádná z nich není povinná.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Definuje aktuální čas.<br>
         Používá se, pokud chcete zobrazit, kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>Musíte převést svůj čas na <code>časové razítko</code> nebo dostanete špatný
-          odpočítávání.
+          <br>Aby odpočítávání fungovalo správně, musí být čas nejprve
+          převeden na <code>timestamp</code>.
       </td>
       <td style="text-align:left"><code>Číslo</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Definuje celou dobu trvání.
+      <td style="text-align:left">Definuje dobu trvání.
         <br>Používá se, pokud chcete zobrazit kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>Musíte převést svůj čas na <code>časové razítko</code> nebo dostanete špatný
-          odpočítávání.
+          <br>Aby odpočítávání fungovalo správně, musí být čas nejprve
+          převeden na <code>timestamp</code>.
       </td>
       <td style="text-align:left"><code>Číslo</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Definuje logo pro přítomnost.</td>
+      <td style="text-align:left">Definuje logo pro presenci.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
@@ -193,7 +193,7 @@ var presenceData: presenceData = {
 
 ## Události
 
-Události Vám umožňují detekovat a řešit některé uskutečněné změny či volání. Události můžete odebírat pomocí metody `on`.
+Události Vám umožňují detekovat a reagovat na některé uskutečněné změny či volání. Události můžete zaznamenat pomocí metody `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
