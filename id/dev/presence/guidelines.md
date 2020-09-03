@@ -273,9 +273,9 @@ Pelanggaran berulang seperti melanggar aturan, spam pull request, pengancaman, a
 
 Pada kejadian seperti ini, perubahan berikut akan terjadi:
 
-- Presence yang anda urus akan dipindahkan pada bot PreMiD atau pengguna lainnya (keputusan reviewer). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Presence yang anda urus akan dipindahkan pada bot PreMiD atau pengguna lainnya (keputusan reviewer). Id aplikasi dari setiap presence akan dibuat ulang menggunakan nama pemilik baru.
+- Semua issue dan pull request (pembuatan presence, kontribusi presence, dll) yang dibuat setelah pelanggaran akan segera ditutup.
+- Tiket yang dibuat dibawah nama anda mengenai pengembangan presence akan dihapus.
 
 
 ## `Memeriksa`
@@ -292,7 +292,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 
 ![Pemeriksaan](https://i.imgur.com/bk0A1iY.png)
 
-Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu reviewer untuk menentukan apakah presencemu cocok untuk perilisan.
 
 - `DeepScan` adalah bot yang memeriksa kualitas kode. Jika anda menemui eror pada issue baru, anda **diharuskan** untuk memperbaikinya.
 - `Schema Validation` akan mengscan file `metadata.json` mencari eror ( misal, missing fields, invalid value types, dll.). Jika anda menemukan isu baru anda juga **diharuskan** memperbaikinya. Menambahkan bidang schema ke file `metadata.json` akan memungkinkan editor teks anda ( jika didukung) untuk menunjukkan eror pada pengembangan.
