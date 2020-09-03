@@ -233,13 +233,13 @@ Berikut daftar aturan yang harus diikuti saat menulis sebuah file `presence.ts`:
 Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhkan sedikit perubahan untuk meningkatkan kegunaannya. Berikut daftar aturan yang **harus** diikuti ketika merubah presence.
 
 - Anda **tidak** diperbolehkan untuk menulis ulang sebuah presence atau merubah penciptanya. Jika pencipta presence terkena ban dari server resmi atau belum membuat perubahan yang dibutuhkan dalam waktu satu bulan, anda dapat menghubungi reviewer untuk meminta menulis ulang presence tersebut.
-- Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, usahakan **tidak** merubah kode yang **tidak** memerlukan perbaikan. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Modifikasi valid adalah, dan **tidak** terbatas pada _missing paths_, _typo_, _missing images_, dll.
-- Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.   - Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Contact a reviewer for more information about this subject.
+- Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, usahakan **tidak** merubah kode yang **tidak** memerlukan perbaikan. Perubahan yang diizinkan mencakup tapi **tidak** terbatas pada, _missing path_, _typo_, _gambar hilang_, dll.   - Siapapun boleh memberikan perbaikan untuk memperbaiki bug; tetapi, usahakan **tidak** membuat perubahan untuk kode yang **tidak** membutuhkan perbaikan. Modifikasi valid adalah, dan **tidak** terbatas pada _missing paths_, _typo_, _missing images_, dll.
+- Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.   - Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi reviewer untuk informasi lebih lanjut tentang hal ini.
 - Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.    - Pastikan perubahan memiliki fungsi. Ini meliputi perbaikan (kode dan typo), penambahan (deskripsi dan tag), dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.
 
 # Verifikasi
 
-> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. All reviewers will have the `Reviewer` role on their profile. 
+> Jika anda ingin menghubungi seseorang, gunakan server Discord official kami. Semua reviewer akan memilki role `Reviewer` di profilnya. 
 > 
 > {.is-info}
 
