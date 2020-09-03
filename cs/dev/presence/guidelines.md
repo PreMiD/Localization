@@ -9,7 +9,7 @@ editor: markdown
 
 # Pokyny
 
-Při publikování Presence na tento GitHub, požadujeme, abyste dodržovali tyto pokyny. Některým se tato přísná pravidla mohou zdát tvrdá. avšak zavedení těchto pravidel nám umožňuje zamezit uživatelům, aby narazili na jakékoli problémy.
+Při publikování Presence na tento GitHub požadujeme, aby jste dodržovali tyto pokyny. Některým se tato přísná pravidla mohou zdát přísná, avšak zavedení těchto pravidel nám umožňuje zamezit uživatelům, aby narazili na jakékoli problémy.
 
 # Vytváření
 
