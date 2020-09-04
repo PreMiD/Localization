@@ -27,37 +27,55 @@ There are two properties available for `Presence` class.
 
 `clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+תוכל לקבל אותו בדף היישומים שלך
 
-## Methods
+.</p> 
+
+
+
+## שיטות
+
+
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+מחזיר אובייקט ` presenceData ` של מה שהתוסף מציג.
+
+
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+מגדיר את פעילות הפרופיל שלך על פי הנתונים שסופקו.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+הפרמטר הראשון דורש ממשק `presenceData` כדי לקבל את כל המידע שאתה רוצה להציג בפרופיל שלך.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+פרמטר שני מגדיר מתי התוסף משחק משהו או לא. השתמש תמיד ב- ` true ` אם אתה מספק חותמות זמן ב- `presenceData`.
+
+
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+מנקה את הפעילות הנוכחית שלך, את מקשי המקשים ואת כותרת המגש.
+
+
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+
+
+> שיטה זו פועלת רק ב- Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+מגדיר את כותרת המגש בסרגל התפריטים.
+
+
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+שיטה אסינכרונית המאפשרת לך להשיג מחרוזות מתורגמות מהסיומת. עליך לספק `Object` כאשר המפתחות הם המפתח למחרוזת, ` keyValue ` הוא ערך המחרוזת. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+
+
 
 ```typescript
 // Returns `Playing` and `Paused` strings
@@ -71,17 +89,28 @@ const playString = strings.play // result: Playing back
 const pauseString = strings.pause // result: Playback paused
 ```
 
+
+
+
 ### `getPageletiable(String)`
 
 Returns a variable from the website if it exists.
+
+
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
 console.log(pageVar); // This will log the "Variable content"
 ```
 
+
+
+
 ### `getExtensionVersion(Boolean)`
+
 Returns version of the extension the user is using.
+
+
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -91,24 +120,45 @@ var version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
+
+
+
 ### `getSetting(String)`
+
 Returns value of setting.
+
+
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
+
+
+
 ### `hideSetting(String)`
+
 Hides given setting.
+
+
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
+
+
+
 ### `showSetting(String)`
+
 Shows given setting (Only works if the setting was already hidden).
+
+
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
+
+
+
 
 ## `presenceData` Interface
 
@@ -191,9 +241,14 @@ var presenceData: presenceData = {
 };
 ```
 
+
+
+
 ## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+
+
 
 ```typescript
 presence.on("UpdateData", async () => {
@@ -201,11 +256,16 @@ presence.on("UpdateData", async () => {
 });
 ```
 
+
 There are few events available:
+
+
 
 #### `UpdateData`
 
 This event is fired every time the presence is being updated.
+
+
 
 #### `iFrameData`
 
