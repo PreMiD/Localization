@@ -91,12 +91,76 @@
     "message": "אזהרה",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
+  "downloads.warning.message.edge": {
+    "message": "אל תשכח להפעיל את האפשרות 'אפשר הרחבות מחנויות אחרות' מהגדרות התוספים.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "עליך להתקין **זאת** כדי להתקין את PreMiD מחנות האינטרנט של Chrome.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "דלג",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "חזור",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "אישור",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.done": {
     "message": "בוצע",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "התחברות",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "תודה רבה!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "אנו משתמשים במודעות כדי לתמוך בצוות שלנו ולתחזק את השרתים שלנו כדי להציע לך את חווית המשתמש הטובה ביותר!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "אנא השבת את חסימת המודעות שלך.",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "אני לא רוצה לתמוך.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "האם הינך בטוח?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "באמת?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "ב-בבקשה תמוך :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "אני צריך אותך :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "בסדר, בסדר...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "הצג הורדות בטא",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(לא נחוץ אם אתה כאן רק כדי להוריד את היישום הרגיל)",
+    "description": "Small text under the show beta title."
   }
 }
