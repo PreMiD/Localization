@@ -12,14 +12,14 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+## גרסאות API
+> גרסת API v1 הופסקה, כל הצעה תעבור דרך הגרסה הפעילה הנוכחית 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD חושף גרסאות שונות של ה-API שלנו. תוכל לציין גרסה על ידי הכללתה בנתיב הבקשה כמו `https://api.premid.app/v{version_number}`. השמטת מספר הגרסה מהמסלול תנתב בקשות לגרסת ברירת המחדל הנוכחית (מסומנת בהמשך בהתאם).
 
-## Encryption
+## הצפנה
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
