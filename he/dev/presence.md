@@ -26,22 +26,22 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## התקנה
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. התקן [TypeScript](https://www.typescriptlang.org/index.html#download-links) (פתח מהסוף ו- `npm install -g typescript`).
 
 ## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Presences `.
 2. Choose a folder of your choice.
-3. Open it in you code editor.
+3. פתח אותו בעורך הקוד שלך.
 
-## Creating folders and files
+## יצירת תיקיות וקבצים
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. צור תיקייה עם השם ** </ strong> (לא כתובת אתר) של השירות שאתה רוצה לתמוך בו.</li>
+2 צור `presence.ts` וגם `tsconfig.json` קובץ בפנים.
+3 צור תיקיה הנקראת `dist` בפנים.
+4 צור `metadata.json` קובץ בתוך `dist` תיקיה.</ol>
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## מילוי הקובץ tsconfig.json
+אנא הכנס את הקוד הבא לקובץ ` tsconfig.json `.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -50,10 +50,10 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+למידע נוסף על תצורת TypeScript לחץ [ כאן ](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## מילוי הקובץ metadata.json
+יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.codes/projects/premid/mdcreator). עדיין מומלץ לקרוא זאת כדי שתדעו איך זה עובד.
 
 ```json
 {
@@ -109,14 +109,14 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+אנא העתק את הקוד מעל והכנס אותו לקובץ ` metadata.json ` שלך. כעת עליך לערוך את ערכי המאפיינים. לידיעתך, המאפיינים הבאים הם אופציונליים בקובץ ` metadata.json ` שלך, אם אינך מתכנן להשתמש בהם עליך להסיר אותם.
 - `תורמים`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `הגדרות`
 
-**Clarifying some value presets:**
+**בירור כמה הגדרות קבועות מראש:**
 <table>
   <thead>
     <tr>
@@ -150,16 +150,16 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>שירות</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">The title of the service that this presence supports. <br> (חייב להיות שם זהה לתיקיה בה הכל נמצא)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>שמות משנה</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">להיות מסוגל לחפש את התוסף באמצעות שם חלופי. <br> מיועד לשמש תוספים שיש להם שמות שונים בשפות שונות (למשל פוקימון ו- 포켓 몬스터). <br> אתה יכול להשתמש בו גם לתוספים עם תווים מיוחדים כדי שלא תצטרך להקליד אותם (למשל Pokémon and Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -238,7 +238,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>צבע</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. אנחנו ממליצים לך להשתמש בצבע הראשי של השירות של הנוכחות התמיכה.</td>
+      <td style="text-align:left">ערך <code> #HEX </code>. אנחנו ממליצים לך להשתמש בצבע הראשי של השירות של הנוכחות התמיכה.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -247,7 +247,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>תגים</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">מערך עם תגים, הם יעזרו למשתמשים לחפש את התוסף שלך באתר.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -257,7 +257,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>קטגוריה</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">מחרוזת המשמשת לייצוג הקטגוריה שבה התוסף נמצא. עיין בקטגוריות החוקיות <a href="https://docs.premid.app/dev/presence/metadata#presence-categories"> כאן </a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -266,8 +266,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
-      <td style="text-align:left"><code>Boolean</code>
+      <td style="text-align:left">מגדיר אם משתמשים ב- <code> iFrames </code></td>
+      <td style="text-align:left"><code>בוליאני</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
       </td>
@@ -275,7 +275,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">בורר ביטוי רגיל הבוחר iframes לשייך אליו. ראה regExp למידע נוסף.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -284,8 +284,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>הגדרות</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">מערך הגדרות שהמשתמש יכול לשנות. <br>
+      קרא עוד על הגדרות התוספים <a href="https://docs.premid.app/dev/presence/metadata#presence-settings"> כאן </a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -294,9 +294,9 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## מתחילים
 
 ```javascript
 var presence = new Presence({
@@ -326,13 +326,12 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. זה נקרא כמה פעמים בשנייה במידת האפשר.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. אלה מועלים ושמם בקטע התוסף העשיר של היישום שלך, הנקרא Art Assets * /. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -350,13 +349,13 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+באפשרותך להעתיק זאת לקובץ התוסף שלך ולערוך את הערכים. `presence.ts` הגדרת כל הערכים מתבצעת בתוך האירוע updataData.
 
-For examples we suggest to look at the code of presences like: 1337x or 9GAG.
+לדוגמאות אנו מציעים להסתכל על קוד התוסף כמו: 1337x או 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+למידע נוסף על מחלקת התוספים לחץ [ כאן ](/dev/presence/class).
 
-## Can't get certain data?!
+## לא מצליחים לקבל נתונים מסוימים ?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
