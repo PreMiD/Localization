@@ -3,6 +3,50 @@
 		"message": "שותפים",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "הצטרף למשפחה וקבל הטבות לשותפים בלבד כדי להראות כמה \"סוואג\" יש בך.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "אלה כבר שייכים לנו",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "מה דעתך ללכת לגן עדן במקום לגיהנום?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "ה Presence החינמי שלך",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "הצוות שלנו יספק לכם Presence של השירות שלכם.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "הפוך למאומת",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "תפקיד מיוחד וכבוד גדול יינתן לכם בשרת הדיסקורד שלנו.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "שילוב מטא-תג",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "משתמש באופן אוטומטי ב Presence שלך כאשר מישהו מבקר באתר שלך.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "תונצח",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "מקום מלוכלך בעמוד השותף שלנו.",
+		"description": "Description for the fourth benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "תהיה מפורסם",
 		"description": "Heading for the fifth benefit."
@@ -87,6 +131,46 @@
 		"message": "תקשר בקלות למצב שלך בזמן אמת למשתמשים שלך.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "אליל שמשחק בתור הבוט דיסקורד מהנה!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "לוקליזציה זריזה של חברות טכנולוגיה.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "תוכנת ה Wiki החזקה והמתרחבת ביותר.\n",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "ממשק מאוחד וידידותי למפתחים לכל הממצאים שלך.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "מאחורי המיטב באינטרנט.",
+		"description": "Description for Fastly."
+	},
+	"partners.apply.title": {
+		"message": "הגש בקשה לשותף",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "נכנסת בשם",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "לא אתה?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "אנא בחר אחד",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "אתר",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "אחר",
 		"description": "Select 'Other' category."
@@ -94,5 +178,57 @@
 	"partners.apply.form.name": {
 		"message": "שם",
 		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "קישור",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app\n",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "תיאור: (מקסימום 150 תווים)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "תיאור עבור מוצג",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "קישור תמונה: (550x300, PNG בלבד)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ex: https://i.imgur.com/clun1ID.png\n",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "סגור",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "החל",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "אנא מלא את כל השדות",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "תיאור מקסימום של 150 תווים.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "אנא הוסף קישור (צריך להתחיל ב- https: // ולסיים ב- .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "כבר הגשת בקשה לשותף.",
+		"description": "Error when already applied."
 	}
 }
