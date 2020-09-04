@@ -109,9 +109,9 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>שמות משנה</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">להיות מסוגל לחפש את התוסף באמצעות שם חלופי. <br> מיועד לשמש תוספים שיש להם שמות שונים בשפות שונות (למשל פוקימון ו- 포켓 몬스터). <br> אתה יכול להשתמש בו גם לתוספים עם תווים מיוחדים כדי שלא תצטרך להקליד אותם (למשל Pokémon and Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -177,7 +177,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>צבע</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. אנחנו ממליצים לך להשתמש בצבע הראשי של השירות של הנוכחות התמיכה.</td>
+      <td style="text-align:left">ערך <code> #HEX </code>. אנחנו ממליצים לך להשתמש בצבע הראשי של השירות של הנוכחות התמיכה.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -186,7 +186,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>תגים</b>
       </td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">מערך עם תגים, הם יעזרו למשתמשים לחפש את התוסף שלך באתר.</td>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
@@ -196,7 +196,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>קטגוריה</b>
       </td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">מחרוזת המשמשת לייצוג הקטגוריה שבה התוסף נמצא.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -205,8 +205,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iframe</b>
       </td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
-      <td style="text-align:left"><code>Boolean</code>
+      <td style="text-align:left">מגדיר אם משתמשים ב- <code> iFrames </code></td>
+      <td style="text-align:left"><code>בוליאני</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
       </td>
@@ -214,7 +214,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">בורר ביטוי רגיל הבוחר iframes לשייך אליו.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
