@@ -1,10 +1,1 @@
-{
-	"report.title": {
-		"message": "דיווח על תקלה",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count} / 3 דוחות שנותרו",
-		"description": "Amount of bug reports user can send"
-	}
-}
+{}
