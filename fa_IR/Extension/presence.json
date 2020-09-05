@@ -1,1 +1,30 @@
-{}
+{
+  "presence.playback.playing": {
+    "message": "بازپخش کردن",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
+  },
+  "presence.playback.paused": {
+    "message": "پخش متوقف شد",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
+  "presence.activity.browsing": {
+    "message": "مرور کردن...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "زنده",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "خواندن",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "جست و جو کردن",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "قسمت {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
+  }
+}

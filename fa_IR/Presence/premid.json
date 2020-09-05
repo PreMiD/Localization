@@ -1,1 +1,26 @@
-{}
+{
+    "premid.viewPage": {
+        "message": "مشاهده صفحه:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "مستندات",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "نگاه کردن واقعه:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "صفحه اصلی",
+        "description": "A page name"
+    },
+    "premid.pageCookies": {
+        "message": "سیاست کوکی‌ ها",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "درباره",
+        "description": "A page name"
+    }
+}

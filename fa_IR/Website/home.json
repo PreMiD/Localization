@@ -1,1 +1,10 @@
-{}
+{
+	"home.examples.status.playing": {
+		"message": "بازپخش کردن",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "مرور کردن...",
+		"description": "Discord Rich Presence -> small image text;"
+	}
+}
