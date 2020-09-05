@@ -18,6 +18,6 @@ tags:
 
 برنامه به طور خودکار شروع می شود. نماد را در تری سیستم خود چک کنید.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> [اضافه کردن **افزونه**](/install) را فراموش نکنید.{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
