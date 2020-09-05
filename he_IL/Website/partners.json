@@ -211,18 +211,6 @@
 		"message": "סגור",
 		"description": "Modal close button."
 	},
-	"partners.apply.form.button.apply": {
-		"message": "החל",
-		"description": "Modal apply button."
-	},
-	"partners.apply.error1": {
-		"message": "אנא מלא את כל השדות",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "תיאור מקסימום של 150 תווים.",
-		"description": "Error when description exceeds character limit."
-	},
 	"partners.apply.error3": {
 		"message": "אנא הוסף קישור (צריך להתחיל ב- https: // ולסיים ב- .png)",
 		"description": "Error when image link is entered wrong."
