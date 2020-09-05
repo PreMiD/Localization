@@ -1,1 +1,18 @@
-{}
+{
+	"general.browsing": {
+		"message": "مرور کردن...",
+		"description": ""
+	},
+	"general.live": {
+		"message": "زنده",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "خواندن",
+		"description": ""
+	},
+	"general.search": {
+		"message": "جست و جو کردن",
+		"description": ""
+	}
+}
