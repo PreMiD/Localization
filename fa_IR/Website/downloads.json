@@ -1,1 +1,6 @@
-{}
+{
+  "downloads.button.done": {
+    "message": "انجام شد",
+    "description": "Button on the page when trying to download with adblocker on."
+  }
+}
