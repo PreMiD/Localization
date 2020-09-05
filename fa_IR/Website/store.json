@@ -2,5 +2,29 @@
 	"store.cards.creator": {
 		"message": "سازنده",
 		"description": "Creator of a presence"
+	},
+	"store.category.all": {
+		"message": "همه",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "بازی‌ها",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "موسیقی",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "شبکه های اجتماعی",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "ویدیو ها و پخش های زنده",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "ديگر",
+		"description": "Category at the top"
 	}
 }
