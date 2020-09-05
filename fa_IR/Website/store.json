@@ -1,1 +1,6 @@
-{}
+{
+	"store.cards.creator": {
+		"message": "سازنده",
+		"description": "Creator of a presence"
+	}
+}
