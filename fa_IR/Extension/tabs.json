@@ -1,1 +1,30 @@
-{}
+{
+  "tab.button.changelog": {
+    "message": "گزارش تغییرات",
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.button.wiki": {
+    "message": "ویکی",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.heading": {
+    "message": "از شما متشكريم",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.subHeading": {
+    "message": "برای نصب {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.start": {
+    "message": "شروع استفاده {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
+  },
+  "donate": {
+    "message": "حمایت",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "**اوه نه!** ما نمی توانیم به برنامه متصل شویم... آیا از قبل نصب شده?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  }
+}
