@@ -23,6 +23,10 @@
         "message": "פתרון תקלות",
         "description": "A page name"
     },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
     "premid.pagePresenceDev": {
         "message": "פיתוח תוסף",
         "description": "A page name"
