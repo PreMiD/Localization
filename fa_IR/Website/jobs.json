@@ -86,5 +86,25 @@
 	"jobs.benefit5.title": {
 		"message": "وقفه",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "عجله نکنید. این یک کار داوطلبانه است.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "دسترسی زودرس",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "تست ویژگی های جدید قبل از هر کس دیگری.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "خیلی از درخواست شما متشکریم!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "شما قبلا درخواست کرده اید!",
+		"description": "Notification when you applied already."
 	}
 }
