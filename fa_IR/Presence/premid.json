@@ -15,6 +15,18 @@
         "message": "صفحه اصلی",
         "description": "A page name"
     },
+    "premid.pageContributors": {
+        "message": "مشارکت‌کنندگان",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "دانلود ها",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "فروشگاه",
+        "description": "A page name"
+    },
     "premid.pageCookies": {
         "message": "سیاست کوکی‌ ها",
         "description": "A page name"
