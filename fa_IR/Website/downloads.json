@@ -1,4 +1,84 @@
 {
+  "downloads.header.title": {
+    "message": "وقت نمایشه.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "از PreMiD استفاده کنید و به دوستانتان نشان دهید که دارید چه می کنید، شاید چیزی را پیدا کردند که شما هم نسبت به آن تمایل دارید.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "شروع کنید",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "دانلود PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "نصب برنامه ما",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "افزونه ما را به مرورگر خود اضافه کنید",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "این سایت را دوباره باز کنید و چک کنید که به افزونه متصل شده باشد",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "هنوز هم مشکل دارید؟ {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "ما برای کمک اینجاییم!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "برنامه",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "افزونه",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "هشدار:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} هیچ بسته نصبی برا این سیستم عامل وجود ندارد. این بدین معناست که پشتیبانی تخصصی در این موضوع در کار نیست.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "لطفا دقت کنید که PreMiD از موبایل ها پشتیبانی نمی کند.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "نشان دادن دانلود ها",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "مخفی کردن دانلود ها",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "نسخه فعلی برای این پلتفرم {0} می باشد (این نسخه مخصوصا برای لینوکس می باشد و تاثیری روی دیگر پلتفرم ها ندارد).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "این نسخه مختص به لینوکس می باشد و شامل دیگر سیستم عامل ها نمی شود. نسخه اصلی برنامه {0} است",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "لطفا وارد شوید تا بتوانید این دانلود ها را ببینید.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "اوه، به نظر میاد که شما دسترسی نسخه بتا/آلفا را ندارید :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
   "downloads.button.done": {
     "message": "انجام شد",
     "description": "Button on the page when trying to download with adblocker on."
