@@ -1,1 +1,6 @@
-{}
+{
+  "extension.description.short": {
+    "message": "Rich Presence شما برای سرویس های وبسایت!",
+    "description": "Short description in extension store"
+  }
+}
