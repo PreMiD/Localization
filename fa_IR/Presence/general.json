@@ -7,6 +7,10 @@
 		"message": "مرور کردن...",
 		"description": ""
 	},
+	"general.language": {
+		"message": "زبان",
+		"description": "For choosing a language"
+	},
 	"general.live": {
 		"message": "زنده",
 		"description": ""
