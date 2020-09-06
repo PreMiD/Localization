@@ -79,8 +79,88 @@
     "message": "اوه، به نظر میاد که شما دسترسی نسخه بتا/آلفا را ندارید :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.error.noaccess.description": {
+    "message": "شما می توانید به نسخه بتای برنامه بپیوندید از طریق **اینجا** اونم مجانی. بجنبید! ما فقط {0} جای خالی دیگر دردسترس داریم",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "دسترسی زودرس",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "هشدار",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "فراموش نکنید که 'allow extensions from other stores' را از تنظیمات افزونه های مرورگر فعال کنید.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "شما باید **این** افزونه را نصب کنید تا بتوانید PreMiD را از Chrome Webstore نصب کنید.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "رد شدن",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "بازگشت",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "باشه",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.done": {
     "message": "انجام شد",
     "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "ورود",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "از شما متشكريم!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "ما از تبلیغات برای پشتیبانی از تیم و برپادارنده سرورمان استفاده می کنیم تا بهترین تجربه را به شما ارائه بدیم!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "لطفا مسدود کننده تبلیغ خود را غیر فعال کنید.",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "من پشتیبانی نمی خوام.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "آیا مطمئن هستید?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "واقعا?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "پشتیبانی ل-لطفا :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "من نیازت دارم :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "خیل خب، باشه...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "دانلود های بتا رو نشون بده",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(لازم نیست اگر شما فقط برای دانلود نسخه عادی برنامه اینجا آمده اید)",
+    "description": "Small text under the show beta title."
   }
 }
