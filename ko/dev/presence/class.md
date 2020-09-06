@@ -33,31 +33,31 @@ let presence = new Presence({
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+존재 표시 내용의 presenceData 객체를 반환한다.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+제공된 데이터에 따라 프로필 활동을 설정하십시오.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+첫 번째 매개 변수를 사용하려면 프로파일에 표시할 모든 정보를 가져오기 위해 presenceData 인터페이스가 필요합니다.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+두 번째 매개변수는 존재감이 무언가를 재생하고 있는지 여부를 정의한다. presenceData에 타임스탬프를 제공하는 경우 항상 true를 사용하십시오.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+현재 활동, 키 바인딩 및 트레이 제목 지우세요.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> 이 방법은 맥 OS에서만 동작합니다. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+메뉴 모음에서 트레이 제목을 설정하십시오.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+확장자에서 변환된 문자열을 가져올 수 있는 비동기식 방법입니다. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Returns `Playing` and `Paused` strings
