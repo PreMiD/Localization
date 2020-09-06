@@ -10,5 +10,17 @@
 	"maintenance.heading2": {
 		"message": "لطفا برای اطلاعات بیشتر بعدا دوباره بازگردید.",
 		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "تا زمانی که توسعه دهندگان ویژه مان این مشکل را رفع کنند، می توانید نگاهی به اینجا بیاندازید!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "صفحه وضعیت",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "سرور دیسکورد",
+		"description": "Discord Server link on maintenance page"
 	}
 }
