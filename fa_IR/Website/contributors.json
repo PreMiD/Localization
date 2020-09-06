@@ -75,6 +75,10 @@
 		"message": "نماینده پشتیبانی",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
+	"contributors.roles.presenceVerifier": {
+		"message": "تائید کنندگان Presence",
+		"description": "'Presence Verifier' title for contributors and user pages."
+	},
 	"contributors.roles.proofreader": {
 		"message": "ویراستار",
 		"description": "'Proofreader' title for contributors and user pages."

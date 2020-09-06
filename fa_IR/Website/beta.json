@@ -1,1 +1,10 @@
-{}
+{
+	"beta.title": {
+		"message": "چه ویژگی های جدیدی?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD بتا** هم اکنون برای همه دردسترس می باشد!",
+		"description": "Section description"
+	}
+}
