@@ -3,6 +3,14 @@
 		"message": "همکاران",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "به شهرت بپیوندید و از مزایای مخصوص همکاران بهره مند شوید تا به بقیه نشان دهید باحال هستید.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "این ها از قبل به ما تعلق داشته",
+		"description": "Description for slideshow."
+	},
 	"partners.apply.select.other": {
 		"message": "ديگر",
 		"description": "Select 'Other' category."
