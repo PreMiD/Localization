@@ -8,7 +8,7 @@ tags:
 
 The installation of the extension is very important as the application can not do anything by itself.
 
-# Install
+# نصب
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
