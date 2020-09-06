@@ -3,6 +3,10 @@
 		"message": "Witaj w oficjalnym sklepie **PreMiD**!",
 		"description": "Merch store title"
 	},
+	"merch.swag": {
+		"message": "Znajdź swój **Swag**",
+		"description": "Subtitle for store"
+	},
 	"merch.fit": {
 		"message": "**Wybierz coś dla siebie**",
 		"description": "Product sizes"
