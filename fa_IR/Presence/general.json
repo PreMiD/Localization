@@ -22,5 +22,9 @@
 	"general.search": {
 		"message": "جست و جو کردن",
 		"description": ""
+	},
+	"general.store": {
+		"message": "فروشگاه",
+		"description": ""
 	}
 }
