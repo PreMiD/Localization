@@ -107,6 +107,10 @@
     "message": "بازگشت",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "لغو",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "باشه",
     "description": "Button on the modal of Opera/Edge browsers."
