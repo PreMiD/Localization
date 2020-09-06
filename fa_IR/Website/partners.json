@@ -6,5 +6,9 @@
 	"partners.apply.select.other": {
 		"message": "ديگر",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "خیلی از درخواست شما متشکریم!",
+		"description": "Success message when applying."
 	}
 }
