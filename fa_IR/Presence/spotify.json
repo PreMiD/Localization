@@ -30,5 +30,17 @@
 	"spotify.podcastsLike": {
 		"message": "پادکست هایی که دوست دارند",
 		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "هنرمندانی که دوست دارند",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "آلبوم هایی که دوست دارند",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "موسیقی هایی که دوست دارند",
+		"description": "\"Browsing through\" + this"
 	}
 }
