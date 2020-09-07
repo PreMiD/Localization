@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> قبل از بیشتر پیش رفتن، مطمئن شوید که سیستم شماحداقل [نیازها](/install/requirements) را دارد. 
 > 
 > {.is-info}
 
