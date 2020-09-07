@@ -39,6 +39,34 @@
 		"message": "مشهور باشید",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.requirements.first.title": {
+		"message": "به دنبال چی میگردیم?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "دیوار آتش ما",
+		"description": "Heading for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "همین الان درخواست دهید!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "بیاین با هم بریم بهشت!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "اسپانسر ها",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "وجود PreMiD بدون شما افراد شگفت انگیز، غیر ممکن بود.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "اینجوری انیمه تماشا می کنن.",
+		"description": "Description for AniFlix."
+	},
 	"partners.apply.select.other": {
 		"message": "ديگر",
 		"description": "Select 'Other' category."
