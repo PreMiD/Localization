@@ -1,6 +1,6 @@
 {
   "presence.playback.playing": {
-    "message": "بازپخش کردن",
+    "message": "در حال پخش",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
@@ -16,11 +16,11 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "خواندن",
+    "message": "در حال خواندن",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "جست و جو کردن",
+    "message": "درحال جستجو",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
