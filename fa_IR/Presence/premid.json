@@ -47,6 +47,10 @@
         "message": "درباره",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "بیش نیاز های سیستم",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "ایرادیابی",
         "description": "A page name"
