@@ -198,5 +198,29 @@
 	"general.viewing": {
 		"message": "دیدن:",
 		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "نگاه کردن ویدیو",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "نگاه کردن پخش زنده",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "نگاه کردن:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "لیست علاقه‌مندی‌ها:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "سیاست حفظ حریم خصوصی",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "شرایط خدمات",
+		"description": "A page name"
 	}
 }
