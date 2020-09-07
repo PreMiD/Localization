@@ -31,6 +31,10 @@
 		"message": "عناصر Meta-tag",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "کسی که از وبسایت شما بازدید می کند خودکار از Presence شما استفاده خواهد شد.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "جاودانه بشوید",
 		"description": "Heading for the fourth benefit."
