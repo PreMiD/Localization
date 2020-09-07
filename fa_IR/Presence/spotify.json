@@ -42,5 +42,17 @@
 	"spotify.songsLike": {
 		"message": "موسیقی هایی که دوست دارند",
 		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"برای شما درست شده\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "لیست پخششان",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "دانلود کردن Spotify",
+		"description": ""
 	}
 }
