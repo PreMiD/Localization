@@ -1,1 +1,34 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "نگاه کردن فروشگاه:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "مرکز پیام ها",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "گشتن در چیز های فروشی",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "نگاه کردن به کالا های اخیر",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "کالا های مشاهده شده",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress بازخورد",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "نگاه کردن سفارش هایشان",
+        "description": ""
+    },
+    "aliexpress.trade": {
+        "message": "مرکز معامله AliExpress",
+        "description": ""
+    }
+}
