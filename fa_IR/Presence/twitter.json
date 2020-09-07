@@ -32,7 +32,11 @@
         "description": ""
     },
     "twitter.explore": {
-        "message": "گشت‌و‌گذار",
+        "message": "کاوش",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "تغییر بعضی تنظیمات...",
         "description": ""
     }
 }
