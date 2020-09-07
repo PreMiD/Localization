@@ -13,7 +13,7 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # نصب
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. از طریق [این لینک](https://premid.app/downloads) به صفحه دانلود بروید.
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
