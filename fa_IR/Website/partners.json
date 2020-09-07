@@ -35,9 +35,21 @@
 		"message": "جاودانه بشوید",
 		"description": "Heading for the fourth benefit."
 	},
+	"partners.why.benefit4.description": {
+		"message": "یه جای زشت توی صفحه همکاران ما.",
+		"description": "Description for the fourth benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "مشهور باشید",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "جایگاه ویژه در شبکه های اجتماعی ما.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "نیازمندی ها",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "به دنبال چی میگردیم?",
@@ -103,6 +115,10 @@
 		"message": "ديگر",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "نام",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "مثال: PreMiD",
 		"description": "Name field's placeholder."
@@ -146,5 +162,13 @@
 	"partners.apply.error2": {
 		"message": "حداکثر 150 کاراکتر توضیحات.",
 		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "لطفا یک لینک اضافه کنید (باید با https:// شروع شود و با تمام شود)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "شما قبلا درخواست همکاری کرده اید.",
+		"description": "Error when already applied."
 	}
 }
