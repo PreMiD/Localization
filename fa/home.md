@@ -7,28 +7,28 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Some pages may be incomplete or missing. 
+> این مستندات همچنان در حال تغییر و ورایش هستند! ممکن است بعضی صفحات نباشند یا کامل نشده باشند. 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+# درباره PreMiD
+- :mag: [ PreMiD چیست؟](/about) اهداف مدنظر PreMiD چه می باشند و چرا باید از آن استفاده کنیم.
+- :link:[ RPC چیست؟](https://discordapp.com/rich-presence) همه چیز درباره Rich Presence و کارایی آن.
 
-# Getting Started
+# شروع کردن
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD نصب ساده و سریعی دارد. شما در کمترین زمان ممکن باید آماده و اجرایش کرده باشید.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- مطمعن شوید که [سیستم مورد نیاز](/install/requirements) را خوانده باشید.
+- [راهنمای نصب](/install) سریع و ساده را دنبال کنید.
+- راهنمای [ایرادیابی](/troubleshooting) شما را به عادی ترین راه حل ممکن هدایت می کند.
 
 # توسعه دهندگان
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[شروع به کار کردن](/dev) برای توسعه دادن PreMiD یک قدم قبل تر از کدنویسی کردن اینجور چیز هاست.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer:[API](/dev/api): دسترسی به منابع و کار هایی که باید با PreMiD API انجام دهید.
+- :wrench: [توسعه Presence](/dev/presence): بیاموزید که چطور از سیستم Presence ها استفاده کنید.
 
 # مشارکت
 - :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
