@@ -6,24 +6,24 @@ date: 2020-02-12T22:08:39.314Z
 tags:
 ---
 
-# System Requirements
+# بیش نیاز های سیستم
 
-> This data relate to the application only. 
+> این اطلاعات فقط به برنامه مرتبط است. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD عملا در هر سیستمی قابل اجراست. این بدین معناست که در سیسم عامل های **Linux**, **macOS**, **Windows** و همینطور بعضی از **Linux های مودیفیکشن شده** قابل اجراست.
 
 ### CPU
-PreMiD runs perfectly fine on a single CPU core.
+PreMiD به طور عالی با CPU های تک هسته ای هم سازگار است.
 
 ### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+سیستم های Linux **حداقل باید 20MB فضای RAM** داشته باشند تا بتوانند PreMiD را اجرا کنند. سیستم های Windows و macOS معمولا کمی RAM بیشتری نیاز دارند.
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### حافظه
+PreMiD حدودا در **150MB** حافظه فیزیکی جای می گیرد. به هر حال، برای اجرای بهتر PreMiD حداقل **200MB** فضای حافظه توصیه میشه.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### دسترسی به اینترنت
+اجرای PreMiD ملزم به اتصال اینترنت می باشد. PreMiD خودکار آپدیت های جدید، زبان ها، آپدیت Presence ها و... را چک می کند. هر ازگاهی در زمان های مشخص.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
