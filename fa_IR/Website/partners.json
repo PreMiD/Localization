@@ -67,9 +67,53 @@
 		"message": "اینجوری انیمه تماشا می کنن.",
 		"description": "Description for AniFlix."
 	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings یک بازی نسل جدید با پیشروی سریع و PvP می باشد که می توان آن را در مرورگر خود بازی نمود.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat یک رادیو بین المللی بدون درآمد می باشد که سخت در تلاش و کوشش برای ارائه رادیوئی بدون توقف، با کیفیت از آخرین اخبار و سرگرمی است.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "پلتفرم درآمد یک گیمر.",
+		"description": "Description for iLoot."
+	},
+	"partners.apply.title": {
+		"message": "درخواست همکاری",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "وارد شده به عنوان {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "شما نیستید?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "لطفا یکی را انتخاب کنید",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "وب‎سایت",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "ديگر",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "لینک",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app",
+		"description": "Link filed's placeholder."
 	},
 	"partners.apply.success": {
 		"message": "خیلی از درخواست شما متشکریم!",
