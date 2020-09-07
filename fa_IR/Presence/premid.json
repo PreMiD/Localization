@@ -8,7 +8,7 @@
         "description": "as in documents"
     },
     "premid.viewPresence": {
-        "message": "نگاه کردن واقعه:",
+        "message": "دیدن presence:",
         "description": ""
     },
     "premid.pageHome": {
@@ -52,7 +52,7 @@
         "description": "A page name"
     },
     "premid.pageInstall": {
-        "message": "Installation",
+        "message": "نصب کردن",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
