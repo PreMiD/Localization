@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "از PreMiD استفاده کنید و به دوستانتان نشان دهید که دارید چه می کنید، شاید چیزی را پیدا کردند که شما هم نسبت به آن تمایل دارید.",
+    "message": "از PreMiD استفاده کنید و به دوستانتان نشان دهید که دارید چه می کنید، شاید شما هم کسی را با علایق مشابه پیدا کردید.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -12,11 +12,11 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "دانلود PreMiD",
+    "message": "PreMiD را دانلود کنید",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "نصب برنامه ما",
+    "message": "برنامه ما را نصب کنید",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "این سایت را دوباره باز کنید و چک کنید که به افزونه متصل شده باشد",
+    "message": "این سایت را دوباره باز کنید و چک کنید که افزونه متصل شده باشد",
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
