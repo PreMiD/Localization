@@ -91,6 +91,18 @@
 		"message": "پلتفرم درآمد یک گیمر.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "بیاید انجمن زیبای خود را با نمونه های عالی ما بسازید. قلمرو پادشاهی خود را گسترش دهید.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.erisly": {
+		"message": "یک الهه که برای خوشی جای ربات دیسکورد کار می کند!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.fastly": {
+		"message": "پشت بهترین های دنیای وب.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "درخواست همکاری",
 		"description": "Partnership application modal title."
@@ -134,6 +146,10 @@
 	"partners.apply.form.description": {
 		"message": "توضیحات: (حداکثر 150 کاراکتر)",
 		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "توضیحات برای ویژگی ها",
+		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "لینک تصویر: (اندازه 550x300، فقط فرمت PNG)",
