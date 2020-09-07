@@ -7,24 +7,196 @@
 		"message": "مرور کردن...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "بخش",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "ویرایش کردن:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "قسمت",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "انجمن‌ها",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ژانر",
+		"description": ""
+	},
 	"general.language": {
 		"message": "زبان",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "گوش دادن به موسیقی",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "شنوندگان",
+		"description": ""
+	},
 	"general.live": {
 		"message": "زنده",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "مانگا",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "کالا",
+		"description": ""
+	},
+	"general.page": {
+		"message": "صفحه",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "متوقف شد",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "در حال پخش",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "خواندن DM ها از:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "خواندن درباره:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "خواندن مقاله:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "خواندن در چنل:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "خواندن پست:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "خواندن سربرگ:",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "خواندن",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "جستجو برای:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "جستجوی چیزی...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "جست و جو کردن",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "سبد خرید",
+		"description": ""
+	},
 	"general.store": {
 		"message": "فروشگاه",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "نوشتن DM به:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "نوشتن در چنل:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "مشاهده انیمه:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "مشاهده دسته بندی:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "مشاهده چنل:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "دیدن قسمت:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "مشاهده ژانر:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "مشاهده صفحه اصلی",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "مشاهدی لیستی از:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "دیدن مانگا:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "مشاهده عضو:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "دیدن فیلم:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "مشاهده لیست پخش:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "مشاهده محصولات:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "مشاهده مشخصات:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "مشاهده سری ها:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "دیدن نمایش:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "مشاهده حساب شان",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "مشاهده سربرگ:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "مشاهده کاربر:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "دیدن:",
 		"description": ""
 	}
 }
