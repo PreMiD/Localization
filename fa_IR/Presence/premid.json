@@ -51,6 +51,10 @@
         "message": "بیش نیاز های سیستم",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "Installation",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "ایرادیابی",
         "description": "A page name"
