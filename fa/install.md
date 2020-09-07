@@ -6,23 +6,23 @@ date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> قبل از بیشتر پیش رفتن، مطمئن شوید که سیستم شماحداقل [نیازها](/install/requirements) را دارد. 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **این ضروریه که** **هر دو** **برنامه** و **افزونه** را نصب کنید! 
 > 
 > {.is-warning}
 
-**Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+**سیستم عامل خود را انتخاب کنید:**
+- [Windows *7 یا بالاتر*](/install/windows)
+- [macOS *10.11 یا بالاتر*](/install/macos)
+- [Linux *4 یا بالاتر*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**مرورگر خود را انتخاب کنید:**
+- [Chromium *v76 یا بالاتر*](/install/chromium)
+- [Firefox *v69 یا بالاتر*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
