@@ -71,6 +71,10 @@
 		"message": "بیاین با هم بریم بهشت!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "اگر شما به کارکردن مستقیم برای PreMiD علاقه مند شدید، یک نگاهی هم به **تبلیفات شغلی** ما بیاندازید.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "اسپانسر ها",
 		"description": "Heading for sponsors."
@@ -95,13 +99,45 @@
 		"message": "پلتفرم درآمد یک گیمر.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio موفق ترین رادیو سرگرم کننده برای بازی های شبیه سازی در آلمان، اتریش و سوئیس می باشد!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "چیزی را دریافت کنید که حقیقتا مال خودتان است. پخش زنده انیمه، فیلم، هنتای، چیز های های ویژه و بیشتر. رایگان، بدون هیچ تبلیغی و با بالاترین کیفیت!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.discordTemplates": {
 		"message": "بیاید انجمن زیبای خود را با نمونه های عالی ما بسازید. قلمرو پادشاهی خود را گسترش دهید.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.taigaBot": {
+		"message": "taiga ربات دیسکورد است که تلاش می کند به شما همه ویژگی هایی را که لازم دارید در یک جا داشته باشید!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "ابزار ساخت نصب کننده ای بسیا قوی و سریع برای استفاده در پلتفرم های مختلف.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "به راحتی و بدون درنگ با وضعیت کاربرانتان ارتباط برقرار کنید.",
+		"description": "Description for StatusPage."
+	},
 	"partners.partner.erisly": {
 		"message": "یک الهه که برای خوشی جای ربات دیسکورد کار می کند!",
 		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "محلی ساز زبان سریع برای کمپانی های فن آوری.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "قوی ترین و قابل تعمیم ترین نرم افزار متن بازی ویکی.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "ظاهر یکپارچه و توسعه دوست برای تمامی شما صنعتگران.",
+		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
 		"message": "پشت بهترین های دنیای وب.",
