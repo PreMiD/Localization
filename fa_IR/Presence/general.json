@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "خواندن",
+		"message": "در حال خواندن",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "جست و جو کردن",
+		"message": "درحال جستجو",
 		"description": ""
 	},
 	"general.shopCart": {
