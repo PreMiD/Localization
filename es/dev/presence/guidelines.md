@@ -123,7 +123,7 @@ Cada presencia tiene un archivo para describirla llamado `metadata.json`, el met
 > 
 > {.is-warning}
 
-> Todas las imágenes en el archivo de `metadata` deben estar alojadas en `i.imgur.com`. Usar contenido en el sitio web **no** está permitido, ya que pueden cambiar su ubicación sin querer. 
+> Todas las imágenes en el archivo de `metadata` deben estar alojadas en `i.imgur.com`. Usar contenido alojado en el sitio web **no** está permitido, ya que pueden cambiar su ubicación sin querer. 
 > 
 > {.is-warning}
 
@@ -255,7 +255,7 @@ En algunas situaciones, las presences pueden comportarse inesperadamente o podr�
 > 
 > {.is-warning}
 
-El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmaran que tu presence cumple los estándares y será colocada en la tienda.
+El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmaran que tu presence cumple los estándares y será añadida en la tienda.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
@@ -269,12 +269,12 @@ El proceso más importante de desarrollo de una presencia es publicar tu presenc
 
 ## `Restricciones`
 
-Ofensas repetitivas como romper las indicaciones, spamming de pull requests, amenazas o comportamiento inapropiado te impedirá el poder crear presences.
+No te será permitido crear presences en en caso de ofensas repetitivas como romper las indicaciones, spamming de pull requests, amenazas o comportamiento inapropiado.
 
 En este escenario, se producirán los siguientes cambios:
 
 - Las presences bajo tu gestión serán transferidas al bot de PreMiD u otro usuario (Según decida el verificador). El ID de la aplicación para cada presence será recreado bajo el nombre del nuevo dueño.
-- Todos tus issues y pull requests (Creación, contribuición, etc. de presences) creados luego del ban serán cerrados.
+- Todos tus issues y pull requests (Creación, contribución, etc. de presences) creados luego del ban serán cerrados.
 - Los tickets creados bajo tu nombre con respecto al desarrollo de presences serán eliminados.
 
 
@@ -292,7 +292,7 @@ Algunas cosas que deberías saber después de abrir una solicitud de pull reques
 
 ![Verificaciones](https://i.imgur.com/bk0A1iY.png)
 
-Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. Todos estos controles ayudan a que los verificadores determinen si su presence es adecuada para su implementación.
+Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. Todas estas comprobaciones ayudan a que los verificadores determinen si su presence es adecuada para su implementación.
 
 - `DeepScan` es un bot que comprueba la calidad del código. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
 - `Schema Validation` escaneará su archivo `metadata.json` en busca de cualquier error (por ejemplo, campos faltantes, tipos de valor no válidos, etc.). Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos. Añadir un campo de esquema a su archivo `metadata.json` permitirá a su editor de texto (si es compatible) mostrar estos errores durante el desarrollo.
