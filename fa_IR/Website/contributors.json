@@ -64,11 +64,11 @@
 		"description": "'Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "مدیر",
+		"message": "ناظر",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.juniorModerator": {
-		"message": "مدیر رده پایین",
+		"message": "ناظر رده پایین",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
@@ -76,7 +76,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
-		"message": "تائید کنندگان Presence",
+		"message": "تائید کننده Presence",
 		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
@@ -88,7 +88,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "سرعت بخشان",
+		"message": "تقویت کنندگان",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
