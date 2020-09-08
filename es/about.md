@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-PreMiD es una simple y configurable herramienta que te permite mostrar lo que estás haciendo en la web en tu status de discord "Jugando a". Suporta muchas plataformas diferentes y multiples usuarios podrán ver lo mismo de forma simultánea en versiones futuras.
+PreMiD es una simple y configurable herramienta que te permite mostrar lo que estás haciendo en la web en tu estado de discord "Jugando a". Suporta muchas plataformas diferentes y multiples usuarios podrán ver lo mismo de forma simultánea en versiones futuras.
 
 # Por qué deberías descargar PreMiD
 - Todo nuestro proyecto es de código abierto! Queremos trabajar con nuestros usuarios - no contra ellos.
