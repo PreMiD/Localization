@@ -4,7 +4,7 @@
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "تائید کنندگان Presence",
+		"message": "تائید کننده Presence",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
@@ -24,7 +24,7 @@
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "کاربران [Presence ها/مشترک ها]",
+		"message": "کاربر [Presence ها/مشارکت ها]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
