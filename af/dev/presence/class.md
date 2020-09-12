@@ -149,7 +149,7 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definieer die volle duur.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+        <br>Word gebruik as u wil wys hoeveel <code>ure:minute:sekondes</code> links.
           <br>U moet u tyd omskakel na <code>tydstempel</code> of jy sal verkeerd wees countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
@@ -157,20 +157,19 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Definieer die logo vir die teenwoordigheid.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Definieer die klein ikoon langs die teenwoordigheid&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Definieer die teks wat aan die gebruiker getoon sal word wanneer hy die klein bietjie sal hou ikoon.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -191,11 +190,10 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Met gebeure kan u sekere veranderings of oproepe wat gemaak is, opspoor en hanteer. U kan op die gebeure inteken op die `aan` metode.
 
 ```typescript
-presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+teenwoordigheid.op ("UpdateData", async () => {    // Doen iets as data opgedateer word.
 });
 ```
 
