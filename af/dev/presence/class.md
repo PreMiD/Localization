@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Wys die waarde van die instelling.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -110,16 +110,16 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## `presenceData` Interface
+## `teenwoordigheidData` Koppelvlak
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Die `teenwoordigheidData` koppelvlak word aanbeveel om te gebruik wanneer u die `setActivity()` metode.
 
-This interface has following variables, all of them are optional.
+Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Veranderlik</th>
       <th style="text-align:left">Beskrywing</th>
       <th style="text-align:left">Soort</th>
     </tr>
@@ -127,13 +127,13 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">besonderhede</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Die eerste reël in u teenwoordigheid, gewoonlik as koptekst gebruik.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Tweede reël in u teenwoordigheid.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
