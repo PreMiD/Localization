@@ -1,24 +1,24 @@
 ---
-title: Guidelines
-description: Rules all presence developers must follow to have their presence added.
+title: Riglyne
+description: Reëls wat alle ontwikkelaars van teenwoordigheid moet volg om hul teenwoordigheid by te voeg.
 published: true
 date: 2020-08-31T02:26:49.039Z
 tags:
 editor: markdown
 ---
 
-# Guidelines
+# Riglyne
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Wanneer u Presences vir hierdie GitHub publiseer, moet u 'n stel riglyne volg. Vir sommige mense kan hierdie streng reëls streng lyk. Die implementering van hierdie reëls sal egter voorkom dat ons en die gebruikers probleme ondervind.
 
-# Creation
+# Skepping
 
-The general rules of presence development are as follows:
+Die algemene reëls vir die ontwikkeling van teenwoordigheid is soos volg:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
+- Aanwesighede ** moet ** verband hou met die gekose webwerf.
+- Aanwesighede **kan nie** gemaak word vir onwettige webwerwe. (for e.g., stressors, drug marketing, child pornography, etc.)
+- Die lêerstruktuur moet skoon en bestuur word, en bevat nie lêers wat nie gespesifiseer is nie. (vir bv. vscode- en git-vouers, beeld- en tekslêers, ens.)
+- U moet die regte lêerstruktuur hê, maar konsepte is **nie** toegelaat.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)

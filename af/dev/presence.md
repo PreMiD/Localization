@@ -17,7 +17,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
+- [Riglyne](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure

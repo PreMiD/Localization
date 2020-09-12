@@ -1,23 +1,23 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Aan die begin met 'n PreMiD-installasie op Linux
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> Skakelende outomatiese bekendstelling op Linux is nou beskikbaar vanaf die app in plaas van die uitbreiding.{.is-warning}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Die installering van die toepassing is baie belangrik, aangesien die uitbreiding niks op sigself kan doen nie.
 
-## Table of Contents
+## Inhoudsopgawe
 
 - **[About](#about)**
-  - [Stats](#stats)
+  - [Statistieke](#stats)
   - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
+  - Voorbeelde (binnekort)
+  - Gereelde vrae (binnekort)
+  - Gebou (binnekort)
   - [Support](#support)
   - [Krediete](#credits)
   - [License](#license)
@@ -42,7 +42,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="stats"></a>
 
-### Stats
+### Statistieke
 
 <table>
   <tr>
