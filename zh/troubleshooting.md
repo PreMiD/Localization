@@ -1,13 +1,13 @@
 ---
-title: 疑難解答
-description: Everything to solve your problem
-published: 是
+title: 疑难解答
+description: 解决您问题的一切内容
+published: true
 date: 2020-09-01T18:31:28.780Z
 tags:
-editor: 標記
+editor: markdown
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> 请确保您已安装扩展 **和** 应用程序！ 
 > 
 > {.is-warning}
 
@@ -19,19 +19,19 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### 重新載入此頁
+### 重新加载页面
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
 ### Restart your browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### 请确保您在Discord设置中启用了游戏状态
+**用户设置** > **游戏活动** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### 重啟 PreMID（程式）
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### 重开其 PreMiD (应用)
+![quit.png](/quit.png) 之后您需要重开其 Discord
 
-### 重載 DIscord
+### 刷新/重开其 Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Be sure Discord is running NOT as administrator
@@ -43,10 +43,10 @@ Sometimes antivirus programs and firewalls are blocking applications which are c
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### 重啟電腦
-希望你懂了！
+### Restarting your computer
+I hope you know how to restart a computer.
 
-### 重新安裝 PreMID。
+### Reinstalling PreMiD
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
@@ -54,7 +54,7 @@ Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
 ### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+如果您是通过 Snapcraft下载Discord的，游戏状态将不会显示。 You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
