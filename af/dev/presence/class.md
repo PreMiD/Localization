@@ -25,7 +25,7 @@ Daar is twee eiendomme beskikbaar vir ` Aanwesigheid` class.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+`kliënt-ID` eiendom moet voorsien word om u teenwoordigheid te laat werk, want dit gebruik u aansoek-ID om die logo en bates daarvan te vertoon.
 
 You can get it on your [applications page](https://discordapp.com/developers/applications).
 
