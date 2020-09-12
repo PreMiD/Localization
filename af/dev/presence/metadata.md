@@ -72,7 +72,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Veranderlik</th>
       <th style="text-align:left">Description</th>
       <th style="text-align:left">Soort</th>
       <th style="text-align:left">Optional</th>
