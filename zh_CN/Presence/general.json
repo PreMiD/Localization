@@ -7,6 +7,14 @@
 		"message": "浏览中...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "章节",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "章",
+		"description": ""
+	},
 	"general.genre": {
 		"message": "类型",
 		"description": ""
@@ -16,15 +24,23 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "正听音乐",
+		"message": "正在听音乐",
 		"description": ""
 	},
 	"general.live": {
 		"message": "直播",
 		"description": ""
 	},
+	"general.manga": {
+		"message": "漫画",
+		"description": ""
+	},
 	"general.page": {
 		"message": "页",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "已暂停",
 		"description": ""
 	},
 	"general.playing": {
@@ -36,7 +52,11 @@
 		"description": ""
 	},
 	"general.searchFor": {
-		"message": "正搜索：",
+		"message": "正在搜索：",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "正在搜索个东西...",
 		"description": ""
 	},
 	"general.search": {
@@ -49,6 +69,10 @@
 	},
 	"general.store": {
 		"message": "Presence 市场",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "正看动画：",
 		"description": ""
 	},
 	"general.privacy": {
