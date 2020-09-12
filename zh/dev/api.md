@@ -29,6 +29,6 @@ PreMiD API 中所有 HTTP 图层服务和协议(如http) 使用 TLS 1.2。
 > {.is-danger}
 
 **选择 API 版本：**
-- [v2 *活动*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v2 *现行有效*](/dev/api/v2)
+- [v3 *进行中*](/dev/api/v3)
 {.links-list}
