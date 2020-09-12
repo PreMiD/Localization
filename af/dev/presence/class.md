@@ -1,6 +1,6 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Aanwesigheidsklas
+description: Die hoofklas vir elke PreMiD-teenwoordigheid
 published: true
 date: 2020-07-29T15:12:55.925Z
 tags:
@@ -197,12 +197,12 @@ teenwoordigheid.op ("UpdateData", async () => {    // Doen iets as data opgedate
 });
 ```
 
-There are few events available:
+Daar is min geleenthede beskikbaar:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Hierdie geleentheid word afgeskiet elke keer as die teenwoordigheid opgedateer word.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Uitgeskakel wanneer data vanaf die iFrame-skrif ontvang word.
