@@ -7,13 +7,13 @@ tags:
 editor: markdown
 ---
 
-# Presence Class
+# Aanwesigheidsklas
 
-## Introduction
+## Inleiding
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Die `Aanwesigheid` klas is baie handig, aangesien dit basiese metodes het wat ons benodig om 'n teenwoordigheid te skep.
 
- When you create a class you must specify `clientId` property.
+ Wanneer u 'n klas skep, moet u dit spesifiseer `kliënt-Id` eiendom.
 
 ```typescript
 let presence = new Presence({
@@ -21,7 +21,7 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Daar is twee eiendomme beskikbaar vir ` Aanwesigheid` class.
 
 #### `clientId`
 
