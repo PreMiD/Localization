@@ -9,10 +9,10 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # Installeer
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+### Chrome, Edge, ens.
+1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
+2. **Kies Chromium**.
+3. **Voeg by Chrome**.
 
 ### Opera
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
