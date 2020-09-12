@@ -140,19 +140,17 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+        Word gebruik as u wil wys hoeveel <code>ure:minute:sekondes</code> links.
+          <br>U moet u tyd omskakel na <code>tydstempel</code> of jy sal verkeerd wees countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
+      <td style="text-align:left">Definieer die volle duur.
         <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>U moet u tyd omskakel na <code>tydstempel</code> of jy sal verkeerd wees countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
