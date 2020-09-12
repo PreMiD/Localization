@@ -7,6 +7,10 @@
 		"message": "浏览中...",
 		"description": ""
 	},
+	"general.genre": {
+		"message": "类型",
+		"description": ""
+	},
 	"general.language": {
 		"message": "语言",
 		"description": "For choosing a language"
