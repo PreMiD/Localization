@@ -49,7 +49,7 @@ Wis u huidige aktiwiteit, die sleutelbande en die skinkbordtitel uit.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Hierdie metode werk slegs op Mac OS. 
 > 
 > {.is-warning}
 
@@ -57,11 +57,11 @@ Sets the tray title on the Menubar.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+'N Asynkrone metode waarmee u vertaalde snare van die uitbreiding kan kry. You must provide `Voorwerp` met sleutels wat die sleutel vir toutjies is, `sleutelwaarde` is die stringwaarde. 'N Samestelling van vertaalde snare kan gevind word met behulp van hierdie eindpunt: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Wys snare 'Speel' en 'Onderbreek'
+// vanaf uitbreiding.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -73,15 +73,15 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Wys 'n veranderlike van die webwerf as dit bestaan.
 
 ```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+var pageVar = getPageletiable ('. pageVar');
+console.log (pageVar); // Dit sal die "Veranderlike inhoud" aanmeld
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Wys weergawe van die uitbreiding wat die gebruiker gebruik.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
