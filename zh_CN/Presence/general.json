@@ -15,8 +15,16 @@
 		"message": "语言",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "正听音乐",
+		"description": ""
+	},
 	"general.live": {
 		"message": "直播",
+		"description": ""
+	},
+	"general.page": {
+		"message": "页",
 		"description": ""
 	},
 	"general.reading": {
