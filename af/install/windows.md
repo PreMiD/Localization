@@ -14,10 +14,10 @@ Die installering van die uitbreiding is baie belangrik, aangesien die toepassing
 1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
 2. **Kies Chromium**.
 3. Maak die installeerder oop.
-4. **Windows SmartScreen** sal verskyn as u PreMiD vir die eerste keer installeer. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. **Windows SmartScreen** sal verskyn as u PreMiD vir die eerste keer installeer. Klik op **Meer inligting** en kies dan **Hardloop in elk geval**. > Dit is omdat ons nie 'n Code Signing Certificate (CSC) het nie. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Die aansoek sal outomaties begin. Soek na die simbool in u stelselbakkie.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Moenie vergeet om te [voeg die **aansoek**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
