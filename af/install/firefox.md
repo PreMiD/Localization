@@ -9,7 +9,7 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # Installeer
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
