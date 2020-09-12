@@ -27,12 +27,24 @@
 		"message": "页",
 		"description": ""
 	},
+	"general.playing": {
+		"message": "正在播放",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "阅读中",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "正搜索：",
+		"description": ""
+	},
 	"general.search": {
 		"message": "搜索中",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "购物车",
 		"description": ""
 	},
 	"general.store": {
