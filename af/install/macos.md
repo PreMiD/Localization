@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Die installering van die toepassing is baie belangrik, aangesien die uitbreiding niks op sigself kan doen nie.
 
 # Installeer
 1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
