@@ -27,25 +27,25 @@ Daar is twee eiendomme beskikbaar vir ` Aanwesigheid` class.
 
 `kliënt-ID` eiendom moet voorsien word om u teenwoordigheid te laat werk, want dit gebruik u aansoek-ID om die logo en bates daarvan te vertoon.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+U kan dit op u [toepassingsbladsy](https://discordapp.com/developers/applications).
 
-## Methods
+## Metodes
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Opbrengste a `teenwoordigheidData` voorwerp van wat die teenwoordigheid vertoon.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Stel u profielaktiwiteit in volgens die gegewe data.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Eerste parameter vereis 'n `presenceData` koppelvlak om alle inligting wat u wil vertoon in u profiel te kry.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Tweede parameter definieer wanneer teenwoordigheid iets speel of nie. Gebruik dit altyd `waar` if you provide timestamps in `teenwoordigheidData`.
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Wis u huidige aktiwiteit, die sleutelbande en die skinkbordtitel uit.
 
 ### `setTrayTitle(String)`
 
