@@ -18,10 +18,10 @@ Die installering van die toepassing is baie belangrik, aangesien die uitbreiding
   - Voorbeelde (binnekort)
   - Gereelde vrae (binnekort)
   - Gebou (binnekort)
-  - [Support](#support)
+  - [Ondersteuning](#support)
   - [Krediete](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+  - [Lisensie](#license)
+- **[Snapcraft](#snapcraft)**(TL;DR : _nooit nie_™️)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
   - [Installation instructions](#installation-instructions)
   - [Additional notes](#additional-notes)
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Ondersteuning
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Lisensie
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
