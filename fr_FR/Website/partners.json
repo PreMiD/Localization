@@ -155,6 +155,10 @@
 		"message": "Derrière le meilleur du web.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit est votre station de radio de musique en ligne conçue pour jouer vos meilleurs résultats 24/7 et pour vous faire découvrir vos futurs tubes en premier.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
 		"description": "Partnership application modal title."
