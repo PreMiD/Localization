@@ -155,6 +155,10 @@
 		"message": "Achter het beste van het web.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHot is jouw online muziek radiostation, gemaakt om je de beste hits 24/7 af te spelen en om je als eerste de toekomstige hits te laten ontdekken.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Solliciteer voor partner",
 		"description": "Partnership application modal title."
