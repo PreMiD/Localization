@@ -155,6 +155,10 @@
 		"message": "Conozca lo mejor de la web.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit es tu emisora de radio de música online hecha para reproducir los mejores éxitos 24/7 y hacerte descubrir tus futuros éxitos primero.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Solicitar la colaboración",
 		"description": "Partnership application modal title."
