@@ -21,21 +21,21 @@ editor: markdown
 {.links-list}
 
 # Yapı
-Tüm serivlser [TypeScript](https://www.typescriptlang.org/) ile kodlanır. [TypeScript](https://www.typescriptlang.org/)'in içerisinde bulundurduğu bir çok tanımlamalar ile kodunuzdaki hataları bulmak çok daha kolay olacaktır.
+Tüm servisler [TypeScript](https://www.typescriptlang.org/) ile kodlanır. [TypeScript](https://www.typescriptlang.org/)'in içerisinde bulundurduğu bir çok tanımlamalar ile kodunuzdaki hataları bulmak çok daha kolay olacaktır.
 
 ## Yükleme
 1. [Git](https://git-scm.com/)'i yükleyin.
 2. [Node](https://nodejs.org/en/)'u yükleyin.
-3. Konsolunuzu açın ve [TypeScript](https://www.typescriptlang.org/index.html#download-links)'i yüklemek için `npm install -g typescript` yazın.
+3. [TypeScript](https://www.typescriptlang.org/index.html#download-links)'i yüklemek için konsolunuzu açın ve `npm install -g typescript` yazın.
 
 ## Projeyi klonlama
 1. Bir konsol açın ve `git clone https://github.com/PreMiD/Presences` yazın.
 2. Bir klasör seçin.
-3. Editörünüz ile bu klasörü açın.
+3. Bu klasörü kod editörünüzün içerisinde açın.
 
 ## Klasörleri ve dosyaları oluşturma
 
-1. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
+1. Desteklemek istediğiniz servisin **ismi** (URL olarak değil) ile bir klasör oluşturun.
 2. Bir `presence.ts` ve bir `tsconfig.json` dosyası oluşturun.
 3. Ana klasörün içine `dist` adında bir klasör oluşturun.
 4. `dist` klasörünün içine de bir `metadata.json` dosyası oluşturun.
@@ -321,7 +321,7 @@ setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum);
 */
 
 presence.on("UpdateData", async () => {
-    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Burayı dikkatli kullanın.
+    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli olarak gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Bu olay, mümkün olduğunca bir saniye içerisinde birkaç kez çağrılacaktır.
 
     Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak önerilir. */
 
