@@ -11,7 +11,7 @@ PreMiD, Discord oynuyor kısmınızda izlediğiniz/dinlediğiniz şeyleri göste
 
 # Neden PreMiD'i indirmelisiniz?
 - Projemiz tamamıyla açık kaynaktır! Kullanıcılarla birlikte çalışmak istiyoruz - onlara karşı değil.
-- Büyük ve beklenen bir özellik, Partiler, PreMiD'e yakın zamanda gelecek! Bunun anlamı arkadaşlarınızı davet edip ve aynı anda izleyebilme veya dinleyebilme özelliği. RPC ve (PreMiD'in kendisi dışında) buradaki özelliklerin tamamı [Discord](https://discordapp.com/) tarafından sağlanmıştır.
+- WatchParties (birlikte izleme) olarak bilinen büyük bir özellik yakın zamanda PreMiD'e eklenecek. Bunun anlamı izlediğiniz ya da dinlediğiniz videoya/filme/şarkıya arkadaşlarınızı davet edebilir ve eşzamanlı olarak izleyebilirsiniz. RPC ve (PreMiD'in kendisi dışında) buradaki özelliklerin tamamı [Discord](https://discordapp.com/) tarafından sağlanmıştır.
 
 # Ana özellikler
 - Bulunduğunuz siteyi (eğer destekliyorsa) Discord profilinizde gösterir.
