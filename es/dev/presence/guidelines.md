@@ -207,7 +207,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 > 
 > {.is-warning}
 
-> Cada presence sigue un estricto conjunto de reglas de linting que serán comprobadas durante el proceso de revisión. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Cada presence sigue un estricto conjunto de reglas de linting que serán comprobadas durante el proceso de revisión. Un par de recomendaciones pueden ser vistas a continuación. - [Recomendaciones de plugins de TypeScript para verificaciones "Strict Type Checking"](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [recomendaciones de ESlint](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -239,7 +239,7 @@ En algunas situaciones, las presences pueden comportarse inesperadamente o podr�
 
 - Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si el autor de la presence fue baneado del servidor oficial o no ha hecho los cambios requeridos en el periodo de un mes, puedes contactar con un verificador para ver si puedes reescribir la presence.
 - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Póngase en contacto con un verificador para más información sobre este tema.   - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Contacta a un verificador para más información sobre este tema.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
+-  Cualquiera puede proporcionar parches rápidos (hotfixes) para corregir errores; sin embargo, intenta **no** hacer cambios en el código que **no** necesitan ser corregidos. Las modificaciones válidas incluyen correcciones generales (código y tipos), adiciones (descripciones y etiquetas), archivos que faltan, etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
 
 # Verificación
 
@@ -255,14 +255,14 @@ En algunas situaciones, las presences pueden comportarse inesperadamente o podr�
 > 
 > {.is-warning}
 
-> Ten **siempre** un fork actualizado antes de crear el pull request. This will help limit false positives from the checks. 
+> Ten **siempre** un fork actualizado antes de crear el pull request. Esto facilitará falsos positivos de los chequeos. 
 > 
 > {.is-warning}
 
-El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmaran que tu presence cumple los estándares y será añadida en la tienda.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificador de Presences</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -297,7 +297,7 @@ Algunas cosas que deberías saber después de abrir una solicitud de pull reques
 
 Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. Todas estas comprobaciones ayudan a que los verificadores determinen si su presence es adecuada para su implementación.
 
-- `Codacy` is a bot that checks for code quality. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
+- `Codacy` es un bot que comprueba la calidad del código. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
 - `Schema Validation` escaneará su archivo `metadata.json` en busca de cualquier error (por ejemplo, campos faltantes, tipos de valor no válidos, etc.). Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos. Añadir un campo de esquema a su archivo `metadata.json` permitirá a su editor de texto (si es compatible) mostrar estos errores durante el desarrollo.
 
 ## `Reglas adicionales`
