@@ -2,9 +2,10 @@
 title: Wytyczne
 description: Reguły, których muszą przestrzegać wszyscy programiści Presence, aby ich Presence został zaakceptowany.
 published: tak
-date: 2020-08-31T02:26:49.039Z
+date: 2020-09-13T14:45:50.079Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
 # Wytyczne
@@ -206,6 +207,10 @@ Lista pól i ich zasad znajduje się poniżej:
 > 
 > {.is-warning}
 
+> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> 
+> {.is-info}
+
 Oto lista zasad, których musisz przestrzegać podczas pisania pliku `presence.ts`:
 
 - **Zawsze** deklaruj nową instancję klasy `Presence` przed jakąkolwiek inną zmienną, aby uniknąć problemów, które mogą wystąpić; nie jest to wymóg konstrukcyjny, więc w przyszłości można go usunąć.
@@ -233,11 +238,14 @@ Oto lista zasad, których musisz przestrzegać podczas pisania pliku `presence.t
 In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.   - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Skontaktuj się z recenzentem, aby uzyskać więcej informacji na ten temat.
-- Upewnij się, że zmiany są przydatne. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.    - Upewnij się, że zmiany są przydatne. These may include fixes (code and typos), additions (descriptions and tags), etc. Do **not** change images if they are not outdated and are in specifications.
+-  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
 # Weryfikacja
+
+> **Wszystkie** kody dodane do sklepu będą licencjonowane jako `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
 > Jeśli chcesz się z kimś skontaktować, użyj naszego oficjalnego serwera Discord. All reviewers will have the `Reviewer` role on their profile. 
 > 
@@ -247,23 +255,18 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-warning}
 
-> **Wszystkie** kody dodane do sklepu będą licencjonowane jako `Mozilla Public License 2.0`. 
-> 
-> {.is-info}
-
-> **Zawsze** miej aktualny "fork" przed utworzeniem "Pull Request". Pomoże to ograniczyć liczbę błędów pochodzących z `DeepScan`. 
+> **Zawsze** miej aktualny "fork" przed utworzeniem "Pull Request". This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
-Najważniejszym procesem rozwoju presence jest zamieszczenie Twojej presence w sklepie. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
+Najważniejszym procesem rozwoju presence jest zamieszczenie Twojej presence w sklepie. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Recenzenci</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/frozaum"><img src="https://github.com/frozaum.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/TheDropX"><img src="https://github.com/TheDropX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -290,11 +293,11 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 
 ## `Sprawdź`
 
-![Sprawdź](https://i.imgur.com/bk0A1iY.png)
+![Sprawdź](https://i.imgur.com/BCDZQe9.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). Jeśli zobaczysz nowe problemy, **musisz** je także naprawić. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Reguły dodatkowe`

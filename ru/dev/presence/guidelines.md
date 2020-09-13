@@ -2,9 +2,10 @@
 title: Руководство
 description: Правила, которым должны следовать все разработчики presence, чтобы добавить свое presence.
 published: true
-date: 2020-08-31T02:26:49.039Z
+date: 2020-09-13T14:45:50.079Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
 # Руководство
@@ -206,6 +207,10 @@ presence
 > 
 > {.is-warning}
 
+> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> 
+> {.is-info}
+
 Вот список правил, которые вы должны соблюдать при написании файла `presence.ts`:
 
 - ** Всегда ** объявляйте новый экземпляр класса ` Presence ` перед любой другой переменной, чтобы избежать редких проблем, которые могут возникнуть; это не является обязательным требованием по дизайну, поэтому оно может быть удалено в будущем.
@@ -233,11 +238,14 @@ presence
 В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
 - Вы ** не** можете переписать свой presence или сменить его автора. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- Любой может предоставить исправления для исправления ошибок; однако старайтесь ** не**, вносить изменения в код, который ** не ** нужно исправлять. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Допустимые изменения, но **не** ограничены, _отсутствующим путям_, _, опечатки_, _отсутствующие изображения_ и т. д.
 - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Свяжитесь с верификатором для получения дополнительной информации по этому вопросу.   - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Contact a reviewer for more information about this subject.
-- Убедитесь, что изменения полезны. Они могут включать исправления (коды и опечатки), дополнения (описания и теги) и т. д. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.    - Убедитесь, что изменения полезны. Они могут включать исправления (коды и опечатки), дополнения (описания и теги) и т. д. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
+-  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
 
 # Верификация
+
+> ** Весь ** код, добавленный в магазин, будет лицензирован в соответствии с `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
 > Если вам нужно связаться с кем-либо, пожалуйста, используйте наш официальный сервер Discord. All reviewers will have the `Reviewer` role on their profile. 
 > 
@@ -247,23 +255,18 @@ presence
 > 
 > {.is-warning}
 
-> ** Весь ** код, добавленный в магазин, будет лицензирован в соответствии с `Mozilla Public License 2.0`. 
-> 
-> {.is-info}
-
-> ** Всегда ** имейте актуальную ветвь перед созданием запроса. Это поможет ограничить ложные срабатывания от `DeepScan`. 
+> ** Всегда ** имейте актуальную ветвь перед созданием запроса. This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
-Наиболее важным процессом развития presence является получение Вашего presence в магазине. Это делается путем создания [ запроса ](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) на GitHub в хранилище ` PreMiD/Presences `. Our reviewers will confirm that your presence is up to standards and it will be pushed onto the store.
+Наиболее важным процессом развития presence является получение Вашего presence в магазине. Это делается путем создания [ запроса ](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) на GitHub в хранилище ` PreMiD/Presences `. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/frozaum"><img src="https://github.com/frozaum.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/TheDropX"><img src="https://github.com/TheDropX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -290,11 +293,11 @@ In this scenerio, the following changes will occur:
 
 ## `Проверки`
 
-![Проверки](https://i.imgur.com/bk0A1iY.png)
+![Проверки](https://i.imgur.com/BCDZQe9.png)
 
 В настоящее время presence проходит 2 отдельных этапа проверки. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- `DeepScan` - это бот, который проверяет качество кода. Если вы когда-либо получаете ошибки по новым проблемам, Вым ** необходимо ** их исправить.
+- `Codacy` is a bot that checks for code quality. Если вы когда-либо получаете ошибки по новым проблемам, Вым ** необходимо ** их исправить.
 - `Проверка схемы` просканирует файл `metadata.json` для любых ошибок (например, отсутствующие поля, недопустимые типы значений и т.д.). Если вы когда-нибудь увидите какие-либо новые проблемы, Вам также ** необходимо ** исправить их. Добавление поля схемы в файл `metadata.json` позволит вашему текстовому редактору (если поддерживается) показать вам эти ошибки во время разработки.
 
 ## `Дополнительные правила`
