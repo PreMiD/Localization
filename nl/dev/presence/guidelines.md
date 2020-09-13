@@ -2,9 +2,10 @@
 title: Richtlijnen
 description: Regels die alle presence-ontwikkelaars moeten volgen om hun presence te laten toevoegen.
 published: true
-date: 2020-08-31T02:26:49.039Z
+date: 2020-09-13T14:45:50.079Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
 # Richtlijnen
@@ -206,6 +207,10 @@ Hieronder vindt u een lijst met velden en hun regels:
 > 
 > {.is-warning}
 
+> Elke presence volgt een strikte linting regel-set, die tijdens het beoordelingsproces zal worden gecontroleerd. Er zijn hier enkele aanbevelingen te zien. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> 
+> {.is-info}
+
 Hier is een lijst met regels die je moet volgen bij het schrijven van je `presence.ts` bestand:
 
 - Verklaar **altijd** een nieuw instance van de `Presence` klasse voor een andere variabele om zeldzame problemen te voorkomen; Dit is geen vereiste voor ontwerp, zodat het in de toekomst kan worden geschrapt.
@@ -233,11 +238,14 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een lijst met regels die je **moet** volgen tijdens het wijzigen van presences.
 
 - U bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server is verbannen of niet de vereiste wijzigingen heeft aangebracht binnen een maand, kunt u contact opnemen met een verificateur om te zien of u de presence kunt herschrijven.
-- Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **niet** wijzigingen aan te brengen in de code die **niet** moet worden gecorrigeerd. Geldige wijzigingen zijn, maar **niet** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc. - Iedereen mag hotfixes aanbieden om bugs op te lossen; Probeer echter **niet** code aan te passen die **niet** opgelost hoeven worden. Geldige wijzigingen zijn, maar **niet** beperkt tot, _ontbrekende paden_, _typos_, _ontbrekende afbeeldingen_, etc.
 - Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.   - Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.
-- Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.    - Zorg dat de wijzigingen nuttig zijn. Dit kunnen fixes (code en typos) zijn, toevoegingen (beschrijvingen en tags) zijn, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.
+-  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.
 
 # Verificatie
+
+> **Alle** code die aan de winkel is bijgedragen zal een licentie krijgen onder de `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
 > Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle verificateurs hebben de rol `Reviewer` op hun profiel. 
 > 
@@ -247,23 +255,18 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 > 
 > {.is-warning}
 
-> **Alle** code die aan de winkel is bijgedragen zal een licentie krijgen onder de `Mozilla Public License 2.0`. 
-> 
-> {.is-info}
-
-> Heb **altijd** een up-to-date fork voordat je een pull-aanvraag aanmaakt. Dit zal valse positieven van `DeepScan` te beperken. 
+> Heb **altijd** een up-to-date fork voordat je een pull-aanvraag aanmaakt. This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
-Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en dat deze in de winkel zal worden gepusht.
+Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificateurs</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/frozaum"><img src="https://github.com/frozaum.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/TheDropX"><img src="https://github.com/TheDropX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -290,11 +293,11 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 
 ## `Controles`
 
-![Controles](https://i.imgur.com/bk0A1iY.png)
+![Controles](https://i.imgur.com/BCDZQe9.png)
 
 Op dit moment wordt de presence in twee afzonderlijke fasen gecontroleerd. Al deze controles helpen de verificateurs te bepalen of uw presence geschikt is voor implementatie.
 
-- `DeepScan` is een bot die controleert op coderingskwaliteit. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen.
+- `Codacy` is a bot that checks for code quality. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen.
 - `Schema Validation` zal uw `metadata.json` bestand scannen op fouten (bijvoorbeeld ontbrekende velden, ongeldige waarde types, etc.). Als je ooit nieuwe problemen ziet, ben je ook **verplicht** om die op te lossen. Het toevoegen van een schemaveld aan je `metadata.json` bestand zal je tekstverwerker (indien ondersteund) toestaan om deze fouten te tonen tijdens de ontwikkeling van je presence.
 
 ## `Aanvullende Regels`
