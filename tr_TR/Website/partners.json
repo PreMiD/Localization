@@ -155,6 +155,10 @@
 		"message": "İnternetin en iyilerinin arkasında.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit müzik ufkunuzu açan, gün boyu en sevilen şarkıları 7/24 çalan çevrimiçi bir müzik radyosudur.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Partnerliğe başvur",
 		"description": "Partnership application modal title."
