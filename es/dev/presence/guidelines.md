@@ -2,9 +2,10 @@
 title: Indicaciones
 description: Reglas que todos los desarrolladores de presences deben seguir para que su presence sea añadida.
 published: verdadero
-date: 2020-08-31T02:26:49.039Z
+date: 2020-09-13T14:45:50.079Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
 # Indicaciones
@@ -206,6 +207,10 @@ Una lista de los campos y sus reglas están listadas abajo:
 > 
 > {.is-warning}
 
+> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> 
+> {.is-info}
+
 Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `presence.ts`:
 
 - **Siempre** declare una nueva instancia de la clase `Presence` antes de cualquier otra variable para evitar problemas raros que puedan ocurrir; no es un requisito por diseño para que pueda ser eliminado en el futuro.
@@ -233,11 +238,14 @@ Aquí hay una lista de las reglas que debes seguir al escribir tu archivo `prese
 En algunas situaciones, las presences pueden comportarse inesperadamente o podrían realizar cambios menores para mejorar su funcionalidad. Aquí hay una lista de situaciones que **debes** tener en cuenta al modificar presences.
 
 - Usted **no** tiene permitido reescribir una presencia o cambiar su autor. Si el autor de la presence fue baneado del servidor oficial o no ha hecho los cambios requeridos en el periodo de un mes, puedes contactar con un verificador para ver si puedes reescribir la presence.
-- Cualquiera puede proporcionar parches rápidos (hotfixes) para corregir errores; sin embargo, intente **no** hacer cambios en el código que **no** necesitan ser corregidos. Las modificaciones validas, pero **no** limitadas a, _direcciones faltantes_, _errores tipográficos_, _imágenes faltantes_, etc. - Cualquiera puede proporcionar hotfixes para arreglar bugs, de todas maneras, intenta **no** hacer cambios al código que **no** necesita ser arreglado. Las modificaciones válidas puedes ser, pero **no** están limitadas a _rutas faltantes_, _errores tipográficos_, _imágenes faltantes_, etc.
 - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Póngase en contacto con un verificador para más información sobre este tema.   - Si haces modificaciones a una presencia que afecten al menos a un **un cuarto** del código base de la misma, tienes permitido añadirte como colaborador. Contacta a un verificador para más información sobre este tema.
-- Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.    - Asegúrese de que las modificaciones son útiles. Estos pueden incluir correcciones (de código o tipográficas), añadidos (descripciones y etiquetas), etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
+-  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **No** cambie las imágenes si no están desactualizadas y están en especificaciones.
 
 # Verificación
+
+> **Todo** código contribuido será bajo la licencia `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
 > Si necesitas contactar con alguien, por favor usa nuestro servidor oficial de Discord. Todas los verificadores tiene el rol de `Reviewer` en su perfil. 
 > 
@@ -247,23 +255,18 @@ En algunas situaciones, las presences pueden comportarse inesperadamente o podr�
 > 
 > {.is-warning}
 
-> **Todo** código contribuido será bajo la licencia `Mozilla Public License 2.0`. 
-> 
-> {.is-info}
-
-> Ten **siempre** un fork actualizado antes de crear el pull request. Esto facilitará falsos positivos de `DeepScan`. 
+> Ten **siempre** un fork actualizado antes de crear el pull request. This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
-El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Nuestros verificadores confirmaran que tu presence cumple los estándares y será añadida en la tienda.
+El proceso más importante de desarrollo de una presencia es publicar tu presencia en la tienda. Esto se hace haciendo un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) en GitHub en el repositorio `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificadores</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/frozaum"><img src="https://github.com/frozaum.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/TheDropX"><img src="https://github.com/TheDropX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -290,11 +293,11 @@ Algunas cosas que deberías saber después de abrir una solicitud de pull reques
 
 ## `Verificaciones`
 
-![Verificaciones](https://i.imgur.com/bk0A1iY.png)
+![Verificaciones](https://i.imgur.com/BCDZQe9.png)
 
 Actualmente, una presencia pasa por 2 etapas separadas de comprobaciones. Todas estas comprobaciones ayudan a que los verificadores determinen si su presence es adecuada para su implementación.
 
-- `DeepScan` es un bot que comprueba la calidad del código. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
+- `Codacy` is a bot that checks for code quality. Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos.
 - `Schema Validation` escaneará su archivo `metadata.json` en busca de cualquier error (por ejemplo, campos faltantes, tipos de valor no válidos, etc.). Si alguna vez recibes errores para nuevos problemas, eres **requerido** para corregirlos. Añadir un campo de esquema a su archivo `metadata.json` permitirá a su editor de texto (si es compatible) mostrar estos errores durante el desarrollo.
 
 ## `Reglas adicionales`
