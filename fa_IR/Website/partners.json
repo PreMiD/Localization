@@ -143,6 +143,10 @@
 		"message": "پشت بهترین های دنیای وب.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit یک ایستگاه رادیویی است که ساخته شده تا بهترین ضرب ها را در 24/7 برای شما پخش کند و اینکه برای شما بهترین ضرب های آینده را در اولین فرصت فراهم کند.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "درخواست همکاری",
 		"description": "Partnership application modal title."
