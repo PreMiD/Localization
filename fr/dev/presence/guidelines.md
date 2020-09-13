@@ -2,9 +2,10 @@
 title: Lignes directrices
 description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
 published: oui
-date: 2020-08-31T02:26:49.039Z
+date: 2020-09-13T14:45:50.079Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
 # Lignes directrices
@@ -206,6 +207,10 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 > 
 > {.is-warning}
 
+> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> 
+> {.is-info}
+
 Voici une liste de règles que vous devez suivre lors de l'écriture de votre fichier `presence.ts` :
 
 - **Toujours** déclarer une nouvelle instance de la classe `Presence` avant toute autre variable pour éviter des problèmes rares qui peuvent survenir ; ce n'est pas une exigence par conception, donc cela pourrait être supprimé dans le futur.
@@ -233,11 +238,14 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 Dans certaines situations, les presences peuvent se comporter de manière inattendue ou peuvent utiliser quelques modifications mineures pour améliorer leurs fonctionnalités. Voici une liste compilée que vous **devez** suivre pour modifier des presences.
 
 - Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période d'un mois, vous pouvez contacter un vérificateur pour voir si vous pouvez réécrire la presence de votre choix.
-- N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **pas** d'apporter des modifications au code n'ayant **pas** besoin d'être corrigé. Les modifications valides le sont, mais ne sont **pas** limitées à, des _chemins manquants_, _typos_, _images manquantes_, etc. - N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, n'essayez **pas** d'apporter des modifications au code qui n'a **pas** besoin d'être corrigé. Les modifications valides le sont, mais ne doivent **pas** être limitées à, des _chemins manquants_, des _typos_, des _images manquantes_, etc.
 - Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.   - Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.
-- Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.    - Assurez-vous que les modifications sont utiles. Celles-ci peuvent inclure des corrections (code et typos), des ajouts (descriptions et balises), etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
+-  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
 
 # Vérification
+
+> **Tout** le code contribué au magasin sera sous la licence `Mozilla Public License 2.0`. 
+> 
+> {.is-info}
 
 > Si vous avez besoin de contacter quelqu'un, veuillez utiliser notre serveur Discord officiel. Tous les évaluateurs auront le rôle `Reviewer` sur leur profil. 
 > 
@@ -247,23 +255,18 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 > 
 > {.is-warning}
 
-> **Tout** le code contribué au magasin sera sous la licence `Mozilla Public License 2.0`. 
-> 
-> {.is-info}
-
-> **Toujours** avoir une branche à jour avant de créer votre pull request. Cela aidera à limiter les faux positifs de `DeepScan`. 
+> **Toujours** avoir une branche à jour avant de créer votre pull request. This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
-Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos évaluateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
+Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Évaluateurs</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/frozaum"><img src="https://github.com/frozaum.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/TheDropX"><img src="https://github.com/TheDropX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -290,11 +293,11 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
 ## `Vérifications`
 
-![Vérifications](https://i.imgur.com/bk0A1iY.png)
+![Vérifications](https://i.imgur.com/BCDZQe9.png)
 
 Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est adaptée au déploiement.
 
-- `DeepScan` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
+- `Codacy` is a bot that checks for code quality. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
 - `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toutes erreurs (par exemple, champs manquants, types de valeurs invalides, etc.). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. L'ajout d'un champ de schéma à `metadata.json` permettra à votre éditeur de texte (si pris en charge) de vous montrer ces erreurs pendant le développement.
 
 ## `Règles supplémentaires`
