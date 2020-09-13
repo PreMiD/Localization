@@ -319,7 +319,7 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     </tr>
     <tr>
       <td style="text-align:left"><b>permainan</b></td>
-    <td style="text-align:left"><b>Game</b></td>
+    <td style="text-align:left"><b>Permainan</b></td>
       <td style="text-align:left">Website apapun yang memiliki konten tentang game, seperti <code>Kahoot</code> atau <code>Skribbl.io</code></td>
       </td>
     </tr>

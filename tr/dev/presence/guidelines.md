@@ -235,17 +235,17 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
 
 - Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya bir ay içerisinde herhangi bir değişiklik yapmadıysa, bir Gözden Geçiren ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
-- Herhangi biri kodda önemli düzeltmeler yapabilir, yine de, düzeltme gerektirmeyen yerleri düzeltmek **mecburi değildir**. Valid modifications are, but **not** limited to, _missing paths_, _typos_, _missing images_, etc.   - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes to code that does **not** need to be fixed. Geçerli düzeltmeler şunlar gibi olabilir; _eksik yollar_, _kelime hataları_, _geçersiz resimler_, vb.
-- Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Gözden Geçiren ile iletişime geçebilirsiniz.
+- Herhangi biri kodda önemli düzeltmeler yapabilir, yine de, düzeltme gerektirmeyen yerleri düzeltmek **mecburi değildir**. Geçerli düzeltmelere birkaç örnek _eksik yollar_, _yazım hataları_, _eksik resimler_ olabilir ancak bunlarla sınırlı **değildir**. Hataları düzeltmek için herkes koda katkıda bulunabilir ancak **gerekmediği** takdirde düzeltmeler yapmaktan da kaçınılmalıdır. Geçerli düzeltmeler şunlar gibi olabilir; _eksik yollar_, _kelime hataları_, _geçersiz resimler_, vb.
+- Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir inceleyici ile iletişime geçebilirsiniz.
 - Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.    - Değişiklikler yararlı olmalıdır. Bunlara düzeltme (kod ve yazım hataları), eklemeler (farklı dillerdeki açıklamalar) gibi şeyler girebilir. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
 
 # Onaylanma
 
-> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm gözden geçirenlerin profilinde `Reviewer` rolü vardır. 
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm inceleyicilerin profilinde `Reviewer` rolü vardır. 
 > 
 > {.is-info}
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> Lütfen inceleme ekibimizdeki üyelerin gönüllü olarak çalıştığını ve diğer işlerinin yanında bu işi yaptığını unutmayın, bu nedenle servis isteğiniz gönderildikten saatler, hatta belki günler sonra bile hâlâ onaylanma bekliyor olabilir. 
 > 
 > {.is-warning}
 
@@ -257,10 +257,10 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 > 
 > {.is-warning}
 
-Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Gözden geçirme ekibimizdekiler, servisiniz mağazaya eklenmeden önce, servisinizin kodunu inceleyecek ve standartlara uyup uymadığını kontrol edecektir.
+Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. İnceleme ekibimizdekiler, servisiniz mağazaya eklenmeden önce servisinizin kodunu inceleyecek ve standartlara uyup uymadığını kontrol edecektir.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">İnceleyiciler</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -271,13 +271,13 @@ Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekle
 
 ## `Kısıtlamalar`
 
-Talimatları çiğneme, pull request spamlama, tehditler, ya da uygunsuz davranış gibi tekrarlayan suçlar size servis oluşturmayı yasaklar.
+Talimatları çiğneme, servis paylaşma işlemini durmadan tekrar etme, tehditler veya uygunsuz davranış gibi tekrarlayan aktivitelerde bulunmak sizi servis oluşturma sisteminden yasaklatacaktır.
 
 Bu durumda, şu değişiklikler olur:
 
-- Yönetiminiz altındaki servisler ya PreMiD botuna, ya da başka bir kullanıcıya transfer edilecektir (gözden geçiren kararı). Her servis için uygulama kimliği yeni sahibin adı altında yeniden oluşturulacaktır.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Sizin adınıza oluşturulmuş, servis geliştiriciliği hakkındaki biletler silinecektir.
+- Yönetiminiz altındaki servisler (inceleyici kararına bağlı olarak) ya PreMiD botuna, ya da başka bir kullanıcıya transfer edilecektir. Her servis için uygulama kimliği yeni sahibin adı altında yeniden oluşturulacaktır.
+- Tüm hata bildirimleriniz ve servis paylaşımlarınız (servis oluşturma, başka bir servise katkıda bulunma vs.) kapatılacak ve geçersiz sayılacaktır.
+- Sizin adınıza oluşturulmuş servis geliştiriciliği hakkındaki biletler silinecektir.
 
 
 ## `İnceleme`
@@ -294,7 +294,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 
 ![Kontroller](https://i.imgur.com/bk0A1iY.png)
 
-Şu anda, bir servis, 2 adet otomatik doğrulama aşamasından geçmektedir. Bu iki doğrulama, gözden geçirenin kodunuzun çalışmaya hazır olup olmadığını ayırt etmesinde kolaylık sağlar.
+Şu anda, bir servis, 2 adet otomatik doğrulama aşamasından geçmektedir. Bu doğrulamalar, inceleme ekibimizin kodunuzun çalışmaya hazır olup olmadığını anlamasını kolaylaştırır.
 
 - `DeepScan` kod kalitesini kontrol eden bir otomattır. Hata almanız durumunda, aldığınız hatayı düzeltmekle **yükümlüsünüz**.
 - `Schmea Validation` ise `metadata.json` dosyanızı tarayıp, hatalı veya eksik veriler olup olmadığını kontrol etmek için vardır. Eğer burada da bir hata ile karşılaşırsanız, o hatayı da düzeltmelisiniz. `metadata.json` dosyanıza bir şema değeri eklemek, kodlama sırasında (eğer destekliyorsa) editörünüzün size hatalarını belirtmesini sağlar.

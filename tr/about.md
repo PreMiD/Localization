@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-PreMiD, basit ve kolayca ayarlanabilir bir şekilde Discord oynuyor statüsünüzde internet üzerinde ne yaptığınızı göstermeyi sağlar. Birçok platformu destekler ve ileri tarihlerde arkadaşlarınızla birlikte aynı anda bir şeyler izleyebilmenizi/dinleyebilmenizi sağlayacak bir güncelleme alacaktır.
+PreMiD, Discord oynuyor kısmınızda izlediğiniz/dinlediğiniz şeyleri gösterip kolaylıkla ayarlayabileceğiniz bir araçtır. Birçok platformu destekler ve ileri tarihlerde arkadaşlarınızla birlikte aynı anda bir şeyler izleyebilmenizi/dinleyebilmenizi sağlayacak bir güncelleme alacaktır.
 
 # Neden PreMiD'i indirmelisiniz?
 - Projemiz tamamıyla açık kaynaktır! Kullanıcılarla birlikte çalışmak istiyoruz - onlara karşı değil.

@@ -11,8 +11,8 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Discord uygulamasını mı kullanıyorsunuz?
-PreMiD, Discord'un tarayıcı sürümünde **çalışmaz**, [buradan](https://discord.com/download) uygulamayı indirmelisiniz.
+### Discord uygulamasını kullandığınıza emin misiniz?
+PreMiD, Discord'un tarayıcı sürümünde **çalışamaz**, bu yüzden [buradan](https://discord.com/download) uygulamayı indirmelisiniz.
 
 ### Bir servisi ayarlarla mı kullanıyorsunuz?
 Bazı servisler (`Twitch` ve `Soundcloud` buna dahildir) bir eklenti hatasından etkileniyor. Bu hata eklentinin varsayılan ayarları düzgün bir şekilde çekmesini engelliyor.
