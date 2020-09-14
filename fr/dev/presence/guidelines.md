@@ -239,7 +239,7 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 
 - Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période d'un mois, vous pouvez contacter un vérificateur pour voir si vous pouvez réécrire la presence de votre choix.
 - Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.   - Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations sur ce sujet.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
+-  N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, **n'essayez pas** d'apporter des modifications au code n'ayant **pas** besoin d'être corrigé. Les modifications valides incluent les corrections générales (code et typos), les ajouts (descriptions et balises), les fichiers manquants, etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
 
 # Vérification
 
@@ -255,14 +255,14 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 > 
 > {.is-warning}
 
-> **Toujours** avoir une branche à jour avant de créer votre pull request. This will help limit false positives from the checks. 
+> **Toujours** avoir une branche à jour avant de créer votre pull request. Cela permettra de limiter les faux positifs lors des contrôles. 
 > 
 > {.is-warning}
 
-Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos évaluateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Vérificateur de Presences</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -297,7 +297,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
 Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est adaptée au déploiement.
 
-- `Codacy` is a bot that checks for code quality. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
+- `Codacy` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
 - `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toutes erreurs (par exemple, champs manquants, types de valeurs invalides, etc.). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. L'ajout d'un champ de schéma à `metadata.json` permettra à votre éditeur de texte (si pris en charge) de vous montrer ces erreurs pendant le développement.
 
 ## `Règles supplémentaires`
