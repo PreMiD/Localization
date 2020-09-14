@@ -26,12 +26,12 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## 安装
 1. Install [Git](https://git-scm.com/).
 2. 安装 [节点](https://nodejs.org/en/) (带有 [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. 安装 [TypeScript](https://www.typescriptlang.org/index.html#download-links) （打开您的终端，然后输入：`npm install -g typescript`）
 
 ## 克隆项目
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Presences`
 2. 选择一个文件夹。
-3. Open it in you code editor.
+3. 用您的代码编辑器的开他。
 
 ## Creating folders and files
 
