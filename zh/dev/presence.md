@@ -20,7 +20,7 @@ editor: markdown
 - [准则](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# 目录结构
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## 安装
@@ -298,7 +298,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## 入门指南
 
 ```javascript
 var presence = new Presence({
@@ -411,6 +411,6 @@ The website you are developing on is automatically reloading every time you save
 # Files explained
 - [Presence 类](/dev/presence/class)
 - [iFrame类](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [元数据文件](/dev/presence/metadata)
 - [TypeScript 配置](/dev/presence/tsconfig)
 {.links-list}
