@@ -14,11 +14,11 @@ L'installation de l'extension est très importante car l'application ne peut rie
 2. Choisissez **Chromium**.
 3. Cliquez sur **Ajouter à Chrome**.
 
-### Opéras
+### Opera
 1. Ajouter **[Installer Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
 2. Ajoutez [notre extension](https://premid.app/downloads).
 
-> N'oubliez pas d'ajouter [l'application ****](/install). 
+> N'oubliez pas d'installer [l'application ****](/install). 
 > 
 > {.is-warning}
 
