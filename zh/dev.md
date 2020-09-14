@@ -18,7 +18,7 @@ tags:
 # 克隆项目
 1. 打开终端并输入 `git 克隆URL`。 **用你想要为** 贡献的资源库链接替换URL 例如： `git clone https://github.com/PreMiD/PreMiD`。
 2. 选择一个文件夹。
-3. Open it in your code editor.
+3. 使用您的代码编辑器打开他。
 
 # 安装依赖关系
 > 请确保您先安装 [npm](https://www.npmjs.com/) (Node Package Manager) 如果您安装了 [节点](https://nodejs.org/en/) ，它会自动安装自己。 
