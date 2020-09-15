@@ -11,6 +11,10 @@
 		"message": "章节",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "章",
 		"description": ""
@@ -33,6 +37,10 @@
 	},
 	"general.manga": {
 		"message": "漫画",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "商品",
 		"description": ""
 	},
 	"general.page": {
