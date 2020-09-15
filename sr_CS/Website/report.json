@@ -1,1 +1,14 @@
-{}
+{
+	"report.title": {
+		"message": "Prijavite grešku/neispravnost",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Prijave ostale",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.button": {
+		"message": "Izveštaj",
+		"description": "Button to send the information inputed."
+	}
+}
