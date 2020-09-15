@@ -181,7 +181,7 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Les autres aides AUR/Pacman fonctionnent également, bien que les fonctionnalités de chacun soient différentes de sorte que vous pourriez rencontrer des problèmes lors de leur utilisation.
+Les autres assistants AUR/Pacman fonctionnent également, bien que les fonctionnalités de chacun soient différentes, vous n'êtes pas à l'abri de rencontrer des problèmes lorsque vous les utilisez.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
