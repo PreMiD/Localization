@@ -142,29 +142,30 @@ Utilise les [Arch User Repository](https://aur.archlinux.org/packages/premid);</
 ### Instructions d'installation
 
 ```bash
-# Utiliser yay (recommandé)
+# Avec yay (recommandé)
 yay -S premid
 ```
 
 ```bash
-# Utilisation de pakku
+# Avec pakku
 pakku -S premid
 ```
 
 ```bash
-# En utilisant trizen :trizen -S premid
+# Avec trizen
+trizen -S premid
 ```
 
 ```bash
-# En utilisant pacaur
+# Avec pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... vous obtenez le point
+# ... vous m'avez compris
 ```
 
-ou manuellement à partir du [Repository utilisateur Arch](https://aur.archlinux.org/packages/premid) si vous savez ce que vous faites.
+ou manuellement à partir de l'[Arch User Repository](https://aur.archlinux.org/packages/premid) si vous savez ce que vous faites.
 
 <a name="archnotes"></a>
 
