@@ -188,7 +188,7 @@ Les autres assistants AUR/Pacman fonctionnent également, bien que les fonctionn
 
 ## Gentoo Linux
 
-Il en va de même pour ses dérivés, tels que ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+Il en va de même pour ses dérivés, tels que CloverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Notes complémentaires
 
-La commande d'installation montre l'utilise de layman, elle est dans les dépôts officiels à travers `app-portage/layman`.<br> Pour recevoir des mises à jour, vous devrez synchroniser l'overlay de temps à autre, vous pouvez le faire avec
+La commande d'installation utilise layman, elle est disponible dans les dépôts officiels à partir de `app-portage/layman`.<br> Pour recevoir des mises à jour, vous devrez synchroniser l'overlay de temps à autre, vous pouvez le faire avec
 
 ```bash
 layman -S
