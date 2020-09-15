@@ -128,14 +128,14 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Notes complémentaires
 
-Soit si vous voulez essayer PreMiD ou simplement ne voulez pas l'installer, C'est le meilleur, c'est toujours à jour mais _DOESN'T AUTO-START AVEC LE SYSTÈME!</br>Si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres paquets (selon votre distribution).
+Si vous voulez essayer PreMiD ou simplement ne voulez pas l'installer, c'est la meilleur méthode, c'est toujours à jour mais <br>_CELA NE DÉMARRE PAS AUTOMATIQUEMENT AVEC LE SYSTÈME!</br>. Si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres paquets (selon votre distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
 ## Distributions basées sur Arch Linux
 
-Les usages [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Les distributions supportées sont _elles-mêmes_, Manjaro, Anarchie, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS et [tous ceux qui prennent en charge l'installation à partir de AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Utilise les [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Les distributions supportées sont _elles-mêmes_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS et [toute les distros qui prennent en charge l'installation à partir de l'AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
