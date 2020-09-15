@@ -1,12 +1,12 @@
 ---
-title: Exigences
+title: Prérequis
 description: Prérequis pour installer PreMiD
 published: oui
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---
 
-# Exigences du système
+# Configuration requise
 
 > Ces données ne concernent que l'application. 
 > 
@@ -14,8 +14,8 @@ tags:
 
 PreMiD fonctionne sur pratiquement tous les systèmes. Cela signifie qu'il fonctionne sur **Linux**, **macOS**, **Windows** ainsi que sur certaines **Modifications Linux**.
 
-### UC
-PreMiD fonctionne parfaitement sur un processeur unique.
+### Processeur
+PreMiD fonctionne parfaitement bien sur un processeur monocore.
 
 ### RAM
 Les systèmes Linux devraient avoir **au moins 20 Mo de RAM** pour exécuter PreMiD. Les systèmes Windows et macOS nécessitent généralement un peu plus de RAM.
