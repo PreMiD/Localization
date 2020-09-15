@@ -1,5 +1,5 @@
 ---
-title: Fenêtres
+title: Windows
 description: Démarrage avec une installation PreMiD sous Windows
 published: oui
 date: 2020-02-12T22:08:41.501Z

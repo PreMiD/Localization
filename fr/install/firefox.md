@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Démarrage avec une installation PreMiD sur Firefox
+description: Installation de l'extension PreMiD sur Firefox
 published: oui
 date: 2020-02-12T22:08:32.409Z
 tags:

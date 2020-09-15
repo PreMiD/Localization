@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Commencer avec une installation PreMiD sous Linux
+description: Installation de l'application PreMiD sur Linux
 published: oui
 date: 2020-04-27T12:52:46.261Z
 tags:
