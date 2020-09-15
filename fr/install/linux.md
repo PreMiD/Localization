@@ -102,7 +102,7 @@ Merci à
 
 ## Snapcraft
 
-Probablement jamais, puisque la nature de Snap empêche PreMiD d'atteindre Discord et l'extension correctement,</br> Il serait apprécié que quelqu'un puisse le faire cependant, toutes les idées ou les PRs sont les bienvenues.</br> P.S.: le confinement classique ne fonctionne pas non plus donc ne vous ennuyez pas de faire une suggestion à ce sujet.
+Probablement jamais, puisque la nature de Snap empêche PreMiD d'atteindre Discord et l'extension correctement,</br> Il serait apprécié que quelqu'un puisse le faire cependant, toutes les idées ou toute les demande de fusions de branches sont les bienvenues.</br> P.S.: le confinement classique ne fonctionne pas non plus donc ne vous ennuyez pas de faire une suggestion à ce sujet.
 
 <img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
 <a name="appimage"></a>
