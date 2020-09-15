@@ -15,30 +15,30 @@ L'installation de l'application est très importante car l'extension ne peut rie
 - **[À propos](#about)**
   - [Statistiques](#stats)
   - [Prérequis](#requirements)
-  - Exemple (bientôt)
-  - FAQ (bientôt)
+  - Exemple (à venir)
+  - FAQ (à venir)
   - Immeuble (bientôt)
   - [Support](#support)
   - [Crédits](#credits)
-  - [License](#license)
+  - [Licence](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _jamais_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_CONSEILLÉ_)
-  - [Instructions d'Installation](#installation-instructions)
+- **[AppImage Portable](#portable-appimage)** (_CONSEILLÉ_)
+  - [Instructions d'installation](#installation-instructions)
   - [Notes complémentaires](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) basé distributions** (bientôt, utilisation [cette](#portable-appimage) pour l'instant)
-- **Distributions basées sur Debian et Ubuntu** (bientôt, utilisation [cette](#portable-appimage) pour l'instant)
-- **[Archiver les distributions basées sur Linux](#arch-linux-based-distributions)**
-  - [Instructions d'Installation](#installation-instructions-1)
+- **distributions basé sur Red Hat Enterprise Linux (RHEL)** (à venir, utilisez [ceci](#portable-appimage) pour l'instant)
+- **Distributions basées sur Debian et Ubuntu** (à venir, utilisez [ceci](#portable-appimage) pour l'instant)
+- **[Distributions basées sur Arch Linux](#arch-linux-based-distributions)**
+  - [Instructions d'installation](#installation-instructions-1)
   - [Notes complémentaires](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Instructions d'Installation](#installation-instructions-2)
+  - [Instructions d'installation](#installation-instructions-2)
   - [Notes complémentaires](#additional-notes-2)
 
 <a name="about"></a>
 
 ## À propos
 
-**PreMiD** est un utilitaire simple et configurable qui utilise la bibliothèque RP (Rich Presence) de Discord qui vous permet de montrer ce que vous faites sur le Web (et quelques programmes) dans votre profil Discord comme **status de lecture**. 
+**PreMiD** est un utilitaire simple et configurable qui utilise la bibliothèque RP (Rich Presence) de Discord. Cela vous permet de montrer ce que vous faites sur le Web (et quelques programmes) dans votre profil Discord comme **status de jeu**.
 
 <a name="stats"></a>
 
@@ -94,7 +94,7 @@ Merci à
 
 <a name="license"></a>
 
-### License
+### Licence
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -114,7 +114,7 @@ Le paquet AppImage est recommandé si Discord fonctionne pour vous, mais pas d'a
 
 <a name="appimageinstall"></a>
 
-### Instructions d'Installation
+### Instructions d'installation
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -134,13 +134,13 @@ Soit si vous voulez essayer PreMiD ou simplement ne voulez pas l'installer, C'es
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Archiver les distributions basées sur Linux
+## Distributions basées sur Arch Linux
 
 Les usages [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Les distributions supportées sont _elles-mêmes_, Manjaro, Anarchie, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS et [tous ceux qui prennent en charge l'installation à partir de AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Instructions d'Installation
+### Instructions d'installation
 
 ```bash
 # Utiliser yay (recommandé)
@@ -192,7 +192,7 @@ Il en va de même pour ses dérivés, tels que ColverOS, Clip-OS, Sabayon, Bicom
 
 <a name="gentooinstall"></a>
 
-### Instructions d'Installation
+### Instructions d'installation
 
 ```bash
 # Ajouter l'overlay en utilisant layman
