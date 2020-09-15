@@ -46,29 +46,28 @@ L'installation de l'application est très importante car l'extension ne peut rie
 
 <table>
   <tr>
-    <th>Déploiement
-</th>
+    <th>Déploiement</th>
     <th>Téléchargements total</th>
-    <th>Dernières version</th>
+    <th>Dernière version</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Toutes les versions"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Dernières version"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Version GitHub"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Dernière version"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Version GitHub"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Exigences
+### Prérequis
 
-Techniquement, chaque distribution qui peut exécuter Discord [officiel](https://discordapp.com/download) **app** (pas le web ou la version snap ) peut également exécuter PreMiD;</br> Comme vous l'avez peut-être remarqué ces dernières années, certaines distributions Linux ont commencé à abandonner la prise en charge des architectures 32 bits (ia32 / i686 / i386 / x86), et en conséquence, nous l'avons fait également. Vous pouvez cependant essayer de construire l'application vous-même si vous avez désespérément besoin de l'utiliser sur une distribution 32 bits.</br> Puisque nous utilisons actuellement Electron comme moteur (Discord le fait aussi !), ses exigences s'appliquent également à cette application :
+Techniquement, chaque distribution qui peut exécuter **l'application** Discord [officiel](https://discordapp.com/download) (pas la version web ou la version snap ) peut également exécuter PreMiD;</br> Comme vous l'avez peut-être remarqué ces dernières années, certaines distributions Linux ont commencé à abandonner la prise en charge des architectures 32 bits (ia32 / i686 / i386 / x86), et en conséquence, nous l'avons fait également. Vous pouvez cependant essayer de compiler l'application vous-même si vous avez désespérément besoin de l'utiliser sur une distribution 32 bits.</br> Puisque nous utilisons actuellement Electron comme moteur (Discord le fait aussi !), il est nécéssaire que vous utilisiez une des versions suivantes :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-On ne sait pas si les anciennes versions d'autres distributions le supportent, donc gardez votre distribution à jour et utilisez **LTS (Long-Term Support)** si votre distribution les offres, car ils sont plus stables (évitez les versions alpha).
+On ne sait pas si les anciennes versions d'autres distributions supporte l'application donc gardez votre distribution à jour et utilisez le**LTS (Long-Term Support)** si votre distribution le propose, ces versions sont plus stables (évitez les versions alpha).
 
 <a name="support"></a>
 
