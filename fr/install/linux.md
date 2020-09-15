@@ -14,7 +14,7 @@ L'installation de l'application est très importante car l'extension ne peut rie
 
 - **[À propos](#about)**
   - [Statistiques](#stats)
-  - [Exigences](#requirements)
+  - [Prérequis](#requirements)
   - Exemple (bientôt)
   - FAQ (bientôt)
   - Immeuble (bientôt)
