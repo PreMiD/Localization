@@ -12,7 +12,7 @@ tags:
 
 L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
 
-# Installer
+# Installation
 1. Rendez-vous sur notre page de téléchargements en [cliquant ici](https://premid.app/downloads).
 2. Choisissez **OS X**.
 3. Extraire l'archive si nécessaire.
