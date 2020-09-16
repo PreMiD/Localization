@@ -149,7 +149,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">Version Ihrer Anwesenheit.</td>
+      <td style="text-align:left">Version deiner Presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -194,7 +194,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategorie</b>
       </td>
       <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt.</td>
       <td style="text-align:left"><code>String</code>
