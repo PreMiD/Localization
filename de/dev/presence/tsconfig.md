@@ -42,8 +42,8 @@ In der Root-Konfigurationsdatei siehst du so etwas.
 | module                     | Mehr über diese [hier lesen](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                            |
 | target                     | Definiert die zu kompilierende JavaScript-Version.                                                                                                                  |
 | removeComments             | Kommentare aus kompilierten Dateien entfernen.                                                                                                                      |
-| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
+| noEmitOnError              | Gibt nichts aus, wenn Fehler gemeldet wurden.                                                                                                                       |
+| noFallthroughCasesInSwitch | Meldet Fehler für Falltrough-Fälle im Switch-Statement.                                                                                                             |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
 | noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
 | inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
