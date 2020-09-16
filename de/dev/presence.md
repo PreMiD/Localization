@@ -350,7 +350,7 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Setting all the values is done inside of the updataData event.
+Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Die Einstellung aller Werte ist fertig innerhalb des updataData Events.
 
 Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten.
 
@@ -358,7 +358,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 
 ## Du kannst bestimmte Daten nicht abrufen?!
 
-Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. But they're not relevant every time. Some are hidden or just not actively used. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
+Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht immer relevant. Manche sind versteckt oder einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
@@ -404,7 +404,7 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 
 ## Debugging
 - Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Wenn Dir das auch nicht hilft, frage einen Presenceentwickler auf unserem [Discord-Server](https://discord.premid.app/) um Hilfe.
 
 # Dateien erklärt
 - [Presence-Klasse](/dev/presence/class)
