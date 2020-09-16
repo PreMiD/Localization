@@ -210,7 +210,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>version</b>
       </td>
-      <td style="text-align:left">Version Ihrer Anwesenheit.</td>
+      <td style="text-align:left">Version deiner Presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nein</code>
@@ -255,7 +255,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategorie</b>
       </td>
       <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
       <td style="text-align:left"><code>String</code>
@@ -389,24 +389,24 @@ presence.on("iFrameData", data => {
 });
 ```
 **Hinweis:** Das muss außerhalb des updateData-Ereignisses platziert werden.
-## Compiling
+## Kompilieren
 Öffne eine Konsole in Deinem Ordner und gib `tsc -w` ein, um die `presence.ts` in den Ordner `/dist` zu kompilieren.
 
-# Loading the presence
+# Presence laden
 1. Öffne das Popup und halte die Taste <kbd>Shift</kbd> auf Deiner Tastatur gedrückt.
-2. **Load Presence** will appear in the Presences section.
+2. **Presence laden** wird im Presence-Bereich erscheinen.
 3. Klicke darauf, während Du die Taste <kbd>Shift</kbd> weiterhin gedrückt hälst.
 4. Wähle den Ordner /dist Deiner Präsenz.
 
-# Some helpful things
-## Hot-reloading
+# Einige hilfreiche Dinge
+## Hot-Neuladen
 Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, wenn Du eine Datei in Deinem Ordner speicherst.
 
 ## Debugging
 - Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
-# Files explained
+# Dateien erklärt
 - [Presence-Klasse](/dev/presence/class)
 - [iFrame-Klasse](/dev/presence/iframe)
 - [Metadatendatei](/dev/presence/metadata)
