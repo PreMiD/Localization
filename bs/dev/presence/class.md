@@ -177,13 +177,13 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Prvi red u vašoj presenci, obično se koristi kao zaglavlje.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Druga linija u vašoj presenci.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -191,25 +191,25 @@ This interface has following variables, all of them are optional.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Defines the current time.<br>
         Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Morate pretvoriti svoje vrijeme u <code>timestamp</code> ili ćete pogrešno shvatiti
+           countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
+      <td style="text-align:left">Definira puno trajanje.
         <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Morate pretvoriti svoje vrijeme u <code>timestamp</code> ili ćete pogrešno shvatiti
+           countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Definira logotip za presencu.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -246,7 +246,7 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Eventi vam omogućavaju da otkrijete i obradite neke promjene ili pozive koji su upućeni. Možete se pretplatiti na evente pomoću metode `on`.
 
 
 
