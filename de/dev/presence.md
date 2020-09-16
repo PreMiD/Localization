@@ -110,7 +110,7 @@ Wir haben eine `metadata.json`-Datei für die Lazy Peeps [hier](https://eggsy.co
 ```
 
 Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du musst jetzt die Werte der Eigenschaften bearbeiten. Beachte, dass die folgenden Eigenschaften in Deiner `metadata.json` optional sind. Wenn Du sie nicht verwenden möchten, musst Du sie entfernen.
-- `contributors`
+- `mitwirkende`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -128,7 +128,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b>
+      <td style="text-align:left"><b>autor</b>
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>name</code> und <code>id</code> des Presenceentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner(#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Object</code>
@@ -137,7 +137,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>mitwirkende</b>
       </td>
       <td style="text-align:left">Sollte Objekt mit <code>name</code> und <code>id</code> des Presenceentwicklers enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner(#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
