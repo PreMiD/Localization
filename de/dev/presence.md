@@ -180,10 +180,10 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       <td style="text-align:left">URL des Dienstes.<br><b>Beispiel:</b><code>vk.com</code><br>
         <b>Diese URL muss mit der URL der Webseite übereinstimmen, da sie erkennt, ob dies die Webseite ist, der das Skript injiziert werden soll.</b><br> <b>Fügen sie <b> NICHT <code>https://</code> oder <code>http://</code> innerhalb der URL oder am Ende ein Slash hinzu!:
 <code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Notiz</b>: Einige URLs können <code>www.</code> oder etwas anderes vor ihrer Domain haben. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+<b>Notiz</b>: Einige URLs können <code>www.</code> oder etwas anderes vor ihrer Domain haben. <b>NICHT</b> vergessen, es hinzufügen!<br>
+Du kannst mehrere URLs hinzufügen, indem du folgendes tust:<br>
+<code>["URL1", "URL2", "ETC.]</code><br>
+Du kannst auch regExp verwenden, auch bekannt als Regex für diese Aufgabe, weiter unten erklärt.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -275,7 +275,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Ein Selektor für reguläre Ausdrücke, der iframes auswählt, in die injiziert werden soll. See regExp for more info.</td>
+      <td style="text-align:left">Ein Selektor für reguläre Ausdrücke, der iframes auswählt, in die injiziert werden soll. Siehe regExp für weitere Informationen.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
@@ -360,7 +360,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 
 Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht immer relevant. Manche sind versteckt oder einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf dem **Elements** Tab) befindest.
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
