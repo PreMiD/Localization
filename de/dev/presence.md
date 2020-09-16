@@ -284,8 +284,8 @@ TLD standing for Top Level Domain for axample: .com .net<br>
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Ein Array von Einstellungen, die der Benutzer ändern kann.<br>
+      Lese mehr über Presenceeinstellungen <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">hier</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ja</code>
