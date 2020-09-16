@@ -63,9 +63,9 @@ This is a false positive from McAfee and we have reported the issue to them, for
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
+1. Öffne die McAfee-Anwendung und klicke auf das Einstellungssymbol oben rechts. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Klicke auf "In Quarantäne gestellte Objekte" (Zweite von oben).
+3. Erweitere es und klicke auf das `>` Symbol vor einem Element mit dem Namen "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
 6. Click "Real-Time Scanning" (Third from the top).
