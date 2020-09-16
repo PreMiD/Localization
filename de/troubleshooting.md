@@ -59,7 +59,7 @@ Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht fu
 ### McAfee erkennt PreMiD als Virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> Wenn du dich nicht wohl fühlst mit diesen Schritten, fühl dich frei ein Ticket im [#support](https://discord.gg/WvfVZ8T) zu erstellen und einer der Support-Agenten wird dir helfen können! 
 > 
 > {.is-warning}
 
@@ -72,7 +72,7 @@ This is a false positive from McAfee and we have reported the issue to them, for
 7. Erweitere es und klicke auf "Datei hinzufügen".
 8. Gib "%appdata%" in die Adressleiste vom Dateimanager ein und drücke auf Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. Öffne den "PreMiD" Ordner und wähle die "PreMiD.exe" Datei aus und öffne sie. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+10. McAfee sollte nun unsere Datei ignorieren, starte einfach unsere Anwendung und dann sollte es funktionieren.
 
 ### Das hat mein Problem nicht gelöst
 Bitte öffne ein Ticket unter [#support](https://discord.premid.app/).
