@@ -12,12 +12,12 @@ editor: markdown
 > {.is-warning}
 
 ### Verwendest du die Discord App?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+PreMiD funktioniert **nicht** mit der Browserversion von Discord, du musst dir die App [hier](https://discord.com/download) runterladen.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Verwendest du eine Presence mit Einstellungen?
+Viele Presences (inklusive `Twitch` und `SoundCloud`) sind von einem Erweiterungsproblem betroffen. Das Problem bewirkt, dass die Erweiterung die Standardwerte der Einstellungen nicht richtig erfasst.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Um das zu lösen, musst du nur die oberste Einstellung ändern: ![presencesettings.gif](/presencesettings.gif)
 
 ### Die Seite neu laden
 Statt nach dem Aktualisieren-Knopf zu suchen, kannst du <kbd>STRG+R</kbd>/<kbd>F5</kbd>(für Windows) oder <kbd>CMD+R</kbd>(für MacOS) auf deiner Tastatur eingeben.
@@ -56,7 +56,7 @@ MacOS:`~/users/USER/~Library/Application Support/`und lösche den Ordner` PreMiD
 ### Auf Ubuntu/Debian basierten Distributionen
 Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. Du musst die Snapcraft Version deinstallieren, indem du `sudo snap remove discord` auf einem Terminal eingibst, lade als nächstes [Discords Linux Build](https://discordapp.com/api/download?platform=linux) herunter ([oder Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigiere dann zu dem Verzeichnis, in welchem du Discord heruntergeladen hast (üblicherweise `$HOME/Downloads`), installiere dann das Paket mit `sudo dpkg -i discord-*.deb`.
 
-### McAfee detected PreMiD as virus (Windows)
+### McAfee erkennt PreMiD als Virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
