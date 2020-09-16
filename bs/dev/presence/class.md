@@ -108,7 +108,7 @@ console.log(pageVar); // This will log the "Variable content"
 
 ### `getExtensionVersion(Boolean)`
 
-Returns version of the extension the user is using.
+Vraća verziju ekstenzije koju korisnik koristi.
 
 
 ```typescript
