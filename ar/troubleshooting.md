@@ -15,12 +15,12 @@ editor: markdown
 لا يعمل **** على إصدار متصفح ديسكورد، يجب عليك تحميل التطبيق [هنا](https://discord.com/download).
 
 ### هل تستخدم مشاركة مع الإعدادات؟
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+تتأثر العديد من حالات التواجد (بما في ذلك ` Twitch `و SoundCloud</code>) بمشكلة الملحق. تؤدي هذه المشكلة إلى عدم التقاط الامتداد للقيم الافتراضية للإعدادات بشكل صحيح.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+لحل هذه المشكلة ، كل ما عليك فعله هو تبديل الإعدادات الموجودة في الاعلى: ![presencesettings.gif](/presencesettings.gif)
 
 ### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أيضا بدلا من البحث عن زر التحديث.
 
 ### Restart your browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
