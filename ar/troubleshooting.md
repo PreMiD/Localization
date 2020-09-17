@@ -1,20 +1,20 @@
 ---
 title: إصلاح الاخطاء
-description: Everything to solve your problem
+description: كل شيء لحل مشكلتك
 published: true
 date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> تأكد من أن لديك الإضافة **و** تم تثبيت التطبيق! 
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### هل تستخدم تطبيق ديسكورد؟
+لا يعمل **** على إصدار متصفح ديسكورد، يجب عليك تحميل التطبيق [هنا](https://discord.com/download).
 
-### Are you using a presence with settings?
+### هل تستخدم مشاركة مع الإعدادات؟
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
