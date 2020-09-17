@@ -1,6 +1,6 @@
 {
 	"beta.title": {
-		"message": "چه ویژگی های جدیدی?",
+		"message": "ویژگی های جدید می خواهید?",
 		"description": "Beta page title"
 	},
 	"beta.description.1": {
@@ -8,7 +8,7 @@
 		"description": "Section description"
 	},
 	"beta.description.2": {
-		"message": "چه چیز هایی را در صورت ثبت نام میگیرید?",
+		"message": "چه چیز هایی را در صورت ثبت نام به دست می آورید?",
 		"description": "Section description"
 	},
 	"beta.features.1": {
@@ -16,7 +16,7 @@
 		"description": "Features list"
 	},
 	"beta.features.2": {
-		"message": "دسترسی به چنل های نوشتنی مخفی PreMiD",
+		"message": "دسترسی به چنل های نوشتاری مخفی PreMiD",
 		"description": "Features list"
 	},
 	"beta.features.3": {
