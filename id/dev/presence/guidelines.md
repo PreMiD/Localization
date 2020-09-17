@@ -239,7 +239,7 @@ Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhka
 
 - Anda **tidak** diperbolehkan untuk menulis ulang sebuah presence atau merubah penciptanya. Jika pencipta presence terkena ban dari server resmi atau belum membuat perubahan yang dibutuhkan dalam waktu satu bulan, anda dapat menghubungi reviewer untuk meminta menulis ulang presence tersebut.
 - Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.   - Jika anda membuat perubahan pada presence dan merubahnya setidaknya **seperempat** dari codebase presence, anda diperbolehkan untuk menambahkan diri sebgai kontributor. Hubungi reviewer untuk informasi lebih lanjut tentang hal ini.
--  Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, **jangan ** membuat perubahan yang **tidak** diperlukan. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.
+-  Siapapun diperbolehkan untuk memberi hotfix untuk memperbaiki bug; tetapi, **jangan ** membuat perubahan yang **tidak** diperlukan. Perubahan yang diperbolehkan termasuk perbaikan umum (kode dan typo), penambahan (deskripsi dan tag), file hilang, dll. **Jangan** menganti gambar jika tidak outdated dan masih dalam spesifikasi.
 
 # Verifikasi
 
@@ -255,11 +255,11 @@ Pada situasi tertentu, presence mungkin berperilaku aneh atau mungkin membutuhka
 > 
 > {.is-warning}
 
-> **Selalu** miliki fork yang up-to-date sebelum membuat pull request. This will help limit false positives from the checks. 
+> **Selalu** miliki fork yang up-to-date sebelum membuat pull request. Hal ini dapat membatasi false positive. 
 > 
 > {.is-warning}
 
-Proses yang penting dalam pengembangan presence adalah memasang presencemu di toko. Itu dapat dilakukan dengan membuat[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) di github pada repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Proses yang penting dalam pengembangan presence adalah memasang presencemu di toko. Itu dapat dilakukan dengan membuat[pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) di github pada repository `PreMiD/Presences`. Reviewer kami akan mengkonfirmasi jika presencemu sesuai standar dan akan segera di pasang di toko.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Reviewer Presence</h2>
