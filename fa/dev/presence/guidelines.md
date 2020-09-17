@@ -247,7 +247,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-info}
 
-> If you need to contact someone, please use our official Discord server. All reviewers will have the `Reviewer` role on their profile. 
+> اگر شما به کمک دیگران نیازمندید، لطفا از طریق سرور رسمی دیسکورد ما تماس بگیرید. تمام بازبین ها نقش `بازبین` در پروفایل‌شان دارند. 
 > 
 > {.is-info}
 
