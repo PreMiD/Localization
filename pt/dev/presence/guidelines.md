@@ -124,7 +124,7 @@ Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados 
 > 
 > {.is-warning}
 
-> Todas as imagens no arquivo `metadata` devem estar hosteadas em `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Todas as imagens no arquivo `metadata` devem estar hosteadas em `i.imgur.com`. Usando o conteúdo hosteado no site **não** é permitido que mude os caminhos e arquivos de forma indesejada. 
 > 
 > {.is-warning}
 
@@ -297,7 +297,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 
 Atualmente, uma presença deve passar por 2 fases de checagem. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- `Codacy` is a bot that checks for code quality. Se você receber erros por novas issues, é **necessário** corrigi-los.
+- `Codacy` é um bot que checa a qualidade do código. Se você receber erros por novas issues, é **necessário** corrigi-los.
 - `Schema Validation` vai escanear seu arquivo `metadata.json` por qualquer erros (por exemplo, campos ausentes, tipos de valores inválidos, etc.). Se você ver novas issues, também será **necessário** corrigi-los. Adicionar um campo de esquema ao seu arquivo `metadata.json` permitirá que seu editor de texto (se suportado) mostre esses erros durante o desenvolvimento.
 
 ## `Notas Adicionais`
