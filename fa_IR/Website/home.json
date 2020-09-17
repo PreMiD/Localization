@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** یک ابزار ساده و قابل تنظیم است که به شما اجازه می دهد تا به دیگران به عنوان استاتوس دیسکورد نشان دهید که در اینترنت چه می کنید.",
+		"message": "**PreMiD** یک ابزار ساده و قابل تنظیم است که به شما اجازه می دهد تا به دیگران به عنوان وضعیت دیسکورد نشان دهید که در اینترنت چه می کنید.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -40,7 +40,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "ما افزونه خود را به گونه ای ایجاد کردیم که به شما امکان می دهد Presence های ایجاد شده توسط دیگران را اضافه و استفاده کنید و آنها را در برنامه افزودنی خود مدیریت کنید!",
+		"message": "ما افزونه خود را به گونه ای ایجاد کردیم که به شما امکان می دهد Presence های ایجاد شده توسط دیگران را اضافه و استفاده کنید و آنها را افزونه ما مدیریت کنید!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
