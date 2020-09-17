@@ -154,5 +154,9 @@
   "downloads.skipanyway.message6": {
     "message": "โอเค โอเค...",
     "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "แสดงดาวน์โหลดเบต้า",
+    "description": ""
   }
 }
