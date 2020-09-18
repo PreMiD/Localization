@@ -151,6 +151,10 @@
 		"message": "מאחורי המיטב באינטרנט.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit זה הרדיו שירים אונליין הנוצר לנגן את הביטים הכי טובים 24/7 ולגלות את הביטים החדשים ראשון.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "הגש בקשה לשותף",
 		"description": "Partnership application modal title."
@@ -210,6 +214,10 @@
 	"partners.apply.form.button.close": {
 		"message": "סגור",
 		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "להגיש מועמדות",
+		"description": "Modal apply button."
 	},
 	"partners.apply.error3": {
 		"message": "אנא הוסף קישור (צריך להתחיל ב- https: // ולסיים ב- .png)",
