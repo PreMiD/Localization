@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "תכונות",
+		"message": "אפשרויות",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
@@ -72,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "משהו מתקלקל, שולח לך טונות של שגיאות או פשוט לא עובד? אנו נעזור לך להיפטר מהבעיות בשרת Discord שלנו, יצרנו גם מערכת תמיכה משלנו שתבטיח שהבעיה שלך תיפתר בהקדם האפשרי.",
+		"message": "משהו התקלקל, שולח לך המון שגיאות או פשוט לא עובד? אנו נעזור לך להיפטר מהבעיות בשרת Discord שלנו, יצרנו גם מערכת תמיכה משלנו שתבטיח שהבעיה שלך תיפתר בהקדם האפשרי.",
 		"description": "Features section description"
 	},
 	"home.languageSelector.tippy": {
