@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "** PreMiD ** הוא כלי פשוט להגדרה המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה- Discord שלך כעת.",
+		"message": "**PreMiD** הוא כלי פשוט להגדרה המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה- Discord שלך כעת.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -74,6 +74,10 @@
 	"home.features.quickSupport.description": {
 		"message": "משהו התקלקל, שולח לך המון שגיאות או פשוט לא עובד? אנו נעזור לך להיפטר מהבעיות בשרת Discord שלנו, יצרנו גם מערכת תמיכה משלנו שתבטיח שהבעיה שלך תיפתר בהקדם האפשרי.",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "הצטרף לדיסקורד שלנו",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "שפת האתר",

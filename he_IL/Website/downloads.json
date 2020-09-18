@@ -107,6 +107,10 @@
     "message": "חזור",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "בטל",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "אישור",
     "description": "Button on the modal of Opera/Edge browsers."
