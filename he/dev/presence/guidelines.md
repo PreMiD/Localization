@@ -1,6 +1,6 @@
 ---
 title: הנחיות
-description: Rules all presence developers must follow to have their presence added.
+description: כל החוקי שמפתחי ה presence צריכים לעקוב בשביל שנוסיף את ה presence שלהם.
 published: true
 date: 2020-09-13T14:45:50.079Z
 tags:
