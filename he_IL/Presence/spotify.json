@@ -7,6 +7,10 @@
 		"message": "הפודקאסטים הכי טובים",
 		"description": ""
 	},
+	"spotify.genres": {
+		"message": "חפש בין ג'אנרים",
+		"description": ""
+	},
 	"spotify.madeForYou": {
 		"message": "\"נוצר עבורך\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
