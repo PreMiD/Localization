@@ -15,8 +15,20 @@
 		"message": "שפה",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "מקשיב למוזיקה",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "מאזינים",
+		"description": ""
+	},
 	"general.live": {
 		"message": "שידור חי",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "מנגה",
 		"description": ""
 	},
 	"general.reading": {
