@@ -24,11 +24,11 @@ editor: markdown
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## התקנה
-1. Install [Git](https://git-scm.com/).
+1. התקן [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. התקן [TypeScript](https://www.typescriptlang.org/index.html#download-links) (פתח מהסוף ו- `npm install -g typescript`).
 
-## Cloning the project
+## שכפל את הפרויקט
 1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Presences `.
 2. Choose a folder of your choice.
 3. פתח אותו בעורך הקוד שלך.
