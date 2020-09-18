@@ -10,17 +10,17 @@ tags:
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
+# התקן את הדברים הדרושים
+1. התקן [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
-# Cloning the project
+# שכפל את הפרויקט
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Choose a folder of your choice.
 3. Open it in your code editor.
 
-# Installing dependencies
+# התקן את הדרושים
 > Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
 > 
 > {.is-warning}
