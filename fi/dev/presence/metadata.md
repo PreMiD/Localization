@@ -196,7 +196,7 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategoria</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
       <td style="text-align:left"><code>String</code>

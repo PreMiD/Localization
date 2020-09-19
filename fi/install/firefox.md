@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: PreMiD-asennuksen aloittaminen Firefox-selaimessa
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
@@ -9,7 +9,7 @@ tags:
 Laajennuksen asentaminen on erittäin tärkeää, koska sovellus ei voi tehdä mitään itsenään.
 
 # Asenna
-1. Mene meidän lataus sivulle [klikkaamalla tästä](https://premid.app/downloads).
+1. Mene meidän lataus-sivullemme [klikkaamalla tästä](https://premid.app/downloads).
 2. Valitse **Firefox**.
 3. Etsi `about:addons`.
 4. Napauta oikeassa yläkulmassa olevaa rataskuvaketta.

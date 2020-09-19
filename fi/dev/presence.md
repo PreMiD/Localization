@@ -53,7 +53,7 @@ Please put the following code inside of the `tsconfig.json` file.
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
 ## metadata.json-tiedoston täyttäminen
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). On silti suositeltavaa, että lukee tämän läpi, jotta tiedät, miten se toimii.
 
 ```json
 {
@@ -109,7 +109,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Please copy the code above and put it in your `metadata.json` file. Nyt sinun täytyy muokata ominaisuuksien arvoja. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `osallistujat`
 - `regExp`
 - `iframe`
@@ -257,7 +257,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
+      <td style="text-align:left"><b>kategoria</b>
       </td>
       <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code>
@@ -298,7 +298,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Näin pääset alkuun
 
 ```javascript
 var presence = new Presence({
@@ -352,7 +352,7 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+You can copy this into your `presence.ts` file and edit the values. Kaikkien arvojen asettaminen tapahtuu updataData-tapahtuman sisällä.
 
 For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
@@ -360,16 +360,16 @@ For more information about the Presence class click [here](/dev/presence/class).
 
 ## Can't get certain data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Nämä html-tagit voivat sisältää useita lähteitä, kuten videoita. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+3. Suorita `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
+1. Luo `iframe.ts` tiedosto.
 2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+3. iFrame-tiedoston täyttäminen.
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
