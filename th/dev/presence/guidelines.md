@@ -54,15 +54,15 @@ presence
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> ขอแนะนำให้คุณจัดระเบียบไฟล์ `metadata` ในรูปเเบบข้างล่างนี้, และคุณต้องมีชื่อบริการที่ถูกต้องตามหลักไวยากรณ์, คําอธิบาย, เเท๊ก, เเละ การตั่งค่าต่างๆ สิ่งที่ไม่ได้จัดระเบียบการข้อกําหนดจะ**ไม่ผ่านการอนุมัติ** 
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Presence สําหรับเว็บไซต์ที่มีเนื้อหาที่ชัดเจน **ต้องมี **`nsfw เเท๊ก`, เเละ โลโก้หรือภาพย่อต้อง **ไม่เกี่ยวกับเนื้อหาพวกนี้** 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+เเต่ละ Presence มีตัวบอกไฟล์ เรียกว่า `metadata.json`, metadata ต้องได้มาตรฐานและตัวอย่างของไฟล์นี้สามารถดูได้ด้านล่าง:
 
 ```json
 {
