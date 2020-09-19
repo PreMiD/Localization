@@ -23,7 +23,7 @@ editor: markdown
 # Structure
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## Installation
+## 설치
 1. [Git](https://git-scm.com/) 설치하기
 2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
