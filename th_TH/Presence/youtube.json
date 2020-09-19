@@ -95,6 +95,10 @@
         "message": "กำลังดูแปลภาษาของวิดีโอ",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "กําลังดูไฟล์",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
         "message": "ช่องการวิเคราะห์",
         "description": "Part two of \"Viewing their\""
