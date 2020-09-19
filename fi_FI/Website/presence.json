@@ -19,6 +19,10 @@
 		"message": "Versio",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.likes": {
+		"message": "Tykkäykset",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
 	"presence.sections.information.users": {
 		"message": "Käyttäjät",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"

@@ -83,6 +83,10 @@
     "message": "Voit liittyä meidan beta ohjelmaan ilmaiseksi **täältä**. Kiirehdi! Meillä on vain {0} paikkaa saatavilla",
     "description": "More info if the user doesn't alpha/beta access."
   },
+  "downloads.latest.header": {
+    "message": "Varhaiset Julkaisut",
+    "description": "Header above alpha/beta download buttons."
+  },
   "downloads.warning.title": {
     "message": "Varoitus",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
@@ -114,5 +118,17 @@
   "downloads.adsbox.thankyou.title": {
     "message": "Kiitos!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "En halua tukea.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Oletko varma?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Oikeastikko?",
+    "description": "Skip anyway messages (changes everytime you click it)."
   }
 }
