@@ -51,6 +51,10 @@
         "message": "시스템 요구 사항",
         "description": "A page name"
     },
+    "premid.pageInstall": {
+        "message": "설치",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "문제 해결",
         "description": "A page name"
