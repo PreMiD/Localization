@@ -1,12 +1,12 @@
 ---
-title: Getting Started
+title: Alkuun Pääseminen
 description: A little advise for those who got into coding recently
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. Suosittelemme käyttämään Visual Studio Codea. 
+> Lähdekoodieditori on pakollinen. Suosittelemme käyttämään Visual Studio Codea. 
 > 
 > {.is-info}
 
