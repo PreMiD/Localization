@@ -6,7 +6,7 @@ date: 2020-02-12T22:05:12.168Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Ennen kuin menet pidemmälle, varmista, että järjestelmä täyttää kaikki [vaatimukset](/install/requirements). 
 > 
 > {.is-info}
 
@@ -15,14 +15,14 @@ tags:
 > {.is-warning}
 
 **Choose your operating system:**
-- [Windows *7 or above*](/install/windows)
-- [macOS *10.11 or above*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+- [Windows *7 tai uudempi*](/install/windows)
+- [macOS *10.11 tai uudempi*](/install/macos)
+- [Linux *4 tai uudempi*](/install/linux)
 {.links-list}
 
-**Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+**Valitse selaimesi:**
+- [Chromium *v76 tai uudempi*](/install/chromium)
+- [Firefox *v69 tai uudempi*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
