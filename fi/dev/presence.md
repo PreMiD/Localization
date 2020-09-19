@@ -123,7 +123,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <th style="text-align:left">Muuttuja</th>
       <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Tyyppi</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Valinnainen</th>
     </tr>
   </thead>
   <tbody>
@@ -134,7 +134,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -173,7 +173,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ You could also use regExp also known as Regex for this task, explained further b
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -215,7 +215,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -224,7 +224,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -233,7 +233,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -243,7 +243,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -253,7 +253,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -262,7 +262,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Ei</code>
       </td>
     </tr>
     <tr>
@@ -410,7 +410,7 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 - [Presence Class](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
+- [iFrame-luokka](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)
 {.links-list}
