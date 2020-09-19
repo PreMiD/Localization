@@ -30,7 +30,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Projektin Kloonaaminen
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
+2. Valitse haluamasi kansio.
 3. Avaa se koodieditorissa.
 
 ## Kansioiden ja tiedostojen luominen
