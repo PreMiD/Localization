@@ -18,5 +18,9 @@
 	"error.page.button": {
 		"message": "Takaisin etusivulle",
 		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Käyttäjää ei löytynyt. Yritä varmistaa",
+		"description": "Error when user couldn't be found."
 	}
 }
