@@ -11,6 +11,10 @@
 		"message": "Raportoi",
 		"description": "Button to send the information inputed."
 	},
+	"report.toomany": {
+		"message": "Sinulla on liian paljon aktiivisia raportteja. Odota, että lähetettyjä raportteja tarkistetaan. Raportit tarkistetaan viikoittain, joten ole kärsivällinen.",
+		"description": "User has too many active reports"
+	},
 	"report.toomany.alert": {
 		"message": "Sinulla on liian monta aktiivista raporttia.",
 		"description": "User has too many active reports"
@@ -18,6 +22,10 @@
 	"report.success": {
 		"message": "Bugi Lähetetty",
 		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Lisätietoja tarvitaan",
+		"description": "User needs to input more notification"
 	},
 	"report.error.unauth": {
 		"message": "Discord-tili on vahvistettava",
