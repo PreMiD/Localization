@@ -120,7 +120,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Muuttuja</th>
       <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Tyyppi</th>
       <th style="text-align:left">Optional</th>
