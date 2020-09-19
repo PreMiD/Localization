@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Sinun PreMiD sovellus on vanhentunut. Päivitä se jatkaaksesi PreMiDin käyttöä.",
+		"message": "Sinun PreMiD-sovelluksesi on vanhentunut. Päivitä se jatkaaksesi PreMiDin käyttöä.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.category.all": {
@@ -108,7 +108,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Videot & Striimit",
+		"message": "Videot & Suoratoistot",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

@@ -135,6 +135,10 @@
 		"message": "Katsoo tuotetta:",
 		"description": ""
 	},
+	"general.viewProfile": {
+		"message": "Katselee profiilia:",
+		"description": ""
+	},
 	"general.viewSeries": {
 		"message": "Katsoo sarjaa:",
 		"description": ""
