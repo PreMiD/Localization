@@ -57,7 +57,7 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. คุณต้องระบุ `Object` ด้วยคีย์ที่เป็นกุญแจสำหรับสตริง `keyValue` คือค่าสตริง การเรียบเรียงการเเปลของ strings บางส่วนสามารถหาได้โดยใช้ลิ้งค์นี้: `https://api.premid.app/v2/langFIle/extension/en`
+วิธีการ asyncronous จะสามารถให้คุณได้ string จากส่วนขยายได้ คุณต้องระบุ `Object` ด้วยคีย์ที่เป็นกุญแจสำหรับสตริง `keyValue` คือค่าสตริง การเรียบเรียงการเเปลของ strings บางส่วนสามารถหาได้โดยใช้ลิ้งค์นี้: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // คืนค่า `Playing` and `Paused` strings
