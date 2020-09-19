@@ -22,8 +22,8 @@ dateCreated: 2020-06-11T18:04:45.733Z
 - คุณต้องมีโครงสร้างไฟล์ที่เหมาะสม, สําหรับการร่าง **ไม่**อนุญาติ
 - Presence สําหรับเว็บไซต์ (`.onion` TLDs) หรือเว็บไซต์ฟรี Host หรือ Domain ฟรี (เช่น `.tk` [ทุก Domain ฟรี], `.RF`,`GD`,อื่นๆ) ที่**ไม่ได้รับอนุญาติ**, เเต่สามารถใช้ได้ถ้ามีหลักฐานสําหรับการจ่ายเงินสําหรับ Domain
 - Presence ที่เล็งการพัฒนาด้วยเบราว์เซอร์ภายในเช่น (Chrome Web Store, `chrome://`, `about:` หรือหน้าอื่นๆนั้น) **ไม่อนุญาติ** เนื่องจากต้องเปิดโหมดทดลองของเบราว์เซอร์นั้นๆ เเละอาจะเกิดความเสียหายของเบราว์เซอร์ได้
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
+- Presence ที่มีเพียง Domain เดียวจะ**ไม่อนุญาติ**, เนื่องจากอาจจะทําให้หน้าอื่นขัดข้องได้เช่น (หน้าหลัก), เเต่สามารถทําได้เเค่นโยบายเเละหน้าติดต่อ (เนื้อหาที่ไม่ได้ใช้บ่อยๆ) หรือ เนื้อหาที่ไม่เกี่ยวข้อง (เช่น หน้า Wiki)
+- Presence คุณภาพตํ่า (หรือเนื้อหาน้อย)นั้น **ไม่อนุญาติ** (เช่น เเสดงเเค่รูป/โลโก้ เเต่ข้อความตรง Presence ไม่เปลี่ยน)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
