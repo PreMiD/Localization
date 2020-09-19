@@ -120,11 +120,11 @@ presence
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (เช่น Presence ไม่ต้องการ iframe ไม่ต้องใส่ `iframe`ลงไป) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> รูปภาพในไฟล์ `metadata` ต้องเป็นลิงค์จาก `i.imgur.com` Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
