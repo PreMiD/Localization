@@ -20,7 +20,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 - [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Rakenne
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
@@ -31,16 +31,16 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## Projektin Kloonaaminen
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
-3. Open it in you code editor.
+3. Avaa se koodieditorissa.
 
-## Creating folders and files
+## Kansioiden ja tiedostojen luominen
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
 3. Create a folder named `dist` inside.
 4. Create a `metadata.json` file inside the `dist` folder.
 
-## Filling in the tsconfig.json file
+## tsconfig.js-tiedoston täyttäminen
 Please put the following code inside of the `tsconfig.json` file.
 ```javascript
 {
@@ -52,7 +52,7 @@ Please put the following code inside of the `tsconfig.json` file.
 ```
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## metadata.json-tiedoston täyttäminen
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json

@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
+## API-versiointi
 > API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
@@ -24,7 +24,7 @@ PreMiD exposes different versions of our API. You can specify version by includi
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
 # Dokumentointi
-> Currently under construction! 
+> Tällä hetkellä rakenteilla! 
 > 
 > {.is-danger}
 
