@@ -239,7 +239,7 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 
 - Você **não** é permitido a reescrever um Presence ou mudar seu autor. Se o autor de presença foi banido do servidor oficial ou não fez as alterações necessárias dentro de um mês, você pode entrar em contato com um revisor para ver se é possível reescrever a presença.
 - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contate um verificador para mais informações sobre este assunto.
--  Qualquer um usuário pode sugerir correções para resolver bugs; Portanto, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
+-  Qualquer um usuário pode sugerir correções para resolver bugs; Portanto, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. As alterações válidas incluem correções gerais como (código e erros de digitação), adições (descrições e tags), arquivos ausentes, etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
 
 # Verificação
 
@@ -247,22 +247,22 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 > 
 > {.is-info}
 
-> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. All reviewers will have the `Reviewer` role on their profile. 
+> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. Todas as verificações terão a função `Verificar presença` no seu perfil. 
 > 
 > {.is-info}
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> Tenha em mente que os verificadores trabalham voluntariamente e gerenciam outros repositórios além deste, sua solicitação pode não ser analisado até horas ou até mesmo dias depois de criada. 
 > 
 > {.is-warning}
 
-> **Sempre** tem uma bifurcação atualizada antes de criar sua pull request. This will help limit false positives from the checks. 
+> **Sempre** tem uma bifurcação atualizada antes de criar sua pull request. Isso ajudará a limitar os falsos positivos das verificações. 
 > 
 > {.is-warning}
 
-O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Nossos verificadores irão confirmar que seu Presence está com tudo nos padrões e vão colocá-lo na loja.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificador de Presenças</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -272,13 +272,13 @@ O processo mais importante no desenvolvimento de Presences é conseguir pôr seu
 
 ## `Restrições`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+As ofensivas repetitivas como diretrizes de quebras, spam de solicitações, ameaças ou comportamento inapropriado irão te proibir de criar presences.
 
-In this scenerio, the following changes will occur:
+Neste cenário, ocorrerão as seguintes alterações:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- As Presences sob seu gerenciamento serão transferidas para o bot PreMiD ou outro usuário (decisão do verificador). A identificação do aplicativo para cada Presence será recriada sob o nome do novo proprietário.
+- Todos os seus problemas e solicitações (criação de presence, contribuição de presence, etc) criados após a proibição será rapidamente fechado.
+- As solicitações criadas sob seu nome ao desenvolvimento de presence serão excluídos.
 
 
 ## `Revisando`
@@ -295,7 +295,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 
 ![Verificações](https://i.imgur.com/BCDZQe9.png)
 
-Atualmente, uma presença deve passar por 2 fases de checagem. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Atualmente, uma presença deve passar por 2 fases de checagem. Todas essas checagens ajudam os verificadores a determinar se sua presence é adequada para uso.
 
 - `Codacy` é um bot que checa a qualidade do código. Se você receber erros por novas issues, é **necessário** corrigi-los.
 - `Schema Validation` vai escanear seu arquivo `metadata.json` por qualquer erros (por exemplo, campos ausentes, tipos de valores inválidos, etc.). Se você ver novas issues, também será **necessário** corrigi-los. Adicionar um campo de esquema ao seu arquivo `metadata.json` permitirá que seu editor de texto (se suportado) mostre esses erros durante o desenvolvimento.
