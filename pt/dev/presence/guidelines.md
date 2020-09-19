@@ -207,7 +207,7 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 > 
 > {.is-warning}
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Cada presença segue um conjunto de regras estrito de linhagem, que será verificado durante o processo de revisão. A seguir podemos ver algumas recomendações. - [Recomendações de Plugin TypeScript para Checar Tipo Strict](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Recomendações de ESlint](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -221,7 +221,7 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 - Ao acessar cookies para dados armazenados, por favor prefixe a chave com `PMD_`.
 - Você só pode fazer solicitações em HTTP/HTTPS para `premid.app` ou a API do site de presença. Se você estiver usando domínios externos, será necessário explicar por que é necessário.
 - **Não** deixe campos dos dados do objeto de presença em undefined após serem tido declarados, use `delete` invés disso. (por exemplo, use `delete data.startTimestamp` ao invés de `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- Você **não** tem permissão para escrever presenças que alteram a funcionalidade de um determinado site. Isso inclui a adição, exclusão ou modificação de elementos DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -237,9 +237,9 @@ Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo se
 
 Em algumas situações, as presenças podem se comportar de forma inesperada ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Aqui está uma lista de regras que você **deve** seguir enquanto modifica as presenças.
 
-- Você **não** é permitido a reescrever um Presence ou mudar seu autor. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contact a reviewer for more information about this subject.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
+- Você **não** é permitido a reescrever um Presence ou mudar seu autor. Se o autor de presença foi banido do servidor oficial ou não fez as alterações necessárias dentro de um mês, você pode entrar em contato com um revisor para ver se é possível reescrever a presença.
+- Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contate um verificador para mais informações sobre este assunto.
+-  Qualquer um usuário pode sugerir correções para resolver bugs; Portanto, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
 
 # Verificação
 
