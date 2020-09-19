@@ -14,7 +14,7 @@ Laajennuksen asentaminen on erittäin tärkeää, koska sovellus ei voi tehdä m
 3. Etsi `about:addons`.
 4. Napauta oikeassa yläkulmassa olevaa rataskuvaketta.
 5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
+6. Valitse äskettäin lataamasi tiedosto.
 7. Accept the installation by clicking on **Add**.
 
 > Älä unohda [lisätä ****sovellusta](/install). 
