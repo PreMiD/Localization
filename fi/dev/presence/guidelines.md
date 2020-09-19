@@ -10,9 +10,9 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Guidelines
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to this GitHub, we require you to follow a set of guidelines. Joillekin nämä tiukat säännöt voivat vaikuttaa ankarilta. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
-# Creation
+# Luominen
 
 The general rules of presence development are as follows:
 
