@@ -51,6 +51,10 @@
         "message": "Apua",
         "description": "A page name"
     },
+    "premid.pageStart": {
+        "message": "Alkuun Pääseminen",
+        "description": "A page name"
+    },
     "premid.pageApi": {
         "message": "API",
         "description": "A page name"
