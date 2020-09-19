@@ -13,7 +13,7 @@ editor: markdown
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
- When you create a class you must specify `clientId` property.
+ Kun luot luokan, sinun täytyy määrittää `clientId` ominaisuus.
 
 ```typescript
 let presence = new Presence({
@@ -29,7 +29,7 @@ There are two properties available for `Presence` class.
 
 You can get it on your [applications page](https://discordapp.com/developers/applications).
 
-## Methods
+## Menetelmät
 
 ### `getActivity()`
 
@@ -49,7 +49,7 @@ Clears your current activity, the keybinds and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Tämä menetelmä toimii vain Mac OS:ssä. 
 > 
 > {.is-warning}
 
@@ -60,8 +60,8 @@ Sets the tray title on the Menubar.
 An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Palauttaa `Playing` ja `Paused`-merkkijonot
+// laajennuksesta.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -73,15 +73,15 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Palauttaa muuttujan verkkosivulta, jos se on olemassa.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Tämä kirjaa "Muuttujan sisällön"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Palauttaa laajennuksen version, jota käyttäjä käyttää.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Palauttaa asetuksen arvon.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -119,7 +119,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Muuttuja</th>
       <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Tyyppi</th>
     </tr>
@@ -197,11 +197,11 @@ Events allow you to detect and handle some changes or calls that were made. You 
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Tee jotain, kun tietoja päivitetään.
 });
 ```
 
-There are few events available:
+Saatavilla on muutamia tapahtumia:
 
 #### `UpdateData`
 
