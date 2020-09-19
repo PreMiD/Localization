@@ -1,6 +1,6 @@
 ---
 title: แนวทาง
-description: Rules all presence developers must follow to have their presence added.
+description: กฏผู้พัฒนาทุกอย่างของ Presence ต้องปฏิบัติตามเพื่อได้รับการเพิ่ม Presence
 published: true
 date: 2020-09-13T14:45:50.079Z
 tags:
@@ -14,10 +14,10 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # การสร้าง
 
-The general rules of presence development are as follows:
+กฏทั่วไปสําหรับการพัฒนา Presence มีดังนี้
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
+- Presence **ต้อง** เกี่ยวข้องกับเว็ปไซต์ที่คุณพัฒนา
+- Presence **ไม่สามารถ** สร้างได้สําหรับเว็ปไซต์ผิดกฏหมาย (for e.g., stressors, drug marketing, child pornography, etc.)
 - The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
 - You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
