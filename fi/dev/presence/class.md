@@ -7,9 +7,9 @@ tags:
 editor: markdown
 ---
 
-# Presence Class
+# Precence-luokka
 
-## Introduction
+## Johdanto
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
