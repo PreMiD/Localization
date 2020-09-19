@@ -1,5 +1,5 @@
 ---
-title: 설치
+title: 설치하기
 description: PreMid 설치 방법
 published: true
 date: 2020-02-12T22:05:12.168Z
