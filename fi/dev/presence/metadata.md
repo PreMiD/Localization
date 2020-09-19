@@ -234,15 +234,15 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
   </tbody>
 </table>
 
-## Regular Expressions
+## Säännölliset lausekeet (Regular Expressions)
 
 If you want to learn regular expressions, here are a few websites.
 
-#### Learning
+#### Oppiminen
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Testaus
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
@@ -282,20 +282,20 @@ Setup interactive settings so users can customize the presence!
 
 Use the following methods to get settings info in your presence files:
 ### `getSetting(String)`
-Returns value of setting.
+Palauttaa asetuksen arvon.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Piilottaa annetun asetuksen.
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Näyttää annetun asetuksen (Toimii vain, jos asetus oli jo piilotettu).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
@@ -322,19 +322,19 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>pelit</b></td>
     <td style="text-align:left"><b>Pelit</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Mikä tahansa sivusto, jolla on peleihin liittyvää sisältöä, kuten <code>Kahoot</code> tai <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musiikki</b></td>
     <td style="text-align:left"><b>Musiikki</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Nämä ovat sivustoja, jotka tarjoavat musiikkiin liittyvää sisältöä, olipa se suoratoistoa tai latausta.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sosiaaliset</b></td>
         <td style="text-align:left"><b>Sosiaaliset</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Sivustot, joita käytetään sisällön luomiseen ja jakamiseen tai muihin sosiaalisen verkostoitumisen muotoihin osallistumiseen.</td>
       </td>
     </tr>
     <tr>
@@ -346,7 +346,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>muu</b></td>
     <td style="text-align:left"><b>Muu</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Kaikki, jotka eivät kuulu johonkin edellä mainittuun luokkaan.</td>
       </td>
     </tr>
   </tbody>
