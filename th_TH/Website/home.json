@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "** PreMiD ** เป็นเครื่องมือที่ใช้งานง่ายและสามารถกำหนดค่าได้ซึ่งช่วยให้คุณแสดงสิ่งที่คุณทำบนเว็บในสถานะของ Discord ของคุณในขณะนี้ได้",
+		"message": "** PreMiD ** เป็นเครื่องมือที่ใช้งานง่ายและสามารถเเสดงค่าได้ซึ่งช่วยให้คุณแสดงสิ่งที่คุณทำบนเว็บในสถานะของ Discord ของคุณในขณะนี้ได้",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -36,7 +36,7 @@
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "ตามหา**Presence**ที่เหมาะกับคุณ",
+		"message": "ตามหา**Presence**",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
