@@ -8,7 +8,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "การเรียกดูผ่านรายการที่จะเล่น",
+        "message": "การเรียกดูผ่านเพลย์ลิสต์ที่จะเล่น",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
