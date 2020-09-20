@@ -24,7 +24,7 @@
 		"description": ""
 	},
 	"general.forums": {
-		"message": "กระดานสนทนา",
+		"message": "กระทู้",
 		"description": ""
 	},
 	"general.genre": {
@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "กำลังอ่าน DM จาก:",
+		"message": "กำลังอ่านข้อความส่วนตัวจาก:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "กำลังพิมพ์ใน DM ไปหา:",
+		"message": "กำลังพิมพ์ข้อความส่วนตัวไปหา:",
 		"description": ""
 	},
 	"general.typeChannel": {
