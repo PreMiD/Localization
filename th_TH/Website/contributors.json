@@ -24,7 +24,7 @@
 		"description": "'Operations Supervisor' title for contributors and user pages."
 	},
 	"contributors.roles.globalCommunityRepresentative": {
-		"message": "ผู้แทนชุมชนทั่วโลก",
+		"message": "ผู้แทนชุมชน",
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.storeManager": {
@@ -40,7 +40,7 @@
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "ลินุกซ์ผู้ดูแล",
+		"message": "ผู้ดูแลระบบลินุกซ์",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
