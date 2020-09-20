@@ -23,6 +23,10 @@
         "message": "กำลังดูเพลงอนิเมะ",
         "description": ""
     },
+    "1337x.appTorrents": {
+        "message": "กําลังดู Torrent แอพพลิเคชั่น",
+        "description": ""
+    },
     "1337x.upload": {
         "message": "กำลังอัปโหลดอะไรบางอย่าง",
         "description": ""
