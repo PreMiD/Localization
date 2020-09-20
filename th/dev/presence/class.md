@@ -21,7 +21,7 @@ let presence = new Presence({
 });
 ```
 
-มีสองคุณสมบัติสำหรับหมวด `Presence`
+มีสองคุณสมบัติสำหรับหมวด/คลาส `Presence`
 
 #### `clientId`
 
