@@ -13,7 +13,7 @@ editor: markdown
 
 คลาส `Presence` มีประโยชน์มากเพราะมีวิธีการพื้นฐานที่เราต้องการสำหรับการสร้าง presence
 
- เมื่อคุณสร้างหมวดหมู่คุณต้องระบุคุณสมบัติของ `clientId`
+ เมื่อคุณสร้าง Class คุณต้องระบุคุณสมบัติของ `clientId`
 
 ```typescript
 let presence = new Presence({
