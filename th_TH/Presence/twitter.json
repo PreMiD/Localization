@@ -4,7 +4,7 @@
         "description": ""
     },
     "twitter.viewDms": {
-        "message": "กำลังดู DMs ของพวกเขา",
+        "message": "กำลังดูข้อความส่วนตัวของพวกเขา",
         "description": ""
     },
     "twitter.viewTweets": {

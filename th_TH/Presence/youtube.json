@@ -40,7 +40,7 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "ห้องสมุดของพวกเขา",
+        "message": "คลังของพวกเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
@@ -68,7 +68,7 @@
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "กำลังดูข้อมูลแดชบอร์ดของตัวเอง",
+        "message": "กำลังดูข้อมูลแดชบอร์ดของไลฟ์สด",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
