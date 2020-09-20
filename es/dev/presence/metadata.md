@@ -65,7 +65,7 @@ El ejemplo de ese archivo se puede encontrar a continuación.
 }
 ```
 
-## Entendiendo el metadata.json
+## Comprendiendo el metadata.json
 
 Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil entender para qué sirve cada variable.
 
