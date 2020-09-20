@@ -24,7 +24,7 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "รีเฟรซหน้านี้ แล้วเช็กว่าส่วนขยายได้เชื่อมต่อกับโปรแกรมแล้ว",
+    "message": "รีเฟรซหน้านี้ แล้วเช็คว่าส่วนขยายได้เชื่อมต่อกับโปรแกรมแล้ว",
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
@@ -64,7 +64,7 @@
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.warning.differentVersion": {
-    "message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัติการนี้เป็น {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น)",
+    "message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัติการนี้คือ {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น)",
     "description": "Tippy message of the Linux card."
   },
   "downloads.warning.differentVersion2": {
@@ -84,7 +84,7 @@
     "description": "More info if the user doesn't alpha/beta access."
   },
   "downloads.latest.header": {
-    "message": "รีลีสทดลอง",
+    "message": "ปล่อยตัวก่อน",
     "description": "Header above alpha/beta download buttons."
   },
   "downloads.warning.title": {
@@ -160,7 +160,7 @@
     "description": "Last message of the skip anyway messages (changes everytime you click it)."
   },
   "downloads.showbeta.message": {
-    "message": "แสดงดาวน์โหลดเบต้า",
+    "message": "แสดงดาวน์โหลดเเบบเบต้า",
     "description": ""
   },
   "downloads.showbeta.small": {
