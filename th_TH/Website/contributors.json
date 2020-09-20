@@ -56,7 +56,7 @@
 		"description": "'Senior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.verificationHead": {
-		"message": "หัวของการแสดงตน การตรวจสอบ",
+		"message": "หัวหน้าการตรวจสอบ Presence",
 		"description": "'Head of Presence Verifying' title for contributors and user pages."
 	},
 	"contributors.roles.communityRepresentative": {
@@ -68,7 +68,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.juniorModerator": {
-		"message": "จูเนียร์ผู้ดูแล",
+		"message": "ผู้ดูเเลรอง",
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
