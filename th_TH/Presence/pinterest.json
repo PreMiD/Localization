@@ -4,11 +4,11 @@
         "description": ""
     },
     "pinterest.pin": {
-        "message": "กำลังดูพิน:",
+        "message": "กำลังดูปักหมุด:",
         "description": ""
     },
     "pinterest.follow": {
-        "message": "กำลังดูข้อมูลต่อไปของพวกเขา",
+        "message": "กำลังดูผู้ติดตามของพวกเขา",
         "description": ""
     },
     "pinterest.home": {
