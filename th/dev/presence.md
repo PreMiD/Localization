@@ -25,7 +25,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## การติดตั้ง
 1. ติดตั้ง [Git](https://git-scm.com/).
-2. ติดตั้ง [Node](https://nodejs.org/en/) (พร้อมกับ [npm](https://www.npmjs.com/))
+2. ติดตั้ง [Nodejs](https://nodejs.org/en/) (พร้อมกับ [npm](https://www.npmjs.com/))
 3. ติดตั้ง [TypeScript](https://www.typescriptlang.org/index.html#download-links) (เปิดเทอร์มินัลแล้วพิมพ์ `npm install -g typescript`)
 
 ## การโคลนโปรเจ็ค
