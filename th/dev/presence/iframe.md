@@ -30,7 +30,7 @@ iframe.on("UpdateData", async () => {
 ## วิธีการ
 
 ### `send(Object)`
-ส่งข้อมูลไปยัง presence. การใช้วิธีนี้จะทำให้ presence ปัจจุบันปรากฏในเหตุการณ์ `iFrameData`
+ส่งข้อมูลไปยัง presence. การใช้วิธีนี้จะทำให้ presence ปัจจุบันปรากฏในเหตุการณ์ของ `iFrameData`
 
 ### `getUrl()`
 คืนค่า URL ของ `iframe`

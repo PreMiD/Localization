@@ -12,7 +12,7 @@ tags:
 ### Chrome, Edge, และ อื่นๆ.
 1. ไปที่หน้าดาวน์โหลดของเรา [คลิกที่นี่](https://premid.app/downloads).
 2. เลือก **โครเมียม**
-3. คลิก **เพิ่มในโครม**
+3. คลิกเพื่อ **เพิ่มในโครม**
 
 ### Opera
 1. **[ติดตั้งส่วนขยายของ Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
