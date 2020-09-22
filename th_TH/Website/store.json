@@ -44,7 +44,7 @@
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "แสดงอันที่เป็น NSFW",
+		"message": "แสดงอันที่เป็น NSFW (18+)",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
