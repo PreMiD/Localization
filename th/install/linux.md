@@ -18,10 +18,10 @@ tags:
   - ตัวอย่าง (เร็วๆนี้)
   - คําถามที่พบบ่อย (เร็วๆนี้)
   - Building (soon)
-  - [Support](#support)
+  - [สนับสนุน](#support)
   - [เครดิต](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+  - [ใบอนุญาต](#license)
+- **[Snapcraft](#snapcraft)** (_อย่าอ่านมันเลย มันยาวเกินไป_)
 - **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
   - [Installation instructions](#installation-instructions)
   - [Additional notes](#additional-notes)
@@ -71,7 +71,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### สนับสนุน
 
 <div>
   <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
@@ -93,7 +93,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### ใบอนุญาต
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
