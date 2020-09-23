@@ -1,16 +1,16 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: เริ่มต้นใช้งาน PreMiD การติดตั้งบน PreMiD
 published: true
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
 
-> Toggling auto-launch on Linux is now available from the app instead of the extension.{.is-warning}
+> กำลังสลับการเปิดใช้งานอัตโนมัติใน Linux พร้อมให้บริการแล้วจากเเอพเเทนส่วนขยาย {.is-warning}
 
 การติดตั้งแอพพลิเคชั่นนั้นสำคัญมากเพราะส่วนขยายไม่สามารถทำอะไรได้เอง
 
-## Table of Contents
+## สารบัญ
 
 - **[เกี่ยวกับ](#about)**
   - [Stats](#stats)

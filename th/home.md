@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! บางหน้าอาจยังไม่สมบูรณ์หรือมีข้อมูลหายไป 
+> เอกสารอยู่ในระหว่างการเเก้ไข! บางหน้าอาจยังไม่สมบูรณ์หรือมีข้อมูลหายไป 
 > 
 > {.is-warning}
 
