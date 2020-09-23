@@ -55,6 +55,10 @@
 		"message": "ไฟล์วอลล์ของเรา",
 		"description": "Heading for the second requirement."
 	},
+	"partners.requirements.second.description": {
+		"message": "ขณะนี้เรารับหลายประเภทในระบบพาร์ทเนอร์ของเรา. ทุกคนควรมีโอกาสที่จะได้รับการยืนยัน. สตรีมเมอร์ของ Twitch ขั่นตํ่ามี 500 คนติดตาม เเละ 10 ผู้ชมเเละ ถ่ายทอดสดไม่ตํ่ากว่า 1 ครั้งต่ออาทิตย์",
+		"description": "Description for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "สมัครตอนนี้!",
 		"description": "Button to apply for partner."
