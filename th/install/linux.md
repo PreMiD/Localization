@@ -22,23 +22,23 @@ tags:
   - [เครดิต](#credits)
   - [ใบอนุญาต](#license)
 - **[Snapcraft](#snapcraft)** (_อย่าอ่านมันเลย มันยาวเกินไป_)
-- **[Portable AppImage](#portable-appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#installation-instructions)
-  - [Additional notes](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (soon, use [this](#portable-appimage) for now)
-- **Debian and Ubuntu based distributions** (soon, use [this](#portable-appimage) for now)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Installation instructions](#installation-instructions-1)
-  - [Additional notes](#additional-notes-1)
+- **[AppImage](#portable-appimage)** (_เเนะนํา_)
+  - [วิธีการติดตั้ง](#installation-instructions)
+  - [หมายเหตุเพิ่มเติม:](#additional-notes)
+- ** Linux (RHEL)** (เร็วๆนี้, ใช้ [ สําหรับตอนนี้ไปก่อน](#portable-appimage))
+- **Debian เเละ Ubuntu ** (เร็วๆนี้, ใช้ [ สําหรับตอนนี้ไปก่อน](#portable-appimage))
+- **[Arch Linux](#arch-linux-based-distributions)**
+  - [วิธีการติดตั้ง](#installation-instructions-1)
+  - [หมายเหตุเพิ่มเติม:](#additional-notes-1)
 - **[Gentoo Linux](#gentoo-linux)**
-  - [Installation instructions](#installation-instructions-2)
-  - [Additional notes](#additional-notes-2)
+  - [วิธีการติดตั้ง](#installation-instructions-2)
+  - [หมายเหตุเพิ่มเติม:](#additional-notes-2)
 
 <a name="about"></a>
 
 ## เกี่ยวกับ
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** เป็นเรื่องง่าย, กําหนดค่าตามใจชอบด้วยการใช้ Discord RP ( Rich Presence ) ไลบรารี่ที่เเสดงสถานะที่คุณใช้อยู่ใน Discord ระหว่างคุณกําลังรับชมเว็บไซต์ต่างๆ ( บางเว็บไซต์ ) ตรงโปรไฟล์ Discord ของคุณจะขึ้นว่า **  กําลังเล่น... **
 
 <a name="stats"></a>
 
@@ -46,14 +46,14 @@ tags:
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>การปรับใช้</th>
+    <th>การดาวน์โหลดทั้งหมด</th>
+    <th>การเพยเเพร่ล่าสุด</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="การเพยเเพร่ล่าสุด"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -113,7 +113,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### วิธีการติดตั้ง
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -126,20 +126,20 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### หมายเหตุเพิ่มเติม:
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
 <a name="arch"></a>
 <img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arch Linux
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### วิธีการติดตั้ง
 
 ```bash
 # Using yay (recommended)
@@ -169,7 +169,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### หมายเหตุเพิ่มเติม:
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
@@ -192,7 +192,7 @@ Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Syste
 
 <a name="gentooinstall"></a>
 
-### Installation instructions
+### วิธีการติดตั้ง
 
 ```bash
 # Add the overlay using layman
@@ -206,7 +206,7 @@ emerge -av app-misc/premid
 
 <a name="gentoonotes"></a>
 
-### Additional notes
+### หมายเหตุเพิ่มเติม:
 
 The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
 
