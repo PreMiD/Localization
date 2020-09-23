@@ -51,6 +51,10 @@
 		"message": "เราต้องการมองหาอะไร?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "เรากําลังมองการเติบโตของชุมชนเเละสิ่งที่น่าตื่นเต้นบนอินเตอร์เน็ต. คุณควรใช้ PreMiD อยู่เเล้วเเละพร้อมที่จะเพยเเพร่ในอินเตอร์เน็ตมากขึ้น. การยอมรับโครงการนั้นต้องมีคุณภาพมากๆเเละจะเเตกต่างออกไปเเต่ละผู้สมัคร",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "ไฟล์วอลล์ของเรา",
 		"description": "Heading for the second requirement."
