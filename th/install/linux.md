@@ -15,8 +15,8 @@ tags:
 - **[เกี่ยวกับ](#about)**
   - [Stats](#stats)
   - [ความต้องการ](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - ตัวอย่าง (เร็วๆนี้)
+  - คําถามที่พบบ่อย (เร็วๆนี้)
   - Building (soon)
   - [Support](#support)
   - [เครดิต](#credits)
