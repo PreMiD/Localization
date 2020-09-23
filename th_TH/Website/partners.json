@@ -11,6 +11,10 @@
 		"message": "ทีมที่ได้เข้าร่วมกับเราแล้ว",
 		"description": "Description for slideshow."
 	},
+	"partners.why.title": {
+		"message": "วิธีการเกี่ยวกับการไปสวรรค์นรกแทน?",
+		"description": "Heading for benefits."
+	},
 	"partners.why.benefit1.title": {
 		"message": "รับ Presence ฟรี",
 		"description": "Heading for the first benefit."
@@ -34,6 +38,10 @@
 	"partners.why.benefit3.description": {
 		"message": "ใช้ Presence โดยอัตโนมัติเมื่อมีคนเข้าชมเว็บไซต์ของคุณ",
 		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "รู้สึกเป็นอมตะมีพลัง",
+		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
 		"message": "กลายเป็นคนดัง",
