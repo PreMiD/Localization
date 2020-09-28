@@ -95,6 +95,10 @@
         "message": "نگاه کردن ترجمه ویدیو:",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "در حال تماشای آنجا",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
         "message": "تجزیه و تحلیل کانال",
         "description": "Part two of \"Viewing their\""
