@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: ដំណើរការresourcesនិងអនុវត្តសកម្មភាពដោយប្រើ PreMiD API
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
@@ -8,11 +8,11 @@ tags:
 
 # API
 
-> Base URL: https://api.premid.app 
+> តាមរយៈតំណរ 
 > 
 > {.is-info}
 
-## API Versioning
+## កំណែ API
 > API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
