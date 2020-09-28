@@ -19,6 +19,10 @@
         "message": "کالا های مشاهده شده",
         "description": "Part 2 of 2"
     },
+    "aliexpress.theirAli": {
+        "message": "در حال تماشای AliExpress",
+        "description": ""
+    },
     "aliexpress.feedback": {
         "message": "AliExpress بازخورد",
         "description": ""
@@ -27,8 +31,36 @@
         "message": "نگاه کردن سفارش هایشان",
         "description": ""
     },
+    "aliexpress.viewTheir": {
+        "message": "در حال تماشای آنجا",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "بازپرداخت و اختلافات",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "سفارش حذف شده",
+        "description": "Part 2 of \"Viewing their\""
+    },
     "aliexpress.trade": {
         "message": "مرکز معامله AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "در حال تماشای کوپن",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "در حال تماشای آدرسشان",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "مرکز راهنمایی AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "مرکز فروش AliExpress",
         "description": ""
     }
 }
