@@ -19,6 +19,10 @@
 		"message": "Presence رایگان شما",
 		"description": "Heading for the first benefit."
 	},
+	"partners.why.benefit1.description": {
+		"message": "تیم ما Presence شما رو در اختیار خودتان قرار میده.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "معتبر شوید",
 		"description": "Heading for the second benefit."
@@ -62,6 +66,10 @@
 	"partners.requirements.second.title": {
 		"message": "دیوار آتش ما",
 		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "ما در حال حاضر انواع افراد را برای مشارکت با ما می پذیریم. هرکسی باید این شانس را داشته باشد که مورد توجه واقع شود. استریمر های Twitch باید حداقل 500 دنبال کننده و حداقل 10 بیننده در هر پخش زنده داشته باشند. و باید حداقل یک بار در هفته استریم بگذارند.",
+		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
 		"message": "همین الان درخواست دهید!",
