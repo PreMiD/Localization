@@ -8,16 +8,16 @@ tags:
 
 # API
 
-> តាមរយៈតំណរ 
+> តាមរយៈតំណរ https://api.premid.app 
 > 
 > {.is-info}
 
 ## កំណែ API
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1​ ត្រូវបានបញ្ឈប់ដំណើរការ, ស្នើអ្វីបន្ថែមត្រូវធ្វើការទៅកំណែទំរង់បច្ចុប្បន្ន 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD បង្ហាញនៅកំណែផ្សេងរបស់ពួកយើង។ អ្នកអាចបញ្ជាក់កំណែដោយបញ្ចូលវានៅក្នុងផ្លូវស្នើសុំដូច`https://api.premid.app/v{version_number}` Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
 ## Encryption
 
