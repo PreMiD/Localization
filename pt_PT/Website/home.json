@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "Recursos",
+		"message": "Funcionalidades",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
@@ -40,7 +40,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.button": {
-		"message": "Visitar a loja",
+		"message": "Visite a loja",
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
@@ -55,16 +55,24 @@
 		"message": "Gerenciamento de presença",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Ordenar por categoria",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Suporte rápido",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Algo está avariado, enviando-lhe toneladas de erros ou simplesmente não funcionando? Vamos ajudá-lo a livrar-se desses problemas no nosso servidor do Discord, também criamos o nosso próprio sistema de suporte que irá garantir que o problema fique resolvido o mais rápido possível.",
+		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
 		"message": "Entra no nosso servidor de Discord",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Idioma do Site",
+		"message": "Idioma do Sítio",
 		"description": "Tippy content of the language selector."
 	}
 }
