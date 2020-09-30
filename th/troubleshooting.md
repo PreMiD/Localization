@@ -52,26 +52,26 @@ Presence หลายอย่าง (พวก `Twitch` เเละ `SoundClon
 ### ลบข้อมูลด้วยตัวเอง
 สำหรับระบบปฎิบัติการ Windows: ไปที่    ` C:\Users\USER\AppData\Roaming\`` ` และลบโฟลเดอร์ `PreMiD` ออกไป <br>ระบบปฎิบัติการ MacOS: ไปที่ `~/users/USER/~Library/Application Support/<code> และลบโฟลเดอร์ `PreMiD ออกไป
 
-### On Ubuntu/Debian based distros
+### ใน Ubuntu/Debain อิงตาม distros
 ถ้าคุณดาวน์โหลด Discord ผ่านทาง Snapcraft, RPC จะไม่ทำงาน คุณจะต้องถอนการติดตั้ง Discord เวอร์ชัน Snapcraft โดยการใช้คำสั่ง `sudo snap remove discord` บน Terminal แล้วดาวน์โหลด [Discord สำหรับ Linux](https://discordapp.com/api/download?platform=linux) ([หรือ Discord Canary](https://discordapp.comapi/canary/download?platform=linux)) หลังจากนั้น ไปยังตำแหน่งที่คุณดาวน์โหลด Discord ไว้ (ส่วนมากจะเป็น `$HOME/Downloads`) แล้วติดตั้งโดยใช้คำสั่ง `sudo dpkg -i discord-*.deb`
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### McAfee ตรวจจับ PreMiD เป็นไวรัส (Windows)
+นี้คือข้อมูลที่ผิดของ McAfee ทางเราได้เเจ้งปัญหานี้ไปเเล้ว สําหรับตอนนี้คุณสามารถรัน PreMiD จากการสเเกนโดยการทําขั้นตอนต่อไปนี้
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> ถ้าคุณไม่มั่นใจในการทําขั้นตอนต่อไปนี้ คุณสามารถส่งข้อความมาให้เราได้ใน [#support](https://discord.gg/WvfVZ8T)เเละทีมงานของเราจะช่วยคุณ! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+1. เปิดเเอพ McAfee เเละกดที่ไอคอนการตั้งค่าตรงขวาบน<img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. คลิ๊ก Quarantined Items (อันที่ 2 นับจากบนสุด)
+3. ขยายมัน, เเละกดไอคอน `>` ก่อนไฟล์ที่ชื่อว่า "settings.bat"
+4. เเน่ใจว่าที่อยู่ของ PreMiD อยู่ที่  "AppData\Local\Temp\PreMiD", ถ้าใช้กดเลือกมันเเละกู้คืนกลับมา<img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. หลังจากนั้นคุณสามารถปิด  "Quarantined Items" เเละกดไอคอนการตั้งค่าอีกครั้งตรงขวาบน
+6. กด "Real-Time Scanning" (อันที่ 3 นับจากบนสุด)
+7. กดขยายมันเเล้วเลือก "เพิ่มไฟล์"
+8. พิม "%appdata%" ตรงช่องค้นหา (URL Bar) เเละกด Enter<img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. เปิด PreMiD โฟลเดอร์ เเละเลือกไฟล์ PreMiD.exe  เเละรันมัน<img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+10. McAfee ควรละเว้นไฟล์ของเรา, รัน PreMiD เเละน่าจะปกติเเล้ว!
 
 ### นั่นไม่ได้แก้ปัญหาของฉัน
 กรุณาเปิดตั๋วใน [#support](https://discord.premid.app/).
