@@ -51,6 +51,10 @@
     "message": "{0} A aplicação não tem um instalador para este sistema operativo. Isto significa que não há suporte oficial para o mesmo.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
+  "downloads.mobile.errorMessage": {
+    "message": "Esteja ciente que PreMid não é suportado nos telemóveis.",
+    "description": "Downloads page warning when user is on mobile."
+  },
   "downloads.mobile.showDownloads": {
     "message": "Mostrar Downloads",
     "description": "Little button on the downloads page for mobile users."
@@ -59,17 +63,41 @@
     "message": "Esconder Downloads",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.warning.differentVersion": {
+    "message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux, e não aplica-se a outras plataformas).",
+    "description": "Tippy message of the Linux card."
+  },
   "downloads.warning.differentVersion2": {
     "message": "Esta versão é específica para Linux, e não se aplica a outros sistemas. A versão principal da aplicação é {0}",
     "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "Conecte-se para poder ver estes descarregamentos.",
+    "description": "Error message if the user is not logged in."
   },
   "downloads.error.noaccess.title": {
     "message": "Uh oh, parece que tu não tens acesso alpha/beta :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.error.noaccess.description": {
+    "message": "Pode juntar-se ao nosso programa beta **aqui** de graça. Apresse-se! Só temos mais {0} vagas disponíveis",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Lançamentos Antecipados",
+    "description": "Header above alpha/beta download buttons."
+  },
   "downloads.warning.title": {
     "message": "Aviso",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Não esqueça de habilitar a opção 'permitir extensões doutras lojas' das configurações da extensão.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Tem que instalar **esta** extensão para poder instalar PreMid pelo Chrome Webstore.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
   },
   "downloads.button.skip": {
     "message": "Avançar",
@@ -98,6 +126,10 @@
   "downloads.adsbox.thankyou.title": {
     "message": "Obrigado!",
     "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Usamos anúncios para apoiar a nossa equipa e manter os nossos servidores para oferecer-lhe a melhor experiência d'utilizador!",
+    "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
     "message": "Por favor, desativa o teu bloqueador de anúncios.",
