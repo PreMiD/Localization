@@ -14,10 +14,10 @@ editor: markdown
 ### คุณได้ใช้ Discord รึเปล่า?
 PreMiD จะ**ไม่**ทํางานสําหรับ Brower Discord คุณต้องโหลดเเอพ Discord ตรงนี้[](https://discord.com/download)
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### คุณได้ใช้การตั้งค่าของ Presence?
+Presence หลายอย่าง (พวก `Twitch` เเละ `SoundClond`) มีปัญหาต่อส่วนขยาย ปัญหาพวกนี้มาจากส่วนขยายไม่รับค่าดั้งเดิมในการตั้งค่า
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+วิธีเเก้นั้นคือ เปิดการใช้งานอันบนสุดของ Setting![presencesettings.gif](/presencesettings.gif)
 
 ### โหลดหน้านี้ใหม่
 คุณสามารถกด <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) หรือ <kbd>CMD+R</kbd> (MacOS) บนแป้นพิมพ์ของคุณเพื่อรีโหลดหน้าเว็บ
