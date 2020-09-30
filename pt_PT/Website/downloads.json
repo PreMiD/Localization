@@ -1,10 +1,10 @@
 {
   "downloads.header.title": {
-    "message": "Hora de se mostrar.",
+    "message": "Hora de se exibir.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Usa o PreMiD agora e mostra aos teus amigos o que tu estás a fazer, talvez tu encontres alguém com os mesmos interesses.",
+    "message": "Use o PreMiD agora e mostre aos amigos o que está a fazer, talvez encontre alguém com os mesmos interesses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -12,19 +12,19 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Transfere o PreMiD",
+    "message": "Descarregue o PreMiD",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Instala a nossa aplicação",
+    "message": "Instale a nossa aplicação",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Adiciona a nossa extensão ao teu navegador",
+    "message": "Adicione a nossa extensão ao navegador",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Recarrega este site e verifica se a extensão está conectada",
+    "message": "Recarregue este sítio e verifique se a extensão está conectada",
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
@@ -102,5 +102,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Por favor, desativa o teu bloqueador de anúncios.",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Não quero apoiar.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Tem a certeza?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Sério?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "P-por favor apoie :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Preciso de si :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Ok, ok...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Mostrar descarregamentos beta",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(não é necessário se está apenas aqui para descarregar a aplicação normal)",
+    "description": "Small text under the show beta title."
   }
 }
