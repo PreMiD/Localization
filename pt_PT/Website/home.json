@@ -39,6 +39,10 @@
 		"message": "Encontre **sua** presença",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Criamos a nossa extensão de uma maneira que permite-lhe adicionar e usar Presenças criadas por outros e gerenciá-las na nossa extensão!",
+		"description": "Features section description"
+	},
 	"home.features.presencesystem.button": {
 		"message": "Visite a loja",
 		"description": "Features section button"
@@ -46,6 +50,10 @@
 	"home.features.simpleInterface.heading": {
 		"message": "Interface de utilizador simples",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Cansado de interfaces d'utilizador complicadas? Por isso é que criamos e tentamos manter a nossa IU o mais simples e útil possível com funcionalidades importantes como:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Configurações de Aplicativo e Extensão",
