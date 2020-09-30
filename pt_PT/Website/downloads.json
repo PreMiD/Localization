@@ -28,11 +28,11 @@
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
-    "message": "Ainda estás com problemas? {0}",
+    "message": "Ainda tem problemas? {0}",
     "description": "{0} will be replaced with footer.link"
   },
   "downloads.instructions.footer.link": {
-    "message": "Estamos aqui para te ajudar!",
+    "message": "Estamos aqui para ajudar-lhe!",
     "description": "Link to our discord"
   },
   "downloads.appdownloading.header": {
