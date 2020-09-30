@@ -40,11 +40,11 @@
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "Sessão iniciada como",
+    "message": "Conectado como",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
-    "message": "Denunciar um erro",
+    "message": "Reportar um erro",
     "description": "Report a bug button"
   },
   "header.staff": {
@@ -52,7 +52,7 @@
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "Terminar Sessão",
+    "message": "Desconectar-se",
     "description": "Logout button"
   }
 }
