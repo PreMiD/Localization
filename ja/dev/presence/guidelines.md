@@ -22,8 +22,8 @@ GitHubにプレゼンスをPublish(公開)する場合は、このガイドラ�
 - 確実なファイル構造が必要です。下書きやテストは公開するには適していません。
 - .onionで終わるドメインや無料で取得できるドメイン/ホストを持つウェブサイトのためのプレゼンスは原則許可されていませんが、そのドメインのために料金を支払ったことが証明された場合は例外として認められます。
 - ブラウザの内部を指定するプレゼンスは許可されていません。（Chrome Web Store、`chrome://`、`about:` など。） これらを実装するには、試験中の機能(chrome://frags)を有効にする必要があり、ブラウザーやデータに大きなダメージを与える可能性があるからです。
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
+- 一つのサブドメインのみをサポートするプレゼンスは許可されていません。（ホームページなどで正常に表示されないことがあるため） 利用規約、連絡フォームなどのあまり使われないページや、他のコンテンツがメインのコンテンツに関連していないものは例外です。 (例えば、Wikiaなど)
+- 低品質のプレゼンスは許可されていません。例えば、ロゴとサイト名だけ表示して、その後は一切表示が変わらないプレゼンスなどです。
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
