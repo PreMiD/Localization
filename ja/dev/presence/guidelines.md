@@ -35,7 +35,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+`iframe.ts`ファイルを使用している場合は
 
 ```bash
 presence
@@ -153,7 +153,7 @@ A list of fields and their rules are listed below:
 
 ### **`description`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
+- すべてのプレゼンスは（Webサイトの言語にかかわらず）、英語での説明文が必要です。
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
