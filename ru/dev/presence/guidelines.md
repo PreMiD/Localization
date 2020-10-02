@@ -255,14 +255,14 @@ presence
 > 
 > {.is-warning}
 
-> ** Всегда ** имейте актуальную ветвь перед созданием запроса. This will help limit false positives from the checks. 
+> ** Всегда ** имейте актуальную ветвь перед созданием запроса. Это поможет ограничить количество ложных срабатываний от контролей. 
 > 
 > {.is-warning}
 
-Наиболее важным процессом развития presence является получение Вашего presence в магазине. Это делается путем создания [ запроса ](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) на GitHub в хранилище ` PreMiD/Presences `. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Наиболее важным процессом развития presence является получение Вашего presence в магазине. Это делается путем создания [ запроса ](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) на GitHub в хранилище ` PreMiD/Presences `. Наши рецензенты проверит, что ваше присутствие соответствует стандартам, и подтолкнут к магазину.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Рецензенты активов</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -270,15 +270,15 @@ presence
   <br />
 </div>
 
-## `Restrictions`
+## `Ограничение`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Повторяющиеся преступления, такие как нарушение правил, рассылка спама, угрозы или несоответствующее поведение, будут препятствовать вашему творчеству.
 
-In this scenerio, the following changes will occur:
+В этом сценарии происходят следующие изменения:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Присутствия под вашим управлением будут переданы боту PreMiD или другому пользователю (решение проверяющего). Идентификатор приложения для каждой сущности воссоздается под новым именем владельца.
+- Все ваши проблемы и запросы на снятие средств, созданные после запрета (создание активов, вклад активов и т. д.) будет немедленно закрыт.
+- Билеты, созданные на ваше имя для разработки актива, будут удалены.
 
 
 ## `Проверяется`
