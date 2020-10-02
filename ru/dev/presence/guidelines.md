@@ -190,7 +190,7 @@ presence
 ### **`category`**
 
 - Категория ** должна ** быть одной из следующих, перечисленных в [ документации ](https://docs.premid.app/en/dev/presence/metadata#presence- категории).
-- Организация должна использовать категорию, соответствующую содержанию веб-сайта. (for e.g., don't use `anime` when the website isn't related to anime).
+- Организация должна использовать категорию, соответствующую содержанию веб-сайта. (например, не используйте `аниме` не имеет отношения к сайту аниме).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -199,7 +199,7 @@ presence
 ### **`settings`**
 
 - Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `% var `, ` var% ` или ` %%var%% ` и всё что между ними, являются ** не ** допускаемым в целях стандартизации.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Название настроек **не** будьте со всеми заглавными буквами. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -238,7 +238,7 @@ presence
 В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
 - Вы ** не** можете переписать свой presence или сменить его автора. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Свяжитесь с верификатором для получения дополнительной информации по этому вопросу.   - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Contact a reviewer for more information about this subject.
+- Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Свяжитесь с верификатором для получения дополнительной информации по этому вопросу.   - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Проконсультируйтесь с рецензентом для получения дополнительной информации по этой теме.
 -  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
 
 # Верификация
