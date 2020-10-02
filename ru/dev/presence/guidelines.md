@@ -207,7 +207,7 @@ presence
 > 
 > {.is-warning}
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Каждый актив следует строгому набору правил линтинга, который будет проверяться в процессе проверки. Несколько предложений можно найти ниже. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -237,7 +237,7 @@ presence
 
 В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
-- Вы ** не** можете переписать свой presence или сменить его автора. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- Вы ** не** можете переписать свой presence или сменить его автора. Если составитель статуса был забанен на официальном сервере или не внес необходимые изменения в течение месяца, вы можете связаться с рецензентом, чтобы узнать, можете ли вы изменить статус.
 - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Свяжитесь с верификатором для получения дополнительной информации по этому вопросу.   - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Проконсультируйтесь с рецензентом для получения дополнительной информации по этой теме.
 -  Кто угодно может предоставить исправления для исправления ошибок; но, **не** внести следующие изменения **не** нужно. Допустимые изменения включают общие исправления (код и опечатки), дополнения (комментарии и теги), отсутствующие файлы и т. Д. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
 
