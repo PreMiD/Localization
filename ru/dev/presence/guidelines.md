@@ -145,7 +145,7 @@ presence
 ### **`service`**
 
 - Имя службы ** должно ** быть именем каталога presence. Например, если presence находится на `/websites/Y/YouTube/`, название сервиса должно быть `YouTube`.
-- Ты**отрицательный** Используйте Urrlадрес в качестве имени службы, если веб-сайт не использует Urrlадрес в качестве официального названия. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Ты**отрицательный** Используйте Urrlадрес в качестве имени службы, если веб-сайт не использует Urrlадрес в качестве официального названия. Использование Url-адреса, если имя не является описательным и может считаться неоднозначным **нужно**. (например `YouTube`это разрешено, так как это официальное название и носит описательный характер. `youtube.com` не. `Мяч` это не описательное имя, поэтому использование Url`top.gg` это происходит**нужно**.)
 
 ### **`altnames`**
 
@@ -190,7 +190,7 @@ presence
 ### **`category`**
 
 - Категория ** должна ** быть одной из следующих, перечисленных в [ документации ](https://docs.premid.app/en/dev/presence/metadata#presence- категории).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- Организация должна использовать категорию, соответствующую содержанию веб-сайта. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
