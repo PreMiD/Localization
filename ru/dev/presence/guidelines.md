@@ -239,7 +239,7 @@ presence
 
 - Вы ** не** можете переписать свой presence или сменить его автора. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
 - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Свяжитесь с верификатором для получения дополнительной информации по этому вопросу.   - Если вы вносите изменения в presence и изменяете не менее ** четверти ** кодовой базы presence's, вы можете добавить себя в качестве участника. Проконсультируйтесь с рецензентом для получения дополнительной информации по этой теме.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
+-  Кто угодно может предоставить исправления для исправления ошибок; но, **не** внести следующие изменения **не** нужно. Допустимые изменения включают общие исправления (код и опечатки), дополнения (комментарии и теги), отсутствующие файлы и т. Д. ** Не ** меняйте изображения, если они не устарели и находятся в спецификациях.
 
 # Верификация
 
@@ -251,7 +251,7 @@ presence
 > 
 > {.is-info}
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> Обратите внимание, что рецензенты добровольно участвуют в работе других репозиториев и управляют ими. Кроме того, ваш запрос на вытягивание не может быть рассмотрен в течение нескольких часов или дней после его создания. 
 > 
 > {.is-warning}
 
