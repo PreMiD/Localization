@@ -124,7 +124,7 @@ presence
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Все картинки в `metadata`файл должен находиться по адресу `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
