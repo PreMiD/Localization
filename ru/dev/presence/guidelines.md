@@ -124,7 +124,7 @@ presence
 > 
 > {.is-warning}
 
-> Все картинки в `metadata`файл должен находиться по адресу `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Все картинки в `metadata`файл должен находиться по адресу `i.imgur.com`. Использование контента, размещенного на сайте **не** им разрешено, поскольку они могут неохотно изменять пути и файлы. 
 > 
 > {.is-warning}
 
@@ -145,7 +145,7 @@ presence
 ### **`service`**
 
 - Имя службы ** должно ** быть именем каталога presence. Например, если presence находится на `/websites/Y/YouTube/`, название сервиса должно быть `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Ты**отрицательный** Используйте Urrlадрес в качестве имени службы, если веб-сайт не использует Urrlадрес в качестве официального названия. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
