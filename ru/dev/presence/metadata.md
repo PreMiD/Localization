@@ -142,7 +142,7 @@ tags:
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Строка регулярного выражения, используемая для сопоставления Url-адресов.</td>
       <td style="text-align:left"><code>Строка</code>
       </td>
       <td style="text-align:left"><code>Да</code>
