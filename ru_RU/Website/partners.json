@@ -151,13 +151,29 @@
 		"message": "Единый, дружественный к разработчику интерфейс для всех ваших работ.",
 		"description": "Description for PackageCloud."
 	},
+	"partners.partner.fastly": {
+		"message": "За лучшими в интернете.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit-это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
 		"description": "Partnership application modal title."
 	},
+	"partners.apply.loggedUser": {
+		"message": "Сделать первый вход {0}",
+		"description": "{0} will be replaced with user account."
+	},
 	"partners.apply.notYou": {
 		"message": "Это не вы?",
 		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Пожалуйста, выберите один из",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
 		"message": "Сайт",
@@ -171,9 +187,17 @@
 		"message": "Наименование",
 		"description": "Name filed."
 	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Старый: PreMiD",
+		"description": "Name field's placeholder."
+	},
 	"partners.apply.form.link": {
 		"message": "Ссылка",
 		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Старый: https://premid.app",
+		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.button.close": {
 		"message": "Закрыть",
