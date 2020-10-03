@@ -15,9 +15,9 @@ editor: markdown
 PreMiD делает**не** Если вы работаете в версии браузера Discord, вы должны загрузить приложение [сюда](https://discord.com/download).
 
 ### Использование сущности с настройками?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+Много присутствия (в том числе`Twitch` а также`SoundCloud`) затронуты проблемой расширения. Эта проблема приводит к тому, что расширение не получает значения настроек по умолчанию должным образом.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Чтобы решить эту проблему, все, что вам нужно сделать, это изменить верхнюю настройку: ![presencesettings.gif](/presencesettings.gif)
 
 ### Перезагрузите страницу
 Вы можете нажать <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) или <kbd>CMD+R</kbd> (MacOS) на вашей клавиатуре, вместо поиска кнопки обновления страницы.
