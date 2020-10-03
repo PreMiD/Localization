@@ -406,11 +406,11 @@ presence.on("iFrameData", data => {
 
 ## Отладка
 - Вы можете поместить `console.log("Тест");` между вашим кодом и посмотреть, выводит ли консоль вашего браузера. Если да, то войдите и повторите попытку после следующей функции. Если нет, то произошла ошибка выше.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Если это тоже не поможет вам, то наш [Сервер Discord](https://discord.premid.app/) Для помощи.
 
 # Больше информации
 - [Класс присутствия](/dev/presence/class)
 - [Класс iFrame](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [Файл Метаданных](/dev/presence/metadata)
 - [Настройка TypeScript](/dev/presence/tsconfig)
 {.links-list}
