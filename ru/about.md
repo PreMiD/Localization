@@ -1,6 +1,6 @@
 ---
 title: О PreMiD
-description: The core features of PreMiD
+description: Основные характеристики PreMiD
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:

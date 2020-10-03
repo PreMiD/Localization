@@ -57,7 +57,7 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Асинхронный метод, который позволяет извлекать переведенные строки из расширения. Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. С помощью этой конечной точки можно найти сборку переведенных строк: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Возвращает `Playing` и `Paused` строки
@@ -194,7 +194,7 @@ var presenceData: presenceData = {
 События позволяют вам обнаруживать и обрабатывать некоторые изменения или вызовы. Вы можете подписаться на события с помощью метода `on`.
 
 ```typescript
-presence.on("UpdateData", async () => {
+presence.on("Данные обновить", асинхронный () => {
     // Выполняйте что-то, когда данные обновляются.
 });
 ```
