@@ -199,6 +199,22 @@
 		"message": "Старый: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
+	"partners.apply.form.description": {
+		"message": "Описание: (максимум 150 символов)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Описание основных моментов",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Ссылка на изображение: (только 550x300, PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Старый: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Закрыть",
 		"description": "Modal close button."
