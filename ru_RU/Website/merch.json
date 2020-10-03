@@ -3,6 +3,10 @@
 		"message": "Добро пожаловать в официальный **PreMiD** магазин товаров!",
 		"description": "Merch store title"
 	},
+	"merch.swag": {
+		"message": "Найдите свой сваг **",
+		"description": "Subtitle for store"
+	},
 	"merch.fit": {
 		"message": "**Выберите свою форму**",
 		"description": "Product sizes"
