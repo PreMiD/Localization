@@ -119,6 +119,18 @@
 		"message": "Получите то, что принадлежит вам по праву. Потоковое аниме, фильмы, хентай, специальные предложения и многое другое. Бесплатно, без всякой рекламы и в высоком разрешении!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Начните создавать свое собственное сообщество с нашими замечательными шаблонами. Постройте свое собственное королевство.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "тайга-это бот Discord, который пытается предложить все функции, которые вам могут понадобиться одновременно!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Мощный и простой в использовании кросс-платформенный инструмент для создания установщика.",
+		"description": "Description for BitRock."
+	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
 		"description": "Partnership application modal title."
