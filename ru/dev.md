@@ -11,7 +11,7 @@ tags:
 > {.is-info}
 
 # Установка требований
-1. Install [Git](https://git-scm.com/).
+1. Установить [Иди](https://git-scm.com/).
 2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
 3. Установите [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и введите `npm install -g typescript`).
 
