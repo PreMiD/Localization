@@ -182,10 +182,10 @@ editor: markdown
       <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
         <b>Этот URL должен соответствовать URL сайта, так как он определит, является ли это сайт инъекцией скрипта.</b><br> Do <b>NOT</b> add <code>https://</code> или <code>http://</code> внутри URL или слэш в конце:
 <code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
+<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. Делать <b>не</b> забудьте добавить!<br>
+Вы можете добавить несколько URL-адресов, выполнив следующие действия:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+Вы также можете использовать regExp, также известное как Regex, для этой задачи, более подробно объясненное ниже.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
