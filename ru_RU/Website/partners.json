@@ -131,6 +131,26 @@
 		"message": "Мощный и простой в использовании кросс-платформенный инструмент для создания установщика.",
 		"description": "Description for BitRock."
 	},
+	"partners.partner.statusPage": {
+		"message": "Легко сообщать своим пользователям о состоянии в реальном времени.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Богиня, которая играет как забавный бот-Дискорд!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "Гибкая локализация для технологических компаний.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Самое мощное и расширяемое программное обеспечение с открытым исходным кодом Вики.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Единый, дружественный к разработчику интерфейс для всех ваших работ.",
+		"description": "Description for PackageCloud."
+	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
 		"description": "Partnership application modal title."
