@@ -30,5 +30,5 @@ PreMiD раскрывает различные версии нашего API. В
 
 **Выберите версию API:**
 - [v2 *активен*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *работа в процессе*](/dev/api/v3)
 {.links-list}
