@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-# Класс Presence
+# Класс Состояния
 
 ## Введение
 
