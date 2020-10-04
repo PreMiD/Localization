@@ -57,7 +57,7 @@ Ustawia tytuł zasobnika na pasku menu.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Metoda asynchroniczna, która pozwala na otrzymywanie przetłumaczonych ciągów z rozszerzenia. Musisz podać `Obiekt` z kluczami dla ciągu znaków, `keyValue` jest wartością ciągu znaków. Kompilację przetłumaczonych ciągów można znaleźć za pomocą tego punktu końcowego: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Zwraca ciągi znaków `Playing` i `Paused`
