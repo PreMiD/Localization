@@ -151,6 +151,10 @@
 		"message": "Najlepsze w sieci.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit to Twoja muzyczna stacja radiowa online stworzona do odtwarzania Twoich najlepszych hitów 24 godziny na dobę, 7 dni w tygodniu. Sprawia, że jako pierwszy odkryjesz przyszłe hity.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Wyślij zgłoszenie, aby zostać partnerem",
 		"description": "Partnership application modal title."
