@@ -406,7 +406,7 @@ Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem
 
 ## Debugowanie
 - Możesz umieścić `console.log („Test”);` między kodem i sprawdzić, czy konsola przeglądarki daje ci taki wynik. Jeśli tak, kontynuuj i spróbuj ponownie po następnej funkcji. Jeśli nie, oznacza to błąd powyżej.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Jeśli to nie pomoże, poproś o pomoc programistę Presence na naszym [serwerze Discord](https://discord.premid.app/).
 
 # Wyjaśnienie plików
 - [Klasa Presence](/dev/presence/class)
