@@ -209,7 +209,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 > 
 > {.is-warning}
 
-> **Her mevcudiyet, inceleme süreci sırasında kontrol edilecek katı bir linting kural setini takip eder.**, Aşağıda bir kaç öneri görülebilir. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> **Her mevcudiyet, inceleme süreci sırasında kontrol edilecek katı bir linting kural setini takip eder.**, Aşağıda bir kaç öneri görülebilir. - [TypeScript eklentisinin sıkı tip kontrolü için önerileri](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ ESlint Önerileri](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -257,11 +257,11 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 > 
 > {.is-warning}
 
-> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. This will help limit false positives from the checks. 
+> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. Bu, yanlış pozitiflerin denetlenmesini sınırlamaya yardımcı olacaktır. 
 > 
 > {.is-warning}
 
-Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Yorumcularımız, servisinin standartlara uygun olduğunu doğrulayacak ve mağazaya ekleyecektir.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Servis İnceleyicileri</h2>
