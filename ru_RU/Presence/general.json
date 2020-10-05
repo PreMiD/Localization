@@ -8,7 +8,7 @@
 		"description": ""
 	},
 	"general.chapter": {
-		"message": "Раздел",
+		"message": "Глава",
 		"description": ""
 	},
 	"general.dj": {
@@ -200,7 +200,7 @@
 		"description": ""
 	},
 	"general.watchingVid": {
-		"message": "Смотрит видео",
+		"message": "Просмотр видео",
 		"description": ""
 	},
 	"general.watchingLive": {
