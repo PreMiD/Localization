@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estes já pertencem a nós",
+		"message": "Esses aqui já são nossos",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Use automaticamente a sua Presence quando alguém visita seu site.",
+		"message": "Sua Presence será automaticamente usada quando alguém visitar seu site.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -92,7 +92,7 @@
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
-		"message": "O PreMiD não seria possível, sem essas pessoas incríveis.",
+		"message": "O PreMiD não seria possível sem essas pessoas incríveis.",
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
@@ -160,7 +160,7 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Inscrever-se para parceiro",
+		"message": "Inscreva-se para parceiro",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
