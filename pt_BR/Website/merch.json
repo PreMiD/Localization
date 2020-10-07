@@ -16,7 +16,7 @@
 		"description": "Add product to cart"
 	},
 	"merch.help": {
-		"message": "Experienciando problemas com nossa loja ou pedido? Contate nosso {0}serviço de atendimento ao cliente{1}",
+		"message": "Tendo problemas com nossa loja ou pedido? Contate nosso {0}serviço de atendimento ao cliente{1}",
 		"description": "Link to customer support, {0}{1} is the replacement for the link"
 	},
 	"merch.item.added": {
