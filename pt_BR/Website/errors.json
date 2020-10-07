@@ -1,6 +1,6 @@
 {
 	"store.search.notFound": {
-		"message": "Nós não conseguimos achar essa Presença...",
+		"message": "Nós não conseguimos achar essa Presence...",
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
@@ -8,7 +8,7 @@
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
-		"message": "Você está a procura de uma Presença não existente ou removida.",
+		"message": "Você está a procura de uma Presence não existente ou removida.",
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
@@ -32,7 +32,7 @@
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "que o usuário criou Presenças suficientes e tem o cargo de Desenvolvedor de Presenças em nosso servidor do Discord.",
+		"message": "que o usuário criou Presences suficientes e tem o cargo Presence Developer em nosso servidor do Discord.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
