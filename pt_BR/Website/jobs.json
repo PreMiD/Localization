@@ -28,11 +28,11 @@
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Junte-se ao nosso Discord",
+		"message": "Entre no nosso Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Para poder se candidatar, você deve entrar em nosso servidor do Discord. Caso contrário, não poderemos te contactar caso você seja selecionado!",
+		"message": "Para poder se candidatar, você deve entrar em nosso servidor do Discord. Caso contrário, não poderemos te contatar caso você seja selecionado!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
@@ -44,7 +44,7 @@
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
-		"message": "Aberturas de Emprego",
+		"message": "Vagas de Emprego",
 		"description": "Text before the available job positions cards."
 	},
 	"jobs.benefits.title": {
@@ -52,7 +52,7 @@
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
-		"message": "Conheça nos",
+		"message": "Nos conheça",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Permissões poderosas do Discord e um cargo com cor.",
+		"message": "Permissões poderosas no Discord e um cargo colorido.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
