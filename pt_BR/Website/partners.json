@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Sua presença gratuita",
+		"message": "Sua Presence gratuita",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Nossa equipe lhe fornecerá uma presença do seu serviço.",
+		"message": "Nossa equipe lhe fornecerá uma Presence do seu serviço.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Usa automaticamente a Presença quando alguém visita seu site.",
+		"message": "Use automaticamente a sua Presence quando alguém visita seu site.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -68,7 +68,7 @@
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
-		"message": "Seu firewall",
+		"message": "Nosso firewall",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
@@ -160,7 +160,7 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Candidatar-se a parceiro",
+		"message": "Inscrever-se para parceiro",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
