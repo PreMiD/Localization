@@ -207,7 +207,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 > 
 > {.is-warning}
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Ogni presenza segue un rigore di regole che saranno controllate durante il processo di revisione. Un paio di raccomandazioni possono essere viste di seguito. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -255,14 +255,14 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 > 
 > {.is-warning}
 
-> Avere **sempre** un fork aggiornato prima di creare la tua pull request. This will help limit false positives from the checks. 
+> Avere **sempre** un fork aggiornato prima di creare la tua pull request. Ciò contribuirà a limitare i falsi positivi dai controlli. 
 > 
 > {.is-warning}
 
 Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Recensori Presence</h2>
   <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/doomlerd"><img src="https://github.com/doomlerd.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -297,7 +297,7 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 
 Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti questi controlli aiutano i revisori a determinare se la tua presence è adatta alla distribuzione.
 
-- `Codacy` is a bot that checks for code quality. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
+- `Codacy` è un bot che controlla la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
 - `Validazione Schema` esegue la scansione del file `metadata.json` per rilevare eventuali errori (per es., campi mancanti, tipi di valori non validi, ecc.). Se mai vedessi nuovi problemi, è **necessario** anche risolverli. L'aggiunta di un campo schema al tuo file `metadata.json` permetterà al tuo editor di testo (se supportato) di mostrarti questi errori durante lo sviluppo.
 
 ## `Regole Aggiuntive`
