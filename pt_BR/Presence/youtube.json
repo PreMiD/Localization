@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Visualizando posts de comunidade",
+        "message": "Visualizando posts da comunidade",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -80,7 +80,7 @@
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Editando vídeo:",
+        "message": "Editando um vídeo:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
