@@ -209,7 +209,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 > 
 > {.is-warning}
 
-> **Her mevcudiyet, inceleme süreci sırasında kontrol edilecek katı bir linting kural setini takip eder.**, Aşağıda bir kaç öneri görülebilir. - [TypeScript eklentisinin sıkı tip kontrolü için önerileri](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ ESlint Önerileri](https://eslint.org/docs/rules) 
+> **Her mevcudiyet, inceleme süreci sırasında kontrol edilecek katı bir linting kural setini takip etmektedir.**,. Aşağıda bir kaç öneri görülebilir. - [TypeScript eklentisinin sıkı tip kontrolü için önerileri](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ ESlint Önerileri](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -241,7 +241,7 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 
 - Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya bir ay içerisinde herhangi bir değişiklik yapmadıysa, bir Gözden Geçiren ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
 - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir inceleyici ile iletişime geçebilirsiniz.
--  Hataları düzeltmek için herkes düzeltme sağlayabilir; ancak, gerekli ** olmayan ** değişiklikleri yapmak için, ** yapmayın!** Geçerli değişiklikler arasında genel düzeltmeler (kod ve yazım hataları), eklemeler (açıklamalar ve etiketler), eksik dosyalar vb. Yer alır. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
+-  Herhangi biri hataları düzeltmek için düzeltme sağlayabilir; ancak ** gerekmeyen değişiklikleri yapmak için ** yapmayın **. Geçerli değişiklikler arasında genel düzeltmeler (kod ve yazım hataları), eklemeler (açıklamalar ve etiketler), eksik dosyalar vb. Yer alır. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.</li> </ul>
 
 # Onaylanma
 
