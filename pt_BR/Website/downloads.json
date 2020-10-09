@@ -136,7 +136,7 @@
     "description": "Message next to pepe."
   },
   "downloads.skipanyway.message1": {
-    "message": "Eu não quero apoiar.",
+    "message": "Eu não quero ajudar.",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message2": {
@@ -148,7 +148,7 @@
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message4": {
-    "message": "P-por favor apoie :(",
+    "message": "P-por favor ajude :(",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message5": {
@@ -156,11 +156,11 @@
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message6": {
-    "message": "Tudo bem, tudo bem...",
+    "message": "Okay, okay...",
     "description": "Last message of the skip anyway messages (changes everytime you click it)."
   },
   "downloads.showbeta.message": {
-    "message": "Mostrar downloads beta",
+    "message": "Exibir downloads beta",
     "description": ""
   },
   "downloads.showbeta.small": {
