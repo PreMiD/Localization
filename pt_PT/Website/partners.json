@@ -159,6 +159,26 @@
 		"message": "O OnlyHit é a sua estação de rádio de música online feita para reproduzir seus melhores acertos 24/7 e fazer com que você descubra primeiro seus futuros acertos.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.apply.title": {
+		"message": "Inscrever-se para parceiro",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Logado como {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Não és tu?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Por favor, selecione um",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Website",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Outro",
 		"description": "Select 'Other' category."
@@ -167,8 +187,60 @@
 		"message": "Nome:",
 		"description": "Name filed."
 	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Link",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Descrição: (Máximo de 150 caracteres)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Descrição para destaque",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Link da imagem: (550x300, apenas PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ex: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Fechar",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Aplicar",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Obrigado por se candidatar!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Por favor, preencha todos os campos.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Descrição máxima de 150 caracteres.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Adicione um link (deve começar com https:// e terminar com .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Você já se inscreveu para parceiro antes.",
+		"description": "Error when already applied."
 	}
 }
