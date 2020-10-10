@@ -7,12 +7,12 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Algumas páginas poderão estar incompletas ou em falta. 
+> Esse documento ainda está sendo editado! Algumas páginas poderão estar incompletas ou em falta. 
 > 
 > {.is-warning}
 
 # Sobre o PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [O que é o PreMiD?"](/about) Intenções por trás do PreMiD e porque deveria usá-lo.
 - :link: [O que é RPC?](https://discordapp.com/rich-presence) Tudo sobre Rich Presence e as suas funções.
 
 # Primeiros passos
