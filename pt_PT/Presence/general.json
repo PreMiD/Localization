@@ -175,6 +175,10 @@
 		"message": "A ver perfil de:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Reproduzindo:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "A ver série:",
 		"description": ""
@@ -196,11 +200,11 @@
 		"description": ""
 	},
 	"general.watchingVid": {
-		"message": "A assistir a um filme",
+		"message": "A assistir a um vídeo",
 		"description": ""
 	},
 	"general.watchingLive": {
-		"message": "A assistir a uma tramissão em direto",
+		"message": "A assistir a uma transmissão em direto",
 		"description": ""
 	},
 	"general.watching": {
