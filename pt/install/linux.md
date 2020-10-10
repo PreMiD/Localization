@@ -47,13 +47,13 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Total downloads</th>
+    <th>Downloads</th>
     <th>Última versão</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Última versão"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Todos os lançamentos"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Última versão"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Lançamentos do GitHub"></a></td>
   </tr>
 </table>
 
@@ -74,8 +74,8 @@ Não se sabe se versões antigas de outras distribuições o suportam, então ba
 ### Suporte
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Entre em nosso Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Entre em nosso Discord!">
   </a>
 </div>
 
@@ -165,13 +165,13 @@ pacaur -S premid
 # ... você consegue entender o ponto
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+ou manualmente do [Repositório de Usuário Arch](https://aur.archlinux.org/packages/premid) se você sabe o que está fazendo.
 
 <a name="archnotes"></a>
 
 ### Notas adicionais
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Se seu distro usa o pacman, então você tem que instalar um dos auxiliares primeiro. Se você não tiver nenhum, Yay é o recomendo:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -181,26 +181,26 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Outros auxiliares AUR/Pacman também funcionam, embora a funcionalidade de cada um seja diferente, então você pode enfrentar problemas ao usá-los.
 
 <img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
 <a name="gentoo"></a>
 
 ## Gentoo Linux
 
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
+O mesmo se aplica aos seus derivados, como ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
 
 <a name="gentooinstall"></a>
 
 ### Instruções de instalação
 
 ```bash
-# Add the overlay using layman
+# Adicione a sobreposição usando layman
 layman -S && layman -a apriluwu
 ```
 
 ```bash
-# Install via portage
+# Instalar via portage
 emerge -av app-misc/premid
 ```
 
@@ -208,7 +208,7 @@ emerge -av app-misc/premid
 
 ### Notas adicionais
 
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
+A instalação mostrada usando layman, ele está nos repositórios oficiais por meio de `app-portage/layman`. <br>Para obter atualizações, você terá que sincronizar a sobreposição de tempos em tempos, você pode fazer isso com
 
 ```bash
 layman -S
