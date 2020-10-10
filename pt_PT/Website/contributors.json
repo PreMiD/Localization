@@ -16,7 +16,7 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.projectManager": {
-		"message": "Gestor do projeto",
+		"message": "Gerente de Projeto",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.operationsSupervisor": {
@@ -26,6 +26,10 @@
 	"contributors.roles.globalCommunityRepresentative": {
 		"message": "Representante Global da Comunidade",
 		"description": "'Global Community Representative' title for contributors and user pages."
+	},
+	"contributors.roles.storeManager": {
+		"message": "Gerente da Loja",
+		"description": "'Store Manager' title for contributors and user pages."
 	},
 	"contributors.roles.systemAdministrator": {
 		"message": "Administrador do Sistema",
@@ -42,6 +46,10 @@
 	"contributors.roles.engineer": {
 		"message": "Engenheiro",
 		"description": "'Engineer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.seniorModerator": {
 		"message": "Moderador Senior",
