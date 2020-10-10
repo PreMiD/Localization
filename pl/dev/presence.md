@@ -157,9 +157,9 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>alternatywne nazwy</b>
       </td>
-      <td style="text-align:left">Bądź w stanie wyszukać obecność za pomocą innej nazwy. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Bądź w stanie wyszukać obecność za pomocą innej nazwy. <br>Służą do wykorzystania w statusach, które mają inne nazwy w róźnych językach (np. Pokémon and 포켓몬스터).<br>Możesz też użyć tego do statusów, które mają specjalne litery więc nie musisz ich pisać (np. Pokémon i Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
