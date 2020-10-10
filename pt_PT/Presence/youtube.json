@@ -31,6 +31,10 @@
         "message": "A ver as tendências",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "A pesquisar por",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "suas subscrições",
         "description": "Part two of \"Browsing through\""
