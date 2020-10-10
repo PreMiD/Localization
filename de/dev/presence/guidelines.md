@@ -124,7 +124,7 @@ Jede Presence hat eine Deskriptor-Datei namens `metadata.json`, die Metadaten ha
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Alle Bilder in der `metadata` Datei müssen auf `i.imgur.com` hochgeladen werden. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
