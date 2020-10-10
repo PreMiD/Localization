@@ -1,1 +1,42 @@
-{}
+{
+	"report.title": {
+		"message": "Reporte um bug",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Reports restantes",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Reportar erros são para erros no site PreMiD e no servidor do Discord. Bugs de Presences devem ser relatados ao criador da presence. Somente reporte bugs em Inglês.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Forneça uma descrição clara e concisa do bug.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Selecione o seu Sistema Operacional e a Versão",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Selecione o seu Navegador e sua Versão - Você pode obter a versão visitando sobre: Suporte no Firefox ou Chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Forneça um link para um exemplo ou um conjunto inequívoco de etapas para reproduzir este bug.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Reportar",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Você tem muitos reportes ativos. Espere que os seus reportes enviados sejam revisados. Reportes são verificados semanalmente, seja paciente.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Você tem muitos reportes ativos.",
+		"description": "User has too many active reports"
+	}
+}
