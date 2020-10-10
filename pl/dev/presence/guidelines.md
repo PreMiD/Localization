@@ -124,7 +124,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> Wszystkie obrazy w pliku `metadata`, muszą być hostowane na `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
@@ -147,7 +147,7 @@ Lista pól i ich zasad znajduje się poniżej:
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
-### **`altnames`**
+### **`alternatywne nazwy`**
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
@@ -225,7 +225,7 @@ Oto lista zasad, których musisz przestrzegać podczas pisania pliku `presence.t
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
+> Nie **zapisuj** swojego własnego pliku `tsconfig.json`, użyj tego który został podany w [dokumentacji](https://docs.premid.app/en/dev/presence/tsconfig). 
 > 
 > {.is-warning}
 
