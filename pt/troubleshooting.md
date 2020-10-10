@@ -11,16 +11,16 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
+### Você está usando o aplicativo do Discord?
 O PreMiD **não** funciona na versão do Discord para navegador, você precisa baixar o aplicativo clicando [[aqui](https://discord.com/download)](https://discord. com/download).
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Você está usando uma Presence com configurações?
+Muitas presences (incluindo `Twitch` e `SoundCloud`) são afetadas por uma questão de extensão. Este problema faz com que a extensão não pegue os valores padrão das configurações corretamente.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Para resolver isso, tudo o que você precisa fazer é alternar a configuração mais importante: ![presencesettings.gif](/presencesettings.gif)
 
 ### Atualizar a página
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Pode clicar <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado em vez de procurar pelo botão de atualizar.
 
 ### Reiniciar o seu navegador
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) faz um bom trabalho também. (Tem que iniciar o seu navegador outra vez obviamente.)
@@ -32,7 +32,7 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ![quit.png](/quit.png) Terá que reiniciar o PreMiD depois.
 
 ### Recarregar/reiniciar o Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Pressione <kbd>CTRL+R</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) no seu teclado ou reinicie o Discord manualmente.
 
 ### Certifique-se de que o Discord NÃO foi executado como administrador
 Muito importante. O RPC do Discord não funcionará se o Discord tiver sido executado como administrador.
@@ -50,29 +50,29 @@ Espero que saiba como reiniciar o seu computador.
 Por vezes, há algo de errado com os ficheiros... Tutoriais de instalação podem ser encontrados [here](/install).
 
 ### Remoção manual
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Windows:    `C:\Users\Users\AppData\Roaming\`` e apague a pasta`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`e apague a pasta`PreMiD``.
 
 ### Em distribuições baseadas em Ubuntu/Debian
 Se você tiver baixado o Discord pelo Snapcraft, o RPC não funcionará. Tem que desinstalar a versão de Snapcraft executando `sudo snap remove discord` num terminal, baixe o <a href="[build de Discord para Linux](https://discordapp.com/api/download?platform=linux) ([ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), depois navegue para a pasta para onde baixou o Discord (geralmente `$HOME/Downloads`) e instale o pacote utilizando `sudo dpkg -i discord-*.deb`.
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### McAfee detecta o PreMiD como um vírus (Windows)
+Este é um falso positivo da parte do McAfee e nós comunicaremos a esse respeito. Por agora você pode excluir o PreMiD da verificação seguindo as seguintes etapas:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> Se você não se sentir confiante em tomar estes passos, sinta-se à vontade para fazer um ticket em [#suporte](https://discord.gg/WvfVZ8T) e um dos nossos Agentes de Suporte poderá ajudá-lo! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+1. Abra o McAfee e clique no ícone de configurações no canto superior direito. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Clique em "Quarantined Items" (Segundo a partir do topo).
+3. Expanda e clique no ícone `>` antes de um item com o nome "settings.dat".
+4. Certifique-se de que o caminho inclui "AppData\Local\Temp\PreMiD", se não for o selecione e pressione restaurar. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Depois de restaurado, você pode fechar a janela de "Quarantined Items", depois pressione novamente o ícone de configurações no canto superior direito.
+6. Clique em "Real-Time Scanning" (Terceiro a partir do topo).
+7. Expandir e clique em "Add file".
+8. Digite "%appdata%" na barra de URL do gerenciador de arquivos e pressione Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Abra a pasta "PreMiD" e selecione o arquivo "PreMiD.exe" e clique em abrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. O McAfee agora deve ignorar nosso arquivo, apenas iniciar nosso aplicativo e você deve estar pronto para começar.
 
 ### Isso não resolveu o meu problema
 Por favor abra um ticket no [#support](https://discord.premid.app/).
