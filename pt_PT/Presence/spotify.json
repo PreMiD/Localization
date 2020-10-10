@@ -1,4 +1,24 @@
 {
+	"spotify.featured": {
+		"message": "Músicas em destaque",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Melhores podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Visualizando os gráficos",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Navegando por gêneros",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "A ver os últimos lançamentos",
+		"description": ""
+	},
 	"spotify.download": {
 		"message": "Baixando o Spotify",
 		"description": ""
