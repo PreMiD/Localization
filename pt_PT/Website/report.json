@@ -38,5 +38,21 @@
 	"report.toomany.alert": {
 		"message": "Você tem muitos reportes ativos.",
 		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Bug Enviado",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Requer mais informações",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "A conta do Discord precisa ser verificada",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Bugs ativos",
+		"description": "Lists users active bugs"
 	}
 }
