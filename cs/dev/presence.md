@@ -29,7 +29,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Klonování projektu
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Otevřete terminál a napište `git clone https://github.com/PreMiD/Presences`.
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji v editoru kódu.
 
