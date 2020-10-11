@@ -207,7 +207,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 > 
 > {.is-warning}
 
-> Ogni presenza segue un rigore di regole che saranno controllate durante il processo di revisione. Un paio di raccomandazioni possono essere viste di seguito. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Ogni presenza segue un rigore di regole che saranno controllate durante il processo di revisione. Un paio di raccomandazioni possono essere viste di seguito. - [Raccomandazioni sui plug-in TypeScript per un controllo sulla tipizzazione forte](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Raccomandazioni ESlint](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -239,7 +239,7 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 
 - **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. Se l'autore della presence è stato bandito dal server ufficiale o non ha apportato le modifiche richieste entro un mese, puoi contattare un revisore per vedere se puoi riscrivere la presence.
 - Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un verificatore per maggiori informazioni su questo argomento.   - Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un revisore per maggiori informazioni su questo argomento.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
+-  Chiunque può apportare hotfix per risolvere i bug; comunque, **non** fare modifiche che **non** sono richieste. Le modifiche valide comprendono correzioni generali (codici e refusi), aggiunte (descrizioni e tag), file mancanti, ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
 
 # Verifica
 
@@ -259,7 +259,7 @@ In alcune situazioni, le presence possono comportarsi in modo inaspettato o potr
 > 
 > {.is-warning}
 
-Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. I nostri revisori confermeranno che la tua presenza rispetti gli standard e la inseriranno nel negozio.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Recensori Presence</h2>
