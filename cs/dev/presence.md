@@ -41,7 +41,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4. Create a `metadata.json` file inside the `dist` folder.
 
 ## Vyplňování souboru tsconfig.json
-Please put the following code inside of the `tsconfig.json` file.
+Do souboru `tsconfig.json` vložte následující kód.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
