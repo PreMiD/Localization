@@ -28,7 +28,7 @@
 		"description": "'Global Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.storeManager": {
-		"message": "Gestore Negozio",
+		"message": "Gestore Store",
 		"description": "'Store Manager' title for contributors and user pages."
 	},
 	"contributors.roles.systemAdministrator": {
@@ -72,7 +72,7 @@
 		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Agente di Supporto",
+		"message": "Referente Assistenza",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.presenceVerifier": {
