@@ -122,7 +122,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">வகை</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -409,7 +409,7 @@ The website you are developing on is automatically reloading every time you save
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
-- [Presence Class](/dev/presence/class)
+- [இருப்பு வகுப்பு](/dev/presence/class)
 - [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)

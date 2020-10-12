@@ -1,15 +1,15 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
-published: true
+title: இருப்பு வகுப்பு
+description: ஒவ்வொரு PreMiD இருப்புக்கும் முக்கிய வகுப்பு
+published: இயக்கப்பட்டது
 date: 2020-07-29T15:12:55.925Z
 tags:
-editor: markdown
+editor: மார்க் டவுன்
 ---
 
-# Presence Class
+# இருப்பு வகுப்பு
 
-## Introduction
+## அறிமுகம்
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
@@ -121,7 +121,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">வகை</th>
     </tr>
   </thead>
   <tbody>
