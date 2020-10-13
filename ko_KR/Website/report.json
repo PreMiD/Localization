@@ -4,7 +4,7 @@
 		"description": "Text to indicate the page."
 	},
 	"report.bugcount": {
-		"message": "{count}/3건의 신고가 남아있습니다",
+		"message": "현재 {count}/3건의 신고가 가능합니다.",
 		"description": "Amount of bug reports user can send"
 	},
 	"report.info": {
@@ -22,6 +22,10 @@
 	"report.browser": {
 		"message": "당신의 브라우저와 버전을 선택하세요 - FireFox 브라우저는 about:support에서, 혹은 chrome://help에서 브라우저 버전을 확인하실 수 있습니다.",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "해당 버그를 재현하고 테스트하기 위해 명확한 과정 또는 동영상, 링크를 서술해주십시오.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "신고",
@@ -48,7 +52,7 @@
 		"description": "Users Discord not verified"
 	},
 	"report.activebugs": {
-		"message": "검토중인 버그입니다",
+		"message": "검토중인 버그 신고건",
 		"description": "Lists users active bugs"
 	}
 }
