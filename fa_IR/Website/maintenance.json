@@ -4,15 +4,15 @@
 		"description": "The big text on maintenance page"
 	},
 	"maintenance.heading": {
-		"message": "متاسفانه ما مشکلات تکنیکی را داریم رئویت می کنیم. به زودی بازخواهیم گشت. بابت آزرده خواهی شما معذرت می خواهیم.",
+		"message": "متاسفانه ما به مشکلات فنی برخورده‎ایم. به زودی بازخواهیم گشت. بابت آزرده خواهی شما معذرت می خواهیم.",
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.heading2": {
-		"message": "لطفا برای اطلاعات بیشتر بعدا دوباره بازگردید.",
+		"message": "لطفا برای اطلاعات بیشتر بعداً دوباره بازگردید.",
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.message": {
-		"message": "تا زمانی که توسعه دهندگان ویژه مان این مشکل را رفع کنند، می توانید نگاهی به اینجا بیاندازید!",
+		"message": "تا زمانی که توسعه دهندگان ویژه‌مان این مشکل را رفع کنند، می توانید به اینجا نگاهی بیاندازید!",
 		"description": "Message on maintenance page"
 	},
 	"maintenance.statuspage": {
