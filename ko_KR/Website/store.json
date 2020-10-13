@@ -1,18 +1,30 @@
 {
+	"store.message.error": {
+		"message": "확장 프로그램이 연결되지 않았습니다.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "제작자",
 		"description": "Creator of a presence"
 	},
+	"store.cards.partner": {
+		"message": "파트너 Presence",
+		"description": "Presence card partner flame"
+	},
 	"store.category.filters.heading": {
 		"message": "필터",
 		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "인기순으로 정렬",
+		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
 		"message": "성인용 콘텐츠 보기",
 		"description": "Adult content checkbox"
 	},
 	"store.category.heading": {
-		"message": "목록들",
+		"message": "카테고리",
 		"description": "Category heading"
 	},
 	"store.category.all": {
@@ -42,6 +54,10 @@
 	"store.search": {
 		"message": "검색",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "입력 or 확인",
+		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
 		"message": "클릭하여 필터 삭제",
