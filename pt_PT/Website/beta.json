@@ -40,7 +40,7 @@
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
-		"message": "Parece que a versão beta está cheia.",
+		"message": "Parece que já não temos mais espaços beta disponíveis.",
 		"description": "Shows when the beta slots are full."
 	}
 }
