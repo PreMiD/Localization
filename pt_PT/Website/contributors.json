@@ -16,7 +16,7 @@
 		"description": "'Creator' title for contributors and user pages."
 	},
 	"contributors.roles.projectManager": {
-		"message": "Gerente de Projeto",
+		"message": "Gestor do Projeto",
 		"description": "'Project Manager' title for contributors and user pages."
 	},
 	"contributors.roles.operationsSupervisor": {
@@ -40,7 +40,7 @@
 		"description": "'Web Developer' title for contributors and user pages."
 	},
 	"contributors.roles.linuxMaintainer": {
-		"message": "Mantedor de Linux",
+		"message": "Mantenedor do Linux",
 		"description": "'Linux Maintainer' title for contributors and user pages."
 	},
 	"contributors.roles.engineer": {
