@@ -24,7 +24,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
 	"presence.sections.information.likes": {
-		"message": "Curtidos",
+		"message": "Gostos",
 		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
