@@ -20,7 +20,7 @@
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "A nossa equipe irá te oferecer com uma Presence do seu serviço web.",
+		"message": "A nossa equipe irá oferecer-te com uma Presence do seu serviço web.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -116,11 +116,11 @@
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
-		"message": "Pegue o que é seu por direito. Transmitir animais, filmes, Hentai, Especiais e muito mais. Gratuitamente, sem anúncios e em alta definição!",
+		"message": "Pegue o que é seu por direito. Transmitir anime, filmes, hentai, especiais e muito mais. Gratuitamente, sem anúncios e em alta definição!",
 		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
-		"message": "Comece a criar sua própria comunidade com nossos incríveis modelos. Construa o seu próprio reino.",
+		"message": "Comece a criar a sua própria comunidade com os nossos incríveis modelos. Construa o seu próprio reino.",
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
