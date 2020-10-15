@@ -13,7 +13,7 @@ editor: markdown
 
 A versão `2.x` introduz a [loja de presença](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas presenças favoritas através da interface de usuário do [site](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Antes de começar, é altamente recomendável que olhes para as nossas diretrizes de presença. 
 > 
 > {.is-warning}
 
@@ -21,23 +21,23 @@ A versão `2.x` introduz a [loja de presença](https://premid.app/store). Usuár
 {.links-list}
 
 # Estrutura
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Toda a presença é codificada em [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tem algumas definições do tipo extra picante sobre JavaScript, pelo que a fixação e identificação de bugs é muito mais fácil.
 
 ## Instalação
 1. Install [Git](https://git-scm.com/).
 2. Instale [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links)(abrir um terminal e `npm instala -g trypescrpit`).
 
 ## Clonando o projeto
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Abrir um terminal e digitar `git clone https://github.com/PreMiD/Presences`.
 2. Escolha uma pasta à sua escolha.
-3. Open it in you code editor.
+3. Abre-o no teu editor de códigos.
 
-## Creating folders and files
+## Criação de pastas e ficheiros
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
+1. Cria um ficheiro com o **nome** (não um URL) do serviço que pretende apoiar.
 2. Crie um arquivo `presence.ts` e um arquivo `tsconfig.json` dentro dele.
-3. Create a folder named `dist` inside.
+3. Cria uma pasta com o nome `dist` dentro.
 4. Create a `metadata.json` file inside the `dist` folder.
 
 ## Filling in the tsconfig.json file
