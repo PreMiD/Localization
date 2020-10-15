@@ -38,10 +38,10 @@ Toda a presença é codificada em [TypeScript](https://www.typescriptlang.org/).
 1. Cria um ficheiro com o **nome** (não um URL) do serviço que pretende apoiar.
 2. Crie um arquivo `presence.ts` e um arquivo `tsconfig.json` dentro dele.
 3. Cria uma pasta com o nome `dist` dentro.
-4. Create a `metadata.json` file inside the `dist` folder.
+4. Cria um`metadata.json` ficheiro dentro da `dist` pasta.
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## Preenchimento do ficheiro tsconfig.json
+Por favor coloque o seguinte código dentro do arquivo `tsconfig.json`.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -52,8 +52,8 @@ Please put the following code inside of the `tsconfig.json` file.
 ```
 Para aprender mais sobre a configuração TypeScript, clique [aqui](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## Preenchimento do ficheiro metadata.json
+Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.codes/projects/premid/mdcreator). Ainda é sugerido ler isto para que você saiba como ele funciona.
 
 ```json
 {
@@ -109,14 +109,14 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu precisas de editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter seus `metadata.json. `, se você não planeja usá-los, você precisa removê-los.
 - `contribuidores(as)`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `definições`
 
-**Clarifying some value presets:**
+**Clarificando algumas predefinições de valor:**
 <table>
   <thead>
     <tr>
@@ -150,7 +150,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>serviço</b>
       </td>
-      <td style="text-align:left">O título do serviço que esta presença suporta. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">O título do serviço que esta presença suporta. <br>(Deve ser o mesmo nome que a pasta em que tudo está)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
@@ -159,9 +159,9 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Seja capaz de pesquisar a presença usando um nome alternativo. <br>Medida para ser usada em presenças que têm nomes diferentes em diferentes línguas (por exemplo, Pokémon e 포켓몬스터.).<br>Você também pode usá-lo para presenças que têm caracteres especiais, para que você não tenha que digitar esses (por exemplo, Pokémon e Pokemon).
       </td>
-      <td style="text-align:left"><code>Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>Matriz&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>sim</code>
       </td>
@@ -296,7 +296,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.codes/projects/premid/mdcreator).
 
 ## Getting started
 
