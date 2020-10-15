@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Use o PreMiD agora e mostre aos amigos o que está a fazer, talvez encontre alguém com os mesmos interesses.",
+    "message": "Use o PreMiD agora e mostre aos seus amigos o que está a fazer, talvez encontre alguém com os mesmos interesses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -12,7 +12,7 @@
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
-    "message": "Descarregue o PreMiD",
+    "message": "Transfere o PreMiD",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
@@ -20,19 +20,19 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Adicione a nossa extensão ao navegador",
+    "message": "Adicione a nossa extensão ao seu navegador",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Recarregue este sítio e verifique se a extensão está conectada",
+    "message": "Recarregue este site e verifique se a extensão está conectada",
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
-    "message": "Ainda tem problemas? {0}",
+    "message": "Ainda tens problemas? {0}",
     "description": "{0} will be replaced with footer.link"
   },
   "downloads.instructions.footer.link": {
-    "message": "Estamos aqui para ajudar-lhe!",
+    "message": "Estamos aqui para ajudar!",
     "description": "Link to our discord"
   },
   "downloads.appdownloading.header": {
@@ -72,7 +72,7 @@
     "description": "Tippy message of the version number when user is on Linux."
   },
   "downloads.error.login": {
-    "message": "Conecte-se para poder ver estes descarregamentos.",
+    "message": "Por favor, fala login para ver estes downloads.",
     "description": "Error message if the user is not logged in."
   },
   "downloads.error.noaccess.title": {
@@ -80,7 +80,7 @@
     "description": "Error message if the user doesn't alpha/beta access."
   },
   "downloads.error.noaccess.description": {
-    "message": "Pode juntar-se ao nosso programa beta **aqui** de graça. Apresse-se! Só temos mais {0} vagas disponíveis",
+    "message": "Pode juntar-se ao nosso programa beta **aqui** de graça. Despacha-te! Só temos mais {0} vagas disponíveis",
     "description": "More info if the user doesn't alpha/beta access."
   },
   "downloads.latest.header": {
@@ -92,11 +92,11 @@
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
   "downloads.warning.message.edge": {
-    "message": "Não esqueça de habilitar a opção 'permitir extensões doutras lojas' das configurações da extensão.",
+    "message": "Não te esqueças de habilitar a opção 'permitir extensões de outras lojas' a partir das definições da extensão.",
     "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
   },
   "downloads.warning.message.opera": {
-    "message": "Tem que instalar **esta** extensão para poder instalar PreMid pelo Chrome Webstore.",
+    "message": "Tens que instalar **esta** extensão para poder instalar PreMid pelo Chrome Webstore.",
     "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
   },
   "downloads.button.skip": {
@@ -128,7 +128,7 @@
     "description": "Title of the advertisement section box."
   },
   "downloads.adsbox.thankyou.message": {
-    "message": "Usamos anúncios para apoiar a nossa equipa e manter os nossos servidores para oferecer-lhe a melhor experiência d'utilizador!",
+    "message": "Usamos anúncios para apoiar a nossa equipa e manter os nossos servidores para oferecer-lhe a melhor experiência de utilizador!",
     "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
@@ -140,11 +140,11 @@
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message2": {
-    "message": "Tem a certeza?",
+    "message": "Tens a certeza?",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message3": {
-    "message": "Sério?",
+    "message": "A sério?",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message4": {
