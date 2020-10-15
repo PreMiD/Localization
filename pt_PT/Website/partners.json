@@ -124,7 +124,7 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga é um Bot do Discord tentando oferecer todos os recursos que você pode precisar de uma só vez!",
+		"message": "taiga é um Bot do Discord que tenta oferecer todos os recursos que podes precisar de uma só vez!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
@@ -148,7 +148,7 @@
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.packageCloud": {
-		"message": "Uma interface unificada e amigável para todos os seus artefatos.",
+		"message": "Uma interface unificada e amigável para todos os seus artefactos.",
 		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
@@ -164,7 +164,7 @@
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "Logado como {0}",
+		"message": "Inscrito como {0}",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -236,7 +236,7 @@
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Adicione um link (deve começar com https:// e terminar com .png)",
+		"message": "Adiciona um link (deve começar com https:// e terminar com .png)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
