@@ -4,7 +4,7 @@
 		"description": "Merch store title"
 	},
 	"merch.swag": {
-		"message": "Encontre seu **Swag**",
+		"message": "Encontre o seu **Swag**",
 		"description": "Subtitle for store"
 	},
 	"merch.fit": {
@@ -16,7 +16,7 @@
 		"description": "Add product to cart"
 	},
 	"merch.help": {
-		"message": "Está tendo problemas com nossa loja ou um pedido? Entre em contato com nosso {0}suporte ao cliente{1}",
+		"message": "Estás a ter problemas com a nossa loja ou um pedido? Entra em contato com o nosso {0}suporte ao cliente{1}",
 		"description": "Link to customer support, {0}{1} is the replacement for the link"
 	},
 	"merch.item.added": {
