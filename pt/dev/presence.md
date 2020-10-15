@@ -179,13 +179,13 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
     <tr>
       <td style="text-align:left"><b>URL</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+      <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk. om</code><br>
+        <b>Esta URL deve corresponder ao URL do site, pois detetará se este é ou não o site para injetar o script.</b><br> Não <b>NÃO</b> add <code>https://</code> ou <code>http://</code> dentro da URL ou barra no final:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Note</b>: Algumas URLs podem ter <code>www.</code> ou outra coisa na frente do seu domínio. <b>NÃO</b> esqueça de adicioná-lo!<br>
+Você pode adicionar várias URLs fazendo o seguinte:<br>
+<code>["URL1", "URL2", "ETC.]</code><br>
+Você também pode usar regExp também conhecido como Regex para esta tarefa, explicado mais abaixo.
       </td>
       <td style="text-align:left"><code>String, Matriz&lt;String&gt;</code>
       </td>
@@ -195,14 +195,14 @@ You could also use regExp also known as Regex for this task, explained further b
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      <td style="text-align:left">Uma string de expressão regular usada para combinar urls.<br>
+      regExp ou também conhecido como Regex, pode ser usado se um site tiver vários subdomínios.<br>
+Você pode usar a seguinte regExp para isso:<br>
+<code>([a-z0-9]+)[.]domínio[.]TLD"</code><br>
+TLD com o domínio de nível superior para o axample: . om .net<br> 
+<code>([a-z0-9]+)</code> significa qualquer coisa de A a z e de 0 a 9.<br>
+        Você pode começar rapidamente assistindo este <a href="https://youtu.be/sXQxhojSdZM">vídeo</a><br>
+        Você pode testar sua expressão regular em <a href="https://regex101.com/">Regex101</a>
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
