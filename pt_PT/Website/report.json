@@ -1,6 +1,6 @@
 {
 	"report.title": {
-		"message": "Reporte um bug",
+		"message": "Comunica um bug",
 		"description": "Text to indicate the page."
 	},
 	"report.bugcount": {
@@ -16,11 +16,11 @@
 		"description": "Text for the user to write a brief of the bug information."
 	},
 	"report.os": {
-		"message": "Selecione o seu Sistema Operacional e a Versão",
+		"message": "Seleciona o teu Sistema Operacional e a Versão",
 		"description": "Select Box for the user to select their operating system"
 	},
 	"report.browser": {
-		"message": "Selecione o seu Navegador e sua Versão - Você pode obter a versão visitando sobre: Suporte no Firefox ou Chrome://help",
+		"message": "Seleciona o teu Navegador e a sua Versão - Tu podes obter a versão ao visitar acerca: Suporte no Firefox ou Chrome://help",
 		"description": "Select Box for the user to select their browser"
 	},
 	"report.description": {
@@ -32,11 +32,11 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "Você tem muitos reportes ativos. Espere que os seus reportes enviados sejam revisados. Reportes são verificados semanalmente, seja paciente.",
+		"message": "Tu tens muitos reportes ativos. Espera que os teus reportes enviados sejam analisados. Reportes são verificados semanalmente, sê paciente.",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
-		"message": "Você tem muitos reportes ativos.",
+		"message": "Tu tens muitos reportes ativos.",
 		"description": "User has too many active reports"
 	},
 	"report.success": {
