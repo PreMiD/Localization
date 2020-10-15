@@ -84,7 +84,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
-		"message": "Desconto de tempo",
+		"message": "Tempo esgotado",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {

@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "Funcionalidades",
+		"message": "Características",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
@@ -52,7 +52,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Cansado de interfaces d'utilizador complicadas? Por isso é que criamos e tentamos manter a nossa IU o mais simples e útil possível com funcionalidades importantes como:",
+		"message": "Cansado de interfaces de utilizador complicadas? Por isso é que criamos e tentamos manter a nossa UI o mais simples e útil possível com funcionalidades importantes como:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -72,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Algo está avariado, enviando-lhe toneladas de erros ou simplesmente não funcionando? Vamos ajudá-lo a livrar-se desses problemas no nosso servidor do Discord, também criamos o nosso próprio sistema de suporte que irá garantir que o problema fique resolvido o mais rápido possível.",
+		"message": "Algo está avariado, enviando-lhe toneladas de erros ou simplesmente não funciona? Vamos ajudá-lo a livrar-se desses problemas no nosso servidor do Discord, também criamos o nosso próprio sistema de suporte que irá garantir que o problema fique resolvido o mais rápido possível.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
@@ -80,7 +80,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Idioma do Sítio",
+		"message": "Idioma do Site",
 		"description": "Tippy content of the language selector."
 	}
 }
