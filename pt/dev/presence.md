@@ -259,7 +259,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
     <tr>
       <td style="text-align:left"><b>Categoria</b>
       </td>
-      <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presença cai. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presença cai. Veja os catálogos válidos <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Não</code>
@@ -277,7 +277,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Um seletor de expressão regular que seleciona iframes para injetar. See regExp for more info.</td>
+      <td style="text-align:left">Um seletor de expressão regular que seleciona iframes para injetar. Consulte regExp para obter mais informações.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>sim</code>
@@ -286,8 +286,8 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
     <tr>
       <td style="text-align:left"><b>definições</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">Uma matriz de definições que o usuário pode alterar.<br>
+      Leia mais sobre as configurações de presença, <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>sim</code>
@@ -298,7 +298,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
 
 Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.codes/projects/premid/mdcreator).
 
-## Getting started
+## Primeiros passos
 
 ```javascript
 var presence = new Presence({
@@ -328,13 +328,13 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Chama-se a isto várias vezes um segundo sempre que possível.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Estes são enviados e nomeados na seção Rich Presence do seu aplicativo, chamado Arte de Arquitetura*/
+        smallImageKey: "chave", /*A chave (nome do arquivo) da imagem grande na presença. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
