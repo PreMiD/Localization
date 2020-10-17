@@ -11,6 +11,26 @@
 		"message": "Tłumacze",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Lider projektu",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Koordynator personelu",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Dyrektor marketingu",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrator",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Deweloper",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "Projektant",
 		"description": "'Designer' title for contributors and user pages."
@@ -22,6 +42,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Wsparcie",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Przedstawiciel",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Korektor",
