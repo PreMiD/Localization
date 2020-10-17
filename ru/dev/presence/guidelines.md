@@ -199,7 +199,7 @@ presence
 ### **`settings`**
 
 - Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `% var `, ` var% ` или ` %%var%% ` и всё что между ними, являются ** не ** допускаемым в целях стандартизации.
-- Название настроек **не** будьте со всеми заглавными буквами. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Название настроек **не** будьте со всеми заглавными буквами. Например, такие имена как `ПОКАЗАТЬ СТАТУС ПРОСМОТРА` будем **не** быть разрешенным; однако такие имена, как `Показать статус просмотра` или `Показать статус просмотра` разрешены.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -207,7 +207,7 @@ presence
 > 
 > {.is-warning}
 
-> Каждый актив следует строгому набору правил линтинга, который будет проверяться в процессе проверки. Несколько предложений можно найти ниже. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Каждый актив следует строгому набору правил линтинга, который будет проверяться в процессе проверки. Несколько предложений можно найти ниже. - [TypeScript Рекомендации плагина для строгой проверки типов](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Рекомендации](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -219,7 +219,7 @@ presence
 - Поле `smallImageKey` и `smallImageText` предназначено для придания/вторичного контекста (например, `playing/paused` для видео-сайтов, `browsing` для обычных сайтов и других случаев) не рекламировать профили Discord или что-либо, не связанное с PreMiD.
 - Вам ** не разрешено ** получить доступ к ` localStorage `.
 - При доступе к файлам cookie для сохраненных данных, пожалуйста, префишите ключ с помощью `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. Если вы используете внешние домены, вам нужно будет объяснить, почему это необходимо.
+- Вы можете отправлять запросы HTTP / HTTPS только на `premid.app` или API веб-сайта присутствия. Если вы используете внешние домены, вам нужно будет объяснить, почему это необходимо.
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 - Ты **не** разрешено писать присутствия, которые изменяют функциональность данного сайта. Это включает добавление, удаление или модификацию элементов DOM.
 
