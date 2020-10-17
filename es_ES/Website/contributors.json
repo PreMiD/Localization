@@ -11,9 +11,29 @@
 		"message": "Traductores",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Líder del proyecto",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Coordinador de personal",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Director de marketing",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "Administrador",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Verificador",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Desarrollador",
+		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
 		"message": "Diseñador",
@@ -26,6 +46,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Agente de Soporte",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Representante",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Revisor de traducciones",
