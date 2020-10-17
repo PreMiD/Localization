@@ -51,6 +51,10 @@
 		"message": "漫畫",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "週邊商品",
+		"description": ""
+	},
 	"general.page": {
 		"message": "頁",
 		"description": ""
@@ -71,6 +75,10 @@
 		"message": "正在閲讀關於:",
 		"description": ""
 	},
+	"general.readingChannel": {
+		"message": "閱覽頻道:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "閱讀中",
 		"description": ""
@@ -81,6 +89,18 @@
 	},
 	"general.store": {
 		"message": "商店",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "正在檢視電影:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "正在檢視列表:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "查看產品",
 		"description": ""
 	},
 	"general.viewProfile": {
