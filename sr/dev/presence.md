@@ -2,9 +2,10 @@
 title: Pravljenje Presence-a
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Svi presence-i su sada sačuvani ovde: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Molimo vas da stavite sledeći kod unutar `tsconfig.json` fajla.
 Da naučite više o TypeScript konfiguracijama kliknite [ovde](/dev/presence/tsconfig).
 
 ## Popunjavanje metadata.json fajla
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
