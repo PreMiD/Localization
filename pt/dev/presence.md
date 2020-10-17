@@ -2,9 +2,10 @@
 title: Desenvolvimento de Presenças
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Todas as presenças agora são armazenadas aqui: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Por favor coloque o seguinte código dentro do arquivo `tsconfig.json`.
 Para aprender mais sobre a configuração TypeScript, clique [aqui](/dev/presence/tsconfig).
 
 ## Preenchimento do ficheiro metadata.json
-Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.codes/projects/premid/mdcreator). Ainda é sugerido ler isto para que você saiba como ele funciona.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Ainda é sugerido ler isto para que você saiba como ele funciona.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD com o domínio de nível superior para o axample: . om .net<br>
   </tbody>
 </table>
 
-Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Primeiros passos
 
