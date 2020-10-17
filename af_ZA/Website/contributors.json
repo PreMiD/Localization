@@ -11,73 +11,17 @@
 		"message": "Vertalers",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Skepper",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
-		"message": "Projek bestuurder",
-		"description": "'Project Manager' title for contributors and user pages."
-	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "21/5000\nOperasionele toesighouer",
-		"description": "'Operations Supervisor' title for contributors and user pages."
-	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Globale Gemeenskapsverteenwoordiger",
-		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.storeManager": {
-		"message": "Winkelbestuurder",
-		"description": "'Store Manager' title for contributors and user pages."
-	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Stelseladministeerder",
-		"description": "'System Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.webDeveloper": {
-		"message": "Webontwikkelaar",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux Onderhouer",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Ingenieur",
-		"description": "'Engineer' title for contributors and user pages."
-	},
 	"contributors.roles.designer": {
 		"message": "Ontwerper",
 		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Senior Moderator",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Hoof van Presence wat verifeer",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Gemeenskapsverteenwoordiger",
-		"description": "'Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Junior Moderator",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Ondersteuningsagent",
 		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Presence Verifier",
-		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Proefleser",
