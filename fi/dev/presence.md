@@ -2,9 +2,10 @@
 title: Presence Development
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > All presences are now stored here: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Please put the following code inside of the `tsconfig.json` file.
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
 ## metadata.json-tiedoston täyttäminen
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator). On silti suositeltavaa, että lukee tämän läpi, jotta tiedät, miten se toimii.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). On silti suositeltavaa, että lukee tämän läpi, jotta tiedät, miten se toimii.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Näin pääset alkuun
 
