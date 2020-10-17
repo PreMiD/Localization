@@ -2,9 +2,10 @@
 title: Desarrollo de Presences
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Todas las presences ahora se almacenan aquí: https://github.com/PreMiD/Presences 
@@ -53,9 +54,10 @@ Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 Para obtener más información sobre la configuración de TypeScript haga clic [aquí](/dev/presence/tsconfig).
 
 ## Llenando un archivo metadata.json
-Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezosa. Aún así se sugiere leerlo para que sepas cómo funciona.</p> 
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Aún así se sugiere leerlo para que sepas cómo funciona.
 
-<pre><code class="json">{
+```json
+{
   "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USUARIO",
@@ -106,32 +108,16 @@ Hemos hecho un creador de archivos `metadata.json`aquí<a> para la gente perezos
         }
     ]
 }
-</code></pre>
+```
 
-<p spaces-before="0">
-  Por favor copia el código anterior y ponlo en tu archivo <code>metadata.json</code>. Ahora necesitas saber los valores de las propiedades. Ten en cuenta que las siguientes propiedades son opcionales para poner en tu archivo <code>metadata.json</code>, si no tienes planeado usarlos necesitas eliminarlos.
-</p>
+Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora necesitas saber los valores de las propiedades. Ten en cuenta que las siguientes propiedades son opcionales para poner en tu archivo `metadata.json`, si no tienes planeado usarlos necesitas eliminarlos.
+- `contribuidores`
+- `regExp`
+- `iframe`
+- `iFrameRegExp`
+- `ajustes`
 
-<ul>
-  <li>
-    <code>contribuidores</code>
-  </li>
-  <li>
-    <code>regExp</code>
-  </li>
-  <li>
-    <code>iframe</code>
-  </li>
-  <li>
-    <code>iFrameRegExp</code>
-  </li>
-  <li>
-    <code>ajustes</code>
-  </li>
-</ul>
-
-<p spaces-before="0">
-  <strong x-id="1">Aclarando unos valores predefinidos:</strong>
+**Aclarando unos valores predefinidos:**
 <table>
   <thead>
     <tr>
@@ -311,18 +297,12 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
   </tbody>
 </table>
 
-</p>
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-<p spaces-before="0">
-  Hemos hecho un creador de archivos <code>metadata.json</code> <a href="https://eggsy.codes/projects/premid/mdcreator">aquí<a> para la gente perezosa.</p> 
-  
-  
+## Empezando
 
-<h2 spaces-before="0">
-  Empezando
-</h2>
-
-<pre><code class="javascript">var presence = new Presence({
+```javascript
+var presence = new Presence({
     clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
 }),
 
@@ -348,7 +328,7 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 */
 
 
-presence.on("UpdateData", async () =&gt; {
+presence.on("UpdateData", async () => {
     /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Esto se llama varias veces por segundo cuando es posible.
 
     Es recomendado establecer una función afuera de la función del evento la cual cambiará los valores de las variables y harán las cosas más fáciles si estás obteniendo información de una API.*/
@@ -372,64 +352,28 @@ presence.on("UpdateData", async () =&gt; {
         presencia. etActivity(presenceData); //Actualizar la presencia con todos los valores del objeto PresenceData
     }
 });
-</code></pre>
+```
+Puedes copiar esto dentro de tu archivo `presence.ts` y editar los valores. Configura todos los valores que están afuera del evento updateData.
 
-<p spaces-before="0">
-  Puedes copiar esto dentro de tu archivo <code>presence.ts</code> y editar los valores. Configura todos los valores que están afuera del evento updateData.
-</p>
+Para ejemplos sugerimos mirar el código de presences como: 1337x o 9GAG.
 
-<p spaces-before="0">
-  Para ejemplos sugerimos mirar el código de presences como: 1337x o 9GAG.
-</p>
+Para más información sobre la clase Presence haz clic [aquí](/dev/presence/class).
 
-<p spaces-before="0">
-  Para más información sobre la clase Presence haz clic <a href="/dev/presence/class">aquí</a>.
-</p>
+## ¡¿No puedes obtener cierta información?!
 
+Muchos sitios web están utilizando [iframes](https://developer.mozilla.org/es/docs/Web/HTML/Elemento/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Esas etiquetas HTML pueden contener múltiples fuentes como videos. Pero a veces no son relevantes. Algunos están ocultos o simplemente no se usan activamente. Comprueba si se puede extraer la información que necesitas, sin ellos antes de que hagas un trabajo innecesario.
 
+1. Verifícalos en la consola de tu navegador (asegúrate de estar en la pestaña **Elementos**).
+2. Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Ejecuta `document.querySelectorAll("iframe")`.
 
-<h2 spaces-before="0">
-  ¡¿No puedes obtener cierta información?!
-</h2>
-
-<p spaces-before="0">
-  Muchos sitios web están utilizando <a href="https://developer.mozilla.org/es/docs/Web/HTML/Elemento/iframe">iframes</a> (<a href="https://en.wikipedia.org/wiki/HTML_element#Frames">Inlineframes</a>). Esas etiquetas HTML pueden contener múltiples fuentes como videos. Pero a veces no son relevantes. Algunos están ocultos o simplemente no se usan activamente. Comprueba si se puede extraer la información que necesitas, sin ellos antes de que hagas un trabajo innecesario.
-</p>
-
-<ol start="1">
-  <li>
-    Verifícalos en la consola de tu navegador (asegúrate de estar en la pestaña <strong x-id="1">Elementos</strong>).
-  </li>
-  
-  <li>
-    Buscar (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-  </li>
-  
-  <li>
-    Ejecuta <code>document.querySelectorAll("iframe")</code>.
-  </li>
-</ol>
-
-<p spaces-before="0">
-  Si encuentras que los datos están en un iFrame, debes hacer lo siguiente:
-</p>
-
-<ol start="1">
-  <li>
-    Crea un archivo <code>iframe.ts</code>.
-  </li>
-  
-  <li>
-    Establece iFrame a <code>true</code> en tu archivo de metadata.
-  </li>
-  
-  <li>
-    Llenando tu archivo iFrame.
-  </li>
-</ol>
-
-<pre><code class="javascript">var iframe = new iFrame();
-iframe.on("UpdateData", async () =&gt; {
+Si encuentras que los datos están en un iFrame, debes hacer lo siguiente:
+1. Crea un archivo `iframe.ts`.
+2. Establece iFrame a `true` en tu archivo de metadata.
+3. Llenando tu archivo iFrame.
+```javascript
+var iframe = new iFrame();
+iframe.on("UpdateData", async () => {
   /*
   Obtenga todos los datos que necesita del iframe y guárdelos en variables
    y luego envíalo usando iframe.send
@@ -439,109 +383,35 @@ iframe.on("UpdateData", async () =&gt; {
     time: video.duration
   }); 
 });
-</code></pre>
-
-<ol start="4">
-  <li>
-    Haciendo que tu archivo de la presencia reciba datos del archivo iFrame. 
-  </li>
-</ol>
-
-<pre><code class="javascript">presence.on("iFrameData", data =&gt; {
+```
+4. Haciendo que tu archivo de la presencia reciba datos del archivo iFrame.
+```javascript
+presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
-</code></pre>
+```
+**Nota:** Esto debe colocarse fuera del evento updateData.
+## Compilando
+Abre una consola en tu carpeta y escribe `tsc -w` para compilar `presence.ts` en la carpeta `/dist`.
 
-<p spaces-before="0">
-  <strong x-id="1">Nota:</strong> Esto debe colocarse fuera del evento updateData.
-</p>
+# Cargando la Presence
+1. Abre la ventana emergente y mantén pulsado el botón <kbd>Shift</kbd> de tu teclado.
+2. **Cargar Presence** aparecerá en la sección Presences.
+3. Haz clic en él mientras mantienes pulsado el botón <kbd>Shift</kbd>.
+4. Selecciona la carpeta /dist de tu presencia.
 
+# Algunos consejos útiles
+## Recarga en caliente
+El sitio web en el que estás desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
 
-<h2 spaces-before="0">
-  Compilando
-</h2>
+## Depurando
+- Puedes poner `console.log("Prueba");` entre tu código y ver si la consola de tu navegador te da esa salida. Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
+- Si eso no te ayuda entonces pregunta por ayuda a un desarrollador en nuestro [servidor de Discord](https://discord.premid.app/).
 
-<p spaces-before="0">
-  Abre una consola en tu carpeta y escribe <code>tsc -w</code> para compilar <code>presence.ts</code> en la carpeta <code>/dist</code>.
-</p>
-
-
-
-<h1 spaces-before="0">
-  Cargando la Presence
-</h1>
-
-<ol start="1">
-  <li>
-    Abre la ventana emergente y mantén pulsado el botón <kbd>Shift</kbd> de tu teclado.
-  </li>
-  
-  <li>
-    <strong x-id="1">Cargar Presence</strong> aparecerá en la sección Presences.
-  </li>
-  
-  <li>
-    Haz clic en él mientras mantienes pulsado el botón <kbd>Shift</kbd>.
-  </li>
-  
-  <li>
-    Selecciona la carpeta /dist de tu presencia.
-  </li>
-</ol>
-
-
-
-<h1 spaces-before="0">
-  Algunos consejos útiles
-</h1>
-
-
-<h2 spaces-before="0">
-  Recarga en caliente
-</h2>
-
-<p spaces-before="0">
-  El sitio web en el que estás desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
-</p>
-
-
-
-<h2 spaces-before="0">
-  Depurando
-</h2>
-
-<ul>
-  <li>
-    Puedes poner <code>console.log("Prueba");</code> entre tu código y ver si la consola de tu navegador te da esa salida. Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
-  </li>
-  <li>
-    Si eso no te ayuda entonces pregunta por ayuda a un desarrollador en nuestro <a href="https://discord.premid.app/">servidor de Discord</a>.
-  </li>
-</ul>
-
-
-
-<h1 spaces-before="0">
-  Explicación de archivos
-</h1>
-
-<ul>
-  <li>
-    <a href="/dev/presence/class">Clase de presencia</a>
-  </li>
-  <li>
-    <a href="/dev/presence/iframe">Clase iFrame</a>
-  </li>
-  <li>
-    <a href="/dev/presence/metadata">Archivo de Metadata</a>
-  </li>
-  <li>
-    <p spaces-before="0">
-      <a href="/dev/presence/tsconfig">Configuración de TypeScript</a> 
-    </p>
-    <p spaces-before="0">
-      {.links-list}
-    </p>
-  </li>
-</ul>
+# Explicación de archivos
+- [Clase de presencia](/dev/presence/class)
+- [Clase iFrame](/dev/presence/iframe)
+- [Archivo de Metadata](/dev/presence/metadata)
+- [Configuración de TypeScript](/dev/presence/tsconfig)
+{.links-list}
