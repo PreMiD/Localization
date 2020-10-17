@@ -2,9 +2,10 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Wszystkie aktywności Presence przechowywane są tutaj: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Umieść następujący kod w pliku `tsconfig.json`.
 Aby uzyskać więcej informacji na temat konfiguracji TypeScript, kliknij [tutaj](/dev/presence/tsconfig).
 
 ## Wypełnianie w pliku metadata.json
-Stworzyliśmy kreator plików `metadata.json` dla leniwych użytkowników [tutaj](https://eggsy.codes/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
 
 ```json
 {
@@ -296,7 +297,7 @@ Nazwa TLD dla domeny najwyższego poziomu, na przykład: .com .net<br>
   </tbody>
 </table>
 
-Stworzyliśmy kreator plików `metadata.json` dla leniwych użytkowników [tutaj](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Wprowadzenie
 
