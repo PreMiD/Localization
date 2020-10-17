@@ -68,7 +68,7 @@ MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`P
 3. Разверните его, и нажмите значок `>` перед элементом с названием "settings.dat".
 4. Убедитесь, что путь включает "AppData\Local\Temp\PreMiD", если да, выберите его и нажмите восстановить. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. После восстановления вы можете закрыть всплывающее окно "Карантинированные предметы", затем снова нажать на значок настроек в правом верхнем углу.
-6. Click "Real-Time Scanning" (Third from the top).
+6. Щелкните «Сканирование в реальном времени» (третье сверху).
 7. Разверните его и нажмите "Добавить файл".
 8. Введите "%appdata%" в адресной строке файлового менеджера и нажмите Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. Откройте папку "PreMiD" и выберите файл "PreMiD.exe" и нажмите открыть. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
