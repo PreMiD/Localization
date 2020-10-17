@@ -2,9 +2,10 @@
 title: Розробка присутності
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Усі присутності зберігаються тут: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ editor: markdown
 Щоб дізнатися більше про конфігурацію TypeScript натисніть [тут](/dev/presence/tsconfig).
 
 ## Заповнення в файлі metadata.json
-Ми зробили `metadata.json` творець файлу для ледачих привілей [тут](https://eggsy.codes/projects/premid/mdcreator). Прочитайте цю тему, щоб ви знали, як вона працює.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Прочитайте цю тему, щоб ви знали, як вона працює.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-Ми зробили `metadata.json` творець файлу для ледачих привілей [тут](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Початок роботи
 
