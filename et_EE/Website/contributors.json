@@ -10,13 +10,5 @@
 	"contributors.headings.translators": {
 		"message": "Tõlkijad",
 		"description": "Heading for group of users."
-	},
-	"contributors.roles.creator": {
-		"message": "Omanik",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Add-oni kinnitaja",
-		"description": "'Presence Verifier' title for contributors and user pages."
 	}
 }
