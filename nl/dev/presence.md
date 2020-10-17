@@ -2,9 +2,10 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Alle presences worden hier bewaard: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Plaats de volgende code in het `tsconfig.json` bestand.
 Om meer te leren over TypeScript configuratie, klik [hier](/dev/presence/tsconfig).
 
 ## Het metadata.json bestand invullen
-We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator). Het wordt nog steeds aangeraden dit door te lezen, zodat u weet hoe het werkt.
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.xyz/projects/premid/mdcreator). Het wordt nog steeds aangeraden dit door te lezen, zodat u weet hoe het werkt.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD staat voor Top Level Domain bijvoorbeeld: .com .net<br>
   </tbody>
 </table>
 
-We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.codes/projects/premid/mdcreator).
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Aan de slag
 
