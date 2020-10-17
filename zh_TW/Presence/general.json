@@ -83,6 +83,10 @@
 		"message": "閱讀中",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "尋找:",
+		"description": ""
+	},
 	"general.search": {
 		"message": "搜索中",
 		"description": ""
