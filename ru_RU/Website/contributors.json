@@ -11,6 +11,30 @@
 		"message": "Переводчики",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Руководитель проекта",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Координатор персонала",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Директор по маркетингу",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Администратор",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Рецензент",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Разработчик",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "Разработчик",
 		"description": "'Designer' title for contributors and user pages."
@@ -22,6 +46,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Агент поддержки",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Представитель",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Корректор",
