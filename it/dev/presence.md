@@ -2,9 +2,10 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Tutte le presenze sono ora memorizzate qui: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Per favore, inserisci il seguente codice all'interno del file `tsconfig.json`.
 Per ulteriori informazioni sulla configurazione di TypeScript, clicca [qui](/dev/presence/tsconfig).
 
 ## Riempimento del file metadata.json
-Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator). Si consiglia comunque di leggere questo in modo da sapere come funziona.
+Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.xyz/projects/premid/mdcreator). Si consiglia comunque di leggere questo in modo da sapere come funziona.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD sta per dominio di primo livello, per esempio: .com .net<br>
   </tbody>
 </table>
 
-Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.codes/projects/premid/mdcreator).
+Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Primi passi
 
