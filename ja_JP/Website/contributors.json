@@ -11,69 +11,21 @@
 		"message": "翻訳者",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "作者",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
-		"message": "プロジェクトマネージャー",
-		"description": "'Project Manager' title for contributors and user pages."
-	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "グローバルコミュニティー代表",
-		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.storeManager": {
-		"message": "ストアマネージャー",
-		"description": "'Store Manager' title for contributors and user pages."
-	},
-	"contributors.roles.systemAdministrator": {
-		"message": "システム管理者",
-		"description": "'System Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.webDeveloper": {
-		"message": "Web開発者",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linuxメンテナー",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "エンジニア",
-		"description": "'Engineer' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "管理者",
+		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
 		"message": "デザイナー",
 		"description": "'Designer' title for contributors and user pages."
 	},
-	"contributors.roles.seniorModerator": {
-		"message": "上級モデレーター",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "プレゼンステスターのリーダー",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "コミュニティー代表",
-		"description": "'Community Representative' title for contributors and user pages."
-	},
 	"contributors.roles.moderator": {
 		"message": "モデレーター",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "ジュニアモデレーター",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "サポートエージェント",
 		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.presenceVerifier": {
-		"message": "プレゼンステスター",
-		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "校正者",

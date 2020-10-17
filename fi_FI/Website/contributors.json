@@ -11,41 +11,9 @@
 		"message": "Kääntäjät",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Tekijä",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
-		"message": "Projektipäällikkö",
-		"description": "'Project Manager' title for contributors and user pages."
-	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Yhteisön Maailmanlaajuinen Edustaja",
-		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Järjestelmän ylläpitäjä",
-		"description": "'System Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.webDeveloper": {
-		"message": "Web-kehittäjä",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux Ylläpitäjä",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Insinööri",
-		"description": "'Engineer' title for contributors and user pages."
-	},
 	"contributors.roles.designer": {
 		"message": "Suunnittelija",
 		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Yhteisön Edustaja",
-		"description": "'Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderaattori",
