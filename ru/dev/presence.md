@@ -2,9 +2,10 @@
 title: Разработчик присутствия
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > Все присутствия теперь хранятся здесь: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ editor: markdown
 Чтобы узнать больше о настройке TypeScript, нажмите [здесь](/dev/presence/tsconfig).
 
 ## Заполнение файла metadata.json
-Мы создали `metadata.json` создатель файла для ленивых [здесь](https://eggsy.codes/projects/premid/mdcreator). Все еще предлагается прочитать это, чтобы вы знали, как это работает.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Все еще предлагается прочитать это, чтобы вы знали, как это работает.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD стойка для домена верхнего уровня для осе
   </tbody>
 </table>
 
-Мы создали `metadata.json` создатель файла для ленивых [здесь](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Начало работы
 
