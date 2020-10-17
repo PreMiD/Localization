@@ -2,9 +2,10 @@
 title: تطوير البرزنس
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > كل البرزنس الان تخزن هنا: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). الآ�
 لمعرفة المزيد حول تكوين TypeScript انقر [هنا](/dev/presence/tsconfig).
 
 ## ملء ملف metadata.json
-لقد صنعنا `metadata.json` منشئ ملف للتلبيات الكسولة [هنا](https://eggsy.codes/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
 
 ```json
 {
@@ -296,7 +297,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
   </tbody>
 </table>
 
-لقد صنعنا `metadata.json` منشئ ملف للتلبيات الكسولة [هنا](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## ابدء
 
