@@ -2,9 +2,10 @@
 title: פיתוח תוסף
 description:
 published: true
-date: 2020-08-29T21:39:03.946Z
+date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
 > כל הנוכחות מאוחסנות כעת כאן: https://github.com/PreMiD/Presences 
@@ -53,7 +54,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 למידע נוסף על תצורת TypeScript לחץ [ כאן ](/dev/presence/tsconfig).
 
 ## מילוי הקובץ metadata.json
-יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.codes/projects/premid/mdcreator). עדיין מומלץ לקרוא זאת כדי שתדעו איך זה עובד.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). עדיין מומלץ לקרוא זאת כדי שתדעו איך זה עובד.
 
 ```json
 {
@@ -294,7 +295,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.codes/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## מתחילים
 
