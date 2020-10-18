@@ -11,6 +11,14 @@
 		"message": "Tradutores",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Líder do Projeto",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Coordenador de equipe",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "Administrador",
 		"description": "'Administrator' title for contributors and user pages."
