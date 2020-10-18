@@ -11,9 +11,29 @@
 		"message": "แปลภาษา",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "หัวหน้าโครงการ",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "เจ้าหน้าที่ประสานงาน",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "ผู้อำนวยการฝ่ายการตลาด",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "ผู้ดูแล",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "ผู้ตรวจทาน",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "ผู้พัฒนา",
+		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
 		"message": "ผู้ออกแบบ",
@@ -26,6 +46,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "ตัวแทนสนับสนุน",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "ตัวแทน",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "นักตรวจทาน",
