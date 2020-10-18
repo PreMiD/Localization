@@ -54,7 +54,10 @@ Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 Para obtener más información sobre la configuración de TypeScript haga clic [aquí](/dev/presence/tsconfig).
 
 ## Llenando un archivo metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Aún así se sugiere leerlo para que sepas cómo funciona.
+Hemos hecho un creador de archivos `metadata.json`
+aquí<1> para la gente perezosa. Aún así se sugiere leerlo para que sepas cómo funciona.</p> 
+
+
 
 ```json
 {
@@ -110,7 +113,9 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
+
 Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora necesitas saber los valores de las propiedades. Ten en cuenta que las siguientes propiedades son opcionales para poner en tu archivo `metadata.json`, si no tienes planeado usarlos necesitas eliminarlos.
+
 - `contribuidores`
 - `regExp`
 - `iframe`
@@ -297,9 +302,13 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Hemos hecho un creador de archivos `metadata.json` aquí<1> para la gente perezosa.</p> 
+
+
 
 ## Empezando
+
+
 
 ```javascript
 var presence = new Presence({
@@ -353,11 +362,15 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
+
+
 Puedes copiar esto dentro de tu archivo `presence.ts` y editar los valores. Configura todos los valores que están afuera del evento updateData.
 
 Para ejemplos sugerimos mirar el código de presences como: 1337x o 9GAG.
 
 Para más información sobre la clase Presence haz clic [aquí](/dev/presence/class).
+
+
 
 ## ¡¿No puedes obtener cierta información?!
 
@@ -368,9 +381,12 @@ Muchos sitios web están utilizando [iframes](https://developer.mozilla.org/es/d
 3. Ejecuta `document.querySelectorAll("iframe")`.
 
 Si encuentras que los datos están en un iFrame, debes hacer lo siguiente:
+
 1. Crea un archivo `iframe.ts`.
 2. Establece iFrame a `true` en tu archivo de metadata.
 3. Llenando tu archivo iFrame.
+
+
 ```javascript
 var iframe = new iFrame();
 iframe.on("UpdateData", async () => {
@@ -384,34 +400,58 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Haciendo que tu archivo de la presencia reciba datos del archivo iFrame.
+
+
+4. Haciendo que tu archivo de la presencia reciba datos del archivo iFrame. 
+
+
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
+
+
 **Nota:** Esto debe colocarse fuera del evento updateData.
+
+
 ## Compilando
+
 Abre una consola en tu carpeta y escribe `tsc -w` para compilar `presence.ts` en la carpeta `/dist`.
 
+
+
 # Cargando la Presence
+
 1. Abre la ventana emergente y mantén pulsado el botón <kbd>Shift</kbd> de tu teclado.
 2. **Cargar Presence** aparecerá en la sección Presences.
 3. Haz clic en él mientras mantienes pulsado el botón <kbd>Shift</kbd>.
 4. Selecciona la carpeta /dist de tu presencia.
 
+
+
 # Algunos consejos útiles
+
+
 ## Recarga en caliente
+
 El sitio web en el que estás desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
 
+
+
 ## Depurando
+
 - Puedes poner `console.log("Prueba");` entre tu código y ver si la consola de tu navegador te da esa salida. Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
 - Si eso no te ayuda entonces pregunta por ayuda a un desarrollador en nuestro [servidor de Discord](https://discord.premid.app/).
 
+
+
 # Explicación de archivos
+
 - [Clase de presencia](/dev/presence/class)
 - [Clase iFrame](/dev/presence/iframe)
 - [Archivo de Metadata](/dev/presence/metadata)
-- [Configuración de TypeScript](/dev/presence/tsconfig)
-{.links-list}
+- [Configuración de TypeScript](/dev/presence/tsconfig) 
+  
+  {.links-list}
