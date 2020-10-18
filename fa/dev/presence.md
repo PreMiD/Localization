@@ -54,7 +54,7 @@ Please put the following code inside of the `tsconfig.json` file.
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
 ## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+ما فایل ساز `metadata.json` برای رفقای تنبل [اینجا](https://eggsy.xyz/projects/premid/mdcreator) قرار دادیم. It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -297,7 +297,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+ما فایل ساز `metadata.json` برای رفقای تنبل [اینجا](https://eggsy.xyz/projects/premid/mdcreator) قرار دادیم.
 
 ## Getting started
 
