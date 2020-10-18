@@ -16,23 +16,27 @@
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
-		"message": "Koordynator personelu",
+		"message": "Koordynator Zespołu",
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Dyrektor marketingu",
+		"message": "Dyrektor Marketingu",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
 		"message": "Administrator",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "Rewident",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Deweloper",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
-		"message": "Projektant",
+		"message": "Grafik",
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
