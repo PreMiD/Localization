@@ -15,6 +15,10 @@
 		"message": "管理员",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.developer": {
+		"message": "软件开发工程师",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "设计师",
 		"description": "'Designer' title for contributors and user pages."
