@@ -11,6 +11,10 @@
 		"message": "翻譯員",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "專案負責人",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "管理員",
 		"description": "'Administrator' title for contributors and user pages."
