@@ -54,7 +54,7 @@ Aşağıda gördüğünüz kodu `tsconfig.json` dosyasının içine yapıştır�
 TypeScript konfigürasyonu hakkında daha fazla bilgi almak için [buraya](/dev/presence/tsconfig) tıklayın.
 
 ## metadata.json dosyasını doldurma
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Eğer isterseniz bu kısmı okuyarak bu dosyanın nasıl çalıştığını anlayabilirsiniz.
+Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.xyz/projects/premid/mdcreator) tıklayabilirsiniz. Eğer isterseniz bu kısmı okuyarak bu dosyanın nasıl çalıştığını anlayabilirsiniz.
 
 ```json
 {
@@ -291,7 +291,7 @@ TLD (Top Level Domain) yani .com, .net gibi popüler alan adları demektir.<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası oluşturucu formu yaptık, görmek için [buraya](https://eggsy.xyz/projects/premid/mdcreator) tıklayabilirsiniz.
 
 ## Başlarken
 
