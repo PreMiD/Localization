@@ -54,7 +54,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 Чтобы узнать больше о настройке TypeScript, нажмите [здесь](/dev/presence/tsconfig).
 
 ## Заполнение файла metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Все еще предлагается прочитать это, чтобы вы знали, как это работает.
+Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator). Все еще предлагается прочитать это, чтобы вы знали, как это работает.
 
 ```json
 {
@@ -297,7 +297,7 @@ TLD стойка для домена верхнего уровня для осе
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Начало работы
 
