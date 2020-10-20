@@ -54,7 +54,7 @@ Isi kode berikut kedalam file `tsconfig.json`.
 Untuk mempelajari lebih lanjut tentang konfgurasi TypeScript klik [disini](/dev/presence/tsconfig).
 
 ## Mengisi file metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Dianjurkan untuk membaca secara seksama agar anda mengerti bagaimana caranya.
+Kami telah membuat pembuat file `metadata.json` untuk para pemalas [disini](https://eggsy.xyz/projects/premid/mdcreator). Dianjurkan untuk membaca secara seksama agar anda mengerti bagaimana caranya.
 
 ```json
 {
@@ -291,7 +291,7 @@ TLD singkatan dari Top Level Domain contohnya: .com .net<br><code>([a-z0-9]+)</c
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Kami telah membuat pembuat file `metadata.json` untuk para pemalas [disini](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Memulai
 

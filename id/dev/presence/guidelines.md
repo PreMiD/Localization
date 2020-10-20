@@ -207,7 +207,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 > 
 > {.is-warning}
 
-> Setiap presence mengikuti aturan ketat yang akan diperiksa saat proses review. Beberapa rekomendasi bisa dilihat dibawah. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Setiap presence mengikuti aturan ketat yang akan diperiksa saat proses review. Beberapa rekomendasi bisa dilihat dibawah. - [Rekomendasi Plugin TypeScript untuk Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
