@@ -63,6 +63,10 @@
 		"message": "به دنبال چی میگردیم?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "ما همچنان حواسمان به رشد جوامع اطراف‌مان و چیز های باحال دیگه اطراف اینترنت هست. (خیلی طولانیه، بیخیال خوندن کاملش) شما حتما تا الان از PreMiD استفاده کرده اید و آماده هستید که این چیز های باحال توی اینترنت را به دیگران نشان دهید. پذیرش ورود به برنامه همکاری چیزی کاملا کیفی هست می تونه از یک خواستار تا فردی دیگه متفاوت باشه.",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "دیوار آتش ما",
 		"description": "Heading for the second requirement."
