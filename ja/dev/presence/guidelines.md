@@ -136,7 +136,7 @@ A list of fields and their rules are listed below:
 
 ### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. [開発者モード](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)を有効にすることで入手できます。 _Please do **not** confuse this with your application ID, which is only for your presence._
+- IDの_value_（値）にはDiscordのユーザーIDを入力してください。 [開発者モード](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)を有効にすることで入手できます。 _application ID（プレゼンスに割り当てられるもの）では**ありません。**混同しないようにしてください。_
 
 ### **`contributors`**
 
