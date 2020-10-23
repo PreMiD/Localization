@@ -21,8 +21,8 @@ dateCreated: 2020-06-11T18:04:45.733Z
 - يجب أن يكون أساس الملف نظيف ومدار ، ولا تقم بتضمين الملفات التي لم يتم تحديدها. (على سبيل المثال، vscode ومجلدات git، وملفات الصور والنصوص الكتابية، إلخ.)
 - تحتاج إلى بنية ملف صحيحة، المسودات **غير**مسموح بها.
 - التواجد لمواقع الويب مع (`.onion` TLDs) أو المواقع مع مجانية النطاقات/المضيفين (مثلا، `.TK` [جميع نطاقات Freenom الحرة]، `. F`، `GD`، إلخ) هي **غير مسموح بها،** ، ويمكن تقديم استثناءات إذا قدم دليل يثبت أنهم دفعوا ثمن هذا النطاق.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
+- الpresences التي تستهدف صفحات المتصفح الداخلية (مثل متجر ويب كروم، `كروم://`، `عن:` صفحات، وما إلى ذلك) هي **غير مسموحة** لأنها تتطلب أن يتم تمكين العلم التجريبي في نهاية المستخدم ويمكن أن تسبب ضرراً للمتصفحات الخاصة بهم.
+- الpresences المدعومة لنطاق فرعي واحد فقط **لن** يسمح بها، حيث أنها قد تبدو مكسورة لصفحات أخرى (مثل الصفحة الرئيسية)، يمكن وضع استثناءات لصفحات السياسات وجهات الاتصال (المحتوى الذي لا يستخدم في كثير من الأحيان) أو المواقع التي لا يرتبط بها المحتوى الآخر. (على سبيل المثال، صفحات ويكا)
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
@@ -35,7 +35,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+أو إذا كنت تستخدم ملف `iframe.ts`:
 
 ```bash
 presence
