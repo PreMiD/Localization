@@ -171,7 +171,7 @@ presence
 - The logo **must** be a square image with a `1:1` aspect ratio.
 - The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
-### **`thumbnail`**
+### **`صورة المصغرة`**
 
 - The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
 
