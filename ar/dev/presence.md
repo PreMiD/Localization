@@ -229,7 +229,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
+      <td style="text-align:left"><b>صورة المصغرة</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>سلسلة</code>
