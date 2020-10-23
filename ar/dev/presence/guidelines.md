@@ -16,11 +16,11 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 القواعد العامة لتطوير الوجود هي كما يلي:
 
-- التواجد ** يجب أن يكون ** مرتبطة بـ الموقع الإكتروني المختار.
+- Presences ** عليها أن تكون ** مرتبطة بـ الموقع الإكتروني المختار.
 - لا يمكن أن يكون وجود **** لمواقع إلكترونية غير القانونية. (على سبيل المثال، الضغوطات، تسويق الأدوية، المواد الإباحية للأطفال، إلخ.)
 - يجب أن يكون أساس الملف نظيف ومدار ، ولا تقم بتضمين الملفات التي لم يتم تحديدها. (على سبيل المثال، vscode ومجلدات git، وملفات الصور والنصوص الكتابية، إلخ.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- تحتاج إلى بنية ملف صحيحة، المسودات **غير**مسموح بها.
+- التواجد لمواقع الويب مع (`.onion` TLDs) أو المواقع مع مجانية النطاقات/المضيفين (مثلا، `.TK` [جميع نطاقات Freenom الحرة]، `. F`، `GD`، إلخ) هي **غير مسموح بها،** ، ويمكن تقديم استثناءات إذا قدم دليل يثبت أنهم دفعوا ثمن هذا النطاق.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
