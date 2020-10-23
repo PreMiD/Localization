@@ -144,7 +144,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Der Service-Name muss mit dem Namen des Präsenzverzeichnisses übereinstimmen. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
@@ -153,12 +153,12 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`beschreibung`**
 
-- Alle Präsenzen müssen, ohne Rücksicht auf die bevorzugt Sprache der Webseite, eine englische Beschreibung haben^.
+- **Alle** Präsenzen müssen, **ohne Rücksicht** auf die bevorzugt Sprache der Webseite, eine englische Beschreibung haben^.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- The url **must** be a string if the website only uses one domain. Wenn die Webseite mehrere benutzt, gib jede in einem Array an.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
 ### **`version`**
@@ -177,15 +177,15 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`color`**
 
-- Die Farbe muss einen Hexadezimalwert von #000000 und #FFFFFF haben.
-- Die Farbe muss mit einem Hashsymbol vorangestellt sein.
+- Die Farbe **muss** einen Hexadezimalwert von `#000000` und `#FFFFFF` haben.
+- Die Farbe **muss** mit einem Hashsymbol vorangestellt sein.
 
 ### **`tags`**
 
-- Bei allen Präferenzen ist mindestens ein Tag erforderlich.
-- Tags dürfen keine Leerzeichen, Schrägstriche, einfache/doppelte Anführungszeichen und Unicode-Zeichen enthalten und sollten immer in Kleinbuchstaben geschrieben werden.
-- Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- Bei **allen** Präferenzen ist mindestens _ein_ Tag erforderlich.
+- Tags dürfen **keine** Leerzeichen, Schrägstriche, einfache/doppelte Anführungszeichen und Unicode-Zeichen enthalten und sollten immer in Kleinbuchstaben geschrieben werden.
+- Tags **sollten** vorzugsweise abwechslungsreiche Servicenamen enthalten um die Suche zu vereinfachen (sollte die Amazon-Präsenz beispielsweise AWS-Unterstützung haben, hätte es Tags wie `amazon-web-services` und `aws`).
+- Es ist erforderlich einen NSFW Tag hinzuzufügen, wenn die Präsenz für eine NSFW Webseite ist.
 
 ### **`kategorie`**
 
