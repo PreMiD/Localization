@@ -153,7 +153,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`beschreibung`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
+- Alle Präsenzen müssen, ohne Rücksicht auf die bevorzugt Sprache der Webseite, eine englische Beschreibung haben^.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
