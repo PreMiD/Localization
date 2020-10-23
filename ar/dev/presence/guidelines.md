@@ -50,11 +50,11 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> من أجل مصلحة مطوري presence الخاص بنا، لقد قدمنا مخططا يمكنك استخدامه للتحقق من سلامة ملف `البيانات الوصفية`. This is entirely optional and is not required during the review process. 
+> من أجل مصلحة مطوري presence الخاص بنا، لقد قدمنا مخططا يمكنك استخدامه للتحقق من سلامة ملف `البيانات الوصفية`. وهذا أمر اختياري تماما، ولا لزوم له أثناء عملية الاستعراض. 
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> من المستحسن بشدة أن تقوم بتنظيم ملف `بيانات التعريف` الخاص بك بالشكل الموضح أدناه، ويجب أن يكون لديك أسماء الخدمة والأوصاف والعلامات والحقول الصحيحة نحوياً. أي شيء غير منظم حسب المواصفات **لن** يسمح به. 
 > 
 > {.is-warning}
 
