@@ -54,7 +54,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). الآ�
 لمعرفة المزيد حول تكوين TypeScript انقر [هنا](/dev/presence/tsconfig).
 
 ## ملء ملف metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
+لقد صنعنا `metadata.json` منشئ ملف للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
 
 ```json
 {
@@ -183,12 +183,12 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
       <td style="text-align:left">عنوان URL للخدمة.<br><b>مثال:</b><code>vk. om</code><br>
         <b>عنوان URL هذا يجب أن يتطابق مع عنوان URL للموقع حيث أنه سيكشف ما إذا كان هذا الموقع لضخ البرنامج النصي أم لا.</b><br> لا <b>لا</b> يضيف <code>https://</code> أو <code>http://</code> داخل عنوان URL ولا بلاش في النهاية:
 <code>https://premid. p/</code> -> <code>Premid.app</code><br>
-<b>Note</b>: قد يكون لبعض عناوين URL <code>www.</code> أو شيء آخر أمام مجالهم. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+<b>Note</b>: قد يكون لبعض عناوين URL <code>www.</code> أو شيء آخر أمام مجالهم. <b>لا</b> تنس إضافتها!<br>
+يمكنك إضافة عناوين URL متعددة بالقيام بما يلي:<br>
+<code>["URL1"، "URL2"، "ETC.]</code><br>
+يمكنك أيضًا استخدام regExp المعروف أيضا بـ Regex لهذه المهمة، مع مزيد من التوضيح أدناه.
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -252,7 +252,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       </td>
       <td style="text-align:left">مصفوفة مع العلامات، ستساعد المستخدمين على البحث عن وجودك على الموقع.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -297,7 +297,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+لقد صنعنا `metadata.json` منشئ ملف للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## ابدء
 
