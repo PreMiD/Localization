@@ -136,7 +136,7 @@ presence
 
 ### **`المطور`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- The ID _value_ **must** be your Discord snowflake ID. يمكنك الحصول عليها عن طريق تمكين وضع المطور [](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
 ### **`المساهمون`**
 
