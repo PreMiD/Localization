@@ -134,7 +134,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
         <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
       </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      <td style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -190,7 +190,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left">مصفوفة مع العلامات، ستساعد المستخدمين على البحث عن وجودك على الموقع.</td>
       <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
+      style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code>
         </td>
       <td style="text-align:left"><code>No</code>
       </td>
