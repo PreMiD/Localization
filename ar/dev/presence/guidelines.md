@@ -175,7 +175,7 @@ presence
 
 - The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
 
-### **`color`**
+### **`لون`**
 
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
