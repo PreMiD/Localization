@@ -58,11 +58,11 @@ presence
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> الpresences لمواقع الويب التي تتملك محتوى صريح **يجب** عليها أن تمتلك رمز `غ ر ل (غير لائق للعمل)"Nfsw"`, و شعارها/صورتها المصغرة **لا** يجب عليها أن تحتوي على هذا المحتوى. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+كل presence لديه ملف وصفي يسمى `metadata.json`، البيانات الوصفية لها معيار صارم، ويمكن أن يظهر أدناه مثال لهذا الملف:
 
 ```json
 {
@@ -120,11 +120,11 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> إذا كان الحقل مدرجاً كخيار في [المستندات](https://docs.premid.app/en/dev/presence/metadata) ويستخدم الpresence القيمة الافتراضية له، لا تضمنها في ملف `البيانات الوصفية`. (على سبيل المثال، presence بدون دعم iframe لن يحتاج إلى الحقل `iframe`) 
 > 
 > {.is-warning}
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
+> يجب استضافة جميع الصور في ملف `بيانات التعريف` في `i.imgur.com`. استخدام المحتوى المستضاف على الموقع هو **غير مسموح** لأنه يمكنه تغيير المسارات والملفات بشكل غير طوعي. 
 > 
 > {.is-warning}
 
