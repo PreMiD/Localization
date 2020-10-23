@@ -167,7 +167,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
+      <td style="text-align:left"><b>صورة المصغرة</b>
       </td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>سلسلة</code>
