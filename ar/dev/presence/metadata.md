@@ -169,16 +169,16 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>صورة المصغرة</b>
       </td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">رابط للصورة المصغره لالpresence الخاص بك.</td>
       <td style="text-align:left"><code>سلسلة</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
+      <td style="text-align:left"><b>لون</b>
       </td>
-      <td style="text-align:left"><code>#HEX</code> value. نوصي باستخدام لون أساسي من الخدمة
+      <td style="text-align:left">قيمة <code>#HEX</code>. نوصي باستخدام لون أساسي من الخدمة
         التي يدعمها وجودك.</td>
       <td style="text-align:left"><code>سلسلة</code>
       </td>
