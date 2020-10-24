@@ -57,18 +57,18 @@ editor: markdown
 
 ### `getStrings(كائن)`
 
-طريقة غير غريبة تسمح لك بالحصول على المقاطع المترجمة من الإضافة. يجب عليك توفير `Object` مع المفاتيح التي تكون مفتاح السلسلة،عندما`keyValue` هي قيمة السلسلة. يمكن العثور على مجموعة من المقاطع المترجمة باستخدام هذه النقطة النهائية: `https://api.premid.app/v2/langFIle/extension/en`
+طريقة غير غريبة تسمح لك بالحصول على المقاطع المترجمة من الإضافة. يجب عليك توفير `Object` مع المفاتيح التي تكون مفتاح السلسلة،عندما `keyValue` هي قيمة السلسلة. يمكن العثور على مجموعة من المقاطع المترجمة باستخدام هذه النقطة النهائية: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-// ترجاع 'تشغيل' و 'موقف مؤقتا` سلاسل
-// من الإضافة.
-السلاسل = انتظر وجود الوقت.getStrings({
-    تشغيل: "presence.playback.playing",
-    توقف مؤقتاً: "presence.playback". تم إيقاف التشغيل"
+// Returns `Playing` and `Paused` strings
+// from extension.
+strings = await presence.getStrings({
+    play: "presence.playback.playing",
+    pause: "presence.playback.paused"
 });
 
-تشغيل String = strings.play // result: إعادة التشغيل
-const stopuseString = strings.paus// result: Playback مؤقتًا مؤقتًا
+const playString = strings.play // result: Playing back
+const pauseString = strings.pause // result: Playback paused
 ```
 
 ### `getPageletiable(String)`
@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+إرجاع قيمة الإعدادات.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -110,7 +110,7 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## `presenceData` Interface
+## واجهة `presenceData`
 
 ينصح باستخدام واجهة `presenceData` عندما تستخدم طريقة `setActivity()`.
 
@@ -127,14 +127,14 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
   <tbody>
     <tr>
       <td style="text-align:left">التفاصيل</td>
-      <td style="text-align:left">السطر الأول في حضورك ، وعادة ما يستخدم كعنوان.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left">السطر الأول في الpresence الخاص بك، وعادة ما يستخدم كعنوان.</td>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">الحالة</td>
-      <td style="text-align:left">السطر الثاني في البرزنس الخاص بك.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left">السطر الثاني في الpresence الخاص بك.</td>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
@@ -160,20 +160,20 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">يحدد الشعار الخاص بالبرزنس.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">يحدد الرمز الصغير بجوار شعارال presence&apos;s.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
         icon.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
   </tbody>
