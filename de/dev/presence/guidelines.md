@@ -288,19 +288,19 @@ Ein paar Dinge, die du nach dem Öffnen einer Pull-Request wissen solltest:
 - Es benötigt 2 Prüfer, um eine Pull-Request zusammenzuführen.
 - Wenn ein Pull-Request für einen Zeitraum von 14 Tagen inaktiv ist, wird diese umgehend geschlossen.
 - Alle Prüfungen **müssen** bestanden werden um zusammengeführt zu werden.
-- ⚠️ Du **musst** neue, unveränderte Screenshots (aufgenommen von dir) angeben, die in einen nebenseitigen Vergleich deines Profils mit der Website zeigen, dass deine Presence funktioniert. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠️ Du **musst** neue, unveränderte Screenshots (aufgenommen von dir) angeben, die in einen nebenseitigen Vergleich deines Profils mit der Website zeigen, dass deine Presence funktioniert. _Sie dürfen Screenshots zusammenfügen, um das Sehvergnügen zu verbessern._ Dies gilt sowohl für die Erstellung als auch für die Änderung.
+- ⚠️ Es ist außerdem **erforderlich** einen Screenshot der Presence-Einstellungen aufzunehmen, sofern diese bereitgestellt werden. Ein Beispiel kannst du dir [hier](https://imgur.com/a/OD3sj5R) ansehen.
 
-## `Checks`
+## `Kontrollen`
 
-![Checks](https://i.imgur.com/BCDZQe9.png)
+![Kontrollen](https://i.imgur.com/BCDZQe9.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Derzeit durchläuft eine Presence zwei separate Phasen der Kontrolle. Alle diese Checks helfen den Prüfern zu ermitteln, ob deine Presence für den Einsatz geeignet ist.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Codacy` ist ein Bot, der die Qualität des Codes überprüft. Falls du jemals Fehlermeldungen für neue Issues bekommen solltest, bist du **aufgefordert ** diese zu beheben.
+- `Die Schema-Validierung` scannt deine `metadata.json` Datei auf Fehler (z. B. fehlende Felder, ungültige Werttypen, etc.). Falls du jemals Fehlermeldungen für neue Issues bekommen solltest, bist du **aufgefordert ** diese zu beheben. Wenn du ein Schema Feld zu deiner `metadata.json` Datei hinzufügst, wird dein Texteditor (falls unterstützt) dir diese Fehler während der Entwicklung anzeigen können.
 
-## `Additional Rules`
+## `Zusätzliche Anmerkungen`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
