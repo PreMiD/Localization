@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: البدء مع تثبيت PreMiD على لينكس
-published: true
+published: صحيح
 date: 2020-04-27T12:52:46.261Z
 tags:
 ---
