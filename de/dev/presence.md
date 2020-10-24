@@ -194,14 +194,14 @@ Du kannst auch regExp verwenden, auch bekannt als Regex für diese Aufgabe, weit
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-You could use the following regExp for that:<br>
-<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-TLD standing for Top Level Domain for axample: .com .net<br> 
-<code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-        You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a><br>
-        You can test your regExp at <a href="https://regex101.com/">Regex101</a>
+      <td style="text-align:left">Ein regular expression string, der verwendet wird, um URLs zu entsprechen.<br>
+      regExp oder auch Regex genannt, kann verwendet werden, wenn eine Website mehrere Subdomains hat.<br>
+Sie könnten folgende RegExp verwenden:<br>
+<code>([a-z0-9]+)[.]Domain[.]TLD"</code><br>
+TLD steht für Top Level Domain wie zum Beispiel: .com .net<br> 
+<code>([a-z0-9]+)</code> bedeutet alles von A bis Z und von 0 bis 9.<br>
+        Sie können einen Schnellstarter erhalten, indem Sie sich dieses <a href="https://youtu.be/sXQxhojSdZM">Video</a><br> ansehen.
+        Sie können Ihre RegExp unter <a href="https://regex101.com/">Regex101</a> testen
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -327,13 +327,13 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 
 
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dies wird nach Möglichkeit mehrmals eine Sekunde aufgerufen.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Diese sind in der Rich-Presence-Sektion deiner Anwendung benannt und hochgeladen, aufgerufene Art Assets*/
+        smallImageKey: "key", /*Der Schlüssel (Dateiname) des Großbildes auf der Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -362,7 +362,7 @@ Klicke [hier](/dev/presence/class) für weitere Informationen über die Präsenz
 Viele Websites verwenden [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Diese HTML-Tags können mehrere Quellen enthalten, z.B. Videos. Aber sie sind nicht immer relevant. Manche sind versteckt oder einfach nicht aktiv genutzt. Prüfe, ob Du die benötigten Informationen extrahieren kannst, bevor Du Dir unnötige Arbeiten machst.
 
 1. Überprüfe sie über die Browserkonsole (stelle sicher, dass Du Dich auf dem **Elements** Tab) befindest.
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. Suche (<kbd>Strg</kbd>+<kbd>F</kbd> (Windows) oder <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Führe `document.querySelectorAll("iframe")` aus.
 
 Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folgende Schritte ausführen:
