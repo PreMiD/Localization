@@ -1,7 +1,7 @@
 ---
 title: إعدادات TypeScript
 description: مساعد صغير في TypeScript
-published: true
+published: صحيح
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
