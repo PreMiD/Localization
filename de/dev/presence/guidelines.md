@@ -159,12 +159,12 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 ### **`url`**
 
 - Die URL **muss** ein String sein wenn die Website nur eine Domain verwendet. Wenn die Webseite mehrere benutzt, gib diese in einem Array an.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- Füge **keine** Protokolle in die URL hinzu (wie z.B. `http` oder `https`) und füge keine Query Parameter in die URL ein (z.B. `www.google.com/search?gws_rd=ssl`, welches eigentlich `www.google.com` sein sollte).
 
 ### **`version`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- Stell immer sicher, dass die Versionsnummer den [semantischen Versionsstandards](https://semver.org) folgt, was auf das folgende Schema hinausläuft: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Alles andere wie `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` oder das Ändern von `1.0.0` auf `2.0.0` bei einer Fehlerbehebung/kleinen Änderung ist **nicht** erlaubt.
+- Die Version **muss** immer bei `1.0.0` anfangen, sofern nicht anders angegeben. Andere Versionen werden **nicht** erlaubt.
 
 ### **`logo`**
 
