@@ -20,39 +20,39 @@
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "عرض تورينت الانمي",
+        "message": "يشاهد تورينت الانمي",
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "عرض تورينت التطبيقات",
+        "message": "يشاهد بثوث الألعاب",
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "عرض الافلام",
+        "message": "يشاهد البثوث الوثائيقية",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "عرض تورينت الالعاب",
+        "message": "يشاهد بثوث الالعاب",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "عرض تورينت الافلام",
+        "message": "يشاهد بثوث الافلام",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "عرض تورينت الاغني",
+        "message": "يشاهد بثوث الاغاني",
         "description": ""
     },
     "1337x.otherTorrents": {
-        "message": "عرض تورينت الاخرى",
+        "message": "يشاهد البثوث الاخرى",
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "عرض تورينت التلفاز",
+        "message": "يشاهد بثوث التلفاز",
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "عرض تورينت التطبيقات",
+        "message": "يشاهد بثوث إباحية",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "1337x.rules": {
-        "message": "قراءة القوانين",
+        "message": "يقرء القوانين",
         "description": ""
     },
     "1337x.writing": {
@@ -68,11 +68,11 @@
         "description": ""
     },
     "1337x.about": {
-        "message": "قراءة 1337x",
+        "message": "يقرء حول 1337x",
         "description": ""
     },
     "1337x.viewTorrent": {
-        "message": "عرض تورينت:",
+        "message": "يشاهد بث:",
         "description": ""
     }
 }
