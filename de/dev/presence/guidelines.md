@@ -277,18 +277,18 @@ Wiederholte Verstöße wie das Brechen von Richtlinien, das Versenden von Spam-P
 In diesem Fall werden folgende Änderungen vorgenommen:
 
 - Presences unter deinem Management werden an den PreMiD Bot oder an einen anderen Benutzer übergeben (Überprüfungsentscheidung). Die Anwendungs-ID jeder Presence wird unter dem Namen des neuen Eigentümers neu erstellt.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Alle deine nach dem Bann erstellten Issues und Pull-Requests (Presence-Erstellungen, Presence-Beiträge, etc.) werden umgehend geschlossen.
+- Tickets, die unter deinem Namen in Bezug auf Presence-Entwicklung erstellt wurden, werden gelöscht.
 
 
-## `Reviewing`
+## `Überprüfen`
 
-A few things you should know after opening a pull request:
+Ein paar Dinge, die du nach dem Öffnen einer Pull-Request wissen solltest:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 14 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- Es benötigt 2 Prüfer, um eine Pull-Request zusammenzuführen.
+- Wenn ein Pull-Request für einen Zeitraum von 14 Tagen inaktiv ist, wird diese umgehend geschlossen.
+- Alle Prüfungen **müssen** bestanden werden um zusammengeführt zu werden.
+- ⚠️ Du **musst** neue, unveränderte Screenshots (aufgenommen von dir) angeben, die in einen nebenseitigen Vergleich deines Profils mit der Website zeigen, dass deine Presence funktioniert. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 - ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Checks`
