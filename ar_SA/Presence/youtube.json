@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "عرض المستخدم",
+        "message": "عرض ما يخص",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
