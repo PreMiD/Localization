@@ -1,7 +1,7 @@
 ---
 title: API
 description: الوصول الي الموارد و تنفيذ الاجرائات باستخدام "PreMiD API"
-published: true
+published: صحيح
 date: 2020-05-29T17:28:31.083Z
 tags:
 ---
