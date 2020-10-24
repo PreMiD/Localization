@@ -103,7 +103,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>خدمة</b>
       </td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -143,7 +143,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>regExp</b>
       </td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
       </td>
@@ -152,7 +152,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>الإصدار</b>
       </td>
       <td style="text-align:left">نسخة من حضورك.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -161,7 +161,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>الشعار</b>
       </td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -170,7 +170,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>صورة المصغرة</b>
       </td>
       <td style="text-align:left">رابط للصورة المصغره لالpresence الخاص بك.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -180,7 +180,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       </td>
       <td style="text-align:left">قيمة <code>#HEX</code>. نوصي باستخدام لون أساسي من الخدمة
         التي يدعمها وجودك.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -199,7 +199,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>الفئة</b>
       </td>
       <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
@@ -217,7 +217,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>سلسلة</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
       </td>
