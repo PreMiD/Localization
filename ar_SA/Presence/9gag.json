@@ -1,10 +1,10 @@
 {
     "9gag.gag": {
-        "message": "يشاهد البوابة:",
+        "message": "يشاهد صورة:",
         "description": ""
     },
     "9gag.hot": {
-        "message": "عرض ما هو ساخن",
+        "message": "يشاهد ما هو ساخن",
         "description": ""
     },
     "9gag.trending": {
@@ -12,23 +12,23 @@
         "description": ""
     },
     "9gag.fresh": {
-        "message": "عرض ما هو الطازج",
+        "message": "يشاهد ما هو طازج",
         "description": ""
     },
     "9gag.tag": {
-        "message": "عرض العلامة:",
+        "message": "يشاهد علامة:",
         "description": ""
     },
     "9gag.about": {
-        "message": "قراءة كل ما يدور حول 9GAG",
+        "message": "يقرء كل ما يدور حول 9GAG",
         "description": ""
     },
     "9gag.store": {
-        "message": "مشاهدة صفحة المتجر",
+        "message": "يشاهد الصفحة الرئيسية",
         "description": ""
     },
     "9gag.collection": {
-        "message": "يشاهد الاشتراكات:",
+        "message": "يشاهد مجموعة:",
         "description": ""
     }
 }
