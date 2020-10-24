@@ -1,22 +1,22 @@
 {
     "1337x.movieLibrary": {
-        "message": "عرض المكتبة الافلام",
+        "message": "يشاهد مكتبة الافلام",
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "عرض المكتبة الافلام",
+        "message": "يشاهد مكتبة الافلام",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "عرض الحلقة الاخيرة",
+        "message": "يشاهد الحلقات الاخيرة",
         "description": ""
     },
     "1337x.top": {
-        "message": "عرض 100 الاول",
+        "message": "يشاهد اول 100",
         "description": ""
     },
     "1337x.trending": {
-        "message": "عرض الهام",
+        "message": "يشاهد ماهو منتشر",
         "description": ""
     },
     "1337x.animeTorrents": {
