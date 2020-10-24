@@ -12,7 +12,7 @@ tags:
 
 ## جدول المحتويات
 
-- **[نبذة عنا](#about)**
+- **[حول](#about)**
   - [الحالة](#stats)
   - [المتطلبات](#requirements)
   - أمثلة (قريبا)
@@ -36,7 +36,7 @@ tags:
 
 <a name="about"></a>
 
-## نبذة عنا
+## حول
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
