@@ -136,15 +136,15 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`autor`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- Der ID _Wert_ **muss** deiner Discord snowflake ID entsprechen. Du kannst es durch das Aktivieren des [Entwicklermodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) erhalten. _Verwechsle diese bitte **nicht** mit deiner Anwendungs-ID, welche nur für deine Presence gilt._
 
 ### **`mitwirkende`**
 
-- Füge **weder** dich selbst **noch** andere Mitwirkende hinzu, es sei denn sie haben dir bei der Presence geholfen.
+- Füge dich selbst und andere **nicht** als Mitwirkende hinzu, es sei denn sie haben dir bei deiner Presence geholfen.
 
 ### **`service`**
 
-- Der Service-Name **muss** mit dem Namen des Präsenzverzeichnisses übereinstimmen. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Der Service-Name **muss** mit dem Namen des Präsenzverzeichnisses übereinstimmen. Wenn sich zum Beispiel die Presence in `/websites/Y/YouTube/` befindet, muss der Servicename `YouTube` sein.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
