@@ -145,11 +145,11 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 ### **`service`**
 
 - Der Service-Name **muss** mit dem Namen des Präsenzverzeichnisses übereinstimmen. Wenn sich zum Beispiel die Presence in `/websites/Y/YouTube/` befindet, muss der Servicename `YouTube` sein.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Du **kannst** die URL **nicht** als Servicename verwenden, es sei denn die Webseite benutzt diese als offiziellen Namen. Wenn der Name nicht beschreibend ist und als vage betrachtet werden kann, ist die Nutzung der URL **erforderlich**. (zum Beispiel ist `YouTube` erlaubt, da das beschreibend und der offizielle Name ist, während es `youtube.com` nicht ist. `Top` ist ein nicht-beschreibender Name, wodurch das Nutzen der URL `top.gg` **erforderlich** ist.
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- Benutze dies **ausschließlich** in Szenarien, in denen eine Website mehrere offizielle Namen hat (beispielsweise Pokémon und 포켓몬스터) oder vereinfache die Suche der Presence durch Weglassen von Sonderzeichen (zum Beispiel Pokémon und Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`beschreibung`**
 
