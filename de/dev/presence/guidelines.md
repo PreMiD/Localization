@@ -132,7 +132,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- Der Schema _Key_ **muss** am Anfang ein Dollarzeichen enthalten. Dieses signalisiert deinem Texteditor, dass du deine JSON-Datei gegen ein Modell validieren möchtest. _Wie bereits erwähnt, muss kein Schema angegeben werden, aber wenn du es angibst, muss dieses berücksichtigt werden._
 
 ### **`autor`**
 
@@ -140,11 +140,11 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`mitwirkende`**
 
-- Füge dich selbst und andere Mitwirkende hinzu, es sei denn sie haben dir bei der Präsenz geholfen.
+- Füge **weder** dich selbst **noch** andere Mitwirkende hinzu, es sei denn sie haben dir bei der Presence geholfen.
 
 ### **`service`**
 
-- Der Service-Name muss mit dem Namen des Präsenzverzeichnisses übereinstimmen. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Der Service-Name **muss** mit dem Namen des Präsenzverzeichnisses übereinstimmen. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
@@ -182,7 +182,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`tags`**
 
-- Bei **allen** Präferenzen ist mindestens _ein_ Tag erforderlich.
+- Bei **allen** Presences ist mindestens _ein_ Tag erforderlich.
 - Tags dürfen **keine** Leerzeichen, Schrägstriche, einfache/doppelte Anführungszeichen und Unicode-Zeichen enthalten und sollten immer in Kleinbuchstaben geschrieben werden.
 - Tags **sollten** vorzugsweise abwechslungsreiche Servicenamen enthalten um die Suche zu vereinfachen (sollte die Amazon-Präsenz beispielsweise AWS-Unterstützung haben, hätte es Tags wie `amazon-web-services` und `aws`).
 - Es ist **erforderlich** einen `NSFW` Tag hinzuzufügen, wenn die Präsenz für eine NSFW Webseite ist.
@@ -220,7 +220,7 @@ Hier ist eine Liste an Regeln, denen du folgen musst, wenn du deine `presence.ts
 - Es ist dir **nicht** erlaubt, auf `localStorage` zuzugreifen.
 - Wenn du Cookies für gespeicherte Daten benutzt, beginne den Schlüssel mit `PMD_`
 - Du kannst nur HTTP/HTTPS-Anfragen zu `premid.app` oder die Presence Website API machen. Wenn du externe Domains verwendest, musst du erklären, warum das notwendig ist.
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (nutze z.B `delete data.startTimestamp` anstelle von `data.startTimestamp = undefined`)
+- Setze **keine** Felder in dem presence data object auf undefined, nachdem es deklariert wurde. Nutz stattdessen das `delete` Schlüsselwort. (nutze z.B `delete data.startTimestamp` anstelle von `data.startTimestamp = undefined`)
 - Es ist dir **nicht**t erlaubt Presences zu schreiben, die das Funktionalität einer bestimmten Webseite ändern. Dies schließt die Ergänzung, Löschung oder Modifizierung von DOM-Elementen ein.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
