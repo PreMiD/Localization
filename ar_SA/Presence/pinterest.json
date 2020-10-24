@@ -4,15 +4,15 @@
         "description": ""
     },
     "pinterest.pin": {
-        "message": "مشاهدة دبوس",
+        "message": "مشاهدة pin",
         "description": ""
     },
     "pinterest.follow": {
-        "message": "يشاهد ملاحقنيهم",
+        "message": "يشاهد متابعينهم",
         "description": ""
     },
     "pinterest.home": {
-        "message": "يعديل الصفحة الرئيسية",
+        "message": "يعدل الصفحة الرئيسية",
         "description": ""
     }
 }
