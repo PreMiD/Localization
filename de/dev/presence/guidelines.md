@@ -302,11 +302,11 @@ Derzeit durchläuft eine Presence zwei separate Phasen der Kontrolle. Alle diese
 
 ## `Zusätzliche Anmerkungen`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- Stelle **immer** sicher deine Presence in dem am besten geeigneten Ordner zu beginnen. Wenn dessen Name mit _irgendeinem_ lateinischen Buchstaben beginnt, muss diese unter seiner alphabetischen Übereinstimmung stehen (z.B. für `D/dアニメストア` oder `G/Google`). Alle anderen Unicode/nicht-lateinischen Zeichen **müssen** in dem `#`-Ordner (z.B. `#/巴哈姆特`) and Zahlen in dem `0-9`-Ordner (z.B. `0-9/4anime`) eingeordnet werden.
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Nach der Erfüllung aller Richtlinien mit den richtigen Prüfungen und Checks, wird deine Presence in den Store aufgenommen.
 
-# Contributions
+# Mitwirkungen
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
