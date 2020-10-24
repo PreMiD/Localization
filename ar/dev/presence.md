@@ -1,7 +1,7 @@
 ---
 title: تطوير البرزنس
 description:
-published: true
+published: صحيح
 date: 2020-10-17T23:04:47.105Z
 tags:
 editor: markdown
