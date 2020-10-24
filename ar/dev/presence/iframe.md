@@ -7,7 +7,7 @@ tags:
 ---
 
 # فئة iFrame
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> نظام iframe مع PreMiD |قد يتعرض لمشاكل ويمكن أن يكون له سلوك غير متوقع، استخدمه بحذر. 
 > 
 > {.is-danger}
 
