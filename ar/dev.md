@@ -10,24 +10,24 @@ tags:
 > 
 > {.is-info}
 
-# تثبيت متطلبات سيكراجي
+# تثبيت المتطلبات
 1. قم بتثبيت [ Git ](https://git-scm.com/).
 2. تثبيت [ Node ](https://nodejs.org/en/) (يأتي مع [ npm ](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+3. قم بتثبيت [TypeScript](https://www.typescriptlang.org/index.html#download-links) (افتح محطة طرفية واكتب `npm install -g typescript`).
 
 # استنساخ المشروع
-1. افتح محطة واكتب ` عنوان URL للاستنساخ git `. ** استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.</p></li>
+1. افتح محطة واكتب `git clone URL `. ** استبدل عنوان URL برابط مستودع التخزين الذي تريد المساهمة فيه </ strong> مثلا ` git clone https://github.com/PreMiD/PreMiD `.</p></li>
 2
 اختيار مجلد من اختيارك.
 3 افتح علي محرر الكود الخاص بك.</ol>
 
 # تثبيت الإعتمادات
-> تأكد من تثبيت [ npm ](https://www.npmjs.com/) (مدير حزمة العقدة) أولاً. يتم تثبيته تلقائيًا إذا كنت قد قمت بتثبيت [ Node ](https://nodejs.org/en/). 
+> تأكد من تثبيت [ npm ](https://www.npmjs.com/) (Node Package Manager) أولاً. يتم تثبيته تلقائيًا إذا كنت قد قمت بتثبيت [ Node ](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
 - افتح محطة في مستودعك واكتب ` npm i `.
-- لتحديث التبعيات ، اكتب ` تحديث npm `.
+- لتحديث التبعيات اكتب ` update npm `.
 
 > كن علي معرفة علي اننا نقوم بتحديث التبعيات التي يمكنها كسر الكثير او لا - يجب تجربتها اولا! 
 > 
