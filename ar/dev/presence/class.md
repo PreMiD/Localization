@@ -140,7 +140,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">يحدد الوقت الحالي.<br>
-        يستخدم إذا كنت ترغب في عرض مقدار <code>ساعات:minutes:seconds</code> بقيت.
+        يستخدم إذا كنت ترغب في عرض مقدار <code>ساعات:دقائق:ثوان</code> بقيت.
           <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
           عد تنازلي خاطئ.
       </td>
@@ -150,7 +150,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">يحدد المدة الكاملة.
-        <br>يستخدم إذا كنت ترغب في عرض كم<code>hours:minutes:seconds</code> متبقية.
+        <br>يستخدم إذا كنت ترغب في عرض كم <code>ساعات:دقائق:ثوان</code> متبقية.
           <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
           عد تنازلي خاطئ.
       </td>
@@ -159,7 +159,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">يحدد الشعار الخاص بالبرزنس.</td>
+      <td style="text-align:left">يحدد الشعار الخاص بالpresence.</td>
       <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
@@ -171,8 +171,8 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">يحدد النص الذي سيتم عرضه للمستخدم عندما يكون على الرمز
+        الصغير.</td>
       <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
@@ -191,22 +191,22 @@ var presenceData: presenceData = {
 };
 ```
 
-## Events
+## أحداث
 
-تتيح لك الأحداث الكشف عن بعض التغييرات أو المكالمات التي أجريت والتعامل معها. You can subscribe to events using the `on` method.
+تتيح لك الأحداث الكشف عن بعض التغييرات أو المكالمات التي أجريت والتعامل معها. يمكنك الاشتراك في الأحداث باستخدام طريقة `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // يقوم بشيء عندما يتم تحديث البيانات.
 });
 ```
 
-There are few events available:
+هناك أحداث قليلة متاحة:
 
-#### `UpdateData`
+#### `تحديث البيانات`
 
-This event is fired every time the presence is being updated.
+ويبدأ هذا الحدث في كل مرة يجري فيها تحديث الpresence.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+تشتغل عند تلقي البيانات من النص البرمجي الى iFrame.
