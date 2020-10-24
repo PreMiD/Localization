@@ -410,7 +410,7 @@ The website you are developing on is automatically reloading every time you save
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # الملفات الموضحة
-- [فئة الحضور](/dev/presence/class)
+- [فئة الpresence](/dev/presence/class)
 - [iFrame Class](/dev/presence/iframe)
 - [ملف بيانات التعريف](/dev/presence/metadata)
 - [إعدادات TypeScript](/dev/presence/tsconfig)
