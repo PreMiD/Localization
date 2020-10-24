@@ -1,7 +1,7 @@
 ---
 title: إصلاح الاخطاء
 description: كل شيء لحل مشكلتك
-published: true
+published: صحيح
 date: 2020-09-01T18:31:28.780Z
 tags:
 editor: markdown
