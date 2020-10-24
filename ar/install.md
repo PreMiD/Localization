@@ -1,7 +1,7 @@
 ---
 title: تثبيت
 description: كيفية تثبيت PreMiD
-published: true
+published: صحيح
 date: 2020-02-12T22:05:12.168Z
 tags:
 ---
