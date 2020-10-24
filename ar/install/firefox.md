@@ -1,7 +1,7 @@
 ---
 title: Firefox
 description: البدء مع تثبيت PreMiD على Firefox
-published: true
+published: صحيح
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---

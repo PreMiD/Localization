@@ -1,7 +1,7 @@
 ---
 title: Home
 description: Official Documentation for v2
-published: true
+published: صحيح
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown

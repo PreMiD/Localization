@@ -1,7 +1,7 @@
 ---
 title: ويندوز
 description: إبدأ وثَبتْ PreMiD على نظام ويندوز
-published: true
+published: صحيح
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
