@@ -411,7 +411,7 @@ The website you are developing on is automatically reloading every time you save
 
 # الملفات الموضحة
 - [فئة الpresence](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
+- [فئة iFrame](/dev/presence/iframe)
 - [ملف بيانات التعريف](/dev/presence/metadata)
 - [إعدادات TypeScript](/dev/presence/tsconfig)
 {.links-list}
