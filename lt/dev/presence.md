@@ -30,19 +30,19 @@ Visi statusai yra sukoduoti naudojantis [TypeScript](https://www.typescriptlang.
 3. Įdiegkite [TypeScript](https://www.typescriptlang.org/index.html#download-links) (atidarykite terminalą ir įrašykite: `npm install -g typescript`).
 
 ## Projekto klonavimas
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Atidarykite terminalą ir įrašykite: `git clone https://github.com/PreMiD/Presences`.
 2. Pasirinkite jūsų norimą aplankalą.
-3. Open it in you code editor.
+3. Atsidarykite jį su savo kodo redagavimo programa.
 
-## Creating folders and files
+## Aplankalų ir failų kūrimas
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+1. Sukurkite aplankalą su **vardu** (ne su svetainės URL) paslaugos kurią jūs norite palaikyti.
+2. Sukurkite `presence.ts` ir `tsconfig.json` failus viduje.
+3. Sukurkite aplankalą su pavadinimu `dist` viduje.
+4. Sukurkite `metadata.json` failą `dist` aplankalo viduje.
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## Užpildant tsconfig.json failą
+Prašome įrašyti šį kodą `tsconfig.json` failo viduje.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -51,10 +51,10 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Kad sužinoti daugiau apie TypeScript konfigūracija spauskite [čia](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## Užpildant metadata.json failą
+Mes sukūremė `metadata.json` failo kūrėją tingiems žmonėms [čia](https://eggsy.xyz/projects/premid/mdcreator). Bet yra rekomenduojama peržvelgtį šį failą, kad jūs žinotumėte kaip jis veikia.
 
 ```json
 {
@@ -110,14 +110,14 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` failą. Jūs dabar turite redaguoti jų ypatybes. Norime, kad atsižvelgtumėtė tai, kad šios ypatybės yra pasirinktinos turėti jūsų `metadata.json` failę, jeigu jūs neplanuojate jų naudoti, tuomet juos ištrinkite.
 - `pagalbininkai`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `nustatymai`
 
-**Clarifying some value presets:**
+**Kai kurių iš anksto nustatytų reikšmių išaiškinimas:**
 <table>
   <thead>
     <tr>
@@ -151,14 +151,14 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports. <br>(Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">The title of the service that this presence supports. <br>(Turi turėti tokį patį pavadinimą kaip ir aplankalas kuriame viskas randasi)</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altnames</b>
+      <td style="text-align:left"><b>alternatyvūs pavadinimai</b>
       </td>
       <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
       </td>
@@ -297,7 +297,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Mes sukūremė `metadata.json` failo kūrėją tingiems žmonėms [čia](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
