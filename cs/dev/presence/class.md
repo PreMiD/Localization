@@ -127,13 +127,13 @@ Rohraní má následující proměnné, žádná z nich není povinná.
   <tbody>
     <tr>
       <td style="text-align:left">Podrobnosti</td>
-      <td style="text-align:left">První řádek v presence, obvykle používaný jako záhlaví.</td>
+      <td style="text-align:left">První řádek ve vaší presence, obvykle používaný jako záhlaví.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">stav</td>
-      <td style="text-align:left">Druhý řádek v presence.</td>
+      <td style="text-align:left">Druhý řádek ve vaší presence.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
@@ -193,7 +193,7 @@ var presenceData: presenceData = {
 
 ## Události
 
-Události Vám umožňují detekovat a reagovat na některé uskutečněné změny či volání. Události můžete zaznamenat pomocí metody `on`.
+Události Vám umožňují detekovat a reagovat na některé uskutečněné změny či volání. Události můžete zaznamenávat pomocí metody `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
@@ -205,7 +205,7 @@ Je k dispozici několik událostí:
 
 #### `UpdateData`
 
-Tato událost je provedena vždy při aktualizaci presence.
+Tato událost je vykonána vždy při aktualizaci presence.
 
 #### `iFrameData`
 
