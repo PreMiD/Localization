@@ -11,13 +11,13 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Ar jūs naudojate Discord programėlę?
+PreMiD **neveikia** naršyklinėje Discord versijoje, jūs turite atsisiųsti programėlę [čia](https://discord.com/download).
 
 ### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. Ši problema priverčia papildinius nepaimti originalių nustatymų pilnai.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Kad ištaisyti tai, viskas ką jūs turite padaryti tai, turite įjungti svarbiausią nustatymą: ![presencesettings.gif](/presencesettings.gif)
 
 ### Perkraukite tinklalapį
 Jūs galite paspausti <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) arba <kbd>CMD+R</kbd> (MacOS) naudojantis savo klaviatūra, vietoj to, jog ieškoti atnaujinimo mygtuko.
