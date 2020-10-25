@@ -179,10 +179,8 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL paslaugos adresas. <br><b>Pavyzdžiui:</b><code>vk.com</code><br><b>Šis URL turi atitikti URL svetainės nes bus tikrinama ar ši yra svetainė į kurią suleisti skriptą. </b><br><b>NEPRIDĖKITE</b> <code>https://</code> arba <code>http://</code> prie jūsų URL ir nepridėkite nei brūkšnio gale: <code>https://premid.app/</code> -> <code>premid.app</code><br><b>Pastaba</b>: Kai kurie URL gali turėti <code>www.</code> ar kažką panašaus priekyje jų domeno. Do <b>NOT</b> forget to add it!<br>
-You can add multiple URLs by doing the following:<br>
-<code>["URL1", "URL2", "ETC."]</code><br>
-You could also use regExp also known as Regex for this task, explained further below.
+      <td style="text-align:left">URL paslaugos adresas. <br><b>Pavyzdžiui:</b><code>vk.com</code><br><b>Šis URL turi atitikti URL svetainės nes bus tikrinama ar ši yra svetainė į kurią suleisti skriptą. </b><br><b>NEPRIDĖKITE</b> <code>https://</code> arba <code>http://</code> prie jūsų URL ir nepridėkite nei brūkšnio gale: <code>https://premid.app/</code> -> <code>premid.app</code><br><b>Pastaba</b>: Kai kurie URL gali turėti <code>www.</code> ar kažką panašaus priekyje jų domeno. <b>NEPAMIRŠKITE</b> pridėti jo!<br>
+Jūs galite pridėti daugiau URL adresų atlikdami šiuso veiksmus:<br><code>["URL1", "URL2", "ETC."]</code><br>Jūs taipogi galite naudoti regExp arba kitaip žinoma kaip Regex šiai užduočiai atlikti, paaiškinta toliau apačioje.
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
