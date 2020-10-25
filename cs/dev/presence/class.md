@@ -13,7 +13,7 @@ editor: markdown
 
 Třída `Presence` je velmi užitečná, protože má základní metody, které potřebujeme k vytvoření presence.
 
- Při vytváření třídy musíte zadat `klientské Id`.
+ Při vytváření třídy musíte upřesnit `clientId`.
 
 ```typescript
 let presence = new Presence({
@@ -21,13 +21,13 @@ let presence = new Presence({
 });
 ```
 
-Jsou k dispozici dvě vlastnosti pro `Presence` třídu.
+Pro `Presence` třídu jsou k dispozici dvě vlastnosti.
 
 #### `clientId`
 
 Musí být poskytnuta vlastnost `klientských Id` , aby vaše přítomnost fungovala, protože používá ID vaší aplikace k zobrazení jejího loga a majetku.
 
-Můžete ji získat na vaší [stránce aplikace](https://discordapp.com/developers/applications).
+Můžete ho získat na [ stránce vaší aplikace](https://discordapp.com/developers/applications).
 
 ## Metody
 
