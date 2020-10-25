@@ -124,31 +124,31 @@
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Prohlížení anime:",
+		"message": "Sledování anime:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Zobrazení kategorie:",
+		"message": "Prohlížení kategorie:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Zobrazení kanálu:",
+		"message": "Prohlížení kanálu:",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Zobrazení epizody:",
+		"message": "Sledování epizody:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Zobrazení žánru:",
+		"message": "Zobrazování žánru:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Zobrazení domovské stránky",
+		"message": "Prohlížení domovské stránky",
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Zobrazení seznamu:",
+		"message": "Prohlížení seznamu:",
 		"description": ""
 	},
 	"general.viewManga": {
