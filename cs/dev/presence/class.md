@@ -37,11 +37,11 @@ Vrátí `presenceData` objekt toho, co presence zobrazuje.
 
 ### `setActivity(presenceData, Boolean)`
 
-Nastaví vaši aktivitu profilu podle zadaných dat.
+Nastaví vaši aktivitu profilu podle poskytnutých dat.
 
-První parametr vyžaduje rozhraní `přítomnostiData` pro získání všech informací, které chcete zobrazit ve vašem profilu.
+První parametr vyžaduje rozhraní `presenceData` pro získání všech informací, které chcete zobrazit ve vašem profilu.
 
-Druhý parametr definuje, když přítomnost něco hraje nebo ne. Vždy používejte `tru` pokud poskytnete časové značky v `přítomnostiData`.
+Druhý parametr definuje, jestli presence něco hraje nebo ne. Vždy použijte `true` pokud poskytnete časové značky v `presenceData`.
 
 ### `clearActivity()`
 
@@ -53,11 +53,11 @@ Vymaže vaši aktuální aktivitu, klávesové zkratky a název lišty.
 > 
 > {.is-warning}
 
-Nastaví název v nástrojovém panelu.
+Nastaví název lišty v Menubaru.
 
 ### `getStrings(Object)`
 
-Asynchroní metoda, která Vám umožňuje získá přeložené texty z rozšíření. Musíte poskytnout `Object`, kde klíč je klíč textu, a `keyValue` je tento text. Sbírku přeložených řetězců můžete získat použitím tohoto endpointu: `https://api.premid.app/v2/langFIle/extension/en`
+Asynchroní metoda, která Vám umožňuje získat z Vašeho rozšíření přeložené texty. Musíte poskytnout `Object`, kde klíčem je klíč textu, a `keyValue` je tento text. Sbírku přeložených textů můžete najít na tomto endpointu: `https://api.premid.app/v2/langFile/extension/en`
 
 ```typescript
 // Vrací texty `Playing` a `Paused`
