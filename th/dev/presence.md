@@ -299,7 +299,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## เริ่มต้นกันเลย
 
 ```javascript
 var presence = new Presence({
@@ -359,12 +359,12 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG.
 
 For more information about the Presence class click [here](/dev/presence/class).
 
-## Can't get certain data?!
+## รับข้อมูลบางอย่างไม่ได้?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. ค้นหา (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) หรือ <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
@@ -405,7 +405,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 ## Hot-reloading
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## การแก้ไขจุดบกพร่อง
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
