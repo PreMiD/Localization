@@ -160,7 +160,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
     <tr>
       <td style="text-align:left"><b>alternatyvūs pavadinimai</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Kad galėtumete ieškoti statuso naudojantis alternatyviu pavadinimu. <br>Skirta naudoti statusams kurie turi skirtingus pavadinimus skirtingomis kalbomis (pvž. Pokémon ir 포켓몬스터).<br>Jūs taipogi galite naudoti jį statusams kurie turi specialių raidžių, kad jums nereikėtų jų vesti (pvž. Pokémon ir Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
@@ -170,8 +170,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
     <tr>
       <td style="text-align:left"><b>aprašymas</b>
       </td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service
-        if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Mažas statuso aprašymas, jūs galite aprašyti paslaugą kuriai darote statusą, jeigu neturite įdėjų. Jūsų aprašymas turi turėti raktine pora reikšmių kurie nurodo kalbą ir aprašymą ta nustatyta kalba. Kurkite aprašymus su kalbomis <i>kurias jūs žinote</i>, mūsų vertėjai padarys pakitimus jūsų metadata failui.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -180,10 +179,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-<code>https://premid.app/</code> -> <code>premid.app</code><br>
-<b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      <td style="text-align:left">URL paslaugos adresas. <br><b>Pavyzdžiui:</b><code>vk.com</code><br><b>Šis URL turi atitikti URL svetainės nes bus tikrinama ar ši yra svetainė į kurią suleisti skriptą. </b><br><b>NEPRIDĖKITE</b> <code>https://</code> arba <code>http://</code> prie jūsų URL ir nepridėkite nei brūkšnio gale: <code>https://premid.app/</code> -> <code>premid.app</code><br><b>Pastaba</b>: Kai kurie URL gali turėti <code>www.</code> ar kažką panašaus priekyje jų domeno. Do <b>NOT</b> forget to add it!<br>
 You can add multiple URLs by doing the following:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 You could also use regExp also known as Regex for this task, explained further below.
