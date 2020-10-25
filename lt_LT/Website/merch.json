@@ -1,1 +1,18 @@
-{}
+{
+	"merch.title": {
+		"message": "Sveiki atvykę į oficialų **PreMiD** prekių parduotuvę!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Raskite savo **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Pasirinkite savo dydį**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Įdėti į krepšelį",
+		"description": "Add product to cart"
+	}
+}
