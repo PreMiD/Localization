@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Statusų kūrimas
 description:
 published: true
 date: 2020-10-17T23:04:47.105Z
@@ -8,26 +8,26 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Visi statusai yra dabar laikomi čia: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versija `2.x` Pristato[statusų parduotuvę](https://premid.app/store). Naudotojai dabar turi pasirinkimą savankiškai pridėti arba išimti jų mėgstamus statusus per vartotojų valdymo panele [svetainėje](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Prieš pradedant, yra labai siūloma, kad jūs peržvelgtumėte mūsų statusų rekomendacijos formas. 
 > 
 > {.is-warning}
 
 - [Gairės](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Struktūra
+Visi statusai yra sukoduoti naudojantis [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) Turi ekstra dalykėlių prieš JavaScript, tad taisyti ir atpažinti klaidas yra daug lengviau.
 
 ## Instaliacija
 1. Įdiegkite [Git](https://git-scm.com/).
 2. Įdiegkite [Node](https://nodejs.org/en/) (atkeliauja kartu su [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Įdiegkite [TypeScript](https://www.typescriptlang.org/index.html#download-links) (atidarykite terminalą ir įrašykite: `npm install -g typescript`).
 
 ## Projekto klonavimas
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
