@@ -57,11 +57,11 @@ Nastaví název v nástrojovém panelu.
 
 ### `getStrings(Object)`
 
-Asynchroní metoda, která Vám umožňí získávat z Vašeho rozšíření přeložené řetězce. `Objektu` musíte poskytnout klíč řetězce. `keyValue` je hodnota řetězce. Sbírku přeložených řetězců můžete získat použitím tohoto endpointu: `https://api.premid.app/v2/langFIle/extension/en`
+Asynchroní metoda, která Vám umožňuje získá přeložené texty z rozšíření. Musíte poskytnout `Object`, kde klíč je klíč textu, a `keyValue` je tento text. Sbírku přeložených řetězců můžete získat použitím tohoto endpointu: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
-//Z rozšíření vrací řetězce
-// 'Playing' a 'Paused'
+// Vrací texty `Playing` a `Paused`
+// z rozšíření.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -73,7 +73,7 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Vrátí údaj ze stránky, pokud existuje.
+Vrátí ze stránky vybranou proměnnou pokud existuje.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
@@ -81,7 +81,7 @@ console.log(pageVar); // Toto zaznamená "Obsah proměnné"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Vrátí aktuálně používanou verzi rozšíření.
+Vrátí aktuální verzi používanou uživatelem.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): řetězec | number;
 
