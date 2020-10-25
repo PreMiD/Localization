@@ -34,7 +34,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. เลือกโฟลเดอร์ที่คุณต้องการ
 3. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
 
-## Creating folders and files
+## การสร้างโฟลเดอร์และไฟล์
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
 2. Create a `presence.ts` and a `tsconfig.json` file inside.
