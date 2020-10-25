@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-## API Versioning
+## API Versijos
 > API v1 veikla yra sustabdyta, visi prašymai turėtų būti nutaikyti į dabartinę aktyvią versija 
 > 
 > {.is-danger}
