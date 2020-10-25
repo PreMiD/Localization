@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-> Dokumentacija yra visdar ruošiama! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
+> Dokumentacija yra vis dar ruošiama! Kai kurie puslapiai gali būti nebaigti arba neegzistuoti. 
 > 
 > {.is-warning}
 
