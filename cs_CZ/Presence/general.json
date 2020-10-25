@@ -100,7 +100,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Vyhledávám něco...",
+		"message": "Něco vyhledávám...",
 		"description": ""
 	},
 	"general.search": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Psaní do funkcí:",
+		"message": "Psaní zpráv pro:",
 		"description": ""
 	},
 	"general.typeChannel": {
