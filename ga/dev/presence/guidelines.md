@@ -1,7 +1,7 @@
 ---
 title: Guidelines
 description: Rules all presence developers must follow to have their presence added.
-published: true
+published: fíor
 date: 2020-10-24T15:19:18.624Z
 tags:
 editor: markdown

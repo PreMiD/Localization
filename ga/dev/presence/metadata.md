@@ -1,7 +1,7 @@
 ---
 title: Metadata.json
 description: Contains basic data about the Presence
-published: true
+published: fíor
 date: 2020-05-21T16:01:05.836Z
 tags:
 ---

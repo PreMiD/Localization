@@ -1,7 +1,7 @@
 ---
-title: About PreMiD
+title: Maidir le PreMiD
 description: The core features of PreMiD
-published: true
+published: fíor
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
