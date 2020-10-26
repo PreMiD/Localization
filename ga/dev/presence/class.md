@@ -17,7 +17,7 @@ The `Presence` class is very useful as it has basic methods that we need for cre
 
 ```typescript
 let presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Sampla clientId
 });
 ```
 
@@ -86,9 +86,9 @@ Returns version of the extension the user is using.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 var numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // An mbeidh logáil isteach 210
 var version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // An mbeidh logáil isteach 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -101,13 +101,13 @@ console.log(setting); // This will log the value of the setting
 ### `hideSetting(String)`
 Hides given setting.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Cuir id an tsuímh in ionad pdexID
 ```
 
 ### `showSetting(String)`
 Shows given setting (Only works if the setting was already hidden).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Cuir id an tsuímh in ionad pdexID
 ```
 
 ## `presenceData` Interface
@@ -197,7 +197,7 @@ Events allow you to detect and handle some changes or calls that were made. You 
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Déan rud éigin nuair a dhéantar sonraí a nuashonrú.
 });
 ```
 
