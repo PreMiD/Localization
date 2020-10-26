@@ -1,4 +1,8 @@
 {
+	"presence.page.buttons.sourceCode": {
+		"message": "Cód Foinse",
+		"description": "Source Code button on presence pages."
+	},
 	"presence.sections.description.title": {
 		"message": "Cur síos",
 		"description": "The title of the description section."
@@ -18,6 +22,14 @@
 	"presence.sections.information.version": {
 		"message": "Leagan",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Is maith",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Úsáideoirí",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
 		"message": "Clibeanna",
