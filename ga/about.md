@@ -1,18 +1,18 @@
 ---
 title: Maidir le PreMiD
-description: The core features of PreMiD
+description: Príomhghnéithe PreMiD
 published: fíor
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
+Is fóntais shimplí, chumraithe é PreMiD a ligeann duit a bhfuil á dhéanamh agat ar an ngréasán a thaispeáint i do Discord anois ag imirt stádais. Tacaíonn sé le go leor ardáin éagsúla agus tacóidh sé le húsáideoirí iomadúla atá ag faire ar an ábhar céanna ag an am céanna i nuashonrú atá le teacht.
 
-# Why you should download PreMiD
-- Our whole project is open-source! We want to work with our users - not against them.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+# Cén fáth ar chóir duit PreMiD a íoslódáil
+- Tá ár dtionscadal iomlán foinse oscailte! Ba mhaith linn oibriú lenár n-úsáideoirí - ní ina gcoinne.
+- Tá gné mhór, ar a dtugtar WatchParties, ag teacht go PreMiD. Le cuirí cluiche agus faire agus éisteacht chomhuaineach. Cumhachtaithe ag [Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# Gnéithe Lárnacha
+- Taispeánann do sheirbhís gréasáin reatha i Discord mar do stádas.
+- Deonaíonn sé smacht iomlán ar Uachtaráin.
