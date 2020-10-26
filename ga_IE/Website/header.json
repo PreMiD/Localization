@@ -34,5 +34,21 @@
   "header.contributors": {
     "message": "Rannpháirtithe",
     "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Logáilte isteach mar",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Tuairisc ar fhabht",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Painéal na nIonstraimí",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logáil Amach",
+    "description": "Logout button"
   }
 }
