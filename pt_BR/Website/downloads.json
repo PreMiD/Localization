@@ -164,7 +164,7 @@
     "description": ""
   },
   "downloads.showbeta.small": {
-    "message": "(não é necessário se você só está aqui para baixar o aplicativo normalmente)",
+    "message": "(não é necessário se você só está aqui para baixar o aplicativo normal)",
     "description": "Small text under the show beta title."
   }
 }
