@@ -11,6 +11,30 @@
 		"message": "Prevoditelji",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Voditelj Projekta",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Koordinator Osoblja",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Direktor Marketinga",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrator",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Recenzent",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Programer",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "Dizajner",
 		"description": "'Designer' title for contributors and user pages."
@@ -22,6 +46,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Agent za Podršku",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Predstavnik",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Korektor",
