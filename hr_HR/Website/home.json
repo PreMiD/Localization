@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** je jednostavan, podesiv alat koji ti omogućuje prikazivanje onoga što radiš na web-u u tvom Discord now playing status-u.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Značajke",
 		"description": "Introduction button"
@@ -6,6 +10,18 @@
 	"home.introduction.button.downloads": {
 		"message": "Preuzimanja",
 		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Igra igru",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} lijevo",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} proteklo",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
 		"message": "Reproducira se",
@@ -15,8 +31,16 @@
 		"message": "Pregledavanje...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.features.heading": {
+		"message": "Obožavati ćeš ove značajke!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Pronađi **svoj** presence",
+		"description": "Features section subheading"
+	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Sortirajte po kategoriji",
+		"message": "Sortiraj po kategoriji",
 		"description": "Features section description point"
 	},
 	"home.languageSelector.tippy": {
