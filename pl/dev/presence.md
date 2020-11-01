@@ -54,7 +54,7 @@ Umieść następujący kod w pliku `tsconfig.json`.
 Aby uzyskać więcej informacji na temat konfiguracji TypeScript, kliknij [tutaj](/dev/presence/tsconfig).
 
 ## Wypełnianie w pliku metadata.json
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
+Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy.xyz/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
 
 ```json
 {
@@ -297,7 +297,7 @@ Nazwa TLD dla domeny najwyższego poziomu, na przykład: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Wprowadzenie
 
@@ -334,8 +334,8 @@ presence.on("UpdateData", async () => {
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Są one przesyłane i nazywane w sekcji Rich Presence aplikacji o nazwie Art Assets*/
+        smallImageKey: "key", /*Klucz (nazwa pliku) dużego obrazu Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
