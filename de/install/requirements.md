@@ -12,7 +12,7 @@ tags:
 > 
 > {.is-info}
 
-PreMiD läuft auf praktisch jedem System. Das bedeutet, dass es auf **Linux**, **macOS**, **Windows** sowie auf einigen **Linux Modifikationen** ausgeführt wird.
+PreMiD läuft auf jedem System. Das bedeutet, dass es auf **Linux**, **macOS**, **Windows** sowie auf einigen **Linux Modifikationen** ausgeführt wird.
 
 ### CPU (Prozessor)
 PreMiD läuft einwandfrei auf einem einzigen CPU-Kern.
