@@ -57,7 +57,7 @@ Nastaví název lišty v Menubaru.
 
 ### `getStrings(Object)`
 
-Asynchroní metoda, která Vám umožňuje získat z Vašeho rozšíření přeložené texty. Musíte poskytnout `Object`, kde klíčem je klíč textu, a `keyValue` je tento text. Sbírku přeložených textů můžete najít na tomto endpointu: `https://api.premid.app/v2/langFile/extension/en`
+Asynchroní metoda, která Vám umožňuje získat z Vašeho rozšíření přeložené texty. Musíte poskytnout `Object`, kde klíčem je klíč textu, a `keyValue` je tento text. Sbírku přeložených textů můžete najít na tomto endpointu: `https://api.premid.app/v2/langFile/extension/cs_CZ`
 
 ```typescript
 // Vrací texty `Playing` a `Paused`
@@ -67,8 +67,8 @@ strings = await presence.getStrings({
     pause: "presence.playback.paused"
 });
 
-const playString = strings.play // result: Playing back
-const pauseString = strings.pause // result: Playback paused
+const playString = strings.play // výsledek: Přehrává
+const pauseString = strings.pause // result: Pozastaveno
 ```
 
 ### `getPageletiable(String)`
