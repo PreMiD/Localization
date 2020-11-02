@@ -222,7 +222,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
     <tr>
       <td style="text-align:left"><b>الشعار</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">رابط الخدمة&apos;لـ شعار</td>
       <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -270,7 +270,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
       <td style="text-align:left"><b>iframe</b>
       </td>
       <td style="text-align:left">يحدد ما إذا كان <code>iFrames</code> يستخدم</td>
-      <td style="text-align:left"><code>Boolean</code>
+      <td style="text-align:left"><code>قيمة منطقية</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
       </td>
@@ -278,7 +278,7 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">محدد تعبير عادي يحدد إطارات ifram للحقن. انظر regExp لمزيد من المعلومات.</td>
       <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
@@ -287,8 +287,8 @@ TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br>
     <tr>
       <td style="text-align:left"><b>الإعدادات</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change.<br>
-      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
+      <td style="text-align:left">مجموعة من الإعدادات التي يمكن للمستخدم تغييرها.<br>
+      اقرأ المزيد حول إعدادات الحضور <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">هنا</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
@@ -334,8 +334,8 @@ presence.on("UpdateData", async () => {
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
     var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageKey: "key", /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
+        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. تم رفع هذه المسميات و تسميتها في قسم الوجود الغني في التطبيق الخاص بك، يسمى Art Assets*/
+        smallImageKey: "المفتاح"، /*المفتاح (اسم الملف) للصورة الكبيرة على الوجود. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
         smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
         details: "Browsing Page Name", //The upper section of the presence text
         state: "Reading section A", //The lower section of the presence text
@@ -353,13 +353,13 @@ presence.on("UpdateData", async () => {
     }
 });
 ```
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+يمكنك نسخ هذا إلى ملف `presence.ts` الخاص بك وتعديل القيم. يتم تعيين جميع القيم داخل حدث بيانات التحديث.
 
 ومن الأمثلة على ذلك، نقترح النظر في مدونة أشكال الوجود مثل: 1337x أو 9GAG.
 
-For more information about the Presence class click [here](/dev/presence/class).
+للحصول على مزيد من المعلومات حول صف الحضور انقر [هنا](/dev/presence/class).
 
-## Can't get certain data?!
+## لا يمكن الحصول على بيانات معينة؟!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
