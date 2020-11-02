@@ -160,7 +160,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>الشعار</b>
       </td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">رابط الخدمة&apos;لـ شعار</td>
       <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -208,7 +208,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>iframe</b>
       </td>
       <td style="text-align:left">يحدد ما إذا كان <code>iFrames</code> يستخدم</td>
-      <td style="text-align:left"><code>Boolean</code>
+      <td style="text-align:left"><code>قيمة منطقية</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
       </td>
@@ -216,7 +216,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">محدد تعبير عادي يحدد إطارات ifram للحقن.</td>
       <td style="text-align:left"><code>نص</code>
       </td>
       <td style="text-align:left"><code>نعم</code>
