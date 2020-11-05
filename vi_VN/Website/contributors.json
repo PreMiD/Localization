@@ -11,6 +11,10 @@
 		"message": "Phiên dịch viên",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Người quản lý dự án",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "Quản trị viên",
 		"description": "'Administrator' title for contributors and user pages."
