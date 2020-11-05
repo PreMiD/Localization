@@ -83,6 +83,10 @@
 		"message": "Tìm kiếm",
 		"description": "Placeholder for presence search"
 	},
+	"store.search.filters": {
+		"message": "Nhập",
+		"description": "Little message next to the keys of search filters on the store."
+	},
 	"store.search.removeFilter": {
 		"message": "Ấn để gỡ bộ lọc",
 		"description": "Remove message for active search filters."
