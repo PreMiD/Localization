@@ -15,6 +15,18 @@
 		"message": "Quản trị viên",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "Người đánh giá",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Nhà phát triển",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Nhà thiết kế",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Điều hành viên",
 		"description": "'Moderator' title for contributors and user pages."
