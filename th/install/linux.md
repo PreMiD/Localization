@@ -83,7 +83,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### เครดิต
 
-Thanks to :
+ขอขอบคุณ :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
 - @apriluwu for maintaining the Gentoo builds
