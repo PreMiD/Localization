@@ -21,10 +21,10 @@ Ogólne zasady rozwijania statusów są następujące:
 - Struktura plików musi być czysta i uporządkowana, nie powinna zawierać plików, które nie są wymagane. (np. foldery vscode i git, pliki graficzne i tekstowe itp.)
 - Musisz mieć odpowiednią strukturę plików, wersje robocze **są niedozwolone**.
 - Statusy dla stron z ((`.onion` TLD)) lub stron z darmowymi domenami/hostami (np. `.TK` [wszystkie bezpłatne domeny Freenom], `.RF`, `.GD`, itp.) są **niedozwolone**, można zrobić wyjątek, jeśli zostanie przedstawiony dowód, że zapłacono za domenę.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (np. strony wikia)
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Status kierowane na wewnętrzne strony przeglądarki (takie jak Chrome Web Store, `chrome://`, strony `about:`, itp.) **są niedozwolone**, ponieważ wymagają włączenia eksperymentalnej flagi po stronie użytkowników i mogą potencjalnie spowodować uszkodzenie ich przeglądarki.
+- Statusy wspierające tylko jedną sub-domenę **są niedozwolone** ponieważ mogą nie działać na innych stronach (takich jak strona główna), wyjątek mogą stanowić strony kontaktowe lub z polityką prywatności (czyli takie które nie są często używae) lub strony gdzie inna zawartość jest niezwiązana z sub-domeną. (np. strony wiki)
+- Statusy o niskiej jakości (lub z małą ilością danych) **są niedozwolone** (np. pokazywanie logo i tekstu i nie zmienianie go już więcej)
+- Załączenie folderu `dist`, pliku, `presence.ts`, pliku `iframe.ts` i pliku `metadata.json` jest obowiązkowe w taki sposób aby struktura plików naśladowała poniższy schemat:
 
 ```bash
 presence
@@ -50,11 +50,11 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Dla wygody naszych deweloperów Presence dostarczyliśmy schemat, którego możesz użyć do weryfikacji integralności pliku `metadata`. Jest to całkowicie opcjonalne i nie jest wymagane w procesie przeglądu. 
+> Dla wygody naszych twórców presence dostarczyliśmy schemat, którego możesz użyć do weryfikacji integralności pliku `metadata`. Jest to całkowicie opcjonalne i nie jest wymagane w procesie weryfikacji. 
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> Zalecane jest zorganizowanie pliku `metadata` w formacie przedstawionym poniżej, musi on także zawierać gramatycnie poprawne nazwy serwisów, opisy, tagi i pola ustawień. Wszystkie pliki które nie śledzą schematu **nie** są dozwolone. 
 > 
 > {.is-warning}
 
