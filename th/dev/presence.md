@@ -30,7 +30,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. ติดตั้ง [TypeScript](https://www.typescriptlang.org/index.html#download-links) (เปิดเทอร์มินัลแล้วพิมพ์ `npm install -g typescript`)
 
 ## การโคลนโปรเจ็ค
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. เปิดโปรแกรม Terminal และพิมพ์ `git clone https://github.com/PreMiD/Presences`.
 2. เลือกโฟลเดอร์ที่คุณต้องการ
 3. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
 
