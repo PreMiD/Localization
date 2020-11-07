@@ -58,11 +58,11 @@ presence
 > 
 > {.is-warning}
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
+> Presences stron internetowych z treściami nieodpowiednimi dla dzieci **muszą** mieć tag `nsfw`, a logo/miniaturka **nie** może zawierać żadnej z tych treści. 
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Każdy presence posiada plik metadanych nazwany `metadata.json`. ten plik ma ścisły schemat. Jego przykład można znaleść poniżej:
 
 ```json
 {
@@ -285,9 +285,9 @@ W takim przypadku wystąpią następujące zmiany:
 Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 
 - It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 14 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- Jeśli w pull request nie ma aktywności przez 14 dni to zostanie on zamknięty.
+- Wszystkie testy **muszą** przejść aby pull request został zmergowany.
+- ⚠️ **musisz** podać nowe, niezmodyfikowane zrzuty ekranu (zrobione przez ciebie) pokazujące porównanie twojego profilu i strony internetowej, aby udowodnić, że twój status działa. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 - ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Sprawdź`
