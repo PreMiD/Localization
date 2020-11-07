@@ -1,6 +1,6 @@
 ---
 title: Wytyczne
-description: Reguły, których muszą przestrzegać wszyscy programiści Presence, aby ich Presence został zaakceptowany.
+description: Reguły, których muszą przestrzegać wszyscy twórcy Presence, aby ich Presence zostały zaakceptowane.
 published: tak
 date: 2020-10-24T15:19:18.624Z
 tags:
@@ -14,11 +14,11 @@ Podczas publikowania Presence w serwisie GitHub wymagamy przestrzegania zbioru w
 
 # Tworzenie
 
-Ogólne zasady rozwoju statusów są następujące:
+Ogólne zasady rozwijania statusów są następujące:
 
 - Statusy **muszą** być powiązane z wybraną witryną.
 - Statusy **nie mogą** być tworzone dla nielegalnych stron internetowych. (np. stresory, handel narkotykami, dziecięca pornografia, itp.)
-- Struktura plików musi być czysta i zarządzana, nie zawierać plików, które nie są określone. (np. foldery vscode i git, pliki graficzne i tekstowe itp.)
+- Struktura plików musi być czysta i uporządkowana, nie powinna zawierać plików, które nie są wymagane. (np. foldery vscode i git, pliki graficzne i tekstowe itp.)
 - Musisz mieć odpowiednią strukturę plików, wersje robocze **są niedozwolone**.
 - Statusy dla stron z ((`.onion` TLD)) lub stron z darmowymi domenami/hostami (np. `.TK` [wszystkie bezpłatne domeny Freenom], `.RF`, `.GD`, itp.) są **niedozwolone**, można zrobić wyjątek, jeśli zostanie przedstawiony dowód, że zapłacono za domenę.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
