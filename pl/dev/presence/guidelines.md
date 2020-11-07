@@ -287,8 +287,8 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 - It takes 2 reviewers to merge a pull request.
 - Jeśli w pull request nie ma aktywności przez 14 dni to zostanie on zamknięty.
 - Wszystkie testy **muszą** przejść aby pull request został zmergowany.
-- ⚠️ **musisz** podać nowe, niezmodyfikowane zrzuty ekranu (zrobione przez ciebie) pokazujące porównanie twojego profilu i strony internetowej, aby udowodnić, że twój status działa. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠️ **musisz** podać nowe, niezmodyfikowane zrzuty ekranu (zrobione przez ciebie) pokazujące porównanie twojego profilu i strony internetowej, aby udowodnić, że twój status działa. _Możesz połaczyć zrzuty ekranu razem, aby były bardziej czytelne._ Dotyczy to zarówno tworzenia, jak i zmian.
+- ⚠️ Jesteś również **zobligowany** aby dołączyć zrzuty ekranu ustawień statusu w rozszerzeniu, jeśli zostały dodane. Przykład można zobaczyć [tutaj](https://imgur.com/a/OD3sj5R).
 
 ## `Sprawdź`
 
@@ -307,13 +307,13 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 
 # Wkład
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Rewizja 2` wytycznych została stworzona przez następujące osoby:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Rewizja 1` była utrzymywana przez następujące osoby:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
