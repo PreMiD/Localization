@@ -92,7 +92,7 @@
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
   "downloads.warning.message.edge": {
-    "message": "Vergeet niet om 'Extensies van andere winkels toestaan' optie in te schakelen in de extensie instellingen.",
+    "message": "Vergeet niet om 'Extensies van andere winkels toestaan' optie in te schakelen in de extensie-instellingen.",
     "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
   },
   "downloads.warning.message.opera": {
