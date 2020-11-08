@@ -290,9 +290,9 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 - ⚠️ **musisz** podać nowe, niezmodyfikowane zrzuty ekranu (zrobione przez ciebie) pokazujące porównanie twojego profilu i strony internetowej, aby udowodnić, że twój status działa. _Możesz połaczyć zrzuty ekranu razem, aby były bardziej czytelne._ Dotyczy to zarówno tworzenia, jak i zmian.
 - ⚠️ Jesteś również **zobligowany** aby dołączyć zrzuty ekranu ustawień statusu w rozszerzeniu, jeśli zostały dodane. Przykład można zobaczyć [tutaj](https://imgur.com/a/OD3sj5R).
 
-## `Sprawdź`
+## `Testy`
 
-![Sprawdź](https://i.imgur.com/BCDZQe9.png)
+![Testy](https://i.imgur.com/BCDZQe9.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
@@ -307,13 +307,13 @@ After meeting all of the guidelines with the proper reviews and checks, your pre
 
 # Wkład
 
-`Rewizja 2` wytycznych została stworzona przez następujące osoby:
+`2 Rewizja` wytycznych została stworzona przez następujące osoby:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Rewizja 1` była utrzymywana przez następujące osoby:
+`1 Rewizja` była stworzona przez następujące osoby:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
