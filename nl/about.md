@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-PreMiD is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het internet aan het doen bent in uw Discord status. Het ondersteunt veel verschillende platformen en ondersteunt meerdere gebruikers om dezelfde inhoud tegelijkertijd te bekijken in een aanstaande update.
+PreMiD is een eenvoudig, aanpasbaar hulpmiddel waarmee je kunt laten zien wat je op het internet doet in je Discord-status. Het ondersteunt veel verschillende platformen en ondersteunt meerdere gebruikers om dezelfde inhoud tegelijkertijd te bekijken in een aanstaande update.
 
 # Waarom u PreMiD zou moeten downloaden
 - Ons hele project is open source! We willen samenwerken met onze gebruikers - niet tegen hen.
