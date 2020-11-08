@@ -74,8 +74,8 @@ Het is niet bekend of oudere versies van andere distributies het ondersteunen, d
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Join onze Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join onze Discord!">
+  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Word lid van onze Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Word lid van onze Discord!">
   </a>
 </div>
 

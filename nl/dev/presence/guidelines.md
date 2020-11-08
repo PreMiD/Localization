@@ -288,7 +288,7 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 - Als een pull-aanvraag voor een periode van 14 dagen niet actief is, zal deze worden gesloten.
 - Alle controles **moeten** voldaan zijn voordat er gemerged kan worden.
 - ⚠ U **moet** nieuw, ongewijzigde screenshots (gemaakt door jou) geven die een zijdelings vergelijking van je profiel en de website tonen om te bewijzen dat je presence werkt. _Je mag screenshots samen stikken zodat het makkelijker te bekijken is._ Dit geldt zowel voor het aanmaken van je presence als voor aanpassing in de presence.
-- ⚠ Je bent ook **verplicht** om schermafbeeldingen te maken van presence instellingen als je die hebt. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) zien.
+- ⚠️ Je bent ook **verplicht** om schermafbeeldingen te maken van eventuele presence-instellingen. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) zien.
 
 ## `Controles`
 
