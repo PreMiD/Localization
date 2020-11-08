@@ -27,6 +27,10 @@
 		"message": "Playing back",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Browsing...",
 		"description": "Discord Rich Presence -> small image text;"
