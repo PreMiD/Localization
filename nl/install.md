@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-> **Het is noodzakelijk** om **** de **applicatie** en de **extensie** te installeren! 
+> De **applicatie** en de **extensie** moeten **allebei** geïnstalleerd zijn! 
 > 
 > {.is-warning}
 
