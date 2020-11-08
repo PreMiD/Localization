@@ -56,7 +56,7 @@
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Presence Winkel",
+		"message": "Presence-winkel",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Troubleshooting*",
+		"message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Probleemoplossing*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
