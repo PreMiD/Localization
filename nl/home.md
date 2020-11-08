@@ -21,7 +21,7 @@ PreMiD is snel en eenvoudig te installeren. Je zou binnen een tijdje klaar moete
 
 - Zorg ervoor dat u de [systeemvereisten](/install/requirements) hebt gelezen.
 - Volg de snelle en eenvoudige [installatiehandleiding](/install).
-- [Oplossing](/troubleshooting) helpt je door oplossingen voor veelvoorkomende problemen.
+- [Probleemoplossing](/troubleshooting) leidt je door oplossingen voor veelvoorkomende problemen.
 
 # Ontwikkelaars
 
