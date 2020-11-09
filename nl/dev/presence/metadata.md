@@ -149,9 +149,9 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>versie</b>
       </td>
-      <td style="text-align:left">Versie van uw presence.</td>
+      <td style="text-align:left">Je presence-versie.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
