@@ -15,7 +15,7 @@ editor: markdown
 PreMiD werkt **niet** met de browserversie van Discord, je moet de app [hier](https://discord.com/download) downloaden.
 
 ### Gebruikt je een presence met instellingen?
-Veel presences (inclusief `Twitch` en `SoundCloud`) worden beïnvloed door een extensie probleem. Dit probleem zorgt ervoor dat de extensie de standaardwaarden van instellingen niet goed grijpt.
+Veel presences (waaronder `Twitch` en `SoundCloud`) hebben een extensieprobleem. Dit probleem houdt in dat de extensie de standaardinstellingen niet correct ophaalt.
 
 Om dit op te lossen hoef je alleen maar de bovenste instelling om te schakelen: ![presencesettings.gif](/presencesettings.gif)
 
@@ -50,8 +50,8 @@ Ik hoop dat u weet hoe u een computer opnieuw moet starten.
 Soms is er iets mis met de bestanden... Handleidingen voor de installatie kunnen [hier](/install) gevonden worden.
 
 ### Handmatige verwijdering
-Windows:    `C:\Users\USER\AppData\Roaming\`` en verwijder de map `PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD``.
+Windows:    `C:\Users\USER\AppData\Roaming\`` en verwijder de map`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`en verwijder de map`PreMiD``.
 
 ### Op Ubuntu/Debian gebaseerde distro's
 Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigeer vervolgens naar de map die je Discord gedownload hebt naar (meestal `$HOME/Downloads`), daarna het installeren van het pakket met behulp van `sudo dpkg -i discord-*. eb`.
