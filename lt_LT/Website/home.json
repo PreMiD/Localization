@@ -27,6 +27,10 @@
 		"message": "Atkūrimas",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Tiesiogiai",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Naršoma...",
 		"description": "Discord Rich Presence -> small image text;"
