@@ -7,14 +7,14 @@ tags:
 editor: markdown
 ---
 
-> Zorg ervoor dat de extensie **en** de applicatie geïnstalleerd is! 
+> Zorg ervoor dat de extensie **en** de applicatie geïnstalleerd zijn! 
 > 
 > {.is-warning}
 
 ### Gebruik je de Discord-app?
 PreMiD werkt **niet** met de browserversie van Discord, je moet de app [hier](https://discord.com/download) downloaden.
 
-### Gebruikt u een presence met instellingen?
+### Gebruikt je een presence met instellingen?
 Veel presences (inclusief `Twitch` en `SoundCloud`) worden beïnvloed door een extensie probleem. Dit probleem zorgt ervoor dat de extensie de standaardwaarden van instellingen niet goed grijpt.
 
 Om dit op te lossen hoef je alleen maar de bovenste instelling om te schakelen: ![presencesettings.gif](/presencesettings.gif)
