@@ -27,6 +27,10 @@
 		"message": "Reproducira se",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Uživo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Pregledavanje...",
 		"description": "Discord Rich Presence -> small image text;"
