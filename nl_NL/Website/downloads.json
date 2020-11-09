@@ -1,6 +1,6 @@
 {
   "downloads.header.title": {
-    "message": "Tijd om te gaan opscheppen.",
+    "message": "Tijd om te stralen.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
@@ -100,7 +100,7 @@
     "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
   },
   "downloads.button.skip": {
-    "message": "Sla over",
+    "message": "Verder",
     "description": "Skip button on the ads section"
   },
   "downloads.button.back": {
@@ -108,7 +108,7 @@
     "description": "Back button on the ads section"
   },
   "downloads.button.cancel": {
-    "message": "Annuleren",
+    "message": "Annuleer",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.okay": {
@@ -128,7 +128,7 @@
     "description": "Title of the advertisement section box."
   },
   "downloads.adsbox.thankyou.message": {
-    "message": "We gebruiken advertenties om ons team te ondersteunen en onze servers te onderhouden om je de beste gebruikerservaring te bieden!",
+    "message": "Advertenties helpen ons team en zorgen ervoor dat onze servers soepel blijven draaien, zodat jij de beste gebruikerservaring krijgt!",
     "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
