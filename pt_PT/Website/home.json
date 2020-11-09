@@ -27,6 +27,10 @@
 		"message": "A tocar",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Em direto",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "A procurar...",
 		"description": "Discord Rich Presence -> small image text;"

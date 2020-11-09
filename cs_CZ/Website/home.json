@@ -27,6 +27,10 @@
 		"message": "Přehrává",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Živě",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Prochází...",
 		"description": "Discord Rich Presence -> small image text;"

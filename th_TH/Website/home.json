@@ -27,6 +27,10 @@
 		"message": "กำลังเล่น",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "ไลฟ์",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "กำลังหา...",
 		"description": "Discord Rich Presence -> small image text;"

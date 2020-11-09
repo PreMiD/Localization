@@ -27,6 +27,10 @@
 		"message": "درحال پخش",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "زنده",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "مرور کردن...",
 		"description": "Discord Rich Presence -> small image text;"

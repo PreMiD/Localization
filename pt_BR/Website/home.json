@@ -27,6 +27,10 @@
 		"message": "Reproduzindo",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Ao vivo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Navegando...",
 		"description": "Discord Rich Presence -> small image text;"

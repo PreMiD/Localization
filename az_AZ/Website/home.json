@@ -15,6 +15,10 @@
 		"message": "Oynayır",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Canlı",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Axtarış edir...",
 		"description": "Discord Rich Presence -> small image text;"

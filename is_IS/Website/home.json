@@ -27,6 +27,10 @@
 		"message": "Spila",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Útsending",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Skoðar...",
 		"description": "Discord Rich Presence -> small image text;"

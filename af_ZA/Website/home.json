@@ -27,6 +27,10 @@
 		"message": "Speel weer",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Regstreeks",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Blaai...",
 		"description": "Discord Rich Presence -> small image text;"

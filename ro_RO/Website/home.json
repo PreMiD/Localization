@@ -19,6 +19,10 @@
 		"message": "Redare",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "În direct",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Navigare...",
 		"description": "Discord Rich Presence -> small image text;"

@@ -15,6 +15,10 @@
 		"message": "Prehráva",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Naživo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Prehľadáva...",
 		"description": "Discord Rich Presence -> small image text;"
