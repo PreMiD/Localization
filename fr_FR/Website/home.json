@@ -27,6 +27,10 @@
 		"message": "Lecture",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Direct",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Recherche...",
 		"description": "Discord Rich Presence -> small image text;"
