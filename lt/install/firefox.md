@@ -17,8 +17,8 @@ Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 6. Pasirinkite failą kurį jūs nesenai atsisiuntėte.
 7. Sutikite su įdiegimo nuspausdami **Pridėti**.
 
-> Nepamirškite  pridėti ** aplikacijos </a>. </p> 
+> Nepamirškite [ pridėti ** aplikacijos **](/install). 
 > 
-> {.is-warning}</blockquote> 
-> 
-> ![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
+> {.is-warning}
+
+![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
