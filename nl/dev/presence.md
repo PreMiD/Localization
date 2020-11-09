@@ -111,7 +111,7 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ```
 
 Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in uw `metadata.json` bestand staan, als u niet van plan bent om ze te gebruiken, dan moet u ze verwijderen.
-- `contributors`
+- `bijdragers`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
@@ -139,7 +139,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b>
+      <td style="text-align:left"><b>bijdragers</b>
       </td>
       <td style="text-align:left">Moet een object bevatten met <code>naam</code> en <code>id</code> van de presence-ontwikkelaar. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
@@ -211,9 +211,9 @@ TLD staat voor Top Level Domain bijvoorbeeld: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b>
+      <td style="text-align:left"><b>versie</b>
       </td>
-      <td style="text-align:left">Versie van uw presence.</td>
+      <td style="text-align:left">Je presence-versie.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Nee</code>
