@@ -27,6 +27,10 @@
 		"message": "Відтворюється",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Наживо",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Дивиться...",
 		"description": "Discord Rich Presence -> small image text;"
