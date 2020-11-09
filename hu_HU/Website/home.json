@@ -27,6 +27,10 @@
 		"message": "Lejátszás",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Élő közvetítés",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Böngészés...",
 		"description": "Discord Rich Presence -> small image text;"
