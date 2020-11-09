@@ -27,6 +27,10 @@
 		"message": "Wordt afgespeeld",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Browsen...",
 		"description": "Discord Rich Presence -> small image text;"
