@@ -11,18 +11,6 @@
 		"message": "Choose your **colour**",
 		"description": "Product colours"
 	},
-	"merch.red": {
-		"message": "Red",
-		"description": "Colour Red"
-	},
-	"merch.blue": {
-		"message": "Blue",
-		"description": "Colour Blue"
-	},
-	"merch.white": {
-		"message": "White",
-		"description": "Colour White"
-	},
 	"merch.fit": {
 		"message": "Choose your **fit**",
 		"description": "Product sizes"
