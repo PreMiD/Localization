@@ -27,6 +27,10 @@
 		"message": "Phát lại",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Trực tiếp",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Đang duyệt...",
 		"description": "Discord Rich Presence -> small image text;"
