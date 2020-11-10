@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 De installatie van de applicatie is van groot belang, omdat de extensie op zichzelf niets kan doen.
 
-> Aur-gebruikers die DoomLerds pakket gebruiken moeten veilig zijn zoals hij zegt. We raden echt niet aan dit te gebruiken, maar als je wilt kun je het wel gebruiken. Dank aan DoomLerd voor het verwerken van aur-repo. 
+> Aur-gebruikers die DoomLerds pakket gebruiken moeten veilig zijn zoals hij zegt. We raden echter niet aan dit te gebruiken, maar als je wilt kun je het wel gebruiken. Dank aan DoomLerd voor het verwerken van aur-repo. 
 > 
 > {.is-warning}
 
