@@ -2,8 +2,10 @@
 title: 설치하기
 description: PreMid 설치 방법
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > 진행하기 전에, 당신의 시스템이 [요구사항](/install/requirements)을 충족하는지 확인해주세요. 
@@ -17,7 +19,7 @@ tags:
 **Choose your operating system:**
 - [Windows *7 또는 그 이상*](/install/windows)
 - [macOS *10.11 또는 그 이상.*](/install/macos)
-- [Linux *4 or above*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **Choose your browser:**
