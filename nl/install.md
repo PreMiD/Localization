@@ -2,8 +2,10 @@
 title: Installatie
 description: Hoe installeer je PreMiD
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > Voordat je verder gaat, zorg ervoor dat je systeem voldoet aan alle [vereisten](/install/requirements). 
@@ -17,7 +19,7 @@ tags:
 **Kies uw besturingssysteem:**
 - [Windows *7 of hoger*](/install/windows)
 - [macOS *10.11 of hoger*](/install/macos)
-- [Linux *4 of hoger*](/install/linux)
+- [Linux*-kernel met v2.x of hoger*](/install/linux)
 {.links-list}
 
 **Kies uw browser:**
