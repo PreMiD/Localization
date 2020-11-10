@@ -2,8 +2,10 @@
 title: Instalare
 description: Cum să instalezi PreMiD
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > Înainte să mergi mai departe, verifică dacă sistemul tău îndeplinește toate [cerințele](/install/requirements). 
@@ -17,7 +19,7 @@ tags:
 **Alege sistemul tău de operare:**
 - [Windows *7 sau mai nou*](/install/windows)
 - [macOS *10.11 sau mai nou*](/install/macos)
-- [Linux *4 sau mai nou*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **Alege browser-ul tău:**
