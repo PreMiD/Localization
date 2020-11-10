@@ -2,13 +2,17 @@
 title: Linux
 description: Per iniziare con un'installazione di PreMiD su Linux
 published: vero
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> Attivare/disattivare l'avvio automatico su Linux è ora disponibile dall'app invece che dall'estensione.{.is-warning}
-
 L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
+
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> 
+> {.is-warning}
 
 ## Pagina dei Contenuti
 
@@ -22,17 +26,12 @@ L'installazione dell'applicazione è molto importante, poiché l'estensione non 
   - [Crediti](#credits)
   - [Licenze](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _M A I_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_RACCOMANDATO_)
-  - [Istruzioni per Installare](#installation-instructions)
-  - [Note aggiuntive](#additional-notes)
-- **Distribuzioni basate su Red Hat Enterprise Linux (RHEL)** (presto, utilizza [questo](#portable-appimage) per ora)
-- **Distribuzioni basate su Red Hat Enterprise Linux (Rhel)** (presto, utilizza [questo](#portable-appimage) per ora)
-- **[Distribuzioni basate su Arch Linux](#arch-linux-based-distributions)**
-  - [Istruzioni per Installare](#installation-instructions-1)
-  - [Note aggiuntive](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [Istruzioni per Installare](#installation-instructions-2)
-  - [Note aggiuntive](#additional-notes-2)
+- **[Portable AppImage](#appimage)** (_RACCOMANDATO_)
+  - [Istruzioni per Installare](#appimageinstall)
+  - [Note aggiuntive](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Distribuzioni basate su Debian e Ubuntu**](#packagecloud)
+- [**Distribuzioni basate su Arch Linux**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ Non è noto se le vecchie versioni di altre distribuzioni lo supportano, quindi 
 ### Supporto
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Unisciti al nostro Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Unisciti al nostro Discord!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Unisciti al nostro Discord!">
   </a>
 </div>
@@ -100,13 +99,6 @@ Grazie mille a:
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Probabilmente non lo vedremo mai visto che per come è fatto Snap, va a bloccare automaticamente ogni contatto che PreMiD cerca di fare con Discord e con l'estenzione.,</br> Se qualcuno sa come farlo funzionare o ha qualche idea geniale, è benvenuto!</br> P.S il confinimento classico non funziona.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
 ## Portable AppImage
 
 AppImage package è raccomandato se Discord funziona MA pacchetti di PreMiD (.deb, .rpm etc...) non vanno.
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Se vuoi provare PreMiD o semplicemente non vuoi installarlo, questo è il meglio, è sempre aggiornato ma _NON FARLO PARTIRE CON IL SISTEMA!</br>Se sei stanco di doverlo aprire ogni volta, usa gli altri pacchetti (secondo la tua distribuzione).
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+
+For **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+For **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Distribuzioni basate su Arch Linux
 
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Anche altri helper AUR/Pacman funzionano, anche se ogni funzionalità è diversa, quindi potresti  riscontrare dei problemi durante l'utilizzo.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Lo stesso vale per le sue derivate, come ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [ecc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
-
-<a name="gentooinstall"></a>
-
-### Istruzioni per Installare
-
-```bash
-# Aggiungi la sovrapposizione usando lo strato
-layman -S && layman -a apriluwu
-```
-
-```bash
-# Installa tramite portage
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### Note aggiuntive
-
-Il comando di installazione mostrato utilizza layman, si trova nei repository ufficiali attraverso `app-portage/layman`.<br> Per ottenere gli aggiornamenti dovrai sincronizzare di tanto in tanto la sovrapposizione con cui puoi farlo
-
-```bash
-layman -S
-```

@@ -2,8 +2,10 @@
 title: 安装
 description: 如何安装PremiD
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > 在继续操作之前，请确保您的系统符合所有 [的要求](/install/requirements)。 
@@ -17,7 +19,7 @@ tags:
 **选择您的操作系统：**
 - [Windows *7 或更高*](/install/windows)
 - [macOS *10.11 或更高*](/install/macos)
-- [Linux *4 或更高*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **选择您的浏览器：**

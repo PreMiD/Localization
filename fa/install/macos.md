@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+نصب برنامه خیلی مهم است زیرا افزونه نمی تواند به تنهایی کاری انجام دهد.
 
 # نصب
 1. از طریق [این لینک](https://premid.app/downloads) به صفحه دانلود بروید.

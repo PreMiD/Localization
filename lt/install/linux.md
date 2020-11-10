@@ -2,13 +2,17 @@
 title: Linux
 description: Pradžia su PreMiD diegimu Linux operacinėje sistemoje
 published: true
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> Įjungiamas automatiškas paleidimas Linux operacinėje sistemoje yra nuo šiol galimas paspaudus ant programėles vietoj naršyklės plėtinio{.is-warning}
-
 Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padaryti.
+
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> 
+> {.is-warning}
 
 ## Turinys
 
@@ -22,17 +26,12 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
   - [Padėkos](#credits)
   - [Licencija](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _niekada_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_SIŪLOMA_)
-  - [Diegimo instrukcija](#installation-instructions)
-  - [Papildomos pastabos](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (jau greitai, naudokite [šitai](#portable-appimage) kolkas)
-- **Debian and Ubuntu based distributions** (jau greitai, naudokite [šitai](#portable-appimage) pakolkas)
-- **[Arch Linux distribucijos](#arch-linux-based-distributions)**
-  - [Diegimo instrukcija](#installation-instructions-1)
-  - [Papildomos pastabos](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [Diegimo instrukcija](#installation-instructions-2)
-  - [Papildomos pastabos](#additional-notes-2)
+- **[Portable AppImage](#appimage)** (_SIŪLOMA_)
+  - [Diegimo instrukcija](#appimageinstall)
+  - [Papildomos pastabos](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Arch Linux distribucijos**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ Yra nežinoma ar senesnė versija kitų distribucijų palaiko tai, tai tiesiog p
 ### Pagalba
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Prisidėkite prie mūsų Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Prisidėkite prie mūsų Discord!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Prisidėkite prie mūsų Discord!">
   </a>
 </div>
@@ -100,13 +99,6 @@ Ačiū šiems asmenims :
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Tikriausiai niekada, kadangi Snap iš prigimties blokuoja PreMiD nuo to, jo pasiektų Discord ir jos papildinius tinkamai,</br> Būtų malonu jeigu kas nors galėtų tai atlikti, visos įdėjos ar PR (pull request) yra laukiami.</br> P.S.: klasikiniai apribojimai neveikia taipogi, tad nesivarginkite rašydami pasiūlymą apie tai.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
 ## Portatyvus Applmage
 
 Applmage komplektas (package) yra rekomenduojamas jeigu Discord veikia jums, bet kiti PreMiD komplektai (.deb, .rpm, etc) neveikia.
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Jeigu jūs norite išbandyti PreMiD ar jūs nenorite jos instaliuoti, ši yra geriausia, ji visada yra atnaujinama, bet _AUTOMATIŠKAI NĖRA PALEIDŽIAMA SU OPERACINE SISTEMA!_</br>Jeigu jums nusibodo kiekvieną kartą ją įjunginėti, naudokite kitą komplektą (package) (atitinkantį jūsų distribuciją).
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+
+For **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+For **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Arch Linux distribucijos
 
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Kiti AUR/Pacman pagalbininkai veikia taipogi, bet kiekvienos funkcionalumas yra skirtingas, tad jūs galite susidurti su sunkumais juos naudojant.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Tai pat taikoma ir jos pakaitiniams, tokiems kaip: ColverOS, Clip-OS, Sabayon, Bicom Systems, PBXware, [t.t.](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
-
-<a name="gentooinstall"></a>
-
-### Diegimo instrukcija
-
-```bash
-# Pridėti apdangą naudojant layman
-layman -S && layman -a apriluwu
-```
-
-```bash
-# Įdiegti naudojant portage
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### Papildomos pastabos
-
-Rodoma įdiegimo komandą naudoja layman, ji yra oficialioje bibliotekoje per `app-portage/layman`.<br> Jog gauti atnaujinimus jūs turite susinchronizuoti apdangą kartas nuo karto, jūs tai galite padaryti su
-
-```bash
-layman -S
-```

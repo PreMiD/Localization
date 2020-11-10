@@ -2,8 +2,10 @@
 title: インストール
 description: PreMiDをインストールする方法
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > ダウンロードする前に、お使いのPCが[必要条件](/install/requirements)を満たしているか確認してください。 
@@ -17,7 +19,7 @@ tags:
 **OSを選ぶ:**
 - [Windows * 7かそれ以上 *](/install/windows)
 - [macOS * 10.11 かそれ以上 *](/install/macos)
-- [Linux *4 かそれ以上*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **ブラウザを選ぶ:**

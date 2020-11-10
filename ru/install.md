@@ -2,8 +2,10 @@
 title: Установка
 description: Как установить PreMiD
 published: true
-date: 12 февраля 2020г. 22:05:12
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements). 
@@ -17,7 +19,7 @@ tags:
 **Выберите вашу операционную систему:**
 - [Windows *7 или выше*](/install/windows)
 - [macOS *10.11 или выше*](/install/macos)
-- [Linux *4 или выше*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **Выберите ваш браузер:**

@@ -2,13 +2,17 @@
 title: Linux
 description: Linux'ta PreMiD kurulumuna başlarken
 published: true
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> Linux'ta otomatik başlatma seçeneği artık eklenti yerine uygulama üzerindedir.{.is-warning}
-
 Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
+
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> 
+> {.is-warning}
 
 ## İçindekiler
 
@@ -22,17 +26,12 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
   - [Katkıda Bulunanlar](#credits)
   - [Lisans](#license)
 - **[Snapcraft](#snapcraft)** (kısacası: _asla_™️)
-- **[Taşınabilir AppImage](#portable-appimage)** (_ÖNERİLİR_)
-  - [Kurulum Talimatları](#installation-instructions)
-  - [Ek notlar](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) tabanlı dağıtımlar** (yakında, şimdilik [bunu](#portable-appimage) kullanın)
-- **Debian and Ubuntu tabanlı dağıtımlar** (yakında, şimdilik [bunu](#portable-appimage) kullanın)
-- **[Arch Linux tabanlı dağıtımlar](#arch-linux-based-distributions)**
-  - [Kurulum Talimatları](#installation-instructions-1)
-  - [Ek notlar](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [Kurulum Talimatları](#installation-instructions-2)
-  - [Ek notlar](#additional-notes-2)
+- **[Taşınabilir AppImage](#appimage)** (_ÖNERİLİR_)
+  - [Kurulum Talimatları](#appimageinstall)
+  - [Ek notlar](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Arch Linux tabanlı dağıtımlar**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ Diğer dağıtımların eski sürümlerinin destekleyip desteklemediği bilinmem
 ### Destek
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Discord'umuza katıl!">
+  <a target="_blank" href="https://discord.premid.app/" title="Discord'umuza katıl!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Discord'umuza katıl!">
   </a>
 </div>
@@ -100,14 +99,7 @@ Teşekkürler:
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Snap'in yapısı PreMiD'e ve eklentiye düzgün bir şekilde erişimini engellediği için, muhtemelen asla,</br> Yine de, biri yapabilirse minnettar oluruz. Herhangi bir fikir veya pull request'e açığız.</br> Not: Ayrıca "classic confinement" işe yaramıyor, o yüzden bu konuda bir öneri yazmak için uğraşmayın.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
-## Taşınabilir AppImage
+## Portable AppImage
 
 AppImage paketi eğer Discord uygulamanız çalışıyor, ama diğer PreMiD paketleri (.deb, .rpm, vb.) çalışmıyorsa önerilir.
 
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek en iyisi, ayrıca her zaman güncel ama _SİSTEM AÇILINCA OTOMATİK BAŞLAMIYOR!_</br>Eğer her başlangıçta çalıştırmaktan yorulduysanız, (dağıtımınıza göre) diğer paketleri kullanın.
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+
+For **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+For **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Arch Linux tabanlı dağıtımlar
 
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Diğer AUR/Pacman yardımcıları da işinize yarayabilir ancak hepsinin farklı çalışma biçimi olduğundan dolayı sizin için hangisi çalışırsa onu kullanabilirsiniz.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Bu, ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware [gibi](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects) dağıtımları için de geçerlidir.
-
-<a name="gentooinstall"></a>
-
-### Kurulum Talimatları
-
-```bash
-# layman kullanarak overlay'i yükleyin
-layman -S && layman -a apriluwu
-```
-
-```bash
-# portage ile yükleyin
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### Ek notlar
-
-Gösterilen yükleme komutu layman kullanır, resmi depolarda `app-portage/layman` belirtilir.<br> Güncellemeleri almak için aralıklarla senronize etmelisiniz, bunu yapmak için ise şu kodu kullanabilirsiniz
-
-```bash
-layman -S
-```

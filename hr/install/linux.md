@@ -2,13 +2,17 @@
 title: Linux
 description: Prvi koraci s PreMiD instalacijom na Linux-u
 published: true
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> Uključivanje auto-launch-a na Linux-u se sad može i iz programa umjesto proširenja.{.is-warning}
-
 Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
+
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> 
+> {.is-warning}
 
 ## Tablica sadržaja
 
@@ -22,17 +26,12 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
   - [Zasluge](#credits)
   - [Licenca](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR :_nikad_™️)
-- **[Prijenosni AppImage](#portable-appimage)** (_PREPORUČENO_)
-  - [Upute za instalaciju](#installation-instructions)
-  - [Dodatne napomene](#additional-notes)
-- **Distribucije bazirane na Red Hat Enterprise Linux-u (RHEL) ** (uskoro, koristi [ovo](#portable-appimage) za sada)
-- **Distribucije bazirane na Debian-u i Ubuntu-u** (uskoro, koristi [ovo](#portable-appimage) za sada)
-- **[Distribucije bazirane na Arch Linux-u](#arch-linux-based-distributions)**
-  - [Upute za instalaciju](#installation-instructions-1)
-  - [Dodatne napomene](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [Upute za instalaciju](#installation-instructions-2)
-  - [Dodatne napomene](#additional-notes-2)
+- **[Prijenosni AppImage](#appimage)** (_PREPORUČENO_)
+  - [Upute za instalaciju](#appimageinstall)
+  - [Dodatne napomene](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Distribucije bazirane na Arch Linux-u**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ Nije poznato podržavaju li ga starije verzije drugih distribucija, pa samo ažu
 ### Podrška
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Pridružite se našem Discord-u!">
+  <a target="_blank" href="https://discord.premid.app/" title="Pridružite se našem Discord-u!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Pridružite se našem Discord-u!">
   </a>
 </div>
@@ -100,13 +99,6 @@ Hvala:
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Najvjerojatnije nikad, pošto Snap blokira PreMiD-a od pristupanja Discord-a i proširenja,</br>Bilo bi cijenjeno ako bi netko moga ipak učiniti, bilo koja ideje PR-ova su dobrodošle.</br>P.S.: klasični confinement isto ne radi, pa se nemojte mučiti da dajte prijedloge o tome.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
 ## Prijenosni AppImage
 
 AppImage paket je preporučen ako Discord radi za tebe, ali drugi PreMiD paketi (.deb, .rpm, itd) ne.
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Ako samo želite pokušati PreMiD ili ga samo ne želiš instalirati, ovaj je najboljim uvijek je ažuriran ali _SE NE AUTO-START-A SA SISTEMOM! _</br>Ako se umoriš od potrebe da ga otvoriš svaki put, upotrijebite ostale pakete (prema tvojoj distribuciji).
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+
+For **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+For **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Distribucije bazirane na Arch Linux-u
 
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Drugi AUR/Pacman helperi isto rade, ali svaki funkcionira malo drugačije pa možda <br> naiđeš na neki problem.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Isto se odnosi i na njegove derivate, kao što su ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [ itd. ](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
-
-<a name="gentooinstall"></a>
-
-### Upute za instalaciju
-
-```bash
-# Dodaj overlay koristeći layman-a
-layman -S && layman -a apriluwu
-```
-
-```bash
-# Instaliraj uz pomoć portage-a
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### Dodatne napomene
-
-Prikazana komanda za instalaciju koristi layman, nalazi se u službenim repository-ju <br> ` app-portage / laika `. <br> Da bi dobio ažuriranja, morat ćeš s vremena na vrijeme sinkronizirati overlay, što možeš sa:
-
-```bash
-layman -S
-```

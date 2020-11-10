@@ -2,8 +2,10 @@
 title: Instalace
 description: Jak nainstalovat PreMiD
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements). 
@@ -17,7 +19,7 @@ tags:
 **Vyberte operační systém:**
 - [Windows *7 nebo vyšší*](/install/windows)
 - [macOS *10.11 nebo vyšší*](/install/macos)
-- [Linux *4 nebo vyšší*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **Vyberte svůj prohlížeč:**

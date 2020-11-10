@@ -2,13 +2,17 @@
 title: Linux
 description: เริ่มต้นใช้งาน PreMiD การติดตั้งบน PreMiD
 published: true
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> กำลังสลับการเปิดใช้งานอัตโนมัติใน Linux พร้อมให้บริการแล้วจากเเอพเเทนส่วนขยาย {.is-warning}
-
 การติดตั้งแอพพลิเคชั่นนั้นสำคัญมากเพราะส่วนขยายไม่สามารถทำอะไรได้เอง
+
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> 
+> {.is-warning}
 
 ## สารบัญ
 
@@ -22,17 +26,12 @@ tags:
   - [เครดิต](#credits)
   - [ใบอนุญาต](#license)
 - **[Snapcraft](#snapcraft)** (_อย่าอ่านมันเลย มันยาวเกินไป_)
-- **[AppImage](#portable-appimage)** (_เเนะนํา_)
-  - [วิธีการติดตั้ง](#installation-instructions)
-  - [หมายเหตุเพิ่มเติม:](#additional-notes)
-- ** Linux (RHEL)** (เร็วๆนี้, ใช้ [ สําหรับตอนนี้ไปก่อน](#portable-appimage))
-- **Debian เเละ Ubuntu ** (เร็วๆนี้, ใช้ [ สําหรับตอนนี้ไปก่อน](#portable-appimage))
-- **[Arch Linux](#arch-linux-based-distributions)**
-  - [วิธีการติดตั้ง](#installation-instructions-1)
-  - [หมายเหตุเพิ่มเติม:](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [วิธีการติดตั้ง](#installation-instructions-2)
-  - [หมายเหตุเพิ่มเติม:](#additional-notes-2)
+- **[AppImage](#appimage)** (_เเนะนํา_)
+  - [วิธีการติดตั้ง](#appimageinstall)
+  - [หมายเหตุเพิ่มเติม:](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Arch Linux**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ It is unknown whether older versions of other distributions support it, so just 
 ### สนับสนุน
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="เข้าร่วม Discord ของเรา!">
+  <a target="_blank" href="https://discord.premid.app/" title="เข้าร่วม Discord ของเรา!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="เข้าร่วม Discord ของเรา!">
   </a>
 </div>
@@ -100,13 +99,6 @@ It is unknown whether older versions of other distributions support it, so just 
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Probably never, since Snap's nature blocks PreMiD from reaching Discord and the extension properly,</br> It would be appreciated if someone could do it though, any ideas or PRs are welcome.</br> P.S.: classic confinement doesn't work either so don't bother making a suggestion about it.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
 ## Portable AppImage
 
 The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+
+For **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+For **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Arch Linux
 
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Same applies to its derivatives, such as ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
-
-<a name="gentooinstall"></a>
-
-### วิธีการติดตั้ง
-
-```bash
-# Add the overlay using layman
-layman -S && layman -a apriluwu
-```
-
-```bash
-# Install via portage
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### หมายเหตุเพิ่มเติม:
-
-The shown install command uses layman, it is in the official repositories through `app-portage/layman`.<br> To get updates you will have to sync the overlay from time to time, you can do this with
-
-```bash
-layman -S
-```
