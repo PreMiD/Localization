@@ -2,13 +2,17 @@
 title: Linux
 description: Memulai dengan instalasi PreMiD pada Linux
 published: true
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> Menyalakan auto-launch pada linux sekarang tersedia pada aplikasi bukan pada ekstensi.{.is-warning}
-
 Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
+
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> 
+> {.is-warning}
 
 ## Daftar Isi
 
@@ -22,17 +26,12 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
   - [Kredit](#credits)
   - [Lisensi](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_DIANJURKAN_)
-  - [Petunjuk instalasi](#installation-instructions)
-  - [Catatan tambahan](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) based distributions** (segera, gunakan [ini](#portable-appimage) sementara)
-- **Debian and Ubuntu based distributions** (segera, gunakan [ini](#portable-appimage) sementara)
-- **[Arch Linux based distributions](#arch-linux-based-distributions)**
-  - [Petunjuk instalasi](#installation-instructions-1)
-  - [Catatan tambahan](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [Petunjuk instalasi](#installation-instructions-2)
-  - [Catatan tambahan](#additional-notes-2)
+- **[Portable AppImage](#appimage)** (_DIANJURKAN_)
+  - [Petunjuk instalasi](#appimageinstall)
+  - [Catatan tambahan](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Arch Linux based distributions**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ Masih belum diketahui apakah versi lama dari distribution lain mendukungnya, jad
 ### Bantuan
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Gabung ke Discord kami!">
+  <a target="_blank" href="https://discord.premid.app/" title="Gabung ke Discord kami!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Gabung ke Discord kami!">
   </a>
 </div>
@@ -100,13 +99,6 @@ Thanks to :
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Mungkin tidak pernah, sejak sifat Snap yang menghalangi PreMiD untuk menghubungi Discord atau ekstensi dengan tepat,</br> Akan sangat dihargai jika seseorang dapat melakuknannya, ide atau PR apapun dipersilahkan.</br> P.S.: classic confinement tidak berhasil jadi tidak usah membuat saran tentang itu.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
 ## Portable AppImage
 
 Paket AppImage sangat disarankan jika Discord bisa bekerja tapi paket PreMiD lainnya tidak (.deb, .rpm, etc).
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Antara anda ingin mencoba PreMiD atau tidak ingin menginstalnya, ini salah satu cara terbaik, selalu up to date tapi _TIDAK MULAI BERSAMA SISTEM!_</br>Jika anda lelah dengan harus membukanya setiap waktu, gunakan paket lain (berdasar disttribution anda).
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+
+For **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+For **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Arch Linux based distributions
 
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Helper AUR/Pacman lain juga bisa digunakan, tapi fungsi masing-masing berbeda jadi anda mungkin bisa menghadapi masalah saat menggunakannya.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Hal sama juga berlaku pada turunannya, seperti ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [dll](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
-
-<a name="gentooinstall"></a>
-
-### Petunjuk instalasi
-
-```bash
-# tambahkan overlay menggunakan layman
-layman -S && layman -a apriluwu
-```
-
-```bash
-# Instal via portage
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### Catatan tambahan
-
-Instalasi yang ditampilkan menggunakan layman, tersedia di repositories resmi melalui `app-portage/layman`.<br> Untuk mendapatkan update anda harus mensinkron overlay dari waktu ke waktu, bisa dilakukan dengan
-
-```bash
-layman -S
-```
