@@ -2,8 +2,10 @@
 title: Yükleme
 description: PreMiD nasıl yüklenir
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > İlerlemeden önce sisteminizin tüm gereksinimleri karşıladığından emin olun. 
@@ -17,7 +19,7 @@ tags:
 **Kullandığınız işletim sistemini seçin:**
 - [Windows *7 veya üstü*](/install/windows)
 - [macOS *10.11 veya üstü*](/install/macos)
-- [Linux *4 veya üstü*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **Kullandığınız tarayıcıyı seçin:**
