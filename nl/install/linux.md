@@ -2,13 +2,17 @@
 title: Linux
 description: Aan de slag met de PreMiD installatie op Linux
 published: true
-date: 2020-04-27T12:52:46.261Z
+date: 2020-11-10T18:06:56.520Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-> Automatisch opstarten is nu beschikbaar in de app in plaats van de extensie.{.is-warning}
-
 De installatie van de applicatie is van groot belang, omdat de extensie op zichzelf niets kan doen.
+
+> Aur-gebruikers die DoomLerds pakket gebruiken moeten veilig zijn zoals hij zegt. We raden niet aan dit te gebruiken, maar als je wilt kun je het wel gebruiken. Dank aan DoomLerd voor het verwerken van aur-repo. 
+> 
+> {.is-warning}
 
 ## Inhoudsopgave
 
@@ -22,17 +26,12 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
   - [Credits](#credits)
   - [Licentie](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#portable-appimage)** (_AANBEVOLEN_)
-  - [Installatie instructies](#installation-instructions)
-  - [Aanvullende notities](#additional-notes)
-- **Red Hat Enterprise Linux (RHEL) gebaseerde distributies** (binnenkort, gebruik [deze](#portable-appimage) voor nu)
-- **Debian en Ubuntu gebaseerde distributies** (binnenkort, gebruik [deze](#portable-appimage) voor nu)
-- **[Arch Linux gebaseerde distributies](#arch-linux-based-distributions)**
-  - [Installatie instructies](#installation-instructions-1)
-  - [Aanvullende notities](#additional-notes-1)
-- **[Gentoo Linux](#gentoo-linux)**
-  - [Installatie instructies](#installation-instructions-2)
-  - [Aanvullende notities](#additional-notes-2)
+- **[Portable AppImage](#appimage)** (_AANBEVOLEN_)
+  - [Installatie instructies](#appimageinstall)
+  - [Aanvullende notities](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL)-gebaseerde distributies**](#packagecloud)
+- [**Debian- en Ubuntu-gebaseerde distributies**](#packagecloud)
+- [**Arch Linux gebaseerde distributies**](#arch)
 
 <a name="about"></a>
 
@@ -74,7 +73,7 @@ Het is niet bekend of oudere versies van andere distributies het ondersteunen, d
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.gg/WvfVZ8T" title="Word lid van onze Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Word lid van onze Discord!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Word lid van onze Discord!">
   </a>
 </div>
@@ -100,13 +99,6 @@ Met dank aan:
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Snapcraft
-
-Waarschijnlijk nooit, omdat Snap's natuur verhindert dat PreMiD, Discord en de extensie goed kan bereiken</br> Het zou worden gewaardeerd als iemand het kon doen, maar alle ideeën en PRs zijn welkom.</br> P.S: klassieke opsluiting werkt ook niet, dus maak er geen bezwaar tegen.
-
-<img src="https://i.imgur.com/qEZOOfU.png" width="100" height="100" align="right"></img>
-<a name="appimage"></a>
-
 ## Portable AppImage
 
 Het AppImage pakket is aanbevolen als Discord voor je werkt maar andere PreMiD pakketten (.deb, .rpm, etc) niet.
@@ -130,8 +122,29 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 Ofwel als u PreMiD wilt proberen of wilt u het niet installeren, dit is de beste, het is altijd up to date maar _START NIET AUTOMATISCH MET HET SYSTEEM!_</br>Als je het moe wordt om het elke keer te moeten openen, gebruik dan de andere pakketten (volgens jouw distributie).
 
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
+<a name="packagecloud"></a>
+
+# PackageCloud
+
+We hebben deb-/rpm-pakketten vrijgegeven op onze packagecloud-repo. Neem een kijkje op https://packagecloud.io/PreMiD/Linux en download je deb-/rpm-pakket of gebruik automatisch script.
+
+Voor **Ubuntu/Debian**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+```
+
+Voor **Fedora/CentOS/RedHat**:
+
+```bash
+curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
+```
+
+Als het commando niet werkt, download dan het **deb-/rpm-**bestand van onze packagecloud-repo of overschrijf instellingen.
+
 <a name="arch"></a>
-<img src="https://i.imgur.com/NBevNlU.png" width="100" height="100" align="right"></img>
+<img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
 ## Arch Linux gebaseerde distributies
 
@@ -171,7 +184,7 @@ of handmatig vanuit de [Arch User Repository](https://aur.archlinux.org/packages
 
 ### Aanvullende notities
 
-Als je distro pacman gebruikt, dan moet je eerst een van de helpers installeren. Als je er geen hebt, wordt Yay aangeraden, voer uit :
+Als je distro pacman gebruikt, dan moet je eerst een van de helpers installeren. Als je er geen hebt, wordt Yay aangeraden. Voer uit:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -182,34 +195,3 @@ yay -S premid
 ```
 
 Andere AUR/Pacman helpers werken ook, hoewel ieders functionaliteit anders is waardoor je problemen kunt ondervinden tijdens het gebruik ervan.
-
-<img src="https://i.imgur.com/Kv1X2to.png" width="100" height="100" align="right"></img>
-<a name="gentoo"></a>
-
-## Gentoo Linux
-
-Hetzelfde geldt voor de derivaten, zoals ColverOS, Clip-OS, Sabayon, Bicom Systems PBXware, [etc](https://wiki.gentoo.org/wiki/Distributions_based_on_Gentoo#Active_projects).
-
-<a name="gentooinstall"></a>
-
-### Installatie instructies
-
-```bash
-# Voeg de overlay toe met behulp van layman
-layman -S && layman -a apriluwu
-```
-
-```bash
-# Installeren via portage
-emerge -av app-misc/premid
-```
-
-<a name="gentoonotes"></a>
-
-### Aanvullende notities
-
-Het getoonde installatiecommando gebruikt layman, het is in de officiële repositories via `app-portage/layman`.<br> Om updates te krijgen moet je af en toe de overlay synchroniseren, kun je dit doen met
-
-```bash
-layman -S
-```
