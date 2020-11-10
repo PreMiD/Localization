@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 De installatie van de applicatie is van groot belang, omdat de extensie op zichzelf niets kan doen.
 
-> Aur-gebruikers die DoomLerds pakket gebruiken moeten veilig zijn zoals hij zegt. We raden niet aan dit te gebruiken, maar als je wilt kun je het wel gebruiken. Dank aan DoomLerd voor het verwerken van aur-repo. 
+> Aur-gebruikers die DoomLerds pakket gebruiken moeten veilig zijn zoals hij zegt. We raden echt niet aan dit te gebruiken, maar als je wilt kun je het wel gebruiken. Dank aan DoomLerd voor het verwerken van aur-repo. 
 > 
 > {.is-warning}
 
@@ -127,7 +127,7 @@ Ofwel als u PreMiD wilt proberen of wilt u het niet installeren, dit is de beste
 
 # PackageCloud
 
-We hebben deb-/rpm-pakketten vrijgegeven op onze packagecloud-repo. Neem een kijkje op https://packagecloud.io/PreMiD/Linux en download je deb-/rpm-pakket of gebruik automatisch script.
+We hebben deb-/rpm-pakketten uitgebracht op onze packagecloud-repo. Neem een kijkje op https://packagecloud.io/PreMiD/Linux en download je deb-/rpm-pakket of gebruik een automatisch script.
 
 Voor **Ubuntu/Debian**:
 
