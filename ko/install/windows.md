@@ -8,7 +8,7 @@ tags:
 
 > Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+애플리케이션만으로는 아무것도 할 수 없기에 확장 프로그램 설치가 매우 중요합니다.
 
 # 설치
 1. [이곳](https://premid.app/downloads) 을 눌러 다운로드 하세요!
