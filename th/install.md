@@ -2,8 +2,10 @@
 title: การติดตั้ง
 description: วิธีติดตั้ง PreMiD
 published: true
-date: 2020-02-12T22:05:12.168Z
+date: 2020-11-10T17:54:28.896Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
 > ก่อนดำเนินการใด ๆ เพิ่มเติมตรวจสอบให้แน่ใจว่าระบบของคุณตรงตาม [เงื่อนไข](/install/requirements) ไหม 
@@ -17,7 +19,7 @@ tags:
 **เลือกระบบปฏิบัติการของคุณ:**
 - [Windows *7 หรือ สูงกว่า*](/install/windows)
 - [macOS *10.11 หรือ สูงกว่า*](/install/macos)
-- [Linux *4 หรือ สูงกว่า*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **เลือกเว็บบราวเซอร์ของคุณ:**
