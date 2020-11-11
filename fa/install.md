@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **سیستم عامل خود را انتخاب کنید:**
 - [Windows *7 یا بالاتر*](/install/windows)
 - [macOS *10.11 یا بالاتر*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [لینوکس *کرنل v2.x یا بالاتر*](/install/linux)
 {.links-list}
 
 **مرورگر خود را انتخاب کنید:**
