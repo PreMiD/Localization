@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
 
-> Les utilisateurs d'Aur qui se servent du paquet de DoomLert devraient être sûrs comme il le dit. Nous ne recommandons pas de l'utiliser, mais si vous le souhaitez, vous pouvez toujours l'utiliser. Thanks to DoomLerd for handling aur repo still. 
+> Les utilisateurs d'Aur qui se servent du paquet de DoomLert devraient être sûrs comme il le dit. Nous ne recommandons pas de l'utiliser, mais si vous le souhaitez, vous pouvez toujours l'utiliser. Merci à DoomLerd de toujours s'occuper du dépôt aur. 
 > 
 > {.is-warning}
 
@@ -29,8 +29,8 @@ L'installation de l'application est très importante car l'extension ne peut rie
 - **[AppImage Portable](#appimage)** (_CONSEILLÉ_)
   - [Instructions d'installation](#appimageinstall)
   - [Notes complémentaires](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Distributions basées sur Red Hat Enterprise Linux (RHEL)**](#packagecloud)
+- [**Distributions basées sur Debian et Ubuntu**](#packagecloud)
 - [**Distributions basées sur Arch Linux**](#arch)
 
 <a name="about"></a>
@@ -127,21 +127,21 @@ Si vous voulez essayer PreMiD ou simplement ne voulez pas l'installer, c'est la 
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Nous avons publié des paquets deb/rpm sur notre dépôt packagecloud. Rendez-vous sur https://packagecloud.io/PreMiD/Linux et téléchargez votre paquet deb/rpm ou utilisez un script automatique.
 
-For **Ubuntu/Debian**:
+Pour **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+Pour **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+Si la commande ne fonctionne pas, téléchargez le fichier **deb/rpm** depuis notre dépôt packagecloud ou remplacez les paramètres.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
