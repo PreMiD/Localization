@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Pekongsi",
+		"description": "Heading for page."
+	},
 	"partners.apply.select.other": {
 		"message": "Lain-lain",
 		"description": "Select 'Other' category."

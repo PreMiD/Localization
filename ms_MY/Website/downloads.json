@@ -38,5 +38,53 @@
   "downloads.button.done": {
     "message": "Selesai",
     "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "Log masuk",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Terima kasih!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Kami guna iklan untuk menyokong pasukan kami dan kekalkan pelayan kami untuk berikan pengalaman terbaik kepada anda!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Sila lumpuhkan penyekat iklan anda.",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Saya tak nak sokong.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Anda pasti?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Betul ni?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "T-tolonglah sokong :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Saya perlukan awak :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Baik, baik...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Tunjuk muat turun beta",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(tidak diperlukan jika anda berada di sini hanya untuk muat turun aplikasi biasa)",
+    "description": "Small text under the show beta title."
   }
 }
