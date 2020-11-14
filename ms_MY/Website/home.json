@@ -1,4 +1,12 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunjukkan apa anda buat di sesawang ke dalam status main di Discord anda.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Ciri-ciri",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Muat Turun",
 		"description": "Downloads button -> redirects to /downloads page"
