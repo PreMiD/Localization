@@ -99,6 +99,66 @@
 		"message": "Arena of Kings ialah Permainan Arena PvP berkelajuan tinggi generasi seterusnya yang dimainkan dalam pelayar.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat ialah radio antarabangsa bukan untung yang berusaha untuk menyediakan hiburan radio dan berita yang berkualiti.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Platform penjanaan untuk para pemain.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio ialah radio maklumat hibur paling berjaya untuk permainan penyelakuan di Jerman, Austria dan Switzerland!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Dapatkan apa yang patut diberikan kepada anda. Strim Anime, Filem, Hentai, Tayangan Istimewa dan banyak lagi. Percuma, tanpa sebarang iklan dan dalam definisi tinggi!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Mula cipta komuniti anda sendiri dengan templat kami yang hebat ini. Bina kerajaan anda sendiri.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga ialah Bot Discord yang cuba untuk menyediakan segala ciri yang anda mungkin perlukan sekaligus!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Alatan penciptaan pemasangan silang platform yang berkuasa dan mudah untuk digunakan.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Hubungkan status masa nyata dengan mudahnya dengan pengguna anda.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Dewi yang bermain sebagai Bot Discord yang menyeronokkan!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "Penyetempatan yang agil untuk syarikat teknologi.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Perisian Wiki bersumber terbuka yang paling berkuasa dan diperluas.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Antara muka mesra pembangun yang bersepadu untuk segala artifak anda.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Di sebalik segalanya yang terbaik di jaringan.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit ialah stesen radio lagu dalam talian yang dicipta untuk memainkan lagu hit terbaik anda 24/7 dan untuk membuatkan anda menerokai lagu hit yang anda mungkin suka.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.apply.title": {
+		"message": "Mohon menjadi rakan kongsi",
+		"description": "Partnership application modal title."
+	},
 	"partners.apply.select.other": {
 		"message": "Lain-lain",
 		"description": "Select 'Other' category."
