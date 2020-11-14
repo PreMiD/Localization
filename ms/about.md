@@ -15,4 +15,4 @@ PreMiD is a simple, configurable utility that allows you to show what you're doi
 
 # Core features
 - Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+- Memberi kawalan penuh Presence.

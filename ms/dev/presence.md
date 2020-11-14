@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Pembangunan Presence
 description:
 published: true
 date: 2020-10-17T23:04:47.105Z
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Kesemua Presence kini disimpan di sini: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versi `2.x` memperkenalkan [kedai Presence](https://premid.app/store). Pengguna kini boleh menambah dan membuang Presence kegemaran mereka secara manual menerusi antara muka pengguna di [laman sesawang](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Sebelum anda mula, anda amat digalakkan untuk melihat garis panduan Presence kami. 
 > 
 > {.is-warning}
 
@@ -22,7 +22,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 {.links-list}
 
 # Structure
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
@@ -30,14 +30,14 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Cloning the project
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Buka terminal dan taip `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
 3. Open it in you code editor.
 
 ## Creating folders and files
 
 1. Create a folder with the **name** (not an URL) of the service you want to support.
-2. Create a `presence.ts` and a `tsconfig.json` file inside.
+2. Cipta fail `presence.ts` dan `tsconfig.json` di dalamnya.
 3. Create a folder named `dist` inside.
 4. Create a `metadata.json` file inside the `dist` folder.
 
@@ -51,7 +51,7 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Untuk ketahui lebih lanjut mengenai tatarajah TypeScript sila tekan [sini](/dev/presence/tsconfig).
 
 ## Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
@@ -160,7 +160,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">Untuk membolehkan pencarian Presence menggunakan nama alternatif. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
