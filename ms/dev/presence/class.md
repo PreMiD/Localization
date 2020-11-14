@@ -1,17 +1,17 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Kelas Presence
+description: Kelas utama untuk setiap Presence di PreMiD
 published: true
 date: 2020-07-29T15:12:55.925Z
 tags:
 editor: markdown
 ---
 
-# Presence Class
+# Kelas Presence
 
 ## Introduction
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Kelas `Presence` sangat berguna kerana ia mempunyai kaedah asas yang diperlukan untuk mencipta Presence.
 
  When you create a class you must specify `clientId` property.
 
@@ -21,11 +21,11 @@ let presence = new Presence({
 });
 ```
 
-There are two properties available for `Presence` class.
+Terdapat dua sifat yang wujud untuk kelas `Presence`.
 
 #### `clientId`
 
-`clientId` property must be provided to make your presence work, because it uses your application id to display its logo and assets.
+Sifat `clientId` mesti disediakan untuk membolehkan Presence anda berfungsi, kerana ia menggunakan id aplikasi anda untuk memaparkan logo dan asetnya.
 
 You can get it on your [applications page](https://discordapp.com/developers/applications).
 
@@ -33,15 +33,15 @@ You can get it on your [applications page](https://discordapp.com/developers/app
 
 ### `getActivity()`
 
-Returns a `presenceData` object of what the presence is displaying.
+Mengembalikan objek `presenceData` berkaitan apa yang Presence paparkan.
 
 ### `setActivity(presenceData, Boolean)`
 
 Sets your profile activity according to provided data.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Parameter pertama memerlukan antara muka `presenceData` untuk mendapatkan segala maklumat yang ingin dipaparkan di profil anda.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Parameter kedua menentukan sama ada Presence sedang memainkan sesuatu atau tidak. Sentiasa gunakan nilai `true` sekiranya anda sediakan cap masa dalam `presenceData`.
 
 ### `clearActivity()`
 
@@ -110,9 +110,9 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## `presenceData` Interface
+## Antara Muka `presenceData`
 
-The `presenceData` interface is recommended to use when you are using the `setActivity()` method.
+Antara muka `presenceData` digalakkan penggunaannya apabila anda menggunakan kaedah `setActivity()`.
 
 This interface has following variables, all of them are optional.
 
@@ -127,7 +127,7 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Baris pertama dalam Presence anda, selalunya digunakan sebagai pengepala.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>

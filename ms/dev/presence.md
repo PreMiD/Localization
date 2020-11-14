@@ -384,7 +384,7 @@ iframe.on("UpdateData", async () => {
   }); 
 });
 ```
-4. Making your presence file receive data from the iFrame file.
+4. Buatkan fail Presence anda terima data dari fail iFrame.
 ```javascript
 presence.on("iFrameData", data => {
   iFrameVideo = data.video;
@@ -393,13 +393,13 @@ presence.on("iFrameData", data => {
 ```
 **Note:** This needs to be placed outside of the updateData event.
 ## Compiling
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Buka konsol dalam folder anda dan taip `tsc -w` untuk mengkompil fail `presence.ts` ke dalam folder `/dist`.
 
-# Loading the presence
+# Memuatkan Presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
+2. **Muatkan Presence**akan muncul di bahagian Presence.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+4. Pilih folder /dist milik Presence anda.
 
 # Some helpful things
 ## Hot-reloading
@@ -407,10 +407,10 @@ The website you are developing on is automatically reloading every time you save
 
 ## Debugging
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Jika itu tidak membantu anda juga maka cuba minta bantuan pembangun Presence di [pelayan Discord kami](https://discord.premid.app/).
 
 # Files explained
-- [Presence Class](/dev/presence/class)
+- [Kelas Presence](/dev/presence/class)
 - [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)

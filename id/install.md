@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Pilih sistem operasi:**
 - [Windows *7 atau keatas*](/install/windows)
 - [macOS *10.11 atau keatas*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux * Kernel dengan versi 2.x atau keatas*](/install/linux)
 {.links-list}
 
 **Pilih browser:**
