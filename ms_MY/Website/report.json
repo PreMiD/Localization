@@ -1,4 +1,8 @@
 {
+	"report.info": {
+		"message": "Pelaporan pepijat hanyalah untuk pepijat di dalam laman PreMiD dan Pelayan Discord PreMiD. Pepijat untuk Presence perlu dilaporkan kepada pencipta Presence tersebut. Laporkan pepijat dalam bahasa Inggeris sahaja.",
+		"description": "Tells the user about submitting a bug"
+	},
 	"report.error.unauth": {
 		"message": "Akaun Discord perlu disahkan",
 		"description": "Users Discord not verified"
