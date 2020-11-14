@@ -2,5 +2,9 @@
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
+    },
+    "premid.pageTroubleshooting": {
+        "message": "Selesaikan masalah",
+        "description": "A page name"
     }
 }
