@@ -21,7 +21,7 @@ PreMiD is quick and easy to install. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- [Penyelesaian masalah](/troubleshooting) membimbing anda untuk mencari penyelesaian untuk isu umum.
 
 # Para Pembangun
 
