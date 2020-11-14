@@ -133,7 +133,7 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Baris kedua dalam Presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -159,7 +159,7 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Menentukan logo untuk Presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
