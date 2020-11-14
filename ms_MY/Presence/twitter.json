@@ -1,1 +1,38 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Membaca kicauan:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "Melihat DM miliknya",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Melihat kicauan:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Melihat kicauan (beserta balasan):",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Melihat media:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Melihat senarai sukaan:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Melihat senarai:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Penanda buku",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Pemberitahuan",
+        "description": ""
+    }
+}

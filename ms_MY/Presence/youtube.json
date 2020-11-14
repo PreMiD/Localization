@@ -3,6 +3,10 @@
         "message": "Melihat apa yang sohor kini",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "Melayari",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.upload": {
         "message": "Memuat naik sesuatu...",
         "description": ""

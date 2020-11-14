@@ -1,7 +1,19 @@
 {
+    "premid.viewPage": {
+        "message": "Melihat halaman:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dokumen",
+        "description": "as in documents"
+    },
     "premid.viewPresence": {
         "message": "Melihat Presence:",
         "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Laman Utama",
+        "description": "A page name"
     },
     "premid.pageContributors": {
         "message": "Penyumbang",
@@ -15,8 +27,24 @@
         "message": "Kedai",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Polisi Kuki",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Polisi Privasi",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Terma Perkhidmatan",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Perihalan",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
