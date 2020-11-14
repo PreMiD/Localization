@@ -1,4 +1,16 @@
 {
+    "premid.pageContributors": {
+        "message": "Penyumbang",
+        "description": "A page name"
+    },
+    "premid.pageDownloads": {
+        "message": "Muat Turun",
+        "description": "A page name"
+    },
+    "premid.pageStore": {
+        "message": "Kedai",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
         "description": "A page name"
