@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting
+title: Selesaikan masalah
 description: Everything to solve your problem
 published: true
 date: 2020-09-01T18:31:28.780Z
