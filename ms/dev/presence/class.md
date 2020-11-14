@@ -165,7 +165,7 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Menentukan ikon kecil di sebelah logo Presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -197,7 +197,7 @@ Events allow you to detect and handle some changes or calls that were made. You 
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Do something when data gets updated.
+    // Buat sesuatu apabila data dikemas kini.
 });
 ```
 
@@ -205,7 +205,7 @@ There are few events available:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Peristiwa ini dijalankan setiap kali Presence dikemas kini.
 
 #### `iFrameData`
 
