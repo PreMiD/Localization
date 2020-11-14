@@ -18,5 +18,9 @@
 	"maintenance.statuspage": {
 		"message": "Halaman Status",
 		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Pelayan Discord",
+		"description": "Discord Server link on maintenance page"
 	}
 }
