@@ -1,1 +1,42 @@
-{}
+{
+  "downloads.error.noaccess.title": {
+    "message": "Alamak, nampaknya anda tiada capaian alfa/beta :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Anda boleh sertai program beta kami **di sini** secara percuma. Cepat! Kami hanya tinggal {0} slot sahaja",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Terbitan Awal",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Amaran",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "Jangan lupa untuk membolehkan pilihan 'benarkan sambungan dari kedai lain' di tetapan sambungan.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Anda perlu pasang sambungan **ini** untuk memasang PreMiD dari Chrome Webstore.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Langkau",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Kembali",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "Okey",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Selesai",
+    "description": "Button on the page when trying to download with adblocker on."
+  }
+}
