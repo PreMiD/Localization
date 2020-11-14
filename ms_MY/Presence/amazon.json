@@ -35,8 +35,40 @@
         "message": "Melihat",
         "description": "Part 1 of the next 5 strings"
     },
+    "amazon.orderHistory": {
+        "message": "sejarah pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "maklumat pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "troli membeli-belah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "senarai impian",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kad hadiah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Melihat apa yang disyorkan",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Melihat sejarahnya",
+        "description": ""
+    },
     "amazon.store": {
         "message": "Melihat kedai:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Melihat Video Utama:",
         "description": ""
     }
 }

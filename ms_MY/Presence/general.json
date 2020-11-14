@@ -7,24 +7,132 @@
 		"message": "Melayar...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Bab",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Menyunting:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episod",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Bahasa",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Mendengar lagu",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Pendengar",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Langsung",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Barangan",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Halaman",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Dijedakan",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Memainkan",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Membaca DM dari:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Membaca mengenai:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Membaca artikel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Membaca dalam saluran:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Membaca hantaran:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Membaca bebenang:",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "Membaca",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Mencari:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Mencari sesuatu...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Mencari",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "Troli membeli-belah",
+		"description": ""
+	},
 	"general.store": {
 		"message": "Kedai",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Menaip dalam DM untuk:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Menaip dalam saluran:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Melihat anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Melihat kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Melihat saluran:",
 		"description": ""
 	},
 	"general.viewEpisode": {

@@ -34,5 +34,13 @@
     "twitter.notifs": {
         "message": "Pemberitahuan",
         "description": ""
+    },
+    "twitter.explore": {
+        "message": "Terokai",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Mengubah beberapa tetapan...",
+        "description": ""
     }
 }
