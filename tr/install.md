@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Kullandığınız işletim sistemini seçin:**
 - [Windows *7 veya üstü*](/install/windows)
 - [macOS *10.11 veya üstü*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [v2.x veya daha üst Linux kernel](/install/linux)
 {.links-list}
 
 **Kullandığınız tarayıcıyı seçin:**
