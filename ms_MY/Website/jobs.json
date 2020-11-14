@@ -58,5 +58,53 @@
 	"jobs.benefit1.description": {
 		"message": "Hubungi orang di sebalik PreMiD.",
 		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Intaian Susup",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Tengoklah bahagian Pembangunan dan Pemasaran kami.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Penghargaan",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Kebenaran Discord yang berkuasa dan peranan yang berwarna-warni.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Sokong PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Projek ini mampu dijalankan hanya kerana sumbangan daripada anda.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Masa Rehat",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Ikut masa sendiri. Ini kerja sukarela.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Capaian Awal",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Cuba ciri baharu sebelum orang lain.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Terima kasih kerana memohon!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Anda sudah pun memohon sebelum ini!",
+		"description": "Notification when you applied already."
 	}
 }
