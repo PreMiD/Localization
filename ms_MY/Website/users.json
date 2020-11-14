@@ -3,6 +3,10 @@
 		"message": "Pembangun Presence",
 		"description": "'Presence Developer' title for user pages."
 	},
+	"user.roles.presenceVerifier": {
+		"message": "Penyemak Presence",
+		"description": "'Presence Verifier' title for user pages."
+	},
 	"user.geniusPresenceDev.message2": {
 		"message": "Lebih 100 Presence telah dicipta!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
