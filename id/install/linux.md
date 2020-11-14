@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Pengguna kami yang menggunakan paket milik DoomLerd seharusnya aman seperti yang sudah dia katakan. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
