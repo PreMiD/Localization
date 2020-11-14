@@ -32,7 +32,83 @@
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Presences",
+		"message": "Presence",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Urus",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Tiada Presence ditambah",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Selesai",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Muatkan Presence",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Kedai Presence",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Perlukan Bantuan?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Oh tidak!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Ralat semasa memuatkan penghargaan",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Tidak disambung",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD tidak mampu menyambung ke aplikasinya! Adakah ianya dipasang dan dijalankan? *Cari kesilapan*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Apl Ketinggalan Zaman",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Apl PreMiD anda ketinggalan zaman. Sila kemas kininya untuk terus menggunakan PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.category.all": {
+		"message": "Semua",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Lagu",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Permainan",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Sosial",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Video & Strim",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Lain-lain",
+		"description": "Category name shown when you open tags"
 	}
 }
