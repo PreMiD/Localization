@@ -26,5 +26,93 @@
 	"general.store": {
 		"message": "Kedai",
 		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Melihat episod:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Melihat genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Melihat halaman utama",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Melihat senarai:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Melihat manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Melihat ahli:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Melihat filem:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Melihat senarai main:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Melihat produk:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Melihat profil:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Melihat siri:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Melihat pertunjukan:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Melihat akaun miliknya",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Melihat bebenang:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Melihat pengguna:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Melihat:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Menonton video",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Menonton strim langsung",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Menonton:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Senarai impian:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Polisi Privasi",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Terma Perkhidmatan",
+		"description": "A page name"
 	}
 }
