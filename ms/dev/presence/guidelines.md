@@ -276,8 +276,8 @@ Kesalahan berulang seperti pelanggaran garis panduan, penspaman permintaan tarik
 In this scenerio, the following changes will occur:
 
 - Presence di bawah pengurusan anda akan dipindahkan ke bot PreMiD atau pengguna lain (ikut kepurusan penyemak). ID aplikasi untuk setiap Presence akan dicipta semula di bawah nama pemilik baharu.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Kesemua isu dan permintaan tarikan anda (penciptaan Presence, penyumbangan Presence, dll) yang dicipta setelah pengharaman akan ditutup dengan segera.
+- Semua tiket yang dicipta di bawah nama anda berkaitan pembangunan Presence akan dipadam.
 
 
 ## `Reviewing`
@@ -287,23 +287,23 @@ A few things you should know after opening a pull request:
 - It takes 2 reviewers to merge a pull request.
 - If a pull request is inactive for a period of 14 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- ⚠️ Anda **mesti** berikan tangkapan layar baharu, tidak tersunting (diambil oleh anda sendiri) yang menunjukkan perbandingan profil anda dan laman sesawang untuk membuktikan Presence anda berfungsi. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- ⚠️ Anda juga **perlu** sertakan tangkapan layar tetapan Presence di dalam sambungan sekiranya dibekalkan. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Checks`
 
 ![Checks](https://i.imgur.com/BCDZQe9.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Ketika ini, sesebuah Presence melalui dua (2) peringkat semakan yang berlainan. Kesemua semakan ini membantu penyemak untuk menentukan sama ada Presence anda sesuai untuk dikerahkan.
 
 - `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Additional Rules`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Sentiasa** pastikan anda mulakan Presence anda dalam folder yang sesuai, sekiranya namanya bermula dengan _sebarang_ huruf Rumi maka ia mestilah berada di bawah padanan abjadnya (sbg. cth., `D/dアニメストア` atau `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
-After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
+Setelah mematuhi kesemua garis panduan dengan ulasan dan semakan yang wajar, Presence anda akan dicantumkan dengan kedai.
 
 # Contributions
 
