@@ -215,6 +215,10 @@
 		"message": "Mohon",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Terima kasih kerana memohon!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Sila lengkapkan kesemua medan.",
 		"description": "Error when a field isn't filled."
