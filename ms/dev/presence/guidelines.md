@@ -214,12 +214,12 @@ A list of fields and their rules are listed below:
 Ini senarai peraturan yang perlu diikut semasa menulis fail `presence.ts` anda:
 
 - **Sentiasa** isytihar tika baharu kelas `Presence` sebelum isytihar pembolehubah lain untuk mengelakkan isu terpencil yang mampu berlaku; ini bukan keperluan mengikut reka cipta jadi ia mungkin dialihkan pada masa hadapan.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
+- **Jangan** guna fungsi sendiri apabila [varian natif telah wujud](https://docs.premid.app/dev/presence#files-explained); ini untuk memastikan pembaikian di peringkat sambungan akan turut dikenakan pada Presence anda. You're free to use whatever you need if you do not find them listed in the docs.
+- Anda **dilarang** mengekod Presence untuk sesuatu laman tanpa menambah sokongan bahasa utamanya (sbg. cth., Presence untuk YouTube dikodkan dengan sokongan untuk bahasa Portugis dan bahasa Jepun, tanpa bahasa Inggeris itu sendiri.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
 - When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. If you are using external domains, you will be required to explain why it is necessary.
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 - You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
