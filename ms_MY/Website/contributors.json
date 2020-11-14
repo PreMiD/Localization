@@ -20,7 +20,7 @@
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Pengarah Pasaran",
+		"message": "Pengarah Pemasaran",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
