@@ -16,7 +16,7 @@ The installation of the application is very important as the extension can not d
 
 ## Table of Contents
 
-- **[About](#about)**
+- **[Perihalan](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
   - Examples (soon)
@@ -35,7 +35,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="about"></a>
 
-## About
+## Perihalan
 
 **PreMiD** ialah utiliti yang mudah, mampu ditataraja yang menggunakan pustaka RP (Rich Presence) milik Discord yang membolehkan anda menunjukkan apa anda buat di sesawang (dan beberapa atur cara lain) ke dalam profil Discord anda sebagai **status main**.
 
