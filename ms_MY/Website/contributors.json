@@ -42,5 +42,37 @@
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Ejen Penyokong",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Wakil",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Pembaca Pruf",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Penderma",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Penggalak Nitro",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Penterjemah",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Tekan untuk salin ID pengguna.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID pengguna disalin!",
+		"description": "Notification after user ID was copied."
 	}
 }
