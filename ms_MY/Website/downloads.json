@@ -107,6 +107,10 @@
     "message": "Kembali",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "Batal",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "Okey",
     "description": "Button on the modal of Opera/Edge browsers."

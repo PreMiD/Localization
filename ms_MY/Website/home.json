@@ -79,6 +79,10 @@
 		"message": "Ada sesuatu terglic, memberikan banyak ralat atau langsung tidak berfungsi? Kami akan bantu anda hapuskan isu tersebut di pelayan Discord kami, kami juga cipta sistem sokongan kami sendiri yang akan pastikan isu anda diselesaikan secepat mungkin.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Sertai Discord kami",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Bahasa laman sesawang",
 		"description": "Tippy content of the language selector."
