@@ -13,11 +13,11 @@ tags:
 
 ## Introduction
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+Dalam sesetengah senario, Presence anda mungkin perlu capai unsur di dalam `iframes`.
 
 The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Seperti Presence, `iframes` mempunyai kelas mereka sendiri yang direka untuk mengemas kini data secara automatik.
 
 ```typescript
 let iframe = new iFrame();
@@ -30,13 +30,13 @@ iframe.on("UpdateData", async () => {
 ## Methods
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Hantar data ke Presence. Penggunaan kaedah ini akan buatkan Presence mengembalikan peristiwa `iFrameData`.
 
 ### `getUrl()`
 Returns the URL of the `iframe`.
 
 ## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+Dalam `iframes`, peristiwa dijalankan dengan cara yang serupa dengan cara peristiwa dijalankan dalam kelas `presence`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
