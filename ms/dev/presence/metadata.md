@@ -102,7 +102,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>service</b>
       </td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Tajuk perkhidmatan yang Presence ini sokong.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -122,7 +122,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan
-        perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+        perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. Lihat kategori untuk bahasa Presence untuk senarai. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -246,12 +246,12 @@ If you want to learn regular expressions, here are a few websites.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Bahasa Presence
 
 PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Tetapan Presence
+Tetapkan tetapan saling tindak supaya pengguna boleh mengubah suai Presence tersebut!
 ```javascript
 "settings": [
         { 
@@ -280,7 +280,7 @@ Setup interactive settings so users can customize the presence!
     ]
 ```
 
-Use the following methods to get settings info in your presence files:
+Gunakan kaedah berikut untuk mendapatkan maklumat tetapan dalam fail Presence anda:
 ### `getSetting(String)`
 Returns value of setting.
 ```typescript
@@ -300,9 +300,9 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## Presence categories
+## Kategori Presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence tersebut berada. This is a compiled list of the categories that you can use.
 
 <table>
   <thead>

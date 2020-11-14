@@ -37,7 +37,7 @@ The installation of the application is very important as the extension can not d
 
 ## About
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** ialah utiliti yang mudah, mampu ditataraja yang menggunakan pustaka RP (Rich Presence) milik Discord yang membolehkan anda menunjukkan apa anda buat di sesawang (dan beberapa atur cara lain) ke dalam profil Discord anda sebagai **status main**.
 
 <a name="stats"></a>
 

@@ -11,7 +11,7 @@ editor: markdown
 
 ## Introduction
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Apabila anda memuat turun dan menyahpadat ruang kerja, anda akan nampak fail bernama `tsconfig.js` di akar dan dalam folder Presence, fail ini digunakan untuk menatarajah pengkompil **TypeScript**. It is already configured for you, so don't worry about that.
 
 We just want to describe some settings that you should know.
 
@@ -50,7 +50,7 @@ In the root configuration file you will see something like this.
 | typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
-## Presence Configuration
+## Tatarajah Presence
 
 ```javascript
 {
@@ -61,8 +61,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Keterangan                                                                             |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Property            | Keterangan                                                                                   |
+|:------------------- |:-------------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                               |
+| **compilerOptions** | Lihat [**Tatarajah Akar**](/dev/presence/tsconfig#root-configuration) untuk maklumat lanjut. |
+| outDir              | Defines the output directory for compiled files.                                             |
