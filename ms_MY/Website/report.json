@@ -1,1 +1,6 @@
-{}
+{
+	"report.error.unauth": {
+		"message": "Akaun Discord perlu disahkan",
+		"description": "Users Discord not verified"
+	}
+}
