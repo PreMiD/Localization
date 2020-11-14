@@ -1,6 +1,6 @@
 ---
 title: Guidelines
-description: Rules all presence developers must follow to have their presence added.
+description: Peraturan yang kesemua pembangun Presence perlu ikut untuk membolehkan Presence mereka ditambah.
 published: true
 date: 2020-10-24T15:19:18.624Z
 tags:
@@ -14,17 +14,17 @@ Apabila menerbitkan Presence ke GitHub ini, anda perlu mengikut set garis pandua
 
 # Creation
 
-The general rules of presence development are as follows:
+Peraturan am pembangunan Presence adalah seperti berikut:
 
 - Presence **mestilah** berkait dengan laman sesawang dipilih.
 - Presence **tidak boleh** dibuat untuk laman sesawang haram. (for e.g., stressors, drug marketing, child pornography, etc.)
 - The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
 - You need to have a proper file structure, drafts are **not** allowed.
 - Presence untuk laman sesawang dengan (TLD `.onion`) atau laman sesawang dengan domain/hos percuma (sbg. cth., `.TK` [semua domain percuma Freenom], `.RF`, `GD`, dll) adalah **tidak** dibenarkan, pengecualian boleh dibuat sekiranya terdapat bukti bahawa mereka bayar untuk domain tersebut.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
+- Presence yang mensasarkan halaman pelayar dalaman (seperti Chrome Web Store, `chrome://`, halaman `about:`, dll) **tidak** dibenarkan kerana mereka perlukan bendera uji kaji untuk dibolehkan di pihak pengguna dan mampu menyebabkan kerosakan pada pelayar mereka.
 - Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (for e.g., wikia pages)
 - Presence kualiti rendah (atau yang mana dengan konteks kecil) adalah **tidak** dibenarkan (sbg. cth., hanya menunjukkan logo dan tulisan tetapi tidak mengubahnya lagi.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Penyertaan folder `dist`, fail `presence.ts`, fail `iframe.ts`, dan fail `metadata.json` adalah diwajibkan supaya hasilnya nanti serupa seperti apa yang diwakilkan dalam skema berikut:
 
 ```bash
 presence
@@ -50,7 +50,7 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process. 
+> Untuk kemudahan para pembangun Presence kami, kami telah sediakan skema yang anda boleh gunakan untuk mengesahkan kewibawaan fail `metadata` anda. This is entirely optional and is not required during the review process. 
 > 
 > {.is-info}
 
