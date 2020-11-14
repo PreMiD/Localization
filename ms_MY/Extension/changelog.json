@@ -30,5 +30,21 @@
   "extension.2.0.new8": {
     "message": "API baharu kami berjalan sepantas kilat",
     "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "Tata letak dan gaya kotak timbul dan tab yang diperbaharui",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "Banyak pepijat yang (tidak) diketahui telah melarikan diri",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "Kini segalanya berjalan dengan lebih pantas",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Ralat apl lama dibaiki walaupun anda ada yang terbaharu",
+    "description": ""
   }
 }

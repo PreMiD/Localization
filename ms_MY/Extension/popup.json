@@ -1,1 +1,38 @@
-{}
+{
+	"popup.navigation.settings": {
+		"message": "Tetapan",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Penghargaan",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Tetapan",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Umum",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.setting.enabled": {
+		"message": "Dibolehkan",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Kawalan Media",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Bar Menu Tajuk",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Auto lancar",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	}
+}
