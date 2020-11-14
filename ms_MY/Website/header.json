@@ -1,1 +1,18 @@
-{}
+{
+  "header.language": {
+    "message": "Bahasa Melayu",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Kami menyokong bahasa anda, nak tukar?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Laman sesawang kami telah diterjemah ke bahasa anda. Mungkin ia dapat membantu sekiranya anda tidak begitu memahami bahasa Inggeris.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.login": {
+    "message": "Log masuk",
+    "description": "Login Button"
+  }
+}
