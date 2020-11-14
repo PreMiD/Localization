@@ -194,4 +194,4 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+Pembantu AUR/Pacman lain juga boleh digunakan, tetapi setiap satunya mempunyai kefungsian berlainan jadi anda mungkin mengalami masalah ketika menggunakannya.
