@@ -1,4 +1,8 @@
 {
+    "premid.viewPresence": {
+        "message": "Melihat Presence:",
+        "description": ""
+    },
     "premid.pageContributors": {
         "message": "Penyumbang",
         "description": "A page name"

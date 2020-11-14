@@ -1,1 +1,6 @@
-{}
+{
+	"jobs.header.description": {
+		"message": "Adakah anda bersedaia untuk membantu atur cara Rich-Presence terbesar?",
+		"description": "The second part of the jobs page."
+	}
+}
