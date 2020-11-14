@@ -62,7 +62,7 @@ presence
 > 
 > {.is-warning}
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Setiap Presence mempunyai fail pemerihal dipanggil `metadata.json`, metadata tersebut mempunyai piawaian ketat dan contoh fail ini boleh dilihat di bawah:
 
 ```json
 {
@@ -120,7 +120,7 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> Sekiranya sesuatu medan disenaraikan sebagai pilihan dalam [pendokumenan](https://docs.premid.app/en/dev/presence/metadata) dan Presence anda menggunakan nilai lalai untuknya, jangan sertakannya dalam fail `metadata`. (sbg. cth., sebuah Presence tanpa sokongan iframe tidak perlukan medan `iframe`.) 
 > 
 > {.is-warning}
 
@@ -136,15 +136,15 @@ A list of fields and their rules are listed below:
 
 ### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Tolong **jangan** kelirukan yang ini dengan ID aplikasi anda, yang hanya digunakan untuk Presence anda._
 
 ### **`contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **Jangan** tambah diri sendiri sebagai penyumbang, dan jangan tambah orang lain sebagai penyumbang melainkan mereka telah membantu dalam ciptaan Presence.
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- Nama perkhidmatan **mestilah** sama dengan nama direktori Presence tersebut. Sebagai contoh, jika Presence berada di `/websites/Y/YouTube/`, maka nama perkhidmatannya mestilah `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
@@ -237,8 +237,8 @@ Ini senarai peraturan yang perlu diikut semasa menulis fail `presence.ts` anda:
 
 Dalam sesetengah keadaan, Presence mungkin berkelakuan luar jangkaan atau diubah secara kecil untuk meningkatkan kefungsian mereka. Ini senarai peraturan yang anda **mesti** ikuti ketika mengubahsuai Presence.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Hubungi penyemak untuk maklumat lanjut mengenai perkara ini.   - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
+- Anda **tidak** dibenarkan untuk menulis semula sesebuah Presence atau mengubah penulisnya. Sekiranya penulis Presence telah diharamkan daripada pelayan rasmi atau masih belum membuat perubahan di dalam sebulan, anda boleh hubungi penyemak untuk tanya sama ada anda boleh menulis semula Presence tersebut.
+- Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Hubungi penyemak untuk maklumat lanjut mengenai perkara ini.   - Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Contact a reviewer for more information about this subject.
 -  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verification
@@ -259,10 +259,10 @@ Dalam sesetengah keadaan, Presence mungkin berkelakuan luar jangkaan atau diubah
 > 
 > {.is-warning}
 
-The most important process of presence development is getting your presence on the store. Ini dilakukan dengan membuat [permintaan tarikan](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) di GitHub pada repositori `PreMiD/Presences`. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Proses paling penting dalam pembangunan Presence adalah untuk memasukkan Presence anda ke dalam kedai. Ini dilakukan dengan membuat [permintaan tarikan](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) di GitHub pada repositori `PreMiD/Presences`. Penyemak kami akan sahkan Presence anda mengikut piawaian dan akan memasukkannya ke dalam kedai.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Penyemak Presence</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxichan"><img src="https://github.com/ririxichan.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -275,7 +275,7 @@ Kesalahan berulang seperti pelanggaran garis panduan, penspaman permintaan tarik
 
 In this scenerio, the following changes will occur:
 
-- Presence di bawah pengurusan anda akan dipindahkan ke bot PreMiD atau pengguna lain (ikut kepurusan penyemak). The application id for each presence will be recreated under the new owner's name.
+- Presence di bawah pengurusan anda akan dipindahkan ke bot PreMiD atau pengguna lain (ikut kepurusan penyemak). ID aplikasi untuk setiap Presence akan dicipta semula di bawah nama pemilik baharu.
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
 - Tickets created under your name regarding presence development will be deleted.
 
