@@ -95,6 +95,10 @@
 		"message": "Itulah cara anda tonton anime.",
 		"description": "Description for AniFlix."
 	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings ialah Permainan Arena PvP berkelajuan tinggi generasi seterusnya yang dimainkan dalam pelayar.",
+		"description": "Description for Arena of Kings."
+	},
 	"partners.apply.select.other": {
 		"message": "Lain-lain",
 		"description": "Select 'Other' category."
