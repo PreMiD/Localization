@@ -1,1 +1,14 @@
-{}
+{
+	"home.examples.status.playing": {
+		"message": "Memainkan",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Langsung",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Melayar...",
+		"description": "Discord Rich Presence -> small image text;"
+	}
+}

@@ -1,1 +1,26 @@
-{}
+{
+	"store.category.all": {
+		"message": "Semua",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Permainan",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Lagu",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sosial",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Video & Strim",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Lain-lain",
+		"description": "Category at the top"
+	}
+}

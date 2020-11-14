@@ -1,1 +1,6 @@
-{}
+{
+	"partners.apply.select.other": {
+		"message": "Lain-lain",
+		"description": "Select 'Other' category."
+	}
+}

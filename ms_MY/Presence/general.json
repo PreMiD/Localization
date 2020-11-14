@@ -1,1 +1,22 @@
-{}
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Melayar...",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Langsung",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Membaca",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Mencari",
+		"description": ""
+	}
+}

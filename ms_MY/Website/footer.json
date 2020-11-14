@@ -1,1 +1,6 @@
-{}
+{
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	}
+}
