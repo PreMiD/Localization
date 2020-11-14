@@ -12,7 +12,7 @@
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "Apa kata anda pergi ke syurga dan bukannya neraka?",
+		"message": "Apa kata anda ikut kami naik ke atas dan bukan tinggal di bawah?",
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
@@ -34,6 +34,66 @@
 	"partners.why.benefit3.title": {
 		"message": "Penyepaduan metatag",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Gunakan Presence anda secara automatiknya apabila seseorang melawat Laman Sesawang anda.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Diabadikan selamanya",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Tempat jijik di halaman pekongsi kami.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Jadi terkenal",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Dipaparkan di media sosial kami.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "Apa yang kami cari?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Kami memantau komuniti yang mengembang dan perkara menyeronokkan di internet. Rumusannya, anda mestilah sudah pun dan masih menggunakan PreMiD dan bersedia untuk menyebarkannya kepada ramai lagi di internet. Penerimaan ke dalam program amatlah kualitatif dan akan berbeza dari satu calon ke calon yang lain.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Tembok api kami",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Kami kini menerima pelbagai jenis perusahaan ke dalam program rakan kongsi kami. Sesiapa pun ada peluang untuk diperasan. Penyiar Twitch mestilah mempunyai sekurang-kurangnya 500 orang pengikut dan 10 orang penonton serempak pada sesuatu masa. Anda juga mesti menstrim sekurang-kurangnya satu (1) kali setiap minggu.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Mohonlah!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Marilah naik ke atas bersama-sama!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jika anda lebih berminat untuk pekerjaan langsung di PreMiD, sila lihat **iklan pekerjaan** kami.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Para Penaja",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD tidak akan berjaya, tanpa kesemua insan yang hebat ini.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Itulah cara anda tonton anime.",
+		"description": "Description for AniFlix."
 	},
 	"partners.apply.select.other": {
 		"message": "Lain-lain",
