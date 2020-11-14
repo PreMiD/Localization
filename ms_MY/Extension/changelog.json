@@ -1,1 +1,34 @@
-{}
+{
+  "extension.2.0.new1": {
+    "message": "Kini pengguna boleh menambah Presence dengan sendirinya. *Tambahlah sekarang!*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "Cari *Presence baharu* di habitat semulajadi mereka",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "Kemas kini auto kini tersedia",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "Kini pengguna boleh mencipta Presence",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "*Dokumen* untuk para pembangun yang kreatif di luar sana",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "Reka cipta laman sesawang serba baharu",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "Lebih banyak ciri untuk bot Discord kami",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "API baharu kami berjalan sepantas kilat",
+    "description": ""
+  }
+}
