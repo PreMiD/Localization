@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
-> Pengguna kami yang menggunakan paket milik DoomLerd seharusnya aman seperti yang sudah dia katakan. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Pengguna kami yang menggunakan paket milik DoomLerd seharusnya aman seperti yang sudah dia katakan. Kami tidak menyarankan untuk menggunakannya, tetapi anda masih bisa menggunakannya jika anda mau. Terima kepada DoomLerd untuk yang masih menangani repo kami. 
 > 
 > {.is-warning}
 
@@ -29,8 +29,8 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 - **[Portable AppImage](#appimage)** (_DIANJURKAN_)
   - [Petunjuk instalasi](#appimageinstall)
   - [Catatan tambahan](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Distribution berbasis Red Hat Enterprise Linux (RHEL)**](#packagecloud)
+- [**Distribution berbasis Debian dan Ubuntu**](#packagecloud)
 - [**Arch Linux based distributions**](#arch)
 
 <a name="about"></a>
@@ -127,21 +127,21 @@ Antara anda ingin mencoba PreMiD atau tidak ingin menginstalnya, ini salah satu 
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Kami merilis paket deb/rpm pada repo packagecloud kami. Harap kunjungi pada https://packagecloud.io/PreMiD/Linux dan unduh paket deb/rpm atau gunakan script otomatis.
 
-For **Ubuntu/Debian**:
+Untuk **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+Untuk **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+Jika perintah tidak bekerja, unduh file **deb/rpm** dari repo packagecloud kami atau timpa pengaturan.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
