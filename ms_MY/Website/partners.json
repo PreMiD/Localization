@@ -159,8 +159,76 @@
 		"message": "Mohon menjadi rakan kongsi",
 		"description": "Partnership application modal title."
 	},
+	"partners.apply.loggedUser": {
+		"message": "Log masuk sebagai {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Bukan anda?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Sila pilih salah satu",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Laman sesawang",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Lain-lain",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Cth: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Pautan",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Cth: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Keterangan: (Maksimum 150 aksara)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Keterangan untuk dipaparkan",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Pautan imej: (550x300, PNG sahaja)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Cth: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Tutup",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Mohon",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "Sila lengkapkan kesemua medan.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksimum keterangan 150 aksara.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Sila tambah pautan (mesti bermula dengan https:// dan berakhir dengan .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Anda sudah memohon untuk menjadi rakan kongsi.",
+		"description": "Error when already applied."
 	}
 }
