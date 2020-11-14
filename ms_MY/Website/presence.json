@@ -1,1 +1,6 @@
-{}
+{
+	"presence.sections.changelog.title": {
+		"message": "Log perubahan",
+		"description": "The title of the changelog section."
+	}
+}
