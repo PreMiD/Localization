@@ -22,5 +22,9 @@
 	"general.search": {
 		"message": "Mencari",
 		"description": ""
+	},
+	"general.store": {
+		"message": "Kedai",
+		"description": ""
 	}
 }
