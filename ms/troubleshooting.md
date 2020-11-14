@@ -14,7 +14,7 @@ editor: markdown
 ### Are you using the Discord app?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
-### Are you using a presence with settings?
+### Adakah anda menggunakan Presence dengan tetapan?
 Banyak Presence (termasuk `Twitch` dan `SoundCloud`) terkesan dengan masalah sambungan. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
