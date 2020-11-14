@@ -1,1 +1,22 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Melihat pustaka filem",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Melihat pustaka siri",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Melihat episod terbaru",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Melihat 100 teratas",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Melihat apa yang sohor kini",
+        "description": ""
+    }
+}
