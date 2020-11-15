@@ -140,7 +140,7 @@ Lista pól i ich zasad znajduje się poniżej:
 
 ### **`współtwórcy`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **Nie** dodawaj siebie jako współtwórce, ani nie dodawaj kogoś innego, dopóki nie pomógł w presence.
 
 ### **`service`**
 
@@ -182,10 +182,10 @@ Lista pól i ich zasad znajduje się poniżej:
 
 ### **`tagi`**
 
-- **All** presences are required to have at least _one_ tag.
+- **Wszystkie** statusy muszą mieć przynajmniej _jeden_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- Jesteś **zobowiązany** do dodania tagu `NSFW`, jeżeli presence jest dla strony NSFW</strong>.
 
 ### **`category`**
 
