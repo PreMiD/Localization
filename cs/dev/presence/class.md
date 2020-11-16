@@ -114,7 +114,7 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 Rozhraní `presenceData` se doporučuje využívat při použití metody `setActivity()`.
 
-Rohraní má následující proměnné, žádná z nich není povinná.
+Toto rozhraní má následující proměnné, žádná z nich není povinná.
 
 <table>
   <thead>
