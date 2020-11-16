@@ -1,6 +1,6 @@
 ---
 title: Chromium
-description: Mulakan pemasangan PreMiD di pelayan berasaskan Chromium
+description: Mulakan pemasangan PreMiD di pelayar berasaskan Chromium
 published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
@@ -15,10 +15,10 @@ Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa de
 3. Tekan pada **Tambahkan pada Chrome**.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Tambah sambungan **[Pasang Sambungan Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Tambah [sambungan kami](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Jangan lupa untuk [tambahkan **aplikasi** kami](/install). 
 > 
 > {.is-warning}
 
