@@ -282,20 +282,20 @@ Benutze die folgenden Methoden, um eine Einstellungen-Info in deinen Presence-Da
 ### `getSetting(String)`
 Gibt den Wert der Einstellung wieder.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // pdexID mit der ID von der Einstellung ersetzen
+console.log(setting); // Dies protokolliert den Wert der Einstellung
 ```
 
 ### `hideSetting(String)`
 Versteckt die definierte Einstellung.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // pdexID mit der ID von der Einstellung ersetzen
 ```
 
 ### `showSetting(String)`
 Zeigt definierte Einstellung (Funktioniert nur, wenn die Einstellung bereits versteckt war).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // pdexID mit der ID von der Einstellung ersetzen
 ```
 
 ## Presence-Kategorien
