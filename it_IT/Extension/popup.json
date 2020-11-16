@@ -91,6 +91,10 @@
 		"message": "Nessuna connessione ad internet!",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nessuna connessione Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Tutto",
 		"description": "Category name shown when you open tags"
