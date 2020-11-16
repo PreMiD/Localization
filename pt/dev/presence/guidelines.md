@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os desenvolvedores de presence devem seguir para ter a sua presence adicionada.
 published: true
-date: 2020-10-24T15:19:18.624Z
+date: 2020-11-16T23:08:49.727Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -23,6 +23,7 @@ As regras gerais de desenvolvimento da presence são as seguintes:
 - Presenças para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
 - Presença que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 

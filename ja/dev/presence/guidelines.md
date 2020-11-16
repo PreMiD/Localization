@@ -2,7 +2,7 @@
 title: ガイドライン
 description: プレゼンスを公開するために必要なルール
 published: true
-date: 2020-10-24T15:19:18.624Z
+date: 2020-11-16T23:08:49.727Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -23,6 +23,7 @@ GitHubにプレゼンスをPublish(公開)する場合は、このガイドラ�
 - .onionで終わるドメインや無料で取得できるドメイン/ホストを持つウェブサイトのためのプレゼンスは原則許可されていませんが、そのドメインのために料金を支払ったことが証明された場合は例外として認められます。
 - ブラウザの内部を指定するプレゼンスは許可されていません。（Chrome Web Store、`chrome://`、`about:` など。） これらを実装するには、試験中の機能(chrome://frags)を有効にする必要があり、ブラウザーやデータに大きなダメージを与える可能性があるからです。
 - 一つのサブドメインのみをサポートするプレゼンスは許可されていません。（ホームページなどで正常に表示されないことがあるため） 利用規約、連絡フォームなどのあまり使われないページや、他のコンテンツがメインのコンテンツに関連していないものは例外です。 (例えば、Wikiaなど)
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
 - 低品質のプレゼンスは許可されていません。例えば、ロゴとサイト名だけ表示して、その後は一切表示が変わらないプレゼンスなどです。
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
