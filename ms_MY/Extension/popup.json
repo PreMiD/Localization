@@ -87,6 +87,22 @@
 		"message": "Apl PreMiD anda ketinggalan zaman. Sila kemas kininya untuk terus menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Tiada sambungan internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Nampaknya anda tidak mempunyai sambungan internet! PreMiD tidak mampu menunjukkan Presence pada waktu ini.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Tiada sambungan Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD tidak mampu menyambung ke aplikasi Discord anda! Adakah ianya dipasang dan dijalankan? *Selesaikan masalah*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Semua",
 		"description": "Category name shown when you open tags"
