@@ -6,10 +6,10 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa dengan sendirinya.
 
 # Pasang
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.

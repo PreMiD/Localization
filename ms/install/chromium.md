@@ -1,18 +1,18 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromium-based browsers
+description: Mulakan pemasangan PreMiD di pelayan berasaskan Chromium
 published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa dengan sendirinya.
 
 # Pasang
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+### Chrome, Edge, dll.
+1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
+2. Pilih **Chromium**.
+3. Tekan pada **Tambahkan pada Chrome**.
 
 ### Opera
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
