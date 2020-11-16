@@ -123,7 +123,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Keterangan</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Jenis</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
