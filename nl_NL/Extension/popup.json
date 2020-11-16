@@ -87,6 +87,14 @@
 		"message": "Je PreMiD app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Geen internetverbinding!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Het lijkt erop dat je geen internetverbinding hebt! PreMiD kan momenteel geen presences tonen.",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Alle",
 		"description": "Category name shown when you open tags"
