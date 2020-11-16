@@ -87,6 +87,14 @@
 		"message": "Tu aplicación de PreMiD está desactualizada. Por favor, actualízala para continuar usando PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "¡Sin conexión a internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "¡Parece que no tienes conexión a internet! PreMiD no será capaz de mostrar presences en este momento.",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Todas",
 		"description": "Category name shown when you open tags"
