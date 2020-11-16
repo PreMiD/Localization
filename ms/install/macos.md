@@ -13,7 +13,7 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # Pasang
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
