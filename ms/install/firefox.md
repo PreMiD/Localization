@@ -11,11 +11,11 @@ Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa de
 # Pasang
 1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
 2. Pilih **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+3. Tuliskan `about:addons` di bar URL dan tekan kekunci "Enter".
+4. Tekan pada ikon gear kecil di penjuru atas sebelah kanan.
+5. Pilih **Pasang Add-ons Dari Fail...**.
+6. Pilih fail yang anda telah muat turun sebentar tadi.
+7. Terima pemasangan dengan menekan **Tambah**.
 
 > Jangan lupa untuk [tambahkan **aplikasi** kami](/install). 
 > 

@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Mulakan pemasangan PreMiD di Linux
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -8,30 +8,30 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-The installation of the application is very important as the extension can not do anything by itself.
+Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa dengan sendirinya.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Pengguna Aur yang menggunakan pakej DoomLerd sepatutnya selamat, katanya lah. Kami tidak menggalakkan anda untuk menggunakannya, tetapi anda boleh guna jika ingin guna. Terima kasih DoomLerd kerana masih menguruskan repo aur. 
 > 
 > {.is-warning}
 
-## Table of Contents
+## Jadual Kandungan
 
 - **[Perihalan](#about)**
-  - [Stats](#stats)
+  - [Statistik](#stats)
   - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Contoh (akan datang)
+  - Soalan Lazim (akan datang)
+  - Cara Bina (akan datang)
+  - [Sokongan](#support)
   - [Penghargaan](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
-- [**Arch Linux based distributions**](#arch)
+  - [Lesen](#license)
+- **[Snapcraft](#snapcraft)** (Rumusan : _tidak akan wujud_ ™️)
+- **[AppImage Mudah Alih](#appimage)** (_DISYORKAN_)
+  - [Arahan pemasangan](#appimageinstall)
+  - [Nota tambahan](#appimagenotes)
+- [**Edaran berasaskan Red Hat Enterprise Linux (RHEL)**](#packagecloud)
+- [**Edaran berasaskan Debian dan Ubuntu**](#packagecloud)
+- [**Edaran berasaskan Arch Linux**](#arch)
 
 <a name="about"></a>
 
@@ -41,18 +41,18 @@ The installation of the application is very important as the extension can not d
 
 <a name="stats"></a>
 
-### Stats
+### Statistik
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Pengerahan</th>
+    <th>Jumlah muat turun</th>
+    <th>Terbitan terbaru</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Semua terbitan"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Terbitan terbaru"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Terbitan Github"></a></td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ The installation of the application is very important as the extension can not d
 
 ### Requirements
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](https://discordapp.com/download) Discord ( bukan versi web atau snap ) juga boleh menjalankan PreMiD;</br> Seperti yang anda perasan dalam tahun kebelakangan ini, sesetengah edaran Linux mula menamatkan sokongan seni bina 32-bit (ia32/i686/i386/x86), dan oleh sebab itu, kami pun membuat perkara yang sama. Namun begitu, anda boleh cuba membina aplikasi ini sendiri jika anda amat perlu menggunakannya di edaran 32-bit.</br> Oleh kerana kami menggunakan Electron sebagai enjinnya ketika ini (Discord pun sama!), keperluannya juga terpakai untuk aplikasi ini:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -70,7 +70,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Sokongan
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
@@ -92,7 +92,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Lesen
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Arahan pemasangan
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Nota tambahan
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Edaran berasaskan Arch Linux
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Arahan pemasangan
 
 ```bash
 # Using yay (recommended)
@@ -182,7 +182,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Nota tambahan
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
