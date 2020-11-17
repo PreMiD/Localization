@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Hanya klik dua kali padanya atau jalankan
 ./PreMiD*.AppImage
 ```
 
