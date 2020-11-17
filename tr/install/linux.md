@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de yüklü olması gerekmektedir.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Aur kullanıcıları DoomLerd'in paketini kullanarak, söylediği gibi güvende kalabilirler. Kullanmanızı önermiyoruz fakat istiyorsanız yine de kullanabilirsiniz. DoomLerd'e depomuzu aur'a eklediği için teşekkürler. 
 > 
 > {.is-warning}
 
@@ -29,8 +29,8 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 - **[Taşınabilir AppImage](#appimage)** (_ÖNERİLİR_)
   - [Kurulum Talimatları](#appimageinstall)
   - [Ek notlar](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Red Hat Enterprise Linux (RHEL) tabanlı dağıtımlar**](#packagecloud)
+- [**Debian ve Ubuntu tabanlı dağıtımlar**](#packagecloud)
 - [**Arch Linux tabanlı dağıtımlar**](#arch)
 
 <a name="about"></a>
@@ -127,7 +127,7 @@ Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek e
 
 # PackageCloud
 
-Biz deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. Lütfen https://packagecloud.io/PreMiD/Linux adresini ziyaret et ve sana uygun olan deb/rpm paketini indir veya otomatik bir betik dili kullan.
+deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. https://packagecloud.io/PreMiD/Linux adresini ziyaret ederek sana uygun olan deb/rpm paketini indirebilir veya otomatik bir betik dili kullanabilirsin.
 
 **Ubuntu/Debian** için:
 
