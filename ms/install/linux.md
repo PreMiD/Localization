@@ -120,22 +120,22 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Nota tambahan
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Sama ada anda ingin cuba PreMiD sahaja atau cuma tidak ingin memasangnya, yang inilah yang terbaik, ia akan sentiasa dikemas kini tetapi _IA TIDAK DIMULAKAN SECARA AUTOMATIK BERSAMA SISTEM!_</br>Jika anda rasa penat untuk membukanya secara manual setiap kali, gunakan pakej yang lain (mengikut edaran anda).
 
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
 <a name="packagecloud"></a>
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Kami telah terbitkan pakej deb/rpm di repo PackageCloud kami. Sila lawatinya di https://packagecloud.io/PreMiD/Linux dan muat turun pakej deb/rpm anda atau gunakan skrip automatik.
 
-For **Ubuntu/Debian**:
+Untuk **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+Untuk **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
