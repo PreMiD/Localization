@@ -68,7 +68,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Tekan untuk salin ID pengguna.",
+		"message": "Klik untuk salin ID pengguna.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
