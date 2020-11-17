@@ -66,15 +66,15 @@ Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](http
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Kami tidak tahu sama ada versi lama edaran lain menyokongnya atau tidak, jadi sentiasa kemas kini edara anda dan gunakan terbitan **LTS (Long-Term Support / Sokongan Jangka Panjang)** jika edaran anda menawarkan terbitan tersebut, kerana ianya lebih stabil (elakkan terbitan alfa).
 
 <a name="support"></a>
 
 ### Sokongan
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Sertai Discord kami!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Sertai Discord kami!">
   </a>
 </div>
 
@@ -82,11 +82,11 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Penghargaan
 
-Thanks to :
+Terima kasih kepada :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (dan beberapa orang lain yang saya lupa namanya) kerana memberi maklumbalas untuk terbitan saban malam.
+- @apriluwu kerana menyelenggara binaan Gentoo
+- @SlimShadyIAm dan naka kerana pernah menyelenggara pakej Repositori Pengguna Arch
 - The Electron community for various packages
 - Anyone else who has ever contributed to the project in any way.
 
