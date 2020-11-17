@@ -28,11 +28,11 @@
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Tekan sini untuk tunjukkan Presence yang pengguna ini ciptakan.",
+		"message": "Klik sini untuk tunjukkan Presence yang pengguna ini ciptakan.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Tekan sini untuk tunjukkan Presence yang pengguna ini sumbangkan.",
+		"message": "Klik sini untuk tunjukkan Presence yang pengguna ini sumbangkan.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
