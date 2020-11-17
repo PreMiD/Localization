@@ -13,7 +13,7 @@ tags:
 Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa dengan sendirinya.
 
 # Pasang
-1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
+1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
