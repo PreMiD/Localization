@@ -87,21 +87,21 @@ Terima kasih kepada :
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (dan beberapa orang lain yang saya lupa namanya) kerana memberi maklumbalas untuk terbitan saban malam.
 - @apriluwu kerana menyelenggara binaan Gentoo
 - @SlimShadyIAm dan naka kerana pernah menyelenggara pakej Repositori Pengguna Arch
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- Komuniti Electron untuk pelbagai pakej
+- Sesiapa sahaja yang pernah menyumbang ke projek ini dalam apa jua cara.
 
 <a name="license"></a>
 
 ### Lesen
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
+[![Status FOSSA](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Portable AppImage
+## AppImage Mudah Alih
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+Pakej AppImage adalah disyorkan sekiranya Discord berfungsi untuk anda tetapi pakej PreMiD yang lain (.deb, .rpm, dll) tidak berfungsi.
 
 <a name="appimageinstall"></a>
 
