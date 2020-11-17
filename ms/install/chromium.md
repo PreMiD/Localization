@@ -10,9 +10,9 @@ Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa de
 
 # Pasang
 ### Chrome, Edge, dll.
-1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
+1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
 2. Pilih **Chromium**.
-3. Tekan pada **Tambahkan pada Chrome**.
+3. Klik pada **Tambahkan pada Chrome**.
 
 ### Opera
 1. Tambah sambungan **[Pasang Sambungan Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
