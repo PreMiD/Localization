@@ -127,21 +127,21 @@ Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek e
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Biz deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. Lütfen https://packagecloud.io/PreMiD/Linux adresini ziyaret et ve sana uygun olan deb/rpm paketini indir veya otomatik bir betik dili kullan.
 
-For **Ubuntu/Debian**:
+**Ubuntu/Debian** için:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+**Fedora/CentOS/RedHat** için:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+Eğer komut çalışmazsa **deb/rpm** paketini packagecloud depomuzdan indirebilirsin veya bazı ayarları geçersiz kılın.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
@@ -175,7 +175,7 @@ pacaur -S premid
 ```
 
 ```bash
-# ... olayı anladınız
+(...) olayı anladınız
 ```
 
 veya ne yaptığınızı biliyorsanız, manuel olarak [Arch User Repository](https://aur.archlinux.org/packages/premid) üzerinden.
