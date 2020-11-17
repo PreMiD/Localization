@@ -82,8 +82,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+        mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -92,8 +92,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+        mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
