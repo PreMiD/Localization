@@ -51,7 +51,7 @@ Please put the following code inside of the `tsconfig.json` file.
   }
 }
 ```
-Untuk ketahui lebih lanjut mengenai tatarajah TypeScript sila tekan [sini](/dev/presence/tsconfig).
+Untuk ketahui lebih lanjut mengenai tatarajah TypeScript sila klik [sini](/dev/presence/tsconfig).
 
 ## Filling in the metadata.json file
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
@@ -131,8 +131,8 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+        mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -141,8 +141,8 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+        mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Yes</code>
@@ -357,7 +357,7 @@ Anda boleh salin ini ke dalam fail `presence.ts` anda dan sunting nilainya. Sett
 
 Contohnya kami cadangkan anda lihat kod Presence seperti: 1337x atau 9GAG.
 
-Untuk maklumat lanjut mengenai kelas Presence sila tekan [di sini](/dev/presence/class).
+Untuk maklumat lanjut mengenai kelas Presence sila klik [di sini](/dev/presence/class).
 
 ## Can't get certain data?!
 
@@ -398,7 +398,7 @@ Buka konsol dalam folder anda dan taip `tsc -w` untuk mengkompil fail `presence.
 # Memuatkan Presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Muatkan Presence**akan muncul di bahagian Presence.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
+3. Klik padanya ketika anda masih memegang butang <kbd>Shift</kbd>.
 4. Pilih folder /dist milik Presence anda.
 
 # Some helpful things
