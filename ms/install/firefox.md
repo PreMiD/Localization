@@ -9,13 +9,13 @@ tags:
 Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa dengan sendirinya.
 
 # Pasang
-1. Pergi ke halaman muat turun kami dengan [menekan di sini](https://premid.app/downloads).
+1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
 2. Pilih **Firefox**.
 3. Tuliskan `about:addons` di bar URL dan tekan kekunci "Enter".
-4. Tekan pada ikon gear kecil di penjuru atas sebelah kanan.
+4. Klik pada ikon gear kecil di penjuru atas sebelah kanan.
 5. Pilih **Pasang Add-ons Dari Fail...**.
 6. Pilih fail yang anda telah muat turun sebentar tadi.
-7. Terima pemasangan dengan menekan **Tambah**.
+7. Terima pemasangan dengan mengklik pada butang **Tambah**.
 
 > Jangan lupa untuk [tambahkan **aplikasi** kami](/install). 
 > 
