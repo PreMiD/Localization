@@ -92,7 +92,7 @@
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
-		"message": "Tekan untuk buang tapis",
+		"message": "Klik untuk buang tapis",
 		"description": "Remove message for active search filters."
 	}
 }
