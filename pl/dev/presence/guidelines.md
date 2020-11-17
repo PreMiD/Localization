@@ -23,7 +23,7 @@ Ogólne zasady rozwijania statusów są następujące:
 - Statusy dla stron z ((`.onion` TLD)) lub stron z darmowymi domenami/hostami (np. `.TK` [wszystkie bezpłatne domeny Freenom], `.RF`, `.GD`, itp.) są **niedozwolone**, można zrobić wyjątek, jeśli zostanie przedstawiony dowód, że zapłacono za domenę.
 - Status kierowane na wewnętrzne strony przeglądarki (takie jak Chrome Web Store, `chrome://`, strony `about:`, itp.) **są niedozwolone**, ponieważ wymagają włączenia eksperymentalnej flagi po stronie użytkowników i mogą potencjalnie spowodować uszkodzenie ich przeglądarki.
 - Statusy wspierające tylko jedną sub-domenę **są niedozwolone** ponieważ mogą nie działać na innych stronach (takich jak strona główna), wyjątek mogą stanowić strony kontaktowe lub z polityką prywatności (czyli takie które nie są często używae) lub strony gdzie inna zawartość jest niezwiązana z sub-domeną. (np. strony wiki)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
+- Statusy dla stacji radiowych są dozwolone tylko w przadku kiedy stacja ma conajmniej 100 słuchaczy tygodniowo i conajmije 15 słuchaczy na raz.
 - Statusy o niskiej jakości (lub z małą ilością danych) **są niedozwolone** (np. pokazywanie logo i tekstu i nie zmienianie go już więcej)
 - Załączenie folderu `dist`, pliku, `presence.ts`, pliku `iframe.ts` i pliku `metadata.json` jest obowiązkowe w taki sposób aby struktura plików naśladowała poniższy schemat:
 
@@ -121,7 +121,7 @@ Każdy presence posiada plik metadanych nazwany `metadata.json`. ten plik ma śc
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (np. statusy bez wsparcia dla iframe nie potrzebują pola `iframe`) 
 > 
 > {.is-warning}
 
