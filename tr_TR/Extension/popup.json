@@ -87,6 +87,14 @@
 		"message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet.message": {
+		"message": "Görünüşe göre internet bağlantınız bulunmuyor. PreMiD durumunuzu gösteremeyecek.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD, Discord uygulamanıza bağlanamıyor. Uygulamanın yüklü ve çalıştığına emin misiniz? *Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Tümü",
 		"description": "Category name shown when you open tags"
