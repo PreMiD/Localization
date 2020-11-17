@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Rozpoczęcie instalacji PreMiD w systemie Linux
+description: Instalacja PreMiD w systemie Linux
 published: tak
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobić niczego samodzielnie.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Aur users that use DoomLerd's package should be safe as he says. Nie zalecamy tego, ale nadal możesz jej używać. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
@@ -25,19 +25,19 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
   - [Wsparcie / pomoc](#support)
   - [Twórcy](#credits)
   - [Licencja](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Snapcraft](#snapcraft)** (TL;DR : _nigdy_ ™️)
 - **[Portable AppImage](#appimage)** (_ZALECANE_)
   - [Instrukcje Instalacji](#appimageinstall)
   - [Dodatkowe uwagi](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Dystrybucje oparte na Red Hat Enterprise Linux (RHEL)**](#packagecloud)
+- [**Dystrybucje oparte na Debain i Ubuntu**](#packagecloud)
 - [**Dystrybucje oparte na Arch Linuksie**](#arch)
 
 <a name="about"></a>
 
 ## O programie
 
-**PreMiD** to proste, konfigurowalne narzędzie, które wykorzystuje bibliotekę Discord RP (Rich Presence), która pozwala pokazać, co robisz w sieci (i kilka programów) w swoim profilu Discord jako **status użytkownika**.
+**PreMiD** to proste, konfigurowalne narzędzie, które wykorzystuje bibliotekę Discord RP (Rich Presence), która pozwala pokazać, co robisz w sieci (i w innych programach) na swoim profilu Discord jako **status użytkownika**.
 
 <a name="stats"></a>
 
