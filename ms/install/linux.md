@@ -155,27 +155,27 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 ### Arahan pemasangan
 
 ```bash
-# Using yay (recommended)
+# Menggunakan yay (disyorkan)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# Menggunakan pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# Menggunakan trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# Menggunakan pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... anda faham caranya
 ```
 
 or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
