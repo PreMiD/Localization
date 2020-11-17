@@ -12,7 +12,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.headings.general": {
-		"message": "کلی",
+		"message": "عمومی",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "بارگزاری حضور",
+		"message": "بارگذاری Presence ها",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
@@ -92,11 +92,11 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "به نظر میاد شما اتصالی به اینترنت ندارید! PreMiD نمی تواند presence ها را در حال حاضر نشان دهد.",
+		"message": "به نظر میاد شما اتصالی به اینترنت ندارید! PreMiD نمی تواند presence ها را در حال حاضر نمایش دهد.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "هیچ اتصالی برای دیسکورد برقرار نشد!",
+		"message": "هیچ اتصالی با دیسکورد برقرار نشد!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
