@@ -18,13 +18,13 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 3. Sarikan arkib jika diperlukan.
 4. Buka pemasang.
 5. Sejenis **amaran keselamatan** akan dipaparkan, sekiranya anda memasang PreMiD untuk kali pertama. Pergi ke **Keutamaan Sistem** > **Keselamatan & Privasi** > **Umum** > **Buka Juga**. [Baca lebih lanjut](https://support.apple.com/ms-my/guide/mac-help/mh40616/mac) mengenai aplikasi tidak bertandatangan.
-> Hal ini kerana kami tidak mempunyai Sijil Tandatangan Kod (Code Signing Certificate, CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+> Hal ini kerana kami tidak mempunyai Sijil Tandatangan Kod (Code Signing Certificate, CSC). [Sokong kami](https://www.patreon.com/Timeraa) untuk memberi dana aplikasi ini.{.is-info}
+6. Pilih buka apabila diberitahu.
+7. Berikan capaian ke sambungan menerusi **Tembok Api** dan kawal **Peristiwa Sistem** apabila diberitahu.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikasi akan bermula secara automatiknya. Periksa simbol di bar menu anda.
 
-> Do not forget to [add the **extension**](/install). 
+> Jangan lupa untuk [tambahkan **sambungan**](/install). 
 > 
 > {.is-warning}
 
