@@ -1,23 +1,23 @@
 ---
 title: Windows
-description: Getting started with a PreMiD installation on Windows
+description: Mulakan pemasangan PreMiD di Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Sebelum teruskan, sila pastikan sistem anda mencapai kesemua [keperluan](/install/requirements).{.is-info}
 
 Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa dengan sendirinya.
 
 # Pasang
 1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
-2. Choose **Windows**.
+2. Pilih **Windows**.
 3. Buka pemasang.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. **Windows SmartScreen** akan dipaparkan, sekiranya anda memasang PreMiD untuk kali pertama. Klik pada **Maklumat Lanjut** kemudian pilih **Jalan Juga**. > Hal ini kerana kami tidak mempunyai Sijil Tandatangan Kod (Code Signing Certificate, CSC). [Sokong kami](https://www.patreon.com/Timeraa) untuk memberi dana aplikasi ini.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Aplikasi akan bermula secara automatiknya. Periksa simbol di talam sistem anda.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Jangan lupa untuk [tambahkan **sambungan**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}

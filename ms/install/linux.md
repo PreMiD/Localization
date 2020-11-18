@@ -18,7 +18,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 
 - **[Perihalan](#about)**
   - [Statistik](#stats)
-  - [Requirements](#requirements)
+  - [Keperluan](#requirements)
   - Contoh (akan datang)
   - Soalan Lazim (akan datang)
   - Cara Bina (akan datang)
@@ -58,7 +58,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 
 <a name="requirements"></a>
 
-### Requirements
+### Keperluan
 
 Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](https://discordapp.com/download) Discord ( bukan versi web atau snap ) juga boleh menjalankan PreMiD;</br> Seperti yang anda perasan dalam tahun kebelakangan ini, sesetengah edaran Linux mula menamatkan sokongan seni bina 32-bit (ia32/i686/i386/x86), dan oleh sebab itu, kami pun membuat perkara yang sama. Namun begitu, anda boleh cuba membina aplikasi ini sendiri jika anda amat perlu menggunakannya di edaran 32-bit.</br> Oleh kerana kami menggunakan Electron sebagai enjinnya ketika ini (Discord pun sama!), keperluannya juga terpakai untuk aplikasi ini:
 
@@ -184,7 +184,7 @@ atau secara manualnya dari [Arch User Repository](https://aur.archlinux.org/pack
 
 ### Nota tambahan
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+Jika edaran anda menggunakan pacman, maka anda perlu pasangkan salah satu pembantu dahulu. Jika anda tiada pembantu, Yay lebih disyorkan, jalankan:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si

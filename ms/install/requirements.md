@@ -1,29 +1,29 @@
 ---
-title: Requirements
-description: Prerequisites to install PreMiD
+title: Keperluan
+description: Prasyarat untuk memasang PreMiD
 published: true
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---
 
-# System Requirements
+# Keperluan Sistem
 
-> This data relate to the application only. 
+> Tarikh ini berkait dengan aplikasi sahaja. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD boleh dijalankan pada sebarang sistem. Ini bermaksud ia boleh dijalankan di **Linux**, **macOS**, **Windows** dan juga sesetengah **Linux Ubahsuai**.
 
 ### CPU
-PreMiD runs perfectly fine on a single CPU core.
+PreMiD boleh dijalankan dengan baik walaupun pada CPU teras tunggal.
 
 ### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+Sistem Linux patut ada **sekurang-kurangnya 20MB RAM** untuk menjalankan PreMiD. Sistem Windows dan macOS pula selalunya perlukan lebih sedikit RAM.
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### Storan
+PreMiD mengambil lebih kurang **150MB** storan fizikal. Namun begitu, kami menggalakkan sekurang-kurangnya **200MB** storan dikhususkan untuk PreMiD.
 
-### Internet Access
-A internet connection is requiered to run PreMiD. PreMiD akan memeriksa kemas kini baharu, bahasa baharu, kemaskini Presence dll. secara automatiknya. from time to time.
+### Capaian Internet
+Capaian internet diperlukan untuk menjalankan PreMiD. PreMiD akan memeriksa kemas kini baharu, bahasa baharu, kemas kini Presence dll. secara automatiknya. dari semasa ke semasa.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
