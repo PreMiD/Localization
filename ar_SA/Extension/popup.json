@@ -87,6 +87,14 @@
 		"message": "تطبيق PreMiD الخاص بك قديم. يرجى تحديثه من أجل متابعة استخدام PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "لا يوجد اتصال بالإنترنت!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار في presences الوقت الحالي.",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "الكل",
 		"description": "Category name shown when you open tags"
