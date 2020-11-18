@@ -148,7 +148,7 @@ Jika perintah tidak berfungsi, muat turun fail **deb/rpm** dari repo PackageClou
 
 ## Edaran berasaskan Arch Linux
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Menggunakan [Repositori Pengguna Arch](https://aur.archlinux.org/packages/premid);</br> Edaran yang disokong ialah _dirinya sendiri_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS dan [semua edaran yang menyokong pemasangan dari AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions_(Bahasa_Melayu)#Aktif).
 
 <a name="archinstall"></a>
 
@@ -178,7 +178,7 @@ pacaur -S premid
 # ... anda faham caranya
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+atau secara manualnya dari [Arch User Repository](https://aur.archlinux.org/packages/premid) jika anda thau apa yang anda lakukan.
 
 <a name="archnotes"></a>
 
