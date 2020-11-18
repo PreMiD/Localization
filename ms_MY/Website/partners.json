@@ -55,6 +55,10 @@
 		"message": "Dipaparkan di media sosial kami.",
 		"description": "Description for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "Keperluan",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Apa yang kami cari?",
 		"description": "Heading for the first requirement."

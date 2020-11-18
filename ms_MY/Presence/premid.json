@@ -47,6 +47,10 @@
         "message": "Perihalan",
         "description": "A page name"
     },
+    "premid.pageSysReq": {
+        "message": "Keperluan Sistem",
+        "description": "A page name"
+    },
     "premid.pageTroubleshooting": {
         "message": "Selesaikan masalah",
         "description": "A page name"
