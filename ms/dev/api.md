@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: Capai sumber dan buat perlakuan menggunakan API PreMiD
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
@@ -8,27 +8,27 @@ tags:
 
 # API
 
-> Base URL: https://api.premid.app 
+> URL asas: https://api.premid.app 
 > 
 > {.is-info}
 
-## API Versioning
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+## Pengurusan versi API
+> API v1 sudah ditamatkan, sebarang permintaan perlu dilencongkan ke versi aktif semasa 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD mendedahkan beberapa versi API kami yang berlainan. Anda boleh nyatakan versi dengan memasukkannya ke dalam laluan permintaan seperti `https://api.premid.app/v{version_number}`. Sekiranya nombor versi tidak dinyatakan dalam laluan, ia akan menghantar permintaan ke versi lalai terkini (ditanda di bawah sewajarnya).
 
-## Encryption
+## Penyulitan
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Semua perkhidmatan dan protokol lapisan-HTTP (spt. http) dalam API PreMiD menggunakan TLS 1.2.
 
 # Pendokumenan
-> Currently under construction! 
+> Sedang dalam pembinaan! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v2 *active*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+**Pilih versi API:**
+- [v2 *aktif*](/dev/api/v2)
+- [v3 *dalam pembinaan*](/dev/api/v3)
 {.links-list}
