@@ -51,6 +51,10 @@
         "message": "Selesaikan masalah",
         "description": "A page name"
     },
+    "premid.pageApi": {
+        "message": "API",
+        "description": "A page name"
+    },
     "premid.pagePresenceDev": {
         "message": "Pembangunan Presence",
         "description": "A page name"
