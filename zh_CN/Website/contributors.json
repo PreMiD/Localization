@@ -11,12 +11,16 @@
 		"message": "翻译人员",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "项目负责人",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "管理员",
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
-		"message": "软件开发工程师",
+		"message": "开发者",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
