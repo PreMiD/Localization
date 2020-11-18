@@ -13,7 +13,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 # Pasang
 1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
 2. Choose **Windows**.
-3. Open the installer.
+3. Buka pemasang.
 4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 The application will start automatically. Check for the symbol in your system tray.
