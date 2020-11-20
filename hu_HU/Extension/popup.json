@@ -87,6 +87,14 @@
 		"message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Nincs internetkapcsolat!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nincs Discord kapcsolat!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Minden",
 		"description": "Category name shown when you open tags"
