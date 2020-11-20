@@ -19,6 +19,10 @@
     "message": "Bővítmény hozzádása a böngészőhöz",
     "description": "Heading for installing the application"
   },
+  "downloads.instructions.step_4": {
+    "message": "Frissítsd az oldalt a bővítmény csatlakoztatásához",
+    "description": "I think you get what this is..."
+  },
   "downloads.instructions.footer": {
     "message": "Továbbra is problémáid vannak? {0}",
     "description": "{0} will be replaced with footer.link"
