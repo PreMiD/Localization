@@ -121,7 +121,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Kirjeldus</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Tüüp</th>
     </tr>
   </thead>
   <tbody>
