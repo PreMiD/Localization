@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Lehe vaatamine:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dokumendid",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Presence'i vaatamine:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Koduleht",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Abilised",
         "description": "A page name"
@@ -11,8 +27,16 @@
         "message": "Pood",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Küpsise kasutamise põhimõtte",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Abi",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Info",
         "description": "A page name"
     },
     "premid.pageTroubleshooting": {
