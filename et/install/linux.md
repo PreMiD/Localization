@@ -16,7 +16,7 @@ The installation of the application is very important as the extension can not d
 
 ## Table of Contents
 
-- **[About](#about)**
+- **[Info](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
   - Examples (soon)
@@ -35,7 +35,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="about"></a>
 
-## About
+## Info
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
