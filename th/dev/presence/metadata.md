@@ -240,7 +240,7 @@ tags:
 
 #### การเรียนรู้
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [ วิดีโอสําหรับผู้เริ่มต้น ](https://youtu.be/sXQxhojSdZM) • [ RegexOne ](https://regexone.com/) •[ ข้อมูลนิพจน์ (Regular Expressions / RegEx) ](https://www.regular-expressions.info/tutorial.html)
 
 #### การทดสอบ
 

@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **เลือกระบบปฏิบัติการของคุณ:**
 - [Windows *7 หรือ สูงกว่า*](/install/windows)
 - [macOS *10.11 หรือ สูงกว่า*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux * เวอร์ชั่น Kernel ต้องเวอร์ชั่น v2.x ขึ้นไป *](/install/linux)
 {.links-list}
 
 **เลือกเว็บบราวเซอร์ของคุณ:**
