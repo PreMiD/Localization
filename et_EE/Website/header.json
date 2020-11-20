@@ -34,5 +34,21 @@
   "header.contributors": {
     "message": "Abilised",
     "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Logitud sisse kui",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Teatage veast",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Ülevaade",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logi välja",
+    "description": "Logout button"
   }
 }
