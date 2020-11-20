@@ -21,7 +21,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 - [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Struktuur
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
