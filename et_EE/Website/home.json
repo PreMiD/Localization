@@ -31,6 +31,10 @@
 		"message": "Otsi **oma** lisa",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.button": {
+		"message": "Külasta poodi",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Lihtne kasutaja sait",
 		"description": "Features section subheading"
@@ -43,8 +47,16 @@
 		"message": "Staatuse haldamine",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sorteeri kategooria järgi",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Kiire tugi",
 		"description": "Features section subheading"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Veebilehe keel",
+		"description": "Tippy content of the language selector."
 	}
 }
