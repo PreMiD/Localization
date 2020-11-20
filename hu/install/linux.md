@@ -16,7 +16,7 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 ## Table of Contents
 
-- **[About](#about)**
+- **[Névjegy](#about)**
   - [Stats](#stats)
   - [Követelmények](#requirements)
   - Examples (soon)
@@ -35,7 +35,7 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 <a name="about"></a>
 
-## About
+## Névjegy
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
