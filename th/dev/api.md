@@ -12,16 +12,16 @@ tags:
 > 
 > {.is-info}
 
-## ระยะพัฒนา API
+## เวอร์ชัน API
 > API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
-การจะใช้ API ของ PreMiD ในเวอร์ชันอื่น ๆ ของเรา คุณสามารถระบุเวอร์ชันในพาธรีเควสเช่น `https://api.premid.app/v{version_number}` หากไม่ใส่หมายเลขเวอร์ชัน จะเป็นการคำขอไปยังเวอร์ชันเริ่มต้นปัจจุบัน (ที่กูกทำเครื่องหมายด้านล่าง)
+การจะใช้ API ของ PreMiD ในเวอร์ชั่นอื่น ๆ ของเรา คุณสามารถระบุเวอร์ชันใน Path Request เช่น `https://api.premid.app/v{version_number}` หากไม่ใส่หมายเลขเวอร์ชัน จะเป็นการคำขอไปยังเวอร์ชันเริ่มต้นปัจจุบัน (ที่กูกทำเครื่องหมายด้านล่าง)
 
 ## การเข้ารหัส
 
-บริการ HTTP-layer ทั้งหมดรวมถึงโปรโตคอล (เช่น http) ที่ถูกใช้โดย API ของ PreMiD จะเข้ารหัสด้วย TLS 1.2
+บริการ HTTP-layer ทั้งหมดรวมถึง Protocol (เช่น http) ที่ถูกใช้โดย API ของ PreMiD จะเข้ารหัสด้วย TLS 1.2
 
 # เอกสารอ้างอิง
 > อยู่ระหว่างการพัฒนา! 
