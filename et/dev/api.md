@@ -8,18 +8,18 @@ tags:
 
 # API
 
-> Base URL: https://api.premid.app 
+> Baas URL: https://api.premid.app 
 > 
 > {.is-info}
 
-## API Versioning
+## API versiooni haldamine
 > API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
 PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## Encryption
+## Krüptimine
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
