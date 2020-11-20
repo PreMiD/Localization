@@ -13,11 +13,11 @@ tags:
 > {.is-info}
 
 ## เวอร์ชัน API
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1 ได้หยุดการพัฒนาเเล้ว, คําร้องขอใดๆ จะส่งไปเวอร์ชั่นปัจจุบัน 
 > 
 > {.is-danger}
 
-การจะใช้ API ของ PreMiD ในเวอร์ชั่นอื่น ๆ ของเรา คุณสามารถระบุเวอร์ชันใน Path Request เช่น `https://api.premid.app/v{version_number}` หากไม่ใส่หมายเลขเวอร์ชัน จะเป็นการคำขอไปยังเวอร์ชันเริ่มต้นปัจจุบัน (ที่กูกทำเครื่องหมายด้านล่าง)
+การจะใช้ API ของ PreMiD ในเวอร์ชั่นอื่น ๆ ของเรา คุณสามารถระบุเวอร์ชันใน Path Request เช่น `https://api.premid.app/v{version_number}` หากไม่บอกเวอร์ชั่น จะเป็นการคำขอไปยังเวอร์ชันเริ่มต้นปัจจุบัน (ทําเครื่องหมายไว้ด้านล่าง)
 
 ## การเข้ารหัส
 
@@ -30,5 +30,5 @@ tags:
 
 **เลือกเวอร์ชัน API:**
 - [v2 *ยังใช้อยู่*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 * อยู่ระหว่างการพัฒนา *](/dev/api/v3)
 {.links-list}
