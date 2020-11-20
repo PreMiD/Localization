@@ -75,7 +75,7 @@ tags:
       <th style="text-align:left">ตัวแปร</th>
       <th style="text-align:left">คำอธิบาย</th>
       <th style="text-align:left">ชนิด</th>
-      <th style="text-align:left">ค่าตัวเลือก</th>
+      <th style="text-align:left">ไม่บังคับ</th>
     </tr>
   </thead>
   <tbody>
