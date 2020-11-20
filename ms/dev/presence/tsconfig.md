@@ -9,7 +9,7 @@ editor: markdown
 
 # TypeScript Configuration
 
-## Introduction
+## Pengenalan
 
 Apabila anda memuat turun dan menyahpadat ruang kerja, anda akan nampak fail bernama `tsconfig.js` di akar dan dalam folder Presence, fail ini digunakan untuk menatarajah pengkompil **TypeScript**. It is already configured for you, so don't worry about that.
 

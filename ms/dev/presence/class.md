@@ -9,11 +9,11 @@ editor: markdown
 
 # Kelas Presence
 
-## Introduction
+## Pengenalan
 
 Kelas `Presence` sangat berguna kerana ia mempunyai kaedah asas yang diperlukan untuk mencipta Presence.
 
- When you create a class you must specify `clientId` property.
+ Apabila anda mencipta kelas, anda mesti nyatakan sifat `clientId`.
 
 ```typescript
 let presence = new Presence({
@@ -27,9 +27,9 @@ Terdapat dua sifat yang wujud untuk kelas `Presence`.
 
 Sifat `clientId` mesti disediakan untuk membolehkan Presence anda berfungsi, kerana ia menggunakan id aplikasi anda untuk memaparkan logo dan asetnya.
 
-You can get it on your [applications page](https://discordapp.com/developers/applications).
+Anda boleh dapatkannya di [halaman aplikasi](https://discordapp.com/developers/applications) anda.
 
-## Methods
+## Kaedah
 
 ### `getActivity()`
 
@@ -37,7 +37,7 @@ Mengembalikan objek `presenceData` berkaitan apa yang Presence paparkan.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Tetapkan aktiviti profil anda mengikut data yang diberikan.
 
 Parameter pertama memerlukan antara muka `presenceData` untuk mendapatkan segala maklumat yang ingin dipaparkan di profil anda.
 
@@ -45,15 +45,15 @@ Parameter kedua menentukan sama ada Presence sedang memainkan sesuatu atau tidak
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Mengosongkan aktiviti semasa, ikatan kekunci dan tajuk talam.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Kaedah ini hanya berfungsi di Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Menetapkan tajuk talam di bar menu.
 
 ### `getStrings(Object)`
 
