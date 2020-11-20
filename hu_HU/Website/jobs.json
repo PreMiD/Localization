@@ -31,9 +31,17 @@
 		"message": "Csatlakozz Discord szerverünkre",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "A jelentkezéshez szükséges, hogy Discord szerverünk tagja legyél. Másképp nem tudjuk felvenni veled a kapcsolatot felvételkor!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Legyél te is a PreMiD dolgozója",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Készen állsz arra, hogy a legnagyobb Állapotüzenet program részese legyél?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Álláslehetőségek",
