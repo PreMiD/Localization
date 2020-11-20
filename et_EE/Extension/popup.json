@@ -87,6 +87,10 @@
 		"message": "Sinu PreMiDi rakendus on vananenud. Palun uuenda, et PreMiDi kasutada.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Internetiühendust ei ole!",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Kõik",
 		"description": "Category name shown when you open tags"

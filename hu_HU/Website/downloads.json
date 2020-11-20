@@ -114,5 +114,37 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Kérlek tiltsd le az adblock-ot.",
     "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "Nem adakozok.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "Biztos vagy benne?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "Tényleg?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "K-kérlek támogass :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "Szükségem van rád :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message6": {
+    "message": "Oké, oké...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "Beta verziók megjelenítése",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(nem szükséges ha csak a normál alkalmazást szeretnéd letölteni)",
+    "description": "Small text under the show beta title."
   }
 }
