@@ -57,11 +57,11 @@ Menetapkan tajuk talam di bar menu.
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension. You must provide `Object` with keys being the key for string, `keyValue` is the string value. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Kaedah tak segerak yang membolehkan anda dapatkan rentetan terjemahan dari sambungan. Amda mesti sediakan `Object` dengan kekuncinya sebagai kekunci untuk rentetan, `keyValue` ialah nilai rentetan. Himpunan rentetan terjemahan boleh dijumpai di titik akhir ini: `https://api.premid.app/v2/langFile/extension/ms`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Mengembalikan rentetan `Bermain` dan `Dijedakan`
+// dari sambungan.
 strings = await presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
@@ -73,15 +73,15 @@ const pauseString = strings.pause // result: Playback paused
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Mengembalikan pemboleh ubah dari laman sesawang jika ia wujud.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Ini akan mengelog "Kandungan pemboleh ubah"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Returns version of the extension the user is using.
+Mengembalikan versi sambungan yang pengguna guna.
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
@@ -92,7 +92,7 @@ console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
-Returns value of setting.
+Mengembalikan nilai tetapan.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
@@ -114,12 +114,12 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 
 Antara muka `presenceData` digalakkan penggunaannya apabila anda menggunakan kaedah `setActivity()`.
 
-This interface has following variables, all of them are optional.
+Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Pemboleh ubah</th>
       <th style="text-align:left">Keterangan</th>
       <th style="text-align:left">Jenis</th>
     </tr>
@@ -139,20 +139,20 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Menentukan waktu semasa.<br>
+        Digunakan jika anda ingin paparkan berapa <code>jam:minit:saat</code> yang tinggal.
+          <br>Anda mesti ubah waktu anda ke bentuk <code>cap masa</code> atau anda akan
+          dapat kiraan masa menurun yang salah.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Menentukan jangka masa penuh.
+        <br>Digunakan jika anda ingin paparkan berapa <code>jam:minit:saat</code> yang tinggal.
+          <br>Anda mesti ubah waktu anda ke bentuk <code>cap masa</code> atau anda akan
+          dapat kiraan masa menurun yang salah.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -171,8 +171,8 @@ This interface has following variables, all of them are optional.
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Menentukan tulisan yang akan ditunjukkan kepada pengguna apabila
+        dia melalukan tetikus di atas ikon kecil.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -193,7 +193,7 @@ var presenceData: presenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Peristiwa membolehkan anda kesan dan urus beberapa perubahan atau panggilan yang dibuat. Anda boleh melanggan peristiwa menggunakan kaedah `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {
@@ -201,7 +201,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-There are few events available:
+Terdapat beberapa peristiwa tersedia:
 
 #### `UpdateData`
 
@@ -209,4 +209,4 @@ Peristiwa ini dijalankan setiap kali Presence dikemas kini.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Dijalankan apabila data diterima dari skrip iFrame.

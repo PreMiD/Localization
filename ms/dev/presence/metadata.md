@@ -72,7 +72,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Pemboleh ubah</th>
       <th style="text-align:left">Keterangan</th>
       <th style="text-align:left">Jenis</th>
       <th style="text-align:left">Optional</th>

@@ -121,7 +121,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Pemboleh ubah</th>
       <th style="text-align:left">Keterangan</th>
       <th style="text-align:left">Jenis</th>
       <th style="text-align:left">Optional</th>
@@ -411,7 +411,7 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 - [Kelas Presence](/dev/presence/class)
-- [iFrame Class](/dev/presence/iframe)
+- [Kelas iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig)
 {.links-list}
