@@ -80,9 +80,9 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b>
+      <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presencia. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presencia. Name es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
@@ -90,7 +90,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contribuidores</b>
+      <td style="text-align:left"><b>contributors</b>
       </td>
       <td style="text-align:left">Debería contener un Object con <code>name</code> e <code>id</code> del colaborador. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
@@ -100,7 +100,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>servicio</b>
+      <td style="text-align:left"><b>service</b>
       </td>
       <td style="text-align:left">El título del servicio que soporta esta presencia.</td>
       <td style="text-align:left"><code>String</code>
