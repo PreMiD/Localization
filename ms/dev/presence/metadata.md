@@ -10,7 +10,7 @@ tags:
 
 Jika anda ingin menerbitkan Presence ke kedai dan muatkannya melalui sambungan, anda patut cipta fail `metadata.json` dalam folder `dist` anda.
 
-The example of that file can be found below.
+Contoh fail tersebut boleh dijumpai di bawah.
 
 ```javascript
 {
@@ -65,9 +65,9 @@ The example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Fahamkan fail metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk faham apa tujuan setiap pemboleh ubah.
 
 <table>
   <thead>
@@ -75,7 +75,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Pemboleh ubah</th>
       <th style="text-align:left">Keterangan</th>
       <th style="text-align:left">Jenis</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Pilihan</th>
     </tr>
   </thead>
   <tbody>
