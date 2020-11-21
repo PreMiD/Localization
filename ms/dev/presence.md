@@ -124,7 +124,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <th style="text-align:left">Pemboleh ubah</th>
       <th style="text-align:left">Keterangan</th>
       <th style="text-align:left">Jenis</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Pilihan</th>
     </tr>
   </thead>
   <tbody>

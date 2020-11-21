@@ -7,7 +7,7 @@ tags:
 ---
 
 # Kelas iFrame
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+> Sistem iFrame dengan PreMiD agak bermasalah dan boleh menyebabkan perlakuan tidak menentu, gunakan dengan berhati-hati. 
 > 
 > {.is-danger}
 
@@ -15,7 +15,7 @@ tags:
 
 Dalam sesetengah senario, Presence anda mungkin perlu capai unsur di dalam `iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Kod yang anda tulis di dalam fail `iframe.ts` anda disuntik masuk ke setiap iFrame di halaman tersebut.
 
 Seperti Presence, `iframes` mempunyai kelas mereka sendiri yang direka untuk mengemas kini data secara automatik.
 
@@ -33,9 +33,9 @@ iframe.on("UpdateData", async () => {
 Hantar data ke Presence. Penggunaan kaedah ini akan buatkan Presence mengembalikan peristiwa `iFrameData`.
 
 ### `getUrl()`
-Returns the URL of the `iframe`.
+Mengembalikan URL untuk `iFrame`.
 
-## Events
+## Peristiwa
 Dalam `iframes`, peristiwa dijalankan dengan cara yang serupa dengan cara peristiwa dijalankan dalam kelas `presence`.
 
 ```typescript
@@ -44,8 +44,8 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Here is a list of all of the events:
+Ini senarai kesemua peristiwa:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Peristiwa ini dijalankan setiap kali iFrame dikemas kini.
