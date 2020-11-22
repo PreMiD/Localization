@@ -56,7 +56,7 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "Melihat apa yang disyorkan",
+        "message": "Melihat saranan",
         "description": ""
     },
     "amazon.history": {
@@ -68,7 +68,7 @@
         "description": ""
     },
     "amazon.primeVid": {
-        "message": "Melihat Video Utama:",
+        "message": "Melihat Video Prime:",
         "description": ""
     }
 }

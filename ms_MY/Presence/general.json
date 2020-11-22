@@ -36,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "Mendengar lagu",
+		"message": "Mendengar muzik",
 		"description": ""
 	},
 	"general.listeners": {
@@ -76,11 +76,11 @@
 		"description": ""
 	},
 	"general.readingArticle": {
-		"message": "Membaca artikel:",
+		"message": "Membaca rencana:",
 		"description": ""
 	},
 	"general.readingChannel": {
-		"message": "Membaca dalam saluran:",
+		"message": "Membaca di saluran:",
 		"description": ""
 	},
 	"general.readingPost": {
@@ -116,11 +116,11 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Menaip dalam DM untuk:",
+		"message": "Menaip di DM untuk:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "Menaip dalam saluran:",
+		"message": "Menaip di saluran:",
 		"description": ""
 	},
 	"general.viewAnime": {

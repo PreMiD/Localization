@@ -16,7 +16,7 @@
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
-		"message": "Koordinator Kakitangan",
+		"message": "Penyelaras Kakitangan",
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
