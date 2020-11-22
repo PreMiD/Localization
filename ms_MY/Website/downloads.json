@@ -96,7 +96,7 @@
     "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
   },
   "downloads.warning.message.opera": {
-    "message": "Anda perlu pasang sambungan **ini** untuk memasang PreMiD dari Chrome Webstore.",
+    "message": "Anda perlu pasang sambungan **ini** untuk memasang PreMiD dari Kedai Web Chrome.",
     "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
   },
   "downloads.button.skip": {
