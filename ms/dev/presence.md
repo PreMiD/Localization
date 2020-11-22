@@ -131,21 +131,21 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">Tajuk perkhidmatan yang Presence ini sokong. <br>(Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -164,7 +164,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -174,7 +174,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
         perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@ You could also use regExp also known as Regex for this task, explained further b
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -207,7 +207,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       </td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -216,7 +216,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Versi Presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -225,7 +225,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Pautan ke lakaran kecil Presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
         dari perkhidmatan yang Presence anda sokong.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -254,7 +254,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -263,7 +263,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Rentetan digunakan untuk mewakili kategori yang mana Presence berada. Lihat kategori yang sah <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">di sini</a>.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -272,7 +272,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -281,7 +281,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -291,7 +291,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
       Baca lanjut mengenai tetapan Presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">di sini</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
   </tbody>

@@ -82,21 +82,21 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Should contain Object with <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik penyumbang. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -105,7 +105,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">Tajuk perkhidmatan yang Presence ini sokong.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
         perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. Lihat kategori untuk bahasa Presence untuk senarai. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">Versi Presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">Pautan ke lakaran kecil Presence anda.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
         dari perkhidmatan yang Presence anda sokong.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -192,7 +192,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td
       style="text-align:left"><code>String, Array&lt;String&gt;</code>
         </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -201,7 +201,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">Rentetan digunakan untuk mewakili kategori yang mana Presence berada.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>No</code>
+      <td style="text-align:left"><code>Tidak</code>
       </td>
     </tr>
     <tr>
@@ -210,7 +210,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -219,7 +219,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
       <td style="text-align:left"><code>String</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
-      <td style="text-align:left"><code>Yes</code>
+      <td style="text-align:left"><code>Ya</code>
       </td>
     </tr>
   </tbody>
