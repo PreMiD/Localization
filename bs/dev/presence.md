@@ -18,7 +18,7 @@ Verzija ` 2.x ` uvodi trgovinu [ prisutnosti ](https://premid.app/store). Korisn
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
+- [Smjernice](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Strukture
