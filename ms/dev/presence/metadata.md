@@ -122,7 +122,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left"><b>description</b>
       </td>
       <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan
-        perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. Lihat kategori untuk bahasa Presence untuk senarai. </td>
+        perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, beserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda. Lihat kategori untuk bahasa Presence untuk senarai. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Tidak</code>
@@ -131,8 +131,8 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-        <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b>
+      <td style="text-align:left">URL perkhidmatan.<br><b>Contoh:</b><code>vk.com</code><br>
+        <b>URL ini mesti padan dengan URL laman sesawang kerana ia akan digunakan untuk mengesan sama ada ianya laman sesawang untuk suntikkan skrip atau bukan. Ini hanya boleh digunakan sebagai tatasusunan apabila terdapatnya lebih dari satu URL.</b>
       </td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
       </td>
@@ -142,7 +142,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     <tr>
       <td style="text-align:left"><b>regExp</b>
       </td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Rentetan ungkapan nalar digunakan untuk padankan URL.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Ya</code>
@@ -225,7 +225,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     <tr>
       <td style="text-align:left"><b>settings</b>
       </td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Tatasusunan tetapan yang pengguna boleh ubah</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Ya</code>
@@ -234,21 +234,21 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
   </tbody>
 </table>
 
-## Regular Expressions
+## Ungkapan Nalar
 
-If you want to learn regular expressions, here are a few websites.
+Jika anda ingin belajar ungkapan nalar, di sini ada beberapa laman sesawang.
 
-#### Learning
+#### Belajar
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Video Permulaan Pantas (Bahasa Inggeris)](https://youtu.be/sXQxhojSdZM) • [RegexOne (Bahasa Inggeris)](https://regexone.com/) • [Maklumat Ungkapan Nalar (Bahasa Inggeris)](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Menguji
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
 ## Bahasa Presence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list).
+PreMiD ialah perkhidmatan pelbagai bahasa, maksudnya terdapat banyak bahasa terlibat untuk berhubung dengan pengguna di seluruh dunia. Senarai penuh bahasa boleh dijumpai di [titik akhir API](https://api.premid.app/v2/langFile/list) ini.
 
 ## Tetapan Presence
 Tetapkan tetapan saling tindak supaya pengguna boleh mengubah suai Presence tersebut!
@@ -282,7 +282,7 @@ Tetapkan tetapan saling tindak supaya pengguna boleh mengubah suai Presence ters
 
 Gunakan kaedah berikut untuk mendapatkan maklumat tetapan dalam fail Presence anda:
 ### `getSetting(String)`
-Returns value of setting.
+Mengembalikan nilai tetapan.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
