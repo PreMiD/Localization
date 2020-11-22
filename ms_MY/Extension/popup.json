@@ -80,11 +80,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Apl Ketinggalan Zaman",
+		"message": "Aplikasi Ketinggalan Zaman",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Apl PreMiD anda ketinggalan zaman. Sila kemas kininya untuk terus menggunakan PreMiD.",
+		"message": "Aplikasi PreMiD anda ketinggalan zaman. Sila kemas kini untuk terus menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.noInternet": {
@@ -112,7 +112,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.music": {
-		"message": "Lagu",
+		"message": "Muzik",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
