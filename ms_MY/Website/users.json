@@ -24,7 +24,7 @@
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "[Presence/sumbangan] Pengguna",
+		"message": "[Presence/Sumbangan] Pengguna",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
