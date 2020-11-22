@@ -295,20 +295,20 @@ presence.hideSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Tunjukkan tetapan yang diberi (Hanya berfungsi jika tetapan disembunyikan).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
 ```
 
 ## Kategori Presence
 
-Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence tersebut berada. This is a compiled list of the categories that you can use.
+Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence tersebut berada. Ini senarai semua kategori yang anda boleh guna.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategori</th>
+      <th style="text-align:left">Nama</th>
       <th style="text-align:left">Keterangan</th>
     </tr>
   </thead>
@@ -316,37 +316,37 @@ Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Apa-apa yang berkaitan dengan anime, dari forum ke platform penstriman video.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
     <td style="text-align:left"><b>Permainan</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Sebarang laman web yang mempunyai kandungan berkaitan permainan, contohnya <code>Kahoot</code> atau <code>Skribbl.io</code></td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
     <td style="text-align:left"><b>Lagu</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Ini laman sesawang yang menawarkan kandungan berkaitan muzik, sama ada melalui penstriman atau muat turun.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sosial</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Laman sesawang yang digunakan untuk tujuan penciptaan dan perkongsian kandungan atau untuk disertai dalam bentuk rangkaian sosial yang lain.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Video & Strim</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Laman web yang bertujuan untuk menyediakan video dan strim.</td>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
     <td style="text-align:left"><b>Lain-lain</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Apa-apa yang tidak berada di bawah mana-mana kategori khusus di atas.</td>
       </td>
     </tr>
   </tbody>
