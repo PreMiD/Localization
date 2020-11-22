@@ -284,14 +284,14 @@ Gunakan kaedah berikut untuk mendapatkan maklumat tetapan dalam fail Presence an
 ### `getSetting(String)`
 Mengembalikan nilai tetapan.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
+console.log(setting); // Ini akan log nilai tetapan
 ```
 
 ### `hideSetting(String)`
-Hides given setting.
+Menyembunyikan tetapan yang diberikan.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
 ```
 
 ### `showSetting(String)`
