@@ -4,7 +4,7 @@
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Vendo Prefencias de Publicidade ",
+        "message": "Vendo Preferencias de Publicidade",
         "description": ""
     },
     "amazon.balance": {
@@ -36,7 +36,7 @@
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
-        "message": "Historico de Encomendas",
+        "message": "Histórico de Encomendas",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
@@ -56,11 +56,11 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "Ver Encomendas",
+        "message": "Visualizando recomendados",
         "description": ""
     },
     "amazon.history": {
-        "message": "Ver Historico",
+        "message": "Ver Histórico",
         "description": ""
     },
     "amazon.store": {
