@@ -12,7 +12,7 @@
 		"description": "Section description"
 	},
 	"beta.features.1": {
-		"message": "Ciri-ciri terbaharu",
+		"message": "Ciri-ciri terbaru",
 		"description": "Features list"
 	},
 	"beta.features.2": {
@@ -24,7 +24,7 @@
 		"description": "Features list"
 	},
 	"beta.register.text": {
-		"message": "Anda bersedia? Sertai {0} orang Penguji Beta yang lain!",
+		"message": "Anda bersedia? Sertai {0} Penguji Beta yang lain!",
 		"description": "{0} will be replaced with the beta testers count -> is a variable"
 	},
 	"beta.register.button": {
