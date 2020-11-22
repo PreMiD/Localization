@@ -17,15 +17,15 @@ Kada objavljujete Prisutnosti na ovom GitHub-u, od vas tražimo da slijedite niz
 Opća pravila razvoja prisutnosti su sljedeća:
 
 - Prisutnosti **moraju** biti povezane s odabranom web lokacijom.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Prisutnosti **ne mogu se** praviti za ilegalne web stranice. (for e.g., stressors, drug marketing, child pornography, etc.)
+- Struktura datoteke mora biti čista i njome se mora upravljati, ne uključuju datoteke koje nisu specificirane. (za npr. vscode i git mape, slikovne i tekstualne datoteke itd.)
+- Morate imati odgovarajuću strukturu datoteka, skice **nisu** dopuštene.
+- Prisutnosti za web lokacije sa (`.onion ` TLD-ovima) ili web lokacije sa besplatnim domenima / hostovima (npr. `.TK ` [sve besplatne Freenom domene], `.RF </ code>, <code> GD `, itd.) ** nisu** dozvoljeni, mogu se napraviti izuzeci ako se predoči dokaz da su platili domenu.
+- Prisutnost koja cilja interne stranice pregledača (poput Chrome web trgovine, ` chrome: // `, ` about: ` stranice itd.) Nisu ** ne < / strong> dopušteno jer zahtijevaju eksperimentalnu zastavicu koja mora biti omogućena na kraju korisnika i potencijalno može nanijeti štetu njihovim preglednicima.</li>
+- Prisutnosti s podrškom za samo jednu poddomenu neće biti ** ** dozvoljene, jer mogu izgledati pokvareno za druge stranice (poput početne stranice), mogu se napraviti izuzeci za politiku i kontakt stranice (sadržaj koji se ne koristi često) ili web lokacije na kojima drugi sadržaj nije povezan. (for e.g., wikia pages)
+- Prisutnosti za mrežne radio stanice dozvoljene su samo ako radio ima najmanje 100 slušatelja tjedno i 15 istovremeno.
+- Prisutnosti niskog kvaliteta (ili one s malo konteksta) **nisu ** dozvoljene (npr. Samo prikazuju logotip i tekst, ali ih više nikada ne mijenjaju.)
+- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:</ul>
 
 ```bash
 presence
