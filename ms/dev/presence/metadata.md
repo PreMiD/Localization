@@ -327,7 +327,7 @@ Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence 
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-    <td style="text-align:left"><b>Lagu</b></td>
+    <td style="text-align:left"><b>Muzik</b></td>
       <td style="text-align:left">Ini laman sesawang yang menawarkan kandungan berkaitan muzik, sama ada melalui penstriman atau muat turun.</td>
       </td>
     </tr>
