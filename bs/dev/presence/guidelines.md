@@ -1,6 +1,6 @@
 ---
-title: Guidelines
-description: Rules all presence developers must follow to have their presence added.
+title: Smjernice
+description: Pravila kojih se moraju pridržavati svi programeri prisutnosti kako bi im se dodala njihova prisutnost.
 published: true
 date: 2020-11-16T23:08:49.727Z
 tags:
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Smjernice
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Kada objavljujete Prisutnosti na ovom GitHub-u, od vas tražimo da slijedite niz smjernica. Nekima se ova stroga pravila mogu činiti grubima. Međutim, implementacija ovih skupova pravila spriječit će nas i korisnike da nailazimo na bilo kakve probleme.
 
-# Creation
+# Kreacija
 
-The general rules of presence development are as follows:
+Opća pravila razvoja prisutnosti su sljedeća:
 
-- Presences **must** be related to the website of choice.
+- Prisutnosti **moraju** biti povezane s odabranom web lokacijom.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
 - The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
 - You need to have a proper file structure, drafts are **not** allowed.
