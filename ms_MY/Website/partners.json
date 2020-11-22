@@ -183,6 +183,10 @@
 		"message": "Lain-lain",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "Nama",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Cth: PreMiD",
 		"description": "Name field's placeholder."
