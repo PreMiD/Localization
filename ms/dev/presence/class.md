@@ -105,9 +105,9 @@ presence.hideSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
 ```
 
 ### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Tunjukkan tetapan yang diberi (Hanya berfungsi jika tetapan disembunyikan).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
 ```
 
 ## Antara Muka `presenceData`
