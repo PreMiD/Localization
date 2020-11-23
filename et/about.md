@@ -13,6 +13,6 @@ PreMiD is a simple, configurable utility that allows you to show what you're doi
 - Kogu meie projekt on avatud lähtekoodiga! Me tahame töötada oma kasutajatega - mitte nende vastu.
 - A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
 
-# Core features
+# Põhiomadused
 - Displays your current web service in Discord as your status.
 - Grants full control over Presences.
