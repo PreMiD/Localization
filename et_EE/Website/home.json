@@ -1,4 +1,8 @@
 {
+	"home.introduction.button.features": {
+		"message": "Funktsioonid",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Allalaadimised",
 		"description": "Downloads button -> redirects to /downloads page"
