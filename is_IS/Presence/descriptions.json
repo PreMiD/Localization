@@ -1,6 +1,0 @@
-{
-    "descriptions.discord_extreme list": {
-        "message": "Óhlutdrægur listi Discord, sem gefur vélum og netþjónum af öllum stærðum stór tækifæri!",
-        "description": "The presence description of the \"Discord Extreme List\" presence.\nIf \"Discord Extreme List\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord%20Extreme%20List/dist/metadata.json"
-    }
-}

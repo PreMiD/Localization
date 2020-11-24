@@ -1,6 +1,0 @@
-{
-    "descriptions.animex": {
-        "message": "AnimeX je bezplatná stránka pro streamování anime bez reklam.",
-        "description": "The presence description of the \"AnimeX\" presence.\nIf \"AnimeX\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeX/dist/metadata.json"
-    }
-}
