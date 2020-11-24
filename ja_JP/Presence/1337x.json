@@ -1,10 +1,14 @@
 {
     "1337x.movieLibrary": {
-        "message": "映画ライブラリーを見る",
+        "message": "映画ライブラリーを閲覧中",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "シリーズライブラリを閲覧中",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "最新のエピソードを見る",
+        "message": "最新のエピソードを閲覧中",
         "description": ""
     },
     "1337x.top": {
