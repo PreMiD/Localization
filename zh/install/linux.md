@@ -1,14 +1,14 @@
 ---
 title: Linux
-description: 开始在 Linux 上安装PreMiD
-published: true
+description: Getting started with a PreMiD installation on Linux
+published: 是
 date: 2020-11-10T18:06:56.520Z
 tags:
-editor: markdown
+editor: 標記
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-安装应用程序非常重要，因为扩展本身无法做任何事情。
+軟體的安裝非常重要，因為擴充功能無法自行做任何的操作
 
 > Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
@@ -16,14 +16,14 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ## Table of Contents
 
-- **[关于](#about)**
+- **[關於](#about)**
   - [Stats](#stats)
-  - [B. 所需经费](#requirements)
+  - [需求](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [制作人员名单](#credits)
+  - [特別感謝](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -35,7 +35,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="about"></a>
 
-## 关于
+## 關於
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -58,7 +58,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="requirements"></a>
 
-### B. 所需经费
+### 需求
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -73,14 +73,14 @@ It is unknown whether older versions of other distributions support it, so just 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="加入我们的 Discord 服务器!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="加入我们的 Discord 服务器!">
+  <a target="_blank" href="https://discord.premid.app/" title="加入我們的 Discord 服務器!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="加入我們的 Discord 服務器!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### 制作人员名单
+### 特別感謝
 
 Thanks to :
 
