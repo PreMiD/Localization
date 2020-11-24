@@ -1,0 +1,38 @@
+{
+    "descriptions.electron": {
+        "message": "wórz wieloplatformowe aplikacje z użyciem języków JavaScript, HTML oraz CSS",
+        "description": "The presence description of the \"Electron\" presence.\nIf \"Electron\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Electron/dist/metadata.json"
+    },
+    "descriptions.discordlabs.org": {
+        "message": "Sprawdź naszą niesamowitą listę zatwierdzonych przez laboratorium botów discord!",
+        "description": "The presence description of the \"DiscordLabs.org\" presence.\nIf \"DiscordLabs.org\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/DiscordLabs.org/dist/metadata.json"
+    },
+    "descriptions.github": {
+        "message": "GitHub to system do zarządzania projektami i wersjonowania kodu, a także platforma społecznościowa stworzona dla programistów.",
+        "description": "The presence description of the \"GitHub\" presence.\nIf \"GitHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GitHub/dist/metadata.json"
+    },
+    "descriptions.osu!ppy": {
+        "message": "rytm jest tylko o *klik* stąd! Z Ouendanem/EBA, Taiko i oryginalnymi trybami gry, a także w pełni funkcjonalnym edytorem!",
+        "description": "The presence description of the \"osu!ppy\" presence.\nIf \"osu!ppy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ppy/dist/metadata.json"
+    },
+    "descriptions.shinden": {
+        "message": "Polska strona, na której można obejrzeć anime",
+        "description": "The presence description of the \"Shinden\" presence.\nIf \"Shinden\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Shinden/dist/metadata.json"
+    },
+    "descriptions.discord_extreme list": {
+        "message": "Niezależna lista Discord, która daje dużą szansę botom i serwerom każdej wielkości!",
+        "description": "The presence description of the \"Discord Extreme List\" presence.\nIf \"Discord Extreme List\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord%20Extreme%20List/dist/metadata.json"
+    },
+    "descriptions.roll20": {
+        "message": "Graj tam gdzie chcesz. Graj z kim chcesz. Z wirtualnym stołem Roll20, możesz prowadzić prowadzić swoje przygody bez żadnych limitów.",
+        "description": "The presence description of the \"Roll20\" presence.\nIf \"Roll20\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Roll20/dist/metadata.json"
+    },
+    "descriptions.google_podcast": {
+        "message": "Z Google Podcast, możesz odkrywac i słuchać podcasty za darmo",
+        "description": "The presence description of the \"Google Podcast\" presence.\nIf \"Google Podcast\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Podcast/dist/metadata.json"
+    },
+    "descriptions.dropbox": {
+        "message": "Dropbox to usługa świadczona przez Dropbox, Inc. polegająca na udostępnieniu przestrzeni dyskowej na serwerach tej firmy. Wysyłanie, przeglądanie i pobieranie danych jest możliwe poprzez zwykłą przeglądarkę lub poprzez dedykowaną aplikację zainstalowaną na komputerze.",
+        "description": "The presence description of the \"Dropbox\" presence.\nIf \"Dropbox\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Dropbox/dist/metadata.json"
+    }
+}

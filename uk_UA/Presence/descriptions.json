@@ -1,0 +1,150 @@
+{
+    "descriptions.4anime": {
+        "message": "Дивитися аніме онлайн у високій якості 1080p з англійськими субтитрами. Сідайте і відпочивайте!",
+        "description": "The presence description of the \"4anime\" presence.\nIf \"4anime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/4anime/dist/metadata.json"
+    },
+    "descriptions.anihub": {
+        "message": "Anihub - це бразильський веб-сайт, який забезпечує місце для перегляду безкоштовного аніме контенту, як в Інтернеті, так і в автономному режимі без будь-якої дратуючої реклами.",
+        "description": "The presence description of the \"Anihub\" presence.\nIf \"Anihub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anihub/dist/metadata.json"
+    },
+    "descriptions.arena_of kings": {
+        "message": "Arena of Kings - це браузерна гра з PvP ареною нового покоління з постійними оновленнями. Об’єднайте свої сили з героями, щоб зайняти трон!",
+        "description": "The presence description of the \"Arena of Kings\" presence.\nIf \"Arena of Kings\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Arena%20of%20Kings/dist/metadata.json"
+    },
+    "descriptions.crunchyroll": {
+        "message": "Crunchyroll — найбільше у світі місце аніме та манги, яке може похвалитися світовою спільнотою з понад 45 мільйонів зареєстрованих користувачів та понад 2 мільйони підписників.",
+        "description": "The presence description of the \"Crunchyroll\" presence.\nIf \"Crunchyroll\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Crunchyroll/dist/metadata.json"
+    },
+    "descriptions.dlive": {
+        "message": "DLive.tv — найбільша спільнота потокової трансляції у блокчейні, що працює на базі блокчейна Lino.",
+        "description": "The presence description of the \"dlive\" presence.\nIf \"dlive\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/dlive/dist/metadata.json"
+    },
+    "descriptions.deezer": {
+        "message": "Слухайте улюблену музику у будь-який час будь-де.",
+        "description": "The presence description of the \"Deezer\" presence.\nIf \"Deezer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Deezer/dist/metadata.json"
+    },
+    "descriptions.dueling_nexus": {
+        "message": "duelingnexus.com не має симулятора, а також відвідає багато навігацій.",
+        "description": "The presence description of the \"Dueling Nexus\" presence.\nIf \"Dueling Nexus\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Dueling%20Nexus/dist/metadata.json"
+    },
+    "descriptions.fiplay": {
+        "message": "FiPlay — це сайт з Фінляндії, який створений для перегляду онлайн фільмів чи серіалів.",
+        "description": "The presence description of the \"FiPlay\" presence.\nIf \"FiPlay\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FiPlay/dist/metadata.json"
+    },
+    "descriptions.giphy": {
+        "message": "Giphy - це система пошуку та створення GIF.",
+        "description": "The presence description of the \"Giphy\" presence.\nIf \"Giphy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Giphy/dist/metadata.json"
+    },
+    "descriptions.hbo_go": {
+        "message": "HBO GO - послуга стрімінгової передачі HBO, яка пропонує телевізійним провайдерам-учасникам, що надає вам необмежений доступ до HBO на вашому комп’ютері, мобільному телефоні, планшеті та інших пристроях.",
+        "description": "The presence description of the \"HBO GO\" presence.\nIf \"HBO GO\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/HBO%20GO/dist/metadata.json"
+    },
+    "descriptions.google_play music": {
+        "message": "Безкоштовне радіо для всього, що ви робите. Зберігайте 50 000 композицій у особистій колекції. Підпишіться для доступу за потребою до 40 мільйонів пісень та прослуховування в режимі офлайн.",
+        "description": "The presence description of the \"Google Play Music\" presence.\nIf \"Google Play Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Play%20Music/dist/metadata.json"
+    },
+    "descriptions.github": {
+        "message": "GitHub — це система управління проектами та версіями коду, а також платформа соціальної мережі, створена для розробників.",
+        "description": "The presence description of the \"GitHub\" presence.\nIf \"GitHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GitHub/dist/metadata.json"
+    },
+    "descriptions.hulu": {
+        "message": "Дивіться поточні хітові шоу, класичні серіали та відомі фільми миттєво з Hulu.",
+        "description": "The presence description of the \"Hulu\" presence.\nIf \"Hulu\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/Hulu/dist/metadata.json"
+    },
+    "descriptions.instagram": {
+        "message": "Простий, веселий та творчий спосіб зйомки, редагування та обміну фотографіями, відео та повідомленнями з друзями та родиною.",
+        "description": "The presence description of the \"Instagram\" presence.\nIf \"Instagram\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Instagram/dist/metadata.json"
+    },
+    "descriptions.netflix": {
+        "message": "Netflix - це лідер Інтернет-розваг у світі, що має 139 мільйонів платних підписників у понад 190 країнах, які дивляться телесеріали, документальні фільми та художні фільми у широкому спектрі жанрів та мов.",
+        "description": "The presence description of the \"Netflix\" presence.\nIf \"Netflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Netflix/dist/metadata.json"
+    },
+    "descriptions.plug.dj": {
+        "message": "Слухайте, грайте, відкривайте для себе та спілкуйтесь із фанатами музики по всьому світу!",
+        "description": "The presence description of the \"plug.dj\" presence.\nIf \"plug.dj\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/plug.dj/dist/metadata.json"
+    },
+    "descriptions.niconico": {
+        "message": "niconico — це найбільший розважальний сервіс в Японії. Насолоджуйтесь відео у niconico з відео коментарями та прямою трансляцією на niconico, що дозволяє коментувати програми прямої трансляції, а також niconico Seiga із зображеннями, ілюстраціями, електронними книгами, мангою, новинами, блогами та тривимірним вмістом безкоштовно!",
+        "description": "The presence description of the \"niconico\" presence.\nIf \"niconico\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/niconico/dist/metadata.json"
+    },
+    "descriptions.myanimelist": {
+        "message": "Найактивніша спільнота для створення бази даних аніме та манги в світі. Приєднуйтесь до нас, створюйте свій список аніме та манги та багато чого іншого!",
+        "description": "The presence description of the \"MyAnimeList\" presence.\nIf \"MyAnimeList\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MyAnimeList/dist/metadata.json"
+    },
+    "descriptions.mixcloud": {
+        "message": "Слухайте найкращих діджеїв та радіоведучих у цілому світі безкоштовно.",
+        "description": "The presence description of the \"Mixcloud\" presence.\nIf \"Mixcloud\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Mixcloud/dist/metadata.json"
+    },
+    "descriptions.nekos.life": {
+        "message": "Неко робить ваш день яскравим - nekos.life надає вам тисячі зображень SFW та NSFW з nekos (кішка-дівчина).",
+        "description": "The presence description of the \"nekos.life\" presence.\nIf \"nekos.life\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/nekos.life/dist/metadata.json"
+    },
+    "descriptions.pornhub": {
+        "message": "PornHub - це безкоштовний порно-сайт, номер один у світі, який містить сотні тисяч безкоштовних відео, включаючи безкоштовну HD якість та можливості завантаження.",
+        "description": "The presence description of the \"PornHub\" presence.\nIf \"PornHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PornHub/dist/metadata.json"
+    },
+    "descriptions.toradorapi": {
+        "message": "Пропонуємо вам безліч скріншотів і фанатських артів з аніме Торадора",
+        "description": "The presence description of the \"ToradorAPI\" presence.\nIf \"ToradorAPI\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/ToradorAPI/dist/metadata.json"
+    },
+    "descriptions.union_mangás": {
+        "message": "Union Mangás - це бразильський сайт манги. Читайте свої улюблені манги португальською швидко та зручно!",
+        "description": "The presence description of the \"Union Mangás\" presence.\nIf \"Union Mangás\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/U/Union%20Mang%C3%A1s/dist/metadata.json"
+    },
+    "descriptions.vk": {
+        "message": "Цей статус буде показувати штуки, які ви зазвичай робите у ВК. Оновлює інформацію про музику (якщо ви на сторінкці Музика), інформацію про відео! (коли Ви дивитеся його) та інформацію про групи або профілі, які Ви переглядаєте.",
+        "description": "The presence description of the \"VK\" presence.\nIf \"VK\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VK/dist/metadata.json"
+    },
+    "descriptions.wims": {
+        "message": "Ця присутність призначена для теми WIMS за замовчуванням. WIMS - це багатоцільовий серверний проект, призначений для математичних вправ. Поставте це прямо зараз, щоб показати людям, як ви наполегливо працюєте над своїми завданнями.",
+        "description": "The presence description of the \"WIMS\" presence.\nIf \"WIMS\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/WIMS/dist/metadata.json"
+    },
+    "descriptions.redtube": {
+        "message": "RedTube - це провідна платформа для обміну відео для дорослих.",
+        "description": "The presence description of the \"RedTube\" presence.\nIf \"RedTube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RedTube/dist/metadata.json"
+    },
+    "descriptions.twist.moe": {
+        "message": "twist.moe - безкоштовний веб-сайт для стрімінгу аніме.",
+        "description": "The presence description of the \"twist.moe\" presence.\nIf \"twist.moe\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/twist.moe/dist/metadata.json"
+    },
+    "descriptions.stack_overflow": {
+        "message": "Stack Overflow — це відкрита спільнота для всіх, хто кодує. Це допомагає вам отримати відповіді на ваші найскладніші запитання з кодування, ділитися знаннями з колегами приватно і знайти наступну роботу мрії.",
+        "description": "The presence description of the \"Stack Overflow\" presence.\nIf \"Stack Overflow\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Stack%20Overflow/dist/metadata.json"
+    },
+    "descriptions.twitch": {
+        "message": "Twitch - це провідна в світі платформа прямого ефіру для геймерів та речей, які ми любимо. Дивіться та спілкуйтеся зараз із мільйонами інших шанувальників з усього світу.",
+        "description": "The presence description of the \"Twitch\" presence.\nIf \"Twitch\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Twitch/dist/metadata.json"
+    },
+    "descriptions.yu-gi-oh_top decks": {
+        "message": "Верхні колоди Yu-Gi-Oh - це база даних кращих колодних списків.",
+        "description": "The presence description of the \"Yu-Gi-Oh Top Decks\" presence.\nIf \"Yu-Gi-Oh Top Decks\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/Yu-Gi-Oh%20Top%20Decks/dist/metadata.json"
+    },
+    "descriptions.soundcloud": {
+        "message": "SoundCloud - це платформа потокової передачі музики та подкастів, яка дозволяє слухати мільйони пісень з усього світу або завантажувати власні.",
+        "description": "The presence description of the \"SoundCloud\" presence.\nIf \"SoundCloud\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SoundCloud/dist/metadata.json"
+    },
+    "descriptions.xvideos": {
+        "message": "XVideos — це безкоштовний сервіс хостингу для порно відео.",
+        "description": "The presence description of the \"XVideos\" presence.\nIf \"XVideos\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/X/XVideos/dist/metadata.json"
+    },
+    "descriptions.youtube": {
+        "message": "Насолоджуйтесь улюбленими відео та музикою, завантажуйте оригінальний вміст і діліться цим усім з друзями, родиною та світом на YouTube.",
+        "description": "The presence description of the \"YouTube\" presence.\nIf \"YouTube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YouTube/dist/metadata.json"
+    },
+    "descriptions.reddit": {
+        "message": "Reddit дає вам все найкраще в Інтернеті в одному місці. Отримайте постійно оновлювані новини, цікаві історії, фотографії, меми та відео лише для вас.",
+        "description": "The presence description of the \"Reddit\" presence.\nIf \"Reddit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Reddit/dist/metadata.json"
+    },
+    "descriptions.simply_hentai": {
+        "message": "Simply Hentai це безкоштовний хостинговий сервіс для хентайних манг",
+        "description": "The presence description of the \"Simply Hentai\" presence.\nIf \"Simply Hentai\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Simply%20Hentai/dist/metadata.json"
+    },
+    "descriptions.wikipedia": {
+        "message": "Вікіпедія — це багатомовна онлайн-енциклопедія, заснована на відкритій співпраці через систему редагування вмісту на основі вікі.",
+        "description": "The presence description of the \"Wikipedia\" presence.\nIf \"Wikipedia\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikipedia/dist/metadata.json"
+    },
+    "descriptions.youtube_music": {
+        "message": "Новий музична сервіс з офіційними альбомами, синглами, відео, реміксами, виступами у прямому ефірі та багато іншого для Android, iOS та настільних ПК. Тут все.",
+        "description": "The presence description of the \"YouTube Music\" presence.\nIf \"YouTube Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YouTube%20Music/dist/metadata.json"
+    }
+}

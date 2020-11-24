@@ -1,0 +1,38 @@
+{
+    "descriptions.anime-sugoi": {
+        "message": "Anime-Sugoi เว็ปไซต์สตรีมมิ่งอนิเมะที่ทุกคนชื่นชอบ ฟรีเเละมีซับไทย",
+        "description": "The presence description of the \"Anime-Sugoi\" presence.\nIf \"Anime-Sugoi\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anime-Sugoi/dist/metadata.json"
+    },
+    "descriptions.blockdit": {
+        "message": "Blockdit เป็นแพลตฟอร์มเครือข่ายสังคมออนไลน์ที่เชื่อมโยงความคิดที่ยอดเยี่ยมทั้งหมดเข้าด้วยกัน Blockdit นำเสนอเรื่องราวความคิดและความรู้ที่น่าทึ่งใน 'บล็อก' ซึ่งอ่านง่าย",
+        "description": "The presence description of the \"Blockdit\" presence.\nIf \"Blockdit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Blockdit/dist/metadata.json"
+    },
+    "descriptions.electron": {
+        "message": "สร้างแอปที่ใช้งานข้ามแพลตฟอร์มได้ด้วย JavaScript, HTML และ CSS",
+        "description": "The presence description of the \"Electron\" presence.\nIf \"Electron\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Electron/dist/metadata.json"
+    },
+    "descriptions.joox": {
+        "message": "JOOX - music แพล็ตฟอร์มบริการฟังเพลง สตรีมเพลง ที่ให้คุณเข้าถึงเพลงนับล้าน ดาวน์โหลด JOOX ฟรี ฟังเพลงฟรี ฟังวิทยุออนไลน์ ชาร์ตเพลงล่าสุด เพลย์ลิสต์ เพลงออกใหม่",
+        "description": "The presence description of the \"Joox\" presence.\nIf \"Joox\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/J/Joox/dist/metadata.json"
+    },
+    "descriptions.osu!ppy": {
+        "message": "จังหวะนั้นอยู่ห่างแค่คลิกเดียว! ด้วย Ouendan/EBA, Taiko และเกมโหมดดั้งเดิมอีกมากมาย พร้อมทั้งหน้าต่างแก้ไขที่ใช้งานได้อย่างสมบูรณ์",
+        "description": "The presence description of the \"osu!ppy\" presence.\nIf \"osu!ppy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ppy/dist/metadata.json"
+    },
+    "descriptions.pantip": {
+        "message": "ร่วมพูดคุยแลกเปลี่ยนความคิดเห็นในทุกประเด็น ทั้งบันเทิง หุ้น ความงาม ท่องเที่ยว รถยนต์ กีฬา โทรศัพท์มือถือ อาหาร การเมือง ครอบครัว บ้าน วิทยาศาสตร์ สุขภาพ ธุรกิจ.",
+        "description": "The presence description of the \"Pantip\" presence.\nIf \"Pantip\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Pantip/dist/metadata.json"
+    },
+    "descriptions.snowboltz": {
+        "message": "SnowBoltz ร้านรับเติม ROBUX (R$, โรบัค) ในเกม ROBLOX ที่ใช้ง่าย บริการจัดส่งอัตโนมัติรวดเร็วทันใจ เรทสุดคุ้ม 4 - 6 เเบบกลุ่มเเละ ID - Pass เรท 5 - 8",
+        "description": "The presence description of the \"SnowBoltz\" presence.\nIf \"SnowBoltz\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SnowBoltz/dist/metadata.json"
+    },
+    "descriptions.fairyanime": {
+        "message": "FairyAnime เว็ปไซต์สตรีมมิ่งอนิเมะที่ทุกคนชื่นชอบ ฟรีเเละมีซับไทย",
+        "description": "The presence description of the \"FairyAnime\" presence.\nIf \"FairyAnime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FairyAnime/dist/metadata.json"
+    },
+    "descriptions.reaperx": {
+        "message": "ReaperX ร้านรับเติม ROBUX (R$, โรบัค) ด้วยการบริการเเบบมืออาชีพ บริการของเราเป็นที่นิยมเเละราคาถูก",
+        "description": "The presence description of the \"ReaperX\" presence.\nIf \"ReaperX\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/ReaperX/dist/metadata.json"
+    }
+}

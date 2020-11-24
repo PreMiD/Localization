@@ -1,0 +1,426 @@
+{
+    "descriptions.9gag": {
+        "message": "9GAG是一个社交媒体网站。使用者们在此上传并分享“用户自创”的图像与视频。",
+        "description": "The presence description of the \"9GAG\" presence.\nIf \"9GAG\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/9GAG/dist/metadata.json"
+    },
+    "descriptions.akinator": {
+        "message": "《阿基纳多》是个基于20个问题的网络游戏和手机应用程序，其将会问出不同的问题来猜出玩家正在想的人物或角色。这个游戏是个能够找出最适合询问玩家的问题并学习的人工智能程序。",
+        "description": "The presence description of the \"Akinator\" presence.\nIf \"Akinator\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Akinator/dist/metadata.json"
+    },
+    "descriptions.anghami": {
+        "message": "您喜欢的音乐，以及您需要的所有。阿拉伯和国际合而为一！",
+        "description": "The presence description of the \"Anghami\" presence.\nIf \"Anghami\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anghami/dist/metadata.json"
+    },
+    "descriptions.amazon_music": {
+        "message": "Amazon Music是由Amazon.com经营的音乐媒体平台和在线音乐商店。",
+        "description": "The presence description of the \"Amazon Music\" presence.\nIf \"Amazon Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Amazon%20Music/dist/metadata.json"
+    },
+    "descriptions.1cak": {
+        "message": "1CAK是印度尼西亚的娱乐网站，提供用户上传的图像和视频。 该网站也因各种网络梗而被称为娱乐提供商。 1CAK用户可以选择图像并对其进行评论。 热门图片将会出现在主网站上。",
+        "description": "The presence description of the \"1CAK\" presence.\nIf \"1CAK\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/1CAK/dist/metadata.json"
+    },
+    "descriptions.1337x": {
+        "message": "1337x是一个搜索引擎，可查找您喜欢的BitTorrent文件。",
+        "description": "The presence description of the \"1337x\" presence.\nIf \"1337x\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/1337x/dist/metadata.json"
+    },
+    "descriptions.4anime": {
+        "message": "观看带有字幕的1080p高品质在线动漫。快来放松一下！",
+        "description": "The presence description of the \"4anime\" presence.\nIf \"4anime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/4anime/dist/metadata.json"
+    },
+    "descriptions.all_the flavors": {
+        "message": "alltheflavors.com是一个DIY食谱教程网站。",
+        "description": "The presence description of the \"All The Flavors\" presence.\nIf \"All The Flavors\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/All%20The%20Flavors/dist/metadata.json"
+    },
+    "descriptions.巴哈姆特動畫瘋": {
+        "message": "完全免费的动画平台。",
+        "description": "The presence description of the \"巴哈姆特動畫瘋\" presence.\nIf \"巴哈姆特動畫瘋\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/#/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E5%8B%95%E7%95%AB%E7%98%8B/dist/metadata.json"
+    },
+    "descriptions.aliexpress": {
+        "message": "全球速卖通是一个面向全球市场的网络购物平台。",
+        "description": "The presence description of the \"AliExpress\" presence.\nIf \"AliExpress\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AliExpress/dist/metadata.json"
+    },
+    "descriptions.巴哈姆特": {
+        "message": "华人最大动漫及游戏社群网站，提供ACG 每日最新新闻、热门排行榜，以及丰富的讨论交流空间，还有精彩的个人影音实况、部落格文章。",
+        "description": "The presence description of the \"巴哈姆特\" presence.\nIf \"巴哈姆特\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/#/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9/dist/metadata.json"
+    },
+    "descriptions.网易云音乐": {
+        "message": "网易云音乐是一款由网易开发的音乐产品，目前是中国大陆最大的音乐平台之一。",
+        "description": "The presence description of the \"网易云音乐\" presence.\nIf \"网易云音乐\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/#/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/dist/metadata.json"
+    },
+    "descriptions.4gamers": {
+        "message": "一家台湾电竞规划、执行、行销和转播的整合公司。",
+        "description": "The presence description of the \"4gamers\" presence.\nIf \"4gamers\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/4gamers/dist/metadata.json"
+    },
+    "descriptions.5mods": {
+        "message": "5Mods（也称为GTA5-Mods）是一个您可以在其中获得数千个《Grand Theft Auto V》的mods的地方。",
+        "description": "The presence description of the \"5Mods\" presence.\nIf \"5Mods\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/5Mods/dist/metadata.json"
+    },
+    "descriptions.altdentifier": {
+        "message": "最好的Discord安全检查机器人！",
+        "description": "The presence description of the \"Altdentifier\" presence.\nIf \"Altdentifier\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Altdentifier/dist/metadata.json"
+    },
+    "descriptions.amazon": {
+        "message": "世界上最大的互联网线上零售商。",
+        "description": "The presence description of the \"Amazon\" presence.\nIf \"Amazon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Amazon/dist/metadata.json"
+    },
+    "descriptions.aniflix": {
+        "message": "Aniflix提供了各种动漫，每天等待日本发行后，都会在GER Sub上出现许多全新的动漫",
+        "description": "The presence description of the \"Aniflix\" presence.\nIf \"Aniflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Aniflix/dist/metadata.json"
+    },
+    "descriptions.9anime": {
+        "message": "9anime是一个动漫视频网站，您可以在其中以英语来观看各种动漫。",
+        "description": "The presence description of the \"9anime\" presence.\nIf \"9anime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/9anime/dist/metadata.json"
+    },
+    "descriptions.anime_soul": {
+        "message": "世界上最大的动漫Discord服务器！",
+        "description": "The presence description of the \"Anime Soul\" presence.\nIf \"Anime Soul\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anime%20Soul/dist/metadata.json"
+    },
+    "descriptions.anilist": {
+        "message": "AniList：追踪，发现，分享动漫和漫画-免费注册！赶快加入我们！",
+        "description": "The presence description of the \"AniList\" presence.\nIf \"AniList\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AniList/dist/metadata.json"
+    },
+    "descriptions.apple_music": {
+        "message": "Apple Music是苹果推出的流行音乐界又一位新成员。",
+        "description": "The presence description of the \"Apple Music\" presence.\nIf \"Apple Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Apple%20Music/dist/metadata.json"
+    },
+    "descriptions.aninews": {
+        "message": "有关动漫，漫画，轻小说以及与宅男世界相关的一切的新闻报道都在这里！",
+        "description": "The presence description of the \"AniNews\" presence.\nIf \"AniNews\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AniNews/dist/metadata.json"
+    },
+    "descriptions.anime_news network": {
+        "message": "Anime News Network - 互联网上最受信任的动漫新闻源。",
+        "description": "The presence description of the \"Anime News Network\" presence.\nIf \"Anime News Network\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anime%20News%20Network/dist/metadata.json"
+    },
+    "descriptions.astiga": {
+        "message": "直接在浏览器或手机上轻松播放存储在云服务中的音乐。",
+        "description": "The presence description of the \"Astiga\" presence.\nIf \"Astiga\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Astiga/dist/metadata.json"
+    },
+    "descriptions.animepahe": {
+        "message": "具有良好视频质量的英语字幕动漫网站。",
+        "description": "The presence description of the \"animepahe\" presence.\nIf \"animepahe\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/animepahe/dist/metadata.json"
+    },
+    "descriptions.animelab": {
+        "message": "可在线高清观看最新的热门动画。AnimeLab是澳大利亚/新西兰独占的。",
+        "description": "The presence description of the \"AnimeLab\" presence.\nIf \"AnimeLab\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeLab/dist/metadata.json"
+    },
+    "descriptions.animedigitalnetwork": {
+        "message": "AnimeDigitalNetwork是最棒的日本在线动漫网站。",
+        "description": "The presence description of the \"AnimeDigitalNetwork\" presence.\nIf \"AnimeDigitalNetwork\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeDigitalNetwork/dist/metadata.json"
+    },
+    "descriptions.bilibili": {
+        "message": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐。",
+        "description": "The presence description of the \"bilibili\" presence.\nIf \"bilibili\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/bilibili/dist/metadata.json"
+    },
+    "descriptions.askubuntu": {
+        "message": "Ask Ubuntu是一个由社区驱动的Ubuntu操作系统问答网站。",
+        "description": "The presence description of the \"AskUbuntu\" presence.\nIf \"AskUbuntu\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AskUbuntu/dist/metadata.json"
+    },
+    "descriptions.animeondemand": {
+        "message": "提供官方德语字幕的在线动漫平台，具有最佳视频质量和非常廉价的付费订阅。",
+        "description": "The presence description of the \"AnimeOnDemand\" presence.\nIf \"AnimeOnDemand\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeOnDemand/dist/metadata.json"
+    },
+    "descriptions.aranzulla.it": {
+        "message": "以意大利语来阅读各种指南与教程。",
+        "description": "The presence description of the \"Aranzulla.it\" presence.\nIf \"Aranzulla.it\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Aranzulla.it/dist/metadata.json"
+    },
+    "descriptions.anime4you": {
+        "message": "Anime4You可让您使用德语观看各种动漫。",
+        "description": "The presence description of the \"Anime4You\" presence.\nIf \"Anime4You\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anime4You/dist/metadata.json"
+    },
+    "descriptions.aperturebot": {
+        "message": "ApertureBot, 你全新的Discord服务器助理！",
+        "description": "The presence description of the \"ApertureBot\" presence.\nIf \"ApertureBot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/ApertureBot/dist/metadata.json"
+    },
+    "descriptions.animekage": {
+        "message": "在线动漫视频网站，我们提供了数百种罗马尼亚语字幕的动漫和漫画供用户观看。",
+        "description": "The presence description of the \"AnimeKage\" presence.\nIf \"AnimeKage\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeKage/dist/metadata.json"
+    },
+    "descriptions.arena_of kings": {
+        "message": "Arena of Kings是在浏览器中进行的快节奏PvP竞技场游戏。快来与英雄们联手夺取王位！",
+        "description": "The presence description of the \"Arena of Kings\" presence.\nIf \"Arena of Kings\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Arena%20of%20Kings/dist/metadata.json"
+    },
+    "descriptions.animes_online": {
+        "message": "免费的在线高清动漫视频网站。",
+        "description": "The presence description of the \"Animes Online\" presence.\nIf \"Animes Online\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Animes%20Online/dist/metadata.json"
+    },
+    "descriptions.animeworld": {
+        "message": "在这里，你可以找到完全免费的意大利语字幕动漫视频。",
+        "description": "The presence description of the \"AnimeWorld\" presence.\nIf \"AnimeWorld\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeWorld/dist/metadata.json"
+    },
+    "descriptions.aternos": {
+        "message": "属于您自己的Minecraft服务器，我们永久免费。",
+        "description": "The presence description of the \"Aternos\" presence.\nIf \"Aternos\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Aternos/dist/metadata.json"
+    },
+    "descriptions.audiomack": {
+        "message": "Audiomack是一个免费的音乐平台，艺术家可以分享他们创作的音乐，而粉丝可以发现新的艺术家，歌曲，专辑，混音带，播放列表等。",
+        "description": "The presence description of the \"Audiomack\" presence.\nIf \"Audiomack\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Audiomack/dist/metadata.json"
+    },
+    "descriptions.animedao": {
+        "message": "在任何设备上（PC，平板电脑，移动设备）观看带有英语字幕的高清动漫。",
+        "description": "The presence description of the \"AnimeDao\" presence.\nIf \"AnimeDao\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeDao/dist/metadata.json"
+    },
+    "descriptions.animesaturn": {
+        "message": "在AnimeSaturn网站上你可以找到完全免费的意大利语字幕动漫视频。 ",
+        "description": "The presence description of the \"AnimeSaturn\" presence.\nIf \"AnimeSaturn\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeSaturn/dist/metadata.json"
+    },
+    "descriptions.azur_lane wiki": {
+        "message": "自由的碧蓝航线英语维基",
+        "description": "The presence description of the \"Azur Lane Wiki\" presence.\nIf \"Azur Lane Wiki\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Azur%20Lane%20Wiki/dist/metadata.json"
+    },
+    "descriptions.anime47": {
+        "message": "在线的越南字幕动漫",
+        "description": "The presence description of the \"anime47\" presence.\nIf \"anime47\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/anime47/dist/metadata.json"
+    },
+    "descriptions.animeflv": {
+        "message": "AnimeFLV是一个视频网站，您可以在其中观看带有西班牙语字幕的动漫。",
+        "description": "The presence description of the \"AnimeFLV\" presence.\nIf \"AnimeFLV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeFLV/dist/metadata.json"
+    },
+    "descriptions.crunchyroll": {
+        "message": "Crunchyroll是美国的一家提供东亚相关流媒体影视服务和国际交流社区的网站。",
+        "description": "The presence description of the \"Crunchyroll\" presence.\nIf \"Crunchyroll\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Crunchyroll/dist/metadata.json"
+    },
+    "descriptions.discord": {
+        "message": "Discord是一款专为电子游戏社区设计的免费网络实时通话软件与数字发行平台。",
+        "description": "The presence description of the \"Discord\" presence.\nIf \"Discord\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord/dist/metadata.json"
+    },
+    "descriptions.electron": {
+        "message": "使用 JavaScript，HTML 和 CSS 构建跨平台的桌面应用程序",
+        "description": "The presence description of the \"Electron\" presence.\nIf \"Electron\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Electron/dist/metadata.json"
+    },
+    "descriptions.facebook": {
+        "message": "与朋友、家人和其他你认识的人联系。分享照片和视频、发送消息和获取更新。",
+        "description": "The presence description of the \"Facebook\" presence.\nIf \"Facebook\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/Facebook/dist/metadata.json"
+    },
+    "descriptions.google_docs": {
+        "message": "Google文档，是Google提供的网页式办公包在线服务，包含文字处理（Google文档）、电子表格（Google表格）、幻灯片演示（Google幻灯片）和交互表单（Google表单）。用户可在线免费创建和编辑文件，同时与其他用户共同协作。",
+        "description": "The presence description of the \"Google Docs\" presence.\nIf \"Google Docs\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Docs/dist/metadata.json"
+    },
+    "descriptions.gmail": {
+        "message": "Gmail是Google开发的免费电子邮件服务。",
+        "description": "The presence description of the \"Gmail\" presence.\nIf \"Gmail\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Gmail/dist/metadata.json"
+    },
+    "descriptions.github": {
+        "message": "GitHub是通过Git进行版本控制的软件源代码托管服务平台。",
+        "description": "The presence description of the \"GitHub\" presence.\nIf \"GitHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GitHub/dist/metadata.json"
+    },
+    "descriptions.google_drive": {
+        "message": "Google云端硬盘是Google的一个在线同步存储服务，同时结合Google文档及Google我的地图的在线文件编辑功能。",
+        "description": "The presence description of the \"Google Drive\" presence.\nIf \"Google Drive\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Drive/dist/metadata.json"
+    },
+    "descriptions.google": {
+        "message": "Google是一个搜索引擎，可用于查找各种信息，例如网站，图片，地图。",
+        "description": "The presence description of the \"Google\" presence.\nIf \"Google\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google/dist/metadata.json"
+    },
+    "descriptions.instagram": {
+        "message": "Instagram是一款运行在移动端上的社交应用，以一种快速、美妙和有趣的方式将你随时抓拍下的图片彼此分享。",
+        "description": "The presence description of the \"Instagram\" presence.\nIf \"Instagram\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Instagram/dist/metadata.json"
+    },
+    "descriptions.netflix": {
+        "message": "Netflix是全球领先的网络视频点播服务网站，在190多个国家/地区拥有1.39亿付费会员，他们收看各种类型和语言的电视连续剧，纪录片和故事片以及电影。",
+        "description": "The presence description of the \"Netflix\" presence.\nIf \"Netflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Netflix/dist/metadata.json"
+    },
+    "descriptions.myanimelist": {
+        "message": "世界上最活跃的在线动漫和漫画社区。加入在线社区，创建属于您的动漫和漫画列表！",
+        "description": "The presence description of the \"MyAnimeList\" presence.\nIf \"MyAnimeList\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MyAnimeList/dist/metadata.json"
+    },
+    "descriptions.osu!online": {
+        "message": "这是个非官方的osu!工具。不同于官方版本的计分和判定，某些音乐可能无法完美同步，不支持osu!std以外的模式。",
+        "description": "The presence description of the \"osu!online\" presence.\nIf \"osu!online\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!online/dist/metadata.json"
+    },
+    "descriptions.osu!gatari": {
+        "message": "欢迎来到最棒的osu!私服:osu!gatari。",
+        "description": "The presence description of the \"osu!gatari\" presence.\nIf \"osu!gatari\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!gatari/dist/metadata.json"
+    },
+    "descriptions.osu!ppy": {
+        "message": "节奏跃然指上！内含来自「押忍！战斗应援团」、「精英节拍特工」、太鼓的以及 osu! 原创的游戏模式，以及为其设计的全功能谱面编辑器。",
+        "description": "The presence description of the \"osu!ppy\" presence.\nIf \"osu!ppy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ppy/dist/metadata.json"
+    },
+    "descriptions.pornhub": {
+        "message": "PornHub是世界上第一的免费色情网站，拥有成千上万的免费色情视频，甚至还包括免费高清观看和下载的功能。",
+        "description": "The presence description of the \"PornHub\" presence.\nIf \"PornHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PornHub/dist/metadata.json"
+    },
+    "descriptions.nuxt.js": {
+        "message": "2016 年 10 月 25 日，zeit.co 背后的团队对外发布了 Next.js，一个 React 的服务端渲染应用框架。几小时后，与 Next.js 异曲同工，一个基于 Vue.js 的服务端渲染应用框架应运而生，我们称之为：Nuxt.js。",
+        "description": "The presence description of the \"Nuxt.js\" presence.\nIf \"Nuxt.js\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Nuxt.js/dist/metadata.json"
+    },
+    "descriptions.osu!kawata": {
+        "message": "Kawata是世界上第一个允许作弊的osu!私服",
+        "description": "The presence description of the \"osu!kawata\" presence.\nIf \"osu!kawata\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!kawata/dist/metadata.json"
+    },
+    "descriptions.osu!ripple": {
+        "message": "Ripple 是一个 osu! 的私服。虽然一直被模仿，但从未被超越。",
+        "description": "The presence description of the \"osu!ripple\" presence.\nIf \"osu!ripple\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ripple/dist/metadata.json"
+    },
+    "descriptions.yagpdb": {
+        "message": "YAGPDB 是一个多用途的 Discord 机器人",
+        "description": "The presence description of the \"YAGPDB\" presence.\nIf \"YAGPDB\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YAGPDB/dist/metadata.json"
+    },
+    "descriptions.yay_animes": {
+        "message": "Yay Animes 是一个提供免费观看或下载动漫的巴西网站。",
+        "description": "The presence description of the \"Yay Animes\" presence.\nIf \"Yay Animes\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/Yay%20Animes/dist/metadata.json"
+    },
+    "descriptions.rl_insider": {
+        "message": "火箭联盟在PC,PS4和XBOX的价格，每小时更新.",
+        "description": "The presence description of the \"RL Insider\" presence.\nIf \"RL Insider\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RL%20Insider/dist/metadata.json"
+    },
+    "descriptions.rlswaps": {
+        "message": "将您的火箭联盟物品与更高价值的物品互换！",
+        "description": "The presence description of the \"RLSwaps\" presence.\nIf \"RLSwaps\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RLSwaps/dist/metadata.json"
+    },
+    "descriptions.rule34": {
+        "message": "Rule 34 - 这里在搞黄色，如果没有，那就上传!",
+        "description": "The presence description of the \"Rule34\" presence.\nIf \"Rule34\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rule34/dist/metadata.json"
+    },
+    "descriptions.rainwave": {
+        "message": "电子游戏音乐在线广播，包括混音和原声带！ 为您想听的歌曲投票！",
+        "description": "The presence description of the \"Rainwave\" presence.\nIf \"Rainwave\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rainwave/dist/metadata.json"
+    },
+    "descriptions.rocket_league": {
+        "message": "RocketLeague®将足球与驾驶结合在一起，成为超音速杂技火箭动力战车不可思议的基于物理学的多人游戏！",
+        "description": "The presence description of the \"Rocket League\" presence.\nIf \"Rocket League\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rocket%20League/dist/metadata.json"
+    },
+    "descriptions.twitter": {
+        "message": "Twitter是一家美国社交网络及微博客服务的网站，是全球互联网上访问量最大的十个网站之一。",
+        "description": "The presence description of the \"Twitter\" presence.\nIf \"Twitter\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Twitter/dist/metadata.json"
+    },
+    "descriptions.redtube": {
+        "message": "RedTube是知名的黄色视频共享平台。",
+        "description": "The presence description of the \"RedTube\" presence.\nIf \"RedTube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RedTube/dist/metadata.json"
+    },
+    "descriptions.v2ex": {
+        "message": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+        "description": "The presence description of the \"V2EX\" presence.\nIf \"V2EX\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/V2EX/dist/metadata.json"
+    },
+    "descriptions.yahoo_mail": {
+        "message": "雅虎邮箱是由雅虎营运的一款网络电子邮件（Webmail）服务，于1997年10月8日激活。雅虎邮箱是互联网上最大的网络电子邮件服务，有超过2.6亿的用户。",
+        "description": "The presence description of the \"Yahoo Mail\" presence.\nIf \"Yahoo Mail\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/Yahoo%20Mail/dist/metadata.json"
+    },
+    "descriptions.rocket_league garage": {
+        "message": "'世界第一火箭联盟狂热爱好者。",
+        "description": "The presence description of the \"Rocket League Garage\" presence.\nIf \"Rocket League Garage\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rocket%20League%20Garage/dist/metadata.json"
+    },
+    "descriptions.roblox": {
+        "message": "Roblox的使命是通过游戏将世界融合在一起。",
+        "description": "The presence description of the \"Roblox\" presence.\nIf \"Roblox\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Roblox/dist/metadata.json"
+    },
+    "descriptions.spotify_podcasts": {
+        "message": "音乐人人爱。 注意：仅播客和网站信息！要显示普通歌曲，请使用Spotify x Discord连接。",
+        "description": "The presence description of the \"Spotify Podcasts\" presence.\nIf \"Spotify Podcasts\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Spotify%20Podcasts/dist/metadata.json"
+    },
+    "descriptions.whatsapp": {
+        "message": "WhatsApp是一款非常受欢迎的跨平台应用程序，用于智能手机之间的通讯。",
+        "description": "The presence description of the \"WhatsApp\" presence.\nIf \"WhatsApp\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/WhatsApp/dist/metadata.json"
+    },
+    "descriptions.radiome": {
+        "message": "让听广播变得容易! 来自德国，法国和奥地利所有地区的广播电台。",
+        "description": "The presence description of the \"RadioMe\" presence.\nIf \"RadioMe\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RadioMe/dist/metadata.json"
+    },
+    "descriptions.rltracker.pro": {
+        "message": "与来自世界各地的火箭联盟玩家竞争，并实时跟踪您的统计数据。",
+        "description": "The presence description of the \"RLTracker.pro\" presence.\nIf \"RLTracker.pro\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RLTracker.pro/dist/metadata.json"
+    },
+    "descriptions.twitch": {
+        "message": "Twitch是面向游戏玩家和各种事物的全球领先的直播平台。快来与来自世界各地的数百万粉丝一起观看和聊天。",
+        "description": "The presence description of the \"Twitch\" presence.\nIf \"Twitch\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Twitch/dist/metadata.json"
+    },
+    "descriptions.yabancıdizi": {
+        "message": "yabancıdizi 是土耳其最大国外电视节目秀提供商之一",
+        "description": "The presence description of the \"yabancıdizi\" presence.\nIf \"yabancıdizi\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/yabanc%C4%B1dizi/dist/metadata.json"
+    },
+    "descriptions.yu-gi-oh_top decks": {
+        "message": "Yu-Gi-Oh Top Decks是一个收集最好的甲板的数据库。",
+        "description": "The presence description of the \"Yu-Gi-Oh Top Decks\" presence.\nIf \"Yu-Gi-Oh Top Decks\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/Yu-Gi-Oh%20Top%20Decks/dist/metadata.json"
+    },
+    "descriptions.rockradio.com": {
+        "message": "100% Rock Internet Radio, 在线收听最多样化的摇滚音乐.",
+        "description": "The presence description of the \"ROCKRADIO.COM\" presence.\nIf \"ROCKRADIO.COM\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/ROCKRADIO.COM/dist/metadata.json"
+    },
+    "descriptions.soundcloud": {
+        "message": "SoundCloud是个音乐和播客流媒体平台，可让您收听世界各地数百万首歌曲或上传自己的歌曲。",
+        "description": "The presence description of the \"SoundCloud\" presence.\nIf \"SoundCloud\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SoundCloud/dist/metadata.json"
+    },
+    "descriptions.yummyanime": {
+        "message": "在线观看及免费下载高画质俄语字幕的动漫，每日更新新动漫和番剧。",
+        "description": "The presence description of the \"YummyAnime\" presence.\nIf \"YummyAnime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YummyAnime/dist/metadata.json"
+    },
+    "descriptions.zalando": {
+        "message": "Zalando 是总部位于德国柏林的大型网络电子商城， 其主要产品是服装和鞋类。",
+        "description": "The presence description of the \"Zalando\" presence.\nIf \"Zalando\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Z/Zalando/dist/metadata.json"
+    },
+    "descriptions.skribbl.io": {
+        "message": "Skribbl.io提供免费的多人绘图和猜谜游戏。与您的朋友或世界各地的人一起你画我猜！大吉大利，今晚吃鸡！",
+        "description": "The presence description of the \"Skribbl.io\" presence.\nIf \"Skribbl.io\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Skribbl.io/dist/metadata.json"
+    },
+    "descriptions.steam": {
+        "message": "Steam平台是目前全球最大的综合性数字发行平台之一。玩家可以在该平台购买、下载、讨论、上传和分享游戏和软件。",
+        "description": "The presence description of the \"Steam\" presence.\nIf \"Steam\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Steam/dist/metadata.json"
+    },
+    "descriptions.youtube": {
+        "message": "享受你喜欢的视频和音乐，上传原创内容，并在YouTube上与朋友、家人和世界分享。",
+        "description": "The presence description of the \"YouTube\" presence.\nIf \"YouTube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YouTube/dist/metadata.json"
+    },
+    "descriptions.reddit": {
+        "message": "RReddit是一个可以让您获得适合您的最新新闻，有趣的故事，图片，梗和视频的有趣网站。",
+        "description": "The presence description of the \"Reddit\" presence.\nIf \"Reddit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Reddit/dist/metadata.json"
+    },
+    "descriptions.radio.net": {
+        "message": "Radio.net汇集了30,000多个广播电台和播客。 它在全球每月有400万用户，已被下载超过2000万次。",
+        "description": "The presence description of the \"Radio.net\" presence.\nIf \"Radio.net\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Radio.net/dist/metadata.json"
+    },
+    "descriptions.rl.deals": {
+        "message": "自动交易您的Rocket League钥匙，轮子，贴纸和其他物品。",
+        "description": "The presence description of the \"RL.Deals\" presence.\nIf \"RL.Deals\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RL.Deals/dist/metadata.json"
+    },
+    "descriptions.wikipedia": {
+        "message": "维基百科是一种多语言的在线百科全书，包含基于Wiki的内容的协作编辑系统。",
+        "description": "The presence description of the \"Wikipedia\" presence.\nIf \"Wikipedia\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikipedia/dist/metadata.json"
+    },
+    "descriptions.youtube_music": {
+        "message": "全新的音乐服务，包含适用于Android，iOS和PC的官方专辑，单曲，视频，混音，现场表演等。都在这里！",
+        "description": "The presence description of the \"YouTube Music\" presence.\nIf \"YouTube Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YouTube%20Music/dist/metadata.json"
+    },
+    "descriptions.animetw": {
+        "message": "AnimeTW是一个视频网站，您可以在其中观看带有西班牙语字幕的动漫。",
+        "description": "The presence description of the \"AnimeTW\" presence.\nIf \"AnimeTW\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeTW/dist/metadata.json"
+    },
+    "descriptions.wikibooks": {
+        "message": "維基教科書旨在建立一系列免費電子書資源，包括教科書，註釋文本，教學指南和手冊。",
+        "description": "The presence description of the \"Wikibooks\" presence.\nIf \"Wikibooks\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikibooks/dist/metadata.json"
+    },
+    "descriptions.wikidata": {
+        "message": "維基數據充當維基媒體項目結構化數據的中央存儲。將數據結構化為機器可讀格式，可以更輕鬆地查看，搜索，編輯，策劃，使用和重用文件。",
+        "description": "The presence description of the \"Wikidata\" presence.\nIf \"Wikidata\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikidata/dist/metadata.json"
+    },
+    "descriptions.wikimedia_commons": {
+        "message": "維基共享資源是世界上最大的免費圖庫，照片，圖畫，視頻和音樂庫。",
+        "description": "The presence description of the \"Wikimedia Commons\" presence.\nIf \"Wikimedia Commons\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikimedia%20Commons/dist/metadata.json"
+    },
+    "descriptions.wikinews": {
+        "message": "維基新聞提供商業新聞網站的免費內容替代品。",
+        "description": "The presence description of the \"Wikinews\" presence.\nIf \"Wikinews\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikinews/dist/metadata.json"
+    },
+    "descriptions.wikiquote": {
+        "message": "維基語錄是一個收集超過75種語言來自著名人物和創意作品的引文庫。 它包括諺語，助記符號和口號。",
+        "description": "The presence description of the \"Wikiquote\" presence.\nIf \"Wikiquote\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikiquote/dist/metadata.json"
+    },
+    "descriptions.wikisource": {
+        "message": "維基文庫是一個自由許可的源文本和歷史文檔庫，包括詩歌，政府文檔，許多國家的憲法和一般文獻。",
+        "description": "The presence description of the \"Wikisource\" presence.\nIf \"Wikisource\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikisource/dist/metadata.json"
+    },
+    "descriptions.wikispecies": {
+        "message": "維基物種是分類學物種數據庫，涵蓋動物界，植物界，真菌，細菌，古細菌，原生生物和所有其他形式的生命的生活和化石形態。",
+        "description": "The presence description of the \"Wikispecies\" presence.\nIf \"Wikispecies\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikispecies/dist/metadata.json"
+    },
+    "descriptions.wikivoyage": {
+        "message": "維基導遊旨在創建世界上最大的免費，完整和最新的全球旅行指南。",
+        "description": "The presence description of the \"Wikivoyage\" presence.\nIf \"Wikivoyage\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikivoyage/dist/metadata.json"
+    },
+    "descriptions.wikiversity": {
+        "message": "維基學院致力於學習資源，學習項目和研究，以用於所有級別，類型和教育方式。",
+        "description": "The presence description of the \"Wikiversity\" presence.\nIf \"Wikiversity\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikiversity/dist/metadata.json"
+    },
+    "descriptions.wiktionary": {
+        "message": "維基詞典是一本免費的多語言詞典。 該項目旨在描述所有語言的所有單詞。 它包括語言資源，如詞庫，押韻指南和語言統計。",
+        "description": "The presence description of the \"Wiktionary\" presence.\nIf \"Wiktionary\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wiktionary/dist/metadata.json"
+    }
+}

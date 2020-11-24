@@ -1,0 +1,306 @@
+{
+    "descriptions.anihub": {
+        "message": "Anihub ist eine brasilianische Website, die einen Ort bietet, an dem man kostenlose Anime-Inhalte ansehen kann, sowohl online als auch offline und ohne jegliche unangemessene Werbung.",
+        "description": "The presence description of the \"Anihub\" presence.\nIf \"Anihub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anihub/dist/metadata.json"
+    },
+    "descriptions.5mods": {
+        "message": "5Mods (auch bekannt als GTA5-Mods) ist ein Ort, an welchem tu tausende von Mods für Grand Theft Auto V erhalten kannst.",
+        "description": "The presence description of the \"5Mods\" presence.\nIf \"5Mods\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/5Mods/dist/metadata.json"
+    },
+    "descriptions.aniflix": {
+        "message": "Aniflix bietet dir eine Vielfalt an Anime Serien. Außerdem erscheinen bei uns jeden Tag viele neue Anime Folgen auf Ger Sub direkt nach Japan-Release.",
+        "description": "The presence description of the \"Aniflix\" presence.\nIf \"Aniflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Aniflix/dist/metadata.json"
+    },
+    "descriptions.animeradio.de": {
+        "message": "Das Radio für Anime- und Gaming-Fans. Wir spielen deine Lieblingsmusik aus Japan und das Beste aus dem Westen.",
+        "description": "The presence description of the \"AnimeRadio.de\" presence.\nIf \"AnimeRadio.de\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeRadio.de/dist/metadata.json"
+    },
+    "descriptions.animeondemand": {
+        "message": "Deine offizielle und legale Plattform für deutsche Animes mit Sub! Günstig im Abo mit bester Videoqualität.",
+        "description": "The presence description of the \"AnimeOnDemand\" presence.\nIf \"AnimeOnDemand\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeOnDemand/dist/metadata.json"
+    },
+    "descriptions.anime4you": {
+        "message": "Anime4You lässt dich eine Vielzahl von Animes mit deutschen Dubs oder Subs anschauen. | INFO: Derzeit wird der Pausen-/Wiedergabestatus und die verbleibende Zeit nicht angezeigt. Wird in Kürze hinzugefügt!",
+        "description": "The presence description of the \"Anime4You\" presence.\nIf \"Anime4You\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anime4You/dist/metadata.json"
+    },
+    "descriptions.arena_of kings": {
+        "message": "Arena of Kings ist ein schnelles PvP-Arenaspiel der nächsten Generation, welches im Browser gespielt wird. Schließe dich mit Helden zusammen, um den Thron einzunehmen!",
+        "description": "The presence description of the \"Arena of Kings\" presence.\nIf \"Arena of Kings\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Arena%20of%20Kings/dist/metadata.json"
+    },
+    "descriptions.change": {
+        "message": "Verändere die Welt",
+        "description": "The presence description of the \"Change\" presence.\nIf \"Change\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Change/dist/metadata.json"
+    },
+    "descriptions.bs.to": {
+        "message": "Serien online sehen.",
+        "description": "The presence description of the \"bs.to\" presence.\nIf \"bs.to\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/bs.to/dist/metadata.json"
+    },
+    "descriptions.branitube": {
+        "message": "Branitube ist eine brasilianische Anime Streaming Seite.",
+        "description": "The presence description of the \"Branitube\" presence.\nIf \"Branitube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Branitube/dist/metadata.json"
+    },
+    "descriptions.crunchyroll": {
+        "message": "Crunchyroll ist die weltweit größte Anlaufstelle für Anime und Manga und verfügt über eine weltweite Community von mehr als 45 Millionen registrierten Benutzern und über 2 Millionen Abonnenten.",
+        "description": "The presence description of the \"Crunchyroll\" presence.\nIf \"Crunchyroll\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Crunchyroll/dist/metadata.json"
+    },
+    "descriptions.electron": {
+        "message": "Plattformübergreifende Desktop-Anwendungen mit JavaScript, HTML und CSS entwickeln",
+        "description": "The presence description of the \"Electron\" presence.\nIf \"Electron\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Electron/dist/metadata.json"
+    },
+    "descriptions.gamestar": {
+        "message": "GameStar.de versorgt euch mit Tests, Previews, Videos, Reportagen und News zu PC-Spielen und Hardware. Wir liefern Spielejournalismus, dem ihr vertrauen könnt.",
+        "description": "The presence description of the \"GameStar\" presence.\nIf \"GameStar\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GameStar/dist/metadata.json"
+    },
+    "descriptions.dlive": {
+        "message": "DLive.tv ist die größte Livestreaming-Community auf Blockchain, die von Lino Blockchain unterstützt wird.",
+        "description": "The presence description of the \"dlive\" presence.\nIf \"dlive\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/dlive/dist/metadata.json"
+    },
+    "descriptions.dailymotion": {
+        "message": "Auf dailymotion kannst du neue Musik, Nachrichten, Sportsendungen und Trailer von den besten Kreativen, Marken und Kanälen auf dailymotion entdecken und ansehen.",
+        "description": "The presence description of the \"dailymotion\" presence.\nIf \"dailymotion\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/dailymotion/dist/metadata.json"
+    },
+    "descriptions.deezer": {
+        "message": "Höre dir all die Songs an, die du liebst. Jederzeit und überall.",
+        "description": "The presence description of the \"Deezer\" presence.\nIf \"Deezer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Deezer/dist/metadata.json"
+    },
+    "descriptions.derpibooru": {
+        "message": "Derpibooru ist ein Bildarchiv, das es Menschen ermöglicht, Kunst aus dem ganzen Internet zusammenzubringen, die Bilder mit Tags und einer originellen Quell-URL zur einfachen Suche zu kommentieren und über das Kunstwerk zu diskutieren.",
+        "description": "The presence description of the \"Derpibooru\" presence.\nIf \"Derpibooru\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Derpibooru/dist/metadata.json"
+    },
+    "descriptions.ecosia": {
+        "message": "Ecosia verwendet die Werbeeinnahmen deiner Suchanfragen, um dort Bäume zu pflanzen, wo sie am meisten gebraucht werden.",
+        "description": "The presence description of the \"Ecosia\" presence.\nIf \"Ecosia\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Ecosia/dist/metadata.json"
+    },
+    "descriptions.esl": {
+        "message": "Weltweit größte eSports-Organisation.",
+        "description": "The presence description of the \"ESL\" presence.\nIf \"ESL\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/ESL/dist/metadata.json"
+    },
+    "descriptions.dアニメストア": {
+        "message": "No.1 anime streaming website in Japan! Free for the first month! Unlimited viewing of over 2,900 anime works for 400 yen per month (excluding taxes)! You can use other than DoCoMo mobile devices. Even better quality on tablets, PCs, Chromecasts, and Fire TV!",
+        "description": "The presence description of the \"dアニメストア\" presence.\nIf \"dアニメストア\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2/dist/metadata.json"
+    },
+    "descriptions.duolingo": {
+        "message": "Sprachen können auf spielerische Weise erlernt werden. Duolingo ist 100% kostenlos, macht Spaß und ist wissenschaftlich belegt.",
+        "description": "The presence description of the \"Duolingo\" presence.\nIf \"Duolingo\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Duolingo/dist/metadata.json"
+    },
+    "descriptions.discord.bio": {
+        "message": "Erstelle ein Profil in weniger als 30 sekunden.",
+        "description": "The presence description of the \"Discord.bio\" presence.\nIf \"Discord.bio\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord.bio/dist/metadata.json"
+    },
+    "descriptions.disney+": {
+        "message": "Das Zuhause von Disney, Pixar, Marvel, Star Wars und National Geographic. Die neuesten Blockbuster, exklusive Disney+ Originals oder unvergessliche Klassiker. Es gibt immer etwas Neues zu entdecken!",
+        "description": "The presence description of the \"Disney+\" presence.\nIf \"Disney+\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Disney%2B/dist/metadata.json"
+    },
+    "descriptions.gelbooru": {
+        "message": "NSFW Anime Image board running on Gelbooru",
+        "description": "The presence description of the \"Gelbooru\" presence.\nIf \"Gelbooru\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Gelbooru/dist/metadata.json"
+    },
+    "descriptions.fiplay": {
+        "message": "FiPlay ist eine Online-Film/Serien-Streaming-Seite aus Finnland.",
+        "description": "The presence description of the \"FiPlay\" presence.\nIf \"FiPlay\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FiPlay/dist/metadata.json"
+    },
+    "descriptions.deepl": {
+        "message": "DeepL ermöglicht es dir, Texte mit Hilfe einer künstlichen Intelligenz in andere Sprachen zu übersetzen. Eine der besonderen Eigenschaften ist, dass du auf ein Wort klicken kannst, um es durch ein anderes Wort zu ersetzen, von welchem du denkst, dass es mehr passen würde. Alles in allem ist DeepL sehr nützlich, um große Texte schnell in eine Sprache zu übersetzen, die man bereits kennt, aber nicht allzu viel, für Sprachen, die man nicht beherrscht.",
+        "description": "The presence description of the \"DeepL\" presence.\nIf \"DeepL\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/DeepL/dist/metadata.json"
+    },
+    "descriptions.gitea": {
+        "message": "Gitea ist eine Open-Source Git Plattform, welche sehr stark an GitHub angelehnt ist",
+        "description": "The presence description of the \"Gitea\" presence.\nIf \"Gitea\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Gitea/dist/metadata.json"
+    },
+    "descriptions.google_play music": {
+        "message": "Kostenloses Radio für alles, was du tust. Speichere 50.000 Tracks aus deiner persönlichen Sammlung. Abonniere den On-Demand-Zugang zu 40 Millionen Songs und das Offline-Hören.",
+        "description": "The presence description of the \"Google Play Music\" presence.\nIf \"Google Play Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Play%20Music/dist/metadata.json"
+    },
+    "descriptions.github": {
+        "message": "GitHub ist ein Projektmanagement- und Codeversionierungssystem sowie eine soziale Plattform für Entwickler.",
+        "description": "The presence description of the \"GitHub\" presence.\nIf \"GitHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GitHub/dist/metadata.json"
+    },
+    "descriptions.i_love music": {
+        "message": "Das beste Internet-Radio in Deutschland - Die beste Musik für jeden!",
+        "description": "The presence description of the \"I Love Music\" presence.\nIf \"I Love Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/I%20Love%20Music/dist/metadata.json"
+    },
+    "descriptions.hulu": {
+        "message": "Erlebe mit Hulu sofort aktuelle Hit-Shows, klassische Serien und hoch gelobte Filme.",
+        "description": "The presence description of the \"Hulu\" presence.\nIf \"Hulu\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/Hulu/dist/metadata.json"
+    },
+    "descriptions.instagram": {
+        "message": "Eine einfache, unterhaltsame und kreative Möglichkeit, Fotos, Videos und Nachrichten mit Freunden und Familie festzuhalten, zu bearbeiten und zu teilen.",
+        "description": "The presence description of the \"Instagram\" presence.\nIf \"Instagram\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Instagram/dist/metadata.json"
+    },
+    "descriptions.ifttt": {
+        "message": "IFTTT, der einfachste Weg kostenlos mehr aus deinen favorisierten Apps und Geräten zu holen. Mach dein Zuhause relaxter. Mach deine Arbeit produktiver. Halte deine Daten privat und sicher.",
+        "description": "The presence description of the \"IFTTT\" presence.\nIf \"IFTTT\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/IFTTT/dist/metadata.json"
+    },
+    "descriptions.kimi_no na wa wikia": {
+        "message": "Präsenz für das englische Wikia über den Anime-Film Kimi no Na wa./Your Name.",
+        "description": "The presence description of the \"Kimi no Na wa Wikia\" presence.\nIf \"Kimi no Na wa Wikia\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/Kimi%20no%20Na%20wa%20Wikia/dist/metadata.json"
+    },
+    "descriptions.instant-gaming": {
+        "message": "Instant-Gaming.com - Deine Lieblingsspiele für Steam, Origin, Battle.net, Uplay und Indie Games mit bis zu 70% Rabatt! Digitaler Download, Sofortige Lieferung, 24/7!",
+        "description": "The presence description of the \"Instant-Gaming\" presence.\nIf \"Instant-Gaming\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Instant-Gaming/dist/metadata.json"
+    },
+    "descriptions.keep_talking and nobody explodes": {
+        "message": "DU BIST ALLEINE IN EINEM RAUM MIT EINER BOMBE. Deine Freunde haben die Infos die du brauchst um sie zu entschärfen. Aber da ist ein Haken. Sie können die Bombe nicht sehen. Also muss jeder darüber reden - schnell!",
+        "description": "The presence description of the \"Keep Talking and Nobody Explodes\" presence.\nIf \"Keep Talking and Nobody Explodes\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/Keep%20Talking%20and%20Nobody%20Explodes/dist/metadata.json"
+    },
+    "descriptions.netflix": {
+        "message": "Netflix ist der weltweit führende Internet-Entertainment-Dienst mit 139 Millionen bezahlten Mitgliedschaften in über 190 Ländern, die TV-Serien, Dokumentationen und Spielfilme in einer Vielzahl von Genres und Sprachen genießen.",
+        "description": "The presence description of the \"Netflix\" presence.\nIf \"Netflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Netflix/dist/metadata.json"
+    },
+    "descriptions.plug.dj": {
+        "message": "Höre, entdecke und tritt in Kontakt mit Musikfans auf der ganzen Welt!",
+        "description": "The presence description of the \"plug.dj\" presence.\nIf \"plug.dj\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/plug.dj/dist/metadata.json"
+    },
+    "descriptions.niconico": {
+        "message": "niconico ist der größte Unterhaltungsdienst in Japan. Genieße Videos mit Videokommentar oder niconico Live, mit dem du Live-Streaming-Programme in Echtzeit anschauen kannst, sowie andere Dienste mit Bildern, Illustrationen, E-Books, Manga, neuesten Nachrichten, Blogs und 3D-Inhalten kostenlos!",
+        "description": "The presence description of the \"niconico\" presence.\nIf \"niconico\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/niconico/dist/metadata.json"
+    },
+    "descriptions.prime_video": {
+        "message": "Spielfilme und Serien online streamen, als Einzelabruf online leihen oder kaufen bei Prime Video, Amazons großer Video on Demand Online-Videothek.",
+        "description": "The presence description of the \"Prime Video\" presence.\nIf \"Prime Video\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Prime%20Video/dist/metadata.json"
+    },
+    "descriptions.lautfm": {
+        "message": "Laut.FM ist eine Webseite um dein eigenes Radio zu erstellen oder um Musik zu hören.",
+        "description": "The presence description of the \"LautFM\" presence.\nIf \"LautFM\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/L/LautFM/dist/metadata.json"
+    },
+    "descriptions.myanimelist": {
+        "message": "Die weltweit aktivste Online Anime & Manga Community und Datenbank. Trete der Online-Community bei, erstelle deine eigene Anime- und Manga-Liste und vieles mehr!",
+        "description": "The presence description of the \"MyAnimeList\" presence.\nIf \"MyAnimeList\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MyAnimeList/dist/metadata.json"
+    },
+    "descriptions.mixcloud": {
+        "message": "Höre kostenlos den besten DJs und Radiomoderatoren der Welt zu.",
+        "description": "The presence description of the \"Mixcloud\" presence.\nIf \"Mixcloud\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Mixcloud/dist/metadata.json"
+    },
+    "descriptions.my_nintendo": {
+        "message": "Dank My Nintendo macht das Spielen von Software und die Interaktion mit Nintendo noch mehr Spaß. Du kannst Punkte sammeln und Belohnungen wie Rabatte und Zusatzinhalte für Spiele erhalten.",
+        "description": "The presence description of the \"My Nintendo\" presence.\nIf \"My Nintendo\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/My%20Nintendo/dist/metadata.json"
+    },
+    "descriptions.nekos.life": {
+        "message": "Ein Neko macht den Tag schön - nekos.life versorgt dich mit tausenden von SFW- und NSFW-Bildern von Nekos (Cat-Girls).",
+        "description": "The presence description of the \"nekos.life\" presence.\nIf \"nekos.life\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/nekos.life/dist/metadata.json"
+    },
+    "descriptions.npm_package registry": {
+        "message": "Der Node Package Manager ist ein Paketmanager für die JavaScript-Laufzeitumgebung node.js.",
+        "description": "The presence description of the \"NPM Package Registry\" presence.\nIf \"NPM Package Registry\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/NPM%20Package%20Registry/dist/metadata.json"
+    },
+    "descriptions.osu!ppy": {
+        "message": "Der Rhythmus ist nur einen *Klick* entfernt!  Mit Ouendan/EBA, Taiko und eigenen Spielmodi, zusätzlich zu einem voll funktionalen Leveleditor",
+        "description": "The presence description of the \"osu!ppy\" presence.\nIf \"osu!ppy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ppy/dist/metadata.json"
+    },
+    "descriptions.pandora": {
+        "message": "Genieße die Songs, Alben, Playlisten und Podcasts, die du liebst, auf dem brandneuem Pandora.",
+        "description": "The presence description of the \"Pandora\" presence.\nIf \"Pandora\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Pandora/dist/metadata.json"
+    },
+    "descriptions.pornhub": {
+        "message": "PornHub ist die Nummer eins der kostenlosen Pornoseiten der Welt mit Hunderttausenden von kostenlosen Videos, einschließlich kostenloser HD- und Download-Funktionen.",
+        "description": "The presence description of the \"PornHub\" presence.\nIf \"PornHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PornHub/dist/metadata.json"
+    },
+    "descriptions.premid": {
+        "message": "PreMiD ergänzt viele Dienste, die du nutzt und liebst, um die Unterstützung von Discord Rich Presence.",
+        "description": "The presence description of the \"PreMiD\" presence.\nIf \"PreMiD\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PreMiD/dist/metadata.json"
+    },
+    "descriptions.openrec": {
+        "message": "openrec ist eine Japanische Streaming Plattform ähnlich wie Twitch und beinhaltet auch Videos",
+        "description": "The presence description of the \"openrec\" presence.\nIf \"openrec\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/openrec/dist/metadata.json"
+    },
+    "descriptions.plex": {
+        "message": "Mit Plex können Sie Ihre persönlichen Medien zusammen mit Premium-Inhalten verwalten und streamen. Genießen Sie Ihre eigenen Inhalte auf all Ihren Geräten, wo immer Sie mit Plex unterwegs sind.",
+        "description": "The presence description of the \"Plex\" presence.\nIf \"Plex\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Plex/dist/metadata.json"
+    },
+    "descriptions.wakanim": {
+        "message": "Wakanim ist der führende legale Streaming-Dienst für Anime in Europa. Unser Ziel ist es, Nutzern sowohl eine fantastische Streaming-Plattform als auch qualitativ hochwertige Anime-Inhalte anzubieten. Wakanim ist der beste Ort, um alle deine Lieblings-Animes wie Sword Art Online, One Piece, Fate/Zero und viele andere mehr zu streamen.",
+        "description": "The presence description of the \"Wakanim\" presence.\nIf \"Wakanim\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wakanim/dist/metadata.json"
+    },
+    "descriptions.rule34": {
+        "message": "Regel 34 - Wenn es existiert, gibt es Porn davon. Falls nicht, fang an etwas hochzuladen!",
+        "description": "The presence description of the \"Rule34\" presence.\nIf \"Rule34\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rule34/dist/metadata.json"
+    },
+    "descriptions.taiga_bot": {
+        "message": "taiga ist ein Discord Bot mit vielen Funktionen wie virtuellen Sammelkarten, ein Wirtschaftssystem und in der Zukunft ein Pluginmarktplatz",
+        "description": "The presence description of the \"taiga Bot\" presence.\nIf \"taiga Bot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/taiga%20Bot/dist/metadata.json"
+    },
+    "descriptions.tvnow": {
+        "message": "TVNOW bietet Dir spannende Filme und Serien. Auch viele Shows und Dokus sind im Online-Stream zu finden! Deine Lieblingssendung jetzt online anschauen!",
+        "description": "The presence description of the \"TVNOW\" presence.\nIf \"TVNOW\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TVNOW/dist/metadata.json"
+    },
+    "descriptions.sunshine_live": {
+        "message": "Deutscher Radiosender mit vielen Kanälen wie Charts, Sommer, 90er, House und viel mehr",
+        "description": "The presence description of the \"Sunshine Live\" presence.\nIf \"Sunshine Live\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Sunshine%20Live/dist/metadata.json"
+    },
+    "descriptions.s.to": {
+        "message": "Streame mehr als 3500 Episoden von deiner lieblings serie kostenlos!",
+        "description": "The presence description of the \"s.to\" presence.\nIf \"s.to\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/s.to/dist/metadata.json"
+    },
+    "descriptions.toradora_wikia": {
+        "message": "Präsenz für die englischen & deutschen Wikias über den Anime Toradora!",
+        "description": "The presence description of the \"Toradora Wikia\" presence.\nIf \"Toradora Wikia\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Toradora%20Wikia/dist/metadata.json"
+    },
+    "descriptions.rootme": {
+        "message": "Hacking und Informationssicherheit Learning-Plattform",
+        "description": "The presence description of the \"RootMe\" presence.\nIf \"RootMe\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RootMe/dist/metadata.json"
+    },
+    "descriptions.rythm": {
+        "message": "Rythm ist ein Discord Music Bot fokusiert auf einem Ziel: die beste Musik-Erfahrung auf Discord zu liefern. Es werden mehr Funktionen geboten als bei jedem andere Discord-Bot, der diesem Zweck gewidmet ist - hochwertige Musik aus mehreren Quellen.",
+        "description": "The presence description of the \"Rythm\" presence.\nIf \"Rythm\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rythm/dist/metadata.json"
+    },
+    "descriptions.radiome": {
+        "message": "Radio hören leicht gemacht. Radiosender aus allen Regionen von Deutschland, Frankreich und Österreich.",
+        "description": "The presence description of the \"RadioMe\" presence.\nIf \"RadioMe\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RadioMe/dist/metadata.json"
+    },
+    "descriptions.tka_e-sports": {
+        "message": "Österreichische E-Sport Organisation",
+        "description": "The presence description of the \"TKA E-Sports\" presence.\nIf \"TKA E-Sports\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TKA%20E-Sports/dist/metadata.json"
+    },
+    "descriptions.virustotal": {
+        "message": "Überprüfe deine Dateien für deine Sicherheit",
+        "description": "The presence description of the \"VirusTotal\" presence.\nIf \"VirusTotal\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VirusTotal/dist/metadata.json"
+    },
+    "descriptions.reddit": {
+        "message": "Reddit bietet dir das Beste aus dem Internet an einem Ort. Bekomme einen ständig aktualisierten Feed mit aktuellen Nachrichten, lustigen Geschichten, Bildern, Memes und Videos, nur für dich.",
+        "description": "The presence description of the \"Reddit\" presence.\nIf \"Reddit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Reddit/dist/metadata.json"
+    },
+    "descriptions.simliveradio": {
+        "message": "Deutschlands Radio Nr. 1 für Simulationsspiele",
+        "description": "The presence description of the \"SimLiveRadio\" presence.\nIf \"SimLiveRadio\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SimLiveRadio/dist/metadata.json"
+    },
+    "descriptions.top.gg": {
+        "message": "Rich Presence für top.gg - Die größte Discord Bot Liste und mehr",
+        "description": "The presence description of the \"top.gg\" presence.\nIf \"top.gg\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/top.gg/dist/metadata.json"
+    },
+    "descriptions.wish": {
+        "message": "Kaufe viele Produkte mit 80% Rabatt.",
+        "description": "The presence description of the \"Wish\" presence.\nIf \"Wish\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wish/dist/metadata.json"
+    },
+    "descriptions.radio.net": {
+        "message": "Radio.net bietet Zugang zu mehr als 30.000 Sender und Podcasts und hat weltweit 4 Millionen monatliche Nutzer und über 24 Millionen App Downloads.",
+        "description": "The presence description of the \"Radio.net\" presence.\nIf \"Radio.net\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Radio.net/dist/metadata.json"
+    },
+    "descriptions.realbooru": {
+        "message": "NSFW Porn Image board running on Gelbooru",
+        "description": "The presence description of the \"RealBooru\" presence.\nIf \"RealBooru\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RealBooru/dist/metadata.json"
+    },
+    "descriptions.discord_extreme list": {
+        "message": "Discord's unbefangene Liste, gibt Bots und Server aller grössen eine grosse Chance!",
+        "description": "The presence description of the \"Discord Extreme List\" presence.\nIf \"Discord Extreme List\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord%20Extreme%20List/dist/metadata.json"
+    },
+    "descriptions.reyfm": {
+        "message": "Beste Musik App für Charts, Rap und Gaming. Kostenlos Radio hören mit 15+ Musik-Streams. Höre auf verschiedenen Musik-Channels deinen Lieblingssound – täglich neu zusammengestellt von unseren Musikenthusiasten.",
+        "description": "The presence description of the \"REYFM\" presence.\nIf \"REYFM\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/REYFM/dist/metadata.json"
+    },
+    "descriptions.invidious": {
+        "message": "Invidious ist eine alternative Oberfläche für YouTube.",
+        "description": "The presence description of the \"Invidious\" presence.\nIf \"Invidious\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Invidious/dist/metadata.json"
+    },
+    "descriptions.reallifegtav": {
+        "message": "Real Life GTAV ist ein deutscher FiveM Roleplay Server mit eigenen Scripts und mehr!",
+        "description": "The presence description of the \"RealLifeGTAV\" presence.\nIf \"RealLifeGTAV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RealLifeGTAV/dist/metadata.json"
+    },
+    "descriptions.furaffinity": {
+        "message": "FurAffinity ist eine Furry Community, auf der man sein eigenes Profil erstellen kann und Bilder, sowie Medien aller Art, mit tausenden anderen Benutzern teilen, liken und kommentieren kann.",
+        "description": "The presence description of the \"FurAffinity\" presence.\nIf \"FurAffinity\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FurAffinity/dist/metadata.json"
+    },
+    "descriptions.proxer": {
+        "message": "Kostenlose und Freie deutsche Anime Community",
+        "description": "The presence description of the \"Proxer\" presence.\nIf \"Proxer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Proxer/dist/metadata.json"
+    }
+}
