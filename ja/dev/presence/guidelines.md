@@ -155,12 +155,12 @@ A list of fields and their rules are listed below:
 ### **`description`**
 
 - すべてのプレゼンスは（Webサイトの言語にかかわらず）、英語での説明文が必要です。
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- その言語を知っていない場合は無理に翻訳しようとせずにそのままにしてください。 必要があるなら、PreMiDの翻訳者が`metadata.json`を編集します。
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- URLは、ウェブドメインが一つしかない場合はstring（文字列）である必要があります。 ドメインが複数ある場合は、これをarray（配列）にしてそれぞれを指定します。
+- プロトコルを入れないでください。(`http` や `https`など) パラメーターも入れないでください。(`www.google.com/search?gws_rd=ssl` などは `www.google.com`にする必要があります。)
 
 ### **`version`**
 
