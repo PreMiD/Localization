@@ -57,7 +57,7 @@ let presence = new Presence({
 
 ### `getStrings(Object)`
 
-asyncronous メゾット(method)で、拡張機能から翻訳された文字を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+asyncronous メゾット(method)で、拡張機能から翻訳された文字を取得できます。 文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 このエンドポイントを使用して、翻訳された文字列を確認することができます。`https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // '再生中' と '一時停止中' の文字列を
