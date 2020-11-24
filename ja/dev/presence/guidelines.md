@@ -145,7 +145,7 @@ A list of fields and their rules are listed below:
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. 例えば、プレゼンスが`/websites/Y/YouTube/`にある場合、サービス名は`YouTube`でなければなりません。
+- Presenceディレクトリの名前は、サービス名でなければなりません。 例えば、プレゼンスが`/websites/Y/YouTube/`にある場合、サービス名は`YouTube`でなければなりません。
 - webサイトがURLの名前を公式に使用していない場合は、URLをサービスの名前として使用することができません。 ただし、名前がない、もしくは曖昧であると判断された場合はURLを使用することが必要です。 （例えば、`YouTube`は正式名称であり、サービス名を表しているので適切です。 `YouTube.com`とすることはできません。 ですが、`Top`はサービス名を表していないので、適切ではありません。`top.gg`の記述を使用してください。）
 
 ### **`altnames`**
