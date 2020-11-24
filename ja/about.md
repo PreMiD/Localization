@@ -1,6 +1,6 @@
 ---
 title: PreMiDについて
-description: The core features of PreMiD
+description: PreMiDの基本的な機能
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
