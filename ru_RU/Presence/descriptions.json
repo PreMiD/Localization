@@ -1,0 +1,42 @@
+{
+    "descriptions.electron": {
+        "message": "Создавайте кросс-платформенные приложения при помощи JavaScript, HTML и CSS",
+        "description": "The presence description of the \"Electron\" presence.\nIf \"Electron\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Electron/dist/metadata.json"
+    },
+    "descriptions.mangalib": {
+        "message": "Сайт для прочтения манги на русском языке.",
+        "description": "The presence description of the \"Mangalib\" presence.\nIf \"Mangalib\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Mangalib/dist/metadata.json"
+    },
+    "descriptions.osu!ppy": {
+        "message": "Ритм всего лишь в *клике* от тебя! Игра с Ouendan/EBA, Taiko и оригинальным типом игры, с многофункциональным редактором карт.",
+        "description": "The presence description of the \"osu!ppy\" presence.\nIf \"osu!ppy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ppy/dist/metadata.json"
+    },
+    "descriptions.nuxt.js": {
+        "message": "Nuxt.js — это фреймворк для создания приложений на Vue.js. Вы можете выбрать между Универсальным, Статически-Сгенерированным или Одностраничным приложением.",
+        "description": "The presence description of the \"Nuxt.js\" presence.\nIf \"Nuxt.js\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Nuxt.js/dist/metadata.json"
+    },
+    "descriptions.vk": {
+        "message": "Этот статус будет отображать штуки, которые вы обычно делаете в ВК. Оно отображает информацию о музыке (если вы на странице Музыка), информацию о видео! (когда вы смотрите его) и информацию о просматриваемых вами группах или профилях.",
+        "description": "The presence description of the \"VK\" presence.\nIf \"VK\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VK/dist/metadata.json"
+    },
+    "descriptions.hentailib": {
+        "message": "Сайт для прочтения хентай манги на русском языке.",
+        "description": "The presence description of the \"Hentailib\" presence.\nIf \"Hentailib\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/Hentailib/dist/metadata.json"
+    },
+    "descriptions.ranobelib": {
+        "message": "Сайт для прочтения ранобэ на русском языке.",
+        "description": "The presence description of the \"Ranobelib\" presence.\nIf \"Ranobelib\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Ranobelib/dist/metadata.json"
+    },
+    "descriptions.yandex_music": {
+        "message": "Стриминговый сервис компании «Яндекс», позволяющий прослушивать музыкальные композиции, альбомы, подборки музыкальных треков и получать персональные рекомендации.",
+        "description": "The presence description of the \"Yandex Music\" presence.\nIf \"Yandex Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/Yandex%20Music/dist/metadata.json"
+    },
+    "descriptions.juniperbot": {
+        "message": "Многофункциональный, полностью настраиваемый бот для платформы Discord, с панелью управления.",
+        "description": "The presence description of the \"Juniperbot\" presence.\nIf \"Juniperbot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/J/Juniperbot/dist/metadata.json"
+    },
+    "descriptions.coub": {
+        "message": "Coub это сайт-видеохостинг, позволяющий своим пользователям публиковать короткие зацикленные видеоролики с несинхронным звуковым сопровождением — «коубы». ",
+        "description": "The presence description of the \"Coub\" presence.\nIf \"Coub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Coub/dist/metadata.json"
+    }
+}

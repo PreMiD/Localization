@@ -1,0 +1,730 @@
+{
+    "descriptions.9gag": {
+        "message": "9GAG heeft de beste grappige foto's, gifs, video's, gaming, anime, manga, film, tv, cosplay, sport, eten, memes, schattige, mislukkingen, wtf-foto's op het internet!",
+        "description": "The presence description of the \"9GAG\" presence.\nIf \"9GAG\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/9GAG/dist/metadata.json"
+    },
+    "descriptions.akinator": {
+        "message": "Bedenk een echt of fictief personage. Ik zal proberen te raden wie het is",
+        "description": "The presence description of the \"Akinator\" presence.\nIf \"Akinator\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Akinator/dist/metadata.json"
+    },
+    "descriptions.1337x": {
+        "message": "1337x is een zoekmachine om je favoriete torrents te vinden.",
+        "description": "The presence description of the \"1337x\" presence.\nIf \"1337x\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/1337x/dist/metadata.json"
+    },
+    "descriptions.4anime": {
+        "message": "Bekijk anime online in hoge kwaliteit 1080p met Engelse ondertitels. Ga zitten en ontspan!",
+        "description": "The presence description of the \"4anime\" presence.\nIf \"4anime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/0-9/4anime/dist/metadata.json"
+    },
+    "descriptions.anihub": {
+        "message": "Anihub is een braziliaanse website die een plek bied om gratis anime te bekijken, zowel online als offline en zonder misbruik van advertenties.",
+        "description": "The presence description of the \"Anihub\" presence.\nIf \"Anihub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anihub/dist/metadata.json"
+    },
+    "descriptions.all_the flavors": {
+        "message": "alltheflavors.com is een doe-het-zelf recept- en smaakinformatiesite.",
+        "description": "The presence description of the \"All The Flavors\" presence.\nIf \"All The Flavors\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/All%20The%20Flavors/dist/metadata.json"
+    },
+    "descriptions.巴哈姆特動畫瘋": {
+        "message": "Volledig gratis animatieplatform.",
+        "description": "The presence description of the \"巴哈姆特動畫瘋\" presence.\nIf \"巴哈姆特動畫瘋\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/#/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E5%8B%95%E7%95%AB%E7%98%8B/dist/metadata.json"
+    },
+    "descriptions.aliexpress": {
+        "message": "Online winkelen voor de nieuwste elektronica, mode, telefoonaccessoires, computerelektronica, speelgoed, huis & tuin, huishoudelijke apparaten, gereedschappen, huisverbetering en meer.",
+        "description": "The presence description of the \"AliExpress\" presence.\nIf \"AliExpress\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AliExpress/dist/metadata.json"
+    },
+    "descriptions.altdentifier": {
+        "message": "De beste Discord-beveiligings- en checkpoint-bot!",
+        "description": "The presence description of the \"Altdentifier\" presence.\nIf \"Altdentifier\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Altdentifier/dist/metadata.json"
+    },
+    "descriptions.amazon": {
+        "message": "Online winkelen uit 's werelds grootste selectie van boeken, tijdschriften, muziek, dvd's, video's, elektronica, computers, software, kleding en accessoires, schoenen, sieraden, gereedschap en hardware, huishoudelijke artikelen, meubels, sportartikelen, schoonheid en persoonlijke verzorging, breedband en dsl, gourmet eten en zo ongeveer alles.",
+        "description": "The presence description of the \"Amazon\" presence.\nIf \"Amazon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Amazon/dist/metadata.json"
+    },
+    "descriptions.aniflix": {
+        "message": "Aniflix biedt verschillende anime-series. Ook verschijnen er elke dag veel nieuwe anime-afleveringen op GER Sub direct na de Japanse release.",
+        "description": "The presence description of the \"Aniflix\" presence.\nIf \"Aniflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Aniflix/dist/metadata.json"
+    },
+    "descriptions.animexnovel": {
+        "message": "Lees romans en manga's.",
+        "description": "The presence description of the \"AnimeXNovel\" presence.\nIf \"AnimeXNovel\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeXNovel/dist/metadata.json"
+    },
+    "descriptions.aninews": {
+        "message": "Belangrijkste nieuws over animaties, manga's, romans en alles met betrekking tot de Otaku-wereld! Lees op uw computer, notebook, smartphone of een ander mobiel apparaat.",
+        "description": "The presence description of the \"AniNews\" presence.\nIf \"AniNews\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AniNews/dist/metadata.json"
+    },
+    "descriptions.bandcamp": {
+        "message": "Ontdek geweldige muziek en ondersteun direct de artiesten die het maken.",
+        "description": "The presence description of the \"Bandcamp\" presence.\nIf \"Bandcamp\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Bandcamp/dist/metadata.json"
+    },
+    "descriptions.anime_news network": {
+        "message": "Anime News Network - De meest vertrouwde anime-nieuwsbron van het internet.",
+        "description": "The presence description of the \"Anime News Network\" presence.\nIf \"Anime News Network\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Anime%20News%20Network/dist/metadata.json"
+    },
+    "descriptions.animelab": {
+        "message": "Bekijk de nieuwste anime-hits en simulcasts rechtstreeks vanuit Japan online in HD. AnimeLab is exclusief voor Australië en Nieuw-Zeeland.",
+        "description": "The presence description of the \"AnimeLab\" presence.\nIf \"AnimeLab\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeLab/dist/metadata.json"
+    },
+    "descriptions.animeradio.de": {
+        "message": "De radio voor anime- en gaming-fans. We spelen je favoriete muziek uit Japan en de beste uit het Westen.",
+        "description": "The presence description of the \"AnimeRadio.de\" presence.\nIf \"AnimeRadio.de\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeRadio.de/dist/metadata.json"
+    },
+    "descriptions.astr.io": {
+        "message": "Een gratis te spelen spel in de webbrowser waarin gebruikers spelen als een planeet en anderen vernietigen!",
+        "description": "The presence description of the \"Astr.io\" presence.\nIf \"Astr.io\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Astr.io/dist/metadata.json"
+    },
+    "descriptions.bilibili": {
+        "message": "bilibili is een bekende videowerversite in China. Hier is de meest actuele animatie nieuwe fan, de beste ACG-sfeer, de meest creatieve Up-meester. Iedereen kan hier veel plezier beleven.",
+        "description": "The presence description of the \"bilibili\" presence.\nIf \"bilibili\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/bilibili/dist/metadata.json"
+    },
+    "descriptions.askubuntu": {
+        "message": "Ask Ubuntu is een community-gedreven vraag-en-antwoordwebsite voor het Ubuntu-besturingssysteem. Het maakt deel uit van het Stack Exchange Network en draait dezelfde software als Stack Overflow. Leden krijgen een reputatie op basis van antwoorden van de community op hun vragen en antwoorden.",
+        "description": "The presence description of the \"AskUbuntu\" presence.\nIf \"AskUbuntu\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AskUbuntu/dist/metadata.json"
+    },
+    "descriptions.animeondemand": {
+        "message": "Uw officiële en legale platform voor Duitse animes met Sub! Goedkoop abonnement met de beste videokwaliteit.",
+        "description": "The presence description of the \"AnimeOnDemand\" presence.\nIf \"AnimeOnDemand\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeOnDemand/dist/metadata.json"
+    },
+    "descriptions.aranzulla.it": {
+        "message": "Ontdek de Aranzulla.it-website om gidsen en tutorials in het Italiaans te lezen.",
+        "description": "The presence description of the \"Aranzulla.it\" presence.\nIf \"Aranzulla.it\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Aranzulla.it/dist/metadata.json"
+    },
+    "descriptions.aperturebot": {
+        "message": "ApertureBot is een fork van de rowboat van b1nzy, een utilitaire en administratieve assistent voor Discord.",
+        "description": "The presence description of the \"ApertureBot\" presence.\nIf \"ApertureBot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/ApertureBot/dist/metadata.json"
+    },
+    "descriptions.animekage": {
+        "message": "Online animatieserie vertaald in het Roemeens. Naruto, Naruto Shippuden, Bleach, Gintama en meer. Onze site biedt vertalingen naar honderden anime- en manga-ondertitels in het Roemeens.",
+        "description": "The presence description of the \"AnimeKage\" presence.\nIf \"AnimeKage\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeKage/dist/metadata.json"
+    },
+    "descriptions.arena_of kings": {
+        "message": "Arena of Kings is een snelle PvP Arena Game van de volgende generatie die gespeelt wordt in uw browser. Werk samen met helden om de troon op te eisen!",
+        "description": "The presence description of the \"Arena of Kings\" presence.\nIf \"Arena of Kings\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Arena%20of%20Kings/dist/metadata.json"
+    },
+    "descriptions.bbc_iplayer": {
+        "message": "Bekijk live BBC tv-kanalen, geniet van gemiste tv-programma's en bekijk exclusieve inhoud op BBC iPlayer.",
+        "description": "The presence description of the \"BBC iPlayer\" presence.\nIf \"BBC iPlayer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/BBC%20iPlayer/dist/metadata.json"
+    },
+    "descriptions.animes_online": {
+        "message": "Bekijk Animes Online gratis in HD.",
+        "description": "The presence description of the \"Animes Online\" presence.\nIf \"Animes Online\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Animes%20Online/dist/metadata.json"
+    },
+    "descriptions.animeworld": {
+        "message": "Ontdek onze Anime Streaming (Italian Subbed). Download of stream je favoriete serie helemaal gratis.",
+        "description": "The presence description of the \"AnimeWorld\" presence.\nIf \"AnimeWorld\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/AnimeWorld/dist/metadata.json"
+    },
+    "descriptions.azur_lane wiki": {
+        "message": "Azur Lane Englese Wiki!",
+        "description": "The presence description of the \"Azur Lane Wiki\" presence.\nIf \"Azur Lane Wiki\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/A/Azur%20Lane%20Wiki/dist/metadata.json"
+    },
+    "descriptions.buzzfeed": {
+        "message": "BuzzFeed, Inc. is een Amerikaans internetmedia-, nieuws- en entertainmentbedrijf met een focus op digitale media; het is gevestigd in New York City. BuzzFeed is in 2006 opgericht door Jonah Peretti en John S. Johnson III, om zich te concentreren op het volgen van virale inhoud.",
+        "description": "The presence description of the \"BuzzFeed\" presence.\nIf \"BuzzFeed\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/BuzzFeed/dist/metadata.json"
+    },
+    "descriptions.canva": {
+        "message": "Canva is een vereenvoudigd grafisch ontwerpprogramma, opgericht in 2012. Het gebruikt een indeling voor slepen en neerzetten en biedt toegang tot foto's, vectorafbeeldingen, afbeeldingen en lettertypen.",
+        "description": "The presence description of the \"Canva\" presence.\nIf \"Canva\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Canva/dist/metadata.json"
+    },
+    "descriptions.change": {
+        "message": "Verander de wereld",
+        "description": "The presence description of the \"Change\" presence.\nIf \"Change\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Change/dist/metadata.json"
+    },
+    "descriptions.bounce": {
+        "message": "Bounce Radio is een 24/7 internationaal hitmuziekstation dat iedereen hitmuziek biedt. Gemaakt door gamers voor gamers.",
+        "description": "The presence description of the \"Bounce\" presence.\nIf \"Bounce\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Bounce/dist/metadata.json"
+    },
+    "descriptions.cartooncrazy.net": {
+        "message": "Bekijk tekenfilms online op www.cartooncrazy.net en Stream 25000 Anime Engels nagesynchroniseerd in hoge kwaliteit! U kunt gemakkelijk anime en tekenfilms bekijken.",
+        "description": "The presence description of the \"CartoonCrazy.net\" presence.\nIf \"CartoonCrazy.net\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/CartoonCrazy.net/dist/metadata.json"
+    },
+    "descriptions.bukkit": {
+        "message": "Bukkit is een gratis open-source software die de mogelijkheid biedt om de populaire Minecraft multiplayer servers uit te breiden.",
+        "description": "The presence description of the \"Bukkit\" presence.\nIf \"Bukkit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Bukkit/dist/metadata.json"
+    },
+    "descriptions.boo.rip": {
+        "message": "Boo is een elite-verbindingsoptimalisator die de gameplay van gebruikers wil verbeteren.",
+        "description": "The presence description of the \"Boo.rip\" presence.\nIf \"Boo.rip\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Boo.rip/dist/metadata.json"
+    },
+    "descriptions.bs.to": {
+        "message": "Zie series online.",
+        "description": "The presence description of the \"bs.to\" presence.\nIf \"bs.to\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/bs.to/dist/metadata.json"
+    },
+    "descriptions.branitube": {
+        "message": "Branitube is een braziliaanse anime streaming website.",
+        "description": "The presence description of the \"Branitube\" presence.\nIf \"Branitube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/B/Branitube/dist/metadata.json"
+    },
+    "descriptions.crunchyroll": {
+        "message": "Crunchyroll is 's werelds grootste bestemming voor anime en mange, met een wereldwijde gemeenschap met meer dan 45 miljoen geregistreerde gebruikers en meer dan 2 miljoen abonnees.",
+        "description": "The presence description of the \"Crunchyroll\" presence.\nIf \"Crunchyroll\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/Crunchyroll/dist/metadata.json"
+    },
+    "descriptions.discord": {
+        "message": "Een alles-in-één spraak- en tekstchat voor gamers die gratis en veilig is en op zowel je computer als je telefoon werkt.",
+        "description": "The presence description of the \"Discord\" presence.\nIf \"Discord\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord/dist/metadata.json"
+    },
+    "descriptions.gamestar": {
+        "message": "GameStar.de biedt u tests, previews, video's, rapporten en nieuws over pc-games en hardware. Wij leveren gamejournalistiek die u kunt vertrouwen.",
+        "description": "The presence description of the \"GameStar\" presence.\nIf \"GameStar\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GameStar/dist/metadata.json"
+    },
+    "descriptions.facebook": {
+        "message": "Maak contact met vrienden, familie en andere mensen die je kent. Deel foto's en video's, verzend berichten en ontvang updates.",
+        "description": "The presence description of the \"Facebook\" presence.\nIf \"Facebook\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/Facebook/dist/metadata.json"
+    },
+    "descriptions.funimation": {
+        "message": "Stream en koop officiële anime inclusief My Hero Academia, Drifters en Fairy Tail. Bekijk gratis anime online of abonneer je op meer.",
+        "description": "The presence description of the \"Funimation\" presence.\nIf \"Funimation\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/Funimation/dist/metadata.json"
+    },
+    "descriptions.dlive": {
+        "message": "DLive.tv is de grootste live streaming community op blockchain die wordt aangedreven door Lino blockchain.",
+        "description": "The presence description of the \"dlive\" presence.\nIf \"dlive\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/dlive/dist/metadata.json"
+    },
+    "descriptions.dirtmc": {
+        "message": "DirtMC is de thuisbasis van MrCrainer en is een skyblock-server boordevol unieke functies.",
+        "description": "The presence description of the \"DirtMC\" presence.\nIf \"DirtMC\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/DirtMC/dist/metadata.json"
+    },
+    "descriptions.fifa_web app": {
+        "message": "Beheer je FIFA Ultimate Team (FUT) terwijl je niet achter je console of PC zit.",
+        "description": "The presence description of the \"FIFA Web App\" presence.\nIf \"FIFA Web App\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FIFA%20Web%20App/dist/metadata.json"
+    },
+    "descriptions.dailymotion": {
+        "message": "In Explore, kan je nieuwe muziek, nieuws, sport en trailers van de beste Dailymotion makers, merken en kanalen ontdekken en bekijken.",
+        "description": "The presence description of the \"dailymotion\" presence.\nIf \"dailymotion\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/dailymotion/dist/metadata.json"
+    },
+    "descriptions.deezer": {
+        "message": "Luister altijd en overal naar alle nummers waar je van houdt.",
+        "description": "The presence description of the \"Deezer\" presence.\nIf \"Deezer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Deezer/dist/metadata.json"
+    },
+    "descriptions.emby": {
+        "message": "Uw persoonlijke media op elk apparaat. Het was nog nooit zo eenvoudig om al uw video's, muziek en foto's samen te brengen op één plek. Uw persoonlijke Emby-server converteert en streamt uw media automatisch om ze op elk apparaat af te spelen.",
+        "description": "The presence description of the \"Emby\" presence.\nIf \"Emby\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Emby/dist/metadata.json"
+    },
+    "descriptions.derpibooru": {
+        "message": "Derpibooru is een afbeeldingsrepository waarmee mensen kunst van over het hele internet kunnen samenbrengen, de afbeeldingen kunnen voorzien worden met tags en een originele URL voor eenvoudig zoeken en de kunstwerken te kunnen bespreken.",
+        "description": "The presence description of the \"Derpibooru\" presence.\nIf \"Derpibooru\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Derpibooru/dist/metadata.json"
+    },
+    "descriptions.esl": {
+        "message": "'S Werelds grootste eSports-bedrijf.",
+        "description": "The presence description of the \"ESL\" presence.\nIf \"ESL\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/ESL/dist/metadata.json"
+    },
+    "descriptions.etsy": {
+        "message": "Vind het perfecte handgemaakte cadeau, vintage en trendy kleding, unieke sieraden en meer... veel meer.",
+        "description": "The presence description of the \"Etsy\" presence.\nIf \"Etsy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/Etsy/dist/metadata.json"
+    },
+    "descriptions.flipanim": {
+        "message": "Maak flipbook-animaties online!",
+        "description": "The presence description of the \"FlipAnim\" presence.\nIf \"FlipAnim\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FlipAnim/dist/metadata.json"
+    },
+    "descriptions.dアニメストア": {
+        "message": "De beste anime streaming website in Japan! Eerste maand gratis! Onbeperkt bekijken van meer dan 2900 animes voor 400 yen per maand (exclusief belasting)! U kunt andere dan DoCoMo mobiele apparaten ook gebruiken. Nog betere kwaliteit op tablets, pc's, Chromecasts en Fire TV!",
+        "description": "The presence description of the \"dアニメストア\" presence.\nIf \"dアニメストア\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/d%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%B9%E3%83%88%E3%82%A2/dist/metadata.json"
+    },
+    "descriptions.duolingo": {
+        "message": "Talen kunnen op een speelse manier geleerd worden. Dit spel is 100% gratis, leuk en wetenschappelijk bewezen.",
+        "description": "The presence description of the \"Duolingo\" presence.\nIf \"Duolingo\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Duolingo/dist/metadata.json"
+    },
+    "descriptions.curseforge": {
+        "message": "CurseForge zorgt voor het uploaden en beoordelen van plug-ins, add-ons en mods voor verschillende games.",
+        "description": "The presence description of the \"CurseForge\" presence.\nIf \"CurseForge\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/C/CurseForge/dist/metadata.json"
+    },
+    "descriptions.dyno": {
+        "message": "Een volledig aanpasbare servermoderatie Discord-bot voor uw Discord-server met een eenvoudig en intuïtief webdashboard. Serverbeheer is nu een stuk eenvoudiger geworden.",
+        "description": "The presence description of the \"Dyno\" presence.\nIf \"Dyno\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Dyno/dist/metadata.json"
+    },
+    "descriptions.disney+": {
+        "message": "Disney+ biedt exclusieve, onbeperkte toegang tot het beste van Disney, Pixar, Marvel, Star Wars en National Geographic.",
+        "description": "The presence description of the \"Disney+\" presence.\nIf \"Disney+\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Disney%2B/dist/metadata.json"
+    },
+    "descriptions.dueling_nexus": {
+        "message": "duelingnexus.com is een gratis online Yu-Gi-Oh-simulator voor browsers",
+        "description": "The presence description of the \"Dueling Nexus\" presence.\nIf \"Dueling Nexus\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Dueling%20Nexus/dist/metadata.json"
+    },
+    "descriptions.ebay": {
+        "message": "Koop en verkoop elektronica, auto's, mode, verzamelobjecten, sportartikelen, digitale camera's, babyartikelen, kortingsbonnen en al het andere op eBay, 's werelds online marktplaats.",
+        "description": "The presence description of the \"eBay\" presence.\nIf \"eBay\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/E/eBay/dist/metadata.json"
+    },
+    "descriptions.fiplay": {
+        "message": "FiPlay is een online site voor het streamen van films en series uit Finland.",
+        "description": "The presence description of the \"FiPlay\" presence.\nIf \"FiPlay\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/F/FiPlay/dist/metadata.json"
+    },
+    "descriptions.g2a": {
+        "message": "Online kopen en verkopen: pc-games, software, cadeaubonnen en meer op G2A.COM",
+        "description": "The presence description of the \"G2A\" presence.\nIf \"G2A\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/G2A/dist/metadata.json"
+    },
+    "descriptions.globoplay": {
+        "message": "Bekijk de beste entertainmentvideo's, live sport, journalistiek en meer wanneer en waar u maar wilt.",
+        "description": "The presence description of the \"globoplay\" presence.\nIf \"globoplay\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/globoplay/dist/metadata.json"
+    },
+    "descriptions.google_translate": {
+        "message": "De gratis service van Google kan woorden, zinnen en webpagina's onmiddellijk vertalen tussen het Engels en meer dan 100 andere talen.",
+        "description": "The presence description of the \"Google Translate\" presence.\nIf \"Google Translate\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Translate/dist/metadata.json"
+    },
+    "descriptions.giphy": {
+        "message": "Giphy is een GIF-zoek- en creatiesysteem.",
+        "description": "The presence description of the \"Giphy\" presence.\nIf \"Giphy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Giphy/dist/metadata.json"
+    },
+    "descriptions.hltv": {
+        "message": "De beste CS:GO website ter wereld, met nieuws, demo's, foto's, statistieken, on-site dekking en nog veel meer!",
+        "description": "The presence description of the \"HLTV\" presence.\nIf \"HLTV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/HLTV/dist/metadata.json"
+    },
+    "descriptions.hbo_go": {
+        "message": "HBO GO is de streamingdienst van HBO die deelnemende televisieproviders biedt die u onbeperkte toegang geeft tot HBO op uw computer, mobiel, tablet en andere apparaten.",
+        "description": "The presence description of the \"HBO GO\" presence.\nIf \"HBO GO\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/HBO%20GO/dist/metadata.json"
+    },
+    "descriptions.hypixel": {
+        "message": "Speel bekroonde minecraft-games en mini-games gratis met je vrienden. Alleen op de Hypixel minecraft-server!",
+        "description": "The presence description of the \"Hypixel\" presence.\nIf \"Hypixel\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/Hypixel/dist/metadata.json"
+    },
+    "descriptions.google_play music": {
+        "message": "Gratis radio voor alles wat je doet. Bewaar 50.000 nummers uit uw persoonlijke verzameling. Abonneer op on-demand voor toegang tot 40 miljoen nummers en offline luisteren.",
+        "description": "The presence description of the \"Google Play Music\" presence.\nIf \"Google Play Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/Google%20Play%20Music/dist/metadata.json"
+    },
+    "descriptions.humble_bundle": {
+        "message": "Betaal wat je wilt. Steun een goede doel. Krijg geweldige games.",
+        "description": "The presence description of the \"Humble Bundle\" presence.\nIf \"Humble Bundle\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/Humble%20Bundle/dist/metadata.json"
+    },
+    "descriptions.github": {
+        "message": "GitHub is een systeem voor projectbeheer en codeversie systeem, evenals een sociaal netwerkplatform gemaakt voor ontwikkelaars.",
+        "description": "The presence description of the \"GitHub\" presence.\nIf \"GitHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/G/GitHub/dist/metadata.json"
+    },
+    "descriptions.hulu": {
+        "message": "Bekijk huidige hitshows, klassieke series en veelgeprezen films direct met Hulu.",
+        "description": "The presence description of the \"Hulu\" presence.\nIf \"Hulu\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/Hulu/dist/metadata.json"
+    },
+    "descriptions.hentaiworld": {
+        "message": "Ontdek onze Hentai Streaming (Italian & English Subbed). Download of stream je favoriete serie helemaal gratis.",
+        "description": "The presence description of the \"HentaiWorld\" presence.\nIf \"HentaiWorld\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/H/HentaiWorld/dist/metadata.json"
+    },
+    "descriptions.kimcartoon": {
+        "message": "Officiële website van KimCartoon. Bekijk cartoon gratis online in HD.",
+        "description": "The presence description of the \"KimCartoon\" presence.\nIf \"KimCartoon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/KimCartoon/dist/metadata.json"
+    },
+    "descriptions.instagram": {
+        "message": "Een eenvoudige, leuke en creatieve manier om foto's, video's en berichten vast te leggen, te bewerken en te delen met vrienden en familie.",
+        "description": "The presence description of the \"Instagram\" presence.\nIf \"Instagram\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Instagram/dist/metadata.json"
+    },
+    "descriptions.juke": {
+        "message": "JUKE is een verzamelingssite voor radiostations. JUKE is een merk van Talpa Network.",
+        "description": "The presence description of the \"JUKE\" presence.\nIf \"JUKE\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/J/JUKE/dist/metadata.json"
+    },
+    "descriptions.ifttt": {
+        "message": "IFTTT, de eevoudigste manier om meer te doen met jou favorite apps en devices, helemaal gratis! Maak uw huis relaxter. Maak uw werk productiever. Houd uw gegevens privé en veilig.",
+        "description": "The presence description of the \"IFTTT\" presence.\nIf \"IFTTT\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/IFTTT/dist/metadata.json"
+    },
+    "descriptions.imgur": {
+        "message": "Imgur is de gemakkelijkste manier om de magie van internet te ontdekken en ervan te genieten. Hier vind je de grappigste, meest informatieve en inspirerende afbeeldingen, memes, GIF's en visuele verhalen vertoond in een eindeloze stroom van plezier. Aangedreven door een gepassioneerde gemeenschap van mensen over de hele wereld.",
+        "description": "The presence description of the \"Imgur\" presence.\nIf \"Imgur\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/I/Imgur/dist/metadata.json"
+    },
+    "descriptions.kissasian": {
+        "message": "Bekijk drama online in hoge kwaliteit. Gratis download van hoge kwaliteit drama. Verschillende formaten van 240p tot 720p HD (of zelfs 1080p). HTML5 beschikbaar voor mobiele apparaten.",
+        "description": "The presence description of the \"KissAsian\" presence.\nIf \"KissAsian\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/KissAsian/dist/metadata.json"
+    },
+    "descriptions.netflix": {
+        "message": "Netflix is wereldwijd de leider in online entertainmentdienst met 139 miljoen betaalde lidmaatschappen in meer dan 190 landen die genieten van tv-series, documentaires en speelfilms in een breed scala aan genres en talen.",
+        "description": "The presence description of the \"Netflix\" presence.\nIf \"Netflix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Netflix/dist/metadata.json"
+    },
+    "descriptions.kshow123": {
+        "message": "Bekijk online Koreaanse shows met Engelse ondertiteling in hoge kwaliteit.",
+        "description": "The presence description of the \"Kshow123\" presence.\nIf \"Kshow123\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/Kshow123/dist/metadata.json"
+    },
+    "descriptions.piapro": {
+        "message": "Luister naar piapro! Kijk! Gebruik het! Toegegeven! Een site voor het plaatsen van inhoud van het CGM-type die dat realiseert.",
+        "description": "The presence description of the \"piapro\" presence.\nIf \"piapro\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/piapro/dist/metadata.json"
+    },
+    "descriptions.pokémon": {
+        "message": "Pokémon zijn wezens in alle soorten en maten die in het wild of naast mensen leven. Voor het grootste deel spreken Pokémon niet, behalve om hun namen uit te spreken. Er zijn momenteel meer dan 700 wezens die het Pokémon-universum bewonen.",
+        "description": "The presence description of the \"Pokémon\" presence.\nIf \"Pokémon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Pok%C3%A9mon/dist/metadata.json"
+    },
+    "descriptions.plug.dj": {
+        "message": "Luister, speel, ontdek en maak contact met muziekfans over de hele wereld!",
+        "description": "The presence description of the \"plug.dj\" presence.\nIf \"plug.dj\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/plug.dj/dist/metadata.json"
+    },
+    "descriptions.kisscartoon": {
+        "message": "Bekijk cartoon online gratis in HD. Bekijk cartoon gratis zonder te downloaden.",
+        "description": "The presence description of the \"KissCartoon\" presence.\nIf \"KissCartoon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/KissCartoon/dist/metadata.json"
+    },
+    "descriptions.mangakakalot": {
+        "message": "Lees manga online gratis op Mangakakalot.com, update de snelste, meest volledige, gesynthetiseerde 24 uur gratis met afbeeldingen van hoge kwaliteit en wees de eerste die nieuwe hoofdstukken publiceert.",
+        "description": "The presence description of the \"MangaKakalot\" presence.\nIf \"MangaKakalot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MangaKakalot/dist/metadata.json"
+    },
+    "descriptions.mc-market": {
+        "message": "MC-Market.org is sinds Augustus 2014 de thuisbasis van Minecraft-transacties en -verkoop.",
+        "description": "The presence description of the \"MC-Market\" presence.\nIf \"MC-Market\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MC-Market/dist/metadata.json"
+    },
+    "descriptions.mee6": {
+        "message": "De Discord Bot - Configureer moderatie, nivellering, Twitch-waarschuwingen en nog veel meer met het meest gebruiksvriendelijke dashboard!",
+        "description": "The presence description of the \"MEE6\" presence.\nIf \"MEE6\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MEE6/dist/metadata.json"
+    },
+    "descriptions.niconico": {
+        "message": "niconico is de grootste entertainmentdienst in Japan. Geniet van niconico Video met videocommentaar of niconico Live waarmee je in realtime kunt reageren op live programma's, evenals andere services met afbeeldingen, illustraties, e-books, manga, laatste nieuws, blogs en 3D-inhoud gratis!",
+        "description": "The presence description of the \"niconico\" presence.\nIf \"niconico\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/niconico/dist/metadata.json"
+    },
+    "descriptions.prime_video": {
+        "message": "Geniet van exclusieve Amazon Originals en populaire films en tv-programma's. Bekijk altijd en overal. Start uw gratis proefperiode.",
+        "description": "The presence description of the \"Prime Video\" presence.\nIf \"Prime Video\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Prime%20Video/dist/metadata.json"
+    },
+    "descriptions.myanimelist": {
+        "message": "'s Werelds meest actieve online anime- en mangacommunity en database. Word lid van de online community, maak je anime- en manga-lijst en nog veel meer!",
+        "description": "The presence description of the \"MyAnimeList\" presence.\nIf \"MyAnimeList\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MyAnimeList/dist/metadata.json"
+    },
+    "descriptions.manga_livre": {
+        "message": "Lees online en organiseer uw lezings hier. Lees in het Portugees (PT-BR) de meest gelezen manga zoals Naruto, Fairy Tail, One Piece en meer!",
+        "description": "The presence description of the \"Manga Livre\" presence.\nIf \"Manga Livre\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Manga%20Livre/dist/metadata.json"
+    },
+    "descriptions.mixcloud": {
+        "message": "Luister gratis naar de beste DJ's en radiopresentatoren ter wereld.",
+        "description": "The presence description of the \"Mixcloud\" presence.\nIf \"Mixcloud\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Mixcloud/dist/metadata.json"
+    },
+    "descriptions.pinterest": {
+        "message": "Ontdek recepten, huisideeën, stijlinspiratie en andere ideeën om uit te proberen.",
+        "description": "The presence description of the \"Pinterest\" presence.\nIf \"Pinterest\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Pinterest/dist/metadata.json"
+    },
+    "descriptions.mcstacker": {
+        "message": "Minecraft command generator.",
+        "description": "The presence description of the \"MCStacker\" presence.\nIf \"MCStacker\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MCStacker/dist/metadata.json"
+    },
+    "descriptions.labymod": {
+        "message": "Een alles-in-één Minecraft PvP modificatie om uw ingame-ervaring te verbeteren.",
+        "description": "The presence description of the \"LabyMod\" presence.\nIf \"LabyMod\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/L/LabyMod/dist/metadata.json"
+    },
+    "descriptions.nekos.life": {
+        "message": "Een neko maakt je dag helder - nekos.life biedt je duizenden SFW- en NSFW-afbeeldingen van nekos (kattenmeisjes).",
+        "description": "The presence description of the \"nekos.life\" presence.\nIf \"nekos.life\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/nekos.life/dist/metadata.json"
+    },
+    "descriptions.osu!ppy": {
+        "message": "Ritme is slechts een *klik* verwijderd!  Met Ouendan/EBA, Taiko en originele spelmodi, en zelfs een volledig functionele level editor.",
+        "description": "The presence description of the \"osu!ppy\" presence.\nIf \"osu!ppy\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/osu!ppy/dist/metadata.json"
+    },
+    "descriptions.pandora": {
+        "message": "Speel de nummers, albums, afspeellijsten en podcasts af die je leuk vindt op de geheel nieuwe Pandora.",
+        "description": "The presence description of the \"Pandora\" presence.\nIf \"Pandora\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Pandora/dist/metadata.json"
+    },
+    "descriptions.pixiv": {
+        "message": "pixiv is een “illustratiecommunicatieservice” waar u uw werk kunt posten en bekijken. Een breed scala aan genres wordt gepost en door de gebruiker geïnitieerde projecten en door de fabrikant geautoriseerde wedstrijden worden gehouden.",
+        "description": "The presence description of the \"pixiv\" presence.\nIf \"pixiv\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/pixiv/dist/metadata.json"
+    },
+    "descriptions.pornhub": {
+        "message": "PornHub is de nummer één gratis pornosite ter wereld met honderdduizenden gratis video's, inclusief gratis HD en downloadmogelijkheden.",
+        "description": "The presence description of the \"PornHub\" presence.\nIf \"PornHub\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PornHub/dist/metadata.json"
+    },
+    "descriptions.listenonrepeat": {
+        "message": "Ontdek muziek, bekijk de nieuwste trending video's en 24/7 samengestelde inhoud! Probeer ListenOnRepeat vandaag nog.",
+        "description": "The presence description of the \"ListenOnRepeat\" presence.\nIf \"ListenOnRepeat\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/L/ListenOnRepeat/dist/metadata.json"
+    },
+    "descriptions.niantic_wayfarer": {
+        "message": "Door deel te nemen aan Niantic Wayfarer kun je toekomstige avonturen voor jezelf en anderen helpen vormgeven door interessante locaties over de hele wereld te beoordelen.",
+        "description": "The presence description of the \"Niantic Wayfarer\" presence.\nIf \"Niantic Wayfarer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/N/Niantic%20Wayfarer/dist/metadata.json"
+    },
+    "descriptions.primemc": {
+        "message": "Word lid van de competitieve community van PrimeMC, variërend van een content-gevuld Skyblock en andere interessante gamemodes aan de zijkant.",
+        "description": "The presence description of the \"PrimeMC\" presence.\nIf \"PrimeMC\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PrimeMC/dist/metadata.json"
+    },
+    "descriptions.kshowonline": {
+        "message": "Bekijk Koreaanse variëteitsshows online met Engelse ondertiteling.",
+        "description": "The presence description of the \"KShowOnline\" presence.\nIf \"KShowOnline\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/K/KShowOnline/dist/metadata.json"
+    },
+    "descriptions.monstercat": {
+        "message": "Empowerment van een creatieve en gepassioneerde gemeenschap door innovatie in muziek.",
+        "description": "The presence description of the \"Monstercat\" presence.\nIf \"Monstercat\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Monstercat/dist/metadata.json"
+    },
+    "descriptions.plex": {
+        "message": "Met Plex kunt u uw persoonlijke media beheren, samenstellen en streamen samen met premium inhoud. Geniet van uw eigen inhoud op al uw apparaten waar u ook bent met Plex.",
+        "description": "The presence description of the \"Plex\" presence.\nIf \"Plex\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/Plex/dist/metadata.json"
+    },
+    "descriptions.messenger": {
+        "message": "Bereik onmiddellijk de mensen in uw leven - gratis. Messenger is net als sms'en, maar je hoeft niet voor elk bericht te betalen (het werkt met je data-abonnement).",
+        "description": "The presence description of the \"Messenger\" presence.\nIf \"Messenger\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/Messenger/dist/metadata.json"
+    },
+    "descriptions.minecraftforge": {
+        "message": "Forge laat modders en ontwikkelaars de Minecraft ervaring uit te breiden.",
+        "description": "The presence description of the \"MinecraftForge\" presence.\nIf \"MinecraftForge\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/M/MinecraftForge/dist/metadata.json"
+    },
+    "descriptions.plutotv": {
+        "message": "Het is gratis TV.",
+        "description": "The presence description of the \"PlutoTV\" presence.\nIf \"PlutoTV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/P/PlutoTV/dist/metadata.json"
+    },
+    "descriptions.viki": {
+        "message": "Bekijk de beste tv-programma's, films, muziekvideo's, verschillende Koreaanse drama's en andere premium inhoud in hoge kwaliteit, vertaald in meer dan 150 talen door een gemeenschap van fanatieke fans.",
+        "description": "The presence description of the \"Viki\" presence.\nIf \"Viki\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/Viki/dist/metadata.json"
+    },
+    "descriptions.yagpdb": {
+        "message": "YAGPDB is een multifunctionele Discord Bot.",
+        "description": "The presence description of the \"YAGPDB\" presence.\nIf \"YAGPDB\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YAGPDB/dist/metadata.json"
+    },
+    "descriptions.rl_insider": {
+        "message": "Rocket League Prijzen PC, PS4 & XBOX, elk uur bijgewerkt.",
+        "description": "The presence description of the \"RL Insider\" presence.\nIf \"RL Insider\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RL%20Insider/dist/metadata.json"
+    },
+    "descriptions.speedrun.com": {
+        "message": "Speedrunning leaderboards, bronnen, forums en meer!",
+        "description": "The presence description of the \"speedrun.com\" presence.\nIf \"speedrun.com\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/speedrun.com/dist/metadata.json"
+    },
+    "descriptions.toradorapi": {
+        "message": "Biedt je veel screenshots en fanarts van de anime Toradora!",
+        "description": "The presence description of the \"ToradorAPI\" presence.\nIf \"ToradorAPI\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/ToradorAPI/dist/metadata.json"
+    },
+    "descriptions.trucksimfm": {
+        "message": "TruckSimFM is een online radiostation, gewijd aan de Simulation Community, 24/7 live met niets dan geweldige muziek, online, op mobiel en op je slimme luidspreker.",
+        "description": "The presence description of the \"TruckSimFM\" presence.\nIf \"TruckSimFM\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TruckSimFM/dist/metadata.json"
+    },
+    "descriptions.vrv": {
+        "message": "VRV is de thuisbasis van je favoriete kanalen, evenementen en communities die anime, animatie, videogames, strips, science fiction, fantasy en tech vieren.",
+        "description": "The presence description of the \"VRV\" presence.\nIf \"VRV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VRV/dist/metadata.json"
+    },
+    "descriptions.rlswaps": {
+        "message": "Ruil je Rocket League-items tegen items met een hogere waarde!",
+        "description": "The presence description of the \"RLSwaps\" presence.\nIf \"RLSwaps\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RLSwaps/dist/metadata.json"
+    },
+    "descriptions.shinden": {
+        "message": "Poolse site waar je anime kunt bekijken",
+        "description": "The presence description of the \"Shinden\" presence.\nIf \"Shinden\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Shinden/dist/metadata.json"
+    },
+    "descriptions.skillshare": {
+        "message": "Skillshare is een leerplatform met online lessen gegeven door 's werelds best practitioners.",
+        "description": "The presence description of the \"Skillshare\" presence.\nIf \"Skillshare\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Skillshare/dist/metadata.json"
+    },
+    "descriptions.slack": {
+        "message": "Slack is waar werk stroomt. Hier komen de mensen die je nodig hebt, de informatie die je deelt en de tools die je gebruikt samen om dingen gedaan te krijgen.",
+        "description": "The presence description of the \"Slack\" presence.\nIf \"Slack\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Slack/dist/metadata.json"
+    },
+    "descriptions.taiga_bot": {
+        "message": "taiga is een Discord Bot met vele kenmerken zoals Virtuele Ruil Kaarten, een economie systeem en in de toekomst zelfs een Plugin Marketplace.",
+        "description": "The presence description of the \"taiga Bot\" presence.\nIf \"taiga Bot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/taiga%20Bot/dist/metadata.json"
+    },
+    "descriptions.trueachievements": {
+        "message": "TrueAchievements is de plaats voor Xbox nieuws, prestatielijsten en gidsen, recensies, interviews, scoreborden en meer.",
+        "description": "The presence description of the \"TrueAchievements\" presence.\nIf \"TrueAchievements\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TrueAchievements/dist/metadata.json"
+    },
+    "descriptions.rocket_league": {
+        "message": "Rocket League® combineert voetbal met autorijden in een ongelooflijk op physics gebaseerd multiplayer-gericht vervolg op Supersonic Acrobatische Rocket-Powered Battle-Cars!",
+        "description": "The presence description of the \"Rocket League\" presence.\nIf \"Rocket League\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rocket%20League/dist/metadata.json"
+    },
+    "descriptions.spongepowered": {
+        "message": "Een community-gestuurd open source Minecraft: Java Edition modding platform.",
+        "description": "The presence description of the \"SpongePowered\" presence.\nIf \"SpongePowered\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SpongePowered/dist/metadata.json"
+    },
+    "descriptions.the_archon": {
+        "message": "TheArchon is de meest actieve Factions-server ter wereld die constant verraad heeft, wither raids, nieuwe defensieve tactieken die elke dag worden ingezet, en een plek waar je kunt vechten naast enkele van je favoriete YouTubers. Samen met een aantal Factions-gamemodes is TheArchon een plek waar je een verslavende Prison-gamemode en een overvloed aan minispellen kunt spelen.",
+        "description": "The presence description of the \"The Archon\" presence.\nIf \"The Archon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/The%20Archon/dist/metadata.json"
+    },
+    "descriptions.trello": {
+        "message": "Trello houdt alles bij, van het grote geheel tot de kleine details.",
+        "description": "The presence description of the \"Trello\" presence.\nIf \"Trello\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Trello/dist/metadata.json"
+    },
+    "descriptions.tvnow": {
+        "message": "TVNOW biedt spannende films en series. Ook zijn er veel shows en documentaires te vinden in de online stream! Bekijk nu uw favoriete programma online!",
+        "description": "The presence description of the \"TVNOW\" presence.\nIf \"TVNOW\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TVNOW/dist/metadata.json"
+    },
+    "descriptions.valtox_gaming group": {
+        "message": "Valtox Gaming Group is een gamingcommunity die een nieuwe ervaring creëert.",
+        "description": "The presence description of the \"Valtox Gaming Group\" presence.\nIf \"Valtox Gaming Group\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/Valtox%20Gaming%20Group/dist/metadata.json"
+    },
+    "descriptions.sdarot.tv": {
+        "message": "Serie voor direct bekijken en downloaden met ingebouwde Hebreeuwse vertaling. Honderden Israëlische en buitenlandse series, tienduizenden afleveringen met ingebouwde Hebreeuwse vertaling!",
+        "description": "The presence description of the \"Sdarot.TV\" presence.\nIf \"Sdarot.TV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Sdarot.TV/dist/metadata.json"
+    },
+    "descriptions.teamtrees": {
+        "message": "Help ons om tegen 1 januari 2020 wereldwijd 20 miljoen bomen over de hele wereld te planten.",
+        "description": "The presence description of the \"TeamTrees\" presence.\nIf \"TeamTrees\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TeamTrees/dist/metadata.json"
+    },
+    "descriptions.truetrophies": {
+        "message": "TrueTrophies is de plaats voor Playstation nieuws, prestatielijsten en gidsen, recensies, interviews, scoreborden en meer.",
+        "description": "The presence description of the \"TrueTrophies\" presence.\nIf \"TrueTrophies\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TrueTrophies/dist/metadata.json"
+    },
+    "descriptions.tumblr": {
+        "message": "Tumblr is een plek om jezelf te uiten, jezelf te ontdekken en een band op te bouwen over dingen waar je van houdt. Het is waar uw interesses u verbinden met uw mensen.",
+        "description": "The presence description of the \"Tumblr\" presence.\nIf \"Tumblr\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Tumblr/dist/metadata.json"
+    },
+    "descriptions.twitter": {
+        "message": "Van het laatste nieuws en entertainment tot sport en politiek, van grote evenementen tot dagelijkse interesses. Als het ergens gebeurt, gebeurt het op Twitter.",
+        "description": "The presence description of the \"Twitter\" presence.\nIf \"Twitter\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Twitter/dist/metadata.json"
+    },
+    "descriptions.union_mangás": {
+        "message": "Union Mangas is een Braziliaanse manga website. Lees snel en gemakkelijk je favoriete manga's in het Portugees!",
+        "description": "The presence description of the \"Union Mangás\" presence.\nIf \"Union Mangás\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/U/Union%20Mang%C3%A1s/dist/metadata.json"
+    },
+    "descriptions.vk": {
+        "message": "Deze presence zal dingen weergeven die je gewoonlijk in VK doet. Het toont muziekinfo (als je op de Muziek-pagina bent), video-info (wanneer je videos bekijkt) en info als je een community- of gebruikersprofiel bekijkt.",
+        "description": "The presence description of the \"VK\" presence.\nIf \"VK\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VK/dist/metadata.json"
+    },
+    "descriptions.vui_ghê": {
+        "message": "Bekijk gratis hoogwaardige Vietsub-anime online met snelle verzending, HOT anime wordt altijd het snelst bijgewerkt in Vietnam.",
+        "description": "The presence description of the \"Vui Ghê\" presence.\nIf \"Vui Ghê\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/Vui%20Gh%C3%AA/dist/metadata.json"
+    },
+    "descriptions.wims": {
+        "message": "Deze presence is alleen voor WIMS' standaard thema. WIMS is een multifunctioneel server-project ontworpen voor wiskundige oefeningen. Download het nu om mensen te laten zien hoe hard je aan je opdrachten werkt.",
+        "description": "The presence description of the \"WIMS\" presence.\nIf \"WIMS\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/WIMS/dist/metadata.json"
+    },
+    "descriptions.redtube": {
+        "message": "RedTube is een vooraanstaand platform voor het delen van video's voor volwassenen.",
+        "description": "The presence description of the \"RedTube\" presence.\nIf \"RedTube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RedTube/dist/metadata.json"
+    },
+    "descriptions.twist.moe": {
+        "message": "twist.moe is een gratis anime streaming-site.",
+        "description": "The presence description of the \"twist.moe\" presence.\nIf \"twist.moe\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/twist.moe/dist/metadata.json"
+    },
+    "descriptions.upbeatradio": {
+        "message": "UpBeat is een advertentievrije, community aangedreven online radio.",
+        "description": "The presence description of the \"UpBeatRadio\" presence.\nIf \"UpBeatRadio\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/U/UpBeatRadio/dist/metadata.json"
+    },
+    "descriptions.v2ex": {
+        "message": "Een gemeenschap van creatieve werkers. Bespreek spannende onderwerpen zoals programmeren, ontwerp, hardware en games.",
+        "description": "The presence description of the \"V2EX\" presence.\nIf \"V2EX\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/V2EX/dist/metadata.json"
+    },
+    "descriptions.s.to": {
+        "message": "Stream meer dan 3500 afleveringen van je favorite serie gratis!",
+        "description": "The presence description of the \"s.to\" presence.\nIf \"s.to\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/s.to/dist/metadata.json"
+    },
+    "descriptions.stack_overflow": {
+        "message": "Stack Overflow is een open community voor iedereen die codeert. Het helpt je om antwoorden op je moeilijkste codeervragen te krijgen, kennis met je collega's privé te delen en je volgende droombaan te vinden.",
+        "description": "The presence description of the \"Stack Overflow\" presence.\nIf \"Stack Overflow\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Stack%20Overflow/dist/metadata.json"
+    },
+    "descriptions.time.is": {
+        "message": "Exacte tijd, elke tijdzone. 7 miljoen locaties, 46 talen, gesynchroniseerd met atoomkloktijd.",
+        "description": "The presence description of the \"Time.is\" presence.\nIf \"Time.is\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Time.is/dist/metadata.json"
+    },
+    "descriptions.truesteamachievements": {
+        "message": "TrueSteamAchievements is de plaats voor Steam nieuws, prestatielijsten en gidsen, recensies, interviews, scoreborden en meer.",
+        "description": "The presence description of the \"TrueSteamAchievements\" presence.\nIf \"TrueSteamAchievements\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TrueSteamAchievements/dist/metadata.json"
+    },
+    "descriptions.rocket_league garage": {
+        "message": "'S Werelds eerste fansite voor Rocket League",
+        "description": "The presence description of the \"Rocket League Garage\" presence.\nIf \"Rocket League Garage\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Rocket%20League%20Garage/dist/metadata.json"
+    },
+    "descriptions.vizer": {
+        "message": "Vizer is een Braziliaanse website om gratis films/series online te bekijken! Vizer indexeert inhoud die op internet wordt gevonden automatisch met behulp van Robots en kunstmatige intelligentie.",
+        "description": "The presence description of the \"Vizer\" presence.\nIf \"Vizer\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/Vizer/dist/metadata.json"
+    },
+    "descriptions.topflix": {
+        "message": "TopFlix - Bekijk gratis online HD-films",
+        "description": "The presence description of the \"TopFlix\" presence.\nIf \"TopFlix\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TopFlix/dist/metadata.json"
+    },
+    "descriptions.vvvvid": {
+        "message": "VVVVID is uw gepersonaliseerde online TV helemaal gratis.",
+        "description": "The presence description of the \"VVVVID\" presence.\nIf \"VVVVID\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VVVVID/dist/metadata.json"
+    },
+    "descriptions.roblox": {
+        "message": "De missie van Roblox is om de wereld samen te brengen door te spelen.",
+        "description": "The presence description of the \"Roblox\" presence.\nIf \"Roblox\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Roblox/dist/metadata.json"
+    },
+    "descriptions.skype": {
+        "message": "Blijf op de hoogte! Gratis online bellen, berichten sturen, betaalbaar internationaal bellen naar mobiele telefoons of vaste lijnen en Skype voor Bedrijven voor een effectieve samenwerking.",
+        "description": "The presence description of the \"Skype\" presence.\nIf \"Skype\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Skype/dist/metadata.json"
+    },
+    "descriptions.splix.io": {
+        "message": "Verover zoveel mogelijk land en probeer de grootste van allemaal te worden.",
+        "description": "The presence description of the \"splix.io\" presence.\nIf \"splix.io\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/splix.io/dist/metadata.json"
+    },
+    "descriptions.spotify_podcasts": {
+        "message": "Muziek voor iedereen. Opmerking: Alleen podcasts en pagina informatie! Om normale liedjes te laten zien gebruik de Spotify x Discord connectie.",
+        "description": "The presence description of the \"Spotify Podcasts\" presence.\nIf \"Spotify Podcasts\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Spotify%20Podcasts/dist/metadata.json"
+    },
+    "descriptions.rltracker.pro": {
+        "message": "Vergelijk met Rocket League Players van over de hele wereld en volg je statistieken live.",
+        "description": "The presence description of the \"RLTracker.pro\" presence.\nIf \"RLTracker.pro\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RLTracker.pro/dist/metadata.json"
+    },
+    "descriptions.tka_e-sports": {
+        "message": "Oostenrijkse E-Sportorganisatie",
+        "description": "The presence description of the \"TKA E-Sports\" presence.\nIf \"TKA E-Sports\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TKA%20E-Sports/dist/metadata.json"
+    },
+    "descriptions.twitch": {
+        "message": "Twitch is 's werelds leider in live streaming platform voor gamers en de dingen waar we van houden. Kijk en chat nu met miljoenen andere fans van over de hele wereld.",
+        "description": "The presence description of the \"Twitch\" presence.\nIf \"Twitch\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/Twitch/dist/metadata.json"
+    },
+    "descriptions.v_live": {
+        "message": "V LIVE is een wereldwijd entertainmentplatform dat Koreaanse sterren en hun fans met elkaar verbindt.",
+        "description": "The presence description of the \"V LIVE\" presence.\nIf \"V LIVE\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/V%20LIVE/dist/metadata.json"
+    },
+    "descriptions.webtoon": {
+        "message": "Stap in op de nieuwste originele romantiek, komedie, actie, fantasie, horror en meer van grote namen en grote namen die speciaal gemaakt zijn voor WEBTOON.",
+        "description": "The presence description of the \"Webtoon\" presence.\nIf \"Webtoon\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Webtoon/dist/metadata.json"
+    },
+    "descriptions.yu-gi-oh_top decks": {
+        "message": "Yu-Gi-Oh topdecks is een database met de beste decklists.",
+        "description": "The presence description of the \"Yu-Gi-Oh Top Decks\" presence.\nIf \"Yu-Gi-Oh Top Decks\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/Yu-Gi-Oh%20Top%20Decks/dist/metadata.json"
+    },
+    "descriptions.rockradio.com": {
+        "message": "100% Rock Internet Radio, streaming van de meest uiteenlopende rockmuziek online.",
+        "description": "The presence description of the \"ROCKRADIO.COM\" presence.\nIf \"ROCKRADIO.COM\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/ROCKRADIO.COM/dist/metadata.json"
+    },
+    "descriptions.soundcloud": {
+        "message": "SoundCloud is een streamingplatform voor muziek en podcasts waarmee je naar miljoenen nummers van over de hele wereld kunt luisteren of je eigen nummers kunt uploaden.",
+        "description": "The presence description of the \"SoundCloud\" presence.\nIf \"SoundCloud\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SoundCloud/dist/metadata.json"
+    },
+    "descriptions.spigot": {
+        "message": "Spigot, een hoogwaardige, geen lag CraftBukkit Minecraft server API en BungeeCord, de cloud server proxy. (SpigotSearchEngine wordt ondersteund!)",
+        "description": "The presence description of the \"Spigot\" presence.\nIf \"Spigot\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Spigot/dist/metadata.json"
+    },
+    "descriptions.xvideos": {
+        "message": "XVideos is een gratis hostingservice voor pornovideo's.",
+        "description": "The presence description of the \"XVideos\" presence.\nIf \"XVideos\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/X/XVideos/dist/metadata.json"
+    },
+    "descriptions.yummyanime": {
+        "message": "Bekijk anime online (Russion Subbed) in hoge kwaliteit en direct gratis downloaden! Nieuwe anime-manga dagelijks toegevoegd.",
+        "description": "The presence description of the \"YummyAnime\" presence.\nIf \"YummyAnime\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YummyAnime/dist/metadata.json"
+    },
+    "descriptions.zalando": {
+        "message": "Zalando online shop | Kleding, schoenen, sportartikelen, accessoires en meer | Jouw favoriete brands voor dames, heren en kids",
+        "description": "The presence description of the \"Zalando\" presence.\nIf \"Zalando\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Z/Zalando/dist/metadata.json"
+    },
+    "descriptions.steam": {
+        "message": "Steam is de ultieme bestemming voor het spelen, bespreken en maken van games.",
+        "description": "The presence description of the \"Steam\" presence.\nIf \"Steam\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Steam/dist/metadata.json"
+    },
+    "descriptions.svt_play": {
+        "message": "Bekijk uw favoriete programma's wanneer u maar wilt in SVT Play - gratis televisie online.",
+        "description": "The presence description of the \"SVT Play\" presence.\nIf \"SVT Play\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SVT%20Play/dist/metadata.json"
+    },
+    "descriptions.truckersmp": {
+        "message": "TruckersMP een Multiplayer Truckers ervaring voor SCS Software's Euro Truck Simulator 2 en American Truck Simulator.",
+        "description": "The presence description of the \"TruckersMP\" presence.\nIf \"TruckersMP\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TruckersMP/dist/metadata.json"
+    },
+    "descriptions.youtube": {
+        "message": "Geniet van de video's en muziek waar je van houdt, upload originele inhoud en deel het allemaal met vrienden, familie en de wereld op YouTube.",
+        "description": "The presence description of the \"YouTube\" presence.\nIf \"YouTube\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YouTube/dist/metadata.json"
+    },
+    "descriptions.reddit": {
+        "message": "Reddit biedt u het beste van internet op één plek. Ontvang een constant bijgewerkte feed met het laatste nieuws, leuke verhalen, foto's, memes en video's speciaal voor jou.",
+        "description": "The presence description of the \"Reddit\" presence.\nIf \"Reddit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Reddit/dist/metadata.json"
+    },
+    "descriptions.simliveradio": {
+        "message": "SimLiveRadio is de meest succesvolle infotainment radio voor simulatiespellen in Duitsland, Oostenrijk en Zwitserland!",
+        "description": "The presence description of the \"SimLiveRadio\" presence.\nIf \"SimLiveRadio\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SimLiveRadio/dist/metadata.json"
+    },
+    "descriptions.rl.deals": {
+        "message": "Ruil uw Rocket League keys, wielen, decals en andere items automatisch in.",
+        "description": "The presence description of the \"RL.Deals\" presence.\nIf \"RL.Deals\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/RL.Deals/dist/metadata.json"
+    },
+    "descriptions.simply_hentai": {
+        "message": "Simply Hentai is een gratis hostingservice voor hentai manga's.",
+        "description": "The presence description of the \"Simply Hentai\" presence.\nIf \"Simply Hentai\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Simply%20Hentai/dist/metadata.json"
+    },
+    "descriptions.tumangaonline": {
+        "message": "Lees manga online.",
+        "description": "The presence description of the \"TuMangaOnline\" presence.\nIf \"TuMangaOnline\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/T/TuMangaOnline/dist/metadata.json"
+    },
+    "descriptions.wikipedia": {
+        "message": "Wikipedia is een meertalige online encyclopedie, gebaseerd op open samenwerking via een wiki-gebaseerd contentbewerkingssysteem.",
+        "description": "The presence description of the \"Wikipedia\" presence.\nIf \"Wikipedia\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/W/Wikipedia/dist/metadata.json"
+    },
+    "descriptions.youtube_music": {
+        "message": "Een nieuwe muziekservice met officiële albums, singles, video's, remixes, live optredens en meer voor Android, iOS en desktop. Het is er allemaal.",
+        "description": "The presence description of the \"YouTube Music\" presence.\nIf \"YouTube Music\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/Y/YouTube%20Music/dist/metadata.json"
+    },
+    "descriptions.discord_extreme list": {
+        "message": "Discord's onbevooroordeelde lijst, die bots en servers van elke omvang een grote kans geeft!",
+        "description": "The presence description of the \"Discord Extreme List\" presence.\nIf \"Discord Extreme List\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord%20Extreme%20List/dist/metadata.json"
+    },
+    "descriptions.reach_radio": {
+        "message": "Het station gemaakt voor gaming - 24/7 alle hits spelen!",
+        "description": "The presence description of the \"Reach Radio\" presence.\nIf \"Reach Radio\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/Reach%20Radio/dist/metadata.json"
+    },
+    "descriptions.reyfm": {
+        "message": "Beste muziek-app voor hitlijsten, rap en gaming. Luister non-stop gratis naar meer dan 15 muziekstreams. De beste en nieuwste muziek alleen voor jou!",
+        "description": "The presence description of the \"REYFM\" presence.\nIf \"REYFM\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/R/REYFM/dist/metadata.json"
+    },
+    "descriptions.onlyhit": {
+        "message": "OnlyHit is jouw online muziek radiostation, gemaakt om je de beste hits 24/7 af te spelen en om je als eerste de toekomstige hits te laten ontdekken.",
+        "description": "The presence description of the \"OnlyHit\" presence.\nIf \"OnlyHit\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/O/OnlyHit/dist/metadata.json"
+    },
+    "descriptions.vrchat": {
+        "message": "VRChat is een gratis te spelen massaal multiplayer online virtual reality sociaal platform. Hiermee kunnen spelers met anderen communiceren als 3D-personagemodellen.",
+        "description": "The presence description of the \"VRChat\" presence.\nIf \"VRChat\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/VRChat/dist/metadata.json"
+    }
+}

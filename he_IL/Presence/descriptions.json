@@ -1,0 +1,14 @@
+{
+    "descriptions.sdarot.tv": {
+        "message": "סדרות לצפייה ישירה ולהורדה עם תרגום מובנה בעברית. מאות סדרות ישראליות ומחו\"ל, עשרות אלפי פרקים עם תרגום מובנה בעברית!",
+        "description": "The presence description of the \"Sdarot.TV\" presence.\nIf \"Sdarot.TV\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Sdarot.TV/dist/metadata.json"
+    },
+    "descriptions.discord_extreme list": {
+        "message": "הרשימה הבלתי משוחדת של דיסקורד, נותנת הזדמנות שווה לשרתים ובוטים בכל הגדלים!",
+        "description": "The presence description of the \"Discord Extreme List\" presence.\nIf \"Discord Extreme List\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord%20Extreme%20List/dist/metadata.json"
+    },
+    "descriptions.stips": {
+        "message": "בואו לשתף את הידע והרעיונות שלכם עם העולם, להכיר אנשים חדשים ודעות חדשות",
+        "description": "The presence description of the \"Stips\" presence.\nIf \"Stips\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Stips/dist/metadata.json"
+    }
+}

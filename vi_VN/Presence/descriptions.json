@@ -1,0 +1,10 @@
+{
+    "descriptions.vui_ghê": {
+        "message": "Xem anime Vietsub online miễn phí chất lượng cao với đường truyền nhanh, các anime HOT luôn được cập nhật sớm nhất Việt Nam.",
+        "description": "The presence description of the \"Vui Ghê\" presence.\nIf \"Vui Ghê\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/V/Vui%20Gh%C3%AA/dist/metadata.json"
+    },
+    "descriptions.spiderum": {
+        "message": "Nền tảng chia sẻ - thảo luận dành cho người Việt. Nơi tập trung những nội dung thú vị và hữu ích nhất do người dùng đóng góp và bình chọn.",
+        "description": "The presence description of the \"Spiderum\" presence.\nIf \"Spiderum\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/Spiderum/dist/metadata.json"
+    }
+}
