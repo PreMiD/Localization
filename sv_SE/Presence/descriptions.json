@@ -1,10 +1,1 @@
-{
-    "descriptions.svt_play": {
-        "message": "Se dina favoritprogram när du vill i SVT Play - fri television på nätet.",
-        "description": "The presence description of the \"SVT Play\" presence.\nIf \"SVT Play\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/S/SVT%20Play/dist/metadata.json"
-    },
-    "descriptions.discord_extreme list": {
-        "message": "Discords opartiska lista, ger alla bots och servrar en stor chans!",
-        "description": "The presence description of the \"Discord Extreme List\" presence.\nIf \"Discord Extreme List\" is called something different in your language, you can add it as \"altnames\" in:\nhttps://github.com/PreMiD/Presences/tree/master/websites/D/Discord%20Extreme%20List/dist/metadata.json"
-    }
-}
+{}
