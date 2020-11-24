@@ -87,6 +87,22 @@
 		"message": "このPreMiDは古いバージョンです。PreMiDをアップデートしてください。",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "インターネット接続がありません。",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "インターネット接続がないため、PreMiDは現在プレゼンスを表示できません。",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Discordと接続されていません！",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "Discordのアプリケーションと接続できませんでした。インストール、または起動されていますか？*トラブルシューティング*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "すべて",
 		"description": "Category name shown when you open tags"
