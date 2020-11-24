@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
+### Discordのアプリ版を使用する
 PreMiDはブラウザ版のDiscordでは動作**しません。** [アプリ版のDiscord](https://discordapp.com/download)を使用してください。
 
 ### 追加設定がついているプレゼンスの場合
@@ -56,22 +56,22 @@ Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`P
 Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 その場合、Snapcraft版Discordを `sudo snap remove discord` と実行してアンインストールし、[Discord Linux版](https://discordapp.com/api/download?platform=linux) (または[ Discord Canary Linux版](https://discordapp.com/api/canary/download?platform=linux)) をダウンロードした後、Discordをダウンロードした場所 (普通は`$HOME/Downloads`) に行き、 `sudo dpkg -i discord-*.deb` と実行してパッケージをインストールする必要がります。
 
 ### McAfeeがPreMiDをウイルスとして検出する場合(windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+これはMcAfeeの誤った検出であり、すでに報告済の問題です。 PreMiDをスキャンから除外するには、以下のステップを踏んでください。
 
 > 実行するのに自信がない場合は、[#support](https://discord.gg/WvfVZ8T)でチケットを作ることも可能です。サポートがお手伝いします。 
 > 
 > {.is-warning}
 
 1. McAfeeを開き、右上の設定アイコンをクリックします。 <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
+2. 隔離されたアイテム(上から2番目)をクリックします。
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
+6. リアルタイムスキャン(上から3番目)をクリックします。
 7. Expand it and click "Add file".
 8. ファイルマネージャーのURLバーに "%appdata%" と入力し、Enterを押します。 <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. "PreMiD"フォルダーを開き、"PreMiD.exe"を選択して開きます。 <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+10. McAfeeがファイルを無視するので、あとは起動するだけです。
 
 ### 実行しても問題が解決しませんでしたか？
 PreMiDのDiscordサーバー内の[#support](https://discord.premid.app/)でチケットを開いてください。
