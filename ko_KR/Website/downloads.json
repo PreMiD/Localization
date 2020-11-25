@@ -3,6 +3,22 @@
     "message": "시작하기",
     "description": "Displayed at Downloads page above steps"
   },
+  "downloads.instructions.step_1": {
+    "message": "다운로드",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "앱 설치하기",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.footer": {
+    "message": "여전히 문제가 발생하나요? {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "저희는 도움을 드리기 위해 여기 있습니다!",
+    "description": "Link to our discord"
+  },
   "downloads.appdownloading.header": {
     "message": "Application downloads",
     "description": "Header above application download buttons."
@@ -11,9 +27,17 @@
     "message": "Extension downloads",
     "description": "Header above extension download buttons."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "경고:",
+    "description": "First part of the message."
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Premid는 휴대폰을 지원하지 않고 있다는것을 알고 있어라.",
+    "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
     "message": "다운로드한 파일 보여주기",
@@ -27,9 +51,33 @@
     "message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
     "description": "Tippy message of the version number when user is on Linux."
   },
+  "downloads.error.login": {
+    "message": "이것들을 다운로드하려면 로그인을 해라.",
+    "description": "Error message if the user is not logged in."
+  },
   "downloads.error.noaccess.title": {
     "message": "죄송하지만, 당신은 알파/베타 버전에 엑세스할 권한이 없습니다 :(",
     "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "너는 여기서 무료로 베타에 참여할 수 있다. **here** 빨리 신청해!  {0} 명 남았어",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "얼리 릴리즈",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "경고",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Chrome 웹 스토어에서 Premid를 설치하려면 **this** 이 확장자를 설치해야한다.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "건너뛰기",
+    "description": "Skip button on the ads section"
   },
   "downloads.button.back": {
     "message": "뒤로가기",
@@ -64,11 +112,23 @@
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message2": {
-    "message": "진짜로?",
+    "message": "확실하신가요?",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message3": {
     "message": "정말로?",
     "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message4": {
+    "message": "제발 도움이 되어주세요 :(",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message5": {
+    "message": "나는 네가 필요해 :<",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.showbeta.message": {
+    "message": "베타버전 다운로드",
+    "description": ""
   }
 }
