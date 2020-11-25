@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **앱과 확장기능**을 **둘다** 설치할 필요가 있습니다. 
 > 
 > {.is-warning}
 
@@ -23,8 +23,8 @@ dateCreated: 2020-06-11T18:03:51.119Z
 {.links-list}
 
 **Choose your browser:**
-- [Chromium *v76 or above*](/install/chromium)
-- [Firefox *v69 or above*](/install/firefox)
+- [Chromium *v76 또는 그 이상*](/install/chromium)
+- [Firefox *v69 또는 그 이상*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
