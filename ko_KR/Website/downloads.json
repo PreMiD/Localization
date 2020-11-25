@@ -31,8 +31,44 @@
     "message": "죄송하지만, 당신은 알파/베타 버전에 엑세스할 권한이 없습니다 :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.button.back": {
+    "message": "뒤로가기",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "좋습니다!",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.done": {
     "message": "완료",
     "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "로그인",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "감사합니다!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "우리는 팀을 지원하고, 최고의 경험을 제공하기 위해 서버를 유지하는데 광고를 사용합니다.",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "adblock을 비활성화 해줘....",
+    "description": "Message next to pepe."
+  },
+  "downloads.skipanyway.message1": {
+    "message": "나는 지원하고 싶지 않아.",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message2": {
+    "message": "진짜로?",
+    "description": "Skip anyway messages (changes everytime you click it)."
+  },
+  "downloads.skipanyway.message3": {
+    "message": "정말로?",
+    "description": "Skip anyway messages (changes everytime you click it)."
   }
 }
