@@ -11,9 +11,21 @@
 		"message": "번역에 도움을 주신 분들",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "프로젝트 리더",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "총관리자",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "개발자",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "디자이너",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "관리자",
