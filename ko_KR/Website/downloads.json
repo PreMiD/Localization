@@ -83,6 +83,10 @@
     "message": "뒤로가기",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "취소",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "좋습니다!",
     "description": "Button on the modal of Opera/Edge browsers."
