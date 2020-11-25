@@ -34,5 +34,9 @@
   "header.contributors": {
     "message": "기여자",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "로그인",
+    "description": "Login Button"
   }
 }
