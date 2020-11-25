@@ -39,7 +39,7 @@ In the root configuration file you will see something like this.
 | Property                   | 설명                                                                                                                                                                  |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
-| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
+| module                     | [여기](https://www.typescriptlang.org/docs/handbook/modules.html)에서 더 자세히 볼 수 있습니다.                                                                                   |
 | target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
 | removeComments             | Removing comments from compiled files.                                                                                                                              |
 | noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
