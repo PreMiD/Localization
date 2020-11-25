@@ -14,17 +14,17 @@ tags:
 
 # 설치
 1. 오른쪽의 링크를 눌러 다운로드 페이지로 들어가세요. [페이지로 이동](https://premid.app/downloads)
-2. Choose **OS X**.
+2. **OS X**를 선택하세요
 3. Extract the archive if necessary.
 4. 인스톨러를 여세요.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+5. 만약 Premid 를 처음 설치한다면, **보안 알림**이 나타날것 입니다. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
 > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
 잠시 후 자동으로 애플리케이션이 시작됩니다. Check for the symbol in your menu bar.
 
-> Do not forget to [add the **extension**](/install). 
+> [**확장기능**을 추가하는 것을 잊지마세요!](/install) 
 > 
 > {.is-warning}
 
