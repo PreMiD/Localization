@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Wybierz swój system operacyjny:**
 - [Windows *7 lub lepszy*](/install/windows)
 - [macOS *10.11 lub lepszy*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kernel z v2.x lub wyżej*](/install/linux)
 {.links-list}
 
 **Wybierz przeglądarkę:**

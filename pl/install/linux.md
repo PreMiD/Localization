@@ -129,7 +129,7 @@ Jeśli chcesz wypróbować PreMiD, albo po prostu nie chcesz go instalować, ten
 
 We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
-For **Ubuntu/Debian**:
+Dla **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
@@ -141,7 +141,7 @@ For **Fedora/CentOS/RedHat**:
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+Jeśli komenda nie działa, pobierz plik **deb/rpm** z naszego repozytorium pakietu lub nadpisz ustawienia.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
