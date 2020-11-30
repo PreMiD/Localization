@@ -1,1 +1,34 @@
-{}
+{
+  "extension.2.0.new1": {
+    "message": "उपयोगकर्ता अब थीम को स्वयं जोड़ सकते हैं। * अब कुछ जोड़ें *",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "उनके प्राकृतिक आवास में कुछ * नए संरक्षण * खोजें",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "ऑटो अपडेट होना अब एक बात है",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "उपयोगकर्ता अब उपस्थिति बना सकते हैं",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "इन रचनात्मक डेवलपर्स के लिए * डॉक्स * वहाँ से बाहर",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "सभी नई वेबसाइट डिजाइन",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "हमारे डिस्कोर्ड-बॉट के लिए और अधिक सुविधाएँ",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "हमारा नया एपीआई एक चालू जानवर है",
+    "description": ""
+  }
+}
