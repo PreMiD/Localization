@@ -1,1 +1,18 @@
-{}
+{
+	"popup.navigation.settings": {
+		"message": "समायोजन",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "क्रेडिट",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "समायोजन",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "सामान्य",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	}
+}
