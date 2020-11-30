@@ -30,5 +30,21 @@
   "extension.2.0.new8": {
     "message": "हमारा नया एपीआई एक चालू जानवर है",
     "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "पुर्नोत्थान पॉपअप और टैब लेआउट और शैली",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "बहुत सारे (अन) ज्ञात कीड़े भाग गए",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "सब कुछ अब बहुत तेजी से चल रहा है",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "यदि आपके पास नवीनतम है, तो भी पुराने एप्लिकेशन त्रुटि को ठीक करता है",
+    "description": ""
   }
 }
