@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD ialah projek bersumber terbuka, maksudnya kami pasukan bukan untung, setiap derma atau wang Patreon kembali semula kepada produk kami. Dengan memohon kedudukan pekerjaan di PreMiD anda memperakui bahawa anda akan bersukarela dalam pasukan, anda tidak akan dibayar untuk kerja anda.",
+		"message": "PreMiD ialah projek bersumber terbuka, maksudnya kami pasukan bukan untung, setiap derma atau wang Patreon kembali semula kepada produk kami. Dengan memohon jawatan pekerjaan di PreMiD anda memperakui bahawa anda akan bersukarela dalam pasukan, anda tidak akan dibayar untuk kerja anda.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Adakah anda bersedaia untuk membantu atur cara Rich-Presence terbesar?",
+		"message": "Adakah anda bersedia untuk membantu atur cara Rich-Presence terbesar?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {

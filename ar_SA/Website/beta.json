@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "يعمل الفريق الخفي على إدخالك في برنامجنا التجريبي بأسرع ما يمكن. شكرا لك على التسجيل!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "يبدو أننا لا نملك أي فتحات بيتا أخرى متاحة.",
+		"description": "Shows when the beta slots are full."
 	}
 }

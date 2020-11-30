@@ -87,6 +87,22 @@
 		"message": "당신의 PreMiD 앱은 오래되었습니다! PreMiD 를 계속 사용하시려면 업데이트 해주세요!",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "인터넷 연결 안됨!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "인터넷이 연결이 안된것처럼 보입니다! Premid 는 현재 presences 를 보여줄 수 없을것이다.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "디스코드와 연결 안됨!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "Premid 가 디스코드에 연결이 되지 않았습니다! 디스코드가 설치되었고, 실행중인가요?",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "모두",
 		"description": "Category name shown when you open tags"

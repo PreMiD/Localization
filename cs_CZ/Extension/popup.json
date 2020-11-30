@@ -87,6 +87,10 @@
 		"message": "Vaše PreMiD aplikace je zastaralá. Aktualizujte ji abyste mohli pokračovat v používání PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Bez připojení k internetu!",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Vše",
 		"description": "Category name shown when you open tags"
