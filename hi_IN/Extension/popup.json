@@ -54,5 +54,9 @@
 	"popup.buttons.presenceStore": {
 		"message": "प्रेजेंस स्टोर",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "मदद की ज़रूरत है?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	}
 }
