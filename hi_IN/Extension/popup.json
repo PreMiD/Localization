@@ -14,5 +14,45 @@
 	"popup.headings.general": {
 		"message": "सामान्य",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.setting.enabled": {
+		"message": "सक्रिय",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "मीडिया नियंत्रण",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "शीर्षक मेनूबार",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "ऑटो लांच",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "उपस्थिति",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "प्रबंधित",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "कोई उपस्थिति नहीं जोड़ा गया",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "किया हुआ",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "लोड उपस्थिति",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "प्रेजेंस स्टोर",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	}
 }
