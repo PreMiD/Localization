@@ -25,7 +25,7 @@ As regras gerais de desenvolvimento da presence são as seguintes:
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
 - Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Incluir a pasta `dist`, o ficheiro `presence.ts`, o ficheiro `iframe.ts`, e o ficheiro `metadata.json` é obrigatório, por isso, o resultado deverá ser o que é representado pelo seguinte esquema:
 
 ```bash
 presence
