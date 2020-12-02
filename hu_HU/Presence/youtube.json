@@ -22,5 +22,21 @@
     "youtube.readingChannel": {
         "message": "Csatorna névjegyének olvasása:",
         "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Videót vág:",
+        "description": ""
+    },
+    "youtube.studio.channelComments": {
+        "message": "csatorna hozzászólásai",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "csatorna fordítások",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "szerző oldala",
+        "description": "Part two of \"Viewing their\""
     }
 }
