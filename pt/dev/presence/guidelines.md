@@ -22,9 +22,9 @@ As regras gerais de desenvolvimento da presence são as seguintes:
 - Você precisa ter uma estrutura de arquivos correta, rascunhos **não são** permitidos.
 - Presenças para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
 - Presença que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
+- Presences com suporte para apenas um único subdomínio **não** serão permitidas, pois elas poderão parecer quebradas em outras páginas (como a página principal). Algumas exceções podem ser feitas para as páginas de Política e de Contacto (conteúdo que não é habitual ser usado) ou sites em que o conteúdo não está relacionado. (por exemplo, páginas de wiki)
+- Presences para rádios online apenas são permitidas se a rádio tiver pelo menos 100 ouvintes por semana e 15 em simultâneo.
+- Presences de baixa qualidade (ou com pouco contexto) **não** são permitidas (por exemplo, mostrar apenas uma logo e um texto, mas nunca os mudar denovo.)
 - Incluir a pasta `dist`, o ficheiro `presence.ts`, o ficheiro `iframe.ts`, e o ficheiro `metadata.json` é obrigatório, por isso, o resultado deverá ser o que é representado pelo seguinte esquema:
 
 ```bash
@@ -263,14 +263,14 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Revisores das Presences</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxichan"><img src="https://github.com/ririxichan.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Restrictions`
+## `Restrições`
 
 Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
 
