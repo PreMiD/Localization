@@ -19,12 +19,12 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 - **[Névjegy](#about)**
   - [Stats](#stats)
   - [Követelmények](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - Példák (Hamarosan)
+  - GYIK (Hamarosan)
   - Building (soon)
-  - [Support](#support)
+  - [Támogatás](#support)
   - [Készítők](#credits)
-  - [License](#license)
+  - [Licensz](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
   - [Installation instructions](#appimageinstall)
@@ -70,7 +70,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Támogatás
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Csatlakozz Discord szerverünkre!">
@@ -92,7 +92,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Licensz
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
