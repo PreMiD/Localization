@@ -42,7 +42,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4. Create a `metadata.json` file inside the `dist` folder.
 
 ## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+โปรดใส่โค้คต่อไปนี้ภายในไฟล์ `tsconfig.json`
 ```javascript
 {
   "extends": "../../../tsconfig.json",
