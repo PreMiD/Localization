@@ -395,7 +395,7 @@ presence.on("iFrameData", data => {
 ## Compiling
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# กำลังโหลด presence
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
