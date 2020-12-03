@@ -406,7 +406,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
 ## การแก้ไขจุดบกพร่อง
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
+- คุณสามารถใส่ `console.log("Test");`  ภายในโค้ดของคุณและดูว่าคอนโซลเบราว์เซอร์ของคุณให้ผลลัพธ์นั้นหรือไม่ ถ้าใช้ให้ไปลองอีกครั้งหลังฟังก์ชันถัดไป ถ้าไม่ใช่แสดงว่ามีข้อผิดพลาดอยู่ด้านบน
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
