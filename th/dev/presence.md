@@ -407,7 +407,7 @@ The website you are developing on is automatically reloading every time you save
 
 ## การแก้ไขจุดบกพร่อง
 - คุณสามารถใส่ `console.log("Test");`  ภายในโค้ดของคุณและดูว่าคอนโซลเบราว์เซอร์ของคุณให้ผลลัพธ์นั้นหรือไม่ ถ้าใช้ให้ไปลองอีกครั้งหลังฟังก์ชันถัดไป ถ้าไม่ใช่แสดงว่ามีข้อผิดพลาดอยู่ด้านบน
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- ถ้านั่นไม่ช่วยคุณ คุณควรขอความช่วยเหลือจากผู้พัฒนาของ presence ใน [Discord server](https://discord.premid.app/) ของเรา
 
 # Files explained
 - [คลาส Presence](/dev/presence/class)
