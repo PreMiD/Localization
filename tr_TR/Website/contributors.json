@@ -20,7 +20,7 @@
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Pazarlama Direktörü",
+		"message": "Pazarlama Müdürü",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -28,11 +28,11 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Gözden Geçiren",
+		"message": "İncelenmiş",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
-		"message": "Geliştirici",
+		"message": "Geliştirme",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
@@ -48,7 +48,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
-		"message": "Temsilci",
+		"message": "Görevi temsil",
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
