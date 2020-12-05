@@ -368,7 +368,7 @@ A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/W
 3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
-1. Create a `iframe.ts` file.
+1. Cria o ficheiro `iframe.ts`.
 2. Set iFrame to `true` in your metadata file.
 3. Filling in your iFrame file.
 ```javascript
