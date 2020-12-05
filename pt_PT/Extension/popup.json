@@ -99,6 +99,10 @@
 		"message": "Sem conexão ao Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "O PreMiD não conseguiu conectar-se à aplicação do Discord! Está instalado ou aberto? *Solução de problemas*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Todos",
 		"description": "Category name shown when you open tags"
