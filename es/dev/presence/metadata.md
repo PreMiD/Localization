@@ -159,7 +159,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>logotipo</b>
       </td>
-      <td style="text-align:left">Enlace al tipo de logotipo de servicio&apos;s.</td>
+      <td style="text-align:left">Enlace al logotipo del servicio.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -168,7 +168,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>thumbnail</b>
       </td>
-      <td style="text-align:left">Enlace a su presencia.</td>
+      <td style="text-align:left">Enlace al ícono de tu presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -177,7 +177,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>color</b>
       </td>
-      <td style="text-align:left"><code>valor #HEX</code>. Recomendamos usar un color primario del servicio
+      <td style="text-align:left">valor <code>#HEX</code>. Recomendamos usar un color primario del servicio
         que tu presencia soporta.</td>
       <td style="text-align:left"><code>String</code>
       </td>
