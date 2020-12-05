@@ -335,7 +335,7 @@ presence.on("UpdateData", async () => {
 
     var presenceData: presenceData = {
         largeImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en la presencia. Estos se suben y se nombran en la sección Rich Presence de tu aplicación, llamada Art Assets*/
-        smallImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en tu presencia. Estas son subidas y nombradas en la sección de Rich Precense de su aplicación, llamado Art Assets*/
+        smallImageKey: "key", /*La key (nombre de archivo) de la imagen grande en tu presence. Estas son subidas y nombradas en la sección de Rich Precense de su aplicación, llamado Art Assets*/
         smallImageText: "Some hover text", //El texto que se muestra al pasar el cursor sobre la imagen pequeña
         detalles: "Navegando nombre de página", //La sección superior del texto de presencia
         estado: "sección de lectura A", //La sección inferior del texto de presencia
