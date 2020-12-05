@@ -2,7 +2,7 @@
 title: Pembangunan Presence
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [
 ## Cloning the project
 1. Buka terminal dan taip `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
-3. Open it in you code editor.
+3. Open it in your code editor.
 
 ## Creating folders and files
 
@@ -168,10 +168,10 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b>
+      <td style="text-align:left"><b>keterangan</b>
       </td>
       <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan
-        perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+        perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, beserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>Tidak</code>
