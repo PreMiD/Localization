@@ -2,7 +2,7 @@
 title: Presence 开发
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## 克隆项目
 1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Presences`
 2. 选择一个文件夹。
-3. 用您的代码编辑器的开他。
+3. 使用您的代码编辑器打开他。
 
 ## Creating folders and files
 

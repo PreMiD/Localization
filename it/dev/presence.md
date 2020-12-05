@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: vero
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/).
 ## Clonando il progetto
 1. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
 2. Scegli una cartella a tua scelta.
-3. Aprilo con l'editor di codice.
+3. Aprilo nel tuo editor di codice.
 
 ## Creazione cartelle e file
 

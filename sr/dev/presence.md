@@ -2,7 +2,7 @@
 title: Pravljenje Presence-a
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ Svi presence-i su kodirani u [TypeScript-u](https://www.typescriptlang.org/). [T
 ## Cloning the project
 1. Otvorite terminal i napišite `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
-3. Otvorite ga u svom editoru koda.
+3. Open it in your code editor.
 
 ## Pravljenje foldera i fajlova
 

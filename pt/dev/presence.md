@@ -2,7 +2,7 @@
 title: Desenvolvimento de Presenças
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ Toda a presença é codificada em [TypeScript](https://www.typescriptlang.org/).
 ## Clonando o projeto
 1. Abrir um terminal e digitar `git clone https://github.com/PreMiD/Presences`.
 2. Escolha uma pasta à sua escolha.
-3. Abre-o no teu editor de códigos.
+3. Abra isso no seu editor para programação.
 
 ## Criação de pastas e ficheiros
 
