@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ Tüm servisler [TypeScript](https://www.typescriptlang.org/) ile kodlanır. [Typ
 ## Projeyi klonlama
 1. Bir konsol açın ve `git clone https://github.com/PreMiD/Presences` yazın.
 2. Bir klasör seçin.
-3. Bu klasörü kod editörünüzün içerisinde açın.
+3. Klasörü kullandığınız editör ile açın.
 
 ## Klasörleri ve dosyaları oluşturma
 
