@@ -2,7 +2,7 @@
 title: การพัฒนา Presence
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## การโคลนโปรเจ็ค
 1. เปิดโปรแกรม Terminal และพิมพ์ `git clone https://github.com/PreMiD/Presences`.
 2. เลือกโฟลเดอร์ที่คุณต้องการ
-3. เปิดในโปรแกรมแก้ไขโค้ดของคุณ
+3. เปิดในโปรแกรมแก้ไขโค้ด
 
 ## การสร้างโฟลเดอร์และไฟล์
 
@@ -160,7 +160,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>altnames</b>
       </td>
-      <td style="text-align:left">Be able to search the presence using an alternative name. <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
+      <td style="text-align:left">สามารถค้นหา Presence ด้วยชื่อรอง (ชื่อที่สอง) <br>Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).
       </td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code>
       </td>
