@@ -40,7 +40,7 @@
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "Bejelentkezve:",
+    "message": "Bejelentkezve mint",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
