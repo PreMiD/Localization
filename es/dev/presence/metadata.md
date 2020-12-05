@@ -178,7 +178,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>color</b>
       </td>
       <td style="text-align:left">valor <code>#HEX</code>. Recomendamos usar un color primario del servicio
-        que tu presencia soporta.</td>
+        que tu presence soporte.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -187,7 +187,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>etiquetas</b>
       </td>
-      <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presencia en el sitio web.</td>
+      <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presence en el sitio web.</td>
       <td
       style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
         </td>
@@ -197,7 +197,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>categoría</b>
       </td>
-      <td style="text-align:left">Una cadena utilizada para representar la categoría bajo la que cae la presencia.</td>
+      <td style="text-align:left">Una string utilizada para representar la categoría bajo la que cae la presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -215,7 +215,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b>
       </td>
-      <td style="text-align:left">Un selector de expresiones regulares que selecciona iframes a inyectar.</td>
+      <td style="text-align:left">Un selector de expresiones regulares que selecciona los iframes a inyectar.</td>
       <td style="text-align:left"><code>String</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
