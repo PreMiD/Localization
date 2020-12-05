@@ -12,23 +12,23 @@ tags:
 > 
 > {.is-info}
 
-## Versión de API
-> La API v1 ha sido descontinuada, cualquier solicitud debe ser enviada a la versión actual 
+## Administración de versiones de la API
+> La API v1 ha sido descontinuada, cualquier solicitud debe ser enviada a la versión activa 
 > 
 > {.is-danger}
 
-PreMiD tiene diferentes versiones en su API. Puedes especificar la versión incluyéndola en la ruta de la solicitud como `https://api.premid.app/v{version_number}`. Al omitir el número de versión de la ruta, las peticiones se dirigirán a la versión predeterminada actual (marcada abajo en consecuencia).
+PreMiD tiene diferentes versiones en su API. Puedes especificar la versión incluyéndola en la dirección de la solicitud como `https://api.premid.app/v{número_de_la_versión}`. Al omitir el número de versión las peticiones se dirigirán a la versión predeterminada actual (Marcada abajo por consiguiente).
 
-## Encriptación
+## Cifrado
 
-Todos los servicios y protocolos de la capa de HTTP (por ejemplo, http) dentro de la API de PreMiD utilizan TLS 1.2.
+Todos los servicios y protocolos de capa HTTP (por ejemplo, http) dentro de la API de PreMiD utilizan TLS 1.2.
 
 # Documentación
-> ¡Actualmente en construcción! 
+> ¡Estamos trabajando en ello! 
 > 
 > {.is-danger}
 
-**Elija la versión API:**
+**Elija la versión de la API:**
 - [v2 *activa*](/dev/api/v2)
-- [v3*trabajo en progreso*](/dev/api/v3)
+- [v3 *trabajando en ella*](/dev/api/v3)
 {.links-list}
