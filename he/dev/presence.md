@@ -2,7 +2,7 @@
 title: פיתוח תוסף
 description:
 published: true
-date: 2020-10-17T23:04:47.105Z
+date: 2020-12-04T23:19:52.876Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -32,7 +32,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## שכפל את הפרויקט
 1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Presences `.
 2. Choose a folder of your choice.
-3. פתח אותו בעורך הקוד שלך.
+3. Open it in your code editor.
 
 ## יצירת תיקיות וקבצים
 
