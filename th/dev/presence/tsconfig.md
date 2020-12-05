@@ -65,4 +65,4 @@ In the root configuration file you will see something like this.
 |:------------------- |:-------------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                               |
 | **compilerOptions** | ดู [**Root Configuration**](/dev/presence/tsconfig#root-configuration) สำหรับข้อมูลเพิ่มเติม |
-| outDir              | กำหนดไดเร็กทอรีเอาต์พุตสำหรับไฟล์ที่คอมไพล์แล้ว                                              |
+| outDir              | กำหนด Output สำหรับไฟล์ Compile แล้ว                                                         |
