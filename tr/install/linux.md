@@ -99,7 +99,7 @@ Teşekkürler:
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Portable AppImage
+## Taşınabilir Uygulama Görüntüsü
 
 AppImage paketi eğer Discord uygulamanız çalışıyor, ama diğer PreMiD paketleri (.deb, .rpm, vb.) çalışmıyorsa önerilir.
 
