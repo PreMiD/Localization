@@ -4,7 +4,7 @@ description: 리눅스에 PreMiD 설치를 시작해봐요.
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
-editor: markdown
+editor: 마크다운
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
