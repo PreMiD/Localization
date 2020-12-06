@@ -1,6 +1,6 @@
 ---
-title: 크로미움
-description: 크로미움 기반의 브라우저로 PreMiD 설치를 시작해 봅시다.
+title: Chromium
+description: Chromium 기반 브라우저에 PreMiD 설치를 시작해 봅시다.
 published: true
 date: 2020-04-22 20시 13분 7초
 tags:
