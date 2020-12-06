@@ -4,7 +4,7 @@ description: 모든 PreMid Presence 클래스
 published: true
 date: 2020-07-29T15:12:55.925Z
 tags:
-editor: markdown
+editor: 마크다운
 ---
 
 # Presence Class
