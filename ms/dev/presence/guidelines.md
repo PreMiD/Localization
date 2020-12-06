@@ -303,13 +303,13 @@ Ketika ini, sesebuah Presence melalui dua (2) peringkat semakan yang berlainan. 
 
 ## `Peraturan Tambahan`
 
-- **Sentiasa** pastikan anda mulakan Presence anda dalam folder yang sesuai, sekiranya namanya bermula dengan _sebarang_ huruf Rumi maka ia mestilah berada di bawah padanan abjadnya (sbg. cth., `D/dアニメストア` atau `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Sentiasa** pastikan anda mulakan Presence anda dalam folder yang sesuai, sekiranya namanya bermula dengan _sebarang_ huruf Rumi maka ia mestilah berada di bawah padanan abjadnya (sbg. cth., `D/dアニメストア` atau `G/Google`). Sebarang aksara Unicode/bukan-Rumi yang lain **mesti** berada di bawah folder `#` (sbg. cth., `#/巴哈姆特`) dan nombor berada di bawah folder `0-9` (sbg. cth., `0-9/4anime`).
 
 Setelah mematuhi kesemua garis panduan dengan ulasan dan semakan yang wajar, Presence anda akan dicantumkan dengan kedai.
 
-# Contributions
+# Sumbangan
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Semakan 2` garis panduan ditulis dan disumbangkan oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
