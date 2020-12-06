@@ -4,7 +4,7 @@ description: Rules all presence developers must follow to have their presence ad
 published: true
 date: 2020-11-16T23:08:49.727Z
 tags:
-editor: markdown
+editor: 마크다운
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
