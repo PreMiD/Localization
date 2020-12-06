@@ -2,5 +2,21 @@
 	"general.anime": {
 		"message": "एनिमी",
 		"description": ""
+	},
+	"general.browsing": {
+		"message": "ब्राउजिंग",
+		"description": ""
+	},
+	"general.live": {
+		"message": "लाइव",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "पढ़ना",
+		"description": ""
+	},
+	"general.search": {
+		"message": "खोज रहा है",
+		"description": ""
 	}
 }
