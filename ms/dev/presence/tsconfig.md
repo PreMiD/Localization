@@ -1,23 +1,23 @@
 ---
-title: TypeScript Configuration
-description: A little helper for TypeScript
+title: Tatarajah TypeScript
+description: Pembantu kecil bagi TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
 ---
 
-# TypeScript Configuration
+# Tatarajah TypeScript
 
 ## Pengenalan
 
-Apabila anda memuat turun dan menyahpadat ruang kerja, anda akan nampak fail bernama `tsconfig.js` di akar dan dalam folder Presence, fail ini digunakan untuk menatarajah pengkompil **TypeScript**. It is already configured for you, so don't worry about that.
+Apabila anda memuat turun dan menyahpadat ruang kerja, anda akan nampak fail bernama `tsconfig.js` di akar dan dalam folder Presence, fail ini digunakan untuk menatarajah pengkompil **TypeScript**. Ia telah ditatarajah untuk anda, jadi anda tidak perlu risaukannya.
 
-We just want to describe some settings that you should know.
+Kami cuma ingin terangkan beberapa tetapan yang anda patut tahu.
 
-## Root Configuration
+## Tatarajah Akar
 
-In the root configuration file you will see something like this.
+Dalam fail tatarajah akar anda akan nampak sesuatu seperti ini.
 
 ```javascript
 {
@@ -36,19 +36,19 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | Keterangan                                                                                                                                                          |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
-| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
-| target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
-| removeComments             | Removing comments from compiled files.                                                                                                                              |
-| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
-| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
-| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
+| Property                   | Keterangan                                                                                                                                                                          |
+|:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Digunakan untuk menatarajah pengkompil, kebanyakan sifat terletak di sini.                                                                                                          |
+| module                     | Anda boleh baca lebih lanjut mengenainya di [sini](https://www.typescriptlang.org/docs/handbook/modules.html) (bahasa Inggeris).                                                    |
+| target                     | Mentakrifkan versi JavaScript yang anda mengkompil.                                                                                                                                 |
+| removeComments             | Mengalihkan ulasan daripada fail yang dikompil.                                                                                                                                     |
+| noEmitOnError              | Jangan keluarkan output bagi sebarang ralat yang dilaporkan.                                                                                                                        |
+| noFallthroughCasesInSwitch | Laporkan ralat bagi kes jatuh telus dalam suis kenyataan.                                                                                                                           |
+| noUnusedLocals             | Laporkan ralat bagi pemboleh ubah tempatan yang tidak digunakan.                                                                                                                    |
+| noUnusedParameters         | Laporkan ralat bagi parameter yang tidak digunakan.                                                                                                                                 |
+| inlineSourceMap            | Tambah pemetaan sumber                                                                                                                                                              |
+| typeRoots                  | Anda boleh baca lebih lanjut mengenainya di [sini](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types) (bahasa Inggeris).                    |
+| esModuleInterop            | Keluarkan pembantu __importStar dan __importDefault untuk keserasian ekosistem hingar waktu jalan dan membolehkan --allowSyntheticDefaultImports untuk keserasian sistem jenis. |
 
 ## Tatarajah Presence
 
@@ -63,6 +63,6 @@ In the root configuration file you will see something like this.
 
 | Property            | Keterangan                                                                                   |
 |:------------------- |:-------------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                               |
+| **extends**         | Digunakan untuk menyambung fail `tsconfig` asas bagi pelbagai tugasan.                       |
 | **compilerOptions** | Lihat [**Tatarajah Akar**](/dev/presence/tsconfig#root-configuration) untuk maklumat lanjut. |
-| outDir              | Defines the output directory for compiled files.                                             |
+| outDir              | Mentakrifkan direktori output bagi fail yang dikompil.                                       |
