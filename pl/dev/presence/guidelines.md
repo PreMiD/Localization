@@ -2,7 +2,7 @@
 title: Wytyczne
 description: Reguły, których muszą przestrzegać wszyscy twórcy Presence, aby ich Presence zostały zaakceptowane.
 published: tak
-date: 2020-11-16T23:08:49.727Z
+date: 2020-12-06T19:43:05.270Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -21,6 +21,7 @@ Ogólne zasady rozwijania statusów są następujące:
 - Struktura plików musi być czysta i uporządkowana, nie powinna zawierać plików, które nie są wymagane. (np. foldery vscode i git, pliki graficzne i tekstowe itp.)
 - Musisz mieć odpowiednią strukturę plików, wersje robocze **są niedozwolone**.
 - Statusy dla stron z ((`.onion` TLD)) lub stron z darmowymi domenami/hostami (np. `.TK` [wszystkie bezpłatne domeny Freenom], `.RF`, `.GD`, itp.) są **niedozwolone**, można zrobić wyjątek, jeśli zostanie przedstawiony dowód, że zapłacono za domenę.
+- The domain of the presence must be at least 2 months old.
 - Status kierowane na wewnętrzne strony przeglądarki (takie jak Chrome Web Store, `chrome://`, strony `about:`, itp.) **są niedozwolone**, ponieważ wymagają włączenia eksperymentalnej flagi po stronie użytkowników i mogą potencjalnie spowodować uszkodzenie ich przeglądarki.
 - Statusy wspierające tylko jedną sub-domenę **są niedozwolone** ponieważ mogą nie działać na innych stronach (takich jak strona główna), wyjątek mogą stanowić strony kontaktowe lub z polityką prywatności (czyli takie które nie są często używae) lub strony gdzie inna zawartość jest niezwiązana z sub-domeną. (np. strony wiki)
 - Statusy dla stacji radiowych są dozwolone tylko w przadku kiedy stacja ma conajmniej 100 słuchaczy tygodniowo i conajmije 15 słuchaczy na raz.
