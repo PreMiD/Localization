@@ -7,8 +7,52 @@
 		"message": "ब्राउजिंग",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "अध्याय",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "डीजे",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "संपादन:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "प्रकरण",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "मंच",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "शैली",
+		"description": ""
+	},
+	"general.listeningMusic": {
+		"message": "संगीत सुन रहा है",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "श्रोताओं",
+		"description": ""
+	},
 	"general.live": {
 		"message": "लाइव",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "माँगा",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "वे बिक्री",
+		"description": ""
+	},
+	"general.page": {
+		"message": "पृष्ठ",
 		"description": ""
 	},
 	"general.reading": {
