@@ -60,7 +60,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ### Requirements
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+공식적으로 디스코드를 실행할 수 있는 모든 [공식](https://discordapp.com/download) **앱** (웹 및 스냅 버전 제외) 에서도 PreMiD를 실행할 수 있어요.;</br> 눈치 채셨을수도 있는데, 지난 몇년간 리눅스가 32비트(ia32/i686/i386/x86) 아키텍쳐의 지원을 중단하기 시작했어요. 그래서 우리도 그랬어요. 그러나, 만약 32비트를 꼭 사용해야 하신다면, 스스로 이 앱을 빌드하셔서 사용하실 수 있어요.</br>저희가 Electron 엔진을 사용한 이래로 (디스코드도 이것을 사용해요!), 이 요구사항 역시 이 앱에 적용됩니다 :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
