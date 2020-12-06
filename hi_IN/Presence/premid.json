@@ -1,4 +1,12 @@
 {
+    "premid.pagePrivacy": {
+        "message": "गोपनीयता नीति",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "सेवाओं की शर्तें",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "विकी",
         "description": "A page name"
