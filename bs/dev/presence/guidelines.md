@@ -2,7 +2,7 @@
 title: Smjernice
 description: Pravila kojih se moraju pridržavati svi programeri prisutnosti kako bi im se dodala njihova prisutnost.
 published: true
-date: 2020-11-16T23:08:49.727Z
+date: 2020-12-06T19:43:05.270Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -21,6 +21,7 @@ Opća pravila razvoja prisutnosti su sljedeća:
 - Struktura datoteke mora biti čista i njome se mora upravljati, ne uključuju datoteke koje nisu specificirane. (za npr. vscode i git mape, slikovne i tekstualne datoteke itd.)
 - Morate imati odgovarajuću strukturu datoteka, skice **nisu** dopuštene.
 - Prisutnosti za web lokacije sa (`.onion ` TLD-ovima) ili web lokacije sa besplatnim domenima / hostovima (npr. `.TK ` [sve besplatne Freenom domene], `.RF </ code>, <code> GD `, itd.) ** nisu** dozvoljeni, mogu se napraviti izuzeci ako se predoči dokaz da su platili domenu.
+- The domain of the presence must be at least 2 months old.
 - Prisutnost koja cilja interne stranice pregledača (poput Chrome web trgovine, ` chrome: // `, ` about: ` stranice itd.) Nisu ** ne < / strong> dopušteno jer zahtijevaju eksperimentalnu zastavicu koja mora biti omogućena na kraju korisnika i potencijalno može nanijeti štetu njihovim preglednicima.</li>
 - Prisutnosti s podrškom za samo jednu poddomenu neće biti ** ** dozvoljene, jer mogu izgledati pokvareno za druge stranice (poput početne stranice), mogu se napraviti izuzeci za politiku i kontakt stranice (sadržaj koji se ne koristi često) ili web lokacije na kojima drugi sadržaj nije povezan. (for e.g., wikia pages)
 - Prisutnosti za mrežne radio stanice dozvoljene su samo ako radio ima najmanje 100 slušatelja tjedno i 15 istovremeno.
