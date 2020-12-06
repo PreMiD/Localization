@@ -15,6 +15,14 @@
 		"message": "최신 기능",
 		"description": "Features list"
 	},
+	"beta.features.2": {
+		"message": "PreMiD의 일급기밀 채팅 채널에 접근하세요",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "저희의 디스코드 서버의 특별한 등급",
+		"description": "Features list"
+	},
 	"beta.register.button": {
 		"message": "지금 가입하세요!",
 		"description": "Sign up button text"
@@ -26,5 +34,9 @@
 	"thankyou.description": {
 		"message": "우리 원숭이들은 최대한 빠르게 우리 베타 프로그램에 참여시키기 위해 노력하는 중입니다. 우리 서비스에 등록해주셔서 감사드립니다!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "음, 저희가 더 많은 베타 테스터 슬롯을 준비해야겠네요.",
+		"description": "Shows when the beta slots are full."
 	}
 }
