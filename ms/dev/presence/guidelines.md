@@ -170,7 +170,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
+- Logo **mestilah** imej segi empat sama dengan nisbah bidang `1:1`.
 - The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
