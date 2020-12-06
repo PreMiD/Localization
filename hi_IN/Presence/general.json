@@ -67,12 +67,92 @@
 		"message": "डीएम से पढ़ना:",
 		"description": ""
 	},
+	"general.readingAbout": {
+		"message": "डीएम से पढ़ना:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "लेख पढ़ना:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "चैनल में पढ़ना:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "डीएम से पढ़ना:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Reading thread:\nपढ़ना धागा:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "पढ़ना",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "इसे खोजें:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "कुछ खोज रहा है...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "खोज रहा है",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "शॉपिंग कार्ट",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DMs में टाइपिंग:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "चैनल में टाइपिंग:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "एनीमे देखना:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "देखने की श्रेणी:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "चैनल देखना:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "एपिसोड देखना:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "देखने की शैली:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "होम पेज देखना",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "देखने की सूची:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "मंगा देखना:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "देखने वाला सदस्य:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "फिल्म देखना:",
 		"description": ""
 	}
 }
