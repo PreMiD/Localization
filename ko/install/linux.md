@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: 리눅스로 PreMiD 설치를 시작해 봅시다.
+description: 리눅스에 PreMiD 설치를 시작해봐요.
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -17,15 +17,15 @@ dateCreated: 2020-06-11T18:04:14.124Z
 ## 차례
 
 - **[정보](#about)**
-  - [Stats](#stats)
+  - [통계](#stats)
   - [Requirements](#requirements)
   - 예시 (준비중)
   - 자주 하는 질문 (준비중)
-  - Building (soon)
+  - 빌드 (준비중)
   - [지원](#support)
   - [제작진](#credits)
   - [라이센스](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Snapcraft](#snapcraft)** (단순히 말해서 말이죠 : _영원히!_ ™️)
 - **[포터블 AppImage](#appimage)** (_추천_)
   - [설치 방법](#appimageinstall)
   - [추가 사항](#appimagenotes)
@@ -41,7 +41,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="stats"></a>
 
-### Stats
+### 통계
 
 <table>
   <tr>
