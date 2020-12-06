@@ -2,7 +2,7 @@
 title: Pokyny
 description: Pravidla, která musí všichni vývojáři dodržovat, aby byla jejich presence přidána.
 published: true
-date: 2020-11-16T23:08:49.727Z
+date: 2020-12-06T19:43:05.270Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -21,6 +21,7 @@ Základní pravidla vyvíjení presence jsou následující:
 - Struktura souboru musí být čistá a udržována. Nepřikládejte soubory, které nejsou specifikovány (například vscode a git složky, obrázky, textové soubory a podobně).
 - Musíte mít řádnou strukturu souboru, koncepty **nejsou** povoleny.
 - Presence pro webové stránky s TLD `.onion` nebo stránky s doménou/hostingem zdarma (například `.TK` (Všechny Freenom domény), `.RF`, `.GD`) **není povolena**, ale mohou být uděleny výjimky, pokud bude poskytnut důkaz že za doménu bylo zaplaceno.
+- The domain of the presence must be at least 2 months old.
 - Presence, které cílí na interní stránky prohlížeče (jako je internetový obchod Chrome, stránky `chrome://`, stránky `about:` a podobně...) **nejsou** povoleny, jelikož po uživatelovi vyžadují aktivování zkušebních funkcí a mohli by potencionálně způsobit škodu na jejich prohlížečích.
 - Presence podporující jedinou subdoménu **nebudou** povoleny, jelikož se na ostatních stránkách (například na domovské stránce) mohou zdát rozbité. Mohou být uděleny výjimky pro stránky s kontakty nebo se zásadami o ochraně osobních údajů (obsah, který není často využíván), či pro stránky, jejž obsah je nepodstatný (například wikia stránky).
 - Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.

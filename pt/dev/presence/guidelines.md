@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os desenvolvedores de presence devem seguir para ter a sua presence adicionada.
 published: true
-date: 2020-11-16T23:08:49.727Z
+date: 2020-12-06T19:43:05.270Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -21,6 +21,7 @@ As regras gerais de desenvolvimento da presence são as seguintes:
 - A estrutura do arquivo deve ser limpa e gerenciada, não inclui ficheiros que não são especificados. (por exemplo, vscode e pastas git, imagens e arquivos de texto, etc.)
 - Você precisa ter uma estrutura de arquivos correta, rascunhos **não são** permitidos.
 - Presenças para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
+- The domain of the presence must be at least 2 months old.
 - Presença que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
 - Presences com suporte para apenas um único subdomínio **não** serão permitidas, pois elas poderão parecer quebradas em outras páginas (como a página principal). Algumas exceções podem ser feitas para as páginas de Política e de Contacto (conteúdo que não é habitual ser usado) ou sites em que o conteúdo não está relacionado. (por exemplo, páginas de wiki)
 - Presences para rádios online apenas são permitidas se a rádio tiver pelo menos 100 ouvintes por semana e 15 em simultâneo.
