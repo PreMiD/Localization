@@ -4,7 +4,7 @@ description:
 published: true
 date: 2020-12-04T23:19:52.876Z
 tags:
-editor: markdown
+editor: 마크다운
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
@@ -29,7 +29,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Presence 복사 중
+## Presence 복사하기
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. 원하는 폴더를 선택하세요.
 3. 이것을 당신의 코드 편집기로 실행하세요.

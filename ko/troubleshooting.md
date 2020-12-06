@@ -4,7 +4,7 @@ description: Everything to solve your problem
 published: true
 date: 2020-09-01T18:31:28.780Z
 tags:
-editor: markdown
+editor: 마크다운
 ---
 
 > Make sure you have the extension **and** the application installed! 
