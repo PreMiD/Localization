@@ -11,7 +11,7 @@ editor: 마크다운
 > 
 > {.is-warning}
 
-# PreMid 더보기
+# PreMiD에 대하여
 - :mag: [PreMiD가 무엇인가요?](/about) PreMiD의 목적을 알고, 왜 사용해야하는지 알려드릴게요.
 - :link:[RPC가 무엇인가요?](https://discordapp.com/rich-presence) Rich Presence에 대한 모든것과 기?능을 알아보세요.
 
