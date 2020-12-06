@@ -18,7 +18,7 @@ Versi `2.x` memperkenalkan [kedai Presence](https://premid.app/store). Pengguna 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/en/dev/presence/guidelines)
+- [Garis Panduan](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
 # Structure
@@ -413,5 +413,5 @@ The website you are developing on is automatically reloading every time you save
 - [Kelas Presence](/dev/presence/class)
 - [Kelas iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig)
+- [Tatarajah TypeScript](/dev/presence/tsconfig)
 {.links-list}
