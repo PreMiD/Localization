@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 애플리케이션만으로는 아무것도 할 수 없기에 확장 프로그램 설치가 매우 중요합니다.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> DoomLerd의 패키지를 사용한 멍청한 유저들은 그가 말했듯 안전할 것입니다. 우리는 그것을 사용하지 않을 것을 권하지만, 원하신다면 얼마든 사용하실 수 있습니다. DoomLerd에게 여전히 멍청한 repo를 유지해준것에 감사합니다. 
 > 
 > {.is-warning}
 
@@ -29,8 +29,8 @@ dateCreated: 2020-06-11T18:04:14.124Z
 - **[포터블 AppImage](#appimage)** (_추천_)
   - [설치 방법](#appimageinstall)
   - [추가 사항](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Red Hat Enterprise Linux (RHEL) 기반 배포판**](#packagecloud)
+- [**Debian 과 Ubuntu 기반 배포판**](#packagecloud)
 - [**아치 리눅스 기반 배포판**](#arch)
 
 <a name="about"></a>
@@ -84,11 +84,11 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 도움을 주신 분들:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (그리고 제가 이름을 까먹은 몇몇 친구들) nightly 릴리즈에 피드백을 준 사람들.
-- Gentoo 빌드를 유지해주신 @apriluwu님.
-- 이전에 아치 유저 Repo패키지를 @SlimShadyIAm님과 naka님.
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (그리고 제가 이름을 까먹은 몇몇 친구들) nightly 릴리즈에 피드백을 준 사람들
+- Gentoo 빌드를 유지해주신 @apriluwu님
+- 이전에 아치 유저 Repo패키지를 @SlimShadyIAm님과 naka님
+- 다양한 패키지를 제공해주신 Electron 커뮤니티
+- 그리고 이 프로젝트에 기여한 모든 이들
 
 <a name="license"></a>
 
@@ -101,7 +101,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ## 포터블 AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+AppImage 패키지는 디스코드는 작동하지만 다른 PreMiD 패키지 (.dev, .rpm 등등)이 작동하지 않는 경우 권장됩니다.
 
 <a name="appimageinstall"></a>
 
@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# 이것을 더블클릭 하거나 실행하세요
 ./PreMiD*.AppImage
 ```
 
