@@ -1,4 +1,12 @@
 {
+  "downloads.header.title": {
+    "message": "이제 보여줄 시간입니다.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "PreMiD를 사용하여 친구들에게 무엇을 하고 있는지 보여주세요, 아마 같은 취미를 가진 사람을 찾을 지도 몰라요!",
+    "description": "Subtitle for header"
+  },
   "downloads.instructions.heading": {
     "message": "시작하기",
     "description": "Displayed at Downloads page above steps"
@@ -10,6 +18,14 @@
   "downloads.instructions.step_2": {
     "message": "앱 설치하기",
     "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "저희의 익스텐션을 브라우저에 추가하세요",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "확장프로그램이 연결되었는지 확인하려면 이 페이지를 새로고침하세요.",
+    "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
     "message": "여전히 문제가 발생하나요? {0}",
@@ -47,6 +63,10 @@
     "message": "다운로드한 파일 숨기기",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.warning.differentVersion": {
+    "message": "이 플랫폼의 현재 버전 {0} (이 버전은 리눅스 한정입니다, 그리고 다른 플랫폼에는 적용되지 않아요)",
+    "description": "Tippy message of the Linux card."
+  },
   "downloads.warning.differentVersion2": {
     "message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
     "description": "Tippy message of the version number when user is on Linux."
@@ -70,6 +90,10 @@
   "downloads.warning.title": {
     "message": "경고",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.edge": {
+    "message": "확장프로그램 설정에서 '다른 스토어의 확장프로그램을 허용'을 활성화 하는것을 잊지 마세요.",
+    "description": "Warning modal message when an Edge user clicks on Edge (extension) download."
   },
   "downloads.warning.message.opera": {
     "message": "Chrome 웹 스토어에서 Premid를 설치하려면 **this** 이 확장자를 설치해야한다.",
@@ -131,8 +155,16 @@
     "message": "나는 네가 필요해 :<",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
+  "downloads.skipanyway.message6": {
+    "message": "네 네, 알겠어요...",
+    "description": "Last message of the skip anyway messages (changes everytime you click it)."
+  },
   "downloads.showbeta.message": {
     "message": "베타버전 다운로드",
     "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(일반 앱만을 다운로드 하신다면 이곳에 있으실 필요가 없어요)",
+    "description": "Small text under the show beta title."
   }
 }
