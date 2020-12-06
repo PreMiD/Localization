@@ -154,5 +154,33 @@
 	"general.viewMovie": {
 		"message": "फिल्म देखना:",
 		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "प्लेलिस्ट देखना:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "देखने के उत्पाद:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "प्रोफ़ाइल देखना:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "श्रृंखला देखना:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "शो देखना:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "उनका खाता देखना",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Reading thread:\nपढ़ना धागा:",
+		"description": ""
 	}
 }
