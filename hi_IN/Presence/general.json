@@ -55,6 +55,18 @@
 		"message": "पृष्ठ",
 		"description": ""
 	},
+	"general.paused": {
+		"message": "रुका हुआ",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "क्रियागत अर्थो में",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "डीएम से पढ़ना:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "पढ़ना",
 		"description": ""
