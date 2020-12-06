@@ -17,9 +17,9 @@ Apabila menerbitkan Presence ke GitHub ini, anda perlu mengikut set garis pandua
 Peraturan am pembangunan Presence adalah seperti berikut:
 
 - Presence **mestilah** berkait dengan laman sesawang dipilih.
-- Presence **tidak boleh** dibuat untuk laman sesawang haram. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
+- Presence **tidak boleh** dibuat untuk laman sesawang haram. (cth. untuk., ubat penegas, pemasaran dadah, pornografi kanak-kanak, dsb.)
+- Struktur fail mestilah bersih dan teratur, jangan sertakan fail yang tidak dinyatakan. (cth. untuk, folder vscode dan git, fail imej dan teks, dsb.)
+- Anda perlu mempunyai struktur fail yang wajar, draf **tidak** dibenarkan.
 - Presence untuk laman sesawang dengan (TLD `.onion`) atau laman sesawang dengan domain/hos percuma (sbg. cth., `.TK` [semua domain percuma Freenom], `.RF`, `GD`, dll) adalah **tidak** dibenarkan, pengecualian boleh dibuat sekiranya terdapat bukti bahawa mereka bayar untuk domain tersebut.
 - Domain bagi Presence mestilah berusia sekurang-kurangnya 2 bulan.
 - Presence yang mensasarkan halaman pelayar dalaman (seperti Chrome Web Store, `chrome://`, halaman `about:`, dll) **tidak** dibenarkan kerana mereka perlukan bendera uji kaji untuk dibolehkan di pihak pengguna dan mampu menyebabkan kerosakan pada pelayar mereka.
@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+atau jika anda menggunakan fail `iframe.ts`:
 
 ```bash
 presence
@@ -52,11 +52,11 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Untuk kemudahan para pembangun Presence kami, kami telah sediakan skema yang anda boleh gunakan untuk mengesahkan kewibawaan fail `metadata` anda. This is entirely optional and is not required during the review process. 
+> Untuk kemudahan para pembangun Presence kami, kami telah sediakan skema yang anda boleh gunakan untuk mengesahkan kewibawaan fail `metadata` anda. Ini kesemuanya pilihan dan tidak diperlukan ketika proses ulasan. 
 > 
 > {.is-info}
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
+> Ianya amat digalakkan untuk anda kemaskan fail `metadata` dalam format yang ditunjukkan di bawah, dan anda mesti mempunyai nama perkhidmatan, keterangan, tag dan medan tetapan yang betul tatabahasanya. Anything not organized to specifications will **not** be permitted. 
 > 
 > {.is-warning}
 
