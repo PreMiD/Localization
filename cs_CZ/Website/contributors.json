@@ -15,12 +15,24 @@
 		"message": "Administrátor",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "Posuzovatel",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Vývojář",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Designér",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Podporovaný agent",
+		"message": "Agent Podpory",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
