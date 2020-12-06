@@ -66,7 +66,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+이전의 배포 버전이 지원하는지 여부를 알 수 없기에, 배포판을 최신 상태로 유지하고 **LTS (장기간 지원)** 배포 버전을 지원하는 경우, 그것을 사용하시는게 더 안정적이에요 (알파 배포판은 지양해주세요).
 
 <a name="support"></a>
 
@@ -85,8 +85,8 @@ It is unknown whether older versions of other distributions support it, so just 
 도움을 주신 분들:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (그리고 제가 이름을 까먹은 몇몇 친구들) nightly 릴리즈에 피드백을 준 사람들.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
+- Gentoo 빌드를 유지해주신 @apriluwu님.
+- 이전에 아치 유저 Repo패키지를 @SlimShadyIAm님과 naka님.
 - The Electron community for various packages
 - Anyone else who has ever contributed to the project in any way.
 
