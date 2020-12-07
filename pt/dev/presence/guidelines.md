@@ -222,8 +222,8 @@ Aqui está uma lista de regras que você deve seguir ao escrever seu arquivo `pr
 - Você **não** tem permissão para acessar `localStorage`.
 - Ao acessar cookies para dados armazenados, por favor prefixe a key com `PMD_`.
 - Você só pode fazer solicitações em HTTP/HTTPS para `premid.app` ou para a API do site da presence. Se você estiver usando domínios externos, será necessário explicar por que é necessário.
-- **Não** deixe campos dos dados do objeto de presença em undefined após serem tido declarados, use `delete` invés disso. (por exemplo, use `delete data.startTimestamp` ao invés de `data.startTimestamp = undefined`)
-- Você **não** tem permissão para escrever presenças que alteram a funcionalidade de um determinado site. Isso inclui a adição, exclusão ou modificação de elementos DOM.
+- **Não** defina os campos no objeto data da presence como undefined após ter sido declarado, em vez disso use o keyword `delete`. (por exemplo, use `delete data.startTimestamp` ao invés de `data.startTimestamp = undefined`)
+- Você **não** tem permissão de escrever presences que alteram as funcionalidades de um determinado site. Isso inclui a adição, exclusão ou modificação de elementos DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -237,9 +237,9 @@ Aqui está uma lista de regras que você deve seguir ao escrever seu arquivo `pr
 > 
 > {.is-warning}
 
-Em algumas situações, as presenças podem se comportar de forma inesperada ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Aqui está uma lista de regras que você **deve** seguir enquanto modifica as presenças.
+Em algumas situações, presences podem se comportar de formas inesperadas ou podem usar algumas pequenas alterações para melhorar sua funcionalidade. Aqui está uma lista de regras que você **deve** seguir enquanto modifica as presences.
 
-- Você **não** é permitido a reescrever um Presence ou mudar seu autor. Se o autor de presença foi banido do servidor oficial ou não fez as alterações necessárias dentro de um mês, você pode entrar em contato com um revisor para ver se é possível reescrever a presença.
+- Você **não** tem permissão de reescrever um presence ou mudar seu autor. Se o autor da presence foi banido do servidor oficial ou não fez as alterações necessárias dentro de um mês, você pode entrar em contato com um revisor para ver se é possível reescrever a presence.
 - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contate um verificador para mais informações sobre este assunto.
 -  Qualquer um usuário pode sugerir correções para resolver bugs; Portanto, **não** tente fazer mudanças ao código que **não** precisa ser resolvido. As alterações válidas incluem correções gerais como (código e erros de digitação), adições (descrições e tags), arquivos ausentes, etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
 
