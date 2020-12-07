@@ -1,5 +1,5 @@
 ---
-title: Windows
+title: Venster
 description: Aan die begin met 'n PreMiD-installasie op Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
