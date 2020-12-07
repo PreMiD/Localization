@@ -21,7 +21,7 @@ Peraturan umum pembuatan presence sebagai berikut:
 - Struktur file harus bersih dan teratur, jangan memasukkan file yang tidak ditentukan. ( misal, vscode dan git folders, image and text files, dll.)
 - Anda harus memilki struktur file yang baik, draft **tidak** diperbolehkan.
 - Presence untuk website dengan (`.onion` TLD) atau website dengan domain/host gratis (misal, `.TK` [all free Freenomdomains], `.RF`, `GD`, dll.) **tidak** diizinkan, pengecualian dapat dibuat jika bukti pembayaran domain dapat ditunjukkan.
-- The domain of the presence must be at least 2 months old.
+- Domain dari presence harus berumur minimal 2 bulan.
 - Presence yang mengarah pada halaman internal browser (seperti Chrome Web Store `chrome://`, `about:` pages, etc) **tidak** diperbolehkan sebab membutuhkan flag experimental diaktifkan oleh pengguna dan bisa menyebabkan kerusakan pada browser.
 - Presence dengan dukungan hanya satu halaman **tidak** diperbolehkan, sebab akan terlihat rusak bagi halaman lain ( seperti homepage) pengecualian dapat dibuat untuk halaman kebijakan dan kontak (konten yang jarang digunakan) atau website yang konten lainnya tidak berhubungan. (misal, halaman wikia)
 - Presence radio online hanya diperbolehkan jika radio memiliki setidaknya 100 pendengar dan 15 secara bersamaan.
