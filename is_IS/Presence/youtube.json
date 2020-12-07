@@ -27,6 +27,10 @@
         "message": "Leitar í gegnum rás: {0} fyrir:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.browsingThrough": {
+        "message": "Skoðar í gegn",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "áskriftir þeirra",
         "description": "Part two of \"Browsing through\""
@@ -38,5 +42,13 @@
     "youtube.history": {
         "message": "sögu þeirra",
         "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "kaup þeirra",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Skoðar skýrsluferil þeirra",
+        "description": ""
     }
 }
