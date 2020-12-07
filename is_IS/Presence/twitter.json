@@ -1,1 +1,18 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Skoðar tweet:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Skoðar tweet af:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Skoðar tweets (með svörum) af:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Skoðar fjölmiðlun af:",
+        "description": ""
+    }
+}
