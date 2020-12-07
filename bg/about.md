@@ -1,6 +1,6 @@
 ---
 title: За PreMiD
-description: The core features of PreMiD
+description: Главните функций на PreMiD
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:

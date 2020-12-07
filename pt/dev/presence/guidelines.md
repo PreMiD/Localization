@@ -151,7 +151,7 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ### **`altnames`**
 
-- **Só** use isso em cenários onde um site tem vários nomes oficiais (ex. Pokémon e 포켓몬스터) ir para ficar mais fácil de procurar a presence sem usar caracteres especiais (ex. Pokémon e Pokemon). *Shortened* versões em serviço, nomes vão embaixo `tags`.
+- **Apenas** use isso em casos onde um site vá sob vários nomes oficiais (por exemplo, Pokémon e 포켓몬스터) ou para facilitar a busca da presence sem usar caracteres especiais (por exemplo, Pokémon e Pokemon). *Shortened* versões em serviço, nomes vão embaixo `tags`.
 
 ### **`description`**
 
@@ -261,7 +261,7 @@ Em algumas situações, as presenças podem se comportar de forma inesperada ou 
 > 
 > {.is-warning}
 
-O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo uma [solicitação](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) no GitHub no repositório `PreMiD/Presences`. Nossos verificadores irão confirmar que seu Presence está com tudo nos padrões e vão colocá-lo na loja.
+O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo um [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) pelo GitHub no repositório `PreMiD/Presences`. Nossos verificadores irão confirmar que seu Presence está com tudo nos padrões e vão colocá-lo na loja.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Verificador de Presenças</h2>
