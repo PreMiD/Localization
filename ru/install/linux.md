@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
 
-> По его словам, пользователи Aur, использующие пакет DoomLerd, должны быть в безопасности. Мы не рекомендуем его использовать, но при желании вы можете его использовать. Thanks to DoomLerd for handling aur repo still. 
+> По его словам, пользователи Aur, использующие пакет DoomLerd, должны быть в безопасности. Мы не рекомендуем его использовать, но при желании вы можете его использовать. Спасибо DoomLerd за обработку aur repo. 
 > 
 > {.is-warning}
 
@@ -29,8 +29,8 @@ dateCreated: 2020-06-11T18:04:14.124Z
 - **[Портативная AppImage](#appimage)** (_РЕКОМЕНДУЕТСЯ_)
   - [Инструкция по установке](#appimageinstall)
   - [Дополнительно](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Дистрибутивы на базе Red Hat Enterprise Linux (RHEL)**](#packagecloud)
+- [**Дистрибутивы на базе Debian и Ubuntu**](#packagecloud)
 - [**Системные дистрибутивы на основе Linux**](#arch)
 
 <a name="about"></a>
