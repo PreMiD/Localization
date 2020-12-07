@@ -60,11 +60,11 @@ presence
 > 
 > {.is-warning}
 
-> Presenças de sites que têm conteúdo explícito **deve** ter a tag `nsfw`, e a logo/miniatura **não** contém qualquer deste conteúdo. 
+> Presenças de websites que tenham conteúdo explícito **devem** ter a tag `nsfw`, e o logo/thumbnail **não** deve conter nenhum desses conteúdos. 
 > 
 > {.is-warning}
 
-Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados tem um padrão estrito e um exemplo desse arquivo pode ser encontrado abaixo:
+Cada presence tem um arquivo descritor chamado `metadata.json`, os metadados têm um padrão rígido e um exemplo deste arquivo pode ser visto abaixo:
 
 ```json
 {
