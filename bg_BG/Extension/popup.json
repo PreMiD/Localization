@@ -87,6 +87,22 @@
 		"message": "Приложението ви PreMiD е остаряло. Моля, актуализирайте го, за да продължите да използвате PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Няма връзка с интернет!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Изглежда, че нямате връзка с интернет! PreMiD няма да може да показва статуси в момента.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Няма връзка с Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD не може да се свърже с твоето Discord приложение! Изтеглено и работи ли?\n*Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "всичко\n",
 		"description": "Category name shown when you open tags"
