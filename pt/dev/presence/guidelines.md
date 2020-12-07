@@ -209,13 +209,13 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 > 
 > {.is-warning}
 
-> Cada presence segue um rigoroso conjunto de regras linting que será verificado durante o processo de revisão. A seguir podemos ver algumas recomendações. - [Recomendações de Plugin TypeScript para Checar Tipo Strict](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Recomendações de ESlint](https://eslint.org/docs/rules) 
+> Cada presence segue um rigoroso conjunto de regras linting que será verificado durante o processo de revisão. Um par de recomendações pode ser visto abaixo. - [Recomendações de Plugin TypeScript para Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Recomendações ESlint](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
-Aqui esta uma lista de regras que você deve seguir quando estiver escrevendo seu arquivo `presence.ts`:
+Aqui está uma lista de regras que você deve seguir ao escrever seu arquivo `presence.ts`:
 
-- **Sempre** declare uma nova instancia da classe `Presence` antes de qualquer variável para evitar problemas raros que podem acontecer; isso não é um requisito por design então ele pode ser removido no futuro.
+- **Sempre** declare uma nova instância da classe `Presence` antes de qualquer outra variável para evitar problemas raros que possam ocorrer; isto não é uma exigência por design, portanto pode ser removido no futuro.
 - **Nunca** use funções customizadas quando [variantes nativas estão disponiveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível da extensão também se apliquem às suas presenças. Você esta livre para usar oque quiser se você não achar ela listada nos documentos.
 - É **proibido** de escrever código de presença para um site sem adicionar suporte para seu idioma principal (por exemplo, uma presença pra o YouTube escrita apenas com suporte para Português e Japonês, mas sem suporte para inglês.)
 - Os campos `smallImageKey` e `smallImageText` providenciam contexto adicional/secundário (como `ouvindo/pausado` para sites de video, `navegando` para sites normais, e outros casos) não promova Perfis do Discord ou qualquer coisa não relacionada ao PreMID.
