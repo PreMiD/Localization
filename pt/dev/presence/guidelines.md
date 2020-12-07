@@ -277,9 +277,9 @@ Ofensas repetitivas, tais como quebra de diretrizes, pull requests spam, ameaça
 
 Neste cenário, ocorrerão as seguintes mudanças:
 
-- As Presences sob seu gerenciamento serão transferidas para o bot PreMiD ou outro usuário (decisão do verificador). A identificação do aplicativo para cada Presence será recriada sob o nome do novo proprietário.
-- Todos os seus problemas e solicitações (criação de presence, contribuição de presence, etc) criados após a proibição será rapidamente fechado.
-- As solicitações criadas sob seu nome ao desenvolvimento de presence serão excluídos.
+- Presences sob sua gestão serão transferidas para o bot PreMiD ou outro usuário (decisão do revisor). O id da aplicação para cada presence será recriada sob o nome do novo dono.
+- Todas suas issues e pull requests (criação de presence, contribuição de presence, etc.) criados após o ban serão prontamente encerrados.
+- Tickets criados sob seu nome referentes ao desenvolvimento de presence serão excluídos.
 
 
 ## `Revisando`
