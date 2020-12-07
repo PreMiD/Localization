@@ -249,7 +249,7 @@ Em algumas situações, presences podem se comportar de formas inesperadas ou po
 > 
 > {.is-info}
 
-> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. Todas as verificações terão a função `Verificar presença` no seu perfil. 
+> Se precisar entrar em contato com alguém, use nosso servidor oficial do Discord. Todas os revisores terão o cargo `Reviewer` no seus perfis. 
 > 
 > {.is-info}
 
