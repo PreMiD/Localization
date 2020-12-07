@@ -127,21 +127,22 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Мы выпустили пакеты deb / rpm в репозитории packagecloud. Пожалуйста, посетите его по адресу https://packagecloud.io/PreMiD/Linux и загрузите свой пакет deb/rpm или используйте автоматический скрипт.
 
 Для **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
+
 ```
 
-For **Fedora/CentOS/RedHat**:
+Для **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+Если команда не работает, скачайте **deb/rpm** из нашего репозитория packagecloud или переопределить настройки.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
