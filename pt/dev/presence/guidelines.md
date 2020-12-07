@@ -179,20 +179,20 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ### **`color`**
 
-- A cor ** deve ** ser um valor hexadecimal entre `#000000` e `#FFFFFF`.
-- A string de cor **deve** ser precedida com um símbolo hash.
+- A cor **deve** ser um valor hexadecimal entre `#000000` e `#FFFFFF`.
+- A string de color **deve** ser prefixada com um símbolo de hash.
 
 ### **`tags`**
 
 - **Todas** presences precisam ter pelo menos _uma_ tag.
-- Tags **não** devem incluir nenhum espaço, barra, aspas, caracteres Unicodes, e devem sempre ser com letras minúsculas.
-- Tags **devem**, de preferência, incluir nomes de serviço alternativos para tornar a busca mais fácil (por exemplo, se uma presença da Amazon incluir o suporte para AWS, ele teria tags como `amazon-web services` e `aws`).
-- É **necessário** incluir a tag `NSFW` se a presença for para um site NSFW.
+- As tags **não** devem incluir espaços, barras, aspas simples/duplas, caracteres Unicode, e devem ser sempre em minúsculas.
+- Tags **devem** preferencialmente incluir nomes de serviços alternativos para facilitar a busca (p. ex., se uma presence Amazon tiver incluído o suporte AWS, teria suas tags como `amazon-web-services` e `aws`)
+- Você é **obrigado** a adicionar uma tag `NSFW` se a presence for para um site NSFW.
 
 ### **`category`**
 
 - A categoria **deve ser** uma das seguintes listadas na [documentação](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- A presença deve utilizar uma categoria que corresponda ao conteúdo do site. (por exemplo, não utilize `anime` quando o site não é de anime).
+- A presence deve utilizar uma categoria que corresponda ao conteúdo do site. (p. ex., não use `anime` quando o site não estiver relacionado à anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
