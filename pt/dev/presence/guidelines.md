@@ -138,20 +138,20 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ### **`author`**
 
-- O _valor_ ID **deve** ser o seu Discord snowflake ID. Você pode obtê-lo ativando o [modo desenvolvedor](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Por favor, **não** confunda isto com o seu application ID, que é apenas para a sua presence._
+- O _valor_ ID **deve** ser o seu Discord snowflake ID. Você pode obtê-lo ativando o [modo desenvolvedor](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Por favor **não** confunda isto com o ID da sua aplicação, que é apenas para a sua presence._
 
 ### **`contributors`**
 
-- Do **not** adicione-se como colaborador e não adicione outra pessoa como colaborador, a menos que tenha ajudado na presença.
+- **Não** se adicione como contribuidor, e não adicione outra pessoa como contribuidora, a menos que ela tenha ajudado com a presença.
 
 ### **`service`**
 
 - O nome do serviço **deve** ser o nome do diretório da presence. Por exemplo, se a presence estiver localizada em `/websites/Y/YouTube/`, o nome do serviço deve ser `YouTube`.
-- Você **não** pode usar esse url como o nome de serviço, a não ser que o website use o url como seu nome oficial. Se o nome não for descritivo e não pode ser considerado vago, o uso do url é **obrigatorio**. (Por exemplo, `YouTube` é permitido  por que esse é o nome oficial e é descritivo, enquanto `youtube.com` não é. `Top` é um nome não descritivo, então use a url `top.gg` is **required**.)
+- Você **não** pode usar a url como nome do serviço a menos que o site use a url como seu nome oficial. Se o nome não for descritivo e puder ser considerado vago, é **necessário** o uso da url. (p. ex., `YouTube` é permitido porque esse é o nome oficial e é descritivo, enquanto `youtube.com` não é. `Top` é um nome não-descritivo, portanto a url `top.gg` é **necessária**.)
 
 ### **`altnames`**
 
-- **Apenas** use isso em casos onde um site vá sob vários nomes oficiais (por exemplo, Pokémon e 포켓몬스터) ou para facilitar a busca da presence sem usar caracteres especiais (por exemplo, Pokémon e Pokemon). Versões *abreviadas* dos nomes dos serviços vão sob `tags`.
+- **Apenas** use isso em casos onde um site vá sob vários nomes oficiais (p. ex., Pokémon e 포켓몬스터) ou para facilitar a busca da presence sem usar caracteres especiais (p. ex., Pokémon e Pokemon). Versões *abreviadas* dos nomes dos serviços vão sob `tags`.
 
 ### **`description`**
 
