@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> По его словам, пользователи Aur, использующие пакет DoomLerd, должны быть в безопасности. Мы не рекомендуем его использовать, но при желании вы можете его использовать. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
