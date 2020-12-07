@@ -216,12 +216,12 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 Aqui está uma lista de regras que você deve seguir ao escrever seu arquivo `presence.ts`:
 
 - **Sempre** declare uma nova instância da classe `Presence` antes de qualquer outra variável para evitar problemas raros que possam ocorrer; isto não é uma exigência por design, portanto pode ser removido no futuro.
-- **Nunca** use funções customizadas quando [variantes nativas estão disponiveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível da extensão também se apliquem às suas presenças. Você esta livre para usar oque quiser se você não achar ela listada nos documentos.
-- É **proibido** de escrever código de presença para um site sem adicionar suporte para seu idioma principal (por exemplo, uma presença pra o YouTube escrita apenas com suporte para Português e Japonês, mas sem suporte para inglês.)
+- **Nunca** use funções customizadas quando [variantes nativas estão disponíveis](https://docs.premid.app/dev/presence#files-explained); isso garante que as correções no nível da extensão também se apliquem às suas presences. Você esta livre para usar oque quiser se você não achar ela listada nos docs.
+- É **proibido** escrever código de presences para um site sem adicionar suporte para seu idioma principal (p. ex., uma presence YouTube escrita apenas com suporte para Português e Japonês, mas não para inglês em si.)
 - Os campos `smallImageKey` e `smallImageText` providenciam contexto adicional/secundário (como `ouvindo/pausado` para sites de video, `navegando` para sites normais, e outros casos) não promova Perfis do Discord ou qualquer coisa não relacionada ao PreMID.
 - Você **não** tem permissão para acessar `localStorage`.
-- Ao acessar cookies para dados armazenados, por favor prefixe a chave com `PMD_`.
-- Você só pode fazer solicitações em HTTP/HTTPS para `premid.app` ou a API do site de presença. Se você estiver usando domínios externos, será necessário explicar por que é necessário.
+- Ao acessar cookies para dados armazenados, por favor prefixe a key com `PMD_`.
+- Você só pode fazer solicitações em HTTP/HTTPS para `premid.app` ou para a API do site da presence. Se você estiver usando domínios externos, será necessário explicar por que é necessário.
 - **Não** deixe campos dos dados do objeto de presença em undefined após serem tido declarados, use `delete` invés disso. (por exemplo, use `delete data.startTimestamp` ao invés de `data.startTimestamp = undefined`)
 - Você **não** tem permissão para escrever presenças que alteram a funcionalidade de um determinado site. Isso inclui a adição, exclusão ou modificação de elementos DOM.
 
