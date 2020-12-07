@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-ou, se você estiver usando um arquivo `iframe.ts`:
+ou se você estiver usando um arquivo `iframe.ts`:
 
 ```bash
 presence
@@ -52,11 +52,11 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Para a conveniência de nossos desenvolvedores de Presence, nós providenciamos um esquema que você pode usar para validar a integridade do seu arquivo de `metadata`. Isso é inteiramente opcional e não é necessário durante o processo de revisão. 
+> Para a conveniência de nossos presence developers, nós providenciamos um schema que você pode usar para validar a integridade do seu arquivo `metadata`. Isso é inteiramente opcional e não é necessário durante o processo de revisão. 
 > 
 > {.is-info}
 
-> É altamente recomendado que você organize seu arquivo de `metadata` no formato mostrado abaixo, e você deve escrever os nomes dos serviços, descrições, tags e campos de configuração gramaticamente corretos. Tudo aquilo que não estiver organizado nessas especificações **não será** permitido. 
+> É altamente recomendável que você organize seu arquivo `metadata` no formato mostrado abaixo, e você deve ter nomes de serviço, descrições, tags e campos de configuração gramaticalmente corretos. Tudo aquilo que não estiver organizado nessas especificações **não será** permitido. 
 > 
 > {.is-warning}
 
