@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: 윈도우에 Premid 를 설치하는것을 시작해봅시다.
+description: 윈도우에 Premid 를 설치하는것을 시작해봐요.
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
