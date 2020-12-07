@@ -253,7 +253,7 @@ Em algumas situações, presences podem se comportar de formas inesperadas ou po
 > 
 > {.is-info}
 
-> Tenha em mente que os verificadores trabalham voluntariamente e gerenciam outros repositórios além deste, sua solicitação pode não ser analisado até horas ou até mesmo dias depois de criada. 
+> Tenha em mente que os revisores trabalham voluntariamente e gerenciam outros repositórios além deste, seu pull request pode não ser revisado até horas ou mesmo dias após ter sido criado. 
 > 
 > {.is-warning}
 
@@ -261,10 +261,10 @@ Em algumas situações, presences podem se comportar de formas inesperadas ou po
 > 
 > {.is-warning}
 
-O processo mais importante no desenvolvimento de Presences é conseguir pôr seu Presence na loja. Isso é possivel fazendo um [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) pelo GitHub no repositório `PreMiD/Presences`. Nossos verificadores irão confirmar que seu Presence está com tudo nos padrões e vão colocá-lo na loja.
+O processo mais importante de desenvolvimento da presence é conseguir sua presence na loja. Isso é feito criando um [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) pelo GitHub no repositório `PreMiD/Presences`. Nossos revisores confirmarão que sua presence está de acordo com os padrões e a enviaram para a loja.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Verificador de Presenças</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Revisores</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxichan"><img src="https://github.com/ririxichan.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -273,9 +273,9 @@ O processo mais importante no desenvolvimento de Presences é conseguir pôr seu
 
 ## `Restrições`
 
-As ofensivas repetitivas como diretrizes de quebras, spam de solicitações, ameaças ou comportamento inapropriado irão te proibir de criar presences.
+Ofensas repetitivas, tais como quebra de diretrizes, pull requests spam, ameaças ou comportamento inapropriado farão com que você seja proibido de criar presences.
 
-Neste cenário, ocorrerão as seguintes alterações:
+Neste cenário, ocorrerão as seguintes mudanças:
 
 - As Presences sob seu gerenciamento serão transferidas para o bot PreMiD ou outro usuário (decisão do verificador). A identificação do aplicativo para cada Presence será recriada sob o nome do novo proprietário.
 - Todos os seus problemas e solicitações (criação de presence, contribuição de presence, etc) criados após a proibição será rapidamente fechado.
