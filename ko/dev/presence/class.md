@@ -11,7 +11,7 @@ editor: 마크다운
 
 ## 소개
 
-`Presence` class는 Presence 개발 과정에 필요한 기본적인 것들을 포함하고 있어 Presence 제작에 큰 힘이 됩니다.
+`Presence` 클래스는 Presence 개발 과정에 필요한 기본적인 것들을 포함하고 있어 Presence 제작에 큰 힘이 됩니다.
 
  Presence를 만들 때, `clientId`가 명시되어야 합니다.
 
@@ -45,15 +45,15 @@ let presence = new Presence({
 
 ### `clearActivity()`
 
-현재 활동, 키 바인딩 및 트레이 제목 지우세요.
+현재 활동, 키바인드, 그리고 트레이 제목을 비웁니다.
 
 ### `setTrayTitle(String)`
 
-> 이 방법은 맥 OS에서만 동작합니다. 
+> 이 방법은 macOS에서만 동작합니다. 
 > 
 > {.is-warning}
 
-메뉴 모음에서 트레이 제목을 설정하십시오.
+메뉴 바에서 트레이 제목을 설정합니다.
 
 ### `getStrings(Object)`
 
