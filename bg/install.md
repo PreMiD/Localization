@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Изберете вашата операционна система:**
 - [Windows *7 или нагоре*](/install/windows)
 - [macOS *10.11 или нагоре*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kernel с v2.x или нагоре*](/install/linux)
 {.links-list}
 
 **Изберете вашия браузър:**

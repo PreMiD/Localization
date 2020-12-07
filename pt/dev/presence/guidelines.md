@@ -126,7 +126,7 @@ Cada presence tem um arquivo descritor chamado de `metadata.json`, os metadados 
 > 
 > {.is-warning}
 
-> Todas as imagens no arquivo `metadata` devem estar hosteadas em `i.imgur.com`. Usando o conteúdo hosteado no site **não** é permitido que mude os caminhos e arquivos de forma indesejada. 
+> Todas as imagens do arquivo `metadata` devem estar hospedadas em `i.imgur.com`. Usar conteúdo hospedado no site em si **não** é permitido pois eles podem mudar os caminhos e arquivos de má vontade. 
 > 
 > {.is-warning}
 
