@@ -205,11 +205,11 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> O código que você escrever **deve** ser _bem escrita_ e **deve** ser _legível_ e todas as linhas devem ser gramaticamente corretas(erros de gramatica nos sites podem ser ignoradas). 
+> O código que você escreve **deve** ser _bem escrito_ e **deve** ser _legível_ e todas as strings devem ser gramaticalmente corretas (erros gramaticais no websites podem ser ignorados). 
 > 
 > {.is-warning}
 
-> Cada presença segue um conjunto de regras estrito de linhagem, que será verificado durante o processo de revisão. A seguir podemos ver algumas recomendações. - [Recomendações de Plugin TypeScript para Checar Tipo Strict](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Recomendações de ESlint](https://eslint.org/docs/rules) 
+> Cada presence segue um rigoroso conjunto de regras linting que será verificado durante o processo de revisão. A seguir podemos ver algumas recomendações. - [Recomendações de Plugin TypeScript para Checar Tipo Strict](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Recomendações de ESlint](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
