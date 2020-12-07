@@ -10,15 +10,15 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Diretrizes
 
-Publicando Presences a este GitHub, nós requeremos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras evitará que nós e os usuários nos deparemos com qualquer problema.
+Publicando Presences a este GitHub, nós requeremos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras evitará que nós e os usuários nos deparemos com quaisquer problemas.
 
 # Criação
 
 As regras gerais de desenvolvimento de presences são as seguintes:
 
 - As Presences **devem** estar relacionadas com o website escolhido.
-- As Presences **não devem** ser feitas para websites ilegais. (por exemplo, estressores, comércio de drogas, pornografia infantil, etc.)
-- A estrutura do arquivo deve ser limpa e estruturada, não inclua arquivos que não estiverem especificados. (por exemplo, pastas de vscode e git, imagens, arquivos de texto, etc.)
+- As Presences **não devem** ser feitas para websites ilegais. (p. ex., estressores, marketing de drogas, pornografia infantil, etc.)
+- A estrutura do arquivo deve ser limpa e gerenciada, não incluir arquivos que não estejam especificados. (p. ex., pastas vscode e git, arquivos de imagem e texto, etc.)
 - Você precisa ter uma estrutura de arquivos adequada, rascunhos **não são** permitidos.
 - Presences para websites com (domíno de topo `.onion`) ou websites com domínios/hospedagens gratuitas (por exemplo, `.TK` [todos os domínios grátis da Freenom], `.RF`, `.GD`, etc.) **não são** permitidos, exceções poderão ser feitas se houver uma prova mostrando que eles pagarem pelo domínio.
 - O domínio da presence deve ter pelo menos 2 meses.
@@ -151,7 +151,7 @@ Uma lista de campos e de suas respectivas regras está listada abaixo:
 
 ### **`altnames`**
 
-- **Apenas** use isso em casos onde um site vá sob vários nomes oficiais (por exemplo, Pokémon e 포켓몬스터) ou para facilitar a busca da presence sem usar caracteres especiais (por exemplo, Pokémon e Pokemon). *Shortened* versões em serviço, nomes vão embaixo `tags`.
+- **Apenas** use isso em casos onde um site vá sob vários nomes oficiais (por exemplo, Pokémon e 포켓몬스터) ou para facilitar a busca da presence sem usar caracteres especiais (por exemplo, Pokémon e Pokemon). Versões *abreviadas* dos nomes dos serviços vão sob `tags`.
 
 ### **`description`**
 
