@@ -56,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Jsi unavený/á z komplikovaných uživatelských rozhraní? To je důvod, proč jsme vytvořili a snažíme se udržet naše uživatelské rozhraní co nejjdnodušší a nejužitečnější s důležitými fukcemi jako třeba:",
+		"message": "Jsi unavený z komplikovaných uživatelských rozhraní? To je důvod, proč jsme vytvořili a snažíme se udržet naše uživatelské rozhraní co nejjednodušší a nejužitečnější s důležitými funkcemi jako třeba:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Něco se rozbilo, zasílá tisíce chyb nebo prostě nefunguje? Pomůžeme vám se zbavit těchto problémů v našem Discord serveru, dokonce jsme vytvořili náš vlastní systém podpory, který zajistí, že se váš problém vyřeší co nejdřív.",
+		"message": "Něco se rozbilo, zasílá tisíce chyb nebo prostě nefunguje? Pomůžeme vám se zbavit těchto problémů na našem Discord serveru, dokonce jsme vytvořili náš vlastní systém podpory, který zajistí, že se tvůj problém vyřeší co nejdříve.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
