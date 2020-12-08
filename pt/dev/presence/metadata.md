@@ -280,7 +280,7 @@ Use os seguintes métodos para obter informações de configurações em seus ar
 ### `getSetting(String)`
 Retorna valor da configuração.
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Substitua pdexID com o id da configuração
+const setting = await presence.getSetting("pdexID"); //Substitua pdexID com o id da configuração
 console.log(setting); // Isso registrará o valor da configuração
 ```
 
