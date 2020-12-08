@@ -140,7 +140,7 @@
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message2": {
-    "message": "Jste si jisti?",
+    "message": "Jsi si jist?",
     "description": "Skip anyway messages (changes everytime you click it)."
   },
   "downloads.skipanyway.message3": {
@@ -164,7 +164,7 @@
     "description": ""
   },
   "downloads.showbeta.small": {
-    "message": "(nevyžaduje se, pokud jste pouze zde, abyste si stáhli běžnou aplikaci)",
+    "message": "(nevyžaduje se, pokud jsi pouze zde, abys si stáhl běžnou aplikaci)",
     "description": "Small text under the show beta title."
   }
 }
