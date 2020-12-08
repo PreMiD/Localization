@@ -20,11 +20,11 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Přidej si naše rozšiření do prohlížeče",
+    "message": "Přidej si naše rozšíření do prohlížeče",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Znovu si načti tuhle stránku a zkontroluj, jestli je rozšíření připojené",
+    "message": "Znovu načti tuhle stránku a zkontroluj, jestli je rozšíření připojené",
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
