@@ -307,7 +307,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Contributions
+# Příspěvky
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
