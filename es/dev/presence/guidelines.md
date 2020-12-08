@@ -205,7 +205,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> El código que escribas **debe** estar _bien escrito_ y **debe** ser _entendible_ y todas las palabras deben ser gramaticalemente correctas (errores gramaticales de páginas wen pueden ser ignoradas). 
+> El código que escribas **debe** estar _bien escrito_ y **debe** ser _entendible_ y todas las palabras deben ser gramaticalmente correctas (errores gramaticales de páginas webs pueden ser ignoradas). 
 > 
 > {.is-warning}
 
