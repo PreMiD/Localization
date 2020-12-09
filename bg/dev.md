@@ -21,12 +21,12 @@ tags:
 3. Отвори го в твоя редактор на код.
 
 # Изтегляне на зависимости
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+> Трябва да имаш изтеглен [npm](https://www.npmjs.com/) (Node Package Manager) първо. Автоматично се е изтеглило. ако имаш [Node](https://nodejs.org/en/) изтеглен. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Отвори терминал в твоето хранилище и напиши `npm i`.
+- Да ъпдейтнеш зависимостите напиши `npm update`.
 
 > Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
