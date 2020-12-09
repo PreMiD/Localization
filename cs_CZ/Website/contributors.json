@@ -44,7 +44,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Agent Podpory",
+		"message": "Zástupce Podpory",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
