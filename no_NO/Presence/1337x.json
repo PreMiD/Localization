@@ -70,5 +70,9 @@
     "1337x.about": {
         "message": "Leser om 1337x",
         "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Viser torrent:",
+        "description": ""
     }
 }
