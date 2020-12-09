@@ -1,5 +1,5 @@
 ---
-title: Närvaro klass
+title: Närvaro Klass
 description: Huvudklassen för varje PreMiD presence
 published: true
 date: 2020-07-29T15:12:55.925Z
@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-# Närvaro klass
+# Närvaro Klass
 
 ## Introduktion
 
