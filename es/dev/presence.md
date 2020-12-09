@@ -171,7 +171,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
+        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -335,7 +335,7 @@ presence.on("UpdateData", async () => {
 
     var presenceData: presenceData = {
         largeImageKey: "key", /*La llave (nombre de archivo) de la imagen larga en la presencia. Estos se suben y se nombran en la sección Rich Presence de tu aplicación, llamada Art Assets*/
-        smallImageKey: "key", /*La key (nombre de archivo) de la imagen grande en tu presence. Estas son subidas y nombradas en la sección de Rich Precense de su aplicación, llamado Art Assets*/
+        smallImageKey: "key", /*La key (nombre de archivo) de la imagen grande en tu presencia. Estas son subidas y nombradas en la sección de Rich Precense de su aplicación, llamado Art Assets*/
         smallImageText: "Some hover text", //El texto que se muestra al pasar el cursor sobre la imagen pequeña
         detalles: "Navegando nombre de página", //La sección superior del texto de presencia
         estado: "sección de lectura A", //La sección inferior del texto de presencia
@@ -402,7 +402,7 @@ Abre una consola en tu carpeta y escribe `tsc -w` para compilar `presence.ts` en
 4. Selecciona la carpeta /dist de tu presencia.
 
 # Algunos consejos útiles
-## Recarga en caliente
+## Recarga Sobrecalientada
 El sitio web en el que estás desarrollando se recarga automáticamente cada vez que guarda un archivo en su carpeta.
 
 ## Depurando
