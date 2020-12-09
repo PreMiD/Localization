@@ -31,8 +31,8 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Клониране на проекта
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Избери папка по твой избор.
+3. Отвори го в твоя редактор на код.
 
 ## Creating folders and files
 
