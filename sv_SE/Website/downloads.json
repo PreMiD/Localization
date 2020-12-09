@@ -1,10 +1,26 @@
 {
+  "downloads.header.title": {
+    "message": "Dags att visa upp.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Använd PreMiD nu och visa dina vänner vad du gör, du kanske hittar någon med samma intressen.",
+    "description": "Subtitle for header"
+  },
   "downloads.instructions.heading": {
     "message": "Kom igång",
     "description": "Displayed at Downloads page above steps"
   },
   "downloads.instructions.step_1": {
     "message": "Ladda ner PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Installera vårt program",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Lägg till vårt Tillägg i din webbläsare",
     "description": "Heading for installing the application"
   },
   "downloads.appdownloading.header": {
