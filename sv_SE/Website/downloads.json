@@ -75,6 +75,22 @@
     "message": "Logga in för att se dessa nedladdningar.",
     "description": "Error message if the user is not logged in."
   },
+  "downloads.error.noaccess.title": {
+    "message": "Oj, det verkar som att du inte har tillgång till alpha/beta :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Du kan gå med i vårt betaprogram **här** gratis. Skynda dig! Vi har bara {0} fler platser tillgängliga",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Tidiga Utgåvor",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Varning",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
   "downloads.button.cancel": {
     "message": "Avbryt",
     "description": "Button on the modal of Opera/Edge browsers."
