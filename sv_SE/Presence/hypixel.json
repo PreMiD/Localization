@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Visar personallistan",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Visar sina sedda trådar",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Visar sina sedda forum",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Visar sina direktmeddelanden",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Visar spel:",
+        "description": ""
+    }
+}
