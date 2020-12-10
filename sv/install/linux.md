@@ -60,13 +60,13 @@ Installationen av programmet är mycket viktigt eftersom tillägget inte kan gö
 
 ### Krav
 
-Tekniskt sett kan varje distribution som kan köra Discords [officiella](https://discordapp.com/download) **app** ( inte webb eller snap versionen ) kan köra PreMiD med;</br> Som du kan ha märkt de senaste åren, så har några Linux distributioner börjat avsluta stödet för 32-bit (ia32/i686/i386/x86) arkitekturerna, och som resultat, så gjorde vi också det. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Tekniskt sett kan varje distribution som kan köra Discords [officiella](https://discordapp.com/download) **app** ( inte webb eller snap versionen ) kan köra PreMiD med;</br> Som du kan ha märkt de senaste åren, så har några Linux distributioner börjat avsluta stödet för 32-bit (ia32/i686/i386/x86) arkitekturerna, och som resultat, så gjorde vi också det. Du kan dock själv försöka bygga appen om du desperat behöver använda den på en 32-bit distribution.</br> Eftersom vi just nu använder Electron som motor (Discord med!), dess krav gäller även för denna app :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Det är okänt ifall äldre versioner av andra distributioner stöder det, så håll bara din distribution uppdaterad och använd **LTS (Long-Term Support)** utgåvor om din distribution erbjuder de, eftersom de är mer stabila (undvik alpha-utgåvor).
 
 <a name="support"></a>
 
@@ -82,13 +82,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### Beröm
 
-Thanks to :
+Tack till :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (och några andra som jag glömde namnet på) för feedback på nattliga utgåvor.
+- @apriluwu för hanteringen av Gentoo byggen
+- @SlimShadyIAm och naka för tidigare underhåll av Arch User Repository paket
+- Electron gemenskapen för olika paket
+- Någon annan som någonsin bidragit till projektet på något sätt.
 
 <a name="license"></a>
 
