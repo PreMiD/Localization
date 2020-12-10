@@ -101,7 +101,7 @@ Tack till :
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+AppImage paketet är det rekommenderade om Discord fungerar för dig men andra PreMiD paket (.deb, .rpm, etc) gör det inte.
 
 <a name="appimageinstall"></a>
 
@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Dubbel-klicka det bara eller kör
 ./PreMiD*.AppImage
 ```
 
@@ -120,28 +120,28 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### Ytterliggare anteckningar
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+Antingen om du vill prova PreMiD eller bara inte vill installera det, är den här den bästa, det är alltid uppdaterat men _STARTAR INTE AUTOMATISKT MED SYSTEMET!_</br>Om du tröttnar på att behöva öppna det helatiden, använd de andra paketen (enligt din distribution).
 
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
 <a name="packagecloud"></a>
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Vi släppte deb/rpm paket hos våran packagecloud repo. Besök den på https://packagecloud.io/PreMiD/Linux och ladda ned ditt deb/rpm paket eller använd automatiskt skript.
 
-For **Ubuntu/Debian**:
+För **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+För **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+Om kommandot inte fungerar, ladda ned **deb/rpm** filen från vår packagecloud repo eller överskrid inställningarna.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
