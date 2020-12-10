@@ -1,4 +1,12 @@
 {
+	"store.search.notFound": {
+		"message": "Vi kunde inte hitta den Presencen...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Tyvärr, vi kunde inte hitta den sidan.",
+		"description": "Error (404) message"
+	},
 	"error.page.details": {
 		"message": "Detaljer",
 		"description": "'Details' text on error page container"
