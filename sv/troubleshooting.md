@@ -11,21 +11,21 @@ editor: markdown
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Använder du Discord-appen?
+PreMiD fungerar **inte** på webbläsarversionen av Discord, du måste ladda ned appen [här](https://discord.com/download).
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Använder du en presence med inställningar?
+Många presences (inkluderar `Twitch` och `SoundCloud`) påverkas av tilläggsfel. Det här felet orsakar tillägget att inte ta standardvärdena från inställningarna ordentligt.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+För att lösa det här, allt du behöver göra är att växla den översta inställningen: ![presencesettings.gif](/presencesettings.gif)
 
-### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### Uppdatera sidan
+Du kan trycka <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangentbord med istället för att leta efter uppdateringsknappen.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Starta om din webbläsare
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) gör ett bra jobb med. (Självklart måste du starta din webbläsare igen.)
 
-### Make sure that you have enabled Discord Game Activity in settings
+### Se till att du har Discord-spelaktivitet aktiverat i inställningar
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Restart PreMiD (Application)
