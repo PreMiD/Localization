@@ -24,7 +24,7 @@
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
-		"message": "تثبيت الإضافة",
+		"message": "اضافة واجهه",
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
@@ -44,7 +44,7 @@
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "إظهار NSFW",
+		"message": "عرض NSFW",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
