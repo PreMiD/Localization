@@ -38,23 +38,23 @@ Tryck <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangen
 Väldigt viktigt. Discord RPC kommer inte att fungera om Discord körs som administratör.
 
 ### Kontrollera om du har antivirus eller brandvägg som körs på din dator
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+Ibland så blockar antivirusprogram och brandväggar applikationer som skapar/hanterar servrar eller applikationer som bara ansluter till internet. Vi använder en lokal server för att ta emot och ge data mellan vår app och tillägg, så om du blockerar appens förmåga att ge data så kommer du troligen inte kunna använda PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Inaktivera dina tillägg
+Inaktivera dina tillägg och se om det fungerar. Om det gör det, försök att aktivera dina tillägg steg för steg och berätta för oss vilket tillägg det var som orsakade PreMiD att inte fungera.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Starta om datorn
+Jag hoppas att du vet hur man startar om en dator.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Installera om PreMiD
+Ibland är det något fel med filerna... Handledningar för installationen finns [här](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### Manuell borttagning
+Windows:    `C:\Users\USER\AppData\Roaming\`` och ta bort mappen`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`och ta bort mappen`PreMiD``.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### På Ubuntu/Debian baserade distributioner
+Om du har laddat ned Discord genom Snapcraft så kommer RP inte fungera. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
