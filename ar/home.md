@@ -25,7 +25,7 @@ editor: markdown
 
 # المطورون
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[تجهيزات المطورين](/dev) اول خطوة لمطورين PreMiD.
 
 - :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
