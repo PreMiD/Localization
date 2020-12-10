@@ -114,5 +114,69 @@
 	"general.store": {
 		"message": "Butik",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Skriver med:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Skriver i kanal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Kollar på anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Visar kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Visar kanal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Tittar på avsnitt:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Visar genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Visar hemsida",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Visar lista av:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Tittar på manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Visar medlem:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Tittar på film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Visar spellista:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Visar produkt:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Visar profil av:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Tittar på serie:",
+		"description": ""
 	}
 }
