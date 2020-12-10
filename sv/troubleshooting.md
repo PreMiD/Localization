@@ -26,18 +26,18 @@ Du kan trycka <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CMD+R</kbd> (
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) gör ett bra jobb med. (Självklart måste du starta din webbläsare igen.)
 
 ### Se till att du har Discord-spelaktivitet aktiverat i inställningar
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+**Användarinställningar** > **Spelaktivitet** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Starta om PreMiD (Applikationen)
+![quit.png](/quit.png) Du måste starta om PreMiD efteråt.
 
-### Reload/restart Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Ladda om/starta om Discord
+Tryck <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangentbord eller starta om Discord manuellt.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Se till att Discord INTE körs som administrator
+Väldigt viktigt. Discord RPC kommer inte att fungera om Discord körs som administratör.
 
-### Check if you have antivirus or firewall running on your computer
+### Kontrollera om du har antivirus eller brandvägg som körs på din dator
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
 ### Disable your addons
