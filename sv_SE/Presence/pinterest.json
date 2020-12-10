@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Visar tavla:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Visar pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Visar deras följande",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Redigerar deras hemsida",
+        "description": ""
+    }
+}

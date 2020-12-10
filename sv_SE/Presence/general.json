@@ -178,5 +178,49 @@
 	"general.viewSeries": {
 		"message": "Tittar på serie:",
 		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Tittar på serie:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Visar sitt konto",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Visar tråd:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Visar användare:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Visar:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Tittar på en video",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Tittar på en livestream",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Tittar på:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Önskelista:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Sekretesspolicy",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Användarvillkor",
+		"description": "A page name"
 	}
 }
