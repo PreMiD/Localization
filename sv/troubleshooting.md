@@ -54,17 +54,17 @@ Windows:    `C:\Users\USER\AppData\Roaming\`` och ta bort mappen`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`och ta bort mappen`PreMiD``.
 
 ### På Ubuntu/Debian baserade distributioner
-Om du har laddat ned Discord genom Snapcraft så kommer RP inte fungera. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+Om du har laddat ned Discord genom Snapcraft så kommer RP inte fungera. Du måste avinstallera Snapcraft versionen genom att köra `sudo snap remove discord` i en terminal, ladda ned [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([eller Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), navigera sedan till mappen du laddade ned Discord till (ofta `$HOME/Nedladdningar`), installera sedan paketet med `sudo dpkg -i discord-*.deb`.
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### McAfee upptäckte PreMiD som virus (Windows)
+Det här är ett falskt positivt resultat från McAfee och vi har rapporterat felet till de, just nu kan du exkludera PreMiD från skanningen genom att göra följande steg:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.gg/WvfVZ8T) and one of our Support Agents will be able to help you out! 
+> Om du inte känner dig säker på att ta dessa steg, tveka inte att skapa ett ärende i [#support](https://discord.gg/WvfVZ8T) och en av våra supportombud kommer att kunna hjälpa dig! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
+1. Öppna McAfee applikationen och klicka på inställnings-ikonen högst upp till höger. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Klicka på "Quarantined items" (Andra från toppen).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
