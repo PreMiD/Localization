@@ -87,6 +87,22 @@
 		"message": "Ứng dụng PreMiD của bạn đã cũ. Vui lòng cập nhật nó để tiếp tục sử dụng PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Không có kết nối mạng!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Có vẻ như bạn không được kết nối mạng! PreMiD sẽ không hiện presences vào lúc này.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Không kết nối được tới Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD không thể kết nối được với Discord của bạn! Nó được cài và chạy chưa? *Đang xử lý*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Tất cả",
 		"description": "Category name shown when you open tags"
