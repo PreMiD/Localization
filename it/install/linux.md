@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Gli utenti di Aur che usano il pacchetto di DoomLerd dovrebbero essere sicuri come dice lui. Non ti consigliamo di usarlo, ma se vuoi puoi comunque usarlo. Grazie a DoomLerd per aver gestito aur repo. 
 > 
 > {.is-warning}
 
