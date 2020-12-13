@@ -30,7 +30,7 @@ Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/).
 3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (Abre un terminal y escribe `npm install -g typescript`).
 
 ## Clonando el proyecto
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Abre la consola y escribe `git clone https://github.com/PreMiD/Presences`.
 2. Elija una carpeta de su elección.
 3. Ábrelo en tu editor de código.
 
