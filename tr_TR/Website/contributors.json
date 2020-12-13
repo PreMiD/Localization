@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Proje liderleri",
+		"message": "Proje Lideri",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
@@ -28,11 +28,11 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "İncelenmiş",
+		"message": "İnceleyen",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
-		"message": "Geliştirme",
+		"message": "Geliştirici",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
@@ -48,7 +48,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
-		"message": "Görevi temsil",
+		"message": "Temsilci",
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
