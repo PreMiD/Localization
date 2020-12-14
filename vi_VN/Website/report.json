@@ -12,7 +12,7 @@
 		"description": "Tells the user about submitting a bug"
 	},
 	"report.overview": {
-		"message": "Cung cấp một mô tả rõ ràng và súc tích về lỗi là gì.",
+		"message": "Cung cấp một mô tả rõ ràng và súc tích về lỗi.",
 		"description": "Text for the user to write a brief of the bug information."
 	},
 	"report.os": {
