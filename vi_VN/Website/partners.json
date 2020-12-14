@@ -68,7 +68,7 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Chúng tôi hiện tại đang chấp nhận đa dạng những cách để vào chương trình đối tác của chúng tôi. Mọi người nên có cơ hội được để ý. Streamer Twitch nên có ít nhất 500 người theo dõi và ít nhất 10 lượt xem đồng thời. Bạn phải stream ít nhất 1 lần trên tuần.",
+		"message": "Có nhiều cách để làm đối tác với chúng tôi. Twitch streamer cần tối thiểu 500 người theo dõi và tối thiểu 10 người xem đồng thời. Bạn cần stream ít nhất 1 lần trong tuần.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
