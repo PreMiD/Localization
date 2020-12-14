@@ -28,11 +28,11 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "Bạn có quá nhiều báo cáo đang được xử lý. Hãy chờ các báo cáo của bạn được xem xét. Những báo cáo sẽ được kiểm tra hàng tuần, hãy kiên nhẫn.",
+		"message": "Bạn có quá nhiều báo cáo đang được xử lý. Vui lòng kiên nhẫn vì chúng tôi xem xét báo cáo của bạn hàng tuần.",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
-		"message": "Bạn có quá nhiều báo cáo đang chờ.",
+		"message": "Bạn có quá nhiều báo cáo đang chờ được xử lý.",
 		"description": "User has too many active reports"
 	},
 	"report.success": {
