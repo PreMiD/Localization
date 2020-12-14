@@ -25,13 +25,13 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ### Khởi động lại trình duyệt của bạn
 Bạn có thể nhấn <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) hoặc <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS). (Tất nhiên là bạn phải khởi động lại trình duyệt rồi.)
 
-### Hãy chắc chắn là bạn đã cho phép Hoạt động trong game trong Discord trong cài đặt
+### Hãy chắc rằng bạn đã bật Hoạt động trong game trong cài đặt của Discord
 **Cái đặt người dùng** > **Hoạt động trong game** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Khởi động lại PreMiD (Ứng dụng)
 ![quit.png](/quit.png) Bạn phải khởi động lại PreMiD sau đó.
 
-### Tải lại/khởi động lại Discord
+### Reload/restart Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Hãy chắc chắn là Discord đang KHÔNG hoạt động ở chế độ administrator
