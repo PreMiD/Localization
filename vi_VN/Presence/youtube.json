@@ -44,7 +44,7 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Đang xem lịch sử báo cáo",
+        "message": "Đang xem lịch sử report",
         "description": ""
     },
     "youtube.upload": {
@@ -52,7 +52,7 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Đang xem tất cả playlist của họ",
+        "message": "Đang xem playlists của họ",
         "description": ""
     },
     "youtube.viewLiveEvents": {
@@ -96,7 +96,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Đang xem bảng tin",
+        "message": "Đang xem bảng điều khiển",
         "description": ""
     }
 }
