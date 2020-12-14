@@ -15,6 +15,10 @@
 		"message": "Người quản lý dự án",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Quản lý viên",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
 	"contributors.roles.marketingDirector": {
 		"message": "Nhân viên marketing",
 		"description": "'Marketing Director' title for contributors and user pages."
@@ -64,7 +68,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Bấm vào để copy ID người dùng.",
+		"message": "Bấm vào để copy ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
