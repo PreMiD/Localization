@@ -12,11 +12,11 @@
 		"description": ""
 	},
 	"spotify.genres": {
-		"message": "Đang duyệt qua các thể loại",
+		"message": "Đang duyệt các thể loại",
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "Đang xem các bản phát hành mới nhất",
+		"message": "Đang xem các bài hát mới nhất",
 		"description": ""
 	},
 	"spotify.discover": {
@@ -48,7 +48,7 @@
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
-		"message": "những playlist của họ",
+		"message": "playlists của họ",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
