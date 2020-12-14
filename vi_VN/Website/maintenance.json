@@ -12,7 +12,7 @@
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.message": {
-		"message": "Cho đến khi những lập trình viên của chúng tôi sửa những lỗi này, đừng ngại và tham quan nơi này!",
+		"message": "Trong lúc đợi lập trình viên của chúng tôi sửa lỗi, đừng ngại và tham quan nơi này!",
 		"description": "Message on maintenance page"
 	},
 	"maintenance.statuspage": {
