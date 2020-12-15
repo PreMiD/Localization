@@ -2,9 +2,10 @@
 title: Felsökning
 description: Allt för att lösa ditt problem
 published: true
-date: 2020-09-01T18:31:28.780Z
+date: 2020-12-15T20:00:08.631Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
 > Se till att du har tillägget **och** programmet installerat! 
@@ -59,7 +60,7 @@ Om du har laddat ned Discord genom Snapcraft så kommer RP inte fungera. Du mås
 ### McAfee upptäckte PreMiD som virus (Windows)
 Det här är ett falskt positivt resultat från McAfee och vi har rapporterat felet till de, just nu kan du exkludera PreMiD från skanningen genom att göra följande steg:
 
-> Om du inte känner dig säker på att ta dessa steg, tveka inte att skapa ett ärende i [#support](https://discord.gg/WvfVZ8T) och en av våra supportombud kommer att kunna hjälpa dig! 
+> Om du inte känner dig säker på att ta dessa steg, tveka inte att skapa ett ärende i [#support](https://discord.premid.app/) och en av våra supportombud kommer att kunna hjälpa dig! 
 > 
 > {.is-warning}
 
