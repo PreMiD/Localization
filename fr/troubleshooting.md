@@ -2,9 +2,10 @@
 title: Dépannage
 description: Tout pour résoudre votre problème
 published: oui
-date: 2020-09-01T18:31:28.780Z
+date: 2020-12-15T20:00:08.631Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
 > Assurez-vous d'avoir l'extension **et** l'application installée! 
@@ -59,7 +60,7 @@ Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous 
 ### McAfee a détecté PreMiD comme un virus (Windows)
 C'est un faux positif de la part de McAfee et nous leur avons signalé le problème, pour l'instant, vous pouvez exclure PreMiD de l'analyse en effectuant les étapes suivantes :
 
-> Si vous ne vous sentez pas confiant de prendre ces mesures, n'hésitez pas à faire un ticket dans [#support](https://discord.gg/WvfVZ8T) et l'un de nos agents de support pourra vous aider ! 
+> Si vous ne vous sentez pas confiant de prendre ces mesures, n'hésitez pas à faire un ticket dans [#support](https://discord.premid.app/) et l'un de nos agents de support pourra vous aider ! 
 > 
 > {.is-warning}
 
