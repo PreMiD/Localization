@@ -66,7 +66,7 @@ Isto é um falso positivo da parte do McAfee e nós comunicámo-los-emos a esse 
 1. Abra o aplicativo McAfee e clique no ícone de configurações no canto superior direito. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. Clique em "Itens na quarentena" (segundo do topo).
 3. Expanda-a, e clique no ícone `>` antes de um item com o nome "settings.dat".
-4. Certifique-se de que o caminho inclui o "AppData\Local\Temp\PreMiD", se for o caso selecione-o e pressione restaurar. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+4. Tenha certeza de que o caminho inclui "AppData\Local\Temp\PreMiD", se for o caso selecione e pressione restaurar.<img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. Depois de restaurado, você pode fechar a janela de "Itens na quarentena", depois pressione novamente o ícone de configurações no canto superior direito.
 6. Clique em "Verificação em tempo real" (Terceira do topo).
 7. Expanda-o e clique em "Adicionar arquivo".
