@@ -141,7 +141,7 @@ Para **Fedora/CentOS/RedHat**:
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-Si el comando no funciona, descargue el archivo **deb/rpm** desde nuestro repositorio packagecloud o sobrescribe la configuración.
+Si el comando no funciona, descargue el archivo **deb/rpm** desde nuestro repositorio packagecloud o sobrescriba la configuración.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
