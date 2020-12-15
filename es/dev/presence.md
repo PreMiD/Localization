@@ -411,7 +411,7 @@ El sitio web en el que estás desarrollando se recarga automáticamente cada vez
 
 # Explicación de archivos
 - [Clase de presencia](/dev/presence/class)
-- [Clase iFrame](/dev/presence/iframe)
+- [Clase de iFrame](/dev/presence/iframe)
 - [Archivo de Metadata](/dev/presence/metadata)
 - [Configuración de TypeScript](/dev/presence/tsconfig)
 {.links-list}
