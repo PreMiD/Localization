@@ -57,7 +57,7 @@ Define o título da bandeja no Menubar.
 
 ### `getStrings(Objeto)`
 
-Um método assíncrono que permite que você pegue strings traduzidas da extenção. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Uma compilação de lihas traduzidas podem ser vistas usando esse endpoint: `https://api.premid.app/v2/langFIle/extension/en`
+Um método assíncrono que permite que você pegue strings traduzidas da extenção. Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Uma compilação de strings traduzidas podem ser vistas usando esse endpoint: `https://api.premid.app/v2/langFIle/extension/en`
 
 ```typescript
 // Retorna strings `Playing` e `Paused`
@@ -77,7 +77,7 @@ Retorna uma variável a partir do site, se ela existir.
 
 ```typescript
 var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // Isto irá retornar o "Conteúdo Variável"
+console.log(pageVar); // Isso irá retornar o "Conteúdo Variável"
 ```
 
 ### `getExtensionVersion(Boolean)`
