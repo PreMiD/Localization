@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# Apenas clique duas vezes ou execute
 ./PreMiD*.AppImage
 ```
 
@@ -133,14 +133,12 @@ Para **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
-
 ```
 
-Para **Ubuntu/Debian**:
+Para **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
-
 ```
 
 Se o comando não funcionar, baixe o arquivo **deb/rpm** de nosso repositório pacote ou substitua as configurações.
