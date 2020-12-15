@@ -37,7 +37,7 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 ## Sobre
 
-**PreMiD** um simples, utilitário configurável que usa a biblioteca RP (Rich Presence) do Discord, que permite que você mostre o que está fazendo na web (e alguns programas) no seu perfil do Discord como **status de jogo**.
+**PreMiD** um simples, utilitário configurável que usa a biblioteca RP (Rich Presence) do Discord, que permite que você mostre o que está fazendo na internet (e alguns programas) no seu perfil do Discord como **status de jogo**.
 
 <a name="stats"></a>
 
