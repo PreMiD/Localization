@@ -1,6 +1,6 @@
 ---
 title: Configuración de TypeScript
-description: Un pequeño ayudante para TypeScript
+description: Un poco de ayuda para TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
