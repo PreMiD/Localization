@@ -60,7 +60,7 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 ### Requisitos
 
-Tecnicamente toda distribuição que pode executar o **aplicativo** [oficial](https://discordapp.com/download) do Discord (não a versão web ou snap) também pode executar o PreMiD;</br> Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas 32-bit (ia32/i686/i386/x86), e como resultado, nós também. Você pode, no entanto, tente build o aplicativo você mesmo se você precisar desesperadamente usá-lo em uma distribuição de 32 bits.</br> Como atualmente usamos Electron como um engine (Discord também!), seus requisitos também se aplicam a este aplicativo :
+Tecnicamente toda distribuição que pode executar o **app** [oficial](https://discordapp.com/download) do Discord (não a versão web ou snap) também pode executar o PreMiD;</br> Como você deve ter notado nos últimos anos, algumas distribuições do Linux começaram a abandonar o suporte para as arquiteturas 32-bit (ia32/i686/i386/x86), e como resultado, nós também. Você pode, no entanto, tente build o aplicativo você mesmo se você precisar desesperadamente usá-lo em uma distribuição de 32 bits.</br> Como atualmente usamos Electron como um engine (Discord usa também!), seus requisitos também se aplicam a este aplicativo :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
