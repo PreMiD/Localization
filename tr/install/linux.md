@@ -127,7 +127,7 @@ Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek e
 
 # PackageCloud
 
-deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. https://packagecloud.io/PreMiD/Linux adresini ziyaret ederek sana uygun olan deb/rpm paketini indirebilir veya otomatik bir betik dili kullanabilirsin.
+deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. https://packagecloud.io/PreMiD/Linux adresini ziyaret ederek sana uygun olan deb/rpm paketini indirebilir veya otomatik bir kod kullanabilirsin.
 
 **Ubuntu/Debian** için:
 
