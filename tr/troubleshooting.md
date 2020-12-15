@@ -2,9 +2,10 @@
 title: Sorun Giderme
 description: Karşılaştığınız hatayı çözebilmek için her şey
 published: true
-date: 2020-09-01T18:31:28.780Z
+date: 2020-12-15T20:00:08.631Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
 > Uzantıyı **ve** uygulamanın yüklü olduğundan emin olun! 
@@ -59,7 +60,7 @@ Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmay
 ### McAfee PreMiD'i virüs olarak tespit etti (Windows)
 Bu sorun McAfee'nin PreMiD'e yanlış sonuç vermesinden kaynaklıdır, sorunu çözmeleri için onlarla iletişime geçtik, şimdilik siz aşağıdaki adımları takip ederek PreMiD'i tarama dışı bırakabilirsiniz:
 
-> Eğer bu adımları yapamıyorsanız, Discord sunucumuzdaki [#support](https://discord.gg/WvfVZ8T) kanalında bir destek talebi oluşturabilir, bir destekçinin yardım etmesini bekleyebilirsiniz. 
+> Eğer bu adımları yapamıyorsanız, Discord sunucumuzdaki [#support](https://discord.premid.app/) kanalında bir destek talebi oluşturabilir, bir destekçinin yardım etmesini bekleyebilirsiniz. 
 > 
 > {.is-warning}
 
