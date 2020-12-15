@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-Installationen av programmet är mycket viktigt eftersom förlängningen inte kan göra något av sig själv.
+Installationen av programmet är mycket viktigt eftersom tillägget inte kan göra något av sig själv.
 
 # Installera
 1. Gå till vår nedladdningssida genom att [klicka här](https://premid.app/downloads).
