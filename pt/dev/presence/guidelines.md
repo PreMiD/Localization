@@ -10,15 +10,15 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Diretrizes
 
-Publicando Presences a este GitHub, nós requeremos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras evitará que nós e os usuários nos deparemos com quaisquer problemas.
+Ao publicar Presenças neste GitHub, exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras evitará que nós e os usuários nos deparemos com quaisquer problemas.
 
 # Criação
 
 As regras gerais de desenvolvimento de presences são as seguintes:
 
 - As Presences **devem** estar relacionadas com o website escolhido.
-- As Presences **não devem** ser feitas para websites ilegais. (p. ex., estressores, marketing de drogas, pornografia infantil, etc.)
-- A estrutura do arquivo deve ser limpa e gerenciada, não incluir arquivos que não estejam especificados. (p. ex., pastas vscode e git, arquivos de imagem e texto, etc.)
+- As Presencses **não devem** ser feitas para websites ilegais. (p. ex., estressores, marketing de drogas, pornografia infantil, etc.)
+- A estrutura do arquivo deve ser limpa e estruturada, não inclua arquivos que não estiverem especificados. (p. ex., pastas vscode e git, arquivos de imagem e texto, etc.)
 - Você precisa ter uma estrutura de arquivos adequada, rascunhos **não são** permitidos.
 - Presences para websites com (`.onion` TLDs) ou websites com domínios/hosts grátis (p. ex., `.TK` [todos os domínios grátis Freenom], `.RF`, `GD`, etc) **não** são permitidas, exceções podem ser feitas se uma prova for apresentada mostrando que eles pagaram pelo domínio.
 - O domínio da presence deve ter pelo menos 2 meses.
@@ -52,11 +52,11 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Para a conveniência de nossos presence developers, nós providenciamos um schema que você pode usar para validar a integridade do seu arquivo `metadata`. Isso é inteiramente opcional e não é necessário durante o processo de revisão. 
+> Para a conveniência de nossos desenvolvedores de presence, nós providenciamos um esquema que você pode usar para validar a integridade do seu arquivo `metadata`. Isso é inteiramente opcional e não é necessário durante o processo de revisão. 
 > 
 > {.is-info}
 
-> É altamente recomendável que você organize seu arquivo `metadata` no formato mostrado abaixo, e você deve ter nomes de serviço, descrições, tags e campos de configuração gramaticalmente corretos. Tudo aquilo que não estiver organizado nessas especificações **não será** permitido. 
+> É altamente recomendado que você organize seu arquivo `metadata` no formato mostrado abaixo, e você deve ter nomes de serviço, descrições, tags e campos de configuração gramaticalmente corretos. Tudo que não estiver organizado nessas especificações **não será** permitido. 
 > 
 > {.is-warning}
 
