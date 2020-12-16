@@ -13,10 +13,10 @@ tags:
 # Đang cài đặt những thứ cần thiết
 1. Đang cài [Git](https://git-scm.com/).
 2. Cài [Node](https://nodejs.org/en/) (cùng với [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+3. Cài [TypeScript](https://www.typescriptlang.org/index.html#download-links) (mở terminal và nhập `npm install -g typescript`).
 
 # Đang nhân bản dự án
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+1. Mở terminal và nhập `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Chọn thư mục bạn muốn
 3. Mở nó ở phần mềm lập trình của bạn
 
