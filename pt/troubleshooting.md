@@ -13,7 +13,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > {.is-warning}
 
 ### Você está usando o aplicativo do Discord?
-O PreMiD **não** funciona na versão do Discord para navegador, você precisa baixar o aplicativo clicando [[aqui](https://discord.com/download)](https://discord. com/download).
+O PreMiD **não** funciona na versão do Discord para navegador, você precisa baixar o aplicativo clicando [aqui](https://discord.com/download).
 
 ### Você está usando uma Presence com configurações?
 Muitas presences (incluindo `Twitch` e `SoundCloud`) são afetadas por uma questão de extensão. Este problema faz com que a extensão não pegue os valores padrão das configurações corretamente.
