@@ -120,15 +120,15 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga là một Discord Bot đang cố gắng cung cấp tất cả các tính năng mà bạn có thể cần cùng một lúc!",
+		"message": "taiga là một Discord Bot sẽ cung cấp tất cả các tính năng mà bạn có thể cần!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
-		"message": "Một nền tảng mạnh mẽ và dễ dùng trong việc tạo những gói cài đặt đa nền tảng.",
+		"message": "Một công cụ đa nền tảng mạnh mẽ giúp bạn dễ dàng tạo ra trình cài đặt.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Dễ dàng giao tiếp trạng thái thời gian thực với người dùng của bạn.",
+		"message": "Dễ dàng báo trạng thái trang web của bạn đến người dùng theo giời gian thực.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
