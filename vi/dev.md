@@ -1,24 +1,24 @@
 ---
-title: Cùng bắt đầu nào
-description: 1 lời khuyên nhỏ dành cho ai vừa học cách lập trình gần đây
+title: Bắt đầu
+description: Lời khuyên nhỏ cho người vừa học lập trình
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> Bạn cần phần mềm chỉnh sửa mã nguồn mở Chúng tôi khuyên bạn nên dùng Visual Studio Code 
+> Bạn cần phần mềm sửa source code. Chúng tôi khuyên dùng Visual Studio Code. 
 > 
 > {.is-info}
 
-# Đang cài đặt những thứ cần thiết
-1. Đang cài [Git](https://git-scm.com/).
-2. Cài [Node](https://nodejs.org/en/) (cùng với [npm](https://www.npmjs.com/)).
+# Cài đặt phần mềm yêu cầu
+1. Cài đặt [Git](https://git-scm.com/).
+2. Cài [Node](https://nodejs.org/en/) (có sẵn với [npm](https://www.npmjs.com/)).
 3. Cài [TypeScript](https://www.typescriptlang.org/index.html#download-links) (mở terminal và nhập `npm install -g typescript`).
 
-# Đang nhân bản dự án
+# Clone project
 1. Mở terminal và nhập `git clone URL`. **Thay URL bằng link repo mà bạn muốn đóng góp ** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Chọn thư mục bạn muốn
-3. Mở nó ở phần mềm lập trình của bạn
+2. Chọn thư mục bạn muốn.
+3. Mở nó với editor bạn chọn.
 
 # Cài dependencies
 > Hãy chắc chắn bạn đã cài [npm](https://www.npmjs.com/) (Node Package Manager). Nó sẽ được cài tự động nếu bạn đã cài [Node](https://nodejs.org/en/). 
@@ -26,16 +26,16 @@ tags:
 > {.is-warning}
 
 - Mở terminal trong repository và nhập `npm i`.
-- To update the dependencies type `npm update`.
+- Hãy nhập `npm update` để cập nhật dependencies.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Lưu ý khi cập nhật dependencies có thể làm hỏng chương trình, cần phải kiểm tra lại! 
 > 
 > {.is-danger}
 
 # Coding your vision
 Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
 
-# Đang tiếp thu ước mở của bạn ;)
+# Submitting your dream
 Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Getting approved
