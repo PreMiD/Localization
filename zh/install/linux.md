@@ -14,13 +14,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
 > 
 > {.is-warning}
 
-## Table of Contents
+## 內容目錄
 
 - **[關於](#about)**
-  - [Stats](#stats)
+  - [目前狀態](#stats)
   - [需求](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - 例子(等待更新)
+  - 問與答(等待更新)
   - Building (soon)
   - [Support](#support)
   - [特別感謝](#credits)
@@ -41,7 +41,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="stats"></a>
 
-### Stats
+### 目前狀態
 
 <table>
   <tr>
