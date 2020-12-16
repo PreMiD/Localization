@@ -8,11 +8,11 @@
         "description": "Meaning Direct messages"
     },
     "aliexpress.sale": {
-        "message": "Đang duyệt qua trang bán hàng",
+        "message": "Đang duyệt qua sale",
         "description": ""
     },
     "aliexpress.recentlyViewProducts1": {
-        "message": "Đang xem sản phầm gần đây",
+        "message": "Đang xem lịch sử gần đây",
         "description": "Part 1 of 2"
     },
     "aliexpress.recentlyViewProducts2": {
@@ -30,6 +30,10 @@
     "aliexpress.orders": {
         "message": "Đang xem đơn đặt hàng của họ",
         "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Đang xem",
+        "description": "Part 1 "
     },
     "aliexpress.refunds": {
         "message": "Hoàn tiền & Tranh chấp",
