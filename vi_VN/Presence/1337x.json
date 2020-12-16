@@ -56,11 +56,11 @@
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
-        "message": "Đang tải lên cái gì đấy...",
+        "message": "Đang tải lên...",
         "description": ""
     },
     "1337x.rules": {
-        "message": "Đang đọc luật lệ",
+        "message": "Đang đọc luật",
         "description": ""
     },
     "1337x.writing": {
