@@ -35,12 +35,20 @@
         "message": "Đang duyệt qua",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "dịch vụ đã đăng ký",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.library": {
         "message": "thư viện của họ",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
         "message": "lịch sử của họ",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "đã mua",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
@@ -59,6 +67,10 @@
         "message": "Đang xem sự kiện trực tiếp của họ",
         "description": ""
     },
+    "youtube.viewLiveDashboard": {
+        "message": "Đang xem bảng điều khiển live stream",
+        "description": ""
+    },
     "youtube.viewAudioLibrary": {
         "message": "Đang xem thư viện âm thanh",
         "description": ""
@@ -73,6 +85,10 @@
     },
     "youtube.studio.videoAnalytics": {
         "message": "Đang xem thống kê của video:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Đang đọc comments của:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
