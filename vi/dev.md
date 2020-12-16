@@ -16,16 +16,16 @@ tags:
 3. Cài [TypeScript](https://www.typescriptlang.org/index.html#download-links) (mở terminal và nhập `npm install -g typescript`).
 
 # Đang nhân bản dự án
-1. Mở terminal và nhập `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+1. Mở terminal và nhập `git clone URL`. **Thay URL bằng link repo mà bạn muốn đóng góp ** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Chọn thư mục bạn muốn
 3. Mở nó ở phần mềm lập trình của bạn
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Cài dependencies
+> Hãy chắc chắn bạn đã cài [npm](https://www.npmjs.com/) (Node Package Manager). Nó sẽ được cài tự động nếu bạn đã cài [Node](https://nodejs.org/en/). 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
+- Mở terminal trong repository và nhập `npm i`.
 - To update the dependencies type `npm update`.
 
 > Be aware that updating the dependencies could break a lot, or not - testing is required! 
