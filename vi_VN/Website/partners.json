@@ -132,15 +132,15 @@
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
-		"message": "Dịch vụ dịch thuật hóa nhanh nhẹn cho các công ty công nghệ.",
+		"message": "Dịch thuật nhanh chóng cho công ty công nghệ.",
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "Phần mềm Wiki mã nguồn mở mạnh và mở rộng rất.",
+		"message": "Phần mềm Wiki mã nguồn mở và có thể dễ dàng mở rộng.",
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.fastly": {
-		"message": "Đằng sau những điều tốt nhất của trang web.",
+		"message": "Đằng sau những tinh túy của trang web.",
 		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
@@ -156,7 +156,7 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "Hãy chọn một",
+		"message": "Xin chọn một",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
@@ -184,7 +184,7 @@
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "Mô tả cho người được giới thiệu",
+		"message": "Mô tả các tính chất",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
@@ -200,7 +200,7 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Áp dụng",
+		"message": "Đăng ký",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
@@ -208,19 +208,19 @@
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
-		"message": "Hãy hoàn thành các mẫu điền.",
+		"message": "Xin hãy điền vào các trường trống.",
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
-		"message": "Tối đa 150 ký tự cho phần miêu tả.",
+		"message": "Phần miêu tả tối đa 150 ký tự.",
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Hãy thêm một link (phải bắt đầu bằng https:// và kết thúc với .png)",
+		"message": "Hãy thêm link (phải bắt đầu bằng https:// và kết thúc với .png)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Bạn đã ứng cử trở thành đối tác.",
+		"message": "Bạn đã ứng tuyển rồi.",
 		"description": "Error when already applied."
 	}
 }
