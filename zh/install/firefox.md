@@ -12,10 +12,10 @@ tags:
 1. [點此](https://premid.app/downloads) 前往我們的下載頁面
 2. 選擇 **FireFox**
 3. 搜尋 `about:addons`
-4. Click on the small gear icon in the upper right corner.
+4. 點擊右上角的小齒輪圖標。
 5. 選擇 **從檔案安裝擴充套件**
-6. 選擇你最近下載的檔案
-7. 點擊 **新增** 確認載入
+6. 選擇你剛剛下載的檔案
+7. 點擊 **新增** 以確認載入
 
 > 別忘了[安裝**安裝我們的本地應用程式**](/install) 
 > 
