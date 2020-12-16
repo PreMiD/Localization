@@ -23,6 +23,10 @@
 		"message": "Chọn trình duyệt và phiên bản của bạn - Bạn có thể tìm thấy phiên bản bằng cách truy cập about:support ở Firefox hoặc chrome://help",
 		"description": "Select Box for the user to select their browser"
 	},
+	"report.description": {
+		"message": "Hãy cung cấp link hoặc video hoặc mô tả rõ ràng các bước để tạo ra lỗi.",
+		"description": "Text for the user to write information about the bug."
+	},
 	"report.button": {
 		"message": "Báo cáo",
 		"description": "Button to send the information inputed."
