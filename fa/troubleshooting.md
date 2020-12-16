@@ -60,7 +60,7 @@ If you have downloaded Discord through Snapcraft, RPC will not work. You have to
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+> اگر مطمعن نیستید که این مراحل را انجام دهید، می توانید یک تیکت در [#support](https://discord.premid.app/) ایجاد کنید و یکی از پشتیبانان ما در دسترس برای کمک به شما خواهد بود! 
 > 
 > {.is-warning}
 
