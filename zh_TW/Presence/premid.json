@@ -7,6 +7,10 @@
         "message": "文件",
         "description": "as in documents"
     },
+    "premid.viewPresence": {
+        "message": "查看狀態:",
+        "description": ""
+    },
     "premid.pageHome": {
         "message": "首頁",
         "description": "A page name"
