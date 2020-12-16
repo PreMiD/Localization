@@ -21,10 +21,10 @@ Základní pravidla vyvíjení presence jsou následující:
 - Struktura souboru musí být čistá a udržována. Nepřikládejte soubory, které nejsou specifikovány (například vscode a git složky, obrázky, textové soubory a podobně).
 - Musíte mít řádnou strukturu souboru, koncepty **nejsou** povoleny.
 - Presence pro webové stránky s TLD `.onion` nebo stránky s doménou/hostingem zdarma (například `.TK` (Všechny Freenom domény), `.RF`, `.GD`) **není povolena**, ale mohou být uděleny výjimky, pokud bude poskytnut důkaz že za doménu bylo zaplaceno.
-- The domain of the presence must be at least 2 months old.
+- Doména Presence musí být nejméně 2 měsíce stará
 - Presence, které cílí na interní stránky prohlížeče (jako je internetový obchod Chrome, stránky `chrome://`, stránky `about:` a podobně...) **nejsou** povoleny, jelikož po uživatelovi vyžadují aktivování zkušebních funkcí a mohli by potencionálně způsobit škodu na jejich prohlížečích.
 - Presence podporující jedinou subdoménu **nebudou** povoleny, jelikož se na ostatních stránkách (například na domovské stránce) mohou zdát rozbité. Mohou být uděleny výjimky pro stránky s kontakty nebo se zásadami o ochraně osobních údajů (obsah, který není často využíván), či pro stránky, jejž obsah je nepodstatný (například wikia stránky).
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
+- Presence pro online rádio je povolená pouze, když má 100 týdeních posluchačů a minimálně 15 v jeden moment současně
 - Presence nízké kvality (nebo ty s nedostatečným obsahem) **nejsou** povoleny (například zobrazení loga a textu bez další změny).
 - Zahrnutí složky `dist` a souborů `presence.ts`, `iframe.ts` a `metadata.json` je povinné a rozvržení souborů musí odpovídat následujícímu schématu:
 
@@ -209,7 +209,7 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 > 
 > {.is-warning}
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Každá Presence se řídí přísnými pravidly, které se budou kontrolovat během procesu ověřování Presence Několik doporučení můžete vidět dole - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -245,7 +245,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 # Ověření
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> **Všechen** napsaný kód bude zalicencován pod licencí `Mozilla Public License 2.0` 
 > 
 > {.is-info}
 
