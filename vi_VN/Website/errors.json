@@ -4,7 +4,7 @@
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
-		"message": "Xin lỗi, chúng tôi không tìm thấy trang này.",
+		"message": "Rất tiếc, chúng tôi không tìm thấy trang này.",
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
@@ -28,11 +28,11 @@
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
-		"message": "cho rằng ID người dùng mà bạn tìm kiếm không chính xác.",
+		"message": "cho rằng ID mà bạn tìm kiếm không chính xác.",
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "cho rằng người dùng này đã tạo đủ Presence và nhận được vai trò Presence Developer máy chủ Discord của chúng tôi.",
+		"message": "cho rằng người dùng này đã tạo đủ Presence và nhận được vai trò Presence Developer máy chủ Discord.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
