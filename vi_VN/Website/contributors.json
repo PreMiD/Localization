@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Người quản lý dự án",
+		"message": "Quản lý dự án",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
@@ -28,15 +28,15 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Người đánh giá",
+		"message": "Reviewer",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
-		"message": "Nhà phát triển",
+		"message": "Lập trình viên",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
-		"message": "Nhà thiết kế",
+		"message": "Designer",
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
@@ -56,7 +56,7 @@
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Người quyên góp",
+		"message": "Người ủng hộ",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
