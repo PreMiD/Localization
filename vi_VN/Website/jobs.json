@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình.",
+		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận, mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {

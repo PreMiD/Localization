@@ -8,7 +8,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "Presence này rất phổ biến với mọi người dùng.",
+		"message": "Presence này rất phổ biến với người dùng.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
@@ -64,7 +64,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "Trò chơi",
+		"message": "Game",
 		"description": "Category at the top"
 	},
 	"store.category.music": {
