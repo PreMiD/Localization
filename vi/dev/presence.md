@@ -25,14 +25,14 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
-1. Đang cài [Git](https://git-scm.com/).
-2. Cài [Node](https://nodejs.org/en/) (cùng với [npm](https://www.npmjs.com/)).
+1. Cài đặt [Git](https://git-scm.com/).
+2. Cài [Node](https://nodejs.org/en/) (có sẵn với [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Đang nhân bản dự án
+## Clone project
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Chọn thư mục bạn muốn
-3. Mở nó ở phần mềm lập trình của bạn
+2. Chọn thư mục bạn muốn.
+3. Mở nó với editor bạn chọn.
 
 ## Creating folders and files
 
