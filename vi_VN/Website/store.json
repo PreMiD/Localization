@@ -40,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Được sử dụng nhiều nhất trước",
+		"message": "Được dùng nhiều trước",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
