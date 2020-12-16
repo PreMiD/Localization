@@ -1,4 +1,12 @@
 {
+    "hypixel.staff": {
+        "message": "Đang xem danh sách staff",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Đang xem danh sách threads đã theo dõi",
+        "description": "Articles they get notifications from"
+    },
     "hypixel.game": {
         "message": "Đang xem game:",
         "description": ""
