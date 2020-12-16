@@ -134,11 +134,11 @@ Uma lista de campos e de suas regras está listada abaixo:
 
 ### **`$schema`**
 
-- O schema _key_ **deve** incluir um sinal de dólar no início do mesmo, isto irá sinalizar ao seu editor de texto que você quer validar o seu arquivo JSON contra um modelo. _Como foi dito anteriormente, não é necessário incluir um schema, mas se o incluir, deve levar isto em conta._
+- O esquema _chave_ **deve** incluir um sinal de dólar no início do mesmo, isto irá sinalizar ao seu editor de texto que deseja validar seu arquivo JSON contra um modelo. _Como foi dito anteriormente, não é necessário incluir um esquema, mas se o incluir, deve levar isto em conta._
 
 ### **`author`**
 
-- O _valor_ ID **deve** ser o seu Discord snowflake ID. Você pode obtê-lo ativando o [modo desenvolvedor](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Por favor **não** confunda isto com o ID da sua aplicação, que é apenas para a sua presence._
+- O _valor_ ID **deve** ser o seu Discord snowflake ID. Você pode obtê-lo ativando o [modo desenvolvedor](https://support.discord.com/hc/pt-br/articles/206346498-Onde-posso-encontrar-minhas-IDs-de-Usu%C3%A1rio-Servidor-Mensagem-). _Por favor **não** confunda isto com o ID da sua aplicação, que é apenas para a sua presence._
 
 ### **`contributors`**
 
