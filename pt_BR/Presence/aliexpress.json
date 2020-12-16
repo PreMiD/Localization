@@ -52,11 +52,11 @@
         "description": ""
     },
     "aliexpress.address": {
-        "message": "Vendo seu Endereço",
+        "message": "Vendo endereço",
         "description": ""
     },
     "aliexpress.helpCenter": {
-        "message": "Central de Ajuda AliExpress\n",
+        "message": "Centro de Ajuda AliExpress",
         "description": ""
     },
     "aliexpress.sellCenter": {
