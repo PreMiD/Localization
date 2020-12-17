@@ -110,7 +110,7 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 - `contributors`
 - `regExp`
 - `iframe`
