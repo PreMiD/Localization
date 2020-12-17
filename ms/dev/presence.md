@@ -110,7 +110,7 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
 }
 ```
 
-Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini anda perlu ubah nilai sifat. Ambil perhatian bahawa sifat berikut adalah pilihan dan tidak diwajibkan dalam fail `metadata.json` anda, jika anda tidak bercadang untuk menggunakannya maka anda perlu membuangnya.
 - `contributors`
 - `regExp`
 - `iframe`
