@@ -21,28 +21,28 @@ Versi `2.x` memperkenalkan [kedai Presence](https://premid.app/store). Pengguna 
 - [Garis Panduan](https://docs.premid.app/en/dev/presence/guidelines)
 {.links-list}
 
-# Structure
-Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+# Struktur
+Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) mempunyai pentakrifan jenis yang lebih pedas berbanding JavaScript, jadi pembaikian dan pengenalpastian pepijat adalah lebih mudah.
 
 ## Installation
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Pasang [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan hantarkan `npm install -g typescript`).
 
 ## Cloning the project
 1. Buka terminal dan taip `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
 3. Open it in your code editor.
 
-## Creating folders and files
+## Cipta folder dan fail
 
-1. Create a folder with the **name** (not an URL) of the service you want to support.
+1. Cipta folder dengan **nama** (bukannya URL) perkhidmatan yang anda ingin sokong.
 2. Cipta fail `presence.ts` dan `tsconfig.json` di dalamnya.
-3. Create a folder named `dist` inside.
-4. Create a `metadata.json` file inside the `dist` folder.
+3. Cipta folder bernama `dist` di dalamnya.
+4. Cipta fail `metadata.json` di dalam folder `dist` tersebut.
 
-## Filling in the tsconfig.json file
-Please put the following code inside of the `tsconfig.json` file.
+## Isi fail tsconfig.json
+Sila letakkan kod di bawah ke dalam fail `tsconfig.json`.
 ```javascript
 {
   "extends": "../../../tsconfig.json",
@@ -53,8 +53,8 @@ Please put the following code inside of the `tsconfig.json` file.
 ```
 Untuk ketahui lebih lanjut mengenai tatarajah TypeScript sila klik [sini](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+## Isi fail metadata.json
+Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di sini](https://eggsy.xyz/projects/premid/mdcreator). Namun, anda masih digalakkan untuk membaca bahagian ini supaya anda tahu cara ia berfungsi.
 
 ```json
 {
@@ -297,7 +297,7 @@ TLD standing for Top Level Domain for axample: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di sini](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
