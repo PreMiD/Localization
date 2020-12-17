@@ -30,5 +30,5 @@ Semua perkhidmatan dan protokol lapisan-HTTP (spt. http) dalam API PreMiD menggu
 
 **Pilih versi API:**
 - [v2 *aktif*](/dev/api/v2)
-- [v3 *dalam pembinaan*](/dev/api/v3)
+- [v3 *dalam pembangunan*](/dev/api/v3)
 {.links-list}
