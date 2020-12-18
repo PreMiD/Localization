@@ -38,5 +38,21 @@
   "header.login": {
     "message": "로그인",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "로그인 됨",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "버그 신고하기",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "대시보드",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "로그아웃",
+    "description": "Logout button"
   }
 }
