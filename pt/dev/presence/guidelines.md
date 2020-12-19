@@ -180,7 +180,7 @@ Uma lista de campos e de suas regras está listada abaixo:
 ### **`color`**
 
 - A cor **deve** ser um valor hexadecimal entre `#000000` e `#FFFFFF`.
-- A string de color **deve** ser prefixada com um símbolo de hash.
+- A string de cor **deve** ser precedida com um símbolo hash.
 
 ### **`tags`**
 
