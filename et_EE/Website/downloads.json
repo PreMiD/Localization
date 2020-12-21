@@ -11,6 +11,10 @@
     "message": "Lae PreMiD",
     "description": "Heading for installing the application"
   },
+  "downloads.instructions.step_2": {
+    "message": "Paigaldage meie rakendus",
+    "description": "Heading for installing the application"
+  },
   "downloads.instructions.footer": {
     "message": "Kas teil on endiselt probleeme? {0}",
     "description": "{0} will be replaced with footer.link"
