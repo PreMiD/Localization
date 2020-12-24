@@ -37,11 +37,11 @@ Grąžina ` presenceData ` objektą kurį rodo presence.
 
 ### `setActivity(presenceData, Boolean)`
 
-Sets your profile activity according to provided data.
+Nustato jūsų profilio aktyvumą pagal pateiktus duomenis.
 
-First parameter requires an `presenceData` interface to get all information that you want to display in your profile.
+Pirmas parametras reikalauja `presenceData` sąsajos kad gauti visą informaciją kurią jūs norite demonstruoti savo profilyje.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `presenceData`.
+Antras parametras apibrėžia kada presence rodo kažką arba ne. Always use `true` if you provide timestamps in `presenceData`.
 
 ### `clearActivity()`
 
@@ -119,7 +119,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Kintamasis</th>
       <th style="text-align:left">Aprašymas</th>
       <th style="text-align:left">Tipas</th>
     </tr>
