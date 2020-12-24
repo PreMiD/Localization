@@ -2,7 +2,7 @@
 title: Richtlinien
 description: Regeln, die alle Entwickler beachten müssen, damit ihre Presences hinzugefügt werden.
 published: true
-date: 2020-12-06T19:43:05.270Z
+date: 2020-12-24T22:44:59.731Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Richtlinien
 
-Wenn du Presences auf diesem GitHub veröffentlichst, musst du eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
 
 # Erstellung
 
