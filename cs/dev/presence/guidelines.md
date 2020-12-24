@@ -2,7 +2,7 @@
 title: Pokyny
 description: Pravidla, která musí všichni vývojáři dodržovat, aby byla jejich presence přidána.
 published: true
-date: 2020-12-06T19:43:05.270Z
+date: 2020-12-24T22:44:59.731Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Pokyny
 
-Při publikování Presence na tento GitHub požadujeme, aby jste dodržovali tyto pokyny. Některým se tato přísná pravidla mohou zdát přísná, avšak zavedení těchto pravidel nám umožňuje zamezit jakýmkoliv problémům.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Některým se tato přísná pravidla mohou zdát přísná, avšak zavedení těchto pravidel nám umožňuje zamezit jakýmkoliv problémům.
 
 # Vytváření
 
