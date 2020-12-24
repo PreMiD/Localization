@@ -2,7 +2,7 @@
 title: Indicaciones
 description: Reglas que todos los desarrolladores de presences deben seguir para que su presence sea añadida.
 published: verdadero
-date: 2020-12-06T19:43:05.270Z
+date: 2020-12-24T22:44:59.731Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Indicaciones
 
-Cuando publiques Presences en GitHub, debes seguir un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, estas reglas nos evitarán encontrarnos a nosotros y a los usuarios con algún tipo de problema.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, estas reglas nos evitarán encontrarnos a nosotros y a los usuarios con algún tipo de problema.
 
 # Creación
 
