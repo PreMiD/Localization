@@ -121,7 +121,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Kintamasis</th>
       <th style="text-align:left">Aprašymas</th>
       <th style="text-align:left">Tipas</th>
       <th style="text-align:left">Optional</th>
