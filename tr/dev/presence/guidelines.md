@@ -2,7 +2,7 @@
 title: Yönergeler
 description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
 published: true
-date: 2020-12-06T19:43:05.270Z
+date: 2020-12-24T22:44:59.731Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Yönergeler
 
-GitHub depomuza servis eklerken, takip etmeniz gereken bir takım kurallarımız bulunmaktadır. Bazıları için bu kurallar katı görünebilir. Ancak bu ayarlamalar ve kurallar sunucularımızın düzgün bir biçimde çalışması için bize yardımcı olacaktır.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. Ancak bu ayarlamalar ve kurallar sunucularımızın düzgün bir biçimde çalışması için bize yardımcı olacaktır.
 
 # Oluşturma
 
