@@ -2,7 +2,7 @@
 title: Gairės
 description: Taisyklės kurių turi laikytis visi presence kūrėjai tam kad jų presence būtų pridėtas.
 published: true
-date: 2020-12-24T22:44:59.731Z
+date: 2020-12-24T22:54:31.786Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Gairės
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Kai kuriems šios taisyklės gali atrodyti griežtos. Tačiau laikydamiesi šių taisyklių padės mums ir mūsų naudotojams nepatirti jokių problemų.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Kai kuriems šios taisyklės gali atrodyti griežtos. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Kūrinys
 

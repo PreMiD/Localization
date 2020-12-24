@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os desenvolvedores de presence devem seguir para ter a sua presence adicionada.
 published: true
-date: 2020-12-24T22:44:59.731Z
+date: 2020-12-24T22:54:31.786Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Diretrizes
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Para alguns, estas regras rígidas podem parecer duras. No entanto, a implementação destas regras impedir-nos-á a nós e aos utilizadores de se decompormos com quaisquer problemas.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Para alguns, estas regras rígidas podem parecer duras. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Criação
 
