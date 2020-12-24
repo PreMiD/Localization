@@ -2,7 +2,7 @@
 title: 지침
 description: Rules all presence developers must follow to have their presence added.
 published: true
-date: 2020-12-24T22:44:59.731Z
+date: 2020-12-24T22:54:31.786Z
 tags:
 editor: 마크다운
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # 지침
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # 파일
 
