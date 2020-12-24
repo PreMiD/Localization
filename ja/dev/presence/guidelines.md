@@ -2,7 +2,7 @@
 title: ガイドライン
 description: プレゼンスを公開するために必要なルール
 published: true
-date: 2020-12-06T19:43:05.270Z
+date: 2020-12-24T22:44:59.731Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # ガイドライン
 
-GitHubにプレゼンスをPublish(公開)する場合は、このガイドラインに従う必要があります。 厳しいように見えるかもしれませんが、 このガイドラインは問題を回避するために作られています。
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 厳しいように見えるかもしれませんが、 このガイドラインは問題を回避するために作られています。
 
 # 作成
 
