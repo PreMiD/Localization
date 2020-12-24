@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Pasirinkite savo operacinę sistemą:**
 - [Windows *7 arba aukščiau*](/install/windows)
 - [macOS *10.11 arba aukščiau*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kernel su v2.x ar vėliau*](/install/linux)
 {.links-list}
 
 **Pasirinkite savo naršyklę:**
