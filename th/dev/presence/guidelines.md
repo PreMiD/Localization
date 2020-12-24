@@ -2,7 +2,7 @@
 title: แนวทาง
 description: กฏผู้พัฒนาทุกอย่างของ Presence ต้องปฏิบัติตามเพื่อได้รับการเพิ่ม Presence
 published: true
-date: 2020-12-24T22:44:59.731Z
+date: 2020-12-24T22:54:31.786Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # แนวทาง
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป อย่างไรก็ตามการดำเนินการตามกฎเหล่านี้จะทำให้เราและผู้ใช้จะไม่พบเจอปัญหาใด ๆ
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # การสร้าง
 
