@@ -2,7 +2,7 @@
 title: Lignes directrices
 description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
 published: oui
-date: 2020-12-06T19:43:05.270Z
+date: 2020-12-24T22:44:59.731Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Lignes directrices
 
-Lors de la publication des presences sur ce GitHub, nous vous demandons de suivre un ensemble de directives. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera ainsi que les utilisateurs de faire face à n'importe quel problème.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, l'implémentation de ces règles empêchera nous et nos utilisateurs de faire face à n'importe quel problème.
 
 # Création
 
