@@ -1,6 +1,6 @@
 ---
 title: Métadonnées.json
-description: Contient des données de base sur la Presence
+description: Contient des données basique sur la Presence
 published: oui
 date: 2020-05-21T15:01:05.864Z
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Si vous souhaitez publier une présence dans la boutique et la charger via l'extension, vous devez créer le fichier ` metadata.json ` dans votre dossier ` dist `.
 
-L'exemple de ce fichier peut être trouvé ci-dessous.
+Un exemple de ce fichier peut être trouvé ci-dessous.
 
 ```javascript
 {
@@ -65,7 +65,7 @@ L'exemple de ce fichier peut être trouvé ci-dessous.
 }
 ```
 
-## Comprendre le metadata.json
+## Comprendre le fichier metadata.json
 
 Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas si difficile de comprendre à quoi sert chaque variable.
 
@@ -82,7 +82,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>auteur</b>
       </td>
-      <td style="text-align:left">Doit contenir un objet avec le nom <code></code> et <code>id</code> du développeur de présence. Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Objet</code>
       </td>
@@ -93,7 +93,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><b>contributeurs</b>
       </td>
       <td style="text-align:left">Doit contenir un objet avec <code>nom</code> et <code>id</code> du contributeur.
- Le nom est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+ Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code>
       </td>
