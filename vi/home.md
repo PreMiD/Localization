@@ -15,7 +15,7 @@ editor: markdown
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
-# Cùng bắt đầu nào
+# Bắt đầu
 
 Cài đặt PreMiD rất nhanh và dễ. Bạn có thể sử dụng nó trong không lâu.
 
