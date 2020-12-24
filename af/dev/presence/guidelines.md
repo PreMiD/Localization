@@ -2,7 +2,7 @@
 title: Riglyne
 description: Reëls wat alle ontwikkelaars van teenwoordigheid moet volg om hul teenwoordigheid by te voeg.
 published: true
-date: 2020-12-24T22:44:59.731Z
+date: 2020-12-24T22:54:31.786Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Riglyne
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Vir sommige mense kan hierdie streng reëls streng lyk. Die implementering van hierdie reëls sal egter voorkom dat ons en die gebruikers probleme ondervind.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Vir sommige mense kan hierdie streng reëls streng lyk. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Skepping
 
