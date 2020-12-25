@@ -18,7 +18,7 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // clientIdの例
 });
 ```
 
@@ -50,7 +50,7 @@ Returns a `PresenceData` object of what the presence is displaying.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 Always use `true` if you provide timestamps in `PresenceData`.
+2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 `PresenceData`にTimestamp（時間）を提供する場合は、`true`にしてください。
 
 ### `clearActivity()`
 
@@ -328,11 +328,11 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "タイトル",
+  state: "説明",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "カーソルを合わせましたね。で、何？",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -344,7 +344,7 @@ const presenceData: PresenceData = {
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  //データが更新された時に特定の動作をする
 });
 ```
 
