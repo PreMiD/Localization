@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Руководство
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Для некоторых эти строгие правила могут показаться тяжелыми. However, the implementation of these rule sets will keep us and our users from running into issues.
+При публикации презентаций в [наш репозиторий GitHub](https://github.com/PreMiD/Presences), мы требуем, чтобы вы следовали набору правил. Для некоторых эти строгие правила могут показаться тяжелыми. Однако реализация этих наборов правил убережет нас и наших пользователей от проблем.
 
 # Создание
 
